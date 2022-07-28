@@ -1,0 +1,643 @@
+[    1630228] : [  555356744] 🌟 Swim For Admin - 569957ba-9a3d-4bb3-8571-c935cd4f7e74
+2022-07-24T22:57:10Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-07-24T22:57:10Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-07-24T22:57:10Z: PLAYER ADDED   [ 3566546117] ArmyxCortez
+2022-07-24T22:57:10Z: PLAYER ADDED   [ 1171921743] Vaz231982
+2022-07-24T22:57:10Z: PLAYER ADDED   [ 2354955253] trainboy323x7
+2022-07-24T22:57:10Z: PLAYER ADDED   [ 1981609708] OofingStarLol4Alt
+2022-07-24T22:57:10Z: PLAYER ADDED   [ 3169730056] viktor2015renkov
+2022-07-24T22:57:11Z: PLAYER ADDED   [ 2517437065] Z_ylbrad2
+2022-07-24T22:57:11Z: PLAYER ADDED   [ 2893924233] teslabomb123124
+2022-07-24T22:57:17Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (  -19.2,    23.6,   -64.3)
+  ;uncontrolled
+2022-07-24T22:57:22Z: PLAYER CHATTED [ 2517437065] Z_ylbrad2            (  -75.7,    23.2,   -81.2)
+  ;gear me scroll
+2022-07-24T22:57:23Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (  -19.2,    23.6,   -64.3)
+  ;uncontrol
+2022-07-24T22:57:27Z: PLAYER CHATTED [ 1981609708] OofingStarLol4Alt    ( -102.5,    23.0,   -91.3)
+  uncontrol vaz :uncontrol train
+2022-07-24T22:57:27Z: PLAYER CHATTED [ 2517437065] Z_ylbrad2            (  -86.4,    23.0,  -108.4)
+  ;uncontrol
+2022-07-24T22:57:28Z: PLAYER CHATTED [ 1981609708] OofingStarLol4Alt    ( -102.5,    23.0,   -91.3)
+  uncontrol
+2022-07-24T22:57:30Z: PLAYER CHATTED [ 1981609708] OofingStarLol4Alt    ( -102.5,    23.0,   -91.3)
+  oof vaz
+2022-07-24T22:57:32Z: PLAYER CHATTED [ 1981609708] OofingStarLol4Alt   
+  re
+2022-07-24T22:57:32Z: PLAYER CHATTED [ 2517437065] Z_ylbrad2            (  -86.4,    23.0,  -108.4)
+  uncontrol
+2022-07-24T22:57:32Z: CHRCTER ADDED  [ 1981609708] OofingStarLol4Alt    ( -102.3,    23.0,   -91.7)
+2022-07-24T22:57:35Z: PLAYER CHATTED [ 1981609708] OofingStarLol4Alt    ( -102.3,    23.0,   -91.7)
+  UNCONTROL
+2022-07-24T22:57:35Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (  -19.2,    23.6,   -64.3)
+  STOP IT OR ELSE
+2022-07-24T22:57:35Z: PLAYER CHATTED [ 2893924233] teslabomb123124      (  -19.5,    23.5,   -69.0)
+  ##########
+2022-07-24T22:57:36Z: CHRCTER ADDED  [ 1171921743] Vaz231982            (   -8.2,    23.0,    -2.2)
+2022-07-24T22:57:36Z: PLAYER CHATTED [ 1981609708] OofingStarLol4Alt    ( -102.3,    23.0,   -91.7)
+  BRO
+2022-07-24T22:57:36Z: PLAYER CHATTED [ 1981609708] OofingStarLol4Alt   
+  RE
+2022-07-24T22:57:36Z: CHRCTER ADDED  [ 1981609708] OofingStarLol4Alt    ( -102.3,    23.0,   -91.7)
+2022-07-24T22:57:37Z: PLAYER CHATTED [ 3169730056] viktor2015renkov     (  -33.5,     9.1,   -23.9)
+  uncontrol
+2022-07-24T22:57:39Z: PLAYER CHATTED [ 2517437065] Z_ylbrad2            (  -87.3,    23.0,  -109.5)
+  re
+2022-07-24T22:57:39Z: CHRCTER ADDED  [ 2517437065] Z_ylbrad2            (  -87.3,    23.0,  -109.5)
+2022-07-24T22:57:43Z: PLAYER CHATTED [ 2517437065] Z_ylbrad2            (  -87.3,    23.0,  -109.5)
+  uncontrol vaz
+2022-07-24T22:57:44Z: PLAYER CHATTED [ 1981609708] OofingStarLol4Alt    ( -102.3,    23.0,   -91.7)
+  uncontrol vaz :uncontrol train
+2022-07-24T22:57:45Z: PLAYER CHATTED [ 1171921743] Vaz231982            (  -23.9,    23.3,   -70.5)
+  lala
+2022-07-24T22:57:46Z: CHRCTER ADDED  [ 2517437065] Z_ylbrad2            (  -87.3,    23.0,  -109.5)
+2022-07-24T22:57:46Z: PLAYER CHATTED [ 2517437065] Z_ylbrad2            (  -87.3,    23.0,  -109.5)
+  re me
+2022-07-24T22:57:46Z: PLAYER CHATTED [ 1981609708] OofingStarLol4Alt    ( -102.3,    23.0,   -91.7)
+  UNCONTROL ARMY
+2022-07-24T22:57:48Z: PLAYER CHATTED [ 1981609708] OofingStarLol4Alt    ( -102.3,    23.0,   -91.7)
+  OOF VAZ
+2022-07-24T22:57:49Z: PLAYER CHATTED [ 2517437065] Z_ylbrad2            (  -87.3,    23.0,  -109.5)
+  control me
+2022-07-24T22:57:50Z: PLAYER CHATTED [ 1981609708] OofingStarLol4Alt    ( -102.3,    23.0,   -91.7)
+  YOU BROKE ME
+2022-07-24T22:57:50Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (  -19.2,    23.6,   -64.3)
+  Please 😭😭😭😭😭😭
+2022-07-24T22:57:53Z: PLAYER CHATTED [ 2517437065] Z_ylbrad2            (  -87.3,    23.0,  -109.5)
+  control z
+2022-07-24T22:57:53Z: CHRCTER ADDED  [ 1171921743] Vaz231982            (  -22.6,    23.0,    -2.2)
+2022-07-24T22:57:53Z: PLAYER CHATTED [ 2354955253] trainboy323x7        (    6.4,    23.0,    -2.2)
+  re
+2022-07-24T22:57:54Z: CHRCTER ADDED  [ 2354955253] trainboy323x7        (    6.4,    23.0,    -2.2)
+2022-07-24T22:57:54Z: PLAYER CHATTED [ 2893924233] teslabomb123124      (  -19.5,    23.5,   -69.0)
+  #########
+2022-07-24T22:57:54Z: PLAYER CHATTED [ 1981609708] OofingStarLol4Alt    ( -102.3,    23.0,   -91.7)
+  poo VAZ
+2022-07-24T22:57:55Z: PLAYER CHATTED [ 1171921743] Vaz231982            (  -22.6,    23.0,    -2.2)
+  what?
+2022-07-24T22:57:57Z: PLAYER CHATTED [ 3169730056] viktor2015renkov     (  -33.5,     9.1,   -23.9)
+  re
+2022-07-24T22:57:57Z: CHRCTER ADDED  [ 3169730056] viktor2015renkov     (  -33.4,     8.7,   -24.4)
+2022-07-24T22:57:57Z: PLAYER CHATTED [ 1171921743] Vaz231982            (  -22.6,    23.0,    -2.2)
+  Oops
+2022-07-24T22:57:57Z: PLAYER CHATTED [ 2354955253] trainboy323x7        (    6.4,    23.0,    -2.2)
+  re
+2022-07-24T22:57:58Z: CHRCTER ADDED  [ 2354955253] trainboy323x7        (    6.4,    23.0,    -2.2)
+2022-07-24T22:57:58Z: PLAYER CHATTED [ 1171921743] Vaz231982            (  -22.6,    23.0,    -2.2)
+  sorry
+2022-07-24T22:57:59Z: PLAYER CHATTED [ 2517437065] Z_ylbrad2            (  -87.3,    23.0,  -109.5)
+  re z
+2022-07-24T22:57:59Z: CHRCTER ADDED  [ 2517437065] Z_ylbrad2            (  -87.3,    23.0,  -109.5)
+2022-07-24T22:58:00Z: PLAYER CHATTED [ 1981609708] OofingStarLol4Alt    ( -102.3,    23.0,   -91.7)
+  poo VAZ
+2022-07-24T22:58:02Z: PLAYER CHATTED [ 1981609708] OofingStarLol4Alt    ( -102.3,    23.0,   -91.7)
+  poo VAZ
+2022-07-24T22:58:02Z: PLAYER CHATTED [ 1171921743] Vaz231982            (  -22.6,    23.0,    -2.2)
+  uncontrol all
+2022-07-24T22:58:02Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (  -19.2,    23.6,   -64.3)
+  WTH I HATE EVERYONE 
+2022-07-24T22:58:02Z: PLAYER CHATTED [ 2354955253] trainboy323x7        (    6.4,    23.0,    -2.2)
+  re
+2022-07-24T22:58:03Z: CHRCTER ADDED  [ 2354955253] trainboy323x7        (    6.4,    23.0,    -2.2)
+2022-07-24T22:58:04Z: PLAYER CHATTED [ 2517437065] Z_ylbrad2            (  -87.3,    23.0,  -109.5)
+  bro
+2022-07-24T22:58:05Z: PLAYER CHATTED [ 1171921743] Vaz231982            (  -22.6,    23.0,    -2.2)
+  jeez stop
+2022-07-24T22:58:05Z: CHRCTER ADDED  [ 1171921743] Vaz231982            (  -22.6,    23.0,    -2.2)
+2022-07-24T22:58:06Z: PLAYER CHATTED [ 2517437065] Z_ylbrad2            (  -87.3,    23.0,  -109.5)
+  im calling mod
+2022-07-24T22:58:06Z: CHRCTER ADDED  [ 1171921743] Vaz231982            (  -22.6,    23.0,    -2.2)
+2022-07-24T22:58:07Z: CHRCTER ADDED  [ 1171921743] Vaz231982            (  -37.0,    23.0,    -2.2)
+2022-07-24T22:58:07Z: CHRCTER ADDED  [ 1171921743] Vaz231982            (    6.4,    23.0,    -2.2)
+2022-07-24T22:58:08Z: CHRCTER ADDED  [ 1171921743] Vaz231982            (    6.4,    23.0,    -2.2)
+2022-07-24T22:58:09Z: CHRCTER ADDED  [ 1171921743] Vaz231982            (   -8.2,    23.0,    -2.2)
+2022-07-24T22:58:09Z: PLAYER CHATTED [ 1171921743] Vaz231982            (   -8.2,    23.0,    -2.2)
+  jeez dude stop
+2022-07-24T22:58:09Z: CHRCTER ADDED  [ 1171921743] Vaz231982            (   -8.2,    23.0,    -2.2)
+2022-07-24T22:58:10Z: CHRCTER ADDED  [ 1171921743] Vaz231982            (    6.4,    23.0,    -2.2)
+2022-07-24T22:58:12Z: PLAYER CHATTED [ 1171921743] Vaz231982           
+  i am sorry
+2022-07-24T22:58:12Z: CHRCTER ADDED  [ 1171921743] Vaz231982            (   -8.2,    23.0,    -2.2)
+2022-07-24T22:58:12Z: CHRCTER ADDED  [ 1171921743] Vaz231982            (  -22.6,    23.0,    -2.2)
+2022-07-24T22:58:13Z: CHRCTER ADDED  [ 1171921743] Vaz231982            (    6.4,    23.0,    -2.2)
+2022-07-24T22:58:13Z: CHRCTER ADDED  [ 1171921743] Vaz231982            (  -37.0,    23.0,    -2.2)
+2022-07-24T22:58:14Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (  -19.2,    23.6,   -64.3)
+  B’TT HEAD 
+2022-07-24T22:58:14Z: PLAYER CHATTED [ 2354955253] trainboy323x7        (    6.4,    23.0,    -2.2)
+  me too bro
+2022-07-24T22:58:17Z: PLAYER CHATTED [    1630228] VisualPlugin         (   14.8,    23.7,  -179.9)
+  :re me
+2022-07-24T22:58:18Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   14.8,    23.6,  -179.9)
+2022-07-24T22:58:18Z: PLAYER CHATTED [ 1171921743] Vaz231982            (  -37.0,    23.1,    -2.2)
+  i thought everyone would be happy
+2022-07-24T22:58:19Z: PLAYER CHATTED [ 1171921743] Vaz231982            (  -37.0,    23.1,    -2.2)
+  :(
+2022-07-24T22:58:20Z: PLAYER CHATTED [ 1981609708] OofingStarLol4Alt    ( -102.3,    23.0,   -91.7)
+  how can i stop after getting broken
+2022-07-24T22:58:22Z: PLAYER CHATTED [ 2517437065] Z_ylbrad2            (  -87.3,    23.0,  -109.5)
+  NO
+2022-07-24T22:58:23Z: PLAYER CHATTED [ 1171921743] Vaz231982            (  -37.0,    23.1,    -2.2)
+  its all my fault
+2022-07-24T22:58:23Z: PLAYER REMOVED [ 2893924233] teslabomb123124
+2022-07-24T22:58:24Z: PLAYER ADDED   [ 2893924233] teslabomb123124
+2022-07-24T22:58:25Z: PLAYER CHATTED [ 2517437065] Z_ylbrad2            (  -87.3,    23.0,  -109.5)
+  NOBODY LIKE U
+2022-07-24T22:58:26Z: PLAYER CHATTED [ 1171921743] Vaz231982            (  -37.4,    23.1,    -1.7)
+  # ###### ### ## ####
+2022-07-24T22:58:26Z: PLAYER CHATTED [ 2517437065] Z_ylbrad2            (  -87.3,    23.0,  -109.5)
+  STUPID
+2022-07-24T22:58:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (   14.8,    23.7,  -179.9)
+  :re me
+2022-07-24T22:58:28Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   14.8,    23.6,  -179.9)
+2022-07-24T22:58:31Z: PLAYER CHATTED [ 1171921743] Vaz231982            (  -37.4,    23.1,    -1.7)
+  im worst person ever
+2022-07-24T22:58:31Z: PLAYER CHATTED [ 3169730056] viktor2015renkov     (  -33.4,     8.7,   -24.4)
+  PLS STOP MY TIME IS 2:00 PM
+2022-07-24T22:58:33Z: PLAYER CHATTED [ 2517437065] Z_ylbrad2            (  -87.3,    23.0,  -109.5)
+  YOU CONTROLLED ME AND BROKE ME
+2022-07-24T22:58:35Z: PLAYER CHATTED [ 1171921743] Vaz231982            (  -40.5,    23.1,    -4.3)
+  ############
+2022-07-24T22:58:36Z: PLAYER CHATTED [ 2354955253] trainboy323x7        (    6.4,    23.0,    -2.2)
+  re
+2022-07-24T22:58:37Z: CHRCTER ADDED  [ 2354955253] trainboy323x7        (    6.4,    23.0,    -2.2)
+2022-07-24T22:58:37Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (  -19.2,    23.6,   -64.3)
+  MOTHER
+2022-07-24T22:58:37Z: PLAYER CHATTED [ 1981609708] OofingStarLol4Alt    ( -102.3,    23.0,   -91.7)
+  im gonna rejoin
+2022-07-24T22:58:38Z: PLAYER CHATTED [ 2517437065] Z_ylbrad2            (  -87.3,    23.0,  -109.5)
+  YOU STUPID
+2022-07-24T22:58:39Z: PLAYER CHATTED [ 2517437065] Z_ylbrad2            (  -87.3,    23.0,  -109.5)
+  UGLY
+2022-07-24T22:58:40Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (  -19.2,    23.6,   -64.3)
+  ######
+2022-07-24T22:58:41Z: PLAYER CHATTED [ 1171921743] Vaz231982            (  -40.5,    23.1,    -4.3)
+  re all :uncontrol all
+2022-07-24T22:58:41Z: CHRCTER ADDED  [ 3566546117] ArmyxCortez          (  -19.2,    23.5,   -64.2)
+2022-07-24T22:58:42Z: CHRCTER ADDED  [ 2517437065] Z_ylbrad2            (  -87.3,    23.0,  -109.5)
+2022-07-24T22:58:42Z: PLAYER CHATTED [ 2354955253] trainboy323x7        (    6.4,    23.0,    -2.2)
+  #########
+2022-07-24T22:58:43Z: PLAYER CHATTED [ 2517437065] Z_ylbrad2            (  -87.3,    23.0,  -109.5)
+  re
+2022-07-24T22:58:43Z: CHRCTER ADDED  [ 2893924233] teslabomb123124      (  -18.9,    23.2,   -82.4)
+2022-07-24T22:58:44Z: CHRCTER ADDED  [ 2517437065] Z_ylbrad2            (  -87.3,    23.0,  -109.5)
+2022-07-24T22:58:44Z: CHRCTER ADDED  [ 1171921743] Vaz231982            (  -40.5,    22.8,    -4.3)
+2022-07-24T22:58:44Z: PLAYER CHATTED [ 1171921743] Vaz231982            (  -40.5,    22.8,    -4.3)
+  RE ALL
+2022-07-24T22:58:44Z: CHRCTER ADDED  [ 3566546117] ArmyxCortez          (  -19.2,    23.5,   -64.2)
+2022-07-24T22:58:45Z: CHRCTER ADDED  [ 2517437065] Z_ylbrad2            (  -87.3,    23.0,  -109.5)
+2022-07-24T22:58:45Z: CHRCTER ADDED  [ 3169730056] viktor2015renkov     (  -33.4,     8.7,   -24.4)
+2022-07-24T22:58:45Z: CHRCTER ADDED  [ 2893924233] teslabomb123124      (  -22.1,    23.1,   -87.2)
+2022-07-24T22:58:45Z: PLAYER REMOVED [ 1981609708] OofingStarLol4Alt
+2022-07-24T22:58:46Z: PLAYER CHATTED [ 3169730056] viktor2015renkov     (  -33.4,     8.7,   -24.4)
+  r
+2022-07-24T22:58:47Z: PLAYER CHATTED [    1630228] VisualPlugin        
+  :char vaz 1630228
+2022-07-24T22:58:47Z: PLAYER CHATTED [    1630228] VisualPlugin        
+  #################
+2022-07-24T22:58:49Z: PLAYER CHATTED [ 2354955253] trainboy323x7       
+  ddude
+2022-07-24T22:58:50Z: PLAYER CHATTED [ 1171921743] Vaz231982            (  -40.5,    23.7,    -4.2)
+  HOW DO 8 FIX IT?
+2022-07-24T22:58:53Z: CHRCTER ADDED  [ 1171921743] Vaz231982            (  -37.0,    23.0,    -2.2)
+2022-07-24T22:58:53Z: PLAYER CHATTED [ 2517437065] Z_ylbrad2            (  -87.3,    23.0,  -109.5)
+  poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz po
+2022-07-24T22:58:54Z: PLAYER CHATTED [ 2517437065] Z_ylbrad2            (  -87.3,    23.0,  -109.5)
+  poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz po
+2022-07-24T22:58:55Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (  -19.2,    23.5,   -64.2)
+  ;uncontrol
+2022-07-24T22:58:55Z: PLAYER CHATTED [ 2354955253] trainboy323x7       
+  im freaking stuck
+2022-07-24T22:58:56Z: PLAYER CHATTED [ 2517437065] Z_ylbrad2            (  -87.3,    23.0,  -109.5)
+  poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz poop vaz po
+2022-07-24T22:58:58Z: PLAYER CHATTED [ 1171921743] Vaz231982            (  -37.0,    23.1,    -2.2)
+  ######### all
+2022-07-24T22:58:59Z: PLAYER CHATTED [ 2517437065] Z_ylbrad2            (  -87.3,    23.0,  -109.5)
+  poop vaz
+2022-07-24T22:59:01Z: PLAYER CHATTED [ 2517437065] Z_ylbrad2            (  -87.3,    23.0,  -109.5)
+  poop vaz
+2022-07-24T22:59:01Z: PLAYER CHATTED [ 2517437065] Z_ylbrad2            (  -87.3,    23.0,  -109.5)
+  v
+2022-07-24T22:59:02Z: PLAYER CHATTED [ 1171921743] Vaz231982            (  -37.0,    23.1,    -2.2)
+  BRUH IM TRYING
+2022-07-24T22:59:06Z: CHRCTER ADDED  [ 1171921743] Vaz231982            (   -7.8,    23.3,    -2.1)
+2022-07-24T22:59:06Z: PLAYER CHATTED [ 1171921743] Vaz231982            (   -7.8,    23.1,    -2.1)
+  DUDE
+2022-07-24T22:59:07Z: CHRCTER ADDED  [ 1171921743] Vaz231982            (  -37.0,    23.0,    -2.2)
+2022-07-24T22:59:08Z: PLAYER CHATTED [ 1171921743] Vaz231982            (  -38.8,    24.3,    -2.9)
+  IM TRYING
+2022-07-24T22:59:08Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (  -19.2,    23.5,   -64.2)
+  Ty :3
+2022-07-24T22:59:09Z: PLAYER CHATTED [ 2517437065] Z_ylbrad2            (  -87.3,    23.0,  -109.5)
+  poop vaz
+2022-07-24T22:59:10Z: PLAYER CHATTED [ 2517437065] Z_ylbrad2            (  -87.3,    23.0,  -109.5)
+  poop vaz
+2022-07-24T22:59:11Z: CHRCTER ADDED  [ 1171921743] Vaz231982            (    6.4,    23.0,    -2.2)
+2022-07-24T22:59:11Z: PLAYER CHATTED [ 2517437065] Z_ylbrad2            (  -87.3,    23.0,  -109.5)
+  poop vaz
+2022-07-24T22:59:12Z: CHRCTER ADDED  [ 1171921743] Vaz231982            (   -8.2,    23.0,    -2.2)
+2022-07-24T22:59:12Z: CHRCTER ADDED  [ 1171921743] Vaz231982            (   -8.2,    23.0,    -2.2)
+2022-07-24T22:59:12Z: PLAYER CHATTED [    1630228] VisualPlugin        
+  :reset me
+2022-07-24T22:59:13Z: CHRCTER ADDED  [ 1171921743] Vaz231982            (  -37.0,    23.0,    -2.2)
+2022-07-24T22:59:16Z: CHRCTER ADDED  [ 1171921743] Vaz231982            (  -37.0,    23.0,    -2.2)
+2022-07-24T22:59:17Z: PLAYER CHATTED [ 2354955253] trainboy323x7       
+  ima send a report again
+2022-07-24T22:59:18Z: CHRCTER ADDED  [ 1171921743] Vaz231982            (  -22.6,    23.0,    -2.2)
+2022-07-24T22:59:18Z: CHRCTER ADDED  [ 1171921743] Vaz231982            (   -8.2,    23.0,    -2.2)
+2022-07-24T22:59:18Z: CHRCTER ADDED  [ 1171921743] Vaz231982            (    6.4,    23.0,    -2.2)
+2022-07-24T22:59:20Z: CHRCTER ADDED  [ 1171921743] Vaz231982            (   -8.2,    23.0,    -2.2)
+2022-07-24T22:59:22Z: CHRCTER ADDED  [ 1171921743] Vaz231982            (  -22.6,    23.0,    -2.2)
+2022-07-24T22:59:22Z: PLAYER REMOVED [ 2517437065] Z_ylbrad2
+2022-07-24T22:59:22Z: PLAYER CHATTED [    1630228] VisualPlugin        
+  :re me
+2022-07-24T22:59:23Z: CHRCTER ADDED  [ 1171921743] Vaz231982            (   -8.2,    23.0,    -2.2)
+2022-07-24T22:59:23Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   14.8,    23.6,  -179.9)
+2022-07-24T22:59:23Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (  -19.2,    23.5,   -64.2)
+  Wh me :<
+2022-07-24T22:59:23Z: CHRCTER ADDED  [ 1171921743] Vaz231982            (   -8.2,    23.0,    -2.2)
+2022-07-24T22:59:27Z: PLAYER CHATTED [ 1171921743] Vaz231982            (   -8.2,    23.1,    -2.2)
+  IDK HOW FIX
+2022-07-24T22:59:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (   14.8,    23.8,  -179.9)
+  :uncontrol
+2022-07-24T22:59:30Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (  -19.2,    23.5,   -64.2)
+  I am only 8
+2022-07-24T22:59:30Z: PLAYER CHATTED [ 1171921743] Vaz231982            (   -8.2,    23.1,    -2.2)
+  UNCONTROL A
+2022-07-24T22:59:36Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (  -19.2,    23.5,   -64.2)
+  Guys please I am only 8
+2022-07-24T22:59:36Z: PLAYER CHATTED [ 1171921743] Vaz231982            (   -8.2,    23.1,    -2.2)
+  BRUH
+2022-07-24T22:59:37Z: PLAYER REMOVED [ 1171921743] Vaz231982
+2022-07-24T22:59:37Z: CHRCTER ADDED  [ 2354955253] trainboy323x7        (    6.4,    23.0,    -2.2)
+2022-07-24T22:59:54Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (   -4.0,    23.6,   -68.7)
+  😭😭😭😭😭😭😭😭 I am just a kid
+2022-07-24T23:00:00Z: PLAYER ADDED   [ 1171921743] Vaz231982
+2022-07-24T23:00:01Z: PLAYER CHATTED [ 3169730056] viktor2015renkov     (  -39.1,    23.6,   -66.6)
+  WTH WHERE IS MY LEGS
+2022-07-24T23:00:01Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (   -4.0,    23.6,   -68.7)
+  And you guys are bullying me
+2022-07-24T23:00:13Z: PLAYER CHATTED [ 1171921743] Vaz231982            (  -37.0,    23.0,    -2.2)
+   i s it okay now!
+2022-07-24T23:00:14Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (  -33.7,    23.2,   -73.5)
+  Ty vas :3
+2022-07-24T23:00:16Z: PLAYER CHATTED [ 1171921743] Vaz231982            (  -37.0,    23.0,    -2.2)
+  i tried
+2022-07-24T23:00:18Z: PLAYER CHATTED [ 1171921743] Vaz231982            (  -37.0,    23.0,    -2.2)
+  my ####
+2022-07-24T23:00:19Z: PLAYER CHATTED [ 2893924233] teslabomb123124      (    4.4,    27.9,  -121.5)
+  #################
+2022-07-24T23:00:21Z: PLAYER CHATTED [ 1171921743] Vaz231982            (  -37.0,    23.0,    -2.2)
+  i thought.
+2022-07-24T23:00:23Z: PLAYER CHATTED [ 2354955253] trainboy323x7        (  -19.5,    23.0,    -4.9)
+  im free!!!
+2022-07-24T23:00:23Z: PLAYER CHATTED [ 1171921743] Vaz231982            (  -37.0,    23.0,    -2.2)
+  it would be
+2022-07-24T23:00:24Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.8,    23.7,  -144.6)
+  :rthro me
+2022-07-24T23:00:25Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (  -30.8,    23.6,   -66.2)
+  For letting me go !3
+2022-07-24T23:00:28Z: PLAYER CHATTED [ 1171921743] Vaz231982            (  -37.0,    23.0,    -2.2)
+  yeah i tried.
+2022-07-24T23:00:31Z: PLAYER ADDED   [ 1981609708] OofingStarLol4Alt
+2022-07-24T23:00:33Z: PLAYER CHATTED [ 1171921743] Vaz231982            (  -37.0,    23.0,    -2.2)
+  idk how.
+2022-07-24T23:00:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (   41.8,    23.7,  -125.0)
+  :height me 1.2
+2022-07-24T23:00:35Z: PLAYER CHATTED [ 2354955253] trainboy323x7        (  -19.4,    20.6,    -7.7)
+   wd 
+2022-07-24T23:00:36Z: PLAYER CHATTED [ 1171921743] Vaz231982            (  -29.5,    23.0,    -4.6)
+  srry
+2022-07-24T23:00:37Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (  -23.3,    23.6,   -69.7)
+  !:3
+2022-07-24T23:00:39Z: PLAYER CHATTED [ 2354955253] trainboy323x7        (  -21.4,    19.1,   -20.9)
+  wdym
+2022-07-24T23:00:44Z: PLAYER CHATTED [ 1171921743] Vaz231982            (  -29.5,    23.0,    -4.6)
+  are you still mad at me?
+2022-07-24T23:00:52Z: PLAYER CHATTED [ 2354955253] trainboy323x7        ( -136.5,    23.0,   -94.2)
+  yes
+2022-07-24T23:00:56Z: PLAYER CHATTED [ 2354955253] trainboy323x7        ( -136.5,    23.0,   -94.2)
+  control vaz
+2022-07-24T23:01:00Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (  -30.5,    23.3,   -85.9)
+  I can teleport :3
+2022-07-24T23:01:02Z: PLAYER REMOVED [ 3169730056] viktor2015renkov
+2022-07-24T23:01:04Z: PLAYER CHATTED [ 1171921743] Vaz231982            (  -23.0,    22.4,    -5.4)
+  uncontrol
+2022-07-24T23:01:07Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (  -24.4,    23.3,   -78.0)
+  Ty trainboy :3
+2022-07-24T23:01:09Z: CHRCTER ADDED  [ 2354955253] trainboy323x7        (  -22.6,    26.0,    -2.2)
+2022-07-24T23:01:15Z: PLAYER CHATTED [ 2354955253] trainboy323x7        (  -22.6,    23.0,    -1.8)
+  what
+2022-07-24T23:01:20Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (  -24.4,    23.3,   -78.0)
+  M YAYA BYE DUMMY
+2022-07-24T23:01:23Z: PLAYER CHATTED [ 2354955253] trainboy323x7        (  -26.5,    23.0,    -1.9)
+  oof army
+2022-07-24T23:01:28Z: CHRCTER ADDED  [ 3566546117] ArmyxCortez          (    6.4,    23.1,    -2.2)
+2022-07-24T23:01:30Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (    6.4,    23.1,    -2.2)
+  :(
+2022-07-24T23:01:40Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (    6.4,    23.1,    -2.2)
+  I am only 8 😭😭😭😭😭😭
+2022-07-24T23:01:44Z: PLAYER CHATTED [ 2354955253] trainboy323x7        (  -26.5,    23.0,    -1.9)
+  oh
+2022-07-24T23:01:46Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (    6.4,    23.1,    -2.2)
+  ;sit
+2022-07-24T23:01:50Z: PLAYER CHATTED [ 2354955253] trainboy323x7        (   -2.2,    23.0,    -2.5)
+  nine
+2022-07-24T23:02:05Z: PLAYER CHATTED [ 2893924233] teslabomb123124      (    3.2,    27.9,  -137.5)
+  gear me #########
+2022-07-24T23:02:17Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (    3.7,    24.0,    -3.6)
+  M bye :(
+2022-07-24T23:02:23Z: PLAYER CHATTED [ 1171921743] Vaz231982            (  -20.5,    23.2,   -61.9)
+  i walk to burger king then i walk back home from burger king
+2022-07-24T23:02:28Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (    9.9,    23.1,    -1.8)
+  M ppl are mean on this server
+2022-07-24T23:02:32Z: PLAYER CHATTED [ 1171921743] Vaz231982            (  -20.5,    23.2,   -61.9)
+  srry :(
+2022-07-24T23:02:37Z: PLAYER CHATTED [ 1171921743] Vaz231982            (  -20.5,    23.2,   -61.9)
+  i was evil anyway
+2022-07-24T23:02:39Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (    9.9,    23.1,    -1.8)
+  M I tried but I cannot handle it
+2022-07-24T23:02:46Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (    9.9,    23.1,    -1.8)
+  M please let me go
+2022-07-24T23:02:48Z: PLAYER CHATTED [ 2354955253] trainboy323x7        (  -18.1,    23.9,   -58.3)
+  to vaz
+2022-07-24T23:02:53Z: PLAYER CHATTED [ 2354955253] trainboy323x7        (  -18.2,    21.4,   -58.4)
+  hey vaz
+2022-07-24T23:02:56Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (    9.9,    23.1,    -1.8)
+  M :((n
+2022-07-24T23:02:56Z: PLAYER CHATTED [ 1171921743] Vaz231982            (  -20.5,    23.2,   -61.9)
+  im going to #### ## ####
+2022-07-24T23:03:00Z: PLAYER CHATTED [ 1171921743] Vaz231982            (  -20.5,    23.2,   -61.9)
+  i did bad stuff
+2022-07-24T23:03:05Z: PLAYER CHATTED [ 2354955253] trainboy323x7        (  -18.2,    21.4,   -58.4)
+  back to our modifyed game of chess
+2022-07-24T23:03:05Z: PLAYER CHATTED [ 1171921743] Vaz231982            (  -20.5,    23.2,   -61.9)
+  and i ####### ## ###
+2022-07-24T23:03:11Z: PLAYER CHATTED [ 1171921743] Vaz231982            (  -20.5,    23.3,   -62.1)
+  im nothing like other
+2022-07-24T23:03:17Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (    9.0,    23.1,    -1.7)
+  M bye :(
+2022-07-24T23:03:25Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (    9.0,    23.1,    -1.7)
+  M or….
+2022-07-24T23:03:25Z: PLAYER CHATTED [ 1171921743] Vaz231982            (    0.1,    20.7,   -81.9)
+  im going to hell where the 😈 are
+2022-07-24T23:03:28Z: CHRCTER ADDED  [ 1171921743] Vaz231982            (   -8.2,    23.0,    -2.2)
+2022-07-24T23:03:31Z: PLAYER CHATTED [ 2893924233] teslabomb123124      (  -68.9,    23.2,   -67.3)
+  #################
+2022-07-24T23:03:31Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (    9.0,    23.1,    -1.7)
+  M maybe not :)
+2022-07-24T23:03:40Z: PLAYER CHATTED [ 2354955253] trainboy323x7        ( -200.2,    23.0,  -107.8)
+  bring oof
+2022-07-24T23:03:42Z: PLAYER CHATTED [ 2354955253] trainboy323x7        ( -200.2,    23.0,  -107.8)
+  oof
+2022-07-24T23:03:43Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (    9.0,    23.1,    -1.7)
+  M sorry about that everyone
+2022-07-24T23:03:48Z: CHRCTER ADDED  [ 2354955253] trainboy323x7        (    6.4,    23.0,    -2.2)
+2022-07-24T23:03:49Z: PLAYER CHATTED [ 2354955253] trainboy323x7        ( -206.2,    23.5,  -106.0)
+  to oof
+2022-07-24T23:03:54Z: PLAYER CHATTED [ 2354955253] trainboy323x7        ( -206.2,    23.6,  -106.0)
+  hey oofing
+2022-07-24T23:03:55Z: PLAYER CHATTED [ 1981609708] OofingStarLol4Alt    ( -210.1,    23.5,  -105.2)
+  no
+2022-07-24T23:03:57Z: PLAYER CHATTED [ 1981609708] OofingStarLol4Alt    ( -202.3,    23.5,  -106.8)
+  ap
+2022-07-24T23:03:57Z: PLAYER CHATTED [ 1981609708] OofingStarLol4Alt    ( -202.2,    23.0,  -106.8)
+  pa
+2022-07-24T23:03:57Z: PLAYER CHATTED [ 1981609708] OofingStarLol4Alt    ( -202.2,    23.0,  -106.8)
+  p
+2022-07-24T23:03:59Z: PLAYER CHATTED [ 1981609708] OofingStarLol4Alt    ( -192.2,    23.0,  -104.3)
+  ap
+2022-07-24T23:04:01Z: PLAYER CHATTED [ 2354955253] trainboy323x7        ( -206.2,    23.6,  -106.0)
+  can u play
+2022-07-24T23:04:02Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (    9.0,    23.1,    -1.7)
+  M let’s be friends, deal?
+2022-07-24T23:04:18Z: PLAYER CHATTED [ 2354955253] trainboy323x7        ( -185.3,    23.0,  -104.3)
+  bring vaz
+2022-07-24T23:04:22Z: PLAYER CHATTED [ 2354955253] trainboy323x7        ( -185.3,    23.0,  -104.3)
+  dont leave
+2022-07-24T23:04:25Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (   30.2,    23.2,  -110.7)
+  M we can be friend’s right!
+2022-07-24T23:04:38Z: PLAYER CHATTED [ 2354955253] trainboy323x7        ( -187.8,    23.0,  -105.1)
+  m vaz
+2022-07-24T23:04:42Z: PLAYER CHATTED [ 2893924233] teslabomb123124      (  -73.1,    23.2,   -72.4)
+  ################
+2022-07-24T23:04:42Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (  -48.5,    23.2,   -76.3)
+  M sorry about that all
+2022-07-24T23:04:54Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (  -48.0,    20.5,   -71.8)
+  M let’s be friends :3
+2022-07-24T23:04:55Z: PLAYER CHATTED [ 2354955253] trainboy323x7        ( -187.8,    23.0,  -105.1)
+  m your the best freind i see again in this game...
+2022-07-24T23:04:57Z: CHRCTER ADDED  [ 3566546117] ArmyxCortez          (    6.4,    23.1,    -2.2)
+2022-07-24T23:04:58Z: PLAYER CHATTED [ 2893924233] teslabomb123124      (  -69.4,    23.0,   -98.2)
+  LOL
+2022-07-24T23:05:05Z: PLAYER CHATTED [ 2354955253] trainboy323x7        ( -187.8,    23.0,  -105.1)
+  again and again....
+2022-07-24T23:05:15Z: PLAYER CHATTED [ 2354955253] trainboy323x7        ( -182.1,    23.0,  -105.2)
+  m again and again....
+2022-07-24T23:05:18Z: CHRCTER ADDED  [ 3566546117] ArmyxCortez          (   -8.2,    23.1,    -2.2)
+2022-07-24T23:05:29Z: CHRCTER ADDED  [ 1171921743] Vaz231982            (  -22.6,    23.0,    -2.2)
+2022-07-24T23:05:31Z: PLAYER CHATTED [ 2354955253] trainboy323x7        ( -182.3,    23.0,  -106.2)
+  m what
+2022-07-24T23:05:37Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (   -8.2,    23.1,    -2.2)
+  Kill Tesla mob
+2022-07-24T23:05:38Z: PLAYER CHATTED [ 2354955253] trainboy323x7        ( -182.3,    23.0,  -106.2)
+  m bring vaz
+2022-07-24T23:05:42Z: PLAYER CHATTED [ 2354955253] trainboy323x7        ( -182.3,    23.0,  -106.2)
+  bring vaz
+2022-07-24T23:05:42Z: CHRCTER ADDED  [ 2893924233] teslabomb123124      (   -8.2,    25.2,    -2.2)
+2022-07-24T23:05:48Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (   -8.1,    23.0,    -7.2)
+  ;to vas
+2022-07-24T23:05:53Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          ( -184.1,    23.4,  -104.8)
+  ;to vaz
+2022-07-24T23:05:54Z: PLAYER CHATTED [ 2354955253] trainboy323x7        ( -203.7,    23.0,  -108.2)
+  bring vaz
+2022-07-24T23:05:59Z: PLAYER CHATTED [ 2354955253] trainboy323x7        ( -203.7,    23.0,  -108.2)
+  ap vaz
+2022-07-24T23:06:02Z: PLAYER CHATTED [ 2354955253] trainboy323x7        ( -203.7,    23.0,  -108.2)
+  ap vaz
+2022-07-24T23:06:05Z: PLAYER CHATTED [ 2893924233] teslabomb123124      (   -8.2,    23.0,    -2.2)
+  oof army
+2022-07-24T23:06:08Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          ( -207.4,    21.2,  -114.0)
+  :(
+2022-07-24T23:06:08Z: PLAYER CHATTED [ 1171921743] Vaz231982            ( -222.9,    23.6,  -111.6)
+  😏
+2022-07-24T23:06:10Z: CHRCTER ADDED  [ 3566546117] ArmyxCortez          (  -22.6,    23.1,    -2.2)
+2022-07-24T23:06:13Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (  -22.6,    23.1,    -2.2)
+  I want friends :(
+2022-07-24T23:06:17Z: PLAYER CHATTED [ 2893924233] teslabomb123124      (  -29.7,    22.8,    -5.1)
+  oh ok
+2022-07-24T23:06:20Z: PLAYER CHATTED [ 2354955253] trainboy323x7        ( -202.2,    23.0,  -110.0)
+  m if u beat me in this ches game
+2022-07-24T23:06:40Z: PLAYER CHATTED [ 2893924233] teslabomb123124      (  -18.2,    18.4,   -21.2)
+  ################
+2022-07-24T23:06:42Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (  -63.9,    23.3,   -87.6)
+  I think I am the only young one here
+2022-07-24T23:06:48Z: PLAYER CHATTED [ 2354955253] trainboy323x7        ( -202.2,    23.0,  -110.0)
+  army view me
+2022-07-24T23:06:56Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          ( -203.5,    23.2,  -103.7)
+  Ok
+2022-07-24T23:07:10Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          ( -203.5,    23.2,  -103.7)
+  0-0
+2022-07-24T23:07:10Z: CHRCTER ADDED  [ 1171921743] Vaz231982            (  -22.6,    23.0,    -2.2)
+2022-07-24T23:07:12Z: PLAYER CHATTED [ 2354955253] trainboy323x7        ( -202.2,    23.0,  -110.0)
+  re army
+2022-07-24T23:07:12Z: CHRCTER ADDED  [ 3566546117] ArmyxCortez          ( -204.0,    23.1,  -102.9)
+2022-07-24T23:07:19Z: PLAYER CHATTED [ 2354955253] trainboy323x7        ( -202.2,    23.0,  -110.0)
+  army
+2022-07-24T23:07:22Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          ( -204.5,    23.2,  -103.0)
+  M goo goo Gaga
+2022-07-24T23:07:25Z: PLAYER CHATTED [ 1171921743] Vaz231982            ( -227.7,    23.0,  -110.3)
+  M
+2022-07-24T23:07:27Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          ( -203.9,    23.2,  -104.3)
+  “
+2022-07-24T23:07:28Z: PLAYER CHATTED [ 1171921743] Vaz231982            ( -227.7,    23.0,  -110.3)
+  NO BE
+2022-07-24T23:07:28Z: PLAYER CHATTED [ 2354955253] trainboy323x7        ( -203.6,    23.0,  -106.9)
+  m
+2022-07-24T23:07:30Z: PLAYER CHATTED [ 1171921743] Vaz231982            ( -227.8,    23.0,  -110.4)
+  NO BABYS
+2022-07-24T23:07:32Z: PLAYER CHATTED [ 1171921743] Vaz231982            ( -231.2,    20.5,  -112.1)
+  Re
+2022-07-24T23:07:33Z: CHRCTER ADDED  [ 1171921743] Vaz231982            ( -232.0,    20.6,  -112.0)
+2022-07-24T23:07:34Z: PLAYER CHATTED [ 1171921743] Vaz231982            ( -232.0,    20.5,  -112.0)
+  dude stop
+2022-07-24T23:07:38Z: PLAYER CHATTED [ 1981609708] OofingStarLol4Alt    ( -221.8,    23.8,  -108.0)
+  yesnt
+2022-07-24T23:07:39Z: PLAYER CHATTED [ 1171921743] Vaz231982            ( -232.0,    23.0,  -112.0)
+  ungod all
+2022-07-24T23:07:41Z: PLAYER CHATTED [ 1981609708] OofingStarLol4Alt    ( -224.4,    20.5,  -114.2)
+  re
+2022-07-24T23:07:42Z: CHRCTER ADDED  [ 1981609708] OofingStarLol4Alt    ( -228.5,    21.9,  -116.6)
+2022-07-24T23:07:42Z: PLAYER CHATTED [ 1981609708] OofingStarLol4Alt    ( -227.6,    21.6,  -117.3)
+  oof vaz
+2022-07-24T23:07:43Z: PLAYER CHATTED [ 1171921743] Vaz231982            ( -221.4,    21.5,  -111.6)
+  anyway
+2022-07-24T23:07:44Z: PLAYER CHATTED [ 2354955253] trainboy323x7        ( -203.9,    23.0,  -114.0)
+  minimuim ### or roblox is ##
+2022-07-24T23:07:44Z: PLAYER CHATTED [ 1171921743] Vaz231982            ( -221.4,    21.5,  -111.6)
+  re
+2022-07-24T23:07:45Z: CHRCTER ADDED  [ 1171921743] Vaz231982            ( -230.8,    23.8,  -111.7)
+2022-07-24T23:07:47Z: PLAYER CHATTED [ 1981609708] OofingStarLol4Alt    ( -226.9,    23.0,  -118.5)
+  your not one with gear packs
+2022-07-24T23:07:48Z: PLAYER CHATTED [ 1171921743] Vaz231982            ( -228.4,    20.6,  -109.8)
+  DUDE STOP
+2022-07-24T23:07:51Z: PLAYER CHATTED [ 2354955253] trainboy323x7        ( -203.9,    23.0,  -114.0)
+  ### army
+2022-07-24T23:07:52Z: PLAYER CHATTED [ 1171921743] Vaz231982            ( -228.0,    23.0,  -110.0)
+  god
+2022-07-24T23:07:56Z: CHRCTER ADDED  [ 3566546117] ArmyxCortez          (  -37.0,    23.1,    -2.2)
+2022-07-24T23:07:57Z: PLAYER ADDED   [ 1452087789] michjag09
+2022-07-24T23:07:58Z: PLAYER CHATTED [ 2893924233] teslabomb123124      (  -25.4,    23.2,   -86.8)
+  ##################
+2022-07-24T23:07:58Z: PLAYER CHATTED [ 1171921743] Vaz231982            ( -225.4,    23.0,  -110.3)
+  anyway lets start
+2022-07-24T23:08:00Z: PLAYER CHATTED [ 1171921743] Vaz231982            ( -318.8,    23.0,  -111.8)
+  GOD
+2022-07-24T23:08:00Z: PLAYER CHATTED [ 2354955253] trainboy323x7        ( -204.8,    23.0,  -109.5)
+  ff
+2022-07-24T23:08:01Z: PLAYER CHATTED [ 1171921743] Vaz231982            ( -318.8,    23.0,  -111.8)
+  FF
+2022-07-24T23:08:08Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          (  -37.0,    23.1,    -2.2)
+  WHO exploded me :(
+2022-07-24T23:08:12Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          ( -206.6,    23.4,  -110.9)
+  To trainboy 
+2022-07-24T23:08:12Z: PLAYER CHATTED [ 1171921743] Vaz231982            ( -247.3,    23.0,  -112.1)
+  nit me
+2022-07-24T23:08:15Z: CHRCTER ADDED  [ 2893924233] teslabomb123124      (   -8.2,    22.1,    -2.2)
+2022-07-24T23:08:18Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          ( -207.9,    23.7,  -110.8)
+  Ff
+2022-07-24T23:08:18Z: PLAYER CHATTED [ 1171921743] Vaz231982            ( -232.6,    23.0,  -186.1)
+  DUDE STOP
+2022-07-24T23:08:19Z: PLAYER CHATTED [ 2893924233] teslabomb123124      (   -8.2,    23.0,    -2.2)
+  god
+2022-07-24T23:08:23Z: PLAYER CHATTED [ 2354955253] trainboy323x7        ( -204.3,    23.0,  -110.0)
+  yeet!
+2022-07-24T23:08:28Z: PLAYER CHATTED [ 2893924233] teslabomb123124      (   -8.3,    23.1,   -61.3)
+  ##################
+2022-07-24T23:08:32Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          ( -204.0,    23.2,  -115.9)
+  Yet!
+2022-07-24T23:08:33Z: PLAYER CHATTED [ 1981609708] OofingStarLol4Alt    ( -223.3,    23.2,  -109.8)
+  ok
+2022-07-24T23:08:35Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  -37.0,    23.6,    -2.2)
+2022-07-24T23:08:35Z: PLAYER CHATTED [ 1981609708] OofingStarLol4Alt    ( -223.3,    23.2,  -109.8)
+  ima stop
+2022-07-24T23:08:38Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          ( -204.0,    23.2,  -115.9)
+  Yeet!
+2022-07-24T23:08:55Z: PLAYER REMOVED [ 1452087789] michjag09
+2022-07-24T23:08:59Z: PLAYER ADDED   [ 1452087789] michjag09
+2022-07-24T23:09:00Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          ( -212.2,    23.7,  -111.7)
+  Bring vaz
+2022-07-24T23:09:01Z: PLAYER CHATTED [ 2354955253] trainboy323x7        ( -202.7,    23.0,  -108.2)
+  bring vaz
+2022-07-24T23:09:11Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          ( -210.3,    23.7,  -112.6)
+  It’s ok
+2022-07-24T23:09:17Z: PLAYER CHATTED [ 2354955253] trainboy323x7        ( -202.7,    23.0,  -108.2)
+  i plyed your turn vaz
+2022-07-24T23:09:17Z: PLAYER CHATTED [ 1171921743] Vaz231982            ( -222.9,    23.8,  -116.0)
+  get out of the way please.
+2022-07-24T23:09:19Z: PLAYER REMOVED [ 1452087789] michjag09
+2022-07-24T23:09:20Z: PLAYER CHATTED [ 1981609708] OofingStarLol4Alt    ( -223.4,    23.2,  -110.4)
+  no
+2022-07-24T23:09:20Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          ( -215.2,    23.7,  -109.7)
+  GLITCH KING BE NICE TO HIM
+2022-07-24T23:09:20Z: PLAYER CHATTED [ 1171921743] Vaz231982            ( -248.1,    23.0,   -89.2)
+  bring oof
+2022-07-24T23:09:23Z: PLAYER ADDED   [ 1452087789] michjag09
+2022-07-24T23:09:25Z: PLAYER CHATTED [ 1981609708] OofingStarLol4Alt    ( -236.1,    23.0,  -104.3)
+  ap vaz
+2022-07-24T23:09:31Z: PLAYER CHATTED [ 1171921743] Vaz231982            ( -218.7,    23.8,  -109.5)
+  i didnt even finish
+2022-07-24T23:09:34Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -37.1,    23.6,    -2.3)
+  :height me 1.2
+2022-07-24T23:09:36Z: PLAYER CHATTED [ 1171921743] Vaz231982            ( -198.5,    23.0,   -65.7)
+  bring oof
+2022-07-24T23:09:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -37.1,    24.1,    -2.3)
+  :god me
+2022-07-24T23:09:37Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          ( -226.5,    23.2,  -105.3)
+  Kill glitch king
+2022-07-24T23:09:39Z: PLAYER CHATTED [ 1981609708] OofingStarLol4Alt    ( -212.1,    39.6,   -85.6)
+  re
+2022-07-24T23:09:39Z: CHRCTER ADDED  [ 1981609708] OofingStarLol4Alt    ( -187.3,    22.0,   -61.3)
+2022-07-24T23:09:40Z: PLAYER CHATTED [ 1981609708] OofingStarLol4Alt    ( -187.3,    22.0,   -61.3)
+  fling arm
+2022-07-24T23:09:43Z: PLAYER CHATTED [ 2354955253] trainboy323x7        ( -203.4,    23.0,  -107.5)
+  gear me magic carpet
+2022-07-24T23:09:43Z: PLAYER ADDED   [ 2274657592] michjag36
+2022-07-24T23:09:47Z: PLAYER CHATTED [ 1981609708] OofingStarLol4Alt    ( -225.2,    23.0,  -109.5)
+  re
+2022-07-24T23:09:47Z: CHRCTER ADDED  [ 1981609708] OofingStarLol4Alt    ( -225.2,    23.0,  -109.5)
+2022-07-24T23:09:49Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          ( -208.6,    23.0,  -109.9)
+  ;to trainboy 
+2022-07-24T23:09:53Z: PLAYER CHATTED [ 1171921743] Vaz231982            ( -228.2,    21.1,  -159.8)
+  sorry.
+2022-07-24T23:09:56Z: CHRCTER ADDED  [ 1981609708] OofingStarLol4Alt    (  -37.0,    22.1,    -2.2)
+2022-07-24T23:09:58Z: PLAYER CHATTED [ 2354955253] trainboy323x7        ( -205.2,    23.3,  -111.0)
+  jump ar
+2022-07-24T23:09:59Z: PLAYER CHATTED [ 1981609708] OofingStarLol4Alt    (  -37.0,    22.1,    -2.2)
+  sorry for what
+2022-07-24T23:10:00Z: PLAYER CHATTED [ 1981609708] OofingStarLol4Alt    (  -37.0,    22.1,    -2.2)
+  re
+2022-07-24T23:10:00Z: CHRCTER ADDED  [ 1981609708] OofingStarLol4Alt    (  -37.0,    22.1,    -2.2)
+2022-07-24T23:10:04Z: PLAYER CHATTED [ 2354955253] trainboy323x7        ( -205.1,    23.3,  -111.1)
+  ### ar
+2022-07-24T23:10:05Z: PLAYER CHATTED [ 1171921743] Vaz231982            (  -65.6,    21.2,   -95.8)
+  sorry but you didnt listen.
+2022-07-24T23:10:07Z: CHRCTER ADDED  [ 1981609708] OofingStarLol4Alt    (    6.4,    22.1,    -2.2)
+2022-07-24T23:10:08Z: PLAYER CHATTED [ 1171921743] Vaz231982            (  -65.6,    21.2,   -95.8)
+  i need a go.
+2022-07-24T23:10:08Z: PLAYER CHATTED [ 2354955253] trainboy323x7        ( -205.1,    23.3,  -111.1)
+  jump ar
+2022-07-24T23:10:08Z: PLAYER CHATTED [ 1981609708] OofingStarLol4Alt    (    6.4,    22.1,    -2.2)
+  oh
+2022-07-24T23:10:09Z: PLAYER CHATTED [ 1981609708] OofingStarLol4Alt    (    6.4,    22.1,    -2.2)
+  re
+2022-07-24T23:10:10Z: CHRCTER ADDED  [ 1981609708] OofingStarLol4Alt    (    6.4,    22.8,    -2.2)
+2022-07-24T23:10:10Z: PLAYER CHATTED [ 3566546117] ArmyxCortez          ( -204.8,    23.5,  -106.9)
+  Why are we fat :(
+2022-07-24T23:10:12Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-07-24T23:10:12Z: PLAYER REMOVED [ 3566546117] ArmyxCortez
+2022-07-24T23:10:12Z: PLAYER REMOVED [ 2354955253] trainboy323x7
+2022-07-24T23:10:12Z: PLAYER REMOVED [ 2893924233] teslabomb123124
+2022-07-24T23:10:12Z: PLAYER REMOVED [ 1171921743] Vaz231982
+2022-07-24T23:10:12Z: PLAYER REMOVED [ 1981609708] OofingStarLol4Alt
+2022-07-24T23:10:12Z: PLAYER REMOVED [ 1452087789] michjag09
+2022-07-24T23:10:12Z: PLAYER REMOVED [ 2274657592] michjag36

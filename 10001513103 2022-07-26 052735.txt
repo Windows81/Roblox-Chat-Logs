@@ -1,0 +1,351 @@
+[    1630228] : [10001513103] Limited Words [SPIN 2 WIN & Hangout UPDATE!] - d07c0a65-c98d-47c1-b5f3-095d4ab3ea59
+2022-07-26T05:27:35Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-07-26T05:27:35Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-07-26T05:27:35Z: PLAYER ADDED   [ 2032702790] Barbie2015ok
+2022-07-26T05:27:35Z: PLAYER ADDED   [ 3674589647] muzic_541
+2022-07-26T05:27:35Z: PLAYER ADDED   [ 1914514719] princessvaeh2222
+2022-07-26T05:27:35Z: PLAYER ADDED   [ 2870420214] boyboynot4675
+2022-07-26T05:27:35Z: PLAYER ADDED   [ 2581333933] Harrynoob_34
+2022-07-26T05:27:35Z: PLAYER ADDED   [ 3176495569] Aulindaya
+2022-07-26T05:27:35Z: PLAYER ADDED   [ 1603196728] chris910e
+2022-07-26T05:27:35Z: PLAYER ADDED   [ 3281442163] TheRandomJocs
+2022-07-26T05:27:35Z: PLAYER ADDED   [ 3233646235] pinkipanda_456
+2022-07-26T05:27:35Z: PLAYER ADDED   [ 3046568414] Abri_kamado
+2022-07-26T05:27:35Z: PLAYER ADDED   [  138167466] gogagoga12002
+2022-07-26T05:27:35Z: PLAYER ADDED   [ 3699310697] Soyesesj
+2022-07-26T05:27:35Z: PLAYER ADDED   [ 2678197567] Olga01227
+2022-07-26T05:27:35Z: PLAYER ADDED   [ 3336028281] xXalondraXx2811
+2022-07-26T05:27:35Z: PLAYER ADDED   [ 3307378350] wolfgir_original
+2022-07-26T05:27:35Z: PLAYER ADDED   [  989705976] ItsJulian140811
+2022-07-26T05:27:35Z: PLAYER ADDED   [ 2387641770] aisvisbr
+2022-07-26T05:27:35Z: PLAYER ADDED   [   99326580] caitlinkuiper
+2022-07-26T05:27:35Z: PLAYER ADDED   [ 1658246707] vimvon12345
+2022-07-26T05:27:35Z: PLAYER ADDED   [ 2055867918] miaceleste40
+2022-07-26T05:27:35Z: PLAYER ADDED   [ 1593527666] kiut_2020
+2022-07-26T05:27:35Z: PLAYER ADDED   [ 2886402110] jahenrrrr1111
+2022-07-26T05:27:35Z: PLAYER ADDED   [ 2471818148] Theqt_ay
+2022-07-26T05:27:35Z: PLAYER ADDED   [ 3363673931] ezielynxz
+2022-07-26T05:27:35Z: PLAYER ADDED   [ 1659121176] jojogun12345
+2022-07-26T05:27:35Z: PLAYER ADDED   [  397492820] elsaprincesa75
+2022-07-26T05:27:36Z: PLAYER ADDED   [ 2662665137] jessipandapueple
+2022-07-26T05:27:36Z: PLAYER ADDED   [  465129170] estis589
+2022-07-26T05:27:39Z: PLAYER CHATTED [ 2055867918] miaceleste40         (   24.1,     5.9,     5.2)
+  ##############
+2022-07-26T05:27:39Z: PLAYER CHATTED [ 1593527666] kiut_2020            (  152.7,     6.3,  -144.3)
+  Yay
+2022-07-26T05:27:42Z: PLAYER CHATTED [ 1603196728] chris910e            (  146.9,     6.3,  -146.5)
+  can someone give me words?
+2022-07-26T05:27:45Z: PLAYER CHATTED [ 3046568414] Abri_kamado          (  245.1,    39.3,     8.5)
+  Como le hago pa’ gastarme las palabras AKAKAKSJQJAAJAJAA
+2022-07-26T05:27:47Z: PLAYER CHATTED [   99326580] caitlinkuiper        (  149.9,     7.2,  -146.6)
+  :)
+2022-07-26T05:27:49Z: PLAYER CHATTED [ 1593527666] kiut_2020            (  152.5,     6.3,  -144.4)
+  Most of the people speaks spanish
+2022-07-26T05:27:49Z: PLAYER ADDED   [  953997670] xKasil
+2022-07-26T05:27:53Z: PLAYER CHATTED [ 1593527666] kiut_2020            (  152.1,     6.3,  -144.4)
+  Ofc
+2022-07-26T05:27:59Z: CHRCTER ADDED  [ 1914514719] princessvaeh2222     (  228.8,     7.0,  -225.8)
+2022-07-26T05:28:00Z: PLAYER CHATTED [   99326580] caitlinkuiper        (  149.9,     7.2,  -146.6)
+  oh
+2022-07-26T05:28:00Z: PLAYER REMOVED [ 3336028281] xXalondraXx2811
+2022-07-26T05:28:01Z: PLAYER CHATTED [ 1603196728] chris910e            (  145.0,     7.3,  -142.9)
+  thx
+2022-07-26T05:28:05Z: PLAYER CHATTED [   99326580] caitlinkuiper        (  149.5,     7.2,  -146.4)
+  yw
+2022-07-26T05:28:06Z: PLAYER REMOVED [ 1914514719] princessvaeh2222
+2022-07-26T05:28:07Z: PLAYER CHATTED [  953997670] xKasil               (  232.1,     7.3,  -233.4)
+  WHAT
+2022-07-26T05:28:08Z: PLAYER CHATTED [ 1658246707] vimvon12345          (  236.2,     7.3,   -77.6)
+  hola tengo ##
+2022-07-26T05:28:11Z: PLAYER CHATTED [  953997670] xKasil               (  232.1,     7.3,  -233.4)
+  SOMEONE DONATE ME WORDS
+2022-07-26T05:28:12Z: PLAYER ADDED   [ 3671743273] MCarlos43
+2022-07-26T05:28:14Z: PLAYER CHATTED [ 3046568414] Abri_kamado          (  249.1,    25.9,    12.5)
+  # # # # # ## # # # # # # # # ## # # # # # ## # # # # # # # # ## # # # # # ## # # # # # # # # ## # # # # # ## # # # # # # # # ## # # # # # ## # # # # # # # # ## # # # # # ## # # # # # # # # ##
+2022-07-26T05:28:14Z: PLAYER CHATTED [ 2032702790] Barbie2015ok         (  183.7,    12.8,   -60.6)
+  k
+2022-07-26T05:28:14Z: PLAYER CHATTED [ 1658246707] vimvon12345          (  233.6,     6.4,   -81.1)
+  44
+2022-07-26T05:28:15Z: PLAYER CHATTED [ 2032702790] Barbie2015ok         (  183.7,    12.8,   -60.6)
+  l
+2022-07-26T05:28:17Z: PLAYER CHATTED [ 2032702790] Barbie2015ok         (  183.7,    12.8,   -60.6)
+  m
+2022-07-26T05:28:18Z: PLAYER CHATTED [ 2032702790] Barbie2015ok         (  183.7,    12.8,   -60.6)
+  m
+2022-07-26T05:28:20Z: PLAYER CHATTED [ 2032702790] Barbie2015ok         (  183.7,    12.8,   -60.6)
+  m
+2022-07-26T05:28:21Z: PLAYER CHATTED [  953997670] xKasil               (  136.0,     6.3,  -176.1)
+  😭
+2022-07-26T05:28:23Z: PLAYER CHATTED [ 2032702790] Barbie2015ok         (  183.7,    12.8,   -60.6)
+  k
+2022-07-26T05:28:25Z: PLAYER CHATTED [ 2032702790] Barbie2015ok         (  183.7,    12.8,   -60.6)
+  k
+2022-07-26T05:28:27Z: PLAYER ADDED   [ 2429830638] EmmaTPNu_u
+2022-07-26T05:28:30Z: PLAYER CHATTED [ 2032702790] Barbie2015ok         (  183.7,    12.8,   -60.6)
+  k
+2022-07-26T05:28:30Z: PLAYER CHATTED [ 2055867918] miaceleste40         (  244.1,    39.1,    10.3)
+  # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+2022-07-26T05:28:32Z: PLAYER CHATTED [ 2032702790] Barbie2015ok         (  183.7,    12.8,   -60.6)
+  k
+2022-07-26T05:28:34Z: PLAYER CHATTED [  953997670] xKasil               (   93.0,     6.3,  -114.3)
+  Ohbdamn men
+2022-07-26T05:28:34Z: PLAYER CHATTED [ 2032702790] Barbie2015ok         (  183.7,    12.8,   -60.6)
+  #
+2022-07-26T05:28:37Z: PLAYER CHATTED [ 2032702790] Barbie2015ok         (  183.7,    12.8,   -60.6)
+  #
+2022-07-26T05:28:39Z: PLAYER CHATTED [ 1593527666] kiut_2020            (  143.7,     7.3,  -136.2)
+  Anyway
+2022-07-26T05:28:39Z: PLAYER CHATTED [ 3281442163] TheRandomJocs        (  222.4,     6.4,  -224.7)
+  por alguna razon nos empuja al hacerlo
+2022-07-26T05:28:40Z: PLAYER CHATTED [  953997670] xKasil               (   66.6,     6.3,  -105.9)
+  Ibfell bad yku guys
+2022-07-26T05:28:45Z: PLAYER CHATTED [ 1658246707] vimvon12345          (  118.3,     6.8,  -127.3)
+  me las quiero gastar todas
+2022-07-26T05:28:46Z: PLAYER REMOVED [  953997670] xKasil
+2022-07-26T05:28:46Z: PLAYER CHATTED [ 1593527666] kiut_2020            (  140.6,     6.3,  -131.4)
+  What should we do now?
+2022-07-26T05:28:47Z: PLAYER REMOVED [ 3046568414] Abri_kamado
+2022-07-26T05:28:53Z: PLAYER CHATTED [ 2387641770] aisvisbr             (  219.8,     6.3,  -224.0)
+  q ya lo hayan arreglado xd
+2022-07-26T05:28:54Z: CHRCTER ADDED  [  397492820] elsaprincesa75       (  234.7,     7.2,   -78.5)
+2022-07-26T05:28:54Z: PLAYER CHATTED [ 2662665137] jessipandapueple     (  101.8,     6.6,  -116.0)
+  this game Is boring
+2022-07-26T05:28:55Z: PLAYER ADDED   [ 3634737494] yogod4537
+2022-07-26T05:28:56Z: PLAYER CHATTED [   99326580] caitlinkuiper        (  138.8,     8.0,  -135.9)
+  idk
+2022-07-26T05:28:56Z: PLAYER REMOVED [  989705976] ItsJulian140811
+2022-07-26T05:28:57Z: PLAYER CHATTED [ 1658246707] vimvon12345          (   36.3,     6.7,  -127.9)
+  no me den
+2022-07-26T05:28:58Z: PLAYER CHATTED [ 2471818148] Theqt_ay             (  158.6,     6.8,  -129.5)
+  Omg
+2022-07-26T05:29:00Z: PLAYER CHATTED [ 3281442163] TheRandomJocs        (  218.0,     6.4,  -224.3)
+  nahh no creo
+2022-07-26T05:29:01Z: PLAYER CHATTED [ 2662665137] jessipandapueple     (  104.0,     6.6,  -119.7)
+  ngl
+2022-07-26T05:29:01Z: PLAYER REMOVED [ 3363673931] ezielynxz
+2022-07-26T05:29:08Z: PLAYER REMOVED [ 2032702790] Barbie2015ok
+2022-07-26T05:29:12Z: PLAYER CHATTED [ 1659121176] jojogun12345         (  146.3,     6.2,  -132.0)
+  #############################################################
+2022-07-26T05:29:15Z: PLAYER CHATTED [ 2870420214] boyboynot4675        (  149.3,     8.1,  -138.5)
+  hey everyone 
+2022-07-26T05:29:16Z: PLAYER ADDED   [ 1477196326] kingyayito3012
+2022-07-26T05:29:17Z: PLAYER CHATTED [  465129170] estis589             (  109.0,     7.3,  -189.0)
+  hola
+2022-07-26T05:29:17Z: PLAYER CHATTED [ 1658246707] vimvon12345          (  113.2,     6.6,  -189.3)
+  quiero morir
+2022-07-26T05:29:18Z: PLAYER CHATTED [ 2886402110] jahenrrrr1111        (  149.0,     6.3,  -131.0)
+  iiiiiiiiii
+2022-07-26T05:29:20Z: PLAYER CHATTED [ 1603196728] chris910e            (  144.8,     7.3,  -137.8)
+  can someone donate me?
+2022-07-26T05:29:20Z: PLAYER CHATTED [ 1593527666] kiut_2020            (  140.7,     6.3,  -131.5)
+  There’s nothing to do in here
+2022-07-26T05:29:24Z: CHRCTER ADDED  [ 2678197567] Olga01227            (  233.1,     7.2,   -76.6)
+2022-07-26T05:29:25Z: PLAYER ADDED   [ 3508837656] BabGril_UnicornUnu
+2022-07-26T05:29:25Z: PLAYER CHATTED [ 1658246707] vimvon12345          (  113.5,     6.7,  -189.1)
+  #####
+2022-07-26T05:29:26Z: PLAYER CHATTED [  465129170] estis589             (  116.2,     7.9,  -190.0)
+  a
+2022-07-26T05:29:29Z: PLAYER CHATTED [ 1658246707] vimvon12345          (  113.5,     6.7,  -189.1)
+  hola
+2022-07-26T05:29:30Z: PLAYER CHATTED [  397492820] elsaprincesa75       (   72.4,     6.2,  -174.3)
+  heloo
+2022-07-26T05:29:30Z: PLAYER CHATTED [   99326580] caitlinkuiper        (  134.4,     7.6,  -127.9)
+  ya
+2022-07-26T05:29:32Z: CHRCTER ADDED  [ 2055867918] miaceleste40         (  234.3,     7.0,  -228.4)
+2022-07-26T05:29:32Z: PLAYER CHATTED [  465129170] estis589             (  116.2,     7.9,  -190.0)
+  mejor me voy XD
+2022-07-26T05:29:33Z: PLAYER ADDED   [ 1613500918] gilbertotete
+2022-07-26T05:29:35Z: PLAYER ADDED   [ 3724897554] Sae_ranuw
+2022-07-26T05:29:37Z: PLAYER REMOVED [ 3724897554] Sae_ranuw
+2022-07-26T05:29:37Z: PLAYER CHATTED [ 2429830638] EmmaTPNu_u           (   48.4,     7.3,  -124.8)
+  STRAY KIDS LÍDERES DE LA 4TH GENERACIÓN, Y NO ES POR NADA PERO LÍDERES
+2022-07-26T05:29:39Z: PLAYER CHATTED [ 2387641770] aisvisbr             (  210.3,    18.8,  -227.9)
+  xddd
+2022-07-26T05:29:40Z: PLAYER CHATTED [ 3281442163] TheRandomJocs        (  210.7,    23.9,  -227.4)
+  vez q no
+2022-07-26T05:29:40Z: PLAYER CHATTED [ 1659121176] jojogun12345         (  143.6,     6.2,  -131.7)
+  ########################
+2022-07-26T05:29:41Z: PLAYER CHATTED [ 1658246707] vimvon12345          (  113.5,     6.7,  -189.1)
+  aweno
+2022-07-26T05:29:41Z: PLAYER CHATTED [ 1593527666] kiut_2020            (  136.0,     6.8,  -124.5)
+  We should play another game
+2022-07-26T05:29:42Z: PLAYER CHATTED [ 2581333933] Harrynoob_34         (   65.4,    14.2,   -60.9)
+  Hoy volví a dormir en nuestra camaY todo sigue igual
+2022-07-26T05:29:42Z: PLAYER ADDED   [ 3740922231] Valid_RoRo
+2022-07-26T05:29:43Z: PLAYER CHATTED [ 2387641770] aisvisbr             (  210.3,    18.4,  -227.9)
+  ya casii
+2022-07-26T05:29:44Z: PLAYER REMOVED [ 3740922231] Valid_RoRo
+2022-07-26T05:29:50Z: PLAYER CHATTED [ 1613500918] gilbertotete         (  236.0,     7.6,  -233.5)
+  nice
+2022-07-26T05:29:52Z: PLAYER CHATTED [  465129170] estis589             (  122.3,     7.9,  -138.0)
+  blackpink best gg
+2022-07-26T05:29:54Z: PLAYER CHATTED [ 1658246707] vimvon12345          (  213.1,     6.3,  -215.4)
+  xd
+2022-07-26T05:29:55Z: PLAYER CHATTED [ 1477196326] kingyayito3012       (  184.1,     6.8,  -119.7)
+  Hi
+2022-07-26T05:29:57Z: PLAYER CHATTED [ 1613500918] gilbertotete         (  236.0,     7.6,  -233.5)
+   l l l l l l l ll l l
+2022-07-26T05:29:58Z: PLAYER ADDED   [ 3740736986] dinomateo_1623
+2022-07-26T05:29:58Z: PLAYER CHATTED [ 2581333933] Harrynoob_34         (   66.5,    14.2,   -50.4)
+  El aire y nuestros gatos, nada cambiaráDifícil olvidarte estando aquí,
+2022-07-26T05:29:59Z: PLAYER CHATTED [ 3281442163] TheRandomJocs        (  210.6,     6.4,  -227.3)
+  a ver unete a mi en otro juego pa intentq
+2022-07-26T05:29:59Z: PLAYER REMOVED [ 3740736986] dinomateo_1623
+2022-07-26T05:30:00Z: PLAYER CHATTED [ 1658246707] vimvon12345          (  213.1,     6.3,  -215.4)
+  quiero morir
+2022-07-26T05:30:01Z: PLAYER CHATTED [ 1613500918] gilbertotete         (  236.0,     7.6,  -233.5)
+   l lo l l l l l l ll l l 
+2022-07-26T05:30:03Z: PLAYER CHATTED [ 2662665137] jessipandapueple     (  178.7,     9.2,  -231.8)
+  the swing not even working ###
+2022-07-26T05:30:03Z: PLAYER CHATTED [   99326580] caitlinkuiper        (  134.1,     7.8,  -124.2)
+  ya ill join u
+2022-07-26T05:30:03Z: PLAYER CHATTED [ 3508837656] BabGril_UnicornUnu   (   94.1,     6.5,   -85.7)
+  xd
+2022-07-26T05:30:04Z: PLAYER CHATTED [ 1593527666] kiut_2020            (  138.9,     6.7,  -128.0)
+  Hi
+2022-07-26T05:30:04Z: PLAYER CHATTED [ 2387641770] aisvisbr             (  205.4,     6.3,  -215.2)
+  ok
+2022-07-26T05:30:06Z: PLAYER CHATTED [ 3634737494] yogod4537            (  131.3,     6.5,  -133.1)
+  your broke
+2022-07-26T05:30:06Z: PLAYER CHATTED [ 2662665137] jessipandapueple     (  178.7,     9.2,  -231.8)
+  lame
+2022-07-26T05:30:07Z: PLAYER CHATTED [ 1477196326] kingyayito3012       (  142.9,     6.6,  -128.2)
+  W w w w w w w. W wow 
+2022-07-26T05:30:08Z: PLAYER CHATTED [ 1613500918] gilbertotete         (  236.0,     7.6,  -233.5)
+   l l l l 
+2022-07-26T05:30:09Z: PLAYER CHATTED [ 2581333933] Harrynoob_34         (   66.5,    14.2,   -50.4)
+  Oh oh oh
+2022-07-26T05:30:09Z: PLAYER CHATTED [ 2429830638] EmmaTPNu_u           (   71.8,    21.2,  -151.8)
+  blackpink y twice best gg
+2022-07-26T05:30:12Z: PLAYER REMOVED [ 3281442163] TheRandomJocs
+2022-07-26T05:30:13Z: PLAYER REMOVED [ 2387641770] aisvisbr
+2022-07-26T05:30:14Z: PLAYER REMOVED [ 2678197567] Olga01227
+2022-07-26T05:30:15Z: PLAYER CHATTED [ 1613500918] gilbertotete         (  227.4,     7.6,  -226.6)
+  nah
+2022-07-26T05:30:17Z: PLAYER CHATTED [ 1593527666] kiut_2020            (  138.9,     6.7,  -128.0)
+  Which game do you want to play first
+2022-07-26T05:30:18Z: PLAYER CHATTED [ 2581333933] Harrynoob_34         (   66.5,    14.2,   -50.4)
+  #######################################################
+2022-07-26T05:30:18Z: PLAYER CHATTED [  397492820] elsaprincesa75       (   62.9,    50.2,  -221.2)
+  AAAAAAAAAAA
+2022-07-26T05:30:20Z: PLAYER CHATTED [ 1477196326] kingyayito3012       (  157.5,     6.8,  -127.5)
+  Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay
+2022-07-26T05:30:24Z: PLAYER CHATTED [ 2886402110] jahenrrrr1111        (  149.4,     6.8,  -123.4)
+  k##########################################################
+2022-07-26T05:30:28Z: PLAYER CHATTED [  397492820] elsaprincesa75       (   64.3,    49.8,  -226.6)
+  hi
+2022-07-26T05:30:28Z: CHRCTER ADDED  [ 1613500918] gilbertotete         (  227.0,     7.8,  -225.4)
+2022-07-26T05:30:29Z: PLAYER CHATTED [   99326580] caitlinkuiper        (  144.2,     7.8,  -127.5)
+  idk u pick
+2022-07-26T05:30:29Z: PLAYER CHATTED [ 2581333933] Harrynoob_34         (   66.5,    14.2,   -50.4)
+  La hiedra venenosa no te deja ver
+2022-07-26T05:30:32Z: PLAYER CHATTED [ 2471818148] Theqt_ay             (  156.3,     6.8,  -143.7)
+  Give
+2022-07-26T05:30:32Z: PLAYER CHATTED [ 1477196326] kingyayito3012       (  158.8,     6.3,  -143.6)
+  Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slayy Slayygv*wwww Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay
+2022-07-26T05:30:36Z: PLAYER CHATTED [ 1593527666] kiut_2020            (  139.8,     6.8,  -127.8)
+  I’ll see
+2022-07-26T05:30:37Z: PLAYER CHATTED [ 2581333933] Harrynoob_34         (   66.5,    14.2,   -50.4)
+  Me siento mutilada y tan pequeña, ah, ah, ah
+2022-07-26T05:30:39Z: PLAYER CHATTED [  465129170] estis589             (  144.3,     8.3,  -139.4)
+  opino lo mismo cofelo :v
+2022-07-26T05:30:41Z: PLAYER CHATTED [ 2662665137] jessipandapueple     (  142.4,     6.6,  -123.2)
+  do u wanna play t ir d?!
+2022-07-26T05:30:42Z: PLAYER CHATTED [   99326580] caitlinkuiper        (  143.9,     7.8,  -127.5)
+  k
+2022-07-26T05:30:42Z: PLAYER REMOVED [ 1593527666] kiut_2020
+2022-07-26T05:30:43Z: PLAYER CHATTED [ 1603196728] chris910e            (  161.3,     6.3,  -141.5)
+  give me fefore you not have
+2022-07-26T05:30:43Z: PLAYER CHATTED [ 1658246707] vimvon12345          (  221.5,     6.3,  -222.7)
+  moriiiir
+2022-07-26T05:30:45Z: PLAYER CHATTED [ 1477196326] kingyayito3012       (  165.3,     6.3,  -153.9)
+  Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay Slay
+2022-07-26T05:30:45Z: PLAYER CHATTED [ 2662665137] jessipandapueple     (  142.6,     6.6,  -125.5)
+  or
+2022-07-26T05:30:46Z: PLAYER CHATTED [ 2471818148] Theqt_ay             (  163.7,     6.8,  -151.9)
+  Pls
+2022-07-26T05:30:47Z: PLAYER CHATTED [ 2581333933] Harrynoob_34         (   66.5,    14.2,   -50.4)
+  Ven y cuéntame la verdadTen piedad
+2022-07-26T05:30:49Z: PLAYER REMOVED [ 1613500918] gilbertotete
+2022-07-26T05:30:50Z: PLAYER ADDED   [ 1613500918] gilbertotete
+2022-07-26T05:30:50Z: PLAYER CHATTED [ 1603196728] chris910e            (  172.8,     6.3,  -159.5)
+  pls
+2022-07-26T05:30:51Z: PLAYER CHATTED [   99326580] caitlinkuiper        (  142.7,     7.2,  -129.4)
+  sure
+2022-07-26T05:30:55Z: PLAYER CHATTED [ 2581333933] Harrynoob_34         (   66.5,    14.2,   -50.4)
+  Y dime por qué, no, no no, oh
+2022-07-26T05:30:55Z: PLAYER CHATTED [ 2662665137] jessipandapueple     (  145.5,     6.6,  -119.6)
+  ok
+2022-07-26T05:30:55Z: PLAYER CHATTED [ 3508837656] BabGril_UnicornUnu   (  123.5,     7.1,  -128.6)
+  😢
+2022-07-26T05:30:59Z: PLAYER CHATTED [ 1477196326] kingyayito3012       (  176.7,     6.3,  -158.4)
+  Ok
+2022-07-26T05:31:02Z: PLAYER CHATTED [ 2581333933] Harrynoob_34         (   66.5,    14.2,   -50.4)
+  ¿Cómo fue que me dejaste de amar?
+2022-07-26T05:31:05Z: PLAYER CHATTED [  465129170] estis589             (   68.0,    21.0,  -212.5)
+  fancy you
+2022-07-26T05:31:06Z: PLAYER CHATTED [ 2870420214] boyboynot4675        (  126.8,     7.7,  -124.2)
+   Good bye for now
+2022-07-26T05:31:08Z: PLAYER CHATTED [ 1659121176] jojogun12345         (   73.0,    40.0,  -156.7)
+  J j j j j j j j j j j j j 
+2022-07-26T05:31:10Z: PLAYER CHATTED [ 2581333933] Harrynoob_34         (   66.5,    14.2,   -50.4)
+  Yo aún podía soportarTu tanta falta de querer
+2022-07-26T05:31:10Z: PLAYER CHATTED [ 2662665137] jessipandapueple     (  245.9,     6.0,   -72.8)
+  t or d
+2022-07-26T05:31:12Z: PLAYER REMOVED [ 2870420214] boyboynot4675
+2022-07-26T05:31:12Z: PLAYER CHATTED [ 3176495569] Aulindaya            (  -18.5,     5.9,  -136.6)
+  bye
+2022-07-26T05:31:13Z: PLAYER CHATTED [ 1658246707] vimvon12345          (  193.0,     6.3,  -220.8)
+  quiero morirme letra por letra creo que me servira
+2022-07-26T05:31:15Z: CHRCTER ADDED  [ 3176495569] Aulindaya            (  236.1,     7.0,  -232.8)
+2022-07-26T05:31:16Z: PLAYER CHATTED [   99326580] caitlinkuiper        (  239.7,     7.8,   -69.0)
+  D
+2022-07-26T05:31:17Z: PLAYER CHATTED [ 2581333933] Harrynoob_34         (   66.5,    14.2,   -50.4)
+  Hace un mes solía escucharteY ser tu cómplice
+2022-07-26T05:31:18Z: PLAYER CHATTED [ 3634737494] yogod4537            (  173.2,     6.5,  -157.9)
+  hm
+2022-07-26T05:31:19Z: PLAYER CHATTED [ 1477196326] kingyayito3012       (  177.6,     6.3,  -157.8)
+  Idk how to
+2022-07-26T05:31:21Z: CHRCTER ADDED  [ 3176495569] Aulindaya            (   44.4,     7.0,  -142.3)
+2022-07-26T05:31:24Z: PLAYER CHATTED [ 2662665137] jessipandapueple     (  243.6,     6.0,   -70.0)
+  i daré u to..
+2022-07-26T05:31:26Z: PLAYER CHATTED [ 3508837656] BabGril_UnicornUnu   (  175.6,     7.1,  -123.8)
+  turip
+2022-07-26T05:31:29Z: PLAYER CHATTED [ 2581333933] Harrynoob_34         (   66.5,    14.2,   -50.4)
+  Pensé que ya no había nadie más que tú
+2022-07-26T05:31:31Z: CHRCTER ADDED  [ 3176495569] Aulindaya            (   41.5,    15.3,   -85.0)
+2022-07-26T05:31:32Z: PLAYER CHATTED [ 2886402110] jahenrrrr1111        (  169.6,     6.3,  -159.4)
+  me das palabras
+2022-07-26T05:31:32Z: PLAYER CHATTED [ 1658246707] vimvon12345          (  176.0,     6.3,  -211.1)
+  # # # # # # # ## # # #
+2022-07-26T05:31:34Z: PLAYER CHATTED [ 1603196728] chris910e            (  177.0,     6.3,  -155.4)
+  bro can you donate me?
+2022-07-26T05:31:34Z: PLAYER CHATTED [  465129170] estis589             (   19.6,    31.5,   -48.5)
+  hola
+2022-07-26T05:31:34Z: CHRCTER ADDED  [  138167466] gogagoga12002        (  229.8,     6.9,  -234.6)
+2022-07-26T05:31:36Z: PLAYER CHATTED [ 2662665137] jessipandapueple     (  243.6,     6.0,   -70.0)
+  #######################
+2022-07-26T05:31:36Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-07-26T05:31:36Z: PLAYER REMOVED [ 3674589647] muzic_541
+2022-07-26T05:31:36Z: PLAYER REMOVED [ 3176495569] Aulindaya
+2022-07-26T05:31:36Z: PLAYER REMOVED [  138167466] gogagoga12002
+2022-07-26T05:31:36Z: PLAYER REMOVED [ 3699310697] Soyesesj
+2022-07-26T05:31:36Z: PLAYER REMOVED [ 3307378350] wolfgir_original
+2022-07-26T05:31:36Z: PLAYER REMOVED [ 2055867918] miaceleste40
+2022-07-26T05:31:36Z: PLAYER REMOVED [ 2886402110] jahenrrrr1111
+2022-07-26T05:31:36Z: PLAYER REMOVED [ 2581333933] Harrynoob_34
+2022-07-26T05:31:36Z: PLAYER REMOVED [ 2471818148] Theqt_ay
+2022-07-26T05:31:36Z: PLAYER REMOVED [ 3233646235] pinkipanda_456
+2022-07-26T05:31:36Z: PLAYER REMOVED [   99326580] caitlinkuiper
+2022-07-26T05:31:36Z: PLAYER REMOVED [ 1658246707] vimvon12345
+2022-07-26T05:31:36Z: PLAYER REMOVED [ 1603196728] chris910e
+2022-07-26T05:31:36Z: PLAYER REMOVED [ 1659121176] jojogun12345
+2022-07-26T05:31:36Z: PLAYER REMOVED [  397492820] elsaprincesa75
+2022-07-26T05:31:36Z: PLAYER REMOVED [ 2662665137] jessipandapueple
+2022-07-26T05:31:36Z: PLAYER REMOVED [  465129170] estis589
+2022-07-26T05:31:36Z: PLAYER REMOVED [ 3671743273] MCarlos43
+2022-07-26T05:31:36Z: PLAYER REMOVED [ 2429830638] EmmaTPNu_u
+2022-07-26T05:31:36Z: PLAYER REMOVED [ 3634737494] yogod4537
+2022-07-26T05:31:36Z: PLAYER REMOVED [ 1477196326] kingyayito3012
+2022-07-26T05:31:36Z: PLAYER REMOVED [ 3508837656] BabGril_UnicornUnu
+2022-07-26T05:31:36Z: PLAYER REMOVED [ 1613500918] gilbertotete

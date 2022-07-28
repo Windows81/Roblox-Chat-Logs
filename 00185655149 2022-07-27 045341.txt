@@ -1,0 +1,931 @@
+[ 2692203726] : [  185655149] Welcome to Bloxburg - 35170f3a-1afe-43b6-aafd-5a134fe724ac
+2022-07-27T04:53:41Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-07-27T04:53:41Z: PLAYER ADDED   [ 2692203726] rarathem
+2022-07-27T04:53:41Z: PLAYER ADDED   [ 2685883441] xLco0
+2022-07-27T04:53:41Z: PLAYER ADDED   [ 1520946710] retuekdj
+2022-07-27T04:53:41Z: PLAYER ADDED   [ 1800843923] Jazcasaa_ok
+2022-07-27T04:53:41Z: PLAYER ADDED   [  634165471] unicornio46657
+2022-07-27T04:53:41Z: PLAYER ADDED   [ 2333233081] ArturoCG20
+2022-07-27T04:53:41Z: PLAYER ADDED   [ 1209778560] camilucha979
+2022-07-27T04:53:41Z: PLAYER ADDED   [  684011498] poower17
+2022-07-27T04:53:41Z: PLAYER ADDED   [ 1084411388] gabricrack9999
+2022-07-27T04:53:41Z: PLAYER ADDED   [ 1757048409] sosteff
+2022-07-27T04:53:48Z: PLAYER REMOVED [ 1757048409] sosteff
+2022-07-27T04:53:50Z: PLAYER CHATTED [  684011498] poower17            
+  *duerme*
+2022-07-27T04:54:13Z: PLAYER CHATTED [  684011498] poower17            
+  *incomodo me dice JAJAJAJA
+2022-07-27T04:54:15Z: PLAYER ADDED   [ 1895602268] lankyboxfanlolloveh
+2022-07-27T04:54:18Z: CHRCTER ADDED  [ 1895602268] lankyboxfanlolloveh  (-4066.9,  -115.3,   851.0)
+2022-07-27T04:54:27Z: PLAYER ADDED   [ 3176252586] flofi_30
+2022-07-27T04:54:41Z: PLAYER CHATTED [  684011498] poower17             ( -167.7,    24.6,   532.2)
+  ya
+2022-07-27T04:54:43Z: PLAYER CHATTED [  684011498] poower17             ( -167.7,    24.6,   532.2)
+  gracias xd
+2022-07-27T04:54:48Z: PLAYER CHATTED [  634165471] unicornio46657       ( -188.0,    24.8,   539.9)
+  dnd
+2022-07-27T04:54:56Z: PLAYER CHATTED [  684011498] poower17             ( -190.0,    24.2,   532.5)
+  casa humilde
+2022-07-27T04:55:01Z: PLAYER CHATTED [  634165471] unicornio46657       ( -190.5,    24.8,   541.3)
+  sisisi
+2022-07-27T04:55:08Z: PLAYER CHATTED [ 2333233081] ArturoCG20           ( -112.7,    24.3,   476.7)
+  Como pongo los muebles de la cocina diossss
+2022-07-27T04:55:12Z: PLAYER CHATTED [ 1209778560] camilucha979         ( -116.6,    24.6,   465.1)
+  m voy a meter a la llamada
+2022-07-27T04:55:15Z: PLAYER CHATTED [ 2333233081] ArturoCG20           ( -112.7,    24.3,   476.7)
+  Que
+2022-07-27T04:55:16Z: PLAYER CHATTED [  684011498] poower17             ( -120.9,    24.3,   481.5)
+  sisi
+2022-07-27T04:55:16Z: PLAYER CHATTED [ 2333233081] ArturoCG20           ( -112.7,    24.3,   476.7)
+  no
+2022-07-27T04:55:20Z: PLAYER CHATTED [ 1209778560] camilucha979         ( -118.7,    24.6,   476.6)
+  pq
+2022-07-27T04:55:29Z: PLAYER CHATTED [ 1209778560] camilucha979         ( -151.4,    24.4,   510.8)
+  oka
+2022-07-27T04:55:32Z: PLAYER REMOVED [ 1895602268] lankyboxfanlolloveh
+2022-07-27T04:55:33Z: PLAYER CHATTED [  684011498] poower17             ( -148.8,    24.1,   504.7)
+  unete
+2022-07-27T04:55:36Z: PLAYER CHATTED [  684011498] poower17             ( -148.8,    24.1,   504.7)
+  a la llamada
+2022-07-27T04:55:50Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          (  988.2,    14.9,   978.0)
+  XD
+2022-07-27T04:55:50Z: PLAYER CHATTED [ 2333233081] ArturoCG20           ( -112.7,    24.3,   476.7)
+  Ayuda
+2022-07-27T04:56:05Z: PLAYER REMOVED [ 3176252586] flofi_30
+2022-07-27T04:56:07Z: PLAYER CHATTED [  684011498] poower17             ( -172.5,    24.2,   540.8)
+  pq no tienes brazos
+2022-07-27T04:56:08Z: PLAYER CHATTED [  684011498] poower17             ( -172.5,    24.2,   540.8)
+  XD
+2022-07-27T04:56:10Z: PLAYER ADDED   [  878153943] ernestocazares66
+2022-07-27T04:56:13Z: PLAYER CHATTED [  634165471] unicornio46657       ( -180.7,    25.5,   548.1)
+  Si tengo xd
+2022-07-27T04:56:26Z: PLAYER CHATTED [  684011498] poower17             ( -172.5,    24.2,   540.8)
+  entonces estoy bu g
+2022-07-27T04:56:29Z: PLAYER CHATTED [  634165471] unicornio46657       ( -180.7,    25.5,   548.1)
+  sisi
+2022-07-27T04:56:33Z: PLAYER CHATTED [  634165471] unicornio46657       ( -180.7,    25.5,   548.1)
+  Oye
+2022-07-27T04:56:38Z: PLAYER CHATTED [  684011498] poower17             ( -155.6,    24.0,   524.4)
+  mande
+2022-07-27T04:56:48Z: PLAYER CHATTED [  634165471] unicornio46657       ( -180.7,    25.5,   548.1)
+  Tu server de flee aun funciona?
+2022-07-27T04:56:50Z: PLAYER CHATTED [  634165471] unicornio46657       ( -180.7,    25.5,   548.1)
+  :p
+2022-07-27T04:56:53Z: PLAYER CHATTED [  684011498] poower17             ( -176.8,    24.2,   551.9)
+  no
+2022-07-27T04:56:55Z: PLAYER CHATTED [  684011498] poower17             ( -176.8,    24.2,   551.9)
+  pero
+2022-07-27T04:56:57Z: PLAYER CHATTED [  634165471] unicornio46657       ( -180.7,    25.5,   548.1)
+  Pq?
+2022-07-27T04:56:58Z: PLAYER CHATTED [  684011498] poower17             ( -176.8,    24.2,   551.9)
+  ella
+2022-07-27T04:57:01Z: PLAYER CHATTED [  684011498] poower17             ( -176.8,    24.2,   551.9)
+  tiene ###
+2022-07-27T04:57:05Z: PLAYER CHATTED [  634165471] unicornio46657       ( -180.7,    25.5,   548.1)
+  nais
+2022-07-27T04:57:07Z: PLAYER CHATTED [  684011498] poower17             ( -176.8,    24.2,   551.9)
+  se acabo el mes
+2022-07-27T04:57:16Z: PLAYER CHATTED [  684011498] poower17             ( -177.6,    24.2,   542.1)
+  la tienes agregada
+2022-07-27T04:57:18Z: PLAYER CHATTED [  684011498] poower17             ( -177.6,    24.2,   542.1)
+  ?
+2022-07-27T04:57:21Z: PLAYER CHATTED [  634165471] unicornio46657       ( -180.7,    25.5,   548.1)
+  Deberiamos jugar un rato, si es que quieren xd
+2022-07-27T04:57:24Z: PLAYER CHATTED [  634165471] unicornio46657       ( -180.7,    25.5,   548.1)
+  Nop
+2022-07-27T04:57:28Z: PLAYER CHATTED [  684011498] poower17             ( -177.6,    24.2,   542.1)
+  deja le digo
+2022-07-27T04:57:44Z: PLAYER CHATTED [  634165471] unicornio46657       ( -180.7,    25.5,   548.1)
+  Voy a borrar amigos ####### xd
+2022-07-27T04:58:02Z: PLAYER ADDED   [ 1151341183] sofia111723
+2022-07-27T04:59:14Z: PLAYER ADDED   [ 3176252586] flofi_30
+2022-07-27T05:00:38Z: PLAYER CHATTED [  634165471] unicornio46657       (   47.8,    25.1,   375.8)
+  Donde estan? DX
+2022-07-27T05:00:45Z: PLAYER CHATTED [ 2333233081] ArturoCG20           ( 1060.5,    12.9,   312.5)
+  en mi a 
+2022-07-27T05:00:48Z: PLAYER CHATTED [ 2333233081] ArturoCG20           ( 1061.2,    12.9,   320.6)
+  en mi ca sa
+2022-07-27T05:00:59Z: PLAYER CHATTED [ 2333233081] ArturoCG20           (  518.7,    23.9,   304.2)
+  bueno vamos para alla
+2022-07-27T05:01:04Z: PLAYER CHATTED [  684011498] poower17             (  382.8,    23.7,   337.5)
+  XD
+2022-07-27T05:01:09Z: PLAYER CHATTED [ 1209778560] camilucha979         (  186.3,    33.7,   468.0)
+  xd
+2022-07-27T05:01:18Z: PLAYER CHATTED [ 3176252586] flofi_30             ( 1875.5,    12.3,   -86.8)
+  aaaa
+2022-07-27T05:01:34Z: PLAYER CHATTED [  684011498] poower17             ( -106.2,    24.2,   460.0)
+  a donde trabajamos
+2022-07-27T05:01:37Z: PLAYER CHATTED [ 3176252586] flofi_30             ( 1875.9,    12.2,   -86.9)
+  me ###### no puedo saltar
+2022-07-27T05:01:45Z: PLAYER CHATTED [ 3176252586] flofi_30             ( 1875.9,    12.2,   -86.9)
+  aiudaaa
+2022-07-27T05:02:04Z: PLAYER CHATTED [  684011498] poower17             ( -124.7,    24.3,   476.6)
+  xime
+2022-07-27T05:02:07Z: PLAYER CHATTED [  634165471] unicornio46657       ( -118.7,    24.8,   476.6)
+  md
+2022-07-27T05:02:09Z: PLAYER CHATTED [  684011498] poower17             ( -124.7,    24.3,   476.6)
+  meteme a tu familia
+2022-07-27T05:02:18Z: PLAYER CHATTED [  634165471] unicornio46657       ( -122.2,    24.8,   469.7)
+  Pero ya estas
+2022-07-27T05:02:21Z: PLAYER CHATTED [ 3176252586] flofi_30             ( 1875.9,    12.2,   -86.9)
+  quesadillla
+2022-07-27T05:02:30Z: PLAYER CHATTED [ 1209778560] camilucha979         ( -189.9,    24.5,   539.9)
+  quieres?
+2022-07-27T05:02:32Z: PLAYER CHATTED [  684011498] poower17             ( -123.9,    24.4,   466.8)
+  entonces pq cuando manejo tu carro me muero
+2022-07-27T05:02:38Z: PLAYER CHATTED [  634165471] unicornio46657       ( -121.2,    24.8,   463.7)
+  no se
+2022-07-27T05:02:39Z: PLAYER CHATTED [  634165471] unicornio46657       ( -121.2,    24.8,   463.7)
+  xd
+2022-07-27T05:02:41Z: PLAYER CHATTED [ 1520946710] retuekdj             ( -187.4,    24.5,   551.4)
+  deja ago algo
+2022-07-27T05:02:43Z: PLAYER CHATTED [ 3176252586] flofi_30             ( 1875.9,    12.2,   -86.9)
+  me atore en tu casa 
+2022-07-27T05:02:51Z: PLAYER CHATTED [ 1209778560] camilucha979         ( -187.0,    24.5,   531.3)
+  ####
+2022-07-27T05:02:53Z: PLAYER CHATTED [ 3176252586] flofi_30             ( 1875.9,    12.2,   -86.9)
+  no puedo moverme 
+2022-07-27T05:02:57Z: PLAYER CHATTED [ 3176252586] flofi_30             ( 1875.9,    12.2,   -86.9)
+  no puedo saltar
+2022-07-27T05:03:19Z: PLAYER CHATTED [  634165471] unicornio46657       ( -190.1,    24.8,   537.3)
+  No se roben las costillas xp
+2022-07-27T05:04:03Z: PLAYER CHATTED [ 3176252586] flofi_30             ( 1875.9,    12.2,   -86.9)
+  aiudaaa
+2022-07-27T05:04:26Z: PLAYER CHATTED [ 1209778560] camilucha979         ( -181.7,    24.5,   541.5)
+  q pasa
+2022-07-27T05:04:27Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( -116.7,    24.3,   476.9)
+  😻
+2022-07-27T05:04:42Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( -116.7,    24.3,   476.9)
+  d donde es tu peinado
+2022-07-27T05:04:42Z: PLAYER CHATTED [ 1520946710] retuekdj             ( -180.3,    25.0,   546.2)
+  de que 
+2022-07-27T05:04:43Z: PLAYER CHATTED [ 3176252586] flofi_30             ( 1875.8,    12.0,   -87.2)
+  a ya
+2022-07-27T05:04:45Z: PLAYER CHATTED [ 1209778560] camilucha979         ( -176.1,    24.5,   544.2)
+  aaa prro
+2022-07-27T05:04:50Z: PLAYER CHATTED [ 1209778560] camilucha979         ( -176.1,    24.5,   544.2)
+  tienes el premium
+2022-07-27T05:04:56Z: PLAYER CHATTED [  684011498] poower17             ( -116.8,    24.6,   474.4)
+  y esta que
+2022-07-27T05:04:58Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( -116.7,    24.3,   476.9)
+  😻
+2022-07-27T05:04:59Z: PLAYER CHATTED [ 1209778560] camilucha979         ( -177.6,    24.5,   541.7)
+  JAJA
+2022-07-27T05:05:06Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( -118.6,    24.3,   479.8)
+  Soy tu mamá 
+2022-07-27T05:05:10Z: PLAYER CHATTED [  684011498] poower17             ( -123.4,    24.4,   491.1)
+  aja
+2022-07-27T05:05:11Z: PLAYER CHATTED [ 1520946710] retuekdj             ( -181.6,    24.9,   545.4)
+  apenas tedas cuenta cuándo te dije en nuestro chat 
+2022-07-27T05:05:18Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( -119.0,    24.3,   483.6)
+  Si, no leo lloros
+2022-07-27T05:05:19Z: PLAYER CHATTED [  684011498] poower17             ( -119.7,    24.6,   489.8)
+  chistosita salio
+2022-07-27T05:05:22Z: PLAYER CHATTED [ 1209778560] camilucha979         ( -130.5,    24.4,   497.1)
+  JAJAJA
+2022-07-27T05:05:31Z: PLAYER CHATTED [  634165471] unicornio46657       ( -121.6,    24.8,   468.6)
+  Hola jaz :D
+2022-07-27T05:05:33Z: PLAYER CHATTED [  684011498] poower17             ( -119.9,    24.6,   490.4)
+  ya me voy
+2022-07-27T05:05:36Z: PLAYER CHATTED [  684011498] poower17             ( -126.0,    24.1,   473.2)
+  chau
+2022-07-27T05:05:37Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( -136.6,    23.6,   464.6)
+  HOLAA UNII
+2022-07-27T05:05:43Z: PLAYER CHATTED [  634165471] unicornio46657       ( -128.1,    24.6,   467.8)
+  Adios 
+2022-07-27T05:05:43Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( -133.0,    24.1,   468.5)
+  QUesito
+2022-07-27T05:05:47Z: PLAYER CHATTED [  684011498] poower17             ( -129.6,    24.1,   471.6)
+  TU QUE
+2022-07-27T05:05:51Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( -132.3,    24.1,   468.8)
+  TU QUE
+2022-07-27T05:05:53Z: PLAYER REMOVED [  684011498] poower17
+2022-07-27T05:05:59Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( -132.3,    24.1,   468.8)
+  ## ######
+2022-07-27T05:06:06Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( -131.2,    24.1,   470.0)
+  cmo estas?
+2022-07-27T05:06:14Z: PLAYER CHATTED [  634165471] unicornio46657       ( -130.2,    24.6,   469.7)
+  Bien bien y tu?
+2022-07-27T05:06:23Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( -128.0,    24.1,   467.7)
+  Bien , gracias, me alegro
+2022-07-27T05:06:32Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( -128.0,    24.1,   467.7)
+  q formal 🤣
+2022-07-27T05:06:37Z: PLAYER CHATTED [  634165471] unicornio46657       ( -125.5,    24.6,   469.4)
+  Sisisi
+2022-07-27T05:06:39Z: PLAYER CHATTED [  634165471] unicornio46657       ( -125.5,    24.6,   469.4)
+  JAJAJ
+2022-07-27T05:06:48Z: PLAYER REMOVED [ 1151341183] sofia111723
+2022-07-27T05:06:58Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( -128.5,    24.1,   475.9)
+  te invito
+2022-07-27T05:07:05Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( -125.2,    24.1,   473.4)
+  Un pedazo de pastel robado
+2022-07-27T05:07:06Z: PLAYER CHATTED [ 1209778560] camilucha979         ( -116.4,    24.6,   471.0)
+  el refri y la refri
+2022-07-27T05:07:11Z: PLAYER CHATTED [ 1209778560] camilucha979         ( -116.4,    24.6,   471.0)
+  la diferencia 
+2022-07-27T05:07:16Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( -125.4,    24.1,   472.3)
+  Jeje
+2022-07-27T05:07:21Z: PLAYER CHATTED [  634165471] unicornio46657       ( -125.7,    24.6,   467.5)
+  Oyes como te fue en tus clases?
+2022-07-27T05:07:36Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( -125.4,    24.1,   472.3)
+  bienn , gracias , saque ##
+2022-07-27T05:07:37Z: PLAYER CHATTED [  634165471] unicornio46657       ( -125.7,    24.6,   467.5)
+  Tu ibas ##############
+2022-07-27T05:07:39Z: PLAYER CHATTED [ 1209778560] camilucha979         ( -189.7,    24.5,   539.4)
+  cociname
+2022-07-27T05:07:42Z: PLAYER CHATTED [  634165471] unicornio46657       ( -125.7,    24.6,   467.5)
+  Fua
+2022-07-27T05:07:42Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( -125.4,    24.1,   472.3)
+  sii ya voy
+2022-07-27T05:07:45Z: PLAYER CHATTED [ 1520946710] retuekdj             ( -189.0,    24.5,   535.4)
+  ok 
+2022-07-27T05:07:46Z: PLAYER CHATTED [  634165471] unicornio46657       ( -125.7,    24.6,   467.5)
+  esta bien
+2022-07-27T05:07:49Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( -125.4,    24.1,   472.3)
+  Mañana es el ultimo dis
+2022-07-27T05:07:52Z: PLAYER CHATTED [ 1209778560] camilucha979         ( -188.4,    24.5,   538.1)
+  llo q quieras
+2022-07-27T05:07:53Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( -125.4,    24.1,   472.3)
+  ########
+2022-07-27T05:07:57Z: PLAYER CHATTED [ 1209778560] camilucha979         ( -181.0,    24.5,   533.1)
+  lo*
+2022-07-27T05:08:01Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( -121.0,    23.7,   476.0)
+  Te invito
+2022-07-27T05:08:01Z: PLAYER CHATTED [  634165471] unicornio46657       ( -125.4,    24.6,   468.7)
+  No has salido de vacaciones?
+2022-07-27T05:08:09Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( -133.0,    23.6,   475.6)
+  no🙁
+2022-07-27T05:08:13Z: PLAYER CHATTED [  634165471] unicornio46657       ( -133.9,    24.6,   478.5)
+  Pq?
+2022-07-27T05:08:15Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( -133.5,    23.6,   475.6)
+  Hasta mañana
+2022-07-27T05:08:23Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( -133.6,    23.6,   475.6)
+  no s , mi escuela es rara
+2022-07-27T05:08:33Z: PLAYER REMOVED [ 3176252586] flofi_30
+2022-07-27T05:08:34Z: PLAYER CHATTED [  634165471] unicornio46657       ( -137.5,    24.6,   475.5)
+  Es colegio?
+2022-07-27T05:08:36Z: PLAYER ADDED   [ 2761643048] asthetic_late
+2022-07-27T05:08:40Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( -120.9,    23.7,   466.0)
+  De monjas
+2022-07-27T05:08:46Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( -159.5,    23.8,   524.6)
+  El tuyo?
+2022-07-27T05:08:47Z: PLAYER CHATTED [ 1520946710] retuekdj             ( -120.0,    24.5,   473.0)
+  toma cami
+2022-07-27T05:08:50Z: PLAYER CHATTED [ 1209778560] camilucha979         ( -119.7,    24.6,   474.7)
+  dame
+2022-07-27T05:09:00Z: PLAYER CHATTED [  634165471] unicornio46657       ( -185.9,    24.8,   535.6)
+  Es escuela publica xd
+2022-07-27T05:09:00Z: PLAYER CHATTED [ 1209778560] camilucha979         ( -147.8,    24.4,   495.9)
+  gracias
+2022-07-27T05:09:08Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( -223.2,    23.7,   491.0)
+  Ush, yo quiero
+2022-07-27T05:09:17Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( -226.1,    23.7,   490.4)
+  Ese colegio esta bn raro
+2022-07-27T05:09:21Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( -226.1,    23.7,   490.4)
+  GRACIASS
+2022-07-27T05:09:34Z: PLAYER CHATTED [ 2761643048] asthetic_late        (  -26.0,    24.4,   -33.9)
+  abc si alguien me puede hacer mi casa 
+2022-07-27T05:09:34Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( -174.3,    23.7,   521.4)
+  Las voy a guardar en mi colección de comida robada
+2022-07-27T05:09:39Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( -174.3,    23.7,   521.4)
+  Robada
+2022-07-27T05:09:39Z: PLAYER CHATTED [  634165471] unicornio46657       ( -171.3,    24.8,   520.8)
+  JAJAJ
+2022-07-27T05:09:46Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( -174.5,    23.7,   521.7)
+  Ben súbete si quieres
+2022-07-27T05:09:51Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( -174.5,    23.7,   521.6)
+  Te invito un té
+2022-07-27T05:09:58Z: PLAYER CHATTED [  634165471] unicornio46657       ( -176.5,    23.7,   524.2)
+  Weno
+2022-07-27T05:10:01Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( -174.5,    23.7,   521.6)
+  a mi casa de lamina
+2022-07-27T05:10:22Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          (  -60.2,    23.6,   337.0)
+  Oye no
+2022-07-27T05:10:30Z: PLAYER CHATTED [  634165471] unicornio46657       ( -133.9,    23.7,   360.1)
+  Pq no?
+2022-07-27T05:10:30Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( -131.8,    23.6,   362.6)
+  Tu estas jugando con tus amigos
+2022-07-27T05:10:36Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( -170.9,    23.8,   481.4)
+  Yo k
+2022-07-27T05:10:50Z: PLAYER CHATTED [  634165471] unicornio46657       ( -179.0,    23.9,   542.4)
+  Tu tmb puedes estar con nosotros :D
+2022-07-27T05:10:55Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( -176.5,    23.8,   540.4)
+  bno
+2022-07-27T05:11:11Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( -176.8,    23.8,   540.1)
+  Les invite a todes, a mi case humilde 
+2022-07-27T05:11:12Z: PLAYER REMOVED [ 2761643048] asthetic_late
+2022-07-27T05:11:23Z: PLAYER ADDED   [ 2678673581] maylentransito1012
+2022-07-27T05:11:31Z: PLAYER CHATTED [  634165471] unicornio46657       (  348.9,    24.1,   353.2)
+  Nomas q no deja de editar su casa xd
+2022-07-27T05:11:39Z: PLAYER CHATTED [ 1209778560] camilucha979         ( -183.1,    24.5,   526.2)
+  si me cocinas t compro algo
+2022-07-27T05:11:43Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          (  642.8,    14.4,   345.8)
+  #######
+2022-07-27T05:11:44Z: PLAYER CHATTED [ 1209778560] camilucha979         ( -183.4,    24.5,   526.9)
+  lo q sea
+2022-07-27T05:11:48Z: PLAYER CHATTED [ 1209778560] camilucha979         ( -183.4,    24.5,   526.9)
+  cuando t vea
+2022-07-27T05:11:55Z: PLAYER CHATTED [ 1209778560] camilucha979         ( -182.6,    24.5,   528.5)
+  pero comida
+2022-07-27T05:11:58Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( 1317.5,    12.5,   317.1)
+  Yo cuando
+2022-07-27T05:11:58Z: PLAYER CHATTED [ 1209778560] camilucha979         ( -182.6,    24.5,   528.5)
+  nomas
+2022-07-27T05:12:03Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( 1447.7,    11.7,   332.1)
+  Me vicie
+2022-07-27T05:12:11Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( 1573.2,    13.3,   257.6)
+  Soi nivel ## en pizzas
+2022-07-27T05:12:15Z: PLAYER CHATTED [  634165471] unicornio46657       ( 1689.5,    11.7,   268.5)
+  Nais
+2022-07-27T05:12:16Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( 1705.5,    11.6,   265.2)
+  SOYYY
+2022-07-27T05:12:30Z: PLAYER CHATTED [ 1209778560] camilucha979         ( -190.5,    24.5,   541.1)
+  opa
+2022-07-27T05:12:33Z: PLAYER CHATTED [ 1209778560] camilucha979         ( -190.5,    24.5,   541.1)
+  que cocinas
+2022-07-27T05:12:34Z: PLAYER CHATTED [  634165471] unicornio46657       ( 1983.9,    11.7,  -191.8)
+  Humilde
+2022-07-27T05:12:39Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( 1986.2,    11.7,  -194.1)
+  Sii
+2022-07-27T05:12:41Z: PLAYER CHATTED [ 1209778560] camilucha979         ( -190.5,    24.5,   541.1)
+  una carnita
+2022-07-27T05:12:43Z: PLAYER CHATTED [ 1209778560] camilucha979         ( -190.5,    24.5,   541.1)
+  ######
+2022-07-27T05:12:44Z: PLAYER CHATTED [ 1520946710] retuekdj             ( -189.6,    24.4,   536.7)
+  cercadas
+2022-07-27T05:12:47Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( 1993.9,    12.2,  -190.6)
+  Pasate
+2022-07-27T05:12:49Z: PLAYER CHATTED [ 1209778560] camilucha979         ( -190.5,    24.5,   541.1)
+  aaa muy bien
+2022-07-27T05:13:12Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( 1982.2,    12.2,  -159.0)
+  ### luz mas #### # ## ###
+2022-07-27T05:13:44Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( 1965.6,    12.2,  -151.8)
+  Ven pásate
+2022-07-27T05:14:01Z: PLAYER CHATTED [  634165471] unicornio46657       ( 2006.1,    12.8,  -160.2)
+  ALA
+2022-07-27T05:14:09Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( 2010.1,    12.2,  -159.4)
+  ...
+2022-07-27T05:14:15Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( 2011.0,    12.2,  -160.0)
+  ojala 
+2022-07-27T05:14:17Z: PLAYER ADDED   [ 1151341183] sofia111723
+2022-07-27T05:14:23Z: CHRCTER ADDED  [ 1151341183] sofia111723          (-4066.9,  -112.5,   851.0)
+2022-07-27T05:14:24Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( 2011.0,    12.2,  -160.0)
+  LAA,A,KA
+2022-07-27T05:14:47Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( 2007.3,    12.2,  -126.3)
+  Tengo pastel de todo tipo..
+2022-07-27T05:14:52Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( 2007.3,    12.2,  -126.3)
+  Robados pero tengo
+2022-07-27T05:14:58Z: PLAYER CHATTED [  634165471] unicornio46657       ( 2052.7,    12.8,  -144.6)
+  xD
+2022-07-27T05:15:15Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( 2026.0,    12.2,  -147.1)
+  Esa wea esta mas cara q la casa
+2022-07-27T05:15:20Z: PLAYER CHATTED [ 1520946710] retuekdj             ( -166.2,    24.5,   533.9)
+  listó a comer
+2022-07-27T05:15:20Z: PLAYER CHATTED [  634165471] unicornio46657       ( 2023.8,    12.8,  -144.2)
+  Esta muy linda tu casa
+2022-07-27T05:15:27Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( 2010.9,    12.2,  -134.2)
+  ###########
+2022-07-27T05:15:32Z: PLAYER CHATTED [  634165471] unicornio46657       ( 2013.8,    12.8,  -141.0)
+  Ay
+2022-07-27T05:15:34Z: PLAYER CHATTED [  634165471] unicornio46657       ( 2013.8,    12.8,  -141.0)
+  Oyes
+2022-07-27T05:15:39Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( 2021.6,    12.2,  -129.7)
+  Aber t ofrezco un té?
+2022-07-27T05:15:42Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( 2021.4,    12.2,  -129.6)
+  MANDEE
+2022-07-27T05:15:46Z: PLAYER CHATTED [  634165471] unicornio46657       ( 2015.0,    12.8,  -139.4)
+  Mi mamá me dijo que apague la laptop DX
+2022-07-27T05:15:48Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( 2014.3,    12.2,  -129.9)
+  Mande—
+2022-07-27T05:15:52Z: PLAYER CHATTED [ 2333233081] ArturoCG20           ( -162.3,    24.5,   533.9)
+  huele feo
+2022-07-27T05:15:53Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( 2014.3,    12.2,  -129.9)
+  BUENOO, 
+2022-07-27T05:15:58Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( 2014.3,    12.2,  -129.9)
+  Time
+2022-07-27T05:16:03Z: PLAYER CHATTED [  634165471] unicornio46657       ( 2013.4,    12.8,  -139.4)
+  Quieres jugar mañana? :D
+2022-07-27T05:16:03Z: PLAYER CHATTED [ 1209778560] camilucha979         ( -188.5,    24.5,   537.5)
+  deja m compro un coche
+2022-07-27T05:16:04Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( 2014.3,    12.2,  -129.9)
+  Tkm
+2022-07-27T05:16:05Z: PLAYER REMOVED [ 1151341183] sofia111723
+2022-07-27T05:16:09Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( 2014.1,    12.2,  -130.5)
+  Sipi
+2022-07-27T05:16:14Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( 2014.1,    12.2,  -130.2)
+  descansa 
+2022-07-27T05:16:16Z: PLAYER CHATTED [  634165471] unicornio46657       ( 2011.9,    12.8,  -131.3)
+  ################
+2022-07-27T05:16:27Z: PLAYER CHATTED [  634165471] unicornio46657       ( 2012.5,    12.8,  -132.9)
+  C le quiere por igual
+2022-07-27T05:16:28Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( 2013.7,    12.2,  -130.6)
+  Mande
+2022-07-27T05:16:32Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( 2013.7,    12.2,  -130.6)
+  ######
+2022-07-27T05:16:37Z: PLAYER REMOVED [  634165471] unicornio46657
+2022-07-27T05:16:37Z: PLAYER CHATTED [ 1800843923] Jazcasaa_ok          ( 2013.0,    12.2,  -131.1)
+  Chauu
+2022-07-27T05:16:48Z: PLAYER REMOVED [ 1800843923] Jazcasaa_ok
+2022-07-27T05:17:04Z: PLAYER REMOVED [ 2678673581] maylentransito1012
+2022-07-27T05:18:57Z: CHRCTER ADDED  [ 1209778560] camilucha979         ( -169.8,    25.9,   536.7)
+2022-07-27T05:19:56Z: PLAYER REMOVED [ 1209778560] camilucha979
+2022-07-27T05:19:57Z: PLAYER REMOVED [ 1520946710] retuekdj
+2022-07-27T05:20:09Z: PLAYER ADDED   [ 1209778560] camilucha979
+2022-07-27T05:22:54Z: PLAYER ADDED   [ 1151341183] sofia111723
+2022-07-27T05:23:00Z: CHRCTER ADDED  [ 1151341183] sofia111723          (-4066.9,  -102.3,   851.0)
+2022-07-27T05:24:45Z: PLAYER REMOVED [ 2685883441] xLco0
+2022-07-27T05:26:43Z: PLAYER ADDED   [ 2324271362] Pantera1234323
+2022-07-27T05:27:16Z: PLAYER ADDED   [ 1566553107] Aplastor40
+2022-07-27T05:27:17Z: PLAYER ADDED   [ 2508173503] Alisson_pro72
+2022-07-27T05:27:24Z: PLAYER ADDED   [ 1624251042] luisrey230
+2022-07-27T05:28:49Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( -111.6,    24.4,   215.2)
+  Necesito trabajo xD
+2022-07-27T05:28:55Z: PLAYER CHATTED [ 2333233081] ArturoCG20           (  792.0,    14.1,  -156.3)
+  yo en latam
+2022-07-27T05:28:57Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        (  -96.8,    24.4,   218.1)
+  Alguien me contrata 
+2022-07-27T05:29:13Z: CHRCTER ADDED  [ 2508173503] Alisson_pro72        ( -169.8,    25.9,   191.2)
+2022-07-27T05:29:23Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( -164.4,    24.6,   190.0)
+  ??
+2022-07-27T05:29:29Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( -164.4,    24.6,   190.0)
+  Ay 😫
+2022-07-27T05:29:31Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( -164.4,    24.6,   190.0)
+  XD
+2022-07-27T05:30:00Z: PLAYER REMOVED [ 1151341183] sofia111723
+2022-07-27T05:30:02Z: PLAYER ADDED   [ 3600402496] Mariagpe155
+2022-07-27T05:30:44Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        (   -4.4,    24.5,   232.5)
+  Busco trabajo xD
+2022-07-27T05:31:14Z: PLAYER REMOVED [ 1084411388] gabricrack9999
+2022-07-27T05:31:25Z: PLAYER ADDED   [ 2539885005] alvarori201020
+2022-07-27T05:34:15Z: PLAYER CHATTED [ 1209778560] camilucha979         (  988.7,    14.8,  1128.6)
+  carlos
+2022-07-27T05:34:29Z: PLAYER CHATTED [ 2324271362] Pantera1234323       ( -113.2,    25.9,   136.9)
+  eu
+2022-07-27T05:34:56Z: PLAYER CHATTED [ 2324271362] Pantera1234323       ( -106.5,    24.5,   481.4)
+  Mande
+2022-07-27T05:35:07Z: PLAYER CHATTED [ 2333233081] ArturoCG20           (  989.5,    25.7,  1109.6)
+  but te sientes :v
+2022-07-27T05:35:13Z: PLAYER REMOVED [ 1566553107] Aplastor40
+2022-07-27T05:35:18Z: PLAYER CHATTED [ 1209778560] camilucha979         (  988.7,    14.8,  1128.6)
+  when te sientas :v
+2022-07-27T05:35:20Z: PLAYER ADDED   [ 2941149211] 777renataboss
+2022-07-27T05:35:25Z: PLAYER CHATTED [ 1209778560] camilucha979         (  988.7,    14.8,  1128.6)
+  XDD
+2022-07-27T05:35:42Z: PLAYER REMOVED [ 1624251042] luisrey230
+2022-07-27T05:35:49Z: PLAYER ADDED   [ 2241014489] iloveunicorntv
+2022-07-27T05:35:51Z: CHRCTER ADDED  [ 2241014489] iloveunicorntv       (-4066.9,   -90.3,   851.0)
+2022-07-27T05:37:36Z: CHRCTER ADDED  [ 2324271362] Pantera1234323       ( 1901.8,    13.9,   173.1)
+2022-07-27T05:37:47Z: PLAYER ADDED   [ 1312294711] mich1395
+2022-07-27T05:39:08Z: PLAYER REMOVED [  878153943] ernestocazares66
+2022-07-27T05:39:51Z: PLAYER REMOVED [ 2539885005] alvarori201020
+2022-07-27T05:39:57Z: PLAYER ADDED   [ 2826339571] vengodelfrifree
+2022-07-27T05:41:20Z: PLAYER CHATTED [ 2333233081] ArturoCG20           ( 1134.1,    13.6,   263.0)
+  #####
+2022-07-27T05:41:21Z: PLAYER CHATTED [ 2333233081] ArturoCG20           ( 1134.1,    13.6,   263.0)
+  pvp
+2022-07-27T05:41:24Z: PLAYER CHATTED [ 2333233081] ArturoCG20           ( 1134.1,    13.6,   263.0)
+  7-0
+2022-07-27T05:41:29Z: PLAYER CHATTED [ 2333233081] ArturoCG20           ( 1134.1,    13.6,   263.0)
+  pongo sala en meepcity
+2022-07-27T05:41:41Z: PLAYER CHATTED [ 2324271362] Pantera1234323       ( 1137.1,    13.7,   264.1)
+  que es eso
+2022-07-27T05:41:46Z: PLAYER CHATTED [ 1209778560] camilucha979         ( 1128.1,    13.7,   265.1)
+  ###
+2022-07-27T05:41:49Z: PLAYER CHATTED [ 1209778560] camilucha979         ( 1128.1,    13.7,   265.1)
+  nub
+2022-07-27T05:41:51Z: PLAYER CHATTED [ 2324271362] Pantera1234323       ( 1127.9,    13.7,   268.8)
+  en fri te dejo
+2022-07-27T05:42:00Z: PLAYER CHATTED [ 2324271362] Pantera1234323       ( 1131.6,    13.7,   259.8)
+  y en arcenal
+2022-07-27T05:42:00Z: PLAYER CHATTED [ 2333233081] ArturoCG20           ( 1134.1,    13.6,   263.0)
+  a ti 6-0
+2022-07-27T05:42:03Z: PLAYER CHATTED [ 1209778560] camilucha979         ( 1130.3,    13.7,   261.9)
+  emotisa
+2022-07-27T05:42:24Z: PLAYER REMOVED [ 2941149211] 777renataboss
+2022-07-27T05:42:25Z: PLAYER ADDED   [ 2261931140] calixe47
+2022-07-27T05:42:33Z: PLAYER REMOVED [ 2333233081] ArturoCG20
+2022-07-27T05:42:38Z: PLAYER ADDED   [ 1377007980] Lep_itoG
+2022-07-27T05:42:48Z: PLAYER ADDED   [  821398432] BRKR92
+2022-07-27T05:43:48Z: PLAYER CHATTED [ 2826339571] vengodelfrifree      ( 1955.5,    11.0,  -189.3)
+  oye
+2022-07-27T05:43:50Z: PLAYER REMOVED [ 1209778560] camilucha979
+2022-07-27T05:44:02Z: PLAYER REMOVED [ 2324271362] Pantera1234323
+2022-07-27T05:44:11Z: PLAYER ADDED   [ 3005721469] AIMANEUNS
+2022-07-27T05:44:54Z: CHRCTER ADDED  [ 3005721469] AIMANEUNS            (-4066.9,  -107.0,   851.0)
+2022-07-27T05:46:20Z: PLAYER REMOVED [ 3005721469] AIMANEUNS
+2022-07-27T05:46:23Z: PLAYER ADDED   [ 1667082871] Emmanuel24560
+2022-07-27T05:47:40Z: PLAYER CHATTED [ 2826339571] vengodelfrifree      ( 1859.9,    10.8,  -298.4)
+  oye
+2022-07-27T05:47:46Z: PLAYER CHATTED [  821398432] BRKR92               ( 1850.2,    13.9,  -305.8)
+  ??
+2022-07-27T05:47:55Z: PLAYER CHATTED [ 2826339571] vengodelfrifree      ( 1852.2,    10.8,  -301.7)
+  me puedes ayudar
+2022-07-27T05:48:00Z: PLAYER CHATTED [  821398432] BRKR92               ( 1853.6,    12.5,  -310.0)
+  a?
+2022-07-27T05:48:01Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        (  825.6,    13.7,   261.2)
+  Busco trabajo xD
+2022-07-27T05:48:11Z: PLAYER CHATTED [ 2826339571] vengodelfrifree      ( 1853.2,    10.8,  -302.2)
+  a cambiarme de edad
+2022-07-27T05:48:23Z: PLAYER CHATTED [  821398432] BRKR92               ( 1853.6,    12.5,  -310.0)
+  aaaah
+2022-07-27T05:48:25Z: PLAYER CHATTED [ 2826339571] vengodelfrifree      ( 1853.3,    10.8,  -303.6)
+  no pueso trabajar jaja
+2022-07-27T05:48:30Z: PLAYER CHATTED [ 2826339571] vengodelfrifree      ( 1853.3,    10.8,  -303.6)
+  puedo*
+2022-07-27T05:48:34Z: PLAYER CHATTED [  821398432] BRKR92               ( 1853.6,    12.5,  -310.0)
+  es con un armario no?
+2022-07-27T05:48:45Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        (  825.6,    13.7,   261.2)
+  Si
+2022-07-27T05:48:45Z: PLAYER CHATTED [ 2826339571] vengodelfrifree      ( 1860.7,    10.8,  -308.2)
+  si, ve te muestro mi casa
+2022-07-27T05:49:17Z: PLAYER CHATTED [ 2826339571] vengodelfrifree      ( 1874.3,    10.8,  -392.4)
+  namas tengo eso
+2022-07-27T05:49:21Z: PLAYER CHATTED [  821398432] BRKR92               ( 1873.7,    12.5,  -387.4)
+  me telettransporto y te invito
+2022-07-27T05:49:28Z: PLAYER CHATTED [  821398432] BRKR92               ( 1873.7,    12.5,  -387.4)
+  aguanta
+2022-07-27T05:49:30Z: PLAYER CHATTED [ 2826339571] vengodelfrifree      ( 1874.5,    10.8,  -391.1)
+  va, graciaa
+2022-07-27T05:52:51Z: PLAYER REMOVED [ 1667082871] Emmanuel24560
+2022-07-27T05:53:22Z: PLAYER ADDED   [ 2764090446] Lordeeeee15
+2022-07-27T05:54:50Z: PLAYER REMOVED [ 3600402496] Mariagpe155
+2022-07-27T05:54:52Z: PLAYER ADDED   [ 1765924509] DeathCrystal2009
+2022-07-27T05:54:55Z: PLAYER REMOVED [ 1765924509] DeathCrystal2009
+2022-07-27T05:55:17Z: PLAYER REMOVED [ 2764090446] Lordeeeee15
+2022-07-27T05:55:19Z: PLAYER ADDED   [ 2475084115] Aliha_t
+2022-07-27T05:55:20Z: PLAYER ADDED   [ 1592972865] bebotee87
+2022-07-27T05:55:35Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( 1159.3,    13.7,   277.7)
+  Busco trabajo xD
+2022-07-27T05:56:15Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1995.3,    13.2,   356.4)
+  Hola 
+2022-07-27T05:56:22Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( 1226.9,    15.1,   317.6)
+  Busco trabajo xD
+2022-07-27T05:56:27Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( 1262.4,    15.1,   307.4)
+  Hola xd
+2022-07-27T05:56:52Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 2148.2,    13.2,   291.9)
+  Hola 
+2022-07-27T05:57:07Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( 1154.7,    15.3,   303.6)
+  Buscas sirvienta?
+2022-07-27T05:57:42Z: PLAYER CHATTED [  821398432] BRKR92               (   48.5,    24.5,    36.4)
+  tp
+2022-07-27T05:57:52Z: PLAYER CHATTED [  821398432] BRKR92               (   40.2,    24.5,    25.3)
+  o caminando?
+2022-07-27T05:58:00Z: PLAYER CHATTED [ 2261931140] calixe47             (   38.6,    24.7,    18.4)
+  tp
+2022-07-27T05:58:06Z: PLAYER CHATTED [  821398432] BRKR92               (   33.4,    24.5,    22.6)
+  ok
+2022-07-27T05:59:01Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1156.9,    14.4,   290.9)
+  Y
+2022-07-27T05:59:08Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1129.6,    14.4,   295.6)
+  Hola 
+2022-07-27T05:59:12Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1129.6,    14.4,   295.6)
+  Soy 
+2022-07-27T05:59:18Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1129.6,    14.4,   295.6)
+  Nuevo
+2022-07-27T05:59:22Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        (  -86.3,    26.0,   183.1)
+  a
+2022-07-27T05:59:46Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1159.2,    14.4,   301.2)
+  Yoo
+2022-07-27T05:59:50Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1102.9,    14.2,   326.1)
+  Hola 
+2022-07-27T06:00:01Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1102.5,    14.2,   366.5)
+  🙏🙏
+2022-07-27T06:00:03Z: PLAYER REMOVED [ 2826339571] vengodelfrifree
+2022-07-27T06:00:04Z: PLAYER ADDED   [ 1941681530] valen_paola123
+2022-07-27T06:00:05Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        (  817.9,    14.9,   315.5)
+  ??
+2022-07-27T06:00:24Z: PLAYER REMOVED [ 1941681530] valen_paola123
+2022-07-27T06:00:26Z: PLAYER ADDED   [ 2538243532] Marian314763
+2022-07-27T06:00:59Z: PLAYER CHATTED [ 2538243532] Marian314763         (-4066.9,  -115.2,   851.0)
+  !busco familia!
+2022-07-27T06:01:03Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( 1077.8,    15.3,   807.6)
+  Yo
+2022-07-27T06:01:11Z: PLAYER CHATTED [ 2538243532] Marian314763         (-4066.9,  -115.2,   851.0)
+  Ok
+2022-07-27T06:01:23Z: PLAYER CHATTED [ 2538243532] Marian314763         ( 1907.8,    12.9,   524.1)
+  Te miro en las pizzas 
+2022-07-27T06:01:27Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        (  933.3,    15.1,   318.9)
+  Ok
+2022-07-27T06:02:01Z: CHRCTER ADDED  [ 2508173503] Alisson_pro72        ( -169.8,    25.9,   191.2)
+2022-07-27T06:02:56Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1937.2,    13.5,    25.3)
+  Hola 
+2022-07-27T06:03:09Z: PLAYER CHATTED [  821398432] BRKR92               ( 1905.5,    14.1,    65.2)
+  hola..
+2022-07-27T06:03:13Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1909.8,    13.4,    60.5)
+  Soy 
+2022-07-27T06:03:19Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1909.8,    13.4,    59.0)
+  Nuevo 
+2022-07-27T06:03:31Z: PLAYER CHATTED [  821398432] BRKR92               ( 1909.8,    14.1,    48.4)
+  ok, ve al punto
+2022-07-27T06:03:34Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1912.3,    13.2,    51.8)
+  No se que aser
+2022-07-27T06:03:42Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        (  813.6,    12.5,   308.2)
+  Ontas Daniela
+2022-07-27T06:03:45Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1911.3,    13.3,    47.0)
+  Emm
+2022-07-27T06:03:48Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1911.3,    13.3,    47.0)
+  Qué 
+2022-07-27T06:03:53Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        (  852.6,    12.8,   299.1)
+  Diana-8
+2022-07-27T06:03:58Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        (  855.5,    12.8,   303.1)
+  *
+2022-07-27T06:03:59Z: PLAYER CHATTED [  821398432] BRKR92               ( 1914.6,    13.9,    40.0)
+  ####### de ########## de pizzas para ahorrar dinero y agrandar tu casa
+2022-07-27T06:04:11Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1907.4,    13.4,    43.9)
+  Voy a la pizza 
+2022-07-27T06:04:16Z: PLAYER CHATTED [  821398432] BRKR92               ( 1891.4,    13.9,    55.9)
+  si
+2022-07-27T06:04:25Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( 1158.0,    12.8,   288.5)
+  hola? Ese es tu?
+2022-07-27T06:04:27Z: PLAYER CHATTED [  821398432] BRKR92               ( 1874.5,    13.9,    64.5)
+  hasta la proxima
+2022-07-27T06:04:30Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1924.7,    13.5,    47.3)
+  Tengo
+2022-07-27T06:04:35Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1924.7,    13.5,    47.3)
+  Abre
+2022-07-27T06:04:36Z: PLAYER CHATTED [ 2538243532] Marian314763         ( 1164.9,    13.9,   293.4)
+  Hola
+2022-07-27T06:04:38Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1924.7,    13.5,    47.3)
+  Y
+2022-07-27T06:04:39Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( 1163.8,    12.8,   297.3)
+  Deja me cambio bien jsjs
+2022-07-27T06:04:45Z: PLAYER CHATTED [ 2538243532] Marian314763         ( 1164.9,    13.9,   293.4)
+  Ok
+2022-07-27T06:04:54Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( 1163.8,    12.8,   297.3)
+  Espérame
+2022-07-27T06:05:03Z: PLAYER REMOVED [ 2508173503] Alisson_pro72
+2022-07-27T06:05:04Z: PLAYER ADDED   [ 3600402496] Mariagpe155
+2022-07-27T06:05:26Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1704.6,    13.2,   320.7)
+  Hola 
+2022-07-27T06:05:28Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1704.6,    13.2,   320.7)
+  Me
+2022-07-27T06:05:39Z: PLAYER CHATTED [ 2261931140] calixe47             ( 1697.2,    14.0,   317.7)
+  hola
+2022-07-27T06:05:41Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1704.6,    13.2,   320.7)
+  Pues he e
+2022-07-27T06:05:52Z: PLAYER ADDED   [ 2508173503] Alisson_pro72
+2022-07-27T06:05:52Z: PLAYER CHATTED [ 2261931140] calixe47             ( 1697.1,    14.0,   317.7)
+  ?
+2022-07-27T06:05:57Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1705.2,    13.2,   320.2)
+  Me puedo ayudar 
+2022-07-27T06:06:02Z: PLAYER CHATTED [ 2261931140] calixe47             ( 1697.1,    14.0,   317.7)
+  en?
+2022-07-27T06:06:13Z: PLAYER REMOVED [ 3600402496] Mariagpe155
+2022-07-27T06:06:14Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1704.5,    13.2,   316.1)
+  Abre y 
+2022-07-27T06:06:15Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        (-4066.9,  -116.2,   851.0)
+  Volvi Diana
+2022-07-27T06:06:19Z: PLAYER CHATTED [ 2538243532] Marian314763         ( 1164.6,    13.9,   293.7)
+  Ok
+2022-07-27T06:06:20Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1704.5,    13.2,   316.1)
+  Subió
+2022-07-27T06:06:30Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( -103.7,    23.7,   200.3)
+  Ahí voy
+2022-07-27T06:06:34Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1700.9,    13.2,   316.0)
+  Si. No
+2022-07-27T06:06:41Z: PLAYER CHATTED [ 2261931140] calixe47             ( 1705.6,    14.0,   317.4)
+  he si
+2022-07-27T06:06:53Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1699.7,    13.2,   318.9)
+  El me he as a
+2022-07-27T06:06:53Z: PLAYER REMOVED [ 2241014489] iloveunicorntv
+2022-07-27T06:06:59Z: PLAYER ADDED   [ 2348644739] kjiurthn
+2022-07-27T06:07:02Z: PLAYER CHATTED [ 2538243532] Marian314763         ( 1150.1,    16.6,   291.6)
+  Ok ntp aquí te espero
+2022-07-27T06:07:02Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1699.0,    13.2,   317.6)
+  Me 
+2022-07-27T06:07:06Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        (  228.8,    24.3,   272.6)
+  Y si nos vemos en las hamburguesas?
+2022-07-27T06:07:08Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1697.5,    13.2,   316.1)
+  Newest
+2022-07-27T06:07:13Z: PLAYER CHATTED [ 2538243532] Marian314763         ( 1150.1,    16.6,   291.6)
+  Ok
+2022-07-27T06:07:15Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1698.9,    13.2,   317.1)
+  Nesecito 
+2022-07-27T06:07:19Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1698.9,    13.2,   317.1)
+  Casa
+2022-07-27T06:07:28Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1697.8,    13.2,   316.1)
+  Y no tengo
+2022-07-27T06:07:37Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1704.1,    13.2,   311.5)
+  #####
+2022-07-27T06:07:46Z: PLAYER CHATTED [ 2261931140] calixe47             ( 1691.0,    14.0,   317.9)
+  donde es tu propiedad_
+2022-07-27T06:07:53Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1729.5,    13.2,   319.0)
+  Ven
+2022-07-27T06:07:53Z: PLAYER CHATTED [ 2538243532] Marian314763         (  842.8,    13.1,   287.6)
+  Ñam
+2022-07-27T06:07:55Z: PLAYER CHATTED [ 2261931140] calixe47             ( 1691.0,    14.0,   317.9)
+  ?
+2022-07-27T06:07:56Z: PLAYER CHATTED [ 2538243532] Marian314763         (  842.8,    13.1,   287.6)
+  Ñam
+2022-07-27T06:07:59Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        (  842.4,    12.9,   284.4)
+  Hola!
+2022-07-27T06:08:04Z: PLAYER CHATTED [ 2538243532] Marian314763         (  842.8,    13.1,   287.6)
+  Hola!
+2022-07-27T06:08:19Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        (  846.6,    12.7,   291.4)
+  :D
+2022-07-27T06:08:27Z: PLAYER CHATTED [ 2538243532] Marian314763         (  842.8,    13.1,   287.6)
+  C:
+2022-07-27T06:08:45Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        (  846.6,    12.7,   291.4)
+  Vamos a casa mamá :>
+2022-07-27T06:08:53Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1905.0,    13.4,   175.7)
+  Si o no
+2022-07-27T06:08:58Z: PLAYER CHATTED [ 2538243532] Marian314763         (  841.4,    13.9,   283.4)
+  Vale cariño…
+2022-07-27T06:09:03Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1905.0,    13.4,   175.7)
+  Soy nuevo
+2022-07-27T06:09:03Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        (  854.2,    14.7,   266.2)
+  :)
+2022-07-27T06:09:11Z: PLAYER CHATTED [ 2538243532] Marian314763         (  795.6,    13.9,   304.5)
+  C:
+2022-07-27T06:09:11Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1905.0,    13.4,   175.7)
+  Sabes 
+2022-07-27T06:09:11Z: PLAYER CHATTED [ 2261931140] calixe47             ( 1907.8,    12.8,   172.8)
+  en que te ayudo ya no me acuerdo
+2022-07-27T06:09:37Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1905.0,    13.4,   175.7)
+  Tengo abre 
+2022-07-27T06:09:44Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1903.1,    13.2,   173.7)
+  Y también 
+2022-07-27T06:10:05Z: PLAYER CHATTED [ 2261931140] calixe47             ( 1905.9,    12.8,   170.0)
+  a si sabes como decorar o no?
+2022-07-27T06:10:22Z: PLAYER CHATTED [ 2538243532] Marian314763         ( -166.9,    24.8,   195.6)
+  Y tu casa?
+2022-07-27T06:10:22Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1901.0,    13.2,   172.0)
+  No mi ermana me ayuda 
+2022-07-27T06:10:39Z: PLAYER CHATTED [ 2261931140] calixe47             ( 1905.9,    12.8,   170.0)
+  a picale a la casita que tienes alado
+2022-07-27T06:10:48Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( -167.0,    23.2,   182.7)
+  No tengo apenas estoy ahorrando para hacer una 
+2022-07-27T06:10:52Z: PLAYER CHATTED [ 2538243532] Marian314763         ( -165.9,    25.2,   184.7)
+  Y tu cs? Cariño 
+2022-07-27T06:10:58Z: PLAYER CHATTED [  821398432] BRKR92               ( 1913.5,    13.9,   173.9)
+  llevalo a la casa y que se haga #### un rato :v
+2022-07-27T06:11:05Z: PLAYER CHATTED [ 2261931140] calixe47             ( 1905.9,    12.8,   170.0)
+  # #### a aparecer modo construccion
+2022-07-27T06:11:07Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( -148.1,    25.5,   239.9)
+  Tú no tienes mami?
+2022-07-27T06:11:08Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1901.8,    13.0,   173.1)
+  Pero esta 
+2022-07-27T06:11:11Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1901.8,    13.0,   173.1)
+  Yaya
+2022-07-27T06:11:41Z: PLAYER CHATTED [ 2261931140] calixe47             ( 1905.5,    12.8,   169.2)
+  hay le picas en decorar
+2022-07-27T06:11:52Z: PLAYER CHATTED [ 2261931140] calixe47             ( 1905.7,    12.8,   170.4)
+  y asi
+2022-07-27T06:11:57Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1901.8,    13.0,   173.1)
+  No
+2022-07-27T06:12:10Z: PLAYER CHATTED [ 2261931140] calixe47             ( 1905.7,    12.8,   170.4)
+  no que?
+2022-07-27T06:12:26Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( 1902.5,    13.2,   524.1)
+  ##
+2022-07-27T06:12:49Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( 1936.5,    13.4,   453.2)
+  Ahora que hacemos mami?
+2022-07-27T06:13:02Z: PLAYER CHATTED [ 2538243532] Marian314763         ( 1942.8,    12.7,   317.4)
+  ########## una habitación…
+2022-07-27T06:13:11Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( 1963.2,    13.3,   355.7)
+  ok
+2022-07-27T06:13:21Z: PLAYER CHATTED [ 2538243532] Marian314763         ( 1963.8,    12.8,   355.9)
+  Pero ####### princesa tienes que comer”
+2022-07-27T06:13:40Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( 1993.7,    13.3,   354.6)
+  Ok ####
+2022-07-27T06:13:58Z: PLAYER REMOVED [ 2475084115] Aliha_t
+2022-07-27T06:14:04Z: PLAYER CHATTED [ 2538243532] Marian314763         ( 2040.3,    12.8,   457.6)
+  Mira un parque…
+2022-07-27T06:14:07Z: PLAYER ADDED   [ 2009570939] zukon6
+2022-07-27T06:14:12Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( 2054.5,    22.9,   434.5)
+  Sii
+2022-07-27T06:14:12Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1901.8,    13.0,   173.1)
+  Mal
+2022-07-27T06:14:12Z: CHRCTER ADDED  [ 2009570939] zukon6               (-4066.9,  -114.2,   851.0)
+2022-07-27T06:14:19Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1901.8,    13.0,   173.1)
+  No se
+2022-07-27T06:14:31Z: PLAYER CHATTED [ 2261931140] calixe47             ( 1907.4,    12.8,   170.3)
+  picale a la exis
+2022-07-27T06:15:02Z: PLAYER CHATTED [ 2261931140] calixe47             ( 1906.4,    12.8,   170.6)
+  te los voy a poner pero necesito
+2022-07-27T06:15:11Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( 2019.7,    13.6,   405.5)
+  Mami
+2022-07-27T06:15:16Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( 2060.0,    18.2,   352.8)
+  Cuánto dinero tienes?
+2022-07-27T06:15:30Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( 2033.5,    13.7,   280.1)
+  ##
+2022-07-27T06:15:34Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( 2063.0,    13.3,   277.9)
+  ??
+2022-07-27T06:15:37Z: PLAYER CHATTED [ 2538243532] Marian314763         ( 2063.6,    12.8,   277.8)
+  Para que cariño?
+2022-07-27T06:15:38Z: PLAYER CHATTED [ 2261931140] calixe47             ( 1907.9,    12.8,   171.0)
+  hasme compañero de piso
+2022-07-27T06:15:51Z: PLAYER CHATTED [ 2261931140] calixe47             ( 1907.9,    12.8,   171.0)
+  si sabes?
+2022-07-27T06:15:56Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( 2144.4,    25.3,   399.3)
+  Para hacer una casita pequeña mami:)
+2022-07-27T06:16:17Z: PLAYER CHATTED [ 2538243532] Marian314763         ( 2084.0,    12.7,   310.0)
+  Emm
+2022-07-27T06:16:25Z: PLAYER CHATTED [ 2261931140] calixe47             ( 1906.1,    12.8,   171.8)
+  tienes dinero
+2022-07-27T06:16:30Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1911.2,    13.4,   172.7)
+  Liso
+2022-07-27T06:16:33Z: PLAYER CHATTED [ 2538243532] Marian314763         ( 2084.0,    12.7,   310.0)
+  Ok tengo que trabajar un poco más 
+2022-07-27T06:16:33Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1911.2,    13.4,   172.7)
+  No
+2022-07-27T06:16:42Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( 2083.6,    11.7,   307.0)
+  Oki mami
+2022-07-27T06:16:47Z: PLAYER CHATTED [ 2538243532] Marian314763         ( 2084.0,    12.7,   310.0)
+  Para hacer una casita chiquita y cómoda…
+2022-07-27T06:16:51Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( 2083.6,    11.7,   307.0)
+  Sii
+2022-07-27T06:16:57Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( 2126.0,    13.7,   301.7)
+  :)
+2022-07-27T06:17:01Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1912.4,    13.2,   170.4)
+  Esquema 
+2022-07-27T06:17:04Z: PLAYER CHATTED [ 2538243532] Marian314763         ( 2126.6,    13.1,   301.4)
+  O deja y pongo mi csa
+2022-07-27T06:17:10Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( 2145.2,    13.5,   315.1)
+  Ok
+2022-07-27T06:17:16Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1909.1,    13.4,   168.3)
+  Listo 
+2022-07-27T06:17:20Z: PLAYER CHATTED [ 1592972865] bebotee87            ( 1908.2,    13.4,   167.8)
+  O no
+2022-07-27T06:17:47Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( 2061.5,    11.8,   278.8)
+  Mamá?
+2022-07-27T06:17:57Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( 2003.7,    11.8,   270.0)
+  :(
+2022-07-27T06:18:04Z: PLAYER CHATTED [ 2261931140] calixe47             ( 1907.3,    12.8,   166.5)
+  esque necesitas trabajar para tener dinero
+2022-07-27T06:18:10Z: PLAYER CHATTED [ 2538243532] Marian314763         ( 1907.8,    12.9,   559.1)
+  Voy pequeña 
+2022-07-27T06:18:14Z: PLAYER CHATTED [ 2538243532] Marian314763         ( 1907.4,    12.9,   531.3)
+  Ven
+2022-07-27T06:18:27Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( 1886.2,    25.5,   507.4)
+  Wow que casota mami
+2022-07-27T06:19:03Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( 1815.3,    47.8,   509.1)
+  Que bonito!
+2022-07-27T06:19:06Z: PLAYER REMOVED [ 1592972865] bebotee87
+2022-07-27T06:19:10Z: PLAYER CHATTED [ 2538243532] Marian314763         ( 1816.3,    48.8,   513.0)
+  O quieres esta?
+2022-07-27T06:19:12Z: PLAYER ADDED   [ 1500203204] ADMPALAN
+2022-07-27T06:19:15Z: CHRCTER ADDED  [ 1500203204] ADMPALAN             (-4066.9,  -102.8,   851.0)
+2022-07-27T06:19:16Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( 1813.7,    49.3,   520.7)
+  Cual
+2022-07-27T06:19:36Z: PLAYER REMOVED [ 1312294711] mich1395
+2022-07-27T06:19:38Z: PLAYER REMOVED [ 1500203204] ADMPALAN
+2022-07-27T06:19:39Z: PLAYER ADDED   [  275011463] littleprincess18_9
+2022-07-27T06:19:39Z: PLAYER ADDED   [ 3416879147] Richibloxyfandedessy
+2022-07-27T06:19:44Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( 1805.8,    23.8,   535.0)
+  La otra :)
+2022-07-27T06:19:50Z: PLAYER CHATTED [ 2538243532] Marian314763         ( 1812.2,    24.8,   532.5)
+  O esta?
+2022-07-27T06:20:00Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( 1852.6,    33.6,   504.7)
+  Me das permisos jiji
+2022-07-27T06:20:08Z: PLAYER CHATTED [ 2538243532] Marian314763         ( 1869.0,    36.8,   508.0)
+  Sisisis
+2022-07-27T06:20:12Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( 1868.3,    37.2,   508.1)
+  Mmm
+2022-07-27T06:20:21Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( 1853.0,    46.7,   526.2)
+  La otra la de arriba
+2022-07-27T06:20:26Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( 1812.5,    49.3,   520.3)
+  Esa!
+2022-07-27T06:20:30Z: PLAYER CHATTED [ 2538243532] Marian314763         ( 1816.4,    48.8,   513.4)
+  Ok
+2022-07-27T06:20:30Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( 1817.1,    49.2,   513.7)
+  :)
+2022-07-27T06:20:33Z: PLAYER CHATTED [ 2538243532] Marian314763         ( 1816.4,    48.8,   513.4)
+  Ok 
+2022-07-27T06:20:34Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( 1813.2,    50.4,   512.6)
+  Tqm
+2022-07-27T06:20:45Z: PLAYER CHATTED [ 2538243532] Marian314763         ( 1816.4,    48.8,   513.4)
+  Deja y te traigo la comida”
+2022-07-27T06:20:48Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( 1815.2,    47.8,   510.7)
+  Ok
+2022-07-27T06:21:04Z: PLAYER CHATTED [ 2538243532] Marian314763         ( 1814.9,    48.8,   515.4)
+  Espérame cariño 
+2022-07-27T06:21:10Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( 1907.8,    11.9,   559.1)
+  Ok mami
+2022-07-27T06:22:07Z: PLAYER CHATTED [ 2538243532] Marian314763         ( 1809.1,    48.8,   508.9)
+  Listo 
+2022-07-27T06:22:09Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( 1808.4,    47.8,   509.1)
+  :)
+2022-07-27T06:22:15Z: PLAYER REMOVED [  275011463] littleprincess18_9
+2022-07-27T06:22:18Z: PLAYER ADDED   [  511090770] Maylethpolinesia
+2022-07-27T06:22:19Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( 1807.5,    47.8,   507.8)
+  :D
+2022-07-27T06:22:22Z: PLAYER CHATTED [ 2538243532] Marian314763         ( 1809.1,    48.8,   508.9)
+  C:
+2022-07-27T06:22:54Z: PLAYER CHATTED [ 2538243532] Marian314763         ( 1812.9,    48.8,   521.0)
+  Yo te aviso cuando esté la comida”
+2022-07-27T06:22:59Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( 1814.8,    47.8,   507.8)
+  Oki mami
+2022-07-27T06:23:09Z: PLAYER CHATTED [ 2508173503] Alisson_pro72        ( 1820.7,    47.8,   513.7)
+  Me daré un baño
+2022-07-27T06:24:34Z: PLAYER CHATTED [ 2538243532] Marian314763         ( 1876.1,    24.7,   537.7)
+  Ok
+2022-07-27T06:24:36Z: PLAYER REMOVED [ 2692203726] rarathem
+2022-07-27T06:24:36Z: PLAYER REMOVED [ 2261931140] calixe47
+2022-07-27T06:24:36Z: PLAYER REMOVED [ 1377007980] Lep_itoG
+2022-07-27T06:24:36Z: PLAYER REMOVED [  821398432] BRKR92
+2022-07-27T06:24:36Z: PLAYER REMOVED [ 2538243532] Marian314763
+2022-07-27T06:24:36Z: PLAYER REMOVED [ 2508173503] Alisson_pro72
+2022-07-27T06:24:36Z: PLAYER REMOVED [ 2348644739] kjiurthn
+2022-07-27T06:24:36Z: PLAYER REMOVED [ 2009570939] zukon6
+2022-07-27T06:24:36Z: PLAYER REMOVED [ 3416879147] Richibloxyfandedessy
+2022-07-27T06:24:36Z: PLAYER REMOVED [  511090770] Maylethpolinesia

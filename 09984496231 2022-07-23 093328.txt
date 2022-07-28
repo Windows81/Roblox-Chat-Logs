@@ -1,0 +1,18 @@
+[    1630228] : [ 9984496231] Site-56 - 8852cdf9-417f-4bb6-8db1-e0fecc029119
+2022-07-23T09:33:29Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-07-23T09:33:29Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-07-23T09:33:29Z: PLAYER ADDED   [ 3301350295] eggtmqk
+2022-07-23T09:33:29Z: PLAYER ADDED   [  515636321] LogzGaming26
+2022-07-23T09:33:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (  116.7,   404.3,   -74.7)
+  I'm back.
+2022-07-23T09:34:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (  116.7,   404.3,   -74.7)
+  Just a sec.
+2022-07-23T09:34:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (  116.7,   404.3,   -74.7)
+  I'll tell you what you said.
+2022-07-23T09:35:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (  155.4,   404.3,   -72.0)
+  I don't have the logs.
+2022-07-23T09:35:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (  164.2,   404.3,   -71.5)
+  It was unteleportable to say the least.
+2022-07-23T09:37:09Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -20.4,   415.3,   356.5)
+  I'll be AFK.
+2022-07-23T09:37:14Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  396.2,   406.3,    40.9)
