@@ -1,0 +1,274 @@
+[    1630228] : [ 4924922222] Brookhaven 🏡RP - 8fcf366f-d9c4-4528-a659-5da97475c80d
+2022-07-27T08:32:51Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-07-27T08:32:52Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-07-27T08:32:52Z: PLAYER ADDED   [ 2378229077] tiffany87589
+2022-07-27T08:32:52Z: PLAYER ADDED   [ 3693730879] chofieje
+2022-07-27T08:32:52Z: PLAYER ADDED   [ 3747284867] arathlug
+2022-07-27T08:32:52Z: PLAYER ADDED   [ 1505607204] bigmamabigbro
+2022-07-27T08:32:52Z: PLAYER ADDED   [ 2053763846] emely9857
+2022-07-27T08:32:52Z: PLAYER ADDED   [ 3646001324] luisdeath01
+2022-07-27T08:32:52Z: PLAYER ADDED   [ 3434320388] Mary9906316
+2022-07-27T08:32:52Z: PLAYER ADDED   [ 3560632381] zusset_alvarez1234
+2022-07-27T08:32:52Z: PLAYER ADDED   [ 3528192705] Elmariscos2009
+2022-07-27T08:32:52Z: PLAYER ADDED   [ 3513663007] chuky6377
+2022-07-27T08:32:52Z: PLAYER ADDED   [ 2782930046] Carloscortes124
+2022-07-27T08:32:52Z: PLAYER ADDED   [ 2358037405] kim_Gnz
+2022-07-27T08:32:52Z: PLAYER ADDED   [ 2945596829] zacora2009
+2022-07-27T08:32:52Z: PLAYER ADDED   [ 3642575271] Garu1947lo5
+2022-07-27T08:32:52Z: PLAYER CHATTED [ 2053763846] emely9857            (  167.3,    16.2,   505.3)
+  Encontré a una nueva amix 
+2022-07-27T08:33:00Z: PLAYER CHATTED [ 3560632381] zusset_alvarez1234   ( -326.2,    52.5,  -330.2)
+  oye puedes poner un color más discreto
+2022-07-27T08:33:00Z: PLAYER CHATTED [ 2358037405] kim_Gnz              ( -219.0,    53.3,  -203.1)
+  Ni la conozco pero me callo bien la morrilla
+2022-07-27T08:33:00Z: PLAYER CHATTED [ 1505607204] bigmamabigbro        (  170.1,    15.7,   494.4)
+  Oo
+2022-07-27T08:33:06Z: PLAYER CHATTED [ 2053763846] emely9857            (  166.6,    16.2,   497.4)
+  Le di un jalón a su casa 
+2022-07-27T08:33:07Z: PLAYER CHATTED [ 3646001324] luisdeath01          ( -318.6,    51.5,  -331.7)
+  ok
+2022-07-27T08:33:09Z: PLAYER CHATTED [ 2945596829] zacora2009           ( -232.5,    52.8,  -203.1)
+  a qué bien 
+2022-07-27T08:33:10Z: PLAYER CHATTED [ 3693730879] chofieje             ( -266.6,    64.6,  -456.7)
+  puedo ir con una amiga?
+2022-07-27T08:33:18Z: PLAYER CHATTED [ 3560632381] zusset_alvarez1234   ( -325.6,    52.5,  -330.2)
+  un no c gris??
+2022-07-27T08:33:21Z: PLAYER CHATTED [ 2378229077] tiffany87589         ( -267.3,    66.3,  -459.0)
+  ok
+2022-07-27T08:33:21Z: PLAYER CHATTED [ 1505607204] bigmamabigbro        (  169.4,    15.7,   496.6)
+  Lo
+2022-07-27T08:33:24Z: PLAYER CHATTED [ 1505607204] bigmamabigbro        (  169.4,    15.7,   496.6)
+  Oo
+2022-07-27T08:33:25Z: PLAYER CHATTED [ 2358037405] kim_Gnz              ( -194.9,    35.3,  -228.5)
+  ???
+2022-07-27T08:33:26Z: PLAYER CHATTED [ 2053763846] emely9857            (  164.7,    16.2,   500.8)
+  :)
+2022-07-27T08:33:30Z: PLAYER CHATTED [ 3693730879] chofieje             ( -269.9,    65.5,  -447.4)
+  gracias
+2022-07-27T08:33:31Z: PLAYER CHATTED [ 1505607204] bigmamabigbro        (  169.4,    15.7,   496.6)
+  :)
+2022-07-27T08:33:35Z: PLAYER CHATTED [ 2358037405] kim_Gnz              ( -193.6,    35.3,  -229.6)
+  Que ocupa??
+2022-07-27T08:33:35Z: PLAYER CHATTED [ 2945596829] zacora2009           ( -232.5,    52.8,  -203.1)
+  que pasa
+2022-07-27T08:33:38Z: PLAYER CHATTED [ 3560632381] zusset_alvarez1234   ( -325.6,    52.5,  -330.2)
+  gracias 
+2022-07-27T08:33:42Z: PLAYER ADDED   [ 1905065611] Ferniss7
+2022-07-27T08:33:44Z: PLAYER CHATTED [ 3646001324] luisdeath01          ( -318.6,    51.5,  -331.7)
+  si denada
+2022-07-27T08:33:47Z: PLAYER CHATTED [ 3528192705] Elmariscos2009       ( -195.4,    33.8,  -254.6)
+  holi
+2022-07-27T08:33:51Z: PLAYER CHATTED [ 2945596829] zacora2009           ( -196.6,    36.0,  -229.6)
+  que quiere 
+2022-07-27T08:34:06Z: PLAYER CHATTED [ 2053763846] emely9857            (  166.7,    16.5,   500.8)
+  Toy murida 
+2022-07-27T08:34:08Z: PLAYER CHATTED [ 2053763846] emely9857            (  166.7,    16.5,   500.8)
+  Xddd
+2022-07-27T08:34:08Z: PLAYER CHATTED [ 2945596829] zacora2009           ( -194.6,    35.0,  -248.7)
+  no cre que para pasar ay que tocar
+2022-07-27T08:34:09Z: PLAYER CHATTED [ 3528192705] Elmariscos2009       ( -195.4,    33.8,  -254.6)
+  solo diversión sana
+2022-07-27T08:34:11Z: PLAYER CHATTED [ 1505607204] bigmamabigbro        (  169.3,    15.8,   496.4)
+  De
+2022-07-27T08:34:14Z: PLAYER CHATTED [ 1505607204] bigmamabigbro        (  169.3,    15.8,   496.4)
+  Xd
+2022-07-27T08:34:27Z: PLAYER CHATTED [ 2945596829] zacora2009           ( -194.6,    35.0,  -248.7)
+  ### ## ## moleste
+2022-07-27T08:34:30Z: PLAYER CHATTED [ 1505607204] bigmamabigbro        (  149.0,    15.9,   479.6)
+  Xd
+2022-07-27T08:34:30Z: PLAYER CHATTED [ 2945596829] zacora2009           ( -194.6,    35.0,  -248.7)
+  por
+2022-07-27T08:34:33Z: PLAYER CHATTED [ 2053763846] emely9857            (  151.3,    16.6,   473.2)
+  Hay no Xd
+2022-07-27T08:34:34Z: PLAYER REMOVED [ 3642575271] Garu1947lo5
+2022-07-27T08:34:34Z: PLAYER CHATTED [ 2945596829] zacora2009           ( -194.6,    35.0,  -248.7)
+  favor 
+2022-07-27T08:34:37Z: PLAYER CHATTED [ 2945596829] zacora2009           ( -194.6,    35.0,  -248.7)
+  no
+2022-07-27T08:34:40Z: PLAYER CHATTED [ 2945596829] zacora2009           ( -194.6,    35.0,  -248.7)
+  moleste
+2022-07-27T08:34:41Z: PLAYER CHATTED [ 2053763846] emely9857            (  151.6,    16.2,   476.7)
+  Ven 
+2022-07-27T08:34:46Z: PLAYER CHATTED [ 3528192705] Elmariscos2009       ( -195.4,    33.8,  -254.6)
+  ok
+2022-07-27T08:34:51Z: PLAYER CHATTED [ 3693730879] chofieje             ( -268.9,    51.9,  -376.2)
+  me dijiste que si
+2022-07-27T08:34:54Z: PLAYER CHATTED [ 2053763846] emely9857            (  171.7,    16.2,   493.7)
+  Xd
+2022-07-27T08:35:03Z: PLAYER CHATTED [ 2053763846] emely9857            (  171.7,    16.2,   493.7)
+  Se roban mi carro 
+2022-07-27T08:35:08Z: PLAYER CHATTED [ 1905065611] Ferniss7             ( -197.4,    34.7,  -234.8)
+  Hola
+2022-07-27T08:35:12Z: PLAYER CHATTED [ 2358037405] kim_Gnz              ( -216.4,    53.3,  -198.4)
+  Oye amr de mi vida
+2022-07-27T08:35:14Z: PLAYER CHATTED [ 2945596829] zacora2009           ( -196.7,    35.2,  -240.0)
+  hola
+2022-07-27T08:35:19Z: PLAYER CHATTED [ 2945596829] zacora2009           ( -196.7,    35.6,  -239.1)
+  dime
+2022-07-27T08:35:30Z: PLAYER CHATTED [ 2945596829] zacora2009           ( -197.6,    35.0,  -240.9)
+  que necesitas 
+2022-07-27T08:35:33Z: PLAYER CHATTED [ 1905065611] Ferniss7             ( -196.3,    33.7,  -242.8)
+  A nada ella es Kim
+2022-07-27T08:35:39Z: PLAYER CHATTED [ 2945596829] zacora2009           ( -198.7,    36.0,  -237.2)
+  si
+2022-07-27T08:35:46Z: PLAYER CHATTED [ 2358037405] kim_Gnz              ( -197.7,    35.3,  -224.3)
+  Es mi amix de toda la vida
+2022-07-27T08:35:48Z: PLAYER CHATTED [ 1905065611] Ferniss7             ( -196.5,    33.7,  -241.5)
+  Oh hola amiga
+2022-07-27T08:35:48Z: PLAYER CHATTED [ 2945596829] zacora2009           ( -198.7,    36.0,  -237.2)
+  la nesesita
+2022-07-27T08:35:53Z: PLAYER CHATTED [ 2945596829] zacora2009           ( -198.7,    36.0,  -237.2)
+  aaa
+2022-07-27T08:36:04Z: PLAYER CHATTED [ 1905065611] Ferniss7             ( -197.3,    33.7,  -245.7)
+  Hola
+2022-07-27T08:36:11Z: PLAYER CHATTED [ 2053763846] emely9857            (  114.8,    54.3,   504.7)
+  Xd
+2022-07-27T08:36:12Z: PLAYER CHATTED [ 1505607204] bigmamabigbro        (  106.0,    53.7,   507.8)
+  Lo
+2022-07-27T08:36:14Z: PLAYER CHATTED [ 1505607204] bigmamabigbro        (  106.0,    53.7,   507.8)
+  Oo
+2022-07-27T08:36:18Z: PLAYER CHATTED [ 2358037405] kim_Gnz              ( -193.3,    34.3,  -243.6)
+  Ah ntc ella no es jajajaj
+2022-07-27T08:36:33Z: PLAYER CHATTED [ 2053763846] emely9857            (  112.7,    54.3,   503.6)
+  Hay te quedas :)
+2022-07-27T08:36:33Z: PLAYER CHATTED [ 2945596829] zacora2009           ( -198.7,    35.2,  -239.9)
+  aa
+2022-07-27T08:36:36Z: PLAYER CHATTED [ 1905065611] Ferniss7             ( -197.3,    33.7,  -245.7)
+  Oh ñ
+2022-07-27T08:36:39Z: PLAYER CHATTED [ 2945596829] zacora2009           ( -198.7,    35.2,  -239.9)
+  jajaja
+2022-07-27T08:36:41Z: PLAYER CHATTED [ 2053763846] emely9857            (  109.1,    54.3,   502.4)
+  Xdddd
+2022-07-27T08:36:44Z: PLAYER CHATTED [ 2358037405] kim_Gnz              ( -194.2,    35.3,  -238.0)
+  Me confundí 👻
+2022-07-27T08:36:52Z: PLAYER CHATTED [ 2053763846] emely9857            (  112.0,    54.3,   504.2)
+  Te robaste tu mismo 
+2022-07-27T08:36:54Z: PLAYER CHATTED [ 2053763846] emely9857            (  112.0,    54.3,   504.2)
+  Xddd
+2022-07-27T08:36:55Z: PLAYER CHATTED [ 1905065611] Ferniss7             ( -196.4,    33.7,  -243.1)
+  ####
+2022-07-27T08:36:56Z: PLAYER CHATTED [ 1505607204] bigmamabigbro        (  107.9,    53.8,   505.6)
+  Si
+2022-07-27T08:37:00Z: PLAYER CHATTED [ 1905065611] Ferniss7             ( -196.4,    33.7,  -243.1)
+  Put@
+2022-07-27T08:37:13Z: PLAYER CHATTED [ 2945596829] zacora2009           ( -192.3,    36.0,  -229.9)
+  ay que pasa
+2022-07-27T08:37:17Z: PLAYER CHATTED [ 2358037405] kim_Gnz              ( -193.4,    35.3,  -224.8)
+  🙀
+2022-07-27T08:37:19Z: PLAYER CHATTED [ 2945596829] zacora2009           ( -183.3,    35.0,  -249.7)
+  eyy
+2022-07-27T08:37:21Z: PLAYER CHATTED [ 1505607204] bigmamabigbro        (  106.5,    53.8,   505.0)
+  Ala
+2022-07-27T08:37:23Z: PLAYER CHATTED [ 2945596829] zacora2009           ( -183.4,    35.1,  -248.6)
+  bajesee
+2022-07-27T08:37:24Z: PLAYER CHATTED [ 2053763846] emely9857            (  111.7,    54.3,   503.4)
+  Te deje pobre 
+2022-07-27T08:37:25Z: PLAYER CHATTED [ 2358037405] kim_Gnz              ( -193.4,    35.3,  -224.8)
+  Me dijo ####
+2022-07-27T08:37:36Z: PLAYER CHATTED [ 1505607204] bigmamabigbro        (  106.5,    53.8,   506.7)
+  Xd
+2022-07-27T08:37:36Z: PLAYER CHATTED [ 2945596829] zacora2009           ( -193.6,    36.0,  -226.8)
+  jajaja está mensa
+2022-07-27T08:37:42Z: PLAYER CHATTED [ 2945596829] zacora2009           ( -187.5,    36.0,  -226.8)
+  dejala
+2022-07-27T08:37:46Z: PLAYER CHATTED [ 2358037405] kim_Gnz              ( -193.4,    35.3,  -224.8)
+  Pero no la sé que soy la más ####
+2022-07-27T08:37:53Z: PLAYER CHATTED [ 2358037405] kim_Gnz              ( -193.4,    35.3,  -224.7)
+  🤑🤙
+2022-07-27T08:37:56Z: PLAYER CHATTED [ 2945596829] zacora2009           ( -192.4,    36.0,  -222.0)
+  kjaja
+2022-07-27T08:38:02Z: PLAYER CHATTED [ 1505607204] bigmamabigbro        (  118.7,    53.8,   499.5)
+  Soy borde 
+2022-07-27T08:38:04Z: PLAYER CHATTED [ 3560632381] zusset_alvarez1234   ( -376.2,    34.3,  -335.5)
+  ise palomitas quiere??
+2022-07-27T08:38:09Z: PLAYER CHATTED [ 1505607204] bigmamabigbro        (  118.7,    53.8,   499.5)
+  Ay d
+2022-07-27T08:38:10Z: PLAYER CHATTED [ 2053763846] emely9857            (  123.0,    56.9,   495.4)
+  Ya vengo me abres allá abajo :)
+2022-07-27T08:38:15Z: PLAYER CHATTED [ 2945596829] zacora2009           ( -228.5,    54.0,  -212.3)
+  jajaja ya me voy a ir a trabajar 
+2022-07-27T08:38:17Z: PLAYER CHATTED [ 1505607204] bigmamabigbro        (  121.0,    53.8,   499.7)
+  Ok
+2022-07-27T08:38:22Z: PLAYER CHATTED [ 3646001324] luisdeath01          ( -376.2,    35.0,  -332.0)
+  amm no gracias 
+2022-07-27T08:38:26Z: PLAYER CHATTED [ 2358037405] kim_Gnz              ( -213.4,    53.3,  -202.3)
+  Ve amr
+2022-07-27T08:38:35Z: PLAYER CHATTED [ 2945596829] zacora2009           ( -220.3,    54.0,  -209.6)
+  euu
+2022-07-27T08:38:37Z: PLAYER CHATTED [ 3560632381] zusset_alvarez1234   ( -376.1,    34.3,  -334.5)
+  que ase aquí a las 5 am
+2022-07-27T08:38:38Z: PLAYER CHATTED [ 2053763846] emely9857            (  187.7,    18.3,   499.1)
+  Estoy acá Xd 
+2022-07-27T08:38:47Z: PLAYER CHATTED [ 2053763846] emely9857            (  187.7,    18.2,   499.1)
+  El garaje 
+2022-07-27T08:38:59Z: PLAYER CHATTED [ 3646001324] luisdeath01          ( -376.2,    35.0,  -332.0)
+  salí por pan
+2022-07-27T08:39:07Z: PLAYER CHATTED [ 2358037405] kim_Gnz              ( -181.5,    35.3,  -218.2)
+  Aquí te espero como toda buen mujer
+2022-07-27T08:39:18Z: PLAYER CHATTED [ 2053763846] emely9857            (  189.2,    18.2,   499.1)
+  Oye 
+2022-07-27T08:39:19Z: PLAYER CHATTED [ 2358037405] kim_Gnz              ( -181.5,    35.3,  -218.2)
+  👻🤙
+2022-07-27T08:39:20Z: PLAYER CHATTED [ 2053763846] emely9857            (  189.2,    18.3,   499.1)
+  Amigo 
+2022-07-27T08:39:22Z: PLAYER CHATTED [ 3560632381] zusset_alvarez1234   ( -376.1,    34.2,  -334.5)
+  ajamm si claro bno me iré a dormir
+2022-07-27T08:39:22Z: PLAYER CHATTED [ 2053763846] emely9857            (  189.2,    18.3,   499.1)
+  :c
+2022-07-27T08:39:23Z: PLAYER CHATTED [ 2945596829] zacora2009           ( -210.1,    54.1,  -223.8)
+  ajá jajaja
+2022-07-27T08:39:26Z: PLAYER CHATTED [ 3513663007] chuky6377            ( -362.9,    83.2,  -543.8)
+  el trabajo
+2022-07-27T08:39:28Z: PLAYER CHATTED [ 3646001324] luisdeath01          ( -376.2,    35.0,  -332.0)
+  si
+2022-07-27T08:39:32Z: PLAYER CHATTED [ 3646001324] luisdeath01          ( -376.2,    35.0,  -332.0)
+  ok
+2022-07-27T08:39:36Z: PLAYER CHATTED [ 2358037405] kim_Gnz              ( -215.1,    53.3,  -198.7)
+  Fui fui
+2022-07-27T08:39:43Z: PLAYER CHATTED [ 2945596829] zacora2009           ( -208.5,    54.0,  -197.6)
+  nos vemos mi bb
+2022-07-27T08:39:47Z: PLAYER CHATTED [ 2358037405] kim_Gnz              ( -215.1,    53.3,  -198.7)
+  Te van a robar!
+2022-07-27T08:39:53Z: PLAYER CHATTED [ 2945596829] zacora2009           ( -201.0,    54.0,  -201.9)
+  jajaja no creo
+2022-07-27T08:39:54Z: PLAYER CHATTED [ 2358037405] kim_Gnz              ( -215.1,    53.3,  -198.7)
+  Jajaja
+2022-07-27T08:40:01Z: PLAYER CHATTED [ 2358037405] kim_Gnz              ( -200.8,    53.3,  -201.4)
+  Byee
+2022-07-27T08:40:02Z: PLAYER CHATTED [ 2053763846] emely9857            (  181.1,    56.8,   505.5)
+  Oye 
+2022-07-27T08:40:05Z: PLAYER CHATTED [ 1505607204] bigmamabigbro        (  182.8,    53.7,   501.1)
+  Si
+2022-07-27T08:40:07Z: PLAYER CHATTED [ 2945596829] zacora2009           ( -220.7,    34.8,  -208.9)
+  byee
+2022-07-27T08:40:15Z: PLAYER CHATTED [ 2053763846] emely9857            (  181.1,    56.8,   505.5)
+  Me abres el garaje Xd 
+2022-07-27T08:40:21Z: PLAYER CHATTED [ 1505607204] bigmamabigbro        (  182.8,    53.7,   501.1)
+  Si
+2022-07-27T08:40:27Z: PLAYER CHATTED [ 2053763846] emely9857            (  184.8,    18.2,   499.4)
+  Gracias 
+2022-07-27T08:40:32Z: PLAYER CHATTED [ 2358037405] kim_Gnz              ( -162.2,    34.7,  -211.0)
+  Por eso esperaba
+2022-07-27T08:40:36Z: PLAYER CHATTED [ 2053763846] emely9857            (  184.8,    18.2,   499.3)
+  Bye
+2022-07-27T08:40:40Z: PLAYER CHATTED [ 1505607204] bigmamabigbro        (  171.5,    15.7,   494.7)
+  Bye
+2022-07-27T08:40:41Z: PLAYER CHATTED [ 2053763846] emely9857            (  192.5,    36.2,   393.3)
+  :)
+2022-07-27T08:40:42Z: PLAYER CHATTED [ 3513663007] chuky6377            ( -334.2,    66.2,  -522.3)
+  😘
+2022-07-27T08:40:48Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-07-27T08:40:49Z: PLAYER REMOVED [ 2378229077] tiffany87589
+2022-07-27T08:40:49Z: PLAYER REMOVED [ 3693730879] chofieje
+2022-07-27T08:40:49Z: PLAYER REMOVED [ 3747284867] arathlug
+2022-07-27T08:40:49Z: PLAYER REMOVED [ 1505607204] bigmamabigbro
+2022-07-27T08:40:49Z: PLAYER REMOVED [ 2053763846] emely9857
+2022-07-27T08:40:49Z: PLAYER REMOVED [ 3646001324] luisdeath01
+2022-07-27T08:40:49Z: PLAYER REMOVED [ 3434320388] Mary9906316
+2022-07-27T08:40:49Z: PLAYER REMOVED [ 3560632381] zusset_alvarez1234
+2022-07-27T08:40:49Z: PLAYER REMOVED [ 3528192705] Elmariscos2009
+2022-07-27T08:40:49Z: PLAYER REMOVED [ 3513663007] chuky6377
+2022-07-27T08:40:49Z: PLAYER REMOVED [ 2782930046] Carloscortes124
+2022-07-27T08:40:49Z: PLAYER REMOVED [ 2358037405] kim_Gnz
+2022-07-27T08:40:49Z: PLAYER REMOVED [ 2945596829] zacora2009
+2022-07-27T08:40:49Z: PLAYER REMOVED [ 1905065611] Ferniss7

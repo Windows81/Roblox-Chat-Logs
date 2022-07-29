@@ -1,0 +1,156 @@
+[    1630228] : [ 4794911592] The Kubla Khan Las Vegas • Hotel Showcase, W.I.P. - 0e07740f-4c88-46b7-b7a4-737e625f585a
+2022-07-28T07:16:22Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-07-28T07:16:27Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-07-28T07:16:27Z: PLAYER ADDED   [ 1581340012] basenjilover5
+2022-07-28T07:16:56Z: PLAYER CHATTED [    1630228] VisualPlugin         (  294.8,   226.7,   144.7)
+  You got a new floor.
+2022-07-28T07:17:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (  294.8,   226.7,   144.7)
+  I guess.
+2022-07-28T07:17:57Z: PLAYER CHATTED [ 1581340012] basenjilover5        (  298.0,   227.0,   149.5)
+  I don't remember the ceiling particles
+2022-07-28T07:18:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (  287.6,   226.7,   144.4)
+  They've been around for a while.
+2022-07-28T07:18:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (  225.3,   226.7,   161.7)
+  Would you be able to bring any friends some time?
+2022-07-28T07:18:56Z: PLAYER CHATTED [ 1581340012] basenjilover5        (  232.8,   226.4,   161.1)
+  ahh
+2022-07-28T07:19:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (  225.3,   226.7,   161.7)
+  I designed the Kubla Khan to be a roleplaying game to some extent.
+2022-07-28T07:19:14Z: PLAYER CHATTED [ 1581340012] basenjilover5        (  232.8,   226.4,   161.1)
+  imtryng
+2022-07-28T07:19:50Z: PLAYER ADDED   [    3142254] HydeWars
+2022-07-28T07:19:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (  283.1,   226.7,   113.5)
+  Hy Hi-de!
+2022-07-28T07:20:02Z: PLAYER CHATTED [ 1581340012] basenjilover5        (  278.9,   226.4,   116.9)
+  i remember your streams
+2022-07-28T07:20:05Z: PLAYER CHATTED [    3142254] HydeWars             (   34.5,    92.2,    28.8)
+  hello LOL
+2022-07-28T07:20:11Z: PLAYER CHATTED [    3142254] HydeWars             (   16.4,    91.6,    61.3)
+  I am welcome at the Kubla Khan,
+2022-07-28T07:20:12Z: PLAYER CHATTED [    3142254] HydeWars             (   16.4,    91.6,    61.3)
+  Where I khan do what I like!
+2022-07-28T07:20:17Z: PLAYER CHATTED [    3142254] HydeWars             (   16.4,    91.6,    60.5)
+  god that
+2022-07-28T07:20:18Z: PLAYER CHATTED [    3142254] HydeWars             (   14.3,    91.6,    60.4)
+  script
+2022-07-28T07:20:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (  202.5,    92.4,    68.6)
+  You are most definitely welcome!
+2022-07-28T07:20:32Z: PLAYER CHATTED [    1630228] VisualPlugin         (  118.5,    91.7,    57.6)
+  I like the positive words!
+2022-07-28T07:20:56Z: PLAYER CHATTED [    3142254] HydeWars             (  -67.1,    93.6,   137.8)
+  stuffs still loadin for me
+2022-07-28T07:21:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -64.5,    93.7,   134.8)
+  Gets your Synapsex fired.
+2022-07-28T07:21:07Z: PLAYER CHATTED [    3142254] HydeWars             (  -44.9,    93.5,   132.4)
+  wym
+2022-07-28T07:21:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -47.0,    93.3,   133.3)
+  it's a pun.
+2022-07-28T07:21:15Z: PLAYER CHATTED [    3142254] HydeWars             (  -44.5,    93.6,   136.3)
+  pfft
+2022-07-28T07:21:17Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -48.6,    93.7,   136.3)
+  Synapse X...
+2022-07-28T07:21:19Z: PLAYER CHATTED [    3142254] HydeWars             (  -44.5,    93.6,   136.3)
+  i was like
+2022-07-28T07:21:21Z: PLAYER CHATTED [    3142254] HydeWars             (  -44.5,    93.6,   136.3)
+  i aint using dat
+2022-07-28T07:21:24Z: PLAYER CHATTED [    3142254] HydeWars             (  -44.0,    93.6,   136.3)
+  rn ;)
+2022-07-28T07:21:39Z: PLAYER CHATTED [    3142254] HydeWars             (  -39.9,    92.5,   123.4)
+  how have the
+2022-07-28T07:21:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -48.7,    93.4,   134.9)
+  That's a server-side thing I put in.
+2022-07-28T07:21:41Z: PLAYER CHATTED [    3142254] HydeWars             (  -39.9,    92.5,   123.4)
+  lag efforts gone
+2022-07-28T07:21:56Z: PLAYER CHATTED [    3142254] HydeWars             (  -16.2,    90.6,    72.9)
+  i remember anchoring everything was a huge fix
+2022-07-28T07:21:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -16.2,    90.7,    75.2)
+  I also use RoShade.
+2022-07-28T07:22:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -16.2,    90.7,    75.2)
+  I remmeber that.
+2022-07-28T07:22:05Z: PLAYER CHATTED [    3142254] HydeWars             (  -16.2,    91.2,    69.9)
+  game looks great without roshade
+2022-07-28T07:22:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -14.0,    90.9,    71.3)
+  Even better with.
+2022-07-28T07:22:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -11.1,    91.8,    68.8)
+  I contributed to ReShade so that...
+2022-07-28T07:22:22Z: PLAYER CHATTED [    3142254] HydeWars             (  -11.1,   103.7,    58.0)
+  parkour
+2022-07-28T07:22:23Z: PLAYER CHATTED [    3142254] HydeWars             (  -11.1,   103.7,    58.0)
+  ahh
+2022-07-28T07:22:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -11.1,    91.8,    68.8)
+  I can save screenshots in the same time format as Rōblox's.
+2022-07-28T07:22:44Z: PLAYER CHATTED [    3142254] HydeWars             (   -7.5,    91.6,    61.0)
+  mhm
+2022-07-28T07:22:51Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -2.5,    92.0,    63.7)
+  RoShade didn't use the updated ReShade build when I checked.
+2022-07-28T07:23:05Z: PLAYER CHATTED [    3142254] HydeWars             (   -7.5,    91.6,    61.0)
+  o
+2022-07-28T07:23:08Z: PLAYER CHATTED [    3142254] HydeWars             (   -7.5,    91.6,    61.0)
+  thats funny
+2022-07-28T07:23:09Z: PLAYER CHATTED [    3142254] HydeWars             (   -7.5,    91.6,    61.0)
+  also
+2022-07-28T07:23:13Z: PLAYER CHATTED [    3142254] HydeWars             (   -7.9,    91.6,    61.3)
+  gonna hop around
+2022-07-28T07:23:20Z: PLAYER CHATTED [    3142254] HydeWars             (   -8.0,    91.7,    62.5)
+  good to see the khan is still epic
+2022-07-28T07:23:22Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -6.9,    92.5,    66.5)
+  Wait.
+2022-07-28T07:23:25Z: PLAYER CHATTED [    3142254] HydeWars             (   -7.5,    91.7,    63.2)
+  ?
+2022-07-28T07:23:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -6.7,    92.8,    67.5)
+  Would you be bale to bring some friends over?
+2022-07-28T07:23:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -6.7,    92.8,    67.5)
+  I want to make the Kubla Khan a roleplaying experience.
+2022-07-28T07:23:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -6.7,    92.8,    67.5)
+  At least some timesoon.
+2022-07-28T07:24:03Z: PLAYER CHATTED [    3142254] HydeWars             (   -7.5,    91.7,    63.2)
+  at some point
+2022-07-28T07:24:05Z: PLAYER CHATTED [    3142254] HydeWars             (   -7.5,    91.7,    63.2)
+  i'll try
+2022-07-28T07:24:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -5.7,    92.8,    68.6)
+  ¡!
+2022-07-28T07:24:21Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -5.7,    92.8,    68.6)
+  Benji comes here a lot.
+2022-07-28T07:24:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -9.7,    92.2,    66.8)
+  I also made some new stuff.
+2022-07-28T07:24:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -9.7,    92.2,    66.8)
+  If you have someplace to go, I'll excuse you.
+2022-07-28T07:24:45Z: PLAYER CHATTED [ 1581340012] basenjilover5        (  273.9,   226.4,   145.6)
+  yeah
+2022-07-28T07:24:53Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -9.7,    92.2,    66.8)
+  *Basenji.
+2022-07-28T07:25:30Z: PLAYER REMOVED [    3142254] HydeWars
+2022-07-28T07:26:36Z: PLAYER CHATTED [ 1581340012] basenjilover5        (  258.2,   226.4,   163.1)
+  hmm
+2022-07-28T07:29:58Z: CHRCTER ADDED  [ 1581340012] basenjilover5        (   35.0,   103.5,    -2.8)
+2022-07-28T07:30:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (  111.1,   136.7,    97.6)
+  By the way,
+2022-07-28T07:30:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (  111.1,   136.7,    97.6)
+  The number on the posters is actually real.
+2022-07-28T07:30:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (  103.1,   136.7,    66.6)
+  I will pick up on the other end.
+2022-07-28T07:32:52Z: PLAYER CHATTED [ 1581340012] basenjilover5        (  281.1,   226.4,   145.7)
+  neat
+2022-07-28T07:33:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (  271.3,   226.7,   147.5)
+  Come over.
+2022-07-28T07:33:55Z: PLAYER CHATTED [ 1581340012] basenjilover5        (  281.1,   226.4,   145.7)
+  ohh if you send me a message on your group I can invite you
+2022-07-28T07:34:10Z: PLAYER CHATTED [    1630228] VisualPlugin         (  225.9,    94.7,    80.8)
+  Invite me where?
+2022-07-28T07:34:24Z: CHRCTER ADDED  [ 1581340012] basenjilover5        (   35.0,   103.5,    -2.8)
+2022-07-28T07:34:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (  208.8,    92.7,    76.1)
+  I sent you a message on Thisk.
+2022-07-28T07:34:44Z: PLAYER CHATTED [    1630228] VisualPlugin         (  208.8,    92.7,    76.1)
+  Dis
+2022-07-28T07:34:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (  208.8,    92.7,    76.1)
+  Ckor
+2022-07-28T07:34:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (  208.8,    92.7,    76.1)
+  D
+2022-07-28T07:35:06Z: PLAYER CHATTED [ 1581340012] basenjilover5        (   34.1,    92.4,     5.9)
+  friends group
+2022-07-28T07:35:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (  172.5,    91.7,    56.6)
+  My Kubla Khan server?
+2022-07-28T07:36:07Z: PLAYER CHATTED [ 1581340012] basenjilover5        (  161.4,    91.5,    52.0)
+  brb
+2022-07-28T07:36:18Z: PLAYER REMOVED [ 1581340012] basenjilover5
+2022-07-28T07:38:51Z: PLAYER REMOVED [    1630228] VisualPlugin

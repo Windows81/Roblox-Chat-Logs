@@ -1,0 +1,793 @@
+[ 2692203726] : [  185655149] Welcome to Bloxburg - e74c298d-1d56-48f3-a992-586d6c504d0c
+2022-07-28T01:57:46Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-07-28T01:57:47Z: PLAYER ADDED   [ 2692203726] rarathem
+2022-07-28T01:57:47Z: PLAYER ADDED   [ 2387602405] Alex_cib14
+2022-07-28T01:57:47Z: PLAYER ADDED   [ 1932784495] Ceratoraptirlol
+2022-07-28T01:57:47Z: PLAYER ADDED   [ 2400499323] QueenAnaVM
+2022-07-28T01:57:47Z: PLAYER ADDED   [ 1714715310] dixiepixie98
+2022-07-28T01:57:47Z: PLAYER ADDED   [ 1810505330] Paris_cherry04
+2022-07-28T01:57:47Z: PLAYER ADDED   [ 2286037706] supercamiXD238
+2022-07-28T01:57:47Z: PLAYER ADDED   [ 2811724643] Diegoexelo543
+2022-07-28T01:57:47Z: PLAYER ADDED   [ 3040552015] freefire_monchika
+2022-07-28T01:57:47Z: PLAYER ADDED   [ 3250808550] Relofe_123
+2022-07-28T01:57:47Z: PLAYER REMOVED [ 2811724643] Diegoexelo543
+2022-07-28T01:57:48Z: PLAYER CHATTED [ 1714715310] dixiepixie98         (  428.0,   249.7,   749.6)
+  Ok
+2022-07-28T01:57:48Z: PLAYER CHATTED [ 1810505330] Paris_cherry04       (  430.2,   248.5,   748.5)
+  Ayón #######
+2022-07-28T01:57:50Z: PLAYER ADDED   [ 1367546230] frozeen19
+2022-07-28T01:57:51Z: CHRCTER ADDED  [ 2286037706] supercamiXD238       ( 1901.8,    13.9,  -467.7)
+2022-07-28T01:57:52Z: PLAYER CHATTED [ 1810505330] Paris_cherry04       (  430.2,   248.5,   748.5)
+  no yo 
+2022-07-28T01:57:56Z: PLAYER CHATTED [ 1810505330] Paris_cherry04       (  430.2,   248.5,   748.5)
+  peratee 
+2022-07-28T01:57:58Z: PLAYER CHATTED [ 1714715310] dixiepixie98         (  428.0,   249.7,   749.6)
+  ############
+2022-07-28T01:58:00Z: PLAYER REMOVED [ 2400499323] QueenAnaVM
+2022-07-28T01:58:00Z: PLAYER ADDED   [ 1553371025] cami_la128
+2022-07-28T01:58:03Z: PLAYER REMOVED [ 2286037706] supercamiXD238
+2022-07-28T01:58:03Z: PLAYER CHATTED [ 1810505330] Paris_cherry04       (  430.2,   248.5,   748.5)
+  q voy yo 
+2022-07-28T01:58:03Z: PLAYER CHATTED [ 1714715310] dixiepixie98         (  428.0,   249.7,   749.6)
+  Pues va dale
+2022-07-28T01:58:03Z: PLAYER ADDED   [ 2049184634] Lizzie_girll
+2022-07-28T01:58:06Z: PLAYER CHATTED [ 1810505330] Paris_cherry04       (  430.2,   248.5,   748.5)
+  😈😈
+2022-07-28T01:58:10Z: PLAYER CHATTED [ 1810505330] Paris_cherry04       (  430.2,   248.5,   748.5)
+  1
+2022-07-28T01:58:11Z: PLAYER CHATTED [ 1810505330] Paris_cherry04       (  430.2,   248.5,   748.5)
+  2
+2022-07-28T01:58:13Z: PLAYER CHATTED [ 1714715310] dixiepixie98         (  428.0,   249.7,   749.6)
+   jajaja
+2022-07-28T01:58:14Z: PLAYER REMOVED [ 1553371025] cami_la128
+2022-07-28T01:58:15Z: PLAYER CHATTED [ 1810505330] Paris_cherry04       (  430.2,   248.5,   748.5)
+  3
+2022-07-28T01:58:15Z: PLAYER ADDED   [ 3481442576] VideoJason
+2022-07-28T01:58:20Z: PLAYER CHATTED [ 1714715310] dixiepixie98         (  428.0,   249.7,   749.6)
+  ############
+2022-07-28T01:58:23Z: PLAYER CHATTED [ 1810505330] Paris_cherry04       (  433.9,   198.3,   737.8)
+  caí en un árbol
+2022-07-28T01:58:26Z: PLAYER CHATTED [ 1810505330] Paris_cherry04       (  433.9,   198.3,   737.8)
+  🤑
+2022-07-28T01:58:31Z: PLAYER REMOVED [ 2049184634] Lizzie_girll
+2022-07-28T01:58:32Z: PLAYER ADDED   [ 1813535336] perocallegero2456
+2022-07-28T01:58:35Z: CHRCTER ADDED  [ 3481442576] VideoJason           (-4066.9,  -109.2,   851.0)
+2022-07-28T01:58:54Z: PLAYER CHATTED [ 1810505330] Paris_cherry04       (  433.9,   198.3,   737.8)
+  ahora q hago?
+2022-07-28T01:59:03Z: PLAYER CHATTED [ 1714715310] dixiepixie98         (  427.4,   249.4,   747.0)
+  Vente subete
+2022-07-28T01:59:13Z: PLAYER CHATTED [ 1714715310] dixiepixie98         (  431.6,   177.7,   749.1)
+  Olvídalo
+2022-07-28T01:59:18Z: PLAYER CHATTED [ 1810505330] Paris_cherry04       (  433.9,   198.3,   737.8)
+  Jajajjajajaja 
+2022-07-28T01:59:19Z: PLAYER CHATTED [ 1714715310] dixiepixie98         (  432.4,   177.6,   750.6)
+  Subete acá
+2022-07-28T01:59:21Z: PLAYER CHATTED [ 1714715310] dixiepixie98         (  432.4,   177.6,   750.6)
+  JAJAJA
+2022-07-28T01:59:22Z: PLAYER CHATTED [ 1810505330] Paris_cherry04       (  433.9,   198.3,   737.8)
+  ##############
+2022-07-28T01:59:33Z: PLAYER CHATTED [ 1810505330] Paris_cherry04       (  468.7,   177.4,   835.4)
+  ##########
+2022-07-28T02:00:02Z: PLAYER REMOVED [ 3250808550] Relofe_123
+2022-07-28T02:00:02Z: PLAYER CHATTED [ 1810505330] Paris_cherry04       (  340.4,   250.4,   728.1)
+  nuestro único propósito en la vida
+2022-07-28T02:00:02Z: PLAYER ADDED   [ 1698408976] La_Cristy7v7YT
+2022-07-28T02:00:05Z: PLAYER REMOVED [ 1813535336] perocallegero2456
+2022-07-28T02:00:07Z: PLAYER CHATTED [ 1714715310] dixiepixie98         (  397.2,   250.5,   822.7)
+  JAJAJAJ
+2022-07-28T02:00:10Z: PLAYER ADDED   [ 2834219728] mm9821557
+2022-07-28T02:00:16Z: PLAYER ADDED   [ 1210898532] Chevodieg
+2022-07-28T02:00:18Z: PLAYER CHATTED [ 1810505330] Paris_cherry04       (  576.5,   250.4,   980.6)
+   subir a la montaña de cualquier modo
+2022-07-28T02:00:32Z: PLAYER REMOVED [ 3481442576] VideoJason
+2022-07-28T02:00:44Z: PLAYER CHATTED [ 1810505330] Paris_cherry04       (  363.7,   250.3,   715.2)
+  nos lanzamos 
+2022-07-28T02:00:50Z: PLAYER CHATTED [ 1714715310] dixiepixie98         (  361.0,   250.5,   715.6)
+  SIII
+2022-07-28T02:00:51Z: PLAYER CHATTED [ 1810505330] Paris_cherry04       (  363.7,   250.3,   715.1)
+  o vamos en paracaídas 
+2022-07-28T02:00:57Z: PLAYER CHATTED [ 1810505330] Paris_cherry04       (  355.3,   250.8,   701.2)
+  este o
+2022-07-28T02:01:06Z: PLAYER CHATTED [ 1810505330] Paris_cherry04       (  321.6,   251.3,   697.7)
+  ESTE
+2022-07-28T02:01:12Z: PLAYER CHATTED [ 1714715310] dixiepixie98         (  324.5,   250.5,   701.9)
+  VAVAVA
+2022-07-28T02:01:29Z: PLAYER CHATTED [ 1810505330] Paris_cherry04       (  381.4,   250.3,   806.3)
+  perame
+2022-07-28T02:01:33Z: PLAYER CHATTED [ 1714715310] dixiepixie98         (  384.0,   250.5,   812.3)
+  ####
+2022-07-28T02:01:35Z: PLAYER CHATTED [ 1714715310] dixiepixie98         (  384.4,   250.5,   813.0)
+  Ok
+2022-07-28T02:01:36Z: PLAYER CHATTED [ 1810505330] Paris_cherry04       (  386.9,   250.3,   811.9)
+  ahora si 
+2022-07-28T02:01:37Z: PLAYER CHATTED [ 1714715310] dixiepixie98         (  384.5,   250.5,   813.2)
+  1
+2022-07-28T02:01:39Z: PLAYER CHATTED [ 1714715310] dixiepixie98         (  384.5,   250.5,   813.3)
+  2
+2022-07-28T02:01:40Z: PLAYER CHATTED [ 1810505330] Paris_cherry04       (  387.0,   250.3,   812.1)
+  3
+2022-07-28T02:01:41Z: PLAYER CHATTED [ 1714715310] dixiepixie98         (  384.6,   250.5,   813.3)
+  Y
+2022-07-28T02:01:49Z: PLAYER CHATTED [ 1810505330] Paris_cherry04       (  260.0,    73.4,   625.0)
+  WIIII
+2022-07-28T02:01:55Z: PLAYER CHATTED [ 1810505330] Paris_cherry04       (  244.9,    41.2,   624.7)
+  ###########
+2022-07-28T02:01:57Z: PLAYER CHATTED [ 1714715310] dixiepixie98         (  242.5,    41.0,   626.0)
+  # #### rebotamos?
+2022-07-28T02:01:59Z: PLAYER CHATTED [ 1714715310] dixiepixie98         (  242.5,    41.0,   626.0)
+  JAJAJAJJAJ
+2022-07-28T02:02:11Z: PLAYER CHATTED [ 1810505330] Paris_cherry04       ( -284.3,    53.8,   761.5)
+  el ####### saltarín
+2022-07-28T02:02:29Z: PLAYER CHATTED [ 1714715310] dixiepixie98         ( -964.2,   144.4,   592.5)
+  JAJAJA ####### TRUCO
+2022-07-28T02:02:33Z: PLAYER CHATTED [ 1810505330] Paris_cherry04       ( -959.2,   144.2,   429.4)
+  salió talentoso el #######
+2022-07-28T02:02:35Z: PLAYER CHATTED [ 1810505330] Paris_cherry04       ( -957.9,   144.2,   266.3)
+  JAJAJJAJA
+2022-07-28T02:03:23Z: PLAYER CHATTED [ 1810505330] Paris_cherry04       (-1037.4,   173.2,  -958.4)
+  deli
+2022-07-28T02:03:27Z: PLAYER ADDED   [ 1254861555] chio2246N
+2022-07-28T02:03:42Z: PLAYER CHATTED [ 1714715310] dixiepixie98         (-1041.9,   175.3,  -958.3)
+  UwU
+2022-07-28T02:03:45Z: PLAYER REMOVED [ 1210898532] Chevodieg
+2022-07-28T02:03:48Z: PLAYER CHATTED [ 1810505330] Paris_cherry04       (-1045.6,   173.0,  -958.9)
+  ritual
+2022-07-28T02:03:50Z: PLAYER CHATTED [ 1714715310] dixiepixie98         (-1042.7,   173.1,  -954.4)
+  JAJAJA
+2022-07-28T02:04:51Z: PLAYER ADDED   [ 2029054278] KARIQUEENN21
+2022-07-28T02:04:54Z: PLAYER CHATTED [ 1714715310] dixiepixie98         (-1044.1,   173.0,  -955.0)
+  Ya me tengo q ir
+2022-07-28T02:05:01Z: PLAYER CHATTED [ 1810505330] Paris_cherry04       (-1037.5,   173.4,  -956.1)
+  uyyy
+2022-07-28T02:05:05Z: PLAYER CHATTED [ 1714715310] dixiepixie98         (-1041.5,   173.1,  -954.5)
+  JAJAJA bno byeee
+2022-07-28T02:05:06Z: PLAYER ADDED   [  447476743] crugh_26
+2022-07-28T02:05:06Z: PLAYER CHATTED [ 1810505330] Paris_cherry04       (-1037.5,   173.4,  -956.1)
+  bueno byeee
+2022-07-28T02:05:10Z: PLAYER REMOVED [ 1714715310] dixiepixie98
+2022-07-28T02:05:13Z: PLAYER REMOVED [ 1810505330] Paris_cherry04
+2022-07-28T02:05:14Z: PLAYER CHATTED [ 1254861555] chio2246N            (-4066.9,  -116.3,   851.0)
+  BUSCO MAMA!, NO IMPORTA SI NO TIENES CASA
+2022-07-28T02:05:27Z: PLAYER REMOVED [ 2834219728] mm9821557
+2022-07-28T02:05:35Z: PLAYER ADDED   [ 2253858714] awuitasaludable
+2022-07-28T02:07:59Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         ( -120.8,    25.0,   333.2)
+  SE BUSCA MAMA PARA MI AMIGA SE LE PAGARA ##
+2022-07-28T02:08:46Z: PLAYER ADDED   [ 1210898532] Chevodieg
+2022-07-28T02:09:42Z: PLAYER REMOVED [ 1210898532] Chevodieg
+2022-07-28T02:10:44Z: PLAYER CHATTED [ 1254861555] chio2246N            ( 1905.0,    11.8,  -394.4)
+  oyeeeeeeeeeeeeeeeeee
+2022-07-28T02:10:52Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         ( 1904.6,    12.7,  -394.7)
+  xd
+2022-07-28T02:10:52Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( 1900.3,    12.5,  -390.6)
+  Holaa
+2022-07-28T02:11:00Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( 1898.2,    12.5,  -392.5)
+  
+2022-07-28T02:11:03Z: PLAYER CHATTED [ 1254861555] chio2246N            ( 1903.3,    11.7,  -391.9)
+  #######################################
+2022-07-28T02:11:11Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         ( 1904.6,    12.7,  -394.7)
+  puedes ser su mama plis??
+2022-07-28T02:11:18Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( 1898.2,    12.5,  -392.5)
+  Ammm
+2022-07-28T02:11:20Z: PLAYER CHATTED [ 1254861555] chio2246N            ( 1902.2,    11.6,  -391.8)
+  se t pagara ######
+2022-07-28T02:11:23Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         ( 1904.6,    12.7,  -394.7)
+  plisss
+2022-07-28T02:11:37Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( 1898.2,    12.5,  -392.5)
+  Es q ando haciendo mi casa perdón 
+2022-07-28T02:11:42Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         ( 1903.1,    12.5,  -394.1)
+  :c
+2022-07-28T02:11:53Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         ( 1903.1,    12.5,  -394.1)
+  pero es solo por un ratito
+2022-07-28T02:11:56Z: PLAYER CHATTED [ 1254861555] chio2246N            ( 1901.9,    11.6,  -393.5)
+  :CCCCCCCCCCCC
+2022-07-28T02:12:00Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( 1898.2,    12.5,  -392.5)
+  Es q ni casa tengo
+2022-07-28T02:12:10Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         ( 1903.1,    12.5,  -394.1)
+  pero viviras en la de ella
+2022-07-28T02:12:15Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( 1898.2,    12.5,  -392.5)
+  Mm
+2022-07-28T02:12:18Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         ( 1903.1,    12.5,  -394.1)
+  no te preocupes por eso
+2022-07-28T02:12:19Z: PLAYER CHATTED [ 1254861555] chio2246N            ( 1902.3,    11.6,  -389.7)
+  sisi, en unos depas
+2022-07-28T02:12:21Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( 1898.2,    12.5,  -392.5)
+  Bueno, pero poco tiempo
+2022-07-28T02:12:27Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         ( 1903.1,    12.5,  -394.1)
+  #############
+2022-07-28T02:12:27Z: PLAYER CHATTED [ 1254861555] chio2246N            ( 1903.6,    11.7,  -390.6)
+  vaaleee
+2022-07-28T02:12:34Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( 1904.6,    12.7,  -388.2)
+  Permisos
+2022-07-28T02:13:37Z: PLAYER REMOVED [ 1932784495] Ceratoraptirlol
+2022-07-28T02:13:39Z: PLAYER ADDED   [ 1689338921] Bumtantu
+2022-07-28T02:13:52Z: PLAYER REMOVED [ 3040552015] freefire_monchika
+2022-07-28T02:13:56Z: PLAYER ADDED   [ 1709969170] Marroking_1
+2022-07-28T02:14:05Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( -223.3,    24.5,   245.7)
+  No me carga
+2022-07-28T02:14:14Z: PLAYER CHATTED [ 1254861555] chio2246N            ( -209.0,    23.9,   251.0)
+  ven, nootras vivimos en el #### # <3
+2022-07-28T02:14:50Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -74.1,    25.2,   470.3)
+  que quieres de desayunar?
+2022-07-28T02:15:05Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( -213.7,    48.5,   266.7)
+  Q bonita
+2022-07-28T02:15:05Z: PLAYER CHATTED [ 1254861555] chio2246N            ( -208.8,    47.7,   266.1)
+  m cambio rapido y al colee
+2022-07-28T02:15:08Z: PLAYER CHATTED [  447476743] crugh_26             (  -41.8,    23.0,   454.2)
+  mi lunch mami
+2022-07-28T02:15:10Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( -210.2,    48.5,   277.1)
+  Ok
+2022-07-28T02:16:00Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( -206.0,    48.5,   267.3)
+  Vamos
+2022-07-28T02:16:03Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -97.4,    25.1,   446.6)
+  corre!!!
+2022-07-28T02:16:11Z: PLAYER CHATTED [ 1254861555] chio2246N            ( -207.4,    26.2,   250.6)
+  que tarde es, #######
+2022-07-28T02:16:35Z: PLAYER REMOVED [ 2387602405] Alex_cib14
+2022-07-28T02:16:38Z: PLAYER ADDED   [ 2208914700] yusianti19
+2022-07-28T02:16:39Z: PLAYER REMOVED [ 2208914700] yusianti19
+2022-07-28T02:16:42Z: PLAYER ADDED   [ 2485521129] Melany_Juega123
+2022-07-28T02:16:46Z: PLAYER CHATTED [ 1254861555] chio2246N            (  647.6,    15.2,   333.6)
+  mami, tengo una amiga nueva :D
+2022-07-28T02:16:54Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       (  910.1,    14.7,   248.8)
+  Como se llama?
+2022-07-28T02:17:03Z: PLAYER CHATTED [ 1254861555] chio2246N            (  950.1,    14.1,  -150.5)
+  byby, #### ##### ## la casa
+2022-07-28T02:17:07Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       (  947.2,    14.7,  -233.1)
+  Ohh
+2022-07-28T02:17:08Z: PLAYER CHATTED [ 1254861555] chio2246N            (  950.8,    12.8,  -228.2)
+  #######
+2022-07-28T02:17:11Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       (  947.6,    14.7,  -232.6)
+  Que la pases bien
+2022-07-28T02:17:13Z: PLAYER CHATTED [ 1254861555] chio2246N            (  956.6,    12.8,  -236.1)
+  #######
+2022-07-28T02:17:14Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       (  947.6,    14.7,  -232.6)
+  Pórtate bien
+2022-07-28T02:17:17Z: PLAYER CHATTED [ 1254861555] chio2246N            (  958.6,    12.8,  -239.1)
+  chaoooooo
+2022-07-28T02:17:18Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       (  947.6,    14.7,  -232.6)
+  Ahorita vengo a la #
+2022-07-28T02:17:20Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       (  947.6,    14.7,  -232.6)
+  U na
+2022-07-28T02:17:36Z: PLAYER CHATTED [  447476743] crugh_26             ( 1051.0,    19.4,  -287.6)
+  holiss
+2022-07-28T02:17:39Z: PLAYER CHATTED [ 1254861555] chio2246N            ( 1046.9,    19.4,  -287.9)
+  hola byby!
+2022-07-28T02:17:41Z: PLAYER REMOVED [ 1709969170] Marroking_1
+2022-07-28T02:17:41Z: PLAYER ADDED   [ 2782859489] littlegi16
+2022-07-28T02:17:42Z: PLAYER CHATTED [  447476743] crugh_26             ( 1051.0,    19.4,  -287.6)
+  desayunaste?
+2022-07-28T02:17:44Z: PLAYER CHATTED [ 1254861555] chio2246N            ( 1046.9,    19.4,  -287.9)
+  pense q no llegaria
+2022-07-28T02:17:49Z: PLAYER CHATTED [ 1254861555] chio2246N            ( 1046.9,    19.4,  -287.9)
+  nop :C
+2022-07-28T02:17:55Z: PLAYER ADDED   [ 1210898532] Chevodieg
+2022-07-28T02:17:57Z: PLAYER CHATTED [  447476743] crugh_26             ( 1051.0,    19.4,  -287.6)
+  MAESTRA: bajen el volumen!
+2022-07-28T02:18:01Z: PLAYER CHATTED [  447476743] crugh_26             ( 1051.0,    19.4,  -287.6)
+  ops
+2022-07-28T02:18:07Z: PLAYER CHATTED [ 1254861555] chio2246N            ( 1046.9,    19.4,  -287.9)
+  oh, si lo siento
+2022-07-28T02:18:08Z: PLAYER CHATTED [  447476743] crugh_26             ( 1051.0,    19.4,  -287.6)
+  -susurra- toma
+2022-07-28T02:18:12Z: PLAYER REMOVED [ 2253858714] awuitasaludable
+2022-07-28T02:18:14Z: PLAYER REMOVED [ 1210898532] Chevodieg
+2022-07-28T02:18:15Z: PLAYER ADDED   [ 1727424094] ItsKevin75Yt
+2022-07-28T02:18:18Z: PLAYER CHATTED [ 1254861555] chio2246N            ( 1046.9,    19.4,  -287.9)
+  susurra*, graciasss
+2022-07-28T02:18:29Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (   -9.4,    24.5,   505.9)
+  *se apura*
+2022-07-28T02:18:45Z: PLAYER REMOVED [ 1727424094] ItsKevin75Yt
+2022-07-28T02:18:46Z: PLAYER CHATTED [  447476743] crugh_26             ( 1051.0,    19.4,  -287.6)
+  -hace el trabajo de mate-
+2022-07-28T02:18:48Z: PLAYER ADDED   [ 3460142463] Naomi_12431
+2022-07-28T02:18:56Z: PLAYER CHATTED [  447476743] crugh_26             ( 1051.0,    19.4,  -287.6)
+  q dificl
+2022-07-28T02:19:06Z: PLAYER CHATTED [ 1254861555] chio2246N            ( 1046.9,    19.4,  -287.9)
+  que dices, esta super facil
+2022-07-28T02:19:13Z: PLAYER CHATTED [  447476743] crugh_26             ( 1051.0,    19.4,  -287.6)
+  a ver, explicame pliss
+2022-07-28T02:19:14Z: PLAYER ADDED   [ 1688167986] blossom7393
+2022-07-28T02:19:25Z: PLAYER CHATTED [ 1254861555] chio2246N            ( 1046.9,    19.4,  -287.9)
+  mira, *le explica*
+2022-07-28T02:19:37Z: PLAYER REMOVED [ 1688167986] blossom7393
+2022-07-28T02:19:39Z: PLAYER CHATTED [  447476743] crugh_26             ( 1051.0,    19.4,  -287.6)
+  mamá?
+2022-07-28T02:19:41Z: PLAYER REMOVED [ 3460142463] Naomi_12431
+2022-07-28T02:19:44Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         ( 1041.2,    20.1,  -285.6)
+  si
+2022-07-28T02:19:46Z: PLAYER ADDED   [ 2745753083] Turrilaaaa
+2022-07-28T02:19:48Z: PLAYER ADDED   [ 2791218625] AndyGV0517
+2022-07-28T02:19:49Z: PLAYER CHATTED [  447476743] crugh_26             ( 1051.0,    19.4,  -287.6)
+  vete maaa
+2022-07-28T02:20:02Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         ( 1041.2,    20.1,  -285.6)
+  todavia que soy buena :v
+2022-07-28T02:20:04Z: PLAYER CHATTED [ 1254861555] chio2246N            ( 1046.9,    19.4,  -287.9)
+  MAESTRA: señora todavi# # # es hora de reseso!
+2022-07-28T02:20:05Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         ( 1041.2,    20.1,  -285.6)
+  D:
+2022-07-28T02:20:14Z: PLAYER CHATTED [  447476743] crugh_26             ( 1051.0,    19.4,  -287.6)
+  ay noo
+2022-07-28T02:20:17Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         ( 1041.2,    20.1,  -285.6)
+  ya #### ###########
+2022-07-28T02:20:32Z: PLAYER CHATTED [ 1254861555] chio2246N            ( 1046.9,    19.4,  -287.9)
+  esa es tu mama???
+2022-07-28T02:20:36Z: PLAYER CHATTED [  447476743] crugh_26             ( 1051.0,    19.4,  -287.6)
+  ehm si
+2022-07-28T02:20:46Z: PLAYER ADDED   [ 1918431143] metrocdm_2
+2022-07-28T02:20:47Z: PLAYER CHATTED [ 1254861555] chio2246N            ( 1046.9,    19.4,  -287.9)
+  se ve buena ondaa
+2022-07-28T02:20:52Z: PLAYER CHATTED [  447476743] crugh_26             ( 1051.0,    19.4,  -287.6)
+  Sip
+2022-07-28T02:21:01Z: PLAYER CHATTED [  447476743] crugh_26             ( 1051.0,    19.4,  -287.6)
+  -#### lunch-
+2022-07-28T02:21:05Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (   44.2,    25.0,   338.6)
+  hay no esas niñas de hoy en dia 
+2022-07-28T02:21:12Z: PLAYER CHATTED [ 1254861555] chio2246N            ( 1046.9,    19.4,  -287.9)
+  ####### hagan equipos de dos para resolver la pag ## de mate!
+2022-07-28T02:21:25Z: PLAYER REMOVED [ 1918431143] metrocdm_2
+2022-07-28T02:21:27Z: PLAYER REMOVED [ 2745753083] Turrilaaaa
+2022-07-28T02:21:34Z: PLAYER CHATTED [ 1254861555] chio2246N            ( 1046.9,    19.4,  -287.9)
+  MAESTRA: lo entregan mañana, sean puntuales!
+2022-07-28T02:21:51Z: PLAYER CHATTED [  447476743] crugh_26             ( 1026.8,    19.2,  -297.9)
+  tu y yo?
+2022-07-28T02:21:56Z: PLAYER ADDED   [ 1398172845] cazava_48
+2022-07-28T02:21:56Z: PLAYER CHATTED [ 1254861555] chio2246N            ( 1023.8,    19.2,  -299.1)
+  siii
+2022-07-28T02:22:03Z: PLAYER CHATTED [  447476743] crugh_26             ( 1025.3,    19.2,  -298.5)
+  vale, tu casa o la mia?
+2022-07-28T02:22:13Z: PLAYER CHATTED [ 1254861555] chio2246N            ( 1021.8,    19.2,  -299.9)
+  mmhh... si quieres en la tuya
+2022-07-28T02:22:20Z: PLAYER CHATTED [  447476743] crugh_26             ( 1024.0,    19.2,  -299.0)
+  vale
+2022-07-28T02:22:21Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -19.9,    24.5,   504.5)
+  *guarda el yogur de byby*
+2022-07-28T02:22:26Z: PLAYER CHATTED [ 1254861555] chio2246N            ( 1020.3,    19.2,  -300.5)
+  si
+2022-07-28T02:22:30Z: PLAYER CHATTED [  447476743] crugh_26             ( 1024.0,    19.2,  -299.0)
+  a las ##
+2022-07-28T02:22:36Z: PLAYER CHATTED [ 1254861555] chio2246N            ( 1020.3,    19.2,  -300.5)
+  #### DE SALIDAAAAAAAAAAAAAAAAAAAAAAAAA/*/*/*/
+2022-07-28T02:22:37Z: PLAYER ADDED   [ 1210898532] Chevodieg
+2022-07-28T02:22:45Z: PLAYER CHATTED [ 1254861555] chio2246N            ( 1020.3,    19.2,  -300.5)
+  vale
+2022-07-28T02:22:52Z: PLAYER CHATTED [  447476743] crugh_26             (  987.7,    19.2,  -263.2)
+  #####
+2022-07-28T02:22:58Z: PLAYER CHATTED [ 1254861555] chio2246N            (  990.1,    19.2,  -261.7)
+  la agarra de la mano*
+2022-07-28T02:23:00Z: PLAYER CHATTED [  447476743] crugh_26             (  988.8,    19.2,  -261.9)
+  hay q ######## ### ####
+2022-07-28T02:23:05Z: PLAYER CHATTED [  447476743] crugh_26             (  989.0,    19.2,  -261.0)
+  -la toma-
+2022-07-28T02:23:05Z: PLAYER CHATTED [ 1254861555] chio2246N            (  990.1,    19.2,  -261.7)
+  ya m #####
+2022-07-28T02:23:06Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       (  992.9,    15.5,  -236.0)
+  Ya llegue hija
+2022-07-28T02:23:09Z: PLAYER CHATTED [  447476743] crugh_26             (  989.0,    19.2,  -261.0)
+  ayoooss
+2022-07-28T02:23:10Z: PLAYER CHATTED [ 1254861555] chio2246N            (  990.1,    19.2,  -261.7)
+  baiii
+2022-07-28T02:23:13Z: PLAYER CHATTED [  447476743] crugh_26             (  989.0,    19.2,  -261.0)
+  a las ######
+2022-07-28T02:23:13Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       (  992.7,    15.4,  -235.5)
+  Vamos a casa ya está la comida
+2022-07-28T02:23:21Z: PLAYER REMOVED [ 1210898532] Chevodieg
+2022-07-28T02:23:21Z: PLAYER CHATTED [ 1254861555] chio2246N            (  990.0,    14.1,   -90.1)
+  siiiiiiiiiiiiiiiii
+2022-07-28T02:23:30Z: PLAYER CHATTED [ 1254861555] chio2246N            (  854.0,    14.0,   317.5)
+  mami
+2022-07-28T02:23:34Z: PLAYER CHATTED [  447476743] crugh_26             (  989.2,    14.6,  -240.4)
+  q tarde ma
+2022-07-28T02:23:35Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  997.9,    13.7,  -233.6)
+  perdon hijaaaa
+2022-07-28T02:23:36Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       (  596.7,    23.5,   355.6)
+  Qué pasa?
+2022-07-28T02:23:43Z: PLAYER ADDED   [ 1210898532] Chevodieg
+2022-07-28T02:23:49Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         ( 1066.3,    14.1,   -89.2)
+  como te fue??
+2022-07-28T02:23:51Z: PLAYER CHATTED [ 1254861555] chio2246N            (   25.1,    25.1,   298.8)
+  tengo un trabajo alas # pm en casa de byby, puedo ir?
+2022-07-28T02:23:56Z: PLAYER REMOVED [ 2782859489] littlegi16
+2022-07-28T02:23:56Z: PLAYER CHATTED [  447476743] crugh_26             ( 1049.2,    13.7,   294.4)
+  -ve ### eh bien
+2022-07-28T02:23:58Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( -152.8,    25.4,   226.9)
+  Claro
+2022-07-28T02:24:05Z: PLAYER ADDED   [ 2782859489] littlegi16
+2022-07-28T02:24:08Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( -220.0,    25.5,   243.4)
+  Solo no vayan a ponerse a jugar
+2022-07-28T02:24:12Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( -217.1,    25.5,   241.8)
+  Todo el tiempo
+2022-07-28T02:24:13Z: PLAYER CHATTED [ 1254861555] chio2246N            ( -214.8,    25.1,   240.6)
+  valeee!, vamos a casa, m muero d ham,bre
+2022-07-28T02:24:16Z: PLAYER CHATTED [ 1254861555] chio2246N            ( -214.3,    25.1,   240.3)
+  nonon
+2022-07-28T02:24:23Z: PLAYER REMOVED [ 1210898532] Chevodieg
+2022-07-28T02:24:24Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( -216.2,    25.5,   241.3)
+  Cuando terminen diviértanse como quieran
+2022-07-28T02:24:24Z: PLAYER REMOVED [ 1398172845] cazava_48
+2022-07-28T02:24:31Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( -221.6,    25.5,   249.7)
+  No me carga
+2022-07-28T02:24:36Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -95.4,    25.1,   447.5)
+  hija
+2022-07-28T02:24:39Z: PLAYER ADDED   [ 1398172845] cazava_48
+2022-07-28T02:24:40Z: PLAYER CHATTED [ 1254861555] chio2246N            ( -209.2,    23.9,   253.4)
+  sii<3
+2022-07-28T02:24:42Z: PLAYER CHATTED [  447476743] crugh_26             (  -98.1,    24.7,   448.4)
+  -sube la ####### con emma-
+2022-07-28T02:24:44Z: PLAYER CHATTED [  447476743] crugh_26             (  -98.1,    24.7,   448.4)
+  mande
+2022-07-28T02:24:48Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -95.3,    25.1,   447.5)
+  te tengo una sorpresa
+2022-07-28T02:24:53Z: PLAYER CHATTED [  447476743] crugh_26             (  -84.3,    23.7,   448.8)
+  en serio?
+2022-07-28T02:24:55Z: PLAYER CHATTED [ 1254861555] chio2246N            ( -208.6,    36.9,   251.6)
+  mami
+2022-07-28T02:25:02Z: PLAYER CHATTED [ 1254861555] chio2246N            ( -208.6,    47.9,   251.6)
+  t tengo una sorpresa
+2022-07-28T02:25:03Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( -208.5,    48.5,   263.3)
+  Mande?
+2022-07-28T02:25:03Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -85.8,    24.5,   445.8)
+  te compre el ##### que querias
+2022-07-28T02:25:09Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( -196.8,    48.5,   267.5)
+  Cual
+2022-07-28T02:25:09Z: PLAYER ADDED   [ 1210898532] Chevodieg
+2022-07-28T02:25:09Z: PLAYER CHATTED [  447476743] crugh_26             (  -63.9,    23.7,   451.8)
+  omg gracias mami!!
+2022-07-28T02:25:14Z: PLAYER CHATTED [ 1254861555] chio2246N            ( -201.6,    48.2,   271.0)
+  que creees??
+2022-07-28T02:25:22Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( -206.2,    48.5,   266.9)
+  Qué pasó
+2022-07-28T02:25:22Z: PLAYER CHATTED [  447476743] crugh_26             (  -38.8,    23.7,   473.9)
+  oye ma
+2022-07-28T02:25:25Z: PLAYER REMOVED [ 2782859489] littlegi16
+2022-07-28T02:25:30Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -29.2,    24.5,   484.1)
+  esta en tu ######
+2022-07-28T02:25:31Z: CHRCTER ADDED  [ 2791218625] AndyGV0517           ( 1958.9,    13.9,  -177.2)
+2022-07-28T02:25:31Z: PLAYER CHATTED [  447476743] crugh_26             (  -31.0,    23.7,   480.0)
+  a las ##### vendra una amiga
+2022-07-28T02:25:35Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -29.6,    24.5,   481.9)
+  oh ok
+2022-07-28T02:25:39Z: PLAYER ADDED   [ 2782859489] littlegi16
+2022-07-28T02:25:42Z: PLAYER CHATTED [ 1254861555] chio2246N            ( -222.1,    47.8,   262.1)
+  m dieron una beca para la mejor secundaria de la ciudad!
+2022-07-28T02:25:43Z: PLAYER CHATTED [  447476743] crugh_26             (  -31.0,    23.7,   480.0)
+  gracias, ire a cambiarme, lo actualizo en la noche
+2022-07-28T02:25:51Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -29.6,    24.5,   481.9)
+  si esta bien
+2022-07-28T02:25:58Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( -218.2,    48.2,   266.0)
+  Q bueno, me alegro mucho por ti hija
+2022-07-28T02:26:01Z: PLAYER CHATTED [ 1254861555] chio2246N            ( -222.1,    47.8,   262.1)
+  gracias a q siempre he sacado ####
+2022-07-28T02:26:04Z: PLAYER CHATTED [  447476743] crugh_26             (  -27.5,    35.7,   457.3)
+  -lo ve- :0
+2022-07-28T02:26:12Z: PLAYER CHATTED [ 1254861555] chio2246N            ( -222.1,    47.8,   262.1)
+  sii
+2022-07-28T02:26:14Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( -218.2,    48.2,   266.0)
+  Ojalá y logres más
+2022-07-28T02:26:20Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( -218.2,    48.2,   266.0)
+  Eres muy inteligente
+2022-07-28T02:26:34Z: PLAYER CHATTED [  447476743] crugh_26             (  -16.3,    23.7,   494.5)
+  tengo hambre ma
+2022-07-28T02:26:38Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -12.9,    24.5,   502.2)
+  ya voy
+2022-07-28T02:26:41Z: PLAYER CHATTED [ 1254861555] chio2246N            ( -222.1,    47.8,   262.1)
+  graxx, que rica tu comida!
+2022-07-28T02:26:46Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( -218.2,    48.2,   266.0)
+  No hay de que hija
+2022-07-28T02:26:48Z: PLAYER CHATTED [ 1254861555] chio2246N            ( -222.1,    47.8,   262.1)
+  ire a cambiarme
+2022-07-28T02:26:52Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( -218.2,    48.2,   266.0)
+  Ok
+2022-07-28T02:26:56Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (   -9.1,    24.5,   506.0)
+  que quieres comer??
+2022-07-28T02:27:06Z: PLAYER CHATTED [  447476743] crugh_26             (  -29.2,    23.6,   504.2)
+  mejor caliento algo del refri
+2022-07-28T02:27:12Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (   -9.1,    24.5,   506.0)
+  esta bien
+2022-07-28T02:28:12Z: PLAYER REMOVED [ 1210898532] Chevodieg
+2022-07-28T02:28:20Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -10.3,    24.5,   504.9)
+  uy
+2022-07-28T02:28:24Z: PLAYER CHATTED [  447476743] crugh_26             (  -15.5,    23.7,   505.5)
+  
+2022-07-28T02:28:26Z: PLAYER CHATTED [ 1254861555] chio2246N            ( -210.3,    48.6,   301.0)
+  voy a cocinar galletas :D
+2022-07-28T02:28:27Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -10.3,    24.5,   504.9)
+  pues que payasa :v
+2022-07-28T02:28:33Z: PLAYER ADDED   [ 1210898532] Chevodieg
+2022-07-28T02:28:34Z: PLAYER CHATTED [  447476743] crugh_26             (  -16.9,    23.7,   503.2)
+  ayy
+2022-07-28T02:28:46Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -12.9,    24.5,   502.2)
+  ven para aca!!!
+2022-07-28T02:28:53Z: PLAYER CHATTED [  447476743] crugh_26             (  -37.3,    35.7,   449.2)
+  q pasoo
+2022-07-28T02:29:08Z: PLAYER CHATTED [  447476743] crugh_26             (  -27.0,    23.7,   501.5)
+  :c
+2022-07-28T02:29:10Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -24.6,    24.5,   503.4)
+  te lo comes
+2022-07-28T02:29:19Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -12.9,    24.5,   502.2)
+  si
+2022-07-28T02:29:28Z: PLAYER REMOVED [ 1210898532] Chevodieg
+2022-07-28T02:29:37Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( -208.1,    48.5,   269.4)
+  Ya vengo
+2022-07-28T02:29:40Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( -208.1,    48.5,   269.4)
+  Voy a salir
+2022-07-28T02:29:45Z: PLAYER CHATTED [ 1254861555] chio2246N            ( -195.4,    47.7,   268.6)
+  vale
+2022-07-28T02:29:48Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( -208.1,    48.5,   269.4)
+  Me avisas cuando vayas con tu amiga
+2022-07-28T02:29:57Z: PLAYER CHATTED [ 1254861555] chio2246N            ( -200.0,    47.7,   267.9)
+  sisis, igual queda ### cerca
+2022-07-28T02:30:07Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -27.5,    24.5,   502.6)
+  ya decidete :v
+2022-07-28T02:30:39Z: PLAYER REMOVED [ 2782859489] littlegi16
+2022-07-28T02:31:37Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -22.3,    24.5,   504.0)
+  mientras sea en la casa si 
+2022-07-28T02:31:51Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (   22.7,    24.5,   498.8)
+  :V
+2022-07-28T02:31:58Z: PLAYER CHATTED [  447476743] crugh_26             (   25.3,    23.7,   500.5)
+  m cai a la alberca
+2022-07-28T02:32:03Z: PLAYER CHATTED [  447476743] crugh_26             (   25.3,    23.7,   500.5)
+  ire a #########
+2022-07-28T02:32:05Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (   22.7,    24.5,   498.8)
+  ya veo por que pides permiso
+2022-07-28T02:32:07Z: PLAYER CHATTED [  447476743] crugh_26             (   25.3,    23.7,   500.5)
+  si lega mi amiga la pasas
+2022-07-28T02:32:09Z: PLAYER CHATTED [ 1254861555] chio2246N            ( -206.9,    47.7,   259.4)
+  llama a mama*/
+2022-07-28T02:32:18Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       (  166.0,    25.4,   312.6)
+  *contesta*
+2022-07-28T02:32:20Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       (  162.2,    25.4,   311.6)
+  Qué pasa?
+2022-07-28T02:32:32Z: PLAYER CHATTED [ 1254861555] chio2246N            ( -210.4,    23.9,   253.7)
+  ya estoy llendo para alla!
+2022-07-28T02:32:40Z: PLAYER CHATTED [ 1254861555] chio2246N            ( -137.7,    23.5,   190.5)
+  chaooo
+2022-07-28T02:32:42Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( -220.8,    37.6,  -144.0)
+  Ohh ok yo ya voy para la casa
+2022-07-28T02:32:44Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( -221.6,    37.6,  -144.1)
+  Chao
+2022-07-28T02:32:51Z: PLAYER CHATTED [  447476743] crugh_26             (  -31.4,    35.7,   448.3)
+  -se seca-
+2022-07-28T02:32:52Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -33.9,    24.5,   474.5)
+  si pero es peligroso
+2022-07-28T02:33:06Z: PLAYER CHATTED [  447476743] crugh_26             (  -38.9,    37.8,   454.8)
+  eso q
+2022-07-28T02:33:23Z: PLAYER CHATTED [ 1254861555] chio2246N            (  -62.4,    24.3,   473.2)
+  hola señora<3
+2022-07-28T02:33:26Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -57.3,    24.5,   473.9)
+  hola!!<3
+2022-07-28T02:33:29Z: PLAYER CHATTED [  447476743] crugh_26             (  -30.2,    35.7,   449.5)
+  -se seca-
+2022-07-28T02:33:33Z: PLAYER CHATTED [ 1254861555] chio2246N            (  -62.4,    24.3,   473.2)
+  una disculpa x llegar tan tarde
+2022-07-28T02:33:38Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -57.3,    24.5,   473.9)
+  no pasa nada
+2022-07-28T02:33:40Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -57.3,    24.5,   473.9)
+  pasa
+2022-07-28T02:33:41Z: PLAYER CHATTED [ 1254861555] chio2246N            (  -62.4,    24.3,   473.2)
+  mire, traje galletas
+2022-07-28T02:33:47Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -57.3,    24.5,   473.9)
+  byby esta ###########
+2022-07-28T02:33:50Z: PLAYER CHATTED [  447476743] crugh_26             (  -24.6,    36.4,   450.2)
+  -elige q ponerse-
+2022-07-28T02:33:55Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -57.3,    24.5,   473.9)
+  ###############
+2022-07-28T02:33:56Z: PLAYER CHATTED [ 1254861555] chio2246N            (  -51.2,    23.7,   475.6)
+  wow, que linda casa
+2022-07-28T02:34:11Z: PLAYER CHATTED [ 1254861555] chio2246N            (  -28.2,    23.7,   494.6)
+  adonde es su #######
+2022-07-28T02:34:13Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -29.0,    24.5,   500.2)
+  gracias <3
+2022-07-28T02:34:16Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -29.0,    24.5,   500.2)
+  arriba 
+2022-07-28T02:34:20Z: PLAYER CHATTED [ 1254861555] chio2246N            (  -28.6,    23.7,   492.9)
+  okey!
+2022-07-28T02:34:24Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -29.0,    24.5,   500.2)
+  a la derecha
+2022-07-28T02:34:34Z: PLAYER CHATTED [  447476743] crugh_26             (  -24.6,    36.4,   450.2)
+  pasaa
+2022-07-28T02:34:42Z: PLAYER CHATTED [  447476743] crugh_26             (  -26.8,    35.7,   454.5)
+  holaa
+2022-07-28T02:34:43Z: PLAYER CHATTED [ 1254861555] chio2246N            (  -32.0,    35.7,   458.0)
+  holaa
+2022-07-28T02:34:47Z: PLAYER CHATTED [  447476743] crugh_26             (  -28.4,    35.7,   455.6)
+  crei q no llegabas
+2022-07-28T02:35:00Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -19.1,    24.5,   502.1)
+  *guarda las galletas para que byby no le pida*
+2022-07-28T02:35:04Z: PLAYER CHATTED [ 1254861555] chio2246N            (  -30.5,    35.7,   456.5)
+  lo siento, las galletas nunca salian
+2022-07-28T02:35:07Z: PLAYER ADDED   [ 2782859489] littlegi16
+2022-07-28T02:35:10Z: PLAYER CHATTED [  447476743] crugh_26             (  -21.3,    35.7,   457.1)
+  ohh
+2022-07-28T02:35:10Z: PLAYER REMOVED [ 1367546230] frozeen19
+2022-07-28T02:35:16Z: PLAYER CHATTED [ 1254861555] chio2246N            (  -25.7,    35.8,   458.0)
+  ah, te traje galleta
+2022-07-28T02:35:23Z: PLAYER CHATTED [  447476743] crugh_26             (  -23.4,    35.7,   457.4)
+  gracias, q linda
+2022-07-28T02:35:26Z: PLAYER CHATTED [ 1254861555] chio2246N            (  -25.7,    35.8,   458.0)
+  bueno, si quieres yo la hago :D
+2022-07-28T02:35:33Z: PLAYER CHATTED [  447476743] crugh_26             (  -23.6,    35.7,   457.7)
+  ####
+2022-07-28T02:35:52Z: PLAYER CHATTED [ 1254861555] chio2246N            (  -25.7,    35.8,   458.0)
+  vale, empieza a explicar y hacerla*/
+2022-07-28T02:35:59Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -28.9,    36.5,   454.9)
+  chicas les traje un poco de fruta <3 
+2022-07-28T02:36:08Z: PLAYER CHATTED [  447476743] crugh_26             (  -23.4,    35.7,   457.8)
+  gracias
+2022-07-28T02:36:12Z: PLAYER CHATTED [ 1254861555] chio2246N            (  -25.7,    35.8,   458.0)
+  muchas gracias señora!
+2022-07-28T02:36:25Z: PLAYER CHATTED [ 1254861555] chio2246N            (  -25.7,    35.8,   458.0)
+  listo, ##########
+2022-07-28T02:36:29Z: PLAYER CHATTED [  447476743] crugh_26             (  -23.5,    35.7,   457.6)
+  si si
+2022-07-28T02:36:33Z: PLAYER CHATTED [ 1254861555] chio2246N            (  -25.7,    35.8,   458.0)
+  valeee
+2022-07-28T02:36:56Z: PLAYER CHATTED [ 1254861555] chio2246N            (  -25.7,    35.8,   458.0)
+  pues ya m ire a casa
+2022-07-28T02:37:00Z: PLAYER CHATTED [  447476743] crugh_26             (  -18.4,    35.8,   458.3)
+  vives lejos?
+2022-07-28T02:37:07Z: PLAYER CHATTED [ 1254861555] chio2246N            (  -22.0,    35.7,   456.8)
+  no, aqui cerca
+2022-07-28T02:37:47Z: PLAYER CHATTED [ 2485521129] Melany_Juega123      ( 1976.8,    12.5,   343.1)
+  ya t vi
+2022-07-28T02:37:53Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -30.1,    24.5,   478.4)
+  BYBY llego el pedido que te hice de ropa
+2022-07-28T02:37:57Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -30.1,    24.5,   478.4)
+  baja!!!
+2022-07-28T02:38:05Z: PLAYER CHATTED [ 1254861555] chio2246N            ( -214.7,    23.7,   247.3)
+  bno, grax x toda su atencion
+2022-07-28T02:38:08Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -23.8,    33.3,   470.2)
+  .-.
+2022-07-28T02:38:09Z: PLAYER CHATTED [  447476743] crugh_26             ( -212.0,    23.7,   247.8)
+  ###########
+2022-07-28T02:38:13Z: PLAYER CHATTED [ 1254861555] chio2246N            ( -212.8,    23.7,   245.1)
+  iguall!
+2022-07-28T02:38:15Z: PLAYER CHATTED [  447476743] crugh_26             ( -210.7,    23.7,   247.3)
+  ####
+2022-07-28T02:38:18Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -32.5,    36.5,   459.0)
+  BYBY????!!!!!!!!
+2022-07-28T02:38:38Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -19.4,    30.9,   475.3)
+  *ve las camaras del timbre*
+2022-07-28T02:38:42Z: PLAYER CHATTED [ 1254861555] chio2246N            ( -206.0,    47.7,   266.1)
+  ya lleguee
+2022-07-28T02:38:43Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -30.1,    24.5,   485.3)
+  D:
+2022-07-28T02:38:51Z: PLAYER CHATTED [ 1254861555] chio2246N            ( -219.2,    47.7,   290.0)
+  hola mami
+2022-07-28T02:38:52Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -29.6,    24.5,   482.6)
+  ############################
+2022-07-28T02:38:55Z: PLAYER CHATTED [  447476743] crugh_26             (  -72.5,    24.5,   460.6)
+  aahh
+2022-07-28T02:38:57Z: PLAYER CHATTED [  447476743] crugh_26             (  -72.5,    24.5,   460.6)
+  q pasa
+2022-07-28T02:39:12Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -23.6,    23.8,   494.9)
+  por que te saliste sin permiso
+2022-07-28T02:39:14Z: PLAYER CHATTED [  447476743] crugh_26             (  -27.7,    23.7,   494.3)
+  estaba en el sillon de afuera
+2022-07-28T02:39:17Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( -199.4,    48.5,   282.5)
+  Holaa
+2022-07-28T02:39:20Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -23.6,    23.8,   494.9)
+  si aja
+2022-07-28T02:39:23Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( -199.4,    48.5,   282.5)
+  Perdón me andaba cambiando
+2022-07-28T02:39:25Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -23.6,    23.8,   494.9)
+  ven,ven
+2022-07-28T02:39:26Z: PLAYER CHATTED [ 1254861555] chio2246N            ( -192.7,    47.7,   276.0)
+  holaa!
+2022-07-28T02:39:31Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( -195.4,    48.5,   280.7)
+  Bueno
+2022-07-28T02:39:39Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( -195.4,    48.5,   280.7)
+  Voy a desmaquillarme para ya dormir
+2022-07-28T02:39:39Z: PLAYER CHATTED [ 1254861555] chio2246N            ( -195.0,    47.7,   275.8)
+  ntp
+2022-07-28T02:39:41Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -20.3,    36.5,   453.9)
+  ve las camaras 
+2022-07-28T02:39:43Z: PLAYER CHATTED [ 1254861555] chio2246N            ( -195.5,    47.7,   277.4)
+  vale
+2022-07-28T02:39:47Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -19.1,    36.5,   455.0)
+  >:v
+2022-07-28T02:39:53Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -19.1,    36.5,   455.0)
+  si aja
+2022-07-28T02:39:57Z: PLAYER CHATTED [  447476743] crugh_26             (  -21.1,    35.7,   457.5)
+  sii
+2022-07-28T02:40:06Z: PLAYER CHATTED [ 1254861555] chio2246N            ( -193.7,    47.7,   276.8)
+  se hace de cenar/*
+2022-07-28T02:40:14Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -19.1,    36.5,   455.0)
+  uy si desde cuando tan responsable
+2022-07-28T02:40:43Z: PLAYER CHATTED [  447476743] crugh_26             (  -45.3,    36.5,   446.4)
+  siempre, nunca te he fallado
+2022-07-28T02:40:45Z: PLAYER CHATTED [ 1254861555] chio2246N            ( -201.6,    48.2,   275.7)
+  le envia mjs a byby*/, te gustaron las galletassss?
+2022-07-28T02:40:58Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -22.1,    25.1,   501.5)
+  hoy si lo hiciste 
+2022-07-28T02:40:59Z: PLAYER CHATTED [  447476743] crugh_26             (  -45.3,    36.5,   446.4)
+  *contesta* oh, no pude probarlas
+2022-07-28T02:41:12Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -22.1,    25.1,   501.5)
+  ni si quiera te diste cuenta que te pedi ropa por linea
+2022-07-28T02:41:18Z: PLAYER CHATTED [  447476743] crugh_26             (  -45.3,    36.5,   446.4)
+  *mañana lo hare en el desayuno, gracias por las galletas<3
+2022-07-28T02:41:31Z: PLAYER CHATTED [  447476743] crugh_26             (  -45.3,    36.5,   446.4)
+  *viendo su movil* si ma, gracias
+2022-07-28T02:41:31Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -22.1,    25.1,   501.5)
+  pero la voy a regresar por #############
+2022-07-28T02:41:33Z: PLAYER CHATTED [ 1254861555] chio2246N            ( -201.6,    48.2,   275.7)
+  sisi ntp*/
+2022-07-28T02:41:39Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -22.1,    25.1,   501.5)
+  >:v
+2022-07-28T02:41:44Z: PLAYER CHATTED [ 1254861555] chio2246N            ( -201.6,    48.2,   275.7)
+  buenas noches mama <3
+2022-07-28T02:41:45Z: PLAYER CHATTED [  447476743] crugh_26             (  -45.3,    36.5,   446.4)
+  -viendo el movil- okei ma
+2022-07-28T02:41:50Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( -201.0,    48.5,   266.6)
+  Buenas noches hija
+2022-07-28T02:41:51Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -22.1,    25.1,   501.5)
+  en vez de que la veas feliz
+2022-07-28T02:41:58Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -22.1,    25.1,   501.5)
+  nooo mira 
+2022-07-28T02:42:05Z: PLAYER CHATTED [  447476743] crugh_26             (  -45.3,    36.5,   446.4)
+  -viendo en movil- si ma, lo q digas
+2022-07-28T02:42:13Z: PLAYER CHATTED [ 1254861555] chio2246N            ( -224.0,    48.9,   274.2)
+  zzZ
+2022-07-28T02:42:20Z: PLAYER CHATTED [  447476743] crugh_26             (  -45.3,    36.5,   446.4)
+  -apaga el movil- buenas noches maaa
+2022-07-28T02:42:23Z: PLAYER CHATTED [  447476743] crugh_26             (  -45.3,    36.5,   446.4)
+  ZzZz
+2022-07-28T02:42:26Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -22.1,    25.1,   501.5)
+  buenas noches 
+2022-07-28T02:43:06Z: PLAYER CHATTED [ 1254861555] chio2246N            ( -202.1,    47.7,   277.4)
+  grax x el rp, ya t pagare <3
+2022-07-28T02:43:16Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( -204.8,    48.5,   268.2)
+  Nono, no pasa nada déjalo así
+2022-07-28T02:43:22Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( -205.0,    48.5,   267.4)
+  Oh bueno
+2022-07-28T02:43:22Z: PLAYER CHATTED [ 1254861555] chio2246N            ( -208.5,    47.7,   267.7)
+  ntp
+2022-07-28T02:43:24Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( -205.0,    48.5,   267.4)
+  Gracias
+2022-07-28T02:43:27Z: PLAYER CHATTED [ 1254861555] chio2246N            ( -207.8,    47.7,   270.7)
+  sisi
+2022-07-28T02:43:28Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( -205.0,    48.5,   267.4)
+  Bueno, me voy
+2022-07-28T02:43:30Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( -205.0,    48.5,   267.4)
+  Adios
+2022-07-28T02:43:38Z: PLAYER CHATTED [ 1254861555] chio2246N            ( -226.9,    50.4,   276.5)
+  sii, suerte con tu casaa
+2022-07-28T02:43:49Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -32.7,    36.5,   456.4)
+  gracias mama de chio por apoyarnos en el rp<3
+2022-07-28T02:43:49Z: PLAYER CHATTED [ 1698408976] La_Cristy7v7YT       ( -206.5,    48.5,   259.7)
+  Gracias
+2022-07-28T02:44:09Z: PLAYER CHATTED [ 2029054278] KARIQUEENN21         (  -32.7,    36.5,   456.4)
+  byeee buenas noches o dia o tardes
+2022-07-28T02:44:22Z: PLAYER REMOVED [ 2485521129] Melany_Juega123
+2022-07-28T02:44:29Z: PLAYER ADDED   [ 2981323010] wjlmq
+2022-07-28T02:44:30Z: PLAYER REMOVED [ 2029054278] KARIQUEENN21
+2022-07-28T02:44:31Z: CHRCTER ADDED  [ 2981323010] wjlmq                (-4066.9,   -86.7,   851.0)
+2022-07-28T02:44:47Z: PLAYER REMOVED [  447476743] crugh_26
+2022-07-28T02:44:53Z: PLAYER REMOVED [ 1689338921] Bumtantu
+2022-07-28T02:45:33Z: PLAYER ADDED   [ 1897152564] lafiruflais1
+2022-07-28T02:45:34Z: PLAYER ADDED   [ 2684733727] Evelyn600ty
+2022-07-28T02:45:35Z: PLAYER ADDED   [ 2689673168] Tinkerbell291129
+2022-07-28T02:45:47Z: PLAYER CHATTED [ 2689673168] Tinkerbell291129     (-4066.9,  -115.7,   851.0)
+  Abc for me to build u a backyard/pool area/house/cafe/playhouse/etc! (I can show u my house as an example!)
+2022-07-28T02:45:57Z: PLAYER REMOVED [ 2689673168] Tinkerbell291129
+2022-07-28T02:46:03Z: PLAYER ADDED   [ 1948761312] shuliskz
+2022-07-28T02:46:05Z: CHRCTER ADDED  [ 1948761312] shuliskz             (-4066.9,   -89.9,   851.0)
+2022-07-28T02:46:14Z: PLAYER REMOVED [ 2981323010] wjlmq
+2022-07-28T02:46:16Z: PLAYER ADDED   [ 3243450437] Not_nickie13
+2022-07-28T02:47:09Z: PLAYER REMOVED [ 1897152564] lafiruflais1
+2022-07-28T02:47:10Z: PLAYER ADDED   [ 1944140632] isupolinessiapro8
+2022-07-28T02:59:03Z: PLAYER REMOVED [ 1948761312] shuliskz
+2022-07-28T02:59:03Z: PLAYER ADDED   [ 1805845058] javiercito_8
+2022-07-28T02:59:06Z: CHRCTER ADDED  [ 1805845058] javiercito_8         (-4066.9,  -113.0,   851.0)
+2022-07-28T03:02:03Z: PLAYER ADDED   [  633384770] Siumaris
+2022-07-28T03:04:13Z: PLAYER REMOVED [ 1698408976] La_Cristy7v7YT
+2022-07-28T03:04:46Z: PLAYER REMOVED [ 1398172845] cazava_48
+2022-07-28T03:04:47Z: PLAYER ADDED   [ 1376081494] StarFire_R2
+2022-07-28T03:04:55Z: PLAYER REMOVED [ 2791218625] AndyGV0517
+2022-07-28T03:04:56Z: PLAYER ADDED   [  560708486] uricristo
+2022-07-28T03:05:05Z: PLAYER REMOVED [ 1944140632] isupolinessiapro8
+2022-07-28T03:05:05Z: PLAYER ADDED   [ 1198218888] Sol15hill
+2022-07-28T03:05:09Z: PLAYER REMOVED [ 2782859489] littlegi16
+2022-07-28T03:05:09Z: PLAYER ADDED   [  635110141] Elisa_Gamer2008
+2022-07-28T03:05:45Z: PLAYER REMOVED [  635110141] Elisa_Gamer2008
+2022-07-28T03:05:47Z: PLAYER ADDED   [ 2253974316] carlitos77710893
+2022-07-28T03:07:24Z: PLAYER ADDED   [ 3213099916] Fernix_123456

@@ -1,0 +1,81 @@
+[    1630228] : [ 9984496231] Site-56 - 8852cdf9-417f-4bb6-8db1-e0fecc029119
+2022-07-23T09:18:15Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-07-23T09:18:16Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-07-23T09:18:16Z: PLAYER ADDED   [ 3301350295] eggtmqk
+2022-07-23T09:18:46Z: PLAYER ADDED   [  515636321] LogzGaming26
+2022-07-23T09:18:53Z: CHRCTER ADDED  [  515636321] LogzGaming26         (  396.2,   404.8,    40.9)
+2022-07-23T09:20:10Z: PLAYER CHATTED [    1630228] VisualPlugin         (  145.7,   404.2,   110.5)
+  Not bad.
+2022-07-23T09:20:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (  145.7,   404.2,   110.5)
+  I'm using Reshade,
+2022-07-23T09:20:24Z: PLAYER CHATTED [    1630228] VisualPlugin         (  145.7,   404.2,   110.5)
+  So it looks even nicer for me.
+2022-07-23T09:20:31Z: PLAYER CHATTED [    1630228] VisualPlugin         (  144.1,   404.2,   110.2)
+  It's my first time here.
+2022-07-23T09:20:53Z: PLAYER CHATTED [    1630228] VisualPlugin         (   82.4,   404.2,   145.1)
+  You should try it out sometime.
+2022-07-23T09:21:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (   33.0,   404.4,   305.7)
+  Hear that.
+2022-07-23T09:21:49Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  358.4,   404.8,    40.9)
+2022-07-23T09:21:57Z: CHRCTER ADDED  [  515636321] LogzGaming26         (  396.2,   404.8,    40.9)
+2022-07-23T09:22:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (  342.1,   404.3,    41.5)
+  I'm back.
+2022-07-23T09:22:10Z: PLAYER CHATTED [    1630228] VisualPlugin         (  339.3,   404.3,    42.9)
+  Not bad.
+2022-07-23T09:22:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (  338.6,   404.3,    24.8)
+  I expected you to be one of the researchers.
+2022-07-23T09:22:41Z: PLAYER CHATTED [    1630228] VisualPlugin         (  337.1,   404.3,    21.9)
+  Nice!
+2022-07-23T09:22:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (  337.1,   404.3,    21.9)
+  Have you tried the new 2022 materials?
+2022-07-23T09:22:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (  314.4,   404.3,    23.8)
+  I'm a builder just as well.
+2022-07-23T09:23:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (  314.4,   404.3,    23.8)
+  My hotel showcase does really well with them.
+2022-07-23T09:23:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (  264.7,   404.3,    32.2)
+  Fonts are not too bad.
+2022-07-23T09:24:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (  160.7,   404.3,   -56.9)
+  Mainland European plugs.
+2022-07-23T09:24:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.7,   404.3,   -72.9)
+  I didn't know SCP had facilities in the EU.
+2022-07-23T09:25:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (  122.1,   404.3,  -103.6)
+  THAT'	N NOT HOW PHYSICS WORKS!
+2022-07-23T09:25:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (  122.1,   404.3,  -103.6)
+  Or am I wrong.
+2022-07-23T09:25:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (  122.1,   404.3,  -103.6)
+  ÒÓ
+2022-07-23T09:26:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (   75.2,   404.3,   -70.9)
+  Touché.
+2022-07-23T09:26:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -32.2,   404.3,   -71.0)
+  ¡!
+2022-07-23T09:26:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -33.4,   404.3,   -67.4)
+  I may crash at any moment.
+2022-07-23T09:26:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -36.9,   404.3,   -64.2)
+  just saying.
+2022-07-23T09:27:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -38.7,   404.3,   -66.3)
+  I've been having issues with my script environment.
+2022-07-23T09:27:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (   41.7,   404.2,    42.0)
+  Not bad for one night.
+2022-07-23T09:28:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (   84.1,   404.3,    52.7)
+  is ths SCP Childty-nine?
+2022-07-23T09:28:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.8,   404.3,    51.7)
+  Or SCP kid six six?
+2022-07-23T09:28:41Z: PLAYER CHATTED [    1630228] VisualPlugin         (   92.1,   404.3,    53.7)
+  Or SCP playty-seven?
+2022-07-23T09:29:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (   85.4,   404.3,    48.0)
+  Why are you a D-levl?
+2022-07-23T09:29:21Z: PLAYER CHATTED [    1630228] VisualPlugin         (   50.0,   404.2,    42.5)
+  Oh.
+2022-07-23T09:29:34Z: PLAYER CHATTED [    1630228] VisualPlugin         (   44.4,   404.2,    41.5)
+  I thought some unexplaned monster got you to switch bodies.
+2022-07-23T09:29:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (   41.2,   404.2,    48.3)
+  I don't know -
+2022-07-23T09:29:53Z: PLAYER CHATTED [    1630228] VisualPlugin         (   39.6,   404.2,    49.8)
+  SCP Swapparone-5?
+2022-07-23T09:30:16Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -382.8,   430.7,    28.3)
+  Where to?
+2022-07-23T09:30:44Z: PLAYER CHATTED [    1630228] VisualPlugin         (  260.6,   404.2,  -787.8)
+  Nice!
+2022-07-23T09:32:28Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-07-23T09:32:28Z: PLAYER REMOVED [ 3301350295] eggtmqk
+2022-07-23T09:32:28Z: PLAYER REMOVED [  515636321] LogzGaming26
