@@ -555,3 +555,573 @@
 2022-07-29T05:19:39Z: PLAYER REMOVED [ 3440429552] astrid_daisys
 2022-07-29T05:19:41Z: CHRCTER ADDED  [ 2658549300] Autumnheartrocks     ( -938.2,    10.4,   129.7)
 2022-07-29T05:19:41Z: PLAYER ADDED   [ 3440429552] astrid_daisys
+2022-07-29T05:19:47Z: PLAYER REMOVED [  569487752] valentinamencha10
+2022-07-29T05:19:48Z: PLAYER REMOVED [ 3440429552] astrid_daisys
+2022-07-29T05:19:48Z: PLAYER ADDED   [ 1606781688] marie90662
+2022-07-29T05:19:52Z: PLAYER ADDED   [ 3028164991] Ugjhhgiguv
+2022-07-29T05:19:52Z: PLAYER CHATTED [ 3412816233] woofwoofwooofimadog  ( -439.0,     3.5,   -50.2)
+  yay!
+2022-07-29T05:19:54Z: CHRCTER ADDED  [ 3549619551] glitchy_potatofries  ( -219.0,    36.9,   -95.0)
+2022-07-29T05:19:57Z: CHRCTER ADDED  [ 2244910595] uieisjsjx            (  -54.0,     5.1,   -56.0)
+2022-07-29T05:20:07Z: CHRCTER ADDED  [ 2370036862] coco_sus123          ( -851.2,    10.0,   184.2)
+2022-07-29T05:20:07Z: PLAYER CHATTED [ 2756451624] PurplePink_77        ( -926.4,    40.8,   194.6)
+  How many words did y’all get 
+2022-07-29T05:20:07Z: PLAYER CHATTED [ 3412816233] woofwoofwooofimadog  ( -379.1,     3.5,   -42.7)
+  lol
+2022-07-29T05:20:08Z: PLAYER REMOVED [ 2451213795] Lunagrcehi
+2022-07-29T05:20:10Z: PLAYER ADDED   [ 1636469654] danny737741
+2022-07-29T05:20:12Z: CHRCTER ADDED  [ 3549619551] glitchy_potatofries  ( -938.2,     9.7,   129.7)
+2022-07-29T05:20:14Z: CHRCTER ADDED  [ 2244910595] uieisjsjx            ( -185.0,    22.1,  -187.0)
+2022-07-29T05:20:15Z: PLAYER REMOVED [ 3438653258] babyoda1246ll
+2022-07-29T05:20:17Z: CHRCTER ADDED  [ 2533354436] 1235yallareuglies    ( -249.0,     4.0,   114.0)
+2022-07-29T05:20:24Z: PLAYER CHATTED [ 3412816233] woofwoofwooofimadog  ( -392.9,     3.5,   -69.2)
+  i got 2280
+2022-07-29T05:20:32Z: PLAYER CHATTED [ 2756451624] PurplePink_77        ( -911.9,    96.4,   -23.9)
+  371
+2022-07-29T05:20:34Z: CHRCTER ADDED  [ 2370036862] coco_sus123          ( -449.0,   148.1,  -220.0)
+2022-07-29T05:20:35Z: PLAYER CHATTED [  578564880] Galaxy_girl5668      (   52.6,     1.9,  -242.4)
+  bro
+2022-07-29T05:20:38Z: PLAYER CHATTED [  578564880] Galaxy_girl5668      (   52.7,     2.0,  -242.4)
+  anoying
+2022-07-29T05:20:39Z: CHRCTER ADDED  [  578564880] Galaxy_girl5668      ( -185.0,    21.7,  -187.0)
+2022-07-29T05:20:41Z: CHRCTER ADDED  [ 3549619551] glitchy_potatofries  ( -938.2,     9.7,   129.7)
+2022-07-29T05:20:48Z: PLAYER ADDED   [ 3523235745] kaylaplayz225
+2022-07-29T05:20:50Z: CHRCTER ADDED  [ 3602909028] Queenx1iz            (  146.0,    41.1,   109.5)
+2022-07-29T05:20:51Z: PLAYER CHATTED [ 3412816233] woofwoofwooofimadog  ( -423.8,     3.5,  -101.7)
+  DONT WASTE THEM
+2022-07-29T05:20:51Z: PLAYER CHATTED [  578564880] Galaxy_girl5668      (   55.5,     4.0,  -236.3)
+  try hards
+2022-07-29T05:20:55Z: CHRCTER ADDED  [ 2244910595] uieisjsjx            ( -173.0,    18.3,   172.0)
+2022-07-29T05:21:00Z: CHRCTER ADDED  [ 3246284321] Papi_nohoney         ( -851.2,     9.8,   184.2)
+2022-07-29T05:21:01Z: CHRCTER ADDED  [ 2370036862] coco_sus123          ( -895.2,    10.0,   108.2)
+2022-07-29T05:21:06Z: PLAYER REMOVED [ 2756451624] PurplePink_77
+2022-07-29T05:21:09Z: CHRCTER ADDED  [  578564880] Galaxy_girl5668      ( -472.0,    81.1,  -220.0)
+2022-07-29T05:21:12Z: PLAYER REMOVED [ 3028164991] Ugjhhgiguv
+2022-07-29T05:21:15Z: CHRCTER ADDED  [ 2533354436] 1235yallareuglies    ( -472.0,    81.2,  -220.0)
+2022-07-29T05:21:18Z: PLAYER ADDED   [ 3028164991] Ugjhhgiguv
+2022-07-29T05:21:19Z: PLAYER ADDED   [ 3631769742] Amadea7396
+2022-07-29T05:21:20Z: CHRCTER ADDED  [ 1606781688] marie90662           (  143.0,    17.3,   -34.0)
+2022-07-29T05:21:22Z: CHRCTER ADDED  [ 2370036862] coco_sus123          ( -219.0,    37.3,   -95.0)
+2022-07-29T05:21:25Z: PLAYER REMOVED [ 3028164991] Ugjhhgiguv
+2022-07-29T05:21:26Z: CHRCTER ADDED  [ 1006879086] LiamChase0217        ( -863.2,    10.0,   119.2)
+2022-07-29T05:21:39Z: CHRCTER ADDED  [ 3549619551] glitchy_potatofries  ( -173.0,    17.3,   172.0)
+2022-07-29T05:21:39Z: CHRCTER ADDED  [ 2370036862] coco_sus123          ( -249.0,     3.7,   114.0)
+2022-07-29T05:21:46Z: CHRCTER ADDED  [ 2960675589] Kitycat_ty1          ( -541.0,     3.7,  -237.0)
+2022-07-29T05:21:49Z: CHRCTER ADDED  [ 3523235745] kaylaplayz225        ( -562.0,   215.2,  -196.0)
+2022-07-29T05:21:52Z: PLAYER ADDED   [ 1392270647] Brandon13727
+2022-07-29T05:21:58Z: PLAYER REMOVED [ 1006879086] LiamChase0217
+2022-07-29T05:21:58Z: PLAYER REMOVED [ 3460708637] Gali201215
+2022-07-29T05:21:58Z: PLAYER ADDED   [ 2226971644] Yui_1981
+2022-07-29T05:22:00Z: PLAYER REMOVED [ 2960675589] Kitycat_ty1
+2022-07-29T05:22:03Z: CHRCTER ADDED  [ 2370036862] coco_sus123          (  -54.0,     4.5,   -56.0)
+2022-07-29T05:22:04Z: CHRCTER ADDED  [ 3602909028] Queenx1iz            ( -339.0,     3.9,    99.0)
+2022-07-29T05:22:06Z: PLAYER ADDED   [ 3352198254] callmegael_35
+2022-07-29T05:22:07Z: PLAYER ADDED   [ 2235203701] vikingqueenlaw
+2022-07-29T05:22:08Z: CHRCTER ADDED  [ 2745091050] Amy_2134a            ( -772.2,    10.4,    22.2)
+2022-07-29T05:22:09Z: CHRCTER ADDED  [ 2244910595] uieisjsjx            ( -603.1,     9.9,  -134.0)
+2022-07-29T05:22:14Z: PLAYER REMOVED [ 2745091050] Amy_2134a
+2022-07-29T05:22:14Z: PLAYER ADDED   [ 3100759756] Animewee68y
+2022-07-29T05:22:24Z: CHRCTER ADDED  [ 2370036862] coco_sus123          ( -597.0,    10.9,  -305.0)
+2022-07-29T05:22:24Z: CHRCTER ADDED  [ 3602909028] Queenx1iz            ( -452.0,     3.9,   -79.0)
+2022-07-29T05:22:27Z: PLAYER CHATTED [ 1392270647] Brandon13727         ( -873.7,     7.7,   127.4)
+  /
+2022-07-29T05:22:29Z: CHRCTER ADDED  [ 3246284321] Papi_nohoney         ( -339.0,     3.5,    99.0)
+2022-07-29T05:22:29Z: PLAYER CHATTED [ 3100759756] Animewee68y          ( -866.2,    10.4,   238.3)
+  I got unlimited words 😃
+2022-07-29T05:22:31Z: CHRCTER ADDED  [ 1606781688] marie90662           ( -452.0,     3.3,   -79.0)
+2022-07-29T05:22:32Z: CHRCTER ADDED  [ 2533354436] 1235yallareuglies    ( -299.0,    19.6,  -227.0)
+2022-07-29T05:22:32Z: PLAYER CHATTED [ 3523235745] kaylaplayz225        ( -152.4,     3.8,    -1.0)
+  cheese is so good
+2022-07-29T05:22:36Z: PLAYER REMOVED [ 1392270647] Brandon13727
+2022-07-29T05:22:39Z: CHRCTER ADDED  [ 3549619551] glitchy_potatofries  ( -851.2,     9.7,   184.2)
+2022-07-29T05:22:42Z: PLAYER ADDED   [ 1912365658] Galaxy_Emaan
+2022-07-29T05:22:45Z: CHRCTER ADDED  [ 2533354436] 1235yallareuglies    ( -299.0,    19.6,  -227.0)
+2022-07-29T05:22:47Z: PLAYER CHATTED [ 3523235745] kaylaplayz225        (  -62.9,     3.8,   -55.1)
+  cheese
+2022-07-29T05:22:48Z: PLAYER CHATTED [ 2226971644] Yui_1981             ( -926.4,    20.9,    81.3)
+  Yes
+2022-07-29T05:22:52Z: CHRCTER ADDED  [ 3015150236] miyukiand            ( -452.0,     3.9,   -79.0)
+2022-07-29T05:22:52Z: PLAYER CHATTED [ 3523235745] kaylaplayz225        (  -62.9,     3.8,   -55.1)
+  cheeseeeeee
+2022-07-29T05:22:52Z: PLAYER CHATTED [ 3412816233] woofwoofwooofimadog  ( -402.7,     3.9,   -55.2)
+  ABC ### ### ## WORDZ
+2022-07-29T05:22:52Z: CHRCTER ADDED  [ 3602909028] Queenx1iz            (  -54.0,     5.1,   -56.0)
+2022-07-29T05:22:52Z: CHRCTER ADDED  [ 2370036862] coco_sus123          ( -339.0,     3.7,    99.0)
+2022-07-29T05:22:53Z: PLAYER CHATTED [ 3100759756] Animewee68y          ( -828.4,    22.0,    70.3)
+  On my first time playing this game 😃
+2022-07-29T05:22:54Z: PLAYER REMOVED [ 2995364435] imvutaleeyha11
+2022-07-29T05:22:55Z: PLAYER CHATTED [ 2226971644] Yui_1981             ( -926.4,    20.9,    81.3)
+  Yes
+2022-07-29T05:22:57Z: PLAYER ADDED   [ 1910293975] rrqolle
+2022-07-29T05:22:58Z: PLAYER CHATTED [ 2226971644] Yui_1981             ( -926.4,    20.9,    81.3)
+  Yes
+2022-07-29T05:22:59Z: PLAYER CHATTED [ 2226971644] Yui_1981             ( -926.4,    20.9,    81.3)
+  Yes
+2022-07-29T05:23:02Z: PLAYER CHATTED [ 2658549300] Autumnheartrocks     ( -857.2,    10.1,   167.5)
+  hi
+2022-07-29T05:23:03Z: PLAYER CHATTED [ 3523235745] kaylaplayz225        (  -62.9,     3.8,   -55.1)
+  k k kmk k k kk k k k k k k k k k kk k k k k k k k k 
+2022-07-29T05:23:05Z: PLAYER REMOVED [ 2235203701] vikingqueenlaw
+2022-07-29T05:23:05Z: CHRCTER ADDED  [  578564880] Galaxy_girl5668      (  -54.0,     4.7,   -56.0)
+2022-07-29T05:23:06Z: PLAYER CHATTED [ 1912365658] Galaxy_Emaan         (   62.4,     3.5,     3.3)
+  why 400 :C
+2022-07-29T05:23:08Z: PLAYER CHATTED [ 3523235745] kaylaplayz225        (  -62.9,     3.8,   -55.1)
+  l # # # ###### ##############################################
+2022-07-29T05:23:08Z: PLAYER CHATTED [ 3114685292] iamnotahuman_12345   ( -862.9,    10.4,   170.2)
+  hello
+2022-07-29T05:23:09Z: PLAYER ADDED   [ 3131988502] trfcxzsz
+2022-07-29T05:23:11Z: CHRCTER ADDED  [ 2533354436] 1235yallareuglies    ( -508.0,     4.0,  -222.0)
+2022-07-29T05:23:15Z: PLAYER CHATTED [ 3523235745] kaylaplayz225        (  -60.5,     3.8,   -51.5)
+  ######################################################################################################
+2022-07-29T05:23:15Z: PLAYER CHATTED [ 2226971644] Yui_1981             ( -926.4,    20.9,    81.3)
+  Yes ####################################################
+2022-07-29T05:23:15Z: PLAYER CHATTED [ 3412816233] woofwoofwooofimadog  ( -402.7,     3.9,   -55.2)
+  ABC FOR i thousand words!
+2022-07-29T05:23:15Z: PLAYER CHATTED [ 1912365658] Galaxy_Emaan         (  -42.6,     3.5,    -6.5)
+  jjak
+2022-07-29T05:23:16Z: CHRCTER ADDED  [ 3631769742] Amadea7396           ( -863.2,     9.8,   119.2)
+2022-07-29T05:23:18Z: PLAYER CHATTED [ 1912365658] Galaxy_Emaan         (  -42.6,     3.5,    -6.5)
+  awdawdawdawdawdawd
+2022-07-29T05:23:19Z: PLAYER CHATTED [ 1912365658] Galaxy_Emaan         (  -42.6,     3.5,    -6.5)
+  awdawdawdawdawd
+2022-07-29T05:23:21Z: PLAYER CHATTED [ 1912365658] Galaxy_Emaan         (  -42.6,     3.5,    -6.5)
+  awdawdawdawdawdawdawd
+2022-07-29T05:23:22Z: PLAYER CHATTED [ 3100759756] Animewee68y          ( -754.6,    31.3,     3.5)
+  ABC
+2022-07-29T05:23:22Z: PLAYER CHATTED [ 3523235745] kaylaplayz225        (  -60.5,     3.8,   -51.5)
+  ##################################################################################################################################################################################
+2022-07-29T05:23:23Z: PLAYER CHATTED [ 2226971644] Yui_1981             ( -926.4,    20.9,    81.3)
+  #######################
+2022-07-29T05:23:24Z: PLAYER CHATTED [ 1912365658] Galaxy_Emaan         (  -42.7,     3.5,    -7.9)
+  awdawdawdddddddddddd
+2022-07-29T05:23:25Z: PLAYER CHATTED [ 1912365658] Galaxy_Emaan         (  -42.7,     3.5,    -7.9)
+  a
+2022-07-29T05:23:25Z: PLAYER CHATTED [ 1912365658] Galaxy_Emaan         (  -42.7,     3.5,    -7.9)
+  s
+2022-07-29T05:23:26Z: PLAYER CHATTED [ 1912365658] Galaxy_Emaan         (  -42.7,     3.5,    -7.9)
+  a
+2022-07-29T05:23:27Z: PLAYER CHATTED [ 1912365658] Galaxy_Emaan         (  -42.7,     3.5,    -7.9)
+  w
+2022-07-29T05:23:27Z: PLAYER CHATTED [ 3412816233] woofwoofwooofimadog  ( -391.2,     3.9,   -52.4)
+  k
+2022-07-29T05:23:27Z: PLAYER CHATTED [ 2226971644] Yui_1981             ( -926.4,    20.9,    81.3)
+  Isjdiskdjwidjwjd
+2022-07-29T05:23:28Z: PLAYER CHATTED [ 1912365658] Galaxy_Emaan         (  -42.7,     3.5,    -7.9)
+  d
+2022-07-29T05:23:29Z: PLAYER CHATTED [ 1912365658] Galaxy_Emaan         (  -42.7,     3.5,    -7.9)
+  s
+2022-07-29T05:23:30Z: PLAYER CHATTED [ 1912365658] Galaxy_Emaan         (  -42.7,     3.5,    -7.9)
+  awaw
+2022-07-29T05:23:31Z: PLAYER CHATTED [ 1912365658] Galaxy_Emaan         (  -42.7,     3.5,    -7.9)
+  ####
+2022-07-29T05:23:37Z: CHRCTER ADDED  [ 3549619551] glitchy_potatofries  (  146.0,    40.1,   109.5)
+2022-07-29T05:23:37Z: CHRCTER ADDED  [ 3100759756] Animewee68y          ( -577.0,    23.2,    36.0)
+2022-07-29T05:23:37Z: PLAYER CHATTED [ 3523235745] kaylaplayz225        (  -60.5,     3.8,   -51.5)
+  ####n # # ji n hnn # # #n j j j nj h ### ## # b yg
+2022-07-29T05:23:37Z: PLAYER CHATTED [ 1912365658] Galaxy_Emaan         (  -42.7,     3.5,    -7.9)
+  awaw
+2022-07-29T05:23:37Z: PLAYER CHATTED [ 3352198254] callmegael_35        ( -858.6,     9.8,   173.7)
+  whenimetyainthesamma 
+2022-07-29T05:23:37Z: PLAYER CHATTED [ 1912365658] Galaxy_Emaan         (  -42.7,     3.5,    -7.9)
+  awdaw
+2022-07-29T05:23:38Z: CHRCTER ADDED  [ 3246284321] Papi_nohoney         ( -863.2,     9.8,   119.2)
+2022-07-29T05:23:40Z: PLAYER CHATTED [ 1912365658] Galaxy_Emaan         (  -42.7,     3.5,    -7.9)
+  ddd ddd
+2022-07-29T05:23:41Z: PLAYER REMOVED [ 1910293975] rrqolle
+2022-07-29T05:23:41Z: PLAYER CHATTED [ 3352198254] callmegael_35        ( -858.6,     9.8,   173.7)
+  tomyheartbeatsoun 
+2022-07-29T05:23:43Z: PLAYER ADDED   [ 3326824367] Gutyhere_123
+2022-07-29T05:23:44Z: PLAYER CHATTED [ 1912365658] Galaxy_Emaan         (  -42.7,     3.5,    -7.9)
+  ddd ######## iawkaw
+2022-07-29T05:23:44Z: PLAYER CHATTED [ 3114685292] iamnotahuman_12345   ( -862.9,    10.4,   170.2)
+  thank you
+2022-07-29T05:23:44Z: CHRCTER ADDED  [ 3352198254] callmegael_35        ( -173.0,    17.9,   172.0)
+2022-07-29T05:23:47Z: PLAYER CHATTED [ 1912365658] Galaxy_Emaan         (  -42.7,     3.5,    -7.9)
+  a a a a a a
+2022-07-29T05:23:48Z: PLAYER CHATTED [ 2226971644] Yui_1981             ( -926.4,    20.9,    81.3)
+  #############################
+2022-07-29T05:23:49Z: PLAYER CHATTED [ 3523235745] kaylaplayz225        (  -60.5,     3.8,   -51.5)
+  # # # # ## # # # # # # # # ### # # # # # # # ## # # # # ## # # # # # ## # # # # # # # ## # # #
+2022-07-29T05:23:52Z: PLAYER CHATTED [ 1912365658] Galaxy_Emaan         (  -42.7,     3.5,    -7.9)
+   aaaa a aa a a a a a aa a aaa a 
+2022-07-29T05:23:52Z: PLAYER CHATTED [ 3523235745] kaylaplayz225        (  -60.5,     3.8,   -51.5)
+  ### ### nj n hb h
+2022-07-29T05:23:53Z: CHRCTER ADDED  [ 3549619551] glitchy_potatofries  ( -299.0,    18.9,  -227.0)
+2022-07-29T05:23:59Z: PLAYER CHATTED [ 3131988502] trfcxzsz             ( -807.5,     9.4,   108.2)
+  WOOOOOOOOOOOOOAH
+2022-07-29T05:24:01Z: PLAYER CHATTED [ 3523235745] kaylaplayz225        (  -60.5,     3.8,   -51.5)
+  hj b g g g g ## ### j j ji uj hyh
+2022-07-29T05:24:03Z: PLAYER CHATTED [ 3100759756] Animewee68y          ( -346.4,     3.6,     4.3)
+  YEE
+2022-07-29T05:24:06Z: PLAYER CHATTED [ 3523235745] kaylaplayz225        (  -60.5,     3.8,   -51.5)
+  ### njn # # ### ###### #### hb g ## ### ###
+2022-07-29T05:24:06Z: PLAYER CHATTED [ 3326824367] Gutyhere_123         (  -54.7,     4.4,   -53.2)
+  Girl wut
+2022-07-29T05:24:08Z: PLAYER REMOVED [ 3100759756] Animewee68y
+2022-07-29T05:24:08Z: PLAYER CHATTED [ 3523235745] kaylaplayz225        (  -60.5,     3.8,   -51.5)
+  ################
+2022-07-29T05:24:09Z: CHRCTER ADDED  [ 2658549300] Autumnheartrocks     ( -895.2,    10.4,   108.2)
+2022-07-29T05:24:11Z: PLAYER CHATTED [ 3523235745] kaylaplayz225        (  -60.5,     3.8,   -51.5)
+  mjn #### ### ## ###
+2022-07-29T05:24:15Z: PLAYER CHATTED [ 3523235745] kaylaplayz225        (  -58.5,     3.8,   -52.5)
+  wut
+2022-07-29T05:24:15Z: PLAYER REMOVED [ 3631769742] Amadea7396
+2022-07-29T05:24:19Z: PLAYER REMOVED [ 2226971644] Yui_1981
+2022-07-29T05:24:21Z: PLAYER REMOVED [ 3352198254] callmegael_35
+2022-07-29T05:24:30Z: PLAYER CHATTED [ 3523235745] kaylaplayz225        (  -58.5,     3.8,   -52.5)
+  .-.
+2022-07-29T05:24:31Z: CHRCTER ADDED  [ 3549619551] glitchy_potatofries  ( -402.0,     3.3,   -34.0)
+2022-07-29T05:24:32Z: PLAYER CHATTED [ 3326824367] Gutyhere_123         (  -55.1,     3.7,   -52.0)
+  Ur speaking in alien language
+2022-07-29T05:24:34Z: CHRCTER ADDED  [ 2533354436] 1235yallareuglies    ( -227.0,    44.8,  -281.0)
+2022-07-29T05:24:37Z: PLAYER CHATTED [ 3523235745] kaylaplayz225        (  -58.5,     3.8,   -52.5)
+  ye
+2022-07-29T05:24:37Z: CHRCTER ADDED  [ 3246284321] Papi_nohoney         ( -597.0,    10.7,  -305.0)
+2022-07-29T05:24:37Z: PLAYER CHATTED [ 3326824367] Gutyhere_123         (  -55.1,     3.7,   -52.0)
+  …
+2022-07-29T05:24:40Z: CHRCTER ADDED  [ 3602909028] Queenx1iz            ( -562.0,    81.1,  -239.0)
+2022-07-29T05:24:44Z: PLAYER CHATTED [ 3412816233] woofwoofwooofimadog  ( -399.2,     3.9,   -49.2)
+  jk XD
+2022-07-29T05:24:47Z: CHRCTER ADDED  [ 1636469654] danny737741          ( -938.2,    10.1,   129.7)
+2022-07-29T05:24:52Z: PLAYER CHATTED [ 3412816233] woofwoofwooofimadog  ( -398.3,     3.9,   -50.5)
+  srry
+2022-07-29T05:24:55Z: PLAYER REMOVED [ 2370036862] coco_sus123
+2022-07-29T05:24:58Z: PLAYER REMOVED [ 3326824367] Gutyhere_123
+2022-07-29T05:25:00Z: CHRCTER ADDED  [ 3549619551] glitchy_potatofries  ( -772.2,     9.7,    22.2)
+2022-07-29T05:25:01Z: CHRCTER ADDED  [ 3015150236] miyukiand            ( -227.0,    44.7,  -281.0)
+2022-07-29T05:25:01Z: CHRCTER ADDED  [ 3246284321] Papi_nohoney         ( -472.0,    80.7,  -220.0)
+2022-07-29T05:25:04Z: CHRCTER ADDED  [ 1912365658] Galaxy_Emaan         ( -508.0,     3.3,  -222.0)
+2022-07-29T05:25:06Z: PLAYER REMOVED [ 2658549300] Autumnheartrocks
+2022-07-29T05:25:30Z: CHRCTER ADDED  [ 1636469654] danny737741          ( -562.0,    81.0,  -239.0)
+2022-07-29T05:25:30Z: PLAYER REMOVED [ 3536643958] Nene2thegr8
+2022-07-29T05:25:30Z: CHRCTER ADDED  [ 3549619551] glitchy_potatofries  ( -938.2,     9.7,   129.7)
+2022-07-29T05:25:40Z: CHRCTER ADDED  [  578564880] Galaxy_girl5668      ( -597.0,    11.1,  -305.0)
+2022-07-29T05:25:43Z: PLAYER CHATTED [ 3131988502] trfcxzsz             ( -558.4,    22.3,    35.4)
+  hI
+2022-07-29T05:25:47Z: PLAYER CHATTED [ 1912365658] Galaxy_Emaan         ( -555.8,    22.3,    36.4)
+  hello
+2022-07-29T05:25:49Z: PLAYER CHATTED [ 3523235745] kaylaplayz225        (  -55.3,     3.8,   -83.3)
+  ############################################################################
+2022-07-29T05:25:56Z: PLAYER REMOVED [ 3246284321] Papi_nohoney
+2022-07-29T05:25:57Z: CHRCTER ADDED  [ 3602909028] Queenx1iz            ( -472.0,    81.1,  -220.0)
+2022-07-29T05:25:57Z: CHRCTER ADDED  [ 1606781688] marie90662           (  146.0,    40.1,   109.5)
+2022-07-29T05:26:01Z: PLAYER CHATTED [ 3523235745] kaylaplayz225        (  -55.3,     3.8,   -83.3)
+  b ### bv #### ### ### ### ## ## ###### ############# ###### ### ### ### ######## \
+2022-07-29T05:26:02Z: PLAYER REMOVED [  578564880] Galaxy_girl5668
+2022-07-29T05:26:04Z: PLAYER CHATTED [ 3523235745] kaylaplayz225        (  -55.3,     3.8,   -83.3)
+  ### jb j ##### dx sd
+2022-07-29T05:26:06Z: PLAYER CHATTED [ 3523235745] kaylaplayz225        (  -55.3,     3.8,   -83.3)
+  ### ####
+2022-07-29T05:26:08Z: PLAYER CHATTED [ 3131988502] trfcxzsz             ( -558.4,    22.3,    35.4)
+  I have alot of words i can give
+2022-07-29T05:26:10Z: PLAYER CHATTED [ 3523235745] kaylaplayz225        (  -56.9,     3.8,   -84.5)
+  d #### ############# ######## ######### ###### ####### ##############
+2022-07-29T05:26:11Z: PLAYER CHATTED [ 3114685292] iamnotahuman_12345   ( -865.6,    70.4,    13.9)
+  ##################################################
+2022-07-29T05:26:11Z: PLAYER CHATTED [ 3412816233] woofwoofwooofimadog  (   28.4,     3.9,   -31.1)
+  ABC TO TELL ME HOW TO GET COINS
+2022-07-29T05:26:15Z: PLAYER ADDED   [ 1830138278] FattymcPatty150
+2022-07-29T05:26:18Z: PLAYER CHATTED [ 3131988502] trfcxzsz             ( -558.4,    22.3,    35.4)
+  want some
+2022-07-29T05:26:18Z: PLAYER CHATTED [ 3114685292] iamnotahuman_12345   ( -865.6,    70.4,    13.9)
+  vjkhjk
+2022-07-29T05:26:18Z: PLAYER CHATTED [ 3523235745] kaylaplayz225        (  -56.9,     3.8,   -84.5)
+  ############## ########### ########## ######################################## ##### ##### ############ ###### #### #### ### gh nkhjbgtfr #### ##### hj #####
+2022-07-29T05:26:20Z: PLAYER CHATTED [ 1912365658] Galaxy_Emaan         ( -554.0,    22.3,    36.4)
+  really????
+2022-07-29T05:26:21Z: CHRCTER ADDED  [ 3602909028] Queenx1iz            ( -597.0,    11.1,  -305.0)
+2022-07-29T05:26:23Z: PLAYER CHATTED [ 1912365658] Galaxy_Emaan         ( -554.0,    22.3,    36.4)
+  yes please
+2022-07-29T05:26:26Z: PLAYER CHATTED [ 3523235745] kaylaplayz225        (  -56.9,     3.8,   -84.5)
+  ###########################################################
+2022-07-29T05:26:27Z: PLAYER CHATTED [ 1912365658] Galaxy_Emaan         ( -554.0,    22.3,    36.4)
+  HEHE
+2022-07-29T05:26:31Z: PLAYER CHATTED [ 3131988502] trfcxzsz             ( -558.4,    22.3,    35.4)
+  okay
+2022-07-29T05:26:32Z: PLAYER CHATTED [ 3523235745] kaylaplayz225        (  -56.9,     3.8,   -84.5)
+  d #### ###### # # # nn bb ## # # # m
+2022-07-29T05:26:47Z: PLAYER CHATTED [ 3523235745] kaylaplayz225        (  -56.9,     3.8,   -84.5)
+  ########################################################################################################################### ########### htfdergnm
+2022-07-29T05:26:50Z: PLAYER CHATTED [ 1830138278] FattymcPatty150      ( -216.3,     3.1,   123.1)
+  Hey lol 
+2022-07-29T05:26:52Z: CHRCTER ADDED  [ 3015150236] miyukiand            ( -677.0,    12.3,   156.0)
+2022-07-29T05:26:58Z: PLAYER CHATTED [ 3523235745] kaylaplayz225        (  -56.9,     3.8,   -84.5)
+  c b b b b b b bn ### h bbcs vd
+2022-07-29T05:27:01Z: CHRCTER ADDED  [ 2244910595] uieisjsjx            ( -249.0,     3.9,   114.0)
+2022-07-29T05:27:08Z: PLAYER CHATTED [ 3523235745] kaylaplayz225        (  -56.9,     3.8,   -84.5)
+  ##################################################################
+2022-07-29T05:27:10Z: PLAYER CHATTED [ 3523235745] kaylaplayz225        (  -56.9,     3.8,   -84.5)
+  dvd
+2022-07-29T05:27:15Z: PLAYER CHATTED [ 3523235745] kaylaplayz225        ( -160.7,     3.8,  -177.2)
+  ##########
+2022-07-29T05:27:16Z: PLAYER CHATTED [ 1912365658] Galaxy_Emaan         ( -551.1,    22.3,    34.8)
+  YAY
+2022-07-29T05:27:20Z: CHRCTER ADDED  [ 1636469654] danny737741          (  146.0,    40.6,   109.5)
+2022-07-29T05:27:22Z: PLAYER CHATTED [ 3131988502] trfcxzsz             ( -558.4,    22.3,    35.4)
+  I gave you one
+2022-07-29T05:27:22Z: PLAYER CHATTED [ 1912365658] Galaxy_Emaan         ( -551.1,    22.3,    34.8)
+  ty! #####
+2022-07-29T05:27:25Z: CHRCTER ADDED  [ 3549619551] glitchy_potatofries  ( -173.0,    17.3,   172.0)
+2022-07-29T05:27:28Z: CHRCTER ADDED  [ 3602909028] Queenx1iz            ( -442.0,     3.9,  -281.0)
+2022-07-29T05:27:36Z: PLAYER CHATTED [ 1912365658] Galaxy_Emaan         ( -553.1,    22.3,    32.1)
+  oh wow 
+2022-07-29T05:27:37Z: PLAYER ADDED   [  574320915] catstormbon6
+2022-07-29T05:27:37Z: PLAYER ADDED   [ 3450532996] Presestonplaysa
+2022-07-29T05:27:38Z: PLAYER ADDED   [ 2577310464] kainmu12
+2022-07-29T05:27:39Z: PLAYER ADDED   [ 3434625117] Duckiee_Duck28
+2022-07-29T05:27:39Z: PLAYER CHATTED [ 1912365658] Galaxy_Emaan         ( -545.5,    21.1,    30.9)
+  ty
+2022-07-29T05:27:39Z: PLAYER ADDED   [ 3463837020] NineTailed_Beast12
+2022-07-29T05:27:41Z: PLAYER CHATTED [ 3523235745] kaylaplayz225        ( -116.5,    17.0,   186.2)
+  #### cx nb b nb mn mb mn hjn n ## mn
+2022-07-29T05:27:42Z: PLAYER CHATTED [ 1912365658] Galaxy_Emaan         ( -546.7,    21.1,    43.3)
+  sm
+2022-07-29T05:27:42Z: PLAYER CHATTED [ 3131988502] trfcxzsz             ( -555.6,    22.3,    35.5)
+  and 100
+2022-07-29T05:27:43Z: PLAYER ADDED   [  271857275] Goodbo77
+2022-07-29T05:27:43Z: PLAYER ADDED   [ 3734004960] Fadskaj
+2022-07-29T05:27:47Z: PLAYER CHATTED [ 1912365658] Galaxy_Emaan         ( -551.6,    22.3,    32.9)
+  :D
+2022-07-29T05:27:49Z: PLAYER CHATTED [  574320915] catstormbon6         ( -479.2,    10.7,  -176.7)
+  ###
+2022-07-29T05:28:01Z: PLAYER CHATTED [ 1912365658] Galaxy_Emaan         ( -504.4,    15.1,    -7.2)
+  TYSM
+2022-07-29T05:28:01Z: PLAYER CHATTED [ 3131988502] trfcxzsz             ( -546.4,    21.3,    14.2)
+  YW
+2022-07-29T05:28:02Z: PLAYER CHATTED [ 1830138278] FattymcPatty150      ( -507.7,    19.9,    -4.5)
+  Hi
+2022-07-29T05:28:03Z: PLAYER CHATTED [  574320915] catstormbon6         ( -461.1,     3.7,   -74.4)
+  fff
+2022-07-29T05:28:04Z: CHRCTER ADDED  [ 1606781688] marie90662           ( -449.0,   147.7,  -220.0)
+2022-07-29T05:28:07Z: PLAYER CHATTED [ 1912365658] Galaxy_Emaan         ( -508.0,    19.9,    -1.2)
+  hello.
+2022-07-29T05:28:07Z: PLAYER CHATTED [ 3463837020] NineTailed_Beast12   ( -165.6,    20.8,  -190.2)
+  bro I have 41
+2022-07-29T05:28:16Z: PLAYER CHATTED [  574320915] catstormbon6         ( -483.2,     1.1,   -46.7)
+  i have 1511
+2022-07-29T05:28:17Z: PLAYER CHATTED [ 3450532996] Presestonplaysa      ( -586.7,     9.4,  -121.2)
+  E e e e e e e e e e e e e e e. E e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e
+2022-07-29T05:28:18Z: PLAYER ADDED   [ 2839429866] Ironman_gavin17
+2022-07-29T05:28:19Z: CHRCTER ADDED  [ 1606781688] marie90662           ( -809.6,     9.7,    86.0)
+2022-07-29T05:28:20Z: PLAYER REMOVED [  574320915] catstormbon6
+2022-07-29T05:28:20Z: CHRCTER ADDED  [ 3602909028] Queenx1iz            ( -603.1,     9.9,  -134.0)
+2022-07-29T05:28:21Z: PLAYER REMOVED [ 3434625117] Duckiee_Duck28
+2022-07-29T05:28:23Z: PLAYER REMOVED [ 2533354436] 1235yallareuglies
+2022-07-29T05:28:27Z: PLAYER CHATTED [ 3463837020] NineTailed_Beast12   ( -130.7,     8.6,   -64.3)
+  ah ah ah ha ha h
+2022-07-29T05:28:31Z: CHRCTER ADDED  [ 1636469654] danny737741          ( -219.0,    37.4,   -95.0)
+2022-07-29T05:28:35Z: PLAYER CHATTED [ 3463837020] NineTailed_Beast12   ( -130.8,     6.9,   -64.2)
+  oh no
+2022-07-29T05:28:35Z: CHRCTER ADDED  [ 2244910595] uieisjsjx            (  -54.0,     5.1,   -56.0)
+2022-07-29T05:28:40Z: CHRCTER ADDED  [ 3523235745] kaylaplayz225        ( -562.0,    80.8,  -239.0)
+2022-07-29T05:28:43Z: CHRCTER ADDED  [ 3602909028] Queenx1iz            ( -249.0,     3.9,   114.0)
+2022-07-29T05:28:47Z: PLAYER REMOVED [ 2577310464] kainmu12
+2022-07-29T05:28:54Z: PLAYER ADDED   [ 3744376838] imhappybcimlonley
+2022-07-29T05:28:55Z: PLAYER CHATTED [ 1830138278] FattymcPatty150      ( -487.8,    11.5,   -27.0)
+  Wenimetuinthesuma 
+2022-07-29T05:29:03Z: PLAYER CHATTED [ 1830138278] FattymcPatty150      ( -477.4,    11.5,   -27.2)
+  I am out
+2022-07-29T05:29:09Z: PLAYER CHATTED [ 1912365658] Galaxy_Emaan         ( -104.9,     3.5,    24.9)
+  ok
+2022-07-29T05:29:14Z: PLAYER CHATTED [ 3463837020] NineTailed_Beast12   ( -255.4,     3.4,    57.4)
+  what the holly mother of god why am I alive
+2022-07-29T05:29:15Z: PLAYER CHATTED [ 2839429866] Ironman_gavin17      ( -171.0,    17.5,   168.8)
+  ##########################################
+2022-07-29T05:29:17Z: CHRCTER ADDED  [ 3523235745] kaylaplayz225        ( -299.0,    19.2,  -227.0)
+2022-07-29T05:29:18Z: PLAYER ADDED   [ 1969465841] princessgerlo1
+2022-07-29T05:29:19Z: PLAYER ADDED   [  341384381] amyagirly12
+2022-07-29T05:29:19Z: PLAYER ADDED   [  140898885] DrollestMango11
+2022-07-29T05:29:20Z: PLAYER ADDED   [ 1565831340] bbrocatman101
+2022-07-29T05:29:23Z: PLAYER REMOVED [ 2839429866] Ironman_gavin17
+2022-07-29T05:29:24Z: PLAYER ADDED   [  488506825] jadeyah5
+2022-07-29T05:29:31Z: CHRCTER ADDED  [ 3602909028] Queenx1iz            ( -185.0,    22.1,  -187.0)
+2022-07-29T05:29:33Z: PLAYER REMOVED [ 3412816233] woofwoofwooofimadog
+2022-07-29T05:29:34Z: PLAYER REMOVED [ 3450532996] Presestonplaysa
+2022-07-29T05:29:35Z: PLAYER ADDED   [ 3184469142] lvycmv
+2022-07-29T05:29:35Z: PLAYER CHATTED [ 3463837020] NineTailed_Beast12   ( -255.4,     3.4,    57.4)
+  t
+2022-07-29T05:29:35Z: PLAYER REMOVED [  341384381] amyagirly12
+2022-07-29T05:29:36Z: PLAYER ADDED   [ 3278427005] arissa_12q
+2022-07-29T05:29:37Z: PLAYER ADDED   [ 3689926613] narto1234crunch
+2022-07-29T05:29:38Z: PLAYER CHATTED [ 3463837020] NineTailed_Beast12   ( -255.4,     3.4,    57.4)
+  r
+2022-07-29T05:29:41Z: PLAYER CHATTED [ 3463837020] NineTailed_Beast12   ( -255.4,     3.4,    57.4)
+  ##########
+2022-07-29T05:29:41Z: CHRCTER ADDED  [ 3549619551] glitchy_potatofries  ( -219.0,    36.9,   -95.0)
+2022-07-29T05:29:46Z: PLAYER REMOVED [ 1830138278] FattymcPatty150
+2022-07-29T05:29:46Z: PLAYER CHATTED [ 3463837020] NineTailed_Beast12   ( -255.4,     3.4,    57.4)
+  #########################
+2022-07-29T05:29:47Z: PLAYER CHATTED [ 3744376838] imhappybcimlonley    ( -249.1,     4.0,   114.0)
+  don’t say holly mother of god-
+2022-07-29T05:29:49Z: PLAYER ADDED   [ 3366357715] zypherjay1234567891
+2022-07-29T05:29:51Z: PLAYER CHATTED [ 3463837020] NineTailed_Beast12   ( -255.4,     3.4,    57.4)
+  s s s s
+2022-07-29T05:29:53Z: CHRCTER ADDED  [ 3463837020] NineTailed_Beast12   ( -452.0,     3.8,   -79.0)
+2022-07-29T05:30:00Z: PLAYER CHATTED [ 3734004960] Fadskaj              (  122.5,    31.4,   -95.9)
+  Who wants all my words?
+2022-07-29T05:30:08Z: PLAYER CHATTED [ 3114685292] iamnotahuman_12345   ( -446.3,   215.3,  -195.3)
+  ill take them
+2022-07-29T05:30:10Z: PLAYER CHATTED [ 3689926613] narto1234crunch      ( -223.4,     3.6,    31.2)
+  abc for words
+2022-07-29T05:30:10Z: PLAYER REMOVED [  140898885] DrollestMango11
+2022-07-29T05:30:12Z: PLAYER REMOVED [ 3463837020] NineTailed_Beast12
+2022-07-29T05:30:16Z: PLAYER CHATTED [ 3744376838] imhappybcimlonley    ( -248.5,    12.5,    95.8)
+  abc
+2022-07-29T05:30:22Z: PLAYER REMOVED [ 3184469142] lvycmv
+2022-07-29T05:30:23Z: CHRCTER ADDED  [ 3523235745] kaylaplayz225        ( -472.0,    80.8,  -220.0)
+2022-07-29T05:30:24Z: CHRCTER ADDED  [ 2244910595] uieisjsjx            ( -227.0,    44.7,  -281.0)
+2022-07-29T05:30:25Z: PLAYER CHATTED [ 3689926613] narto1234crunch      ( -139.6,     4.0,    -1.6)
+  come to the 
+2022-07-29T05:30:28Z: CHRCTER ADDED  [ 1912365658] Galaxy_Emaan         ( -895.2,     9.7,   108.2)
+2022-07-29T05:30:31Z: PLAYER CHATTED [ 3689926613] narto1234crunch      ( -139.6,     4.0,    -1.6)
+  wheels
+2022-07-29T05:30:32Z: CHRCTER ADDED  [ 3549619551] glitchy_potatofries  ( -772.2,     9.7,    22.2)
+2022-07-29T05:30:34Z: CHRCTER ADDED  [ 1969465841] princessgerlo1       ( -677.0,    12.6,   156.0)
+2022-07-29T05:30:35Z: PLAYER CHATTED [ 3734004960] Fadskaj              (    1.8,     3.8,   -97.3)
+  Who is that
+2022-07-29T05:30:38Z: CHRCTER ADDED  [ 3131988502] trfcxzsz             ( -809.6,     9.8,    86.0)
+2022-07-29T05:30:39Z: PLAYER CHATTED [ 3744376838] imhappybcimlonley    ( -250.6,     3.6,    55.1)
+  wheels?
+2022-07-29T05:30:43Z: PLAYER CHATTED [ 3744376838] imhappybcimlonley    ( -250.6,     3.6,    55.1)
+  wdym 
+2022-07-29T05:30:46Z: PLAYER REMOVED [ 3131988502] trfcxzsz
+2022-07-29T05:30:49Z: PLAYER CHATTED [ 3114685292] iamnotahuman_12345   ( -371.5,     3.6,   -95.4)
+  meee
+2022-07-29T05:30:57Z: PLAYER CHATTED [ 3734004960] Fadskaj              (  -18.1,     3.8,   -73.2)
+  Where are you
+2022-07-29T05:31:04Z: PLAYER CHATTED [ 3689926613] narto1234crunch      (  -73.9,     4.0,    23.1)
+  nvm 
+2022-07-29T05:31:14Z: PLAYER CHATTED [ 3366357715] zypherjay1234567891  (  -13.8,     3.8,   -44.0)
+   j j u j j u j j u j j u h j j j j jvu u j uvuvuvivi j u j j j j j j j u j j j j j uvj j j u h b b h b b h b h b hhj j b h h j b h h h h hvh h b h u b h h h h h y y gcg g g g g
+2022-07-29T05:31:17Z: CHRCTER ADDED  [ 3366357715] zypherjay1234567891  ( -227.0,    44.6,  -281.0)
+2022-07-29T05:31:19Z: PLAYER ADDED   [ 3640773233] Iheartme1290
+2022-07-29T05:31:22Z: PLAYER CHATTED [ 3744376838] imhappybcimlonley    ( -250.6,     3.6,    55.1)
+  how abt sword fighting 
+2022-07-29T05:31:23Z: PLAYER ADDED   [ 1177777940] bestgamergirl1992
+2022-07-29T05:31:24Z: CHRCTER ADDED  [ 3602909028] Queenx1iz            ( -449.0,   148.3,  -220.0)
+2022-07-29T05:31:26Z: PLAYER CHATTED [ 3114685292] iamnotahuman_12345   ( -228.8,    37.3,  -141.4)
+  the little castle thing 
+2022-07-29T05:31:30Z: CHRCTER ADDED  [ 3523235745] kaylaplayz225        ( -227.0,    44.4,  -281.0)
+2022-07-29T05:31:37Z: CHRCTER ADDED  [ 1969465841] princessgerlo1       ( -508.0,     4.2,  -222.0)
+2022-07-29T05:31:37Z: CHRCTER ADDED  [ 2244910595] uieisjsjx            ( -895.2,    10.2,   108.2)
+2022-07-29T05:31:40Z: PLAYER REMOVED [ 3366357715] zypherjay1234567891
+2022-07-29T05:31:42Z: CHRCTER ADDED  [ 3523235745] kaylaplayz225        (   22.0,    21.2,  -169.0)
+2022-07-29T05:31:44Z: PLAYER ADDED   [ 3651061423] Xxim_wierdigxX
+2022-07-29T05:31:45Z: PLAYER ADDED   [ 3399853627] TheRealBlueBlock1
+2022-07-29T05:31:46Z: PLAYER REMOVED [ 3640773233] Iheartme1290
+2022-07-29T05:31:48Z: PLAYER ADDED   [ 3640773233] Iheartme1290
+2022-07-29T05:31:52Z: PLAYER ADDED   [ 2558827852] Nanokarin_8
+2022-07-29T05:32:07Z: PLAYER CHATTED [ 3734004960] Fadskaj              ( -256.6,     3.4,    63.4)
+  Is it you?
+2022-07-29T05:32:09Z: CHRCTER ADDED  [ 1912365658] Galaxy_Emaan         ( -249.0,     3.3,   114.0)
+2022-07-29T05:32:21Z: PLAYER REMOVED [ 1606781688] marie90662
+2022-07-29T05:32:22Z: PLAYER CHATTED [ 3744376838] imhappybcimlonley    ( -254.2,     3.6,    59.4)
+  whaa
+2022-07-29T05:32:22Z: PLAYER CHATTED [ 3114685292] iamnotahuman_12345   ( -213.3,    37.3,   -88.5)
+  im jumping now
+2022-07-29T05:32:23Z: PLAYER CHATTED [ 3689926613] narto1234crunch      (  -92.0,     4.0,     2.8)
+  welcome
+2022-07-29T05:32:30Z: CHRCTER ADDED  [ 1969465841] princessgerlo1       ( -249.0,     4.2,   114.0)
+2022-07-29T05:32:38Z: CHRCTER ADDED  [ 3523235745] kaylaplayz225        (  -68.0,    52.4,   153.0)
+2022-07-29T05:32:41Z: CHRCTER ADDED  [ 3651061423] Xxim_wierdigxX       ( -173.0,    18.2,   172.0)
+2022-07-29T05:32:41Z: PLAYER ADDED   [ 3460071226] Softy99999
+2022-07-29T05:32:43Z: PLAYER CHATTED [ 3689926613] narto1234crunch      (    6.8,     4.0,     1.8)
+  hi
+2022-07-29T05:32:51Z: PLAYER CHATTED [  488506825] jadeyah5             (    3.3,     4.7,    -1.4)
+  hello
+2022-07-29T05:32:57Z: PLAYER CHATTED [ 3689926613] narto1234crunch      (    6.4,     4.0,     1.1)
+  wanna be friends 
+2022-07-29T05:32:59Z: PLAYER REMOVED [ 3640773233] Iheartme1290
+2022-07-29T05:33:00Z: PLAYER ADDED   [ 3640773233] Iheartme1290
+2022-07-29T05:33:04Z: PLAYER CHATTED [  488506825] jadeyah5             (    3.3,     4.7,    -1.4)
+  sure
+2022-07-29T05:33:08Z: PLAYER REMOVED [ 3640773233] Iheartme1290
+2022-07-29T05:33:08Z: PLAYER CHATTED [ 3399853627] TheRealBlueBlock1    ( -873.3,    12.4,   101.9)
+  Hello
+2022-07-29T05:33:09Z: PLAYER CHATTED [ 3689926613] narto1234crunch      (    6.4,     4.0,     1.1)
+  yay
+2022-07-29T05:33:19Z: PLAYER ADDED   [ 2490041397] prxilla_0
+2022-07-29T05:33:22Z: PLAYER CHATTED [  488506825] jadeyah5             (    3.3,     4.7,    -1.4)
+  yee
+2022-07-29T05:33:26Z: PLAYER CHATTED [ 3689926613] narto1234crunch      (    6.4,     4.0,     1.1)
+  ur my partner in crime
+2022-07-29T05:33:28Z: PLAYER CHATTED [ 1912365658] Galaxy_Emaan         ( -274.6,     3.1,     6.3)
+  who wants 2k words?
+2022-07-29T05:33:30Z: PLAYER CHATTED [  488506825] jadeyah5             (    2.4,     4.7,    -2.4)
+  fs
+2022-07-29T05:33:33Z: PLAYER CHATTED [ 1912365658] Galaxy_Emaan         ( -193.3,     3.5,    -3.1)
+  or maybe more
+2022-07-29T05:33:33Z: PLAYER CHATTED [ 3399853627] TheRealBlueBlock1    ( -841.4,    10.0,   105.1)
+  I have 1470 words
+2022-07-29T05:33:53Z: PLAYER CHATTED [ 3689926613] narto1234crunch      (    6.4,     4.0,     1.1)
+  me
+2022-07-29T05:33:53Z: PLAYER CHATTED [ 1912365658] Galaxy_Emaan         (  109.1,     3.5,    -4.6)
+  WHO WANTS 2k WORDS
+2022-07-29T05:33:54Z: PLAYER REMOVED [ 1969465841] princessgerlo1
+2022-07-29T05:33:57Z: PLAYER CHATTED [ 3399853627] TheRealBlueBlock1    ( -633.0,     4.9,    95.5)
+  ###
+2022-07-29T05:33:58Z: PLAYER CHATTED [ 3689926613] narto1234crunch      (    7.0,     4.0,     2.0)
+  me
+2022-07-29T05:33:59Z: PLAYER CHATTED [ 3734004960] Fadskaj              ( -675.7,    11.8,   128.7)
+  Do you want all my words
+2022-07-29T05:34:00Z: PLAYER CHATTED [ 3399853627] TheRealBlueBlock1    ( -626.9,     5.0,    87.8)
+  Me
+2022-07-29T05:34:02Z: PLAYER CHATTED [  488506825] jadeyah5             (    2.4,     4.7,    -2.4)
+  ?
+2022-07-29T05:34:04Z: PLAYER CHATTED [ 1912365658] Galaxy_Emaan         (  125.5,     3.5,   -30.6)
+  uhhhhhhh ok
+2022-07-29T05:34:07Z: PLAYER CHATTED [ 3689926613] narto1234crunch      (    9.1,     4.0,     2.9)
+  srry
+2022-07-29T05:34:09Z: PLAYER CHATTED [ 1912365658] Galaxy_Emaan         (  119.9,     3.5,   -32.9)
+  uh i will give 2k each
+2022-07-29T05:34:10Z: PLAYER ADDED   [ 3049071813] patoman1215
+2022-07-29T05:34:12Z: PLAYER CHATTED [  488506825] jadeyah5             (    7.5,     4.7,    -4.1)
+  for?
+2022-07-29T05:34:14Z: PLAYER CHATTED [ 3689926613] narto1234crunch      (    8.8,     4.0,     1.3)
+  boy or girl
+2022-07-29T05:34:15Z: PLAYER CHATTED [ 1912365658] Galaxy_Emaan         (   41.1,     3.5,   -10.5)
+  go to where u spin
+2022-07-29T05:34:19Z: PLAYER CHATTED [ 3049071813] patoman1215          ( -448.3,     3.4,   -68.0)
+  wasa
+2022-07-29T05:34:21Z: PLAYER CHATTED [ 3049071813] patoman1215          ( -448.3,     3.4,   -68.0)
+  a
+2022-07-29T05:34:21Z: PLAYER CHATTED [ 3399853627] TheRealBlueBlock1    ( -548.7,    21.7,    41.5)
+  Sure
+2022-07-29T05:34:24Z: PLAYER CHATTED [ 3049071813] patoman1215          ( -448.3,     3.4,   -68.0)
+  aaaaaaaa
+2022-07-29T05:34:25Z: PLAYER CHATTED [ 3602909028] Queenx1iz            (    1.7,     3.9,  -269.4)
+  HIYAA
+2022-07-29T05:34:27Z: PLAYER ADDED   [ 1129375150] mimichqnel
+2022-07-29T05:34:28Z: PLAYER CHATTED [ 3734004960] Fadskaj              ( -543.6,    21.4,    43.6)
+  Ok :)
+2022-07-29T05:34:29Z: PLAYER CHATTED [ 3689926613] narto1234crunch      (    7.7,     4.0,     0.8)
+  I'ma girl
+2022-07-29T05:34:29Z: PLAYER CHATTED [ 3049071813] patoman1215          ( -448.3,     3.4,   -68.0)
+  a 
+2022-07-29T05:34:30Z: PLAYER CHATTED [  488506825] jadeyah5             (    7.5,     4.7,    -4.1)
+  me?
+2022-07-29T05:34:32Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-07-29T05:34:32Z: PLAYER REMOVED [ 3602909028] Queenx1iz
+2022-07-29T05:34:32Z: PLAYER REMOVED [ 2244910595] uieisjsjx
+2022-07-29T05:34:32Z: PLAYER REMOVED [ 3549619551] glitchy_potatofries
+2022-07-29T05:34:32Z: PLAYER REMOVED [ 2690378113] Lilbabycherry1234
+2022-07-29T05:34:32Z: PLAYER REMOVED [ 3015150236] miyukiand
+2022-07-29T05:34:32Z: PLAYER REMOVED [ 3114685292] iamnotahuman_12345
+2022-07-29T05:34:32Z: PLAYER REMOVED [ 1636469654] danny737741
+2022-07-29T05:34:32Z: PLAYER REMOVED [ 3523235745] kaylaplayz225
+2022-07-29T05:34:32Z: PLAYER REMOVED [ 1912365658] Galaxy_Emaan
+2022-07-29T05:34:32Z: PLAYER REMOVED [  271857275] Goodbo77
+2022-07-29T05:34:32Z: PLAYER REMOVED [ 3734004960] Fadskaj
+2022-07-29T05:34:32Z: PLAYER REMOVED [ 3744376838] imhappybcimlonley
+2022-07-29T05:34:32Z: PLAYER REMOVED [ 1565831340] bbrocatman101
+2022-07-29T05:34:32Z: PLAYER REMOVED [  488506825] jadeyah5
+2022-07-29T05:34:32Z: PLAYER REMOVED [ 3278427005] arissa_12q
+2022-07-29T05:34:32Z: PLAYER REMOVED [ 3689926613] narto1234crunch
+2022-07-29T05:34:32Z: PLAYER REMOVED [ 1177777940] bestgamergirl1992
+2022-07-29T05:34:32Z: PLAYER REMOVED [ 3651061423] Xxim_wierdigxX
+2022-07-29T05:34:32Z: PLAYER REMOVED [ 3399853627] TheRealBlueBlock1
+2022-07-29T05:34:32Z: PLAYER REMOVED [ 2558827852] Nanokarin_8
+2022-07-29T05:34:32Z: PLAYER REMOVED [ 3460071226] Softy99999
+2022-07-29T05:34:32Z: PLAYER REMOVED [ 2490041397] prxilla_0
+2022-07-29T05:34:32Z: PLAYER REMOVED [ 3049071813] patoman1215
+2022-07-29T05:34:32Z: PLAYER REMOVED [ 1129375150] mimichqnel

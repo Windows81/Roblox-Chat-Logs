@@ -1,0 +1,2050 @@
+[    1630228] : [ 4838322068] White House Simulator - eaab11f4-fdd6-43b7-bc91-1b1a19e1fa77
+2022-08-03T01:43:11Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-08-03T01:43:11Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-08-03T01:43:11Z: PLAYER ADDED   [ 2689527647] moneyredloan1
+2022-08-03T01:43:11Z: PLAYER ADDED   [ 1475221456] ArkVorhut
+2022-08-03T01:43:11Z: PLAYER ADDED   [ 2299946953] yutolegandredbull
+2022-08-03T01:43:11Z: PLAYER ADDED   [ 1948335522] bastipro1703
+2022-08-03T01:43:11Z: PLAYER ADDED   [  972943233] NotTinted
+2022-08-03T01:43:11Z: PLAYER ADDED   [ 3121767066] DunkYoshizz
+2022-08-03T01:43:11Z: PLAYER ADDED   [  326396761] KarmaSider
+2022-08-03T01:43:11Z: PLAYER ADDED   [ 1508163068] itslowuen2
+2022-08-03T01:43:11Z: PLAYER ADDED   [  247924177] DerekBarr54
+2022-08-03T01:43:11Z: PLAYER ADDED   [ 1276547133] Nickja4
+2022-08-03T01:43:11Z: PLAYER ADDED   [ 1033710606] archagathuss
+2022-08-03T01:43:11Z: PLAYER ADDED   [  837950418] CoolThunderLion50
+2022-08-03T01:43:11Z: PLAYER ADDED   [ 1301003082] JSSRacer100
+2022-08-03T01:43:11Z: PLAYER ADDED   [ 3254906590] Gmanhood
+2022-08-03T01:43:11Z: PLAYER ADDED   [ 1516469386] imapersonyounot
+2022-08-03T01:43:11Z: PLAYER ADDED   [  596325823] littleky0
+2022-08-03T01:43:11Z: PLAYER ADDED   [  443938094] CrazyTroller93
+2022-08-03T01:43:11Z: PLAYER ADDED   [  113793627] leito2005
+2022-08-03T01:43:11Z: PLAYER ADDED   [  170370958] CompSypher
+2022-08-03T01:43:11Z: PLAYER ADDED   [  197835308] Leviroblox2000
+2022-08-03T01:43:11Z: PLAYER ADDED   [ 1524933885] EEEEis_good
+2022-08-03T01:43:11Z: PLAYER ADDED   [  372112900] ajxionok
+2022-08-03T01:43:11Z: PLAYER ADDED   [  877081569] Yareto21384
+2022-08-03T01:43:11Z: PLAYER ADDED   [   71539109] SlugterraFan12
+2022-08-03T01:43:11Z: PLAYER ADDED   [ 2614565940] YASINTOIT
+2022-08-03T01:43:11Z: PLAYER ADDED   [ 1545001299] federicoram1295
+2022-08-03T01:43:11Z: PLAYER ADDED   [ 1867243399] VG_Tyler
+2022-08-03T01:43:11Z: PLAYER ADDED   [  240370393] soggyrollercoster4
+2022-08-03T01:43:11Z: PLAYER ADDED   [ 1558725815] udontcow
+2022-08-03T01:43:11Z: PLAYER ADDED   [ 2482149738] ImagineBeingRatioed
+2022-08-03T01:43:11Z: PLAYER ADDED   [  355338729] Tackthree
+2022-08-03T01:43:11Z: PLAYER ADDED   [  115554578] FireBall8981
+2022-08-03T01:43:11Z: PLAYER ADDED   [ 1285163299] LegolasApeiros
+2022-08-03T01:43:11Z: PLAYER ADDED   [ 1540689112] brendan_swainer01
+2022-08-03T01:43:11Z: PLAYER ADDED   [ 1393505870] jake17489i
+2022-08-03T01:43:11Z: PLAYER ADDED   [ 1586895820] Antforceawsome1
+2022-08-03T01:43:14Z: PLAYER CHATTED [ 1393505870] jake17489i           ( 2104.1,    75.5,  -585.4)
+  POTUS DED
+2022-08-03T01:43:15Z: PLAYER REMOVED [ 1516469386] imapersonyounot
+2022-08-03T01:43:15Z: PLAYER ADDED   [  680580157] AlessandroEColombo
+2022-08-03T01:43:16Z: PLAYER CHATTED [ 1586895820] Antforceawsome1      ( 2120.0,    74.3,  -594.8)
+  impale
+2022-08-03T01:43:17Z: PLAYER CHATTED [  113793627] leito2005            ( 1123.0,    99.4,   892.9)
+  LOL
+2022-08-03T01:43:18Z: PLAYER REMOVED [  170370958] CompSypher
+2022-08-03T01:43:20Z: PLAYER CHATTED [  596325823] littleky0
+  bastipro.
+2022-08-03T01:43:21Z: PLAYER CHATTED [ 1586895820] Antforceawsome1      ( 2120.0,    74.3,  -594.8)
+  the target
+2022-08-03T01:43:22Z: PLAYER CHATTED [  197835308] Leviroblox2000       ( 2123.0,    74.3,  -591.2)
+  Go.
+2022-08-03T01:43:23Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  213.3,    75.2,   256.0)
+2022-08-03T01:43:24Z: PLAYER CHATTED [ 2614565940] YASINTOIT
+  Yeah I’m ded
+2022-08-03T01:43:24Z: PLAYER CHATTED [  596325823] littleky0
+  Here.
+2022-08-03T01:43:25Z: PLAYER CHATTED [ 1867243399] VG_Tyler
+  ####### go on his shoulder.
+2022-08-03T01:43:26Z: PLAYER CHATTED [ 1393505870] jake17489i           ( 2108.9,    74.3,  -582.4)
+  No,
+2022-08-03T01:43:31Z: PLAYER REMOVED [  326396761] KarmaSider
+2022-08-03T01:43:31Z: PLAYER CHATTED [ 1393505870] jake17489i           ( 2111.4,    74.3,  -589.1)
+  .
+2022-08-03T01:43:32Z: PLAYER CHATTED [ 1276547133] Nickja4              ( 2111.9,    74.3,  -589.7)
+  Hello
+2022-08-03T01:43:33Z: PLAYER CHATTED [ 1867243399] VG_Tyler
+  Shoulder.
+2022-08-03T01:43:33Z: PLAYER CHATTED [  596325823] littleky0
+  .
+2022-08-03T01:43:35Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2122.5,    74.3,  -591.2)
+  POTUS and VP follow fast
+2022-08-03T01:43:36Z: PLAYER CHATTED [ 1867243399] VG_Tyler
+  here.
+2022-08-03T01:43:36Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2119.2,    74.7,  -582.8)
+  Where did you get that vest?
+2022-08-03T01:43:37Z: PLAYER CHATTED [ 1586895820] Antforceawsome1      ( 2118.4,    74.3,  -594.2)
+  Sir i am doing ################
+2022-08-03T01:43:38Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2124.8,    74.7,  -586.8)
+  Okay
+2022-08-03T01:43:40Z: PLAYER ADDED   [  326396761] KarmaSider
+2022-08-03T01:43:44Z: CHRCTER ADDED  [ 1524933885] EEEEis_good          (  -85.0,    78.0,    87.6)
+2022-08-03T01:43:44Z: PLAYER CHATTED [ 1867243399] VG_Tyler
+  Stand here.
+2022-08-03T01:43:45Z: PLAYER CHATTED [ 3121767066] DunkYoshizz
+  Congrats on CM Tack
+2022-08-03T01:43:50Z: CHRCTER ADDED  [  197835308] Leviroblox2000       (  782.5,    51.1,  1022.6)
+2022-08-03T01:43:50Z: PLAYER CHATTED [ 2614565940] YASINTOIT
+  You can shoot them already told them
+2022-08-03T01:43:50Z: PLAYER CHATTED [  596325823] littleky0
+  Get on his right soulder.
+2022-08-03T01:43:58Z: PLAYER CHATTED [ 1276547133] Nickja4              ( 2109.0,    74.3,  -600.2)
+  WOW
+2022-08-03T01:43:59Z: PLAYER CHATTED [ 1867243399] VG_Tyler
+  Move up now.
+2022-08-03T01:44:00Z: PLAYER CHATTED [ 3254906590] Gmanhood             ( 2108.7,    74.3,  -594.4)
+  Well we oeave
+2022-08-03T01:44:02Z: PLAYER CHATTED [ 3121767066] DunkYoshizz
+  Haven't played this game in ages.
+2022-08-03T01:44:04Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2240.4,    74.3,  -523.3)
+  Can we fly marine one?
+2022-08-03T01:44:05Z: CHRCTER ADDED  [  197835308] Leviroblox2000       ( 2404.4,    74.3,  -672.9)
+2022-08-03T01:44:05Z: CHRCTER ADDED  [  877081569] Yareto21384          ( 2459.2,    74.3,  -653.3)
+2022-08-03T01:44:05Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2235.7,    74.3,  -518.8)
+  Is the civ a mod?
+2022-08-03T01:44:06Z: CHRCTER ADDED  [  680580157] AlessandroEColombo   (  774.6,    51.1,  1028.3)
+2022-08-03T01:44:10Z: PLAYER ADDED   [  751906894] tahjdontwashcars
+2022-08-03T01:44:11Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2228.2,    74.3,  -524.2)
+  ######
+2022-08-03T01:44:12Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2402.7,    74.3,  -652.3)
+  Ok.
+2022-08-03T01:44:12Z: CHRCTER ADDED  [ 1545001299] federicoram1295      (  207.6,    75.2,    48.4)
+2022-08-03T01:44:12Z: PLAYER CHATTED [  113793627] leito2005            ( 1143.2,    99.6,   891.2)
+  i KILLED
+2022-08-03T01:44:13Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2224.1,    74.3,  -519.3)
+  ask. Him
+2022-08-03T01:44:13Z: PLAYER CHATTED [ 3254906590] Gmanhood             ( 2108.5,    74.3,  -598.8)
+  Kill
+2022-08-03T01:44:15Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2224.1,    74.3,  -519.3)
+  Idk
+2022-08-03T01:44:15Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2402.7,    74.3,  -652.3)
+  OBP/
+2022-08-03T01:44:17Z: PLAYER CHATTED [  113793627] leito2005            ( 1143.2,    99.6,   891.2)
+  National guard
+2022-08-03T01:44:18Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2402.7,    74.3,  -652.3)
+  OBP*
+2022-08-03T01:44:20Z: CHRCTER ADDED  [  326396761] KarmaSider           ( 2459.2,    74.8,  -653.3)
+2022-08-03T01:44:20Z: PLAYER CHATTED [   71539109] SlugterraFan12       ( 1143.2,    99.6,   898.2)
+  good
+2022-08-03T01:44:20Z: PLAYER CHATTED [  355338729] Tackthree            ( 2230.2,    74.3,  -518.5)
+  :admins
+2022-08-03T01:44:21Z: PLAYER CHATTED [ 1033710606] archagathuss         (  778.9,    62.7,  1024.6)
+  Here
+2022-08-03T01:44:21Z: PLAYER REMOVED [ 1524933885] EEEEis_good
+2022-08-03T01:44:23Z: PLAYER CHATTED [  197835308] Leviroblox2000       ( 2230.9,    74.3,  -522.6)
+  Sup.
+2022-08-03T01:44:24Z: CHRCTER ADDED  [ 1508163068] itslowuen2           (  -77.0,    78.0,   130.9)
+2022-08-03T01:44:25Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2236.0,    74.3,  -516.8)
+  Im not sure
+2022-08-03T01:44:26Z: PLAYER CHATTED [  355338729] Tackthree            ( 2230.2,    74.3,  -518.5)
+  Nope.
+2022-08-03T01:44:26Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2402.7,    74.3,  -652.3)
+  Open Box Protection.
+2022-08-03T01:44:29Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2236.0,    74.3,  -516.8)
+  Oh.
+2022-08-03T01:44:30Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2224.1,    74.3,  -519.3)
+  sup
+2022-08-03T01:44:32Z: PLAYER CHATTED [  355338729] Tackthree            ( 2230.2,    74.3,  -518.5)
+  Please leave base.
+2022-08-03T01:44:34Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2228.2,    74.3,  -524.2)
+  Can we fly on Marine One?
+2022-08-03T01:44:34Z: PLAYER CHATTED [  113793627] leito2005            ( 1143.2,    99.6,   891.2)
+  We must find his ####
+2022-08-03T01:44:34Z: CHRCTER ADDED  [  751906894] tahjdontwashcars     (  210.1,    75.2,   250.8)
+2022-08-03T01:44:35Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2236.0,    74.3,  -516.8)
+  Please exit
+2022-08-03T01:44:35Z: CHRCTER ADDED  [ 1276547133] Nickja4              (  717.5,    51.1,  1034.3)
+2022-08-03T01:44:35Z: PLAYER ADDED   [ 1356177857] MarkTheFourth
+2022-08-03T01:44:38Z: PLAYER CHATTED [  247924177] DerekBarr54          ( 2095.5,    74.3,  -603.7)
+  Move, from the cars.
+2022-08-03T01:44:39Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2400.4,    74.3,  -656.0)
+  OBP
+2022-08-03T01:44:42Z: PLAYER CHATTED [ 1586895820] Antforceawsome1      ( 2228.9,    74.3,  -514.2)
+  Sad.
+2022-08-03T01:44:42Z: CHRCTER ADDED  [ 1301003082] JSSRacer100          (  210.0,    75.2,    47.0)
+2022-08-03T01:44:42Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2228.9,    74.3,  -511.2)
+  No he is my
+2022-08-03T01:44:45Z: PLAYER CHATTED [  837950418] CoolThunderLion50    ( 2091.1,    74.0,  -595.5)
+  no
+2022-08-03T01:44:45Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2400.4,    74.3,  -656.0)
+  all four ######## ###
+2022-08-03T01:44:47Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2229.6,    74.3,  -512.1)
+  Babushka
+2022-08-03T01:44:47Z: PLAYER CHATTED [ 1033710606] archagathuss         (  767.0,    63.0,  1041.7)
+  Yo
+2022-08-03T01:44:47Z: PLAYER CHATTED [ 1586895820] Antforceawsome1      ( 2228.9,    74.3,  -514.2)
+  Very sad
+2022-08-03T01:44:48Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2234.2,    74.3,  -516.2)
+  He has to.
+2022-08-03T01:44:48Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2400.4,    74.3,  -656.0)
+  surround me
+2022-08-03T01:44:49Z: PLAYER CHATTED [  972943233] NotTinted            ( 2116.3,    74.3,  -601.0)
+  o7
+2022-08-03T01:44:51Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2230.3,    74.3,  -512.5)
+  Please
+2022-08-03T01:44:52Z: PLAYER CHATTED [ 1948335522] bastipro1703         ( 2397.8,    74.3,  -639.2)
+  orry, Sir.
+2022-08-03T01:44:52Z: PLAYER CHATTED [ 1033710606] archagathuss         (  767.0,    63.0,  1041.7)
+  Uhhh
+2022-08-03T01:44:56Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2400.4,    74.3,  -656.0)
+  one here
+2022-08-03T01:44:56Z: PLAYER CHATTED [  355338729] Tackthree            ( 2161.7,    74.4,  -615.6)
+  Kings.
+2022-08-03T01:44:57Z: PLAYER CHATTED [ 1033710606] archagathuss         (  767.0,    63.0,  1041.7)
+  Kos Any Guard
+2022-08-03T01:44:58Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2232.8,    74.3,  -516.4)
+  If i could let him, I would.
+2022-08-03T01:45:02Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2232.8,    74.3,  -516.4)
+  Its the rules
+2022-08-03T01:45:04Z: PLAYER CHATTED [ 1033710606] archagathuss         (  767.0,    63.0,  1041.7)
+  Then U Die
+2022-08-03T01:45:04Z: PLAYER CHATTED [  837950418] CoolThunderLion50    ( 2085.8,    74.0,  -614.9)
+  dont touch me
+2022-08-03T01:45:05Z: CHRCTER ADDED  [ 1356177857] MarkTheFourth        (  215.3,    75.2,   260.7)
+2022-08-03T01:45:06Z: PLAYER REMOVED [ 3254906590] Gmanhood
+2022-08-03T01:45:06Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2399.6,    74.3,  -657.0)
+  two on my sides
+2022-08-03T01:45:07Z: PLAYER REMOVED [ 1301003082] JSSRacer100
+2022-08-03T01:45:07Z: PLAYER CHATTED [  596325823] littleky0            ( 2397.8,    74.3,  -661.7)
+  Thats the first time i see the O10 in game...
+2022-08-03T01:45:08Z: PLAYER CHATTED [ 1586895820] Antforceawsome1      ( 2228.9,    74.3,  -514.2)
+  I am tryna sell the president a weapon here.
+2022-08-03T01:45:09Z: PLAYER CHATTED [ 1558725815] udontcow             ( 2092.3,    74.3,  -604.8)
+  shut
+2022-08-03T01:45:10Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2231.2,    74.3,  -515.7)
+  Don’t kill him then
+2022-08-03T01:45:11Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2399.6,    74.3,  -657.0)
+  Two on my front and back.
+2022-08-03T01:45:12Z: PLAYER CHATTED [ 1033710606] archagathuss         (  767.0,    63.0,  1041.7)
+  Uhhh Turn Into A Frog
+2022-08-03T01:45:13Z: CHRCTER ADDED  [  877081569] Yareto21384          (  -80.9,    78.0,    86.6)
+2022-08-03T01:45:16Z: PLAYER CHATTED [  596325823] littleky0            ( 2397.8,    74.3,  -661.7)
+  O7
+2022-08-03T01:45:16Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2234.7,    74.3,  -514.1)
+  If u make it secreat
+2022-08-03T01:45:17Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2399.6,    74.3,  -657.0)
+  Move right.
+2022-08-03T01:45:18Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2232.7,    74.3,  -510.1)
+  U kill him
+2022-08-03T01:45:18Z: PLAYER ADDED   [ 1435137644] B347T4F
+2022-08-03T01:45:19Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2234.7,    74.3,  -514.1)
+  then sure.
+2022-08-03T01:45:20Z: PLAYER CHATTED [  596325823] littleky0            ( 2397.8,    74.3,  -661.7)
+  o7*
+2022-08-03T01:45:22Z: PLAYER CHATTED [  355338729] Tackthree            ( 2391.9,    74.3,  -660.0)
+  Let dev be in charge for 15 mins.
+2022-08-03T01:45:23Z: PLAYER ADDED   [  124868185] EclipseSider
+2022-08-03T01:45:23Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2229.6,    74.3,  -517.1)
+  Soggy
+2022-08-03T01:45:27Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2231.8,    74.3,  -517.5)
+  Can we fly on Marina one?
+2022-08-03T01:45:28Z: PLAYER CHATTED [ 1033710606] archagathuss         (  767.0,    63.0,  1041.7)
+  #######################
+2022-08-03T01:45:28Z: PLAYER CHATTED [ 1586895820] Antforceawsome1      ( 2231.1,    74.3,  -512.8)
+  Ok.
+2022-08-03T01:45:29Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2226.7,    74.3,  -517.3)
+  Yes.
+2022-08-03T01:45:30Z: PLAYER CHATTED [  326396761] KarmaSider           ( 2402.2,    74.3,  -635.0)
+  is that you
+2022-08-03T01:45:30Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2231.0,    74.3,  -511.6)
+  If you kill him
+2022-08-03T01:45:31Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2399.0,    74.3,  -656.8)
+  Face your backs to me
+2022-08-03T01:45:32Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2229.4,    74.3,  -517.7)
+  marine*
+2022-08-03T01:45:32Z: PLAYER CHATTED [ 1033710606] archagathuss         (  767.0,    63.0,  1041.7)
+  Idk
+2022-08-03T01:45:32Z: PLAYER CHATTED [ 1545001299] federicoram1295      (  576.7,    74.3,   603.9)
+  sir
+2022-08-03T01:45:33Z: PLAYER CHATTED [  972943233] NotTinted            ( 2402.6,    74.3,  -632.7)
+  No
+2022-08-03T01:45:33Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2227.9,    74.3,  -521.0)
+  im not 224th
+2022-08-03T01:45:36Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2230.8,    74.3,  -519.7)
+  I will not respect you
+2022-08-03T01:45:36Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2229.4,    74.3,  -517.7)
+  o
+2022-08-03T01:45:39Z: PLAYER CHATTED [   71539109] SlugterraFan12       ( 1053.1,    62.9,   893.6)
+  GUY
+2022-08-03T01:45:39Z: PLAYER ADDED   [ 1043456476] NoNoJeffi
+2022-08-03T01:45:40Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2227.9,    74.3,  -521.0)
+  .
+2022-08-03T01:45:40Z: PLAYER CHATTED [  680580157] AlessandroEColombo   (  567.3,    70.9,   650.4)
+  ?
+2022-08-03T01:45:41Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2399.0,    74.3,  -656.8)
+  Turn around.
+2022-08-03T01:45:44Z: PLAYER CHATTED [ 1545001299] federicoram1295      (  577.6,    70.7,   653.4)
+  and the
+2022-08-03T01:45:45Z: CHRCTER ADDED  [   71539109] SlugterraFan12       (  204.8,    75.2,    50.3)
+2022-08-03T01:45:45Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2227.9,    74.3,  -521.0)
+  I cant fly it.
+2022-08-03T01:45:45Z: PLAYER CHATTED [  197835308] Leviroblox2000       ( 2224.1,    74.3,  -520.3)
+  Oh.
+2022-08-03T01:45:49Z: CHRCTER ADDED  [ 1435137644] B347T4F              (  -83.1,    78.0,    92.4)
+2022-08-03T01:45:49Z: PLAYER CHATTED [ 1033710606] archagathuss         (  767.0,    63.0,  1041.7)
+  Oh Yea I Look Propa Gangsta
+2022-08-03T01:45:49Z: CHRCTER ADDED  [  113793627] leito2005            ( 2523.9,    75.3,   658.4)
+2022-08-03T01:45:50Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2230.8,    74.3,  -519.7)
+  Do not touch my babushka
+2022-08-03T01:45:51Z: PLAYER CHATTED [ 1545001299] federicoram1295      (  577.6,    70.7,   653.4)
+  security in the door
+2022-08-03T01:45:55Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2399.0,    74.3,  -656.8)
+  Do a 180.
+2022-08-03T01:45:55Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2227.9,    74.3,  -521.0)
+  I wont
+2022-08-03T01:45:59Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2227.9,    74.3,  -521.0)
+  But they will.
+2022-08-03T01:45:59Z: CHRCTER ADDED  [  124868185] EclipseSider         (  782.5,    51.1,  1022.6)
+2022-08-03T01:46:00Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2397.8,    74.3,  -656.8)
+  Good.
+2022-08-03T01:46:01Z: CHRCTER ADDED  [  124868185] EclipseSider         (   92.5,    75.2,   216.9)
+2022-08-03T01:46:03Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2230.8,    74.3,  -519.7)
+  u don’t
+2022-08-03T01:46:06Z: PLAYER ADDED   [  902818755] Powie61_64
+2022-08-03T01:46:07Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2397.8,    74.3,  -656.8)
+  Face your back to me.
+2022-08-03T01:46:08Z: PLAYER CHATTED [  197835308] Leviroblox2000       ( 2224.4,    74.3,  -521.1)
+  are they allowed in here.
+2022-08-03T01:46:09Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2398.6,    74.3,  -656.8)
+  Good.
+2022-08-03T01:46:11Z: CHRCTER ADDED  [  247924177] DerekBarr54          (  717.5,    51.1,  1034.3)
+2022-08-03T01:46:11Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2398.6,    74.3,  -656.8)
+  CBP.
+2022-08-03T01:46:11Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2227.9,    74.3,  -521.0)
+  So dont walk over there with him
+2022-08-03T01:46:13Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2398.9,    74.3,  -645.1)
+  Can I please fly on Marine One?
+2022-08-03T01:46:13Z: CHRCTER ADDED  [ 1540689112] brendan_swainer01    (  996.8,    47.0,   869.9)
+2022-08-03T01:46:15Z: PLAYER CHATTED [ 1393505870] jake17489i           ( 2079.0,    74.3,  -646.4)
+  Agent
+2022-08-03T01:46:16Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2398.6,    74.3,  -656.8)
+  Closed Box Protection,.
+2022-08-03T01:46:19Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2231.3,    74.3,  -520.9)
+  And stand in cornor
+2022-08-03T01:46:19Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2397.6,    74.3,  -655.7)
+  Move.
+2022-08-03T01:46:21Z: PLAYER CHATTED [ 1033710606] archagathuss         (  767.7,    62.7,  1029.7)
+  Obama
+2022-08-03T01:46:21Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2397.6,    74.3,  -655.9)
+  and NO.
+2022-08-03T01:46:22Z: PLAYER CHATTED [  355338729] Tackthree            ( 2389.7,    74.3,  -651.3)
+  Kings.
+2022-08-03T01:46:22Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2226.8,    74.3,  -519.9)
+  Stay here babushka hide
+2022-08-03T01:46:23Z: PLAYER CHATTED [ 1558725815] udontcow             ( 2106.1,    74.3,  -602.2)
+  what?
+2022-08-03T01:46:26Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2230.4,    74.3,  -517.3)
+  if u want to stay alive
+2022-08-03T01:46:27Z: PLAYER CHATTED [ 1393505870] jake17489i           ( 2109.3,    74.3,  -605.3)
+  May I ask you a question
+2022-08-03T01:46:27Z: PLAYER CHATTED [  197835308] Leviroblox2000       ( 2232.7,    74.3,  -514.6)
+  5
+2022-08-03T01:46:28Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2398.4,    74.3,  -656.1)
+  move up.
+2022-08-03T01:46:29Z: PLAYER CHATTED [  355338729] Tackthree            ( 2400.6,    74.3,  -649.6)
+  o7
+2022-08-03T01:46:30Z: PLAYER CHATTED [  326396761] KarmaSider           ( 2404.8,    74.3,  -650.9)
+  no o7?
+2022-08-03T01:46:31Z: PLAYER CHATTED [ 1558725815] udontcow             ( 2106.1,    74.3,  -602.2)
+  sure
+2022-08-03T01:46:32Z: PLAYER CHATTED [  355338729] Tackthree            ( 2402.7,    74.3,  -652.2)
+  Kings.
+2022-08-03T01:46:34Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2405.3,    74.3,  -649.9)
+  Sir
+2022-08-03T01:46:35Z: PLAYER CHATTED [  197835308] Leviroblox2000       ( 2211.9,    74.3,  -519.5)
+  4.
+2022-08-03T01:46:36Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2208.6,    74.3,  -526.1)
+  stay there
+2022-08-03T01:46:37Z: PLAYER ADDED   [ 1690762933] ElonsWar
+2022-08-03T01:46:40Z: CHRCTER ADDED  [  902818755] Powie61_64           (  714.1,    51.3,  1034.3)
+2022-08-03T01:46:41Z: PLAYER CHATTED [ 1393505870] jake17489i           ( 2109.3,    74.3,  -605.3)
+  When u have a gun how do u shoot
+2022-08-03T01:46:42Z: PLAYER CHATTED [  596325823] littleky0            ( 2398.4,    74.3,  -658.4)
+  I said o7.
+2022-08-03T01:46:42Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2398.7,    74.3,  -655.8)
+  Good.
+2022-08-03T01:46:43Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2410.8,    74.3,  -652.1)
+  Can I fly on Marine One? With the POTUS
+2022-08-03T01:46:44Z: PLAYER CHATTED [  197835308] Leviroblox2000       ( 2276.1,    74.3,  -512.3)
+  hey
+2022-08-03T01:46:44Z: PLAYER CHATTED [  355338729] Tackthree            ( 2407.1,    74.3,  -655.8)
+  Can I be devs o9 for 15?
+2022-08-03T01:46:44Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2398.7,    74.3,  -655.8)
+  STS.
+2022-08-03T01:46:46Z: PLAYER CHATTED [ 1558725815] udontcow             ( 2106.1,    74.3,  -602.2)
+  click
+2022-08-03T01:46:46Z: PLAYER CHATTED [ 1276547133] Nickja4              ( 2110.6,    74.3,  -598.8)
+  ?
+2022-08-03T01:46:49Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2398.9,    74.3,  -655.8)
+  STS
+2022-08-03T01:46:49Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2398.6,    74.3,  -646.2)
+  Oh Huddle
+2022-08-03T01:46:50Z: PLAYER CHATTED [  326396761] KarmaSider           ( 2387.3,    74.3,  -660.5)
+  sure
+2022-08-03T01:46:51Z: PLAYER CHATTED [ 1558725815] udontcow             ( 2106.1,    74.3,  -602.2)
+  mouse
+2022-08-03T01:46:54Z: PLAYER CHATTED [  596325823] littleky0            ( 2400.6,    74.3,  -650.7)
+  POTUS.
+2022-08-03T01:46:56Z: PLAYER CHATTED [  355338729] Tackthree            ( 2310.4,    74.3,  -670.3)
+  AY!
+2022-08-03T01:46:58Z: PLAYER CHATTED [ 1393505870] jake17489i           ( 2109.3,    74.3,  -605.3)
+  No on iPad
+2022-08-03T01:46:59Z: PLAYER CHATTED [ 1276547133] Nickja4              ( 2110.8,    74.3,  -600.2)
+  Mouse
+2022-08-03T01:46:59Z: PLAYER CHATTED [   71539109] SlugterraFan12       (    4.1,    74.3,   326.0)
+  GREAT DRIVING
+2022-08-03T01:47:01Z: PLAYER CHATTED [  972943233] NotTinted            ( 2406.4,    74.3,  -636.5)
+  .
+2022-08-03T01:47:01Z: PLAYER CHATTED [ 1558725815] udontcow             ( 2105.0,    74.3,  -602.4)
+  ah
+2022-08-03T01:47:01Z: PLAYER CHATTED [  596325823] littleky0            ( 2387.2,    76.2,  -668.0)
+  Please move back.
+2022-08-03T01:47:03Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2378.9,    76.2,  -690.2)
+  SHH
+2022-08-03T01:47:03Z: PLAYER CHATTED [  326396761] KarmaSider           ( 2196.6,    74.6,  -672.0)
+  :to eclipse
+2022-08-03T01:47:03Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2399.2,    74.3,  -653.6)
+  STS
+2022-08-03T01:47:04Z: PLAYER CHATTED [ 1558725815] udontcow             ( 2105.0,    74.3,  -602.4)
+  i dont know
+2022-08-03T01:47:05Z: PLAYER CHATTED [  113793627] leito2005            (  -13.2,    74.8,   353.7)
+  Shush
+2022-08-03T01:47:05Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2321.1,    76.2,  -665.2)
+  AHH
+2022-08-03T01:47:05Z: PLAYER CHATTED [ 1393505870] jake17489i           ( 2101.4,    74.3,  -608.4)
+  I know on mouse
+2022-08-03T01:47:06Z: CHRCTER ADDED  [ 1690762933] ElonsWar             (  717.5,    51.3,  1034.3)
+2022-08-03T01:47:06Z: PLAYER CHATTED [  197835308] Leviroblox2000       ( 2401.2,    74.3,  -637.4)
+  there a civ in corner.
+2022-08-03T01:47:07Z: PLAYER ADDED   [  593787851] XCaptainShellX
+2022-08-03T01:47:08Z: CHRCTER ADDED  [ 1043456476] NoNoJeffi            (  714.1,    51.3,  1034.3)
+2022-08-03T01:47:08Z: PLAYER CHATTED [ 1393505870] jake17489i           ( 2101.4,    74.3,  -608.4)
+  Oh it’s k
+2022-08-03T01:47:09Z: PLAYER CHATTED [  596325823] littleky0            ( 2387.4,    74.3,  -661.6)
+  Oh nvm.
+2022-08-03T01:47:09Z: PLAYER CHATTED [ 1033710606] archagathuss         (  669.0,    51.5,  1001.2)
+  Oh My God
+2022-08-03T01:47:11Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2393.9,    74.3,  -653.2)
+  STS
+2022-08-03T01:47:11Z: PLAYER CHATTED [ 1558725815] udontcow             ( 2106.8,    76.2,  -601.2)
+  how to on ipad
+2022-08-03T01:47:11Z: PLAYER CHATTED [ 1393505870] jake17489i           ( 2100.9,    74.3,  -604.6)
+  Thx
+2022-08-03T01:47:12Z: PLAYER CHATTED [  355338729] Tackthree            ( 2187.6,    74.6,  -678.2)
+  I'm the O9 with dev for 15 mins
+2022-08-03T01:47:12Z: PLAYER CHATTED [   71539109] SlugterraFan12       (   -1.0,    74.3,   360.5)
+  why doesnt it let me sit
+2022-08-03T01:47:13Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2104.9,    76.2,  -600.0)
+  I’ve been kid napped
+2022-08-03T01:47:16Z: PLAYER CHATTED [   71539109] SlugterraFan12       (    1.4,    74.3,   364.1)
+  racism
+2022-08-03T01:47:17Z: PLAYER REMOVED [ 1586895820] Antforceawsome1
+2022-08-03T01:47:17Z: PLAYER CHATTED [ 1558725815] udontcow             ( 2110.8,    76.2,  -600.5)
+  HEY
+2022-08-03T01:47:18Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2396.9,    74.3,  -653.6)
+  E1
+2022-08-03T01:47:18Z: PLAYER CHATTED [  124868185] EclipseSider         ( 2208.3,    74.6,  -691.1)
+  bro
+2022-08-03T01:47:20Z: PLAYER CHATTED [ 1558725815] udontcow             ( 2107.5,    76.2,  -596.0)
+  STOP THE CAR
+2022-08-03T01:47:20Z: PLAYER ADDED   [ 1679249931] Senhor_Batata896
+2022-08-03T01:47:21Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2381.5,    74.3,  -640.4)
+  ###
+2022-08-03T01:47:21Z: PLAYER CHATTED [ 1356177857] MarkTheFourth        ( 2109.4,    75.9,  -592.4)
+  sup
+2022-08-03T01:47:23Z: PLAYER CHATTED [ 1276547133] Nickja4              ( 2095.2,    74.3,  -596.2)
+  HEY
+2022-08-03T01:47:24Z: PLAYER ADDED   [  115806656] SherbertTheClown
+2022-08-03T01:47:24Z: CHRCTER ADDED  [ 1356177857] MarkTheFourth        (   90.5,    75.0,   224.2)
+2022-08-03T01:47:24Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2099.3,    74.3,  -588.0)
+  Potus out
+2022-08-03T01:47:25Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2389.2,    74.3,  -641.2)
+  Strike 2
+2022-08-03T01:47:26Z: PLAYER CHATTED [  197835308] Leviroblox2000       ( 2257.9,    74.3,  -525.6)
+  he was there
+2022-08-03T01:47:26Z: PLAYER CHATTED [ 1690762933] ElonsWar             (  717.5,    51.5,  1034.3)
+  Idk why I’m all of a sudden an American Citizen
+2022-08-03T01:47:27Z: CHRCTER ADDED  [  593787851] XCaptainShellX       (   88.7,    75.2,    81.1)
+2022-08-03T01:47:27Z: PLAYER CHATTED [ 1276547133] Nickja4              ( 2095.2,    74.3,  -596.2)
+  ATTACK
+2022-08-03T01:47:31Z: CHRCTER ADDED  [  902818755] Powie61_64           (  717.5,    51.3,  1034.3)
+2022-08-03T01:47:32Z: PLAYER CHATTED [   71539109] SlugterraFan12       (  135.5,    74.3,   480.5)
+  lol stupid car
+2022-08-03T01:47:34Z: PLAYER CHATTED [ 1043456476] NoNoJeffi            (  729.9,    51.5,  1026.4)
+  wat
+2022-08-03T01:47:35Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2396.7,    74.3,  -650.8)
+  Ok.
+2022-08-03T01:47:36Z: PLAYER CHATTED [   71539109] SlugterraFan12       (  139.2,    74.3,   479.9)
+  who owns a purple car
+2022-08-03T01:47:36Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2150.4,    74.3,  -630.0)
+  Can you spawn the Helicopter?
+2022-08-03T01:47:37Z: PLAYER CHATTED [ 1276547133] Nickja4              ( 2134.4,    74.3,  -601.1)
+  you ok?
+2022-08-03T01:47:42Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2396.7,    74.3,  -650.8)
+  Now were moving onto Academic Briefing.
+2022-08-03T01:47:49Z: PLAYER REMOVED [ 1435137644] B347T4F
+2022-08-03T01:47:50Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2192.0,    74.6,  -640.8)
+  hello eclpise
+2022-08-03T01:47:53Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2396.7,    74.3,  -650.8)
+  I suggest you use !notepad or take screenshots.
+2022-08-03T01:47:54Z: CHRCTER ADDED  [  115806656] SherbertTheClown     (  204.6,    75.2,    52.1)
+2022-08-03T01:47:56Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2272.4,    74.3,  -644.5)
+  Helicopter
+2022-08-03T01:47:57Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2396.7,    74.3,  -650.8)
+  may even record.
+2022-08-03T01:47:58Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2213.4,    74.6,  -666.9)
+  Eclipise*
+2022-08-03T01:48:04Z: PLAYER ADDED   [ 2285595353] LordRevan108
+2022-08-03T01:48:06Z: PLAYER CHATTED [  113793627] leito2005            (  381.8,    74.7,   521.2)
+  GET DOWN
+2022-08-03T01:48:07Z: CHRCTER ADDED  [ 1508163068] itslowuen2           (  -78.7,    78.0,   135.1)
+2022-08-03T01:48:07Z: CHRCTER ADDED  [  326396761] KarmaSider           (   83.5,    75.2,   224.9)
+2022-08-03T01:48:07Z: CHRCTER ADDED  [ 1356177857] MarkTheFourth        (  205.7,    75.2,    48.8)
+2022-08-03T01:48:07Z: PLAYER CHATTED [  115806656] SherbertTheClown     (  205.1,    74.7,    59.3)
+  SLOOG!!!!
+2022-08-03T01:48:08Z: PLAYER CHATTED [ 1475221456] ArkVorhut            ( 2405.2,    74.3,  -650.4)
+  !notepad
+2022-08-03T01:48:08Z: PLAYER CHATTED [   71539109] SlugterraFan12       (  384.4,    74.7,   513.9)
+  *uploads to twitter
+2022-08-03T01:48:10Z: PLAYER CHATTED [  113793627] leito2005            (  400.8,    74.7,   514.2)
+  Ez
+2022-08-03T01:48:11Z: PLAYER CHATTED [ 1558725815] udontcow             ( 2102.3,    74.3,  -612.6)
+  nice car bro
+2022-08-03T01:48:13Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2396.7,    74.3,  -650.8)
+  What is everyone using?
+2022-08-03T01:48:14Z: CHRCTER ADDED  [  680580157] AlessandroEColombo   (  774.6,    51.1,  1028.3)
+2022-08-03T01:48:16Z: PLAYER CHATTED [ 2299946953] yutolegandredbull    ( 2405.3,    74.3,  -654.1)
+  !notepad
+2022-08-03T01:48:16Z: PLAYER CHATTED [  247924177] DerekBarr54          ( 2110.3,    74.3,  -598.8)
+  ty.
+2022-08-03T01:48:20Z: CHRCTER ADDED  [ 2285595353] LordRevan108         (  774.6,    51.1,  1028.3)
+2022-08-03T01:48:20Z: PLAYER CHATTED [ 1948335522] bastipro1703         ( 2404.6,    74.3,  -647.3)
+  !NOTEPAD
+2022-08-03T01:48:20Z: PLAYER CHATTED [  197835308] Leviroblox2000       ( 2390.5,    74.3,  -649.9)
+  Perm to join.
+2022-08-03T01:48:24Z: PLAYER CHATTED [ 1033710606] archagathuss         (  776.9,    62.7,  1024.1)
+  Oh Crap I've Angered Them All Now Probably
+2022-08-03T01:48:25Z: PLAYER CHATTED [ 2285595353] LordRevan108         (  774.6,    51.5,  1028.3)
+  :to karm
+2022-08-03T01:48:25Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2399.0,    74.3,  -650.8)
+  Denied.
+2022-08-03T01:48:27Z: CHRCTER ADDED  [ 1679249931] Senhor_Batata896     (  -80.6,    78.0,    90.4)
+2022-08-03T01:48:27Z: PLAYER CHATTED [   71539109] SlugterraFan12       (  573.1,    74.3,   565.4)
+  LOL
+2022-08-03T01:48:27Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2388.3,    74.3,  -635.4)
+  Helicopter
+2022-08-03T01:48:31Z: PLAYER CHATTED [  326396761] KarmaSider           (  566.7,    73.2,   460.3)
+  :lofs
+2022-08-03T01:48:35Z: PLAYER CHATTED [  326396761] KarmaSider           (  569.5,    73.2,   462.8)
+  :logs
+2022-08-03T01:48:35Z: PLAYER CHATTED [ 1356177857] MarkTheFourth        (  -16.2,    74.6,   236.0)
+  i am the president of the united freaking states.
+2022-08-03T01:48:36Z: PLAYER CHATTED [   71539109] SlugterraFan12       (  575.2,    66.1,   705.4)
+  people jump over all the time so they just opened the gates
+2022-08-03T01:48:36Z: PLAYER CHATTED [ 1043456476] NoNoJeffi            (  756.1,    62.7,  1009.5)
+  wat
+2022-08-03T01:48:38Z: CHRCTER ADDED  [ 1276547133] Nickja4              (  717.5,    51.1,  1034.3)
+2022-08-03T01:48:39Z: CHRCTER ADDED  [  593787851] XCaptainShellX       (   83.5,    75.2,   218.3)
+2022-08-03T01:48:39Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2397.0,    74.3,  -650.6)
+  Are we good?
+2022-08-03T01:48:40Z: PLAYER CHATTED [ 1356177857] MarkTheFourth        (  -17.4,    74.7,   232.4)
+  get OUT of my CAR freak.
+2022-08-03T01:48:40Z: PLAYER CHATTED [   71539109] SlugterraFan12       (  586.2,    63.4,   736.7)
+  couldnt be bothered
+2022-08-03T01:48:41Z: PLAYER CHATTED [  113793627] leito2005            (  589.1,    63.1,   740.0)
+  Bruh
+2022-08-03T01:48:44Z: PLAYER CHATTED [ 1475221456] ArkVorhut            ( 2405.2,    74.3,  -650.4)
+  Yes, Sir.
+2022-08-03T01:48:44Z: PLAYER CHATTED [  372112900] ajxionok             (  766.2,    62.7,  1026.6)
+  uhh
+2022-08-03T01:48:46Z: PLAYER CHATTED [ 1690762933] ElonsWar             (  749.4,    62.7,   970.6)
+  My god
+2022-08-03T01:48:47Z: PLAYER CHATTED [ 1043456476] NoNoJeffi            (  759.3,    62.7,  1013.0)
+  oh dam
+2022-08-03T01:48:48Z: PLAYER CHATTED [ 2299946953] yutolegandredbull    ( 2405.3,    74.3,  -654.1)
+  Yes, Sir.
+2022-08-03T01:48:49Z: PLAYER CHATTED [ 1948335522] bastipro1703         ( 2404.6,    74.3,  -647.3)
+  Yes, Sir.
+2022-08-03T01:48:50Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2386.1,    74.3,  -655.7)
+  Helicopter helicopter
+2022-08-03T01:48:51Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2377.8,    74.3,  -639.1)
+  Can you spawn the helicopter?
+2022-08-03T01:48:51Z: PLAYER ADDED   [  656559316] MackChicken2
+2022-08-03T01:48:52Z: CHRCTER ADDED  [  593787851] XCaptainShellX       (  782.5,    51.1,  1022.6)
+2022-08-03T01:48:52Z: PLAYER CHATTED [   71539109] SlugterraFan12       (  564.8,    52.6,   900.9)
+  new victims
+2022-08-03T01:48:53Z: PLAYER CHATTED [ 1043456476] NoNoJeffi            (  759.9,    62.7,  1011.6)
+  yall ded
+2022-08-03T01:48:53Z: PLAYER CHATTED [ 1033710606] archagathuss         (  770.1,    62.7,  1016.4)
+  Dont Mention This
+2022-08-03T01:48:54Z: PLAYER ADDED   [ 1600360807] jamesonTx
+2022-08-03T01:48:55Z: PLAYER CHATTED [  115806656] SherbertTheClown     (  -10.6,    74.2,   229.8)
+  Im gonna need to see some id
+2022-08-03T01:48:56Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2392.3,    74.3,  -631.3)
+  .
+2022-08-03T01:48:56Z: CHRCTER ADDED  [  115554578] FireBall8981         (  714.1,    51.1,  1034.3)
+2022-08-03T01:48:58Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2397.5,    74.3,  -649.4)
+  POTUS, move.
+2022-08-03T01:48:58Z: PLAYER CHATTED [ 1043456476] NoNoJeffi            (  761.6,    62.7,  1013.0)
+  bet'
+2022-08-03T01:48:58Z: PLAYER CHATTED [ 1545001299] federicoram1295      (  746.8,    62.7,  1006.8)
+  Oh
+2022-08-03T01:49:01Z: PLAYER REMOVED [ 1679249931] Senhor_Batata896
+2022-08-03T01:49:01Z: PLAYER CHATTED [ 1558725815] udontcow             ( 2104.9,    72.8,  -609.1)
+  VROOOOOOOOM
+2022-08-03T01:49:01Z: PLAYER CHATTED [ 1356177857] MarkTheFourth        (  -11.2,    74.5,   229.0)
+  my FACE is the ID.
+2022-08-03T01:49:03Z: PLAYER REMOVED [  326396761] KarmaSider
+2022-08-03T01:49:03Z: CHRCTER ADDED  [  656559316] MackChicken2         ( 2459.2,    74.8,  -670.3)
+2022-08-03T01:49:05Z: PLAYER CHATTED [ 1043456476] NoNoJeffi            (  761.6,    62.7,  1013.0)
+  only one thing
+2022-08-03T01:49:05Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2397.2,    74.3,  -651.0)
+  The National Guard is a reserve component of the United States military and Air force.
+2022-08-03T01:49:08Z: PLAYER CHATTED [ 1033710606] archagathuss         (  769.9,    62.7,  1016.9)
+  Shoot
+2022-08-03T01:49:10Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2392.3,    74.3,  -631.3)
+  I dont thunk anyone could rn
+2022-08-03T01:49:11Z: PLAYER CHATTED [ 1276547133] Nickja4              (  702.9,    51.5,  1001.4)
+  hey
+2022-08-03T01:49:11Z: CHRCTER ADDED  [  113793627] leito2005            ( 2523.9,    75.3,   658.4)
+2022-08-03T01:49:12Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2397.2,    74.3,  -651.0)
+  We have three regiments
+2022-08-03T01:49:13Z: CHRCTER ADDED  [   71539109] SlugterraFan12       (   89.2,    75.2,   215.7)
+2022-08-03T01:49:13Z: PLAYER CHATTED [ 1356177857] MarkTheFourth        (  -10.4,    74.5,   231.9)
+  nice job.
+2022-08-03T01:49:13Z: PLAYER CHATTED [  372112900] ajxionok             (  766.2,    62.7,  1022.4)
+  Dont tell my mommy
+2022-08-03T01:49:14Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2383.0,    74.3,  -628.5)
+  think*
+2022-08-03T01:49:14Z: PLAYER CHATTED [ 3121767066] DunkYoshizz          ( 2400.7,    74.3,  -632.2)
+  Request one.
+2022-08-03T01:49:16Z: PLAYER CHATTED [ 1356177857] MarkTheFourth        (  -10.3,    74.5,   231.9)
+  you got my car stuck.
+2022-08-03T01:49:18Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2386.6,    74.3,  -633.1)
+  Am I disturbing any of you
+2022-08-03T01:49:18Z: PLAYER CHATTED [  124868185] EclipseSider         ( 2384.3,    74.3,  -661.2)
+  Oh no.
+2022-08-03T01:49:19Z: CHRCTER ADDED  [  593787851] XCaptainShellX       (  205.2,    75.2,    49.2)
+2022-08-03T01:49:21Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2397.2,    74.3,  -651.0)
+  The 224th Regiment-Sustainment Brigade: The aviation unit of the guard. It is the only unit that can operate the fleet of Marine One.
+2022-08-03T01:49:22Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2386.7,    74.3,  -629.5)
+  im 16th regiment
+2022-08-03T01:49:22Z: PLAYER CHATTED [  124868185] EclipseSider         ( 2383.9,    74.3,  -661.4)
+  Sir
+2022-08-03T01:49:25Z: PLAYER CHATTED [ 1043456476] NoNoJeffi            (  767.3,    62.7,  1015.9)
+  if you tell me how to get a gun i wont ### lyour mommy
+2022-08-03T01:49:26Z: PLAYER CHATTED [  115806656] SherbertTheClown     (   -6.6,    74.3,   224.7)
+  Later fatboy
+2022-08-03T01:49:29Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2386.7,    74.3,  -629.5)
+  I can't
+2022-08-03T01:49:30Z: PLAYER CHATTED [ 1545001299] federicoram1295      (  757.8,    62.7,  1032.8)
+  oh no
+2022-08-03T01:49:32Z: PLAYER CHATTED [  656559316] MackChicken2         ( 2395.7,    74.3,  -657.8)
+  Perm to fall in?
+2022-08-03T01:49:33Z: PLAYER REMOVED [ 1690762933] ElonsWar
+2022-08-03T01:49:34Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2386.7,    74.3,  -629.5)
+  Even if I wanted to
+2022-08-03T01:49:34Z: PLAYER CHATTED [ 1033710606] archagathuss         (  772.1,    62.7,  1014.5)
+  I Bought P90 With Gamepass
+2022-08-03T01:49:35Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2387.6,    74.3,  -633.7)
+  Am I disturbing you guys
+2022-08-03T01:49:35Z: PLAYER CHATTED [ 1043456476] NoNoJeffi            (  768.3,    62.7,  1014.9)
+  if you tell me i wont tell your mommy
+2022-08-03T01:49:35Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2397.2,    74.3,  -651.0)
+  Denied.
+2022-08-03T01:49:37Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2386.7,    74.3,  -629.5)
+  It wont let me.
+2022-08-03T01:49:38Z: PLAYER CHATTED [  596325823] littleky0            ( 2383.5,    74.3,  -630.5)
+  POTUS.
+2022-08-03T01:49:41Z: PLAYER CHATTED [ 1033710606] archagathuss         (  772.1,    62.7,  1014.5)
+  But The Money Earned U Can Buy Guns Ingame
+2022-08-03T01:49:41Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2397.2,    74.3,  -651.0)
+  POTUS, move.
+2022-08-03T01:49:41Z: PLAYER CHATTED [  124868185] EclipseSider         ( 2383.9,    74.3,  -661.4)
+  wheres my Lt Lt General rank
+2022-08-03T01:49:41Z: PLAYER CHATTED [ 3121767066] DunkYoshizz          ( 2383.8,    74.3,  -634.3)
+  As long as you domt interfere with the training its fine.
+2022-08-03T01:49:42Z: PLAYER REMOVED [  115806656] SherbertTheClown
+2022-08-03T01:49:44Z: CHRCTER ADDED  [ 1600360807] jamesonTx            (   91.2,    75.2,    78.8)
+2022-08-03T01:49:44Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2396.0,    74.3,  -648.0)
+  CP, move.
+2022-08-03T01:49:47Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2390.8,    74.3,  -636.7)
+  Am I disturbing you
+2022-08-03T01:49:48Z: CHRCTER ADDED  [  680580157] AlessandroEColombo   (  782.5,    51.1,  1022.6)
+2022-08-03T01:49:48Z: PLAYER CHATTED [  124868185] EclipseSider         ( 2381.3,    74.3,  -663.2)
+  ser
+2022-08-03T01:49:50Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2392.5,    74.3,  -648.7)
+  Vp*
+2022-08-03T01:49:50Z: PLAYER CHATTED [ 3121767066] DunkYoshizz          ( 2388.0,    74.3,  -637.0)
+  Don't*
+2022-08-03T01:49:52Z: PLAYER ADDED   [ 2415996249] BrigadQ
+2022-08-03T01:49:53Z: PLAYER CHATTED [  596325823] littleky0            ( 2390.0,    74.3,  -639.7)
+  Please move back.
+2022-08-03T01:49:53Z: PLAYER CHATTED [ 2285595353] LordRevan108         ( 2380.8,    74.3,  -658.5)
+  July 32nd.
+2022-08-03T01:49:56Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2387.9,    74.3,  -651.5)
+  I am not ####### ####
+2022-08-03T01:49:56Z: PLAYER CHATTED [  596325823] littleky0            ( 2390.0,    74.3,  -639.7)
+  Yes.
+2022-08-03T01:49:57Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2396.3,    74.3,  -650.6)
+  The 224th Regiment-Sustainment Brigade: The aviation unit of the guard. It is the only unit that can operate the fleet of Marine One.
+2022-08-03T01:49:58Z: PLAYER CHATTED [  124868185] EclipseSider         ( 2381.3,    74.3,  -663.2)
+  LOL
+2022-08-03T01:49:58Z: PLAYER CHATTED [ 1043456476] NoNoJeffi            (  768.3,    62.7,  1014.9)
+  where i buy them
+2022-08-03T01:50:01Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2396.3,    74.3,  -650.6)
+  The 34th Regiment-Infantry Division: The main combatants of the guard.
+2022-08-03T01:50:03Z: PLAYER REMOVED [  656559316] MackChicken2
+2022-08-03T01:50:03Z: PLAYER CHATTED [ 1033710606] archagathuss         (  772.6,    62.7,  1014.7)
+  At spawn Gun Store
+2022-08-03T01:50:05Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2394.9,    74.3,  -632.7)
+  Good
+2022-08-03T01:50:05Z: PLAYER CHATTED [ 1558725815] udontcow             ( 2110.2,    74.3,  -603.5)
+  lol
+2022-08-03T01:50:08Z: PLAYER CHATTED [  596325823] littleky0            ( 2391.2,    74.3,  -636.8)
+  Please move back.
+2022-08-03T01:50:09Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2396.3,    74.3,  -650.6)
+  The 16th Regiment-Engineer Brigade: The vehicle barricade and mobility of the guard.
+2022-08-03T01:50:10Z: CHRCTER ADDED  [ 2415996249] BrigadQ              (  206.2,    75.2,   260.2)
+2022-08-03T01:50:10Z: PLAYER CHATTED [  124868185] EclipseSider         ( 2386.0,    74.3,  -658.3)
+  i already know that avatar :3
+2022-08-03T01:50:11Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2379.5,    74.3,  -622.6)
+  ok
+2022-08-03T01:50:11Z: PLAYER CHATTED [ 1545001299] federicoram1295      (  752.6,    62.7,   983.1)
+  sir come
+2022-08-03T01:50:11Z: PLAYER CHATTED [ 1393505870] jake17489i           ( 2096.0,    72.3,  -572.3)
+  .
+2022-08-03T01:50:11Z: PLAYER CHATTED [ 1043456476] NoNoJeffi            (  768.0,    62.7,  1014.4)
+  okay
+2022-08-03T01:50:12Z: CHRCTER ADDED  [ 1393505870] jake17489i           (  717.5,    51.1,  1034.3)
+2022-08-03T01:50:13Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2392.3,    74.3,  -615.0)
+  ur civ over there
+2022-08-03T01:50:14Z: PLAYER REMOVED [ 1600360807] jamesonTx
+2022-08-03T01:50:15Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2383.9,    74.3,  -620.8)
+  is gone
+2022-08-03T01:50:16Z: PLAYER ADDED   [ 2616486899] okeelgod2
+2022-08-03T01:50:16Z: CHRCTER ADDED  [ 1540689112] brendan_swainer01    (  980.5,    47.0,   869.9)
+2022-08-03T01:50:16Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2396.3,    74.3,  -650.6)
+  You can only join one regiment at once.
+2022-08-03T01:50:18Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2365.1,    74.3,  -631.6)
+  Helicopter helicopter
+2022-08-03T01:50:18Z: PLAYER CHATTED [ 1043456476] NoNoJeffi            (  768.0,    62.7,  1014.4)
+  how do i get in game bobux
+2022-08-03T01:50:21Z: PLAYER CHATTED [  124868185] EclipseSider         ( 2383.9,    74.3,  -664.5)
+  hai
+2022-08-03T01:50:22Z: PLAYER REMOVED [ 1393505870] jake17489i
+2022-08-03T01:50:22Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2396.3,    74.3,  -650.6)
+  If you wish to join another regiment, you will have to discharge from your current regiment.
+2022-08-03T01:50:24Z: PLAYER CHATTED [ 1356177857] MarkTheFourth        ( 2229.5,    74.1,  -671.0)
+  LOL
+2022-08-03T01:50:24Z: PLAYER CHATTED [ 1043456476] NoNoJeffi            (  767.6,    62.7,  1015.6)
+  me
+2022-08-03T01:50:25Z: PLAYER CHATTED [  197835308] Leviroblox2000       ( 2374.8,    74.3,  -626.3)
+  Move back mr clean
+2022-08-03T01:50:25Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2357.2,    74.3,  -627.7)
+  NOO
+2022-08-03T01:50:26Z: CHRCTER ADDED  [ 1558725815] udontcow             (  717.5,    51.1,  1034.3)
+2022-08-03T01:50:29Z: PLAYER CHATTED [ 1545001299] federicoram1295      (  764.4,    62.7,  1017.1)
+  no
+2022-08-03T01:50:29Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2323.8,    74.3,  -596.8)
+  Babushka
+2022-08-03T01:50:29Z: PLAYER CHATTED [ 1033710606] archagathuss         (  774.3,    62.7,  1014.5)
+  Just By Playing
+2022-08-03T01:50:35Z: PLAYER CHATTED [  124868185] EclipseSider         ( 2384.0,    74.3,  -663.5)
+  when u cant come to the vc im in :C
+2022-08-03T01:50:37Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2272.8,    74.3,  -524.8)
+  My babushka
+2022-08-03T01:50:38Z: PLAYER CHATTED [ 1043456476] NoNoJeffi            (  770.1,    62.7,  1015.8)
+  alr thx m
+2022-08-03T01:50:40Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2397.0,    74.3,  -651.4)
+  Regimental discharge will result in you being demoted to E2 regardless of how high you have worked your way up in a regiment.
+2022-08-03T01:50:45Z: PLAYER CHATTED [ 1043456476] NoNoJeffi            (  770.1,    62.7,  1015.8)
+  alr we got a deal i aint tellin
+2022-08-03T01:50:46Z: CHRCTER ADDED  [  680580157] AlessandroEColombo   (  782.5,    51.1,  1022.6)
+2022-08-03T01:50:49Z: PLAYER CHATTED [  197835308] Leviroblox2000       ( 2267.3,    74.3,  -521.5)
+  LOL.
+2022-08-03T01:50:50Z: PLAYER CHATTED [ 1033710606] archagathuss         (  774.3,    62.7,  1014.5)
+  Awesome
+2022-08-03T01:50:50Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2272.8,    74.3,  -524.8)
+  I will make your body clean
+2022-08-03T01:50:50Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2396.9,    74.3,  -651.1)
+  After this session you will be ranked to [E2]. When you become E2, you will be able to attend a tryout to have a chance to join one of our regiments.
+2022-08-03T01:50:56Z: CHRCTER ADDED  [  751906894] tahjdontwashcars     (   88.1,    75.2,   221.0)
+2022-08-03T01:50:58Z: PLAYER CHATTED [  197835308] Leviroblox2000       ( 2267.3,    74.3,  -521.5)
+  Sure.
+2022-08-03T01:50:58Z: CHRCTER ADDED  [ 1545001299] federicoram1295      (   87.2,    75.2,   218.8)
+2022-08-03T01:51:00Z: PLAYER ADDED   [   85428046] EJDiamond
+2022-08-03T01:51:02Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2396.9,    74.3,  -651.1)
+  As an E2 you are not allowed to open the menu at the personnel vehicles desk to spawn any vehicles, leave the base unless authorised by the required personnel, or part of an event.
+2022-08-03T01:51:02Z: PLAYER ADDED   [ 2538203285] Wartacks
+2022-08-03T01:51:09Z: PLAYER CHATTED [  596325823] littleky0            ( 2193.4,    74.6,  -659.4)
+  DUDE
+2022-08-03T01:51:11Z: CHRCTER ADDED  [  372112900] ajxionok             (  -78.0,    78.0,   132.2)
+2022-08-03T01:51:14Z: CHRCTER ADDED  [  902818755] Powie61_64           (   89.1,    75.2,    78.4)
+2022-08-03T01:51:16Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2396.8,    74.3,  -651.2)
+  Rules are strictly enforced on E2’s and you will be discharged on the spot if caught violating any of these regulations.
+2022-08-03T01:51:17Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2373.1,    74.3,  -634.1)
+  Helicopter helicopter
+2022-08-03T01:51:19Z: PLAYER REMOVED [ 1540689112] brendan_swainer01
+2022-08-03T01:51:19Z: PLAYER ADDED   [ 2563867934] Popvex1
+2022-08-03T01:51:24Z: CHRCTER ADDED  [  877081569] Yareto21384          (  -82.8,    78.0,    89.0)
+2022-08-03T01:51:25Z: CHRCTER ADDED  [  902818755] Powie61_64           (  714.1,    51.3,  1034.3)
+2022-08-03T01:51:26Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2396.8,    74.3,  -651.2)
+  Duties of the Whitehouse will be told to you relevant to which regiment you enlist in, in the future.
+2022-08-03T01:51:27Z: PLAYER ADDED   [ 1727462856] Kenziefaithg
+2022-08-03T01:51:27Z: PLAYER CHATTED [  197835308] Leviroblox2000       ( 2348.4,    74.3,  -618.6)
+  Mr clean
+2022-08-03T01:51:32Z: PLAYER REMOVED [  877081569] Yareto21384
+2022-08-03T01:51:34Z: PLAYER CHATTED [ 1558725815] udontcow             (   -3.9,    75.4,   321.6)
+  need help?
+2022-08-03T01:51:36Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2396.8,    74.3,  -651.2)
+  The National Guard adopts a different stance to mistakes, with stricter enforcement, and similarly harsher punishments.
+2022-08-03T01:51:37Z: PLAYER CHATTED [ 1558725815] udontcow             (   -3.8,    72.3,   321.6)
+  HEY
+2022-08-03T01:51:38Z: CHRCTER ADDED  [ 2563867934] Popvex1              (  717.5,    51.3,  1034.3)
+2022-08-03T01:51:38Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2320.6,    74.3,  -618.5)
+  I’m a helicopter I’m a helicopter what am I I’m not Mr. clean I’m a helicopter
+2022-08-03T01:51:39Z: PLAYER CHATTED [   71539109] SlugterraFan12       (   -3.6,    75.6,   325.4)
+  LOL
+2022-08-03T01:51:39Z: CHRCTER ADDED  [ 1558725815] udontcow             (  717.5,    51.1,  1034.3)
+2022-08-03T01:51:44Z: PLAYER REMOVED [ 1727462856] Kenziefaithg
+2022-08-03T01:51:44Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2396.8,    74.3,  -651.2)
+  Instructors always want what is best for their personnel. If they yell at you, it’s because you did something they don’t want you to do.
+2022-08-03T01:51:46Z: PLAYER REMOVED [ 1043456476] NoNoJeffi
+2022-08-03T01:51:47Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2107.2,    75.5,  -596.8)
+  W/H please
+2022-08-03T01:51:50Z: PLAYER CHATTED [ 1276547133] Nickja4              ( 2107.5,    75.4,  -592.1)
+  Hello
+2022-08-03T01:51:51Z: CHRCTER ADDED  [   85428046] EJDiamond            (  -77.0,    78.0,   137.3)
+2022-08-03T01:51:54Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2396.8,    74.3,  -651.2)
+  Simply being yelled at does not mean that an Instructor or HICOM is permanently dismayed by your behaviour, or will look at you the same way in the future.
+2022-08-03T01:52:00Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2371.2,    74.3,  -659.8)
+  Do you guys think I’m a helicopter
+2022-08-03T01:52:02Z: PLAYER CHATTED [  197835308] Leviroblox2000       ( 2342.1,    74.3,  -648.4)
+  Heli mr clean
+2022-08-03T01:52:06Z: PLAYER REMOVED [   85428046] EJDiamond
+2022-08-03T01:52:07Z: CHRCTER ADDED  [ 2538203285] Wartacks             (  215.3,    75.2,   256.6)
+2022-08-03T01:52:11Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2396.8,    74.3,  -651.2)
+  National Guard Overview;
+2022-08-03T01:52:14Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2377.5,    74.3,  -658.1)
+  ;(
+2022-08-03T01:52:16Z: PLAYER CHATTED [  247924177] DerekBarr54          ( 2120.3,    72.9,  -596.7)
+  my car
+2022-08-03T01:52:17Z: PLAYER REMOVED [  593787851] XCaptainShellX
+2022-08-03T01:52:17Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2396.8,    74.3,  -651.2)
+  SSES, MOD, Janitors, POTUS, VPOTUS, High Command or above may enter the base at any time.
+2022-08-03T01:52:18Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2377.5,    74.3,  -658.1)
+  U make me sad
+2022-08-03T01:52:19Z: PLAYER CHATTED [  247924177] DerekBarr54          ( 2113.1,    72.9,  -594.4)
+  lol
+2022-08-03T01:52:20Z: PLAYER CHATTED [  197835308] Leviroblox2000       ( 2372.5,    74.3,  -653.7)
+  LOL.
+2022-08-03T01:52:21Z: PLAYER CHATTED [  113793627] leito2005            (  564.2,    90.4,   533.3)
+  U suck
+2022-08-03T01:52:22Z: PLAYER CHATTED [   71539109] SlugterraFan12       (  567.5,    74.3,   528.8)
+  bruh my legs are slidey
+2022-08-03T01:52:23Z: PLAYER CHATTED [  247924177] DerekBarr54          ( 2135.3,    72.9,  -594.6)
+  it was stuck
+2022-08-03T01:52:24Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2419.0,    74.4,  -693.9)
+  Waaaaa
+2022-08-03T01:52:26Z: PLAYER CHATTED [  197835308] Leviroblox2000       ( 2411.9,    74.3,  -691.6)
+  jk
+2022-08-03T01:52:28Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2419.7,    74.3,  -683.7)
+  WAAAAAAAAAAAA
+2022-08-03T01:52:29Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2396.8,    74.3,  -651.2)
+  You must always respect other personnel.
+2022-08-03T01:52:29Z: PLAYER CHATTED [  197835308] Leviroblox2000       ( 2417.1,    74.3,  -686.9)
+  jk
+2022-08-03T01:52:30Z: PLAYER REMOVED [ 2616486899] okeelgod2
+2022-08-03T01:52:31Z: PLAYER CHATTED [  247924177] DerekBarr54          ( 2129.4,    72.9,  -594.6)
+  u can have it
+2022-08-03T01:52:32Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2419.7,    74.3,  -683.7)
+  AMAM
+2022-08-03T01:52:34Z: PLAYER CHATTED [   71539109] SlugterraFan12       (  563.6,    80.0,   530.1)
+  dumb a@ car glitch
+2022-08-03T01:52:34Z: PLAYER CHATTED [  197835308] Leviroblox2000       ( 2419.3,    74.3,  -686.4)
+  jk
+2022-08-03T01:52:36Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2396.8,    74.3,  -651.2)
+  The chain of command is a hierarchical system of ranking in the National Guard, used to ease allocation of responsibilities to members of administration.
+2022-08-03T01:52:37Z: PLAYER CHATTED [  197835308] Leviroblox2000       ( 2419.3,    74.3,  -686.4)
+  jk
+2022-08-03T01:52:37Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2419.0,    74.3,  -683.8)
+  I WANT MY MAMA
+2022-08-03T01:52:40Z: CHRCTER ADDED  [ 2538203285] Wartacks             (  -84.9,    78.0,    86.4)
+2022-08-03T01:52:41Z: PLAYER CHATTED [  197835308] Leviroblox2000       ( 2419.3,    74.3,  -686.4)
+  baby
+2022-08-03T01:52:42Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2418.9,    74.3,  -683.9)
+  IMA SUE U
+2022-08-03T01:52:43Z: PLAYER CHATTED [  596325823] littleky0            ( 2390.5,    74.3,  -641.0)
+  Sir.
+2022-08-03T01:52:43Z: PLAYER CHATTED [   71539109] SlugterraFan12       (  571.4,    74.3,   574.6)
+  why am i sliding around
+2022-08-03T01:52:46Z: PLAYER CHATTED [ 2285595353] LordRevan108         ( 2382.9,    74.3,  -647.7)
+  :track all
+2022-08-03T01:52:47Z: CHRCTER ADDED  [  372112900] ajxionok             (  -75.7,    78.0,   135.8)
+2022-08-03T01:52:48Z: PLAYER CHATTED [  197835308] Leviroblox2000       ( 2418.3,    74.3,  -688.5)
+  jk
+2022-08-03T01:52:49Z: PLAYER CHATTED [  197835308] Leviroblox2000       ( 2418.3,    74.3,  -688.5)
+  jk
+2022-08-03T01:52:50Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 1520.3,    74.3,  -764.0)
+  ....................
+2022-08-03T01:52:50Z: PLAYER CHATTED [  197835308] Leviroblox2000       ( 2418.3,    74.3,  -688.5)
+  jk
+2022-08-03T01:52:51Z: PLAYER CHATTED [ 1356177857] MarkTheFourth        ( 1292.9,    74.1,  -763.7)
+  OUT OF MY CAR.
+2022-08-03T01:52:53Z: CHRCTER ADDED  [   71539109] SlugterraFan12       (  214.3,    75.2,   254.1)
+2022-08-03T01:52:54Z: CHRCTER ADDED  [  113793627] leito2005            ( 2498.3,    75.3,   658.4)
+2022-08-03T01:52:54Z: PLAYER REMOVED [ 2538203285] Wartacks
+2022-08-03T01:52:55Z: PLAYER CHATTED [ 2285595353] LordRevan108         ( 2382.9,    74.3,  -647.7)
+  Yes?
+2022-08-03T01:52:56Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2418.3,    74.3,  -684.5)
+  IM SUING U
+2022-08-03T01:52:56Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2394.5,    74.3,  -651.2)
+  The chain of command is a hierarchical system of ranking in the National Guard, used to ease allocation of responsibilities to members of administration.
+2022-08-03T01:52:56Z: PLAYER CHATTED [ 1558725815] udontcow             (  561.9,    74.3,   583.6)
+  that mpd
+2022-08-03T01:52:56Z: PLAYER CHATTED [ 1356177857] MarkTheFourth        (  582.4,    74.0,  -753.2)
+  WHAT ARE U DOING
+2022-08-03T01:52:56Z: PLAYER CHATTED [  124868185] EclipseSider         ( 2386.3,    74.3,  -664.3)
+  Damnit.
+2022-08-03T01:52:58Z: PLAYER CHATTED [  240370393] soggyrollercoster4   (  345.6,    74.3,  -773.5)
+  U picked me up
+2022-08-03T01:53:00Z: PLAYER CHATTED [  596325823] littleky0            ( 2387.9,    74.3,  -643.5)
+  Could you please dome something about this Civilian?
+2022-08-03T01:53:01Z: PLAYER CHATTED [  240370393] soggyrollercoster4   (    8.8,    74.2,  -700.9)
+  i was afk for a min
+2022-08-03T01:53:01Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2394.5,    74.3,  -651.2)
+  It must be followed at all times when contacting someone regarding issues/queries to avoid a large inflow of messages to the National Guard HICOM.
+2022-08-03T01:53:02Z: PLAYER CHATTED [  197835308] Leviroblox2000       ( 2418.3,    74.3,  -688.5)
+  im blinding you.
+2022-08-03T01:53:03Z: PLAYER CHATTED [ 2285595353] LordRevan108         ( 2382.9,    74.3,  -647.7)
+  Yes.
+2022-08-03T01:53:03Z: PLAYER CHATTED [ 1558725815] udontcow             (  577.4,    74.3,   522.3)
+  killed me
+2022-08-03T01:53:05Z: PLAYER CHATTED [ 1356177857] MarkTheFourth        (   16.6,    74.1,  -269.0)
+  nope.
+2022-08-03T01:53:06Z: PLAYER CHATTED [  596325823] littleky0            ( 2387.9,    74.3,  -643.5)
+  Thanks.
+2022-08-03T01:53:07Z: PLAYER CHATTED [ 1558725815] udontcow             (  578.4,    74.3,   519.9)
+  before
+2022-08-03T01:53:09Z: PLAYER ADDED   [  178713901] Dkooy2
+2022-08-03T01:53:10Z: PLAYER CHATTED [ 2563867934] Popvex1              (  574.7,    74.3,   518.7)
+  SA.
+2022-08-03T01:53:10Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2395.5,    74.3,  -651.0)
+  As an E2, you are expected to have a realistic avatar whenever you are on duty.
+2022-08-03T01:53:11Z: CHRCTER ADDED  [  240370393] soggyrollercoster4   ( 2437.9,    74.8,  -670.3)
+2022-08-03T01:53:11Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2418.4,    74.3,  -678.5)
+  Well I have sunglasses
+2022-08-03T01:53:12Z: PLAYER ADDED   [  913084106] romigamer117
+2022-08-03T01:53:13Z: PLAYER CHATTED [ 2285595353] LordRevan108         ( 2382.9,    74.3,  -647.7)
+  :view tack
+2022-08-03T01:53:15Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2418.4,    74.3,  -678.5)
+  But you don’t
+2022-08-03T01:53:17Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2395.5,    74.3,  -651.0)
+  Therefore, your accessories must be in order with the basic uniform regulations.
+2022-08-03T01:53:17Z: PLAYER CHATTED [ 2563867934] Popvex1              (  577.0,    74.3,   517.8)
+  You know that revenge killing is not tolerated.
+2022-08-03T01:53:18Z: PLAYER CHATTED [  197835308] Leviroblox2000       ( 2418.0,    74.3,  -681.4)
+  Takes them
+2022-08-03T01:53:20Z: CHRCTER ADDED  [  178713901] Dkooy2               (  774.6,    51.1,  1028.3)
+2022-08-03T01:53:20Z: PLAYER CHATTED [ 2285595353] LordRevan108         ( 2382.9,    74.3,  -647.7)
+  :untrack al
+2022-08-03T01:53:21Z: PLAYER CHATTED [ 1558725815] udontcow             (  582.0,    74.3,   521.2)
+  ye
+2022-08-03T01:53:22Z: PLAYER CHATTED [ 1276547133] Nickja4              (  115.2,    75.8,  1401.4)
+  uh oh..
+2022-08-03T01:53:23Z: PLAYER CHATTED [ 2285595353] LordRevan108         ( 2382.9,    74.3,  -647.7)
+  :untrack all
+2022-08-03T01:53:24Z: PLAYER CHATTED [ 1558725815] udontcow             (  582.0,    74.3,   521.2)
+  he attacked again
+2022-08-03T01:53:25Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2395.5,    74.3,  -651.0)
+  Anything I need to repeat?
+2022-08-03T01:53:26Z: PLAYER CHATTED [  902818755] Powie61_64           (  574.5,    74.3,   516.2)
+  How do I shoot
+2022-08-03T01:53:26Z: PLAYER CHATTED [ 1558725815] udontcow             (  582.0,    74.3,   521.2)
+  ar u blnid
+2022-08-03T01:53:29Z: PLAYER CHATTED [ 1276547133] Nickja4              (  119.5,    74.7,  1395.5)
+  oops
+2022-08-03T01:53:31Z: PLAYER CHATTED [ 1558725815] udontcow             (  582.0,    74.3,   521.2)
+  he battoned me
+2022-08-03T01:53:32Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2415.1,    74.3,  -677.6)
+  Bigger sun glass
+2022-08-03T01:53:33Z: PLAYER CHATTED [ 1475221456] ArkVorhut            ( 2405.0,    74.3,  -650.6)
+  No, Sir.
+2022-08-03T01:53:34Z: CHRCTER ADDED  [  837950418] CoolThunderLion50    (  -82.5,    78.0,   132.0)
+2022-08-03T01:53:35Z: PLAYER CHATTED [ 2563867934] Popvex1              (  579.5,    74.3,   519.9)
+  Oh.
+2022-08-03T01:53:36Z: CHRCTER ADDED  [  913084106] romigamer117         (  -80.6,    78.0,   130.4)
+2022-08-03T01:53:36Z: PLAYER CHATTED [ 1276547133] Nickja4              (  194.2,    74.3,  1419.9)
+  welp
+2022-08-03T01:53:38Z: PLAYER CHATTED [ 2299946953] yutolegandredbull    ( 2405.3,    74.3,  -654.1)
+  No, Sir.
+2022-08-03T01:53:39Z: PLAYER CHATTED [  197835308] Leviroblox2000       ( 2414.9,    74.3,  -681.7)
+  Its burning your bald head
+2022-08-03T01:53:39Z: PLAYER CHATTED [ 1033710606] archagathuss         (  771.3,    62.8,  1026.4)
+  Big Washington The Dj In The Back
+2022-08-03T01:53:43Z: PLAYER CHATTED [ 1948335522] bastipro1703         ( 2404.6,    74.3,  -647.3)
+  No, Sir.
+2022-08-03T01:53:45Z: PLAYER ADDED   [ 2840066107] kingreal767
+2022-08-03T01:53:45Z: PLAYER CHATTED [   71539109] SlugterraFan12       (  639.8,    74.5,   471.9)
+  Z
+2022-08-03T01:53:45Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2414.2,    74.3,  -676.3)
+  Dodgers
+2022-08-03T01:53:48Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2397.2,    74.3,  -651.0)
+  Good.,
+2022-08-03T01:53:49Z: PLAYER ADDED   [  877081569] Yareto21384
+2022-08-03T01:53:51Z: PLAYER CHATTED [   71539109] SlugterraFan12       (  623.4,    74.5,   452.1)
+  EZ
+2022-08-03T01:53:57Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2397.2,    74.3,  -651.0)
+  Now, you will be taking your exam.
+2022-08-03T01:53:58Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2412.8,    74.3,  -676.5)
+  I dogged
+2022-08-03T01:53:59Z: CHRCTER ADDED  [  115554578] FireBall8981         (  714.1,    51.1,  1034.3)
+2022-08-03T01:54:01Z: PLAYER CHATTED [  197835308] Leviroblox2000       ( 2414.9,    74.3,  -681.7)
+  Take a key to the but
+2022-08-03T01:54:01Z: PLAYER REMOVED [ 1276547133] Nickja4
+2022-08-03T01:54:06Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2412.8,    74.3,  -676.5)
+  SHH
+2022-08-03T01:54:06Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2397.2,    74.3,  -651.0)
+  Everyone ping me in the RSP chatroom
+2022-08-03T01:54:07Z: CHRCTER ADDED  [  372112900] ajxionok             (  -82.7,    78.0,    91.7)
+2022-08-03T01:54:08Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2409.1,    74.3,  -672.0)
+  AHHHH
+2022-08-03T01:54:14Z: PLAYER CHATTED [ 1033710606] archagathuss         (  756.9,    62.7,  1013.0)
+  Uh Oh
+2022-08-03T01:54:24Z: CHRCTER ADDED  [ 1356177857] MarkTheFourth        (   88.2,    75.2,   222.1)
+2022-08-03T01:54:24Z: PLAYER CHATTED [ 1033710606] archagathuss         (  774.1,    62.7,  1030.9)
+  Lol
+2022-08-03T01:54:27Z: CHRCTER ADDED  [  178713901] Dkooy2               (  782.5,    51.1,  1022.6)
+2022-08-03T01:54:30Z: PLAYER CHATTED [ 1033710606] archagathuss         (  771.3,    62.8,  1023.7)
+  Poor Guy
+2022-08-03T01:54:31Z: PLAYER CHATTED [ 1285163299] LegolasApeiros       ( 2381.1,    74.3,  -644.4)
+  Please step back.
+2022-08-03T01:54:31Z: PLAYER CHATTED [ 1948335522] bastipro1703         ( 2404.6,    74.3,  -648.3)
+  Permission to leave.
+2022-08-03T01:54:32Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2397.2,    74.3,  -651.0)
+  Don't start
+2022-08-03T01:54:33Z: PLAYER CHATTED [ 1545001299] federicoram1295      (  755.1,    62.7,  1011.2)
+  hi
+2022-08-03T01:54:35Z: PLAYER CHATTED [  596325823] littleky0            ( 2403.9,    74.3,  -634.2)
+  VP.
+2022-08-03T01:54:35Z: PLAYER CHATTED [   71539109] SlugterraFan12       (  415.8,    75.0,   498.6)
+  IN
+2022-08-03T01:54:35Z: PLAYER CHATTED [ 1948335522] bastipro1703         ( 2404.6,    74.3,  -648.3)
+  I need sleep
+2022-08-03T01:54:36Z: PLAYER CHATTED [  443938094] CrazyTroller93       (  759.7,    62.7,  1033.5)
+  hei
+2022-08-03T01:54:36Z: PLAYER CHATTED [ 1033710606] archagathuss         (  771.3,    62.8,  1023.7)
+  Hi
+2022-08-03T01:54:37Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2399.2,    74.3,  -648.0)
+  Why?
+2022-08-03T01:54:38Z: CHRCTER ADDED  [ 2415996249] BrigadQ              (   86.8,    75.2,   222.3)
+2022-08-03T01:54:38Z: PLAYER CHATTED [  124868185] EclipseSider         ( 2381.6,    74.3,  -650.8)
+  Revan.
+2022-08-03T01:54:43Z: PLAYER CHATTED [  443938094] CrazyTroller93       (  759.7,    62.7,  1033.5)
+  sh
+2022-08-03T01:54:44Z: PLAYER CHATTED [  596325823] littleky0            ( 2408.4,    74.3,  -638.8)
+  Please back up.
+2022-08-03T01:54:45Z: PLAYER CHATTED [  113793627] leito2005            (  634.2,    74.7,   481.4)
+  Nice driving
+2022-08-03T01:54:45Z: PLAYER CHATTED [  124868185] EclipseSider         ( 2381.6,    74.3,  -650.8)
+  Can I stay?
+2022-08-03T01:54:46Z: PLAYER CHATTED [ 1948335522] bastipro1703         ( 2404.6,    74.3,  -648.3)
+  Sorry sir.
+2022-08-03T01:54:46Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2409.6,    74.3,  -636.8)
+  No
+2022-08-03T01:54:47Z: PLAYER CHATTED [  443938094] CrazyTroller93       (  759.7,    62.7,  1033.5)
+  we are having a party
+2022-08-03T01:54:49Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2400.0,    74.3,  -648.0)
+  Ok, well you know you can't carry on from here.
+2022-08-03T01:54:50Z: PLAYER CHATTED [ 2285595353] LordRevan108         ( 2382.1,    74.3,  -647.7)
+  Stay here?
+2022-08-03T01:54:50Z: PLAYER CHATTED [ 1948335522] bastipro1703         ( 2404.6,    74.3,  -648.3)
+  i anote all.
+2022-08-03T01:54:51Z: PLAYER CHATTED [  596325823] littleky0            ( 2408.4,    74.3,  -638.8)
+  Yes.
+2022-08-03T01:54:52Z: PLAYER CHATTED [ 1033710606] archagathuss         (  774.1,    62.7,  1018.8)
+  Yes
+2022-08-03T01:54:52Z: PLAYER CHATTED [ 1545001299] federicoram1295      (  759.9,    62.7,  1012.7)
+  oh sorry
+2022-08-03T01:54:53Z: PLAYER CHATTED [ 2285595353] LordRevan108         ( 2382.1,    74.3,  -647.7)
+  where?
+2022-08-03T01:54:57Z: CHRCTER ADDED  [ 1508163068] itslowuen2           (  -84.9,    78.0,   128.8)
+2022-08-03T01:54:57Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2409.6,    74.3,  -636.8)
+  Am the VIP you are a maggot on my shoe
+2022-08-03T01:54:57Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2409.6,    74.3,  -636.8)
+  n
+2022-08-03T01:54:57Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2406.2,    74.3,  -635.5)
+  yes
+2022-08-03T01:54:58Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2409.6,    74.3,  -636.8)
+  o
+2022-08-03T01:54:58Z: PLAYER CHATTED [ 1948335522] bastipro1703         ( 2404.6,    74.3,  -648.3)
+  wait
+2022-08-03T01:54:58Z: PLAYER CHATTED [  124868185] EclipseSider         ( 2381.6,    74.3,  -650.8)
+  /Like wedge behind u
+2022-08-03T01:54:59Z: PLAYER CHATTED [   71539109] SlugterraFan12       (  958.5,    74.5,   477.6)
+  well americans put these things in the road
+2022-08-03T01:55:01Z: PLAYER REMOVED [ 1508163068] itslowuen2
+2022-08-03T01:55:02Z: PLAYER CHATTED [  972943233] NotTinted            ( 2409.8,    74.3,  -634.8)
+  .
+2022-08-03T01:55:02Z: PLAYER CHATTED [   71539109] SlugterraFan12       (  959.5,    74.5,   477.0)
+  so that says more about you
+2022-08-03T01:55:04Z: PLAYER CHATTED [  596325823] littleky0            ( 2408.4,    74.3,  -638.8)
+  Back up.
+2022-08-03T01:55:05Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2406.2,    74.3,  -635.5)
+  u get out
+2022-08-03T01:55:05Z: PLAYER CHATTED [ 1948335522] bastipro1703         ( 2404.6,    74.3,  -648.3)
+  what time your put the e2?
+2022-08-03T01:55:05Z: PLAYER CHATTED [ 2285595353] LordRevan108         ( 2382.1,    74.3,  -647.7)
+  they enforce protection.
+2022-08-03T01:55:05Z: PLAYER ADDED   [   66042536] Kvngjay01
+2022-08-03T01:55:06Z: PLAYER CHATTED [  596325823] littleky0            ( 2408.4,    74.3,  -638.8)
+  Now!
+2022-08-03T01:55:07Z: CHRCTER ADDED  [  902818755] Powie61_64           (  714.1,    51.1,  1034.3)
+2022-08-03T01:55:10Z: PLAYER CHATTED [  972943233] NotTinted            ( 2409.8,    74.3,  -634.8)
+  Listen to your orders or leave the base.
+2022-08-03T01:55:11Z: PLAYER REMOVED [ 2840066107] kingreal767
+2022-08-03T01:55:11Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2406.2,    74.3,  -635.5)
+  I’m the president and u are useless
+2022-08-03T01:55:13Z: CHRCTER ADDED  [  178713901] Dkooy2               (  774.6,    51.1,  1028.3)
+2022-08-03T01:55:13Z: CHRCTER ADDED  [  837950418] CoolThunderLion50    (  -80.1,    78.0,   129.7)
+2022-08-03T01:55:14Z: PLAYER ADDED   [ 1818902597] AntIronsides
+2022-08-03T01:55:15Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2410.4,    74.3,  -635.5)
+  no maggot
+2022-08-03T01:55:15Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2400.0,    74.3,  -648.0)
+  Don't begin.
+2022-08-03T01:55:16Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2406.2,    74.3,  -635.5)
+  So leave
+2022-08-03T01:55:17Z: CHRCTER ADDED  [ 2563867934] Popvex1              (  717.5,    51.1,  1034.3)
+2022-08-03T01:55:17Z: PLAYER REMOVED [ 2415996249] BrigadQ
+2022-08-03T01:55:20Z: PLAYER CHATTED [  596325823] littleky0            ( 2389.8,    74.3,  -646.6)
+  Sir.
+2022-08-03T01:55:21Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2408.2,    74.3,  -636.8)
+  get out of here ### #####
+2022-08-03T01:55:22Z: PLAYER CHATTED [ 3121767066] DunkYoshizz          ( 2405.6,    74.3,  -631.8)
+  Just use force.
+2022-08-03T01:55:22Z: CHRCTER ADDED  [ 1818902597] AntIronsides         ( 2437.9,    74.8,  -653.3)
+2022-08-03T01:55:23Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2408.2,    74.3,  -636.8)
+  Joe
+2022-08-03T01:55:23Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2400.0,    74.3,  -648.1)
+  You won't rank up.
+2022-08-03T01:55:24Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2408.2,    74.3,  -636.8)
+  bide
+2022-08-03T01:55:24Z: PLAYER CHATTED [  124868185] EclipseSider         ( 2381.9,    74.3,  -653.1)
+  ## I'm not gonna do anything :/
+2022-08-03T01:55:24Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2408.2,    74.3,  -636.8)
+  #
+2022-08-03T01:55:25Z: PLAYER CHATTED [ 2285595353] LordRevan108         ( 2383.5,    74.3,  -647.7)
+  Yes Sergeant?
+2022-08-03T01:55:26Z: PLAYER CHATTED [ 1545001299] federicoram1295      (  910.9,    65.5,  1010.1)
+  oh cra
+2022-08-03T01:55:27Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2400.0,    74.3,  -648.1)
+  Your leaving.
+2022-08-03T01:55:30Z: PLAYER CHATTED [ 1033710606] archagathuss         (  771.3,    62.8,  1023.7)
+  Nah That Guy Is Up2 Something
+2022-08-03T01:55:30Z: PLAYER CHATTED [  972943233] NotTinted            ( 2410.0,    72.3,  -631.9)
+  .
+2022-08-03T01:55:30Z: PLAYER CHATTED [ 1948335522] bastipro1703         ( 2404.6,    74.3,  -648.3)
+  Yes.
+2022-08-03T01:55:32Z: PLAYER ADDED   [ 2840066107] kingreal767
+2022-08-03T01:55:34Z: PLAYER CHATTED [  596325823] littleky0            ( 2387.1,    74.3,  -651.0)
+  The VP wont leave the training ground.
+2022-08-03T01:55:34Z: CHRCTER ADDED  [  972943233] NotTinted            ( 2437.9,    74.8,  -670.3)
+2022-08-03T01:55:35Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2397.3,    74.3,  -656.5)
+  I finished my RSP Instructor Training.
+2022-08-03T01:55:35Z: PLAYER CHATTED [ 1948335522] bastipro1703         ( 2404.6,    74.3,  -648.3)
+  Bye. sir.
+2022-08-03T01:55:38Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2400.0,    74.3,  -648.1)
+  Bye.
+2022-08-03T01:55:39Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2409.2,    74.3,  -637.1)
+  Hi sleepy joe
+2022-08-03T01:55:41Z: PLAYER CHATTED [ 2285595353] LordRevan108         ( 2383.5,    74.3,  -647.7)
+  I see.
+2022-08-03T01:55:41Z: PLAYER CHATTED [  972943233] NotTinted            ( 2411.5,    74.3,  -636.0)
+  Leave.
+2022-08-03T01:55:41Z: PLAYER CHATTED [ 1948335522] bastipro1703         ( 2404.6,    74.3,  -648.3)
+  im in the session
+2022-08-03T01:55:42Z: CHRCTER ADDED  [   66042536] Kvngjay01            (  -77.6,    78.0,    94.2)
+2022-08-03T01:55:42Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2400.0,    74.3,  -659.3)
+  We were all called dumb.
+2022-08-03T01:55:44Z: PLAYER REMOVED [ 1948335522] bastipro1703
+2022-08-03T01:55:49Z: PLAYER CHATTED [  197835308] Leviroblox2000       ( 2398.5,    74.3,  -618.0)
+  president wanna be a #########
+2022-08-03T01:55:49Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2407.1,    74.3,  -635.9)
+  You killed a n g really
+2022-08-03T01:55:50Z: PLAYER CHATTED [  596325823] littleky0            ( 2387.1,    74.3,  -651.0)
+  We told it him multiple times.
+2022-08-03T01:55:50Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2409.4,    74.3,  -636.8)
+  no
+2022-08-03T01:55:51Z: PLAYER CHATTED [ 1558725815] udontcow             ( 2104.5,    74.3,  -597.0)
+  hey
+2022-08-03T01:55:52Z: PLAYER CHATTED [ 2285595353] LordRevan108         ( 2404.5,    74.3,  -639.2)
+  Stop disturbing the training.
+2022-08-03T01:55:53Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2408.4,    74.3,  -636.7)
+  no
+2022-08-03T01:55:54Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2407.1,    74.3,  -635.9)
+  Peasant
+2022-08-03T01:55:55Z: PLAYER CHATTED [ 1033710606] archagathuss         (  792.2,    63.8,  1037.7)
+  Idk
+2022-08-03T01:55:56Z: CHRCTER ADDED  [  913084106] romigamer117         (  212.2,    75.2,    44.8)
+2022-08-03T01:55:58Z: PLAYER CHATTED [  197835308] Leviroblox2000       ( 2405.3,    74.3,  -635.2)
+  #########
+2022-08-03T01:55:58Z: PLAYER CHATTED [ 2285595353] LordRevan108         ( 2404.9,    74.3,  -637.7)
+  Leave.
+2022-08-03T01:55:59Z: PLAYER CHATTED [ 1033710606] archagathuss         (  792.4,    63.8,  1038.1)
+  No
+2022-08-03T01:55:59Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2400.1,    74.3,  -653.0)
+  You have 15 minutes to complete the exam. Once finished DM me or tell me in chat.
+2022-08-03T01:55:59Z: CHRCTER ADDED  [  751906894] tahjdontwashcars     (   86.4,    75.2,    82.2)
+2022-08-03T01:56:01Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2400.1,    74.3,  -653.0)
+  Begin.
+2022-08-03T01:56:01Z: PLAYER CHATTED [ 2285595353] LordRevan108         ( 2403.8,    74.3,  -636.7)
+  Now.
+2022-08-03T01:56:05Z: PLAYER CHATTED [ 2285595353] LordRevan108         ( 2394.7,    74.3,  -628.9)
+  Get going.
+2022-08-03T01:56:06Z: PLAYER CHATTED [ 2285595353] LordRevan108         ( 2394.7,    74.3,  -628.9)
+  .
+2022-08-03T01:56:07Z: PLAYER CHATTED [ 2285595353] LordRevan108         ( 2394.7,    74.3,  -628.9)
+  :jail %vice
+2022-08-03T01:56:08Z: PLAYER REMOVED [  913084106] romigamer117
+2022-08-03T01:56:08Z: CHRCTER ADDED  [  178713901] Dkooy2               (  774.6,    51.1,  1028.3)
+2022-08-03T01:56:09Z: PLAYER REMOVED [ 2689527647] moneyredloan1
+2022-08-03T01:56:16Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2350.2,    76.7,  -581.6)
+  don't call me
+2022-08-03T01:56:17Z: PLAYER CHATTED [ 1558725815] udontcow             ( 2104.9,    74.3,  -600.7)
+  dont do that with my car
+2022-08-03T01:56:17Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2350.2,    76.7,  -581.6)
+  a
+2022-08-03T01:56:22Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2350.2,    76.7,  -581.6)
+  idiot
+2022-08-03T01:56:24Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2350.2,    76.7,  -581.6)
+  #### ###
+2022-08-03T01:56:25Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2338.3,    74.3,  -588.1)
+  Looks like you’re going to jail for killing the n g and tool abuse
+2022-08-03T01:56:28Z: CHRCTER ADDED  [ 2840066107] kingreal767          (  714.1,    51.3,  1034.3)
+2022-08-03T01:56:30Z: PLAYER CHATTED [ 2285595353] LordRevan108         ( 2356.7,    74.3,  -586.2)
+  :admins
+2022-08-03T01:56:30Z: PLAYER CHATTED [ 1033710606] archagathuss         (  779.3,    62.7,  1034.3)
+  Crap P olice
+2022-08-03T01:56:31Z: PLAYER REMOVED [  680580157] AlessandroEColombo
+2022-08-03T01:56:31Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2350.2,    76.7,  -581.6)
+  i never shot ##
+2022-08-03T01:56:33Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2350.2,    76.7,  -581.6)
+  n
+2022-08-03T01:56:33Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2343.0,    74.3,  -584.3)
+  Have fun
+2022-08-03T01:56:33Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2350.2,    76.7,  -581.6)
+  g
+2022-08-03T01:56:39Z: CHRCTER ADDED  [  877081569] Yareto21384          ( 2459.2,    74.7,  -653.3)
+2022-08-03T01:56:39Z: PLAYER ADDED   [  216671816] TheDepthsOfHades
+2022-08-03T01:56:39Z: CHRCTER ADDED  [ 1033710606] archagathuss         (  -79.9,    78.0,   130.1)
+2022-08-03T01:56:43Z: PLAYER CHATTED [ 2285595353] LordRevan108         ( 2356.7,    74.3,  -586.2)
+  Stop abusing at the base.
+2022-08-03T01:56:43Z: CHRCTER ADDED  [  178713901] Dkooy2               (  774.6,    51.1,  1028.3)
+2022-08-03T01:56:45Z: CHRCTER ADDED  [   66042536] Kvngjay01            (  717.5,    51.3,  1034.3)
+2022-08-03T01:56:47Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2354.2,    76.7,  -584.6)
+  ok
+2022-08-03T01:56:49Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2344.3,    74.3,  -585.1)
+  Rot in prison
+2022-08-03T01:56:52Z: CHRCTER ADDED  [  837950418] CoolThunderLion50    (  -84.5,    78.0,   134.0)
+2022-08-03T01:56:52Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2353.7,    76.7,  -585.1)
+  mb
+2022-08-03T01:57:01Z: PLAYER CHATTED [  247924177] DerekBarr54          ( 2085.7,    74.3,  -614.7)
+  Mod
+2022-08-03T01:57:02Z: CHRCTER ADDED  [  751906894] tahjdontwashcars     ( 2437.9,    74.7,  -653.3)
+2022-08-03T01:57:07Z: PLAYER CHATTED [  596325823] littleky0            ( 2097.3,    74.3,  -612.1)
+  Please dont get inside the gates.
+2022-08-03T01:57:07Z: PLAYER CHATTED [  247924177] DerekBarr54          ( 2089.9,    74.3,  -604.3)
+  Can u kick the rker
+2022-08-03T01:57:11Z: PLAYER CHATTED [  355338729] Tackthree            ( 2088.8,    73.0,  -616.0)
+  Who?
+2022-08-03T01:57:14Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2397.4,    74.3,  -651.7)
+  Fall out.
+2022-08-03T01:57:16Z: PLAYER CHATTED [  247924177] DerekBarr54          ( 2087.3,    74.3,  -605.3)
+  him
+2022-08-03T01:57:17Z: CHRCTER ADDED  [ 2563867934] Popvex1              (  714.1,    51.1,  1034.3)
+2022-08-03T01:57:20Z: PLAYER CHATTED [  113793627] leito2005            (  820.4,    62.6,   910.7)
+  ##########
+2022-08-03T01:57:21Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2353.7,    76.7,  -584.5)
+  my
+2022-08-03T01:57:22Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2353.7,    76.7,  -584.5)
+  ad
+2022-08-03T01:57:23Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2353.7,    76.7,  -584.5)
+  bad
+2022-08-03T01:57:23Z: CHRCTER ADDED  [  178713901] Dkooy2               (  774.6,    51.1,  1028.3)
+2022-08-03T01:57:25Z: PLAYER CHATTED [  355338729] Tackthree            ( 2088.8,    73.0,  -616.0)
+  Ic an't without proof.
+2022-08-03T01:57:25Z: PLAYER CHATTED [  247924177] DerekBarr54          ( 2082.5,    74.3,  -619.8)
+  nlue car
+2022-08-03T01:57:25Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2400.4,    74.3,  -658.5)
+  I will do another RSP after this.
+2022-08-03T01:57:26Z: PLAYER CHATTED [   71539109] SlugterraFan12       (  803.0,    63.8,   904.4)
+  god bless america
+2022-08-03T01:57:27Z: PLAYER CHATTED [  596325823] littleky0            ( 2096.3,    74.3,  -612.2)
+  wait.
+2022-08-03T01:57:29Z: CHRCTER ADDED  [  902818755] Powie61_64           (  714.1,    51.1,  1034.3)
+2022-08-03T01:57:30Z: PLAYER CHATTED [  247924177] DerekBarr54          ( 2082.0,    74.3,  -617.7)
+  watch
+2022-08-03T01:57:32Z: PLAYER CHATTED [ 1285163299] LegolasApeiros       ( 2356.1,    74.3,  -589.4)
+  Please step back.
+2022-08-03T01:57:33Z: PLAYER CHATTED [ 2285595353] LordRevan108         ( 2356.7,    74.3,  -586.2)
+  :unjail %vice
+2022-08-03T01:57:35Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2395.9,    74.3,  -651.4)
+  AntI
+2022-08-03T01:57:35Z: PLAYER CHATTED [ 2285595353] LordRevan108         ( 2356.7,    74.3,  -586.2)
+  :re %vice
+2022-08-03T01:57:35Z: CHRCTER ADDED  [ 2482149738] ImagineBeingRatioed  (  641.7,    62.7,   965.7)
+2022-08-03T01:57:38Z: PLAYER CHATTED [  596325823] littleky0            ( 2094.3,    74.3,  -613.1)
+  Can you do something about him?
+2022-08-03T01:57:38Z: PLAYER CHATTED [ 1356177857] MarkTheFourth        ( 2095.2,    74.3,  -610.3)
+  are you accusing me pal
+2022-08-03T01:57:38Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2388.6,    74.3,  -639.9)
+  ?
+2022-08-03T01:57:39Z: PLAYER CHATTED [ 2285595353] LordRevan108         ( 2353.7,    74.3,  -601.2)
+  Please leave.
+2022-08-03T01:57:41Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2395.9,    74.3,  -651.4)
+  Wan't to co host RSP with m,
+2022-08-03T01:57:42Z: CHRCTER ADDED  [ 1545001299] federicoram1295      (  211.8,    75.2,   255.4)
+2022-08-03T01:57:43Z: PLAYER CHATTED [  247924177] DerekBarr54          ( 2089.0,    74.3,  -605.3)
+  .
+2022-08-03T01:57:43Z: CHRCTER ADDED  [   66042536] Kvngjay01            (  717.5,    51.1,  1034.3)
+2022-08-03T01:57:43Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2395.9,    74.3,  -651.4)
+  me*
+2022-08-03T01:57:44Z: PLAYER ADDED   [ 3645043802] Jjcckkllmmnnoopp
+2022-08-03T01:57:45Z: PLAYER CHATTED [ 1356177857] MarkTheFourth        ( 2090.7,    74.3,  -607.7)
+  i havent done ANYTHING
+2022-08-03T01:57:46Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2395.9,    74.3,  -651.4)
+  After this one.
+2022-08-03T01:57:47Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2346.2,    74.3,  -607.4)
+  leave the n g base
+2022-08-03T01:57:49Z: PLAYER CHATTED [  113793627] leito2005            (  816.9,    62.7,   913.5)
+  Come
+2022-08-03T01:57:49Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2388.6,    74.3,  -639.9)
+  Sure
+2022-08-03T01:57:50Z: PLAYER CHATTED [ 2285595353] LordRevan108         ( 2347.9,    74.3,  -604.5)
+  Correct.
+2022-08-03T01:57:51Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2395.9,    74.3,  -651.4)
+  OK.
+2022-08-03T01:57:52Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2388.6,    74.3,  -639.9)
+  But I don't have the guide.
+2022-08-03T01:57:54Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2395.9,    74.3,  -651.4)
+  Ok.*
+2022-08-03T01:57:55Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2346.2,    74.3,  -607.4)
+  ok bye
+2022-08-03T01:57:56Z: PLAYER REMOVED [ 3645043802] Jjcckkllmmnnoopp
+2022-08-03T01:57:56Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2389.4,    74.3,  -642.5)
+  Yet
+2022-08-03T01:57:57Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2391.3,    74.3,  -648.3)
+  I'll send it
+2022-08-03T01:58:01Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2405.9,    74.3,  -605.9)
+  epic music
+2022-08-03T01:58:02Z: CHRCTER ADDED  [  178713901] Dkooy2               (  782.5,    51.1,  1022.6)
+2022-08-03T01:58:08Z: PLAYER CHATTED [  902818755] Powie61_64           (  706.1,    51.5,  1002.8)
+  How do I shoot
+2022-08-03T01:58:10Z: PLAYER ADDED   [ 2291652094] Good_Alexx
+2022-08-03T01:58:11Z: PLAYER CHATTED [  197835308] Leviroblox2000       ( 2277.8,    74.3,  -616.6)
+  bye
+2022-08-03T01:58:14Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2210.3,    74.6,  -614.6)
+  See u later
+2022-08-03T01:58:14Z: PLAYER REMOVED [ 3121767066] DunkYoshizz
+2022-08-03T01:58:15Z: PLAYER CHATTED [ 1558725815] udontcow             ( 2110.8,    74.3,  -597.9)
+  hey
+2022-08-03T01:58:16Z: PLAYER CHATTED [  113793627] leito2005            (  783.1,    62.9,  1026.9)
+  Queen come in
+2022-08-03T01:58:18Z: PLAYER CHATTED [  355338729] Tackthree            ( 2415.4,    74.3,  -601.6)
+  Sulates
+2022-08-03T01:58:19Z: CHRCTER ADDED  [ 2291652094] Good_Alexx           (  774.6,    51.1,  1028.3)
+2022-08-03T01:58:19Z: PLAYER CHATTED [  178713901] Dkooy2               (  730.8,    51.5,   984.0)
+  Click.
+2022-08-03T01:58:20Z: PLAYER CHATTED [  247924177] DerekBarr54          ( 2090.7,    75.4,  -645.2)
+  ?
+2022-08-03T01:58:21Z: PLAYER CHATTED [ 1558725815] udontcow             ( 2098.4,    74.3,  -632.9)
+  my car
+2022-08-03T01:58:23Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2411.5,    74.3,  -600.4)
+  .
+2022-08-03T01:58:24Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2391.6,    74.3,  -644.6)
+  I need access.
+2022-08-03T01:58:26Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2234.8,    74.3,  -611.4)
+  E/ goodbye
+2022-08-03T01:58:28Z: PLAYER CHATTED [  197835308] Leviroblox2000       ( 2241.6,    74.3,  -609.8)
+  mr clean
+2022-08-03T01:58:29Z: PLAYER CHATTED [  902818755] Powie61_64           (  727.3,    51.5,   982.1)
+  I am
+2022-08-03T01:58:31Z: CHRCTER ADDED  [ 2291652094] Good_Alexx           (  774.6,    51.1,  1028.3)
+2022-08-03T01:58:31Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2397.4,    74.3,  -651.7)
+  Oh, ask Revan.
+2022-08-03T01:58:32Z: PLAYER CHATTED [ 1558725815] udontcow             ( 2104.6,    74.3,  -632.1)
+  what are u gonna do
+2022-08-03T01:58:34Z: PLAYER CHATTED [  113793627] leito2005            (  684.0,    64.2,  1062.3)
+  Come
+2022-08-03T01:58:34Z: PLAYER CHATTED [  902818755] Powie61_64           (  727.4,    51.5,   981.4)
+  I play on iPad
+2022-08-03T01:58:36Z: CHRCTER ADDED  [   66042536] Kvngjay01            (  714.1,    51.1,  1034.3)
+2022-08-03T01:58:37Z: PLAYER CHATTED [  197835308] Leviroblox2000       ( 2240.4,    74.3,  -609.7)
+  jk
+2022-08-03T01:58:39Z: PLAYER REMOVED [  216671816] TheDepthsOfHades
+2022-08-03T01:58:39Z: PLAYER CHATTED [  197835308] Leviroblox2000       ( 2240.4,    74.3,  -609.7)
+  jk
+2022-08-03T01:58:39Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2234.8,    74.3,  -611.4)
+  I’m sorry about this
+2022-08-03T01:58:39Z: PLAYER CHATTED [ 1356177857] MarkTheFourth        ( 2079.9,    75.6,  -649.2)
+  sup
+2022-08-03T01:58:40Z: PLAYER CHATTED [  197835308] Leviroblox2000       ( 2240.4,    74.3,  -609.7)
+  jk
+2022-08-03T01:58:43Z: PLAYER CHATTED [ 1033710606] archagathuss         (  771.3,    62.8,  1021.3)
+  Battle Of The White House
+2022-08-03T01:58:44Z: PLAYER CHATTED [  113793627] leito2005            (  778.3,    62.6,  1105.3)
+  Help
+2022-08-03T01:58:45Z: PLAYER CHATTED [  247924177] DerekBarr54          ( 2067.8,    75.8,  -708.3)
+  Get out
+2022-08-03T01:58:49Z: PLAYER CHATTED [  197835308] Leviroblox2000       ( 2240.4,    74.3,  -609.7)
+  what
+2022-08-03T01:58:51Z: PLAYER ADDED   [  209095628] fatbobtherobber
+2022-08-03T01:58:52Z: PLAYER CHATTED [ 1356177857] MarkTheFourth        ( 2070.1,    75.9,  -700.7)
+  i am his advisor
+2022-08-03T01:58:54Z: CHRCTER ADDED  [ 2563867934] Popvex1              (  714.1,    51.1,  1034.3)
+2022-08-03T01:58:55Z: CHRCTER ADDED  [  178713901] Dkooy2               (  782.5,    51.1,  1022.6)
+2022-08-03T01:58:56Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2073.0,    75.7,  -701.3)
+  who
+2022-08-03T01:58:56Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2073.0,    75.7,  -701.3)
+  are
+2022-08-03T01:58:57Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2073.0,    75.7,  -701.3)
+  you
+2022-08-03T01:58:57Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2234.8,    74.3,  -611.4)
+  how am I Mr. clean your the bald one
+2022-08-03T01:58:58Z: PLAYER ADDED   [ 3542409685] Tristeperotriste
+2022-08-03T01:59:00Z: PLAYER CHATTED [ 1356177857] MarkTheFourth        ( 2070.1,    75.9,  -700.7)
+  your advisor
+2022-08-03T01:59:01Z: CHRCTER ADDED  [  209095628] fatbobtherobber      (   84.6,    75.2,    76.4)
+2022-08-03T01:59:01Z: PLAYER CHATTED [   71539109] SlugterraFan12       (  774.5,    62.7,  1022.0)
+  hello
+2022-08-03T01:59:02Z: PLAYER CHATTED [ 1356177857] MarkTheFourth        ( 2070.1,    75.9,  -700.7)
+  do you have
+2022-08-03T01:59:02Z: PLAYER CHATTED [  113793627] leito2005            (  778.0,    62.7,  1025.5)
+  This UK Queen
+2022-08-03T01:59:02Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2235.0,    74.3,  -610.8)
+  At least I have a hat on
+2022-08-03T01:59:02Z: PLAYER CHATTED [  247924177] DerekBarr54          ( 2067.9,    75.7,  -708.8)
+  out right now
+2022-08-03T01:59:03Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2235.0,    74.3,  -610.8)
+  L
+2022-08-03T01:59:04Z: PLAYER CHATTED [ 1356177857] MarkTheFourth        ( 2070.6,    72.1,  -701.4)
+   dementia
+2022-08-03T01:59:07Z: CHRCTER ADDED  [ 1356177857] MarkTheFourth        (  210.5,    75.2,   254.9)
+2022-08-03T01:59:07Z: PLAYER ADDED   [ 3121767066] DunkYoshizz
+2022-08-03T01:59:08Z: PLAYER CHATTED [  443938094] CrazyTroller93       (  766.3,    62.7,  1022.6)
+  he
+2022-08-03T01:59:08Z: PLAYER CHATTED [   71539109] SlugterraFan12       (  774.8,    62.7,  1020.7)
+  i am the queen of the UK
+2022-08-03T01:59:08Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2235.0,    74.3,  -610.8)
+  E1 private
+2022-08-03T01:59:09Z: PLAYER CHATTED [ 2563867934] Popvex1              (  591.6,    52.6,   992.1)
+  CIEF
+2022-08-03T01:59:10Z: PLAYER CHATTED [ 2563867934] Popvex1              (  591.6,    52.6,   992.1)
+  CHIEF
+2022-08-03T01:59:12Z: PLAYER CHATTED [  247924177] DerekBarr54          ( 2068.8,    75.8,  -696.5)
+  where to sir
+2022-08-03T01:59:13Z: PLAYER CHATTED [  178713901] Dkooy2               (  619.1,    52.7,   997.3)
+  !help
+2022-08-03T01:59:14Z: PLAYER CHATTED [ 2563867934] Popvex1              (  586.0,    52.6,   982.8)
+  I NEED HELP
+2022-08-03T01:59:14Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2235.0,    74.3,  -610.8)
+  You should be talking low rank
+2022-08-03T01:59:15Z: PLAYER CHATTED [ 2291652094] Good_Alexx           (  588.6,    52.6,   980.6)
+  ?
+2022-08-03T01:59:18Z: CHRCTER ADDED  [   66042536] Kvngjay01            (  714.1,    51.1,  1034.3)
+2022-08-03T01:59:19Z: CHRCTER ADDED  [ 3121767066] DunkYoshizz          ( 2437.9,    74.8,  -653.3)
+2022-08-03T01:59:20Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2099.7,    75.4,  -631.0)
+  Hm
+2022-08-03T01:59:21Z: PLAYER CHATTED [ 1033710606] archagathuss         (  760.3,    62.7,  1017.0)
+  Nice
+2022-08-03T01:59:22Z: PLAYER CHATTED [  355338729] Tackthree            (  590.5,    52.6,   980.7)
+  Yes?
+2022-08-03T01:59:22Z: PLAYER CHATTED [  178713901] Dkooy2               (  593.6,    52.6,   979.0)
+  Can you ff me?
+2022-08-03T01:59:26Z: PLAYER CHATTED [ 2563867934] Popvex1              (  588.2,    52.6,   983.4)
+  Many criminals in the president office
+2022-08-03T01:59:26Z: PLAYER CHATTED [  178713901] Dkooy2               (  593.6,    52.6,   979.0)
+  For a minute?
+2022-08-03T01:59:26Z: PLAYER CHATTED [ 2291652094] Good_Alexx           (  589.4,    52.6,   977.7)
+  .
+2022-08-03T01:59:26Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2235.0,    74.3,  -610.8)
+  Sunglasses that don’t even fit your small head
+2022-08-03T01:59:26Z: PLAYER CHATTED [  355338729] Tackthree            (  591.6,    52.6,   980.0)
+  No.
+2022-08-03T01:59:26Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2064.1,    75.9,  -717.8)
+  McDonalds
+2022-08-03T01:59:30Z: PLAYER CHATTED [  902818755] Powie61_64           (  585.2,    52.6,   979.2)
+  I can’t shoot
+2022-08-03T01:59:32Z: PLAYER CHATTED [  443938094] CrazyTroller93       (  766.2,    66.4,  1037.0)
+  hello your majesty
+2022-08-03T01:59:35Z: CHRCTER ADDED  [   66042536] Kvngjay01            (  714.1,    51.3,  1034.3)
+2022-08-03T01:59:35Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 1972.2,    75.4,  -772.7)
+  actually
+2022-08-03T01:59:36Z: PLAYER ADDED   [ 1277826095] MrDevmen
+2022-08-03T01:59:37Z: PLAYER CHATTED [ 2563867934] Popvex1              (  589.3,    52.6,   981.5)
+  And MPD is teaming with them
+2022-08-03T01:59:37Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 1938.7,    75.4,  -788.9)
+  the W/H
+2022-08-03T01:59:38Z: PLAYER CHATTED [  372112900] ajxionok             (  767.0,    66.4,  1035.5)
+  Hello
+2022-08-03T01:59:39Z: PLAYER CHATTED [   71539109] SlugterraFan12       (  771.3,    62.8,  1023.7)
+  greetings
+2022-08-03T01:59:39Z: PLAYER CHATTED [  178713901] Dkooy2               (  593.6,    52.6,   979.0)
+  Too many criminals in POTUS office.
+2022-08-03T01:59:39Z: PLAYER CHATTED [  355338729] Tackthree            (  591.6,    52.6,   980.0)
+  Are you on moblie?
+2022-08-03T01:59:39Z: CHRCTER ADDED  [ 2291652094] Good_Alexx           (  774.6,    51.1,  1028.3)
+2022-08-03T01:59:40Z: PLAYER REMOVED [ 3121767066] DunkYoshizz
+2022-08-03T01:59:40Z: PLAYER CHATTED [  197835308] Leviroblox2000       ( 2236.9,    74.3,  -609.4)
+  At least i am in the national gaurd
+2022-08-03T01:59:42Z: PLAYER CHATTED [ 1033710606] archagathuss         (  766.5,    62.7,  1029.5)
+  Bows Down :::::::
+2022-08-03T01:59:42Z: PLAYER CHATTED [  443938094] CrazyTroller93       (  766.2,    66.4,  1037.0)
+  so like
+2022-08-03T01:59:44Z: PLAYER CHATTED [   71539109] SlugterraFan12       (  771.3,    62.8,  1023.7)
+  i am here to agree to your new government
+2022-08-03T01:59:44Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 1670.7,    75.4,  -787.5)
+  gtg
+2022-08-03T01:59:44Z: PLAYER CHATTED [  902818755] Powie61_64           (  587.5,    52.6,   974.6)
+  Yes
+2022-08-03T01:59:46Z: PLAYER CHATTED [  197835308] Leviroblox2000       ( 2236.9,    74.3,  -609.4)
+  big toe
+2022-08-03T01:59:47Z: PLAYER CHATTED [  443938094] CrazyTroller93       (  766.2,    66.4,  1037.0)
+  um
+2022-08-03T01:59:47Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2235.7,    74.3,  -610.4)
+  Cry kid I’m the president
+2022-08-03T01:59:48Z: PLAYER CHATTED [  443938094] CrazyTroller93       (  766.2,    66.4,  1037.0)
+  well
+2022-08-03T01:59:50Z: PLAYER CHATTED [   71539109] SlugterraFan12       (  771.3,    62.8,  1023.7)
+  the new takeover
+2022-08-03T01:59:51Z: PLAYER CHATTED [ 1545001299] federicoram1295      (  549.2,    74.7,   504.3)
+  and the security?
+2022-08-03T01:59:55Z: PLAYER CHATTED [  355338729] Tackthree            (  589.2,    52.6,   977.7)
+  You can't shot on mobile.
+2022-08-03T01:59:55Z: PLAYER CHATTED [  443938094] CrazyTroller93       (  766.2,    66.4,  1037.0)
+  we have no goverment
+2022-08-03T01:59:58Z: PLAYER CHATTED [  197835308] Leviroblox2000       ( 2236.9,    74.3,  -609.4)
+  and forehead
+2022-08-03T01:59:58Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2235.7,    74.3,  -610.4)
+  I’m just a little mad
+2022-08-03T01:59:59Z: PLAYER CHATTED [  355338729] Tackthree            (  589.2,    52.6,   977.7)
+  It is a bug.
+2022-08-03T02:00:00Z: PLAYER CHATTED [   71539109] SlugterraFan12       (  771.3,    62.8,  1023.7)
+  thats good
+2022-08-03T02:00:01Z: PLAYER CHATTED [  902818755] Powie61_64           (  587.5,    52.6,   974.6)
+  Bruh
+2022-08-03T02:00:01Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2235.7,    74.3,  -610.4)
+  Well goodbye
+2022-08-03T02:00:02Z: PLAYER CHATTED [  372112900] ajxionok             (  767.9,    62.7,  1029.6)
+  were
+2022-08-03T02:00:03Z: PLAYER CHATTED [   71539109] SlugterraFan12       (  771.3,    62.8,  1023.7)
+  neither do we
+2022-08-03T02:00:05Z: PLAYER CHATTED [  355338729] Tackthree            (  589.2,    52.6,   977.7)
+  Use the baton
+2022-08-03T02:00:07Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  (  747.7,    62.8,  1002.7)
+  bozo
+2022-08-03T02:00:07Z: PLAYER CHATTED [ 2285595353] LordRevan108         ( 2402.4,    74.3,  -582.3)
+  :newteam Executive-Staff 1031
+2022-08-03T02:00:07Z: CHRCTER ADDED  [  178713901] Dkooy2               (  774.6,    51.1,  1028.3)
+2022-08-03T02:00:08Z: CHRCTER ADDED  [ 1033710606] archagathuss         (  -77.6,    78.0,    92.8)
+2022-08-03T02:00:09Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2235.7,    74.3,  -610.4)
+  Mr clean
+2022-08-03T02:00:13Z: CHRCTER ADDED  [ 1356177857] MarkTheFourth        (  213.9,    75.2,   252.7)
+2022-08-03T02:00:13Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  (  754.8,    62.7,   976.2)
+  bozo
+2022-08-03T02:00:16Z: CHRCTER ADDED  [  443938094] CrazyTroller93       (  -77.8,    78.0,   137.1)
+2022-08-03T02:00:17Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2123.6,    74.3,  -607.3)
+  u
+2022-08-03T02:00:18Z: PLAYER CHATTED [ 1545001299] federicoram1295      (  569.8,    74.3,   527.0)
+  ### can you open the door
+2022-08-03T02:00:22Z: PLAYER CHATTED [ 2291652094] Good_Alexx           (  777.8,    51.5,  1024.3)
+  :team me exec
+2022-08-03T02:00:22Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2114.4,    74.3,  -597.9)
+  You are getting a raise
+2022-08-03T02:00:23Z: PLAYER CHATTED [ 2291652094] Good_Alexx           (  777.8,    51.5,  1024.3)
+  :ref
+2022-08-03T02:00:23Z: CHRCTER ADDED  [ 2291652094] Good_Alexx           (    0.0,   103.0,     0.0)
+2022-08-03T02:00:24Z: CHRCTER ADDED  [  113793627] leito2005            ( 2498.3,    75.3,   658.4)
+2022-08-03T02:00:26Z: CHRCTER ADDED  [   71539109] SlugterraFan12       (  213.4,    75.2,   257.2)
+2022-08-03T02:00:26Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2114.4,    74.3,  -597.9)
+  For waiting for so long
+2022-08-03T02:00:27Z: PLAYER CHATTED [ 1545001299] federicoram1295      (  568.6,    74.3,   526.3)
+  please
+2022-08-03T02:00:28Z: PLAYER CHATTED [ 1558725815] udontcow             ( 2111.4,    74.3,  -596.9)
+  thanks sir
+2022-08-03T02:00:28Z: CHRCTER ADDED  [  372112900] ajxionok             (  -83.7,    78.0,    87.7)
+2022-08-03T02:00:33Z: PLAYER REMOVED [  113793627] leito2005
+2022-08-03T02:00:33Z: PLAYER CHATTED [ 1558725815] udontcow             ( 2106.8,    75.4,  -600.7)
+  they took the state car
+2022-08-03T02:00:35Z: PLAYER REMOVED [   71539109] SlugterraFan12
+2022-08-03T02:00:37Z: PLAYER CHATTED [  355338729] Tackthree            (  759.5,    62.7,  1018.6)
+  :to eclips
+2022-08-03T02:00:43Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2103.0,    75.3,  -601.4)
+  it’s Alr
+2022-08-03T02:00:46Z: PLAYER CHATTED [ 2563867934] Popvex1              (  814.3,    62.7,  1086.2)
+  oh
+2022-08-03T02:00:47Z: PLAYER CHATTED [ 2563867934] Popvex1              (  811.6,    62.7,  1073.2)
+  sorry
+2022-08-03T02:00:48Z: PLAYER CHATTED [ 1356177857] MarkTheFourth        (  546.7,    74.0,   479.3)
+  CMON
+2022-08-03T02:00:49Z: CHRCTER ADDED  [  197835308] Leviroblox2000       (  782.5,    51.3,  1022.6)
+2022-08-03T02:00:50Z: PLAYER CHATTED [  178713901] Dkooy2               (  804.8,    62.6,  1066.2)
+  .
+2022-08-03T02:00:51Z: CHRCTER ADDED  [ 2840066107] kingreal767          (  717.5,    51.1,  1034.3)
+2022-08-03T02:00:52Z: PLAYER CHATTED [ 2840066107] kingreal767          (  717.5,    51.5,  1034.3)
+  bro
+2022-08-03T02:00:55Z: PLAYER CHATTED [ 2563867934] Popvex1              (  809.8,    62.6,  1071.2)
+  i thought it was criminal
+2022-08-03T02:00:57Z: PLAYER CHATTED [  247924177] DerekBarr54          (  569.3,    75.4,   486.7)
+  !help
+2022-08-03T02:01:02Z: PLAYER CHATTED [ 2563867934] Popvex1              (  777.7,    62.7,  1023.5)
+  oops
+2022-08-03T02:01:03Z: CHRCTER ADDED  [  178713901] Dkooy2               (  782.5,    51.1,  1022.6)
+2022-08-03T02:01:04Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 2080.3,    75.6,  1068.7)
+  am the best VP
+2022-08-03T02:01:06Z: CHRCTER ADDED  [ 3542409685] Tristeperotriste     (  205.2,    75.2,    48.1)
+2022-08-03T02:01:06Z: PLAYER CHATTED [  247924177] DerekBarr54          (  578.2,    75.4,   485.0)
+  there rking
+2022-08-03T02:01:07Z: PLAYER CHATTED [  355338729] Tackthree            (  574.9,    75.4,   483.1)
+  Yes?
+2022-08-03T02:01:08Z: PLAYER CHATTED [ 1545001299] federicoram1295      (  582.0,    74.3,   487.1)
+  sir
+2022-08-03T02:01:10Z: PLAYER CHATTED [ 2563867934] Popvex1              (  796.0,    63.6,  1027.7)
+  i thought
+2022-08-03T02:01:11Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2020.2,    75.4,  1419.9)
+  same
+2022-08-03T02:01:12Z: PLAYER CHATTED [  355338729] Tackthree            (  577.5,    74.3,   497.5)
+  Who?
+2022-08-03T02:01:16Z: PLAYER CHATTED [  247924177] DerekBarr54          (  581.6,    74.3,   498.7)
+  go in ther
+2022-08-03T02:01:18Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 1563.6,    63.8,  1419.3)
+  I’m the best president
+2022-08-03T02:01:19Z: PLAYER CHATTED [ 1545001299] federicoram1295      (  583.4,    74.3,   502.9)
+  where is the security?
+2022-08-03T02:01:20Z: PLAYER CHATTED [ 2840066107] kingreal767          (  580.5,    50.6,   905.8)
+  bro
+2022-08-03T02:01:20Z: CHRCTER ADDED  [ 2840066107] kingreal767          (  714.1,    51.1,  1034.3)
+2022-08-03T02:01:22Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 1519.4,    63.8,  1426.5)
+  I like communism
+2022-08-03T02:01:26Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 1433.0,    63.8,  1406.4)
+  Do u vp
+2022-08-03T02:01:28Z: PLAYER ADDED   [ 3730994449] Bobbbbnn3
+2022-08-03T02:01:29Z: PLAYER REMOVED [ 3730994449] Bobbbbnn3
+2022-08-03T02:01:30Z: PLAYER CHATTED [ 1558725815] udontcow             ( 1319.8,    63.8,  1270.6)
+  bruh
+2022-08-03T02:01:31Z: PLAYER ADDED   [  645280283] poopoobum752
+2022-08-03T02:01:33Z: CHRCTER ADDED  [  197835308] Leviroblox2000       (  782.5,    51.1,  1022.6)
+2022-08-03T02:01:35Z: PLAYER CHATTED [  247924177] DerekBarr54          (  563.5,    74.3,   556.6)
+  down there
+2022-08-03T02:01:35Z: PLAYER ADDED   [ 2050841042] 06beww
+2022-08-03T02:01:36Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 1218.8,    64.0,  1066.9)
+  yes
+2022-08-03T02:01:37Z: PLAYER CHATTED [ 1558725815] udontcow             ( 1192.7,    63.8,  1052.1)
+  fake american
+2022-08-03T02:01:37Z: CHRCTER ADDED  [ 2291652094] Good_Alexx           (    0.0,   103.0,     0.0)
+2022-08-03T02:01:38Z: CHRCTER ADDED  [  902818755] Powie61_64           (  717.5,    51.1,  1034.3)
+2022-08-03T02:01:38Z: CHRCTER ADDED  [ 1033710606] archagathuss         (  -75.8,    78.0,   135.9)
+2022-08-03T02:01:39Z: CHRCTER ADDED  [  645280283] poopoobum752         ( 2459.2,    74.8,  -670.3)
+2022-08-03T02:01:40Z: CHRCTER ADDED  [  178713901] Dkooy2               (  782.5,    51.1,  1022.6)
+2022-08-03T02:01:41Z: PLAYER CHATTED [  596325823] littleky0            ( 2297.7,    74.3,  -619.0)
+  Oh no
+2022-08-03T02:01:42Z: PLAYER CHATTED [  355338729] Tackthree            (  557.3,    74.3,   573.1)
+  User?
+2022-08-03T02:01:44Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 1064.0,    63.8,  1015.0)
+  Perfect let’s have a press conference
+2022-08-03T02:01:44Z: PLAYER CHATTED [  972943233] NotTinted            ( 2130.0,    74.3,  -602.5)
+  ...
+2022-08-03T02:01:46Z: PLAYER CHATTED [  596325823] littleky0            ( 2120.1,    74.3,  -599.1)
+  DUDE
+2022-08-03T02:01:48Z: PLAYER CHATTED [  247924177] DerekBarr54          (  554.2,    74.6,   569.6)
+  getting iut
+2022-08-03T02:01:48Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 1058.4,    63.8,  1014.8)
+  And let’s talk about communism
+2022-08-03T02:01:49Z: PLAYER CHATTED [ 1356177857] MarkTheFourth        ( 2094.1,    74.1,  -492.4)
+  misclick
+2022-08-03T02:01:50Z: PLAYER CHATTED [  247924177] DerekBarr54          (  554.2,    74.6,   569.6)
+  it*
+2022-08-03T02:01:50Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 1066.0,    64.0,  1015.3)
+  ## ### # ############
+2022-08-03T02:01:54Z: PLAYER CHATTED [  596325823] littleky0            ( 2184.6,    74.6,  -633.3)
+  Got his user.
+2022-08-03T02:01:55Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 1066.0,    64.0,  1015.3)
+  we are a dictator
+2022-08-03T02:01:56Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  ( 1066.0,    64.0,  1015.3)
+  ship
+2022-08-03T02:02:00Z: PLAYER CHATTED [ 2840066107] kingreal767          (  770.8,    60.7,   976.8)
+  STOP
+2022-08-03T02:02:02Z: CHRCTER ADDED  [ 2840066107] kingreal767          (  714.1,    51.1,  1034.3)
+2022-08-03T02:02:03Z: PLAYER CHATTED [   66042536] Kvngjay01            (  617.5,    50.7,  1001.0)
+  OMG
+2022-08-03T02:02:03Z: PLAYER CHATTED [  355338729] Tackthree            (  555.8,    74.3,   572.9)
+  User?
+2022-08-03T02:02:04Z: CHRCTER ADDED  [   66042536] Kvngjay01            (  717.5,    51.1,  1034.3)
+2022-08-03T02:02:08Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 1076.2,    64.8,   991.0)
+  hey
+2022-08-03T02:02:08Z: CHRCTER ADDED  [  178713901] Dkooy2               (  774.6,    51.1,  1028.3)
+2022-08-03T02:02:09Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2391.9,    74.3,  -631.3)
+  Whos
+2022-08-03T02:02:11Z: PLAYER CHATTED [ 2291652094] Good_Alexx           ( 1079.2,    66.0,   992.3)
+  Follow me to the press room.
+2022-08-03T02:02:16Z: CHRCTER ADDED  [  197835308] Leviroblox2000       (  774.6,    51.1,  1028.3)
+2022-08-03T02:02:16Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 1068.5,    62.7,   991.3)
+  Ok
+2022-08-03T02:02:18Z: PLAYER REMOVED [   66042536] Kvngjay01
+2022-08-03T02:02:21Z: PLAYER CHATTED [  596325823] littleky0            ( 2396.5,    74.3,  -629.9)
+  From the one who just drove in here.
+2022-08-03T02:02:23Z: PLAYER CHATTED [ 2614565940] YASINTOIT            (  964.3,    69.3,   971.7)
+  Are we having a press
+2022-08-03T02:02:26Z: PLAYER CHATTED [  596325823] littleky0            ( 2399.4,    74.3,  -602.6)
+  Sir.
+2022-08-03T02:02:26Z: PLAYER CHATTED [  972943233] NotTinted            ( 2152.5,    74.3,  -689.6)
+  :/
+2022-08-03T02:02:26Z: PLAYER ADDED   [ 1205064080] Kynent
+2022-08-03T02:02:27Z: CHRCTER ADDED  [  877081569] Yareto21384          ( 2459.2,    74.8,  -653.3)
+2022-08-03T02:02:28Z: PLAYER ADDED   [  326396761] KarmaSider
+2022-08-03T02:02:29Z: PLAYER CHATTED [  972943233] NotTinted            ( 2133.1,    74.3,  -705.6)
+  !help
+2022-08-03T02:02:31Z: CHRCTER ADDED  [  372112900] ajxionok             (  -82.4,    78.0,   135.6)
+2022-08-03T02:02:32Z: PLAYER CHATTED [ 1545001299] federicoram1295      (  582.0,    52.6,  1003.4)
+  sir
+2022-08-03T02:02:33Z: PLAYER CHATTED [ 1356177857] MarkTheFourth        ( 2017.8,    74.5,  -735.0)
+  misclick
+2022-08-03T02:02:35Z: CHRCTER ADDED  [  178713901] Dkooy2               (  782.5,    51.1,  1022.6)
+2022-08-03T02:02:36Z: CHRCTER ADDED  [ 3542409685] Tristeperotriste     (  -76.4,    78.0,    88.7)
+2022-08-03T02:02:38Z: PLAYER ADDED   [ 3021373203] Olivia459019
+2022-08-03T02:02:38Z: PLAYER CHATTED [ 1545001299] federicoram1295      (  568.4,    52.6,  1010.5)
+  everyones enter
+2022-08-03T02:02:39Z: PLAYER CHATTED [  355338729] Tackthree            ( 1961.0,    74.7,  -750.3)
+  Yes?
+2022-08-03T02:02:39Z: CHRCTER ADDED  [  326396761] KarmaSider           (  774.6,    51.1,  1028.3)
+2022-08-03T02:02:41Z: PLAYER CHATTED [  596325823] littleky0            ( 2403.2,    74.3,  -590.6)
+  Or Janitor.
+2022-08-03T02:02:42Z: PLAYER REMOVED [ 1356177857] MarkTheFourth
+2022-08-03T02:02:43Z: CHRCTER ADDED  [  247924177] DerekBarr54          (  714.1,    51.1,  1034.3)
+2022-08-03T02:02:45Z: PLAYER CHATTED [ 2285595353] LordRevan108         ( 2402.4,    74.3,  -582.3)
+  Hello.
+2022-08-03T02:02:45Z: CHRCTER ADDED  [ 2050841042] 06beww               (  714.1,    51.3,  1034.3)
+2022-08-03T02:02:46Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  (  803.0,    63.8,   904.1)
+  We are North
+2022-08-03T02:02:47Z: CHRCTER ADDED  [ 2840066107] kingreal767          (  717.5,    51.1,  1034.3)
+2022-08-03T02:02:47Z: PLAYER CHATTED [ 2291652094] Good_Alexx           (  809.4,    62.7,   907.1)
+  Are you wanting to host a press conference?
+2022-08-03T02:02:47Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  (  803.0,    63.8,   904.1)
+  Korea
+2022-08-03T02:02:47Z: PLAYER CHATTED [  972943233] NotTinted            ( 1962.2,    74.7,  -746.4)
+  That person is interrupting the RSP.
+2022-08-03T02:02:48Z: CHRCTER ADDED  [  326396761] KarmaSider           (  -84.6,    78.0,    87.3)
+2022-08-03T02:02:52Z: PLAYER CHATTED [  355338729] Tackthree            ( 1961.0,    74.7,  -750.3)
+  User?
+2022-08-03T02:02:52Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  (  803.0,    63.8,   904.1)
+  We will not have an election
+2022-08-03T02:02:53Z: PLAYER CHATTED [  972943233] NotTinted            ( 1962.2,    74.7,  -746.4)
+  Driving into it .
+2022-08-03T02:02:54Z: PLAYER CHATTED [  326396761] KarmaSider           (  -88.8,    74.7,    87.3)
+  :warnings karmasider
+2022-08-03T02:02:57Z: PLAYER CHATTED [  178713901] Dkooy2               (  646.0,    51.5,  1003.8)
+  Lockdown?
+2022-08-03T02:02:58Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  (  803.0,    63.8,   904.1)
+  We will do anything that we want
+2022-08-03T02:02:58Z: PLAYER CHATTED [ 2614565940] YASINTOIT            (  804.1,    63.7,   908.8)
+  Yes
+2022-08-03T02:03:00Z: PLAYER ADDED   [ 3251187539] Juli_Queen12346
+2022-08-03T02:03:00Z: PLAYER CHATTED [ 2285595353] LordRevan108         ( 2403.2,    74.3,  -584.0)
+  :untrack all
+2022-08-03T02:03:00Z: PLAYER CHATTED [  596325823] littleky0            ( 2404.2,    74.3,  -587.4)
+  The Civilian is still driving his car in here.
+2022-08-03T02:03:02Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  (  803.0,    63.8,   904.1)
+  simple
+2022-08-03T02:03:02Z: PLAYER CHATTED [ 2291652094] Good_Alexx           (  809.9,    62.7,   908.1)
+  Okay.
+2022-08-03T02:03:06Z: CHRCTER ADDED  [  197835308] Leviroblox2000       (  774.6,    51.1,  1028.3)
+2022-08-03T02:03:06Z: CHRCTER ADDED  [ 2840066107] kingreal767          (  717.5,    51.1,  1034.3)
+2022-08-03T02:03:07Z: PLAYER CHATTED [  972943233] NotTinted            ( 1962.2,    74.7,  -746.4)
+  They left.
+2022-08-03T02:03:07Z: CHRCTER ADDED  [ 1545001299] federicoram1295      (   90.5,    75.2,    73.9)
+2022-08-03T02:03:07Z: PLAYER CHATTED [ 2614565940] YASINTOIT            (  804.7,    63.7,   908.4)
+  Perfect
+2022-08-03T02:03:08Z: CHRCTER ADDED  [  247924177] DerekBarr54          (  714.1,    51.1,  1034.3)
+2022-08-03T02:03:08Z: PLAYER CHATTED [ 2285595353] LordRevan108         ( 2403.2,    74.3,  -584.0)
+  :view mark
+2022-08-03T02:03:10Z: CHRCTER ADDED  [ 1205064080] Kynent               (  -78.0,    78.0,    84.6)
+2022-08-03T02:03:11Z: CHRCTER ADDED  [  178713901] Dkooy2               (  782.5,    51.1,  1022.6)
+2022-08-03T02:03:12Z: CHRCTER ADDED  [  902818755] Powie61_64           (  717.5,    51.1,  1034.3)
+2022-08-03T02:03:13Z: PLAYER CHATTED [ 2614565940] YASINTOIT            (  803.6,    63.7,   907.4)
+  I’m starting to like you vice president
+2022-08-03T02:03:13Z: PLAYER CHATTED [ 2285595353] LordRevan108         ( 2403.2,    74.3,  -584.0)
+  Seems he left.
+2022-08-03T02:03:13Z: PLAYER REMOVED [ 3021373203] Olivia459019
+2022-08-03T02:03:15Z: PLAYER CHATTED [  596325823] littleky0            ( 2404.2,    74.3,  -587.4)
+  And disturbing the training.
+2022-08-03T02:03:15Z: PLAYER REMOVED [ 3251187539] Juli_Queen12346
+2022-08-03T02:03:15Z: PLAYER CHATTED [  355338729] Tackthree            ( 1961.0,    74.7,  -750.3)
+  Alright, can't do anything.
+2022-08-03T02:03:17Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  (  803.2,    63.7,   901.0)
+  yes
+2022-08-03T02:03:19Z: PLAYER CHATTED [ 2614565940] YASINTOIT            (  803.6,    63.7,   907.4)
+  You’re exactly like me
+2022-08-03T02:03:19Z: PLAYER CHATTED [ 2285595353] LordRevan108         ( 2403.2,    74.3,  -584.0)
+  I'll get him next time.
+2022-08-03T02:03:20Z: PLAYER CHATTED [  972943233] NotTinted            ( 1962.2,    74.7,  -746.4)
+  Mhm.
+2022-08-03T02:03:22Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  (  802.2,    63.7,   900.1)
+  Why do you think I shot ##
+2022-08-03T02:03:24Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  (  804.7,    63.7,   900.5)
+  n
+2022-08-03T02:03:24Z: PLAYER CHATTED [  596325823] littleky0            ( 2404.2,    74.3,  -587.4)
+  Alright.
+2022-08-03T02:03:24Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  (  804.7,    63.7,   900.5)
+  g
+2022-08-03T02:03:27Z: PLAYER CHATTED [  596325823] littleky0            ( 2404.2,    74.3,  -587.4)
+  Thanks.
+2022-08-03T02:03:27Z: PLAYER CHATTED [ 2563867934] Popvex1              (  816.0,    62.6,   910.7)
+  afk
+2022-08-03T02:03:35Z: PLAYER REMOVED [ 2840066107] kingreal767
+2022-08-03T02:03:36Z: CHRCTER ADDED  [  751906894] tahjdontwashcars     ( 2449.9,    74.7,  -653.3)
+2022-08-03T02:03:36Z: PLAYER REMOVED [  247924177] DerekBarr54
+2022-08-03T02:03:38Z: PLAYER CHATTED [  837950418] CoolThunderLion50    (  768.4,    66.4,  1035.1)
+  no lockdown???
+2022-08-03T02:03:38Z: PLAYER ADDED   [ 1578208833] aIxxnn
+2022-08-03T02:03:39Z: PLAYER REMOVED [  902818755] Powie61_64
+2022-08-03T02:03:42Z: PLAYER CHATTED [ 1033710606] archagathuss         (  768.4,    62.7,  1028.5)
+  Hell No
+2022-08-03T02:03:43Z: PLAYER CHATTED [ 2291652094] Good_Alexx           (  809.2,    62.7,   905.9)
+  Announced.
+2022-08-03T02:03:44Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2396.0,    74.3,  -651.7)
+  Where did they go?
+2022-08-03T02:03:44Z: PLAYER CHATTED [  837950418] CoolThunderLion50    (  767.9,    62.7,  1033.2)
+  go
+2022-08-03T02:03:45Z: PLAYER CHATTED [  124868185] EclipseSider         ( 2390.2,    74.3,  -633.7)
+  Karma thinks there an Exploiter ingame.
+2022-08-03T02:03:47Z: PLAYER CHATTED [  355338729] Tackthree            ( 2387.2,    74.3,  -634.5)
+  :to summer
+2022-08-03T02:03:49Z: PLAYER CHATTED [  837950418] CoolThunderLion50    (  778.1,    62.7,  1027.8)
+  LETS GO
+2022-08-03T02:03:49Z: PLAYER CHATTED [ 2614565940] YASINTOIT            (  804.4,    63.7,   907.8)
+  Perfect
+2022-08-03T02:03:50Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  (  804.7,    63.7,   900.5)
+  Thanks
+2022-08-03T02:03:50Z: PLAYER REMOVED [ 1205064080] Kynent
+2022-08-03T02:03:50Z: PLAYER CHATTED [ 2291652094] Good_Alexx           (  809.1,    62.7,   904.5)
+  People will show up shortly.
+2022-08-03T02:03:52Z: PLAYER CHATTED [  124868185] EclipseSider         ( 2389.8,    74.3,  -633.9)
+  .
+2022-08-03T02:03:53Z: PLAYER ADDED   [ 3379174984] MqinThinq_yk
+2022-08-03T02:03:55Z: PLAYER CHATTED [  751906894] tahjdontwashcars     ( 2413.2,    74.3,  -652.2)
+  they left
+2022-08-03T02:03:57Z: PLAYER CHATTED [ 2614565940] YASINTOIT            (  803.7,    63.7,   907.5)
+  Hey this is my pc
+2022-08-03T02:03:57Z: PLAYER CHATTED [  355338729] Tackthree            (  803.6,    63.8,   904.5)
+  :to eclip
+2022-08-03T02:03:59Z: PLAYER CHATTED [  837950418] CoolThunderLion50    (  774.6,    62.7,  1025.0)
+  GO TO PRESS ###########
+2022-08-03T02:04:00Z: PLAYER CHATTED [ 2614565940] YASINTOIT            (  803.7,    63.7,   907.5)
+  He is gone
+2022-08-03T02:04:01Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2395.8,    74.3,  -644.1)
+  I was grading his exam.
+2022-08-03T02:04:01Z: PLAYER CHATTED [  355338729] Tackthree            ( 2391.3,    74.3,  -637.2)
+  What you say?
+2022-08-03T02:04:02Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2385.8,    74.3,  -638.8)
+  I don't really know
+2022-08-03T02:04:03Z: CHRCTER ADDED  [  197835308] Leviroblox2000       (  774.6,    51.1,  1028.3)
+2022-08-03T02:04:03Z: PLAYER CHATTED [ 2291652094] Good_Alexx           (  810.5,    62.7,   900.2)
+  :view thack
+2022-08-03T02:04:05Z: PLAYER ADDED   [  395467033] KR4K3N_Operator
+2022-08-03T02:04:05Z: PLAYER CHATTED [ 1033710606] archagathuss         (  776.7,    62.7,  1027.3)
+  U Sure
+2022-08-03T02:04:06Z: CHRCTER ADDED  [  178713901] Dkooy2               (  774.6,    51.1,  1028.3)
+2022-08-03T02:04:07Z: PLAYER CHATTED [ 2291652094] Good_Alexx           (  810.2,    62.7,   902.7)
+  :rv
+2022-08-03T02:04:13Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2399.3,    74.3,  -645.2)
+  Oh there.
+2022-08-03T02:04:17Z: PLAYER ADDED   [  916522178] patpatpatpatr
+2022-08-03T02:04:18Z: PLAYER CHATTED [  355338729] Tackthree            ( 2391.8,    74.3,  -637.0)
+  :to summer
+2022-08-03T02:04:18Z: PLAYER CHATTED [ 2285595353] LordRevan108         ( 2403.2,    74.3,  -586.5)
+  :view %pres
+2022-08-03T02:04:19Z: CHRCTER ADDED  [  877081569] Yareto21384          (  210.1,    75.2,   250.9)
+2022-08-03T02:04:21Z: CHRCTER ADDED  [ 1578208833] aIxxnn               (   91.3,    75.2,    77.6)
+2022-08-03T02:04:23Z: PLAYER REMOVED [  877081569] Yareto21384
+2022-08-03T02:04:23Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2399.3,    74.3,  -645.2)
+  You passed, 100%
+2022-08-03T02:04:24Z: CHRCTER ADDED  [ 1558725815] udontcow             (  717.5,    51.1,  1034.3)
+2022-08-03T02:04:25Z: CHRCTER ADDED  [ 2482149738] ImagineBeingRatioed  (  641.7,    62.6,   965.7)
+2022-08-03T02:04:26Z: CHRCTER ADDED  [  837950418] CoolThunderLion50    (  -80.4,    78.0,   137.5)
+2022-08-03T02:04:27Z: CHRCTER ADDED  [  395467033] KR4K3N_Operator      (  -83.0,    78.0,    88.8)
+2022-08-03T02:04:29Z: CHRCTER ADDED  [ 2291652094] Good_Alexx           (    0.0,   103.0,     0.0)
+2022-08-03T02:04:30Z: PLAYER CHATTED [ 1475221456] ArkVorhut            ( 2405.1,    74.3,  -643.4)
+  Nice.
+2022-08-03T02:04:31Z: CHRCTER ADDED  [  916522178] patpatpatpatr        (  212.3,    75.2,    47.6)
+2022-08-03T02:04:36Z: PLAYER CHATTED [ 2291652094] Good_Alexx           (  821.5,    62.7,   913.7)
+  Smhhhh.
+2022-08-03T02:04:36Z: CHRCTER ADDED  [ 1033710606] archagathuss         (  -84.1,    78.0,    92.4)
+2022-08-03T02:04:37Z: PLAYER CHATTED [  355338729] Tackthree            (  822.6,    62.7,   913.5)
+  Lockdown?
+2022-08-03T02:04:37Z: PLAYER CHATTED [ 1545001299] federicoram1295      (  820.1,    62.7,   891.7)
+  Oh
+2022-08-03T02:04:37Z: CHRCTER ADDED  [  443938094] CrazyTroller93       (  -75.9,    78.0,    91.3)
+2022-08-03T02:04:39Z: CHRCTER ADDED  [ 3379174984] MqinThinq_yk         (   83.0,    75.2,    80.3)
+2022-08-03T02:04:40Z: PLAYER ADDED   [ 2630212988] lIovedogs21
+2022-08-03T02:04:40Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2397.1,    74.3,  -646.2)
+  Best exam I've seen out of a E1.
+2022-08-03T02:04:41Z: PLAYER CHATTED [ 2291652094] Good_Alexx           (  820.0,    62.7,   914.5)
+  Well.
+2022-08-03T02:04:44Z: CHRCTER ADDED  [  372112900] ajxionok             (  -80.8,    78.0,   131.5)
+2022-08-03T02:04:52Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2393.1,    74.3,  -632.6)
+  Same//
+2022-08-03T02:04:54Z: PLAYER CHATTED [ 1545001299] federicoram1295      (  809.4,    62.7,   904.8)
+  hi sir
+2022-08-03T02:04:54Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2397.1,    74.3,  -646.2)
+  Actually put the information provided.
+2022-08-03T02:04:56Z: PLAYER CHATTED [ 2563867934] Popvex1              (  816.8,    62.7,   913.7)
+  Lockdown!
+2022-08-03T02:04:57Z: PLAYER CHATTED [ 1033710606] archagathuss         (   -9.0,    74.3,   245.9)
+  Pick UpHolly
+2022-08-03T02:04:58Z: CHRCTER ADDED  [ 2630212988] lIovedogs21          (   91.5,    75.2,    81.6)
+2022-08-03T02:04:58Z: PLAYER REMOVED [  395467033] KR4K3N_Operator
+2022-08-03T02:05:01Z: PLAYER CHATTED [  837950418] CoolThunderLion50    (   -8.5,    74.0,   185.7)
+  let me get a better gun
+2022-08-03T02:05:02Z: PLAYER REMOVED [ 2050841042] 06beww
+2022-08-03T02:05:03Z: PLAYER REMOVED [  916522178] patpatpatpatr
+2022-08-03T02:05:04Z: PLAYER CHATTED [ 1033710606] archagathuss         (   -8.7,    74.3,   176.6)
+  Ok
+2022-08-03T02:05:06Z: PLAYER ADDED   [ 1843208020] RealFatMan2
+2022-08-03T02:05:09Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  (  802.8,    63.7,   902.6)
+  GET ME SOME MONEY!
+2022-08-03T02:05:09Z: PLAYER CHATTED [ 2291652094] Good_Alexx           (  819.1,    62.7,   914.2)
+  Okay..
+2022-08-03T02:05:09Z: PLAYER CHATTED [  355338729] Tackthree            (  821.1,    62.7,   914.0)
+  :admins
+2022-08-03T02:05:10Z: PLAYER CHATTED [  178713901] Dkooy2               (  811.0,    62.7,   906.0)
+  We have a criminal issue right now.
+2022-08-03T02:05:18Z: CHRCTER ADDED  [ 1843208020] RealFatMan2          (  782.5,    51.1,  1022.6)
+2022-08-03T02:05:18Z: PLAYER CHATTED [  837950418] CoolThunderLion50    (   -8.4,    74.0,   158.4)
+  wherre is holly
+2022-08-03T02:05:21Z: PLAYER CHATTED [ 2563867934] Popvex1              (  812.6,    62.7,   911.6)
+  ES.
+2022-08-03T02:05:23Z: PLAYER CHATTED [ 1033710606] archagathuss         (   -6.7,    74.3,   127.7)
+  Nvm She's Gone 2 The White House
+2022-08-03T02:05:28Z: PLAYER CHATTED [ 2563867934] Popvex1              (  812.6,    62.7,   911.6)
+  Nevermind
+2022-08-03T02:05:29Z: PLAYER ADDED   [ 1511918829] yourmother1921gh
+2022-08-03T02:05:30Z: PLAYER ADDED   [  463649397] JamesMartinGotThis
+2022-08-03T02:05:32Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2397.1,    74.3,  -646.2)
+  5 minutes left.
+2022-08-03T02:05:33Z: PLAYER CHATTED [  326396761] KarmaSider           ( 2080.1,    73.1,  -522.0)
+  ow
+2022-08-03T02:05:33Z: PLAYER CHATTED [ 2614565940] YASINTOIT            (  803.3,    63.8,   905.0)
+  Hello North Korean civilians
+2022-08-03T02:05:33Z: PLAYER CHATTED [  837950418] CoolThunderLion50    (   -9.6,    74.1,   559.6)
+  alright lets go to press roomn
+2022-08-03T02:05:38Z: PLAYER ADDED   [ 1837136929] BelovedAlex
+2022-08-03T02:05:39Z: PLAYER CHATTED [ 1033710606] archagathuss         (   -4.6,    74.3,  1187.5)
+  Alright
+2022-08-03T02:05:39Z: PLAYER CHATTED [ 2614565940] YASINTOIT            (  803.3,    63.8,   905.0)
+  We are now going to be North Korea
+2022-08-03T02:05:39Z: PLAYER CHATTED [ 2291652094] Good_Alexx           (  809.7,    62.7,   910.6)
+  We might have to do lockdown.
+2022-08-03T02:05:40Z: PLAYER CHATTED [  178713901] Dkooy2               (  809.2,    62.7,   903.5)
+  .
+2022-08-03T02:05:41Z: PLAYER ADDED   [ 1451717699] MR1FLIMFLAMISEECOOL
+2022-08-03T02:05:42Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2080.1,    74.3,  -565.5)
+  Hop out.
+2022-08-03T02:05:45Z: CHRCTER ADDED  [  463649397] JamesMartinGotThis   ( 2459.2,    74.8,  -653.3)
+2022-08-03T02:05:45Z: PLAYER CHATTED [ 2614565940] YASINTOIT            (  803.3,    63.8,   905.0)
+  We are going to love communism
+2022-08-03T02:05:46Z: PLAYER CHATTED [  837950418] CoolThunderLion50    (  523.9,    63.1,  1434.8)
+
+2022-08-03T02:05:48Z: PLAYER CHATTED [ 1545001299] federicoram1295      (  816.0,    62.6,   901.9)
+  ...
+2022-08-03T02:05:48Z: CHRCTER ADDED  [ 1837136929] BelovedAlex          (  774.6,    51.1,  1028.3)
+2022-08-03T02:05:48Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  (  803.6,    63.7,   910.2)
+  Do whats right
+2022-08-03T02:05:48Z: PLAYER CHATTED [ 2614565940] YASINTOIT            (  803.3,    63.8,   905.0)
+  And money
+2022-08-03T02:05:55Z: PLAYER CHATTED [ 2614565940] YASINTOIT            (  803.3,    63.8,   905.0)
+  We are going to be raising taxes
+2022-08-03T02:05:59Z: CHRCTER ADDED  [  326396761] KarmaSider           (  -82.2,    78.0,   129.6)
+2022-08-03T02:05:59Z: PLAYER CHATTED [ 1837136929] BelovedAlex          (  753.7,    51.5,   982.8)
+  !timedate
+2022-08-03T02:05:59Z: PLAYER CHATTED [ 2614565940] YASINTOIT            (  803.3,    63.8,   905.0)
+  And noma elections
+2022-08-03T02:06:01Z: PLAYER CHATTED [ 2614565940] YASINTOIT            (  803.3,    63.8,   905.0)
+  No more
+2022-08-03T02:06:03Z: CHRCTER ADDED  [ 1451717699] MR1FLIMFLAMISEECOOL  (  782.5,    51.1,  1022.6)
+2022-08-03T02:06:05Z: CHRCTER ADDED  [ 1558725815] udontcow             (  714.1,    51.1,  1034.3)
+2022-08-03T02:06:06Z: PLAYER ADDED   [ 2348187253] MeeTpaty
+2022-08-03T02:06:06Z: PLAYER ADDED   [ 1860289569] Alexyz_k
+2022-08-03T02:06:06Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  (  803.3,    63.7,   909.5)
+  Everyone that is poor will have to pay all of there monet
+2022-08-03T02:06:08Z: CHRCTER ADDED  [ 3542409685] Tristeperotriste     (  -79.3,    78.0,   135.5)
+2022-08-03T02:06:10Z: CHRCTER ADDED  [ 2563867934] Popvex1              (  717.5,    51.1,  1034.3)
+2022-08-03T02:06:12Z: CHRCTER ADDED  [ 2614565940] YASINTOIT            (  766.8,    62.6,  1032.7)
+2022-08-03T02:06:13Z: CHRCTER ADDED  [  178713901] Dkooy2               (  782.5,    51.1,  1022.6)
+2022-08-03T02:06:14Z: CHRCTER ADDED  [  837950418] CoolThunderLion50    (  -84.6,    78.0,    87.6)
+2022-08-03T02:06:15Z: CHRCTER ADDED  [ 2482149738] ImagineBeingRatioed  (  641.7,    62.6,   965.7)
+2022-08-03T02:06:16Z: CHRCTER ADDED  [ 1843208020] RealFatMan2          (  782.5,    51.1,  1022.6)
+2022-08-03T02:06:17Z: CHRCTER ADDED  [ 1860289569] Alexyz_k             (  782.5,    51.4,  1022.6)
+2022-08-03T02:06:18Z: PLAYER CHATTED [  124868185] EclipseSider         ( 2390.2,    74.3,  -634.2)
+  SGT team?
+2022-08-03T02:06:20Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2115.3,    84.0,  -652.5)
+  ?
+2022-08-03T02:06:22Z: PLAYER REMOVED [ 1511918829] yourmother1921gh
+2022-08-03T02:06:23Z: CHRCTER ADDED  [ 2291652094] Good_Alexx           (    0.0,   103.0,     0.0)
+2022-08-03T02:06:24Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2386.2,    74.3,  -637.6)
+  Yessir.
+2022-08-03T02:06:24Z: PLAYER CHATTED [  124868185] EclipseSider         ( 2390.2,    74.3,  -634.2)
+  Lol.
+2022-08-03T02:06:25Z: PLAYER CHATTED [  355338729] Tackthree            ( 2116.2,    84.2,  -660.0)
+  ?
+2022-08-03T02:06:25Z: PLAYER ADDED   [ 1540689112] brendan_swainer01
+2022-08-03T02:06:27Z: PLAYER CHATTED [ 2614565940] YASINTOIT            (  660.0,    62.7,   993.3)
+  Fools
+2022-08-03T02:06:28Z: CHRCTER ADDED  [  443938094] CrazyTroller93       (  -79.8,    78.0,   132.9)
+2022-08-03T02:06:28Z: PLAYER CHATTED [ 2482149738] ImagineBeingRatioed  (  663.4,    62.7,   991.3)
+  to bunker
+2022-08-03T02:06:28Z: PLAYER CHATTED [ 2291652094] Good_Alexx           (    2.0,    74.3,    -2.1)
+  :to %pres
+2022-08-03T02:06:31Z: CHRCTER ADDED  [  115554578] FireBall8981         (  714.1,    51.1,  1034.3)
+2022-08-03T02:06:32Z: CHRCTER ADDED  [  372112900] ajxionok             (  -83.3,    78.0,   137.3)
+2022-08-03T02:06:33Z: CHRCTER ADDED  [ 2563867934] Popvex1              (  714.1,    51.1,  1034.3)
+2022-08-03T02:06:33Z: PLAYER CHATTED [ 1843208020] RealFatMan2          (  670.7,    51.5,   998.3)
+  !donate
+2022-08-03T02:06:34Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2398.0,    74.3,  -646.6)
+  .
+2022-08-03T02:06:35Z: CHRCTER ADDED  [ 1540689112] brendan_swainer01    (  980.5,    47.0,   869.9)
+2022-08-03T02:06:36Z: PLAYER CHATTED [  124868185] EclipseSider         ( 2389.1,    74.3,  -632.4)
+  Stay here yall-
+2022-08-03T02:06:38Z: CHRCTER ADDED  [ 1033710606] archagathuss         (  -76.7,    78.0,   137.5)
+2022-08-03T02:06:39Z: PLAYER CHATTED [  124868185] EclipseSider         ( 2387.8,    74.3,  -633.7)
+
+2022-08-03T02:06:42Z: PLAYER CHATTED [  124868185] EclipseSider         ( 2390.1,    74.3,  -634.9)
+  ??
+2022-08-03T02:06:43Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2394.7,    74.3,  -640.7)
+  FA team lol
+2022-08-03T02:06:43Z: CHRCTER ADDED  [ 2348187253] MeeTpaty             (  211.0,    75.2,    52.2)
+2022-08-03T02:06:44Z: PLAYER CHATTED [ 1540689112] brendan_swainer01    (  980.5,    46.5,   869.9)
+  :cmds
+2022-08-03T02:06:44Z: PLAYER CHATTED [  355338729] Tackthree            ( 2101.5,    73.7,  -623.5)
+  GO ### GO
+2022-08-03T02:06:45Z: PLAYER CHATTED [ 1033710606] archagathuss         (   53.7,    74.4,   144.2)
+  Guys
+2022-08-03T02:06:46Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2397.9,    74.3,  -645.4)
+
+2022-08-03T02:06:46Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2397.9,    74.3,  -645.4)
+   /
+2022-08-03T02:06:46Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2397.9,    74.3,  -645.4)
+
+2022-08-03T02:06:48Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2394.0,    74.3,  -631.3)
+  ye
+2022-08-03T02:06:51Z: PLAYER CHATTED [ 1843208020] RealFatMan2          (  790.3,    51.5,   976.7)
+  !cap
+2022-08-03T02:06:52Z: PLAYER CHATTED [ 2614565940] YASINTOIT            (  778.0,    51.5,  1025.6)
+  I’m perfect
+2022-08-03T02:06:54Z: PLAYER CHATTED [  124868185] EclipseSider         ( 2390.1,    74.3,  -634.9)
+  Sad no FA.
+2022-08-03T02:06:54Z: PLAYER CHATTED [  115554578] FireBall8981         (  774.2,    51.5,  1018.6)
+  Lockdown

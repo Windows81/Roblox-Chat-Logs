@@ -1,0 +1,2287 @@
+[    1630228] : [ 4838322068] White House Simulator - 20f1c4fc-42f0-4cf5-8ee2-45a18c20bb15
+2022-08-01T02:33:17Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-08-01T02:33:18Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-08-01T02:33:18Z: PLAYER ADDED   [ 1516469386] imapersonyounot
+2022-08-01T02:33:18Z: PLAYER ADDED   [  656559316] MackChicken2
+2022-08-01T02:33:18Z: PLAYER ADDED   [ 1522318246] Roroballer20
+2022-08-01T02:33:18Z: PLAYER ADDED   [  240370393] soggyrollercoster4
+2022-08-01T02:33:18Z: PLAYER ADDED   [ 2410124390] Jibblers2004
+2022-08-01T02:33:18Z: PLAYER ADDED   [ 2574392852] WormKuma
+2022-08-01T02:33:18Z: PLAYER ADDED   [  216671816] TheDepthsOfHades
+2022-08-01T02:33:18Z: PLAYER ADDED   [  837950418] CoolThunderLion50
+2022-08-01T02:33:18Z: PLAYER ADDED   [  153519329] kickboy137
+2022-08-01T02:33:18Z: PLAYER ADDED   [ 1349868222] OperaSoviet
+2022-08-01T02:33:18Z: PLAYER ADDED   [ 3294062535] LadSebastian
+2022-08-01T02:33:18Z: PLAYER ADDED   [  973587792] XxwingfaderxX
+2022-08-01T02:33:18Z: PLAYER ADDED   [  170338001] roopr1
+2022-08-01T02:33:18Z: PLAYER ADDED   [  654564775] Mason7cx
+2022-08-01T02:33:18Z: PLAYER ADDED   [  110322078] Joeliyano
+2022-08-01T02:33:18Z: PLAYER ADDED   [ 2233083985] JeowlittoAPPLEs
+2022-08-01T02:33:18Z: PLAYER ADDED   [  691635668] VicDeth
+2022-08-01T02:33:18Z: PLAYER ADDED   [ 1818902597] AntIronsides
+2022-08-01T02:33:18Z: PLAYER ADDED   [   25244664] DonPab1oEGaviria
+2022-08-01T02:33:18Z: PLAYER ADDED   [ 2639029375] CaptainJWillson
+2022-08-01T02:33:18Z: PLAYER ADDED   [ 1854783273] bullet556677
+2022-08-01T02:33:18Z: PLAYER ADDED   [ 2233026423] GobbleStopper01
+2022-08-01T02:33:18Z: PLAYER ADDED   [  214958957] DonCar1osGaviria414
+2022-08-01T02:33:19Z: PLAYER CHATTED [ 2233026423] GobbleStopper01
+  Yes, Sir.
+2022-08-01T02:33:19Z: PLAYER CHATTED [ 2233083985] JeowlittoAPPLEs
+  ah alr
+2022-08-01T02:33:20Z: PLAYER CHATTED [  214958957] DonCar1osGaviria414  (  577.8,    53.8,  1021.4)
+  br
+2022-08-01T02:33:20Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  592.8,    52.6,  1005.9)
+  Where
+2022-08-01T02:33:21Z: PLAYER CHATTED [ 1854783273] bullet556677
+  Yes, Sir.
+2022-08-01T02:33:23Z: PLAYER CHATTED [  837950418] CoolThunderLion50    (  591.6,    52.6,   999.0)
+  In the car that passed by.
+2022-08-01T02:33:24Z: PLAYER CHATTED [ 1522318246] Roroballer20
+  Yes, Sir!
+2022-08-01T02:33:24Z: PLAYER CHATTED [  691635668] VicDeth
+  maybe the admins
+2022-08-01T02:33:27Z: PLAYER CHATTED [  691635668] VicDeth
+  spect him
+2022-08-01T02:33:34Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  589.3,    52.6,  1008.0)
+  Lacking security
+2022-08-01T02:33:35Z: PLAYER CHATTED [  691635668] VicDeth
+  and now to us
+2022-08-01T02:33:39Z: PLAYER CHATTED [ 2639029375] CaptainJWillson
+  Understood?
+2022-08-01T02:33:41Z: PLAYER CHATTED [  656559316] MackChicken2
+  gtg)
+2022-08-01T02:33:45Z: PLAYER CHATTED [  691635668] VicDeth
+  hi admins
+2022-08-01T02:33:46Z: PLAYER CHATTED [  837950418] CoolThunderLion50    (  591.6,    52.6,   999.0)
+  We have nobody guarding the gate.
+2022-08-01T02:33:51Z: PLAYER CHATTED [ 2233083985] JeowlittoAPPLEs      ( 2406.8,    74.0,  -361.2)
+  wave
+2022-08-01T02:33:56Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  589.4,    52.6,   994.3)
+  As long as he is with us
+2022-08-01T02:33:56Z: PLAYER CHATTED [ 2639029375] CaptainJWillson
+  Dismissed.
+2022-08-01T02:33:59Z: PLAYER REMOVED [  656559316] MackChicken2
+2022-08-01T02:33:59Z: PLAYER CHATTED [  214958957] DonCar1osGaviria414  (  588.5,    52.6,  1007.6)
+  where is everyone?
+2022-08-01T02:34:01Z: PLAYER CHATTED [  837950418] CoolThunderLion50    (  640.9,    51.5,   996.8)
+  Yeah.
+2022-08-01T02:34:02Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2215.7,    74.3,  -522.0)
+  lambo back
+2022-08-01T02:34:03Z: PLAYER CHATTED [ 1349868222] OperaSoviet          (  -73.5,    76.1,   408.5)
+  ATF oh no
+2022-08-01T02:34:05Z: PLAYER CHATTED [ 2233083985] JeowlittoAPPLEs      ( 2406.7,    74.0,  -358.8)
+  yo
+2022-08-01T02:34:06Z: PLAYER CHATTED [ 2639029375] CaptainJWillson
+  Do 5 GJ's.
+2022-08-01T02:34:08Z: PLAYER CHATTED [ 2233083985] JeowlittoAPPLEs      ( 2406.7,    74.0,  -358.8)
+  shine the light on me
+2022-08-01T02:34:08Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2228.3,    74.3,  -524.1)
+  back
+2022-08-01T02:34:08Z: PLAYER CHATTED [ 2410124390] Jibblers2004
+  5nats not good.
+2022-08-01T02:34:09Z: PLAYER CHATTED [ 2233026423] GobbleStopper01
+  One, Sir!
+2022-08-01T02:34:09Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  650.9,    62.7,   976.8)
+  radio check
+2022-08-01T02:34:10Z: PLAYER CHATTED [ 1522318246] Roroballer20
+  One, Sir!
+2022-08-01T02:34:11Z: PLAYER CHATTED [ 2639029375] CaptainJWillson
+  Begin.
+2022-08-01T02:34:12Z: PLAYER CHATTED [ 1854783273] bullet556677
+  One, Sir.
+2022-08-01T02:34:14Z: PLAYER CHATTED [ 1854783273] bullet556677
+  One, Sir!
+2022-08-01T02:34:14Z: PLAYER CHATTED [ 1522318246] Roroballer20
+  Two, Sir!
+2022-08-01T02:34:16Z: PLAYER CHATTED [ 2233026423] GobbleStopper01
+  Two, Sir!
+2022-08-01T02:34:16Z: PLAYER CHATTED [ 2410124390] Jibblers2004
+  !light
+2022-08-01T02:34:16Z: PLAYER CHATTED [ 2233083985] JeowlittoAPPLEs      ( 2408.9,    74.0,  -359.2)
+  uh oh
+2022-08-01T02:34:19Z: PLAYER CHATTED [ 1854783273] bullet556677
+  Two, Sir!
+2022-08-01T02:34:19Z: PLAYER CHATTED [ 1522318246] Roroballer20
+  Three, Sir!
+2022-08-01T02:34:22Z: PLAYER CHATTED [ 3294062535] LadSebastian         (  -77.3,    76.1,   417.7)
+  afk
+2022-08-01T02:34:23Z: PLAYER CHATTED [ 1854783273] bullet556677
+  ###### Sir!
+2022-08-01T02:34:23Z: PLAYER CHATTED [  214958957] DonCar1osGaviria414  (  641.4,    62.7,   976.6)
+  Mane this radio dont work
+2022-08-01T02:34:25Z: PLAYER CHATTED [ 3294062535] LadSebastian         (  -77.3,    76.1,   417.7)
+  gotta phiss
+2022-08-01T02:34:25Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 2208.5,    74.3,  -524.1)
+  Uh
+2022-08-01T02:34:25Z: PLAYER CHATTED [ 2233026423] GobbleStopper01      ( 2310.1,    74.3,  -574.8)
+  Three, Sir!
+2022-08-01T02:34:26Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2247.4,    74.3,  -539.6)
+  Exploiter.
+2022-08-01T02:34:27Z: PLAYER CHATTED [ 1522318246] Roroballer20         ( 2319.1,    74.3,  -574.6)
+  ##### Sir!
+2022-08-01T02:34:28Z: PLAYER CHATTED [ 1854783273] bullet556677         ( 2314.9,    74.3,  -574.9)
+  Four, sir!
+2022-08-01T02:34:28Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  653.5,    62.7,   968.0)
+  AFK>
+2022-08-01T02:34:30Z: PLAYER CHATTED [ 2233026423] GobbleStopper01      ( 2310.1,    74.5,  -574.8)
+  ##### Sir!
+2022-08-01T02:34:30Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 2400.7,    74.0,  -368.0)
+  I crashed.
+2022-08-01T02:34:31Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2221.5,    74.3,  -522.3)
+  hacker
+2022-08-01T02:34:32Z: PLAYER CHATTED [ 1854783273] bullet556677         ( 2314.9,    76.7,  -574.9)
+  ##### Sir!
+2022-08-01T02:34:33Z: PLAYER CHATTED [ 1349868222] OperaSoviet          (  -76.9,    76.1,   420.1)
+  good boy
+2022-08-01T02:34:33Z: PLAYER CHATTED [ 2233083985] JeowlittoAPPLEs      ( 2397.5,    74.0,  -371.8)
+  here look
+2022-08-01T02:34:35Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 2214.1,    74.3,  -523.3)
+  That’s not,good.
+2022-08-01T02:34:35Z: PLAYER CHATTED [ 1522318246] Roroballer20         ( 2319.1,    74.8,  -574.6)
+  Five, Sir!
+2022-08-01T02:34:35Z: PLAYER CHATTED [ 2233083985] JeowlittoAPPLEs      ( 2399.2,    74.0,  -376.4)
+  watch this
+2022-08-01T02:34:36Z: PLAYER CHATTED [ 1854783273] bullet556677         ( 2314.9,    74.3,  -574.9)
+  Done, Sir.
+2022-08-01T02:34:36Z: PLAYER CHATTED [ 2233026423] GobbleStopper01      ( 2310.1,    75.0,  -574.8)
+  Five, Sir!
+2022-08-01T02:34:36Z: PLAYER CHATTED [  691635668] VicDeth              ( 2397.0,    74.0,  -375.2)
+  oh
+2022-08-01T02:34:39Z: PLAYER CHATTED [ 1522318246] Roroballer20         ( 2319.1,    74.3,  -574.6)
+  Done, Sir!
+2022-08-01T02:34:40Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2247.3,    74.3,  -526.3)
+  wait
+2022-08-01T02:34:42Z: PLAYER CHATTED [ 2233026423] GobbleStopper01      ( 2310.1,    74.3,  -574.8)
+  Done, Sir!
+2022-08-01T02:34:43Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2315.1,    74.3,  -580.6)
+  Good.
+2022-08-01T02:34:50Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 2393.9,    73.7,  -369.6)
+  New plan.
+2022-08-01T02:34:51Z: CHRCTER ADDED  [  216671816] TheDepthsOfHades     (   83.9,    75.2,    73.6)
+2022-08-01T02:34:52Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2236.4,    74.3,  -522.8)
+  I think its the flashlight glitch
+2022-08-01T02:34:55Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2314.6,    74.3,  -580.4)
+  Now,
+2022-08-01T02:34:58Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 2392.3,    73.7,  -371.8)
+  Get in.
+2022-08-01T02:34:59Z: PLAYER ADDED   [   90827927] ZillaMurda
+2022-08-01T02:35:04Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2231.6,    74.3,  -525.0)
+  stay here for a min
+2022-08-01T02:35:05Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 2225.8,    74.3,  -526.1)
+  What glitch?
+2022-08-01T02:35:07Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 2225.8,    74.3,  -526.1)
+  Alr
+2022-08-01T02:35:13Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2230.4,    74.3,  -523.8)
+  stay here
+2022-08-01T02:35:14Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2230.4,    74.3,  -523.8)
+  illl show
+2022-08-01T02:35:15Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2171.5,    74.6,  -613.7)
+  My M4 doesn't shoot.
+2022-08-01T02:35:18Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 2224.8,    74.3,  -525.3)
+  !unlight
+2022-08-01T02:35:19Z: PLAYER CHATTED [  654564775] Mason7cx             (  641.4,    62.9,   956.8)
+  How confident are you in protecting me at civ spawn?
+2022-08-01T02:35:21Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2145.9,    74.3,  -621.4)
+  .
+2022-08-01T02:35:29Z: PLAYER CHATTED [  837950418] CoolThunderLion50    (  649.4,    62.7,   990.5)
+  I think we could.
+2022-08-01T02:35:31Z: CHRCTER ADDED  [   90827927] ZillaMurda           (  -77.0,    78.0,   137.3)
+2022-08-01T02:35:35Z: PLAYER CHATTED [  170338001] roopr1               ( 2421.0,    74.3,  -653.4)
+  Your limo has arrived.
+2022-08-01T02:35:37Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2314.6,    74.3,  -580.4)
+  We are now on the academic briefing.
+2022-08-01T02:35:37Z: PLAYER CHATTED [ 2233083985] JeowlittoAPPLEs      ( 2224.8,    74.0,  -380.7)
+  if you get banned for exploiting
+2022-08-01T02:35:38Z: PLAYER CHATTED [  170338001] roopr1               ( 2421.7,    74.3,  -653.8)
+  jk
+2022-08-01T02:35:40Z: PLAYER CHATTED [ 2233083985] JeowlittoAPPLEs      ( 2227.8,    74.0,  -388.6)
+  we should try and make a yt video
+2022-08-01T02:35:41Z: PLAYER CHATTED [  654564775] Mason7cx             (  641.4,    62.9,   956.8)
+  When this agent is done being afk we will go there.
+2022-08-01T02:35:45Z: PLAYER CHATTED [ 2233083985] JeowlittoAPPLEs      ( 2230.4,    74.0,  -395.3)
+  exposing this game for not being a free country
+2022-08-01T02:35:46Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2244.2,    74.0,  -527.8)
+  u delete car while ur in it
+2022-08-01T02:35:46Z: PLAYER CHATTED [  837950418] CoolThunderLion50    (  649.4,    62.7,   990.5)
+  Okay.
+2022-08-01T02:35:48Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 2229.2,    73.7,  -399.2)
+  I'm not recording now.
+2022-08-01T02:35:52Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2314.6,    74.3,  -580.4)
+  You may record, take screenshots or takes note by using !Notepad.
+2022-08-01T02:35:54Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 2229.5,    73.7,  -400.1)
+  Are you?
+2022-08-01T02:35:57Z: PLAYER CHATTED [  691635668] VicDeth              ( 2227.4,    73.9,  -395.0)
+  lol
+2022-08-01T02:35:57Z: PLAYER CHATTED [ 1854783273] bullet556677         ( 2314.9,    74.3,  -574.9)
+  !Notepad
+2022-08-01T02:35:57Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2243.4,    74.3,  -526.6)
+  then spin flahligt
+2022-08-01T02:35:57Z: PLAYER CHATTED [ 2233083985] JeowlittoAPPLEs      ( 2230.9,    74.0,  -396.5)
+  mo
+2022-08-01T02:35:59Z: PLAYER CHATTED [  654564775] Mason7cx             (  641.4,    62.9,   956.8)
+  Civ just delted car
+2022-08-01T02:36:00Z: PLAYER CHATTED [ 2233083985] JeowlittoAPPLEs      ( 2230.0,    74.0,  -394.3)
+  want me to
+2022-08-01T02:36:00Z: PLAYER REMOVED [   90827927] ZillaMurda
+2022-08-01T02:36:03Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 2228.4,    73.7,  -397.2)
+  Sure.
+2022-08-01T02:36:03Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 2223.1,    74.3,  -523.4)
+  Woah.
+2022-08-01T02:36:04Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2314.6,    74.3,  -580.4)
+  Ready?
+2022-08-01T02:36:05Z: PLAYER CHATTED [  654564775] Mason7cx             (  641.4,    62.9,   956.8)
+  and stole one
+2022-08-01T02:36:10Z: PLAYER CHATTED [ 1854783273] bullet556677         ( 2314.9,    74.3,  -574.9)
+  Yes, Sir.
+2022-08-01T02:36:14Z: PLAYER CHATTED [ 2233026423] GobbleStopper01      ( 2310.1,    74.3,  -574.8)
+  Yes, Sir.
+2022-08-01T02:36:16Z: PLAYER CHATTED [ 2574392852] WormKuma             ( 2235.6,    74.3,  -526.6)
+  Hello POTUS.
+2022-08-01T02:36:16Z: PLAYER CHATTED [  837950418] CoolThunderLion50    (  632.8,    62.7,   983.1)
+  thats the car
+2022-08-01T02:36:18Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 2226.2,    74.3,  -522.3)
+  Hello.
+2022-08-01T02:36:19Z: PLAYER CHATTED [ 1522318246] Roroballer20         ( 2319.1,    74.3,  -574.6)
+  Pts.
+2022-08-01T02:36:20Z: PLAYER CHATTED [ 2233083985] JeowlittoAPPLEs      ( 2254.3,    84.5,  -257.9)
+  alr im making it
+2022-08-01T02:36:22Z: PLAYER CHATTED [ 2574392852] WormKuma             ( 2233.0,    74.3,  -525.7)
+  Do you need anything?
+2022-08-01T02:36:22Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2314.8,    74.3,  -580.4)
+  Granted,
+2022-08-01T02:36:24Z: PLAYER ADDED   [  422515766] MateBuzzy
+2022-08-01T02:36:25Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2224.1,    74.3,  -520.4)
+  epic glithc
+2022-08-01T02:36:26Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 2226.4,    74.3,  -522.3)
+  Yeah. Safety.
+2022-08-01T02:36:28Z: PLAYER CHATTED [  837950418] CoolThunderLion50    (  638.9,    62.7,   980.1)
+  It's the 100$ car
+2022-08-01T02:36:29Z: PLAYER CHATTED [ 1522318246] Roroballer20         ( 2319.1,    74.3,  -574.6)
+  Does notepad work?
+2022-08-01T02:36:30Z: CHRCTER ADDED  [  240370393] soggyrollercoster4   ( 2449.9,    74.8,  -670.3)
+2022-08-01T02:36:31Z: PLAYER CHATTED [ 2574392852] WormKuma             ( 2233.0,    74.3,  -525.7)
+  Ok.
+2022-08-01T02:36:35Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2314.8,    74.3,  -580.4)
+  Yes.
+2022-08-01T02:36:37Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2314.8,    74.3,  -580.4)
+  !notepad
+2022-08-01T02:36:37Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 2226.4,    74.3,  -522.3)
+  I’m in danger form a gang.
+2022-08-01T02:36:38Z: PLAYER CHATTED [ 1522318246] Roroballer20         ( 2319.1,    74.3,  -574.6)
+  !notepad
+2022-08-01T02:36:41Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2236.6,    74.3,  -518.5)
+  Running up that hill.
+2022-08-01T02:36:42Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2236.6,    74.3,  -518.5)
+  .
+2022-08-01T02:36:42Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 2172.5,   162.4,  -507.0)
+  Jump and shoot.
+2022-08-01T02:36:43Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2236.6,    74.3,  -518.5)
+  .
+2022-08-01T02:36:43Z: CHRCTER ADDED  [  422515766] MateBuzzy            (  714.1,    51.3,  1034.3)
+2022-08-01T02:36:43Z: PLAYER CHATTED [  214958957] DonCar1osGaviria414  (  589.7,    52.6,  1031.3)
+  bro can you dso your job?
+2022-08-01T02:36:47Z: PLAYER CHATTED [ 2574392852] WormKuma             ( 2233.0,    74.3,  -525.7)
+  Ok.
+2022-08-01T02:36:50Z: PLAYER REMOVED [ 1349868222] OperaSoviet
+2022-08-01T02:36:50Z: PLAYER CHATTED [  214958957] DonCar1osGaviria414  (  517.8,    52.6,  1105.1)
+  can you?
+2022-08-01T02:36:51Z: PLAYER CHATTED [  691635668] VicDeth              ( 2177.7,   162.3,  -512.0)
+  i9 dont have guns
+2022-08-01T02:36:53Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2314.9,    74.3,  -581.7)
+  Let's begin.
+2022-08-01T02:36:56Z: PLAYER CHATTED [  973587792] XxwingfaderxX        (  478.7,    52.8,  1053.8)
+  ..
+2022-08-01T02:36:57Z: PLAYER CHATTED [  654564775] Mason7cx             (  632.5,    62.7,   997.5)
+  I emant to hit
+2022-08-01T02:36:58Z: PLAYER CHATTED [  654564775] Mason7cx             (  632.5,    62.7,   997.5)
+  accept
+2022-08-01T02:37:00Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 2170.1,   161.9,  -514.2)
+  Neither do I.
+2022-08-01T02:37:03Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2314.9,    74.3,  -581.7)
+  The National Guard is a reserve component of the United States military and Air force.
+2022-08-01T02:37:04Z: PLAYER CHATTED [  654564775] Mason7cx             (  632.5,    62.7,   997.5)
+  theres a thing in the wa
+2022-08-01T02:37:06Z: PLAYER CHATTED [  654564775] Mason7cx             (  632.5,    62.7,   997.5)
+  send again
+2022-08-01T02:37:09Z: PLAYER CHATTED [  691635668] VicDeth              ( 2176.7,   162.3,  -510.3)
+  500 to pistol
+2022-08-01T02:37:14Z: CHRCTER ADDED  [  170338001] roopr1               ( 2437.9,    74.8,  -670.3)
+2022-08-01T02:37:19Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2314.9,    74.3,  -581.7)
+  We have three regiments.
+2022-08-01T02:37:23Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2079.6,    75.5,  -642.3)
+  djud
+2022-08-01T02:37:26Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2105.1,    74.3,  -603.6)
+  the flying car
+2022-08-01T02:37:26Z: PLAYER CHATTED [ 2574392852] WormKuma             ( 2115.4,    74.3,  -616.2)
+  Are you just here for POTUS?
+2022-08-01T02:37:34Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2100.5,    74.3,  -603.1)
+  does anyone elsee see that
+2022-08-01T02:37:35Z: PLAYER CHATTED [  691635668] VicDeth              ( 2185.8,   162.3,  -430.3)
+  i think
+2022-08-01T02:37:35Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2314.9,    74.3,  -581.7)
+  The 224th Regiment-Sustainment Brigade: The aviation unit of the guard. It is the only unit that can operate the fleet of Marine One.
+2022-08-01T02:37:37Z: PLAYER CHATTED [  110322078] Joeliyano            ( 2111.4,    74.3,  -603.4)
+  Yes.
+2022-08-01T02:37:42Z: PLAYER CHATTED [  691635668] VicDeth              ( 2185.8,   162.3,  -430.3)
+  they see us
+2022-08-01T02:37:42Z: PLAYER CHATTED [ 2574392852] WormKuma             ( 2113.2,    74.3,  -605.3)
+  Ok.
+2022-08-01T02:37:49Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 2189.4,   162.1,  -418.7)
+  Get in.
+2022-08-01T02:37:50Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2314.9,    74.3,  -581.7)
+  The 34th Regiment-Infantry Division: The main combatants of the guard.
+2022-08-01T02:37:55Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2104.2,    74.3,  -610.4)
+  anyone else see the car
+2022-08-01T02:37:56Z: PLAYER CHATTED [  654564775] Mason7cx             (  617.6,    52.7,   997.3)
+  Not gonna risk the trip without all 3
+2022-08-01T02:38:01Z: PLAYER CHATTED [  837950418] CoolThunderLion50    (  608.9,    52.7,   993.3)
+  Okay.
+2022-08-01T02:38:06Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2314.9,    74.3,  -581.7)
+  The 16th Regiment-Engineer Brigade: The vehicle barricade and mobility of the guard.
+2022-08-01T02:38:07Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2102.7,    74.3,  -600.3)
+  ## run
+2022-08-01T02:38:08Z: PLAYER ADDED   [ 2997797716] Froot_loops1209030
+2022-08-01T02:38:13Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 2198.7,    73.7,   260.5)
+  Let me check logs.
+2022-08-01T02:38:13Z: PLAYER CHATTED [  170338001] roopr1               ( 2112.9,    74.3,  -606.0)
+  wth
+2022-08-01T02:38:17Z: PLAYER CHATTED [ 2574392852] WormKuma             ( 2092.7,    74.3,  -636.7)
+  Stop.
+2022-08-01T02:38:21Z: PLAYER CHATTED [  973587792] XxwingfaderxX        ( 2094.6,    74.3,  -641.4)
+  he despawning pres cars.
+2022-08-01T02:38:22Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2314.9,    74.3,  -581.7)
+  You can only join one regiment at once.
+2022-08-01T02:38:22Z: PLAYER CHATTED [  170338001] roopr1               ( 2112.7,    74.3,  -606.3)
+  Man was just standing here.
+2022-08-01T02:38:22Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2094.0,    74.3,  -618.7)
+  random killer
+2022-08-01T02:38:26Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2094.2,    74.3,  -618.7)
+  how did you find me
+2022-08-01T02:38:30Z: PLAYER CHATTED [ 2574392852] WormKuma             ( 2092.7,    74.3,  -636.7)
+  Well you cant kill him.
+2022-08-01T02:38:30Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 2220.5,    74.3,  -522.9)
+  Ok, I think I can go back to the House now. There’s only one criminal.
+2022-08-01T02:38:32Z: CHRCTER ADDED  [  153519329] kickboy137           (  -75.7,    78.0,   136.3)
+2022-08-01T02:38:33Z: CHRCTER ADDED  [ 2997797716] Froot_loops1209030   (  211.3,    75.2,    46.8)
+2022-08-01T02:38:35Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2097.2,    74.3,  -619.6)
+  Exploiter.
+2022-08-01T02:38:37Z: CHRCTER ADDED  [  153519329] kickboy137           (  -83.8,    78.0,   138.3)
+2022-08-01T02:38:38Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2314.9,    74.3,  -581.7)
+  If you wish to join another regiment, you will have to discharge from your current regiment.
+2022-08-01T02:38:39Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 2198.4,    73.7,   259.2)
+  They see us.
+2022-08-01T02:38:42Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 2198.4,    73.7,   259.2)
+  'Glitching'.
+2022-08-01T02:38:45Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 2220.5,    74.3,  -522.9)
+  But I wanna go in M1.
+2022-08-01T02:38:45Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2092.9,    74.3,  -623.3)
+  yes sa
+2022-08-01T02:38:46Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2097.2,    74.3,  -619.6)
+  You were running so fast.
+2022-08-01T02:38:47Z: PLAYER CHATTED [  691635668] VicDeth              ( 2199.2,    74.0,   262.2)
+  yep
+2022-08-01T02:38:48Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 2198.4,    73.7,   259.2)
+  'The $100 car'.
+2022-08-01T02:38:48Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2092.9,    74.3,  -623.6)
+  is a exploiter
+2022-08-01T02:38:48Z: PLAYER CHATTED [  973587792] XxwingfaderxX        ( 2093.2,    74.3,  -629.9)
+  You better hide.
+2022-08-01T02:38:53Z: PLAYER CHATTED [  170338001] roopr1               ( 2101.1,    74.3,  -624.7)
+  He's glitching.
+2022-08-01T02:38:53Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2314.9,    74.3,  -581.7)
+  Regimental discharge will result in you being demoted to E2 regardless of how high you have worked your way up in a regiment.
+2022-08-01T02:38:53Z: PLAYER CHATTED [ 2574392852] WormKuma             ( 2087.3,    74.3,  -625.4)
+  wait.
+2022-08-01T02:38:55Z: PLAYER CHATTED [  973587792] XxwingfaderxX        ( 2093.1,    74.3,  -628.5)
+  Little boy.
+2022-08-01T02:38:55Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2093.6,    74.3,  -624.6)
+  i got bigger guns
+2022-08-01T02:38:56Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2095.5,    74.3,  -620.8)
+  Your a exploiter.
+2022-08-01T02:38:58Z: PLAYER CHATTED [  691635668] VicDeth              ( 2199.2,    74.0,   262.2)
+  maybe they are specting us
+2022-08-01T02:38:59Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2093.6,    74.3,  -624.8)
+  im a man
+2022-08-01T02:39:00Z: PLAYER CHATTED [ 2574392852] WormKuma             ( 2087.3,    74.3,  -625.4)
+  Were you the L of mod?
+2022-08-01T02:39:02Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2093.6,    74.3,  -624.8)
+  for your information
+2022-08-01T02:39:05Z: PLAYER CHATTED [  691635668] VicDeth              ( 2199.2,    74.0,   262.2)
+  admins
+2022-08-01T02:39:06Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2093.6,    74.3,  -624.8)
+  how about we fight
+2022-08-01T02:39:07Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2115.5,    74.3,  -628.8)
+  I was afk for a min
+2022-08-01T02:39:08Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2093.6,    74.3,  -624.8)
+  to the deatj
+2022-08-01T02:39:10Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2314.9,    74.3,  -581.7)
+  After this session you will be ranked to [E2]. When you become E2, you will be able to attend a tryout to have a chance to join one of our regiments.
+2022-08-01T02:39:11Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 2198.4,    73.7,   259.2)
+  Likely.
+2022-08-01T02:39:13Z: PLAYER CHATTED [  973587792] XxwingfaderxX        ( 2093.1,    72.3,  -628.5)
+  Ill murder you.
+2022-08-01T02:39:13Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  620.3,    52.7,   995.7)
+  was afk
+2022-08-01T02:39:15Z: PLAYER CHATTED [  110322078] Joeliyano            ( 2097.7,    74.3,  -628.6)
+  !fixjoints
+2022-08-01T02:39:16Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2093.6,    74.3,  -624.8)
+  kill president first
+2022-08-01T02:39:17Z: PLAYER CHATTED [  110322078] Joeliyano            ( 2097.7,    74.3,  -628.6)
+  .
+2022-08-01T02:39:19Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  608.7,    52.7,   999.0)
+  whats the plan?
+2022-08-01T02:39:20Z: PLAYER CHATTED [  837950418] CoolThunderLion50    (  611.5,    52.7,   995.6)
+  We go now?
+2022-08-01T02:39:22Z: PLAYER CHATTED [  110322078] Joeliyano            ( 2111.0,    74.3,  -631.5)
+  .
+2022-08-01T02:39:22Z: PLAYER CHATTED [  973587792] XxwingfaderxX        ( 2094.3,    74.3,  -631.6)
+  SEEE.
+2022-08-01T02:39:23Z: CHRCTER ADDED  [ 2410124390] Jibblers2004         (  766.8,    62.6,  1032.7)
+2022-08-01T02:39:24Z: CHRCTER ADDED  [  216671816] TheDepthsOfHades     (  215.4,    75.2,   250.7)
+2022-08-01T02:39:26Z: PLAYER CHATTED [  654564775] Mason7cx             (  621.4,    52.7,  1000.3)
+  Cars cna get returned now, prepare for trip to civ spawn
+2022-08-01T02:39:26Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2314.9,    74.3,  -581.7)
+  As an E2 you are not allowed to open the menu at the personnel vehicles desk to spawn any vehicles, leave the base unless authorised by the required personnel, or part of an event.
+2022-08-01T02:39:27Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 2198.4,    73.7,   259.2)
+  I'll get a new gun.
+2022-08-01T02:39:28Z: PLAYER CHATTED [  837950418] CoolThunderLion50    (  618.1,    52.7,   996.2)
+  He wants to go to civ spawn.
+2022-08-01T02:39:28Z: PLAYER CHATTED [  170338001] roopr1               ( 2109.8,    74.3,  -620.6)
+  Why did ## come out here.
+2022-08-01T02:39:29Z: PLAYER CHATTED [  973587792] XxwingfaderxX        ( 2103.1,    74.3,  -630.4)
+  I CANT KILL HIM?
+2022-08-01T02:39:32Z: PLAYER CHATTED [  110322078] Joeliyano            ( 2109.1,    74.3,  -627.4)
+  Well...
+2022-08-01T02:39:34Z: PLAYER CHATTED [  691635668] VicDeth              ( 2199.2,    74.0,   262.2)
+  new plan
+2022-08-01T02:39:36Z: PLAYER CHATTED [ 2574392852] WormKuma             ( 2100.4,    74.3,  -620.3)
+  You could there.
+2022-08-01T02:39:39Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 2198.4,    73.7,   259.2)
+  ...Maybe.
+2022-08-01T02:39:40Z: PLAYER CHATTED [  691635668] VicDeth              ( 2199.2,    74.0,   262.2)
+  to the guns shop
+2022-08-01T02:39:41Z: PLAYER CHATTED [ 2574392852] WormKuma             ( 2100.0,    74.3,  -617.3)
+  But before no.
+2022-08-01T02:39:42Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2314.9,    74.3,  -581.7)
+  Rules are strictly enforced on E2’s and you will be discharged on the spot if caught violating any of these regulations.
+2022-08-01T02:39:43Z: CHRCTER ADDED  [  110322078] Joeliyano            (  782.5,    51.1,  1022.6)
+2022-08-01T02:39:45Z: PLAYER CHATTED [  654564775] Mason7cx             (  603.8,    52.7,   998.7)
+  Hello Mr president.
+2022-08-01T02:39:52Z: PLAYER CHATTED [ 2410124390] Jibblers2004         (  601.9,    52.7,  1007.4)
+  No. We gotta go pick up agents from N G.
+2022-08-01T02:39:56Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  468.6,    53.7,  1062.8)
+  spawn a CAT
+2022-08-01T02:39:57Z: PLAYER CHATTED [ 2410124390] Jibblers2004         (  601.9,    52.7,  1007.4)
+  I was killed by a dumb civ.
+2022-08-01T02:39:58Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2314.9,    74.3,  -581.7)
+  Duties of the Whitehouse will be told to you relevant to which regiment you enlist in, in the future.
+2022-08-01T02:39:58Z: PLAYER CHATTED [  170338001] roopr1               ( 2131.6,    74.3,  -599.1)
+  Motorcade?
+2022-08-01T02:40:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (  896.9,   687.7,   321.7)
+  He moved.
+2022-08-01T02:40:07Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  558.0,    52.6,   961.4)
+  hi pres
+2022-08-01T02:40:10Z: PLAYER CHATTED [  170338001] roopr1               ( 2131.6,    74.3,  -599.1)
+  POTUS is going to be trapped there.
+2022-08-01T02:40:13Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2314.9,    74.3,  -581.7)
+  The National Guard adopts a different stance to mistakes, with stricter enforcement, and similarly harsher punishments.
+2022-08-01T02:40:13Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  578.5,    53.9,   988.1)
+  wow
+2022-08-01T02:40:16Z: PLAYER REMOVED [  422515766] MateBuzzy
+2022-08-01T02:40:17Z: PLAYER CHATTED [  837950418] CoolThunderLion50    (  583.2,    53.7,   995.9)
+  National Guard?
+2022-08-01T02:40:18Z: PLAYER CHATTED [ 2574392852] WormKuma             ( 2132.1,    74.3,  -593.1)
+  It will be fine for now.
+2022-08-01T02:40:19Z: PLAYER CHATTED [ 2410124390] Jibblers2004         (  582.5,    53.8,   991.3)
+  Agent, we gotta go pick up some comrades at N G.
+2022-08-01T02:40:24Z: PLAYER CHATTED [  837950418] CoolThunderLion50    (  583.2,    53.7,   995.9)
+  Okay.
+2022-08-01T02:40:24Z: PLAYER CHATTED [  170338001] roopr1               ( 2131.6,    74.3,  -599.1)
+  Ok
+2022-08-01T02:40:25Z: PLAYER CHATTED [ 2410124390] Jibblers2004         (  582.8,    53.8,   993.4)
+  We have stranded agents there.
+2022-08-01T02:40:28Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  581.0,    53.9,  1003.3)
+  you called me dumb
+2022-08-01T02:40:31Z: PLAYER CHATTED [  110322078] Joeliyano            (  585.2,    53.7,  1030.7)
+  I am here.
+2022-08-01T02:40:32Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2314.9,    74.3,  -581.7)
+  Instructors always want what is best for their personnel. If they yell at you, it’s because you did something they don’t want you to do.
+2022-08-01T02:40:32Z: CHRCTER ADDED  [ 2233083985] JeowlittoAPPLEs      (  -84.5,    78.0,   137.8)
+2022-08-01T02:40:33Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  586.1,    53.9,  1034.7)
+  dude that hurts
+2022-08-01T02:40:34Z: PLAYER CHATTED [ 2574392852] WormKuma             ( 2132.1,    74.3,  -593.1)
+  If he comes back I will keep him here in the back.
+2022-08-01T02:40:36Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   91.3,    75.2,    77.1)
+2022-08-01T02:40:38Z: PLAYER ADDED   [ 2614565940] YASINTOIT
+2022-08-01T02:40:39Z: PLAYER CHATTED [ 2410124390] Jibblers2004         (  586.2,    53.8,  1123.4)
+  Where did you come from?
+2022-08-01T02:40:40Z: CHRCTER ADDED  [  691635668] VicDeth              (   87.0,    75.2,    73.9)
+2022-08-01T02:40:41Z: PLAYER CHATTED [  170338001] roopr1               ( 2123.7,    74.3,  -597.4)
+  Ok.
+2022-08-01T02:40:46Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  568.1,    64.1,  1336.0)
+  from your moms house
+2022-08-01T02:40:47Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2314.9,    74.3,  -581.7)
+  Simply being yelled at does not mean that an Instructor or HICOM is permanently dismayed by your behaviour, or will look at you the same way in the future.
+2022-08-01T02:40:49Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  569.6,    64.1,  1355.9)
+  lol
+2022-08-01T02:40:52Z: PLAYER CHATTED [ 2410124390] Jibblers2004         (  520.1,    65.0,  1432.7)
+  Very funny.
+2022-08-01T02:40:54Z: CHRCTER ADDED  [ 2614565940] YASINTOIT            (  782.5,    51.1,  1022.6)
+2022-08-01T02:40:54Z: PLAYER CHATTED [  110322078] Joeliyano            (  342.7,    75.4,  1413.2)
+  This dude in our car is tghe guy who killed the POTUS
+2022-08-01T02:40:56Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  213.1,    75.6,  1415.9)
+  i know
+2022-08-01T02:40:59Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (   81.7,    75.6,  1417.2)
+  thats why i said it
+2022-08-01T02:40:59Z: PLAYER CHATTED [ 2233026423] GobbleStopper01      ( 2310.1,    74.3,  -574.8)
+  PTS sir
+2022-08-01T02:41:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -47.5,    74.7,   187.4)
+  I don't have enough moneys
+2022-08-01T02:41:06Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2314.9,    74.3,  -581.7)
+  Granted.
+2022-08-01T02:41:08Z: PLAYER CHATTED [ 2410124390] Jibblers2004         (   17.9,    75.6,   903.8)
+  Too bad my moms been dead for years.
+2022-08-01T02:41:09Z: PLAYER CHATTED [ 2233026423] GobbleStopper01      ( 2310.1,    74.3,  -574.8)
+  could you repeat 2 lines back i missed it.
+2022-08-01T02:41:10Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (   21.3,    75.6,   729.8)
+  keep driving
+2022-08-01T02:41:15Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (   21.5,    75.6,   469.3)
+  pretend im not here
+2022-08-01T02:41:17Z: PLAYER CHATTED [ 1522318246] Roroballer20         ( 2319.1,    74.3,  -574.6)
+  PTS.
+2022-08-01T02:41:21Z: PLAYER CHATTED [  691635668] VicDeth              (  -51.8,    74.7,   190.0)
+  i cant buy
+2022-08-01T02:41:24Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2316.5,    74.3,  -581.5)
+  Granted.
+2022-08-01T02:41:24Z: CHRCTER ADDED  [  153519329] kickboy137           (  -82.5,    78.0,    90.6)
+2022-08-01T02:41:25Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (   18.4,    75.6,  -202.0)
+  rip
+2022-08-01T02:41:33Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  416.3,    75.7,  -246.5)
+  can we get a # ## the chat for presidents mom
+2022-08-01T02:41:33Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  447.7,    75.6,  -246.0)
+  F
+2022-08-01T02:41:35Z: PLAYER CHATTED [  691635668] VicDeth              (  -51.8,    74.7,   190.0)
+  maybe bc im citizen
+2022-08-01T02:41:37Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -55.3,    74.7,   190.5)
+  Is there a stash somewhere?
+2022-08-01T02:41:40Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  823.1,    75.6,  -241.1)
+  im sorry
+2022-08-01T02:41:42Z: PLAYER CHATTED [ 1522318246] Roroballer20         ( 2319.1,    74.3,  -574.6)
+  I tryed my best copying it down.
+2022-08-01T02:41:44Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 1103.8,    75.6,  -246.0)
+  It’s ok.
+2022-08-01T02:41:46Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  -81.0,    78.0,   133.4)
+2022-08-01T02:41:47Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2318.1,    74.3,  -578.3)
+  Ok.
+2022-08-01T02:41:49Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 1390.0,    75.6,  -249.2)
+  Happened years ago.
+2022-08-01T02:41:49Z: PLAYER CHATTED [ 1522318246] Roroballer20         ( 2319.1,    74.3,  -574.6)
+  The important stuff.
+2022-08-01T02:41:51Z: PLAYER REMOVED [  691635668] VicDeth
+2022-08-01T02:41:57Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2315.9,    74.3,  -581.2)
+  Instructors always want what is best for their personnel. If they yell at you, it’s because you did something they don’t want you to do.
+2022-08-01T02:42:06Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 1775.4,    75.6,  -764.6)
+  what was she like?
+2022-08-01T02:42:09Z: PLAYER REMOVED [ 2997797716] Froot_loops1209030
+2022-08-01T02:42:13Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2314.8,    74.3,  -581.2)
+  Simply being yelled at does not mean that an Instructor or HICOM is permanently dismayed by your behaviour, or will look at you the same way in the future.
+2022-08-01T02:42:15Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 2080.5,    75.5,  -659.1)
+  No idea. I was a baby then.
+2022-08-01T02:42:21Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2075.0,    75.6,  -632.9)
+  oh thats sad
+2022-08-01T02:42:27Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2089.0,    74.3,  -628.2)
+  I would go back to the same spot
+2022-08-01T02:42:28Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2314.8,    74.3,  -581.2)
+  SSES, MOD, Janitors, POTUS, VPOTUS, High Command or above may enter the base at any time.
+2022-08-01T02:42:29Z: PLAYER CHATTED [  973587792] XxwingfaderxX        (  547.1,    75.9,   557.9)
+  Sir.
+2022-08-01T02:42:30Z: PLAYER ADDED   [  691635668] VicDeth
+2022-08-01T02:42:33Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     ( 2091.6,    74.3,  -624.5)
+  .
+2022-08-01T02:42:34Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2078.1,    74.3,  -609.7)
+  magic powers
+2022-08-01T02:42:36Z: PLAYER CHATTED [ 2614565940] YASINTOIT            (  565.6,    75.5,   579.1)
+  yes
+2022-08-01T02:42:36Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     ( 2091.7,    74.3,  -625.4)
+  Who despawned
+2022-08-01T02:42:39Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 2097.6,    74.3,  -631.8)
+  Uh.
+2022-08-01T02:42:40Z: PLAYER CHATTED [  214958957] DonCar1osGaviria414  ( 2085.2,    74.3,  -632.9)
+  br
+2022-08-01T02:42:41Z: PLAYER CHATTED [  973587792] XxwingfaderxX        (  562.4,    53.8,  1033.1)
+  Lets go.
+2022-08-01T02:42:43Z: PLAYER CHATTED [  837950418] CoolThunderLion50    ( 2087.7,    74.3,  -619.8)
+  Not me.
+2022-08-01T02:42:44Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2314.8,    74.3,  -581.2)
+  You must always respect other personnel.
+2022-08-01T02:42:44Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2093.9,    74.3,  -629.4)
+  follow fast
+2022-08-01T02:42:46Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2083.3,    72.3,  -621.8)
+  not me
+2022-08-01T02:42:47Z: PLAYER CHATTED [  170338001] roopr1               ( 2096.0,    74.3,  -629.2)
+  POTUS go
+2022-08-01T02:42:47Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     ( 2098.6,    74.3,  -626.3)
+  Go in
+2022-08-01T02:42:50Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     ( 2090.1,    74.3,  -624.4)
+  the base
+2022-08-01T02:42:58Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 2128.5,    74.3,  -633.3)
+  What happened to the agents #### were here?
+2022-08-01T02:42:58Z: PLAYER CHATTED [  214958957] DonCar1osGaviria414  ( 2093.6,    74.3,  -617.1)
+  Sir
+2022-08-01T02:42:58Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1028.8,    74.0,   -69.8)
+  President is still at the National Guard.
+2022-08-01T02:43:00Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2314.8,    74.3,  -581.2)
+  The chain of command is a hierarchical system of ranking in the National Guard, used to ease allocation of responsibilities to members of administration.
+2022-08-01T02:43:00Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2092.2,    74.3,  -601.1)
+  found a crim btw
+2022-08-01T02:43:00Z: PLAYER CHATTED [  214958957] DonCar1osGaviria414  ( 2094.0,    74.3,  -607.6)
+  Back up
+2022-08-01T02:43:00Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     ( 2092.6,    74.3,  -624.6)
+  VPOTUS
+2022-08-01T02:43:02Z: CHRCTER ADDED  [  691635668] VicDeth              (  -77.3,    78.0,    91.0)
+2022-08-01T02:43:03Z: PLAYER CHATTED [  153519329] kickboy137           ( 2094.1,    74.0,  -553.3)
+  aye
+2022-08-01T02:43:03Z: PLAYER CHATTED [  654564775] Mason7cx             ( 2088.7,    74.3,  -622.6)
+  ?
+2022-08-01T02:43:04Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2216.4,    74.5,  -628.8)
+  died
+2022-08-01T02:43:06Z: PLAYER CHATTED [  110322078] Joeliyano            ( 2093.7,    74.3,  -576.0)
+  Move along.
+2022-08-01T02:43:06Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     ( 2090.7,    74.3,  -626.4)
+  go inside
+2022-08-01T02:43:07Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2098.0,    74.3,  -606.9)
+  why is it so dark
+2022-08-01T02:43:07Z: PLAYER CHATTED [  153519329] kickboy137           ( 2093.5,    74.0,  -527.9)
+  just vibin
+2022-08-01T02:43:13Z: PLAYER CHATTED [  153519329] kickboy137           ( 2093.5,    74.0,  -522.4)
+  nothing to see here
+2022-08-01T02:43:15Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     ( 2106.8,    74.3,  -616.0)
+  with the potus
+2022-08-01T02:43:15Z: PLAYER CHATTED [  214958957] DonCar1osGaviria414  ( 2083.7,    74.3,  -554.8)
+  Back off the premisis
+2022-08-01T02:43:16Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2314.8,    74.3,  -581.2)
+  It must be followed at all times when contacting someone regarding issues/queries to avoid a large inflow of messages to the National Guard HICOM.
+2022-08-01T02:43:17Z: PLAYER CHATTED [  654564775] Mason7cx             ( 2127.1,    74.3,  -607.6)
+  Evening gents.
+2022-08-01T02:43:18Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 2217.6,    74.3,  -522.0)
+  Oh. I came to pick them up.
+2022-08-01T02:43:18Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2225.5,    74.3,  -521.1)
+  ## must protect him
+2022-08-01T02:43:21Z: PLAYER CHATTED [  691635668] VicDeth              (    1.8,    74.3,   120.8)
+  buy a car and i shoot
+2022-08-01T02:43:22Z: PLAYER CHATTED [  153519329] kickboy137           ( 2093.4,    74.0,  -518.6)
+  why
+2022-08-01T02:43:25Z: PLAYER CHATTED [  153519329] kickboy137           ( 2093.3,    74.0,  -517.1)
+  public street
+2022-08-01T02:43:26Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2112.8,    74.3,  -612.6)
+  down with captalism
+2022-08-01T02:43:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.5,    74.3,   128.4)
+  You have a gun now?
+2022-08-01T02:43:28Z: PLAYER CHATTED [  214958957] DonCar1osGaviria414  ( 2085.2,    74.3,  -542.0)
+  Because this is blocked off
+2022-08-01T02:43:30Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 2217.6,    74.3,  -522.0)
+  !light
+2022-08-01T02:43:32Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2314.8,    74.3,  -581.2)
+  As an E2, you are expected to have a realistic avatar whenever you are on duty.
+2022-08-01T02:43:33Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2113.1,    74.3,  -612.8)
+  send the president to hell where he belongs
+2022-08-01T02:43:39Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2109.5,    74.3,  -611.5)
+  oh wow
+2022-08-01T02:43:39Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     ( 2090.8,    74.3,  -529.9)
+  Presidential Candidate
+2022-08-01T02:43:40Z: PLAYER CHATTED [  153519329] kickboy137           ( 2093.1,    74.0,  -509.8)
+  im gonna be late
+2022-08-01T02:43:43Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     ( 2092.6,    74.3,  -523.6)
+  Road is closed
+2022-08-01T02:43:45Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2109.5,    74.3,  -607.0)
+  its this kind of protest
+2022-08-01T02:43:47Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2109.5,    74.3,  -607.0)
+  im down for that
+2022-08-01T02:43:47Z: PLAYER CHATTED [  153519329] kickboy137           ( 2092.6,    74.0,  -497.5)
+  why the hell would he be here
+2022-08-01T02:43:48Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2314.8,    74.3,  -581.2)
+  Therefore, your accessories must be in order with the basic uniform regulations.
+2022-08-01T02:43:50Z: PLAYER CHATTED [  214958957] DonCar1osGaviria414  ( 2097.3,    74.3,  -531.0)
+  Don't care use a different route.
+2022-08-01T02:43:55Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2112.1,    74.3,  -603.2)
+  no more captalism
+2022-08-01T02:43:59Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2112.5,    74.3,  -603.2)
+  end the presidents life
+2022-08-01T02:44:01Z: PLAYER CHATTED [  153519329] kickboy137           ( 2092.7,    74.0,  -495.8)
+  ok
+2022-08-01T02:44:02Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2112.5,    74.3,  -603.2)
+  i will do it
+2022-08-01T02:44:05Z: PLAYER CHATTED [  654564775] Mason7cx             ( 2216.0,    74.3,  -512.9)
+  Mr President
+2022-08-01T02:44:08Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2314.8,    74.3,  -581.2)
+  Any repeats?
+2022-08-01T02:44:10Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 2216.1,    74.3,  -521.8)
+  Yes?
+2022-08-01T02:44:10Z: PLAYER CHATTED [ 2233026423] GobbleStopper01      ( 2310.1,    74.3,  -574.8)
+  PTS, Sir.
+2022-08-01T02:44:12Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2111.6,    74.3,  -599.2)
+  big baby lol
+2022-08-01T02:44:13Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1118.8,    73.8,  -114.3)
+  Test shooting.
+2022-08-01T02:44:16Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2121.4,    74.3,  -597.3)
+  Out
+2022-08-01T02:44:17Z: PLAYER CHATTED [  654564775] Mason7cx             ( 2215.0,    74.3,  -513.1)
+  Due to this criminal rate
+2022-08-01T02:44:17Z: PLAYER CHATTED [  153519329] kickboy137           ( 1792.9,    74.1,  -778.0)
+  bro get out
+2022-08-01T02:44:18Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2312.8,    74.3,  -578.9)
+  Granted,
+2022-08-01T02:44:20Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2117.0,    74.3,  -593.6)
+  why
+2022-08-01T02:44:21Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2119.9,    74.3,  -595.8)
+  5
+2022-08-01T02:44:21Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     ( 2015.0,    74.5,  -721.8)
+  bruh
+2022-08-01T02:44:21Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2111.6,    74.3,  -597.4)
+  dont kill him
+2022-08-01T02:44:22Z: PLAYER CHATTED [  214958957] DonCar1osGaviria414  ( 1978.7,    74.7,  -733.1)
+  man
+2022-08-01T02:44:22Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2119.9,    74.3,  -595.8)
+  4
+2022-08-01T02:44:24Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2119.9,    74.3,  -595.8)
+  3
+2022-08-01T02:44:25Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2119.9,    74.3,  -595.8)
+  2
+2022-08-01T02:44:26Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2112.0,    74.3,  -597.3)
+  hes only a boy
+2022-08-01T02:44:28Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1057.9,    74.0,   -79.0)
+  is your camera spinning?
+2022-08-01T02:44:29Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2112.4,    74.3,  -592.9)
+  ;(
+2022-08-01T02:44:30Z: PLAYER CHATTED [ 2233026423] GobbleStopper01      ( 2310.1,    74.3,  -574.8)
+  Is there a restriction on facial expressions?
+2022-08-01T02:44:32Z: PLAYER ADDED   [  481668836] BandanaBonnie
+2022-08-01T02:44:34Z: PLAYER REMOVED [  153519329] kickboy137
+2022-08-01T02:44:35Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1057.9,    74.0,   -79.0)
+  Can you shoot from inside the car?
+2022-08-01T02:44:36Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2112.4,    74.3,  -600.5)
+  you ## have no manners
+2022-08-01T02:44:36Z: PLAYER CHATTED [  654564775] Mason7cx             ( 2215.0,    74.3,  -513.1)
+  I would advise you to activate separation plans, to prevent the loss of both leaders
+2022-08-01T02:44:36Z: PLAYER CHATTED [ 2233026423] GobbleStopper01      ( 2310.1,    74.3,  -574.8)
+  or faces.
+2022-08-01T02:44:37Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     ( 2112.1,    74.3,  -588.1)
+  You guys spawning the M1?
+2022-08-01T02:44:38Z: PLAYER CHATTED [  837950418] CoolThunderLion50    ( 2105.0,    74.3,  -605.0)
+  What happened?
+2022-08-01T02:44:39Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2112.4,    74.3,  -600.5)
+  show us the president
+2022-08-01T02:44:41Z: PLAYER CHATTED [  691635668] VicDeth              ( 1055.4,    74.2,   -79.0)
+  just out the car
+2022-08-01T02:44:45Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1057.9,    74.0,   -79.0)
+  Okey.
+2022-08-01T02:44:46Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2312.8,    74.3,  -578.9)
+  Just don't make it unrealistic.
+2022-08-01T02:44:46Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2112.4,    74.3,  -600.5)
+  bring us blood
+2022-08-01T02:44:49Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2112.4,    74.3,  -600.5)
+  we wwant blood
+2022-08-01T02:44:50Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 2216.8,    74.3,  -520.8)
+  Separation plans?
+2022-08-01T02:44:52Z: CHRCTER ADDED  [  481668836] BandanaBonnie        (  688.8,    51.4,  1022.6)
+2022-08-01T02:44:58Z: PLAYER CHATTED [ 2233026423] GobbleStopper01      ( 2310.1,    74.3,  -574.8)
+  Understood, Sir.
+2022-08-01T02:44:58Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     ( 2113.0,    74.3,  -595.3)
+  ?
+2022-08-01T02:45:00Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 2216.6,    74.3,  -520.8)
+  Like you go with SS and me stay here?
+2022-08-01T02:45:05Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2112.4,    74.3,  -600.5)
+  the president didnt overturn the supreme courts decision
+2022-08-01T02:45:08Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2315.6,    74.3,  -582.8)
+  Any repeats?
+2022-08-01T02:45:08Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2112.4,    74.3,  -600.5)
+  im pretty pissed
+2022-08-01T02:45:10Z: PLAYER CHATTED [  170338001] roopr1               ( 2119.2,    74.5,  -590.3)
+  My good sir.
+2022-08-01T02:45:15Z: PLAYER CHATTED [ 2233026423] GobbleStopper01      ( 2310.1,    74.3,  -574.8)
+  No, Sir.
+2022-08-01T02:45:15Z: PLAYER CHATTED [ 1854783273] bullet556677         ( 2314.9,    74.3,  -574.9)
+  No, Sir.
+2022-08-01T02:45:17Z: PLAYER CHATTED [  654564775] Mason7cx             ( 2215.0,    74.3,  -513.1)
+  It seperated the vice president from president, to protect the government from overthrow.
+2022-08-01T02:45:18Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     ( 2110.8,    74.3,  -592.1)
+  Lets go wait at
+2022-08-01T02:45:18Z: CHRCTER ADDED  [ 2614565940] YASINTOIT            (  782.5,    51.1,  1022.6)
+2022-08-01T02:45:19Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     ( 2110.8,    74.3,  -592.1)
+  helipad
+2022-08-01T02:45:22Z: PLAYER CHATTED [ 1522318246] Roroballer20         ( 2319.1,    74.3,  -574.6)
+  No, Sir!
+2022-08-01T02:45:23Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     ( 2110.8,    74.3,  -592.1)
+  for POTUS
+2022-08-01T02:45:24Z: PLAYER CHATTED [  214958957] DonCar1osGaviria414  ( 2111.0,    74.3,  -588.7)
+  ###
+2022-08-01T02:45:24Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2112.1,    74.3,  -599.4)
+  dude the new death sound is awful
+2022-08-01T02:45:26Z: PLAYER CHATTED [  654564775] Mason7cx             ( 2215.0,    74.3,  -513.1)
+  COmes before the desifgnated survivor program.
+2022-08-01T02:45:27Z: PLAYER REMOVED [ 2614565940] YASINTOIT
+2022-08-01T02:45:27Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 2216.6,    74.3,  -520.8)
+  Oh.
+2022-08-01T02:45:28Z: PLAYER CHATTED [  837950418] CoolThunderLion50    ( 2109.1,    74.3,  -597.7)
+  Are they going there?
+2022-08-01T02:45:32Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1934.9,   576.4,  -622.5)
+  Same corner.
+2022-08-01T02:45:34Z: PLAYER CHATTED [  654564775] Mason7cx             ( 2215.0,    74.3,  -513.1)
+  But its not that.
+2022-08-01T02:45:34Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2315.6,    74.3,  -582.8)
+  Now you will have to do an exam.
+2022-08-01T02:45:35Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2111.7,    74.3,  -599.8)
+  sounds like im puking in my mouth
+2022-08-01T02:45:36Z: PLAYER CHATTED [  214958957] DonCar1osGaviria414  ( 2076.2,    75.5,  -635.7)
+  In
+2022-08-01T02:45:40Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2111.7,    74.3,  -599.8)
+  n g
+2022-08-01T02:45:42Z: PLAYER CHATTED [ 1522318246] Roroballer20         ( 2319.1,    74.3,  -574.6)
+  I gtg.w
+2022-08-01T02:45:44Z: PLAYER CHATTED [  110322078] Joeliyano            ( 2086.1,    75.9,  -298.9)
+  Are they flying?
+2022-08-01T02:45:44Z: PLAYER CHATTED [  170338001] roopr1               ( 2121.7,    74.3,  -596.4)
+  True
+2022-08-01T02:45:44Z: PLAYER REMOVED [ 1522318246] Roroballer20
+2022-08-01T02:45:45Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2112.6,    74.3,  -599.2)
+  is potus here
+2022-08-01T02:45:48Z: PLAYER CHATTED [ 2233026423] GobbleStopper01      ( 2310.1,    74.3,  -574.8)
+  ...
+2022-08-01T02:45:52Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2312.3,    74.3,  -581.3)
+  You will have 15 minutes.
+2022-08-01T02:45:57Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1932.2,   576.4,  -652.6)
+  Come in.
+2022-08-01T02:46:03Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2312.3,    74.3,  -581.3)
+  Ping me in RSP chatroom.
+2022-08-01T02:46:06Z: PLAYER CHATTED [ 2233026423] GobbleStopper01      ( 2310.1,    74.3,  -574.8)
+  Yes, Sir.
+2022-08-01T02:46:06Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2208.8,    74.3,  -520.4)
+  me want potus
+2022-08-01T02:46:07Z: PLAYER CHATTED [  170338001] roopr1               ( 2231.2,    74.3,  -525.7)
+  Let's see how good
+2022-08-01T02:46:08Z: PLAYER CHATTED [  654564775] Mason7cx             ( 2215.0,    74.3,  -513.1)
+  Up to you, you make the call, ill advise those who make it happen.
+2022-08-01T02:46:13Z: CHRCTER ADDED  [  216671816] TheDepthsOfHades     (   87.1,    75.2,   221.4)
+2022-08-01T02:46:18Z: PLAYER CHATTED [  170338001] roopr1               ( 2230.4,    74.3,  -522.2)
+  Ok yeah security is nice/
+2022-08-01T02:46:23Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2223.2,    74.3,  -516.2)
+  Yeah.
+2022-08-01T02:46:27Z: PLAYER CHATTED [  837950418] CoolThunderLion50    ( 1545.3,    67.8,   727.7)
+  Hopefully that civ doesn't harm the VPOTUS/POTUS.
+2022-08-01T02:46:28Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 2216.6,    74.3,  -520.8)
+  Well I want you in charge of the defense of the House.
+2022-08-01T02:46:29Z: PLAYER ADDED   [ 2614565940] YASINTOIT
+2022-08-01T02:46:32Z: PLAYER CHATTED [ 2233026423] GobbleStopper01      ( 2310.1,    74.3,  -574.8)
+  Done, Sir
+2022-08-01T02:46:40Z: PLAYER ADDED   [  435967545] formulaspark227
+2022-08-01T02:46:40Z: PLAYER REMOVED [ 2614565940] YASINTOIT
+2022-08-01T02:46:45Z: PLAYER CHATTED [  654564775] Mason7cx             ( 2215.0,    74.3,  -513.1)
+  Well then, I shall obey the order.
+2022-08-01T02:46:48Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 2216.6,    74.3,  -520.8)
+  Taht means you command the SS for now.
+2022-08-01T02:46:49Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1933.9,   576.4,  -650.9)
+  Jump on the car.
+2022-08-01T02:46:50Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2313.0,    74.3,  -581.4)
+  Alright do the exam.
+2022-08-01T02:46:51Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1933.9,   576.4,  -650.9)
+  No not sit.
+2022-08-01T02:46:53Z: PLAYER CHATTED [  691635668] VicDeth              ( 1932.2,   576.7,  -654.6)
+  i damaged him?
+2022-08-01T02:46:55Z: PLAYER CHATTED [  654564775] Mason7cx             ( 2215.0,    74.3,  -513.1)
+  Yes, sir.
+2022-08-01T02:46:55Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1933.9,   576.4,  -650.9)
+  Actually do sit.
+2022-08-01T02:46:59Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1933.9,   576.4,  -650.9)
+  I doubt it.
+2022-08-01T02:47:05Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 2216.6,    74.3,  -520.8)
+  I’ll be with N G for security.
+2022-08-01T02:47:05Z: CHRCTER ADDED  [  435967545] formulaspark227      (  774.6,    51.1,  1028.3)
+2022-08-01T02:47:16Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1933.9,   576.4,  -651.0)
+  He's on the bottom right corner.
+2022-08-01T02:47:17Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 2216.6,    74.3,  -520.8)
+  Take all the agents with you.
+2022-08-01T02:47:18Z: PLAYER CHATTED [  654564775] Mason7cx             ( 2215.0,    74.3,  -513.1)
+  07 Mr president
+2022-08-01T02:47:23Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2108.1,    74.3,  -600.6)
+  wrong button
+2022-08-01T02:47:26Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1933.9,   576.4,  -651.0)
+  Sit down.
+2022-08-01T02:47:34Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     ( 1050.3,    62.7,  1453.1)
+  Ugh
+2022-08-01T02:47:37Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     ( 1050.3,    62.7,  1453.1)
+  we need a state car
+2022-08-01T02:47:40Z: PLAYER CHATTED [  654564775] Mason7cx             ( 2122.7,    74.3,  -627.5)
+  I
+2022-08-01T02:47:43Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     ( 1070.0,    62.7,  1456.8)
+  now since it despawned
+2022-08-01T02:47:43Z: PLAYER CHATTED [  214958957] DonCar1osGaviria414  ( 1054.0,    62.7,  1456.7)
+  Hey you
+2022-08-01T02:47:46Z: PLAYER CHATTED [  214958957] DonCar1osGaviria414  ( 1054.0,    62.7,  1456.7)
+  Go get a state car
+2022-08-01T02:47:47Z: PLAYER CHATTED [  654564775] Mason7cx             ( 2116.7,    74.3,  -660.0)
+  Is ss returning?
+2022-08-01T02:47:49Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     ( 1050.4,    62.7,  1449.1)
+  can one of you get one
+2022-08-01T02:47:54Z: PLAYER CHATTED [  691635668] VicDeth              ( 1933.7,   576.7,  -644.4)
+  now what
+2022-08-01T02:47:57Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1930.6,   576.4,  -649.8)
+  Sit down.
+2022-08-01T02:48:02Z: PLAYER CHATTED [  691635668] VicDeth              ( 1933.7,   576.7,  -644.4)
+  he is the corner right?
+2022-08-01T02:48:05Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1931.0,   576.4,  -650.1)
+  Bottom right.
+2022-08-01T02:48:10Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2121.1,    74.3,  -639.5)
+  Nope
+2022-08-01T02:48:12Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2121.1,    74.3,  -639.5)
+  They went to helipad.
+2022-08-01T02:48:18Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2121.1,    74.3,  -639.5)
+  They thought you were going on M1.
+2022-08-01T02:48:27Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2155.2,    74.3,  -626.9)
+  I can drive you there tho.
+2022-08-01T02:48:31Z: PLAYER CHATTED [  654564775] Mason7cx             ( 2143.4,    74.3,  -616.1)
+  Are you permitted to transport?
+2022-08-01T02:48:40Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1992.3,   110.6,  -631.5)
+  Not here.
+2022-08-01T02:48:44Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2073.4,    74.3,  -500.2)
+  hi
+2022-08-01T02:48:48Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 2035.5,   110.6,  -650.6)
+  But...
+2022-08-01T02:48:50Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2089.3,    74.3,  -590.8)
+  can you hit me with a
+2022-08-01T02:48:52Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2089.0,    74.3,  -599.4)
+  baton
+2022-08-01T02:48:54Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 2028.2,   110.6,  -654.1)
+  There is a guard.
+2022-08-01T02:48:55Z: PLAYER CHATTED [  214958957] DonCar1osGaviria414  ( 1060.6,    62.7,  1466.7)
+  Do we have an estimated time for when they land here?
+2022-08-01T02:48:55Z: PLAYER CHATTED [  435967545] formulaspark227      ( 2089.8,    74.3,  -591.6)
+  why
+2022-08-01T02:48:59Z: PLAYER CHATTED [  654564775] Mason7cx             ( 2237.9,    74.3,  -602.5)
+  Onl;y you, the President has ordered the Government security plans,
+2022-08-01T02:49:00Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2240.0,    74.3,  -596.9)
+  afk
+2022-08-01T02:49:00Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2227.7,    74.3,  -521.9)
+  I think ur safe now.
+2022-08-01T02:49:02Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2094.7,    74.3,  -594.7)
+  i like to get hit
+2022-08-01T02:49:05Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 2219.3,    74.3,  -522.3)
+  Awesome.
+2022-08-01T02:49:05Z: PLAYER CHATTED [  654564775] Mason7cx             ( 2237.9,    74.3,  -602.5)
+  I need a ride asap to the helipad
+2022-08-01T02:49:06Z: PLAYER CHATTED [  435967545] formulaspark227      ( 2090.0,    74.3,  -591.3)
+  ok
+2022-08-01T02:49:06Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2094.7,    74.3,  -594.7)
+  ;)
+2022-08-01T02:49:07Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     ( 1059.0,    65.0,  1471.8)
+  Not exactly
+2022-08-01T02:49:11Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2094.7,    72.3,  -594.7)
+  thx
+2022-08-01T02:49:13Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     ( 1059.0,    65.0,  1471.8)
+  We dont know if they took off
+2022-08-01T02:49:13Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 2219.3,    74.3,  -522.3)
+  I do want an M1 flight though.
+2022-08-01T02:49:15Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2226.4,    74.3,  -521.0)
+  I would just not out of the gate.
+2022-08-01T02:49:15Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     ( 1059.0,    65.0,  1471.8)
+  im assuming
+2022-08-01T02:49:19Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 2219.3,    74.3,  -522.3)
+  That’s what I originally wanted.
+2022-08-01T02:49:20Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2225.6,    74.3,  -520.5)
+  im not 224th
+2022-08-01T02:49:22Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     ( 1059.0,    65.0,  1471.8)
+  once it took about 15 minutes
+2022-08-01T02:49:24Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 2219.3,    74.3,  -522.3)
+  Oh.
+2022-08-01T02:49:26Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2224.7,    74.3,  -521.5)
+  try asking another person
+2022-08-01T02:49:30Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 2219.3,    74.3,  -522.3)
+  Alright.
+2022-08-01T02:49:34Z: PLAYER CHATTED [  973587792] XxwingfaderxX        ( 1032.4,    63.8,  1447.2)
+  WHere do i put this.
+2022-08-01T02:49:36Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     ( 1056.9,    65.0,  1474.3)
+  but it depends on National Guard
+2022-08-01T02:49:38Z: PLAYER CHATTED [  654564775] Mason7cx             ( 2249.0,    74.3,  -585.8)
+  mr president
+2022-08-01T02:49:39Z: PLAYER CHATTED [  435967545] formulaspark227      ( 2232.6,    74.3,  -600.7)
+  sir
+2022-08-01T02:49:41Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2237.8,    74.3,  -599.3)
+  /OUT
+2022-08-01T02:49:41Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 2252.1,    74.3,  -588.9)
+  Yes?
+2022-08-01T02:49:43Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     ( 1055.3,    62.7,  1461.4)
+  right here in between
+2022-08-01T02:49:46Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     ( 1059.5,    62.7,  1460.6)
+  unmarked and cat
+2022-08-01T02:49:54Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2118.7,    74.3,  -613.1)
+  ?
+2022-08-01T02:49:54Z: PLAYER CHATTED [  654564775] Mason7cx             ( 2249.0,    74.3,  -585.8)
+  sS is at the heli pad, ive arranged for me to be returned to wh from this n g here
+2022-08-01T02:49:57Z: PLAYER CHATTED [  435967545] formulaspark227      ( 2111.0,    74.3,  -615.6)
+  There is a hacker!
+2022-08-01T02:50:02Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 2239.2,    74.3,  -587.1)
+  Helipad?
+2022-08-01T02:50:04Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 2187.9,   127.2,  -810.4)
+  You have a good angle.
+2022-08-01T02:50:06Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2117.1,    74.3,  -613.4)
+  What is he doing?
+2022-08-01T02:50:08Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     ( 1058.5,    62.7,  1470.0)
+  Good
+2022-08-01T02:50:11Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 2239.2,    74.3,  -587.1)
+  Alright.
+2022-08-01T02:50:12Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2117.1,    74.3,  -613.4)
+  flying noclip tp ect
+2022-08-01T02:50:13Z: PLAYER CHATTED [  435967545] formulaspark227      ( 2111.0,    74.3,  -615.6)
+  ####### ######
+2022-08-01T02:50:14Z: PLAYER CHATTED [  654564775] Mason7cx             ( 2236.8,    74.3,  -591.1)
+  SS thought wewere on M1
+2022-08-01T02:50:17Z: PLAYER CHATTED [  435967545] formulaspark227      ( 2111.0,    74.3,  -615.6)
+  killing
+2022-08-01T02:50:23Z: PLAYER CHATTED [  435967545] formulaspark227      ( 2111.0,    74.3,  -615.6)
+  and flying
+2022-08-01T02:50:24Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2224.0,    74.3,  -591.1)
+  Back.
+2022-08-01T02:50:27Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 2221.6,    74.3,  -523.9)
+  Is the captain a pilot?
+2022-08-01T02:50:27Z: PLAYER CHATTED [  214958957] DonCar1osGaviria414  ( 1058.3,    65.0,  1473.6)
+  gtg soon
+2022-08-01T02:50:28Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 2187.9,   127.2,  -810.4)
+  He retreated.
+2022-08-01T02:50:31Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     ( 1065.8,    65.0,  1478.2)
+  alright
+2022-08-01T02:50:34Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2117.1,    74.3,  -613.4)
+  what does he look like?
+2022-08-01T02:50:37Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 2187.9,   127.2,  -810.4)
+  He's back.
+2022-08-01T02:50:39Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2117.1,    74.3,  -613.4)
+  and what team
+2022-08-01T02:50:40Z: PLAYER CHATTED [  654564775] Mason7cx             ( 2247.2,    74.3,  -557.8)
+  Hes giving me a return ride
+2022-08-01T02:50:44Z: PLAYER CHATTED [  435967545] formulaspark227      ( 2111.0,    74.3,  -615.6)
+  like a basic free outfit
+2022-08-01T02:50:50Z: PLAYER CHATTED [  435967545] formulaspark227      ( 2111.0,    74.3,  -615.6)
+  american
+2022-08-01T02:50:54Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 2227.0,    74.3,  -524.5)
+  Invisible shooter. Wonderful.
+2022-08-01T02:50:55Z: PLAYER CHATTED [  435967545] formulaspark227      ( 2111.0,    74.3,  -615.6)
+  wait
+2022-08-01T02:50:56Z: PLAYER CHATTED [  691635668] VicDeth              ( 2188.7,   127.4,  -806.5)
+  go
+2022-08-01T02:50:59Z: PLAYER CHATTED [  435967545] formulaspark227      ( 2111.0,    74.3,  -615.6)
+  his name
+2022-08-01T02:51:01Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2117.1,    74.3,  -613.4)
+  crim or civ?
+2022-08-01T02:51:02Z: PLAYER CHATTED [  435967545] formulaspark227      ( 2111.0,    74.3,  -615.6)
+  is depths
+2022-08-01T02:51:03Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     ( 1063.7,    65.0,  1473.6)
+  as long as we have 4 ppl
+2022-08-01T02:51:11Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2117.1,    74.3,  -613.4)
+  oh him.
+2022-08-01T02:51:20Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2117.1,    74.3,  -613.4)
+  He killed the president twice
+2022-08-01T02:51:23Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     ( 1060.1,    65.0,  1473.6)
+  you only need 4 for a escort
+2022-08-01T02:51:24Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 2025.4,    74.3,  -269.5)
+  Helipad, you said?
+2022-08-01T02:51:25Z: PLAYER CHATTED [ 1854783273] bullet556677         ( 2314.9,    74.3,  -574.9)
+  PTS.
+2022-08-01T02:51:27Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     ( 1062.2,    65.0,  1483.3)
+  not a escort
+2022-08-01T02:51:28Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 2272.9,    73.7,   -94.4)
+  He's fleeing.
+2022-08-01T02:51:29Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     ( 1062.2,    65.0,  1483.3)
+  I mean a
+2022-08-01T02:51:30Z: PLAYER CHATTED [  654564775] Mason7cx             ( 1425.9,    74.3,  -272.7)
+  Are the plans still in place, sir?
+2022-08-01T02:51:32Z: PLAYER CHATTED [  435967545] formulaspark227      ( 2111.0,    74.3,  -615.6)
+  oh
+2022-08-01T02:51:34Z: PLAYER CHATTED [ 2410124390] Jibblers2004         (  755.0,    74.3,  -273.6)
+  And yes.
+2022-08-01T02:51:38Z: PLAYER CHATTED [  691635668] VicDeth              ( 2285.1,    74.0,   -68.7)
+  flying?
+2022-08-01T02:51:42Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     ( 1062.6,    65.0,  1479.6)
+  ##########
+2022-08-01T02:51:45Z: PLAYER CHATTED [  654564775] Mason7cx             (    7.2,    74.3,   -53.0)
+  Ok so are you returnin to N G security?
+2022-08-01T02:51:46Z: PLAYER CHATTED [  435967545] formulaspark227      ( 2111.0,    74.3,  -615.6)
+  yeah he was walking right here
+2022-08-01T02:51:46Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     ( 1056.6,    65.2,  1486.2)
+  !
+2022-08-01T02:51:46Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 2274.4,    73.7,   -90.3)
+  Driving on the ground.
+2022-08-01T02:51:53Z: PLAYER CHATTED [  691635668] VicDeth              ( 2358.6,    92.1,    -0.2)
+  oh
+2022-08-01T02:51:54Z: PLAYER CHATTED [ 1818902597] AntIronsides         (    0.2,    74.1,   457.7)
+  Where do you want to go?
+2022-08-01T02:51:54Z: PLAYER CHATTED [ 2410124390] Jibblers2004         (   -2.2,    74.3,   455.8)
+  No. I’ll be returning to the House.
+2022-08-01T02:51:55Z: PLAYER CHATTED [  435967545] formulaspark227      ( 2108.8,    74.3,  -614.2)
+  and he said to hit him the baton
+2022-08-01T02:51:57Z: PLAYER CHATTED [ 2410124390] Jibblers2004         (   -0.9,    74.3,   639.8)
+  Helipad.
+2022-08-01T02:52:01Z: PLAYER CHATTED [ 1818902597] AntIronsides         (    0.8,    74.1,  1054.5)
+  Alright.
+2022-08-01T02:52:09Z: CHRCTER ADDED  [  216671816] TheDepthsOfHades     ( 2459.2,    74.6,  -653.3)
+2022-08-01T02:52:11Z: PLAYER REMOVED [ 3294062535] LadSebastian
+2022-08-01T02:52:20Z: PLAYER CHATTED [  837950418] CoolThunderLion50    ( 1072.8,    62.7,  1470.3)
+  Someone is near white house.
+2022-08-01T02:52:27Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 1084.9,    62.7,  1445.8)
+  But VP, I can’t worry about House security, so i want you in charge of SS protection.
+2022-08-01T02:52:31Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 1098.3,    62.4,  1445.4)
+  Presidents not going on M1
+2022-08-01T02:52:40Z: PLAYER CHATTED [  691635668] VicDeth              ( -120.2,    77.4,  1394.2)
+  Now what is the new paln
+2022-08-01T02:52:45Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     ( 1059.5,    62.7,  1467.5)
+  This works too
+2022-08-01T02:52:45Z: PLAYER CHATTED [  214958957] DonCar1osGaviria414  ( 1054.8,    65.0,  1473.2)
+  Thought you were flying in
+2022-08-01T02:52:49Z: PLAYER CHATTED [  214958957] DonCar1osGaviria414  ( 1052.6,    62.7,  1469.8)
+  lol
+2022-08-01T02:52:52Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     ( 1057.4,    62.7,  1467.3)
+  same
+2022-08-01T02:52:54Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 1059.3,    64.0,  1462.4)
+  There weren’t any pilots.
+2022-08-01T02:52:54Z: PLAYER CHATTED [  654564775] Mason7cx             ( 1060.8,    65.0,  1474.2)
+  Alright, secret service,,
+2022-08-01T02:52:55Z: PLAYER CHATTED [    1630228] VisualPlugin         (  696.6,   121.0,  2094.5)
+  He's at the helipad.
+2022-08-01T02:52:55Z: PLAYER CHATTED [  691635668] VicDeth              (  694.3,   121.1,  2097.9)
+  plan
+2022-08-01T02:52:57Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 1060.2,    62.7,  1465.5)
+  If you need anything or Marine One go back to N G.
+2022-08-01T02:52:58Z: PLAYER CHATTED [  435967545] formulaspark227      ( 2110.9,    74.3,  -623.0)
+  silence?
+2022-08-01T02:53:01Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 1059.3,    64.0,  1462.4)
+  Awesome.
+2022-08-01T02:53:03Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2120.8,    74.3,  -616.1)
+  .
+2022-08-01T02:53:03Z: PLAYER CHATTED [  691635668] VicDeth              (  694.3,   121.1,  2097.9)
+  oh
+2022-08-01T02:53:05Z: PLAYER CHATTED [  170338001] roopr1               ( 2124.9,    74.3,  -624.5)
+  This man.
+2022-08-01T02:53:07Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2119.9,    74.3,  -623.5)
+  yeah
+2022-08-01T02:53:09Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2119.9,    74.3,  -623.5)
+  i mean
+2022-08-01T02:53:09Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     ( 1054.0,    65.0,  1476.7)
+  Where to sir
+2022-08-01T02:53:10Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     ( 1054.0,    65.0,  1476.7)
+  I am leading
+2022-08-01T02:53:12Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 1055.6,    62.7,  1453.3)
+  I can fly you.
+2022-08-01T02:53:12Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2119.9,    74.3,  -623.5)
+  what is there to say
+2022-08-01T02:53:13Z: PLAYER CHATTED [  654564775] Mason7cx             ( 1060.8,    65.0,  1474.2)
+  Upon the orders of potus
+2022-08-01T02:53:18Z: CHRCTER ADDED  [ 1818902597] AntIronsides         ( 2449.9,    74.8,  -653.3)
+2022-08-01T02:53:19Z: PLAYER CHATTED [  435967545] formulaspark227      ( 2110.9,    74.3,  -621.6)
+  how did you fly when i hit you with the baton
+2022-08-01T02:53:23Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 1059.3,    64.0,  1462.4)
+  We’re fort to the Oval Office.
+2022-08-01T02:53:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (  696.6,   121.0,  2094.5)
+  On top of the white house w ego.
+2022-08-01T02:53:26Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2115.8,    74.3,  -622.0)
+  magic
+2022-08-01T02:53:27Z: PLAYER CHATTED [ 2410124390] Jibblers2004         ( 1059.3,    64.0,  1462.4)
+  Going*
+2022-08-01T02:53:27Z: PLAYER CHATTED [  691635668] VicDeth              ( 1381.0,   126.7,  2183.4)
+  he is sospichius about us
+2022-08-01T02:53:30Z: PLAYER CHATTED [  654564775] Mason7cx             ( 1074.4,    62.7,  1466.1)
+  Move to oval.
+2022-08-01T02:53:31Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     ( 1075.7,    62.7,  1460.3)
+  alright
+2022-08-01T02:53:35Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2115.4,    74.3,  -620.7)
+  i performed that trick for years
+2022-08-01T02:53:35Z: PLAYER CHATTED [  435967545] formulaspark227      ( 2110.9,    74.3,  -621.6)
+  ?
+2022-08-01T02:53:44Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2115.4,    74.3,  -622.1)
+  i used magic
+2022-08-01T02:53:45Z: PLAYER CHATTED [  691635668] VicDeth              ( 1086.5,   133.0,   885.0)
+  bc we are criminals and just wecan have guns
+2022-08-01T02:53:52Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2115.4,    74.3,  -622.1)
+  powered by dreams and firnedship
+2022-08-01T02:53:55Z: PLAYER CHATTED [  435967545] formulaspark227      ( 2110.9,    74.3,  -621.6)
+  you mean hacks?
+2022-08-01T02:53:59Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2115.4,    74.3,  -623.7)
+  ???
+2022-08-01T02:54:00Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1137.9,   120.4,   852.7)
+  He's driving.
+2022-08-01T02:54:03Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2115.4,    74.3,  -622.3)
+  its not hacks
+2022-08-01T02:54:12Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2115.4,    74.3,  -622.0)
+  just open your mind
+2022-08-01T02:54:17Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2115.4,    74.3,  -622.0)
+  and all will be revealed
+2022-08-01T02:54:18Z: PLAYER CHATTED [  435967545] formulaspark227      ( 2110.9,    74.3,  -621.6)
+  its open
+2022-08-01T02:54:31Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2114.6,    90.4,  -618.3)
+  so says the lord
+2022-08-01T02:54:34Z: PLAYER ADDED   [ 2789588341] moise214123
+2022-08-01T02:54:37Z: CHRCTER ADDED  [  216671816] TheDepthsOfHades     ( 2459.2,    74.8,  -653.3)
+2022-08-01T02:54:39Z: CHRCTER ADDED  [  216671816] TheDepthsOfHades     (   85.3,    75.2,    75.5)
+2022-08-01T02:54:40Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  791.0,    63.6,  1021.5)
+  anything else?
+2022-08-01T02:54:45Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (   77.4,    74.4,    87.2)
+  WHITE GUY
+2022-08-01T02:54:48Z: PLAYER CHATTED [ 2233083985] JeowlittoAPPLEs      (   67.8,    72.3,    96.4)
+  OWOW
+2022-08-01T02:54:48Z: CHRCTER ADDED  [ 2233083985] JeowlittoAPPLEs      (  -83.6,    78.0,    85.7)
+2022-08-01T02:54:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (  970.9,   128.4,   928.5)
+  He's towards my direction.
+2022-08-01T02:54:51Z: PLAYER CHATTED [  654564775] Mason7cx             (  794.0,    63.6,  1026.5)
+  Ok, we are fortifying oval
+2022-08-01T02:54:56Z: PLAYER CHATTED [ 2233083985] JeowlittoAPPLEs      (  -14.5,    74.5,   138.9)
+  BRO COME ON
+2022-08-01T02:54:57Z: PLAYER ADDED   [  907095824] ObedHmung
+2022-08-01T02:54:58Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  790.0,    63.7,  1037.1)
+  You
+2022-08-01T02:54:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (  970.9,   128.4,   928.5)
+  I think at the oval office.
+2022-08-01T02:55:04Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  790.0,    63.7,  1037.1)
+  I need you to guard this hall
+2022-08-01T02:55:06Z: PLAYER CHATTED [  691635668] VicDeth              (  987.5,   129.2,   926.6)
+  oh no
+2022-08-01T02:55:08Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  792.6,    63.8,  1039.8)
+  over here
+2022-08-01T02:55:09Z: PLAYER CHATTED [  435967545] formulaspark227      ( 2108.3,    74.3,  -631.7)
+  sir
+2022-08-01T02:55:10Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2315.4,    74.3,  -579.5)
+  Passed with 76%.
+2022-08-01T02:55:12Z: PLAYER REMOVED [ 2233083985] JeowlittoAPPLEs
+2022-08-01T02:55:17Z: PLAYER CHATTED [  435967545] formulaspark227      ( 2109.4,    74.3,  -637.2)
+  sir
+2022-08-01T02:55:18Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  751.5,    62.7,  1004.3)
+  just stand here
+2022-08-01T02:55:18Z: PLAYER REMOVED [ 2789588341] moise214123
+2022-08-01T02:55:22Z: PLAYER CHATTED [  654564775] Mason7cx             (  794.0,    63.6,  1026.5)
+  And then, one agent on me, which I suppose is thunder
+2022-08-01T02:55:23Z: PLAYER CHATTED [  435967545] formulaspark227      ( 2109.4,    74.3,  -637.2)
+  can i come inside and get a car
+2022-08-01T02:55:26Z: PLAYER ADDED   [    5981475] Zephyrsion
+2022-08-01T02:55:29Z: PLAYER CHATTED [  837950418] CoolThunderLion50    (  796.7,    63.6,  1024.0)
+  Some car just dropped from the roof
+2022-08-01T02:55:31Z: CHRCTER ADDED  [  907095824] ObedHmung            ( 2459.2,    74.8,  -653.3)
+2022-08-01T02:55:33Z: PLAYER CHATTED [  654564775] Mason7cx             (  794.0,    63.6,  1026.5)
+  DOn, Make sure no one #### #####
+2022-08-01T02:55:33Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2110.3,    74.3,  -650.7)
+  I'll give you one.
+2022-08-01T02:55:34Z: PLAYER CHATTED [  837950418] CoolThunderLion50    (  797.1,    63.6,  1022.4)
+  It's a criminal.
+2022-08-01T02:55:37Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  790.9,    63.6,  1025.4)
+  Alright that sounds fine
+2022-08-01T02:55:37Z: PLAYER CHATTED [ 2233026423] GobbleStopper01      ( 2310.1,    74.3,  -574.8)
+  Done, Sir.
+2022-08-01T02:55:39Z: PLAYER CHATTED [  214958957] DonCar1osGaviria414  (  786.5,    63.6,  1029.6)
+  Yes, Sir
+2022-08-01T02:55:40Z: PLAYER REMOVED [  240370393] soggyrollercoster4
+2022-08-01T02:55:41Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  790.9,    63.6,  1025.5)
+  I have one watching the hall
+2022-08-01T02:55:43Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2310.1,    74.3,  -579.5)
+  Let me grade it.
+2022-08-01T02:55:46Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  790.9,    63.6,  1025.5)
+  ill be right next to you guys
+2022-08-01T02:55:49Z: PLAYER CHATTED [  654564775] Mason7cx             (  795.0,    63.6,  1024.1)
+  We are moving then, sperate vp from potus
+2022-08-01T02:55:50Z: PLAYER CHATTED [ 2233026423] GobbleStopper01      ( 2310.1,    74.3,  -574.8)
+  Yes, SIr.
+2022-08-01T02:55:55Z: PLAYER CHATTED [ 2233026423] GobbleStopper01      ( 2310.1,    74.3,  -574.8)
+  Sir*
+2022-08-01T02:55:59Z: PLAYER CHATTED [  435967545] formulaspark227      ( 2110.4,    74.3,  -631.3)
+  sir
+2022-08-01T02:56:02Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  -81.7,    78.0,    86.6)
+2022-08-01T02:56:03Z: PLAYER CHATTED [  435967545] formulaspark227      ( 2110.8,    74.3,  -632.6)
+  can i get a car
+2022-08-01T02:56:05Z: PLAYER CHATTED [  214958957] DonCar1osGaviria414  (  796.2,    63.6,  1036.0)
+  Gunfire?
+2022-08-01T02:56:08Z: PLAYER ADDED   [ 2730706988] ImagineActualKewl
+2022-08-01T02:56:16Z: PLAYER CHATTED [ 1854783273] bullet556677         ( 2314.9,    74.3,  -574.9)
+  PTS.
+2022-08-01T02:56:16Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  837.6,    62.7,  1017.9)
+  coming from over there
+2022-08-01T02:56:20Z: PLAYER CHATTED [  170338001] roopr1               ( 2116.2,    74.3,  -631.7)
+  I need to see if I'm allowed to.
+2022-08-01T02:56:25Z: PLAYER CHATTED [  435967545] formulaspark227      ( 2113.3,    74.3,  -630.9)
+  ok
+2022-08-01T02:56:26Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2310.1,    74.3,  -579.5)
+  Passed with 85%.
+2022-08-01T02:56:28Z: PLAYER CHATTED [ 2410124390] Jibblers2004         (  767.0,    63.0,  1041.7)
+  Alright. Time to start working.
+2022-08-01T02:56:30Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2315.4,    74.3,  -579.9)
+  Granted,
+2022-08-01T02:56:32Z: PLAYER CHATTED [  654564775] Mason7cx             (  773.0,    62.8,  1037.8)
+  Ihave oval fortified from exterior,
+2022-08-01T02:56:34Z: PLAYER CHATTED [ 1854783273] bullet556677         ( 2314.9,    74.3,  -574.9)
+  Nvm.
+2022-08-01T02:56:36Z: PLAYER CHATTED [ 2410124390] Jibblers2004         (  767.0,    63.0,  1041.7)
+  Awesome.
+2022-08-01T02:56:37Z: CHRCTER ADDED  [ 2730706988] ImagineActualKewl    ( 2459.2,    74.8,  -670.3)
+2022-08-01T02:56:38Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2313.0,    74.3,  -581.1)
+  Wedge,
+2022-08-01T02:56:40Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  765.0,    62.7,  1032.9)
+  Place looks good.
+2022-08-01T02:56:41Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1049.3,   129.5,   950.5)
+  I was killed.
+2022-08-01T02:56:43Z: PLAYER CHATTED [ 2410124390] Jibblers2004         (  767.0,    63.0,  1041.7)
+  Good.
+2022-08-01T02:56:45Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1054.7,   129.5,   951.3)
+  I'll be AFK.
+2022-08-01T02:56:47Z: PLAYER CHATTED [  691635668] VicDeth              ( 1058.4,   129.5,   953.3)
+  oh
+2022-08-01T02:56:47Z: PLAYER ADDED   [ 1400257021] NingiaDev
+2022-08-01T02:56:55Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2313.1,    74.3,  -581.3)
+  Wedge.
+2022-08-01T02:56:57Z: PLAYER CHATTED [ 2730706988] ImagineActualKewl    ( 2319.1,    74.3,  -575.2)
+  Hello Sir.
+2022-08-01T02:57:01Z: CHRCTER ADDED  [ 1400257021] NingiaDev            (  717.5,    51.3,  1034.3)
+2022-08-01T02:57:02Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2313.1,    74.3,  -581.3)
+  Hey.
+2022-08-01T02:57:05Z: PLAYER CHATTED [ 2410124390] Jibblers2004         (  767.0,    63.0,  1041.7)
+  !unlight
+2022-08-01T02:57:08Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2313.1,    74.3,  -581.3)
+  Say N G#1! when message fades.
+2022-08-01T02:57:09Z: PLAYER ADDED   [  240370393] soggyrollercoster4
+2022-08-01T02:57:11Z: PLAYER CHATTED [ 2410124390] Jibblers2004         (  767.0,    63.0,  1041.7)
+  That’s much better.
+2022-08-01T02:57:11Z: PLAYER CHATTED [ 2233026423] GobbleStopper01      ( 2310.4,    74.3,  -582.9)
+  Sorry sir, was afk for a moment
+2022-08-01T02:57:16Z: PLAYER CHATTED [ 2730706988] ImagineActualKewl    ( 2184.5,    74.6,  -657.3)
+  I got it.
+2022-08-01T02:57:17Z: CHRCTER ADDED  [  240370393] soggyrollercoster4   ( 2459.2,    74.8,  -653.3)
+2022-08-01T02:57:23Z: PLAYER CHATTED [  654564775] Mason7cx             (  773.0,    62.8,  1037.8)
+  Im going to move with one agent, thunder, to call the Secretary to inform him of the on goings.
+2022-08-01T02:57:24Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2313.1,    74.3,  -581.3)
+  N G#1!
+2022-08-01T02:57:26Z: PLAYER CHATTED [ 2233026423] GobbleStopper01      ( 2310.4,    74.3,  -582.9)
+  N G#1
+2022-08-01T02:57:26Z: PLAYER CHATTED [ 1854783273] bullet556677         ( 2315.8,    74.3,  -582.7)
+  N G#1!
+2022-08-01T02:57:27Z: CHRCTER ADDED  [  435967545] formulaspark227      (  774.6,    51.1,  1028.3)
+2022-08-01T02:57:27Z: PLAYER CHATTED [ 2730706988] ImagineActualKewl    ( 2180.5,    74.6,  -668.5)
+  You headed to WHMO?
+2022-08-01T02:57:28Z: PLAYER REMOVED [  110322078] Joeliyano
+2022-08-01T02:57:32Z: PLAYER CHATTED [ 2410124390] Jibblers2004         (  767.0,    63.0,  1041.7)
+  Good.
+2022-08-01T02:57:33Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2134.2,    74.0,  -676.4)
+  Yep.
+2022-08-01T02:57:38Z: PLAYER CHATTED [  654564775] Mason7cx             (  773.0,    62.8,  1037.8)
+  Will be back.
+2022-08-01T02:57:44Z: PLAYER CHATTED [ 2410124390] Jibblers2004         (  767.0,    63.0,  1041.7)
+  A.right.
+2022-08-01T02:57:46Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  767.6,    62.7,  1032.9)
+  If Thunder is with you Ill stay with POTUS
+2022-08-01T02:57:49Z: PLAYER CHATTED [  654564775] Mason7cx             (  773.0,    62.8,  1037.8)
+  Don, stay with potus in here.
+2022-08-01T02:57:50Z: PLAYER REMOVED [  435967545] formulaspark227
+2022-08-01T02:57:50Z: PLAYER CHATTED [ 2730706988] ImagineActualKewl    ( 2130.2,    74.3,  -638.4)
+  Soggy.
+2022-08-01T02:57:53Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  767.8,    62.7,  1035.3)
+  and Carlos too
+2022-08-01T02:57:54Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2157.2,    74.3,  -649.9)
+  Yes.
+2022-08-01T02:57:57Z: PLAYER CHATTED [ 2410124390] Jibblers2004         (  767.0,    63.0,  1041.7)
+  Thank you.
+2022-08-01T02:57:58Z: PLAYER CHATTED [ 2730706988] ImagineActualKewl    ( 2147.8,    74.3,  -648.7)
+  Wanna go to WHMO?
+2022-08-01T02:58:04Z: CHRCTER ADDED  [  907095824] ObedHmung            (  717.5,    51.3,  1034.3)
+2022-08-01T02:58:09Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  767.1,    62.7,  1034.4)
+  if you need anything we are here
+2022-08-01T02:58:10Z: PLAYER CHATTED [  240370393] soggyrollercoster4   ( 2157.2,    74.3,  -649.9)
+  Sure.
+2022-08-01T02:58:11Z: PLAYER ADDED   [  645280283] poopoobum752
+2022-08-01T02:58:15Z: PLAYER CHATTED [ 2410124390] Jibblers2004         (  767.0,    63.0,  1041.7)
+  Alright.
+2022-08-01T02:58:43Z: CHRCTER ADDED  [    5981475] Zephyrsion           (  -83.2,    78.0,   135.1)
+2022-08-01T02:58:45Z: PLAYER CHATTED [ 2410124390] Jibblers2004         (  767.0,    63.0,  1041.7)
+  -begins doing paperwork-
+2022-08-01T02:59:04Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  567.7,    74.3,   508.6)
+  where is potus
+2022-08-01T02:59:06Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2313.0,    74.3,  -577.6)
+  You will be rnaked within 72 hours.
+2022-08-01T02:59:09Z: PLAYER CHATTED [  837950418] CoolThunderLion50    ( 1062.0,    77.5,   970.3)
+  Gun shots.
+2022-08-01T02:59:09Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2313.0,    74.3,  -577.6)
+  Dismissed.
+2022-08-01T02:59:12Z: PLAYER CHATTED [ 2233026423] GobbleStopper01      ( 2310.4,    74.3,  -582.9)
+  Thank you, Sir.
+2022-08-01T02:59:12Z: PLAYER CHATTED [ 1400257021] NingiaDev            (  559.9,    74.3,   519.8)
+  I dont know.
+2022-08-01T02:59:15Z: PLAYER CHATTED [  240370393] soggyrollercoster4   (  840.6,    61.4,  1068.5)
+  come
+2022-08-01T02:59:16Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  560.0,    72.3,   513.0)
+  some use your baton
+2022-08-01T02:59:18Z: PLAYER CHATTED [  240370393] soggyrollercoster4   (  840.6,    61.4,  1068.5)
+  .
+2022-08-01T02:59:18Z: PLAYER CHATTED [  214958957] DonCar1osGaviria414  (  821.7,    62.7,  1072.5)
+  ?
+2022-08-01T02:59:18Z: PLAYER CHATTED [ 1854783273] bullet556677         ( 2317.8,    74.3,  -587.0)
+  Thank you.
+2022-08-01T02:59:19Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  829.3,    62.7,  1065.6)
+  where to
+2022-08-01T02:59:19Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  560.0,    72.3,   512.8)
+  baton
+2022-08-01T02:59:19Z: PLAYER CHATTED [  240370393] soggyrollercoster4   (  840.6,    61.4,  1068.5)
+  wait
+2022-08-01T02:59:20Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  560.0,    72.3,   512.7)
+  help
+2022-08-01T02:59:21Z: PLAYER ADDED   [  422515766] MateBuzzy
+2022-08-01T02:59:22Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  560.0,    72.3,   512.7)
+  me
+2022-08-01T02:59:24Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  831.6,    62.7,  1064.9)
+  sounds sus
+2022-08-01T02:59:28Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  560.0,    72.3,   512.3)
+  sa use ur baton
+2022-08-01T02:59:29Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  831.5,    62.7,  1069.9)
+  we stay with potus
+2022-08-01T02:59:32Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  559.1,    74.3,   503.8)
+  tjhx
+2022-08-01T02:59:34Z: PLAYER CHATTED [  240370393] soggyrollercoster4   (  840.6,    61.3,  1068.5)
+  someone was just in my car
+2022-08-01T02:59:35Z: PLAYER CHATTED [ 2233026423] GobbleStopper01      ( 2205.4,    74.6,  -660.3)
+  question, wilson
+2022-08-01T02:59:37Z: PLAYER CHATTED [  654564775] Mason7cx             (  830.2,    62.7,  1072.2)
+  Upon, orders of the President, and approval of the Secretary of homeland security, your in charge of fortingWhat happened/
+2022-08-01T02:59:38Z: PLAYER CHATTED [  240370393] soggyrollercoster4   (  835.4,    62.7,  1070.8)
+  where he go....
+2022-08-01T02:59:44Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2230.3,    74.0,  -788.7)
+  ?
+2022-08-01T02:59:47Z: PLAYER REMOVED [  907095824] ObedHmung
+2022-08-01T02:59:48Z: PLAYER CHATTED [  654564775] Mason7cx             (  830.2,    62.7,  1072.2)
+  What happened?
+2022-08-01T02:59:52Z: PLAYER ADDED   [ 2789588341] moise214123
+2022-08-01T02:59:56Z: PLAYER CHATTED [ 2233026423] GobbleStopper01      ( 2231.9,    74.3,  -776.7)
+  How can i sign up for a regiment after i promote?
+2022-08-01T02:59:59Z: PLAYER CHATTED [  654564775] Mason7cx             (  830.2,    62.7,  1072.2)
+  Okay
+2022-08-01T03:00:00Z: CHRCTER ADDED  [  422515766] MateBuzzy            (  717.5,    51.4,  1034.3)
+2022-08-01T03:00:01Z: PLAYER REMOVED [ 1854783273] bullet556677
+2022-08-01T03:00:08Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2226.6,    74.0,  -782.5)
+  There will be a channel called event announcements.
+2022-08-01T03:00:09Z: PLAYER CHATTED [  240370393] soggyrollercoster4   (  645.8,    62.6,  1025.0)
+  new ground color?
+2022-08-01T03:00:13Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2226.6,    74.0,  -782.5)
+  Once you are E2.
+2022-08-01T03:00:15Z: PLAYER CHATTED [  837950418] CoolThunderLion50    (  776.7,    62.7,  1023.8)
+  I heard a gun shot that sounded like it was from a glock
+2022-08-01T03:00:16Z: PLAYER CHATTED [ 1818902597] AntIronsides         (  641.3,    62.8,  1035.9)
+  Yep.
+2022-08-01T03:00:17Z: PLAYER CHATTED [ 2233026423] GobbleStopper01      ( 2231.9,    74.3,  -776.7)
+  understood, thank you sir
+2022-08-01T03:00:19Z: PLAYER CHATTED [  240370393] soggyrollercoster4   (  646.8,    62.8,  1013.7)
+  noice
+2022-08-01T03:00:23Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  775.8,    62.7,  1029.5)
+  someone from over across
+2022-08-01T03:00:26Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  769.5,    62.7,  1031.5)
+  the yard
+2022-08-01T03:00:28Z: PLAYER CHATTED [  654564775] Mason7cx             (  773.0,    62.8,  1037.8)
+  Mr. President, nex t order?
+2022-08-01T03:00:29Z: PLAYER CHATTED [  837950418] CoolThunderLion50    (  776.2,    62.7,  1032.7)
+  Oh.
+2022-08-01T03:00:43Z: PLAYER CHATTED [  240370393] soggyrollercoster4   (  646.8,    62.8,  1013.7)
+  When this message goes away, say N G#1
+2022-08-01T03:00:47Z: PLAYER CHATTED [ 2410124390] Jibblers2004         (  767.0,    63.0,  1041.7)
+  I want to visit with some citizens at the front gate, if it’s possible and advisable.
+2022-08-01T03:00:55Z: CHRCTER ADDED  [  645280283] poopoobum752         ( 2449.9,    74.7,  -653.3)
+2022-08-01T03:00:59Z: PLAYER CHATTED [  422515766] MateBuzzy            (  567.2,    74.3,   516.3)
+  !help
+2022-08-01T03:01:02Z: PLAYER CHATTED [  240370393] soggyrollercoster4   (  646.8,    62.8,  1013.7)
+  N G#1
+2022-08-01T03:01:03Z: PLAYER CHATTED [ 1818902597] AntIronsides         (  637.1,    62.8,  1014.0)
+  N G#1
+2022-08-01T03:01:04Z: PLAYER CHATTED [  837950418] CoolThunderLion50    (  770.0,    62.7,  1032.4)
+  Sure.
+2022-08-01T03:01:10Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 1812.9,    73.0,  1416.8)
+  Get in
+2022-08-01T03:01:11Z: PLAYER CHATTED [ 2410124390] Jibblers2004         (  767.0,    63.0,  1041.7)
+  Alright.
+2022-08-01T03:01:12Z: PLAYER CHATTED [  837950418] CoolThunderLion50    (  770.0,    62.7,  1032.4)
+  We will wait for others.
+2022-08-01T03:01:13Z: PLAYER CHATTED [  240370393] soggyrollercoster4   (  646.8,    62.8,  1013.7)
+  thee
+2022-08-01T03:01:14Z: PLAYER CHATTED [  654564775] Mason7cx             (  773.0,    62.8,  1037.8)
+  When we get ther,
+2022-08-01T03:01:17Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2178.2,    76.2,  -663.3)
+  let me out
+2022-08-01T03:01:18Z: PLAYER CHATTED [  240370393] soggyrollercoster4   (  646.8,    62.8,  1013.7)
+  there*
+2022-08-01T03:01:19Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 1681.0,    68.9,  1419.8)
+  Ayo
+2022-08-01T03:01:21Z: PLAYER CHATTED [ 2730706988] ImagineActualKewl    ( 1655.2,    67.9,  1423.6)
+  I'm good.
+2022-08-01T03:01:21Z: PLAYER CHATTED [  654564775] Mason7cx             (  773.0,    62.8,  1037.8)
+  All agents on potus, just one on me, thunder
+2022-08-01T03:01:25Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 1605.3,    63.5,  1421.7)
+  Im a crmi
+2022-08-01T03:01:27Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 1577.3,    62.7,  1421.6)
+  Crim
+2022-08-01T03:01:28Z: PLAYER CHATTED [  240370393] soggyrollercoster4   (  665.1,    62.7,  1012.1)
+  oooo
+2022-08-01T03:01:28Z: PLAYER ADDED   [ 2230519131] VEVODRIP21
+2022-08-01T03:01:28Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 1550.8,    62.7,  1421.5)
+  U gotta obey me
+2022-08-01T03:01:32Z: PLAYER ADDED   [ 1275023886] Acxe_WhT2
+2022-08-01T03:01:33Z: PLAYER CHATTED [  240370393] soggyrollercoster4   (  666.2,    62.7,  1011.2)
+  new sign
+2022-08-01T03:01:33Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  809.5,    65.5,  1038.2)
+  I still hear the shooting
+2022-08-01T03:01:37Z: PLAYER CHATTED [  837950418] CoolThunderLion50    (  772.1,    62.7,  1030.8)
+  The POTUS wants to go to the front gate.
+2022-08-01T03:01:37Z: PLAYER CHATTED [  240370393] soggyrollercoster4   (  666.4,    62.7,  1010.5)
+  is thi# ####ant
+2022-08-01T03:01:37Z: PLAYER CHATTED [  214958957] DonCar1osGaviria414  (  778.7,    62.7,  1027.8)
+  Yes
+2022-08-01T03:01:40Z: PLAYER CHATTED [  240370393] soggyrollercoster4   (  666.0,    62.7,  1010.7)
+  forever
+2022-08-01T03:01:41Z: PLAYER REMOVED [ 2639029375] CaptainJWillson
+2022-08-01T03:01:41Z: PLAYER CHATTED [ 2410124390] Jibblers2004         (  765.1,    62.7,  1034.6)
+  Any word on threats or any possible dangers?
+2022-08-01T03:01:44Z: CHRCTER ADDED  [ 1275023886] Acxe_WhT2            ( 2449.9,    74.8,  -653.3)
+2022-08-01T03:01:47Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  773.4,    62.7,  1030.4)
+  Alright we will do a box formation
+2022-08-01T03:01:47Z: PLAYER CHATTED [  214958957] DonCar1osGaviria414  (  778.7,    62.7,  1027.8)
+  I hear shooting from the front gate.
+2022-08-01T03:01:50Z: PLAYER CHATTED [  837950418] CoolThunderLion50    (  768.1,    62.7,  1029.3)
+  Just the glock shots.
+2022-08-01T03:01:53Z: PLAYER CHATTED [ 2410124390] Jibblers2004         (  765.9,    62.7,  1033.8)
+  Oh.
+2022-08-01T03:01:55Z: PLAYER REMOVED [ 2233026423] GobbleStopper01
+2022-08-01T03:01:58Z: PLAYER CHATTED [  240370393] soggyrollercoster4   (  665.6,    62.7,  1010.4)
+  Im not sure how I feel about the sign
+2022-08-01T03:01:59Z: PLAYER CHATTED [ 1400257021] NingiaDev            (  780.0,    62.7,  1027.0)
+  are we on lockdown?
+2022-08-01T03:02:02Z: PLAYER CHATTED [  837950418] CoolThunderLion50    (  768.0,    62.7,  1029.9)
+  I'm not that concerned
+2022-08-01T03:02:03Z: PLAYER CHATTED [  240370393] soggyrollercoster4   (  665.3,    62.7,  1010.5)
+  it makes it less privite
+2022-08-01T03:02:03Z: PLAYER CHATTED [  654564775] Mason7cx             (  777.6,    62.7,  1031.5)
+  Cat
+2022-08-01T03:02:04Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  775.7,    62.7,  1027.1)
+  On foot or in cars?
+2022-08-01T03:02:06Z: PLAYER CHATTED [  837950418] CoolThunderLion50    (  772.7,    62.7,  1032.2)
+  Oh boy.
+2022-08-01T03:02:08Z: PLAYER CHATTED [  654564775] Mason7cx             (  777.6,    62.7,  1031.5)
+  Stand in front of box if you could
+2022-08-01T03:02:11Z: PLAYER CHATTED [ 2410124390] Jibblers2004         (  765.9,    62.7,  1033.8)
+  Alright. We’ll stay at front gate for a very short time.
+2022-08-01T03:02:15Z: PLAYER REMOVED [ 2789588341] moise214123
+2022-08-01T03:02:16Z: PLAYER CHATTED [    5981475] Zephyrsion           (  799.1,    60.2,  1213.6)
+  bruh
+2022-08-01T03:02:16Z: PLAYER ADDED   [ 2789588341] moise214123
+2022-08-01T03:02:17Z: PLAYER CHATTED [    5981475] Zephyrsion           (  799.1,    60.2,  1213.6)
+  rly?
+2022-08-01T03:02:19Z: CHRCTER ADDED  [    5981475] Zephyrsion           (  -85.3,    78.0,    90.5)
+2022-08-01T03:02:19Z: PLAYER CHATTED [ 2410124390] Jibblers2004         (  765.9,    62.7,  1033.8)
+  On foot.
+2022-08-01T03:02:22Z: PLAYER CHATTED [  837950418] CoolThunderLion50    (  761.9,    62.7,  1034.1)
+  Something is happening back there.
+2022-08-01T03:02:24Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  768.6,    62.7,  1030.7)
+  Sounds good.
+2022-08-01T03:02:26Z: PLAYER CHATTED [ 1400257021] NingiaDev            (  758.2,    62.7,  1029.1)
+  Are we on lockdown?
+2022-08-01T03:02:31Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  789.0,    63.6,  1026.3)
+  We go to gate
+2022-08-01T03:02:33Z: PLAYER CHATTED [ 2410124390] Jibblers2004         (  765.9,    62.7,  1033.6)
+  No. But we are in alert.
+2022-08-01T03:02:35Z: PLAYER CHATTED [  214958957] DonCar1osGaviria414  (  793.8,    63.6,  1024.4)
+  Whos that in that guard jeep
+2022-08-01T03:02:36Z: PLAYER CHATTED [  422515766] MateBuzzy            (  597.5,    74.3,   516.1)
+  sir.
+2022-08-01T03:02:37Z: PLAYER CHATTED [ 2410124390] Jibblers2004         (  765.5,    62.7,  1032.4)
+  On(*
+2022-08-01T03:02:38Z: PLAYER CHATTED [  214958957] DonCar1osGaviria414  (  793.8,    63.6,  1029.2)
+  Stolen?
+2022-08-01T03:02:38Z: PLAYER CHATTED [ 1400257021] NingiaDev            (  765.9,    62.7,  1027.5)
+  Ah, ok
+2022-08-01T03:02:42Z: PLAYER CHATTED [  837950418] CoolThunderLion50    (  768.2,    62.7,  1031.1)
+  Alright let's go.
+2022-08-01T03:02:44Z: PLAYER CHATTED [  481668836] BandanaBonnie        (  590.7,    74.3,   520.4)
+  yes?
+2022-08-01T03:02:45Z: PLAYER CHATTED [  422515766] MateBuzzy            (  590.5,    74.3,   517.5)
+  where is everyone?
+2022-08-01T03:02:47Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  796.4,    62.6,  1063.0)
+  which
+2022-08-01T03:02:52Z: PLAYER CHATTED [  214958957] DonCar1osGaviria414  (  816.3,    62.7,  1083.1)
+  he left already
+2022-08-01T03:02:52Z: PLAYER CHATTED [  481668836] BandanaBonnie        (  590.7,    74.3,   520.4)
+  I have no idea
+2022-08-01T03:02:55Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1054.7,   129.5,   951.3)
+  Back.
+2022-08-01T03:03:04Z: PLAYER CHATTED [  691635668] VicDeth              ( 1064.8,   129.5,   947.8)
+  i shooting lol
+2022-08-01T03:03:06Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1062.3,   129.5,   952.0)
+  Would it be fine if I call you?
+2022-08-01T03:03:09Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  871.2,    62.7,  1171.1)
+  Nice hit
+2022-08-01T03:03:10Z: PLAYER CHATTED [    5981475] Zephyrsion           (  978.8,    61.4,  1091.6)
+  bruh what is this violence about
+2022-08-01T03:03:13Z: PLAYER CHATTED [ 2410124390] Jibblers2004         (  583.0,    52.6,  1027.2)
+  Did the other agents get the memo?
+2022-08-01T03:03:14Z: PLAYER CHATTED [    5981475] Zephyrsion           (  942.2,    61.4,  1044.4)
+  ???
+2022-08-01T03:03:16Z: PLAYER CHATTED [ 1818902597] AntIronsides         (  768.7,    62.8,  1012.1)
+  Lets stay with Pres for a bit,
+2022-08-01T03:03:17Z: PLAYER CHATTED [  422515766] MateBuzzy            (  590.8,    63.0,   741.1)
+  sir
+2022-08-01T03:03:19Z: PLAYER CHATTED [  973587792] XxwingfaderxX        (  580.1,    62.1,   751.0)
+  ?
+2022-08-01T03:03:22Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 1052.2,    61.4,  1027.6)
+  is this the white house
+2022-08-01T03:03:22Z: PLAYER CHATTED [  654564775] Mason7cx             (  591.6,    52.6,  1012.1)
+  Im not sure
+2022-08-01T03:03:23Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1060.1,   129.5,   955.3)
+  Faster communication.
+2022-08-01T03:03:24Z: PLAYER CHATTED [  422515766] MateBuzzy            (  583.2,    62.4,   747.9)
+  do u know wheres everyone?
+2022-08-01T03:03:24Z: PLAYER CHATTED [  691635668] VicDeth              ( 1065.7,   129.5,   954.1)
+  i dont joined to dis this month
+2022-08-01T03:03:26Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 1105.9,    61.4,  1028.5)
+  or is this the taliban
+2022-08-01T03:03:27Z: PLAYER REMOVED [  170338001] roopr1
+2022-08-01T03:03:27Z: PLAYER CHATTED [  837950418] CoolThunderLion50    (  577.4,    53.7,  1012.8)
+  I don't think so.
+2022-08-01T03:03:28Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 1117.4,    61.4,  1028.5)
+  relax
+2022-08-01T03:03:29Z: PLAYER REMOVED [ 2230519131] VEVODRIP21
+2022-08-01T03:03:30Z: PLAYER CHATTED [  837950418] CoolThunderLion50    (  578.0,    53.7,  1014.6)
+  Let's wait.
+2022-08-01T03:03:31Z: PLAYER CHATTED [  691635668] VicDeth              ( 1055.2,   129.5,   952.0)
+  but ok
+2022-08-01T03:03:32Z: PLAYER REMOVED [  481668836] BandanaBonnie
+2022-08-01T03:03:32Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  578.8,    52.6,  1010.3)
+  yo
+2022-08-01T03:03:35Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 1195.5,    61.4,  1062.4)
+  bruh
+2022-08-01T03:03:36Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  575.0,    52.6,   998.7)
+  lag
+2022-08-01T03:03:36Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 1195.5,    61.4,  1062.4)
+  ??
+2022-08-01T03:03:36Z: PLAYER CHATTED [ 2410124390] Jibblers2004         (  570.4,    53.9,   992.5)
+  Alright.
+2022-08-01T03:03:37Z: PLAYER ADDED   [ 2230519131] VEVODRIP21
+2022-08-01T03:03:40Z: PLAYER CHATTED [ 1400257021] NingiaDev            ( 1212.1,    62.7,  1048.3)
+  stop.
+2022-08-01T03:03:43Z: PLAYER CHATTED [  240370393] soggyrollercoster4   (  764.0,    63.0,  1014.5)
+  i was afk
+2022-08-01T03:03:44Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  573.6,    53.9,   991.4)
+  where we heading
+2022-08-01T03:03:44Z: PLAYER CHATTED [  973587792] XxwingfaderxX        (  580.9,    62.1,   750.9)
+  Yes, they were in hte president oval office
+2022-08-01T03:03:47Z: PLAYER CHATTED [  240370393] soggyrollercoster4   (  715.7,    62.7,  1010.3)
+  mb
+2022-08-01T03:03:47Z: CHRCTER ADDED  [ 1400257021] NingiaDev            (  717.5,    51.1,  1034.3)
+2022-08-01T03:03:48Z: PLAYER CHATTED [  837950418] CoolThunderLion50    (  574.3,    53.7,   999.8)
+  Ready?
+2022-08-01T03:03:50Z: PLAYER ADDED   [  250900588] Rohentheboss2
+2022-08-01T03:03:52Z: PLAYER CHATTED [ 2410124390] Jibblers2004         (  570.5,    53.9,   995.2)
+  Yeah.
+2022-08-01T03:03:53Z: PLAYER CHATTED [  422515766] MateBuzzy            (  583.8,    62.3,   748.8)
+  where are they now?
+2022-08-01T03:03:54Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1051.3,   129.5,   956.8)
+  Pres is still insid.
+2022-08-01T03:03:56Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  565.5,    52.6,  1001.6)
+  Aright
+2022-08-01T03:03:58Z: PLAYER CHATTED [  973587792] XxwingfaderxX        (  580.9,    62.1,   750.9)
+  Pres is going to front gates now.
+2022-08-01T03:04:00Z: PLAYER CHATTED [    5981475] Zephyrsion           (  958.0,    61.4,  1071.9)
+  sheeh
+2022-08-01T03:04:01Z: PLAYER CHATTED [    5981475] Zephyrsion           (  958.0,    61.4,  1071.9)
+  sheeesh
+2022-08-01T03:04:02Z: CHRCTER ADDED  [  214958957] DonCar1osGaviria414  (  688.8,    51.1,  1022.6)
+2022-08-01T03:04:02Z: PLAYER CHATTED [  837950418] CoolThunderLion50    (  574.3,    53.7,   999.8)
+  We are going to front gate.
+2022-08-01T03:04:03Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  570.6,    53.7,  1000.6)
+  Alright
+2022-08-01T03:04:04Z: PLAYER CHATTED [ 2410124390] Jibblers2004         (  570.7,    53.9,  1001.6)
+  Just the front gate.
+2022-08-01T03:04:06Z: PLAYER CHATTED [  214958957] DonCar1osGaviria414  (  689.7,    51.5,  1022.6)
+  THREAT
+2022-08-01T03:04:06Z: PLAYER CHATTED [  422515766] MateBuzzy            (  585.0,    62.3,   748.4)
+  this one?
+2022-08-01T03:04:06Z: PLAYER CHATTED [ 1818902597] AntIronsides         (  600.9,    54.1,   967.2)
+  You own bike?
+2022-08-01T03:04:06Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1017.8,   120.7,   940.0)
+  Actually no.
+2022-08-01T03:04:08Z: PLAYER CHATTED [  691635668] VicDeth              ( 1015.4,   120.7,   935.8)
+  im joining
+2022-08-01T03:04:14Z: PLAYER CHATTED [  973587792] XxwingfaderxX        (  580.1,    62.0,   752.8)
+  I think.
+2022-08-01T03:04:16Z: PLAYER CHATTED [  240370393] soggyrollercoster4   (  595.9,    52.6,  1048.7)
+  yes.
+2022-08-01T03:04:19Z: CHRCTER ADDED  [ 2730706988] ImagineActualKewl    ( 2459.2,    74.8,  -670.3)
+2022-08-01T03:04:20Z: CHRCTER ADDED  [  250900588] Rohentheboss2        (  717.5,    51.3,  1034.3)
+2022-08-01T03:04:21Z: PLAYER CHATTED [  214958957] DonCar1osGaviria414  (  613.7,    52.7,   993.8)
+  THREAT?!
+2022-08-01T03:04:28Z: PLAYER CHATTED [  214958957] DonCar1osGaviria414  (  581.8,    52.6,   972.7)
+  wheres potus
+2022-08-01T03:04:32Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (   26.0,    75.4,  1085.2)
+  I told Car1os front gate
+2022-08-01T03:04:52Z: PLAYER REMOVED [  250900588] Rohentheboss2
+2022-08-01T03:04:53Z: PLAYER CHATTED [    5981475] Zephyrsion           (  802.0,    61.4,  1273.5)
+  bruh
+2022-08-01T03:05:04Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  574.3,    74.3,   518.3)
+  car
+2022-08-01T03:05:06Z: PLAYER CHATTED [  214958957] DonCar1osGaviria414  (  570.6,    74.3,   530.3)
+  Active shooter near the oval;.
+2022-08-01T03:05:11Z: PLAYER REMOVED [ 2789588341] moise214123
+2022-08-01T03:05:11Z: PLAYER CHATTED [ 2410124390] Jibblers2004         (  588.3,    74.3,   518.2)
+  There’s no civs to greet.
+2022-08-01T03:05:12Z: PLAYER CHATTED [  422515766] MateBuzzy            (  577.0,    74.3,   513.6)
+  hello president.
+2022-08-01T03:05:15Z: PLAYER ADDED   [  716940211] supermase143
+2022-08-01T03:05:18Z: PLAYER CHATTED [ 2410124390] Jibblers2004         (  588.0,    74.3,   519.0)
+  Hello.
+2022-08-01T03:05:20Z: PLAYER CHATTED [  422515766] MateBuzzy            (  585.2,    74.3,   517.6)
+  can u explain why its empty?
+2022-08-01T03:05:21Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  587.9,    74.3,   508.1)
+  im here
+2022-08-01T03:05:22Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  587.7,    74.3,   514.6)
+  you got one
+2022-08-01T03:05:22Z: PLAYER CHATTED [  837950418] CoolThunderLion50    (  584.1,    74.3,   507.0)
+  Only one.
+2022-08-01T03:05:26Z: PLAYER CHATTED [ 2730706988] ImagineActualKewl    ( 2114.8,    84.4,  -641.9)
+  Formation 2?
+2022-08-01T03:05:30Z: PLAYER CHATTED [ 2410124390] Jibblers2004         (  589.2,    74.3,   518.6)
+  Yeah. Just one
+2022-08-01T03:05:31Z: PLAYER ADDED   [ 1701335345] DatDonkeyBenson
+2022-08-01T03:05:32Z: PLAYER CHATTED [ 1818902597] AntIronsides         (  594.8,    74.3,   504.2)
+  Reset.
+2022-08-01T03:05:32Z: PLAYER REMOVED [ 1701335345] DatDonkeyBenson
+2022-08-01T03:05:35Z: PLAYER CHATTED [ 1818902597] AntIronsides         (  594.2,    74.3,   506.5)
+  Don
+2022-08-01T03:05:36Z: PLAYER CHATTED [ 2410124390] Jibblers2004         (  589.2,    74.3,   519.4)
+  No, I cannot.
+2022-08-01T03:05:39Z: PLAYER CHATTED [  422515766] MateBuzzy            (  585.2,    74.3,   517.6)
+  thats what im saying.
+2022-08-01T03:05:41Z: PLAYER CHATTED [ 1818902597] AntIronsides         (  594.2,    74.3,   506.5)
+  Don't wear that uniform.'
+2022-08-01T03:05:43Z: PLAYER CHATTED [  422515766] MateBuzzy            (  586.7,    74.3,   515.6)
+  its empty
+2022-08-01T03:05:43Z: PLAYER CHATTED [    5981475] Zephyrsion           (  571.1,    72.3,   525.7)
+  oof
+2022-08-01T03:05:44Z: PLAYER CHATTED [    5981475] Zephyrsion           (  571.1,    72.3,   525.7)
+  man
+2022-08-01T03:05:45Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  588.4,    74.3,   511.1)
+  president can i have a hug
+2022-08-01T03:05:47Z: CHRCTER ADDED  [    5981475] Zephyrsion           (  -79.7,    78.0,   135.5)
+2022-08-01T03:05:47Z: PLAYER CHATTED [  422515766] MateBuzzy            (  584.4,    74.3,   520.1)
+  the game is epmty.
+2022-08-01T03:05:48Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  589.0,    74.3,   517.5)
+  Lack of security and lack of activity
+2022-08-01T03:05:49Z: PLAYER REMOVED [ 2230519131] VEVODRIP21
+2022-08-01T03:05:54Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  588.4,    74.3,   516.2)
+  !!!
+2022-08-01T03:06:00Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  587.5,    72.3,   509.9)
+  sorry
+2022-08-01T03:06:04Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  589.0,    74.3,   515.4)
+  its also 11:05 pm at night
+2022-08-01T03:06:06Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  587.6,    72.3,   510.0)
+  baton sir
+2022-08-01T03:06:11Z: PLAYER CHATTED [  654564775] Mason7cx             (  588.0,    74.3,   523.5)
+  Yeah and i need abreak
+2022-08-01T03:06:14Z: PLAYER CHATTED [  654564775] Mason7cx             (  588.0,    74.3,   523.5)
+  some food
+2022-08-01T03:06:14Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  587.6,    72.3,   510.2)
+  11:06 at my place
+2022-08-01T03:06:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (  905.2,    78.9,   911.0)
+  Can you hear?
+2022-08-01T03:06:16Z: PLAYER CHATTED [ 2410124390] Jibblers2004         (  591.6,    74.3,   518.3)
+  It’ll get busy soon, i know it.
+2022-08-01T03:06:17Z: PLAYER CHATTED [  654564775] Mason7cx             (  588.0,    74.3,   523.5)
+  im gonna go
+2022-08-01T03:06:18Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  587.6,    72.3,   510.3)
+  someone use your baton
+2022-08-01T03:06:21Z: PLAYER CHATTED [  973587792] XxwingfaderxX        (  570.3,    74.3,   513.7)
+  BACK UP.
+2022-08-01T03:06:21Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  587.6,    72.3,   510.4)
+  im stuck
+2022-08-01T03:06:24Z: PLAYER CHATTED [ 1818902597] AntIronsides         (  619.9,    79.6,   454.7)
+  After your Patrol give me a ride to N G.
+2022-08-01T03:06:24Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  569.0,    74.3,   492.4)
+  car move
+2022-08-01T03:06:25Z: PLAYER CHATTED [  645280283] poopoobum752         (  618.8,    76.5,   457.5)
+  Is everything okay, Sarge?
+2022-08-01T03:06:25Z: PLAYER CHATTED [    5981475] Zephyrsion           (  592.6,    74.3,   479.1)
+  bad
+2022-08-01T03:06:26Z: PLAYER CHATTED [  654564775] Mason7cx             (  598.4,    74.3,   520.0)
+  good bye fellas
+2022-08-01T03:06:30Z: PLAYER CHATTED [ 2410124390] Jibblers2004         (  591.6,    74.3,   518.3)
+  Alright, bye VP.
+2022-08-01T03:06:31Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  614.9,    74.3,   484.9)
+  !
+2022-08-01T03:06:31Z: PLAYER CHATTED [    5981475] Zephyrsion           (  612.0,    74.3,   483.2)
+  ok sir
+2022-08-01T03:06:33Z: PLAYER CHATTED [    5981475] Zephyrsion           (  613.3,    74.3,   483.6)
+  <'3
+2022-08-01T03:06:34Z: PLAYER REMOVED [  654564775] Mason7cx
+2022-08-01T03:06:36Z: PLAYER REMOVED [ 2574392852] WormKuma
+2022-08-01T03:06:38Z: PLAYER CHATTED [ 1818902597] AntIronsides         (  560.7,    79.7,   457.1)
+  I lost my vehicle.
+2022-08-01T03:06:39Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  587.7,    72.3,   510.8)
+  use your baton
+2022-08-01T03:06:40Z: PLAYER CHATTED [    5981475] Zephyrsion           (  580.0,    74.3,   504.7)
+  car moved
+2022-08-01T03:06:41Z: PLAYER CHATTED [  645280283] poopoobum752         (  559.6,    76.5,   460.0)
+  I can fit that now.
+2022-08-01T03:06:42Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  587.6,    72.3,   510.8)
+  BATON
+2022-08-01T03:06:48Z: PLAYER CHATTED [    5981475] Zephyrsion           (  588.2,    74.3,   506.5)
+  Civ are you ok
+2022-08-01T03:06:52Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  587.6,    72.3,   510.3)
+  no
+2022-08-01T03:06:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (  882.9,    78.9,   894.7)
+  I am in call.
+2022-08-01T03:06:59Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  587.6,    72.3,   509.9)
+  i need someone to use baton
+2022-08-01T03:07:00Z: PLAYER ADDED   [  250900588] Rohentheboss2
+2022-08-01T03:07:00Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  589.1,    74.3,   508.5)
+  thx
+2022-08-01T03:07:02Z: PLAYER CHATTED [  422515766] MateBuzzy            (  587.4,    74.3,   514.2)
+  there
+2022-08-01T03:07:04Z: PLAYER CHATTED [  422515766] MateBuzzy            (  587.4,    74.3,   514.2)
+  np
+2022-08-01T03:07:04Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  591.8,    74.3,   507.8)
+  geez
+2022-08-01T03:07:05Z: PLAYER CHATTED [    5981475] Zephyrsion           (  585.5,    74.3,   507.5)
+  Smart
+2022-08-01T03:07:09Z: CHRCTER ADDED  [  250900588] Rohentheboss2        (  714.1,    51.3,  1034.3)
+2022-08-01T03:07:14Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  595.4,    74.3,   509.4)
+  i just fall alot
+2022-08-01T03:07:16Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  589.3,    74.3,   516.8)
+  .
+2022-08-01T03:07:17Z: PLAYER CHATTED [ 2410124390] Jibblers2004         (  591.6,    74.3,   518.3)
+  Ah dang guys. I need to go to sleep. I’m tired. Peace!
+2022-08-01T03:07:22Z: PLAYER CHATTED [    5981475] Zephyrsion           (  595.1,    74.3,   505.9)
+  Bruh
+2022-08-01T03:07:22Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  597.7,    72.3,   508.1)
+  lol
+2022-08-01T03:07:23Z: PLAYER CHATTED [  645280283] poopoobum752         (   15.6,    76.5,  -784.6)
+  I wish there was a cruise control button
+2022-08-01T03:07:23Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  592.5,    74.3,   515.3)
+  Alr
+2022-08-01T03:07:25Z: PLAYER REMOVED [ 2410124390] Jibblers2004
+2022-08-01T03:07:26Z: PLAYER CHATTED [  837950418] CoolThunderLion50    (  597.8,    74.3,   509.6)
+  Bye.
+2022-08-01T03:07:26Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  589.3,    74.3,   513.0)
+  Peace
+2022-08-01T03:07:28Z: CHRCTER ADDED  [    5981475] Zephyrsion           (  766.8,    62.7,  1032.7)
+2022-08-01T03:07:31Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  593.8,    74.3,   516.1)
+  New POTUS
+2022-08-01T03:07:34Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  581.1,    74.3,   519.5)
+  to the oval
+2022-08-01T03:07:37Z: PLAYER REMOVED [ 1400257021] NingiaDev
+2022-08-01T03:07:39Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  598.0,    72.3,   508.7)
+  stuck again
+2022-08-01T03:07:40Z: CHRCTER ADDED  [  422515766] MateBuzzy            (  717.5,    51.3,  1034.3)
+2022-08-01T03:07:41Z: PLAYER CHATTED [  422515766] MateBuzzy            (  717.5,    51.3,  1034.3)
+  ok.
+2022-08-01T03:07:45Z: PLAYER REMOVED [  250900588] Rohentheboss2
+2022-08-01T03:07:46Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  598.0,    72.3,   509.0)
+  living the life
+2022-08-01T03:07:48Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  598.0,    74.3,   510.2)
+  thx
+2022-08-01T03:07:56Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  586.6,    74.3,   507.8)
+  here
+2022-08-01T03:07:57Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  586.6,    74.3,   507.8)
+  baton me
+2022-08-01T03:08:01Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  586.9,    74.3,   509.0)
+  i will fly to heaven
+2022-08-01T03:08:05Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  593.3,    74.3,   515.1)
+  lets go
+2022-08-01T03:08:06Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  586.2,    74.3,   510.3)
+  just make me sit
+2022-08-01T03:08:13Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  586.6,    74.3,   510.5)
+  sure why not
+2022-08-01T03:08:17Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  586.6,    74.3,   510.5)
+  lets go
+2022-08-01T03:08:21Z: PLAYER CHATTED [  973587792] XxwingfaderxX        (  584.6,    74.3,   513.0)
+  ok
+2022-08-01T03:08:25Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  573.9,    73.7,   541.3)
+  POTUS is some osrt of arab
+2022-08-01T03:08:28Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2101.8,    79.7,  -599.0)
+  Thanks
+2022-08-01T03:08:31Z: CHRCTER ADDED  [  973587792] XxwingfaderxX        (  -85.4,    78.0,   135.6)
+2022-08-01T03:08:32Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2099.1,    76.6,  -614.8)
+  yep
+2022-08-01T03:08:33Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 1046.7,    63.6,  1018.8)
+  N G please
+2022-08-01T03:08:34Z: PLAYER ADDED   [  170338001] roopr1
+2022-08-01T03:08:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (  741.7,    83.5,   977.2)
+  He's in a tank.
+2022-08-01T03:08:39Z: PLAYER CHATTED [  422515766] MateBuzzy            ( 1062.2,    63.3,  1017.5)
+  ok
+2022-08-01T03:08:43Z: CHRCTER ADDED  [  170338001] roopr1               (   90.9,    75.2,   225.0)
+2022-08-01T03:08:47Z: PLAYER REMOVED [ 2730706988] ImagineActualKewl
+2022-08-01T03:08:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (  749.4,    83.1,   980.9)
+  I mean limo.
+2022-08-01T03:08:52Z: CHRCTER ADDED  [  716940211] supermase143         ( 2437.9,    74.7,  -670.3)
+2022-08-01T03:09:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (  773.1,    83.1,   984.6)
+  Can you see my messages?
+2022-08-01T03:09:06Z: PLAYER REMOVED [  240370393] soggyrollercoster4
+2022-08-01T03:09:23Z: CHRCTER ADDED  [  170338001] roopr1               (   86.2,    75.2,   215.4)
+2022-08-01T03:09:31Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  648.5,    51.5,  1003.8)
+  POTUS
+2022-08-01T03:09:34Z: PLAYER CHATTED [  716940211] supermase143         ( 2116.4,    84.5,  -660.3)
+  -salutes
+2022-08-01T03:09:37Z: PLAYER CHATTED [  973587792] XxwingfaderxX        (  110.7,    74.0,   217.8)
+  hey
+2022-08-01T03:09:44Z: PLAYER CHATTED [  973587792] XxwingfaderxX        (  108.1,    74.0,   216.2)
+  wanna murder pres
+2022-08-01T03:09:51Z: PLAYER CHATTED [  716940211] supermase143         ( 2115.9,    84.0,  -659.3)
+  ace or ant
+2022-08-01T03:09:54Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  755.0,    62.6,   871.1)
+  dog got lost already
+2022-08-01T03:09:57Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2115.0,    84.5,  -641.3)
+  ?
+2022-08-01T03:09:59Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  879.7,    62.6,   885.2)
+  ########
+2022-08-01T03:10:01Z: PLAYER CHATTED [  170338001] roopr1               (   79.7,    74.4,   191.0)
+  No
+2022-08-01T03:10:01Z: PLAYER CHATTED [  973587792] XxwingfaderxX        (   69.5,    74.1,   189.5)
+  ?
+2022-08-01T03:10:02Z: PLAYER CHATTED [  716940211] supermase143         ( 2115.9,    84.0,  -659.3)
+  Is anyone alowed to host a 16 brigade tryout
+2022-08-01T03:10:04Z: PLAYER CHATTED [  973587792] XxwingfaderxX        (   69.4,    74.1,   192.2)
+  ok
+2022-08-01T03:10:04Z: PLAYER CHATTED [  170338001] roopr1               (   79.7,    74.4,   191.0)
+  sadly not
+2022-08-01T03:10:08Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  927.3,    62.7,   873.2)
+  ###########
+2022-08-01T03:10:18Z: PLAYER CHATTED [  422515766] MateBuzzy            ( 2106.2,    74.9,  -613.0)
+  hhere we are.
+2022-08-01T03:10:19Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 1053.7,    62.9,   889.9)
+  ########
+2022-08-01T03:10:19Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  995.6,    62.7,   984.0)
+  /on the roof
+2022-08-01T03:10:20Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2117.0,    74.3,  -605.0)
+  HELLO.
+2022-08-01T03:10:27Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2117.0,    74.3,  -603.7)
+  Sorry Caps.
+2022-08-01T03:10:27Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2113.5,    74.3,  -600.8)
+  Helloooo friends
+2022-08-01T03:10:28Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 1047.6,    78.2,   879.9)
+  ##########
+2022-08-01T03:10:30Z: PLAYER CHATTED [  716940211] supermase143         ( 2119.6,    74.3,  -599.0)
+  -salutes to POTUS
+2022-08-01T03:10:31Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2117.0,    74.3,  -603.7)
+  Hello, POTUS.
+2022-08-01T03:10:31Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  207.1,    75.2,    49.1)
+2022-08-01T03:10:31Z: PLAYER CHATTED [  422515766] MateBuzzy            ( 2107.2,    74.3,  -651.9)
+  sir
+2022-08-01T03:10:31Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 1026.0,    78.4,   887.2)
+  #########
+2022-08-01T03:10:32Z: PLAYER CHATTED [  691635668] VicDeth              (  852.7,    78.9,   912.4)
+  come
+2022-08-01T03:10:36Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2117.0,    74.3,  -603.7)
+  o7
+2022-08-01T03:10:37Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2114.1,    74.3,  -599.7)
+  -salutes back-
+2022-08-01T03:10:39Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2117.0,    74.3,  -603.7)
+  What brings you here?
+2022-08-01T03:10:40Z: PLAYER CHATTED [  422515766] MateBuzzy            ( 2107.2,    74.3,  -651.9)
+  how do u become a national guard?
+2022-08-01T03:10:40Z: PLAYER CHATTED [  716940211] supermase143         ( 2119.7,    74.3,  -598.1)
+  G,day POTUS.
+2022-08-01T03:10:42Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  864.8,    62.7,   871.4)
+  one more
+2022-08-01T03:10:43Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2117.0,    74.3,  -603.7)
+  Visit?
+2022-08-01T03:10:43Z: CHRCTER ADDED  [  691635668] VicDeth              (  -76.9,    78.0,   130.6)
+2022-08-01T03:10:49Z: PLAYER CHATTED [  214958957] DonCar1osGaviria414  (  822.0,    62.6,   864.8)
+  I think theres one more
+2022-08-01T03:10:50Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  813.8,    62.7,   878.2)
+  hes close
+2022-08-01T03:10:54Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  817.2,    62.7,   883.6)
+  there is
+2022-08-01T03:11:00Z: PLAYER ADDED   [ 3665493739] 2SmackinU
+2022-08-01T03:11:03Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2113.5,    74.3,  -598.8)
+  That's right infact. I heard from the staff that a visit was overdue
+2022-08-01T03:11:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (   19.2,    74.3,   169.0)
+  I gain money as a cilillian.
+2022-08-01T03:11:12Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  812.5,    62.6,  1028.8)
+  damn it
+2022-08-01T03:11:13Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2117.0,    74.3,  -603.7)
+  Alright.
+2022-08-01T03:11:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (   19.2,    74.3,   169.0)
+  I couldn't hear in the call, so I left.
+2022-08-01T03:11:15Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2113.3,    74.3,  -599.5)
+  So I wanted to stop by and see the base.
+2022-08-01T03:11:16Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  834.0,    62.7,  1029.1)
+  little black guy
+2022-08-01T03:11:17Z: PLAYER CHATTED [  691635668] VicDeth              (   21.8,    74.3,   166.5)
+  the just know where are us
+2022-08-01T03:11:19Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2113.3,    74.3,  -599.5)
+  Any changes lately?
+2022-08-01T03:11:22Z: PLAYER CHATTED [  691635668] VicDeth              (   21.8,    74.3,   166.5)
+  oh
+2022-08-01T03:11:24Z: PLAYER CHATTED [  214958957] DonCar1osGaviria414  (  933.1,    63.4,  1023.9)
+  .THERE
+2022-08-01T03:11:25Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2117.0,    74.3,  -603.7)
+  No, not really./
+2022-08-01T03:11:25Z: PLAYER CHATTED [  170338001] roopr1               (   24.0,    74.3,   161.5)
+  #####
+2022-08-01T03:11:29Z: PLAYER CHATTED [  170338001] roopr1               (   24.0,    74.3,   161.5)
+  Oh yes
+2022-08-01T03:11:40Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2163.1,    74.5,  -628.5)
+  I see.
+2022-08-01T03:11:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (   18.3,    74.3,   164.1)
+  I believe you were at the White House?
+2022-08-01T03:11:48Z: PLAYER CHATTED [  170338001] roopr1               (   24.0,    74.3,   161.5)
+  I will bring up topgun while wearing a helicopter helmet
+2022-08-01T03:11:49Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2128.9,    74.3,  -607.4)
+  o7
+2022-08-01T03:11:53Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2128.8,    74.3,  -613.5)
+  07
+2022-08-01T03:11:54Z: PLAYER CHATTED [  170338001] roopr1               (   24.0,    74.3,   161.5)
+  nope
+2022-08-01T03:11:54Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  796.9,    63.0,  1000.7)
+  i am infact james bond 007
+2022-08-01T03:11:56Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2128.8,    74.3,  -613.5)
+  *07
+2022-08-01T03:12:00Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2128.9,    74.3,  -607.4)
+  Hello, Mr. President.
+2022-08-01T03:12:01Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2128.8,    74.3,  -613.5)
+  *O7
+2022-08-01T03:12:01Z: PLAYER REMOVED [ 3665493739] 2SmackinU
+2022-08-01T03:12:04Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2128.8,    74.3,  -613.5)
+  *o7
+2022-08-01T03:12:07Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  651.5,    62.3,  1430.8)
+  high speed chase
+2022-08-01T03:12:16Z: PLAYER CHATTED [  973587792] XxwingfaderxX        (   15.7,    74.0,  -717.4)
+  come
+2022-08-01T03:12:17Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2134.8,    74.3,  -612.6)
+  Well nice meeting you.
+2022-08-01T03:12:21Z: CHRCTER ADDED  [  216671816] TheDepthsOfHades     (  210.6,    75.2,    46.5)
+2022-08-01T03:12:22Z: CHRCTER ADDED  [  216671816] TheDepthsOfHades     (  714.1,    51.3,  1034.3)
+2022-08-01T03:12:22Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2134.3,    74.3,  -615.9)
+  Do you need anything else?
+2022-08-01T03:12:23Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2126.7,    74.3,  -615.1)
+  Likewise.
+2022-08-01T03:12:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (    5.7,    74.3,  -378.0)
+  Are we here to kil Amrik?
+2022-08-01T03:12:29Z: PLAYER REMOVED [  691635668] VicDeth
+2022-08-01T03:12:31Z: PLAYER CHATTED [  973587792] XxwingfaderxX        (   13.3,    74.1,    91.1)
+  YES
+2022-08-01T03:12:36Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2112.8,    74.3,  -615.8)
+  Hello, Sir.
+2022-08-01T03:12:36Z: PLAYER CHATTED [  973587792] XxwingfaderxX        (    4.9,    74.1,   969.4)
+  THEY ARE COMING
+2022-08-01T03:12:37Z: PLAYER CHATTED [ 1275023886] Acxe_WhT2            ( 2127.5,    74.3,  -625.2)
+  Hello, POTUS.
+2022-08-01T03:12:37Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2126.9,    74.3,  -614.6)
+  Actually, come to think of it -
+2022-08-01T03:12:37Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (    2.9,    73.7,  -384.7)
+  let em go
+2022-08-01T03:12:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (    2.0,    74.3,  1920.8)
+  I have their location.
+2022-08-01T03:12:45Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2126.9,    74.3,  -614.6)
+  Hello
+2022-08-01T03:12:45Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (    7.7,    73.7,   -34.7)
+  they will come by again
+2022-08-01T03:12:46Z: PLAYER ADDED   [  691635668] VicDeth
+2022-08-01T03:12:49Z: PLAYER CHATTED [  973587792] XxwingfaderxX        (   23.6,    74.0,  1974.5)
+  ok
+2022-08-01T03:12:53Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  515.0,    73.8,   487.5)
+  ### ## #### to us
+2022-08-01T03:12:55Z: PLAYER CHATTED [  973587792] XxwingfaderxX        (   11.2,    74.0,  1987.8)
+  do you have any other guys
+2022-08-01T03:12:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (    8.6,    74.3,  1933.7)
+  Other side of the map.
+2022-08-01T03:13:04Z: CHRCTER ADDED  [  691635668] VicDeth              (   90.0,    75.2,    73.3)
+2022-08-01T03:13:05Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2126.9,    74.3,  -614.6)
+  Could I have you all come with us to the white house
+2022-08-01T03:13:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (   14.3,    74.3,  1006.5)
+  Every other guy as well.
+2022-08-01T03:13:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (   18.4,    74.3,   336.3)
+  Bring Spy.
+2022-08-01T03:13:17Z: PLAYER CHATTED [    1630228] VisualPlugin         (   21.0,    74.3,   197.9)
+  He's my ally.
+2022-08-01T03:13:17Z: PLAYER CHATTED [ 1275023886] Acxe_WhT2            ( 2127.5,    74.3,  -625.2)
+  May i ask what for?
+2022-08-01T03:13:18Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2126.9,    74.3,  -614.6)
+  To offer some more protection to all our folks there
+2022-08-01T03:13:19Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2131.1,    74.3,  -613.8)
+  Um..
+2022-08-01T03:13:23Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2126.8,    74.3,  -615.4)
+  The reason being is that,
+2022-08-01T03:13:29Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  734.5,    75.4,   457.1)
+  kick it
+2022-08-01T03:13:29Z: PLAYER CHATTED [  973587792] XxwingfaderxX        (   19.6,    74.1,    46.3)
+  do you need gun
+2022-08-01T03:13:31Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  665.3,    75.4,   458.6)
+  ?
+2022-08-01T03:13:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (   87.4,    74.2,    32.8)
+  I do.
+2022-08-01T03:13:34Z: PLAYER REMOVED [  837950418] CoolThunderLion50
+2022-08-01T03:13:35Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  621.1,    74.3,   454.4)
+  idk just dirve
+2022-08-01T03:13:37Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  620.9,    74.3,   454.4)
+  dude
+2022-08-01T03:13:37Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2131.1,    74.3,  -613.8)
+  We can come.'
+2022-08-01T03:13:40Z: PLAYER ADDED   [ 2574392852] WormKuma
+2022-08-01T03:13:41Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2125.8,    74.3,  -615.3)
+  Currently our staff is having a hard time securing our gates and so on.
+2022-08-01T03:13:41Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2131.1,    74.3,  -613.8)
+  But..
+2022-08-01T03:13:41Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  602.9,    72.3,   460.0)
+  on rec
+2022-08-01T03:13:43Z: PLAYER ADDED   [ 1340823232] KeepUSA_great2020
+2022-08-01T03:13:44Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  602.9,    72.3,   460.0)
+  your getting banned
+2022-08-01T03:13:45Z: CHRCTER ADDED  [   25244664] DonPab1oEGaviria     (  774.6,    51.1,  1028.3)
+2022-08-01T03:13:45Z: PLAYER CHATTED [  691635668] VicDeth              (   -9.4,    74.2,   175.2)
+  just farming money
+2022-08-01T03:13:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -12.1,    74.3,   175.3)
+  Not enough momey.
+2022-08-01T03:13:46Z: CHRCTER ADDED  [  216671816] TheDepthsOfHades     (  -82.7,    78.0,    90.9)
+2022-08-01T03:13:46Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2125.8,    74.3,  -615.3)
+  And preventing attackers from entering.
+2022-08-01T03:13:47Z: PLAYER CHATTED [  170338001] roopr1               ( 2112.8,    74.3,  -612.1)
+  I am with topgun
+2022-08-01T03:13:49Z: PLAYER CHATTED [  973587792] XxwingfaderxX        (  -11.9,    74.1,   172.1)
+  okk
+2022-08-01T03:13:51Z: PLAYER CHATTED [  170338001] roopr1               ( 2113.1,    72.3,  -612.2)
+  POTUS become top gun
+2022-08-01T03:13:53Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2115.8,    74.3,  -612.2)
+  .
+2022-08-01T03:13:54Z: CHRCTER ADDED  [ 1340823232] KeepUSA_great2020    (  -84.4,    78.0,    93.1)
+2022-08-01T03:13:54Z: PLAYER CHATTED [  170338001] roopr1               ( 2111.7,    72.3,  -606.5)
+  lol
+2022-08-01T03:13:56Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -12.1,    74.3,   175.3)
+  Can I fly the car?
+2022-08-01T03:13:56Z: CHRCTER ADDED  [  170338001] roopr1               (  210.6,    75.2,    50.0)
+2022-08-01T03:13:56Z: CHRCTER ADDED  [ 2574392852] WormKuma             ( 2459.2,    74.8,  -670.3)
+2022-08-01T03:13:57Z: CHRCTER ADDED  [  170338001] roopr1               ( 2437.9,    74.8,  -653.3)
+2022-08-01T03:13:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -12.1,    74.3,   175.1)
+  I need to be driving.
+2022-08-01T03:14:01Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (    4.2,    74.3,   136.0)
+  death to the president
+2022-08-01T03:14:02Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  664.3,    51.5,  1002.1)
+  !help
+2022-08-01T03:14:04Z: PLAYER CHATTED [ 1275023886] Acxe_WhT2            ( 2130.2,    74.3,  -622.4)
+  I can do a patrol and head to the WHMO, so if you need N G ill be in there.
+2022-08-01T03:14:05Z: PLAYER CHATTED [  973587792] XxwingfaderxX        (    3.4,    74.0,    99.9)
+  sure LOL
+2022-08-01T03:14:15Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2122.2,    74.3,  -614.1)
+  Well
+2022-08-01T03:14:17Z: PLAYER CHATTED [  973587792] XxwingfaderxX        (    1.6,    74.8,   -63.9)
+  NAHHHHh
+2022-08-01T03:14:17Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (    6.6,    74.3,  -121.3)
+  #########
+2022-08-01T03:14:18Z: PLAYER CHATTED [  691635668] VicDeth              (    6.2,    74.3,  -147.7)
+  now the guns
+2022-08-01T03:14:18Z: PLAYER CHATTED [  170338001] roopr1               ( 2118.4,    74.3,  -626.9)
+  I believe you killed me
+2022-08-01T03:14:18Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2126.1,    74.3,  -616.1)
+  Fair enough.
+2022-08-01T03:14:19Z: PLAYER CHATTED [ 1275023886] Acxe_WhT2            ( 2120.6,    74.3,  -620.8)
+  o7.
+2022-08-01T03:14:20Z: PLAYER CHATTED [  170338001] roopr1               ( 2118.4,    74.3,  -626.9)
+  Why?
+2022-08-01T03:14:21Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2122.2,    74.3,  -614.1)
+  Alright.
+2022-08-01T03:14:21Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2126.2,    74.3,  -620.0)
+  o7
+2022-08-01T03:14:22Z: PLAYER CHATTED [  716940211] supermase143         ( 2133.3,    74.3,  -619.1)
+  Sir!
+2022-08-01T03:14:22Z: PLAYER CHATTED [  973587792] XxwingfaderxX        (   48.1,    91.8,  -692.3)
+  WHATTTTTT
+2022-08-01T03:14:24Z: PLAYER CHATTED [  691635668] VicDeth              (  276.1,    74.4,  -772.8)
+  and kill the president
+2022-08-01T03:14:27Z: PLAYER CHATTED [ 2574392852] WormKuma             ( 2124.3,    74.3,  -620.5)
+  M1 patrol?
+2022-08-01T03:14:27Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2122.2,    74.3,  -614.1)
+  o7.
+2022-08-01T03:14:28Z: PLAYER CHATTED [  214958957] DonCar1osGaviria414  ( 2112.2,    74.3,  -625.3)
+  i thought u were an attacker
+2022-08-01T03:14:28Z: PLAYER CHATTED [  716940211] supermase143         ( 2133.3,    74.3,  -619.1)
+  o0
+2022-08-01T03:14:29Z: PLAYER CHATTED [  973587792] XxwingfaderxX        (  906.3,   145.5,  -833.2)
+  yes
+2022-08-01T03:14:31Z: PLAYER CHATTED [  716940211] supermase143         ( 2133.3,    74.3,  -619.1)
+  o7
+2022-08-01T03:14:32Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2126.6,    74.3,  -614.0)
+  Well,
+2022-08-01T03:14:33Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2121.2,    74.3,  -617.3)
+  Nope.
+2022-08-01T03:14:33Z: PLAYER CHATTED [  214958957] DonCar1osGaviria414  ( 2112.2,    74.3,  -625.3)
+  because citizen
+2022-08-01T03:14:35Z: PLAYER CHATTED [  973587792] XxwingfaderxX        ( 1584.6,   124.5,  -838.3)
+  omg
+2022-08-01T03:14:35Z: PLAYER CHATTED [  716940211] supermase143         ( 2128.5,    74.3,  -620.5)
+  Sir question.
+2022-08-01T03:14:35Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 1653.0,   123.0,  -836.0)
+  roads? where were going we dont need roads
+2022-08-01T03:14:36Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2125.8,    74.3,  -612.0)
+  Not this time.
+2022-08-01T03:14:37Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2124.5,    74.3,  -617.4)
+  Yes.
+2022-08-01T03:14:39Z: PLAYER CHATTED [  214958957] DonCar1osGaviria414  ( 2112.2,    74.3,  -625.3)
+  no full access
+2022-08-01T03:14:42Z: PLAYER CHATTED [  170338001] roopr1               ( 2118.4,    74.3,  -626.9)
+  I didnt pull out a gun yet
+2022-08-01T03:14:43Z: PLAYER CHATTED [ 2574392852] WormKuma             ( 2124.3,    74.3,  -620.5)
+  Yes?
+2022-08-01T03:14:44Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2122.2,    74.3,  -614.5)
+  If you need M1 tell me.
+2022-08-01T03:14:45Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 2077.0,   116.4,  -830.1)
+  He's at the national Guard.
+2022-08-01T03:14:46Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2077.2,   116.6,  -827.6)
+  poh my god
+2022-08-01T03:14:49Z: PLAYER CHATTED [  973587792] XxwingfaderxX        ( 2073.9,   116.6,  -830.3)
+  ok
+2022-08-01T03:14:49Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2125.0,    74.3,  -608.7)
+  Later.
+2022-08-01T03:14:50Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2128.3,    74.3,  -611.7)
+  Alright thanks
+2022-08-01T03:14:51Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2077.2,   116.6,  -827.6)
+  so many people
+2022-08-01T03:14:52Z: PLAYER CHATTED [  716940211] supermase143         ( 2128.0,    74.3,  -620.5)
+  can you possibly do a 16 brigade tryout
+2022-08-01T03:14:52Z: PLAYER CHATTED [ 1275023886] Acxe_WhT2            ( 2128.7,    74.3,  -615.6)
+  Alright.
+2022-08-01T03:14:53Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2123.9,    74.3,  -624.7)
+  Question.
+2022-08-01T03:14:54Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2128.3,    74.3,  -611.7)
+  Yes maybe
+2022-08-01T03:14:55Z: PLAYER CHATTED [  716940211] supermase143         ( 2128.0,    74.3,  -620.5)
+  for me
+2022-08-01T03:14:56Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 2077.0,   116.4,  -830.1)
+  Near the entrance with many others.
+2022-08-01T03:14:57Z: PLAYER CHATTED [  170338001] roopr1               ( 2121.7,    74.3,  -611.2)
+  And only crims can make assasination attempts
+2022-08-01T03:14:58Z: PLAYER CHATTED [  973587792] XxwingfaderxX        ( 2073.9,   116.6,  -830.3)
+  ##### # shoot?
+2022-08-01T03:14:59Z: CHRCTER ADDED  [ 1340823232] KeepUSA_great2020    (  -82.7,    78.0,    87.9)
+2022-08-01T03:14:59Z: PLAYER CHATTED [ 1275023886] Acxe_WhT2            ( 2128.7,    74.3,  -615.6)
+  I can head to W H now with you.
+2022-08-01T03:15:02Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2125.1,    74.3,  -625.0)
+  Nevermind.
+2022-08-01T03:15:02Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2126.0,    74.3,  -608.4)
+  Because I can fly.
+2022-08-01T03:15:04Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2128.2,    74.3,  -611.9)
+  I mean as in, maybe later.
+2022-08-01T03:15:08Z: PLAYER CHATTED [ 2574392852] WormKuma             ( 2124.3,    74.3,  -620.5)
+  I dont really host tryouts wait for a officer to.
+2022-08-01T03:15:11Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2077.2,   116.6,  -827.6)
+  ill create a diversion
+2022-08-01T03:15:11Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2118.0,    74.3,  -607.1)
+  Alright great.
+2022-08-01T03:15:12Z: PLAYER CHATTED [  691635668] VicDeth              ( 2073.9,   116.6,  -827.6)
+  see the target
+2022-08-01T03:15:15Z: PLAYER CHATTED [  973587792] XxwingfaderxX        ( 2073.9,   116.6,  -830.3)
+  ok
+2022-08-01T03:15:15Z: PLAYER CHATTED [  691635668] VicDeth              ( 2073.9,   116.6,  -827.6)
+  Amrick
+2022-08-01T03:15:16Z: PLAYER CHATTED [  170338001] roopr1               ( 2118.8,    74.3,  -618.9)
+  Against the rules to assasinate while on civilian team
+2022-08-01T03:15:16Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2077.2,   116.6,  -827.6)
+  ill steal the limo
+2022-08-01T03:15:16Z: PLAYER CHATTED [  716940211] supermase143         ( 2128.0,    74.3,  -620.5)
+  oh
+2022-08-01T03:15:17Z: PLAYER CHATTED [ 1275023886] Acxe_WhT2            ( 2123.5,    74.3,  -614.1)
+  I'll grab a humvee.
+2022-08-01T03:15:18Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2121.1,    74.3,  -609.7)
+  We'll get ready to leave now.
+2022-08-01T03:15:18Z: PLAYER CHATTED [  716940211] supermase143         ( 2128.0,    74.3,  -620.5)
+  welp
+2022-08-01T03:15:19Z: PLAYER CHATTED [  973587792] XxwingfaderxX        ( 2073.9,   116.6,  -830.3)
+  lol

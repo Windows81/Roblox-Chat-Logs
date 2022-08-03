@@ -1,0 +1,428 @@
+[    1630228] : [ 4838322068] White House Simulator - eaab11f4-fdd6-43b7-bc91-1b1a19e1fa77
+2022-08-03T03:24:22Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-08-03T03:24:23Z: PLAYER REMOVED [  240370393] soggyrollercoster4
+2022-08-03T03:24:24Z: PLAYER CHATTED [ 2726273238] ZMDE_T               ( 2295.0,    74.3,  -758.1)
+  :unjail the
+2022-08-03T03:24:24Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-08-03T03:24:24Z: PLAYER ADDED   [ 2639029375] CaptainJWillson
+2022-08-03T03:24:24Z: PLAYER ADDED   [ 2299946953] yutolegandredbull
+2022-08-03T03:24:24Z: PLAYER ADDED   [  394623583] Foxypro805
+2022-08-03T03:24:24Z: PLAYER ADDED   [  837950418] CoolThunderLion50
+2022-08-03T03:24:24Z: PLAYER ADDED   [  216671816] TheDepthsOfHades
+2022-08-03T03:24:24Z: PLAYER ADDED   [ 1071267890] Itz_Aviation08
+2022-08-03T03:24:24Z: PLAYER ADDED   [ 2614565940] YASINTOIT
+2022-08-03T03:24:24Z: PLAYER ADDED   [  397268454] MR_BLAZE1472
+2022-08-03T03:24:24Z: PLAYER ADDED   [ 1818902597] AntIronsides
+2022-08-03T03:24:24Z: PLAYER ADDED   [  194496741] spiterboys
+2022-08-03T03:24:24Z: PLAYER ADDED   [ 2860093838] taolatien123456789
+2022-08-03T03:24:24Z: PLAYER ADDED   [ 1275023886] Acxe_WhT2
+2022-08-03T03:24:24Z: PLAYER ADDED   [ 2730706988] ImagineActualKewl
+2022-08-03T03:24:24Z: PLAYER ADDED   [ 1512340522] robloxian4321450098
+2022-08-03T03:24:24Z: PLAYER ADDED   [ 2726273238] ZMDE_T
+2022-08-03T03:24:24Z: PLAYER ADDED   [ 1867243399] VG_Tyler
+2022-08-03T03:24:24Z: PLAYER ADDED   [ 1736897700] superbee4queen
+2022-08-03T03:24:24Z: PLAYER ADDED   [    5981475] Zephyrsion
+2022-08-03T03:24:24Z: PLAYER ADDED   [ 2295064776] AKATUSKI_4X
+2022-08-03T03:24:24Z: PLAYER ADDED   [  313457141] Dualer12
+2022-08-03T03:24:24Z: PLAYER ADDED   [  336939900] Customizesz
+2022-08-03T03:24:24Z: PLAYER ADDED   [  887649239] piggyperson54321
+2022-08-03T03:24:25Z: PLAYER CHATTED [ 1512340522] robloxian4321450098
+  PTS, Sir.
+2022-08-03T03:24:26Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2303.7,    80.3,  -729.5)
+  HOW MANY LECTURES
+2022-08-03T03:24:27Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2291.7,    74.3,  -753.6)
+  bruh
+2022-08-03T03:24:30Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2292.7,    74.3,  -730.2)
+  CAN I POSSIBLY GIVE.
+2022-08-03T03:24:31Z: PLAYER CHATTED [  397268454] MR_BLAZE1472         ( 2309.0,    79.7,  -741.3)
+  yo
+2022-08-03T03:24:37Z: PLAYER CHATTED [ 2726273238] ZMDE_T               ( 2304.6,    79.8,  -757.8)
+  Can we fly already?
+2022-08-03T03:24:37Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      ( 2295.8,    74.3,  -743.4)
+  !lcean
+2022-08-03T03:24:38Z: PLAYER CHATTED [ 1275023886] Acxe_WhT2            ( 2285.2,    74.3,  -744.5)
+  YOU HURT MY BRAIN :SKULL: :CRY:
+2022-08-03T03:24:38Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2289.5,    74.3,  -735.8)
+  I mean
+2022-08-03T03:24:41Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2407.6,    74.3,  -652.9)
+  5 mins
+2022-08-03T03:24:42Z: PLAYER CHATTED [ 1275023886] Acxe_WhT2            ( 2285.2,    74.3,  -744.5)
+
+2022-08-03T03:24:43Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2407.6,    74.3,  -652.9)
+  Granted.
+2022-08-03T03:24:44Z: PLAYER CHATTED [ 1275023886] Acxe_WhT2            ( 2285.2,    74.3,  -744.5)
+
+2022-08-03T03:24:45Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2293.5,    74.3,  -734.5)
+  YES SIR
+2022-08-03T03:24:45Z: CHRCTER ADDED  [ 1736897700] superbee4queen       (  210.2,    75.2,    45.3)
+2022-08-03T03:24:49Z: PLAYER CHATTED [ 1512340522] robloxian4321450098
+  Can I go pee?
+2022-08-03T03:24:51Z: PLAYER CHATTED [ 1512340522] robloxian4321450098
+  .
+2022-08-03T03:24:52Z: CHRCTER ADDED  [    5981475] Zephyrsion           (  -85.0,    78.0,    85.3)
+2022-08-03T03:24:52Z: PLAYER CHATTED [ 1512340522] robloxian4321450098
+  .
+2022-08-03T03:24:52Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2410.4,    74.3,  -648.9)
+  yes.
+2022-08-03T03:24:54Z: PLAYER CHATTED [ 1275023886] Acxe_WhT2            ( 2288.4,    74.3,  -732.0)
+  DO NOT EVER BOARD THE M1.
+2022-08-03T03:24:57Z: PLAYER CHATTED [ 1512340522] robloxian4321450098
+  Alr.
+2022-08-03T03:25:06Z: PLAYER CHATTED [  887649239] piggyperson54321     (  574.8,    74.3,   506.6)
+  hi
+2022-08-03T03:25:07Z: PLAYER CHATTED [  336939900] Customizesz          (  578.6,    74.3,   518.8)
+  hello
+2022-08-03T03:25:12Z: PLAYER CHATTED [  336939900] Customizesz          (  577.1,    74.3,   516.4)
+  How are you?
+2022-08-03T03:25:15Z: CHRCTER ADDED  [ 2295064776] AKATUSKI_4X          (  782.5,    51.1,  1022.6)
+2022-08-03T03:25:15Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2155.4,    74.3,  -708.8)
+  dude
+2022-08-03T03:25:16Z: CHRCTER ADDED  [ 2639029375] CaptainJWillson      ( 2285.5,    74.3,  -660.2)
+2022-08-03T03:25:18Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2406.8,    74.3,  -652.0)
+  AntI, down to host one more?
+2022-08-03T03:25:22Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2406.8,    74.3,  -652.0)
+  Or nah.
+2022-08-03T03:25:24Z: PLAYER CHATTED [  887649239] piggyperson54321     (  574.8,    74.3,   506.6)
+  i’m good!
+2022-08-03T03:25:25Z: PLAYER REMOVED [ 1736897700] superbee4queen
+2022-08-03T03:25:25Z: CHRCTER ADDED  [  216671816] TheDepthsOfHades     (  717.5,    51.3,  1034.3)
+2022-08-03T03:25:31Z: PLAYER CHATTED [  336939900] Customizesz          (  577.7,    74.3,   515.3)
+  Nice to hear
+2022-08-03T03:25:37Z: PLAYER CHATTED [  397268454] MR_BLAZE1472         ( 1248.7,    78.7,  -241.0)
+  bruh
+2022-08-03T03:25:38Z: PLAYER CHATTED [ 1818902597] AntIronsides
+  wait
+2022-08-03T03:25:39Z: CHRCTER ADDED  [  216671816] TheDepthsOfHades     (   88.9,    75.2,    81.6)
+2022-08-03T03:25:40Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2406.8,    74.3,  -652.0)
+  Your still in gam
+2022-08-03T03:25:40Z: PLAYER CHATTED [  336939900] Customizesz          (  573.9,    74.3,   517.8)
+  Is he reporting me?
+2022-08-03T03:25:41Z: PLAYER CHATTED [  887649239] piggyperson54321     (  574.8,    74.3,   506.6)
+  my friend is on the national guard team, where would i find him?
+2022-08-03T03:25:43Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2379.8,    74.3,  -639.1)
+  game
+2022-08-03T03:25:45Z: PLAYER CHATTED [ 1818902597] AntIronsides
+  The SM might help me Co-host an event.
+2022-08-03T03:25:48Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2379.0,    74.3,  -639.2)
+  Why did you leave?
+2022-08-03T03:25:49Z: PLAYER CHATTED [  313457141] Dualer12             (  568.3,    74.3,   516.7)
+  I dunno I joined like two minutes ago.
+2022-08-03T03:25:49Z: PLAYER CHATTED [ 2299946953] yutolegandredbull    ( 2374.7,    74.3,  -637.8)
+  I came back
+2022-08-03T03:25:52Z: PLAYER CHATTED [  397268454] MR_BLAZE1472         ( 1248.4,    78.8,  -238.5)
+  what going on?
+2022-08-03T03:25:52Z: CHRCTER ADDED  [  394623583] Foxypro805           (  717.5,    51.1,  1034.3)
+2022-08-03T03:25:53Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2397.7,    74.3,  -647.3)
+  Who?
+2022-08-03T03:25:53Z: PLAYER CHATTED [  336939900] Customizesz          (  575.1,    74.3,   517.1)
+  hmm
+2022-08-03T03:25:56Z: PLAYER CHATTED [  336939900] Customizesz          (  575.1,    74.3,   517.1)
+  prob did
+2022-08-03T03:25:58Z: PLAYER CHATTED [  313457141] Dualer12             (  566.8,    74.3,   517.4)
+  What happend?
+2022-08-03T03:25:58Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 1213.1,   169.0,  -241.1)
+  idk
+2022-08-03T03:26:01Z: PLAYER CHATTED [  336939900] Customizesz          (  572.4,    74.3,   516.7)
+  o well
+2022-08-03T03:26:02Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2396.6,    74.3,  -648.0)
+  Which event?
+2022-08-03T03:26:07Z: PLAYER CHATTED [  336939900] Customizesz          (  572.4,    74.3,   516.7)
+  He started batoning me
+2022-08-03T03:26:11Z: PLAYER CHATTED [ 1512340522] robloxian4321450098
+  Back.
+2022-08-03T03:26:15Z: CHRCTER ADDED  [  887649239] piggyperson54321     (  215.3,    75.2,   252.9)
+2022-08-03T03:26:17Z: PLAYER CHATTED [  313457141] Dualer12             (  567.3,    74.3,   522.2)
+  what the hell.
+2022-08-03T03:26:18Z: PLAYER CHATTED [ 2295064776] AKATUSKI_4X          (  570.6,    74.3,   518.8)
+  back up next time
+2022-08-03T03:26:24Z: PLAYER CHATTED [ 2299946953] yutolegandredbull    ( 2416.7,    74.3,  -628.6)
+  i want to retake
+2022-08-03T03:26:24Z: PLAYER CHATTED [  336939900] Customizesz          (  581.6,    74.3,   529.5)
+  Yeah
+2022-08-03T03:26:26Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2405.8,    74.3,  -650.9)
+  3 mins
+2022-08-03T03:26:26Z: PLAYER CHATTED [  837950418] CoolThunderLion50    ( 1071.5,    62.7,  1470.7)
+  Stay out please.
+2022-08-03T03:26:27Z: PLAYER CHATTED [ 2295064776] AKATUSKI_4X          (  576.0,    74.3,   522.6)
+  Dont get in my way
+2022-08-03T03:26:31Z: PLAYER CHATTED [  837950418] CoolThunderLion50    ( 1071.5,    62.7,  1470.7)
+  cmon man
+2022-08-03T03:26:34Z: PLAYER CHATTED [  336939900] Customizesz          (  581.6,    74.3,   529.5)
+  I didnt report him cuz im so nice
+2022-08-03T03:26:36Z: CHRCTER ADDED  [  216671816] TheDepthsOfHades     (  213.9,    75.2,   252.8)
+2022-08-03T03:26:37Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      (  567.2,    74.1,  -441.2)
+  !Light 21
+2022-08-03T03:26:38Z: PLAYER REMOVED [ 1071267890] Itz_Aviation08
+2022-08-03T03:26:39Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      (  571.5,    74.1,  -285.8)
+  !fire!
+2022-08-03T03:26:39Z: PLAYER CHATTED [  336939900] Customizesz          (  581.6,    74.3,   529.5)
+  Im a nice guy
+2022-08-03T03:26:40Z: PLAYER ADDED   [  189334808] Anthonious_15
+2022-08-03T03:26:41Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      (  577.8,    74.1,   -58.5)
+  !fire 21
+2022-08-03T03:26:43Z: PLAYER CHATTED [  837950418] CoolThunderLion50    ( 1071.4,    62.7,  1469.0)
+  guess I gotta get cars
+2022-08-03T03:26:43Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      (  583.9,    74.1,   165.3)
+  !spakrles 21
+2022-08-03T03:26:44Z: PLAYER CHATTED [  336939900] Customizesz          (  580.2,    74.3,   522.2)
+  but
+2022-08-03T03:26:46Z: PLAYER CHATTED [ 2295064776] AKATUSKI_4X          (  573.9,    74.3,   519.2)
+  report me?
+2022-08-03T03:26:47Z: PLAYER CHATTED [  837950418] CoolThunderLion50    ( 1069.3,    62.7,  1466.2)
+  I will get state
+2022-08-03T03:26:47Z: PLAYER CHATTED [  194496741] spiterboys           ( 1069.8,    62.7,  1464.7)
+  Despawned em all
+2022-08-03T03:26:50Z: PLAYER CHATTED [  336939900] Customizesz          (  580.2,    74.3,   522.2)
+  prob still going get banned
+2022-08-03T03:26:50Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      (  597.0,    74.0,   399.2)
+  #######
+2022-08-03T03:26:51Z: PLAYER CHATTED [ 1512340522] robloxian4321450098
+  Sir
+2022-08-03T03:26:51Z: PLAYER CHATTED [ 2639029375] CaptainJWillson      (  596.8,    74.0,   409.2)
+  !unsparkles
+2022-08-03T03:26:52Z: PLAYER CHATTED [  336939900] Customizesz          (  579.6,    74.3,   521.0)
+  no
+2022-08-03T03:26:54Z: CHRCTER ADDED  [  216671816] TheDepthsOfHades     (  207.7,    75.2,    51.5)
+2022-08-03T03:26:56Z: PLAYER CHATTED [  336939900] Customizesz          (  577.1,    74.3,   519.8)
+  slev
+2022-08-03T03:26:56Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2405.9,    74.3,  -650.1)
+
+2022-08-03T03:26:58Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  208.2,    74.7,    42.9)
+  hubbada hubbada
+2022-08-03T03:27:00Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2405.9,    74.3,  -650.1)
+  Remember PTS
+2022-08-03T03:27:02Z: PLAYER CHATTED [  313457141] Dualer12             (  565.5,    74.3,   517.6)
+  ou guys literally baton'd each other.
+2022-08-03T03:27:06Z: CHRCTER ADDED  [  189334808] Anthonious_15        (  774.6,    51.1,  1028.3)
+2022-08-03T03:27:07Z: PLAYER CHATTED [ 1512340522] robloxian4321450098
+  PTS, Sir.
+2022-08-03T03:27:09Z: PLAYER CHATTED [ 2295064776] AKATUSKI_4X          (  569.9,    74.3,   515.1)
+  where are they
+2022-08-03T03:27:10Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2405.9,    74.3,  -650.1)
+  Granted.
+2022-08-03T03:27:12Z: PLAYER ADDED   [   11764408] awsomeredman
+2022-08-03T03:27:15Z: PLAYER CHATTED [ 2295064776] AKATUSKI_4X          (  569.9,    74.3,   515.1)
+  They are going to be silenced
+2022-08-03T03:27:18Z: PLAYER CHATTED [ 1512340522] robloxian4321450098
+  Can I go get my charger and eat?
+2022-08-03T03:27:20Z: PLAYER CHATTED [  336939900] Customizesz          (  576.1,    74.3,   519.6)
+  ?
+2022-08-03T03:27:23Z: PLAYER CHATTED [ 1512340522] robloxian4321450098
+  It won't take time.
+2022-08-03T03:27:24Z: PLAYER CHATTED [  336939900] Customizesz          (  576.1,    74.3,   519.6)
+  I didnt start it
+2022-08-03T03:27:26Z: PLAYER CHATTED [  336939900] Customizesz          (  576.1,    74.3,   519.6)
+  btw
+2022-08-03T03:27:26Z: CHRCTER ADDED  [  216671816] TheDepthsOfHades     (   87.6,    75.2,    78.3)
+2022-08-03T03:27:27Z: PLAYER ADDED   [  126599392] RealRobloxpro441YT
+2022-08-03T03:27:27Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2405.9,    74.3,  -650.1)
+  Charger sure
+2022-08-03T03:27:32Z: PLAYER CHATTED [  336939900] Customizesz          (  576.1,    74.3,   519.6)
+  I was just defending myself
+2022-08-03T03:27:33Z: PLAYER ADDED   [ 2574392852] WormKuma
+2022-08-03T03:27:35Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2405.9,    74.3,  -650.1)
+  Don't go just yet to eat
+2022-08-03T03:27:36Z: CHRCTER ADDED  [  126599392] RealRobloxpro441YT   (  782.5,    51.4,  1022.6)
+2022-08-03T03:27:38Z: PLAYER CHATTED [ 2295064776] AKATUSKI_4X          (  567.9,    74.3,   515.1)
+  where is solev
+2022-08-03T03:27:42Z: CHRCTER ADDED  [  837950418] CoolThunderLion50    (  774.6,    51.1,  1028.3)
+2022-08-03T03:27:44Z: PLAYER CHATTED [  336939900] Customizesz          (  574.1,    74.3,   521.7)
+  idk
+2022-08-03T03:27:47Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2405.9,    74.3,  -650.1)
+  We need to take a picture.
+2022-08-03T03:27:51Z: PLAYER CHATTED [ 2574392852] WormKuma
+  :view imag
+2022-08-03T03:27:51Z: PLAYER CHATTED [  336939900] Customizesz          (  573.1,    74.3,   519.2)
+  Possibly in the white house
+2022-08-03T03:28:00Z: CHRCTER ADDED  [   11764408] awsomeredman         (  204.4,    75.2,    48.7)
+2022-08-03T03:28:09Z: PLAYER CHATTED [ 2574392852] WormKuma
+  :rv
+2022-08-03T03:28:10Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2405.9,    74.3,  -650.1)
+  say o7 to SMGN
+2022-08-03T03:28:13Z: PLAYER CHATTED [ 2574392852] WormKuma
+  :to imag
+2022-08-03T03:28:14Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2407.9,    74.3,  -649.8)
+  SMNG*
+2022-08-03T03:28:16Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2407.9,    74.3,  -649.8)
+  Nm
+2022-08-03T03:28:20Z: PLAYER REMOVED [   11764408] awsomeredman
+2022-08-03T03:28:22Z: PLAYER CHATTED [  313457141] Dualer12             (  564.0,    74.3,   567.4)
+  Have you been drinking tonight sir?
+2022-08-03T03:28:25Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2404.7,    74.3,  -650.1)
+  1 min.
+2022-08-03T03:28:26Z: PLAYER CHATTED [ 2295064776] AKATUSKI_4X          (  574.3,    72.9,   571.4)
+  why is it-
+2022-08-03T03:28:34Z: PLAYER CHATTED [ 2726273238] ZMDE_T               ( 1059.3,    65.0,  1479.2)
+  :bring worm
+2022-08-03T03:28:43Z: CHRCTER ADDED  [ 2574392852] WormKuma             ( 1063.7,    75.2,  1502.8)
+2022-08-03T03:28:47Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 1073.8,    61.3,  1454.8)
+  president
+2022-08-03T03:28:49Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 1073.8,    61.3,  1454.8)
+  get in
+2022-08-03T03:28:54Z: PLAYER CHATTED [  126599392] RealRobloxpro441YT   ( 1056.6,    62.7,  1463.2)
+  Good day Mr Vice Presdient
+2022-08-03T03:28:55Z: PLAYER CHATTED [  313457141] Dualer12             (  569.4,    74.3,   540.3)
+  Can't put em up
+2022-08-03T03:28:59Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 1082.3,    61.4,  1335.2)
+  good choice
+2022-08-03T03:29:02Z: PLAYER CHATTED [  313457141] Dualer12             (  575.2,    74.3,   521.4)
+  We also need to stop opening up for cars.
+2022-08-03T03:29:06Z: PLAYER CHATTED [  194496741] spiterboys           ( 1051.0,    63.9,  1453.7)
+  Get in front SUV
+2022-08-03T03:29:07Z: PLAYER CHATTED [ 2614565940] YASINTOIT            (  148.6,    72.9,  1439.1)
+  cheese
+2022-08-03T03:29:08Z: PLAYER CHATTED [  336939900] Customizesz          (  566.7,    74.3,   521.9)
+  no
+2022-08-03T03:29:10Z: PLAYER CHATTED [  336939900] Customizesz          (  568.9,    74.3,   520.4)
+  shjush
+2022-08-03T03:29:11Z: PLAYER CHATTED [  194496741] spiterboys           ( 1058.2,    63.9,  1454.1)
+  Or not
+2022-08-03T03:29:12Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (   18.6,    73.0,  1734.5)
+  yes more cheese
+2022-08-03T03:29:13Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (   19.4,    73.0,  1835.5)
+  will ciome
+2022-08-03T03:29:24Z: PLAYER CHATTED [  397268454] MR_BLAZE1472         ( 1328.3,    63.9,  1267.9)
+  donacdum
+2022-08-03T03:29:28Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2026.9,    74.3,  1992.2)
+  come
+2022-08-03T03:29:36Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2083.8,    74.3,  2024.3)
+  oh
+2022-08-03T03:29:39Z: PLAYER CHATTED [  313457141] Dualer12             (  575.2,    74.3,   521.4)
+  I could hop on national guard.
+2022-08-03T03:29:40Z: PLAYER ADDED   [  593787851] XCaptainShellX
+2022-08-03T03:29:41Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2083.7,    74.3,  2023.9)
+  we die together mr president
+2022-08-03T03:29:43Z: PLAYER REMOVED [  593787851] XCaptainShellX
+2022-08-03T03:29:44Z: CHRCTER ADDED  [ 2295064776] AKATUSKI_4X          (  782.5,    51.1,  1022.6)
+2022-08-03T03:29:44Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2083.7,    74.3,  2023.9)
+  press the reset button
+2022-08-03T03:29:48Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2083.7,    74.3,  2023.9)
+  cheese in heaven
+2022-08-03T03:29:49Z: PLAYER CHATTED [  336939900] Customizesz          (  560.8,    74.3,   512.7)
+  alr
+2022-08-03T03:29:53Z: CHRCTER ADDED  [  216671816] TheDepthsOfHades     (  209.0,    75.2,    47.2)
+2022-08-03T03:29:53Z: PLAYER CHATTED [ 2614565940] YASINTOIT            ( 2076.7,    72.3,  2024.0)
+  Cheese
+2022-08-03T03:29:54Z: CHRCTER ADDED  [ 2614565940] YASINTOIT            (  766.8,    62.6,  1032.7)
+2022-08-03T03:29:58Z: PLAYER ADDED   [ 1651825109] oldestchild765
+2022-08-03T03:30:09Z: PLAYER CHATTED [ 1867243399] VG_Tyler
+  Were going into extra time
+2022-08-03T03:30:10Z: PLAYER CHATTED [ 2726273238] ZMDE_T               (  929.0,    62.7,  1079.8)
+  :view worm
+2022-08-03T03:30:11Z: CHRCTER ADDED  [  313457141] Dualer12             ( 2446.9,    74.3,  -665.9)
+2022-08-03T03:30:11Z: CHRCTER ADDED  [ 1651825109] oldestchild765       (  714.1,    51.3,  1034.3)
+2022-08-03T03:30:11Z: PLAYER CHATTED [ 1867243399] VG_Tyler
+  5 mins.
+2022-08-03T03:30:12Z: CHRCTER ADDED  [ 1867243399] VG_Tyler             ( 2406.6,    74.3,  -651.1)
+2022-08-03T03:30:13Z: PLAYER ADDED   [ 1589465292] yoboiAdii
+2022-08-03T03:30:14Z: PLAYER REMOVED [  837950418] CoolThunderLion50
+2022-08-03T03:30:15Z: CHRCTER ADDED  [ 2295064776] AKATUSKI_4X          (  782.5,    51.1,  1022.6)
+2022-08-03T03:30:26Z: PLAYER CHATTED [  313457141] Dualer12             ( 2429.1,    74.3,  -673.7)
+  Am I interrupting something?
+2022-08-03T03:30:27Z: PLAYER ADDED   [ 1906935658] nothogboy
+2022-08-03T03:30:31Z: PLAYER CHATTED [ 2295064776] AKATUSKI_4X          (  782.5,    51.5,  1022.6)
+  :CMDS
+2022-08-03T03:30:33Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2412.3,    74.3,  -657.8)
+  No.
+2022-08-03T03:30:36Z: PLAYER REMOVED [ 1589465292] yoboiAdii
+2022-08-03T03:30:37Z: CHRCTER ADDED  [  394623583] Foxypro805           (  714.1,    51.1,  1034.3)
+2022-08-03T03:30:37Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2412.3,    74.3,  -657.8)
+  but you can't fall in
+2022-08-03T03:30:44Z: PLAYER CHATTED [  313457141] Dualer12             ( 2418.1,    74.3,  -669.2)
+  No problem, I wasn't planning to.
+2022-08-03T03:30:46Z: PLAYER CHATTED [  336939900] Customizesz          (  573.3,    74.3,   553.7)
+  Hey
+2022-08-03T03:30:48Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2406.9,    74.3,  -650.5)
+  I'm hosting another RSP tonight.
+2022-08-03T03:30:49Z: CHRCTER ADDED  [  394623583] Foxypro805           (  714.1,    51.1,  1034.3)
+2022-08-03T03:30:49Z: PLAYER CHATTED [ 2295064776] AKATUSKI_4X          (  782.5,    51.5,  1022.6)
+  :GIVE ME
+2022-08-03T03:30:50Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  586.5,    74.3,   599.6)
+  hi
+2022-08-03T03:30:52Z: PLAYER CHATTED [  336939900] Customizesz          (  584.6,    74.3,   593.5)
+  hmm
+2022-08-03T03:30:55Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  586.5,    74.3,   599.6)
+  :/
+2022-08-03T03:30:57Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2406.1,    74.3,  -651.0)
+  or this morning d
+2022-08-03T03:30:57Z: PLAYER CHATTED [ 2295064776] AKATUSKI_4X          (  782.5,    51.5,  1022.6)
+  !AVATARITEM
+2022-08-03T03:30:58Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  586.5,    74.3,   599.6)
+  my eyes are up here
+2022-08-03T03:30:58Z: PLAYER CHATTED [  336939900] Customizesz          (  582.1,    74.3,   593.6)
+  HEY
+2022-08-03T03:31:03Z: PLAYER CHATTED [  313457141] Dualer12             ( 2404.2,    74.3,  -680.9)
+  Ah cool, I requested one earlier about five minutes ago or so.
+2022-08-03T03:31:05Z: PLAYER REMOVED [ 1906935658] nothogboy
+2022-08-03T03:31:05Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  593.1,    72.5,   632.1)
+  what??
+2022-08-03T03:31:06Z: PLAYER CHATTED [ 2295064776] AKATUSKI_4X          (  782.5,    51.5,  1022.6)
+  :AVATARITEM GLOCK
+2022-08-03T03:31:06Z: PLAYER ADDED   [ 2646658226] Sergeon_37
+2022-08-03T03:31:13Z: PLAYER CHATTED [  336939900] Customizesz          (  594.6,    72.6,   630.9)
+  hm
+2022-08-03T03:31:14Z: PLAYER CHATTED [ 2295064776] AKATUSKI_4X          (  782.5,    51.5,  1022.6)
+  !AVATARITEM GLOCK
+2022-08-03T03:31:14Z: PLAYER CHATTED [  336939900] Customizesz          (  594.6,    72.6,   630.9)
+  nvm
+2022-08-03T03:31:16Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  594.7,    72.4,   634.1)
+  dude
+2022-08-03T03:31:20Z: PLAYER CHATTED [ 2614565940] YASINTOIT            (  925.1,    62.7,  1091.3)
+  What do handcuffs do
+2022-08-03T03:31:25Z: PLAYER CHATTED [  189334808] Anthonious_15        (  921.7,    62.7,  1082.5)
+  arrest...
+2022-08-03T03:31:27Z: PLAYER CHATTED [  126599392] RealRobloxpro441YT   (  923.2,    62.7,  1085.2)
+  Nothing
+2022-08-03T03:31:31Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2255.7,    76.9,  -744.3)
+  owie
+2022-08-03T03:31:32Z: PLAYER CHATTED [  397268454] MR_BLAZE1472         (  929.0,    62.7,  1085.1)
+  test on ####
+2022-08-03T03:31:32Z: CHRCTER ADDED  [ 2574392852] WormKuma             ( 2419.8,    74.3,  -662.2)
+2022-08-03T03:31:33Z: PLAYER CHATTED [  126599392] RealRobloxpro441YT   (  923.2,    62.7,  1085.2)
+  You can't use it
+2022-08-03T03:31:34Z: CHRCTER ADDED  [    5981475] Zephyrsion           (  -83.1,    78.0,    88.8)
+2022-08-03T03:31:35Z: PLAYER CHATTED [ 2726273238] ZMDE_T               (  929.0,    62.7,  1079.8)
+  :view worm
+2022-08-03T03:31:35Z: PLAYER ADDED   [ 1589465292] yoboiAdii
+2022-08-03T03:31:41Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2290.2,    74.3,  -685.8)
+  o7
+2022-08-03T03:31:44Z: PLAYER CHATTED [ 2730706988] ImagineActualKewl    ( 2254.5,    74.3,  -757.8)
+  Killed em.
+2022-08-03T03:31:44Z: PLAYER CHATTED [  336939900] Customizesz
+  sir
+2022-08-03T03:31:45Z: PLAYER CHATTED [ 2730706988] ImagineActualKewl    ( 2253.2,    74.3,  -757.1)
+  Dw.
+2022-08-03T03:31:51Z: PLAYER CHATTED [ 1275023886] Acxe_WhT2            ( 2258.3,    74.3,  -748.3)
+  o7.
+2022-08-03T03:31:52Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  907.3,    62.7,  1088.6)
+  yo
+2022-08-03T03:31:53Z: PLAYER CHATTED [  336939900] Customizesz
+  Is there a training or somewthing?
+2022-08-03T03:31:53Z: PLAYER CHATTED [  126599392] RealRobloxpro441YT   (  918.2,    62.7,  1085.4)
+  AHH
+2022-08-03T03:31:53Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     (  904.3,    62.7,  1089.9)
+  vp
+2022-08-03T03:31:54Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2403.9,    74.3,  -652.4)
+  ?
+2022-08-03T03:31:54Z: PLAYER CHATTED [ 1512340522] robloxian4321450098
+  Back
+2022-08-03T03:31:54Z: PLAYER CHATTED [  887649239] piggyperson54321     (  836.0,    62.7,  1082.8)
+  i’m a reporter and have some questions!
+2022-08-03T03:31:55Z: PLAYER CHATTED [ 2614565940] YASINTOIT            (  927.6,    62.7,  1083.6)
+  it does nothing
+2022-08-03T03:31:55Z: PLAYER CHATTED [  126599392] RealRobloxpro441YT   (  914.3,    62.7,  1083.2)
+  STOP HER
+2022-08-03T03:31:56Z: PLAYER CHATTED [  397268454] MR_BLAZE1472         (  839.7,    62.7,  1082.9)
+  yo
+2022-08-03T03:31:58Z: PLAYER CHATTED [ 1651825109] oldestchild765       (  575.2,    72.9,   552.3)
+  take me with
+2022-08-03T03:31:58Z: PLAYER CHATTED [ 2574392852] WormKuma             ( 2251.1,    74.3,  -752.7)
+  Did anyone crash the M1 or am I just thinking things?
+2022-08-03T03:32:00Z: PLAYER CHATTED [  126599392] RealRobloxpro441YT   (  917.6,    62.7,  1082.6)
+  NO PASS
+2022-08-03T03:32:01Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2403.9,    74.3,  -652.4)
+  Almost finished.
+2022-08-03T03:32:02Z: PLAYER CHATTED [  336939900] Customizesz
+  Whats happening
+2022-08-03T03:32:05Z: PLAYER CHATTED [ 1867243399] VG_Tyler             ( 2407.6,    74.3,  -650.6)
+  He still hasn't finished.

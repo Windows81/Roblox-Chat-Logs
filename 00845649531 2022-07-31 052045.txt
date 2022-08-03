@@ -1,0 +1,461 @@
+[    1630228] : [  845649531] Would You Rather..? - 089996f8-2f6f-4c4f-bf6e-b7076cc03aca
+2022-07-31T05:20:45Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-07-31T05:20:46Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-07-31T05:20:46Z: PLAYER ADDED   [ 3656675364] xThemarlonx
+2022-07-31T05:20:46Z: PLAYER ADDED   [  192831239] pgxyz
+2022-07-31T05:20:46Z: PLAYER ADDED   [  764765244] Universus741
+2022-07-31T05:20:46Z: PLAYER ADDED   [ 1690930811] GreciaNaomi2010
+2022-07-31T05:20:46Z: PLAYER ADDED   [ 2423139611] Araliroblox
+2022-07-31T05:20:46Z: PLAYER ADDED   [ 2270054770] camilagamerOwO1
+2022-07-31T05:20:46Z: PLAYER ADDED   [ 1866780271] palomo080987
+2022-07-31T05:20:46Z: PLAYER ADDED   [ 1385255181] melissazamv
+2022-07-31T05:20:46Z: PLAYER ADDED   [ 2278259460] artur0_proUwU
+2022-07-31T05:20:46Z: PLAYER ADDED   [ 1842458675] Dalaselpapu_29
+2022-07-31T05:20:46Z: PLAYER ADDED   [ 3582706481] Barbara120216
+2022-07-31T05:20:46Z: PLAYER ADDED   [  296066047] Emminny
+2022-07-31T05:20:46Z: PLAYER ADDED   [ 1894339249] lemp1129
+2022-07-31T05:20:46Z: PLAYER ADDED   [ 2670535228] AlennysRachel
+2022-07-31T05:20:46Z: PLAYER ADDED   [ 2033857616] alezoey24
+2022-07-31T05:20:46Z: PLAYER ADDED   [ 2206515726] yun794
+2022-07-31T05:20:46Z: PLAYER ADDED   [ 1485424245] lorraineboucham
+2022-07-31T05:20:46Z: PLAYER ADDED   [ 1683859704] Krelyii
+2022-07-31T05:20:46Z: PLAYER ADDED   [ 3084909044] Unicornio551220
+2022-07-31T05:20:46Z: PLAYER ADDED   [ 3351187260] panfleto_08UwU
+2022-07-31T05:20:46Z: PLAYER ADDED   [ 3582729855] romy090514
+2022-07-31T05:20:46Z: PLAYER ADDED   [ 3018910705] Adrien1_20
+2022-07-31T05:20:50Z: PLAYER CHATTED [ 2033857616] alezoey24            (   81.1,     9.9,    12.6)
+  tu cara de manzana
+2022-07-31T05:20:54Z: PLAYER ADDED   [  141414586] MiGuelXDXD12
+2022-07-31T05:20:54Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   81.3,     9.6,     6.0)
+  dx
+2022-07-31T05:20:55Z: PLAYER REMOVED [ 1690930811] GreciaNaomi2010
+2022-07-31T05:20:56Z: PLAYER CHATTED [ 2670535228] AlennysRachel        (   31.9,     9.4,    37.3)
+  No butter sandwich peanut butter sandwich peanut butter peanut butter peanut
+2022-07-31T05:21:12Z: PLAYER CHATTED [ 2033857616] alezoey24            (   64.5,     9.9,     2.3)
+  soy feliz🤙
+2022-07-31T05:21:12Z: PLAYER CHATTED [ 1485424245] lorraineboucham      (   31.1,     9.8,    10.7)
+  Los que quieren volar pónganse en medio
+2022-07-31T05:21:15Z: PLAYER CHATTED [ 2278259460] artur0_proUwU        (   63.5,     9.5,     6.1)
+  emos 
+2022-07-31T05:21:17Z: PLAYER CHATTED [ 2670535228] AlennysRachel        (   54.9,     9.4,    31.9)
+  Oh no I’m allergic to peanuts I’m gonna die after they
+2022-07-31T05:21:21Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   82.3,     9.6,    14.6)
+  NIOOO
+2022-07-31T05:21:24Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   82.3,     9.6,    14.6)
+  AAAHHH 
+2022-07-31T05:21:29Z: PLAYER REMOVED [ 3018910705] Adrien1_20
+2022-07-31T05:21:36Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   82.3,     9.6,    14.6)
+  😱😱😿😿😿😿😪😪😪😭😭😭😭😭😥😥😥😥😥
+2022-07-31T05:21:38Z: PLAYER CHATTED [  192831239] pgxyz                (   61.7,    10.1,     2.6)
+  por que no eres feliz
+2022-07-31T05:21:38Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   82.3,     9.6,    14.6)
+  XD
+2022-07-31T05:21:41Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   82.3,     9.6,    14.6)
+  Webos
+2022-07-31T05:21:48Z: PLAYER CHATTED [ 1385255181] melissazamv          (   42.9,     9.7,    18.1)
+  Soy feliz 🙃 
+2022-07-31T05:21:53Z: PLAYER REMOVED [ 2670535228] AlennysRachel
+2022-07-31T05:21:56Z: PLAYER CHATTED [ 2278259460] artur0_proUwU        (   92.6,     9.5,    35.4)
+  😂😂🤩🤪🤪😂😁😁😁😸😸
+2022-07-31T05:21:57Z: PLAYER CHATTED [ 1842458675] Dalaselpapu_29       (   57.6,     9.2,    15.3)
+  mi n_v me dejo
+2022-07-31T05:22:01Z: PLAYER CHATTED [ 2033857616] alezoey24            (   59.6,     9.9,     0.6)
+  xd
+2022-07-31T05:22:02Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   75.0,     9.6,     5.8)
+  ake padre
+2022-07-31T05:22:03Z: PLAYER REMOVED [ 1866780271] palomo080987
+2022-07-31T05:22:08Z: PLAYER CHATTED [ 1842458675] Dalaselpapu_29       (   70.1,     9.2,    -0.0)
+  😔😔
+2022-07-31T05:22:15Z: PLAYER CHATTED [ 1683859704] Krelyii              (   74.5,     9.7,    15.1)
+  insano
+2022-07-31T05:22:18Z: PLAYER CHATTED [ 2033857616] alezoey24            (   65.9,     9.9,    -2.3)
+  nadie le importa
+2022-07-31T05:22:20Z: PLAYER REMOVED [ 3351187260] panfleto_08UwU
+2022-07-31T05:22:23Z: PLAYER CHATTED [ 1485424245] lorraineboucham      (   31.9,     9.8,    10.3)
+  Todos los que quieren volar pónganse en medio
+2022-07-31T05:22:24Z: PLAYER CHATTED [ 2278259460] artur0_proUwU        (   78.3,     9.5,    15.3)
+  Siempre 
+2022-07-31T05:22:32Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   48.8,     9.6,    23.2)
+  😈
+2022-07-31T05:22:44Z: PLAYER CHATTED [ 2033857616] alezoey24            (   50.5,     9.9,     6.5)
+  yo nome quiero salir
+2022-07-31T05:22:47Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   60.5,     9.6,    24.8)
+  NOOO
+2022-07-31T05:22:50Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   60.5,     9.6,    24.8)
+  ESO MATA
+2022-07-31T05:22:56Z: PLAYER CHATTED [ 3084909044] Unicornio551220      (   79.1,     9.7,     8.0)
+  iuu
+2022-07-31T05:22:57Z: PLAYER CHATTED [ 1385255181] melissazamv          (   48.3,     9.7,    -7.0)
+  mmm que rico
+2022-07-31T05:23:01Z: PLAYER ADDED   [ 3562842473] queso_vchedar
+2022-07-31T05:23:07Z: CHRCTER ADDED  [  192831239] pgxyz                (  -69.4,     5.9,    -6.5)
+2022-07-31T05:23:15Z: PLAYER ADDED   [ 2637888702] Steve_cuni
+2022-07-31T05:23:19Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   42.9,     9.6,    51.4)
+  🤢🤮
+2022-07-31T05:23:19Z: PLAYER ADDED   [ 2625503886] BonyBelLopv
+2022-07-31T05:23:19Z: PLAYER ADDED   [  499783412] xx_Averagexx
+2022-07-31T05:23:19Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   42.9,     9.6,    51.4)
+  QHG
+2022-07-31T05:23:19Z: CHRCTER ADDED  [ 2033857616] alezoey24            (  -45.6,     5.9,    14.0)
+2022-07-31T05:23:21Z: PLAYER CHATTED [ 1683859704] Krelyii              (   47.2,     9.7,    49.7)
+  1uw te paso
+2022-07-31T05:23:24Z: PLAYER CHATTED [ 2278259460] artur0_proUwU        (   67.6,     9.5,    -1.5)
+  Siempre insano 
+2022-07-31T05:23:24Z: PLAYER CHATTED [ 1683859704] Krelyii              (   47.2,     9.7,    49.7)
+  que te paso
+2022-07-31T05:23:28Z: PLAYER CHATTED [ 2270054770] camilagamerOwO1      (   23.5,     9.9,    10.7)
+   
+2022-07-31T05:23:32Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   42.9,     9.6,    51.4)
+  vomite stupd
+2022-07-31T05:23:35Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   42.9,     9.6,    51.4)
+  no ves obq
+2022-07-31T05:23:37Z: PLAYER ADDED   [ 3634897199] EDY_l66630
+2022-07-31T05:23:43Z: PLAYER REMOVED [ 3634897199] EDY_l66630
+2022-07-31T05:23:47Z: PLAYER CHATTED [ 1894339249] lemp1129             (   69.7,     9.9,    15.0)
+  Tremenda caca 
+2022-07-31T05:23:48Z: PLAYER REMOVED [ 2637888702] Steve_cuni
+2022-07-31T05:23:50Z: CHRCTER ADDED  [ 2625503886] BonyBelLopv          ( -103.6,     5.9,    19.8)
+2022-07-31T05:23:51Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   78.7,     9.6,     7.5)
+  Xd
+2022-07-31T05:23:55Z: CHRCTER ADDED  [ 3562842473] queso_vchedar        (  -85.5,     5.9,     4.4)
+2022-07-31T05:24:01Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   78.0,     9.6,     7.4)
+  q foto tan klera
+2022-07-31T05:24:06Z: PLAYER ADDED   [ 2855235332] hatsunehi
+2022-07-31T05:24:14Z: PLAYER ADDED   [ 3749378631] Alexander937901
+2022-07-31T05:24:21Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   75.4,     9.6,     0.4)
+  Studio Sierra 🥵🤙😈
+2022-07-31T05:24:26Z: PLAYER CHATTED [ 2278259460] artur0_proUwU        (   84.2,     9.5,    23.1)
+  No aguntamos la emotiza 
+2022-07-31T05:24:29Z: PLAYER CHATTED [ 2033857616] alezoey24            (   62.3,     9.9,     5.2)
+  auida
+2022-07-31T05:24:41Z: PLAYER CHATTED [ 1894339249] lemp1129             (   37.8,     9.9,     8.4)
+  Que es este libro
+2022-07-31T05:24:54Z: CHRCTER ADDED  [  141414586] MiGuelXDXD12         (  -93.2,     3.5,     4.7)
+2022-07-31T05:24:54Z: CHRCTER ADDED  [  499783412] xx_Averagexx         (  -83.2,     5.3,    -7.6)
+2022-07-31T05:25:07Z: PLAYER CHATTED [ 2033857616] alezoey24            (   72.9,     9.9,    19.1)
+  tu no la aguantas pvp oque manco
+2022-07-31T05:25:09Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   84.4,     9.6,    13.2)
+  Grande mi brG
+2022-07-31T05:25:22Z: CHRCTER ADDED  [ 2625503886] BonyBelLopv          ( -103.4,     5.9,    34.3)
+2022-07-31T05:25:23Z: PLAYER CHATTED [ 1683859704] Krelyii              (   65.0,     9.7,   -16.7)
+  🐒🐒🐒🐒🐒🐒🐒🙉🙉🙉🙉🙉🙉🙈🙈🙈🙈
+2022-07-31T05:25:26Z: CHRCTER ADDED  [  764765244] Universus741         ( -101.9,     3.8,    18.5)
+2022-07-31T05:25:33Z: PLAYER CHATTED [ 1385255181] melissazamv          (   81.4,     9.7,     3.3)
+  Hi hi hi hi haha
+2022-07-31T05:25:34Z: PLAYER REMOVED [ 2278259460] artur0_proUwU
+2022-07-31T05:25:38Z: CHRCTER ADDED  [ 2206515726] yun794               (  -92.7,     5.7,    29.8)
+2022-07-31T05:25:38Z: PLAYER REMOVED [ 3084909044] Unicornio551220
+2022-07-31T05:25:53Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   59.4,    12.5,     6.7)
+  oh men...
+2022-07-31T05:25:53Z: PLAYER CHATTED [ 3656675364] xThemarlonx          (   83.3,     9.2,     4.9)
+  🙈🙈🙈🙈🙈🙈🙈🙈🙈🙈
+2022-07-31T05:25:59Z: PLAYER REMOVED [  499783412] xx_Averagexx
+2022-07-31T05:26:05Z: PLAYER CHATTED [ 2033857616] alezoey24            (   43.2,     9.9,    12.5)
+  no
+2022-07-31T05:26:07Z: PLAYER CHATTED [ 1683859704] Krelyii              (   83.2,     9.7,    10.2)
+  🐒
+2022-07-31T05:26:08Z: PLAYER CHATTED [  192831239] pgxyz                (   65.2,    10.1,    12.5)
+  modo mexicano on
+2022-07-31T05:26:11Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   73.5,     9.9,    20.5)
+  💀
+2022-07-31T05:26:11Z: CHRCTER ADDED  [ 2625503886] BonyBelLopv          (  -95.2,     5.9,     5.0)
+2022-07-31T05:26:12Z: CHRCTER ADDED  [ 2033857616] alezoey24            (  -67.8,     5.8,   -11.3)
+2022-07-31T05:26:16Z: PLAYER CHATTED [ 2270054770] camilagamerOwO1      (   80.2,     9.9,    20.4)
+  🐵🐵🐵🙊
+2022-07-31T05:26:25Z: CHRCTER ADDED  [ 1894339249] lemp1129             (  -68.1,     5.7,    32.9)
+2022-07-31T05:26:26Z: PLAYER CHATTED [ 1385255181] melissazamv          (   63.3,     9.7,     1.9)
+  Modo mono xd
+2022-07-31T05:26:26Z: PLAYER CHATTED [ 1683859704] Krelyii              (   83.4,     9.7,     8.9)
+  🙉🙉🙉🙈🙈🙈🙉🐒🐒
+2022-07-31T05:26:28Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   61.3,     9.9,     9.8)
+  LESLIE
+2022-07-31T05:26:35Z: CHRCTER ADDED  [ 1683859704] Krelyii              ( -107.7,     5.5,    -9.6)
+2022-07-31T05:26:36Z: CHRCTER ADDED  [ 2423139611] Araliroblox          ( -109.5,     5.6,    32.5)
+2022-07-31T05:26:37Z: CHRCTER ADDED  [ 3582729855] romy090514           (  -72.3,     5.7,    21.6)
+2022-07-31T05:26:38Z: CHRCTER ADDED  [ 3582706481] Barbara120216        (  -66.7,     5.7,    -0.6)
+2022-07-31T05:26:39Z: CHRCTER ADDED  [ 2033857616] alezoey24            (  -97.2,     5.8,     5.2)
+2022-07-31T05:26:40Z: CHRCTER ADDED  [ 1385255181] melissazamv          (  -65.2,     5.7,    -6.6)
+2022-07-31T05:26:40Z: CHRCTER ADDED  [ 3656675364] xThemarlonx          (  -93.3,     5.2,    33.7)
+2022-07-31T05:26:42Z: CHRCTER ADDED  [ 3749378631] Alexander937901      (  -85.5,     5.7,    17.1)
+2022-07-31T05:26:43Z: PLAYER CHATTED [ 1894339249] lemp1129             (   34.7,    21.5,    98.9)
+  Mande
+2022-07-31T05:26:45Z: PLAYER REMOVED [ 2423139611] Araliroblox
+2022-07-31T05:27:05Z: PLAYER ADDED   [ 2423139611] Araliroblox
+2022-07-31T05:27:06Z: CHRCTER ADDED  [ 3749378631] Alexander937901      (  -83.8,     5.7,    35.7)
+2022-07-31T05:27:10Z: CHRCTER ADDED  [ 2625503886] BonyBelLopv          (  -80.0,     5.9,    21.5)
+2022-07-31T05:27:20Z: CHRCTER ADDED  [  141414586] MiGuelXDXD12         (  -69.2,     3.5,     4.6)
+2022-07-31T05:27:21Z: PLAYER ADDED   [ 3212734725] vazquezmiranda8915
+2022-07-31T05:27:23Z: PLAYER CHATTED [ 2423139611] Araliroblox          (  -98.9,     5.6,    -7.8)
+  no nad
+2022-07-31T05:27:30Z: PLAYER CHATTED [ 1894339249] lemp1129             (    3.6,    46.9,   137.8)
+  Weno weno
+2022-07-31T05:27:30Z: PLAYER ADDED   [ 1374638605] QuesoYtortilla10
+2022-07-31T05:27:37Z: PLAYER CHATTED [ 2423139611] Araliroblox          (  -98.9,     5.6,    -7.8)
+  pensw q te habias ido si avisar xd
+2022-07-31T05:27:45Z: PLAYER CHATTED [ 1894339249] lemp1129             (  -17.8,     9.9,   103.3)
+  Nel
+2022-07-31T05:27:48Z: PLAYER ADDED   [ 2599662509] sofia_16BA1
+2022-07-31T05:27:55Z: PLAYER CHATTED [ 1683859704] Krelyii              (   63.7,     9.7,    24.2)
+  🍔🍔🍔🍔🍔🍔🍔🍔🍔🍔
+2022-07-31T05:28:01Z: PLAYER CHATTED [ 1683859704] Krelyii              (   63.7,     9.7,    24.2)
+  🍔🍔🍔🍔🍔🍔🍔🍔🍔
+2022-07-31T05:28:04Z: CHRCTER ADDED  [  764765244] Universus741         (  -95.8,     3.8,    30.3)
+2022-07-31T05:28:05Z: PLAYER CHATTED [ 1683859704] Krelyii              (   63.7,     9.7,    24.2)
+  🍔🍔🍔🍔🍔
+2022-07-31T05:28:06Z: PLAYER CHATTED [  192831239] pgxyz                (   69.5,    10.1,     8.7)
+  hola soy comida
+2022-07-31T05:28:07Z: PLAYER CHATTED [ 1485424245] lorraineboucham      (   78.3,     9.8,    23.5)
+  Lluvia de hamburguesas la venganza 
+2022-07-31T05:28:08Z: PLAYER REMOVED [ 1374638605] QuesoYtortilla10
+2022-07-31T05:28:12Z: PLAYER CHATTED [ 1683859704] Krelyii              (   63.7,     9.7,    24.2)
+  La venganza
+2022-07-31T05:28:13Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   23.3,     9.6,     5.2)
+  mediohambre 😿
+2022-07-31T05:28:17Z: PLAYER CHATTED [ 1385255181] melissazamv          (   50.6,     9.7,    26.0)
+  Burger burger burger 🍔 
+2022-07-31T05:28:19Z: PLAYER CHATTED [ 2033857616] alezoey24            (   80.5,     9.9,     3.6)
+  ayuddddaaaaa
+2022-07-31T05:28:20Z: PLAYER ADDED   [ 1792139983] Melissa100815
+2022-07-31T05:28:20Z: PLAYER CHATTED [ 1894339249] lemp1129             (   23.2,     9.9,     8.9)
+  X2
+2022-07-31T05:28:28Z: PLAYER REMOVED [  296066047] Emminny
+2022-07-31T05:28:29Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   23.3,     9.6,     5.2)
+  mrd
+2022-07-31T05:28:30Z: PLAYER CHATTED [ 1683859704] Krelyii              (   63.7,     9.7,    24.2)
+  🍔🍔🍔🍔🍔
+2022-07-31T05:28:35Z: PLAYER CHATTED [ 1683859704] Krelyii              (   63.7,     9.7,    24.2)
+  🍔🐒
+2022-07-31T05:28:35Z: PLAYER CHATTED [ 3212734725] vazquezmiranda8915   (   22.3,     9.5,    13.6)
+  Si a mi también me dio al re
+2022-07-31T05:28:38Z: PLAYER CHATTED [ 1894339249] lemp1129             (   23.2,     9.9,     8.9)
+  🧑🏼‍🦲🔫
+2022-07-31T05:28:41Z: PLAYER CHATTED [ 1683859704] Krelyii              (   63.7,     9.7,    24.2)
+  🐒🙉🙈
+2022-07-31T05:28:45Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   40.3,     9.6,    -4.5)
+  😔
+2022-07-31T05:28:45Z: PLAYER ADDED   [ 2529002266] Brac0de_dude
+2022-07-31T05:28:46Z: PLAYER CHATTED [ 1683859704] Krelyii              (   63.7,     9.7,    24.2)
+   a ok
+2022-07-31T05:29:04Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   44.8,     9.6,    15.2)
+  😏🤨🤗🥵
+2022-07-31T05:29:10Z: PLAYER CHATTED [ 3749378631] Alexander937901      (   43.4,     9.8,    10.6)
+  ayuda
+2022-07-31T05:29:20Z: CHRCTER ADDED  [ 2625503886] BonyBelLopv          (  -77.0,     5.9,    13.7)
+2022-07-31T05:29:21Z: PLAYER CHATTED [ 1894339249] lemp1129             (   41.2,     9.9,    10.5)
+  Necestio mi mesa
+2022-07-31T05:29:23Z: PLAYER CHATTED [ 3749378631] Alexander937901      (   43.4,     9.8,    10.6)
+  aaaaaaaaaaaaaaaaaaaaa
+2022-07-31T05:29:24Z: PLAYER REMOVED [ 2625503886] BonyBelLopv
+2022-07-31T05:29:27Z: PLAYER CHATTED [ 3656675364] xThemarlonx          (   47.1,     9.2,     4.9)
+  XD
+2022-07-31T05:29:30Z: PLAYER REMOVED [ 3562842473] queso_vchedar
+2022-07-31T05:29:31Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   38.5,     9.6,     8.4)
+  aki
+2022-07-31T05:29:37Z: PLAYER CHATTED [ 1894339249] lemp1129             (   38.2,     9.9,    10.4)
+  Upa
+2022-07-31T05:29:39Z: PLAYER CHATTED [ 1683859704] Krelyii              (   63.7,     9.7,    24.2)
+  ......................
+2022-07-31T05:29:46Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   38.9,     9.6,     8.9)
+  oiea
+2022-07-31T05:29:51Z: PLAYER CHATTED [ 2270054770] camilagamerOwO1      (   53.6,     9.9,    30.2)
+  💺💺💺💺?
+2022-07-31T05:29:52Z: PLAYER CHATTED [ 1485424245] lorraineboucham      (   70.5,     9.8,    22.5)
+  Plática casual
+2022-07-31T05:29:52Z: PLAYER CHATTED [ 1683859704] Krelyii              (   63.7,     9.7,    24.2)
+  Dame
+2022-07-31T05:29:52Z: PLAYER CHATTED [ 1792139983] Melissa100815        (   52.2,     9.7,    26.9)
+  HOLA SOY NU
+2022-07-31T05:29:55Z: PLAYER CHATTED [ 1792139983] Melissa100815        (   52.9,     9.7,    24.2)
+  EVA
+2022-07-31T05:29:56Z: PLAYER CHATTED [ 1683859704] Krelyii              (   63.7,     9.7,    24.2)
+  claro
+2022-07-31T05:29:56Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   46.2,     9.6,     1.5)
+  dx
+2022-07-31T05:29:57Z: PLAYER ADDED   [ 2353197458] Dark_layla13
+2022-07-31T05:30:04Z: PLAYER CHATTED [ 3749378631] Alexander937901      (   13.4,     9.8,     7.2)
+  puntero en le emeyo
+2022-07-31T05:30:21Z: PLAYER ADDED   [ 3470099120] kanaomediavision82
+2022-07-31T05:30:26Z: PLAYER ADDED   [  890036204] crazybendy_11
+2022-07-31T05:30:27Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   47.0,     9.6,    16.4)
+  🤙
+2022-07-31T05:30:31Z: PLAYER CHATTED [ 1894339249] lemp1129             (   63.3,     9.9,    21.7)
+  Incógnito 
+2022-07-31T05:30:38Z: PLAYER CHATTED [ 2033857616] alezoey24            (   53.4,    56.7,     0.9)
+  estoy volando 🤙🤙🤙🤙 
+2022-07-31T05:30:45Z: PLAYER CHATTED [ 3749378631] Alexander937901      (   49.9,     9.8,    10.7)
+  aaaaaaaa
+2022-07-31T05:30:45Z: PLAYER CHATTED [ 1792139983] Melissa100815        (   68.1,   580.0,    15.9)
+  YO TANBIEN
+2022-07-31T05:30:48Z: PLAYER CHATTED [ 1385255181] melissazamv          (   43.8,    72.8,    53.7)
+  Aaaa volar
+2022-07-31T05:30:50Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   64.4,     9.6,    30.6)
+  gue?
+2022-07-31T05:30:50Z: PLAYER CHATTED [ 2033857616] alezoey24            (   58.5,   243.9,    22.7)
+  ayudaaa
+2022-07-31T05:30:53Z: PLAYER CHATTED [ 1894339249] lemp1129             (   53.4,     9.9,    39.3)
+  Eo
+2022-07-31T05:31:01Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   50.3,     9.6,    18.7)
+  ola
+2022-07-31T05:31:05Z: PLAYER CHATTED [ 1894339249] lemp1129             (   52.1,     9.9,    19.3)
+  Ola
+2022-07-31T05:31:08Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   50.7,     9.6,    19.1)
+  JAKSJAJA
+2022-07-31T05:31:12Z: PLAYER CHATTED [ 1894339249] lemp1129             (   53.8,     9.9,    19.7)
+  Ayola
+2022-07-31T05:31:23Z: CHRCTER ADDED  [ 1485424245] lorraineboucham      (  -85.0,     5.8,    -0.5)
+2022-07-31T05:31:28Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   69.4,     9.6,    20.3)
+  awuiwui
+2022-07-31T05:31:30Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   69.4,     9.6,    20.3)
+  q pobrw
+2022-07-31T05:31:35Z: PLAYER CHATTED [ 1894339249] lemp1129             (   63.1,     9.9,    21.8)
+  Lo sienro pero soy intereAd
+2022-07-31T05:31:36Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   69.4,     9.6,    20.3)
+  pero amable 😻🤙
+2022-07-31T05:31:41Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   62.6,     9.6,    16.6)
+  JAJJA
+2022-07-31T05:31:44Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   62.6,     9.6,    16.6)
+  nmm
+2022-07-31T05:31:47Z: CHRCTER ADDED  [ 3656675364] xThemarlonx          (  -97.4,     5.2,    32.9)
+2022-07-31T05:31:47Z: CHRCTER ADDED  [ 2423139611] Araliroblox          ( -106.8,     5.6,    33.5)
+2022-07-31T05:31:47Z: CHRCTER ADDED  [  141414586] MiGuelXDXD12         (  -71.9,     3.5,    20.8)
+2022-07-31T05:31:49Z: CHRCTER ADDED  [ 1792139983] Melissa100815        (  -79.4,     5.7,   -12.3)
+2022-07-31T05:31:50Z: CHRCTER ADDED  [  764765244] Universus741         (  -81.3,     3.8,    -8.0)
+2022-07-31T05:31:50Z: CHRCTER ADDED  [ 3582706481] Barbara120216        (  -65.4,     5.7,    -0.9)
+2022-07-31T05:31:51Z: CHRCTER ADDED  [ 2206515726] yun794               ( -106.8,     5.7,     2.9)
+2022-07-31T05:31:54Z: PLAYER CHATTED [ 2423139611] Araliroblox          (  -43.4,     5.6,    24.1)
+  ptos
+2022-07-31T05:31:56Z: PLAYER CHATTED [  890036204] crazybendy_11        (   23.4,     9.5,    21.6)
+  ### el lag.
+2022-07-31T05:31:58Z: CHRCTER ADDED  [ 3212734725] vazquezmiranda8915   (  -67.8,     5.3,    28.4)
+2022-07-31T05:31:59Z: CHRCTER ADDED  [ 2353197458] Dark_layla13         (  -91.8,     5.0,    21.8)
+2022-07-31T05:32:01Z: CHRCTER ADDED  [ 3749378631] Alexander937901      (  -68.1,     5.7,    -6.3)
+2022-07-31T05:32:01Z: CHRCTER ADDED  [ 3582729855] romy090514           (  -95.4,     5.7,     7.5)
+2022-07-31T05:32:02Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   21.1,     9.6,    25.3)
+  gays
+2022-07-31T05:32:06Z: CHRCTER ADDED  [ 3470099120] kanaomediavision82   (  -67.8,     3.5,    30.2)
+2022-07-31T05:32:08Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   21.1,     9.6,    25.3)
+  #######
+2022-07-31T05:32:09Z: CHRCTER ADDED  [ 2599662509] sofia_16BA1          (  -83.5,     5.4,    15.7)
+2022-07-31T05:32:10Z: CHRCTER ADDED  [ 1683859704] Krelyii              (  -66.7,     5.5,    33.8)
+2022-07-31T05:32:11Z: PLAYER CHATTED [ 1792139983] Melissa100815        (   22.9,     9.7,    18.3)
+  hola soy nueva
+2022-07-31T05:32:14Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   23.3,     9.6,    27.2)
+  #####
+2022-07-31T05:32:14Z: CHRCTER ADDED  [ 2855235332] hatsunehi            ( -108.0,     5.2,     4.5)
+2022-07-31T05:32:18Z: CHRCTER ADDED  [ 2033857616] alezoey24            (  -71.1,     5.8,     0.1)
+2022-07-31T05:32:19Z: PLAYER CHATTED [  890036204] crazybendy_11        (   19.2,     9.5,    21.1)
+  Homophobica
+2022-07-31T05:32:19Z: PLAYER CHATTED [ 2033857616] alezoey24            (  -71.1,     5.9,     0.1)
+  ###
+2022-07-31T05:32:22Z: CHRCTER ADDED  [ 1385255181] melissazamv          (  -78.6,     5.7,    -0.3)
+2022-07-31T05:32:23Z: PLAYER CHATTED [ 3749378631] Alexander937901      (   22.7,     9.8,     9.1)
+  en el emeyo
+2022-07-31T05:32:24Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   23.3,     9.6,    27.2)
+  MALDITOS
+2022-07-31T05:32:24Z: PLAYER CHATTED [ 3212734725] vazquezmiranda8915   (   23.3,     9.5,    19.5)
+  Uuuu Selena Gómez
+2022-07-31T05:32:27Z: CHRCTER ADDED  [ 1842458675] Dalaselpapu_29       ( -103.7,     3.4,    -9.5)
+2022-07-31T05:32:29Z: PLAYER CHATTED [ 3656675364] xThemarlonx          (   23.3,     9.2,    10.3)
+  que bueno 
+2022-07-31T05:32:35Z: PLAYER CHATTED [  890036204] crazybendy_11        (   20.7,     9.5,    23.8)
+  Morra ##### #### ######
+2022-07-31T05:32:36Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   29.5,     9.6,    26.5)
+  😔🤙
+2022-07-31T05:32:41Z: PLAYER CHATTED [ 1792139983] Melissa100815        (   56.1,     9.7,    21.4)
+  paren
+2022-07-31T05:32:41Z: PLAYER CHATTED [ 1485424245] lorraineboucham      (   58.8,     9.6,    31.9)
+  Jjj xd
+2022-07-31T05:32:54Z: PLAYER CHATTED [  890036204] crazybendy_11        (   33.2,     9.5,    20.1)
+  Todos le pueden gustar a quieb quiera
+2022-07-31T05:33:01Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   30.4,    11.2,    18.3)
+  Ya shh 🤫🤗
+2022-07-31T05:33:02Z: PLAYER CHATTED [  890036204] crazybendy_11        (   33.2,    10.8,    20.1)
+  Quein*
+2022-07-31T05:33:05Z: PLAYER CHATTED [  890036204] crazybendy_11        (   33.2,    10.8,    20.1)
+  .
+2022-07-31T05:33:08Z: PLAYER CHATTED [ 1792139983] Melissa100815        (   52.7,    11.2,    25.9)
+  que me paso
+2022-07-31T05:33:29Z: PLAYER CHATTED [ 1485424245] lorraineboucham      (   80.6,     9.6,    12.5)
+  Mesa pa comer
+2022-07-31T05:33:31Z: PLAYER CHATTED [  890036204] crazybendy_11        (   67.4,    10.8,    10.4)
+  .
+2022-07-31T05:33:36Z: PLAYER CHATTED [  192831239] pgxyz                (   71.4,    10.1,    11.9)
+  hola papu
+2022-07-31T05:33:36Z: PLAYER CHATTED [ 1894339249] lemp1129             (   34.6,     9.7,    21.4)
+  Ola
+2022-07-31T05:33:37Z: PLAYER CHATTED [ 2599662509] sofia_16BA1          (   76.7,    11.1,    12.9)
+  ######
+2022-07-31T05:33:37Z: PLAYER CHATTED [ 1792139983] Melissa100815        (   83.9,    11.2,    11.6)
+  yo tanben
+2022-07-31T05:33:42Z: PLAYER CHATTED [ 2599662509] sofia_16BA1          (   76.7,    11.1,    12.9)
+  jaja
+2022-07-31T05:33:47Z: PLAYER CHATTED [ 2033857616] alezoey24            (   74.5,    15.7,    18.1)
+  jsjjssjjsjs
+2022-07-31T05:33:51Z: PLAYER CHATTED [  890036204] crazybendy_11        (   77.9,     9.5,     8.2)
+  Hol
+2022-07-31T05:33:51Z: PLAYER CHATTED [ 3212734725] vazquezmiranda8915   (   60.5,     9.5,    36.9)
+  Jaakakajajajajajajnajajaajkaja
+2022-07-31T05:33:57Z: PLAYER CHATTED [  890036204] crazybendy_11        (   82.6,     9.5,     9.9)
+  :>
+2022-07-31T05:33:57Z: PLAYER CHATTED [ 1485424245] lorraineboucham      (   80.6,     9.6,    12.5)
+  Hoal
+2022-07-31T05:34:00Z: PLAYER CHATTED [ 1485424245] lorraineboucham      (   80.6,     9.6,    12.5)
+  Hola
+2022-07-31T05:34:13Z: PLAYER CHATTED [  192831239] pgxyz                (   71.3,    10.1,    22.8)
+  hols
+2022-07-31T05:34:19Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   70.1,     9.6,     1.7)
+  besode3 🤗
+2022-07-31T05:34:23Z: PLAYER CHATTED [ 1894339249] lemp1129             (   47.3,     9.7,     3.3)
+  Ay no
+2022-07-31T05:34:24Z: PLAYER CHATTED [ 1485424245] lorraineboucham      (   80.6,     9.6,    12.5)
+  No me puedo mover
+2022-07-31T05:34:26Z: PLAYER CHATTED [  890036204] crazybendy_11        (   84.5,     9.5,    15.7)
+  Ufas que rica estoy 7w7
+2022-07-31T05:34:27Z: CHRCTER ADDED  [  764765244] Universus741         (  -92.0,     3.8,    14.9)
+2022-07-31T05:34:28Z: PLAYER CHATTED [ 1894339249] lemp1129             (   47.3,     9.7,     3.3)
+  Q feo cupkake
+2022-07-31T05:34:35Z: PLAYER CHATTED [ 1792139983] Melissa100815        (   77.8,     9.7,    11.2)
+  que terrible
+2022-07-31T05:34:41Z: PLAYER CHATTED [  192831239] pgxyz                (   84.5,    10.1,     8.4)
+  dona
+2022-07-31T05:34:45Z: PLAYER CHATTED [ 2270054770] camilagamerOwO1      (   62.4,     9.6,    22.1)
+  🍰🍰🍰?
+2022-07-31T05:34:45Z: PLAYER CHATTED [ 1792139983] Melissa100815        (   79.9,     9.7,    16.1)
+  yo atnben
+2022-07-31T05:34:46Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   78.0,     9.6,     3.7)
+  q riko 😻
+2022-07-31T05:34:54Z: PLAYER CHATTED [ 1792139983] Melissa100815        (   82.0,     9.7,    16.6)
+  tanbien
+2022-07-31T05:35:02Z: PLAYER CHATTED [ 2270054770] camilagamerOwO1      (   65.3,     9.6,     7.7)
+  idioma 🍰
+2022-07-31T05:35:03Z: PLAYER CHATTED [ 1894339249] lemp1129             (   56.6,     9.7,   -13.9)
+  Me voy a salir
+2022-07-31T05:35:09Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   60.3,     9.6,   -10.7)
+  pq
+2022-07-31T05:35:16Z: PLAYER CHATTED [ 1894339249] lemp1129             (   56.6,     9.7,   -13.9)
+  Weno no
+2022-07-31T05:35:18Z: PLAYER CHATTED [ 1894339249] lemp1129             (   56.6,     9.7,   -13.9)
+  Cancela
+2022-07-31T05:35:19Z: PLAYER CHATTED [ 2033857616] alezoey24            (   57.2,     9.9,    16.9)
+  me los voy a comerrr 
+2022-07-31T05:35:19Z: PLAYER CHATTED [ 1792139983] Melissa100815        (   56.3,     9.7,     7.2)
+  idioma o
+2022-07-31T05:35:20Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   60.3,     9.6,   -10.7)
+  oka
+2022-07-31T05:35:29Z: PLAYER CHATTED [  890036204] crazybendy_11        (   84.6,     9.5,    16.6)
+  VUELA VUELAAA
+2022-07-31T05:35:34Z: PLAYER CHATTED [ 2423139611] Araliroblox          (   79.4,    21.0,    32.9)
+  OLV
+2022-07-31T05:35:39Z: PLAYER CHATTED [ 1894339249] lemp1129             (   53.1,    30.4,    51.1)
+  SOY DIOS
+2022-07-31T05:35:41Z: PLAYER CHATTED [ 2270054770] camilagamerOwO1      (   26.8,    59.9,    21.0)
+  soy un pastel volador 
+2022-07-31T05:35:42Z: PLAYER REMOVED [ 1485424245] lorraineboucham
+2022-07-31T05:35:44Z: PLAYER CHATTED [ 2033857616] alezoey24            (   27.2,    72.7,    36.0)
+  ayudaaa # # #
+2022-07-31T05:35:50Z: PLAYER REMOVED [ 2206515726] yun794
+2022-07-31T05:35:51Z: PLAYER ADDED   [ 1485424245] lorraineboucham
+2022-07-31T05:35:57Z: CHRCTER ADDED  [  764765244] Universus741         ( -103.7,     3.8,     1.8)
+2022-07-31T05:35:58Z: CHRCTER ADDED  [ 3212734725] vazquezmiranda8915   (  -85.5,     5.3,    35.7)
+2022-07-31T05:36:03Z: PLAYER CHATTED [ 2033857616] alezoey24            (   27.4,   134.4,    37.8)
+  hijo de

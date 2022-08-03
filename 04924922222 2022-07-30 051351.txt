@@ -1,0 +1,705 @@
+[    1630228] : [ 4924922222] Brookhaven 🏡RP - 7e6086ad-f2a2-4c8f-ac37-18ca23a77598
+2022-07-30T05:13:51Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-07-30T05:13:52Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-07-30T05:13:52Z: PLAYER ADDED   [ 2653636237] Papascool212
+2022-07-30T05:13:52Z: PLAYER ADDED   [  872145308] vadaprincess4
+2022-07-30T05:13:52Z: PLAYER ADDED   [ 1744631619] 0_0lachimolala
+2022-07-30T05:13:52Z: PLAYER ADDED   [ 2661237988] abel_907
+2022-07-30T05:13:52Z: PLAYER ADDED   [ 3542868070] TalLlittLegirL612
+2022-07-30T05:13:52Z: PLAYER ADDED   [ 2440807987] la_toxica2468
+2022-07-30T05:13:52Z: PLAYER ADDED   [ 3339122068] Daniel_2exclusive
+2022-07-30T05:13:52Z: PLAYER ADDED   [ 3383949110] Tukefromthehood
+2022-07-30T05:13:52Z: PLAYER ADDED   [   93914916] iiHudo
+2022-07-30T05:13:52Z: PLAYER ADDED   [ 1276057914] ThatFireBowser
+2022-07-30T05:13:52Z: PLAYER ADDED   [ 1751085245] PurpleWario516
+2022-07-30T05:13:52Z: PLAYER ADDED   [  261773872] muyriao
+2022-07-30T05:13:52Z: PLAYER ADDED   [  388731646] R1zLD1zL
+2022-07-30T05:13:52Z: PLAYER ADDED   [ 2576903776] Jaxyboo77
+2022-07-30T05:13:52Z: PLAYER ADDED   [ 3176874752] Cakeofthedayzz
+2022-07-30T05:13:52Z: PLAYER ADDED   [ 3682575127] Yo_itsdakota12
+2022-07-30T05:13:53Z: PLAYER CHATTED [   93914916] iiHudo               (  247.0,    33.7,   421.1)
+  COME TO 13
+2022-07-30T05:13:59Z: CHRCTER ADDED  [ 1751085245] PurpleWario516       (  -52.5,     3.2,    -2.5)
+2022-07-30T05:14:00Z: PLAYER CHATTED [ 2576903776] Jaxyboo77            ( -454.4,    83.4,  -419.6)
+  Idk. I don’t give a sh
+2022-07-30T05:14:16Z: PLAYER CHATTED [ 3339122068] Daniel_2exclusive    ( -439.1,    84.3,  -436.0)
+  Why are you being disrespectful
+2022-07-30T05:14:37Z: PLAYER REMOVED [  261773872] muyriao
+2022-07-30T05:14:38Z: PLAYER CHATTED [ 2576903776] Jaxyboo77            ( -429.9,    85.3,  -423.4)
+  Sorry
+2022-07-30T05:14:43Z: PLAYER CHATTED [  872145308] vadaprincess4        (   18.6,     3.9,   118.4)
+  car now!
+2022-07-30T05:14:55Z: PLAYER ADDED   [ 3749970900] Momkid2034
+2022-07-30T05:14:58Z: PLAYER CHATTED [ 3339122068] Daniel_2exclusive    ( -431.4,    84.4,  -431.2)
+  It’s fine but you wanna get ice cream
+2022-07-30T05:15:01Z: PLAYER CHATTED [ 1751085245] PurpleWario516       (   39.6,     1.6,    74.8)
+  I need to
+2022-07-30T05:15:10Z: PLAYER CHATTED [ 3682575127] Yo_itsdakota12       (  221.8,    92.6,   502.1)
+  Hiii
+2022-07-30T05:15:10Z: PLAYER CHATTED [ 2576903776] Jaxyboo77            ( -429.9,    85.3,  -423.4)
+  Sure why not
+2022-07-30T05:15:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (  222.7,    94.6,   495.9)
+  Hi.
+2022-07-30T05:15:16Z: PLAYER REMOVED [ 3542868070] TalLlittLegirL612
+2022-07-30T05:15:16Z: PLAYER CHATTED [ 3339122068] Daniel_2exclusive    ( -431.4,    84.4,  -431.2)
+  Ok
+2022-07-30T05:15:16Z: PLAYER CHATTED [  872145308] vadaprincess4        (   46.3,     3.1,    71.5)
+  get to car now!
+2022-07-30T05:15:25Z: PLAYER REMOVED [ 2440807987] la_toxica2468
+2022-07-30T05:15:31Z: PLAYER CHATTED [  388731646] R1zLD1zL             (  256.4,    93.7,   480.0)
+  omg,
+2022-07-30T05:15:32Z: CHRCTER ADDED  [ 3682575127] Yo_itsdakota12       (   -0.4,     3.2,    -1.2)
+2022-07-30T05:15:43Z: PLAYER REMOVED [ 2653636237] Papascool212
+2022-07-30T05:15:45Z: PLAYER ADDED   [ 3075758955] CorbinR16
+2022-07-30T05:15:50Z: PLAYER CHATTED [ 3749970900] Momkid2034           (  239.9,    36.4,   414.2)
+  This is the bus that anothony uses
+2022-07-30T05:15:54Z: PLAYER ADDED   [ 3451713686] Keke_648724
+2022-07-30T05:16:12Z: CHRCTER ADDED  [  388731646] R1zLD1zL             (    3.6,     2.9,    -1.2)
+2022-07-30T05:16:15Z: PLAYER CHATTED [ 3682575127] Yo_itsdakota12       (  221.9,    32.6,   434.2)
+  UNLOCK THE DOOR
+2022-07-30T05:16:29Z: PLAYER CHATTED [  872145308] vadaprincess4        ( -322.2,     3.5,    96.9)
+  *fixes*
+2022-07-30T05:16:34Z: PLAYER CHATTED [ 1751085245] PurpleWario516       ( -323.1,     2.1,    86.3)
+  Read the x-rays
+2022-07-30T05:16:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (  222.1,    34.6,   435.5)
+  Interesting house.
+2022-07-30T05:17:27Z: PLAYER CHATTED [ 2576903776] Jaxyboo77            ( -115.9,     2.9,  -124.2)
+  U. Good
+2022-07-30T05:17:28Z: PLAYER REMOVED [ 3339122068] Daniel_2exclusive
+2022-07-30T05:17:34Z: PLAYER CHATTED [  872145308] vadaprincess4        ( -301.6,     3.9,    95.1)
+  done
+2022-07-30T05:17:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (  198.6,    36.9,   421.0)
+  Get on!
+2022-07-30T05:17:52Z: PLAYER CHATTED [ 3682575127] Yo_itsdakota12       (  222.6,    32.6,   431.7)
+  What are u
+2022-07-30T05:17:57Z: PLAYER REMOVED [ 3749970900] Momkid2034
+2022-07-30T05:17:59Z: PLAYER CHATTED [  872145308] vadaprincess4        ( -281.9,     3.5,    86.9)
+  your fine now
+2022-07-30T05:18:02Z: PLAYER CHATTED [   93914916] iiHudo               (  238.8,    33.9,   421.6)
+  admin\
+2022-07-30T05:18:05Z: PLAYER REMOVED [ 3451713686] Keke_648724
+2022-07-30T05:18:08Z: PLAYER ADDED   [ 3206853642] Honesty_QueenBase
+2022-07-30T05:18:09Z: PLAYER ADDED   [ 3150874900] KandaceO96
+2022-07-30T05:18:10Z: PLAYER CHATTED [   93914916] iiHudo               (  234.4,    36.4,   417.2)
+  im a co-creator
+2022-07-30T05:18:10Z: PLAYER CHATTED [  388731646] R1zLD1zL             (  241.2,    33.7,   415.4)
+  how?!
+2022-07-30T05:18:14Z: PLAYER ADDED   [ 3290091691] sttepanykate
+2022-07-30T05:18:17Z: PLAYER REMOVED [ 2576903776] Jaxyboo77
+2022-07-30T05:18:20Z: PLAYER CHATTED [ 3682575127] Yo_itsdakota12       (  234.6,    32.6,   418.2)
+  Mhm sure
+2022-07-30T05:18:21Z: PLAYER CHATTED [  872145308] vadaprincess4        ( -343.6,     3.5,    73.5)
+  its brok
+2022-07-30T05:18:41Z: PLAYER CHATTED [  872145308] vadaprincess4        ( -343.6,     3.5,    73.5)
+  its wrong your fine
+2022-07-30T05:18:49Z: PLAYER REMOVED [ 3290091691] sttepanykate
+2022-07-30T05:18:50Z: PLAYER ADDED   [  384101086] hehaboz
+2022-07-30T05:18:50Z: PLAYER ADDED   [ 3639183374] Migo93427
+2022-07-30T05:18:51Z: PLAYER CHATTED [ 3682575127] Yo_itsdakota12       (  213.0,    32.6,   399.1)
+   BRUH
+2022-07-30T05:18:55Z: PLAYER CHATTED [ 1276057914] ThatFireBowser       ( -346.9,     2.0,    66.6)
+  Mommy
+2022-07-30T05:18:57Z: PLAYER CHATTED [  872145308] vadaprincess4        ( -345.2,     3.5,    72.4)
+  idoit
+2022-07-30T05:19:00Z: PLAYER REMOVED [ 3639183374] Migo93427
+2022-07-30T05:19:00Z: PLAYER CHATTED [ 3682575127] Yo_itsdakota12       (  213.0,    32.6,   399.1)
+  WHAT ARE U
+2022-07-30T05:19:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (  206.4,    34.9,   403.8)
+  I'll fly you to the rocket!
+2022-07-30T05:19:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (  206.4,    34.9,   403.8)
+  I'm a plugin.
+2022-07-30T05:19:10Z: PLAYER CHATTED [  872145308] vadaprincess4        ( -346.7,     4.6,    72.4)
+  ya?
+2022-07-30T05:19:22Z: PLAYER CHATTED [ 1276057914] ThatFireBowser       ( -347.0,     2.0,    66.7)
+  Home
+2022-07-30T05:19:29Z: PLAYER CHATTED [ 1751085245] PurpleWario516       ( -348.1,     2.9,    82.4)
+  Why
+2022-07-30T05:19:36Z: PLAYER CHATTED [ 1751085245] PurpleWario516       ( -348.1,     2.9,    74.8)
+  Leave me behind high blah blah
+2022-07-30T05:19:41Z: PLAYER CHATTED [ 3682575127] Yo_itsdakota12       (  275.7,    34.0,   402.1)
+  WOAH
+2022-07-30T05:19:41Z: PLAYER CHATTED [  872145308] vadaprincess4        ( -369.5,     3.5,    39.3)
+  yes my baby
+2022-07-30T05:19:51Z: PLAYER ADDED   [ 3451713686] Keke_648724
+2022-07-30T05:20:14Z: PLAYER REMOVED [ 3206853642] Honesty_QueenBase
+2022-07-30T05:20:27Z: PLAYER REMOVED [  384101086] hehaboz
+2022-07-30T05:20:28Z: PLAYER ADDED   [  387297746] Drexten2k
+2022-07-30T05:20:49Z: PLAYER REMOVED [   93914916] iiHudo
+2022-07-30T05:20:53Z: PLAYER ADDED   [ 3756057433] Moon7nm
+2022-07-30T05:20:53Z: PLAYER CHATTED [ 1276057914] ThatFireBowser       ( -198.0,    33.8,  -333.2)
+  Food
+2022-07-30T05:21:04Z: PLAYER CHATTED [ 3176874752] Cakeofthedayzz       ( -306.4,    34.6,  -271.8)
+  Hi
+2022-07-30T05:21:17Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -159.4,    34.4,  -268.8)
+  Hi.
+2022-07-30T05:21:30Z: PLAYER REMOVED [ 3383949110] Tukefromthehood
+2022-07-30T05:21:32Z: PLAYER ADDED   [ 2809195532] Lilbittymonster
+2022-07-30T05:22:20Z: PLAYER CHATTED [ 1744631619] 0_0lachimolala       ( -348.7,    66.0,  -458.5)
+  55
+2022-07-30T05:22:28Z: CHRCTER ADDED  [ 3682575127] Yo_itsdakota12       (    7.6,     3.5,     2.8)
+2022-07-30T05:22:34Z: PLAYER CHATTED [ 1744631619] 0_0lachimolala       ( -213.7,    66.3,  -510.4)
+  brb
+2022-07-30T05:22:56Z: PLAYER CHATTED [ 1276057914] ThatFireBowser       ( -182.7,    51.0,  -339.7)
+  Mommy
+2022-07-30T05:23:11Z: PLAYER CHATTED [  872145308] vadaprincess4        ( -181.2,    35.4,  -327.1)
+  I need a job
+2022-07-30T05:23:31Z: PLAYER CHATTED [ 1276057914] ThatFireBowser       ( -181.7,    34.1,  -322.2)
+  I Feel so good
+2022-07-30T05:23:38Z: PLAYER REMOVED [ 3682575127] Yo_itsdakota12
+2022-07-30T05:23:42Z: PLAYER ADDED   [ 3661000553] Cat84849040
+2022-07-30T05:23:54Z: PLAYER REMOVED [ 1744631619] 0_0lachimolala
+2022-07-30T05:23:55Z: PLAYER ADDED   [ 2610696421] Johnnypro2017
+2022-07-30T05:23:58Z: PLAYER CHATTED [ 1276057914] ThatFireBowser       ( -174.5,    34.1,  -317.7)
+  I Don’t Feel so good
+2022-07-30T05:24:03Z: PLAYER CHATTED [  872145308] vadaprincess4        ( -167.8,    35.4,  -307.1)
+  hi?
+2022-07-30T05:24:08Z: PLAYER REMOVED [ 3661000553] Cat84849040
+2022-07-30T05:24:08Z: PLAYER REMOVED [ 3176874752] Cakeofthedayzz
+2022-07-30T05:24:32Z: PLAYER CHATTED [ 1276057914] ThatFireBowser       ( -169.7,    34.1,  -312.4)
+  Mommy
+2022-07-30T05:24:37Z: PLAYER CHATTED [  872145308] vadaprincess4        ( -167.4,    35.4,  -307.9)
+  yes?
+2022-07-30T05:24:55Z: PLAYER CHATTED [ 1276057914] ThatFireBowser       ( -168.7,    34.1,  -314.7)
+  I Don’t Feel so good
+2022-07-30T05:25:00Z: PLAYER ADDED   [ 3505873067] mhjwlyfsoyrsoy
+2022-07-30T05:25:05Z: PLAYER ADDED   [ 2368390582] oneallegend67
+2022-07-30T05:25:13Z: PLAYER CHATTED [  872145308] vadaprincess4        ( -167.8,    35.4,  -309.4)
+  go to the bathroom.
+2022-07-30T05:25:20Z: PLAYER CHATTED [ 1276057914] ThatFireBowser       ( -173.4,    34.1,  -319.5)
+  Ok
+2022-07-30T05:25:28Z: PLAYER CHATTED [  872145308] vadaprincess4        ( -169.1,    35.4,  -307.4)
+  sorry
+2022-07-30T05:25:31Z: PLAYER ADDED   [ 1744631619] 0_0lachimolala
+2022-07-30T05:25:39Z: PLAYER CHATTED [ 1751085245] PurpleWario516       ( -161.2,    33.8,  -315.4)
+  0123456789 12345678910
+2022-07-30T05:25:51Z: PLAYER ADDED   [ 3283487585] sihyeon_hwa
+2022-07-30T05:26:16Z: PLAYER ADDED   [ 3151433877] balodoy_SADBOY
+2022-07-30T05:26:18Z: PLAYER CHATTED [ 1276057914] ThatFireBowser       ( -179.5,    51.0,  -338.7)
+  Mommy
+2022-07-30T05:26:22Z: PLAYER CHATTED [  872145308] vadaprincess4        ( -166.7,    35.4,  -308.1)
+  yes?
+2022-07-30T05:26:48Z: CHRCTER ADDED  [ 3151433877] balodoy_SADBOY       (    3.6,     3.3,     2.8)
+2022-07-30T05:26:59Z: PLAYER CHATTED [ 1276057914] ThatFireBowser       ( -180.3,    51.0,  -340.1)
+  Mommy Calm
+2022-07-30T05:27:09Z: PLAYER REMOVED [ 3075758955] CorbinR16
+2022-07-30T05:27:37Z: PLAYER CHATTED [ 3283487585] sihyeon_hwa          (  -87.1,     1.6,   -49.0)
+  ligo #### ako wait
+2022-07-30T05:27:41Z: PLAYER CHATTED [ 3151433877] balodoy_SADBOY       (  -91.5,     3.2,   -47.9)
+  geh
+2022-07-30T05:27:43Z: PLAYER CHATTED [ 3283487585] sihyeon_hwa          (  -81.4,     1.6,   -42.7)
+  afk
+2022-07-30T05:27:51Z: PLAYER CHATTED [ 2368390582] oneallegend67        ( -167.0,    35.2,  -298.5)
+  yes
+2022-07-30T05:27:57Z: PLAYER CHATTED [ 3151433877] balodoy_SADBOY       (  -85.2,     3.6,   -22.6)
+  brb
+2022-07-30T05:28:02Z: PLAYER REMOVED [ 2809195532] Lilbittymonster
+2022-07-30T05:28:15Z: PLAYER CHATTED [ 2368390582] oneallegend67        ( -167.0,    35.2,  -298.5)
+  sup
+2022-07-30T05:28:16Z: PLAYER CHATTED [ 3151433877] balodoy_SADBOY       (  -73.6,     3.6,   -24.9)
+  afk
+2022-07-30T05:28:18Z: PLAYER CHATTED [ 3151433877] balodoy_SADBOY       (  -73.6,     3.6,   -24.9)
+  brb
+2022-07-30T05:28:28Z: PLAYER CHATTED [  872145308] vadaprincess4        ( -168.3,    35.4,  -311.8)
+  I am calling 911
+2022-07-30T05:28:44Z: PLAYER CHATTED [ 3151433877] balodoy_SADBOY       (  -71.7,     5.9,   -15.4)
+  brb
+2022-07-30T05:28:50Z: PLAYER CHATTED [ 2368390582] oneallegend67        ( -169.0,    36.4,  -304.0)
+  yes
+2022-07-30T05:29:21Z: PLAYER ADDED   [ 2873348581] BOY_LOSE123
+2022-07-30T05:29:30Z: PLAYER CHATTED [ 2368390582] oneallegend67        ( -163.8,    36.0,  -299.7)
+  it's the police
+2022-07-30T05:29:38Z: PLAYER CHATTED [  872145308] vadaprincess4        ( -170.7,    35.4,  -301.1)
+  ya so there was a lady that just stayed my door.
+2022-07-30T05:29:42Z: PLAYER REMOVED [ 2610696421] Johnnypro2017
+2022-07-30T05:29:48Z: PLAYER CHATTED [  872145308] vadaprincess4        ( -188.4,    34.8,  -310.8)
+  her
+2022-07-30T05:29:55Z: PLAYER ADDED   [ 1249873239] starninjaxx300
+2022-07-30T05:30:12Z: PLAYER CHATTED [ 2368390582] oneallegend67        ( -176.1,    36.4,  -317.4)
+  ma'am come with me
+2022-07-30T05:30:29Z: PLAYER REMOVED [ 3756057433] Moon7nm
+2022-07-30T05:30:29Z: CHRCTER ADDED  [ 3150874900] KandaceO96           (  -52.5,     3.5,    25.5)
+2022-07-30T05:30:36Z: PLAYER CHATTED [ 2368390582] oneallegend67        ( -185.2,    36.4,  -319.6)
+  hands behind your back
+2022-07-30T05:30:43Z: PLAYER CHATTED [  872145308] vadaprincess4        ( -181.9,    35.4,  -313.9)
+  I banned her from my homes
+2022-07-30T05:31:01Z: PLAYER CHATTED [  872145308] vadaprincess4        ( -176.6,    35.4,  -311.9)
+  sir that's my kid
+2022-07-30T05:31:04Z: PLAYER CHATTED [ 2368390582] oneallegend67        ( -172.3,    36.4,  -317.1)
+  ok ma'am be safe
+2022-07-30T05:31:15Z: PLAYER CHATTED [  872145308] vadaprincess4        ( -173.4,    35.4,  -315.2)
+  bye you too
+2022-07-30T05:31:23Z: PLAYER CHATTED [ 2368390582] oneallegend67        ( -166.2,    33.1,  -303.9)
+  alright
+2022-07-30T05:32:22Z: PLAYER REMOVED [  387297746] Drexten2k
+2022-07-30T05:32:30Z: CHRCTER ADDED  [ 2873348581] BOY_LOSE123          (  -52.5,     2.8,    25.5)
+2022-07-30T05:32:30Z: PLAYER CHATTED [ 3151433877] balodoy_SADBOY       ( -199.4,     3.2,   151.8)
+  can i drive
+2022-07-30T05:32:52Z: PLAYER CHATTED [ 3451713686] Keke_648724          ( -157.1,     3.5,   160.2)
+  N
+2022-07-30T05:33:57Z: PLAYER CHATTED [ 1751085245] PurpleWario516       ( -192.5,    33.8,  -321.1)
+  I have a
+2022-07-30T05:34:00Z: PLAYER ADDED   [  387297746] Drexten2k
+2022-07-30T05:34:46Z: PLAYER CHATTED [ 1249873239] starninjaxx300       (  214.7,     3.5,     2.8)
+  Yes?
+2022-07-30T05:34:59Z: PLAYER CHATTED [ 1249873239] starninjaxx300       (  214.7,     3.5,     2.8)
+  What is the problem sir/ma'am?
+2022-07-30T05:35:07Z: PLAYER CHATTED [ 1249873239] starninjaxx300       (  213.8,     4.3,   -19.5)
+  Need a spy?
+2022-07-30T05:35:08Z: PLAYER REMOVED [  388731646] R1zLD1zL
+2022-07-30T05:35:13Z: PLAYER ADDED   [ 2475732419] Arsenal_James12345
+2022-07-30T05:35:30Z: PLAYER REMOVED [ 3150874900] KandaceO96
+2022-07-30T05:35:49Z: CHRCTER ADDED  [ 2873348581] BOY_LOSE123          (  -56.5,     2.8,    -2.5)
+2022-07-30T05:35:53Z: PLAYER ADDED   [ 3669280255] supr3pram202A
+2022-07-30T05:36:05Z: CHRCTER ADDED  [ 2475732419] Arsenal_James12345   (   -0.4,     3.3,    -1.2)
+2022-07-30T05:36:14Z: PLAYER REMOVED [ 3669280255] supr3pram202A
+2022-07-30T05:36:21Z: PLAYER CHATTED [  872145308] vadaprincess4        ( -168.9,    35.4,  -306.4)
+  yes
+2022-07-30T05:36:21Z: PLAYER CHATTED [ 1249873239] starninjaxx300       ( -169.5,    34.6,  -299.5)
+  Need a spy?
+2022-07-30T05:36:36Z: PLAYER CHATTED [  872145308] vadaprincess4        ( -168.9,    35.4,  -306.4)
+  no.
+2022-07-30T05:36:44Z: PLAYER CHATTED [ 1249873239] starninjaxx300       ( -164.3,    34.1,  -292.8)
+  Why did you call me.
+2022-07-30T05:36:53Z: PLAYER CHATTED [ 1276057914] ThatFireBowser       ( -167.6,    34.3,  -306.9)
+  What
+2022-07-30T05:37:02Z: PLAYER CHATTED [ 1249873239] starninjaxx300       ( -166.5,    34.2,  -297.6)
+  Someone called me.
+2022-07-30T05:37:03Z: PLAYER CHATTED [  872145308] vadaprincess4        ( -168.6,    35.4,  -313.3)
+  I diddt
+2022-07-30T05:37:04Z: PLAYER CHATTED [ 1249873239] starninjaxx300       ( -166.5,    34.2,  -297.6)
+  Nvm
+2022-07-30T05:38:45Z: PLAYER CHATTED [  872145308] vadaprincess4        ( -171.8,    35.4,  -317.5)
+  I going to work kids!
+2022-07-30T05:39:18Z: PLAYER CHATTED [ 2475732419] Arsenal_James12345   ( -152.8,    34.1,  -154.7)
+  HI
+2022-07-30T05:39:22Z: CHRCTER ADDED  [ 2475732419] Arsenal_James12345   (  -48.5,     3.3,    -2.5)
+2022-07-30T05:39:57Z: PLAYER CHATTED [ 1276057914] ThatFireBowser       ( -177.6,    51.7,  -332.3)
+  Aaaaaaa
+2022-07-30T05:40:07Z: PLAYER REMOVED [ 2368390582] oneallegend67
+2022-07-30T05:40:09Z: PLAYER ADDED   [ 2671828526] king_chi5436
+2022-07-30T05:40:14Z: PLAYER CHATTED [ 1276057914] ThatFireBowser       ( -207.9,    51.2,  -339.0)
+  What
+2022-07-30T05:40:14Z: PLAYER ADDED   [ 2368390582] oneallegend67
+2022-07-30T05:40:15Z: PLAYER REMOVED [ 2671828526] king_chi5436
+2022-07-30T05:40:24Z: CHRCTER ADDED  [ 1751085245] PurpleWario516       (  -48.5,     3.2,    29.5)
+2022-07-30T05:40:32Z: PLAYER CHATTED [ 1276057914] ThatFireBowser       ( -178.4,    34.3,  -314.3)
+  Aaaaaaaaaaaaa
+2022-07-30T05:40:35Z: PLAYER ADDED   [ 3334348379] its_mekatex
+2022-07-30T05:40:41Z: PLAYER CHATTED [  872145308] vadaprincess4        ( -144.6,     3.6,    38.5)
+  get to your seils
+2022-07-30T05:40:47Z: PLAYER REMOVED [ 3505873067] mhjwlyfsoyrsoy
+2022-07-30T05:41:14Z: PLAYER CHATTED [ 2368390582] oneallegend67        ( -114.0,     3.7,    17.0)
+  welcome to the force
+2022-07-30T05:41:15Z: PLAYER REMOVED [  387297746] Drexten2k
+2022-07-30T05:41:15Z: PLAYER ADDED   [ 2242207456] taraji2xx
+2022-07-30T05:41:27Z: PLAYER CHATTED [ 1249873239] starninjaxx300       ( -183.1,    35.4,  -311.0)
+
+2022-07-30T05:41:31Z: PLAYER CHATTED [ 1249873239] starninjaxx300       ( -183.1,    35.4,  -311.0)
+  Or die
+2022-07-30T05:41:35Z: PLAYER CHATTED [ 1249873239] starninjaxx300       ( -183.1,    35.4,  -311.0)
+  Freeze
+2022-07-30T05:41:38Z: PLAYER CHATTED [ 1249873239] starninjaxx300       ( -183.2,    35.4,  -310.7)
+  or die
+2022-07-30T05:41:40Z: PLAYER CHATTED [ 1276057914] ThatFireBowser       ( -185.8,    34.3,  -303.1)
+  Ok
+2022-07-30T05:41:42Z: PLAYER CHATTED [ 1249873239] starninjaxx300       ( -183.2,    35.4,  -310.7)
+  I repeat
+2022-07-30T05:41:51Z: PLAYER CHATTED [ 1249873239] starninjaxx300       ( -184.0,    35.4,  -308.8)
+  Follow me.
+2022-07-30T05:41:57Z: PLAYER CHATTED [ 1276057914] ThatFireBowser       ( -186.9,    34.3,  -304.8)
+  Ok
+2022-07-30T05:42:12Z: PLAYER REMOVED [ 3451713686] Keke_648724
+2022-07-30T05:42:12Z: PLAYER ADDED   [ 1412120950] Preetygirl9248
+2022-07-30T05:42:50Z: PLAYER ADDED   [ 3278360944] tintin262010y
+2022-07-30T05:42:50Z: PLAYER CHATTED [ 2368390582] oneallegend67        ( -127.0,     4.6,     4.6)
+  oh u work here
+2022-07-30T05:43:03Z: PLAYER CHATTED [  872145308] vadaprincess4        ( -137.3,     3.6,    24.1)
+  ya. so
+2022-07-30T05:43:10Z: PLAYER CHATTED [ 2368390582] oneallegend67        ( -136.0,     4.6,    17.8)
+  ok
+2022-07-30T05:43:19Z: PLAYER CHATTED [ 1249873239] starninjaxx300       (  257.5,     3.9,   159.9)
+  wait me here.
+2022-07-30T05:43:27Z: PLAYER CHATTED [ 1249873239] starninjaxx300       (  257.5,     3.9,   159.9)
+  Do not try to escape.
+2022-07-30T05:43:32Z: PLAYER CHATTED [ 1249873239] starninjaxx300       (  258.6,     3.9,   161.5)
+  Or your mom dies.
+2022-07-30T05:43:34Z: PLAYER CHATTED [ 1276057914] ThatFireBowser       (  264.0,     2.8,   168.4)
+  Ok
+2022-07-30T05:43:38Z: PLAYER CHATTED [ 1276057914] ThatFireBowser       (  264.0,     2.8,   168.4)
+  Ok
+2022-07-30T05:43:42Z: PLAYER CHATTED [ 1249873239] starninjaxx300       (  260.3,     3.9,   163.9)
+  Play with Anya.
+2022-07-30T05:43:45Z: PLAYER REMOVED [ 3278360944] tintin262010y
+2022-07-30T05:43:50Z: PLAYER CHATTED [ 1276057914] ThatFireBowser       (  264.0,     2.8,   168.4)
+  Ok
+2022-07-30T05:44:12Z: PLAYER REMOVED [ 2242207456] taraji2xx
+2022-07-30T05:44:16Z: PLAYER ADDED   [ 3441038861] katongo456
+2022-07-30T05:44:47Z: PLAYER CHATTED [ 1412120950] Preetygirl9248       ( -139.5,     3.5,    13.5)
+  hi👀??
+2022-07-30T05:46:53Z: PLAYER CHATTED [  872145308] vadaprincess4        (  -53.7,     3.1,   -67.3)
+  you have work.
+2022-07-30T05:47:01Z: PLAYER CHATTED [ 2368390582] oneallegend67        (  -45.6,     4.2,   -82.0)
+  Ik
+2022-07-30T05:47:22Z: PLAYER CHATTED [ 1249873239] starninjaxx300       (  264.3,     3.9,   169.7)
+  🤔
+2022-07-30T05:47:42Z: PLAYER CHATTED [ 1249873239] starninjaxx300       (  268.6,     3.9,   173.8)
+  !!!
+2022-07-30T05:47:47Z: PLAYER CHATTED [ 1249873239] starninjaxx300       (  268.6,     3.9,   173.8)
+  He escaped.
+2022-07-30T05:48:28Z: PLAYER REMOVED [ 1276057914] ThatFireBowser
+2022-07-30T05:48:33Z: PLAYER REMOVED [ 1751085245] PurpleWario516
+2022-07-30T05:48:34Z: PLAYER ADDED   [ 3262445338] Sherll120
+2022-07-30T05:48:35Z: PLAYER ADDED   [ 3748254335] Eiysha21354
+2022-07-30T05:49:16Z: PLAYER CHATTED [ 1249873239] starninjaxx300       ( -164.6,     3.1,   -38.8)
+  Friend?
+2022-07-30T05:49:21Z: PLAYER CHATTED [ 1249873239] starninjaxx300       ( -141.2,     3.5,   -28.6)
+  Send script.
+2022-07-30T05:49:23Z: PLAYER CHATTED [ 2368390582] oneallegend67        ( -103.6,     4.6,    21.2)
+  u called
+2022-07-30T05:49:29Z: PLAYER CHATTED [ 3151433877] balodoy_SADBOY       ( -165.8,   143.8,  -762.3)
+  hahaah
+2022-07-30T05:49:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (   75.2,   109.3,  -107.2)
+  ÒÓ
+2022-07-30T05:49:52Z: PLAYER CHATTED [  872145308] vadaprincess4        ( -114.0,     3.5,    17.0)
+  I didn't mean to
+2022-07-30T05:50:01Z: PLAYER CHATTED [ 3151433877] balodoy_SADBOY       ( 4985.3,   351.7, -2054.0)
+  hohohoho
+2022-07-30T05:50:15Z: PLAYER CHATTED [  872145308] vadaprincess4        ( -151.5,     3.6,    48.0)
+  w
+2022-07-30T05:50:20Z: PLAYER CHATTED [ 3151433877] balodoy_SADBOY       (  398.0,   -25.3,  -667.2)
+  awesome
+2022-07-30T05:50:23Z: CHRCTER ADDED  [ 2368390582] oneallegend67        (  -52.5,     3.3,    -6.5)
+2022-07-30T05:50:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (  382.8,   -13.9,  -661.5)
+  Thanks!
+2022-07-30T05:50:33Z: PLAYER CHATTED [ 1249873239] starninjaxx300       ( -129.2,     3.6,    53.2)
+  The police caught me spying.
+2022-07-30T05:50:40Z: PLAYER CHATTED [ 1412120950] Preetygirl9248       ( -128.9,     3.5,    52.0)
+  No
+2022-07-30T05:50:57Z: PLAYER CHATTED [ 3151433877] balodoy_SADBOY       (-1478.4,    28.2,   511.4)
+  hohohoho
+2022-07-30T05:50:58Z: PLAYER CHATTED [ 3441038861] katongo456           ( -358.3,    34.2,  -247.8)
+  arest him
+2022-07-30T05:51:01Z: PLAYER CHATTED [  872145308] vadaprincess4        ( -359.9,    34.1,  -246.3)
+  yes you
+2022-07-30T05:51:05Z: PLAYER CHATTED [ 1249873239] starninjaxx300       ( -117.3,     3.6,    68.3)
+  I'M SORRY.
+2022-07-30T05:51:10Z: PLAYER CHATTED [ 1412120950] Preetygirl9248       ( -129.2,     3.5,    57.9)
+  m.
+2022-07-30T05:51:12Z: PLAYER CHATTED [ 3441038861] katongo456           ( -357.6,    34.3,  -253.1)
+  now
+2022-07-30T05:51:22Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -425.4,   430.9,   758.5)
+  How do I get a wagon?
+2022-07-30T05:51:31Z: PLAYER CHATTED [ 2475732419] Arsenal_James12345   (  230.6,  -145.0,   502.2)
+  HAHHA
+2022-07-30T05:51:32Z: PLAYER CHATTED [ 3151433877] balodoy_SADBOY       ( -173.2,   133.6,   278.1)
+  santa is comming to ####
+2022-07-30T05:51:56Z: PLAYER CHATTED [ 3151433877] balodoy_SADBOY       ( -486.3,   114.9,   363.6)
+  hohohohohoho
+2022-07-30T05:51:59Z: PLAYER CHATTED [ 2368390582] oneallegend67        ( -364.1,    35.2,  -224.3)
+  it's the police
+2022-07-30T05:52:02Z: PLAYER CHATTED [ 3151433877] balodoy_SADBOY       (  397.1,    57.5,   671.0)
+  faster
+2022-07-30T05:52:17Z: PLAYER CHATTED [ 3748254335] Eiysha21354          ( -251.8,     3.2,   -89.5)
+  wawawawawawwaw
+2022-07-30T05:52:19Z: PLAYER CHATTED [ 3151433877] balodoy_SADBOY       (-1244.6,   606.3,    89.3)
+  ride a bus
+2022-07-30T05:52:22Z: PLAYER CHATTED [ 2368390582] oneallegend67        ( -365.9,    35.2,  -233.8)
+  u called
+2022-07-30T05:52:23Z: PLAYER CHATTED [ 1412120950] Preetygirl9248       ( -120.5,    19.4,    39.4)
+  ###########
+2022-07-30T05:52:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -17.4,  2615.0,  -770.1)
+  Less stable.
+2022-07-30T05:52:30Z: PLAYER CHATTED [ 1412120950] Preetygirl9248       ( -120.5,    19.4,    39.4)
+  726$
+2022-07-30T05:52:35Z: PLAYER CHATTED [ 1249873239] starninjaxx300       ( -126.0,    19.5,    42.9)
+  Sure.
+2022-07-30T05:52:36Z: PLAYER CHATTED [ 3441038861] katongo456           ( -365.4,    34.3,  -231.3)
+  a man stall my money
+2022-07-30T05:52:41Z: PLAYER CHATTED [ 1412120950] Preetygirl9248       ( -119.7,    19.4,    43.3)
+  upoor
+2022-07-30T05:52:44Z: PLAYER CHATTED [ 2368390582] oneallegend67        ( -365.9,    35.2,  -233.8)
+  ok who
+2022-07-30T05:52:51Z: PLAYER CHATTED [ 3441038861] katongo456           ( -365.4,    34.3,  -231.3)
+  ####################
+2022-07-30T05:52:55Z: PLAYER CHATTED [ 3441038861] katongo456           ( -365.1,    34.3,  -235.8)
+  came
+2022-07-30T05:53:01Z: PLAYER CHATTED [ 1249873239] starninjaxx300       ( -123.8,    19.5,    42.2)
+  I have a Mansion.
+2022-07-30T05:53:06Z: PLAYER CHATTED [ 1249873239] starninjaxx300       ( -123.8,    19.5,    42.2)
+  Private plane.
+2022-07-30T05:53:07Z: PLAYER CHATTED [ 3151433877] balodoy_SADBOY       ( -811.1,   269.9,   193.1)
+  hohohohoho
+2022-07-30T05:53:07Z: PLAYER CHATTED [ 1412120950] Preetygirl9248       ( -120.6,    19.4,    42.8)
+  ##
+2022-07-30T05:53:10Z: PLAYER CHATTED [ 3441038861] katongo456           ( -265.1,     3.3,   -75.7)
+  him
+2022-07-30T05:53:10Z: PLAYER CHATTED [ 3748254335] Eiysha21354          ( -295.5,     4.7,   -26.2)
+  awawwawaw
+2022-07-30T05:53:14Z: PLAYER CHATTED [ 1249873239] starninjaxx300       ( -123.8,    19.5,    42.2)
+  Your a broke.
+2022-07-30T05:53:14Z: PLAYER CHATTED [ 3151433877] balodoy_SADBOY       ( -629.5,   778.2,   665.5)
+  ###########
+2022-07-30T05:53:20Z: PLAYER CHATTED [ 1249873239] starninjaxx300       ( -123.8,    19.5,    42.2)
+  brokie.
+2022-07-30T05:53:30Z: PLAYER REMOVED [ 2475732419] Arsenal_James12345
+2022-07-30T05:53:30Z: PLAYER CHATTED [ 3334348379] its_mekatex          ( -336.0,     5.0,    32.9)
+  him?
+2022-07-30T05:53:34Z: PLAYER CHATTED [ 3151433877] balodoy_SADBOY       (-1760.8,   791.9,    78.2)
+  can i add
+2022-07-30T05:53:36Z: PLAYER ADDED   [ 3715882390] Dhola_123
+2022-07-30T05:53:36Z: PLAYER REMOVED [ 3715882390] Dhola_123
+2022-07-30T05:53:39Z: PLAYER ADDED   [ 1907485522] zandrevdheever
+2022-07-30T05:53:40Z: CHRCTER ADDED  [ 3283487585] sihyeon_hwa          (  -52.5,     3.5,    -6.5)
+2022-07-30T05:53:40Z: PLAYER CHATTED [ 3151433877] balodoy_SADBOY       ( -789.6,   601.9,    81.5)
+  #############
+2022-07-30T05:53:40Z: PLAYER CHATTED [ 3441038861] katongo456           ( -327.8,     3.7,    32.9)
+  yes his a theif
+2022-07-30T05:53:41Z: PLAYER CHATTED [ 3748254335] Eiysha21354          ( -336.5,     4.8,    48.5)
+  awawwwwawaaw
+2022-07-30T05:53:41Z: PLAYER CHATTED [ 2368390582] oneallegend67        ( -325.1,     4.6,    32.7)
+  sir did u steal this woman's money
+2022-07-30T05:53:44Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -795.3,   601.7,    83.1)
+  How so?
+2022-07-30T05:53:45Z: PLAYER ADDED   [ 3691021017] katebiel0808
+2022-07-30T05:53:53Z: PLAYER CHATTED [ 3748254335] Eiysha21354          ( -337.2,     1.0,    48.7)
+  yes
+2022-07-30T05:54:02Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1017.1,     9.9,    40.6)
+  I don't accept friend requests.
+2022-07-30T05:54:04Z: PLAYER CHATTED [ 2368390582] oneallegend67        ( -335.0,     4.6,    52.0)
+  ur under arrest
+2022-07-30T05:54:06Z: PLAYER CHATTED [ 3151433877] balodoy_SADBOY       ( 1001.9,     3.1,    28.9)
+  ok
+2022-07-30T05:54:08Z: PLAYER REMOVED [ 3283487585] sihyeon_hwa
+2022-07-30T05:54:11Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1014.3,     2.7,    39.4)
+  I'm sorry though.
+2022-07-30T05:54:14Z: CHRCTER ADDED  [ 3151433877] balodoy_SADBOY       (    7.6,     3.3,    -1.2)
+2022-07-30T05:54:23Z: PLAYER CHATTED [  872145308] vadaprincess4        ( -333.3,     3.5,    51.7)
+  put your hands up!
+2022-07-30T05:54:33Z: PLAYER ADDED   [ 3283487585] sihyeon_hwa
+2022-07-30T05:54:36Z: PLAYER CHATTED [ 1412120950] Preetygirl9248       ( -127.8,     3.5,    58.3)
+  NoNoNoNo
+2022-07-30T05:54:43Z: PLAYER CHATTED [ 1249873239] starninjaxx300       ( -138.9,     5.9,    61.2)
+  I'm sleeping...
+2022-07-30T05:55:08Z: CHRCTER ADDED  [ 2873348581] BOY_LOSE123          (  -56.5,     3.2,    -2.5)
+2022-07-30T05:55:09Z: PLAYER ADDED   [ 2867907476] quintonmilk65
+2022-07-30T05:55:10Z: PLAYER CHATTED [ 3334348379] its_mekatex          ( -300.3,     4.4,    -3.1)
+  maam
+2022-07-30T05:55:12Z: PLAYER REMOVED [ 2867907476] quintonmilk65
+2022-07-30T05:55:12Z: PLAYER CHATTED [  872145308] vadaprincess4        ( -298.6,     3.5,    -5.5)
+  yes?
+2022-07-30T05:55:15Z: PLAYER ADDED   [ 2867907476] quintonmilk65
+2022-07-30T05:55:19Z: PLAYER CHATTED [ 3283487585] sihyeon_hwa          (   11.6,     2.0,   -19.6)
+  love?
+2022-07-30T05:55:21Z: PLAYER ADDED   [ 1850880168] macmac3012
+2022-07-30T05:55:24Z: PLAYER CHATTED [ 2368390582] oneallegend67        ( -304.3,     4.5,    -1.0)
+  you call
+2022-07-30T05:55:28Z: PLAYER CHATTED [ 3334348379] its_mekatex          ( -300.3,     4.4,    -3.1)
+  I saw guy he ###### ######
+2022-07-30T05:55:33Z: PLAYER CHATTED [ 3151433877] balodoy_SADBOY       (   10.8,     3.5,   -20.0)
+  hai lab
+2022-07-30T05:55:38Z: PLAYER CHATTED [ 3691021017] katebiel0808         (   -4.0,     3.3,    -2.8)
+  bebe
+2022-07-30T05:55:42Z: PLAYER CHATTED [ 3283487585] sihyeon_hwa          (   11.6,     2.0,   -19.6)
+  im back
+2022-07-30T05:55:44Z: PLAYER CHATTED [ 3441038861] katongo456           (  170.7,     4.7,  -354.0)
+  asaaaaaaa
+2022-07-30T05:55:44Z: PLAYER CHATTED [ 3691021017] katebiel0808         (  -12.5,     3.3,    26.4)
+  gago
+2022-07-30T05:55:47Z: PLAYER CHATTED [ 3334348379] its_mekatex          ( -301.2,     4.4,    -4.6)
+  I saw guy he killed
+2022-07-30T05:55:54Z: PLAYER CHATTED [ 3691021017] katebiel0808         (  -13.6,     3.3,    25.5)
+  tagal bebe ko
+2022-07-30T05:55:55Z: CHRCTER ADDED  [ 2867907476] quintonmilk65        (    3.6,     6.8,    -1.2)
+2022-07-30T05:55:59Z: PLAYER CHATTED [ 3283487585] sihyeon_hwa          (   11.6,     2.0,   -19.6)
+  ######## ako ## toblerone
+2022-07-30T05:56:00Z: PLAYER CHATTED [ 3334348379] its_mekatex          ( -301.3,     4.4,    -6.1)
+  I don't know where he is
+2022-07-30T05:56:03Z: PLAYER CHATTED [  872145308] vadaprincess4        ( -301.9,     3.5,   -12.1)
+  what does he look like?
+2022-07-30T05:56:14Z: PLAYER CHATTED [ 3691021017] katebiel0808         (  -38.5,     7.0,     9.6)
+  what
+2022-07-30T05:56:14Z: PLAYER CHATTED [ 3334348379] its_mekatex          ( -301.6,     4.4,    -7.3)
+  wearing a black
+2022-07-30T05:56:23Z: PLAYER CHATTED [  872145308] vadaprincess4        ( -301.9,     3.5,   -12.1)
+  black
+2022-07-30T05:56:27Z: PLAYER CHATTED [ 3334348379] its_mekatex          ( -301.6,     4.4,    -7.3)
+  yeah
+2022-07-30T05:56:42Z: PLAYER CHATTED [ 3283487585] sihyeon_hwa          (   11.6,     2.0,   -19.6)
+  shoulder ke!
+2022-07-30T05:56:47Z: PLAYER CHATTED [ 3283487585] sihyeon_hwa          (   11.6,     2.0,   -19.6)
+  me*
+2022-07-30T05:57:08Z: PLAYER CHATTED [  872145308] vadaprincess4        ( -303.7,     3.5,   -12.1)
+  have a great day!
+2022-07-30T05:57:09Z: PLAYER CHATTED [ 3283487585] sihyeon_hwa          (   -1.4,     7.9,    78.9)
+  yay
+2022-07-30T05:57:11Z: PLAYER CHATTED [ 3691021017] katebiel0808         (   28.9,     3.4,   -28.8)
+  hi
+2022-07-30T05:57:11Z: PLAYER REMOVED [ 2867907476] quintonmilk65
+2022-07-30T05:57:12Z: PLAYER CHATTED [ 1907485522] zandrevdheever       (   36.3,     3.3,   -23.7)
+  hi
+2022-07-30T05:57:21Z: PLAYER CHATTED [ 3691021017] katebiel0808         (   31.2,     3.4,   -26.3)
+  you kind of like that youtuber
+2022-07-30T05:57:29Z: PLAYER CHATTED [ 3691021017] katebiel0808         (   31.2,     3.4,   -26.3)
+  ohh
+2022-07-30T05:57:31Z: PLAYER CHATTED [  872145308] vadaprincess4        ( -302.2,     3.5,    33.7)
+  yes?
+2022-07-30T05:57:34Z: PLAYER CHATTED [ 3691021017] katebiel0808         (   31.2,     3.4,   -26.3)
+  are you
+2022-07-30T05:57:36Z: PLAYER CHATTED [ 3691021017] katebiel0808         (   31.2,     3.4,   -26.3)
+  him
+2022-07-30T05:57:37Z: PLAYER CHATTED [ 1907485522] zandrevdheever       (   36.3,     3.3,   -23.7)
+  ye
+2022-07-30T05:57:43Z: PLAYER CHATTED [ 1907485522] zandrevdheever       (   36.3,     3.3,   -23.7)
+  I am
+2022-07-30T05:57:43Z: PLAYER CHATTED [ 3334348379] its_mekatex          ( -300.2,     4.5,    40.7)
+  why?
+2022-07-30T05:57:44Z: PLAYER CHATTED [ 3691021017] katebiel0808         (   31.3,     3.4,   -26.4)
+  omgg
+2022-07-30T05:57:51Z: PLAYER CHATTED [  872145308] vadaprincess4        ( -302.2,     3.5,    33.7)
+  what?
+2022-07-30T05:57:53Z: PLAYER CHATTED [ 3691021017] katebiel0808         (   31.3,     3.4,   -26.4)
+  can i have a screenshot
+2022-07-30T05:57:55Z: PLAYER CHATTED [ 3334348379] its_mekatex          ( -300.2,     4.5,    40.7)
+  I didn't call
+2022-07-30T05:58:03Z: PLAYER CHATTED [ 1907485522] zandrevdheever       (   36.3,     3.3,   -23.7)
+  sure
+2022-07-30T05:58:04Z: PLAYER CHATTED [  872145308] vadaprincess4        ( -302.2,     3.5,    33.7)
+  yes you did.
+2022-07-30T05:58:08Z: PLAYER CHATTED [ 3691021017] katebiel0808         (   36.4,     3.3,   -27.5)
+  wait
+2022-07-30T05:58:08Z: PLAYER CHATTED [ 3334348379] its_mekatex          ( -300.2,     4.5,    40.7)
+  no
+2022-07-30T05:58:10Z: PLAYER CHATTED [ 3691021017] katebiel0808         (   36.4,     3.3,   -27.5)
+  go
+2022-07-30T05:58:11Z: PLAYER CHATTED [ 3334348379] its_mekatex          ( -300.2,     4.5,    40.7)
+  I didn't
+2022-07-30T05:58:13Z: PLAYER CHATTED [ 3151433877] balodoy_SADBOY       (   -8.4,    -0.4,   116.8)
+  weeeeee
+2022-07-30T05:58:15Z: PLAYER CHATTED [ 3334348379] its_mekatex          ( -300.2,     4.5,    40.7)
+  I promise
+2022-07-30T05:58:19Z: PLAYER CHATTED [ 3691021017] katebiel0808         (   36.4,     3.3,   -27.5)
+  done
+2022-07-30T05:58:22Z: PLAYER CHATTED [ 3283487585] sihyeon_hwa          (    3.0,   101.5,   115.2)
+  wohoooooo
+2022-07-30T05:58:23Z: PLAYER CHATTED [ 1907485522] zandrevdheever       (   36.9,     3.2,   -23.5)
+  nic
+2022-07-30T05:58:24Z: PLAYER CHATTED [ 3691021017] katebiel0808         (   33.4,     3.4,   -25.3)
+  omg
+2022-07-30T05:58:27Z: PLAYER CHATTED [ 2368390582] oneallegend67        ( -298.4,     4.6,    31.2)
+  I'm here
+2022-07-30T05:58:29Z: PLAYER REMOVED [ 1412120950] Preetygirl9248
+2022-07-30T05:58:29Z: PLAYER CHATTED [ 3151433877] balodoy_SADBOY       (   -9.6,   515.4,   110.2)
+  wohhohohohooh
+2022-07-30T05:58:30Z: PLAYER CHATTED [ 3441038861] katongo456           (    8.9,    17.9,   256.5)
+  we are robbing the bank
+2022-07-30T05:58:36Z: PLAYER CHATTED [ 3151433877] balodoy_SADBOY       (   -5.1,    -3.2,   119.2)
+  weee
+2022-07-30T05:58:36Z: PLAYER CHATTED [ 3691021017] katebiel0808         (   29.5,     3.4,   -24.4)
+  i'm a big fan
+2022-07-30T05:58:40Z: PLAYER CHATTED [ 3151433877] balodoy_SADBOY       (   -3.1,    66.1,   103.8)
+  #######
+2022-07-30T05:58:40Z: PLAYER CHATTED [ 3283487585] sihyeon_hwa          (   -2.0,    42.2,   102.7)
+  wee
+2022-07-30T05:58:41Z: PLAYER CHATTED [ 1907485522] zandrevdheever       (   40.8,     3.0,   -22.6)
+  thx
+2022-07-30T05:58:41Z: PLAYER CHATTED [ 3334348379] its_mekatex          ( -300.5,     6.1,    34.8)
+  I saw robbing the bank
+2022-07-30T05:58:43Z: PLAYER CHATTED [ 3151433877] balodoy_SADBOY       (    0.3,   154.5,   103.1)
+  #######
+2022-07-30T05:58:45Z: PLAYER CHATTED [ 3691021017] katebiel0808         (   30.1,     3.4,   -26.1)
+  i need to go
+2022-07-30T05:58:46Z: PLAYER CHATTED [ 3151433877] balodoy_SADBOY       (   -3.6,   284.0,   103.2)
+  ####
+2022-07-30T05:58:46Z: PLAYER CHATTED [ 3283487585] sihyeon_hwa          (   -2.1,   384.9,   102.9)
+  ####
+2022-07-30T05:58:48Z: PLAYER CHATTED [ 3151433877] balodoy_SADBOY       (   -3.6,   282.8,   103.2)
+  ###
+2022-07-30T05:58:48Z: PLAYER CHATTED [ 3691021017] katebiel0808         (   30.1,     3.4,   -26.1)
+  bye
+2022-07-30T05:58:51Z: PLAYER CHATTED [ 3151433877] balodoy_SADBOY       (   -4.5,    -0.4,   109.9)
+  ####
+2022-07-30T05:58:54Z: PLAYER CHATTED [ 3151433877] balodoy_SADBOY       (   -0.4,   129.8,   104.8)
+  ######################
+2022-07-30T05:58:55Z: PLAYER CHATTED [ 1907485522] zandrevdheever       (   40.8,     3.0,   -22.6)
+  bye
+2022-07-30T05:58:55Z: PLAYER REMOVED [ 3262445338] Sherll120
+2022-07-30T05:58:57Z: PLAYER CHATTED [ 3151433877] balodoy_SADBOY       (   -0.4,    62.6,   104.8)
+  ###
+2022-07-30T05:58:58Z: PLAYER CHATTED [ 3151433877] balodoy_SADBOY       (   -0.4,    38.1,   104.8)
+  #####
+2022-07-30T05:59:00Z: PLAYER CHATTED [ 3151433877] balodoy_SADBOY       (   -0.4,    33.7,   104.8)
+  eeee
+2022-07-30T05:59:05Z: PLAYER CHATTED [ 3151433877] balodoy_SADBOY       (    8.1,    -3.0,   113.3)
+  woooohooo
+2022-07-30T05:59:08Z: PLAYER CHATTED [ 3283487585] sihyeon_hwa          (   -0.3,    10.5,   105.2)
+  ########
+2022-07-30T05:59:12Z: PLAYER CHATTED [ 3283487585] sihyeon_hwa          (   -2.4,    23.9,   104.6)
+
+2022-07-30T05:59:18Z: PLAYER CHATTED [ 3283487585] sihyeon_hwa          (   -2.0,    60.3,   105.9)
+  weeee
+2022-07-30T05:59:41Z: CHRCTER ADDED  [ 2873348581] BOY_LOSE123          (  -56.5,     3.2,    -2.5)
+2022-07-30T05:59:41Z: PLAYER CHATTED [ 3283487585] sihyeon_hwa          ( -217.6,  1476.9,   190.0)
+  whoohoo
+2022-07-30T05:59:55Z: PLAYER CHATTED [ 3151433877] balodoy_SADBOY       (  -26.4,     3.9,   135.0)
+  woooo
+2022-07-30T06:00:00Z: PLAYER ADDED   [ 3720041392] tototretre1212
+2022-07-30T06:00:11Z: PLAYER ADDED   [ 3723446215] pinkcar1940
+2022-07-30T06:00:20Z: PLAYER CHATTED [ 3283487585] sihyeon_hwa          (    9.2,     0.6,   116.4)
+  my friend joined
+2022-07-30T06:00:24Z: PLAYER CHATTED [ 3151433877] balodoy_SADBOY       (    7.6,    -3.5,   122.5)
+  ok
+2022-07-30T06:00:32Z: PLAYER CHATTED [ 3283487585] sihyeon_hwa          (   -4.8,    30.8,    97.3)
+  i mean 3 of them!
+2022-07-30T06:00:35Z: PLAYER CHATTED [ 3283487585] sihyeon_hwa          (    0.6,    14.3,   103.4)
+  wee
+2022-07-30T06:00:39Z: PLAYER CHATTED [ 3151433877] balodoy_SADBOY       (   -1.6,    53.6,   103.1)
+  wee
+2022-07-30T06:00:43Z: PLAYER CHATTED [ 3283487585] sihyeon_hwa          (  -18.9,    62.8,   456.8)
+  ######
+2022-07-30T06:01:17Z: PLAYER CHATTED [ 3283487585] sihyeon_hwa          (  189.5,     5.7,   149.7)
+  wee
+2022-07-30T06:01:32Z: PLAYER CHATTED [ 3334348379] its_mekatex          (    1.5,    18.7,   256.4)
+  someone robbing here
+2022-07-30T06:01:35Z: PLAYER CHATTED [ 3334348379] its_mekatex          (    1.5,    18.7,   256.4)
+  I saw
+2022-07-30T06:01:37Z: PLAYER CHATTED [ 3334348379] its_mekatex          (    1.5,    18.7,   256.4)
+  it
+2022-07-30T06:01:38Z: PLAYER CHATTED [ 2368390582] oneallegend67        (   -9.7,    35.2,   410.4)
+  freeze
+2022-07-30T06:01:45Z: PLAYER REMOVED [ 3720041392] tototretre1212
+2022-07-30T06:01:45Z: PLAYER CHATTED [ 3334348379] its_mekatex          (    3.1,    18.7,   256.3)
+  there wearing a black
+2022-07-30T06:01:48Z: PLAYER CHATTED [ 3691021017] katebiel0808         (    5.0,    17.7,   258.2)
+  you're going to rabbit
+2022-07-30T06:01:50Z: PLAYER REMOVED [ 2873348581] BOY_LOSE123
+2022-07-30T06:01:50Z: PLAYER CHATTED [ 3283487585] sihyeon_hwa          (    8.6,    10.7,   138.9)
+  wee
+2022-07-30T06:01:51Z: PLAYER CHATTED [ 3334348379] its_mekatex          (    3.1,    18.7,   256.3)
+  she
+2022-07-30T06:01:54Z: PLAYER CHATTED [ 3691021017] katebiel0808         (    5.2,    17.7,   251.7)
+  no
+2022-07-30T06:02:00Z: PLAYER CHATTED [ 3334348379] its_mekatex          (    3.1,    18.7,   255.7)
+  I saw u
+2022-07-30T06:02:02Z: PLAYER CHATTED [ 3691021017] katebiel0808         (    5.2,    17.7,   251.7)
+  stop
+2022-07-30T06:02:05Z: PLAYER CHATTED [ 3334348379] its_mekatex          (    3.1,    18.7,   255.7)
+  robbing
+2022-07-30T06:02:08Z: PLAYER CHATTED [ 3691021017] katebiel0808         (    5.2,    17.7,   251.7)
+  no
+2022-07-30T06:02:12Z: PLAYER CHATTED [ 3691021017] katebiel0808         (    5.2,    17.7,   251.7)
+  i'm just going
+2022-07-30T06:02:16Z: PLAYER CHATTED [  872145308] vadaprincess4        (    9.7,    17.8,   258.0)
+  I know
+2022-07-30T06:02:19Z: PLAYER CHATTED [ 3691021017] katebiel0808         (    5.2,    17.7,   251.7)
+  i'm never going to do that
+2022-07-30T06:02:27Z: PLAYER CHATTED [  872145308] vadaprincess4        (    9.9,    17.8,   255.1)
+  ya
+2022-07-30T06:02:30Z: PLAYER CHATTED [ 3691021017] katebiel0808         (    5.2,    17.7,   251.7)
+  but when i was a kid i rub a real bank
+2022-07-30T06:02:32Z: PLAYER REMOVED [ 2368390582] oneallegend67
+2022-07-30T06:02:35Z: PLAYER CHATTED [  872145308] vadaprincess4        (    9.9,    17.8,   255.1)
+  I saw the guy
+2022-07-30T06:02:37Z: PLAYER ADDED   [ 3088051905] kartoffelgurke936
+2022-07-30T06:02:37Z: PLAYER CHATTED [ 3691021017] katebiel0808         (    5.5,    17.7,   252.1)
+  ops
+2022-07-30T06:02:38Z: PLAYER REMOVED [ 1850880168] macmac3012

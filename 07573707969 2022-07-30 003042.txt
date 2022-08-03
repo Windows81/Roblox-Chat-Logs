@@ -1,0 +1,294 @@
+[    1630228] : [ 7573707969] [UPDATE] Limited Words - 4adb3f5c-f9da-4dcb-ad81-ed157599531f
+2022-07-30T00:30:42Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-07-30T00:30:42Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-07-30T00:30:42Z: PLAYER ADDED   [ 3031250473] kourtbaby17
+2022-07-30T00:30:42Z: PLAYER ADDED   [  401947033] wolf_dab
+2022-07-30T00:30:42Z: PLAYER ADDED   [ 3503507633] GLOSSALE
+2022-07-30T00:30:42Z: PLAYER ADDED   [  471502710] diance44
+2022-07-30T00:30:42Z: PLAYER ADDED   [ 1943431798] jay_dabyeet
+2022-07-30T00:30:42Z: PLAYER ADDED   [ 1522684791] siri5747
+2022-07-30T00:30:42Z: PLAYER ADDED   [ 2700880498] ilyselozar
+2022-07-30T00:30:42Z: PLAYER ADDED   [  181173401] rxatad
+2022-07-30T00:30:42Z: PLAYER ADDED   [ 1415915218] mOlLyKaTe_123
+2022-07-30T00:30:42Z: PLAYER ADDED   [ 1207610426] naynay4435
+2022-07-30T00:30:42Z: PLAYER ADDED   [ 1685243787] bobatea_person10
+2022-07-30T00:30:42Z: PLAYER ADDED   [ 3031095879] akumikeymouse
+2022-07-30T00:30:42Z: PLAYER ADDED   [ 1886020448] Sumeiligamer9
+2022-07-30T00:30:42Z: PLAYER ADDED   [ 2696292774] jxno_00
+2022-07-30T00:30:42Z: PLAYER ADDED   [ 3727778813] pillow_215
+2022-07-30T00:30:42Z: PLAYER ADDED   [ 2003558489] Bloxrnexx
+2022-07-30T00:30:42Z: PLAYER ADDED   [ 1392381549] pkgymnastics
+2022-07-30T00:30:48Z: PLAYER CHATTED [ 3031250473] kourtbaby17          ( -716.9,    10.8,   116.3)
+  look look I'll have Max Me max
+2022-07-30T00:30:51Z: PLAYER CHATTED [ 2700880498] ilyselozar           (  159.2,     4.1,    -8.2)
+  yeah, i made it hidden.
+2022-07-30T00:30:52Z: PLAYER CHATTED [ 3503507633] GLOSSALE             ( -129.2,     4.4,    -7.3)
+  I will distribute words by luck 
+2022-07-30T00:30:56Z: PLAYER CHATTED [ 2003558489] Bloxrnexx            ( -196.9,     3.8,     6.0)
+  anyone here play ark survial
+2022-07-30T00:30:56Z: PLAYER REMOVED [ 3727778813] pillow_215
+2022-07-30T00:31:26Z: CHRCTER ADDED  [  471502710] diance44             ( -562.0,    81.2,  -239.0)
+2022-07-30T00:31:34Z: PLAYER CHATTED [ 1943431798] jay_dabyeet          (  168.2,    48.1,   247.9)
+  im pro
+2022-07-30T00:31:37Z: CHRCTER ADDED  [  181173401] rxatad               ( -562.0,    80.5,  -239.0)
+2022-07-30T00:31:39Z: PLAYER CHATTED [ 1392381549] pkgymnastics         ( -264.4,     3.2,    22.3)
+  where is it
+2022-07-30T00:31:41Z: CHRCTER ADDED  [  181173401] rxatad               ( -863.2,     9.7,   119.2)
+2022-07-30T00:31:42Z: PLAYER CHATTED [ 1415915218] mOlLyKaTe_123        ( -259.9,     3.1,    25.3)
+  idk
+2022-07-30T00:31:45Z: CHRCTER ADDED  [  181173401] rxatad               ( -863.2,     9.7,   119.2)
+2022-07-30T00:31:50Z: CHRCTER ADDED  [  181173401] rxatad               ( -562.0,    80.5,  -239.0)
+2022-07-30T00:31:55Z: CHRCTER ADDED  [  181173401] rxatad               ( -562.0,    80.5,  -239.0)
+2022-07-30T00:31:55Z: PLAYER CHATTED [ 1392381549] pkgymnastics         ( -252.6,     3.2,    20.0)
+  weird
+2022-07-30T00:31:59Z: PLAYER REMOVED [ 3031095879] akumikeymouse
+2022-07-30T00:31:59Z: CHRCTER ADDED  [  181173401] rxatad               ( -851.2,     9.7,   184.2)
+2022-07-30T00:32:03Z: CHRCTER ADDED  [  181173401] rxatad               ( -562.0,   214.9,  -196.0)
+2022-07-30T00:32:03Z: CHRCTER ADDED  [ 3031250473] kourtbaby17          ( -938.2,    10.4,   129.7)
+2022-07-30T00:32:07Z: PLAYER ADDED   [  520400866] iiPrinxess_Oreo
+2022-07-30T00:32:07Z: CHRCTER ADDED  [  181173401] rxatad               ( -562.0,   214.9,  -196.0)
+2022-07-30T00:32:08Z: PLAYER REMOVED [ 3031250473] kourtbaby17
+2022-07-30T00:32:08Z: CHRCTER ADDED  [ 2700880498] ilyselozar           ( -508.0,     3.9,  -222.0)
+2022-07-30T00:32:09Z: PLAYER CHATTED [ 1392381549] pkgymnastics         ( -250.9,     3.2,    11.9)
+  ur words
+2022-07-30T00:32:15Z: CHRCTER ADDED  [ 1943431798] jay_dabyeet          ( -402.0,     4.1,   -34.0)
+2022-07-30T00:32:25Z: PLAYER CHATTED [ 1392381549] pkgymnastics         ( -293.5,     3.2,     6.7)
+  does it show on ur screen
+2022-07-30T00:32:31Z: PLAYER CHATTED [ 1392381549] pkgymnastics         ( -293.5,     3.2,     6.7)
+  can u put them private
+2022-07-30T00:32:36Z: PLAYER CHATTED [ 1415915218] mOlLyKaTe_123        ( -293.0,     3.1,     9.1)
+  i hide them
+2022-07-30T00:32:42Z: PLAYER CHATTED [ 1392381549] pkgymnastics         ( -293.5,     3.2,     6.7)
+  ooooo
+2022-07-30T00:32:44Z: CHRCTER ADDED  [ 1207610426] naynay4435           ( -562.0,   215.5,  -196.0)
+2022-07-30T00:32:45Z: PLAYER CHATTED [ 1415915218] mOlLyKaTe_123        ( -293.0,     3.1,     9.1)
+  frr
+2022-07-30T00:32:45Z: CHRCTER ADDED  [ 2700880498] ilyselozar           ( -851.2,    10.2,   184.2)
+2022-07-30T00:32:47Z: CHRCTER ADDED  [  181173401] rxatad               (  146.0,    40.1,   109.5)
+2022-07-30T00:32:51Z: PLAYER CHATTED [ 3503507633] GLOSSALE             (  -82.3,     4.4,    16.1)
+  Who need 1000words
+2022-07-30T00:32:51Z: CHRCTER ADDED  [  181173401] rxatad               ( -755.2,     9.7,    99.2)
+2022-07-30T00:32:54Z: PLAYER CHATTED [ 1415915218] mOlLyKaTe_123        ( -293.0,     3.1,     9.1)
+  me
+2022-07-30T00:32:55Z: CHRCTER ADDED  [  181173401] rxatad               ( -755.2,     9.7,    99.2)
+2022-07-30T00:32:59Z: CHRCTER ADDED  [  181173401] rxatad               ( -299.0,    18.9,  -227.0)
+2022-07-30T00:33:02Z: PLAYER CHATTED [ 1392381549] pkgymnastics         ( -293.5,     3.2,     6.7)
+  molly does
+2022-07-30T00:33:06Z: PLAYER CHATTED [ 3503507633] GLOSSALE             (  -82.3,     4.4,    16.1)
+  Ok
+2022-07-30T00:33:08Z: PLAYER CHATTED [ 2003558489] Bloxrnexx            (  -98.5,     3.8,   -61.5)
+  your stare was holding, ripped jeans skin was showing, hot now wind was blowing, where you think you're going baby?
+2022-07-30T00:33:19Z: PLAYER ADDED   [ 1132125874] 1xxxevergreenxxx1
+2022-07-30T00:33:22Z: CHRCTER ADDED  [ 2700880498] ilyselozar           ( -173.0,    17.9,   172.0)
+2022-07-30T00:33:27Z: PLAYER CHATTED [ 1392381549] pkgymnastics         ( -293.5,     3.2,     6.7)
+  HEY I JUST MET U AND THIS IS CRAZY BUT HERES MY NUMBER SO CALL ME MAYBE
+2022-07-30T00:33:28Z: PLAYER CHATTED [  401947033] wolf_dab             (  175.2,    33.1,   227.6)
+  e e e e
+2022-07-30T00:33:31Z: PLAYER ADDED   [ 2927170032] Roblox9016642
+2022-07-30T00:33:35Z: PLAYER CHATTED [ 1415915218] mOlLyKaTe_123        ( -293.0,     3.1,     9.1)
+  AND CALL THE OTHER BOYS
+2022-07-30T00:33:50Z: PLAYER ADDED   [ 3662803520] Sasuke_uchiha4874
+2022-07-30T00:33:55Z: PLAYER CHATTED [ 2003558489] Bloxrnexx            ( -150.2,     3.8,    -4.9)
+  follow ow.clan on trick trok XDD
+2022-07-30T00:33:59Z: PLAYER ADDED   [  577232263] iiamxmyii
+2022-07-30T00:34:04Z: PLAYER CHATTED [ 3503507633] GLOSSALE             (  -82.0,     4.4,    16.4)
+  Im give you ok
+2022-07-30T00:34:06Z: CHRCTER ADDED  [  401947033] wolf_dab             ( -227.0,    45.0,  -281.0)
+2022-07-30T00:34:11Z: PLAYER CHATTED [ 1415915218] mOlLyKaTe_123        ( -293.0,     3.1,     9.1)
+  thank u
+2022-07-30T00:34:18Z: CHRCTER ADDED  [ 1522684791] siri5747             ( -895.2,    10.0,   108.2)
+2022-07-30T00:34:28Z: CHRCTER ADDED  [    1630228] VisualPlugin         ( -603.1,    11.3,  -134.0)
+2022-07-30T00:34:31Z: PLAYER REMOVED [ 1886020448] Sumeiligamer9
+2022-07-30T00:34:35Z: PLAYER REMOVED [ 1132125874] 1xxxevergreenxxx1
+2022-07-30T00:34:36Z: CHRCTER ADDED  [    1630228] VisualPlugin         ( -508.0,     5.3,  -222.0)
+2022-07-30T00:34:37Z: PLAYER REMOVED [ 2927170032] Roblox9016642
+2022-07-30T00:34:40Z: CHRCTER ADDED  [ 1943431798] jay_dabyeet          ( -597.0,    11.3,  -305.0)
+2022-07-30T00:34:45Z: PLAYER CHATTED [ 3503507633] GLOSSALE             (  -37.1,     4.4,    11.9)
+  I'll give you More 
+2022-07-30T00:34:54Z: PLAYER CHATTED [ 1415915218] mOlLyKaTe_123        ( -293.0,     3.1,     9.1)
+  rly?
+2022-07-30T00:35:02Z: PLAYER CHATTED [ 3503507633] GLOSSALE             (  -23.0,     4.4,     8.5)
+  Yes
+2022-07-30T00:35:04Z: PLAYER REMOVED [ 1685243787] bobatea_person10
+2022-07-30T00:35:09Z: CHRCTER ADDED  [ 1943431798] jay_dabyeet          ( -185.0,    21.9,  -187.0)
+2022-07-30T00:35:16Z: PLAYER CHATTED [ 3503507633] GLOSSALE             (  -23.0,     4.4,     8.5)
+  I don't need them 
+2022-07-30T00:35:19Z: PLAYER CHATTED [ 1392381549] pkgymnastics         ( -293.5,     3.2,     6.7)
+  try to chase me but here’s my number so call me maybe 
+2022-07-30T00:35:20Z: PLAYER CHATTED [ 2003558489] Bloxrnexx            ( -132.9,     3.8,   -11.6)
+  follow ow.clan on trick trok because yes
+2022-07-30T00:35:21Z: CHRCTER ADDED  [ 2700880498] ilyselozar           ( -449.0,   148.3,  -220.0)
+2022-07-30T00:35:24Z: PLAYER ADDED   [  610288326] IffyDawn
+2022-07-30T00:35:28Z: PLAYER REMOVED [ 2696292774] jxno_00
+2022-07-30T00:35:32Z: CHRCTER ADDED  [  181173401] rxatad               ( -541.0,     3.7,  -237.0)
+2022-07-30T00:35:35Z: PLAYER ADDED   [ 1522792034] Javowa
+2022-07-30T00:35:36Z: PLAYER CHATTED [ 1415915218] mOlLyKaTe_123        ( -293.0,     3.1,     9.1)
+  	THANK U SM
+2022-07-30T00:35:36Z: CHRCTER ADDED  [  520400866] iiPrinxess_Oreo      ( -755.2,     9.7,    99.2)
+2022-07-30T00:35:42Z: CHRCTER ADDED  [  181173401] rxatad               ( -895.2,     9.7,   108.2)
+2022-07-30T00:35:44Z: PLAYER CHATTED [ 1392381549] pkgymnastics         ( -293.5,     3.2,     6.7)
+  how much 
+2022-07-30T00:35:44Z: PLAYER CHATTED [ 3503507633] GLOSSALE             (  -23.0,     4.4,     8.5)
+  Im give you
+2022-07-30T00:35:47Z: PLAYER CHATTED [ 1415915218] mOlLyKaTe_123        ( -293.0,     3.1,     9.1)
+  and ###### said she not joining back
+2022-07-30T00:35:51Z: PLAYER ADDED   [ 2712946126] JuneBugLivesHere
+2022-07-30T00:35:52Z: PLAYER CHATTED [ 1392381549] pkgymnastics         ( -293.5,     3.2,     6.7)
+  aw
+2022-07-30T00:35:53Z: PLAYER CHATTED [ 1415915218] mOlLyKaTe_123        ( -293.0,     3.1,     9.1)
+  her eyes hurt
+2022-07-30T00:35:54Z: PLAYER CHATTED [ 1392381549] pkgymnastics         ( -293.5,     3.2,     6.7)
+  hmm
+2022-07-30T00:35:55Z: PLAYER ADDED   [ 3186606744] AyDiZZlEFOO7
+2022-07-30T00:36:01Z: PLAYER ADDED   [ 3754874399] hate_comes
+2022-07-30T00:36:02Z: CHRCTER ADDED  [ 3503507633] GLOSSALE             ( -938.2,    10.5,   143.2)
+2022-07-30T00:36:03Z: PLAYER ADDED   [ 2221243277] QUIET_62810
+2022-07-30T00:36:07Z: CHRCTER ADDED  [ 1207610426] naynay4435           ( -562.0,   215.5,  -196.0)
+2022-07-30T00:36:11Z: CHRCTER ADDED  [ 1943431798] jay_dabyeet          ( -508.0,     4.1,  -222.0)
+2022-07-30T00:36:14Z: CHRCTER ADDED  [    1630228] VisualPlugin         ( -402.0,     5.3,   -34.0)
+2022-07-30T00:36:17Z: PLAYER ADDED   [ 2904687324] Cats_973
+2022-07-30T00:36:18Z: PLAYER CHATTED [ 3186606744] AyDiZZlEFOO7         ( -562.1,    81.0,  -239.0)
+  Oe
+2022-07-30T00:36:19Z: PLAYER CHATTED [ 2221243277] QUIET_62810          ( -463.0,   147.6,  -216.7)
+  Fart
+2022-07-30T00:36:21Z: CHRCTER ADDED  [  181173401] rxatad               ( -772.2,     9.7,    22.2)
+2022-07-30T00:36:23Z: PLAYER CHATTED [ 3186606744] AyDiZZlEFOO7         ( -564.3,    83.4,  -243.8)
+  O
+2022-07-30T00:36:23Z: CHRCTER ADDED  [ 3754874399] hate_comes           ( -185.0,    21.7,  -187.0)
+2022-07-30T00:36:26Z: CHRCTER ADDED  [    1630228] VisualPlugin         ( -452.0,     5.3,   -79.0)
+2022-07-30T00:36:29Z: CHRCTER ADDED  [ 3754874399] hate_comes           ( -339.0,     3.5,    99.0)
+2022-07-30T00:36:30Z: PLAYER CHATTED [ 3186606744] AyDiZZlEFOO7         ( -564.3,    83.4,  -243.8)
+  Rrrrrrr
+2022-07-30T00:36:33Z: PLAYER CHATTED [ 3754874399] hate_comes           ( -339.1,     3.5,    99.0)
+  :(
+2022-07-30T00:36:34Z: CHRCTER ADDED  [ 2700880498] ilyselozar           ( -185.0,    21.7,  -187.0)
+2022-07-30T00:36:37Z: PLAYER ADDED   [ 3098035940] AureetGaming14
+2022-07-30T00:36:38Z: CHRCTER ADDED  [  520400866] iiPrinxess_Oreo      ( -219.0,    36.9,   -95.0)
+2022-07-30T00:36:41Z: PLAYER REMOVED [ 3503507633] GLOSSALE
+2022-07-30T00:36:41Z: PLAYER CHATTED [ 3186606744] AyDiZZlEFOO7         ( -564.3,    83.4,  -243.8)
+  ############################################################################################################# vhnufv university uhvfv nuivrnhurfinu=niufcriungvruiush ug
+2022-07-30T00:36:41Z: CHRCTER ADDED  [ 1943431798] jay_dabyeet          ( -851.2,    10.4,   184.2)
+2022-07-30T00:36:44Z: CHRCTER ADDED  [  401947033] wolf_dab             ( -185.0,    22.0,  -187.0)
+2022-07-30T00:36:46Z: CHRCTER ADDED  [  520400866] iiPrinxess_Oreo      ( -541.0,     3.7,  -237.0)
+2022-07-30T00:36:48Z: CHRCTER ADDED  [ 2700880498] ilyselozar           (  -54.0,     4.7,   -56.0)
+2022-07-30T00:36:50Z: PLAYER CHATTED [ 3754874399] hate_comes           ( -340.2,     3.1,    75.5)
+  why did I replace the oof sound
+2022-07-30T00:36:53Z: PLAYER REMOVED [ 1943431798] jay_dabyeet
+2022-07-30T00:36:58Z: PLAYER CHATTED [ 1415915218] mOlLyKaTe_123        ( -293.0,     3.1,     9.1)
+  u should give me some;)
+2022-07-30T00:37:02Z: PLAYER CHATTED [ 3754874399] hate_comes           ( -335.8,     3.1,    75.8)
+  ###
+2022-07-30T00:37:03Z: PLAYER CHATTED [ 3098035940] AureetGaming14       ( -577.1,    23.2,    36.0)
+  Hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi
+2022-07-30T00:37:04Z: CHRCTER ADDED  [ 2700880498] ilyselozar           (  -68.0,    52.7,   153.0)
+2022-07-30T00:37:06Z: PLAYER CHATTED [ 3754874399] hate_comes           ( -321.6,     3.1,    59.2)
+  ###
+2022-07-30T00:37:07Z: PLAYER CHATTED [ 1522792034] Javowa               ( -291.6,     4.1,     6.1)
+  Y’all poor of words
+2022-07-30T00:37:08Z: PLAYER REMOVED [ 3098035940] AureetGaming14
+2022-07-30T00:37:09Z: CHRCTER ADDED  [  520400866] iiPrinxess_Oreo      ( -299.0,    18.9,  -227.0)
+2022-07-30T00:37:13Z: PLAYER CHATTED [ 1392381549] pkgymnastics         ( -293.5,     3.2,     6.7)
+  ya
+2022-07-30T00:37:13Z: PLAYER CHATTED [ 2904687324] Cats_973             ( -113.5,     4.5,   -46.4)
+  ###########
+2022-07-30T00:37:14Z: PLAYER CHATTED [ 1415915218] mOlLyKaTe_123        ( -292.2,     3.1,     7.6)
+  ur so rich i cant
+2022-07-30T00:37:15Z: CHRCTER ADDED  [  520400866] iiPrinxess_Oreo      ( -954.2,    13.3,   248.3)
+2022-07-30T00:37:21Z: CHRCTER ADDED  [    1630228] VisualPlugin         ( -938.2,    11.7,   143.2)
+2022-07-30T00:37:25Z: PLAYER CHATTED [ 1415915218] mOlLyKaTe_123        ( -327.3,     3.1,    70.9)
+  i wanna be like u
+2022-07-30T00:37:28Z: PLAYER CHATTED [ 2221243277] QUIET_62810          ( -783.5,     9.5,   118.1)
+  What
+2022-07-30T00:37:30Z: PLAYER CHATTED [  401947033] wolf_dab             (   69.3,     7.9,   -61.0)
+  justin
+2022-07-30T00:37:32Z: PLAYER CHATTED [ 1522792034] Javowa               ( -330.0,     4.1,    70.7)
+  Yeah u better go away, im rich
+2022-07-30T00:37:34Z: CHRCTER ADDED  [ 2003558489] Bloxrnexx            (  143.0,    17.6,   -34.0)
+2022-07-30T00:37:38Z: PLAYER CHATTED [ 2904687324] Cats_973             ( -133.3,     9.2,   -61.1)
+  #### ME A YEEEEEEEEEEEEET
+2022-07-30T00:37:41Z: PLAYER CHATTED [ 1415915218] mOlLyKaTe_123        ( -327.5,     3.1,    68.2)
+  soryy:(
+2022-07-30T00:37:43Z: PLAYER CHATTED [  401947033] wolf_dab             (  109.6,    31.9,  -104.0)
+  go to dms
+2022-07-30T00:37:44Z: CHRCTER ADDED  [  577232263] iiamxmyii            ( -449.0,   147.9,  -220.0)
+2022-07-30T00:37:58Z: PLAYER CHATTED [ 1522792034] Javowa               ( -334.0,     4.1,    46.9)
+  You smell poor ugh
+2022-07-30T00:37:58Z: PLAYER ADDED   [ 3454654526] jryxjk
+2022-07-30T00:38:12Z: PLAYER CHATTED [ 1522792034] Javowa               ( -353.8,     4.1,    62.3)
+  Tf?
+2022-07-30T00:38:19Z: PLAYER CHATTED [ 1415915218] mOlLyKaTe_123        ( -344.1,     3.1,    51.7)
+  LOLLLL
+2022-07-30T00:38:25Z: CHRCTER ADDED  [ 2904687324] Cats_973             (  -68.0,    53.7,   153.0)
+2022-07-30T00:38:25Z: PLAYER CHATTED [ 1522792034] Javowa               ( -343.5,     4.1,    45.2)
+  Gurl u okay
+2022-07-30T00:38:29Z: PLAYER ADDED   [ 3110695874] Yollie2987
+2022-07-30T00:38:30Z: CHRCTER ADDED  [ 2003558489] Bloxrnexx            ( -185.0,    21.4,  -187.0)
+2022-07-30T00:38:30Z: PLAYER CHATTED [ 1415915218] mOlLyKaTe_123        ( -344.1,     3.1,    51.7)
+  not rly
+2022-07-30T00:38:32Z: CHRCTER ADDED  [  471502710] diance44             ( -851.2,    10.4,   184.2)
+2022-07-30T00:38:38Z: PLAYER CHATTED [ 1415915218] mOlLyKaTe_123        ( -340.5,     3.1,    50.9)
+  can u help me
+2022-07-30T00:38:39Z: CHRCTER ADDED  [  520400866] iiPrinxess_Oreo      ( -603.1,     9.3,  -134.0)
+2022-07-30T00:38:41Z: PLAYER CHATTED [ 1415915218] mOlLyKaTe_123        ( -340.5,     3.1,    50.9)
+  im poor
+2022-07-30T00:38:42Z: PLAYER REMOVED [ 2221243277] QUIET_62810
+2022-07-30T00:38:43Z: PLAYER CHATTED [ 1415915218] mOlLyKaTe_123        ( -340.5,     3.1,    50.9)
+  donate
+2022-07-30T00:38:49Z: PLAYER ADDED   [ 2057365821] lilllmaraaaaa
+2022-07-30T00:38:51Z: PLAYER CHATTED [ 1522792034] Javowa               ( -335.6,     4.1,    52.2)
+  Okay cuz im rich
+2022-07-30T00:38:57Z: CHRCTER ADDED  [ 3454654526] jryxjk               ( -227.0,    44.7,  -281.0)
+2022-07-30T00:39:03Z: PLAYER REMOVED [ 2057365821] lilllmaraaaaa
+2022-07-30T00:39:06Z: PLAYER REMOVED [ 3454654526] jryxjk
+2022-07-30T00:39:06Z: CHRCTER ADDED  [  181173401] rxatad               ( -938.2,     9.7,   129.7)
+2022-07-30T00:39:11Z: PLAYER CHATTED [ 1522792034] Javowa               ( -335.6,     4.1,    52.2)
+  How many
+2022-07-30T00:39:17Z: PLAYER CHATTED [ 1415915218] mOlLyKaTe_123        ( -339.0,     3.1,    51.7)
+  a million
+2022-07-30T00:39:19Z: CHRCTER ADDED  [ 2003558489] Bloxrnexx            ( -577.0,    22.8,    36.0)
+2022-07-30T00:39:22Z: PLAYER CHATTED [ 1522792034] Javowa               ( -335.6,     4.1,    52.2)
+  Okay 
+2022-07-30T00:39:23Z: CHRCTER ADDED  [ 3754874399] hate_comes           (  146.0,    40.7,   109.5)
+2022-07-30T00:39:23Z: CHRCTER ADDED  [  471502710] diance44             ( -954.2,    14.0,   248.3)
+2022-07-30T00:39:25Z: PLAYER CHATTED [ 3186606744] AyDiZZlEFOO7         ( -219.5,     3.4,    14.4)
+  O
+2022-07-30T00:39:26Z: PLAYER ADDED   [ 3659879135] Dinosaurhappyfee
+2022-07-30T00:39:26Z: CHRCTER ADDED  [ 3754874399] hate_comes           ( -755.2,     9.8,    99.2)
+2022-07-30T00:39:26Z: PLAYER ADDED   [ 2678399103] dylanR0922
+2022-07-30T00:39:27Z: PLAYER REMOVED [ 2678399103] dylanR0922
+2022-07-30T00:39:28Z: PLAYER CHATTED [ 2003558489] Bloxrnexx            ( -557.4,    22.6,    21.4)
+  WHO WANTS ALL MY WORDS
+2022-07-30T00:39:29Z: CHRCTER ADDED  [ 3754874399] hate_comes           ( -597.0,    10.7,  -305.0)
+2022-07-30T00:39:32Z: PLAYER CHATTED [ 1415915218] mOlLyKaTe_123        ( -339.0,     3.1,    51.7)
+  ME
+2022-07-30T00:39:32Z: CHRCTER ADDED  [ 3754874399] hate_comes           ( -472.0,    80.7,  -220.0)
+2022-07-30T00:39:34Z: PLAYER CHATTED [ 1415915218] mOlLyKaTe_123        ( -339.0,     3.1,    51.7)
+  ME
+2022-07-30T00:39:35Z: PLAYER ADDED   [ 2680819551] Kaitlynn530
+2022-07-30T00:39:36Z: CHRCTER ADDED  [ 3754874399] hate_comes           ( -449.0,   147.9,  -220.0)
+2022-07-30T00:39:36Z: CHRCTER ADDED  [  520400866] iiPrinxess_Oreo      ( -577.0,    22.5,    36.0)
+2022-07-30T00:39:38Z: PLAYER ADDED   [ 3705569889] https_angie9875
+2022-07-30T00:39:38Z: PLAYER ADDED   [ 2478154328] Aaliyahcarter8
+2022-07-30T00:39:39Z: CHRCTER ADDED  [ 3754874399] hate_comes           ( -562.0,   215.1,  -196.0)
+2022-07-30T00:39:42Z: CHRCTER ADDED  [ 3754874399] hate_comes           ( -577.0,    22.7,    36.0)
+2022-07-30T00:39:42Z: PLAYER CHATTED [ 2700880498] ilyselozar           (   26.7,     4.1,  -259.7)
+  H;EP
+2022-07-30T00:39:45Z: PLAYER CHATTED [ 1392381549] pkgymnastics         ( -239.7,     3.2,     8.5)
+  HER
+2022-07-30T00:39:45Z: CHRCTER ADDED  [ 3754874399] hate_comes           ( -299.0,    19.1,  -227.0)
+2022-07-30T00:39:46Z: PLAYER CHATTED [  181173401] rxatad               (  -12.6,     3.5,  -308.2)
+  ###
+2022-07-30T00:39:48Z: CHRCTER ADDED  [ 3754874399] hate_comes           ( -299.0,    19.1,  -227.0)
+2022-07-30T00:39:49Z: PLAYER CHATTED [  181173401] rxatad               (  -12.6,     3.5,  -308.2)
+  ###
+2022-07-30T00:39:49Z: PLAYER CHATTED [ 2003558489] Bloxrnexx            ( -557.4,    22.6,    13.2)
+  FIRST PERSON TO FOLLOW OW.CLAN ON TRICK TROK GETS IT
+2022-07-30T00:39:49Z: PLAYER CHATTED [ 1392381549] pkgymnastics         ( -180.5,     3.6,    -7.4)
+  HER
+2022-07-30T00:39:51Z: PLAYER CHATTED [ 2700880498] ilyselozar           (   17.1,     4.1,  -281.3)
+  is this srs
+2022-07-30T00:39:52Z: CHRCTER ADDED  [ 3754874399] hate_comes           ( -863.2,     9.8,   119.2)
+2022-07-30T00:39:55Z: CHRCTER ADDED  [ 3754874399] hate_comes           ( -863.2,     9.8,   119.2)
+2022-07-30T00:39:58Z: CHRCTER ADDED  [ 3754874399] hate_comes           ( -677.0,    11.9,   156.0)
+2022-07-30T00:39:58Z: CHRCTER ADDED  [  520400866] iiPrinxess_Oreo      ( -938.2,     9.7,   129.7)
+2022-07-30T00:40:00Z: PLAYER REMOVED [ 3110695874] Yollie2987

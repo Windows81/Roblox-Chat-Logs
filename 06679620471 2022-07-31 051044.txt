@@ -1,0 +1,2228 @@
+[    1630228] : [ 6679620471] The Royal Hillcrest - 85945640-4b8a-483d-9837-5d59769c3749
+2022-07-31T05:10:44Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-07-31T05:10:44Z: PLAYER CHATTED [ 2610857061] BiggieCrisps         ( -115.0,    14.0,    98.3)
+  yes way
+2022-07-31T05:10:45Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-07-31T05:10:45Z: PLAYER ADDED   [   74912065] CarloCarfano
+2022-07-31T05:10:45Z: PLAYER ADDED   [   45171011] SilvioLantini
+2022-07-31T05:10:45Z: PLAYER ADDED   [  370306993] Floatin_Kloud
+2022-07-31T05:10:45Z: PLAYER ADDED   [ 2291743607] 4EZ4KMI
+2022-07-31T05:10:45Z: PLAYER ADDED   [ 2573850566] CardfulAce_Spades
+2022-07-31T05:10:45Z: PLAYER ADDED   [  360613243] Neepowglungus34
+2022-07-31T05:10:45Z: PLAYER ADDED   [   93197553] GoodROSEQUARTZ
+2022-07-31T05:10:45Z: PLAYER ADDED   [  222712041] paris636
+2022-07-31T05:10:45Z: PLAYER ADDED   [ 3465727786] SalLavigne
+2022-07-31T05:10:45Z: PLAYER ADDED   [ 3263796464] MrHJz1
+2022-07-31T05:10:45Z: PLAYER ADDED   [  320088575] PercyBoudreaux
+2022-07-31T05:10:45Z: PLAYER ADDED   [ 2226580476] tdeph
+2022-07-31T05:10:45Z: PLAYER ADDED   [  539781492] ToxicDiamond24
+2022-07-31T05:10:45Z: PLAYER ADDED   [ 1668822328] OptionalFriend
+2022-07-31T05:10:45Z: PLAYER ADDED   [ 1635986430] DrXmaQuXeen
+2022-07-31T05:10:45Z: PLAYER ADDED   [ 3592730537] Instructor_Ed
+2022-07-31T05:10:45Z: PLAYER ADDED   [  202342187] BonRoyalty
+2022-07-31T05:10:45Z: PLAYER ADDED   [  603978302] nhoj90
+2022-07-31T05:10:45Z: PLAYER ADDED   [  733230669] alixsaujj
+2022-07-31T05:10:45Z: PLAYER ADDED   [ 1502753066] HxloAcorpio
+2022-07-31T05:10:45Z: PLAYER ADDED   [ 2219665772] starbitzs
+2022-07-31T05:10:45Z: PLAYER ADDED   [ 3499836937] Scarface13_2
+2022-07-31T05:10:45Z: PLAYER ADDED   [ 3470431995] ShaistaCelentano
+2022-07-31T05:10:45Z: PLAYER ADDED   [ 2464521151] Kariebouu
+2022-07-31T05:10:45Z: PLAYER ADDED   [  140450489] Iulian08
+2022-07-31T05:10:45Z: PLAYER ADDED   [  965010494] OdinSamurai
+2022-07-31T05:10:45Z: PLAYER ADDED   [ 3440614038] littleyummygurl
+2022-07-31T05:10:45Z: PLAYER ADDED   [  255047973] clay_great
+2022-07-31T05:10:45Z: PLAYER ADDED   [  151708256] LunaticAsylum10
+2022-07-31T05:10:45Z: PLAYER ADDED   [ 2462670191] hibebboo
+2022-07-31T05:10:45Z: PLAYER ADDED   [ 2015292975] Rion_Roy
+2022-07-31T05:10:45Z: PLAYER ADDED   [ 1254951762] kendal_I
+2022-07-31T05:10:45Z: PLAYER ADDED   [   36081902] smb200
+2022-07-31T05:10:45Z: PLAYER ADDED   [  171562080] BakiTube
+2022-07-31T05:10:45Z: PLAYER ADDED   [  895566941] urdadsabi
+2022-07-31T05:10:45Z: PLAYER ADDED   [  145877072] SlDXNEY
+2022-07-31T05:10:45Z: PLAYER ADDED   [ 1765732431] yeetusboy12345
+2022-07-31T05:10:45Z: PLAYER ADDED   [  419359732] Ilikeducksforlife
+2022-07-31T05:10:45Z: PLAYER ADDED   [ 1354423032] miayellow234
+2022-07-31T05:10:45Z: PLAYER ADDED   [ 3186575360] ParisaBeccari
+2022-07-31T05:10:45Z: PLAYER ADDED   [ 2388184439] doIIstatics
+2022-07-31T05:10:45Z: PLAYER ADDED   [ 2464177758] Darkness_Alloy
+2022-07-31T05:10:45Z: PLAYER ADDED   [  374168871] opman49
+2022-07-31T05:10:45Z: PLAYER ADDED   [ 1767930655] darkclouds1111
+2022-07-31T05:10:45Z: PLAYER ADDED   [   25333670] SkiddBeefnut
+2022-07-31T05:10:45Z: PLAYER ADDED   [   91370482] 11B6T
+2022-07-31T05:10:45Z: PLAYER ADDED   [  495343673] Pixelcyte
+2022-07-31T05:10:45Z: PLAYER ADDED   [  125822919] papilookgood
+2022-07-31T05:10:45Z: PLAYER ADDED   [  146026280] EdmundWolf
+2022-07-31T05:10:45Z: PLAYER ADDED   [ 2707982240] The_Key22
+2022-07-31T05:10:45Z: PLAYER ADDED   [ 2610857061] BiggieCrisps
+2022-07-31T05:10:45Z: PLAYER ADDED   [ 3718886438] JohnnyVaccaro
+2022-07-31T05:10:45Z: PLAYER ADDED   [  325214770] goodlgirlz
+2022-07-31T05:10:45Z: PLAYER ADDED   [  566279877] Cherryshine_27
+2022-07-31T05:10:45Z: PLAYER ADDED   [  326576422] KitMits
+2022-07-31T05:10:45Z: PLAYER ADDED   [ 1031160626] Rileybeans333
+2022-07-31T05:10:45Z: PLAYER ADDED   [ 2490568659] Ladon_unknown
+2022-07-31T05:10:45Z: PLAYER ADDED   [   41173514] CaIiban
+2022-07-31T05:10:45Z: PLAYER ADDED   [ 2671046261] rtuaes
+2022-07-31T05:10:45Z: PLAYER ADDED   [  821401502] Caffeperson1
+2022-07-31T05:10:45Z: PLAYER ADDED   [  612803033] wandel2011
+2022-07-31T05:10:45Z: PLAYER ADDED   [  128820004] JxxWorld
+2022-07-31T05:10:45Z: PLAYER ADDED   [  309875838] intheweb
+2022-07-31T05:10:45Z: PLAYER ADDED   [ 1177722258] vileeghost
+2022-07-31T05:10:45Z: PLAYER ADDED   [ 2657843269] LorenzoLantini
+2022-07-31T05:10:45Z: PLAYER ADDED   [ 2234020165] Alohxmxra
+2022-07-31T05:10:45Z: PLAYER ADDED   [ 2414763766] devan735
+2022-07-31T05:10:45Z: PLAYER CHATTED [  202342187] BonRoyalty           (   29.0,     9.5,    60.3)
+  fancy
+2022-07-31T05:10:46Z: PLAYER CHATTED [  539781492] ToxicDiamond24       (   21.3,     9.4,    67.7)
+  Whacks InvaLid
+2022-07-31T05:10:46Z: PLAYER CHATTED [  360613243] Neepowglungus34      (  -19.8,     6.9,   101.9)
+  EN GAURD
+2022-07-31T05:10:46Z: PLAYER CHATTED [   36081902] smb200               ( -152.6,     4.0,   154.1)
+  do you--
+2022-07-31T05:10:47Z: PLAYER CHATTED [  171562080] BakiTube             (    3.8,     6.8,    90.5)
+  u sounded scared back there
+2022-07-31T05:10:47Z: PLAYER ADDED   [  162120296] OCT0BXR
+2022-07-31T05:10:47Z: PLAYER CHATTED [  125822919] papilookgood         ( -103.5,    12.8,    86.8)
+  omg
+2022-07-31T05:10:47Z: PLAYER CHATTED [ 1502753066] HxloAcorpio          (   40.5,     9.5,    61.9)
+  NAHHH FAM
+2022-07-31T05:10:47Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   22.9,     9.3,    64.6)
+  like no cap
+2022-07-31T05:10:48Z: PLAYER CHATTED [  309875838] intheweb             (    5.5,     6.7,    99.4)
+  im a chocolate man
+2022-07-31T05:10:49Z: PLAYER CHATTED [   36081902] smb200               ( -152.6,     4.0,   154.1)
+  dam ok
+2022-07-31T05:10:50Z: PLAYER CHATTED [ 1668822328] OptionalFriend       (   20.5,     9.3,    64.9)
+  Good for you
+2022-07-31T05:10:50Z: PLAYER CHATTED [   36081902] smb200               ( -152.6,     4.0,   154.1)
+  #####
+2022-07-31T05:10:50Z: PLAYER CHATTED [  539781492] ToxicDiamond24       (   21.3,     9.4,    67.7)
+  no cap
+2022-07-31T05:10:50Z: PLAYER CHATTED [  125822919] papilookgood         ( -103.5,    12.8,    86.8)
+  they you are
+2022-07-31T05:10:50Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (   24.9,     6.8,    88.4)
+  SNIFF
+2022-07-31T05:10:51Z: PLAYER CHATTED [  309875838] intheweb             (    5.5,     6.7,    99.4)
+  im packin
+2022-07-31T05:10:51Z: PLAYER CHATTED [ 1502753066] HxloAcorpio          (   40.5,     9.5,    61.9)
+  THAT UNFAIR
+2022-07-31T05:10:52Z: PLAYER CHATTED [  325214770] goodlgirlz           (    9.7,     7.6,    72.1)
+  PLS THEY NEEDA PUT THE GUY THAT WAS PLAYIN THE PIANO IN THAT 1 GAME W/ ME UP THERE
+2022-07-31T05:10:52Z: PLAYER CHATTED [  309875838] intheweb             (    5.5,     6.7,    99.4)
+  all the way
+2022-07-31T05:10:53Z: PLAYER CHATTED [ 2671046261] rtuaes               ( -102.0,    12.8,    84.8)
+  what is happening here
+2022-07-31T05:10:54Z: PLAYER CHATTED [ 1668822328] OptionalFriend       (   20.5,     9.3,    64.9)
+  I’m here to do smth
+2022-07-31T05:10:54Z: PLAYER CHATTED [  325214770] goodlgirlz           (    9.7,     7.6,    72.1)
+  BRO IS TALENTED
+2022-07-31T05:10:54Z: PLAYER CHATTED [ 2464521151] Kariebouu            ( -153.9,     4.0,   153.0)
+  HDGDGGD
+2022-07-31T05:10:55Z: PLAYER CHATTED [ 1765732431] yeetusboy12345       (  -16.1,     6.9,   103.2)
+  its en guarde
+2022-07-31T05:10:55Z: PLAYER CHATTED [ 3465727786] SalLavigne           (    7.6,     6.7,   102.1)
+
+2022-07-31T05:10:55Z: PLAYER ADDED   [ 1085767882] Illusion_person7845
+2022-07-31T05:10:56Z: PLAYER CHATTED [  125822919] papilookgood         ( -103.2,    12.8,    87.7)
+  sorry
+2022-07-31T05:10:56Z: PLAYER CHATTED [  202342187] BonRoyalty           (   30.9,     9.5,    60.2)
+  smash?
+2022-07-31T05:10:56Z: PLAYER CHATTED [  309875838] intheweb             (    5.5,     6.7,    99.4)
+  word
+2022-07-31T05:10:57Z: PLAYER CHATTED [   36081902] smb200               ( -152.2,     4.0,   154.5)
+  Hello
+2022-07-31T05:10:58Z: PLAYER CHATTED [  309875838] intheweb             (    5.5,     6.7,    99.4)
+  to my deads
+2022-07-31T05:10:58Z: PLAYER CHATTED [  895566941] urdadsabi            (    9.8,     9.1,    68.6)
+  BAHAHA
+2022-07-31T05:10:58Z: PLAYER CHATTED [  325214770] goodlgirlz           (    9.7,     7.6,    72.1)
+  BRO GOT HANDS FOR DAYS
+2022-07-31T05:10:59Z: PLAYER CHATTED [  145877072] SlDXNEY              (    4.3,     6.7,   101.7)
+  oh
+2022-07-31T05:10:59Z: CHRCTER ADDED  [  612803033] wandel2011           ( -130.5,    23.7,    62.9)
+2022-07-31T05:10:59Z: PLAYER CHATTED [ 3465727786] SalLavigne           (    7.6,     6.7,   102.0)
+  oml
+2022-07-31T05:11:00Z: CHRCTER ADDED  [ 2610857061] BiggieCrisps         ( -130.6,     5.3,    90.5)
+2022-07-31T05:11:00Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   22.8,     9.3,    64.5)
+  do smth with me
+2022-07-31T05:11:00Z: PLAYER CHATTED [  125822919] papilookgood         ( -103.2,    12.8,    87.7)
+  i was looking for a friend
+2022-07-31T05:11:01Z: PLAYER CHATTED [  539781492] ToxicDiamond24       (   21.3,     9.4,    67.7)
+  bruh you fr that scared
+2022-07-31T05:11:01Z: PLAYER CHATTED [ 1031160626] Rileybeans333        (   26.0,     9.4,    60.0)
+  ayo?
+2022-07-31T05:11:02Z: PLAYER CHATTED [ 3592730537] Instructor_Ed        (   14.5,     9.3,    60.7)
+  every roblox italian is the same
+2022-07-31T05:11:02Z: PLAYER CHATTED [   93197553] GoodROSEQUARTZ       ( -150.5,     4.0,   151.4)
+  Ok join me
+2022-07-31T05:11:02Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   22.8,     9.3,    64.5)
+  since you're so
+2022-07-31T05:11:02Z: PLAYER CHATTED [  222712041] paris636             (   23.7,     6.8,    87.5)
+  we'll find you someone dw
+2022-07-31T05:11:02Z: PLAYER CHATTED [  171562080] BakiTube             (    3.8,     6.8,    90.5)
+  am i right?
+2022-07-31T05:11:03Z: CHRCTER ADDED  [ 2015292975] Rion_Roy             ( -130.6,     5.3,    90.5)
+2022-07-31T05:11:03Z: PLAYER CHATTED [  895566941] urdadsabi            (    9.8,     9.1,    68.6)
+  handssssss huh
+2022-07-31T05:11:03Z: PLAYER CHATTED [  309875838] intheweb             (    6.2,     6.7,    99.3)
+  wsg gang
+2022-07-31T05:11:04Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   22.8,     9.3,    64.5)
+  g.......7
+2022-07-31T05:11:04Z: PLAYER CHATTED [  360613243] Neepowglungus34      (  -20.4,     6.9,   101.4)
+  sorry not french or sumn
+2022-07-31T05:11:04Z: PLAYER CHATTED [   36081902] smb200               ( -152.2,     4.0,   154.5)
+  So are we driving to the john airport
+2022-07-31T05:11:05Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   22.8,     9.3,    64.5)
+  y
+2022-07-31T05:11:05Z: PLAYER CHATTED [ 2671046261] rtuaes               ( -102.0,    12.8,    84.8)
+  oh
+2022-07-31T05:11:05Z: PLAYER CHATTED [  151708256] LunaticAsylum10      (    1.4,     6.7,    97.3)
+  KIT
+2022-07-31T05:11:07Z: PLAYER CHATTED [  539781492] ToxicDiamond24       (   21.3,     9.4,    67.7)
+  come on
+2022-07-31T05:11:07Z: PLAYER CHATTED [  325214770] goodlgirlz           (    9.7,     7.6,    72.1)
+  AYO
+2022-07-31T05:11:07Z: PLAYER CHATTED [  151708256] LunaticAsylum10      (    1.4,     6.7,    97.3)
+  KIT EMERGENCY
+2022-07-31T05:11:08Z: PLAYER CHATTED [  151708256] LunaticAsylum10      (    1.4,     6.7,    97.3)
+  GC
+2022-07-31T05:11:08Z: PLAYER CHATTED [  125822919] papilookgood         ( -103.8,    12.8,    87.4)
+  please accept my apologiez
+2022-07-31T05:11:09Z: PLAYER CHATTED [  325214770] goodlgirlz           (    9.7,     7.6,    72.1)
+  yes
+2022-07-31T05:11:09Z: PLAYER CHATTED [  309875838] intheweb             (    5.1,     6.7,    99.3)
+  this my partneer
+2022-07-31T05:11:09Z: PLAYER CHATTED [  202342187] BonRoyalty           (   29.3,     9.5,    59.5)
+  i mean roar*
+2022-07-31T05:11:09Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (   24.9,     6.8,    88.4)
+  WAHHHHHHHHHHHHHHHHH
+2022-07-31T05:11:09Z: PLAYER CHATTED [   93197553] GoodROSEQUARTZ       ( -150.5,     4.0,   151.4)
+  At the airpoert
+2022-07-31T05:11:10Z: PLAYER CHATTED [ 1668822328] OptionalFriend       (   20.1,     9.3,    64.6)
+  No
+2022-07-31T05:11:10Z: PLAYER CHATTED [ 3263796464] MrHJz1               (    5.9,     6.8,    90.1)
+  Eh
+2022-07-31T05:11:10Z: PLAYER CHATTED [  895566941] urdadsabi            (    9.8,     9.4,    67.4)
+  LOL
+2022-07-31T05:11:10Z: PLAYER CHATTED [  309875838] intheweb             (    6.6,     6.7,    99.0)
+  right here
+2022-07-31T05:11:11Z: PLAYER CHATTED [ 1502753066] HxloAcorpio          (   40.7,     9.5,    60.8)
+  imma apply for capo
+2022-07-31T05:11:11Z: PLAYER CHATTED [   36081902] smb200               ( -152.2,     4.0,   154.5)
+  I was Tony all along
+2022-07-31T05:11:12Z: CHRCTER ADDED  [  255047973] clay_great           ( -130.5,    14.6,    62.8)
+2022-07-31T05:11:12Z: PLAYER CHATTED [ 2464521151] Kariebouu            ( -153.9,     4.0,   153.0)
+  I LOVE THE FUNNY RED JUICE
+2022-07-31T05:11:12Z: PLAYER CHATTED [ 1502753066] HxloAcorpio          (   40.7,     9.5,    60.8)
+  LOL
+2022-07-31T05:11:13Z: PLAYER CHATTED [ 1668822328] OptionalFriend       (   20.1,     9.3,    64.6)
+  You’re weird
+2022-07-31T05:11:13Z: PLAYER CHATTED [  202342187] BonRoyalty           (   29.3,     9.5,    59.5)
+  cough*
+2022-07-31T05:11:13Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   22.8,     9.3,    64.5)
+  ugh
+2022-07-31T05:11:14Z: PLAYER CHATTED [ 1767930655] darkclouds1111       (    9.6,     6.8,    86.2)
+  kendal
+2022-07-31T05:11:14Z: PLAYER CHATTED [  140450489] Iulian08             (    6.9,     6.7,    98.8)
+  your woman
+2022-07-31T05:11:15Z: PLAYER CHATTED [  125822919] papilookgood         ( -103.8,    12.8,    87.4)
+  sorrry for making you wait
+2022-07-31T05:11:15Z: PLAYER CHATTED [ 2671046261] rtuaes               ( -102.0,    12.8,    84.8)
+  its alright
+2022-07-31T05:11:15Z: PLAYER CHATTED [  733230669] alixsaujj            (    8.5,     8.6,    69.6)
+  hey
+2022-07-31T05:11:16Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   22.8,     9.3,    64.5)
+  you
+2022-07-31T05:11:16Z: PLAYER CHATTED [ 1254951762] kendal_I             (   17.4,     8.2,    70.8)
+  hey daddy
+2022-07-31T05:11:16Z: PLAYER CHATTED [  140450489] Iulian08             (    6.9,     6.7,    98.8)
+  yes?
+2022-07-31T05:11:17Z: PLAYER CHATTED [  145877072] SlDXNEY              (    4.6,     6.7,   102.3)
+  we were never together
+2022-07-31T05:11:17Z: PLAYER CHATTED [  733230669] alixsaujj            (    8.5,     8.6,    69.6)
+  sabi
+2022-07-31T05:11:18Z: PLAYER CHATTED [ 1765732431] yeetusboy12345       (  -17.0,     6.9,   102.4)
+  just blew
+2022-07-31T05:11:18Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   22.8,     9.3,    64.5)
+  you're also
+2022-07-31T05:11:18Z: PLAYER CHATTED [   36081902] smb200               ( -152.2,     4.0,   154.5)
+  KHHH
+2022-07-31T05:11:18Z: CHRCTER ADDED  [  612803033] wandel2011           ( -130.5,    14.1,    62.8)
+2022-07-31T05:11:19Z: PLAYER CHATTED [ 1031160626] Rileybeans333        (   26.0,     9.4,    59.7)
+  youch
+2022-07-31T05:11:19Z: PLAYER REMOVED [ 2657843269] LorenzoLantini
+2022-07-31T05:11:20Z: PLAYER CHATTED [  309875838] intheweb             (    5.2,     6.7,    99.6)
+  he packin too dont ask me how ik that
+2022-07-31T05:11:20Z: PLAYER CHATTED [  151708256] LunaticAsylum10      (    3.7,     6.7,    97.9)
+  DONT
+2022-07-31T05:11:20Z: PLAYER CHATTED [ 3465727786] SalLavigne           (    7.6,     6.7,   102.0)
+  2 inches isnt a ### #####
+2022-07-31T05:11:20Z: PLAYER CHATTED [ 1668822328] OptionalFriend       (   20.1,     9.3,    64.6)
+  You’re prob into knives n guns in bed
+2022-07-31T05:11:20Z: PLAYER CHATTED [  171562080] BakiTube             (    3.8,     6.8,    90.5)
+  u didnt like her?
+2022-07-31T05:11:21Z: PLAYER CHATTED [  895566941] urdadsabi            (    9.8,     9.4,    67.4)
+  what.
+2022-07-31T05:11:21Z: PLAYER CHATTED [  151708256] LunaticAsylum10      (    1.2,     6.7,    96.4)
+  KIT DO NOT
+2022-07-31T05:11:21Z: PLAYER CHATTED [  733230669] alixsaujj            (    8.5,     8.6,    69.6)
+  ive been thinking
+2022-07-31T05:11:21Z: PLAYER CHATTED [ 1767930655] darkclouds1111       (   14.1,     6.7,    78.2)
+  omg
+2022-07-31T05:11:23Z: PLAYER CHATTED [  125822919] papilookgood         ( -102.9,    12.8,    87.4)
+  anyways
+2022-07-31T05:11:23Z: PLAYER ADDED   [ 2537419642] IAMNOTASLUG
+2022-07-31T05:11:23Z: PLAYER CHATTED [   93197553] GoodROSEQUARTZ       ( -150.5,     4.0,   151.4)
+  I prefer the pink juice
+2022-07-31T05:11:23Z: PLAYER CHATTED [ 1767930655] darkclouds1111       (   14.1,     6.7,    78.2)
+  gay
+2022-07-31T05:11:23Z: PLAYER CHATTED [  222712041] paris636             (  -21.6,     9.2,   102.6)
+  ATTENTIONNNNNNNNN
+2022-07-31T05:11:24Z: PLAYER CHATTED [  895566941] urdadsabi            (    9.4,     9.4,    67.4)
+  no
+2022-07-31T05:11:24Z: PLAYER CHATTED [  733230669] alixsaujj            (    8.5,     8.6,    69.6)
+  ##########
+2022-07-31T05:11:25Z: PLAYER CHATTED [ 2610857061] BiggieCrisps         ( -106.1,    16.6,    98.3)
+  fit go hard don it
+2022-07-31T05:11:25Z: PLAYER CHATTED [  145877072] SlDXNEY              (    4.6,     6.7,   102.3)
+  bro?
+2022-07-31T05:11:26Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   22.8,     9.3,    64.5)
+  mans thinking the rainbow bridge is
+2022-07-31T05:11:26Z: PLAYER CHATTED [  309875838] intheweb             (    3.7,     6.7,    98.3)
+  like osrs
+2022-07-31T05:11:26Z: PLAYER CHATTED [ 2671046261] rtuaes               ( -102.0,    12.8,    84.8)
+  i went to grab a strawberry mix
+2022-07-31T05:11:27Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   23.9,     9.4,    65.3)
+  meant
+2022-07-31T05:11:27Z: PLAYER CHATTED [  125822919] papilookgood         ( -102.9,    12.8,    87.4)
+  its a lovely night
+2022-07-31T05:11:27Z: PLAYER CHATTED [   93197553] GoodROSEQUARTZ       ( -150.5,     4.0,   151.4)
+  So uhh
+2022-07-31T05:11:27Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   23.9,     9.4,    65.3)
+  for
+2022-07-31T05:11:27Z: PLAYER CHATTED [  140450489] Iulian08             (    7.8,     6.7,    97.7)
+  whos he
+2022-07-31T05:11:27Z: PLAYER CHATTED [ 3263796464] MrHJz1               (    5.9,     6.8,    90.1)
+  No not really
+2022-07-31T05:11:27Z: PLAYER CHATTED [ 1254951762] kendal_I             (   16.1,     7.0,    73.3)
+  WHAT
+2022-07-31T05:11:28Z: PLAYER CHATTED [   36081902] smb200               ( -152.2,     4.0,   154.5)
+  PINK SAUCE
+2022-07-31T05:11:29Z: PLAYER CHATTED [ 1502753066] HxloAcorpio          (   41.5,     9.5,    60.2)
+  Can you get demoted as made man
+2022-07-31T05:11:29Z: PLAYER CHATTED [ 3440614038] littleyummygurl      (    0.1,     6.9,    80.0)
+  money dont wiggle wiggle as a bah
+2022-07-31T05:11:29Z: PLAYER CHATTED [  140450489] Iulian08             (    7.8,     6.7,    97.7)
+  me
+2022-07-31T05:11:29Z: PLAYER CHATTED [  733230669] alixsaujj            (    8.5,     8.6,    69.6)
+  ###########
+2022-07-31T05:11:29Z: PLAYER CHATTED [  325214770] goodlgirlz           (   12.7,     9.3,    66.2)
+  #############
+2022-07-31T05:11:29Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   23.9,     9.4,    65.3)
+  g.....y
+2022-07-31T05:11:30Z: PLAYER CHATTED [  125822919] papilookgood         ( -101.9,    12.8,    88.0)
+  my my
+2022-07-31T05:11:31Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   23.9,     9.4,    65.3)
+  people
+2022-07-31T05:11:31Z: PLAYER CHATTED [  140450489] Iulian08             (    7.8,     6.7,    97.7)
+  ?
+2022-07-31T05:11:31Z: PLAYER CHATTED [ 1635986430] DrXmaQuXeen          (   -0.1,     6.9,    76.8)
+  oh
+2022-07-31T05:11:31Z: PLAYER CHATTED [  222712041] paris636             (  -16.3,     8.4,   105.4)
+  I NEED OKE OF YOU
+2022-07-31T05:11:32Z: PLAYER CHATTED [ 2671046261] rtuaes               ( -102.9,    12.8,    82.9)
+  yes it is
+2022-07-31T05:11:33Z: PLAYER CHATTED [  325214770] goodlgirlz           (   12.7,     9.3,    66.2)
+  she doesnt want u
+2022-07-31T05:11:33Z: PLAYER CHATTED [  125822919] papilookgood         ( -101.9,    12.8,    88.0)
+  i see
+2022-07-31T05:11:33Z: PLAYER CHATTED [ 2490568659] Ladon_unknown        (   -9.6,     6.9,    76.1)
+  Hi
+2022-07-31T05:11:33Z: PLAYER REMOVED [ 1767930655] darkclouds1111
+2022-07-31T05:11:33Z: PLAYER CHATTED [ 2707982240] The_Key22            (   -9.8,     6.9,    77.9)
+  holds her hands to the wall behind her
+2022-07-31T05:11:33Z: PLAYER CHATTED [  733230669] alixsaujj            (    8.6,     9.0,    68.6)
+  sabi
+2022-07-31T05:11:34Z: PLAYER CHATTED [ 1668822328] OptionalFriend       (   20.1,     9.3,    64.6)
+  I know what it meant bozo
+2022-07-31T05:11:34Z: PLAYER CHATTED [   93197553] GoodROSEQUARTZ       ( -150.5,     4.0,   151.4)
+  I think this one is acceptabke
+2022-07-31T05:11:35Z: PLAYER CHATTED [  309875838] intheweb             (    5.8,     6.7,    98.7)
+  yes
+2022-07-31T05:11:35Z: PLAYER CHATTED [ 2707982240] The_Key22            (   -9.4,     6.9,    78.0)
+  wow....
+2022-07-31T05:11:36Z: PLAYER ADDED   [ 1693536750] boredbanker
+2022-07-31T05:11:36Z: PLAYER REMOVED [ 2234020165] Alohxmxra
+2022-07-31T05:11:36Z: PLAYER CHATTED [ 2464177758] Darkness_Alloy       (  -11.5,     7.7,   106.1)
+  Gas station simulator
+2022-07-31T05:11:37Z: PLAYER CHATTED [   93197553] GoodROSEQUARTZ       ( -150.5,     4.0,   151.4)
+  So uhm
+2022-07-31T05:11:37Z: PLAYER CHATTED [  309875838] intheweb             (    6.7,     6.7,    99.7)
+  bro
+2022-07-31T05:11:38Z: PLAYER CHATTED [ 1668822328] OptionalFriend       (   20.1,     9.3,    64.6)
+  It was a joke
+2022-07-31T05:11:38Z: PLAYER CHATTED [ 3465727786] SalLavigne           (    7.6,     6.7,   102.0)
+  OMGG
+2022-07-31T05:11:38Z: PLAYER CHATTED [  895566941] urdadsabi            (    9.0,     9.3,    64.6)
+  what bruv
+2022-07-31T05:11:38Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   22.7,     9.3,    64.5)
+  I am
+2022-07-31T05:11:38Z: PLAYER CHATTED [  325214770] goodlgirlz           (   12.7,     9.3,    66.2)
+  she is uninterested
+2022-07-31T05:11:38Z: PLAYER CHATTED [  309875838] intheweb             (    6.7,     6.7,    99.7)
+  stop chattin
+2022-07-31T05:11:39Z: PLAYER CHATTED [ 2464521151] Kariebouu            ( -153.9,     4.0,   153.0)
+  oh yes lets a go
+2022-07-31T05:11:39Z: PLAYER CHATTED [  222712041] paris636             (  -16.3,     8.4,   105.4)
+  TO GO ON A FAKE DAT
+2022-07-31T05:11:39Z: PLAYER CHATTED [   93197553] GoodROSEQUARTZ       ( -150.5,     4.0,   151.4)
+  See ya there
+2022-07-31T05:11:40Z: PLAYER CHATTED [ 1254951762] kendal_I             (   10.5,     6.8,    83.6)
+  hey daddy
+2022-07-31T05:11:40Z: PLAYER CHATTED [ 2707982240] The_Key22            (   -9.4,     6.9,    78.0)
+  ###################
+2022-07-31T05:11:41Z: PLAYER CHATTED [  965010494] OdinSamurai          ( -105.2,    16.5,    94.8)
+  fr
+2022-07-31T05:11:41Z: PLAYER CHATTED [  125822919] papilookgood         ( -102.0,    12.8,    87.6)
+  but i bet youre more wonderful
+2022-07-31T05:11:41Z: PLAYER CHATTED [ 3465727786] SalLavigne           (    2.8,     6.7,   100.0)
+  ur outfit
+2022-07-31T05:11:41Z: PLAYER CHATTED [ 2707982240] The_Key22            (   -9.4,     6.9,    78.0)
+  you're so
+2022-07-31T05:11:42Z: PLAYER REMOVED [   93197553] GoodROSEQUARTZ
+2022-07-31T05:11:42Z: PLAYER CHATTED [ 2707982240] The_Key22            (   -9.4,     6.9,    78.0)
+  beautiful
+2022-07-31T05:11:43Z: PLAYER CHATTED [ 2490568659] Ladon_unknown        (   -9.6,     6.9,    76.1)
+  uh..
+2022-07-31T05:11:43Z: PLAYER CHATTED [  222712041] paris636             (  -16.3,     8.4,   105.4)
+  #### ###CY
+2022-07-31T05:11:43Z: PLAYER CHATTED [  612803033] wandel2011           (    4.9,     6.8,    83.8)
+  .
+2022-07-31T05:11:43Z: PLAYER CHATTED [ 2015292975] Rion_Roy             (   13.9,     8.9,    69.3)
+  MOOOOOOO
+2022-07-31T05:11:44Z: PLAYER CHATTED [   36081902] smb200               ( -152.2,     4.0,   154.5)
+  Yes lets go
+2022-07-31T05:11:45Z: PLAYER CHATTED [  733230669] alixsaujj            (    8.6,     9.0,    68.6)
+  will you make me the happiest man alive
+2022-07-31T05:11:45Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   22.7,     9.3,    64.5)
+  whacking people
+2022-07-31T05:11:45Z: PLAYER CHATTED [ 1502753066] HxloAcorpio          (   41.7,     9.5,    60.0)
+  what u doinf here
+2022-07-31T05:11:46Z: PLAYER CHATTED [  360613243] Neepowglungus34      (  -19.0,     6.9,   103.0)
+  sure
+2022-07-31T05:11:46Z: PLAYER CHATTED [   25333670] SkiddBeefnut         (  -16.7,     7.2,    98.9)
+  what
+2022-07-31T05:11:46Z: PLAYER CHATTED [ 3465727786] SalLavigne           (    1.8,     6.7,    99.8)
+  is so stunning
+2022-07-31T05:11:46Z: PLAYER CHATTED [ 2490568659] Ladon_unknown        (   -9.6,     6.9,    76.1)
+  ty...
+2022-07-31T05:11:47Z: PLAYER CHATTED [  222712041] paris636             (  -16.3,     8.4,   105.4)
+  Awith
+2022-07-31T05:11:47Z: PLAYER CHATTED [  140450489] Iulian08             (  -14.4,    37.0,    78.0)
+  im just gonna swim away
+2022-07-31T05:11:47Z: PLAYER CHATTED [  733230669] alixsaujj            (    8.6,     9.0,    68.6)
+  ############
+2022-07-31T05:11:47Z: PLAYER REMOVED [   36081902] smb200
+2022-07-31T05:11:48Z: PLAYER CHATTED [  309875838] intheweb             (    4.7,     6.7,    99.1)
+  BRO
+2022-07-31T05:11:49Z: PLAYER CHATTED [ 2671046261] rtuaes               ( -102.9,    12.8,    82.9)
+  oh thank you
+2022-07-31T05:11:49Z: PLAYER REMOVED [ 1693536750] boredbanker
+2022-07-31T05:11:49Z: PLAYER CHATTED [  733230669] alixsaujj            (    8.6,     9.0,    68.6)
+  and
+2022-07-31T05:11:50Z: PLAYER CHATTED [  222712041] paris636             (  -16.3,     8.4,   105.4)
+  percy
+2022-07-31T05:11:50Z: PLAYER CHATTED [  145877072] SlDXNEY              (    4.6,     6.7,   102.3)
+  dude just ascendned
+2022-07-31T05:11:50Z: PLAYER CHATTED [  325214770] goodlgirlz           (   12.7,     9.3,    66.2)
+  😧
+2022-07-31T05:11:51Z: CHRCTER ADDED  [   41173514] CaIiban              ( -130.6,     5.2,    74.5)
+2022-07-31T05:11:51Z: PLAYER REMOVED [ 2464521151] Kariebouu
+2022-07-31T05:11:51Z: PLAYER CHATTED [  145877072] SlDXNEY              (    4.6,     6.7,   102.3)
+  anyways
+2022-07-31T05:11:52Z: PLAYER CHATTED [  309875838] intheweb             (    4.2,     6.7,    98.4)
+  MY OUTFIT IS MORE FYE
+2022-07-31T05:11:52Z: PLAYER CHATTED [ 3465727786] SalLavigne           (    1.8,     6.7,    99.8)
+  WHAT
+2022-07-31T05:11:52Z: PLAYER CHATTED [  733230669] alixsaujj            (    8.6,     9.0,    68.6)
+  ###### me
+2022-07-31T05:11:53Z: PLAYER CHATTED [ 1502753066] HxloAcorpio          (   41.7,     9.5,    60.0)
+  U supposed to be working
+2022-07-31T05:11:53Z: PLAYER CHATTED [ 2707982240] The_Key22            (   -9.4,     6.9,    78.0)
+  Mmmm breaths my stinky breathe down her face
+2022-07-31T05:11:53Z: PLAYER CHATTED [  171562080] BakiTube             (    3.8,     6.8,    90.5)
+  find some u do and then speak to her my boy
+2022-07-31T05:11:53Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (  -17.2,     8.4,   109.6)
+  PLS
+2022-07-31T05:11:54Z: PLAYER CHATTED [ 2015292975] Rion_Roy             (   13.9,     8.9,    69.3)
+  SIGH
+2022-07-31T05:11:54Z: PLAYER CHATTED [ 3440614038] littleyummygurl      (    0.1,     6.9,    80.0)
+  we run away run away as hmm
+2022-07-31T05:11:54Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   22.7,     9.3,    64.5)
+  I like
+2022-07-31T05:11:54Z: PLAYER CHATTED [  309875838] intheweb             (    4.5,     6.7,    98.8)
+  LIKE
+2022-07-31T05:11:54Z: PLAYER CHATTED [   25333670] SkiddBeefnut         (  -16.7,     7.2,    98.9)
+  triffling
+2022-07-31T05:11:55Z: PLAYER CHATTED [  495343673] Pixelcyte            (  -22.4,     7.7,   109.4)
+  triffling
+2022-07-31T05:11:55Z: PLAYER CHATTED [ 2464177758] Darkness_Alloy       (  -11.5,     7.7,   106.1)
+  triffilin
+2022-07-31T05:11:55Z: PLAYER CHATTED [  140450489] Iulian08             (    5.8,    10.1,    80.2)
+  ayo
+2022-07-31T05:11:55Z: PLAYER CHATTED [ 1765732431] yeetusboy12345       (  -15.8,     8.1,   106.2)
+  trifflin
+2022-07-31T05:11:55Z: PLAYER CHATTED [  895566941] urdadsabi            (    9.0,     9.3,    64.6)
+  i will detatch ur head
+2022-07-31T05:11:57Z: PLAYER CHATTED [ 2707982240] The_Key22            (   -9.4,     6.9,    78.0)
+  just rmeber
+2022-07-31T05:11:57Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   22.7,     9.3,    64.5)
+  killing them
+2022-07-31T05:11:57Z: PLAYER CHATTED [  309875838] intheweb             (    4.5,     6.7,    98.8)
+  WHY U HATING
+2022-07-31T05:11:58Z: PLAYER CHATTED [  140450489] Iulian08             (   18.4,    13.1,    83.2)
+  pause
+2022-07-31T05:11:58Z: PLAYER CHATTED [  539781492] ToxicDiamond24       (   21.3,     9.4,    67.7)
+  who would whack people in 12:11 am
+2022-07-31T05:11:58Z: PLAYER CHATTED [  309875838] intheweb             (    4.5,     6.7,    98.8)
+  ON ME
+2022-07-31T05:11:58Z: PLAYER CHATTED [  895566941] urdadsabi            (    9.0,     9.3,    64.6)
+  from ur body
+2022-07-31T05:11:58Z: PLAYER CHATTED [ 2707982240] The_Key22            (   -9.4,     6.9,    78.0)
+  if i wanted it
+2022-07-31T05:11:58Z: PLAYER CHATTED [ 1635986430] DrXmaQuXeen          (    0.2,     6.9,    76.8)
+  yes habibi
+2022-07-31T05:11:58Z: PLAYER CHATTED [ 3465727786] SalLavigne           (    1.8,     6.7,    99.8)
+  nah look at their outfit
+2022-07-31T05:11:58Z: PLAYER CHATTED [  603978302] nhoj90               (  -11.5,     7.7,   109.5)
+  trifflin
+2022-07-31T05:11:58Z: PLAYER CHATTED [  125822919] papilookgood         ( -102.0,    12.8,    87.6)
+  youre selcome love
+2022-07-31T05:11:58Z: PLAYER CHATTED [  325214770] goodlgirlz           (   12.7,     9.3,    66.2)
+  son.. what happened to u..
+2022-07-31T05:11:59Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   22.7,     9.3,    64.5)
+  and
+2022-07-31T05:11:59Z: PLAYER CHATTED [  202342187] BonRoyalty           (   43.0,     9.5,    63.8)
+  roar
+2022-07-31T05:11:59Z: PLAYER CHATTED [ 1502753066] HxloAcorpio          (   41.7,     9.5,    60.0)
+  You heard whay master Silvio said
+2022-07-31T05:12:00Z: PLAYER CHATTED [ 2490568659] Ladon_unknown        (   -9.6,     6.9,    76.1)
+  im guys tbh
+2022-07-31T05:12:00Z: PLAYER CHATTED [ 2707982240] The_Key22            (   -9.4,     6.9,    78.0)
+  i could take it
+2022-07-31T05:12:00Z: PLAYER CHATTED [  539781492] ToxicDiamond24       (   21.3,     9.4,    67.7)
+  its vibing time
+2022-07-31T05:12:01Z: PLAYER CHATTED [  151708256] LunaticAsylum10      (   10.7,     8.9,    69.1)
+  stop
+2022-07-31T05:12:01Z: PLAYER CHATTED [  733230669] alixsaujj            (    8.6,     9.0,    68.6)
+  i will smash
+2022-07-31T05:12:01Z: PLAYER CHATTED [  145877072] SlDXNEY              (    4.6,     6.7,   102.3)
+  not rlly
+2022-07-31T05:12:02Z: PLAYER CHATTED [ 1765732431] yeetusboy12345       (  -15.8,     8.1,   106.2)
+  #####
+2022-07-31T05:12:02Z: PLAYER CHATTED [  125822919] papilookgood         ( -102.0,    12.8,    87.6)
+  welcome*
+2022-07-31T05:12:02Z: PLAYER CHATTED [  603978302] nhoj90               (  -11.5,     7.7,   109.5)
+  fr fr
+2022-07-31T05:12:02Z: PLAYER CHATTED [  539781492] ToxicDiamond24       (   21.3,     9.4,    67.7)
+  legit
+2022-07-31T05:12:02Z: PLAYER CHATTED [ 2015292975] Rion_Roy             (   13.9,     8.9,    69.3)
+  I got
+2022-07-31T05:12:02Z: PLAYER CHATTED [ 2671046261] rtuaes               ( -103.4,    12.8,    82.5)
+  ### ### those 2
+2022-07-31T05:12:03Z: PLAYER CHATTED [  309875838] intheweb             (    3.6,     6.7,    97.6)
+  BRO
+2022-07-31T05:12:03Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   23.2,     9.4,    65.3)
+  fr
+2022-07-31T05:12:04Z: PLAYER CHATTED [  151708256] LunaticAsylum10      (   10.1,     9.4,    68.3)
+  dawg
+2022-07-31T05:12:04Z: PLAYER REMOVED [  128820004] JxxWorld
+2022-07-31T05:12:04Z: PLAYER CHATTED [ 1765732431] yeetusboy12345       (  -15.8,     8.1,   106.2)
+  az oh
+2022-07-31T05:12:04Z: PLAYER CHATTED [  151708256] LunaticAsylum10      (   10.1,     9.4,    68.3)
+  do not
+2022-07-31T05:12:05Z: PLAYER CHATTED [ 2707982240] The_Key22            (   -9.4,     6.9,    78.0)
+  rip it open like a animal
+2022-07-31T05:12:05Z: PLAYER CHATTED [  222712041] paris636             (  -16.3,     8.6,   105.9)
+  I-
+2022-07-31T05:12:05Z: PLAYER CHATTED [ 2015292975] Rion_Roy             (   13.9,     8.9,    69.3)
+  cultured..
+2022-07-31T05:12:05Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   23.2,     9.4,    65.3)
+  well
+2022-07-31T05:12:06Z: PLAYER CHATTED [  151708256] LunaticAsylum10      (    9.5,     8.8,    69.0)
+  oh my god
+2022-07-31T05:12:07Z: PLAYER CHATTED [  309875838] intheweb             (    3.6,     6.7,    97.6)
+  HE TOOK A
+2022-07-31T05:12:07Z: PLAYER CHATTED [   74912065] CarloCarfano         (    2.6,     6.7,    95.3)
+  get on her head
+2022-07-31T05:12:07Z: PLAYER CHATTED [  125822919] papilookgood         ( -102.0,    12.8,    87.6)
+  um
+2022-07-31T05:12:07Z: PLAYER CHATTED [ 2671046261] rtuaes               ( -103.0,    12.8,    83.7)
+  who are
+2022-07-31T05:12:07Z: PLAYER CHATTED [  202342187] BonRoyalty           (   43.0,     9.5,    63.8)
+  PLS MASTER IM DEAD
+2022-07-31T05:12:08Z: PLAYER CHATTED [ 3465727786] SalLavigne           (    1.2,     6.7,   100.0)
+  they're pretty
+2022-07-31T05:12:08Z: PLAYER CHATTED [  222712041] paris636             (  -16.3,     8.6,   105.9)
+  AHAHAHAH
+2022-07-31T05:12:08Z: PLAYER CHATTED [  151708256] LunaticAsylum10      (   10.1,     9.3,    68.3)
+  i am sorry
+2022-07-31T05:12:08Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   23.2,     9.4,    65.3)
+  yea
+2022-07-31T05:12:08Z: PLAYER CHATTED [   74912065] CarloCarfano         (    2.6,     6.7,    95.3)
+  rn
+2022-07-31T05:12:08Z: PLAYER CHATTED [  566279877] Cherryshine_27       (  -14.7,     6.8,    86.2)
+  is it good'
+2022-07-31T05:12:09Z: PLAYER CHATTED [  151708256] LunaticAsylum10      (   10.1,     9.3,    68.3)
+  so sorry
+2022-07-31T05:12:10Z: PLAYER CHATTED [  202342187] BonRoyalty           (   43.0,     9.5,    63.8)
+  P
+2022-07-31T05:12:10Z: PLAYER CHATTED [  222712041] paris636             (  -16.3,     8.6,   105.9)
+  next
+2022-07-31T05:12:10Z: PLAYER CHATTED [ 2490568659] Ladon_unknown        (   -9.6,     6.9,    76.1)
+  🤨
+2022-07-31T05:12:10Z: PLAYER CHATTED [  309875838] intheweb             (    3.3,     6.7,    97.4)
+  BIG AHH
+2022-07-31T05:12:11Z: PLAYER CHATTED [ 2015292975] Rion_Roy             (   13.9,     8.9,    69.3)
+  😭😭
+2022-07-31T05:12:11Z: PLAYER CHATTED [  145877072] SlDXNEY              (   -1.9,     6.7,   100.5)
+  thats cute
+2022-07-31T05:12:11Z: PLAYER CHATTED [  309875838] intheweb             (    3.3,     6.7,    97.4)
+  OSTRICH
+2022-07-31T05:12:12Z: PLAYER CHATTED [ 1502753066] HxloAcorpio          (   41.7,     9.5,    60.0)
+  no
+2022-07-31T05:12:12Z: PLAYER REMOVED [ 1765732431] yeetusboy12345
+2022-07-31T05:12:12Z: PLAYER CHATTED [  125822919] papilookgood         ( -100.6,    12.8,    88.3)
+  idk
+2022-07-31T05:12:13Z: PLAYER CHATTED [  965010494] OdinSamurai          ( -105.2,    16.5,    94.8)
+  you built ike u bri ish
+2022-07-31T05:12:14Z: PLAYER CHATTED [  151708256] LunaticAsylum10      (   13.1,     6.8,    84.8)
+  he left i think
+2022-07-31T05:12:15Z: PLAYER CHATTED [ 1502753066] HxloAcorpio          (   41.7,     9.5,    60.0)
+  I decline death
+2022-07-31T05:12:15Z: PLAYER ADDED   [ 2921848699] 7_weasley
+2022-07-31T05:12:16Z: PLAYER CHATTED [  309875838] intheweb             (    3.3,     6.7,    97.4)
+  AND PUT IT ON HIS TOP
+2022-07-31T05:12:16Z: PLAYER CHATTED [  539781492] ToxicDiamond24       (   21.3,     9.4,    67.7)
+  its Whacks Invalid
+2022-07-31T05:12:16Z: PLAYER CHATTED [  162120296] OCT0BXR              (    5.1,     9.4,    64.3)
+  Sabi!!
+2022-07-31T05:12:17Z: PLAYER CHATTED [  733230669] alixsaujj            (    8.8,     9.3,    62.2)
+  nom
+2022-07-31T05:12:18Z: PLAYER REMOVED [  370306993] Floatin_Kloud
+2022-07-31T05:12:18Z: PLAYER CHATTED [  733230669] alixsaujj            (    8.8,     9.3,    62.2)
+  nom
+2022-07-31T05:12:18Z: PLAYER CHATTED [ 2537419642] IAMNOTASLUG          (  -12.7,     6.8,    87.5)
+  No
+2022-07-31T05:12:18Z: PLAYER CHATTED [  202342187] BonRoyalty           (   43.0,     9.5,    63.8)
+  master mercy!
+2022-07-31T05:12:18Z: PLAYER CHATTED [  309875838] intheweb             (    3.5,     6.7,    98.2)
+  AND U SAYIN ITS FYE
+2022-07-31T05:12:19Z: PLAYER CHATTED [  325214770] goodlgirlz           (   12.7,     9.3,    66.2)
+  sabi whats that one disability
+2022-07-31T05:12:19Z: PLAYER CHATTED [  360613243] Neepowglungus34      (  -18.8,     6.9,   104.4)
+  ITS A FAKE WHO CARES
+2022-07-31T05:12:20Z: PLAYER CHATTED [  151708256] LunaticAsylum10      (   13.1,     6.8,    84.8)
+  ill sendi n gc
+2022-07-31T05:12:20Z: PLAYER CHATTED [  325214770] goodlgirlz           (   12.7,     9.3,    66.2)
+  oh
+2022-07-31T05:12:20Z: PLAYER CHATTED [ 2610857061] BiggieCrisps         (  -99.9,    12.7,    94.8)
+  We jus navy recruiters
+2022-07-31T05:12:21Z: PLAYER CHATTED [ 2671046261] rtuaes               ( -103.0,    12.8,    83.7)
+  lol
+2022-07-31T05:12:22Z: PLAYER CHATTED [  733230669] alixsaujj            (    8.8,     9.3,    62.9)
+  W hair
+2022-07-31T05:12:22Z: PLAYER ADDED   [ 1988122221] icecream45candy
+2022-07-31T05:12:23Z: PLAYER CHATTED [ 1502753066] HxloAcorpio          (   41.7,     9.5,    60.0)
+  Get back to ‘em fields.
+2022-07-31T05:12:23Z: PLAYER CHATTED [  325214770] goodlgirlz           (   12.7,     9.3,    66.2)
+  do u have autism
+2022-07-31T05:12:24Z: PLAYER CHATTED [  539781492] ToxicDiamond24       (   21.3,     9.4,    67.7)
+  no need to be paranoid
+2022-07-31T05:12:24Z: PLAYER CHATTED [  566279877] Cherryshine_27       (  -14.7,     6.8,    86.2)
+  damn
+2022-07-31T05:12:24Z: PLAYER CHATTED [ 2015292975] Rion_Roy             (   13.9,     8.9,    69.3)
+  waht
+2022-07-31T05:12:25Z: PLAYER CHATTED [ 2462670191] hibebboo             (   28.8,     6.7,    94.3)
+  Wth
+2022-07-31T05:12:25Z: PLAYER CHATTED [  895566941] urdadsabi            (    8.2,     9.3,    64.4)
+  hiii
+2022-07-31T05:12:25Z: PLAYER CHATTED [ 2015292975] Rion_Roy             (   13.9,     8.9,    69.3)
+  !mao
+2022-07-31T05:12:25Z: PLAYER CHATTED [  125822919] papilookgood         ( -100.7,    12.8,    87.3)
+  ok
+2022-07-31T05:12:25Z: PLAYER CHATTED [  162120296] OCT0BXR              (    5.7,     9.4,    66.1)
+  Hi
+2022-07-31T05:12:25Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   22.7,     9.3,    64.5)
+  yea
+2022-07-31T05:12:26Z: PLAYER CHATTED [  309875838] intheweb             (    3.5,     6.7,    98.2)
+  LIKE WHAT IS U ON
+2022-07-31T05:12:26Z: PLAYER CHATTED [ 2671046261] rtuaes               ( -103.0,    12.8,    83.7)
+  oh i see
+2022-07-31T05:12:27Z: PLAYER CHATTED [  325214770] goodlgirlz           (   12.7,     9.3,    66.2)
+  my son
+2022-07-31T05:12:27Z: CHRCTER ADDED  [   41173514] CaIiban              ( -130.6,     5.3,    90.5)
+2022-07-31T05:12:27Z: PLAYER ADDED   [ 1765732431] yeetusboy12345
+2022-07-31T05:12:29Z: PLAYER CHATTED [ 2015292975] Rion_Roy             (   13.9,     8.9,    69.3)
+  YES MOOOOOOO
+2022-07-31T05:12:29Z: PLAYER CHATTED [   25333670] SkiddBeefnut         (    3.8,     6.7,   100.4)
+  triffling
+2022-07-31T05:12:29Z: PLAYER CHATTED [  222712041] paris636             (    4.6,     9.4,    62.3)
+  have you ever tried women Percy?
+2022-07-31T05:12:29Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   22.7,     9.3,    64.5)
+  trust me
+2022-07-31T05:12:29Z: PLAYER CHATTED [  733230669] alixsaujj            (    9.4,     9.3,    64.4)
+  nom
+2022-07-31T05:12:30Z: PLAYER CHATTED [ 3470431995] ShaistaCelentano     (   46.7,     9.5,    63.1)
+  robert kinda looks like gios son
+2022-07-31T05:12:30Z: PLAYER CHATTED [  603978302] nhoj90               (    0.4,     6.7,    96.3)
+  trifflin.
+2022-07-31T05:12:30Z: PLAYER ADDED   [ 2757903863] x_S31k0
+2022-07-31T05:12:30Z: PLAYER CHATTED [ 2464177758] Darkness_Alloy       (    6.8,     6.7,    97.8)
+  triffilin
+2022-07-31T05:12:31Z: PLAYER CHATTED [  125822919] papilookgood         ( -100.7,    12.8,    87.3)
+  dont mind them
+2022-07-31T05:12:32Z: PLAYER CHATTED [  309875838] intheweb             (    4.0,     6.7,    98.0)
+  IM SAYIN
+2022-07-31T05:12:32Z: PLAYER CHATTED [  539781492] ToxicDiamond24       (   20.6,     9.4,    67.2)
+  it has to be spelt wrong
+2022-07-31T05:12:33Z: PLAYER CHATTED [ 3440614038] littleyummygurl      (    0.1,     6.9,    80.0)
+  why jo noob
+2022-07-31T05:12:33Z: PLAYER CHATTED [ 2610857061] BiggieCrisps         ( -105.2,    17.2,    93.6)
+  carry on
+2022-07-31T05:12:33Z: PLAYER CHATTED [  325214770] goodlgirlz           (   12.7,     9.3,    66.2)
+  my poor son...
+2022-07-31T05:12:34Z: PLAYER CHATTED [  733230669] alixsaujj            (   14.4,     9.3,    65.9)
+  nah
+2022-07-31T05:12:34Z: PLAYER CHATTED [  162120296] OCT0BXR              (    6.0,     9.4,    64.2)
+  I love your skirt!!
+2022-07-31T05:12:34Z: PLAYER CHATTED [ 2707982240] The_Key22            (   38.9,    12.0,    73.7)
+  ay
+2022-07-31T05:12:34Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (    2.8,     9.4,    63.8)
+  yes
+2022-07-31T05:12:34Z: PLAYER CHATTED [ 2573850566] CardfulAce_Spades    (   -1.9,     6.7,    95.8)
+  smarties
+2022-07-31T05:12:35Z: PLAYER CHATTED [  145877072] SlDXNEY              (   -1.1,     6.7,   100.6)
+  u made daddy angy girlie
+2022-07-31T05:12:35Z: PLAYER CHATTED [ 2707982240] The_Key22            (   38.9,    12.0,    73.7)
+  girl
+2022-07-31T05:12:35Z: PLAYER CHATTED [ 1635986430] DrXmaQuXeen          (    0.2,     6.9,    76.8)
+  jo
+2022-07-31T05:12:36Z: PLAYER CHATTED [  733230669] alixsaujj            (   14.4,     9.3,    65.9)
+  ## ###
+2022-07-31T05:12:36Z: PLAYER CHATTED [  125822919] papilookgood         ( -100.7,    12.8,    87.3)
+  theyre enjoying the night too
+2022-07-31T05:12:36Z: PLAYER CHATTED [  360613243] Neepowglungus34      (    5.4,     9.4,    67.3)
+  oh percy poo
+2022-07-31T05:12:36Z: PLAYER CHATTED [ 2707982240] The_Key22            (   39.4,    12.0,    73.7)
+  come here rq
+2022-07-31T05:12:37Z: PLAYER CHATTED [ 1668822328] OptionalFriend       (   20.1,     9.3,    64.6)
+  Cool
+2022-07-31T05:12:37Z: PLAYER CHATTED [  539781492] ToxicDiamond24       (   20.6,     9.4,    67.2)
+  to be valid
+2022-07-31T05:12:37Z: PLAYER CHATTED [  895566941] urdadsabi            (    8.5,     9.3,    66.0)
+  thank uuuu
+2022-07-31T05:12:38Z: PLAYER CHATTED [  495343673] Pixelcyte            (    3.4,     6.7,    95.2)
+  triffling
+2022-07-31T05:12:38Z: PLAYER CHATTED [  733230669] alixsaujj            (   14.4,     9.3,    65.9)
+  ###
+2022-07-31T05:12:38Z: PLAYER CHATTED [  145877072] SlDXNEY              (   -0.9,     6.7,   101.2)
+  big boy mad
+2022-07-31T05:12:38Z: PLAYER CHATTED [ 2707982240] The_Key22            (   39.4,    12.0,    73.7)
+  shaista
+2022-07-31T05:12:38Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   21.7,     9.3,    64.5)
+  you idiot
+2022-07-31T05:12:38Z: PLAYER CHATTED [ 2671046261] rtuaes               ( -104.0,    12.8,    85.9)
+  alright then
+2022-07-31T05:12:39Z: PLAYER CHATTED [  895566941] urdadsabi            (    8.5,     9.3,    66.0)
+  mwa
+2022-07-31T05:12:39Z: PLAYER CHATTED [ 2707982240] The_Key22            (   39.8,    12.0,    73.7)
+  shaista
+2022-07-31T05:12:40Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   22.4,     9.3,    65.1)
+  let me just
+2022-07-31T05:12:41Z: PLAYER CHATTED [  539781492] ToxicDiamond24       (   20.6,     9.4,    67.2)
+  its whacks invaLid
+2022-07-31T05:12:41Z: PLAYER CHATTED [  309875838] intheweb             (    2.4,     6.7,    99.1)
+  yeah
+2022-07-31T05:12:41Z: PLAYER CHATTED [ 2671046261] rtuaes               ( -104.0,    12.8,    85.9)
+  i see
+2022-07-31T05:12:41Z: PLAYER CHATTED [ 2707982240] The_Key22            (   39.8,    12.0,    73.7)
+  come to the wall
+2022-07-31T05:12:42Z: PLAYER REMOVED [ 2537419642] IAMNOTASLUG
+2022-07-31T05:12:42Z: PLAYER CHATTED [ 1254951762] kendal_I             (    1.9,    10.1,   108.7)
+  catch m
+2022-07-31T05:12:42Z: PLAYER CHATTED [  162120296] OCT0BXR              (    5.3,     9.4,    67.2)
+  mwamwa
+2022-07-31T05:12:42Z: PLAYER CHATTED [  125822919] papilookgood         ( -100.7,    12.8,    87.3)
+  so
+2022-07-31T05:12:42Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   22.4,     9.3,    65.1)
+  make it vaild
+2022-07-31T05:12:43Z: PLAYER CHATTED [  309875838] intheweb             (    2.4,     6.7,    99.1)
+  call me dat again
+2022-07-31T05:12:43Z: PLAYER CHATTED [  733230669] alixsaujj            (   14.4,     9.3,    65.9)
+  ####
+2022-07-31T05:12:44Z: PLAYER CHATTED [  222712041] paris636             (    3.8,     9.4,    62.2)
+  you like em?
+2022-07-31T05:12:44Z: PLAYER CHATTED [ 1502753066] HxloAcorpio          (   41.9,     9.5,    59.9)
+  I have hairy cheat
+2022-07-31T05:12:45Z: PLAYER CHATTED [  309875838] intheweb             (    2.4,     6.7,    99.1)
+  scream my name
+2022-07-31T05:12:45Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   22.4,     9.3,    65.1)
+  so he joins
+2022-07-31T05:12:45Z: PLAYER CHATTED [   25333670] SkiddBeefnut         (    3.8,     6.7,   100.4)
+  triffling
+2022-07-31T05:12:45Z: PLAYER CHATTED [  125822919] papilookgood         ( -100.7,    12.8,    87.3)
+  can we sit down
+2022-07-31T05:12:46Z: PLAYER CHATTED [ 1502753066] HxloAcorpio          (   41.9,     9.5,    59.9)
+  Chest
+2022-07-31T05:12:46Z: PLAYER CHATTED [  325214770] goodlgirlz           (   12.7,     9.3,    66.2)
+  i will take u to a asylum
+2022-07-31T05:12:46Z: PLAYER CHATTED [  309875838] intheweb             (    2.4,     6.7,    99.1)
+  say my name
+2022-07-31T05:12:46Z: PLAYER CHATTED [ 2707982240] The_Key22            (   39.8,    12.0,    73.7)
+  shaista
+2022-07-31T05:12:47Z: PLAYER CHATTED [  603978302] nhoj90               (    0.9,     6.7,    95.6)
+  trifflin
+2022-07-31T05:12:47Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (    2.8,     9.4,    63.8)
+  kinda
+2022-07-31T05:12:48Z: PLAYER CHATTED [  140450489] Iulian08             (    1.9,     7.6,   101.0)
+  ok
+2022-07-31T05:12:48Z: PLAYER CHATTED [ 1502753066] HxloAcorpio          (   41.9,     9.5,    59.9)
+  not him
+2022-07-31T05:12:49Z: PLAYER CHATTED [ 3465727786] SalLavigne           (    1.1,     6.7,   102.1)
+  "daddy angy" type ___t
+2022-07-31T05:12:49Z: PLAYER CHATTED [  539781492] ToxicDiamond24       (   21.6,     9.4,    67.3)
+  invalid
+2022-07-31T05:12:49Z: PLAYER CHATTED [ 2015292975] Rion_Roy             (   13.9,     8.9,    69.3)
+  :D
+2022-07-31T05:12:49Z: PLAYER CHATTED [ 2671046261] rtuaes               ( -101.7,    12.8,    83.8)
+  sue
+2022-07-31T05:12:49Z: PLAYER CHATTED [  325214770] goodlgirlz           (   12.7,     9.3,    66.2)
+  hopefully you will then get better..
+2022-07-31T05:12:50Z: PLAYER ADDED   [  946374419] juldrp2
+2022-07-31T05:12:50Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (    2.8,     9.4,    63.8)
+  HI
+2022-07-31T05:12:51Z: PLAYER CHATTED [  145877072] SlDXNEY              (   -1.4,     6.7,   101.0)
+  im good
+2022-07-31T05:12:51Z: PLAYER CHATTED [ 2671046261] rtuaes               ( -101.9,    12.8,    84.2)
+  sure
+2022-07-31T05:12:52Z: PLAYER CHATTED [ 3470431995] ShaistaCelentano     (   41.5,     9.5,    64.5)
+  he has hairy chest to
+2022-07-31T05:12:54Z: PLAYER CHATTED [ 2707982240] The_Key22            (   40.3,    12.0,    73.7)
+  shaista
+2022-07-31T05:12:55Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   22.4,     9.3,    65.1)
+  yeah
+2022-07-31T05:12:55Z: PLAYER CHATTED [  309875838] intheweb             (    2.4,     6.7,    98.8)
+  Im realy
+2022-07-31T05:12:55Z: PLAYER CHATTED [ 3465727786] SalLavigne           (    1.1,     6.7,   102.1)
+  shiver me timbers
+2022-07-31T05:12:55Z: PLAYER ADDED   [  110093182] GiovanniJStanfa
+2022-07-31T05:12:56Z: PLAYER CHATTED [ 2707982240] The_Key22            (   40.3,    12.0,    73.7)
+  come to the wall
+2022-07-31T05:12:56Z: PLAYER CHATTED [ 1765732431] yeetusboy12345       (   -1.1,     6.7,    93.3)
+  trifflin
+2022-07-31T05:12:56Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   22.4,     9.3,    65.1)
+  invaild
+2022-07-31T05:12:56Z: PLAYER CHATTED [   25333670] SkiddBeefnut         (    3.8,     6.7,   100.4)
+  trifflin
+2022-07-31T05:12:59Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (    2.8,     9.4,    63.8)
+  CMERE I GOTTA CRY
+2022-07-31T05:12:59Z: PLAYER CHATTED [  309875838] intheweb             (    2.4,     6.7,    98.8)
+  im relaly him
+2022-07-31T05:13:00Z: PLAYER REMOVED [   74912065] CarloCarfano
+2022-07-31T05:13:00Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   22.4,     9.3,    65.1)
+  whacks invaild
+2022-07-31T05:13:00Z: PLAYER REMOVED [ 1502753066] HxloAcorpio
+2022-07-31T05:13:01Z: PLAYER CHATTED [  222712041] paris636             (    3.8,     9.4,    62.2)
+  hm alr
+2022-07-31T05:13:01Z: PLAYER CHATTED [  360613243] Neepowglungus34      (    4.5,     9.4,    65.6)
+  i actually dont know
+2022-07-31T05:13:02Z: PLAYER CHATTED [  309875838] intheweb             (    1.5,     6.7,    99.1)
+  like
+2022-07-31T05:13:02Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   22.4,     9.3,    65.1)
+  let me change it
+2022-07-31T05:13:02Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (    4.0,     9.4,    65.3)
+  SNIFF
+2022-07-31T05:13:03Z: PLAYER CHATTED [ 2707982240] The_Key22            (   40.7,    12.0,    73.7)
+  when are you gonna get a life?
+2022-07-31T05:13:03Z: PLAYER CHATTED [ 2671046261] rtuaes               (  -99.3,    13.2,    34.6)
+  this is quite a
+2022-07-31T05:13:04Z: PLAYER CHATTED [  309875838] intheweb             (    1.5,     6.7,    99.1)
+  im the top g
+2022-07-31T05:13:04Z: PLAYER CHATTED [ 2707982240] The_Key22            (   40.7,    12.0,    73.7)
+  loser
+2022-07-31T05:13:05Z: PLAYER CHATTED [  495343673] Pixelcyte            (    1.3,     6.7,    98.3)
+  ew minority
+2022-07-31T05:13:05Z: PLAYER CHATTED [  325214770] goodlgirlz           (   12.7,     9.3,    66.2)
+  its okay to be stupid my son
+2022-07-31T05:13:05Z: PLAYER CHATTED [  539781492] ToxicDiamond24       (   21.6,     9.4,    67.3)
+  yeah
+2022-07-31T05:13:05Z: CHRCTER ADDED  [  255047973] clay_great           ( -130.6,     9.1,   101.5)
+2022-07-31T05:13:07Z: PLAYER CHATTED [ 2671046261] rtuaes               (  -99.3,    13.2,    34.6)
+  very dim place
+2022-07-31T05:13:07Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (    4.0,     9.4,    65.3)
+  WAHHHHHHHHHHHHHHHHH
+2022-07-31T05:13:07Z: PLAYER CHATTED [ 2610857061] BiggieCrisps         ( -102.7,    12.8,    80.1)
+  wanna go to a cond
+2022-07-31T05:13:07Z: PLAYER CHATTED [  171562080] BakiTube             (    4.6,     6.7,    98.9)
+  monkeis getting mad
+2022-07-31T05:13:07Z: PLAYER CHATTED [  309875838] intheweb             (    1.9,     6.7,    99.0)
+  even the real top g with me
+2022-07-31T05:13:08Z: PLAYER ADDED   [ 1502753066] HxloAcorpio
+2022-07-31T05:13:09Z: PLAYER CHATTED [ 2707982240] The_Key22            (   40.3,    12.0,    73.7)
+  you literally smell like discharge and shx
+2022-07-31T05:13:10Z: PLAYER CHATTED [  145877072] SlDXNEY              (   -1.4,     6.7,   101.0)
+  ive met better
+2022-07-31T05:13:10Z: PLAYER CHATTED [  360613243] Neepowglungus34      (    4.9,     9.4,    66.3)
+  thats my job
+2022-07-31T05:13:10Z: PLAYER CHATTED [ 2610857061] BiggieCrisps         ( -102.4,    12.8,    81.5)
+  to troll
+2022-07-31T05:13:11Z: PLAYER ADDED   [ 2605457158] CHEESE0431
+2022-07-31T05:13:12Z: PLAYER CHATTED [ 3440614038] littleyummygurl      (    0.1,     6.9,    80.0)
+  know
+2022-07-31T05:13:13Z: PLAYER CHATTED [  140450489] Iulian08             (    1.7,     6.7,    99.2)
+  fight
+2022-07-31T05:13:15Z: PLAYER CHATTED [  140450489] Iulian08             (    1.7,     6.7,    99.2)
+  fight
+2022-07-31T05:13:16Z: PLAYER CHATTED [  309875838] intheweb             (    2.1,     6.7,    98.7)
+  my genetics > yours
+2022-07-31T05:13:16Z: PLAYER CHATTED [ 2707982240] The_Key22            (   39.2,    12.0,    74.3)
+  take a shower get a life
+2022-07-31T05:13:16Z: PLAYER CHATTED [ 1254951762] kendal_I
+  #######
+2022-07-31T05:13:16Z: PLAYER CHATTED [  145877072] SlDXNEY              (   -1.4,     6.7,   101.0)
+  none pixels
+2022-07-31T05:13:16Z: PLAYER CHATTED [  309875838] intheweb             (    2.2,     6.7,    99.0)
+  L
+2022-07-31T05:13:16Z: PLAYER CHATTED [  151708256] LunaticAsylum10      (   13.1,     6.8,    84.8)
+  huh
+2022-07-31T05:13:16Z: PLAYER CHATTED [  222712041] paris636             (    6.9,     8.9,    69.2)
+  either of yall
+2022-07-31T05:13:16Z: PLAYER CHATTED [  125822919] papilookgood         (  -95.2,    13.2,    28.5)
+  i love dark spaces
+2022-07-31T05:13:16Z: PLAYER CHATTED [  965010494] OdinSamurai          ( -102.0,    12.8,    85.0)
+  uhhh
+2022-07-31T05:13:16Z: CHRCTER ADDED  [ 1254951762] kendal_I             ( -130.6,     9.0,   101.5)
+2022-07-31T05:13:17Z: PLAYER CHATTED [  140450489] Iulian08             (    1.7,     6.7,    99.2)
+  fight
+2022-07-31T05:13:17Z: PLAYER CHATTED [ 2707982240] The_Key22            (   39.2,    12.0,    74.3)
+  you're on this game 24 7
+2022-07-31T05:13:17Z: PLAYER REMOVED [  374168871] opman49
+2022-07-31T05:13:18Z: PLAYER CHATTED [ 1668822328] OptionalFriend       (   20.1,     9.3,    64.6)
+  I’m so laggy lemme rejoin
+2022-07-31T05:13:19Z: PLAYER CHATTED [ 2707982240] The_Key22            (   39.3,    12.0,    74.2)
+  LOL
+2022-07-31T05:13:19Z: PLAYER CHATTED [  360613243] Neepowglungus34      (    4.9,     9.4,    66.3)
+  hired to be a tissue
+2022-07-31T05:13:20Z: PLAYER CHATTED [ 3592730537] Instructor_Ed        (    4.4,     6.7,    96.7)
+  racism
+2022-07-31T05:13:20Z: PLAYER CHATTED [ 1765732431] yeetusboy12345       (    0.2,     6.7,    99.9)
+  lllladies
+2022-07-31T05:13:21Z: PLAYER CHATTED [  140450489] Iulian08             (    1.7,     6.7,    99.2)
+  beat them up
+2022-07-31T05:13:21Z: PLAYER CHATTED [ 2610857061] BiggieCrisps         ( -102.4,    12.8,    81.5)
+  >:)
+2022-07-31T05:13:21Z: PLAYER CHATTED [ 2671046261] rtuaes               (  -99.3,    13.2,    34.6)
+  ah
+2022-07-31T05:13:21Z: PLAYER CHATTED [  125822919] papilookgood         (  -95.2,    13.2,    28.5)
+  theyre calm
+2022-07-31T05:13:22Z: PLAYER CHATTED [ 2671046261] rtuaes               (  -99.3,    13.2,    34.6)
+  i see
+2022-07-31T05:13:23Z: PLAYER REMOVED [ 2605457158] CHEESE0431
+2022-07-31T05:13:23Z: PLAYER CHATTED [  222712041] paris636             (    6.9,     8.9,    69.2)
+  up to do me a favor?
+2022-07-31T05:13:24Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (    4.4,     9.4,    65.8)
+  ok im done sniff
+2022-07-31T05:13:25Z: PLAYER CHATTED [   25333670] SkiddBeefnut         (    3.8,     6.7,   100.4)
+  triffling
+2022-07-31T05:13:26Z: PLAYER CHATTED [  125822919] papilookgood         (  -95.2,    13.2,    28.5)
+  what about you
+2022-07-31T05:13:26Z: PLAYER CHATTED [ 1765732431] yeetusboy12345       (    0.2,     6.7,    99.9)
+  triffflin
+2022-07-31T05:13:26Z: PLAYER CHATTED [  309875838] intheweb             (    1.2,     6.7,   100.0)
+  this is crazy
+2022-07-31T05:13:26Z: PLAYER REMOVED [ 1668822328] OptionalFriend
+2022-07-31T05:13:26Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   24.0,     9.4,    64.8)
+  changed
+2022-07-31T05:13:26Z: PLAYER CHATTED [  495343673] Pixelcyte            (    0.8,     6.7,    98.6)
+  triffling
+2022-07-31T05:13:26Z: PLAYER CHATTED [  603978302] nhoj90               (   -1.4,     6.7,    97.8)
+  triffling.
+2022-07-31T05:13:27Z: PLAYER CHATTED [ 2464177758] Darkness_Alloy       (    3.5,     6.7,   101.1)
+  Trillin
+2022-07-31T05:13:27Z: PLAYER CHATTED [  145877072] SlDXNEY              (   -1.4,     6.7,   101.0)
+  idk i cant judge
+2022-07-31T05:13:27Z: CHRCTER ADDED  [   41173514] CaIiban              ( -130.5,     5.3,    62.8)
+2022-07-31T05:13:28Z: PLAYER CHATTED [  895566941] urdadsabi            (    8.5,     9.3,    66.0)
+  like what
+2022-07-31T05:13:28Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (    5.9,     9.4,    63.2)
+  ty
+2022-07-31T05:13:28Z: PLAYER CHATTED [  965010494] OdinSamurai          ( -102.0,    12.8,    85.0)
+  aight
+2022-07-31T05:13:29Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   22.8,     9.3,    65.5)
+  UGH
+2022-07-31T05:13:29Z: PLAYER CHATTED [ 2610857061] BiggieCrisps         ( -102.4,    12.8,    81.5)
+  or you wanna see ma afgahnaistna map
+2022-07-31T05:13:30Z: PLAYER CHATTED [ 1502753066] HxloAcorpio          (    5.0,     6.7,    79.9)
+  Crashed smh.
+2022-07-31T05:13:31Z: PLAYER ADDED   [ 2206977473] Razervin
+2022-07-31T05:13:32Z: PLAYER CHATTED [  309875838] intheweb             (    1.3,     6.7,   100.1)
+  lik why u hating
+2022-07-31T05:13:32Z: PLAYER CHATTED [  360613243] Neepowglungus34      (    2.3,     9.5,    65.5)
+  np man
+2022-07-31T05:13:35Z: PLAYER CHATTED [  965010494] OdinSamurai          ( -102.0,    12.8,    85.0)
+  up to you
+2022-07-31T05:13:36Z: PLAYER CHATTED [ 2610857061] BiggieCrisps         ( -102.4,    12.8,    81.5)
+  wit da 2000s stuff
+2022-07-31T05:13:37Z: PLAYER CHATTED [  222712041] paris636             (    6.9,     8.9,    69.2)
+  maybe going on a fake
+2022-07-31T05:13:39Z: PLAYER CHATTED [  171562080] BakiTube             (    4.6,     6.7,    98.9)
+  slap her
+2022-07-31T05:13:39Z: PLAYER CHATTED [  309875838] intheweb             (    7.0,     6.7,    99.7)
+  we was pose to be
+2022-07-31T05:13:39Z: PLAYER CHATTED [ 2671046261] rtuaes               (  -99.3,    13.2,    34.6)
+  mhm
+2022-07-31T05:13:40Z: PLAYER CHATTED [ 3465727786] SalLavigne           (   11.3,     6.7,   101.8)
+  why swouldnt she be
+2022-07-31T05:13:40Z: PLAYER CHATTED [  145877072] SlDXNEY              (    6.8,     6.7,   102.3)
+  i really am not
+2022-07-31T05:13:40Z: PLAYER CHATTED [  222712041] paris636             (    6.9,     8.9,    69.2)
+  dat
+2022-07-31T05:13:41Z: PLAYER CHATTED [ 2610857061] BiggieCrisps         ( -102.4,    12.8,    81.5)
+  UHH
+2022-07-31T05:13:41Z: PLAYER CHATTED [ 2707982240] The_Key22            (    9.4,     9.1,    68.5)
+  show me all yall bjjbs
+2022-07-31T05:13:42Z: PLAYER CHATTED [  965010494] OdinSamurai          ( -102.0,    12.8,    85.0)
+  anythin bored
+2022-07-31T05:13:42Z: PLAYER CHATTED [  309875838] intheweb             (    7.0,     6.7,    99.7)
+  Durk and
+2022-07-31T05:13:43Z: PLAYER CHATTED [  309875838] intheweb             (    7.0,     6.7,    99.7)
+  Asia
+2022-07-31T05:13:44Z: PLAYER CHATTED [ 2610857061] BiggieCrisps         ( -102.4,    12.8,    81.5)
+  AIGht
+2022-07-31T05:13:45Z: PLAYER CHATTED [ 3465727786] SalLavigne           (   10.2,     6.7,   101.4)
+  like
+2022-07-31T05:13:45Z: PLAYER CHATTED [   25333670] SkiddBeefnut         (   10.1,     6.7,    99.2)
+  triffling
+2022-07-31T05:13:46Z: PLAYER CHATTED [  125822919] papilookgood         (  -95.2,    13.2,    28.5)
+  so
+2022-07-31T05:13:46Z: PLAYER CHATTED [ 2610857061] BiggieCrisps         ( -102.4,    12.8,    81.5)
+  To con
+2022-07-31T05:13:47Z: PLAYER CHATTED [ 2707982240] The_Key22            (    9.1,     9.4,    68.3)
+  rizz taht
+2022-07-31T05:13:47Z: PLAYER REMOVED [ 2610857061] BiggieCrisps
+2022-07-31T05:13:48Z: PLAYER ADDED   [ 2799511313] Eveirty
+2022-07-31T05:13:49Z: PLAYER CHATTED [  222712041] paris636             (    6.9,     8.9,    69.2)
+  with my friend
+2022-07-31T05:13:49Z: PLAYER CHATTED [  360613243] Neepowglungus34      (    9.5,     6.8,    88.0)
+  harambe?
+2022-07-31T05:13:49Z: PLAYER CHATTED [  603978302] nhoj90               (    7.4,     6.7,    97.4)
+  triffling
+2022-07-31T05:13:49Z: PLAYER REMOVED [ 1988122221] icecream45candy
+2022-07-31T05:13:49Z: PLAYER CHATTED [  125822919] papilookgood         (  -95.2,    13.2,    28.5)
+  what brought you here
+2022-07-31T05:13:49Z: PLAYER CHATTED [ 1765732431] yeetusboy12345       (    4.5,     6.7,   100.1)
+  TTTTTTTTRIFLIN
+2022-07-31T05:13:50Z: PLAYER CHATTED [ 3499836937] Scarface13_2         ( -151.0,     4.0,    93.4)
+  Do a flip
+2022-07-31T05:13:50Z: PLAYER CHATTED [ 2671046261] rtuaes               (  -99.3,    13.2,    34.6)
+  Not much from me
+2022-07-31T05:13:50Z: PLAYER CHATTED [  309875838] intheweb             (    7.9,     6.7,    99.0)
+  i might have to top g
+2022-07-31T05:13:50Z: PLAYER CHATTED [  895566941] urdadsabi            (    8.5,     9.3,    66.0)
+  naw
+2022-07-31T05:13:53Z: PLAYER REMOVED [ 2226580476] tdeph
+2022-07-31T05:13:53Z: PLAYER CHATTED [ 3592730537] Instructor_Ed        (    2.5,     6.7,    97.7)
+  fight
+2022-07-31T05:13:53Z: PLAYER CHATTED [  145877072] SlDXNEY              (    6.8,     6.7,   102.3)
+  just being honest
+2022-07-31T05:13:53Z: PLAYER CHATTED [  222712041] paris636             (    6.9,     8.9,    69.2)
+  ######
+2022-07-31T05:13:54Z: PLAYER CHATTED [  162120296] OCT0BXR              (    5.3,     9.4,    67.2)
+  Oh?
+2022-07-31T05:13:54Z: PLAYER CHATTED [ 2671046261] rtuaes               (  -99.3,    13.2,    34.6)
+  oh
+2022-07-31T05:13:56Z: PLAYER ADDED   [ 1696510323] chubby_ch3eks
+2022-07-31T05:13:56Z: PLAYER CHATTED [   25333670] SkiddBeefnut         (   10.6,     6.7,    98.5)
+  u gonna top men
+2022-07-31T05:13:57Z: PLAYER CHATTED [  222712041] paris636             (    6.9,     8.9,    69.2)
+  his.
+2022-07-31T05:13:57Z: PLAYER CHATTED [  309875838] intheweb             (    8.3,     6.7,    99.4)
+  na u hating
+2022-07-31T05:13:57Z: PLAYER CHATTED [   25333670] SkiddBeefnut         (   10.6,     6.7,    98.5)
+  thats crazy
+2022-07-31T05:13:58Z: PLAYER CHATTED [ 2707982240] The_Key22            (    9.4,     6.7,   101.4)
+  pins her
+2022-07-31T05:13:58Z: PLAYER CHATTED [ 2671046261] rtuaes               (  -99.3,    13.2,    34.6)
+  I was just
+2022-07-31T05:13:59Z: PLAYER CHATTED [ 2707982240] The_Key22            (    9.8,     6.7,   101.4)
+  rajxjxpes
+2022-07-31T05:14:00Z: PLAYER CHATTED [  222712041] paris636             (    6.9,     8.9,    69.2)
+  x
+2022-07-31T05:14:00Z: PLAYER CHATTED [  603978302] nhoj90               (    7.4,     6.7,    97.4)
+  triffling
+2022-07-31T05:14:01Z: PLAYER CHATTED [  140450489] Iulian08             (   10.2,     8.9,    68.8)
+  omg
+2022-07-31T05:14:02Z: PLAYER CHATTED [  309875838] intheweb             (    8.3,     6.7,    99.4)
+  u let this guy
+2022-07-31T05:14:02Z: PLAYER CHATTED [   25333670] SkiddBeefnut         (   10.6,     6.7,    98.5)
+  triffling
+2022-07-31T05:14:02Z: PLAYER CHATTED [  222712041] paris636             (    6.9,     8.9,    69.2)
+  is here
+2022-07-31T05:14:03Z: PLAYER CHATTED [  603978302] nhoj90               (    7.4,     6.7,    97.4)
+  triffling
+2022-07-31T05:14:03Z: PLAYER CHATTED [  140450489] Iulian08             (   10.2,     8.9,    68.8)
+  women
+2022-07-31T05:14:03Z: PLAYER CHATTED [  360613243] Neepowglungus34      (   10.7,     6.8,    87.2)
+  is it him?
+2022-07-31T05:14:03Z: PLAYER CHATTED [ 2671046261] rtuaes               (  -99.3,    13.2,    34.6)
+  walking by
+2022-07-31T05:14:04Z: PLAYER CHATTED [  309875838] intheweb             (    8.7,     6.7,    99.0)
+  rub on you
+2022-07-31T05:14:04Z: PLAYER CHATTED [  895566941] urdadsabi            (    8.5,     9.3,    66.0)
+  shes superrrr interested
+2022-07-31T05:14:04Z: PLAYER CHATTED [ 3465727786] SalLavigne           (   10.3,     6.7,   102.0)
+  wth
+2022-07-31T05:14:05Z: PLAYER CHATTED [ 1502753066] HxloAcorpio          (   42.8,     9.5,    64.7)
+  no # ## ######
+2022-07-31T05:14:05Z: PLAYER CHATTED [  140450489] Iulian08             (   10.2,     8.9,    68.8)
+  no way
+2022-07-31T05:14:05Z: PLAYER ADDED   [  642695113] princeunivers
+2022-07-31T05:14:05Z: PLAYER CHATTED [  419359732] Ilikeducksforlife    (   11.4,     9.3,    62.1)
+  take some
+2022-07-31T05:14:06Z: PLAYER CHATTED [ 2707982240] The_Key22            (   10.4,     6.7,   101.9)
+  #####################
+2022-07-31T05:14:06Z: CHRCTER ADDED  [  733230669] alixsaujj            ( -130.6,     5.3,    90.5)
+2022-07-31T05:14:06Z: PLAYER CHATTED [  162120296] OCT0BXR              (    5.3,     9.4,    67.2)
+  Mine is too!!
+2022-07-31T05:14:08Z: PLAYER REMOVED [  965010494] OdinSamurai
+2022-07-31T05:14:09Z: PLAYER CHATTED [ 2707982240] The_Key22            (    9.6,     6.7,   101.3)
+  gets her prjejgnant
+2022-07-31T05:14:09Z: PLAYER CHATTED [ 1765732431] yeetusboy12345       (    5.9,     6.7,   100.0)
+  ill rub you bruh
+2022-07-31T05:14:09Z: PLAYER CHATTED [ 1502753066] HxloAcorpio          (   42.8,     9.5,    64.7)
+  I am
+2022-07-31T05:14:09Z: PLAYER CHATTED [  125822919] papilookgood         (  -95.2,    13.2,    28.5)
+  my my
+2022-07-31T05:14:11Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (    3.2,     9.4,    66.1)
+  OMG
+2022-07-31T05:14:11Z: PLAYER CHATTED [ 1502753066] HxloAcorpio          (   42.8,     9.5,    64.7)
+  ######
+2022-07-31T05:14:12Z: PLAYER CHATTED [  145877072] SlDXNEY              (    6.8,     6.7,   102.3)
+  idc bc hes air
+2022-07-31T05:14:12Z: PLAYER CHATTED [  151708256] LunaticAsylum10      (   12.2,     6.8,    85.6)
+  its who
+2022-07-31T05:14:14Z: PLAYER CHATTED [ 2707982240] The_Key22            (    6.7,     6.7,   101.9)
+  rubs it on her eg
+2022-07-31T05:14:14Z: PLAYER CHATTED [ 1502753066] HxloAcorpio          (   42.8,     9.5,    64.7)
+  Very
+2022-07-31T05:14:14Z: PLAYER CHATTED [  309875838] intheweb             (    8.5,     6.7,    99.3)
+  bru what
+2022-07-31T05:14:15Z: PLAYER CHATTED [  145877072] SlDXNEY              (    7.2,     6.7,   102.1)
+  omg
+2022-07-31T05:14:15Z: PLAYER CHATTED [ 2671046261] rtuaes               (  -99.3,    13.2,    34.6)
+  what about u
+2022-07-31T05:14:15Z: PLAYER CHATTED [ 2707982240] The_Key22            (    6.7,     6.7,   101.9)
+  aleg
+2022-07-31T05:14:15Z: PLAYER CHATTED [ 3470431995] ShaistaCelentano     (   48.4,     9.5,    64.2)
+  bro gio looking my tiwn
+2022-07-31T05:14:16Z: PLAYER CHATTED [ 1502753066] HxloAcorpio          (   42.8,     9.5,    64.7)
+  Racist
+2022-07-31T05:14:16Z: PLAYER CHATTED [  222712041] paris636             (    6.9,     8.8,    69.2)
+  PERCY
+2022-07-31T05:14:17Z: PLAYER CHATTED [  895566941] urdadsabi            (    8.2,     9.4,    67.0)
+
+2022-07-31T05:14:18Z: PLAYER CHATTED [  125822919] papilookgood         (  -95.2,    13.2,    28.5)
+  have you spoken to anyone else besides me
+2022-07-31T05:14:19Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (    2.0,     9.5,    67.1)
+  ?
+2022-07-31T05:14:19Z: PLAYER CHATTED [ 1765732431] yeetusboy12345       (    5.9,     6.7,   100.0)
+  ### heard me
+2022-07-31T05:14:19Z: PLAYER ADDED   [ 1693536750] boredbanker
+2022-07-31T05:14:20Z: PLAYER CHATTED [ 3470431995] ShaistaCelentano     (   48.4,     9.5,    64.2)
+  twin
+2022-07-31T05:14:20Z: PLAYER CHATTED [  360613243] Neepowglungus34      (   11.0,     6.8,    86.9)
+  are you harambe
+2022-07-31T05:14:20Z: PLAYER CHATTED [ 2707982240] The_Key22            (   14.1,     6.7,   101.7)
+  rusb it on her leg and hand
+2022-07-31T05:14:20Z: PLAYER ADDED   [ 1351011405] 980067om
+2022-07-31T05:14:22Z: PLAYER CHATTED [ 2707982240] The_Key22            (   11.9,     6.7,   102.0)
+  ughh
+2022-07-31T05:14:23Z: PLAYER CHATTED [ 3592730537] Instructor_Ed        (    1.1,     6.7,   100.5)
+  O_O
+2022-07-31T05:14:23Z: PLAYER CHATTED [ 2707982240] The_Key22            (   15.7,     6.7,   100.6)
+  feel it
+2022-07-31T05:14:23Z: PLAYER CHATTED [   25333670] SkiddBeefnut         (    9.4,     6.7,    97.6)
+  bro rubbibng on men
+2022-07-31T05:14:24Z: PLAYER CHATTED [  309875838] intheweb             (    8.5,     6.7,    99.3)
+  u tweaking!!
+2022-07-31T05:14:24Z: PLAYER CHATTED [  151708256] LunaticAsylum10      (   12.2,     6.8,    85.6)
+  yes
+2022-07-31T05:14:25Z: PLAYER CHATTED [ 2707982240] The_Key22            (   17.4,     6.7,    99.8)
+  feel ittttr
+2022-07-31T05:14:25Z: PLAYER CHATTED [ 3440614038] littleyummygurl      (    1.2,     6.8,    84.7)
+  wait i need drink ok
+2022-07-31T05:14:26Z: PLAYER CHATTED [  140450489] Iulian08             (   12.5,     9.3,    61.2)
+  wanna see me become
+2022-07-31T05:14:27Z: PLAYER CHATTED [ 2671046261] rtuaes               (  -99.3,    13.2,    34.6)
+  oh
+2022-07-31T05:14:27Z: PLAYER CHATTED [  222712041] paris636             (    5.7,     9.4,    64.3)
+  turn around
+2022-07-31T05:14:27Z: PLAYER CHATTED [  140450489] Iulian08             (   12.5,     9.3,    61.2)
+  a fish
+2022-07-31T05:14:27Z: PLAYER CHATTED [  145877072] SlDXNEY              (   19.3,     6.7,    99.6)
+  is there a /e punch emote
+2022-07-31T05:14:27Z: PLAYER CHATTED [   45171011] SilvioLantini        (   48.2,     9.5,    59.6)
+  double trouble for me ;)
+2022-07-31T05:14:27Z: PLAYER CHATTED [ 2707982240] The_Key22            (   18.2,     6.7,    99.4)
+  creams down her leg
+2022-07-31T05:14:28Z: PLAYER CHATTED [ 1502753066] HxloAcorpio          (   43.2,     9.5,    64.5)
+  LOL
+2022-07-31T05:14:29Z: PLAYER CHATTED [ 1765732431] yeetusboy12345       (    6.6,     6.7,    99.6)
+  IM TWEAKIN YOU
+2022-07-31T05:14:30Z: PLAYER CHATTED [ 3465727786] SalLavigne           (   19.0,     6.7,   101.8)
+  are they not embarrassed?
+2022-07-31T05:14:30Z: PLAYER CHATTED [  419359732] Ilikeducksforlife    (   10.3,     9.3,    63.7)
+  you want pancakes
+2022-07-31T05:14:30Z: PLAYER CHATTED [ 2671046261] rtuaes               (  -99.3,    13.2,    34.6)
+  not yet i suppose
+2022-07-31T05:14:31Z: CHRCTER ADDED  [  202342187] BonRoyalty           ( -130.5,     9.6,    62.8)
+2022-07-31T05:14:31Z: PLAYER CHATTED [  125822919] papilookgood         (  -95.2,    13.2,    28.5)
+  same just enjoying the enviornment
+2022-07-31T05:14:31Z: PLAYER ADDED   [ 1468775840] korean060808
+2022-07-31T05:14:31Z: PLAYER CHATTED [ 1502753066] HxloAcorpio          (   47.3,     9.5,    62.6)
+  LOL
+2022-07-31T05:14:31Z: PLAYER CHATTED [  360613243] Neepowglungus34      (   10.5,     6.8,    87.6)
+  i thought you was dead
+2022-07-31T05:14:31Z: PLAYER CHATTED [  733230669] alixsaujj            (    9.9,     7.0,    73.3)
+  hello
+2022-07-31T05:14:31Z: PLAYER CHATTED [  151708256] LunaticAsylum10      (   12.2,     6.8,    85.6)
+  noim not,
+2022-07-31T05:14:32Z: PLAYER CHATTED [  733230669] alixsaujj            (    9.9,     7.0,    73.3)
+  woman
+2022-07-31T05:14:33Z: PLAYER CHATTED [  309875838] intheweb             (   20.9,     6.7,    96.6)
+  sdhu
+2022-07-31T05:14:33Z: PLAYER CHATTED [  151708256] LunaticAsylum10      (   12.2,     6.8,    85.6)
+  im his cousin.
+2022-07-31T05:14:34Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (    2.0,     9.5,    67.1)
+  hi!
+2022-07-31T05:14:34Z: PLAYER CHATTED [  140450489] Iulian08             (   12.5,     9.3,    61.2)
+  no
+2022-07-31T05:14:35Z: PLAYER CHATTED [  733230669] alixsaujj            (    9.9,     7.0,    73.3)
+  how are u
+2022-07-31T05:14:35Z: PLAYER CHATTED [   25333670] SkiddBeefnut         (   16.5,     6.7,    99.9)
+  triffling
+2022-07-31T05:14:35Z: PLAYER CHATTED [  360613243] Neepowglungus34      (   10.5,     6.8,    87.6)
+  oh nvm
+2022-07-31T05:14:36Z: PLAYER CHATTED [ 1502753066] HxloAcorpio          (   47.3,     9.5,    62.6)
+  GET ROASTED
+2022-07-31T05:14:36Z: PLAYER CHATTED [  151708256] LunaticAsylum10      (   12.2,     6.8,    85.6)
+  the ultimate monkey
+2022-07-31T05:14:36Z: PLAYER CHATTED [  733230669] alixsaujj            (    9.9,     7.0,    73.3)
+  smash?
+2022-07-31T05:14:37Z: PLAYER CHATTED [  162120296] OCT0BXR              (    5.9,     9.4,    66.8)
+  Hii
+2022-07-31T05:14:37Z: PLAYER CHATTED [ 1502753066] HxloAcorpio          (   50.9,     9.5,    66.4)
+  LOL
+2022-07-31T05:14:38Z: CHRCTER ADDED  [  539781492] ToxicDiamond24       ( -130.6,     5.3,    90.5)
+2022-07-31T05:14:38Z: PLAYER CHATTED [  145877072] SlDXNEY              (   21.4,     6.7,   100.8)
+  no
+2022-07-31T05:14:39Z: PLAYER CHATTED [  171562080] BakiTube             (   -2.9,     6.8,    83.7)
+  whats good girl
+2022-07-31T05:14:39Z: PLAYER CHATTED [  125822919] papilookgood         (  -95.2,    13.2,    28.5)
+  thank you waitor
+2022-07-31T05:14:39Z: PLAYER CHATTED [  222712041] paris636             (    3.8,     9.4,    64.6)
+  lose the car love
+2022-07-31T05:14:40Z: PLAYER CHATTED [  309875838] intheweb             (   19.2,     6.7,    99.9)
+  listen gang
+2022-07-31T05:14:41Z: PLAYER CHATTED [  162120296] OCT0BXR              (    5.9,     9.4,    66.8)
+  I've seen you before.
+2022-07-31T05:14:41Z: PLAYER ADDED   [ 2657843269] LorenzoLantini
+2022-07-31T05:14:42Z: PLAYER CHATTED [ 2707982240] The_Key22            (   22.4,     6.7,    75.5)
+  holds her
+2022-07-31T05:14:42Z: PLAYER CHATTED [  151708256] LunaticAsylum10      (   11.4,     6.8,    86.8)
+  ill turn u into a monkeytoo..
+2022-07-31T05:14:42Z: PLAYER ADDED   [ 3500045976] iJustWantBrownies
+2022-07-31T05:14:42Z: PLAYER CHATTED [ 1635986430] DrXmaQuXeen          (    0.7,     6.9,    79.6)
+  wsg
+2022-07-31T05:14:44Z: PLAYER CHATTED [ 1502753066] HxloAcorpio          (   48.1,     9.5,    64.3)
+  L
+2022-07-31T05:14:44Z: PLAYER CHATTED [  419359732] Ilikeducksforlife    (   10.3,     9.3,    63.7)
+  i heard fish like pancakes
+2022-07-31T05:14:44Z: PLAYER CHATTED [ 2707982240] The_Key22            (   22.7,     6.7,    75.1)
+  to the railing
+2022-07-31T05:14:44Z: PLAYER CHATTED [ 3499836937] Scarface13_2         (  -93.0,    12.7,    32.5)
+  ..
+2022-07-31T05:14:44Z: PLAYER CHATTED [  360613243] Neepowglungus34      (   10.5,     6.8,    87.6)
+  and even gay
+2022-07-31T05:14:45Z: PLAYER CHATTED [  895566941] urdadsabi            (    8.1,     7.7,    71.8)
+  where are ur friends
+2022-07-31T05:14:46Z: PLAYER ADDED   [  307997457] CamronTrainLover
+2022-07-31T05:14:46Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (    2.0,     9.5,    67.1)
+  okay one min
+2022-07-31T05:14:47Z: PLAYER CHATTED [  309875838] intheweb             (   19.0,     6.7,    99.1)
+  im tryna
+2022-07-31T05:14:48Z: PLAYER CHATTED [  125822919] papilookgood         (  -95.2,    13.2,    28.5)
+  oh
+2022-07-31T05:14:48Z: PLAYER REMOVED [ 2206977473] Razervin
+2022-07-31T05:14:48Z: PLAYER CHATTED [  360613243] Neepowglungus34      (   10.5,     6.8,    87.6)
+  mwa
+2022-07-31T05:14:49Z: PLAYER CHATTED [  171562080] BakiTube             (   -1.7,     6.8,    82.3)
+  how u doin
+2022-07-31T05:14:49Z: PLAYER CHATTED [ 2414763766] devan735             (   18.8,     9.3,    57.2)
+  fish
+2022-07-31T05:14:49Z: PLAYER CHATTED [ 2707982240] The_Key22            (   21.2,     6.7,    75.2)
+  you're such a ja
+2022-07-31T05:14:50Z: PLAYER CHATTED [  309875838] intheweb             (   19.0,     6.7,    99.1)
+  give the world to you ight
+2022-07-31T05:14:50Z: PLAYER CHATTED [  895566941] urdadsabi            (    8.1,     7.7,    71.8)
+  wheres the kit guy
+2022-07-31T05:14:51Z: PLAYER CHATTED [ 2707982240] The_Key22            (   21.5,     7.0,    73.3)
+  jap
+2022-07-31T05:14:51Z: PLAYER CHATTED [  125822919] papilookgood         (  -95.2,    13.2,    28.5)
+  i see
+2022-07-31T05:14:52Z: PLAYER CHATTED [  642695113] princeunivers        (  -71.7,    12.6,    80.7)
+  evening!
+2022-07-31T05:14:53Z: PLAYER CHATTED [  151708256] LunaticAsylum10      (   10.6,     6.8,    86.7)
+  yes
+2022-07-31T05:14:54Z: PLAYER CHATTED [ 2707982240] The_Key22            (   21.9,     6.7,    74.1)
+  kookneeechiwa!
+2022-07-31T05:14:54Z: PLAYER CHATTED [  733230669] alixsaujj            (    9.9,     7.0,    73.3)
+  idek mane
+2022-07-31T05:14:54Z: PLAYER CHATTED [ 1635986430] DrXmaQuXeen          (    0.7,     6.9,    79.6)
+  im good
+2022-07-31T05:14:54Z: PLAYER CHATTED [  309875838] intheweb             (   19.0,     6.7,    99.1)
+  and if u keep playn
+2022-07-31T05:14:57Z: PLAYER CHATTED [ 2707982240] The_Key22            (   22.8,     6.7,    76.2)
+  ur spying ### north korea
+2022-07-31T05:14:57Z: PLAYER CHATTED [  309875838] intheweb             (   19.0,     6.7,    99.1)
+  imma ####
+2022-07-31T05:14:57Z: PLAYER CHATTED [ 3470431995] ShaistaCelentano     (   52.5,     9.5,    64.3)
+  son humbe yo self u aint look any better
+2022-07-31T05:14:58Z: PLAYER CHATTED [  125822919] papilookgood         (  -95.2,    13.2,    28.5)
+  what may i call you
+2022-07-31T05:14:58Z: PLAYER CHATTED [  895566941] urdadsabi            (    8.1,     7.7,    71.8)
+  go get him
+2022-07-31T05:14:59Z: PLAYER CHATTED [ 2707982240] The_Key22            (   22.8,     6.7,    76.2)
+  dont lied
+2022-07-31T05:14:59Z: PLAYER CHATTED [ 2291743607] 4EZ4KMI              (  -65.6,    12.5,    77.3)
+  good evening maam
+2022-07-31T05:15:00Z: PLAYER CHATTED [  309875838] intheweb             (   19.0,     6.7,    99.1)
+  this whole function up
+2022-07-31T05:15:00Z: PLAYER CHATTED [  733230669] alixsaujj            (   12.3,     7.7,    71.7)
+  dm him
+2022-07-31T05:15:01Z: PLAYER CHATTED [ 1635986430] DrXmaQuXeen          (    0.5,     6.9,    79.2)
+  wbu
+2022-07-31T05:15:01Z: PLAYER CHATTED [  171562080] BakiTube             (   -1.7,     6.8,    82.3)
+  you waitin for someone?
+2022-07-31T05:15:02Z: PLAYER CHATTED [  309875838] intheweb             (   19.0,     6.7,    99.1)
+  word to my deads
+2022-07-31T05:15:02Z: PLAYER CHATTED [ 2671046261] rtuaes               (  -99.3,    13.2,    34.6)
+  rt
+2022-07-31T05:15:04Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (    2.0,     9.5,    67.1)
+  brb i promise
+2022-07-31T05:15:04Z: PLAYER CHATTED [  309875838] intheweb             (   19.0,     6.7,    99.1)
+  i got top g wimmie
+2022-07-31T05:15:05Z: PLAYER CHATTED [ 2707982240] The_Key22            (   26.7,    11.8,    73.6)
+  stop being such a loser
+2022-07-31T05:15:05Z: PLAYER REMOVED [ 1351011405] 980067om
+2022-07-31T05:15:06Z: PLAYER CHATTED [  222712041] paris636             (   20.0,     9.3,    62.1)
+  wheres Vermin
+2022-07-31T05:15:06Z: PLAYER CHATTED [  642695113] princeunivers        (  -71.7,    12.6,    80.7)
+  ^^
+2022-07-31T05:15:06Z: PLAYER CHATTED [ 1635986430] DrXmaQuXeen          (    0.5,     6.9,    79.2)
+  not really
+2022-07-31T05:15:06Z: PLAYER CHATTED [  733230669] alixsaujj            (   12.3,     7.7,    71.7)
+  ###############
+2022-07-31T05:15:07Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   22.1,     9.3,    63.4)
+  fr
+2022-07-31T05:15:07Z: PLAYER CHATTED [ 2707982240] The_Key22            (   26.8,    12.0,    73.6)
+  go take a shower
+2022-07-31T05:15:08Z: CHRCTER ADDED  [  320088575] PercyBoudreaux       ( -130.6,    14.6,   101.5)
+2022-07-31T05:15:09Z: PLAYER CHATTED [  360613243] Neepowglungus34      (    9.9,     6.8,    87.7)
+  i dont really wanna be a monkey
+2022-07-31T05:15:09Z: PLAYER CHATTED [ 2671046261] rtuaes               (  -99.3,    13.2,    34.6)
+  what about u
+2022-07-31T05:15:09Z: PLAYER CHATTED [ 2707982240] The_Key22            (   26.8,    12.0,    73.6)
+  you smell like discharge
+2022-07-31T05:15:09Z: PLAYER CHATTED [  145877072] SlDXNEY              (   21.4,     6.7,   100.8)
+  ur dramatic so imma pass
+2022-07-31T05:15:10Z: PLAYER CHATTED [  125822919] papilookgood         (  -95.2,    13.2,    28.5)
+  hmm nice
+2022-07-31T05:15:10Z: PLAYER CHATTED [  171562080] BakiTube             (   -1.7,     6.8,    82.3)
+  Chillin u know
+2022-07-31T05:15:10Z: PLAYER ADDED   [ 1668822328] OptionalFriend
+2022-07-31T05:15:10Z: PLAYER CHATTED [ 2707982240] The_Key22            (   26.8,    12.0,    73.6)
+  and shx
+2022-07-31T05:15:11Z: PLAYER CHATTED [  733230669] alixsaujj            (   12.3,     7.7,    71.7)
+  im not ur worker
+2022-07-31T05:15:12Z: PLAYER CHATTED [  360613243] Neepowglungus34      (    9.9,     6.8,    87.7)
+  they throw poo
+2022-07-31T05:15:13Z: PLAYER CHATTED [  309875838] intheweb             (   19.2,     6.7,    98.8)
+  ow
+2022-07-31T05:15:13Z: PLAYER CHATTED [  202342187] BonRoyalty           (   48.7,     9.5,    60.5)
+  dam
+2022-07-31T05:15:13Z: PLAYER CHATTED [ 3186575360] ParisaBeccari        (   28.1,    13.0,    70.3)
+  Thank you
+2022-07-31T05:15:13Z: PLAYER CHATTED [ 1635986430] DrXmaQuXeen          (    0.5,     6.9,    79.2)
+  just listening to music yk
+2022-07-31T05:15:14Z: PLAYER CHATTED [ 1502753066] HxloAcorpio          (   43.1,     9.5,    63.3)
+  ok bald black man fem boy
+2022-07-31T05:15:15Z: PLAYER CHATTED [   25333670] SkiddBeefnut         (   19.9,     6.7,    96.2)
+  triffling
+2022-07-31T05:15:15Z: PLAYER CHATTED [ 2707982240] The_Key22            (   26.8,    12.0,    73.6)
+  nasty aaa swamp bjjbs
+2022-07-31T05:15:16Z: PLAYER CHATTED [ 1635986430] DrXmaQuXeen          (    0.5,     6.9,    79.2)
+  ye
+2022-07-31T05:15:16Z: PLAYER CHATTED [  309875838] intheweb             (   19.2,     6.7,    98.8)
+  this crazy
+2022-07-31T05:15:16Z: PLAYER CHATTED [  733230669] alixsaujj            (   12.3,     7.7,    71.7)
+  get him urself
+2022-07-31T05:15:17Z: PLAYER CHATTED [  309875838] intheweb             (   19.2,     6.7,    98.8)
+  triffling
+2022-07-31T05:15:18Z: CHRCTER ADDED  [   45171011] SilvioLantini        ( -130.6,    13.9,   101.5)
+2022-07-31T05:15:18Z: PLAYER CHATTED [  603978302] nhoj90               (   16.2,     6.7,    95.4)
+  triffling
+2022-07-31T05:15:19Z: PLAYER CHATTED [  140450489] Iulian08             (   13.5,     9.3,    60.3)
+  funny
+2022-07-31T05:15:20Z: PLAYER CHATTED [  495343673] Pixelcyte            (   17.5,     6.7,    97.9)
+  triffling
+2022-07-31T05:15:20Z: PLAYER CHATTED [  419359732] Ilikeducksforlife    (   10.2,     9.3,    61.2)
+  chezburger
+2022-07-31T05:15:21Z: PLAYER CHATTED [   25333670] SkiddBeefnut         (   20.9,     6.7,    96.8)
+  triffling
+2022-07-31T05:15:22Z: PLAYER CHATTED [  140450489] Iulian08             (    9.4,     9.3,    56.3)
+  OMG
+2022-07-31T05:15:22Z: PLAYER REMOVED [ 3592730537] Instructor_Ed
+2022-07-31T05:15:23Z: PLAYER CHATTED [  309875838] intheweb             (   21.2,     6.7,    99.6)
+  Imma do it
+2022-07-31T05:15:23Z: PLAYER CHATTED [  202342187] BonRoyalty           (   48.7,     9.5,    60.5)
+  me personally i would NEVER take that lvl iof disrespect
+2022-07-31T05:15:23Z: PLAYER CHATTED [ 3470431995] ShaistaCelentano     (   52.6,     9.5,    62.4)
+  im a woman
+2022-07-31T05:15:23Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (    1.2,     9.5,    67.1)
+  IM BACK
+2022-07-31T05:15:24Z: PLAYER CHATTED [  125822919] papilookgood         (  -95.2,    13.2,    28.5)
+  you may call me mer
+2022-07-31T05:15:25Z: PLAYER CHATTED [ 3440614038] littleyummygurl      (    2.1,     6.8,    80.6)
+  whos that?😒
+2022-07-31T05:15:26Z: PLAYER CHATTED [   91370482] 11B6T                (   14.1,    15.9,    57.6)
+  swim
+2022-07-31T05:15:26Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (    1.2,     9.5,    67.1)
+  hi!
+2022-07-31T05:15:26Z: PLAYER CHATTED [  309875838] intheweb             (   21.2,     6.7,    99.6)
+  Will Smith stype
+2022-07-31T05:15:27Z: PLAYER CHATTED [  162120296] OCT0BXR              (    5.7,     9.4,    67.3)
+  WELCOME BACK
+2022-07-31T05:15:27Z: PLAYER CHATTED [  255047973] clay_great           (    8.6,     6.7,    76.0)
+  yo
+2022-07-31T05:15:27Z: PLAYER CHATTED [  171562080] BakiTube             (   -1.7,     6.8,    82.3)
+  which one this in here or?
+2022-07-31T05:15:28Z: PLAYER CHATTED [  309875838] intheweb             (   21.2,     6.7,    99.6)
+  style
+2022-07-31T05:15:29Z: PLAYER CHATTED [  162120296] OCT0BXR              (    5.7,     9.4,    67.3)
+  Hi!
+2022-07-31T05:15:29Z: PLAYER CHATTED [  603978302] nhoj90               (   23.8,     6.7,    99.1)
+  mans triffling
+2022-07-31T05:15:30Z: PLAYER CHATTED [  255047973] clay_great           (    8.6,     6.7,    76.0)
+  kit is over here
+2022-07-31T05:15:31Z: PLAYER CHATTED [ 1765732431] yeetusboy12345       (   16.3,     6.7,    97.7)
+  triflin
+2022-07-31T05:15:31Z: PLAYER CHATTED [ 1502753066] HxloAcorpio          (   49.7,    12.8,    68.3)
+  mhm.
+2022-07-31T05:15:31Z: PLAYER CHATTED [  612803033] wandel2011           (  -64.5,    12.6,    86.6)
+  I am security
+2022-07-31T05:15:32Z: PLAYER CHATTED [  145877072] SlDXNEY              (   21.8,     6.7,   102.1)
+  ayo
+2022-07-31T05:15:32Z: PLAYER CHATTED [ 1635986430] DrXmaQuXeen          (    0.5,     6.9,    79.2)
+  spotify
+2022-07-31T05:15:33Z: PLAYER CHATTED [   91370482] 11B6T                (   14.9,    15.7,    59.7)
+  how come you'er sinking constatly
+2022-07-31T05:15:34Z: PLAYER CHATTED [ 2671046261] rtuaes               (  -99.3,    13.2,    34.6)
+  alright
+2022-07-31T05:15:35Z: PLAYER CHATTED [ 1635986430] DrXmaQuXeen          (    0.5,     6.9,    79.2)
+  def not this
+2022-07-31T05:15:35Z: PLAYER ADDED   [ 2552596994] Rizq124thd
+2022-07-31T05:15:35Z: PLAYER CHATTED [ 2707982240] The_Key22            (    2.4,     8.9,    78.5)
+  ########################
+2022-07-31T05:15:35Z: PLAYER CHATTED [  612803033] wandel2011           (  -64.5,    12.6,    86.6)
+  And secret agent
+2022-07-31T05:15:35Z: PLAYER CHATTED [   91370482] 11B6T                (   16.3,    16.3,    61.7)
+  diff script?
+2022-07-31T05:15:36Z: PLAYER CHATTED [ 1693536750] boredbanker          (    2.4,     9.4,    61.6)
+  What did HE do?
+2022-07-31T05:15:36Z: PLAYER CHATTED [  110093182] GiovanniJStanfa      (   50.9,     9.5,    59.1)
+  she's a weirdo
+2022-07-31T05:15:37Z: PLAYER CHATTED [  202342187] BonRoyalty           (   48.7,     9.5,    60.5)
+  nice moustache
+2022-07-31T05:15:38Z: PLAYER CHATTED [ 2707982240] The_Key22            (    0.6,     6.9,    76.5)
+  rubs my cjck
+2022-07-31T05:15:38Z: PLAYER CHATTED [  309875838] intheweb             (   21.6,     6.7,    99.7)
+  had to
+2022-07-31T05:15:38Z: PLAYER CHATTED [  539781492] ToxicDiamond24       (   24.8,     6.7,    95.4)
+  Yo you.
+2022-07-31T05:15:38Z: PLAYER CHATTED [ 1635986430] DrXmaQuXeen          (    0.5,     6.9,    79.2)
+  not my tyoe
+2022-07-31T05:15:39Z: PLAYER CHATTED [  733230669] alixsaujj            (   12.3,     7.7,    71.7)
+  no
+2022-07-31T05:15:39Z: PLAYER CHATTED [  110093182] GiovanniJStanfa      (   50.9,     9.5,    59.1)
+  ignore her
+2022-07-31T05:15:39Z: PLAYER CHATTED [ 3465727786] SalLavigne           (   17.3,     6.7,   101.8)
+  how are they not ashamed of themself
+2022-07-31T05:15:39Z: PLAYER CHATTED [ 2707982240] The_Key22            (    1.5,     6.9,    77.9)
+  on her
+2022-07-31T05:15:39Z: PLAYER CHATTED [ 2291743607] 4EZ4KMI              (  -65.6,    12.5,    77.3)
+  cool
+2022-07-31T05:15:40Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   28.8,     6.7,    96.1)
+  yea
+2022-07-31T05:15:41Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   26.4,     6.7,    97.1)
+  yo
+2022-07-31T05:15:42Z: PLAYER CHATTED [  125822919] papilookgood         (  -95.2,    13.2,    28.5)
+  hows your night so far
+2022-07-31T05:15:42Z: PLAYER CHATTED [  202342187] BonRoyalty           (   48.7,     9.5,    60.5)
+  bet
+2022-07-31T05:15:43Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (    2.0,     9.5,    67.0)
+  how's everything?
+2022-07-31T05:15:43Z: PLAYER CHATTED [  612803033] wandel2011           (  -66.6,    12.6,    86.8)
+  a preasure
+2022-07-31T05:15:43Z: PLAYER CHATTED [  140450489] Iulian08             (   19.2,    15.6,    77.5)
+  IM USING
+2022-07-31T05:15:43Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   26.4,     6.7,    97.1)
+  fella
+2022-07-31T05:15:43Z: PLAYER CHATTED [  145877072] SlDXNEY              (   13.7,     6.7,   101.8)
+  dk
+2022-07-31T05:15:43Z: PLAYER CHATTED [ 1635986430] DrXmaQuXeen          (    0.5,     6.9,    79.2)
+  kendrick
+2022-07-31T05:15:43Z: PLAYER CHATTED [  733230669] alixsaujj            (   11.5,     7.5,    71.9)
+  i will stay on ur ah
+2022-07-31T05:15:44Z: PLAYER CHATTED [ 3465727786] SalLavigne           (   17.3,     6.7,   101.8)
+  like
+2022-07-31T05:15:44Z: PLAYER CHATTED [  539781492] ToxicDiamond24       (   24.3,     6.7,    95.9)
+  Do you have a time of your life to speak with us?
+2022-07-31T05:15:45Z: PLAYER CHATTED [  309875838] intheweb             (   20.7,     6.7,    98.5)
+  man
+2022-07-31T05:15:45Z: PLAYER CHATTED [  151708256] LunaticAsylum10      (   12.1,     6.8,    86.2)
+  what happened
+2022-07-31T05:15:45Z: PLAYER CHATTED [  140450489] Iulian08             (   19.9,    15.6,    82.1)
+  im using
+2022-07-31T05:15:45Z: PLAYER CHATTED [  202342187] BonRoyalty           (   48.7,     9.5,    60.5)
+  teehee
+2022-07-31T05:15:45Z: PLAYER CHATTED [ 1668822328] OptionalFriend       (   20.5,     9.3,    65.2)
+  Back
+2022-07-31T05:15:45Z: PLAYER CHATTED [ 2707982240] The_Key22            (   -0.8,     6.9,    79.9)
+  what're we listening to?
+2022-07-31T05:15:45Z: PLAYER ADDED   [ 3502298169] jexxe26
+2022-07-31T05:15:46Z: PLAYER CHATTED [  733230669] alixsaujj            (   11.5,     7.5,    71.9)
+  OH
+2022-07-31T05:15:47Z: PLAYER CHATTED [ 1635986430] DrXmaQuXeen          (    0.5,     6.9,    79.2)
+  and carti
+2022-07-31T05:15:48Z: PLAYER CHATTED [  733230669] alixsaujj            (   11.5,     7.5,    71.9)
+  LORENZO
+2022-07-31T05:15:48Z: PLAYER CHATTED [  309875838] intheweb             (   21.9,     6.7,    98.9)
+  man what
+2022-07-31T05:15:48Z: PLAYER CHATTED [ 2414763766] devan735             (  -65.6,    12.5,    90.5)
+  im a security too
+2022-07-31T05:15:48Z: PLAYER CHATTED [ 1765732431] yeetusboy12345       (   17.2,     6.7,    97.9)
+  ## #### ashamed of u
+2022-07-31T05:15:48Z: PLAYER CHATTED [  140450489] Iulian08             (   15.8,    15.6,    54.5)
+  infinitw
+2022-07-31T05:15:49Z: PLAYER CHATTED [  145877072] SlDXNEY              (   13.7,     6.7,   101.8)
+  since they are nobodys
+2022-07-31T05:15:49Z: PLAYER CHATTED [ 2707982240] The_Key22            (   -1.7,     6.9,    80.0)
+  kendrick sucks
+2022-07-31T05:15:49Z: CHRCTER ADDED  [  495343673] Pixelcyte            ( -130.6,     5.3,    74.5)
+2022-07-31T05:15:49Z: PLAYER CHATTED [  171562080] BakiTube             (   -1.7,     6.8,    82.3)
+  yea i tought ur crazy
+2022-07-31T05:15:49Z: PLAYER CHATTED [  145877072] SlDXNEY              (   13.7,     6.7,   101.8)
+  .
+2022-07-31T05:15:50Z: PLAYER CHATTED [ 2671046261] rtuaes               (  -99.3,    13.2,    34.6)
+  its fine
+2022-07-31T05:15:50Z: PLAYER CHATTED [  140450489] Iulian08             (   18.6,    15.6,    73.9)
+  yield
+2022-07-31T05:15:51Z: PLAYER CHATTED [  145877072] SlDXNEY              (   13.7,     6.7,   101.8)
+  ..
+2022-07-31T05:15:52Z: PLAYER CHATTED [ 2490568659] Ladon_unknown        (    5.6,     9.4,    67.5)
+  i fart
+2022-07-31T05:15:52Z: PLAYER CHATTED [  162120296] OCT0BXR              (    5.7,     9.4,    67.3)
+  A lot more interesting
+2022-07-31T05:15:52Z: PLAYER CHATTED [ 1635986430] DrXmaQuXeen          (    0.5,     6.9,    79.2)
+  what
+2022-07-31T05:15:54Z: PLAYER CHATTED [  895566941] urdadsabi            (    9.3,     9.4,    66.5)
+  bri.
+2022-07-31T05:15:54Z: PLAYER CHATTED [ 2707982240] The_Key22            (   -1.7,     6.9,    80.0)
+  LOL carti is even worse
+2022-07-31T05:15:54Z: PLAYER CHATTED [   91370482] 11B6T                (   18.5,    17.2,    68.4)
+  im using inf yield too
+2022-07-31T05:15:54Z: PLAYER CHATTED [  612803033] wandel2011           (  -66.7,    12.6,    87.1)
+  oh nice
+2022-07-31T05:15:55Z: CHRCTER ADDED  [   41173514] CaIiban              ( -130.6,     9.1,   101.5)
+2022-07-31T05:15:55Z: PLAYER CHATTED [ 1696510323] chubby_ch3eks        (  -93.3,    12.7,    34.0)
+  what are u
+2022-07-31T05:15:55Z: PLAYER CHATTED [  733230669] alixsaujj            (   14.4,     6.8,    85.7)
+  .
+2022-07-31T05:15:56Z: PLAYER CHATTED [  733230669] alixsaujj            (   14.4,     6.8,    85.7)
+  .
+2022-07-31T05:15:56Z: PLAYER CHATTED [  895566941] urdadsabi            (    9.3,     9.4,    66.5)
+  come.
+2022-07-31T05:15:56Z: PLAYER REMOVED [ 2015292975] Rion_Roy
+2022-07-31T05:15:57Z: PLAYER CHATTED [ 1635986430] DrXmaQuXeen          (    0.5,     6.9,    79.2)
+  how
+2022-07-31T05:15:57Z: PLAYER CHATTED [ 3465727786] SalLavigne           (   17.3,     6.7,   101.8)
+  wait i didnt see what you said
+2022-07-31T05:15:57Z: PLAYER CHATTED [ 2671046261] rtuaes               (  -99.3,    13.2,    34.6)
+  very normal
+2022-07-31T05:15:57Z: PLAYER CHATTED [ 1502753066] HxloAcorpio          (   45.5,     9.5,    60.2)
+  Oh nah
+2022-07-31T05:15:58Z: PLAYER CHATTED [ 2707982240] The_Key22            (   -1.7,     6.9,    80.0)
+  all njgjgjger music
+2022-07-31T05:15:58Z: PLAYER CHATTED [  255047973] clay_great           (   17.7,     6.8,    86.7)
+  hes here
+2022-07-31T05:15:58Z: PLAYER CHATTED [  125822919] papilookgood         (  -95.2,    13.2,    28.5)
+  ur dad
+2022-07-31T05:15:59Z: PLAYER CHATTED [  145877072] SlDXNEY              (   13.7,     6.7,   101.8)
+  i mean such great peiple!
+2022-07-31T05:15:59Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (    2.0,     9.5,    67.0)
+  good!
+2022-07-31T05:15:59Z: PLAYER CHATTED [ 3465727786] SalLavigne           (   17.3,     6.7,   101.8)
+  dm it please
+2022-07-31T05:15:59Z: PLAYER CHATTED [  162120296] OCT0BXR              (    5.1,     9.4,    67.0)
+  Which girl is it?
+2022-07-31T05:15:59Z: PLAYER CHATTED [   45171011] SilvioLantini        (   43.6,     9.5,    58.0)
+  Lorenzo
+2022-07-31T05:15:59Z: PLAYER CHATTED [  612803033] wandel2011           (  -66.7,    12.6,    87.1)
+  My name is W
+2022-07-31T05:15:59Z: PLAYER CHATTED [  255047973] clay_great           (   17.7,     6.8,    86.7)
+  d
+2022-07-31T05:16:00Z: PLAYER CHATTED [ 1635986430] DrXmaQuXeen          (    0.5,     6.9,    79.2)
+  kendrick is good
+2022-07-31T05:16:00Z: PLAYER CHATTED [  603978302] nhoj90               (   23.9,     6.7,    98.6)
+  sure
+2022-07-31T05:16:00Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   26.4,     6.7,    97.1)
+  We are a friend of
+2022-07-31T05:16:01Z: PLAYER CHATTED [  140450489] Iulian08             (   19.5,     6.7,    74.8)
+  well are you in noclip
+2022-07-31T05:16:01Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   26.4,     6.7,    97.1)
+  caddy
+2022-07-31T05:16:01Z: PLAYER CHATTED [  145877072] SlDXNEY              (   13.7,     6.7,   101.8)
+  people
+2022-07-31T05:16:02Z: PLAYER CHATTED [  222712041] paris636             (    4.4,     9.4,    61.9)
+  cmere
+2022-07-31T05:16:02Z: PLAYER CHATTED [   45171011] SilvioLantini        (   43.6,     9.5,    58.0)
+  hop in vc
+2022-07-31T05:16:02Z: PLAYER CHATTED [ 1765732431] yeetusboy12345       (   15.8,     6.7,    98.1)
+  AGAGAGAGGAGAGA
+2022-07-31T05:16:03Z: PLAYER CHATTED [ 2657843269] LorenzoLantini       (   44.9,     9.5,    56.7)
+  hm?
+2022-07-31T05:16:03Z: PLAYER CHATTED [ 1696510323] chubby_ch3eks        (  -93.3,    12.7,    34.0)
+  no fr
+2022-07-31T05:16:03Z: PLAYER CHATTED [  309875838] intheweb             (   20.4,     6.7,    98.6)
+  Miles Bridges
+2022-07-31T05:16:03Z: PLAYER CHATTED [ 2707982240] The_Key22            (    0.7,     6.8,    82.0)
+  give up on her
+2022-07-31T05:16:04Z: PLAYER CHATTED [  162120296] OCT0BXR              (    5.1,     9.4,    67.0)
+  I can have someone go and bother her.
+2022-07-31T05:16:04Z: PLAYER ADDED   [ 2537419642] IAMNOTASLUG
+2022-07-31T05:16:05Z: PLAYER CHATTED [ 2657843269] LorenzoLantini       (   45.6,     9.5,    55.5)
+  alr
+2022-07-31T05:16:05Z: PLAYER CHATTED [ 1502753066] HxloAcorpio          (   46.0,     9.5,    59.4)
+  Almost thought you were Silvio
+2022-07-31T05:16:06Z: PLAYER CHATTED [   91370482] 11B6T                (   16.8,    12.2,    71.4)
+  yea
+2022-07-31T05:16:07Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (    2.0,     9.5,    67.0)
+  man*
+2022-07-31T05:16:07Z: PLAYER REMOVED [ 2921848699] 7_weasley
+2022-07-31T05:16:07Z: PLAYER CHATTED [  539781492] ToxicDiamond24       (   24.3,     6.7,    95.9)
+  Yeah.
+2022-07-31T05:16:07Z: PLAYER CHATTED [ 2707982240] The_Key22            (    0.7,     6.8,    82.0)
+  not worth it
+2022-07-31T05:16:08Z: PLAYER CHATTED [  171562080] BakiTube             (   -1.7,     6.8,    82.3)
+  nah my boy that hits hard
+2022-07-31T05:16:09Z: PLAYER ADDED   [ 3410097550] aveixxx50
+2022-07-31T05:16:09Z: PLAYER CHATTED [  140450489] Iulian08             (   19.5,     6.7,    74.8)
+  idk
+2022-07-31T05:16:10Z: PLAYER REMOVED [ 2490568659] Ladon_unknown
+2022-07-31T05:16:10Z: PLAYER CHATTED [ 1765732431] yeetusboy12345       (   14.9,     6.7,    99.0)
+  lets do some buisness
+2022-07-31T05:16:11Z: PLAYER CHATTED [   91370482] 11B6T                (   16.8,    12.2,    71.4)
+  not anymore
+2022-07-31T05:16:12Z: PLAYER CHATTED [  222712041] paris636             (    2.8,     9.4,    60.7)
+  imma gonna talk abt it
+2022-07-31T05:16:13Z: PLAYER CHATTED [ 1635986430] DrXmaQuXeen          (    0.5,     6.9,    79.2)
+  coo coo
+2022-07-31T05:16:13Z: PLAYER CHATTED [ 3465727786] SalLavigne           (   17.3,     6.7,   101.8)
+  oh yeah! totally
+2022-07-31T05:16:13Z: PLAYER CHATTED [ 2464177758] Darkness_Alloy       (   15.9,     6.7,    95.1)
+  Where is pixel?
+2022-07-31T05:16:13Z: PLAYER CHATTED [  140450489] Iulian08             (   19.5,     6.7,    74.8)
+  mine is glitched
+2022-07-31T05:16:14Z: PLAYER CHATTED [ 3465727786] SalLavigne           (   17.3,     6.7,   101.8)
+  LOL
+2022-07-31T05:16:15Z: PLAYER CHATTED [  325214770] goodlgirlz           (  -74.6,    12.5,    70.1)
+  ohhh shoot
+2022-07-31T05:16:15Z: PLAYER CHATTED [  162120296] OCT0BXR              (    5.1,     9.4,    67.0)
+  Oh my bad!!
+2022-07-31T05:16:16Z: PLAYER CHATTED [  145877072] SlDXNEY              (   13.7,     6.7,   101.8)
+  business?
+2022-07-31T05:16:17Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (    2.0,     9.5,    67.0)
+  nah that's cool
+2022-07-31T05:16:17Z: PLAYER CHATTED [  895566941] urdadsabi            (  -71.9,    12.5,    68.2)
+  they keep
+2022-07-31T05:16:18Z: PLAYER CHATTED [  222712041] paris636             (    0.1,     9.5,    57.1)
+  in fromt of them
+2022-07-31T05:16:18Z: PLAYER CHATTED [  325214770] goodlgirlz           (  -74.6,    12.5,    70.1)
+  😬
+2022-07-31T05:16:19Z: PLAYER CHATTED [  895566941] urdadsabi            (  -71.9,    12.5,    68.2)
+  saying
+2022-07-31T05:16:19Z: PLAYER CHATTED [ 1765732431] yeetusboy12345       (   15.4,     6.7,    99.4)
+  yesss
+2022-07-31T05:16:20Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (    2.0,     9.5,    67.0)
+  it's alright!
+2022-07-31T05:16:20Z: PLAYER CHATTED [  171562080] BakiTube             (   -1.7,     6.8,    82.3)
+  ngl weird ppl here
+2022-07-31T05:16:21Z: PLAYER CHATTED [  125822919] papilookgood         (  -95.2,    13.2,    28.5)
+  lady cant you see im on a very serious davte
+2022-07-31T05:16:21Z: PLAYER CHATTED [  309875838] intheweb             (   21.5,     6.7,    97.8)
+  wait
+2022-07-31T05:16:21Z: PLAYER CHATTED [  895566941] urdadsabi            (  -71.9,    12.5,    68.2)
+  L
+2022-07-31T05:16:22Z: PLAYER CHATTED [  895566941] urdadsabi            (  -71.9,    12.5,    68.2)
+  name
+2022-07-31T05:16:22Z: PLAYER CHATTED [  309875838] intheweb             (   19.0,     6.7,   100.1)
+  yo
+2022-07-31T05:16:22Z: PLAYER ADDED   [ 1765141478] ernestopayan19
+2022-07-31T05:16:23Z: PLAYER CHATTED [ 1635986430] DrXmaQuXeen          (    0.5,     6.9,    79.2)
+  /RIGHT
+2022-07-31T05:16:23Z: PLAYER REMOVED [ 2707982240] The_Key22
+2022-07-31T05:16:26Z: PLAYER CHATTED [  145877072] SlDXNEY              (   13.7,     6.7,   101.8)
+  u cant even spell it right
+2022-07-31T05:16:26Z: PLAYER CHATTED [ 1696510323] chubby_ch3eks        (  -93.3,    12.7,    34.0)
+  ok
+2022-07-31T05:16:27Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (    2.0,     9.5,    67.0)
+  one min
+2022-07-31T05:16:27Z: PLAYER CHATTED [  140450489] Iulian08             (    5.9,     6.7,    97.8)
+  omg
+2022-07-31T05:16:27Z: PLAYER CHATTED [ 2671046261] rtuaes               (  -99.3,    13.2,    34.6)
+  hey no need for being rude
+2022-07-31T05:16:29Z: PLAYER CHATTED [ 1635986430] DrXmaQuXeen          (    0.5,     6.9,    79.2)
+  but its ok
+2022-07-31T05:16:29Z: PLAYER CHATTED [  140450489] Iulian08             (    3.8,     6.7,    96.9)
+  hi
+2022-07-31T05:16:29Z: PLAYER CHATTED [   91370482] 11B6T                (   11.6,     6.7,    95.2)
+  prob
+2022-07-31T05:16:29Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (    2.0,     9.4,    67.0)
+  LILI
+2022-07-31T05:16:30Z: PLAYER CHATTED [  125822919] papilookgood         (  -95.2,    13.2,    28.5)
+  thanks
+2022-07-31T05:16:30Z: PLAYER CHATTED [  309875838] intheweb             (   19.0,     6.7,   100.1)
+  How bout you gang
+2022-07-31T05:16:31Z: PLAYER CHATTED [ 1765732431] yeetusboy12345       (   15.4,     6.7,    99.4)
+  ive been dollar stock trading on the S&P 500
+2022-07-31T05:16:32Z: PLAYER CHATTED [  222712041] paris636             (    0.1,     9.5,    57.1)
+  CMON YOU TWO
+2022-07-31T05:16:32Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (    2.0,     9.4,    67.0)
+  LILI
+2022-07-31T05:16:32Z: PLAYER CHATTED [ 1254951762] kendal_I             (   -0.6,     6.8,    91.2)
+  hi
+2022-07-31T05:16:32Z: PLAYER CHATTED [  140450489] Iulian08             (    1.5,     6.7,    94.1)
+  hi
+2022-07-31T05:16:33Z: PLAYER ADDED   [ 1446539352] Otyuretu
+2022-07-31T05:16:33Z: PLAYER CHATTED [  171562080] BakiTube             (   -1.7,     6.8,    82.3)
+  wanna go somewhere private?
+2022-07-31T05:16:33Z: PLAYER CHATTED [  325214770] goodlgirlz           (  -78.9,    12.5,    71.3)
+  its alr
+2022-07-31T05:16:33Z: PLAYER CHATTED [  162120296] OCT0BXR              (    5.1,     9.4,    67.0)
+  This girl I pity dxxted is here somewhere
+2022-07-31T05:16:34Z: PLAYER CHATTED [  821401502] Caffeperson1         (    4.8,     9.4,    55.9)
+  Let’s go!
+2022-07-31T05:16:34Z: PLAYER CHATTED [ 1696510323] chubby_ch3eks        (  -94.0,    12.7,    39.6)
+  thats not rude
+2022-07-31T05:16:34Z: PLAYER CHATTED [  539781492] ToxicDiamond24       (   24.3,     6.7,    95.9)
+  We are hiring critics ### ### ######## ####### ########### game, We need your ratings and maybe we can make you intiated into our mob.
+2022-07-31T05:16:34Z: PLAYER CHATTED [  125822919] papilookgood         (  -95.2,    13.2,    28.5)
+  im sorry
+2022-07-31T05:16:35Z: PLAYER CHATTED [ 1177722258] vileeghost           (   18.1,     9.3,    65.9)
+  I hate how
+2022-07-31T05:16:36Z: PLAYER CHATTED [  151708256] LunaticAsylum10      (    7.0,     6.8,    83.3)
+  no
+2022-07-31T05:16:36Z: PLAYER CHATTED [  222712041] paris636             (    4.4,     9.4,    60.7)
+  yes
+2022-07-31T05:16:37Z: PLAYER CHATTED [  309875838] intheweb             (   19.0,     6.7,   100.1)
+  your friend did me dirty
+2022-07-31T05:16:37Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (    2.5,     9.4,    64.3)
+  LILI
+2022-07-31T05:16:38Z: PLAYER CHATTED [ 1765732431] yeetusboy12345       (   15.4,     6.7,    99.4)
+  im slow
+2022-07-31T05:16:38Z: PLAYER REMOVED [ 3410097550] aveixxx50
+2022-07-31T05:16:38Z: PLAYER CHATTED [ 1635986430] DrXmaQuXeen          (    0.5,     6.9,    79.2)
+
+2022-07-31T05:16:40Z: PLAYER CHATTED [  309875838] intheweb             (   19.0,     6.7,   100.1)
+  but i know you gone let me slide
+2022-07-31T05:16:40Z: PLAYER CHATTED [ 1177722258] vileeghost           (   18.1,     9.3,    65.9)
+  Often that happens
+2022-07-31T05:16:40Z: PLAYER CHATTED [ 3465727786] SalLavigne           (   17.3,     6.7,   101.8)
+  good
+2022-07-31T05:16:41Z: CHRCTER ADDED  [  495343673] Pixelcyte            ( -130.6,    19.0,   101.5)
+2022-07-31T05:16:41Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (    1.6,     9.5,    67.6)
+  NVM
+2022-07-31T05:16:41Z: PLAYER CHATTED [  895566941] urdadsabi            (  -80.2,    12.5,    69.3)
+  not w those 2 here
+2022-07-31T05:16:42Z: PLAYER CHATTED [ 1635986430] DrXmaQuXeen          (    1.0,     6.9,    78.0)
+  sure
+2022-07-31T05:16:42Z: PLAYER CHATTED [  325214770] goodlgirlz           (  -78.9,    12.5,    71.3)
+  he dont know we talkin to them
+2022-07-31T05:16:42Z: PLAYER CHATTED [  151708256] LunaticAsylum10      (   14.7,     6.8,    86.1)
+  KIT GC
+2022-07-31T05:16:42Z: PLAYER CHATTED [  140450489] Iulian08             (    1.5,     6.7,    94.1)
+  ez rizz right ))
+2022-07-31T05:16:43Z: PLAYER CHATTED [  125822919] papilookgood         (  -95.2,    13.2,    28.5)
+  but she was just staring
+2022-07-31T05:16:43Z: PLAYER CHATTED [  145877072] SlDXNEY              (   13.7,     6.7,   101.8)
+  im good
+2022-07-31T05:16:43Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (    1.6,     9.5,    65.9)
+  anyqays
+2022-07-31T05:16:44Z: PLAYER CHATTED [  539781492] ToxicDiamond24       (   23.0,     6.7,    94.2)
+  I think i basically explained.
+2022-07-31T05:16:44Z: PLAYER CHATTED [  162120296] OCT0BXR              (    5.5,     9.4,    66.8)
+  She ran away
+2022-07-31T05:16:44Z: PLAYER REMOVED [ 3502298169] jexxe26
+2022-07-31T05:16:45Z: PLAYER CHATTED [ 1696510323] chubby_ch3eks        (  -73.5,    12.5,    72.2)
+  hey sabi
+2022-07-31T05:16:45Z: PLAYER CHATTED [  309875838] intheweb             (   19.0,     6.7,   100.1)
+  bro
+2022-07-31T05:16:45Z: PLAYER CHATTED [  140450489] Iulian08             (    0.7,     6.7,    93.8)
+  here*
+2022-07-31T05:16:45Z: PLAYER CHATTED [  360613243] Neepowglungus34      (    7.2,     9.3,    63.4)
+  hey its me your tissue again
+2022-07-31T05:16:46Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (    1.6,     9.5,    65.9)
+  anyways*
+2022-07-31T05:16:46Z: PLAYER CHATTED [ 1502753066] HxloAcorpio          (   43.6,     9.5,    64.3)
+  You still found out how to screenshot?
+2022-07-31T05:16:46Z: PLAYER CHATTED [  125822919] papilookgood         (  -95.2,    13.2,    28.5)
+  and insulted me
+2022-07-31T05:16:47Z: PLAYER CHATTED [ 2671046261] rtuaes               (  -99.3,    13.2,    34.6)
+  yes
+2022-07-31T05:16:47Z: PLAYER CHATTED [  146026280] EdmundWolf           (   27.2,     6.7,   100.3)
+  hello friend
+2022-07-31T05:16:47Z: PLAYER CHATTED [ 3465727786] SalLavigne           (   17.3,     6.7,   101.8)
+  no im not
+2022-07-31T05:16:47Z: PLAYER CHATTED [  309875838] intheweb             (   19.0,     6.7,   100.1)
+  what di d i do
+2022-07-31T05:16:47Z: PLAYER CHATTED [  895566941] urdadsabi            (  -79.2,    12.5,    69.0)
+  hiiiii
+2022-07-31T05:16:47Z: PLAYER CHATTED [  171562080] BakiTube             (   -1.7,     6.8,    82.3)
+  alr
+2022-07-31T05:16:48Z: PLAYER CHATTED [ 1254951762] kendal_I             (   -1.2,     6.8,    91.5)
+  friend me im gonna go
+2022-07-31T05:16:49Z: PLAYER CHATTED [  309875838] intheweb             (   19.0,     6.7,   100.1)
+  how is that good
+2022-07-31T05:16:50Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (    2.5,     9.4,    66.5)
+  HI
+2022-07-31T05:16:50Z: PLAYER CHATTED [  151708256] LunaticAsylum10      (   14.7,     6.8,    86.1)
+  .
+2022-07-31T05:16:51Z: PLAYER CHATTED [ 1765732431] yeetusboy12345       (   14.7,     6.7,    98.6)
+  lame as hellll
+2022-07-31T05:16:51Z: PLAYER CHATTED [ 1502753066] HxloAcorpio          (   43.4,     9.5,    63.3)
+  On your pc
+2022-07-31T05:16:51Z: PLAYER CHATTED [  125822919] papilookgood         (  -95.2,    13.2,    28.5)
+  as if im not beautiful
+2022-07-31T05:16:52Z: PLAYER CHATTED [  642695113] princeunivers        (  -84.0,    12.5,    73.6)
+  evening ladies!
+2022-07-31T05:16:52Z: PLAYER CHATTED [  140450489] Iulian08             (    0.2,     6.7,    94.4)
+  Cotzy 7686
+2022-07-31T05:16:53Z: PLAYER CHATTED [  110093182] GiovanniJStanfa      (   39.6,     9.5,    61.3)
+  yeah
+2022-07-31T05:16:53Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   26.1,     6.7,    96.4)
+  Yeah.
+2022-07-31T05:16:53Z: PLAYER CHATTED [  162120296] OCT0BXR              (    5.5,     9.4,    66.8)
+  Tissue?
+2022-07-31T05:16:54Z: PLAYER CHATTED [  140450489] Iulian08             (    0.2,     6.7,    94.4)
+  ez
+2022-07-31T05:16:55Z: PLAYER REMOVED [ 2757903863] x_S31k0
+2022-07-31T05:16:55Z: PLAYER CHATTED [  360613243] Neepowglungus34      (    5.2,     9.4,    63.6)
+  you want some mth
+2022-07-31T05:16:55Z: PLAYER CHATTED [ 1696510323] chubby_ch3eks        (  -72.5,    12.5,    71.3)
+  wyd
+2022-07-31T05:16:55Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (    2.8,     9.4,    66.2)
+  this is my tissue
+2022-07-31T05:16:55Z: PLAYER CHATTED [  110093182] GiovanniJStanfa      (   39.6,     9.5,    61.3)
+  medal
+2022-07-31T05:16:57Z: PLAYER CHATTED [ 2671046261] rtuaes               (  -99.3,    13.2,    34.6)
+  we are attracting alot of unwanted guests
+2022-07-31T05:16:57Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   26.1,     6.7,    96.4)
+  Pretty much
+2022-07-31T05:16:57Z: PLAYER CHATTED [  325214770] goodlgirlz           (  -78.9,    12.5,    71.3)
+  hi
+2022-07-31T05:16:57Z: PLAYER CHATTED [ 1765732431] yeetusboy12345       (   19.4,     6.8,    85.8)
+  trifling
+2022-07-31T05:16:58Z: PLAYER CHATTED [  146026280] EdmundWolf           (   27.2,     6.7,   100.3)
+  do you think i could talk with you?
+2022-07-31T05:16:58Z: PLAYER CHATTED [  222712041] paris636             (   24.6,     6.8,    82.0)
+  SOO THEY'RE HITTING IT OFF
+2022-07-31T05:16:59Z: PLAYER CHATTED [  566279877] Cherryshine_27       (   40.8,     7.7,   106.1)
+  my my what a dance!
+2022-07-31T05:17:00Z: PLAYER CHATTED [ 2671046261] rtuaes               (  -99.3,    13.2,    34.6)
+  for some reason
+2022-07-31T05:17:00Z: PLAYER CHATTED [  162120296] OCT0BXR              (    5.5,     9.4,    66.8)
+  Dirty.
+2022-07-31T05:17:01Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (    2.8,     9.4,    66.2)
+  not rn but soon
+2022-07-31T05:17:01Z: PLAYER CHATTED [ 2464177758] Darkness_Alloy       (   20.2,     6.7,    94.7)
+  Oi
+2022-07-31T05:17:02Z: PLAYER CHATTED [ 1254951762] kendal_I             (   -1.2,     6.8,    91.5)
+  ok cyaa
+2022-07-31T05:17:02Z: PLAYER CHATTED [  360613243] Neepowglungus34      (    5.1,     9.4,    63.8)
+  with a e after the m
+2022-07-31T05:17:02Z: PLAYER CHATTED [  895566941] urdadsabi            (  -76.2,    12.5,    70.6)
+  my fan club is back
+2022-07-31T05:17:02Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (    2.8,     9.4,    66.2)
+  :(
+2022-07-31T05:17:03Z: PLAYER REMOVED [ 1765141478] ernestopayan19
+2022-07-31T05:17:03Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   26.1,     6.7,    96.4)
+  we are gonna hire you
+2022-07-31T05:17:03Z: PLAYER CHATTED [  146026280] EdmundWolf           (   27.2,     6.7,   100.3)
+  in private
+2022-07-31T05:17:04Z: PLAYER CHATTED [ 1502753066] HxloAcorpio          (   43.1,     9.5,    62.8)
+  THATS good.
+2022-07-31T05:17:05Z: PLAYER CHATTED [  895566941] urdadsabi            (  -76.2,    12.5,    70.6)
+  wyd?
+2022-07-31T05:17:05Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   26.1,     6.7,    96.4)
+  for romob stuff
+2022-07-31T05:17:05Z: PLAYER CHATTED [ 3465727786] SalLavigne           (   17.3,     6.7,   101.8)
+  your annoying.
+2022-07-31T05:17:06Z: PLAYER CHATTED [  539781492] ToxicDiamond24       (   23.0,     6.7,    94.2)
+  Review a game, Maybe we can intiate you in our mob if we make a decision.
+2022-07-31T05:17:07Z: PLAYER CHATTED [  821401502] Caffeperson1         (   28.4,     6.8,    81.2)
+  Yeah!
+2022-07-31T05:17:07Z: PLAYER CHATTED [ 1693536750] boredbanker          (    1.6,     9.5,    63.5)
+  Hey percy
+2022-07-31T05:17:08Z: PLAYER CHATTED [  309875838] intheweb             (   19.7,     6.7,   100.0)
+  wow
+2022-07-31T05:17:08Z: PLAYER CHATTED [  151708256] LunaticAsylum10      (   33.7,     6.8,    86.6)
+  kit
+2022-07-31T05:17:09Z: PLAYER CHATTED [ 3465727786] SalLavigne           (   17.3,     6.7,   101.8)
+  no offence,
+2022-07-31T05:17:09Z: PLAYER CHATTED [  125822919] papilookgood         (  -95.2,    13.2,    28.5)
+  ive peeped
+2022-07-31T05:17:10Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (    2.8,     9.4,    66.2)
+  ?
+2022-07-31T05:17:10Z: PLAYER CHATTED [  566279877] Cherryshine_27       (   40.8,     7.7,   106.1)
+  extravagant moves your honor
+2022-07-31T05:17:10Z: PLAYER CHATTED [ 1031160626] Rileybeans333        (   42.0,     9.2,   106.3)
+  MAKES ME WANNA BUST A MOVE
+2022-07-31T05:17:11Z: PLAYER CHATTED [ 1696510323] chubby_ch3eks        (  -72.5,    12.5,    71.3)
+  so suprising
+2022-07-31T05:17:11Z: PLAYER CHATTED [  642695113] princeunivers        (  -84.0,    12.5,    73.6)
+  how's your night going?
+2022-07-31T05:17:12Z: PLAYER CHATTED [  309875838] intheweb             (   19.7,     6.7,   100.0)
+  i aint even do nothing gang
+2022-07-31T05:17:12Z: PLAYER CHATTED [  821401502] Caffeperson1         (   28.4,     6.8,    81.2)
+  Smooth start!
+2022-07-31T05:17:13Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   26.1,     6.7,    96.4)
+  Steel
+2022-07-31T05:17:14Z: PLAYER REMOVED [ 1254951762] kendal_I
+2022-07-31T05:17:14Z: PLAYER CHATTED [  309875838] intheweb             (   19.7,     6.7,   100.0)
+  gangathon
+2022-07-31T05:17:14Z: PLAYER CHATTED [  222712041] paris636             (   25.3,     6.8,    81.0)
+  so cute together
+2022-07-31T05:17:14Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   26.1,     6.7,    96.4)
+  city
+2022-07-31T05:17:14Z: PLAYER CHATTED [  895566941] urdadsabi            (  -76.2,    12.5,    70.6)
+  ikr!
+2022-07-31T05:17:16Z: PLAYER CHATTED [ 1696510323] chubby_ch3eks        (  -72.5,    12.5,    71.3)
+  just lookin around
+2022-07-31T05:17:16Z: PLAYER CHATTED [ 1693536750] boredbanker          (    1.6,     9.5,    63.5)
+  Want some Pakistani 5 Rupee Wzxeed?
+2022-07-31T05:17:17Z: PLAYER CHATTED [ 2464177758] Darkness_Alloy       (   19.8,     6.7,    94.8)
+  Gas station sim, Except we are gentlemen
+2022-07-31T05:17:17Z: PLAYER CHATTED [  325214770] goodlgirlz           (  -78.9,    12.5,    71.3)
+  boring
+2022-07-31T05:17:17Z: PLAYER CHATTED [  539781492] ToxicDiamond24       (   23.9,     6.7,    94.4)
+  SCP
+2022-07-31T05:17:17Z: PLAYER CHATTED [  125822919] papilookgood         (  -95.2,    13.2,    28.5)
+  you think its me
+2022-07-31T05:17:17Z: PLAYER CHATTED [ 2671046261] rtuaes               (  -99.3,    13.2,    34.6)
+  mhm?
+2022-07-31T05:17:18Z: PLAYER CHATTED [ 1668822328] OptionalFriend       (   20.9,     9.3,    65.2)
+  One sec
+2022-07-31T05:17:18Z: PLAYER CHATTED [  309875838] intheweb             (   19.7,     6.7,   100.0)
+  like what i do
+2022-07-31T05:17:18Z: PLAYER CHATTED [ 1696510323] chubby_ch3eks        (  -72.5,    12.5,    71.3)
+  yk
+2022-07-31T05:17:19Z: PLAYER CHATTED [  146026280] EdmundWolf           (   19.0,     6.8,    87.2)
+  ####
+2022-07-31T05:17:19Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   26.1,     6.7,    96.4)
+  2000 members
+2022-07-31T05:17:19Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (    2.8,     9.4,    66.2)
+  YES
+2022-07-31T05:17:20Z: PLAYER CHATTED [ 1696510323] chubby_ch3eks        (  -72.5,    12.5,    71.3)
+  lol
+2022-07-31T05:17:20Z: PLAYER CHATTED [  309875838] intheweb             (   19.7,     6.7,   100.0)
+  tell me
+2022-07-31T05:17:21Z: PLAYER CHATTED [  146026280] EdmundWolf           (   19.2,     6.8,    86.0)
+  dim
+2022-07-31T05:17:23Z: PLAYER CHATTED [  145877072] SlDXNEY              (   13.6,     6.7,   100.4)
+  a lot
+2022-07-31T05:17:24Z: PLAYER CHATTED [  325214770] goodlgirlz           (  -78.9,    12.5,    71.3)
+  💀
+2022-07-31T05:17:24Z: PLAYER CHATTED [  125822919] papilookgood         (  -95.2,    13.2,    28.5)
+  i think im the problem
+2022-07-31T05:17:24Z: PLAYER CHATTED [  895566941] urdadsabi            (  -76.2,    12.5,    70.6)
+  ya
+2022-07-31T05:17:24Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   26.1,     6.7,    96.4)
+  9 allies
+2022-07-31T05:17:24Z: PLAYER CHATTED [   41173514] CaIiban              (   18.5,     6.8,    82.6)
+  wsg slime
+2022-07-31T05:17:24Z: PLAYER CHATTED [  146026280] EdmundWolf           (   19.2,     6.8,    86.0)
+  gim
+2022-07-31T05:17:24Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   26.1,     6.7,    96.4)
+  9 crews
+2022-07-31T05:17:24Z: PLAYER CHATTED [  171562080] BakiTube             ( -172.6,     4.4,   140.8)
+  now give me all your money
+2022-07-31T05:17:24Z: PLAYER CHATTED [ 1696510323] chubby_ch3eks        (  -72.5,    12.5,    71.3)
+  yea
+2022-07-31T05:17:24Z: PLAYER CHATTED [ 2464177758] Darkness_Alloy       (   18.3,     6.7,    95.7)
+  Do you agree pixel?
+2022-07-31T05:17:25Z: PLAYER CHATTED [ 1668822328] OptionalFriend       (   28.1,     6.7,    93.3)
+  ##
+2022-07-31T05:17:25Z: PLAYER CHATTED [ 1502753066] HxloAcorpio          (   43.0,     9.5,    65.8)
+  why is so many in vc now
+2022-07-31T05:17:25Z: PLAYER CHATTED [  146026280] EdmundWolf           (   19.2,     6.8,    86.0)
+  #
+2022-07-31T05:17:25Z: PLAYER CHATTED [  895566941] urdadsabi            (  -76.2,    12.5,    70.6)
+  imma change
+2022-07-31T05:17:26Z: PLAYER CHATTED [  325214770] goodlgirlz           (  -78.9,    12.5,    71.3)
+  i went out today tho
+2022-07-31T05:17:26Z: PLAYER CHATTED [ 1693536750] boredbanker          (    1.6,     9.5,    63.5)
+  Alr, come with me
+2022-07-31T05:17:26Z: PLAYER CHATTED [  162120296] OCT0BXR              (    5.5,     9.4,    66.8)
+  Hell yeah me too
+2022-07-31T05:17:26Z: PLAYER CHATTED [  642695113] princeunivers        (  -84.0,    12.5,    73.6)
+  I know right!
+2022-07-31T05:17:27Z: PLAYER CHATTED [  360613243] Neepowglungus34      (    5.1,     9.4,    63.5)
+  OH BUT
+2022-07-31T05:17:27Z: PLAYER CHATTED [ 1635986430] DrXmaQuXeen          ( -170.7,     4.0,   149.6)
+  what kind of music do u listen too
+2022-07-31T05:17:27Z: PLAYER CHATTED [  146026280] EdmundWolf           (   19.2,     6.8,    86.0)
+  #
+2022-07-31T05:17:27Z: PLAYER CHATTED [  309875838] intheweb             (   20.6,     6.7,    98.9)
+  yo
+2022-07-31T05:17:28Z: PLAYER CHATTED [  171562080] BakiTube             ( -172.1,     4.0,   145.5)
+  nah im jk
+2022-07-31T05:17:28Z: PLAYER CHATTED [ 1635986430] DrXmaQuXeen          ( -170.7,     4.0,   149.6)
+  oh
+2022-07-31T05:17:28Z: PLAYER CHATTED [ 1696510323] chubby_ch3eks        (  -72.5,    12.5,    71.3)
+  alr
+2022-07-31T05:17:29Z: PLAYER CHATTED [  309875838] intheweb             (   20.6,     6.7,    98.9)
+  rub my back
+2022-07-31T05:17:29Z: PLAYER CHATTED [  325214770] goodlgirlz           (  -78.9,    12.5,    71.3)
+  and had fun
+2022-07-31T05:17:29Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (    1.5,     9.6,    66.7)
+  BET
+2022-07-31T05:17:29Z: PLAYER CHATTED [ 2671046261] rtuaes               (  -99.3,    13.2,    34.6)
+  no dont say that
+2022-07-31T05:17:30Z: PLAYER CHATTED [  325214770] goodlgirlz           (  -78.9,    12.5,    71.3)
+  UGH YES
+2022-07-31T05:17:30Z: PLAYER CHATTED [ 1635986430] DrXmaQuXeen          ( -170.7,     4.0,   149.6)
+  i dont have
+2022-07-31T05:17:30Z: CHRCTER ADDED  [  733230669] alixsaujj            ( -130.6,     5.3,    74.5)
+2022-07-31T05:17:30Z: PLAYER CHATTED [ 1693536750] boredbanker          (    2.3,     9.4,    64.0)
+  You want some too?
+2022-07-31T05:17:31Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (    1.5,     9.6,    66.7)
+  CMON
+2022-07-31T05:17:32Z: PLAYER CHATTED [  309875838] intheweb             (   14.7,     6.7,    97.4)
+  real quick
+2022-07-31T05:17:32Z: PLAYER CHATTED [   41173514] CaIiban              (   18.5,     6.8,    82.6)
+  jus say it mang
+2022-07-31T05:17:32Z: PLAYER CHATTED [ 1635986430] DrXmaQuXeen          ( -170.7,     4.0,   149.6)
+  /money
+2022-07-31T05:17:32Z: PLAYER REMOVED [ 2462670191] hibebboo
+2022-07-31T05:17:32Z: PLAYER CHATTED [  125822919] papilookgood         (  -95.2,    13.2,    28.5)
+  but i think i look rather nice
+2022-07-31T05:17:33Z: PLAYER CHATTED [  360613243] Neepowglungus34      (    3.8,     9.4,    65.5)
+  #######################
+2022-07-31T05:17:33Z: PLAYER CHATTED [ 2671046261] rtuaes               (  -99.3,    13.2,    34.6)
+  #################
+2022-07-31T05:17:34Z: PLAYER CHATTED [ 1635986430] DrXmaQuXeen          ( -170.7,     4.0,   149.6)
+  give me urs
+2022-07-31T05:17:35Z: PLAYER CHATTED [ 1668822328] OptionalFriend       (   28.1,     6.7,    93.3)
+  Pep
+2022-07-31T05:17:36Z: PLAYER CHATTED [ 1635986430] DrXmaQuXeen          ( -170.7,     4.0,   149.6)
+  rn
+2022-07-31T05:17:36Z: PLAYER REMOVED [ 2552596994] Rizq124thd
+2022-07-31T05:17:36Z: PLAYER CHATTED [  309875838] intheweb             (   19.5,     6.7,    99.6)
+  nah but
+2022-07-31T05:17:36Z: PLAYER CHATTED [ 3465727786] SalLavigne           (   17.3,     6.7,   101.8)
+  your trying to get ro-women
+2022-07-31T05:17:37Z: PLAYER CHATTED [ 2671046261] rtuaes               (  -99.3,    13.2,    34.6)
+  u look
+2022-07-31T05:17:38Z: PLAYER CHATTED [  171562080] BakiTube             ( -171.3,     4.0,   146.0)
+  u look like u dont
+2022-07-31T05:17:39Z: PLAYER REMOVED [  110093182] GiovanniJStanfa
+2022-07-31T05:17:39Z: PLAYER CHATTED [  151708256] LunaticAsylum10      (  -73.7,    12.6,    88.1)
+  alr
+2022-07-31T05:17:39Z: PLAYER CHATTED [  151708256] LunaticAsylum10      (  -73.7,    12.6,    88.1)
+  so
+2022-07-31T05:17:39Z: PLAYER CHATTED [ 1635986430] DrXmaQuXeen          ( -170.7,     4.0,   149.6)
+  oh yes ok
+2022-07-31T05:17:40Z: PLAYER CHATTED [  309875838] intheweb             (   19.5,     6.7,    99.6)
+  bro
+2022-07-31T05:17:41Z: PLAYER CHATTED [  360613243] Neepowglungus34      (   -2.4,     6.8,    82.1)
+  ITS HEISENBURGS
+2022-07-31T05:17:41Z: PLAYER CHATTED [ 3465727786] SalLavigne           (   17.3,     6.7,   101.8)
+  your weird
+2022-07-31T05:17:41Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   26.1,     6.7,    96.4)
+  JOHNNY
+2022-07-31T05:17:41Z: PLAYER CHATTED [ 2671046261] rtuaes               (  -99.3,    13.2,    34.6)
+  stunning
+2022-07-31T05:17:42Z: PLAYER CHATTED [  733230669] alixsaujj            (  -74.3,    12.6,    80.0)
+  hes here
+2022-07-31T05:17:42Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (  -24.0,     6.8,    81.9)
+  uh oh
+2022-07-31T05:17:42Z: PLAYER CHATTED [  151708256] LunaticAsylum10      (  -74.7,    12.6,    87.6)
+  uhmm
+2022-07-31T05:17:43Z: PLAYER CHATTED [ 1635986430] DrXmaQuXeen          ( -170.7,     4.0,   149.6)
+  stop
+2022-07-31T05:17:43Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   26.1,     6.7,    96.4)
+  NOT PEP
+2022-07-31T05:17:45Z: PLAYER CHATTED [  171562080] BakiTube             ( -171.3,     4.0,   146.0)
+  im gonna give u some if u need it
+2022-07-31T05:17:45Z: PLAYER CHATTED [ 1765732431] yeetusboy12345       (   14.9,     6.7,    97.8)
+  bruuhhh
+2022-07-31T05:17:45Z: PLAYER CHATTED [  162120296] OCT0BXR              (  -25.0,     6.8,    88.1)
+  Ruh roh
+2022-07-31T05:17:46Z: PLAYER CHATTED [ 3465727786] SalLavigne           (   17.3,     6.7,   101.8)
+  your literally crazy
+2022-07-31T05:17:46Z: PLAYER REMOVED [ 1693536750] boredbanker
+2022-07-31T05:17:46Z: PLAYER CHATTED [  309875838] intheweb             (   19.5,     6.7,    99.6)
+  im tryna
+2022-07-31T05:17:46Z: PLAYER CHATTED [  495343673] Pixelcyte            (   16.8,     6.7,    97.3)
+  cringe lord
+2022-07-31T05:17:47Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (  -26.2,     6.9,    81.6)
+  his wifi
+2022-07-31T05:17:47Z: PLAYER CHATTED [  125822919] papilookgood         (  -95.2,    13.2,    28.5)
+  why thank you
+2022-07-31T05:17:47Z: PLAYER CHATTED [  325214770] goodlgirlz           (  -78.9,    12.5,    71.3)
+  who is
+2022-07-31T05:17:47Z: PLAYER CHATTED [ 1668822328] OptionalFriend       (   28.1,     6.7,    93.3)
+  Too bad
+2022-07-31T05:17:48Z: PLAYER CHATTED [ 1765732431] yeetusboy12345       (   14.9,     6.7,    97.8)
+  ######
+2022-07-31T05:17:48Z: PLAYER CHATTED [  642695113] princeunivers        (  -84.0,    12.5,    73.6)
+  thus place isn't what it used to be.
+2022-07-31T05:17:48Z: PLAYER CHATTED [  309875838] intheweb             (   19.5,     6.7,    99.6)
+  give you the world!!
+2022-07-31T05:17:49Z: PLAYER CHATTED [  821401502] Caffeperson1         (   30.0,     6.9,    80.3)
+  So nice for Percy!
+2022-07-31T05:17:49Z: PLAYER CHATTED [  171562080] BakiTube             ( -171.3,     4.0,   146.0)
+  hahaha
+2022-07-31T05:17:50Z: PLAYER CHATTED [   25333670] SkiddBeefnut         (   21.7,     6.7,   101.1)
+  bro thristy for man
+2022-07-31T05:17:50Z: PLAYER REMOVED [ 3499836937] Scarface13_2
+2022-07-31T05:17:50Z: PLAYER CHATTED [  495343673] Pixelcyte            (   17.4,     6.7,    98.4)
+  cringe lord
+2022-07-31T05:17:50Z: PLAYER CHATTED [ 1635986430] DrXmaQuXeen          ( -170.7,     4.0,   149.6)
+  tis ok
+2022-07-31T05:17:50Z: PLAYER CHATTED [ 1765732431] yeetusboy12345       (   14.9,     6.7,    97.8)
+  rousy
+2022-07-31T05:17:50Z: PLAYER CHATTED [  539781492] ToxicDiamond24       (   22.8,     6.7,    95.5)
+  I might also ## john la rocca we got a new fella.
+2022-07-31T05:17:51Z: PLAYER CHATTED [ 1668822328] OptionalFriend       (   28.1,     6.7,    93.3)
+  #################
+2022-07-31T05:17:51Z: PLAYER CHATTED [ 3440614038] littleyummygurl      ( -159.3,     4.3,   126.7)
+  ur salking them
+2022-07-31T05:17:52Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   26.1,     6.7,    96.4)
+  ugh
+2022-07-31T05:17:52Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (  -26.2,     6.8,    81.6)
+  where's lili
+2022-07-31T05:17:53Z: PLAYER CHATTED [  309875838] intheweb             (   19.5,     6.7,    99.6)
+  like im in loxhve
+2022-07-31T05:17:54Z: PLAYER CHATTED [   25333670] SkiddBeefnut         (   21.7,     6.7,   101.1)
+  triffling
+2022-07-31T05:17:54Z: PLAYER CHATTED [  733230669] alixsaujj            (  -77.8,    12.5,    76.2)
+  lorenzo
+2022-07-31T05:17:54Z: PLAYER CHATTED [  539781492] ToxicDiamond24       (   22.8,     6.7,    95.5)
+  Dm
+2022-07-31T05:17:55Z: PLAYER CHATTED [ 1668822328] OptionalFriend       (   28.1,     6.7,    93.3)
+  Damn
+2022-07-31T05:17:55Z: PLAYER CHATTED [ 1635986430] DrXmaQuXeen          ( -170.7,     4.0,   149.6)
+  hahahaha
+2022-07-31T05:17:55Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (  -14.3,     6.8,    84.2)
+  cmon
+2022-07-31T05:17:55Z: PLAYER CHATTED [  733230669] alixsaujj            (  -77.8,    12.5,    76.2)
+  .
+2022-07-31T05:17:56Z: PLAYER CHATTED [  125822919] papilookgood         (  -95.2,    13.2,    28.5)
+  i can say the same for you love
+2022-07-31T05:17:56Z: PLAYER CHATTED [ 1502753066] HxloAcorpio          (   39.7,     9.5,    64.1)
+  bald oily men
+2022-07-31T05:17:56Z: PLAYER CHATTED [  171562080] BakiTube             ( -171.3,     4.0,   146.0)
+  tbh how old are u
+2022-07-31T05:17:56Z: PLAYER CHATTED [  309875838] intheweb             (   19.5,     6.7,    99.6)
+  with pixel
+2022-07-31T05:17:56Z: PLAYER CHATTED [  733230669] alixsaujj            (  -77.8,    12.5,    76.2)
+  .
+2022-07-31T05:17:56Z: PLAYER CHATTED [ 3263796464] MrHJz1               ( -164.8,     4.8,   128.2)
+  Yes
+2022-07-31T05:17:57Z: PLAYER CHATTED [  145877072] SlDXNEY              (   13.6,     6.7,   100.4)
+  not the rousy
+2022-07-31T05:17:57Z: PLAYER CHATTED [  162120296] OCT0BXR              (  -12.5,     6.8,    87.9)
+  Thataway
+2022-07-31T05:18:00Z: PLAYER CHATTED [  495343673] Pixelcyte            (   17.4,     6.7,    98.4)
+  cringeeee lorddddd
+2022-07-31T05:18:00Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (   28.2,     6.8,    83.2)
+  IK
+2022-07-31T05:18:00Z: PLAYER CHATTED [ 1635986430] DrXmaQuXeen          ( -170.6,     4.0,   152.0)
+  15
+2022-07-31T05:18:01Z: PLAYER CHATTED [ 2671046261] rtuaes               (  -99.3,    13.2,    34.6)
+  aw
+2022-07-31T05:18:01Z: PLAYER CHATTED [  309875838] intheweb             (   19.5,     6.7,    99.6)
+  give me a chance!!
+2022-07-31T05:18:02Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   26.1,     6.7,    96.4)
+  yeah.
+2022-07-31T05:18:02Z: PLAYER CHATTED [ 3440614038] littleyummygurl      ( -160.7,     4.6,   126.3)
+  u meanie
+2022-07-31T05:18:02Z: PLAYER CHATTED [ 3465727786] SalLavigne           (   17.3,     6.7,   101.7)
+  i cant-
+2022-07-31T05:18:03Z: PLAYER CHATTED [  325214770] goodlgirlz           (  -78.8,    12.5,    72.2)
+  well i just staretd a couple weeks ago
+2022-07-31T05:18:04Z: PLAYER CHATTED [ 3718886438] JohnnyVaccaro        (   25.4,     6.7,    96.9)
+  if he accepts
+2022-07-31T05:18:04Z: PLAYER CHATTED [   25333670] SkiddBeefnut         (   21.7,     6.7,   101.1)
+  that is a grown man
+2022-07-31T05:18:05Z: PLAYER CHATTED [ 1765732431] yeetusboy12345       (   15.7,     6.7,    97.7)
+  ##########
+2022-07-31T05:18:05Z: PLAYER CHATTED [ 2671046261] rtuaes               (  -99.3,    13.2,    34.6)
+  im flattered
+2022-07-31T05:18:05Z: CHRCTER ADDED  [  895566941] urdadsabi            ( -130.5,     5.1,    62.8)
+2022-07-31T05:18:06Z: PLAYER CHATTED [   25333670] SkiddBeefnut         (   21.8,     6.7,   101.8)
+  right there
+2022-07-31T05:18:08Z: PLAYER CHATTED [  539781492] ToxicDiamond24       (   23.1,     6.7,    94.7)
+  yeah
+2022-07-31T05:18:08Z: PLAYER CHATTED [  320088575] PercyBoudreaux       (   28.7,     6.8,    83.1)
+  LILI
+2022-07-31T05:18:08Z: PLAYER CHATTED [  325214770] goodlgirlz           (  -78.8,    12.5,    72.2)
+  so idrk what it used to be like
+2022-07-31T05:18:08Z: PLAYER CHATTED [ 3263796464] MrHJz1               ( -164.8,     4.8,   128.2)
+  Oh
+2022-07-31T05:18:09Z: PLAYER CHATTED [ 1765732431] yeetusboy12345       (   15.7,     6.7,    97.7)
+  i love rosusy
+2022-07-31T05:18:09Z: PLAYER CHATTED [  171562080] BakiTube             ( -171.3,     4.0,   146.0)
+  ay im older
+2022-07-31T05:18:09Z: PLAYER CHATTED [  309875838] intheweb             (   20.2,     6.7,    99.7)
+  ###########
+2022-07-31T05:18:09Z: PLAYER CHATTED [  325214770] goodlgirlz           (  -78.8,    12.5,    72.2)
+  sadly
+2022-07-31T05:18:10Z: PLAYER REMOVED [  946374419] juldrp2
+2022-07-31T05:18:10Z: PLAYER CHATTED [  145877072] SlDXNEY              (   14.8,     6.7,   100.8)
+  so dude was never in lav with my pixel
+2022-07-31T05:18:10Z: PLAYER CHATTED [  151708256] LunaticAsylum10      (  -80.0,    12.5,    89.9)
+  ixdxot
+2022-07-31T05:18:11Z: PLAYER CHATTED [ 2464177758] Darkness_Alloy       (   19.6,     6.7,    97.0)
+  Welcome to Wendys would you like to place an order?
+2022-07-31T05:18:11Z: PLAYER ADDED   [  110093182] GiovanniJStanfa
+2022-07-31T05:18:11Z: PLAYER CHATTED [  309875838] intheweb             (   20.2,     6.7,    99.7)
+  lol
+2022-07-31T05:18:11Z: PLAYER CHATTED [  145877072] SlDXNEY              (   14.8,     6.7,   100.8)
+  dang
+2022-07-31T05:18:11Z: PLAYER CHATTED [  539781492] ToxicDiamond24       (   22.5,     6.7,    96.2)
+  now what do you say
+2022-07-31T05:18:12Z: PLAYER CHATTED [  125822919] papilookgood         (  -95.2,    13.2,    28.5)
+  hows the food

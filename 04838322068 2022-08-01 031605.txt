@@ -1,0 +1,1002 @@
+[    1630228] : [ 4838322068] White House Simulator - 20f1c4fc-42f0-4cf5-8ee2-45a18c20bb15
+2022-08-01T03:16:05Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-08-01T03:16:05Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-08-01T03:16:05Z: PLAYER ADDED   [ 1516469386] imapersonyounot
+2022-08-01T03:16:05Z: PLAYER ADDED   [ 1340823232] KeepUSA_great2020
+2022-08-01T03:16:05Z: PLAYER ADDED   [ 2574392852] WormKuma
+2022-08-01T03:16:05Z: PLAYER ADDED   [   25244664] DonPab1oEGaviria
+2022-08-01T03:16:05Z: PLAYER ADDED   [  216671816] TheDepthsOfHades
+2022-08-01T03:16:05Z: PLAYER ADDED   [  422515766] MateBuzzy
+2022-08-01T03:16:05Z: PLAYER ADDED   [ 1818902597] AntIronsides
+2022-08-01T03:16:05Z: PLAYER ADDED   [  716940211] supermase143
+2022-08-01T03:16:05Z: PLAYER ADDED   [  214958957] DonCar1osGaviria414
+2022-08-01T03:16:05Z: PLAYER ADDED   [    5981475] Zephyrsion
+2022-08-01T03:16:05Z: PLAYER ADDED   [ 1275023886] Acxe_WhT2
+2022-08-01T03:16:05Z: PLAYER ADDED   [  645280283] poopoobum752
+2022-08-01T03:16:05Z: PLAYER ADDED   [  170338001] roopr1
+2022-08-01T03:16:05Z: PLAYER ADDED   [  691635668] VicDeth
+2022-08-01T03:16:05Z: PLAYER ADDED   [  973587792] XxwingfaderxX
+2022-08-01T03:16:10Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2099.8,    72.3,  -690.4)
+  bru
+2022-08-01T03:16:14Z: CHRCTER ADDED  [    5981475] Zephyrsion           (  767.8,    62.7,  1032.4)
+2022-08-01T03:16:14Z: PLAYER REMOVED [  214958957] DonCar1osGaviria414
+2022-08-01T03:16:21Z: PLAYER CHATTED [  216671816] TheDepthsOfHades
+  SECURE THE BASE
+2022-08-01T03:16:22Z: CHRCTER ADDED  [  216671816] TheDepthsOfHades     ( 2355.4,    74.3,  -684.8)
+2022-08-01T03:16:25Z: PLAYER CHATTED [  691635668] VicDeth
+  isual is tp
+2022-08-01T03:16:29Z: PLAYER CHATTED [  691635668] VicDeth
+  visual
+2022-08-01T03:16:31Z: PLAYER CHATTED [  691635668] VicDeth
+  to me
+2022-08-01T03:16:32Z: PLAYER CHATTED [ 1275023886] Acxe_WhT2            ( 2214.4,    76.7,  -680.6)
+  OUT E1.
+2022-08-01T03:16:34Z: PLAYER CHATTED [  973587792] XxwingfaderxX        ( 2060.7,   113.9,  -810.2)
+  damn
+2022-08-01T03:16:34Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2215.5,    79.8,  -683.5)
+  PRESIDENT IS DEAD
+2022-08-01T03:16:38Z: PLAYER CHATTED [  216671816] TheDepthsOfHades     ( 2213.2,    79.9,  -683.3)
+  GO GO GO
+2022-08-01T03:16:39Z: PLAYER REMOVED [  422515766] MateBuzzy
+2022-08-01T03:16:41Z: PLAYER CHATTED [ 1275023886] Acxe_WhT2            ( 2198.8,    76.9,  -679.7)
+  OUT.
+2022-08-01T03:16:47Z: PLAYER CHATTED [  716940211] supermase143
+  can i come
+2022-08-01T03:17:01Z: PLAYER CHATTED [ 1275023886] Acxe_WhT2            ( 2072.4,    76.6,  -463.2)
+  In.
+2022-08-01T03:17:09Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2073.5,    76.9,  -286.3)
+  I was driving
+2022-08-01T03:17:10Z: PLAYER REMOVED [  216671816] TheDepthsOfHades
+2022-08-01T03:17:12Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2071.3,    76.8,  -247.8)
+  :(
+2022-08-01T03:17:14Z: PLAYER CHATTED [ 1275023886] Acxe_WhT2            ( 2071.8,    76.5,  -244.8)
+  Get it.
+2022-08-01T03:17:20Z: CHRCTER ADDED  [  716940211] supermase143         ( 2116.9,    74.3,  -640.2)
+2022-08-01T03:17:44Z: PLAYER CHATTED [  973587792] XxwingfaderxX        ( 2083.2,   113.9,  -814.1)
+  now what
+2022-08-01T03:17:47Z: PLAYER CHATTED [    5981475] Zephyrsion           (  573.7,    52.5,   683.9)
+  We're going to the underworld
+2022-08-01T03:17:49Z: PLAYER CHATTED [  716940211] supermase143
+  Sir.
+2022-08-01T03:17:52Z: PLAYER CHATTED [  691635668] VicDeth
+  Visual is tp to me
+2022-08-01T03:17:52Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  547.6,    52.5,   624.0)
+  Yes, sir.
+2022-08-01T03:17:57Z: PLAYER CHATTED [  691635668] VicDeth
+  so
+2022-08-01T03:18:00Z: PLAYER CHATTED [  716940211] supermase143
+  There are shooters on top of the roof
+2022-08-01T03:18:06Z: PLAYER CHATTED [  691635668] VicDeth
+  just see and kill the target
+2022-08-01T03:18:07Z: PLAYER CHATTED [  716940211] supermase143
+  there atacking
+2022-08-01T03:18:25Z: PLAYER CHATTED [  691635668] VicDeth
+  im going to distruct
+2022-08-01T03:18:27Z: PLAYER CHATTED [    5981475] Zephyrsion           (  434.1,    52.5,  1027.0)
+  Gonna go in my secret office
+2022-08-01T03:18:36Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 1181.3,    68.1,  1056.9)
+  Stop let me get the crim.
+2022-08-01T03:18:37Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  440.8,    52.8,  1169.5)
+  Alright.
+2022-08-01T03:18:41Z: CHRCTER ADDED  [  716940211] supermase143         ( 2178.1,    74.6,  -679.7)
+2022-08-01T03:18:42Z: PLAYER CHATTED [  973587792] XxwingfaderxX        ( 2088.1,   113.9,  -829.2)
+  k
+2022-08-01T03:18:45Z: PLAYER ADDED   [  178713901] Dkooy2
+2022-08-01T03:18:46Z: PLAYER CHATTED [    5981475] Zephyrsion           (  518.5,    52.5,  1316.3)
+  Oh.
+2022-08-01T03:18:47Z: PLAYER REMOVED [ 1340823232] KeepUSA_great2020
+2022-08-01T03:18:47Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 2078.4,   113.9,  -834.8)
+  I crashed.
+2022-08-01T03:18:50Z: PLAYER CHATTED [    5981475] Zephyrsion           (  456.6,    52.5,  1348.0)
+  Hmm
+2022-08-01T03:18:54Z: PLAYER CHATTED [  973587792] XxwingfaderxX        ( 2103.4,   113.9,  -816.7)
+  lol
+2022-08-01T03:18:55Z: CHRCTER ADDED  [  716940211] supermase143         ( 2459.2,    74.8,  -653.3)
+2022-08-01T03:19:01Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 2100.2,   113.9,  -814.0)
+  He's at the other side of the map.
+2022-08-01T03:19:03Z: PLAYER CHATTED [    5981475] Zephyrsion           (  467.6,    52.5,  1428.6)
+  There we go.
+2022-08-01T03:19:06Z: PLAYER CHATTED [  973587792] XxwingfaderxX        ( 2090.7,   113.9,  -816.2)
+  lets go
+2022-08-01T03:19:09Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 2099.8,   113.9,  -810.7)
+  No one is here.
+2022-08-01T03:19:13Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 2101.3,   113.9,  -807.9)
+  BUT!!
+2022-08-01T03:19:18Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 2101.3,   113.9,  -807.9)
+  Someone is leaving.
+2022-08-01T03:19:22Z: PLAYER CHATTED [  973587792] XxwingfaderxX        ( 2090.7,   113.9,  -816.2)
+  yeah
+2022-08-01T03:19:40Z: CHRCTER ADDED  [  178713901] Dkooy2               (  641.7,    62.6,   965.7)
+2022-08-01T03:19:43Z: PLAYER CHATTED [    5981475] Zephyrsion           (  638.6,    50.6,  1113.2)
+  Welp
+2022-08-01T03:19:45Z: PLAYER CHATTED [    5981475] Zephyrsion           (  638.6,    50.6,  1113.2)
+  It is what it is
+2022-08-01T03:19:46Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  640.9,    50.2,  1109.6)
+  Swimming pool too.
+2022-08-01T03:19:54Z: PLAYER CHATTED [  691635668] VicDeth              ( 2060.4,   113.9,  -810.7)
+  im distrating
+2022-08-01T03:20:25Z: PLAYER CHATTED [    5981475] Zephyrsion           (  634.4,    50.2,  1109.9)
+  Wanna experience gravity?
+2022-08-01T03:20:26Z: PLAYER CHATTED [ 1818902597] AntIronsides         (  793.6,    63.6,  1029.3)
+  Hello, VPOTUS.
+2022-08-01T03:20:27Z: PLAYER CHATTED [ 1818902597] AntIronsides         (  793.6,    63.6,  1029.3)
+  o7.
+2022-08-01T03:20:28Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  634.0,    50.2,  1118.5)
+  Yes.
+2022-08-01T03:20:29Z: PLAYER CHATTED [  178713901] Dkooy2               (  797.2,    63.6,  1034.0)
+  Hi.
+2022-08-01T03:20:29Z: PLAYER CHATTED [ 1275023886] Acxe_WhT2            (  791.4,    63.6,  1035.8)
+  Hello, VP.
+2022-08-01T03:20:32Z: CHRCTER ADDED  [  716940211] supermase143         ( 2449.9,    74.8,  -653.3)
+2022-08-01T03:20:34Z: PLAYER CHATTED [    5981475] Zephyrsion           (  665.1,    50.2,  1109.4)
+  Ok
+2022-08-01T03:20:36Z: PLAYER CHATTED [  178713901] Dkooy2               (  797.2,    63.6,  1034.0)
+  !light
+2022-08-01T03:20:37Z: PLAYER CHATTED [    5981475] Zephyrsion           (  666.3,    50.2,  1109.0)
+  Me first
+2022-08-01T03:20:39Z: PLAYER CHATTED [ 1818902597] AntIronsides         (  793.6,    63.6,  1029.3)
+  We are searching for POTUS
+2022-08-01T03:20:40Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  661.4,    50.2,  1108.2)
+  Okay
+2022-08-01T03:20:46Z: PLAYER CHATTED [  178713901] Dkooy2               (  797.2,    63.6,  1034.0)
+  I am too.
+2022-08-01T03:20:48Z: PLAYER CHATTED [  691635668] VicDeth              ( 1879.0,    74.0,  -719.1)
+  we ned a car
+2022-08-01T03:20:57Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1864.7,    74.0,  -701.0)
+  True.
+2022-08-01T03:20:57Z: CHRCTER ADDED  [  645280283] poopoobum752         ( 2437.9,    74.8,  -670.3)
+2022-08-01T03:21:03Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1866.1,    74.0,  -704.5)
+  Or more executors.
+2022-08-01T03:21:06Z: PLAYER CHATTED [  691635668] VicDeth              ( 1862.5,    74.0,  -708.0)
+  i reset
+2022-08-01T03:21:09Z: PLAYER CHATTED [    5981475] Zephyrsion           (  665.9,    49.1,  1105.4)
+  oof
+2022-08-01T03:21:12Z: PLAYER CHATTED [  178713901] Dkooy2               (  799.5,    63.7,  1037.6)
+  ########
+2022-08-01T03:21:13Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  665.6,    50.2,  1105.4)
+  i sacrafice
+2022-08-01T03:21:15Z: PLAYER CHATTED [    5981475] Zephyrsion           (  665.9,    49.1,  1105.4)
+  very close now
+2022-08-01T03:21:17Z: PLAYER CHATTED [  691635668] VicDeth              ( 1862.5,    74.0,  -708.0)
+  You tp and come here
+2022-08-01T03:21:22Z: CHRCTER ADDED  [   25244664] DonPab1oEGaviria     (  782.5,    51.1,  1022.6)
+2022-08-01T03:21:23Z: CHRCTER ADDED  [  691635668] VicDeth              (   84.6,    75.2,   222.4)
+2022-08-01T03:21:30Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  207.7,    75.2,    51.3)
+2022-08-01T03:21:34Z: CHRCTER ADDED  [    5981475] Zephyrsion           (  766.8,    62.6,  1032.7)
+2022-08-01T03:21:42Z: PLAYER CHATTED [  691635668] VicDeth              (  183.4,    74.3,   188.9)
+  darn
+2022-08-01T03:21:46Z: PLAYER CHATTED [  691635668] VicDeth              (  183.4,    74.3,   188.9)
+  crashed
+2022-08-01T03:21:47Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  668.2,    51.5,  1002.2)
+  At your service
+2022-08-01T03:21:57Z: CHRCTER ADDED  [  716940211] supermase143         ( 2437.9,    74.8,  -653.3)
+2022-08-01T03:22:00Z: CHRCTER ADDED  [  645280283] poopoobum752         ( 2449.9,    74.8,  -653.3)
+2022-08-01T03:22:04Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 1030.1,    63.1,   922.8)
+  Ello
+2022-08-01T03:22:11Z: PLAYER CHATTED [  691635668] VicDeth              (  183.4,    76.9,   246.7)
+  now to the anothe guy
+2022-08-01T03:22:20Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2201.4,    74.6,  -656.1)
+  !help
+2022-08-01T03:22:29Z: PLAYER CHATTED [  691635668] VicDeth              (  901.4,   124.8,   457.1)
+  he have a gun
+2022-08-01T03:22:34Z: PLAYER CHATTED [  716940211] supermase143         ( 2184.4,    74.6,  -655.7)
+  !help
+2022-08-01T03:22:39Z: PLAYER CHATTED [  716940211] supermase143         ( 2188.1,    74.6,  -657.1)
+  i think there trollers
+2022-08-01T03:22:42Z: PLAYER CHATTED [  716940211] supermase143         ( 2188.1,    74.6,  -657.1)
+  .i saw them,
+2022-08-01T03:22:46Z: PLAYER CHATTED [  716940211] supermase143         ( 2183.9,    74.6,  -668.3)
+  fling
+2022-08-01T03:22:51Z: PLAYER CHATTED [  716940211] supermase143         ( 2183.9,    74.6,  -668.3)
+  i wish i can come wit you
+2022-08-01T03:22:55Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2187.8,    76.8,  -678.5)
+  They're trying to spawn kill.
+2022-08-01T03:23:00Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2187.8,    76.8,  -678.5)
+  Sorry.
+2022-08-01T03:23:01Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  743.7,    74.0,   597.5)
+  Plans for tonight?
+2022-08-01T03:23:03Z: PLAYER CHATTED [  691635668] VicDeth              ( 1315.1,    62.7,   880.5)
+  we need to recue him
+2022-08-01T03:23:07Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2187.8,    76.8,  -678.5)
+  Can you open the gate?
+2022-08-01T03:23:09Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  724.0,    74.0,   629.6)
+  Meet with POTUS?
+2022-08-01T03:23:13Z: PLAYER CHATTED [  178713901] Dkooy2               (  720.2,    74.0,   624.5)
+  No, I don't know where POTUS is.
+2022-08-01T03:23:15Z: PLAYER CHATTED [  691635668] VicDeth              ( 1195.3,    62.7,   879.8)
+  he have an ak
+2022-08-01T03:23:15Z: PLAYER CHATTED [  178713901] Dkooy2               (  722.6,    74.0,   626.3)
+  Where is he?
+2022-08-01T03:23:16Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  724.0,    74.0,   629.6)
+  hes in a secret office
+2022-08-01T03:23:16Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  724.0,    74.0,   629.6)
+  follow
+2022-08-01T03:23:19Z: PLAYER CHATTED [  691635668] VicDeth              ( 1188.9,    62.6,   879.9)
+  47
+2022-08-01T03:23:20Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2187.8,    76.8,  -678.5)
+  Don't worry, you'll get there
+2022-08-01T03:23:21Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1185.9,    62.4,   879.7)
+  Do you?
+2022-08-01T03:23:23Z: PLAYER CHATTED [  716940211] supermase143         ( 2179.2,    74.6,  -663.0)
+  Ik
+2022-08-01T03:23:25Z: PLAYER CHATTED [  691635668] VicDeth              ( 1183.2,    62.6,   879.9)
+  no
+2022-08-01T03:23:27Z: PLAYER CHATTED [ 1275023886] Acxe_WhT2            ( 1027.1,    62.7,  1316.9)
+  No sign of POTUS.
+2022-08-01T03:23:32Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 1020.7,    62.7,  1307.9)
+  I saw him.
+2022-08-01T03:23:35Z: PLAYER CHATTED [  178713901] Dkooy2               (  626.4,    62.4,   808.1)
+  !light
+2022-08-01T03:23:36Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 1020.9,    62.7,  1305.4)
+  In the residence.
+2022-08-01T03:23:36Z: PLAYER CHATTED [ 1275023886] Acxe_WhT2            ( 1027.1,    62.7,  1316.9)
+  Where?
+2022-08-01T03:23:38Z: CHRCTER ADDED  [    5981475] Zephyrsion           (  766.8,    62.6,  1032.7)
+2022-08-01T03:23:44Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 1020.9,    62.7,  1305.4)
+  But then he went
+2022-08-01T03:23:47Z: PLAYER CHATTED [  691635668] VicDeth              ( 1834.7,   122.8,   170.3)
+  to the left
+2022-08-01T03:23:48Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 1020.1,    62.7,  1285.8)
+  I had to go afk
+2022-08-01T03:24:00Z: PLAYER CHATTED [  691635668] VicDeth              (  483.3,    95.9,   347.7)
+  left
+2022-08-01T03:24:06Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 1049.9,    62.7,  1160.5)
+  HUMVEE
+2022-08-01T03:24:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (  126.2,    74.0,    34.1)
+  Here?
+2022-08-01T03:24:21Z: PLAYER CHATTED [  691635668] VicDeth              (  123.0,    74.3,    60.7)
+  no in the park
+2022-08-01T03:24:26Z: PLAYER CHATTED [  691635668] VicDeth              (  105.5,    74.6,   108.0)
+  front the house
+2022-08-01T03:24:51Z: PLAYER CHATTED [ 1818902597] AntIronsides         (  572.9,    74.3,   540.2)
+  POTUS
+2022-08-01T03:24:55Z: PLAYER CHATTED [    5981475] Zephyrsion           (  571.4,    72.9,   537.8)
+  Yes
+2022-08-01T03:24:56Z: PLAYER CHATTED [ 1818902597] AntIronsides         (  574.1,    72.8,   539.3)
+  Where are you going?
+2022-08-01T03:25:02Z: PLAYER CHATTED [    5981475] Zephyrsion           (  583.6,    73.0,   482.2)
+  To vind VP
+2022-08-01T03:25:06Z: PLAYER CHATTED [    5981475] Zephyrsion           (  583.6,    72.9,   482.2)
+  find
+2022-08-01T03:25:08Z: PLAYER CHATTED [    5981475] Zephyrsion           (  583.6,    72.9,   482.2)
+  *
+2022-08-01T03:25:10Z: PLAYER CHATTED [ 1275023886] Acxe_WhT2            (  575.7,    74.3,   483.0)
+  He's in W H.
+2022-08-01T03:25:11Z: PLAYER CHATTED [ 1818902597] AntIronsides         (  585.8,    74.3,   485.6)
+  His searching for you in the WH
+2022-08-01T03:25:12Z: PLAYER CHATTED [    5981475] Zephyrsion           (  583.6,    72.9,   482.2)
+  Come long
+2022-08-01T03:25:13Z: PLAYER CHATTED [ 1275023886] Acxe_WhT2            (  575.7,    74.3,   483.0)
+  I saw him.
+2022-08-01T03:25:16Z: PLAYER CHATTED [    5981475] Zephyrsion           (  578.8,    73.0,   499.8)
+  Ok good let's get him
+2022-08-01T03:25:22Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 2085.3,    74.0,  -684.2)
+  He's not here.
+2022-08-01T03:25:31Z: PLAYER CHATTED [  716940211] supermase143         ( 2129.1,    74.3,  -681.0)
+  !help
+2022-08-01T03:25:33Z: PLAYER CHATTED [  691635668] VicDeth              ( 1589.4,    74.3,  -765.1)
+  on the white house
+2022-08-01T03:25:35Z: PLAYER CHATTED [   25244664] DonPab1oEGaviria     (  655.2,    50.2,  1108.8)
+  bruh he left
+2022-08-01T03:25:47Z: CHRCTER ADDED  [  178713901] Dkooy2               (  641.7,    62.6,   965.7)
+2022-08-01T03:25:49Z: PLAYER CHATTED [  170338001] roopr1               (   -8.3,    73.9,  -590.9)
+  harry pottera
+2022-08-01T03:25:51Z: CHRCTER ADDED  [   25244664] DonPab1oEGaviria     (  782.5,    51.1,  1022.6)
+2022-08-01T03:25:59Z: PLAYER CHATTED [ 1275023886] Acxe_WhT2            (  637.6,    51.5,   999.7)
+  VP.
+2022-08-01T03:26:01Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1040.2,   130.9,   927.6)
+  Where?
+2022-08-01T03:26:06Z: PLAYER CHATTED [  691635668] VicDeth              ( 1039.8,   132.2,   924.7)
+  yep u see him?
+2022-08-01T03:26:08Z: PLAYER CHATTED [  178713901] Dkooy2               (  740.7,    51.5,  1034.1)
+  ?
+2022-08-01T03:26:09Z: PLAYER CHATTED [ 1275023886] Acxe_WhT2            (  730.9,    51.5,  1033.3)
+  Come.
+2022-08-01T03:26:11Z: PLAYER REMOVED [   25244664] DonPab1oEGaviria
+2022-08-01T03:26:16Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1040.4,   130.2,   927.3)
+  he's not here.
+2022-08-01T03:26:17Z: PLAYER CHATTED [  691635668] VicDeth              ( 1040.1,   131.7,   924.5)
+  to the right
+2022-08-01T03:26:27Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1040.4,   130.2,   927.3)
+  he's at my 11 o'clock.
+2022-08-01T03:26:31Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1040.4,   130.2,   927.3)
+  Now 8 oclock.
+2022-08-01T03:26:34Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1040.4,   130.2,   927.3)
+  7 oclock.
+2022-08-01T03:26:40Z: PLAYER CHATTED [ 1275023886] Acxe_WhT2            (  894.1,    62.7,   989.5)
+  FOUND VP.
+2022-08-01T03:26:46Z: PLAYER CHATTED [  178713901] Dkooy2               (  906.3,    62.7,   984.8)
+  !light
+2022-08-01T03:26:47Z: PLAYER CHATTED [  691635668] VicDeth              ( 1040.1,   131.7,   924.5)
+  rescue
+2022-08-01T03:26:48Z: PLAYER CHATTED [ 1818902597] AntIronsides         (  914.3,    62.7,   980.2)
+  GET TO SAFETY
+2022-08-01T03:26:49Z: PLAYER CHATTED [ 1275023886] Acxe_WhT2            (  906.3,    62.7,   979.1)
+  Where's POTUS.
+2022-08-01T03:26:51Z: PLAYER CHATTED [ 1818902597] AntIronsides         (  914.3,    62.7,   980.2)
+  SOMEONE IS UP THERE
+2022-08-01T03:26:51Z: PLAYER CHATTED [  170338001] roopr1               ( 2090.9,    73.7,  -716.5)
+  I win
+2022-08-01T03:26:56Z: PLAYER CHATTED [  178713901] Dkooy2               (  904.3,    62.7,   987.6)
+  !unlight
+2022-08-01T03:26:56Z: PLAYER CHATTED [ 1818902597] AntIronsides         (  907.9,    62.7,   974.7)
+  ON THE ROOF
+2022-08-01T03:27:03Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1040.4,   130.2,   927.3)
+  I don't know who we're rescuing.
+2022-08-01T03:27:05Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2072.5,    73.1,  -684.9)
+  round 2
+2022-08-01T03:27:08Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2072.5,    73.1,  -684.9)
+  lets pick another
+2022-08-01T03:27:09Z: PLAYER CHATTED [  170338001] roopr1               ( 2083.1,    73.7,  -683.6)
+  GO
+2022-08-01T03:27:10Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2072.5,    73.1,  -684.9)
+  ending
+2022-08-01T03:27:13Z: PLAYER CHATTED [  716940211] supermase143         ( 2115.5,    74.3,  -679.1)
+  ...
+2022-08-01T03:27:14Z: PLAYER CHATTED [  691635668] VicDeth              ( 1040.1,   131.7,   924.5)
+  to Vision
+2022-08-01T03:27:33Z: PLAYER CHATTED [  691635668] VicDeth              ( 1040.1,   131.7,   924.5)
+  White cloths outfit guy
+2022-08-01T03:27:35Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1040.4,   130.2,   927.3)
+  He's not here.
+2022-08-01T03:27:41Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1040.3,   130.2,   927.1)
+  Never mind.
+2022-08-01T03:27:46Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2089.2,    73.0,  1438.4)
+  lets go to fbi
+2022-08-01T03:27:47Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1040.3,   130.2,   927.1)
+  The only criminal.
+2022-08-01T03:27:52Z: PLAYER CHATTED [  691635668] VicDeth              ( 1037.4,   131.7,   924.8)
+  yep lol
+2022-08-01T03:27:59Z: PLAYER CHATTED [  170338001] roopr1               ( 2089.4,    73.7,  1540.2)
+  ok
+2022-08-01T03:28:04Z: PLAYER CHATTED [  178713901] Dkooy2               (  959.9,   103.3,   871.9)
+  Uh.
+2022-08-01T03:28:20Z: PLAYER CHATTED [  691635668] VicDeth              ( 1936.5,   404.6,   472.1)
+  rescue
+2022-08-01T03:28:20Z: PLAYER CHATTED [  973587792] XxwingfaderxX        ( 1953.8,   405.8,   452.0)
+  AHHHHHHHHHHHHHHHHHh
+2022-08-01T03:28:40Z: PLAYER REMOVED [ 2574392852] WormKuma
+2022-08-01T03:28:41Z: PLAYER CHATTED [  691635668] VicDeth              (  141.1,   221.7,   872.5)
+  now where is the presi
+2022-08-01T03:28:45Z: PLAYER CHATTED [  973587792] XxwingfaderxX        (    0.4,   263.1,   572.8)
+  idk
+2022-08-01T03:28:49Z: PLAYER CHATTED [  973587792] XxwingfaderxX        (  -69.1,    98.9,   370.0)
+  i think in his roon
+2022-08-01T03:28:55Z: PLAYER CHATTED [  973587792] XxwingfaderxX        (  -53.1,    97.1,   367.3)
+  top of the white house
+2022-08-01T03:29:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -53.3,    97.0,   364.8)
+  President is below me.
+2022-08-01T03:29:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -53.3,    97.0,   364.8)
+  First floor.
+2022-08-01T03:29:12Z: PLAYER CHATTED [  691635668] VicDeth              (  -56.2,    98.2,   367.3)
+  its time
+2022-08-01T03:29:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -53.3,    97.0,   364.8)
+  Right of the entrance.
+2022-08-01T03:29:27Z: PLAYER CHATTED [  178713901] Dkooy2               (  656.5,    96.5,   963.6)
+  Who was in that car?
+2022-08-01T03:29:31Z: PLAYER CHATTED [  178713901] Dkooy2               (  654.3,    96.5,   964.1)
+  !light
+2022-08-01T03:30:05Z: PLAYER CHATTED [ 1818902597] AntIronsides         (  652.2,    96.5,   957.8)
+  COme with me
+2022-08-01T03:30:12Z: PLAYER CHATTED [  170338001] roopr1               (  -21.4,    80.5,   367.2)
+  How u got up there
+2022-08-01T03:30:21Z: PLAYER CHATTED [    5981475] Zephyrsion           (  -86.6,    74.7,   469.0)
+  rood
+2022-08-01T03:30:22Z: CHRCTER ADDED  [ 1516469386] imapersonyounot      (  -79.2,    78.0,    92.7)
+2022-08-01T03:30:23Z: CHRCTER ADDED  [  973587792] XxwingfaderxX        (  -84.2,    78.0,    88.3)
+2022-08-01T03:30:29Z: PLAYER CHATTED [ 1818902597] AntIronsides         (  593.3,    51.5,  1034.4)
+  I'll take you to N G Base
+2022-08-01T03:30:30Z: PLAYER CHATTED [    5981475] Zephyrsion           (  -35.2,    74.7,   398.6)
+  LOL
+2022-08-01T03:30:31Z: PLAYER CHATTED [  178713901] Dkooy2               (  584.0,    52.6,  1043.8)
+  Against the rules.
+2022-08-01T03:30:32Z: PLAYER CHATTED [  973587792] XxwingfaderxX        (  -47.0,    74.3,   131.8)
+  !rejoin
+2022-08-01T03:30:33Z: PLAYER CHATTED [    5981475] Zephyrsion           (  -40.0,    74.7,   382.7)
+  man thats epic
+2022-08-01T03:30:34Z: PLAYER REMOVED [  973587792] XxwingfaderxX
+2022-08-01T03:30:37Z: PLAYER CHATTED [  178713901] Dkooy2               (  584.0,    52.6,  1043.8)
+  I need a state car.
+2022-08-01T03:30:38Z: CHRCTER ADDED  [ 1275023886] Acxe_WhT2            ( 2449.9,    74.8,  -670.3)
+2022-08-01T03:30:38Z: PLAYER CHATTED [ 1818902597] AntIronsides         (  587.3,    51.5,  1036.1)
+  NVM
+2022-08-01T03:30:39Z: CHRCTER ADDED  [  691635668] VicDeth              (   87.9,    75.2,    80.5)
+2022-08-01T03:30:41Z: PLAYER CHATTED [  170338001] roopr1               (  -36.0,    74.7,   370.3)
+  he planned to #### #
+2022-08-01T03:30:43Z: PLAYER ADDED   [  973587792] XxwingfaderxX
+2022-08-01T03:30:53Z: PLAYER CHATTED [  178713901] Dkooy2               (  505.0,    52.6,  1111.7)
+  !unlight
+2022-08-01T03:30:55Z: CHRCTER ADDED  [  973587792] XxwingfaderxX        (  -84.7,    78.0,    85.3)
+2022-08-01T03:31:08Z: PLAYER CHATTED [ 1818902597] AntIronsides         (  486.8,    52.8,  1142.2)
+  Can't spawn anything.
+2022-08-01T03:31:09Z: CHRCTER ADDED  [  691635668] VicDeth              (   88.4,    75.2,   220.1)
+2022-08-01T03:31:32Z: PLAYER CHATTED [  178713901] Dkooy2               (  498.7,    52.8,  1129.0)
+  ##################
+2022-08-01T03:31:37Z: PLAYER CHATTED [    5981475] Zephyrsion           (   -6.9,    72.3,   357.2)
+  wow
+2022-08-01T03:31:37Z: PLAYER CHATTED [  178713901] Dkooy2               (  501.9,    52.8,  1127.7)
+  Get me SS.
+2022-08-01T03:31:37Z: PLAYER CHATTED [    5981475] Zephyrsion           (   -6.9,    72.3,   357.2)
+  rude
+2022-08-01T03:31:38Z: PLAYER CHATTED [  973587792] XxwingfaderxX        (   -9.1,    74.3,   384.0)
+  nice
+2022-08-01T03:31:39Z: CHRCTER ADDED  [    5981475] Zephyrsion           (  766.8,    62.6,  1032.7)
+2022-08-01T03:31:39Z: PLAYER CHATTED [  170338001] roopr1               (  517.9,    63.9,  1421.9)
+  lool
+2022-08-01T03:31:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (   16.0,    74.0,   375.0)
+  WE KILLED HIM!
+2022-08-01T03:31:42Z: PLAYER CHATTED [  691635668] VicDeth              (   -7.1,    74.3,   388.0)
+  finally
+2022-08-01T03:31:46Z: PLAYER CHATTED [  170338001] roopr1               (  622.1,    62.7,  1423.8)
+  how do i always keep jumpih
+2022-08-01T03:31:46Z: PLAYER CHATTED [  973587792] XxwingfaderxX        (   38.2,    77.8,   288.0)
+  TO THE OVAL
+2022-08-01T03:31:49Z: PLAYER CHATTED [  170338001] roopr1               (  624.0,    62.7,  1423.7)
+  jumping*
+2022-08-01T03:31:58Z: PLAYER CHATTED [  645280283] poopoobum752         (  616.6,    62.7,  1436.4)
+  MOVE AWAY
+2022-08-01T03:32:05Z: PLAYER CHATTED [  178713901] Dkooy2               (  509.7,    52.6,  1121.2)
+  Fine, it will do for now.
+2022-08-01T03:32:06Z: PLAYER CHATTED [  645280283] poopoobum752         (  594.8,    62.7,  1425.2)
+  restricted area
+2022-08-01T03:32:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (  637.7,    90.9,  1032.8)
+  He's leaving.
+2022-08-01T03:32:07Z: PLAYER CHATTED [  170338001] roopr1               (  585.3,    62.2,  1425.1)
+  Yo i was racing POTUS'
+2022-08-01T03:32:08Z: PLAYER CHATTED [  170338001] roopr1               (  585.3,    62.2,  1425.1)
+  sorry
+2022-08-01T03:32:14Z: CHRCTER ADDED  [  178713901] Dkooy2               (  641.7,    62.6,   965.7)
+2022-08-01T03:32:14Z: PLAYER CHATTED [  645280283] poopoobum752         (  594.8,    62.7,  1425.2)
+  Don't pass red line
+2022-08-01T03:32:15Z: PLAYER REMOVED [  973587792] XxwingfaderxX
+2022-08-01T03:32:19Z: PLAYER CHATTED [  645280283] poopoobum752         (  575.6,    62.7,  1406.3)
+  o7
+2022-08-01T03:32:25Z: PLAYER CHATTED [    5981475] Zephyrsion           (  571.6,    61.4,  1367.6)
+  get that crim
+2022-08-01T03:32:28Z: CHRCTER ADDED  [ 1516469386] imapersonyounot      (  -77.6,    78.0,    87.4)
+2022-08-01T03:32:28Z: PLAYER REMOVED [ 1275023886] Acxe_WhT2
+2022-08-01T03:32:31Z: PLAYER CHATTED [  645280283] poopoobum752         (  578.7,    62.7,  1383.9)
+  Hello, Mr. President.
+2022-08-01T03:32:36Z: PLAYER CHATTED [  170338001] roopr1               (  569.8,    62.7,  1402.9)
+  When race?
+2022-08-01T03:32:42Z: PLAYER CHATTED [  645280283] poopoobum752         (  571.0,    62.7,  1398.1)
+  No.
+2022-08-01T03:32:47Z: PLAYER CHATTED [ 1818902597] AntIronsides         (  597.2,    52.6,  1047.4)
+  wTheres no SS onlinePRESIDENt
+2022-08-01T03:32:49Z: PLAYER CHATTED [  178713901] Dkooy2               (  586.6,    51.6,  1033.3)
+  Fine.
+2022-08-01T03:32:49Z: PLAYER CHATTED [  645280283] poopoobum752         (  572.5,    62.7,  1399.1)
+  Now, leave.
+2022-08-01T03:32:51Z: PLAYER CHATTED [ 1818902597] AntIronsides         (  587.3,    51.5,  1036.1)
+  PRESIDENt
+2022-08-01T03:32:54Z: PLAYER CHATTED [    5981475] Zephyrsion           (  557.3,    61.4,  1425.5)
+  race soon
+2022-08-01T03:32:55Z: PLAYER CHATTED [  170338001] roopr1               (  560.9,    62.7,  1416.8)
+  follow me
+2022-08-01T03:32:57Z: PLAYER CHATTED [    5981475] Zephyrsion           (  557.3,    61.4,  1425.5)
+  my fren
+2022-08-01T03:33:00Z: PLAYER CHATTED [  170338001] roopr1               (  560.9,    62.7,  1416.8)
+  i know a good track
+2022-08-01T03:33:02Z: PLAYER CHATTED [ 1818902597] AntIronsides         (  565.5,    62.7,  1415.7)
+  OMG
+2022-08-01T03:33:03Z: PLAYER CHATTED [    5981475] Zephyrsion           (  539.0,    61.4,  1428.4)
+  k lets go
+2022-08-01T03:33:05Z: PLAYER CHATTED [ 1818902597] AntIronsides         (  553.8,    62.7,  1419.5)
+  IT
+2022-08-01T03:33:08Z: PLAYER CHATTED [ 1818902597] AntIronsides         (  553.8,    62.7,  1419.5)
+  TOM CRUISE??
+2022-08-01T03:33:08Z: PLAYER CHATTED [  178713901] Dkooy2               (  566.4,    61.7,  1405.3)
+  I am only breaking the rules because there is no SS.
+2022-08-01T03:33:10Z: PLAYER CHATTED [  170338001] roopr1               (  536.6,    62.3,  1416.9)
+  yes
+2022-08-01T03:33:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (  568.9,    62.3,  1650.9)
+  He's about to race.
+2022-08-01T03:33:29Z: PLAYER CHATTED [  691635668] VicDeth              (   29.6,    74.7,  1950.1)
+  lol
+2022-08-01T03:33:43Z: PLAYER CHATTED [    5981475] Zephyrsion           (   27.2,    73.0,  1978.9)
+  yo where
+2022-08-01T03:33:44Z: PLAYER CHATTED [  691635668] VicDeth              (  156.3,    74.3,  1979.0)
+  we are most faster
+2022-08-01T03:33:44Z: PLAYER CHATTED [    5981475] Zephyrsion           (   27.2,    73.0,  1978.9)
+  *to where
+2022-08-01T03:33:46Z: PLAYER CHATTED [  170338001] roopr1               (   23.2,    73.7,  1989.0)
+  From here to the end
+2022-08-01T03:33:50Z: PLAYER CHATTED [    5981475] Zephyrsion           (   22.4,    73.0,  1979.2)
+  aii ok
+2022-08-01T03:34:00Z: PLAYER CHATTED [  170338001] roopr1               (   23.2,    73.7,  1989.0)
+  go!!
+2022-08-01T03:34:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (   20.5,    74.0,  1691.9)
+  Let me read the chatlogs.
+2022-08-01T03:34:22Z: PLAYER CHATTED [  170338001] roopr1               ( 2023.1,    73.7,  1981.7)
+  les goo'
+2022-08-01T03:34:36Z: PLAYER CHATTED [  170338001] roopr1               ( 2070.7,    73.7,  1990.6)
+  what happened?
+2022-08-01T03:34:40Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2094.3,    74.7,  1987.2)
+  got stuck
+2022-08-01T03:35:13Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2096.7,    73.2,  1928.4)
+  .
+2022-08-01T03:35:20Z: PLAYER CHATTED [    5981475] Zephyrsion           (  -36.6,    73.9,  1602.3)
+  ooof
+2022-08-01T03:35:21Z: PLAYER CHATTED [    5981475] Zephyrsion           (  -36.9,    73.9,  1577.9)
+  gg
+2022-08-01T03:35:25Z: PLAYER REMOVED [ 1516469386] imapersonyounot
+2022-08-01T03:36:23Z: CHRCTER ADDED  [  170338001] roopr1               (  208.9,    75.2,    49.9)
+2022-08-01T03:36:31Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2134.1,    74.3,  -676.0)
+  Want to guard gate with me?
+2022-08-01T03:36:36Z: PLAYER CHATTED [  716940211] supermase143         ( 2136.1,    74.3,  -671.8)
+  yes
+2022-08-01T03:36:45Z: PLAYER CHATTED [  691635668] VicDeth              (  -35.3,    73.0,  1944.2)
+  better car
+2022-08-01T03:36:51Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2114.8,    84.5,  -641.4)
+  Go on the other side.
+2022-08-01T03:36:52Z: PLAYER CHATTED [  716940211] supermase143         ( 2115.1,    84.0,  -649.9)
+  thought you where E1
+2022-08-01T03:36:54Z: PLAYER CHATTED [  716940211] supermase143         ( 2115.1,    84.0,  -649.9)
+  was about to say
+2022-08-01T03:36:55Z: PLAYER CHATTED [  716940211] supermase143         ( 2115.1,    84.0,  -649.9)
+  lol
+2022-08-01T03:36:56Z: PLAYER CHATTED [ 1818902597] AntIronsides         (   74.6,    72.5,  -819.1)
+  This car way too fast.
+2022-08-01T03:36:59Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2114.8,    84.5,  -641.4)
+  Hehe
+2022-08-01T03:37:03Z: PLAYER CHATTED [  170338001] roopr1               (   75.5,    72.8,  -820.9)
+  oh really
+2022-08-01T03:37:03Z: PLAYER CHATTED [  716940211] supermase143         ( 2115.3,    84.5,  -661.0)
+  ?
+2022-08-01T03:37:06Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2114.8,    84.5,  -641.4)
+  o7
+2022-08-01T03:37:11Z: PLAYER CHATTED [  178713901] Dkooy2               ( 2105.9,    74.3,  -606.4)
+  Hi.
+2022-08-01T03:37:19Z: PLAYER CHATTED [  716940211] supermase143         ( 2117.1,    74.3,  -612.2)
+  Hello, VPOTUS
+2022-08-01T03:37:19Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2101.8,    74.3,  -607.2)
+  Hello, Mr. Vice President.
+2022-08-01T03:37:24Z: PLAYER CHATTED [  716940211] supermase143         ( 2119.6,    74.3,  -607.3)
+  07
+2022-08-01T03:37:34Z: PLAYER CHATTED [  178713901] Dkooy2               ( 2121.0,    74.3,  -598.9)
+  07?
+2022-08-01T03:37:37Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -11.2,    74.0,  1949.9)
+  I'll be AFK.
+2022-08-01T03:37:37Z: PLAYER CHATTED [    5981475] Zephyrsion           (  492.7,    75.8,  -777.6)
+  dayum
+2022-08-01T03:37:41Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2122.5,    74.3,  -593.5)
+  o7
+2022-08-01T03:37:46Z: PLAYER CHATTED [  178713901] Dkooy2               ( 2123.2,    74.3,  -599.9)
+  o7?
+2022-08-01T03:37:50Z: PLAYER CHATTED [    5981475] Zephyrsion           (  501.8,    75.8,  -771.2)
+  alr alr
+2022-08-01T03:37:51Z: PLAYER CHATTED [    5981475] Zephyrsion           (  506.0,    75.8,  -771.2)
+  I see
+2022-08-01T03:37:55Z: PLAYER CHATTED [  691635668] VicDeth              (  -14.2,    74.5,  1949.5)
+  wait
+2022-08-01T03:38:01Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2122.9,    74.3,  -595.0)
+  What do you need, Sir?
+2022-08-01T03:38:07Z: PLAYER CHATTED [  178713901] Dkooy2               ( 2123.2,    74.3,  -599.9)
+  I was told to be here?
+2022-08-01T03:38:11Z: PLAYER CHATTED [  716940211] supermase143         ( 2128.4,    74.3,  -600.3)
+  By?
+2022-08-01T03:38:14Z: PLAYER CHATTED [  178713901] Dkooy2               ( 2123.2,    74.3,  -599.9)
+  By E5.
+2022-08-01T03:38:14Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2122.9,    74.3,  -595.0)
+  Oh, for what/
+2022-08-01T03:38:18Z: PLAYER CHATTED [  178713901] Dkooy2               ( 2122.7,    74.3,  -600.3)
+  Idk.
+2022-08-01T03:38:19Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2122.9,    74.3,  -595.0)
+  mhm
+2022-08-01T03:38:19Z: PLAYER CHATTED [  716940211] supermase143         ( 2127.2,    74.3,  -597.6)
+  For?
+2022-08-01T03:38:33Z: PLAYER CHATTED [  178713901] Dkooy2               ( 2115.0,    74.3,  -606.7)
+  By him.
+2022-08-01T03:38:35Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2110.8,    74.3,  -605.1)
+  Uh, Sarge
+2022-08-01T03:38:36Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2109.6,    74.3,  -608.3)
+  ?
+2022-08-01T03:38:39Z: PLAYER CHATTED [  716940211] supermase143         ( 2117.5,    74.3,  -607.7)
+  One moment
+2022-08-01T03:38:41Z: PLAYER CHATTED [  716940211] supermase143         ( 2112.9,    74.3,  -607.2)
+  ####
+2022-08-01T03:38:43Z: PLAYER CHATTED [  716940211] supermase143         ( 2112.9,    74.3,  -607.2)
+  Sarge
+2022-08-01T03:38:46Z: PLAYER CHATTED [  716940211] supermase143         ( 2112.9,    74.3,  -607.2)
+  He was told to be ehre
+2022-08-01T03:38:46Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2120.2,    74.3,  -610.7)
+  VP
+2022-08-01T03:38:47Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2120.2,    74.3,  -610.7)
+  !
+2022-08-01T03:38:48Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2109.8,    74.3,  -604.6)
+  Why are you in a bugatti
+2022-08-01T03:38:49Z: PLAYER CHATTED [  716940211] supermase143         ( 2115.6,    74.3,  -606.1)
+  here
+2022-08-01T03:38:53Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2108.8,    74.3,  -608.3)
+  No car.
+2022-08-01T03:38:55Z: PLAYER CHATTED [  178713901] Dkooy2               ( 2121.3,    74.3,  -603.9)
+  What are we doing...
+2022-08-01T03:38:58Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2109.8,    74.3,  -604.6)
+  Mhm.
+2022-08-01T03:39:01Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2120.8,    74.3,  -608.5)
+  Doing something soo
+2022-08-01T03:39:01Z: PLAYER ADDED   [ 1705547375] djshbff
+2022-08-01T03:39:03Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2120.8,    74.3,  -608.5)
+  soon
+2022-08-01T03:39:06Z: PLAYER CHATTED [  716940211] supermase143         ( 2117.0,    74.3,  -604.5)
+  mhm
+2022-08-01T03:39:06Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2119.0,    74.3,  -601.5)
+  o7
+2022-08-01T03:39:07Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2109.2,    74.3,  -593.2)
+  .
+2022-08-01T03:39:11Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2106.2,    73.6,  -581.9)
+  Nice interior
+2022-08-01T03:39:13Z: CHRCTER ADDED  [ 1705547375] djshbff              (  714.1,    51.3,  1034.3)
+2022-08-01T03:39:19Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2109.6,    74.3,  -591.4)
+  07
+2022-08-01T03:39:19Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2102.2,    74.3,  -578.7)
+  Hello, Mr. President.
+2022-08-01T03:39:22Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2099.0,    74.3,  -589.2)
+  O7
+2022-08-01T03:39:22Z: PLAYER CHATTED [  691635668] VicDeth              (   35.2,    74.7,  1821.4)
+  Visual
+2022-08-01T03:39:23Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2113.1,    74.3,  -588.6)
+  What brings you here now??
+2022-08-01T03:39:24Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2098.3,    74.3,  -588.8)
+  o7
+2022-08-01T03:39:27Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2098.3,    74.3,  -588.8)
+  Hello Mr.
+2022-08-01T03:39:28Z: PLAYER CHATTED [  691635668] VicDeth              (   36.5,    74.7,  1821.4)
+  I need to go
+2022-08-01T03:39:29Z: PLAYER CHATTED [  178713901] Dkooy2               ( 2108.8,    74.3,  -598.2)
+  What does o7 mean?
+2022-08-01T03:39:31Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2096.8,    74.3,  -587.2)
+  How are you today?
+2022-08-01T03:39:33Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2097.9,    74.3,  -588.5)
+  Private First Class
+2022-08-01T03:39:34Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2097.9,    74.3,  -588.5)
+  and Mr.
+2022-08-01T03:39:37Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2095.9,    74.3,  -592.6)
+  Sergeant
+2022-08-01T03:39:38Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2096.9,    74.3,  -595.6)
+  Its like a Salute.
+2022-08-01T03:39:40Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2095.6,    74.3,  -598.4)
+  ?
+2022-08-01T03:39:43Z: PLAYER CHATTED [  178713901] Dkooy2               ( 2103.0,    74.3,  -597.3)
+  Oh.
+2022-08-01T03:39:46Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2096.4,    74.3,  -593.0)
+  Well today I'm
+2022-08-01T03:39:49Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2096.6,    74.3,  -593.1)
+  Blue
+2022-08-01T03:39:56Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2093.2,    74.3,  -592.2)
+  Very nice, Sir.
+2022-08-01T03:40:18Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2097.2,    74.3,  -593.5)
+  If you need us, you know where to find us, Sir.
+2022-08-01T03:40:19Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2099.7,    74.3,  -599.9)
+  Soakin' up that cash at the moment.
+2022-08-01T03:40:26Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2099.7,    74.3,  -599.9)
+  For a nice gun
+2022-08-01T03:40:27Z: PLAYER CHATTED [  178713901] Dkooy2               ( 2106.9,    74.3,  -597.8)
+  ..
+2022-08-01T03:40:35Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2099.7,    74.3,  -599.9)
+  Good to know, PFC.
+2022-08-01T03:40:38Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2095.1,    74.3,  -596.0)
+  WOAH
+2022-08-01T03:40:40Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2097.1,    74.3,  -580.8)
+  Where'd ### #### from
+2022-08-01T03:40:42Z: PLAYER CHATTED [  170338001] roopr1               ( 2099.9,    74.3,  -566.0)
+  heyy sir
+2022-08-01T03:40:46Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2097.5,    74.3,  -572.0)
+  You just appeared outta nowhere
+2022-08-01T03:40:46Z: PLAYER CHATTED [  170338001] roopr1               ( 2099.9,    74.3,  -566.0)
+  i just stole this
+2022-08-01T03:40:49Z: PLAYER CHATTED [  170338001] roopr1               ( 2099.9,    74.3,  -566.0)
+  from the iranian embassy
+2022-08-01T03:40:53Z: PLAYER ADDED   [ 1210792580] sjgody
+2022-08-01T03:40:54Z: PLAYER CHATTED [  716940211] supermase143         ( 2107.6,    74.3,  -570.9)
+  .
+2022-08-01T03:40:55Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2099.9,    74.3,  -580.8)
+  Ronald McDonald had a farm.
+2022-08-01T03:40:55Z: PLAYER CHATTED [  170338001] roopr1               ( 2099.9,    74.3,  -566.0)
+  they have this in the back
+2022-08-01T03:40:56Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2096.0,    74.3,  -568.1)
+  I dont think they'd mind
+2022-08-01T03:40:57Z: PLAYER CHATTED [  170338001] roopr1               ( 2099.9,    74.3,  -566.0)
+  for some reason
+2022-08-01T03:41:04Z: CHRCTER ADDED  [ 1210792580] sjgody               ( 2459.2,    74.8,  -670.3)
+2022-08-01T03:41:12Z: PLAYER CHATTED [  716940211] supermase143         ( 2115.8,    74.3,  -607.2)
+  Ei EI oh
+2022-08-01T03:41:16Z: PLAYER CHATTED [  178713901] Dkooy2               ( 2094.2,    74.3,  -596.5)
+  There goes my car..
+2022-08-01T03:41:19Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2099.7,    74.3,  -598.1)
+  Yup
+2022-08-01T03:41:30Z: PLAYER CHATTED [ 1210792580] sjgody               ( 2104.8,    74.3,  -606.2)
+  G'day.
+2022-08-01T03:41:36Z: PLAYER CHATTED [ 1210792580] sjgody               ( 2104.6,    74.3,  -601.4)
+  Heya ant.
+2022-08-01T03:41:38Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2104.3,    74.3,  -599.1)
+  There goes my buggati.
+2022-08-01T03:41:41Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2103.4,    74.7,  -765.0)
+  Hello.
+2022-08-01T03:41:47Z: PLAYER CHATTED [  170338001] roopr1               ( 2104.5,    74.3,  -624.3)
+  Good evening.
+2022-08-01T03:42:07Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2109.3,    74.3,  -613.4)
+  Write me a poem on this
+2022-08-01T03:42:11Z: PLAYER REMOVED [ 1210792580] sjgody
+2022-08-01T03:42:12Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2109.3,    74.3,  -613.4)
+  and then hand it back when you're done
+2022-08-01T03:42:21Z: PLAYER ADDED   [  103705027] moneyrich70
+2022-08-01T03:42:27Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2116.8,    74.3,  -613.1)
+  I know one
+2022-08-01T03:42:29Z: PLAYER CHATTED [  178713901] Dkooy2               ( 2113.2,    74.3,  -599.7)
+  How did you let go of your item?
+2022-08-01T03:42:30Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2116.8,    74.3,  -613.1)
+  Roses are red
+2022-08-01T03:42:34Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2116.8,    74.3,  -613.1)
+  Violets are blue
+2022-08-01T03:42:35Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2107.4,    74.3,  -613.2)
+  Backspace
+2022-08-01T03:42:37Z: PLAYER CHATTED [  170338001] roopr1               ( 2095.3,    74.3,  -711.8)
+  bruh
+2022-08-01T03:42:41Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2110.8,    74.3,  -611.1)
+  I like the Press.
+2022-08-01T03:42:41Z: PLAYER CHATTED [  178713901] Dkooy2               ( 2102.5,    74.3,  -611.2)
+  Oh.
+2022-08-01T03:42:42Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2108.5,    74.3,  -615.1)
+  Doesnt work for most of the items
+2022-08-01T03:42:46Z: PLAYER CHATTED [  170338001] roopr1               ( 2091.3,    74.3,  -716.9)
+  You look like a ###########################
+2022-08-01T03:42:46Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2109.1,    74.3,  -612.7)
+  Don't you too?
+2022-08-01T03:42:46Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2106.9,    74.3,  -615.4)
+  The Press??
+2022-08-01T03:42:48Z: PLAYER CHATTED [  170338001] roopr1               ( 2090.2,    74.3,  -719.8)
+  fnuiwrhwjakl
+2022-08-01T03:42:51Z: PLAYER CHATTED [  170338001] roopr1               ( 2086.1,    74.3,  -737.4)
+
+2022-08-01T03:42:51Z: PLAYER CHATTED [ 1705547375] djshbff              ( 2080.9,    73.8,  -746.9)
+  i needed my old camro
+2022-08-01T03:42:56Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2109.2,    74.3,  -616.4)
+  Press is President.
+2022-08-01T03:42:56Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2107.0,    74.3,  -616.1)
+  I love em
+2022-08-01T03:42:58Z: CHRCTER ADDED  [  103705027] moneyrich70          (  688.8,    51.3,  1032.6)
+2022-08-01T03:43:00Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2104.2,    74.3,  -618.5)
+  Oh.
+2022-08-01T03:43:02Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2106.2,    74.3,  -613.7)
+   w How do I hand back.
+2022-08-01T03:43:04Z: PLAYER CHATTED [  170338001] roopr1               ( 2101.9,    74.3,  -625.1)
+  Great TA
+2022-08-01T03:43:04Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2084.3,    74.3,  -603.5)
+  Agent at gate.
+2022-08-01T03:43:07Z: PLAYER CHATTED [ 1705547375] djshbff              ( 2076.5,    73.7,  -616.3)
+  presidenr
+2022-08-01T03:43:10Z: PLAYER CHATTED [ 1705547375] djshbff              ( 2077.6,    73.7,  -610.2)
+  at
+2022-08-01T03:43:10Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2087.8,    74.3,  -604.5)
+  Presing backspace in front of me
+2022-08-01T03:43:15Z: PLAYER CHATTED [  178713901] Dkooy2               ( 2085.8,    74.3,  -617.9)
+  I want to read it.
+2022-08-01T03:43:25Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2091.9,    74.3,  -618.2)
+  HEY
+2022-08-01T03:43:26Z: PLAYER CHATTED [ 1705547375] djshbff              ( 2094.2,    73.7,  -586.5)
+  not your problem
+2022-08-01T03:43:26Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2091.9,    74.3,  -618.2)
+  THAT'S
+2022-08-01T03:43:27Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2094.9,    74.3,  -617.2)
+  NO
+2022-08-01T03:43:28Z: PLAYER ADDED   [ 1630876005] adam893A
+2022-08-01T03:43:28Z: PLAYER CHATTED [  170338001] roopr1               ( 2093.7,    74.3,  -621.6)
+  NOTHING THERE
+2022-08-01T03:43:29Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2091.4,    74.3,  -619.7)
+  violating the law of service
+2022-08-01T03:43:30Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2089.1,    74.3,  -626.7)
+  Confidential
+2022-08-01T03:43:32Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2091.4,    74.3,  -619.7)
+  Act 3 .45
+2022-08-01T03:43:34Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2086.2,    74.3,  -626.5)
+  It funny
+2022-08-01T03:43:42Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2086.2,    74.3,  -626.5)
+  Roses are redf
+2022-08-01T03:43:43Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2084.3,    74.3,  -631.0)
+  That's top secret documents in there
+2022-08-01T03:43:44Z: PLAYER CHATTED [  170338001] roopr1               ( 2087.1,    74.3,  -624.0)
+  SCANNING
+2022-08-01T03:43:47Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2086.2,    74.3,  -626.5)
+  Violets are Blue
+2022-08-01T03:43:50Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2082.9,    74.3,  -626.0)
+  Sir,
+2022-08-01T03:43:51Z: PLAYER CHATTED [  178713901] Dkooy2               ( 2088.1,    74.3,  -628.7)
+  It says nothing.
+2022-08-01T03:43:51Z: PLAYER CHATTED [  170338001] roopr1               ( 2087.1,    74.3,  -624.0)
+  AntIronsides
+2022-08-01T03:43:52Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2086.2,    74.3,  -626.5)
+  My name is big poopoo
+2022-08-01T03:43:55Z: PLAYER CHATTED [  170338001] roopr1               ( 2086.1,    74.3,  -624.8)
+  ## personnel
+2022-08-01T03:43:55Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2081.9,    74.3,  -630.0)
+  Yes
+2022-08-01T03:44:04Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2077.0,    74.3,  -637.0)
+  :O
+2022-08-01T03:44:05Z: CHRCTER ADDED  [ 1630876005] adam893A             (  204.8,    75.2,    50.4)
+2022-08-01T03:44:05Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2082.5,    74.3,  -626.4)
+  The Constitution of the United States has been stolen.
+2022-08-01T03:44:06Z: PLAYER CHATTED [  170338001] roopr1               ( 2090.5,    74.3,  -607.4)
+  Scanning...
+2022-08-01T03:44:10Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2081.3,    74.3,  -635.3)
+  Jk
+2022-08-01T03:44:11Z: PLAYER CHATTED [ 1705547375] djshbff              ( 2079.9,    73.7,  -648.2)
+  sorry
+2022-08-01T03:44:12Z: PLAYER CHATTED [  178713901] Dkooy2               ( 2087.4,    74.3,  -630.1)
+  !light
+2022-08-01T03:44:15Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2082.1,    74.3,  -635.4)
+  The Original one.
+2022-08-01T03:44:17Z: PLAYER CHATTED [  178713901] Dkooy2               ( 2090.1,    74.3,  -628.8)
+  !sparkles
+2022-08-01T03:44:19Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2082.2,    74.3,  -641.7)
+  I think it goes blank
+2022-08-01T03:44:21Z: PLAYER CHATTED [  178713901] Dkooy2               ( 2090.1,    74.3,  -628.8)
+  :cmds
+2022-08-01T03:44:23Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2082.2,    74.3,  -641.7)
+  When someone drops it
+2022-08-01T03:44:23Z: PLAYER CHATTED [  170338001] roopr1               ( 2096.7,    74.3,  -640.0)
+  Turn it off please.
+2022-08-01T03:44:25Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2078.9,    74.3,  -639.8)
+  Nice poem right.
+2022-08-01T03:44:26Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2070.4,    74.3,  -640.5)
+  :cmds
+2022-08-01T03:44:30Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2074.1,    74.3,  -639.9)
+  !client
+2022-08-01T03:44:30Z: PLAYER CHATTED [  178713901] Dkooy2               ( 2090.1,    74.3,  -628.8)
+  !unsparkles
+2022-08-01T03:44:31Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2076.7,    74.3,  -639.6)
+  oh man.
+2022-08-01T03:44:33Z: PLAYER CHATTED [  178713901] Dkooy2               ( 2090.1,    74.3,  -628.8)
+  !unlight
+2022-08-01T03:44:34Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2096.5,    74.3,  -657.7)
+  !unsparkles
+2022-08-01T03:44:38Z: PLAYER CHATTED [  178713901] Dkooy2               ( 2091.0,    74.3,  -631.8)
+  :cmds
+2022-08-01T03:44:38Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2074.1,    74.3,  -639.9)
+  !cape
+2022-08-01T03:44:43Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2082.9,    74.3,  -638.7)
+  !sparkles
+2022-08-01T03:44:51Z: PLAYER CHATTED [  170338001] roopr1               ( 2096.1,    74.3,  -632.9)
+  Anyone who kills me starts war with Iran
+2022-08-01T03:44:53Z: PLAYER CHATTED [ 1705547375] djshbff              ( 2091.6,    73.7,  -617.2)
+  what are you doing here we have work back at the white house
+2022-08-01T03:44:53Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2089.2,    74.3,  -637.0)
+  Spelling bee
+2022-08-01T03:44:55Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2085.5,    74.3,  -644.2)
+  did it work?
+2022-08-01T03:44:57Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2081.8,    74.3,  -646.5)
+  Woah
+2022-08-01T03:44:59Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2082.0,    74.3,  -647.6)
+  Sounds enticing
+2022-08-01T03:45:16Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2094.8,    74.3,  -672.1)
+  WAR WIHT IRAN
+2022-08-01T03:45:16Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2087.0,    74.3,  -667.2)
+  Mr. President.
+2022-08-01T03:45:18Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2102.9,    74.3,  -669.4)
+  WHIT
+2022-08-01T03:45:22Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2099.0,    74.3,  -668.0)
+  WHIT IRAN!!
+2022-08-01T03:45:23Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2099.0,    74.3,  -668.0)
+  WHIT
+2022-08-01T03:45:28Z: PLAYER CHATTED [  178713901] Dkooy2               ( 2081.9,    74.3,  -641.0)
+  Writing poems with the N G.
+2022-08-01T03:45:31Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2077.7,    74.3,  -654.3)
+  okl
+2022-08-01T03:45:31Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2083.6,    74.3,  -653.1)
+  Did it work?
+2022-08-01T03:45:32Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2077.7,    74.3,  -654.3)
+  ok
+2022-08-01T03:45:33Z: PLAYER CHATTED [ 1705547375] djshbff              ( 2093.6,    73.7,  -638.1)
+  im from india not iran
+2022-08-01T03:45:36Z: PLAYER CHATTED [  178713901] Dkooy2               ( 2081.9,    74.3,  -644.4)
+  Entertainment.
+2022-08-01T03:45:38Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2077.7,    74.3,  -654.3)
+  Lemme know if you can read this
+2022-08-01T03:45:39Z: PLAYER CHATTED [  170338001] roopr1               ( 2094.7,    74.3,  -654.1)
+  ok
+2022-08-01T03:45:41Z: PLAYER CHATTED [  170338001] roopr1               ( 2094.7,    74.3,  -654.1)
+  ??
+2022-08-01T03:45:42Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2087.3,    74.3,  -656.4)
+  Who?
+2022-08-01T03:45:43Z: PLAYER CHATTED [ 1705547375] djshbff              ( 2096.0,    73.7,  -659.3)
+  #### you from iran
+2022-08-01T03:45:44Z: PLAYER CHATTED [  178713901] Dkooy2               ( 2085.7,    74.3,  -652.0)
+  Write a poem for me.
+2022-08-01T03:45:47Z: PLAYER CHATTED [ 1705547375] djshbff              ( 2099.2,    73.7,  -687.0)
+  iraq
+2022-08-01T03:45:48Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2075.7,    74.3,  -656.2)
+  yep.
+2022-08-01T03:45:48Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2079.5,    74.3,  -661.6)
+  Anything on it?
+2022-08-01T03:45:50Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2100.7,    74.3,  -693.5)
+  ASKED!
+2022-08-01T03:45:52Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2079.5,    74.3,  -661.6)
+  Send it back
+2022-08-01T03:45:58Z: PLAYER CHATTED [  645280283] poopoobum752         ( 2076.5,    74.3,  -657.6)
+  It says what I wrote.
+2022-08-01T03:46:01Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2082.6,    74.3,  -662.2)
+  Lol
+2022-08-01T03:46:01Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2092.7,    74.3,  -675.9)
+  Jk
+2022-08-01T03:46:03Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2085.5,    74.3,  -669.5)
+  Ey
+2022-08-01T03:46:08Z: PLAYER CHATTED [  178713901] Dkooy2               ( 2086.6,    74.7,  -658.4)
+  Who wants to-
+2022-08-01T03:46:08Z: PLAYER CHATTED [ 1705547375] djshbff              ( 2091.9,    73.7,  -658.5)
+  sorry
+2022-08-01T03:46:08Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2089.4,    74.3,  -661.3)
+  Send that back
+2022-08-01T03:46:14Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2095.0,    74.3,  -667.6)
+  THAT'S A NATIONAL SECRET
+2022-08-01T03:46:15Z: PLAYER CHATTED [  170338001] roopr1               ( 2086.3,    74.6,  -658.4)
+  go
+2022-08-01T03:46:15Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2107.4,    74.3,  -666.1)
+  First one to kill me gets #### #####
+2022-08-01T03:46:18Z: PLAYER REMOVED [ 1630876005] adam893A
+2022-08-01T03:46:21Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2092.3,    74.3,  -669.5)
+  free bobux
+2022-08-01T03:46:21Z: PLAYER CHATTED [  178713901] Dkooy2               ( 2091.3,    74.3,  -674.2)
+  Gets?
+2022-08-01T03:46:24Z: PLAYER CHATTED [  691635668] VicDeth              (   35.9,    74.7,  1828.7)
+  visual
+2022-08-01T03:46:30Z: PLAYER CHATTED [  170338001] roopr1               ( 2088.3,    74.6,  -643.9)
+  if u go india on top
+2022-08-01T03:46:34Z: PLAYER CHATTED [  170338001] roopr1               ( 2087.5,    74.6,  -647.0)
+  INDIA ON TOP
+2022-08-01T03:46:38Z: PLAYER CHATTED [ 1705547375] djshbff              ( 2089.7,    73.7,  -655.3)
+  ?
+2022-08-01T03:46:40Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2082.5,    74.3,  -646.2)
+  HAND IT OVER
+2022-08-01T03:46:42Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2076.3,    74.3,  -640.2)
+  >:)
+2022-08-01T03:46:46Z: PLAYER CHATTED [  178713901] Dkooy2               ( 2097.4,    74.3,  -647.1)
+  Who wants to write me a poem?
+2022-08-01T03:46:46Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2110.4,    81.3,  -666.7)
+  or death
+2022-08-01T03:46:51Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2094.5,    74.3,  -650.5)
+  Me
+2022-08-01T03:46:53Z: PLAYER CHATTED [  716940211] supermase143         ( 2097.3,    74.3,  -650.1)
+  me
+2022-08-01T03:46:54Z: PLAYER CHATTED [  716940211] supermase143         ( 2097.3,    74.3,  -650.1)
+  .ne
+2022-08-01T03:46:55Z: PLAYER CHATTED [  716940211] supermase143         ( 2097.3,    74.3,  -650.1)
+  ne
+2022-08-01T03:46:55Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2094.5,    74.3,  -650.5)
+  Roses are red
+2022-08-01T03:46:57Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2100.0,    74.3,  -648.6)
+  5 seconds
+2022-08-01T03:46:59Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2093.7,    74.3,  -649.1)
+  Violets are blue
+2022-08-01T03:46:59Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2098.1,    74.3,  -651.3)
+  4
+2022-08-01T03:47:01Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2086.5,    74.3,  -662.9)
+  3
+2022-08-01T03:47:02Z: PLAYER CHATTED [  716940211] supermase143         ( 2095.8,    74.3,  -648.6)
+  vilotes are blye
+2022-08-01T03:47:03Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2084.0,    74.3,  -643.7)
+  2
+2022-08-01T03:47:05Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2098.6,    74.3,  -634.0)
+  1
+2022-08-01T03:47:08Z: PLAYER CHATTED [  691635668] VicDeth              (   37.1,    74.7,  1817.8)
+  visual
+2022-08-01T03:47:09Z: PLAYER REMOVED [  103705027] moneyrich70
+2022-08-01T03:47:10Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2086.8,    74.3,  -644.6)
+  The Vice President looks amazing
+2022-08-01T03:47:12Z: PLAYER CHATTED [  691635668] VicDeth              (   38.2,    74.7,  1818.6)
+  I need to go
+2022-08-01T03:47:16Z: PLAYER CHATTED [ 1818902597] AntIronsides         ( 2082.5,    74.3,  -643.8)
+  JUST KIDDING HE LOOKS BLUE
+2022-08-01T03:47:17Z: CHRCTER ADDED  [  170338001] roopr1               (  211.5,    75.2,    48.4)
+2022-08-01T03:47:21Z: PLAYER CHATTED [  691635668] VicDeth              (   37.5,    74.7,  1817.8)
+  See ya
+2022-08-01T03:47:23Z: PLAYER CHATTED [  716940211] supermase143         ( 2086.8,    74.3,  -642.0)
+  hah
+2022-08-01T03:47:25Z: PLAYER CHATTED [  178713901] Dkooy2               ( 2079.2,    74.3,  -642.7)
+  .
+2022-08-01T03:47:26Z: PLAYER CHATTED [    5981475] Zephyrsion           ( 2082.5,    74.3,  -639.8)
+  da ba di da da da
+2022-08-01T03:47:28Z: PLAYER CHATTED [  170338001] roopr1               (  209.3,    74.7,    60.1)
+  You have started war with iran mr president...
+2022-08-01T03:47:30Z: PLAYER REMOVED [  170338001] roopr1
+2022-08-01T03:47:32Z: PLAYER CHATTED [  716940211] supermase143         ( 2085.3,    74.3,  -642.6)
+  what u gonna do sunny'

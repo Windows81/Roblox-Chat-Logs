@@ -1,0 +1,770 @@
+[    1630228] : [ 7573707969] [UPDATE] Limited Words - 4adb3f5c-f9da-4dcb-ad81-ed157599531f
+2022-07-29T23:25:44Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-07-29T23:25:45Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-07-29T23:25:45Z: PLAYER ADDED   [ 1195269446] Gaberiaxla
+2022-07-29T23:25:45Z: PLAYER ADDED   [ 3530654561] camlia_jaz
+2022-07-29T23:25:45Z: PLAYER ADDED   [ 3385659024] The_potatosquares
+2022-07-29T23:25:45Z: PLAYER ADDED   [ 1415915218] mOlLyKaTe_123
+2022-07-29T23:25:45Z: PLAYER ADDED   [ 3010508365] Faith_13681234
+2022-07-29T23:25:45Z: PLAYER ADDED   [ 2216976856] metildamangle
+2022-07-29T23:25:45Z: PLAYER ADDED   [  908886559] Akiqra
+2022-07-29T23:25:45Z: PLAYER ADDED   [ 1473336745] VerifiedFabian
+2022-07-29T23:25:45Z: PLAYER ADDED   [ 3544756128] Jxnierxt
+2022-07-29T23:25:45Z: PLAYER ADDED   [  382853616] Tricky_Keylime
+2022-07-29T23:25:45Z: PLAYER ADDED   [  713190690] foofee84
+2022-07-29T23:25:45Z: PLAYER ADDED   [ 1587065470] yeeeeeeeeeebtw
+2022-07-29T23:25:45Z: PLAYER ADDED   [ 1847982805] vInspiredAnnuh
+2022-07-29T23:25:45Z: PLAYER ADDED   [ 3630632338] preppy223311
+2022-07-29T23:25:45Z: PLAYER ADDED   [  477728821] pikaswitch
+2022-07-29T23:25:50Z: CHRCTER ADDED  [ 3630632338] preppy223311         ( -562.0,    80.8,  -239.0)
+2022-07-29T23:25:58Z: PLAYER CHATTED [ 1415915218] mOlLyKaTe_123        (  -69.4,     3.5,     4.6)
+  i need coins
+2022-07-29T23:26:19Z: CHRCTER ADDED  [ 1473336745] VerifiedFabian       ( -227.0,    44.1,  -281.0)
+2022-07-29T23:26:25Z: CHRCTER ADDED  [ 1587065470] yeeeeeeeeeebtw       ( -219.0,    37.2,   -95.0)
+2022-07-29T23:26:27Z: CHRCTER ADDED  [ 3010508365] Faith_13681234       ( -954.2,    14.6,   248.3)
+2022-07-29T23:26:41Z: PLAYER CHATTED [ 1195269446] Gaberiaxla           (  -24.3,     3.6,    19.4)
+  Hi
+2022-07-29T23:26:48Z: PLAYER CHATTED [ 1195269446] Gaberiaxla           (  -22.8,     3.6,    19.8)
+  Ph
+2022-07-29T23:26:53Z: PLAYER CHATTED [  477728821] pikaswitch           (  -28.8,     3.8,    19.5)
+  np
+2022-07-29T23:26:53Z: CHRCTER ADDED  [ 3630632338] preppy223311         ( -249.0,     3.6,   114.0)
+2022-07-29T23:26:57Z: PLAYER CHATTED [ 1195269446] Gaberiaxla           (  -22.8,     3.6,    19.8)
+  Ty
+2022-07-29T23:26:57Z: PLAYER REMOVED [ 3630632338] preppy223311
+2022-07-29T23:27:08Z: PLAYER REMOVED [  713190690] foofee84
+2022-07-29T23:27:21Z: CHRCTER ADDED  [ 3530654561] camlia_jaz           ( -954.2,    13.8,   248.3)
+2022-07-29T23:27:28Z: PLAYER CHATTED [ 1195269446] Gaberiaxla           (  -11.4,     3.6,    21.5)
+  Thanks whoever gave me that
+2022-07-29T23:27:32Z: PLAYER CHATTED [ 1587065470] yeeeeeeeeeebtw       (  -28.5,     3.8,    18.9)
+  Np
+2022-07-29T23:27:38Z: PLAYER CHATTED [  477728821] pikaswitch           (  -22.1,     3.8,    21.0)
+  he did
+2022-07-29T23:27:41Z: CHRCTER ADDED  [ 3385659024] The_potatosquares    ( -597.0,    11.0,  -305.0)
+2022-07-29T23:27:43Z: PLAYER CHATTED [ 1195269446] Gaberiaxla           (  -13.4,     3.6,    17.6)
+  :D
+2022-07-29T23:27:50Z: CHRCTER ADDED  [ 1847982805] vInspiredAnnuh       ( -597.0,    11.4,  -305.0)
+2022-07-29T23:28:17Z: PLAYER REMOVED [ 1473336745] VerifiedFabian
+2022-07-29T23:28:21Z: PLAYER CHATTED [ 1587065470] yeeeeeeeeeebtw       ( -389.7,     4.6,    35.2)
+  How do u know if the air drop is
+2022-07-29T23:28:24Z: PLAYER ADDED   [  532234799] 1CYRIAH
+2022-07-29T23:28:36Z: PLAYER CHATTED [  908886559] Akiqra               ( -338.5,     3.1,     2.3)
+  in the air
+2022-07-29T23:28:41Z: CHRCTER ADDED  [ 3530654561] camlia_jaz           ( -677.0,    12.3,   156.0)
+2022-07-29T23:28:44Z: CHRCTER ADDED  [ 1847982805] vInspiredAnnuh       ( -597.0,    11.4,  -305.0)
+2022-07-29T23:29:32Z: CHRCTER ADDED  [ 1847982805] vInspiredAnnuh       ( -562.0,   215.8,  -196.0)
+2022-07-29T23:30:08Z: CHRCTER ADDED  [ 3530654561] camlia_jaz           ( -219.0,    37.5,   -95.0)
+2022-07-29T23:30:13Z: PLAYER ADDED   [ 3432785318] Psycho_illusion14
+2022-07-29T23:30:13Z: PLAYER REMOVED [  532234799] 1CYRIAH
+2022-07-29T23:30:15Z: CHRCTER ADDED  [ 3432785318] Psycho_illusion14    ( -597.0,    10.7,  -305.0)
+2022-07-29T23:30:20Z: PLAYER CHATTED [  477728821] pikaswitch           (  -21.6,     3.8,    18.5)
+  ötysm whoever did that
+2022-07-29T23:30:25Z: CHRCTER ADDED  [ 3530654561] camlia_jaz           ( -938.2,    10.2,   129.7)
+2022-07-29T23:30:25Z: PLAYER ADDED   [ 3288537330] s0it_14
+2022-07-29T23:30:25Z: CHRCTER ADDED  [ 1587065470] yeeeeeeeeeebtw       (  -68.0,    52.4,   153.0)
+2022-07-29T23:30:34Z: CHRCTER ADDED  [ 1847982805] vInspiredAnnuh       ( -938.2,    10.5,   129.7)
+2022-07-29T23:30:43Z: PLAYER ADDED   [  741250363] awesomesara06
+2022-07-29T23:30:49Z: CHRCTER ADDED  [ 3530654561] camlia_jaz           ( -603.1,     9.9,  -134.0)
+2022-07-29T23:31:19Z: CHRCTER ADDED  [ 1587065470] yeeeeeeeeeebtw       (  -68.0,    52.4,   153.0)
+2022-07-29T23:31:20Z: PLAYER ADDED   [ 2352312100] vikxysl
+2022-07-29T23:31:32Z: PLAYER REMOVED [ 3432785318] Psycho_illusion14
+2022-07-29T23:31:34Z: PLAYER CHATTED [ 1195269446] Gaberiaxla           (  -12.0,     3.6,    17.0)
+  Ph thanks
+2022-07-29T23:31:39Z: PLAYER CHATTED [ 3544756128] Jxnierxt             (  -15.1,     3.5,     6.3)
+  yw
+2022-07-29T23:31:49Z: PLAYER CHATTED [ 3385659024] The_potatosquares    (   -1.9,     3.9,  -182.2)
+  One second
+2022-07-29T23:31:58Z: PLAYER CHATTED [ 1195269446] Gaberiaxla           (  -11.8,     3.6,    16.4)
+  Nice shirt
+2022-07-29T23:32:01Z: CHRCTER ADDED  [ 1415915218] mOlLyKaTe_123        ( -402.0,     3.3,   -34.0)
+2022-07-29T23:32:03Z: PLAYER ADDED   [ 1800547743] babyunicornloverayne
+2022-07-29T23:32:03Z: CHRCTER ADDED  [ 1847982805] vInspiredAnnuh       ( -755.2,    10.5,    99.2)
+2022-07-29T23:32:05Z: PLAYER CHATTED [ 3288537330] s0it_14              (   -6.4,     3.8,    11.5)
+  thxs
+2022-07-29T23:32:11Z: CHRCTER ADDED  [  477728821] pikaswitch           ( -603.1,     9.8,  -134.0)
+2022-07-29T23:32:12Z: PLAYER CHATTED [ 1195269446] Gaberiaxla           (  -10.5,     3.6,    15.5)
+  I need it now
+2022-07-29T23:32:19Z: PLAYER CHATTED [ 3530654561] camlia_jaz           ( -603.1,     9.9,  -134.0)
+  um yes?
+2022-07-29T23:32:27Z: PLAYER CHATTED [ 3288537330] s0it_14              (   -6.4,     3.8,    11.5)
+  I do task
+2022-07-29T23:32:38Z: PLAYER CHATTED [ 1800547743] babyunicornloverayne ( -538.6,    43.6,  -237.5)
+  I have so much word:)
+2022-07-29T23:32:39Z: PLAYER ADDED   [ 2523965947] iiBvnnyV1bez
+2022-07-29T23:32:40Z: PLAYER ADDED   [  530661736] kaybaygymnast22
+2022-07-29T23:32:59Z: CHRCTER ADDED  [ 3544756128] Jxnierxt             ( -442.0,     3.5,  -281.0)
+2022-07-29T23:33:03Z: PLAYER REMOVED [ 2352312100] vikxysl
+2022-07-29T23:33:11Z: CHRCTER ADDED  [ 3010508365] Faith_13681234       ( -442.0,     4.6,  -281.0)
+2022-07-29T23:33:21Z: PLAYER CHATTED [ 3385659024] The_potatosquares    (   -0.3,     3.9,  -182.0)
+  Afk
+2022-07-29T23:33:25Z: CHRCTER ADDED  [  477728821] pikaswitch           ( -562.0,   215.4,  -196.0)
+2022-07-29T23:33:28Z: PLAYER ADDED   [   17229516] Niyeris
+2022-07-29T23:33:30Z: PLAYER CHATTED [ 1195269446] Gaberiaxla           (  -13.2,     3.6,    16.2)
+  Thankyou
+2022-07-29T23:34:09Z: PLAYER ADDED   [ 2808519563] oumaouma10
+2022-07-29T23:34:14Z: PLAYER ADDED   [ 1236825227] Imugirlgalaxy
+2022-07-29T23:34:19Z: PLAYER ADDED   [   78850077] Qeu_e
+2022-07-29T23:34:19Z: PLAYER ADDED   [ 1821925942] coffeexsanaa
+2022-07-29T23:34:22Z: CHRCTER ADDED  [ 3530654561] camlia_jaz           ( -339.0,     3.9,    99.0)
+2022-07-29T23:34:24Z: PLAYER ADDED   [  706444168] guapobalong
+2022-07-29T23:34:30Z: CHRCTER ADDED  [ 3385659024] The_potatosquares    ( -809.6,    10.1,    86.0)
+2022-07-29T23:34:34Z: CHRCTER ADDED  [ 1587065470] yeeeeeeeeeebtw       ( -227.0,    44.4,  -281.0)
+2022-07-29T23:34:39Z: PLAYER REMOVED [   78850077] Qeu_e
+2022-07-29T23:34:43Z: PLAYER ADDED   [ 1670393850] breala660
+2022-07-29T23:34:45Z: PLAYER CHATTED [ 2523965947] iiBvnnyV1bez         ( -327.9,     3.4,   -11.5)
+  I love your outfit
+2022-07-29T23:35:16Z: CHRCTER ADDED  [ 3385659024] The_potatosquares    (  146.0,    40.6,   109.5)
+2022-07-29T23:35:19Z: PLAYER CHATTED [ 3385659024] The_potatosquares    (  146.0,    41.1,   109.5)
+  Cheater
+2022-07-29T23:35:28Z: PLAYER CHATTED [ 3385659024] The_potatosquares    (  148.0,    41.1,   109.5)
+  Is
+2022-07-29T23:35:42Z: PLAYER CHATTED [ 1800547743] babyunicornloverayne ( -394.9,     3.6,  -113.9)
+  ABC IF YOU HAVE LOW WORDS AND WANT SOME
+2022-07-29T23:35:42Z: PLAYER CHATTED [ 3385659024] The_potatosquares    (  148.0,    41.1,   109.5)
+  Cheateris
+2022-07-29T23:35:48Z: PLAYER CHATTED [   17229516] Niyeris              ( -409.9,     3.4,   -67.0)
+  abc
+2022-07-29T23:35:52Z: PLAYER CHATTED [ 3385659024] The_potatosquares    (  148.0,    41.1,   109.5)
+  ABC
+2022-07-29T23:35:54Z: PLAYER CHATTED [ 1800547743] babyunicornloverayne ( -404.0,     3.6,   -63.4)
+  hmmm
+2022-07-29T23:35:56Z: PLAYER CHATTED [ 1236825227] Imugirlgalaxy        (  -95.5,     4.4,    18.1)
+  all i want
+2022-07-29T23:35:58Z: CHRCTER ADDED  [ 3288537330] s0it_14              ( -442.0,     3.6,  -281.0)
+2022-07-29T23:36:02Z: PLAYER CHATTED [ 1821925942] coffeexsanaa         ( -308.2,     3.5,  -138.0)
+  Can I give someone words
+2022-07-29T23:36:06Z: PLAYER CHATTED [ 1800547743] babyunicornloverayne ( -404.3,     3.6,   -64.7)
+  ok ig
+2022-07-29T23:36:07Z: PLAYER CHATTED [ 1236825227] Imugirlgalaxy        (  -95.5,     4.4,    20.2)
+  ### ############
+2022-07-29T23:36:09Z: CHRCTER ADDED  [ 3288537330] s0it_14              (  143.0,    17.6,   -34.0)
+2022-07-29T23:36:10Z: PLAYER CHATTED [   17229516] Niyeris              ( -409.6,     3.4,   -68.4)
+  THANK YOU MAN
+2022-07-29T23:36:11Z: PLAYER CHATTED [   17229516] Niyeris              ( -409.6,     3.4,   -68.4)
+  GOD
+2022-07-29T23:36:17Z: PLAYER CHATTED [   17229516] Niyeris              ( -409.6,     3.4,   -68.4)
+  IM STARVIN OUTCHEA
+2022-07-29T23:36:22Z: CHRCTER ADDED  [ 1670393850] breala660            ( -339.0,     4.0,    99.0)
+2022-07-29T23:36:25Z: CHRCTER ADDED  [ 3288537330] s0it_14              ( -249.0,     3.6,   114.0)
+2022-07-29T23:36:31Z: CHRCTER ADDED  [ 3288537330] s0it_14              ( -954.2,    13.6,   248.3)
+2022-07-29T23:36:34Z: PLAYER CHATTED [   17229516] Niyeris              ( -411.2,     3.4,   -67.2)
+  ILL DANCE
+2022-07-29T23:36:35Z: PLAYER CHATTED [   17229516] Niyeris              ( -411.2,     3.4,   -67.2)
+  SING
+2022-07-29T23:36:37Z: CHRCTER ADDED  [ 3288537330] s0it_14              ( -299.0,    19.2,  -227.0)
+2022-07-29T23:36:39Z: PLAYER CHATTED [   17229516] Niyeris              ( -411.2,     3.4,   -67.2)
+  HIT THE #####
+2022-07-29T23:36:44Z: PLAYER REMOVED [  530661736] kaybaygymnast22
+2022-07-29T23:36:49Z: CHRCTER ADDED  [ 1587065470] yeeeeeeeeeebtw       ( -677.0,    12.0,   156.0)
+2022-07-29T23:36:50Z: PLAYER ADDED   [ 2635314217] Dream1sF0und
+2022-07-29T23:36:50Z: CHRCTER ADDED  [ 3288537330] s0it_14              ( -755.2,    10.0,    99.2)
+2022-07-29T23:36:57Z: CHRCTER ADDED  [ 3288537330] s0it_14              ( -603.1,     9.6,  -134.0)
+2022-07-29T23:37:02Z: CHRCTER ADDED  [ 3288537330] s0it_14              ( -185.0,    21.4,  -187.0)
+2022-07-29T23:37:10Z: PLAYER CHATTED [ 1800547743] babyunicornloverayne ( -341.0,     3.6,   -28.5)
+  wait
+2022-07-29T23:37:15Z: PLAYER CHATTED [ 1800547743] babyunicornloverayne ( -334.6,     3.6,   -26.3)
+  what you user
+2022-07-29T23:37:17Z: CHRCTER ADDED  [ 3288537330] s0it_14              (  -68.0,    52.4,   153.0)
+2022-07-29T23:37:18Z: PLAYER CHATTED [   17229516] Niyeris              ( -327.9,     3.4,   -21.8)
+  Niyers
+2022-07-29T23:37:20Z: PLAYER CHATTED [   17229516] Niyeris              ( -327.9,     3.4,   -21.8)
+  Niyeris
+2022-07-29T23:37:23Z: PLAYER CHATTED [ 1800547743] babyunicornloverayne ( -334.6,     3.6,   -26.3)
+  ok
+2022-07-29T23:37:36Z: PLAYER CHATTED [ 1236825227] Imugirlgalaxy        ( -328.4,     4.0,   -24.5)
+  uwu
+2022-07-29T23:37:44Z: PLAYER REMOVED [ 3530654561] camlia_jaz
+2022-07-29T23:37:49Z: PLAYER ADDED   [ 3618048736] luvamber0
+2022-07-29T23:37:49Z: CHRCTER ADDED  [ 3288537330] s0it_14              ( -938.2,    10.0,   143.2)
+2022-07-29T23:37:50Z: PLAYER CHATTED [ 1800547743] babyunicornloverayne ( -333.4,     3.6,   -25.8)
+  there
+2022-07-29T23:37:50Z: PLAYER ADDED   [ 1384327550] carterbean78
+2022-07-29T23:38:00Z: PLAYER CHATTED [   17229516] Niyeris              ( -341.3,     3.4,    -9.0)
+  THANKS!!
+2022-07-29T23:38:00Z: PLAYER CHATTED [   17229516] Niyeris              ( -338.5,     3.4,   -12.2)
+  :D
+2022-07-29T23:38:03Z: CHRCTER ADDED  [ 1587065470] yeeeeeeeeeebtw       ( -219.0,    37.2,   -95.0)
+2022-07-29T23:38:07Z: PLAYER CHATTED [ 1800547743] babyunicornloverayne ( -327.6,     3.6,   -25.1)
+  yw
+2022-07-29T23:38:14Z: PLAYER CHATTED [ 3385659024] The_potatosquares    (   -8.3,     3.9,  -158.2)
+  Brb
+2022-07-29T23:38:15Z: CHRCTER ADDED  [ 1587065470] yeeeeeeeeeebtw       ( -954.2,    13.6,   248.3)
+2022-07-29T23:38:16Z: PLAYER CHATTED [ 1384327550] carterbean78         ( -885.7,    11.2,   212.8)
+  Friend where are you
+2022-07-29T23:38:31Z: PLAYER REMOVED [ 2808519563] oumaouma10
+2022-07-29T23:38:32Z: PLAYER REMOVED [  741250363] awesomesara06
+2022-07-29T23:38:33Z: CHRCTER ADDED  [ 1587065470] yeeeeeeeeeebtw       ( -954.2,    13.6,   248.3)
+2022-07-29T23:38:34Z: PLAYER CHATTED [ 1800547743] babyunicornloverayne ( -282.8,     3.6,   -24.5)
+  I SHOULD BE ASKING YOU THAT
+2022-07-29T23:38:37Z: CHRCTER ADDED  [ 3288537330] s0it_14              ( -452.0,     3.6,   -79.0)
+2022-07-29T23:38:39Z: PLAYER ADDED   [ 3040241273] Sj54322
+2022-07-29T23:38:48Z: PLAYER CHATTED [ 1384327550] carterbean78         ( -909.0,    97.6,    46.6)
+  Where are you at
+2022-07-29T23:38:49Z: CHRCTER ADDED  [ 1670393850] breala660            ( -851.2,    10.4,   184.2)
+2022-07-29T23:38:50Z: CHRCTER ADDED  [  477728821] pikaswitch           (  143.0,    18.2,   -34.0)
+2022-07-29T23:38:58Z: PLAYER CHATTED [ 1800547743] babyunicornloverayne (  -51.1,     4.0,    -8.4)
+  idk
+2022-07-29T23:39:06Z: PLAYER CHATTED [ 1384327550] carterbean78         ( -909.0,    97.6,    46.6)
+  What does it look like
+2022-07-29T23:39:06Z: CHRCTER ADDED  [ 3288537330] s0it_14              ( -562.0,    80.8,  -239.0)
+2022-07-29T23:39:11Z: PLAYER REMOVED [  706444168] guapobalong
+2022-07-29T23:39:13Z: CHRCTER ADDED  [ 2635314217] Dream1sF0und         (  -68.0,    52.7,   153.0)
+2022-07-29T23:39:21Z: PLAYER CHATTED [ 1800547743] babyunicornloverayne (  -27.3,     4.0,   -19.1)
+  has mountains and a play ground
+2022-07-29T23:39:26Z: CHRCTER ADDED  [ 3544756128] Jxnierxt             ( -938.2,     9.8,   143.2)
+2022-07-29T23:39:29Z: CHRCTER ADDED  [ 3288537330] s0it_14              ( -562.0,    80.8,  -239.0)
+2022-07-29T23:39:34Z: PLAYER CHATTED [ 1384327550] carterbean78         ( -908.6,    97.6,    41.4)
+  Okay
+2022-07-29T23:39:37Z: PLAYER CHATTED [  908886559] Akiqra               (  -60.7,     3.5,   -13.8)
+  oh
+2022-07-29T23:39:50Z: CHRCTER ADDED  [ 3288537330] s0it_14              ( -772.2,    10.0,    22.2)
+2022-07-29T23:39:59Z: CHRCTER ADDED  [  477728821] pikaswitch           ( -339.0,     3.8,    99.0)
+2022-07-29T23:40:04Z: CHRCTER ADDED  [ 1195269446] Gaberiaxla           ( -442.0,     3.6,  -281.0)
+2022-07-29T23:40:11Z: PLAYER REMOVED [ 1195269446] Gaberiaxla
+2022-07-29T23:40:12Z: PLAYER CHATTED [ 1800547743] babyunicornloverayne (  -35.4,     4.0,    -2.7)
+  where are you
+2022-07-29T23:40:17Z: CHRCTER ADDED  [ 3385659024] The_potatosquares    ( -227.0,    44.6,  -281.0)
+2022-07-29T23:40:18Z: PLAYER ADDED   [ 1358309499] qEllieee
+2022-07-29T23:40:18Z: PLAYER ADDED   [ 1819481481] fgtvzayn0
+2022-07-29T23:40:20Z: CHRCTER ADDED  [ 3288537330] s0it_14              ( -772.2,    10.0,    22.2)
+2022-07-29T23:40:29Z: PLAYER REMOVED [   17229516] Niyeris
+2022-07-29T23:40:32Z: PLAYER REMOVED [ 1819481481] fgtvzayn0
+2022-07-29T23:40:34Z: PLAYER ADDED   [  275451977] FabulousEeveeLover2
+2022-07-29T23:40:36Z: PLAYER CHATTED [ 1384327550] carterbean78         ( -465.7,    10.9,    61.0)
+  By the water
+2022-07-29T23:40:41Z: PLAYER ADDED   [ 2681755166] coffeelover21333
+2022-07-29T23:40:41Z: PLAYER CHATTED [ 1800547743] babyunicornloverayne (  -54.5,     4.0,    10.6)
+  ok
+2022-07-29T23:40:50Z: PLAYER REMOVED [ 1236825227] Imugirlgalaxy
+2022-07-29T23:40:52Z: CHRCTER ADDED  [  477728821] pikaswitch           ( -577.0,    23.0,    36.0)
+2022-07-29T23:40:55Z: PLAYER CHATTED [ 1384327550] carterbean78         ( -465.7,    10.9,    61.0)
+  You’re going to meet me here
+2022-07-29T23:40:57Z: PLAYER ADDED   [ 2294995315] Rylan0380
+2022-07-29T23:41:01Z: PLAYER CHATTED [ 1800547743] babyunicornloverayne ( -157.3,     4.0,    -8.0)
+  ok
+2022-07-29T23:41:05Z: PLAYER REMOVED [ 3618048736] luvamber0
+2022-07-29T23:41:08Z: CHRCTER ADDED  [ 1670393850] breala660            ( -938.2,    10.4,   143.2)
+2022-07-29T23:41:11Z: CHRCTER ADDED  [  477728821] pikaswitch           ( -449.0,   148.2,  -220.0)
+2022-07-29T23:41:12Z: PLAYER REMOVED [ 3544756128] Jxnierxt
+2022-07-29T23:41:17Z: PLAYER REMOVED [ 2216976856] metildamangle
+2022-07-29T23:41:17Z: PLAYER CHATTED [ 1800547743] babyunicornloverayne ( -278.8,     3.6,     3.3)
+  can you jump for a sec
+2022-07-29T23:41:19Z: PLAYER CHATTED [  908886559] Akiqra               (  -55.8,     3.5,   -11.2)
+  MOLLY
+2022-07-29T23:41:20Z: PLAYER ADDED   [ 1793469946] Kylagm8
+2022-07-29T23:41:21Z: CHRCTER ADDED  [ 3385659024] The_potatosquares    ( -772.2,    10.1,    22.2)
+2022-07-29T23:41:22Z: PLAYER ADDED   [ 1639092869] MeowgicallyEpic
+2022-07-29T23:41:24Z: CHRCTER ADDED  [  477728821] pikaswitch           ( -249.0,     3.8,   114.0)
+2022-07-29T23:41:25Z: PLAYER ADDED   [  904366164] domoga14
+2022-07-29T23:41:25Z: PLAYER CHATTED [ 1415915218] mOlLyKaTe_123        (  -65.3,     3.5,   -11.4)
+  YES
+2022-07-29T23:41:25Z: CHRCTER ADDED  [ 1793469946] Kylagm8              ( -851.2,    10.3,   184.2)
+2022-07-29T23:41:27Z: CHRCTER ADDED  [ 3288537330] s0it_14              ( -866.2,    10.0,   238.3)
+2022-07-29T23:41:28Z: PLAYER CHATTED [  908886559] Akiqra               (  -55.8,     3.5,   -11.2)
+  get the
+2022-07-29T23:41:28Z: CHRCTER ADDED  [ 1670393850] breala660            ( -402.0,     4.0,   -34.0)
+2022-07-29T23:41:32Z: PLAYER CHATTED [  908886559] Akiqra               (  -55.8,     3.5,   -11.2)
+  verify ur age
+2022-07-29T23:41:37Z: PLAYER CHATTED [ 1415915218] mOlLyKaTe_123        (  -62.0,     3.5,   -10.6)
+  on what
+2022-07-29T23:41:38Z: PLAYER CHATTED [ 1800547743] babyunicornloverayne ( -460.2,     9.6,    57.9)
+  I found y9u
+2022-07-29T23:41:39Z: PLAYER CHATTED [ 1384327550] carterbean78         ( -465.7,    10.9,    61.0)
+  Hi
+2022-07-29T23:41:40Z: PLAYER CHATTED [  908886559] Akiqra               (  -55.8,     3.5,   -11.2)
+  roblox
+2022-07-29T23:41:43Z: PLAYER CHATTED [  908886559] Akiqra               (  -55.8,     3.5,   -11.2)
+  and get the mic
+2022-07-29T23:41:44Z: PLAYER CHATTED [ 1415915218] mOlLyKaTe_123        (  -62.0,     3.5,   -10.6)
+  why
+2022-07-29T23:41:48Z: PLAYER CHATTED [ 1415915218] mOlLyKaTe_123        (  -62.0,     3.5,   -10.6)
+  MIC?
+2022-07-29T23:41:50Z: PLAYER CHATTED [  908886559] Akiqra               (  -55.8,     3.5,   -11.2)
+  cuz i have it and never use it
+2022-07-29T23:41:52Z: CHRCTER ADDED  [  477728821] pikaswitch           ( -895.2,    10.2,   108.2)
+2022-07-29T23:42:04Z: PLAYER CHATTED [ 1415915218] mOlLyKaTe_123        (  -62.0,     3.5,   -10.6)
+  #### how do i verify it
+2022-07-29T23:42:05Z: CHRCTER ADDED  [ 3385659024] The_potatosquares    ( -772.2,    10.1,    22.2)
+2022-07-29T23:42:08Z: PLAYER CHATTED [ 1415915218] mOlLyKaTe_123        (  -62.0,     3.5,   -10.6)
+  okay+
+2022-07-29T23:42:09Z: PLAYER CHATTED [  908886559] Akiqra               (  -55.8,     3.5,   -11.2)
+  settings
+2022-07-29T23:42:10Z: PLAYER CHATTED [ 1415915218] mOlLyKaTe_123        (  -62.0,     3.5,   -10.6)
+  *
+2022-07-29T23:42:10Z: PLAYER CHATTED [  908886559] Akiqra               (  -55.8,     3.5,   -11.2)
+  ###
+2022-07-29T23:42:11Z: PLAYER CHATTED [ 1800547743] babyunicornloverayne ( -459.1,     9.6,    58.0)
+  do task to earn words
+2022-07-29T23:42:12Z: PLAYER CHATTED [ 1384327550] carterbean78         ( -465.7,    10.9,    61.0)
+  I found this one cute guy here and I didn’t get it say hi
+2022-07-29T23:42:15Z: PLAYER CHATTED [ 1415915218] mOlLyKaTe_123        (  -62.0,     3.5,   -10.6)
+  do i gotta leVe
+2022-07-29T23:42:19Z: PLAYER CHATTED [ 1415915218] mOlLyKaTe_123        (  -62.0,     3.5,   -10.6)
+  leave
+2022-07-29T23:42:21Z: CHRCTER ADDED  [ 1639092869] MeowgicallyEpic      ( -755.2,    10.5,    99.2)
+2022-07-29T23:42:22Z: PLAYER REMOVED [ 1639092869] MeowgicallyEpic
+2022-07-29T23:42:23Z: CHRCTER ADDED  [ 3385659024] The_potatosquares    ( -863.2,    10.1,   119.2)
+2022-07-29T23:42:26Z: PLAYER CHATTED [  908886559] Akiqra               (  -55.8,     3.5,   -11.2)
+  yes
+2022-07-29T23:42:27Z: CHRCTER ADDED  [ 1793469946] Kylagm8              ( -173.0,    18.4,   172.0)
+2022-07-29T23:42:28Z: PLAYER ADDED   [ 3369131032] Baby_doll12ko
+2022-07-29T23:42:28Z: CHRCTER ADDED  [ 3040241273] Sj54322              ( -895.2,    10.0,   108.2)
+2022-07-29T23:42:32Z: PLAYER CHATTED [ 1800547743] babyunicornloverayne ( -459.1,     9.6,    58.0)
+  I don't wanna meet him
+2022-07-29T23:42:51Z: PLAYER CHATTED [ 1384327550] carterbean78         ( -465.7,    10.9,    61.0)
+  I have to give someone words 50 words
+2022-07-29T23:42:54Z: CHRCTER ADDED  [  477728821] pikaswitch           ( -677.0,    12.2,   156.0)
+2022-07-29T23:42:56Z: PLAYER CHATTED [ 1800547743] babyunicornloverayne ( -459.1,     9.6,    58.0)
+  after what happened I don't wanna meet him
+2022-07-29T23:43:03Z: CHRCTER ADDED  [ 3040241273] Sj54322              ( -227.0,    44.4,  -281.0)
+2022-07-29T23:43:03Z: PLAYER CHATTED [  908886559] Akiqra               (  -57.4,     3.5,   -28.6)
+  u get 100 back it dosent matter who
+2022-07-29T23:43:09Z: CHRCTER ADDED  [ 1670393850] breala660            ( -449.0,   148.4,  -220.0)
+2022-07-29T23:43:12Z: CHRCTER ADDED  [ 3040241273] Sj54322              ( -541.0,     4.0,  -237.0)
+2022-07-29T23:43:12Z: PLAYER CHATTED [ 1800547743] babyunicornloverayne ( -459.1,     9.6,    58.0)
+  I gotta jump 1000 times
+2022-07-29T23:43:14Z: PLAYER REMOVED [ 1821925942] coffeexsanaa
+2022-07-29T23:43:19Z: PLAYER ADDED   [ 2875227874] eatingroachesyum
+2022-07-29T23:43:20Z: PLAYER CHATTED [ 1415915218] mOlLyKaTe_123        (  -48.1,     3.5,   -34.3)
+  wait what
+2022-07-29T23:43:23Z: PLAYER ADDED   [ 1392381549] pkgymnastics
+2022-07-29T23:43:25Z: PLAYER REMOVED [ 2875227874] eatingroachesyum
+2022-07-29T23:43:26Z: PLAYER CHATTED [ 1384327550] carterbean78         ( -465.7,    10.9,    61.0)
+  Of course # #### ## #### him
+2022-07-29T23:43:26Z: PLAYER CHATTED [  908886559] Akiqra               (  -53.1,     3.5,   -31.7)
+  molly, give me ur money, minus a word
+2022-07-29T23:43:29Z: CHRCTER ADDED  [  275451977] FabulousEeveeLover2  ( -452.0,     3.9,   -79.0)
+2022-07-29T23:43:30Z: PLAYER CHATTED [ 1415915218] mOlLyKaTe_123        (  -48.3,     3.5,   -35.0)
+  ####
+2022-07-29T23:43:31Z: PLAYER REMOVED [ 1358309499] qEllieee
+2022-07-29T23:43:33Z: PLAYER CHATTED [  908886559] Akiqra               (  -53.1,     3.5,   -31.7)
+  like so u still have money
+2022-07-29T23:43:37Z: CHRCTER ADDED  [ 1587065470] yeeeeeeeeeebtw       ( -452.0,     3.6,   -79.0)
+2022-07-29T23:43:38Z: PLAYER ADDED   [ 1914624694] izzyxak
+2022-07-29T23:43:38Z: PLAYER CHATTED [ 3385659024] The_potatosquares    (  -29.0,     3.9,    18.2)
+  Where do i get coins
+2022-07-29T23:43:38Z: PLAYER CHATTED [  908886559] Akiqra               (  -53.1,     3.5,   -31.7)
+  when u get back
+2022-07-29T23:43:43Z: CHRCTER ADDED  [ 3040241273] Sj54322              ( -219.0,    37.2,   -95.0)
+2022-07-29T23:43:50Z: CHRCTER ADDED  [ 3040241273] Sj54322              ( -299.0,    19.2,  -227.0)
+2022-07-29T23:43:52Z: CHRCTER ADDED  [ 3369131032] Baby_doll12ko        ( -449.0,   148.0,  -220.0)
+2022-07-29T23:43:54Z: CHRCTER ADDED  [ 3288537330] s0it_14              ( -677.0,    12.0,   156.0)
+2022-07-29T23:43:57Z: CHRCTER ADDED  [ 3040241273] Sj54322              ( -249.0,     3.6,   114.0)
+2022-07-29T23:43:58Z: CHRCTER ADDED  [  275451977] FabulousEeveeLover2  ( -938.2,    10.2,   143.2)
+2022-07-29T23:43:59Z: CHRCTER ADDED  [ 1847982805] vInspiredAnnuh       ( -755.2,    10.5,    99.2)
+2022-07-29T23:43:59Z: PLAYER REMOVED [  275451977] FabulousEeveeLover2
+2022-07-29T23:44:01Z: PLAYER ADDED   [  275451977] FabulousEeveeLover2
+2022-07-29T23:44:02Z: PLAYER REMOVED [ 2681755166] coffeelover21333
+2022-07-29T23:44:02Z: CHRCTER ADDED  [ 3040241273] Sj54322              ( -938.2,    10.0,   129.7)
+2022-07-29T23:44:03Z: PLAYER CHATTED [  908886559] Akiqra               (  -53.1,     3.5,   -31.7)
+  okay thats it
+2022-07-29T23:44:03Z: PLAYER ADDED   [ 3333530243] Gracebear052
+2022-07-29T23:44:04Z: CHRCTER ADDED  [  477728821] pikaswitch           ( -677.0,    12.2,   156.0)
+2022-07-29T23:44:05Z: PLAYER CHATTED [ 3369131032] Baby_doll12ko        ( -449.0,   148.0,  -220.0)
+  How do get the speed
+2022-07-29T23:44:05Z: PLAYER CHATTED [  908886559] Akiqra               (  -53.1,     3.5,   -31.7)
+  thatrs it
+2022-07-29T23:44:06Z: PLAYER CHATTED [ 1800547743] babyunicornloverayne ( -459.1,     9.6,    58.0)
+  LETS GO TO A OBBY COME
+2022-07-29T23:44:07Z: CHRCTER ADDED  [ 3040241273] Sj54322              ( -185.0,    21.4,  -187.0)
+2022-07-29T23:44:08Z: CHRCTER ADDED  [ 1670393850] breala660            ( -339.0,     4.0,    99.0)
+2022-07-29T23:44:10Z: PLAYER REMOVED [ 1793469946] Kylagm8
+2022-07-29T23:44:12Z: PLAYER CHATTED [  908886559] Akiqra               (  -53.1,     3.5,   -31.7)
+  okay so leave and go do it
+2022-07-29T23:44:13Z: CHRCTER ADDED  [ 3040241273] Sj54322              ( -772.2,    10.0,    22.2)
+2022-07-29T23:44:13Z: PLAYER CHATTED [  908886559] Akiqra               (  -53.1,     3.5,   -31.7)
+  ima stay
+2022-07-29T23:44:15Z: CHRCTER ADDED  [  477728821] pikaswitch           ( -938.2,    10.2,   129.7)
+2022-07-29T23:44:17Z: PLAYER ADDED   [ 2401461753] Jashpal_122
+2022-07-29T23:44:17Z: CHRCTER ADDED  [ 1670393850] breala660            ( -219.0,    37.6,   -95.0)
+2022-07-29T23:44:18Z: CHRCTER ADDED  [ 3040241273] Sj54322              ( -954.2,    13.6,   248.3)
+2022-07-29T23:44:19Z: PLAYER CHATTED [ 1415915218] mOlLyKaTe_123        (  -50.3,     3.5,   -34.1)
+  ####
+2022-07-29T23:44:21Z: PLAYER REMOVED [ 1415915218] mOlLyKaTe_123
+2022-07-29T23:44:21Z: CHRCTER ADDED  [ 3040241273] Sj54322              ( -954.2,    13.6,   248.3)
+2022-07-29T23:44:27Z: CHRCTER ADDED  [ 3040241273] Sj54322              (   22.0,    21.2,  -169.0)
+2022-07-29T23:44:27Z: CHRCTER ADDED  [ 1670393850] breala660            ( -219.0,    37.6,   -95.0)
+2022-07-29T23:44:29Z: PLAYER REMOVED [ 2401461753] Jashpal_122
+2022-07-29T23:44:30Z: CHRCTER ADDED  [  275451977] FabulousEeveeLover2  (  146.0,    41.1,   109.5)
+2022-07-29T23:44:31Z: CHRCTER ADDED  [ 1847982805] vInspiredAnnuh       (  143.0,    18.6,   -34.0)
+2022-07-29T23:44:32Z: PLAYER REMOVED [  275451977] FabulousEeveeLover2
+2022-07-29T23:44:32Z: CHRCTER ADDED  [ 3040241273] Sj54322              ( -249.0,     3.6,   114.0)
+2022-07-29T23:44:33Z: PLAYER CHATTED [ 3369131032] Baby_doll12ko        (   -2.7,     3.6,  -189.0)
+  How to get the speed
+2022-07-29T23:44:34Z: CHRCTER ADDED  [ 1587065470] yeeeeeeeeeebtw       ( -452.0,     3.6,   -79.0)
+2022-07-29T23:44:37Z: CHRCTER ADDED  [ 3040241273] Sj54322              ( -562.0,    80.8,  -239.0)
+2022-07-29T23:44:38Z: PLAYER ADDED   [ 1463593552] pmarieedwards
+2022-07-29T23:44:39Z: PLAYER CHATTED [  382853616] Tricky_Keylime       (  -58.2,     3.8,    19.2)
+  jackpot!
+2022-07-29T23:44:43Z: CHRCTER ADDED  [ 3040241273] Sj54322              ( -562.0,    80.8,  -239.0)
+2022-07-29T23:44:44Z: CHRCTER ADDED  [  477728821] pikaswitch           ( -938.2,    10.2,   129.7)
+2022-07-29T23:44:48Z: CHRCTER ADDED  [ 3040241273] Sj54322              ( -185.0,    21.4,  -187.0)
+2022-07-29T23:44:48Z: PLAYER CHATTED [ 3369131032] Baby_doll12ko        (    4.0,     3.6,  -194.4)
+  How do get that
+2022-07-29T23:44:54Z: CHRCTER ADDED  [ 3040241273] Sj54322              ( -895.2,    10.0,   108.2)
+2022-07-29T23:44:55Z: PLAYER CHATTED [ 3010508365] Faith_13681234       (    5.6,     4.6,  -196.4)
+  shop
+2022-07-29T23:45:00Z: PLAYER CHATTED [ 1384327550] carterbean78         ( -197.0,     5.3,   101.0)
+  wait slow down
+2022-07-29T23:45:01Z: CHRCTER ADDED  [ 3040241273] Sj54322              ( -809.6,    10.0,    86.0)
+2022-07-29T23:45:03Z: CHRCTER ADDED  [ 3369131032] Baby_doll12ko        ( -173.0,    18.0,   172.0)
+2022-07-29T23:45:05Z: PLAYER REMOVED [ 3333530243] Gracebear052
+2022-07-29T23:45:06Z: PLAYER CHATTED [ 1587065470] yeeeeeeeeeebtw       ( -112.6,     3.8,    10.1)
+  dawg o way someone is telling there freind to rejoin just to get more worss
+2022-07-29T23:45:06Z: PLAYER CHATTED [ 1800547743] babyunicornloverayne ( -195.4,     4.0,    -6.5)
+  ok
+2022-07-29T23:45:08Z: PLAYER REMOVED [  904366164] domoga14
+2022-07-29T23:45:09Z: CHRCTER ADDED  [ 3040241273] Sj54322              ( -809.6,    10.0,    86.0)
+2022-07-29T23:45:10Z: PLAYER CHATTED [ 1587065470] yeeeeeeeeeebtw       (  -91.3,     3.8,     3.2)
+  Words*
+2022-07-29T23:45:15Z: CHRCTER ADDED  [ 3040241273] Sj54322              ( -449.0,   148.0,  -220.0)
+2022-07-29T23:45:19Z: PLAYER CHATTED [ 1384327550] carterbean78         ( -321.7,     4.9,    66.6)
+  Where are you
+2022-07-29T23:45:21Z: CHRCTER ADDED  [ 3040241273] Sj54322              ( -452.0,     3.6,   -79.0)
+2022-07-29T23:45:23Z: PLAYER CHATTED [ 1392381549] pkgymnastics         (  -73.1,     3.6,     4.9)
+  ALESIA\
+2022-07-29T23:45:27Z: CHRCTER ADDED  [ 3040241273] Sj54322              (  -68.0,    52.4,   153.0)
+2022-07-29T23:45:29Z: CHRCTER ADDED  [  477728821] pikaswitch           ( -772.2,    10.2,    22.2)
+2022-07-29T23:45:31Z: PLAYER CHATTED [  908886559] Akiqra               (  -53.6,     1.4,   -32.7)
+  PAIGE
+2022-07-29T23:45:32Z: PLAYER CHATTED [ 1800547743] babyunicornloverayne ( -165.8,    21.8,   -89.1)
+  up here
+2022-07-29T23:45:36Z: PLAYER CHATTED [ 1914624694] izzyxak              (  -93.2,     3.8,     6.1)
+  ########################################################################################################################## Don’t wast your words
+2022-07-29T23:45:38Z: PLAYER REMOVED [ 3385659024] The_potatosquares
+2022-07-29T23:45:39Z: CHRCTER ADDED  [ 1847982805] vInspiredAnnuh       ( -938.2,    10.5,   143.2)
+2022-07-29T23:45:42Z: PLAYER CHATTED [ 1384327550] carterbean78         ( -312.0,     4.9,    67.2)
+  One sec I’ll be there
+2022-07-29T23:45:49Z: PLAYER CHATTED [  908886559] Akiqra               (  -70.1,     3.5,     3.3)
+  i got some of mollys money cuz she had to go check something
+2022-07-29T23:45:50Z: PLAYER CHATTED [ 1392381549] pkgymnastics         (  -73.1,     3.6,     4.9)
+  playing wihtout me smh
+2022-07-29T23:45:51Z: PLAYER REMOVED [ 1463593552] pmarieedwards
+2022-07-29T23:45:54Z: PLAYER CHATTED [  908886559] Akiqra               (  -71.7,     3.5,     3.1)
+  SH
+2022-07-29T23:45:55Z: PLAYER CHATTED [ 1587065470] yeeeeeeeeeebtw       (  -51.6,     3.8,    12.4)
+  Well I’m gonna wast ea
+2022-07-29T23:45:57Z: PLAYER ADDED   [  541788226] BossDoggKain
+2022-07-29T23:45:59Z: PLAYER CHATTED [ 1587065470] yeeeeeeeeeebtw       (  -51.6,     3.8,    12.4)
+  All my words
+2022-07-29T23:46:03Z: PLAYER CHATTED [ 1587065470] yeeeeeeeeeebtw       (  -51.6,     3.8,    12.4)
+  Bye everone
+2022-07-29T23:46:03Z: CHRCTER ADDED  [  477728821] pikaswitch           ( -562.0,    81.0,  -239.0)
+2022-07-29T23:46:08Z: PLAYER ADDED   [  373535443] peaseblossom
+2022-07-29T23:46:11Z: PLAYER CHATTED [  541788226] BossDoggKain         (  146.0,    41.0,   109.5)
+  wwwwwwwwwwwwwwwww
+2022-07-29T23:46:18Z: PLAYER ADDED   [  553546217] Keeks5312
+2022-07-29T23:46:20Z: PLAYER CHATTED [ 1384327550] carterbean78         ( -169.6,    23.1,   -68.5)
+  Don’t move OK when # come to you
+2022-07-29T23:46:26Z: PLAYER REMOVED [  541788226] BossDoggKain
+2022-07-29T23:46:30Z: PLAYER REMOVED [ 2635314217] Dream1sF0und
+2022-07-29T23:46:34Z: CHRCTER ADDED  [ 3369131032] Baby_doll12ko        ( -895.2,     9.9,   108.2)
+2022-07-29T23:46:36Z: PLAYER ADDED   [ 1611940085] 1heartmiya
+2022-07-29T23:46:38Z: PLAYER CHATTED [  553546217] Keeks5312            ( -687.5,    12.0,   178.7)
+  Hiiii
+2022-07-29T23:46:40Z: CHRCTER ADDED  [ 1670393850] breala660            ( -299.0,    19.6,  -227.0)
+2022-07-29T23:46:52Z: PLAYER CHATTED [  373535443] peaseblossom         ( -308.7,     5.9,    93.8)
+  hii
+2022-07-29T23:46:58Z: CHRCTER ADDED  [ 1670393850] breala660            ( -755.2,    10.4,    99.2)
+2022-07-29T23:46:59Z: CHRCTER ADDED  [ 3369131032] Baby_doll12ko        ( -508.0,     3.6,  -222.0)
+2022-07-29T23:47:06Z: PLAYER CHATTED [  553546217] Keeks5312            ( -658.5,    11.7,   145.3)
+  Omg I only have 374 words left
+2022-07-29T23:47:11Z: PLAYER ADDED   [ 2251086460] Yoda_mariocart2002
+2022-07-29T23:47:12Z: PLAYER CHATTED [  908886559] Akiqra               (  -76.8,     3.5,     1.7)
+  i
+2022-07-29T23:47:17Z: PLAYER ADDED   [ 1866366728] KENZIESW1SHXO
+2022-07-29T23:47:18Z: PLAYER CHATTED [  908886559] Akiqra               (  -75.5,     3.5,     1.9)
+  how did that happen
+2022-07-29T23:47:20Z: PLAYER CHATTED [  553546217] Keeks5312            ( -658.5,    11.7,   145.3)
+  No know three sixty!!
+2022-07-29T23:47:21Z: PLAYER REMOVED [  373535443] peaseblossom
+2022-07-29T23:47:21Z: PLAYER ADDED   [ 2367954892] rainbowlilly_90
+2022-07-29T23:47:24Z: PLAYER ADDED   [ 1230188002] xxQueenB3
+2022-07-29T23:47:30Z: CHRCTER ADDED  [ 1847982805] vInspiredAnnuh       ( -938.2,    10.5,   143.2)
+2022-07-29T23:47:31Z: PLAYER CHATTED [ 1392381549] pkgymnastics         (  -76.2,     3.6,     3.8)
+  what
+2022-07-29T23:47:32Z: CHRCTER ADDED  [ 1670393850] breala660            ( -866.2,    10.4,   238.3)
+2022-07-29T23:47:32Z: PLAYER CHATTED [ 1587065470] yeeeeeeeeeebtw       (  -71.9,     3.8,     4.1)
+  Idk I jsut wanted u to get 200k
+2022-07-29T23:47:32Z: PLAYER CHATTED [  908886559] Akiqra               (  -75.5,     3.5,     1.9)
+  wait
+2022-07-29T23:47:34Z: CHRCTER ADDED  [ 1587065470] yeeeeeeeeeebtw       (  146.0,    40.4,   109.5)
+2022-07-29T23:47:38Z: PLAYER CHATTED [  908886559] Akiqra               (  -75.5,     3.5,     1.9)
+  AH ####
+2022-07-29T23:47:39Z: PLAYER CHATTED [  553546217] Keeks5312            ( -645.6,    10.8,   148.5)
+  Sorry
+2022-07-29T23:47:40Z: PLAYER CHATTED [ 2251086460] Yoda_mariocart2002   ( -828.2,     9.8,   101.7)
+  Helloguyshowareyou
+2022-07-29T23:47:41Z: PLAYER CHATTED [  908886559] Akiqra               (  -75.5,     3.5,     1.9)
+  THANKSYOU
+2022-07-29T23:47:44Z: PLAYER ADDED   [ 2222412828] illnyNy
+2022-07-29T23:47:45Z: PLAYER CHATTED [  908886559] Akiqra               (  -75.5,     3.5,     1.9)
+  AWH :(
+2022-07-29T23:47:48Z: PLAYER CHATTED [ 1392381549] pkgymnastics         (  -76.2,     3.6,     3.8)
+  what
+2022-07-29T23:47:52Z: PLAYER REMOVED [ 1587065470] yeeeeeeeeeebtw
+2022-07-29T23:47:53Z: PLAYER REMOVED [ 2251086460] Yoda_mariocart2002
+2022-07-29T23:48:00Z: PLAYER REMOVED [ 1230188002] xxQueenB3
+2022-07-29T23:48:01Z: PLAYER REMOVED [ 3040241273] Sj54322
+2022-07-29T23:48:03Z: PLAYER CHATTED [  908886559] Akiqra               (  -75.5,     3.5,     1.9)
+  THIS DUDE
+2022-07-29T23:48:05Z: PLAYER CHATTED [  553546217] Keeks5312            ( -721.3,    10.7,    79.9)
+  Heyngir
+2022-07-29T23:48:06Z: PLAYER REMOVED [ 2222412828] illnyNy
+2022-07-29T23:48:07Z: PLAYER CHATTED [  908886559] Akiqra               (  -75.5,     3.5,     1.9)
+  gave me all his words
+2022-07-29T23:48:07Z: CHRCTER ADDED  [ 3369131032] Baby_doll12ko        ( -562.0,    80.8,  -239.0)
+2022-07-29T23:48:11Z: PLAYER CHATTED [  908886559] Akiqra               (  -75.5,     3.5,     1.9)
+  to get me to 200K
+2022-07-29T23:48:12Z: PLAYER CHATTED [ 1392381549] pkgymnastics         (  -76.3,     3.6,     4.2)
+  awh\
+2022-07-29T23:48:12Z: PLAYER ADDED   [ 1037877228] zoegmmac
+2022-07-29T23:48:21Z: PLAYER CHATTED [  553546217] Keeks5312            ( -721.3,    10.7,    79.9)
+  How many words did you get
+2022-07-29T23:48:21Z: PLAYER CHATTED [ 1392381549] pkgymnastics         (  -76.3,     3.6,     4.2)
+  implaying on my new laptop this is so weird
+2022-07-29T23:48:28Z: PLAYER CHATTED [  908886559] Akiqra               (  -75.5,     3.5,     1.9)
+  OH
+2022-07-29T23:48:29Z: PLAYER CHATTED [  908886559] Akiqra               (  -75.5,     3.5,     1.9)
+  OMG
+2022-07-29T23:48:36Z: PLAYER CHATTED [ 1392381549] pkgymnastics         (  -76.3,     3.6,     4.2)
+  help
+2022-07-29T23:48:37Z: CHRCTER ADDED  [ 1866366728] KENZIESW1SHXO        ( -339.0,     3.5,    99.0)
+2022-07-29T23:48:39Z: PLAYER CHATTED [  553546217] Keeks5312            ( -721.3,    10.7,    79.9)
+  Whatever
+2022-07-29T23:48:46Z: CHRCTER ADDED  [ 3369131032] Baby_doll12ko        ( -452.0,     3.6,   -79.0)
+2022-07-29T23:48:47Z: PLAYER CHATTED [  553546217] Keeks5312            ( -721.3,    10.7,    79.9)
+  Bye ##### #### home
+2022-07-29T23:48:48Z: PLAYER CHATTED [ 1384327550] carterbean78         ( -117.7,    34.1,    45.9)
+  Where are you
+2022-07-29T23:48:50Z: PLAYER ADDED   [ 2987551947] julianmtzzz
+2022-07-29T23:48:51Z: PLAYER ADDED   [ 1216500156] CourtneythegreatXD
+2022-07-29T23:48:52Z: PLAYER ADDED   [ 1321069868] lexbuba
+2022-07-29T23:48:52Z: PLAYER ADDED   [  974358531] penguintytan
+2022-07-29T23:48:57Z: PLAYER REMOVED [ 1866366728] KENZIESW1SHXO
+2022-07-29T23:48:58Z: CHRCTER ADDED  [  382853616] Tricky_Keylime       ( -508.0,     3.8,  -222.0)
+2022-07-29T23:48:59Z: PLAYER ADDED   [ 3501510378] Yaretzi_V23
+2022-07-29T23:49:04Z: PLAYER CHATTED [  553546217] Keeks5312            ( -720.6,    10.7,    67.7)
+  Byee
+2022-07-29T23:49:04Z: CHRCTER ADDED  [ 3010508365] Faith_13681234       (  146.0,    41.8,   109.5)
+2022-07-29T23:49:07Z: PLAYER ADDED   [ 1436565108] LPSwonderworkers
+2022-07-29T23:49:14Z: PLAYER CHATTED [  553546217] Keeks5312            ( -759.7,    29.1,   -33.6)
+  Mom
+2022-07-29T23:49:25Z: PLAYER CHATTED [ 1611940085] 1heartmiya           (  -75.0,     3.9,    -1.9)
+  dangg all them wordsss..
+2022-07-29T23:49:27Z: PLAYER REMOVED [ 2987551947] julianmtzzz
+2022-07-29T23:49:28Z: PLAYER CHATTED [  553546217] Keeks5312            ( -759.7,    29.1,   -33.6)
+  There’s ## ##rdrop landing
+2022-07-29T23:49:30Z: PLAYER ADDED   [ 3014802211] Samantha127061
+2022-07-29T23:49:31Z: PLAYER CHATTED [ 3501510378] Yaretzi_V23          ( -814.3,    34.0,   -14.2)
+  Hi
+2022-07-29T23:49:33Z: PLAYER CHATTED [  553546217] Keeks5312            ( -759.7,    29.1,   -33.6)
+  Is it near
+2022-07-29T23:49:37Z: PLAYER CHATTED [  908886559] Akiqra               (  -75.5,     3.5,     1.9)
+  loll
+2022-07-29T23:49:40Z: CHRCTER ADDED  [ 1670393850] breala660            ( -442.0,     4.0,  -281.0)
+2022-07-29T23:49:46Z: CHRCTER ADDED  [ 3288537330] s0it_14              ( -677.0,    12.0,   156.0)
+2022-07-29T23:49:47Z: PLAYER CHATTED [  553546217] Keeks5312            ( -765.1,    30.3,   -29.3)
+  Hi
+2022-07-29T23:49:51Z: CHRCTER ADDED  [ 1216500156] CourtneythegreatXD   ( -339.0,     3.9,    99.0)
+2022-07-29T23:49:55Z: PLAYER ADDED   [ 2401461753] Jashpal_122
+2022-07-29T23:49:59Z: PLAYER CHATTED [ 3501510378] Yaretzi_V23          ( -766.4,    30.4,   -31.6)
+  Do you want to be friends
+2022-07-29T23:50:04Z: PLAYER CHATTED [  553546217] Keeks5312            ( -766.5,    30.3,   -10.6)
+  Sure
+2022-07-29T23:50:06Z: PLAYER CHATTED [ 1436565108] LPSwonderworkers     ( -491.1,    18.1,    -7.5)
+  Hi
+2022-07-29T23:50:09Z: PLAYER REMOVED [ 2401461753] Jashpal_122
+2022-07-29T23:50:11Z: PLAYER CHATTED [ 3501510378] Yaretzi_V23          ( -766.2,    30.4,   -14.7)
+  Ok
+2022-07-29T23:50:11Z: PLAYER CHATTED [ 1321069868] lexbuba              ( -487.0,    17.7,    -4.7)
+  Hi
+2022-07-29T23:50:13Z: PLAYER REMOVED [ 3010508365] Faith_13681234
+2022-07-29T23:50:16Z: PLAYER CHATTED [  553546217] Keeks5312            ( -766.5,    30.3,   -10.6)
+  !
+2022-07-29T23:50:16Z: PLAYER REMOVED [ 1384327550] carterbean78
+2022-07-29T23:50:20Z: PLAYER CHATTED [ 1436565108] LPSwonderworkers     ( -491.1,    18.1,    -7.5)
+  ##################################
+2022-07-29T23:50:21Z: CHRCTER ADDED  [ 2294995315] Rylan0380            ( -452.0,     3.9,   -79.0)
+2022-07-29T23:50:23Z: CHRCTER ADDED  [ 1611940085] 1heartmiya           ( -452.0,     3.9,   -79.0)
+2022-07-29T23:50:24Z: PLAYER CHATTED [ 1611940085] 1heartmiya           ( -452.0,     3.9,   -79.0)
+  .
+2022-07-29T23:50:25Z: PLAYER CHATTED [ 1321069868] lexbuba              ( -487.0,    17.7,    -4.7)
+  ###################################################
+2022-07-29T23:50:27Z: PLAYER CHATTED [ 1392381549] pkgymnastics         (  -68.0,     3.6,     3.4)
+  I OPENED BOX
+
+2022-07-29T23:50:31Z: PLAYER CHATTED [ 1321069868] lexbuba              ( -487.0,    17.7,    -4.7)
+  ####################################################
+2022-07-29T23:50:32Z: PLAYER CHATTED [ 1436565108] LPSwonderworkers     ( -493.8,    18.1,    -5.0)
+  Hihihihihihihiuji
+2022-07-29T23:50:33Z: PLAYER CHATTED [ 1216500156] CourtneythegreatXD   (  -10.3,     3.9,  -281.8)
+  afk
+2022-07-29T23:50:36Z: PLAYER CHATTED [ 3014802211] Samantha127061       (  -71.4,     4.0,     3.8)
+  OK
+2022-07-29T23:50:37Z: CHRCTER ADDED  [ 1216500156] CourtneythegreatXD   ( -603.1,     9.9,  -134.0)
+2022-07-29T23:50:40Z: PLAYER CHATTED [ 3501510378] Yaretzi_V23          ( -751.0,    29.2,    73.7)
+  Friend wait for me
+2022-07-29T23:50:41Z: PLAYER REMOVED [ 1216500156] CourtneythegreatXD
+2022-07-29T23:50:49Z: CHRCTER ADDED  [ 3369131032] Baby_doll12ko        ( -677.0,    12.0,   156.0)
+2022-07-29T23:50:50Z: PLAYER CHATTED [ 1436565108] LPSwonderworkers     ( -493.8,    18.1,    -5.0)
+  Hi I am Izzy and I play with
+2022-07-29T23:50:55Z: PLAYER ADDED   [ 1987252945] chiva6425
+2022-07-29T23:50:56Z: PLAYER CHATTED [  908886559] Akiqra               (  -69.0,     3.5,     1.7)
+  what sis u say
+2022-07-29T23:50:58Z: PLAYER CHATTED [  908886559] Akiqra               (  -69.0,     3.5,     1.7)
+  did
+2022-07-29T23:51:01Z: PLAYER CHATTED [ 1436565108] LPSwonderworkers     ( -493.8,    18.1,    -5.0)
+  Littlest pet shop
+2022-07-29T23:51:01Z: PLAYER CHATTED [ 2367954892] rainbowlilly_90      ( -552.9,    83.3,  -208.9)
+  so
+2022-07-29T23:51:03Z: PLAYER CHATTED [  908886559] Akiqra               (  -69.0,     3.5,     1.7)
+  everythings laggy
+2022-07-29T23:51:03Z: PLAYER ADDED   [ 3748330166] ImSaturn_TT
+2022-07-29T23:51:04Z: CHRCTER ADDED  [ 1611940085] 1heartmiya           ( -866.2,    10.3,   238.3)
+2022-07-29T23:51:14Z: PLAYER CHATTED [ 3014802211] Samantha127061       (  -71.4,     4.0,     2.3)
+  OH YOU GUYS ARE SISTER?
+2022-07-29T23:51:14Z: PLAYER REMOVED [ 1914624694] izzyxak
+2022-07-29T23:51:15Z: PLAYER ADDED   [ 3443568115] campusoly
+2022-07-29T23:51:15Z: PLAYER CHATTED [ 3501510378] Yaretzi_V23          ( -857.7,    34.0,    51.8)
+  And I met you in the summer
+2022-07-29T23:51:19Z: PLAYER CHATTED [ 1321069868] lexbuba              ( -487.0,    17.7,    -4.7)
+  Hi I’m aria and I play with lps too
+2022-07-29T23:51:19Z: PLAYER CHATTED [ 1987252945] chiva6425            ( -849.8,    10.1,   179.4)
+  Skjsjsjsjsjsjsjwjjwjwjwj whajajwhwjajajajjajajajajajajajajajjajajajajajajjajajajajaka
+2022-07-29T23:51:21Z: PLAYER CHATTED [ 1392381549] pkgymnastics         (  -65.8,     3.6,     1.4)
+  i opened box
+2022-07-29T23:51:22Z: PLAYER CHATTED [  908886559] Akiqra               (  -69.0,     3.5,     1.7)
+  no
+2022-07-29T23:51:23Z: PLAYER CHATTED [ 3501510378] Yaretzi_V23          ( -844.4,    34.0,    52.0)
+  Am I hearts beep
+2022-07-29T23:51:23Z: PLAYER CHATTED [ 1987252945] chiva6425            ( -849.8,    10.1,   179.4)
+  K
+2022-07-29T23:51:25Z: PLAYER CHATTED [  908886559] Akiqra               (  -69.0,     3.5,     1.7)
+  bsf
+2022-07-29T23:51:26Z: PLAYER CHATTED [ 1987252945] chiva6425            ( -849.8,    10.1,   179.4)
+  L
+2022-07-29T23:51:28Z: CHRCTER ADDED  [ 1611940085] 1heartmiya           ( -227.0,    44.7,  -281.0)
+2022-07-29T23:51:29Z: PLAYER CHATTED [ 1321069868] lexbuba              ( -489.6,    17.7,    -6.5)
+  ########################
+2022-07-29T23:51:30Z: PLAYER REMOVED [ 1987252945] chiva6425
+2022-07-29T23:51:31Z: CHRCTER ADDED  [ 1847982805] vInspiredAnnuh       (  146.0,    41.4,   109.5)
+2022-07-29T23:51:31Z: PLAYER CHATTED [ 1392381549] pkgymnastics         (  -66.1,     3.6,     1.5)
+  i wihs
+2022-07-29T23:51:32Z: PLAYER CHATTED [ 3501510378] Yaretzi_V23          ( -817.4,    34.0,    48.8)
+  I did
+2022-07-29T23:51:32Z: PLAYER ADDED   [  918827518] Awesome_K1k1
+2022-07-29T23:51:33Z: CHRCTER ADDED  [ 3288537330] s0it_14              ( -219.0,    37.2,   -95.0)
+2022-07-29T23:51:33Z: PLAYER CHATTED [ 3014802211] Samantha127061       (  -68.2,     4.0,    -0.3)
+  OK  BYE
+2022-07-29T23:51:36Z: PLAYER CHATTED [  908886559] Akiqra               (  -69.0,     3.5,     1.7)
+  ok bye
+2022-07-29T23:51:36Z: PLAYER ADDED   [ 1987252945] chiva6425
+2022-07-29T23:51:36Z: PLAYER CHATTED [ 2367954892] rainbowlilly_90      ( -552.9,    83.3,  -208.8)
+  Its been a long time
+2022-07-29T23:51:42Z: CHRCTER ADDED  [ 2523965947] iiBvnnyV1bez         ( -597.0,    10.8,  -305.0)
+2022-07-29T23:51:42Z: PLAYER CHATTED [ 1436565108] LPSwonderworkers     ( -494.8,    15.7,   -10.8)
+  Littlest pet shop are the best
+2022-07-29T23:51:43Z: PLAYER CHATTED [ 1987252945] chiva6425            (  146.0,    41.3,   109.5)
+  I back
+2022-07-29T23:51:46Z: CHRCTER ADDED  [ 1611940085] 1heartmiya           ( -449.0,   148.3,  -220.0)
+2022-07-29T23:51:47Z: PLAYER CHATTED [ 1321069868] lexbuba              ( -486.8,    17.7,    -4.9)
+  Yup
+2022-07-29T23:51:47Z: PLAYER CHATTED [ 3501510378] Yaretzi_V23          ( -817.4,    34.0,    48.8)
+  Enormous
+2022-07-29T23:51:49Z: CHRCTER ADDED  [ 1847982805] vInspiredAnnuh       (  146.0,    41.4,   109.5)
+2022-07-29T23:51:51Z: PLAYER CHATTED [ 3443568115] campusoly            ( -938.2,    10.4,   143.3)
+  hi
+2022-07-29T23:51:52Z: CHRCTER ADDED  [ 3369131032] Baby_doll12ko        (  146.0,    40.8,   109.5)
+2022-07-29T23:51:52Z: CHRCTER ADDED  [  382853616] Tricky_Keylime       ( -809.6,    10.2,    86.0)
+2022-07-29T23:51:53Z: PLAYER CHATTED [ 1392381549] pkgymnastics         (  -66.1,     3.6,     1.5)
+  i mis u :(
+2022-07-29T23:51:54Z: PLAYER CHATTED [ 3501510378] Yaretzi_V23          ( -813.2,    10.0,    91.6)
+  Hi
+2022-07-29T23:52:00Z: PLAYER CHATTED [ 1987252945] chiva6425            (   88.1,     4.1,     1.0)
+  How many’
+2022-07-29T23:52:05Z: PLAYER CHATTED [ 1321069868] lexbuba              ( -486.8,    17.7,    -4.9)
+  Littlest pet shop is fun to play with
+2022-07-29T23:52:09Z: PLAYER CHATTED [ 1987252945] chiva6425            (   88.1,     4.1,     1.0)
+  Words u have
+2022-07-29T23:52:10Z: PLAYER CHATTED [  908886559] Akiqra               (  -69.0,     3.5,     1.7)
+  WHy
+2022-07-29T23:52:12Z: PLAYER CHATTED [  908886559] Akiqra               (  -69.0,     3.5,     1.7)
+  cant
+2022-07-29T23:52:16Z: PLAYER CHATTED [  908886559] Akiqra               (  -69.0,     3.5,     1.7)
+  i see nothing
+2022-07-29T23:52:18Z: PLAYER REMOVED [  918827518] Awesome_K1k1
+2022-07-29T23:52:20Z: PLAYER CHATTED [ 1392381549] pkgymnastics         (  -66.8,     3.6,     0.6)
+  help what
+2022-07-29T23:52:24Z: PLAYER CHATTED [ 3501510378] Yaretzi_V23          ( -724.1,    10.8,    93.1)
+  Cheeseburger
+2022-07-29T23:52:26Z: PLAYER CHATTED [  382853616] Tricky_Keylime       ( -937.8,     9.8,   114.7)
+  a
+2022-07-29T23:52:31Z: PLAYER CHATTED [  908886559] Akiqra               (  -69.0,     3.5,     1.7)
+  i cant see texts
+2022-07-29T23:52:32Z: CHRCTER ADDED  [ 1611940085] 1heartmiya           (  146.0,    41.1,   109.5)
+2022-07-29T23:52:33Z: CHRCTER ADDED  [ 3288537330] s0it_14              ( -809.6,    10.0,    86.0)
+2022-07-29T23:52:35Z: CHRCTER ADDED  [ 2294995315] Rylan0380            ( -851.2,    10.2,   184.2)
+2022-07-29T23:52:38Z: PLAYER CHATTED [ 3501510378] Yaretzi_V23          ( -724.1,    10.8,    93.1)
+  Mmmm cheeseburger
+2022-07-29T23:52:46Z: PLAYER CHATTED [ 1392381549] pkgymnastics         (  -66.8,     3.6,     0.6)
+  testy
+2022-07-29T23:52:49Z: PLAYER CHATTED [ 1392381549] pkgymnastics         (  -66.8,     3.6,     0.6)
+  tesyt
+2022-07-29T23:52:53Z: CHRCTER ADDED  [ 3288537330] s0it_14              ( -562.0,   215.2,  -196.0)
+2022-07-29T23:52:53Z: PLAYER CHATTED [ 1392381549] pkgymnastics         (  -66.8,     3.6,     0.6)
+  can u see\
+2022-07-29T23:52:54Z: PLAYER CHATTED [  908886559] Akiqra               (  -69.0,     3.5,     1.7)
+  bruh
+2022-07-29T23:52:54Z: PLAYER CHATTED [ 1800547743] babyunicornloverayne (  -66.8,     4.0,     3.2)
+  do you guys Need words
+2022-07-29T23:52:57Z: PLAYER REMOVED [ 1321069868] lexbuba
+2022-07-29T23:53:00Z: PLAYER CHATTED [  908886559] Akiqra               (  -69.0,     3.5,     1.7)
+  yes
+2022-07-29T23:53:00Z: PLAYER CHATTED [ 1392381549] pkgymnastics         (  -66.8,     3.6,     0.6)
+  yes\
+2022-07-29T23:53:01Z: CHRCTER ADDED  [ 2294995315] Rylan0380            (  143.0,    18.3,   -34.0)
+2022-07-29T23:53:08Z: PLAYER CHATTED [ 3501510378] Yaretzi_V23          ( -481.2,    12.0,    39.0)
+  Bruh Bruh Bruh Bruh Bruh Bruh Bruh Bruh Bruh Bruh Bruh Bruh Bruh Bruh Bruh Bruh Bruh Bruh Bruh Bruh Bruh
+2022-07-29T23:53:09Z: PLAYER CHATTED [  908886559] Akiqra               (  -72.1,     3.5,    -3.6)
+  no
+2022-07-29T23:53:09Z: PLAYER CHATTED [ 1436565108] LPSwonderworkers     ( -494.8,    15.7,   -10.8)
+  Haha
+2022-07-29T23:53:12Z: CHRCTER ADDED  [ 2294995315] Rylan0380            (  -68.0,    53.1,   153.0)
+2022-07-29T23:53:13Z: PLAYER CHATTED [ 1800547743] babyunicornloverayne (  -67.4,     4.0,     3.9)
+  uh
+2022-07-29T23:53:16Z: PLAYER REMOVED [ 3288537330] s0it_14
+2022-07-29T23:53:19Z: CHRCTER ADDED  [  477728821] pikaswitch           ( -863.2,    10.2,   119.2)
+2022-07-29T23:53:19Z: PLAYER CHATTED [ 1800547743] babyunicornloverayne (  -71.3,     4.0,    -1.3)
+  idk abt her
+2022-07-29T23:53:20Z: PLAYER CHATTED [ 3748330166] ImSaturn_TT          (  -73.1,     4.4,     2.4)
+  Yes
+2022-07-29T23:53:22Z: PLAYER CHATTED [ 3501510378] Yaretzi_V23          ( -495.3,    18.0,     0.5)
+  Hi
+2022-07-29T23:53:23Z: CHRCTER ADDED  [ 2294995315] Rylan0380            ( -508.0,     3.9,  -222.0)
+2022-07-29T23:53:31Z: CHRCTER ADDED  [ 2294995315] Rylan0380            (   22.0,    21.9,  -169.0)
+2022-07-29T23:53:31Z: PLAYER CHATTED [ 1392381549] pkgymnastics         (  -66.8,     3.6,     0.6)
+  can u js not see my txts then #######
+2022-07-29T23:53:36Z: CHRCTER ADDED  [ 2294995315] Rylan0380            ( -938.2,    10.2,   129.7)
+2022-07-29T23:53:37Z: PLAYER CHATTED [ 1670393850] breala660            (  -39.8,     4.0,  -325.9)
+  stop running
+2022-07-29T23:53:42Z: CHRCTER ADDED  [ 2294995315] Rylan0380            ( -755.2,    10.2,    99.2)
+2022-07-29T23:53:43Z: PLAYER CHATTED [  908886559] Akiqra               (  -67.9,     3.5,    -1.6)
+  i cant see anything
+2022-07-29T23:53:46Z: CHRCTER ADDED  [ 2294995315] Rylan0380            ( -541.0,     4.3,  -237.0)
+2022-07-29T23:53:49Z: PLAYER CHATTED [ 3369131032] Baby_doll12ko        (  -45.8,     3.6,  -235.4)
+  No
+2022-07-29T23:53:52Z: CHRCTER ADDED  [ 2294995315] Rylan0380            ( -772.2,    10.2,    22.2)
+2022-07-29T23:53:52Z: PLAYER REMOVED [ 2523965947] iiBvnnyV1bez
+2022-07-29T23:53:57Z: PLAYER ADDED   [ 2427715062] 01Pearl01
+2022-07-29T23:53:59Z: PLAYER CHATTED [ 3748330166] ImSaturn_TT          (  -65.5,     4.4,    -0.4)
+  So many words
+2022-07-29T23:54:00Z: PLAYER ADDED   [ 3639514856] Datgirlkamkam
+2022-07-29T23:54:01Z: PLAYER ADDED   [ 2442575344] Lilo_Undo
+2022-07-29T23:54:02Z: PLAYER REMOVED [ 1611940085] 1heartmiya
+2022-07-29T23:54:04Z: PLAYER REMOVED [ 1800547743] babyunicornloverayne
+2022-07-29T23:54:04Z: PLAYER ADDED   [ 1873382507] zqck23
+2022-07-29T23:54:05Z: PLAYER ADDED   [ 1925823046] Skittlesmommy12
+2022-07-29T23:54:05Z: PLAYER CHATTED [  908886559] Akiqra               (  -73.3,     3.5,     2.9)
+  i know
+2022-07-29T23:54:07Z: CHRCTER ADDED  [ 1670393850] breala660            ( -508.0,     4.0,  -222.0)
