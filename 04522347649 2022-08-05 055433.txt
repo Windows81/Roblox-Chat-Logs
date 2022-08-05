@@ -1,0 +1,440 @@
+[    1630228] : [ 4522347649] [FREE ADMIN] - 53307c1d-2f0f-40e1-94d2-de47cc95f1d3
+2022-08-05T05:54:33Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-08-05T05:54:33Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-08-05T05:54:33Z: PLAYER ADDED   [ 1511536380] johnmtz04
+2022-08-05T05:54:33Z: PLAYER ADDED   [ 2299798725] pejelajarto321
+2022-08-05T05:54:33Z: PLAYER ADDED   [ 3774150247] Dcmarveldaysi15
+2022-08-05T05:54:33Z: PLAYER ADDED   [ 3473159081] javivinmartinez1987
+2022-08-05T05:54:33Z: PLAYER ADDED   [ 1510634752] joetommy14
+2022-08-05T05:54:40Z: CHRCTER ADDED  [ 3473159081] javivinmartinez1987  (  -30.7,    -1.0,   149.5)
+2022-08-05T05:54:43Z: PLAYER CHATTED [ 1510634752] joetommy14           (  -26.1,    -0.2,   119.2)
+  :ff
+2022-08-05T05:54:51Z: PLAYER REMOVED [ 2299798725] pejelajarto321
+2022-08-05T05:54:54Z: PLAYER ADDED   [ 3739895217] gokumegaproxd12346
+2022-08-05T05:55:04Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  -10.7,    -1.0,   149.5)
+2022-08-05T05:55:04Z: CHRCTER ADDED  [ 3473159081] javivinmartinez1987  (  -20.7,     4.0,   149.5)
+2022-08-05T05:55:11Z: PLAYER CHATTED [ 3739895217] gokumegaproxd12346   (  -20.7,    -1.0,   149.5)
+  goku
+2022-08-05T05:55:20Z: PLAYER REMOVED [ 1511536380] johnmtz04
+2022-08-05T05:55:22Z: PLAYER CHATTED [ 3739895217] gokumegaproxd12346   (  -20.3,    -0.7,   151.6)
+  :goku
+2022-08-05T05:55:31Z: PLAYER CHATTED [ 1510634752] joetommy14           (  -64.6,     1.9,   104.5)
+  :jail john
+2022-08-05T05:55:37Z: CHRCTER ADDED  [ 3473159081] javivinmartinez1987  (  -15.7,    -1.0,   149.5)
+2022-08-05T05:55:42Z: PLAYER CHATTED [ 3739895217] gokumegaproxd12346   (  -16.1,    -1.0,   143.6)
+  : ###########
+2022-08-05T05:55:52Z: CHRCTER ADDED  [ 3739895217] gokumegaproxd12346   (  -15.7,    -1.0,   149.5)
+2022-08-05T05:55:54Z: PLAYER ADDED   [ 3091487627] Dylanoniel1
+2022-08-05T05:55:56Z: PLAYER CHATTED [ 3739895217] gokumegaproxd12346   (  -15.7,    -1.0,   149.5)
+  : inmortal 
+2022-08-05T05:56:13Z: CHRCTER ADDED  [ 3739895217] gokumegaproxd12346   (   -5.7,    -1.0,   149.5)
+2022-08-05T05:56:15Z: CHRCTER ADDED  [ 3774150247] Dcmarveldaysi15      (  -30.7,    -0.9,   149.5)
+2022-08-05T05:56:16Z: CHRCTER ADDED  [ 3473159081] javivinmartinez1987  (  -15.7,    -1.0,   149.5)
+2022-08-05T05:56:24Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  -20.7,    -0.9,   149.5)
+2022-08-05T05:56:32Z: PLAYER CHATTED [ 3739895217] gokumegaproxd12346   (  -25.1,    -1.0,    92.3)
+  :inmortal
+2022-08-05T05:56:56Z: CHRCTER ADDED  [ 3739895217] gokumegaproxd12346   (  -20.7,    -1.0,   149.5)
+2022-08-05T05:56:56Z: PLAYER CHATTED [ 3739895217] gokumegaproxd12346   (  -20.7,    -1.0,   149.5)
+  :flr
+2022-08-05T05:57:06Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  -20.7,    -1.0,   149.5)
+2022-08-05T05:57:06Z: PLAYER CHATTED [ 3739895217] gokumegaproxd12346   (  -21.6,    -1.0,   120.2)
+  fly
+2022-08-05T05:57:06Z: CHRCTER ADDED  [ 3091487627] Dylanoniel1          (  -25.7,    -1.0,   149.5)
+2022-08-05T05:57:14Z: PLAYER CHATTED [ 3739895217] gokumegaproxd12346   (  -21.6,    -1.0,   120.2)
+  :fly
+2022-08-05T05:57:17Z: CHRCTER ADDED  [ 3473159081] javivinmartinez1987  (  -30.7,    -1.0,   149.5)
+2022-08-05T05:57:36Z: CHRCTER ADDED  [ 3091487627] Dylanoniel1          (  -20.7,    -1.0,   149.5)
+2022-08-05T05:57:42Z: CHRCTER ADDED  [ 3739895217] gokumegaproxd12346   (  -30.7,     2.4,   149.5)
+2022-08-05T05:58:11Z: CHRCTER ADDED  [ 3091487627] Dylanoniel1          (  -15.7,    -1.0,   149.5)
+2022-08-05T05:58:12Z: PLAYER CHATTED [ 3739895217] gokumegaproxd12346   (  -30.0,    20.4,    59.1)
+  :minigun
+2022-08-05T05:58:29Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   -5.7,    -1.0,   149.5)
+2022-08-05T05:58:31Z: PLAYER REMOVED [ 1510634752] joetommy14
+2022-08-05T05:58:32Z: PLAYER ADDED   [ 3633474210] mariqwq638
+2022-08-05T05:58:41Z: CHRCTER ADDED  [ 3091487627] Dylanoniel1          (  -15.7,     2.9,   149.5)
+2022-08-05T05:58:48Z: CHRCTER ADDED  [ 3473159081] javivinmartinez1987  (  -10.7,    -1.0,   149.5)
+2022-08-05T05:58:50Z: CHRCTER ADDED  [ 3739895217] gokumegaproxd12346   (  -20.7,    -1.0,   149.5)
+2022-08-05T05:59:06Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  -15.7,     3.2,   149.5)
+2022-08-05T05:59:13Z: CHRCTER ADDED  [ 3091487627] Dylanoniel1          (  -48.2,    -1.0,   132.2)
+2022-08-05T05:59:35Z: CHRCTER ADDED  [ 3091487627] Dylanoniel1          (   -5.7,    -1.0,   149.5)
+2022-08-05T05:59:41Z: CHRCTER ADDED  [ 3739895217] gokumegaproxd12346   (  -25.7,    -1.0,   149.5)
+2022-08-05T06:00:03Z: CHRCTER ADDED  [ 3091487627] Dylanoniel1          (   -5.7,    -0.9,   149.5)
+2022-08-05T06:00:06Z: CHRCTER ADDED  [ 3473159081] javivinmartinez1987  (  -25.7,    -1.0,   149.5)
+2022-08-05T06:00:07Z: CHRCTER ADDED  [ 3774150247] Dcmarveldaysi15      (  -20.7,    -0.9,   149.5)
+2022-08-05T06:00:10Z: PLAYER REMOVED [ 3473159081] javivinmartinez1987
+2022-08-05T06:00:17Z: CHRCTER ADDED  [ 3091487627] Dylanoniel1          (  -15.7,     2.8,   149.5)
+2022-08-05T06:00:28Z: PLAYER ADDED   [ 1811813232] Brianiscool2075
+2022-08-05T06:00:30Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  -10.7,    -1.0,   149.5)
+2022-08-05T06:00:50Z: CHRCTER ADDED  [ 1811813232] Brianiscool2075      (  -15.7,    -1.0,   149.5)
+2022-08-05T06:00:56Z: CHRCTER ADDED  [ 3739895217] gokumegaproxd12346   (  -10.7,    -1.0,   149.5)
+2022-08-05T06:01:05Z: CHRCTER ADDED  [ 3633474210] mariqwq638           (  -30.7,    -1.0,   149.5)
+2022-08-05T06:01:28Z: CHRCTER ADDED  [ 3739895217] gokumegaproxd12346   (  -10.7,    -1.0,   149.5)
+2022-08-05T06:01:35Z: CHRCTER ADDED  [ 3774150247] Dcmarveldaysi15      (   -5.7,    -0.9,   149.5)
+2022-08-05T06:01:57Z: CHRCTER ADDED  [ 1811813232] Brianiscool2075      (  -25.7,    -1.0,   149.5)
+2022-08-05T06:02:10Z: PLAYER CHATTED [ 3739895217] gokumegaproxd12346   (  -10.7,     2.8,   149.5)
+  killDcmarvel15
+2022-08-05T06:02:24Z: PLAYER CHATTED [ 3739895217] gokumegaproxd12346   (  -35.6,    18.9,   -16.0)
+  : killDcmarvel15 
+2022-08-05T06:02:26Z: CHRCTER ADDED  [ 3774150247] Dcmarveldaysi15      (  -25.7,    -0.9,   149.5)
+2022-08-05T06:02:41Z: PLAYER CHATTED [ 3739895217] gokumegaproxd12346   (  -35.6,    18.9,   -16.0)
+  : killDcmarvel15 
+2022-08-05T06:02:41Z: CHRCTER ADDED  [ 3633474210] mariqwq638           (  -25.7,    -1.0,   149.5)
+2022-08-05T06:02:44Z: PLAYER REMOVED [ 1811813232] Brianiscool2075
+2022-08-05T06:02:59Z: PLAYER ADDED   [ 3194118486] tiquerdele
+2022-08-05T06:03:21Z: CHRCTER ADDED  [ 3633474210] mariqwq638           (  -30.7,    -1.0,   149.5)
+2022-08-05T06:03:23Z: CHRCTER ADDED  [ 3194118486] tiquerdele           (  -25.7,    -1.0,   149.5)
+2022-08-05T06:03:53Z: CHRCTER ADDED  [ 3194118486] tiquerdele           (  -30.7,    -1.0,   149.5)
+2022-08-05T06:04:10Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  -10.7,    -1.0,   149.5)
+2022-08-05T06:04:30Z: CHRCTER ADDED  [ 3739895217] gokumegaproxd12346   (   -5.7,    -1.0,   149.5)
+2022-08-05T06:05:06Z: CHRCTER ADDED  [ 3194118486] tiquerdele           (  -10.7,    -1.0,   149.5)
+2022-08-05T06:05:28Z: CHRCTER ADDED  [ 3091487627] Dylanoniel1          (  -30.7,    -1.0,   149.5)
+2022-08-05T06:05:35Z: CHRCTER ADDED  [ 3739895217] gokumegaproxd12346   (  -25.7,    -1.0,   149.5)
+2022-08-05T06:05:52Z: CHRCTER ADDED  [ 3633474210] mariqwq638           (   -5.7,    -1.0,   149.5)
+2022-08-05T06:05:58Z: PLAYER CHATTED [ 3739895217] gokumegaproxd12346   ( -145.3,    36.3,   106.6)
+  :jenn
+2022-08-05T06:06:05Z: CHRCTER ADDED  [ 3091487627] Dylanoniel1          (  -25.7,    -1.0,   149.5)
+2022-08-05T06:06:09Z: PLAYER CHATTED [ 3739895217] gokumegaproxd12346   ( -145.3,    36.3,   106.6)
+  :jenna
+2022-08-05T06:06:34Z: CHRCTER ADDED  [ 3633474210] mariqwq638           (  -30.7,    -1.0,   149.5)
+2022-08-05T06:06:34Z: CHRCTER ADDED  [ 3091487627] Dylanoniel1          (  -25.7,    -1.0,   149.5)
+2022-08-05T06:07:00Z: CHRCTER ADDED  [ 3091487627] Dylanoniel1          (  -10.7,    -1.0,   149.5)
+2022-08-05T06:07:02Z: CHRCTER ADDED  [ 3194118486] tiquerdele           (  -20.7,    -1.0,   149.5)
+2022-08-05T06:07:07Z: PLAYER REMOVED [ 3739895217] gokumegaproxd12346
+2022-08-05T06:07:20Z: CHRCTER ADDED  [ 3633474210] mariqwq638           (   -5.7,    -1.0,   149.5)
+2022-08-05T06:07:22Z: PLAYER ADDED   [ 3558576392] 05supersoni
+2022-08-05T06:07:41Z: CHRCTER ADDED  [ 3633474210] mariqwq638           (  -20.7,    -1.0,   149.5)
+2022-08-05T06:07:45Z: PLAYER REMOVED [ 3091487627] Dylanoniel1
+2022-08-05T06:07:53Z: PLAYER ADDED   [ 3730337578] alfalfaweo
+2022-08-05T06:08:04Z: CHRCTER ADDED  [ 3633474210] mariqwq638           (  -30.7,     2.8,   149.5)
+2022-08-05T06:08:15Z: PLAYER CHATTED [ 3730337578] alfalfaweo           (  -30.2,    -1.0,   149.4)
+  #####
+2022-08-05T06:08:26Z: PLAYER CHATTED [ 3730337578] alfalfaweo           (  -47.4,    -1.0,   141.0)
+  :jenaa
+2022-08-05T06:08:37Z: PLAYER CHATTED [ 3730337578] alfalfaweo           (  -83.1,    -1.0,   128.2)
+  :jena
+2022-08-05T06:08:44Z: CHRCTER ADDED  [ 3730337578] alfalfaweo           (  -25.7,    -1.0,   149.5)
+2022-08-05T06:08:48Z: CHRCTER ADDED  [ 3774150247] Dcmarveldaysi15      (  -10.7,    -0.9,   149.5)
+2022-08-05T06:08:59Z: PLAYER CHATTED [ 3730337578] alfalfaweo           (  -23.2,    -1.0,   139.7)
+  :
+2022-08-05T06:09:08Z: CHRCTER ADDED  [ 3558576392] 05supersoni          (  -30.7,    -1.0,   149.5)
+2022-08-05T06:09:20Z: CHRCTER ADDED  [ 3774150247] Dcmarveldaysi15      (  -25.7,    -0.9,   149.5)
+2022-08-05T06:09:58Z: CHRCTER ADDED  [ 3730337578] alfalfaweo           (  -10.7,    -0.9,   149.5)
+2022-08-05T06:09:59Z: CHRCTER ADDED  [ 3558576392] 05supersoni          (  -20.7,    -1.0,   149.5)
+2022-08-05T06:10:01Z: CHRCTER ADDED  [ 3633474210] mariqwq638           (  -25.7,    -1.0,   149.5)
+2022-08-05T06:10:02Z: CHRCTER ADDED  [ 3194118486] tiquerdele           (  -20.7,    -1.0,   149.5)
+2022-08-05T06:10:25Z: CHRCTER ADDED  [ 3194118486] tiquerdele           (  -30.7,    -1.0,   149.5)
+2022-08-05T06:10:27Z: CHRCTER ADDED  [ 3774150247] Dcmarveldaysi15      (   -5.7,    -0.9,   149.5)
+2022-08-05T06:10:50Z: CHRCTER ADDED  [ 3730337578] alfalfaweo           (   -5.7,    -1.0,   149.5)
+2022-08-05T06:10:53Z: CHRCTER ADDED  [ 3633474210] mariqwq638           (  -10.7,    -1.0,   149.5)
+2022-08-05T06:11:06Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  -30.7,    -1.0,   149.5)
+2022-08-05T06:11:09Z: CHRCTER ADDED  [ 3774150247] Dcmarveldaysi15      (  -10.7,    -0.9,   149.5)
+2022-08-05T06:11:11Z: CHRCTER ADDED  [ 3194118486] tiquerdele           (  -20.7,    -1.0,   149.5)
+2022-08-05T06:11:16Z: CHRCTER ADDED  [ 3633474210] mariqwq638           (  -20.7,    -0.9,   149.5)
+2022-08-05T06:11:24Z: PLAYER REMOVED [ 3633474210] mariqwq638
+2022-08-05T06:11:27Z: PLAYER ADDED   [ 2662579073] Bonboncito7543
+2022-08-05T06:11:29Z: CHRCTER ADDED  [ 3730337578] alfalfaweo           (  -15.7,    -1.0,   149.5)
+2022-08-05T06:11:34Z: CHRCTER ADDED  [ 3558576392] 05supersoni          (  -15.7,    -0.9,   149.5)
+2022-08-05T06:11:46Z: PLAYER REMOVED [ 2662579073] Bonboncito7543
+2022-08-05T06:11:47Z: PLAYER ADDED   [ 3630759940] nicol16782356
+2022-08-05T06:11:58Z: CHRCTER ADDED  [ 3558576392] 05supersoni          (  -25.7,    -0.9,   149.5)
+2022-08-05T06:12:04Z: CHRCTER ADDED  [ 3194118486] tiquerdele           (   -5.7,     2.9,   149.5)
+2022-08-05T06:12:07Z: CHRCTER ADDED  [ 3558576392] 05supersoni          (  -20.7,    -1.0,   149.5)
+2022-08-05T06:12:10Z: CHRCTER ADDED  [ 3730337578] alfalfaweo           (  -30.7,    -1.0,   149.5)
+2022-08-05T06:12:21Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  -20.7,    -1.0,   149.5)
+2022-08-05T06:12:30Z: CHRCTER ADDED  [ 3558576392] 05supersoni          (   -5.7,    -1.0,   149.5)
+2022-08-05T06:12:31Z: CHRCTER ADDED  [ 3630759940] nicol16782356        (   -6.0,     2.9,   149.5)
+2022-08-05T06:12:31Z: CHRCTER ADDED  [ 3194118486] tiquerdele           (   -5.7,    -1.0,   149.5)
+2022-08-05T06:12:53Z: CHRCTER ADDED  [ 3630759940] nicol16782356        (  -25.7,    -1.0,   149.5)
+2022-08-05T06:13:03Z: CHRCTER ADDED  [ 3558576392] 05supersoni          (  -20.7,    -1.0,   149.5)
+2022-08-05T06:13:03Z: CHRCTER ADDED  [ 3194118486] tiquerdele           (   -5.7,    -1.0,   149.5)
+2022-08-05T06:13:08Z: CHRCTER ADDED  [ 3630759940] nicol16782356        (  -10.7,    -1.0,   149.5)
+2022-08-05T06:13:09Z: PLAYER REMOVED [ 3630759940] nicol16782356
+2022-08-05T06:13:10Z: PLAYER ADDED   [ 3515753963] xgxgx_1010
+2022-08-05T06:13:14Z: CHRCTER ADDED  [ 3730337578] alfalfaweo           (  -10.7,    -1.0,   149.5)
+2022-08-05T06:13:30Z: CHRCTER ADDED  [ 3194118486] tiquerdele           (  -25.7,    -1.0,   149.5)
+2022-08-05T06:13:30Z: CHRCTER ADDED  [ 3558576392] 05supersoni          (   -5.7,    -0.9,   149.5)
+2022-08-05T06:13:41Z: PLAYER CHATTED [ 3515753963] xgxgx_1010           (  -25.7,    -1.0,   141.5)
+  :clone
+2022-08-05T06:14:08Z: CHRCTER ADDED  [ 3194118486] tiquerdele           (  -10.7,    -1.0,   149.5)
+2022-08-05T06:14:09Z: CHRCTER ADDED  [ 3558576392] 05supersoni          (  -20.7,    -1.0,   149.5)
+2022-08-05T06:14:23Z: PLAYER CHATTED [ 3515753963] xgxgx_1010           (  -11.8,    -1.0,   146.5)
+  :invisible
+2022-08-05T06:14:28Z: PLAYER CHATTED [ 3515753963] xgxgx_1010           (  -13.0,    -1.0,   146.3)
+  :invisible
+2022-08-05T06:14:34Z: CHRCTER ADDED  [ 3730337578] alfalfaweo           (   -5.7,    -0.9,   149.5)
+2022-08-05T06:14:39Z: CHRCTER ADDED  [ 3774150247] Dcmarveldaysi15      (  -30.7,    -0.9,   149.5)
+2022-08-05T06:14:49Z: CHRCTER ADDED  [ 3515753963] xgxgx_1010           (  -30.7,    -1.0,   149.5)
+2022-08-05T06:15:03Z: CHRCTER ADDED  [ 3774150247] Dcmarveldaysi15      (  -10.7,    -1.0,   149.5)
+2022-08-05T06:15:16Z: CHRCTER ADDED  [ 3515753963] xgxgx_1010           (  -20.7,    -1.0,   149.5)
+2022-08-05T06:15:21Z: PLAYER CHATTED [ 3515753963] xgxgx_1010           (  -20.7,    -1.0,   149.5)
+  :unjail
+2022-08-05T06:15:34Z: CHRCTER ADDED  [ 3558576392] 05supersoni          (  -20.7,    -1.0,   149.5)
+2022-08-05T06:15:42Z: CHRCTER ADDED  [ 3730337578] alfalfaweo           (  -20.7,    -1.0,   149.5)
+2022-08-05T06:15:50Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  -20.7,    -1.0,   149.5)
+2022-08-05T06:15:52Z: CHRCTER ADDED  [ 3558576392] 05supersoni          (  -20.7,    -1.0,   149.5)
+2022-08-05T06:16:02Z: CHRCTER ADDED  [ 3515753963] xgxgx_1010           (  -30.7,    -1.0,   149.5)
+2022-08-05T06:16:12Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  -30.7,    -1.0,   149.5)
+2022-08-05T06:16:13Z: PLAYER REMOVED [ 3774150247] Dcmarveldaysi15
+2022-08-05T06:16:15Z: CHRCTER ADDED  [ 3730337578] alfalfaweo           (  -15.7,    -1.0,   149.5)
+2022-08-05T06:16:30Z: CHRCTER ADDED  [ 3515753963] xgxgx_1010           (  -25.7,    -1.0,   149.5)
+2022-08-05T06:17:03Z: CHRCTER ADDED  [ 3515753963] xgxgx_1010           (  -20.7,    -1.0,   149.5)
+2022-08-05T06:17:04Z: CHRCTER ADDED  [ 3730337578] alfalfaweo           (  -15.7,    -0.9,   149.5)
+2022-08-05T06:17:13Z: PLAYER CHATTED [ 3730337578] alfalfaweo           (  -15.7,    -1.0,   149.5)
+  #####
+2022-08-05T06:17:16Z: CHRCTER ADDED  [ 3194118486] tiquerdele           (  -25.7,    -0.9,   149.5)
+2022-08-05T06:17:20Z: PLAYER CHATTED [ 3730337578] alfalfaweo           (  -12.6,    -1.0,   136.7)
+  ####
+2022-08-05T06:17:27Z: PLAYER ADDED   [ 3558404209] Claudililiat
+2022-08-05T06:17:30Z: CHRCTER ADDED  [ 3558576392] 05supersoni          (  -10.7,    -0.9,   149.5)
+2022-08-05T06:17:35Z: CHRCTER ADDED  [ 3515753963] xgxgx_1010           (  -10.7,    -1.0,   149.5)
+2022-08-05T06:17:37Z: CHRCTER ADDED  [ 3194118486] tiquerdele           (  -20.7,    -1.0,   149.5)
+2022-08-05T06:17:45Z: CHRCTER ADDED  [ 3730337578] alfalfaweo           (  -10.7,    -0.9,   149.5)
+2022-08-05T06:17:48Z: PLAYER CHATTED [ 3558404209] Claudililiat         (  -30.7,    -1.0,   149.5)
+  :floppa :fire :God :Speed me 200
+2022-08-05T06:17:57Z: CHRCTER ADDED  [ 3515753963] xgxgx_1010           (  -20.7,    -1.0,   149.5)
+2022-08-05T06:17:58Z: CHRCTER ADDED  [ 3194118486] tiquerdele           (  -15.7,    -1.0,   149.5)
+2022-08-05T06:18:00Z: PLAYER CHATTED [ 3558404209] Claudililiat         ( -289.7,    -1.0,   -46.1)
+  :God
+2022-08-05T06:18:10Z: CHRCTER ADDED  [ 3515753963] xgxgx_1010           (  -20.7,    -1.0,   149.5)
+2022-08-05T06:18:12Z: PLAYER CHATTED [ 3558404209] Claudililiat         (    6.4,    -1.0,  -162.5)
+  :fly
+2022-08-05T06:18:16Z: CHRCTER ADDED  [ 3194118486] tiquerdele           (  -25.7,    -1.0,   149.5)
+2022-08-05T06:18:23Z: PLAYER CHATTED [ 3515753963] xgxgx_1010           (  -22.9,    -1.0,   146.2)
+  :fly
+2022-08-05T06:18:39Z: CHRCTER ADDED  [ 3194118486] tiquerdele           (   -5.7,    -0.9,   149.5)
+2022-08-05T06:18:50Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  -30.7,    -1.0,   149.5)
+2022-08-05T06:19:47Z: CHRCTER ADDED  [ 3194118486] tiquerdele           (  -30.7,    -1.0,   149.5)
+2022-08-05T06:19:54Z: PLAYER CHATTED [ 3558404209] Claudililiat         (  -36.6,    -1.0,   -18.5)
+  :Speed me 200
+2022-08-05T06:19:57Z: PLAYER REMOVED [ 3558576392] 05supersoni
+2022-08-05T06:20:17Z: CHRCTER ADDED  [ 3730337578] alfalfaweo           (   -5.7,    -1.0,   149.5)
+2022-08-05T06:20:25Z: PLAYER REMOVED [ 3515753963] xgxgx_1010
+2022-08-05T06:21:13Z: CHRCTER ADDED  [ 3194118486] tiquerdele           (  -10.7,    -1.0,   149.5)
+2022-08-05T06:21:14Z: PLAYER ADDED   [ 3677362075] DecSister123
+2022-08-05T06:21:29Z: PLAYER ADDED   [ 3632387439] Santyy_700
+2022-08-05T06:21:34Z: PLAYER CHATTED [ 3558404209] Claudililiat         (  -25.6,    -1.0,    27.1)
+  :Speed me 200
+2022-08-05T06:21:55Z: PLAYER CHATTED [ 3632387439] Santyy_700           (  -30.7,    -1.0,   149.5)
+  :clone
+2022-08-05T06:21:56Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   -5.7,    -1.0,   149.5)
+2022-08-05T06:22:07Z: PLAYER CHATTED [ 3632387439] Santyy_700           (  -30.4,    -1.0,   138.6)
+  :clone
+2022-08-05T06:22:10Z: PLAYER CHATTED [ 3632387439] Santyy_700           (  -30.4,    -1.0,   138.6)
+  :clone
+2022-08-05T06:22:10Z: CHRCTER ADDED  [ 3677362075] DecSister123         (   -5.7,    -1.0,   149.5)
+2022-08-05T06:22:24Z: CHRCTER ADDED  [ 3194118486] tiquerdele           (  -15.7,    -1.0,   149.5)
+2022-08-05T06:22:39Z: CHRCTER ADDED  [ 3730337578] alfalfaweo           (  -25.7,    -1.0,   149.5)
+2022-08-05T06:22:46Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  -10.7,    -1.0,   149.5)
+2022-08-05T06:22:51Z: CHRCTER ADDED  [ 3632387439] Santyy_700           (   -5.7,    -1.0,   149.5)
+2022-08-05T06:22:54Z: CHRCTER ADDED  [ 3677362075] DecSister123         (  -15.7,    -1.0,   149.5)
+2022-08-05T06:22:59Z: PLAYER CHATTED [ 3558404209] Claudililiat         (  -35.6,    -1.0,   131.0)
+  :jail San
+2022-08-05T06:22:59Z: PLAYER CHATTED [ 3632387439] Santyy_700           (  -32.1,    -0.2,   130.7)
+  :ff
+2022-08-05T06:23:05Z: PLAYER CHATTED [ 3632387439] Santyy_700           (  -30.5,    -0.2,   130.1)
+  :fly
+2022-08-05T06:23:13Z: CHRCTER ADDED  [ 3632387439] Santyy_700           (  -43.0,     4.3,    93.3)
+2022-08-05T06:23:13Z: PLAYER CHATTED [ 3558404209] Claudililiat         (  -31.6,    -1.0,   120.3)
+  :re san
+2022-08-05T06:23:19Z: CHRCTER ADDED  [ 3632387439] Santyy_700           (  -42.4,    -1.0,   109.6)
+2022-08-05T06:23:19Z: PLAYER CHATTED [ 3558404209] Claudililiat         (  -31.6,    -1.0,   120.3)
+  :re san
+2022-08-05T06:23:24Z: PLAYER CHATTED [ 3558404209] Claudililiat         (  -31.6,    -1.0,   120.3)
+  :pooop san
+2022-08-05T06:23:26Z: CHRCTER ADDED  [ 3194118486] tiquerdele           (  -25.7,    -1.0,   149.5)
+2022-08-05T06:23:45Z: PLAYER CHATTED [ 3632387439] Santyy_700           (  -71.9,    -1.0,    65.7)
+  :ff
+2022-08-05T06:23:52Z: PLAYER CHATTED [ 3558404209] Claudililiat         ( -399.9,    -1.0,    -3.2)
+  :Speed me 200
+2022-08-05T06:24:01Z: CHRCTER ADDED  [ 3194118486] tiquerdele           (  -15.7,    -1.0,   149.5)
+2022-08-05T06:24:06Z: PLAYER CHATTED [ 3632387439] Santyy_700           (  -74.6,    -1.0,    75.6)
+  :speed .e ###########
+2022-08-05T06:24:11Z: CHRCTER ADDED  [ 3677362075] DecSister123         (  -20.7,    -1.0,   149.5)
+2022-08-05T06:24:18Z: PLAYER CHATTED [ 3632387439] Santyy_700           (  -84.6,    -1.0,    65.0)
+  :speed me 1000
+2022-08-05T06:24:33Z: CHRCTER ADDED  [ 3194118486] tiquerdele           (  -15.7,    -1.0,   149.5)
+2022-08-05T06:24:34Z: CHRCTER ADDED  [ 3730337578] alfalfaweo           (  -25.7,    -0.9,   149.5)
+2022-08-05T06:24:45Z: CHRCTER ADDED  [ 3632387439] Santyy_700           (  -10.7,    -0.9,   149.5)
+2022-08-05T06:24:50Z: CHRCTER ADDED  [ 3677362075] DecSister123         (  -25.7,    -1.0,   149.5)
+2022-08-05T06:24:57Z: PLAYER CHATTED [ 3632387439] Santyy_700           (  -41.4,    18.1,   123.3)
+  :ff
+2022-08-05T06:25:18Z: CHRCTER ADDED  [ 3194118486] tiquerdele           (  -30.7,    -1.0,   149.5)
+2022-08-05T06:25:18Z: CHRCTER ADDED  [ 3677362075] DecSister123         (  -10.7,    -1.0,   149.5)
+2022-08-05T06:25:30Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  -30.7,    -0.9,   149.5)
+2022-08-05T06:25:45Z: CHRCTER ADDED  [ 3677362075] DecSister123         (  -25.7,    -1.0,   149.5)
+2022-08-05T06:25:50Z: CHRCTER ADDED  [ 3194118486] tiquerdele           (  -30.7,    -1.0,   149.5)
+2022-08-05T06:25:53Z: CHRCTER ADDED  [ 3730337578] alfalfaweo           (  -25.7,    -1.0,   149.5)
+2022-08-05T06:25:55Z: PLAYER REMOVED [ 3677362075] DecSister123
+2022-08-05T06:25:57Z: PLAYER ADDED   [ 3597538498] yoyoraidel
+2022-08-05T06:25:58Z: PLAYER CHATTED [ 3558404209] Claudililiat         (    4.5,    -1.0,   -12.3)
+  :m hola a todos
+2022-08-05T06:26:08Z: PLAYER CHATTED [ 3632387439] Santyy_700           ( -194.3,    -1.0,   137.0)
+  Hola .esage
+2022-08-05T06:26:14Z: PLAYER CHATTED [ 3632387439] Santyy_700           ( -203.0,    -1.0,   119.4)
+  mesage
+2022-08-05T06:26:32Z: CHRCTER ADDED  [ 3194118486] tiquerdele           (  -20.7,     2.8,   149.5)
+2022-08-05T06:26:34Z: PLAYER CHATTED [ 3632387439] Santyy_700           (  -81.1,    -1.0,    18.7)
+  jajajajaj
+2022-08-05T06:26:36Z: CHRCTER ADDED  [ 3730337578] alfalfaweo           (  -25.7,    -1.0,   149.5)
+2022-08-05T06:26:40Z: CHRCTER ADDED  [ 3597538498] yoyoraidel           (  -25.7,   124.3,   149.5)
+2022-08-05T06:26:47Z: CHRCTER ADDED  [ 3597538498] yoyoraidel           (  -16.3,    11.5,   142.6)
+2022-08-05T06:26:47Z: PLAYER CHATTED [ 3597538498] yoyoraidel           (  -16.3,    11.5,   142.6)
+  :giant
+2022-08-05T06:26:52Z: CHRCTER ADDED  [ 3558404209] Claudililiat         (  -30.7,    -1.0,   149.5)
+2022-08-05T06:26:55Z: CHRCTER ADDED  [ 3597538498] yoyoraidel           (  -25.7,    -0.9,   149.5)
+2022-08-05T06:27:03Z: CHRCTER ADDED  [ 3730337578] alfalfaweo           (  -15.7,    -1.0,   149.5)
+2022-08-05T06:27:11Z: PLAYER CHATTED [ 3558404209] Claudililiat         (  -31.1,    -1.0,   149.2)
+  :ff :floppa :fire :speed me 200
+2022-08-05T06:27:22Z: CHRCTER ADDED  [ 3194118486] tiquerdele           (  -20.7,    -1.0,   149.5)
+2022-08-05T06:27:32Z: CHRCTER ADDED  [ 3730337578] alfalfaweo           (  -25.7,    -1.0,   149.5)
+2022-08-05T06:27:36Z: PLAYER REMOVED [ 3730337578] alfalfaweo
+2022-08-05T06:27:42Z: PLAYER ADDED   [ 3536519572] Kimberlynhenriquez
+2022-08-05T06:27:49Z: CHRCTER ADDED  [ 3194118486] tiquerdele           (  -15.7,    -1.0,   149.5)
+2022-08-05T06:27:57Z: PLAYER ADDED   [ 3392162238] Yoanlicor
+2022-08-05T06:28:07Z: PLAYER CHATTED [ 3597538498] yoyoraidel           (  -17.4,    -1.0,   143.5)
+  :floppa :speed me 9999
+2022-08-05T06:28:22Z: PLAYER CHATTED [ 3392162238] Yoanlicor            (  -11.0,    -1.0,   133.8)
+  ####
+2022-08-05T06:28:31Z: PLAYER REMOVED [ 3597538498] yoyoraidel
+2022-08-05T06:28:35Z: CHRCTER ADDED  [ 3536519572] Kimberlynhenriquez   (   -5.7,    -0.9,   149.5)
+2022-08-05T06:28:35Z: PLAYER CHATTED [ 3392162238] Yoanlicor            (  -11.0,    -1.0,   133.8)
+  :speed me 10000
+2022-08-05T06:28:36Z: CHRCTER ADDED  [ 3194118486] tiquerdele           (  -20.7,    -0.9,   149.5)
+2022-08-05T06:28:37Z: PLAYER ADDED   [ 3597538498] yoyoraidel
+2022-08-05T06:28:48Z: CHRCTER ADDED  [ 3392162238] Yoanlicor            (  -10.7,    -0.9,   149.5)
+2022-08-05T06:28:49Z: PLAYER CHATTED [ 3597538498] yoyoraidel           (  -30.7,    -1.0,   149.5)
+  :robot
+2022-08-05T06:28:55Z: PLAYER CHATTED [ 3597538498] yoyoraidel           (  -30.7,    -1.0,   149.5)
+  :invisible
+2022-08-05T06:29:01Z: CHRCTER ADDED  [ 3194118486] tiquerdele           (   -5.7,    -1.0,   149.5)
+2022-08-05T06:29:02Z: CHRCTER ADDED  [ 3536519572] Kimberlynhenriquez   (  -30.7,    -1.0,   149.5)
+2022-08-05T06:29:06Z: PLAYER CHATTED [ 3597538498] yoyoraidel           (  -33.2,    -1.0,   140.9)
+  :invisible
+2022-08-05T06:29:08Z: CHRCTER ADDED  [ 3392162238] Yoanlicor            (   -5.7,    -1.0,   149.5)
+2022-08-05T06:29:17Z: CHRCTER ADDED  [ 3597538498] yoyoraidel           (  -10.7,    -1.0,   149.5)
+2022-08-05T06:29:27Z: PLAYER CHATTED [ 3597538498] yoyoraidel           (  -10.7,    -1.0,   149.5)
+  :invisible yoan
+2022-08-05T06:29:38Z: CHRCTER ADDED  [ 3536519572] Kimberlynhenriquez   (  -30.7,    -1.0,   149.5)
+2022-08-05T06:29:40Z: PLAYER CHATTED [ 3597538498] yoyoraidel           (  -14.2,    -1.0,   146.0)
+  :robot
+2022-08-05T06:29:42Z: CHRCTER ADDED  [ 3194118486] tiquerdele           (  -20.7,    -1.0,   149.5)
+2022-08-05T06:29:45Z: PLAYER CHATTED [ 3597538498] yoyoraidel           (  -14.2,    -1.0,   146.0)
+  :invisible
+2022-08-05T06:29:49Z: CHRCTER ADDED  [ 3392162238] Yoanlicor            (  -20.7,    -1.0,   149.5)
+2022-08-05T06:30:03Z: CHRCTER ADDED  [ 3392162238] Yoanlicor            (  -30.7,    -1.0,   149.5)
+2022-08-05T06:30:03Z: CHRCTER ADDED  [ 3194118486] tiquerdele           (  -20.7,    -0.9,   149.5)
+2022-08-05T06:30:49Z: CHRCTER ADDED  [ 3392162238] Yoanlicor            (  -10.7,    -1.0,   149.5)
+2022-08-05T06:31:00Z: CHRCTER ADDED  [ 3392162238] Yoanlicor            (  -30.7,    -0.9,   149.5)
+2022-08-05T06:31:18Z: CHRCTER ADDED  [ 3597538498] yoyoraidel           (  -30.7,    -1.0,   149.5)
+2022-08-05T06:31:22Z: CHRCTER ADDED  [ 3597538498] yoyoraidel           (  -30.4,    12.0,   147.5)
+2022-08-05T06:31:22Z: PLAYER CHATTED [ 3597538498] yoyoraidel           (  -30.4,    12.0,   147.5)
+  :giant
+2022-08-05T06:31:28Z: CHRCTER ADDED  [ 3194118486] tiquerdele           (  -30.7,    -0.9,   149.5)
+2022-08-05T06:31:34Z: PLAYER REMOVED [ 3558404209] Claudililiat
+2022-08-05T06:31:34Z: CHRCTER ADDED  [ 3597538498] yoyoraidel           (  -10.7,    -0.9,   149.5)
+2022-08-05T06:31:40Z: PLAYER CHATTED [ 3597538498] yoyoraidel           (  -10.7,    -1.0,   149.5)
+  :robot
+2022-08-05T06:31:53Z: PLAYER CHATTED [ 3597538498] yoyoraidel           (  -40.1,    -1.0,   142.5)
+  :invisible
+2022-08-05T06:32:14Z: PLAYER CHATTED [ 3632387439] Santyy_700           (  -74.3,    77.6,   -37.9)
+  ajjaja
+2022-08-05T06:32:52Z: CHRCTER ADDED  [ 3597538498] yoyoraidel           (  -15.7,    -0.9,   149.5)
+2022-08-05T06:32:56Z: PLAYER CHATTED [ 3597538498] yoyoraidel           (  -15.7,    -1.0,   149.5)
+   giant
+2022-08-05T06:33:09Z: CHRCTER ADDED  [ 3597538498] yoyoraidel           (  -20.5,    11.3,   134.4)
+2022-08-05T06:33:24Z: CHRCTER ADDED  [ 3597538498] yoyoraidel           (  -15.7,    -0.9,   149.5)
+2022-08-05T06:33:34Z: CHRCTER ADDED  [ 3194118486] tiquerdele           (  -25.7,    -1.0,   149.5)
+2022-08-05T06:33:37Z: PLAYER CHATTED [ 3597538498] yoyoraidel           (  -15.7,    -1.0,   149.5)
+  :speed me 9999
+2022-08-05T06:33:55Z: CHRCTER ADDED  [ 3194118486] tiquerdele           (  -25.7,    -1.0,   149.5)
+2022-08-05T06:34:16Z: CHRCTER ADDED  [ 3194118486] tiquerdele           (  -20.7,    -1.0,   149.5)
+2022-08-05T06:34:22Z: CHRCTER ADDED  [ 3597538498] yoyoraidel           (  -25.7,    -1.0,   149.5)
+2022-08-05T06:34:30Z: CHRCTER ADDED  [ 3597538498] yoyoraidel           (  -25.7,    12.6,   146.1)
+2022-08-05T06:34:30Z: PLAYER CHATTED [ 3597538498] yoyoraidel           (  -25.7,    12.6,   146.1)
+  :giant
+2022-08-05T06:34:39Z: CHRCTER ADDED  [ 3194118486] tiquerdele           (  -25.7,    -1.0,   149.5)
+2022-08-05T06:34:58Z: CHRCTER ADDED  [ 3597538498] yoyoraidel           (  -20.7,    -0.9,   149.5)
+2022-08-05T06:35:04Z: CHRCTER ADDED  [ 3194118486] tiquerdele           (  -10.7,    -1.0,   149.5)
+2022-08-05T06:35:08Z: CHRCTER ADDED  [ 3392162238] Yoanlicor            (  -30.7,    -1.0,   149.5)
+2022-08-05T06:35:09Z: PLAYER CHATTED [ 3597538498] yoyoraidel           (  -20.7,    -1.0,   149.5)
+  :speed me 1000
+2022-08-05T06:35:30Z: CHRCTER ADDED  [ 3392162238] Yoanlicor            (  -15.7,    -0.9,   149.5)
+2022-08-05T06:35:30Z: CHRCTER ADDED  [ 3597538498] yoyoraidel           (  -25.7,    -0.9,   149.5)
+2022-08-05T06:35:48Z: CHRCTER ADDED  [ 3632387439] Santyy_700           (  -15.7,    -1.0,   149.5)
+2022-08-05T06:35:50Z: PLAYER CHATTED [ 3597538498] yoyoraidel           (  -25.7,    -1.0,   149.5)
+  :Firefox speed me 1000
+2022-08-05T06:36:02Z: PLAYER CHATTED [ 3632387439] Santyy_700           ( -135.2,    -1.0,    94.8)
+  :ff
+2022-08-05T06:36:04Z: PLAYER REMOVED [ 3536519572] Kimberlynhenriquez
+2022-08-05T06:36:10Z: CHRCTER ADDED  [ 3597538498] yoyoraidel           (   -5.7,    -1.0,   149.5)
+2022-08-05T06:36:22Z: CHRCTER ADDED  [ 3632387439] Santyy_700           (  -30.7,    -1.0,   149.5)
+2022-08-05T06:36:33Z: PLAYER ADDED   [ 3770628470] Carlos202540
+2022-08-05T06:36:45Z: PLAYER CHATTED [ 3632387439] Santyy_700           ( -157.0,    -1.0,    97.9)
+  :ff
+2022-08-05T06:36:46Z: CHRCTER ADDED  [ 3597538498] yoyoraidel           (  -30.7,    -1.0,   149.5)
+2022-08-05T06:37:01Z: CHRCTER ADDED  [ 3392162238] Yoanlicor            (   -5.7,    -1.0,   149.5)
+2022-08-05T06:37:03Z: CHRCTER ADDED  [ 3632387439] Santyy_700           (  -10.8,    -1.0,   149.5)
+2022-08-05T06:37:46Z: CHRCTER ADDED  [ 3632387439] Santyy_700           (  -20.7,    -1.0,   149.5)
+2022-08-05T06:37:52Z: CHRCTER ADDED  [ 3597538498] yoyoraidel           (  -30.7,    -1.0,   149.5)
+2022-08-05T06:37:53Z: PLAYER CHATTED [ 3632387439] Santyy_700           (  -32.1,    -0.2,   130.7)
+  :ff
+2022-08-05T06:38:14Z: CHRCTER ADDED  [ 3597538498] yoyoraidel           (  -10.7,    -1.0,   149.5)
+2022-08-05T06:38:16Z: PLAYER CHATTED [ 3632387439] Santyy_700           (  -32.1,    -0.2,   130.7)
+  :inmortal
+2022-08-05T06:38:17Z: PLAYER CHATTED [ 3597538498] yoyoraidel           (  -10.7,    -1.0,   149.5)
+  :im am daddy
+2022-08-05T06:38:26Z: CHRCTER ADDED  [ 3770628470] Carlos202540         (  -10.7,    -1.0,   149.5)
+2022-08-05T06:38:33Z: PLAYER CHATTED [ 3597538498] yoyoraidel           (  -73.7,    -1.0,   136.5)
+  :m im Diddy well
+2022-08-05T06:38:49Z: CHRCTER ADDED  [ 3597538498] yoyoraidel           (   -5.7,    -1.0,   149.5)
+2022-08-05T06:38:56Z: CHRCTER ADDED  [ 3597538498] yoyoraidel           (   -4.6,    12.7,   146.4)
+2022-08-05T06:38:56Z: PLAYER CHATTED [ 3597538498] yoyoraidel           (   -4.6,    12.7,   146.4)
+  :giant
+2022-08-05T06:39:24Z: CHRCTER ADDED  [ 3770628470] Carlos202540         (  -15.7,    -1.0,   149.5)
+2022-08-05T06:39:24Z: PLAYER REMOVED [ 3194118486] tiquerdele
+2022-08-05T06:39:25Z: CHRCTER ADDED  [ 3597538498] yoyoraidel           (  -25.7,    -0.9,   149.5)
+2022-08-05T06:39:30Z: CHRCTER ADDED  [ 3632387439] Santyy_700           (  -20.7,    -1.0,   149.5)
+2022-08-05T06:39:52Z: PLAYER ADDED   [ 1574180356] yossyrr
+2022-08-05T06:39:57Z: PLAYER CHATTED [ 3597538498] yoyoraidel           (  -25.7,    -1.0,   149.5)
+  :m im goosebumps is halowwn laught
+2022-08-05T06:40:01Z: PLAYER CHATTED [ 3632387439] Santyy_700          
+  XD
+2022-08-05T06:40:01Z: CHRCTER ADDED  [ 3632387439] Santyy_700           (  -15.7,    -1.0,   149.5)
+2022-08-05T06:40:09Z: CHRCTER ADDED  [ 3597538498] yoyoraidel           (  -30.7,    -1.0,   149.5)
+2022-08-05T06:40:15Z: CHRCTER ADDED  [ 1574180356] yossyrr              (  -20.7,    -1.0,   149.5)
+2022-08-05T06:40:15Z: CHRCTER ADDED  [ 3770628470] Carlos202540         (  -30.7,    -1.0,   149.5)
+2022-08-05T06:40:19Z: PLAYER REMOVED [ 3770628470] Carlos202540
+2022-08-05T06:40:25Z: PLAYER ADDED   [ 1215881812] vills16
+2022-08-05T06:40:26Z: PLAYER CHATTED [ 3597538498] yoyoraidel           (  -34.1,    -1.0,   148.3)
+  :jail yoan
+2022-08-05T06:40:36Z: CHRCTER ADDED  [ 3632387439] Santyy_700           (  -32.1,    -1.2,   130.7)
+2022-08-05T06:40:45Z: PLAYER CHATTED [ 3597538498] yoyoraidel           ( -175.8,    -1.0,    35.6)
+  :ice yoan
+2022-08-05T06:40:46Z: PLAYER CHATTED [ 3632387439] Santyy_700           (  -31.8,    -0.2,   130.8)
+  :gigant
+2022-08-05T06:41:02Z: PLAYER CHATTED [ 3597538498] yoyoraidel           ( -175.8,    -1.0,    35.6)
+  :unjail yoan
+2022-08-05T06:41:08Z: CHRCTER ADDED  [ 1215881812] vills16              (  -20.7,    -1.0,   149.5)
+2022-08-05T06:41:13Z: PLAYER REMOVED [ 3392162238] Yoanlicor
+2022-08-05T06:41:13Z: PLAYER ADDED   [ 2700473482] KIDFLASH240213
+2022-08-05T06:41:16Z: PLAYER REMOVED [ 3597538498] yoyoraidel
+2022-08-05T06:41:17Z: PLAYER CHATTED [ 3632387439] Santyy_700           (  -31.8,    -0.2,   130.8)
+  :control
+2022-08-05T06:41:28Z: PLAYER CHATTED [ 3632387439] Santyy_700           (  -31.8,    -0.2,   130.8)
+  :feeze
+2022-08-05T06:41:37Z: CHRCTER ADDED  [ 1215881812] vills16              (  -10.7,    -1.0,   149.5)
+2022-08-05T06:41:43Z: PLAYER ADDED   [  863287743] Capimonot9
+2022-08-05T06:41:45Z: PLAYER CHATTED [ 3632387439] Santyy_700           (  -31.5,    -0.2,   130.2)
+  :Diono
+2022-08-05T06:41:56Z: PLAYER CHATTED [ 3632387439] Santyy_700          
+  :sñares
+2022-08-05T06:41:58Z: CHRCTER ADDED  [ 3632387439] Santyy_700           (  -25.7,    -1.0,   149.5)
+2022-08-05T06:42:32Z: CHRCTER ADDED  [ 3632387439] Santyy_700           (  -15.7,    -1.0,   149.5)
+2022-08-05T06:42:41Z: CHRCTER ADDED  [ 1574180356] yossyrr              (  -25.7,    -1.0,   149.5)
+2022-08-05T06:43:13Z: CHRCTER ADDED  [ 3632387439] Santyy_700           (  -10.7,    -0.9,   149.5)
+2022-08-05T06:43:23Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-08-05T06:43:23Z: PLAYER REMOVED [ 3632387439] Santyy_700
+2022-08-05T06:43:23Z: PLAYER REMOVED [ 1574180356] yossyrr
+2022-08-05T06:43:23Z: PLAYER REMOVED [ 1215881812] vills16
+2022-08-05T06:43:23Z: PLAYER REMOVED [ 2700473482] KIDFLASH240213
+2022-08-05T06:43:23Z: PLAYER REMOVED [  863287743] Capimonot9

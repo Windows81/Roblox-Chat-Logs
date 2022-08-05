@@ -1,0 +1,207 @@
+[    1630228] : [ 4522347649] [FREE ADMIN] - a7001ca0-c5ba-45d6-8330-18deb54ca938
+2022-08-05T06:44:45Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-08-05T06:44:45Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-08-05T06:44:45Z: PLAYER ADDED   [ 1387679937] hikih05
+2022-08-05T06:44:45Z: PLAYER ADDED   [ 3519098037] Egooor_56709
+2022-08-05T06:44:45Z: PLAYER ADDED   [ 3357513631] gyygygyyyy
+2022-08-05T06:44:45Z: PLAYER ADDED   [ 1409118020] LeviRodenboog
+2022-08-05T06:44:45Z: PLAYER ADDED   [ 2037400764] abab8b
+2022-08-05T06:44:45Z: PLAYER ADDED   [ 3422276398] conqueror1358
+2022-08-05T06:44:45Z: PLAYER ADDED   [ 2351899837] DominykasViktorija
+2022-08-05T06:44:57Z: CHRCTER ADDED  [ 2037400764] abab8b               (  -20.7,    -1.0,   149.5)
+2022-08-05T06:44:58Z: CHRCTER ADDED  [ 2351899837] DominykasViktorija   (   -5.7,    -1.0,   149.5)
+2022-08-05T06:45:01Z: CHRCTER ADDED  [ 3357513631] gyygygyyyy           (   -5.7,    -1.0,   149.5)
+2022-08-05T06:45:10Z: CHRCTER ADDED  [ 3422276398] conqueror1358        (   -5.7,    -1.0,   149.5)
+2022-08-05T06:45:12Z: CHRCTER ADDED  [ 1387679937] hikih05              (   -5.7,    -1.0,   149.5)
+2022-08-05T06:45:17Z: CHRCTER ADDED  [ 3519098037] Egooor_56709         (  -15.7,    -1.0,   149.5)
+2022-08-05T06:45:23Z: CHRCTER ADDED  [ 2351899837] DominykasViktorija   (  -10.7,    -1.0,   149.5)
+2022-08-05T06:45:24Z: PLAYER CHATTED [ 1387679937] hikih05              (  -17.0,     2.1,    29.9)
+  :ff 
+2022-08-05T06:45:43Z: CHRCTER ADDED  [ 1387679937] hikih05              (  -15.7,    -1.0,   149.5)
+2022-08-05T06:45:47Z: CHRCTER ADDED  [ 3422276398] conqueror1358        (  -20.7,    -1.0,   149.5)
+2022-08-05T06:45:50Z: CHRCTER ADDED  [ 3519098037] Egooor_56709         (   -5.7,    -1.0,   149.5)
+2022-08-05T06:45:55Z: PLAYER CHATTED [ 1387679937] hikih05              (  -79.0,    -1.0,   120.6)
+  :2
+2022-08-05T06:46:00Z: PLAYER CHATTED [ 1387679937] hikih05              (  -79.0,    -1.0,   120.6)
+  :ff 
+2022-08-05T06:46:03Z: PLAYER CHATTED [ 1387679937] hikih05              (  -79.0,    -1.0,   120.6)
+  :NOOB 
+2022-08-05T06:46:13Z: CHRCTER ADDED  [ 1409118020] LeviRodenboog        (  -25.7,    -1.0,   149.5)
+2022-08-05T06:46:18Z: CHRCTER ADDED  [ 3422276398] conqueror1358        (  -25.7,    -1.0,   149.5)
+2022-08-05T06:46:29Z: CHRCTER ADDED  [ 1387679937] hikih05              (  -79.0,    -1.0,   120.6)
+2022-08-05T06:46:29Z: PLAYER CHATTED [ 1387679937] hikih05              (  -79.0,    -1.0,   120.6)
+  :fat 
+2022-08-05T06:46:47Z: CHRCTER ADDED  [ 3519098037] Egooor_56709         (  -25.7,    -0.9,   149.5)
+2022-08-05T06:46:54Z: CHRCTER ADDED  [ 1387679937] hikih05              (  -75.3,    -1.0,   118.9)
+2022-08-05T06:46:54Z: PLAYER CHATTED [ 1387679937] hikih05              (  -75.3,    -1.0,   118.9)
+  :fat 
+2022-08-05T06:47:08Z: PLAYER CHATTED [ 1409118020] LeviRodenboog        (   -3.2,    -1.0,    59.4)
+  FF HIKIH05
+2022-08-05T06:47:09Z: PLAYER CHATTED [ 1387679937] hikih05              ( -395.5,    -2.7,  -341.6)
+  :NOOB 
+2022-08-05T06:47:10Z: CHRCTER ADDED  [ 3519098037] Egooor_56709         (  -10.7,    -0.9,   149.5)
+2022-08-05T06:47:25Z: PLAYER REMOVED [ 1409118020] LeviRodenboog
+2022-08-05T06:47:28Z: PLAYER CHATTED [ 1387679937] hikih05              ( -395.5,    -2.7,  -341.6)
+  ;)
+2022-08-05T06:47:30Z: PLAYER ADDED   [ 3369096841] Natsugodmod
+2022-08-05T06:47:39Z: PLAYER CHATTED [ 1387679937] hikih05              ( -395.5,    -2.7,  -341.6)
+  Что за дичь
+2022-08-05T06:47:39Z: CHRCTER ADDED  [ 3519098037] Egooor_56709         (   -5.7,    -1.0,   149.5)
+2022-08-05T06:48:03Z: PLAYER CHATTED [ 1387679937] hikih05              ( -395.5,    -2.7,  -341.6)
+  :poop Levi
+2022-08-05T06:48:12Z: CHRCTER ADDED  [ 3422276398] conqueror1358        (  -10.7,    -1.0,   149.5)
+2022-08-05T06:48:22Z: PLAYER REMOVED [ 3357513631] gyygygyyyy
+2022-08-05T06:48:29Z: PLAYER CHATTED [ 1387679937] hikih05              ( -395.5,    -2.7,  -341.6)
+  LOL
+2022-08-05T06:48:30Z: CHRCTER ADDED  [ 3369096841] Natsugodmod          (   -5.7,    -1.0,   149.5)
+2022-08-05T06:48:33Z: PLAYER ADDED   [ 3575536556] sinan2121_kara
+2022-08-05T06:48:40Z: CHRCTER ADDED  [ 1387679937] hikih05              ( -395.7,    -1.9,  -341.9)
+2022-08-05T06:48:40Z: PLAYER CHATTED [ 1387679937] hikih05              ( -395.7,    -1.9,  -341.9)
+  :fat 
+2022-08-05T06:48:45Z: PLAYER CHATTED [ 1387679937] hikih05              ( -395.7,    -1.1,  -341.9)
+  :ff 
+2022-08-05T06:48:51Z: CHRCTER ADDED  [ 2037400764] abab8b               (  -20.7,    -1.0,   149.5)
+2022-08-05T06:49:02Z: CHRCTER ADDED  [ 1387679937] hikih05              ( -395.7,    -1.1,  -341.9)
+2022-08-05T06:49:02Z: PLAYER CHATTED [ 1387679937] hikih05              ( -395.7,    -1.1,  -341.9)
+  :fat 
+2022-08-05T06:49:12Z: PLAYER CHATTED [ 1387679937] hikih05              ( -355.4,    20.5,  -348.7)
+  :ff 
+2022-08-05T06:49:17Z: CHRCTER ADDED  [ 2037400764] abab8b               (  -10.7,    -1.0,   149.5)
+2022-08-05T06:49:20Z: PLAYER CHATTED [ 1387679937] hikih05              ( -355.4,    20.5,  -348.7)
+  ?
+2022-08-05T06:49:32Z: PLAYER CHATTED [ 1387679937] hikih05              ( -355.4,    20.5,  -348.7)
+  Lol
+2022-08-05T06:49:40Z: PLAYER CHATTED [ 1387679937] hikih05              ( -355.4,    20.5,  -348.7)
+  :NOOB 
+2022-08-05T06:49:54Z: CHRCTER ADDED  [ 2037400764] abab8b               (  -25.7,    -1.0,   149.5)
+2022-08-05T06:50:00Z: CHRCTER ADDED  [ 1387679937] hikih05              (  -20.7,    -0.9,   149.5)
+2022-08-05T06:50:12Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  -25.7,    -0.9,   149.5)
+2022-08-05T06:50:16Z: PLAYER CHATTED [ 1387679937] hikih05              (  -20.7,    -1.0,   149.5)
+  :kill vi
+2022-08-05T06:50:24Z: PLAYER CHATTED [ 1387679937] hikih05              (  -24.1,    -1.0,   132.6)
+  ;fly 
+2022-08-05T06:50:29Z: PLAYER CHATTED [ 1387679937] hikih05              (  -24.1,    -1.0,   132.6)
+  :ff 
+2022-08-05T06:50:30Z: CHRCTER ADDED  [ 2351899837] DominykasViktorija   (  -15.7,    -1.0,   149.5)
+2022-08-05T06:50:32Z: PLAYER REMOVED [ 2351899837] DominykasViktorija
+2022-08-05T06:50:46Z: CHRCTER ADDED  [ 3422276398] conqueror1358        (  -30.7,    -1.0,   149.5)
+2022-08-05T06:50:53Z: CHRCTER ADDED  [ 3575536556] sinan2121_kara       (  -30.7,    -1.0,   149.5)
+2022-08-05T06:50:58Z: CHRCTER ADDED  [ 3519098037] Egooor_56709         (   -5.7,    -1.0,   149.5)
+2022-08-05T06:51:02Z: CHRCTER ADDED  [ 2037400764] abab8b               (  -20.7,    -1.0,   149.5)
+2022-08-05T06:51:21Z: PLAYER CHATTED [ 1387679937] hikih05              ( -349.6,    82.3,  -159.9)
+  виза Зачем ты это делаешь
+2022-08-05T06:51:27Z: CHRCTER ADDED  [ 1387679937] hikih05              (  -20.7,    -1.0,   149.5)
+2022-08-05T06:51:27Z: CHRCTER ADDED  [ 2037400764] abab8b               (  -15.7,    -1.0,   149.5)
+2022-08-05T06:51:48Z: CHRCTER ADDED  [ 2037400764] abab8b               (  -20.7,    -1.0,   149.5)
+2022-08-05T06:51:49Z: CHRCTER ADDED  [ 3575536556] sinan2121_kara       (  -20.7,     4.1,   149.5)
+2022-08-05T06:51:49Z: CHRCTER ADDED  [ 3519098037] Egooor_56709         (   -5.7,    -1.0,   149.5)
+2022-08-05T06:51:49Z: CHRCTER ADDED  [ 3422276398] conqueror1358        (  -15.7,    -1.0,   149.5)
+2022-08-05T06:51:53Z: PLAYER CHATTED [ 1387679937] hikih05              ( 2125.2,  1559.2,   -96.8)
+  :ff 
+2022-08-05T06:51:54Z: PLAYER REMOVED [ 3519098037] Egooor_56709
+2022-08-05T06:52:12Z: CHRCTER ADDED  [ 3422276398] conqueror1358        (   -5.7,    -1.0,   149.5)
+2022-08-05T06:52:21Z: PLAYER REMOVED [ 3422276398] conqueror1358
+2022-08-05T06:52:22Z: PLAYER CHATTED [ 1387679937] hikih05              ( 2503.4,  6414.6,   364.7)
+  ХАХ
+2022-08-05T06:52:29Z: PLAYER CHATTED [ 3575536556] sinan2121_kara       (  -20.7,    -1.0,   149.5)
+  :poop ########
+2022-08-05T06:52:31Z: PLAYER CHATTED [ 1387679937] hikih05              ( 2503.4,  6414.6,   364.7)
+  HAH
+2022-08-05T06:52:38Z: CHRCTER ADDED  [ 3575536556] sinan2121_kara       (  -30.7,    -1.0,   149.5)
+2022-08-05T06:52:40Z: PLAYER ADDED   [ 3759690163] otchim_283
+2022-08-05T06:52:41Z: PLAYER CHATTED [ 1387679937] hikih05              ( 2503.4,  6414.6,   364.7)
+  засками ли мамонта
+2022-08-05T06:52:50Z: PLAYER CHATTED [ 1387679937] hikih05              ( 2503.4,  6414.6,   364.7)
+  Ты просто нулёвый чел
+2022-08-05T06:53:02Z: CHRCTER ADDED  [ 3759690163] otchim_283           (  -20.7,    -1.0,   149.5)
+2022-08-05T06:53:02Z: PLAYER CHATTED [ 1387679937] hikih05              ( 2503.4,  6414.6,   364.7)
+  HAH
+2022-08-05T06:53:07Z: CHRCTER ADDED  [ 3575536556] sinan2121_kara       (  -25.7,    -1.0,   149.5)
+2022-08-05T06:53:19Z: PLAYER ADDED   [ 3575534463] ahmet_2121kara
+2022-08-05T06:53:22Z: PLAYER CHATTED [ 3575536556] sinan2121_kara       (  -25.7,    -1.0,   149.5)
+   :poop Levi 
+2022-08-05T06:53:27Z: CHRCTER ADDED  [ 3759690163] otchim_283           (  -10.7,    -1.0,   149.5)
+2022-08-05T06:53:30Z: CHRCTER ADDED  [ 1387679937] hikih05              (  -30.7,    -1.0,   149.5)
+2022-08-05T06:53:38Z: PLAYER CHATTED [ 1387679937] hikih05              (  -30.7,     2.8,   149.5)
+  Лиза Зачем ты это делаешь
+2022-08-05T06:53:46Z: CHRCTER ADDED  [ 3369096841] Natsugodmod          (  -10.7,    -1.0,   149.5)
+2022-08-05T06:53:47Z: CHRCTER ADDED  [ 1387679937] hikih05              (  -10.7,     2.7,   149.5)
+2022-08-05T06:54:04Z: PLAYER ADDED   [ 3483478264] bilaloyundart
+2022-08-05T06:54:14Z: CHRCTER ADDED  [ 3759690163] otchim_283           (  -10.7,     2.0,   149.5)
+2022-08-05T06:54:18Z: CHRCTER ADDED  [ 3575534463] ahmet_2121kara       (   -5.7,    -1.0,   149.5)
+2022-08-05T06:54:18Z: CHRCTER ADDED  [ 3575536556] sinan2121_kara       (  -30.7,    -1.0,   149.5)
+2022-08-05T06:54:19Z: CHRCTER ADDED  [ 1387679937] hikih05              (  -10.7,    -1.0,   149.5)
+2022-08-05T06:54:22Z: PLAYER CHATTED [ 1387679937] hikih05              (  -10.7,    -1.0,   149.5)
+  :ff 
+2022-08-05T06:54:33Z: PLAYER CHATTED [ 1387679937] hikih05              (  -60.9,    -1.9,   134.1)
+  Зачем ты это делаешь
+2022-08-05T06:54:34Z: CHRCTER ADDED  [ 3369096841] Natsugodmod          (  -10.7,    -1.0,   149.5)
+2022-08-05T06:54:35Z: CHRCTER ADDED  [ 2037400764] abab8b               (  -30.7,    -1.0,   149.5)
+2022-08-05T06:54:35Z: CHRCTER ADDED  [ 3483478264] bilaloyundart        (  -20.7,    -1.0,   149.5)
+2022-08-05T06:54:42Z: CHRCTER ADDED  [ 3575536556] sinan2121_kara       (  -10.7,    -1.0,   149.5)
+2022-08-05T06:54:43Z: CHRCTER ADDED  [ 1387679937] hikih05              (  -20.7,    -1.0,   149.5)
+2022-08-05T06:54:44Z: CHRCTER ADDED  [ 3483478264] bilaloyundart        (  -30.7,    -1.0,   149.5)
+2022-08-05T06:54:45Z: CHRCTER ADDED  [ 2037400764] abab8b               (  -20.7,     3.1,   149.5)
+2022-08-05T06:54:53Z: CHRCTER ADDED  [ 3369096841] Natsugodmod          (   -5.7,    -1.0,   149.5)
+2022-08-05T06:55:03Z: CHRCTER ADDED  [ 1387679937] hikih05              (  -20.7,    -1.0,   149.5)
+2022-08-05T06:55:09Z: PLAYER CHATTED [ 3575536556] sinan2121_kara       (  -10.7,    -1.0,   149.5)
+  :poop ahmet_ 2121karra 
+2022-08-05T06:55:12Z: CHRCTER ADDED  [ 2037400764] abab8b               (  -10.7,    -1.0,   149.5)
+2022-08-05T06:55:15Z: CHRCTER ADDED  [ 1387679937] hikih05              (   -5.7,    -0.9,   149.5)
+2022-08-05T06:55:15Z: CHRCTER ADDED  [ 3369096841] Natsugodmod          (  -20.7,    -1.0,   149.5)
+2022-08-05T06:55:20Z: PLAYER REMOVED [ 3369096841] Natsugodmod
+2022-08-05T06:55:24Z: CHRCTER ADDED  [ 1387679937] hikih05              (  -15.7,    -0.9,   149.5)
+2022-08-05T06:55:31Z: CHRCTER ADDED  [ 1387679937] hikih05              (   -5.7,    -0.9,   149.5)
+2022-08-05T06:55:41Z: CHRCTER ADDED  [ 3759690163] otchim_283           (  -10.7,    -1.0,   149.5)
+2022-08-05T06:55:51Z: CHRCTER ADDED  [ 3575536556] sinan2121_kara       (  -30.7,     7.8,   149.5)
+2022-08-05T06:55:53Z: PLAYER CHATTED [ 3575536556] sinan2121_kara       (  -30.7,    -1.0,   149.5)
+  :fly 
+2022-08-05T06:55:53Z: CHRCTER ADDED  [ 3575534463] ahmet_2121kara       (  -20.7,    -0.9,   149.5)
+2022-08-05T06:56:02Z: CHRCTER ADDED  [ 3483478264] bilaloyundart        (  -25.7,    -1.0,   149.5)
+2022-08-05T06:56:11Z: PLAYER CHATTED [ 1387679937] hikih05              (-2858.4,  1307.2, -2506.6)
+  какой ты там террорист
+2022-08-05T06:56:15Z: PLAYER CHATTED [ 3575534463] ahmet_2121kara       (  -11.9,     0.9,   100.7)
+  :fly
+2022-08-05T06:56:17Z: CHRCTER ADDED  [ 2037400764] abab8b               (  -15.7,    -1.0,   149.5)
+2022-08-05T06:56:23Z: PLAYER CHATTED [ 1387679937] hikih05              (-2858.4,  1307.2, -2506.6)
+  максимум игрок в roblox
+2022-08-05T06:56:41Z: CHRCTER ADDED  [ 2037400764] abab8b               (  -10.7,    -1.0,   149.5)
+2022-08-05T06:56:41Z: CHRCTER ADDED  [ 1387679937] hikih05              (  -30.7,    -0.9,   149.5)
+2022-08-05T06:56:44Z: CHRCTER ADDED  [ 3575534463] ahmet_2121kara       (  -15.7,    -0.9,   149.5)
+2022-08-05T06:56:55Z: PLAYER CHATTED [ 1387679937] hikih05              (  -32.8,    -3.0,   144.6)
+  ОК 
+2022-08-05T06:57:11Z: CHRCTER ADDED  [ 2037400764] abab8b               (  -10.7,    -0.9,   149.5)
+2022-08-05T06:57:22Z: CHRCTER ADDED  [ 1387679937] hikih05              ( 8079.9, 16745.2, -11157.8)
+2022-08-05T06:57:22Z: PLAYER CHATTED [ 1387679937] hikih05              ( 8079.9, 16745.2, -11157.8)
+  :fat 
+2022-08-05T06:57:22Z: PLAYER CHATTED [ 3575534463] ahmet_2121kara       (  -15.7,    -3.0,   149.5)
+  ##########################
+2022-08-05T06:57:22Z: CHRCTER ADDED  [ 3759690163] otchim_283           (   -5.7,    -0.9,   149.5)
+2022-08-05T06:57:32Z: CHRCTER ADDED  [ 1387679937] hikih05              (  -15.7,    -0.0,   149.5)
+2022-08-05T06:57:34Z: PLAYER CHATTED [ 1387679937] hikih05              (  -15.7,     4.5,   149.5)
+  ой
+2022-08-05T06:57:37Z: CHRCTER ADDED  [ 3575534463] ahmet_2121kara       (  -15.7,    -1.0,   149.5)
+2022-08-05T06:57:40Z: PLAYER CHATTED [ 3759690163] otchim_283           (  -32.2,    -1.0,   154.4)
+  ;freeze bila
+2022-08-05T06:57:43Z: PLAYER CHATTED [ 1387679937] hikih05              (   18.0,    16.2,   155.3)
+  сам себя убил
+2022-08-05T06:57:49Z: PLAYER REMOVED [ 3575534463] ahmet_2121kara
+2022-08-05T06:57:50Z: CHRCTER ADDED  [ 2037400764] abab8b               (  -15.7,    -1.0,   149.5)
+2022-08-05T06:57:55Z: PLAYER CHATTED [ 1387679937] hikih05              ( -681.2,   653.0, -1466.3)
+  :ff 
+2022-08-05T06:58:00Z: CHRCTER ADDED  [ 1387679937] hikih05              (  -30.7,    -0.9,   149.5)
+2022-08-05T06:58:06Z: CHRCTER ADDED  [ 3483478264] bilaloyundart        (  -10.7,    -1.0,   149.5)
+2022-08-05T06:58:07Z: CHRCTER ADDED  [ 3759690163] otchim_283           (  -25.7,    -1.0,   149.5)
+2022-08-05T06:58:08Z: PLAYER CHATTED [ 1387679937] hikih05              (  -30.7,    -3.0,   149.5)
+  опять сам себя убил
+2022-08-05T06:58:20Z: PLAYER CHATTED [ 1387679937] hikih05              (  -45.5,    -3.0,   140.0)
+  :ff 
+2022-08-05T06:58:42Z: PLAYER CHATTED [ 1387679937] hikih05              (  -45.5,    -3.0,   140.0)
+  Ты любишь undertale или credibox
+2022-08-05T06:58:47Z: PLAYER ADDED   [ 3575534463] ahmet_2121kara
+2022-08-05T06:58:56Z: CHRCTER ADDED  [ 3759690163] otchim_283           (  -15.7,    -0.9,   149.5)
+2022-08-05T06:58:57Z: CHRCTER ADDED  [ 3483478264] bilaloyundart        (   -5.7,    -1.0,   149.5)
+2022-08-05T06:59:12Z: CHRCTER ADDED  [ 2037400764] abab8b               (  -30.7,    -1.0,   149.5)
+2022-08-05T06:59:19Z: PLAYER CHATTED [ 3575536556] sinan2121_kara       ( -126.8,    -3.0,  -108.3)
+  :poop ahmet_2121kara
+2022-08-05T06:59:31Z: PLAYER REMOVED [    1630228] VisualPlugin
