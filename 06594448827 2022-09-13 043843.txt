@@ -1,0 +1,70 @@
+[    1630228] : [ 6594448827] Alien Attack [Queue] - 18fcd7fe-c061-4b20-879f-90c9ba2d6836
+2022-09-13T04:38:43Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-09-13T04:38:43Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-09-13T04:38:43Z: PLAYER ADDED   [   37379044] slvyy
+2022-09-13T04:38:43Z: PLAYER ADDED   [    3142254] HydeWars
+2022-09-13T04:38:43Z: PLAYER ADDED   [   21695083] Cinistry
+2022-09-13T04:38:43Z: PLAYER ADDED   [ 2674340880] exstzzz
+2022-09-13T04:38:43Z: PLAYER ADDED   [   16402405] Shrpn
+2022-09-13T04:38:43Z: PLAYER ADDED   [   15229625] DeluxeDreams
+2022-09-13T04:39:13Z: PLAYER CHATTED [    3142254] HydeWars             (   -7.1,     3.3,  -122.5)
+  yes
+2022-09-13T04:39:18Z: PLAYER CHATTED [    3142254] HydeWars             (   -7.5,     3.3,  -127.0)
+  he a silly goose fr
+2022-09-13T04:39:27Z: PLAYER CHATTED [    3142254] HydeWars             (   -7.5,     3.3,  -128.5)
+  LOL
+2022-09-13T04:39:32Z: PLAYER CHATTED [    3142254] HydeWars             (   -6.1,     3.3,  -128.5)
+  fre
+2022-09-13T04:39:36Z: PLAYER CHATTED [    3142254] HydeWars             (   -7.6,     3.3,  -128.2)
+  we bump 
+2022-09-13T04:40:05Z: PLAYER CHATTED [   16402405] Shrpn                (   -6.1,     3.4,  -152.5)
+  Finna be a dance party
+2022-09-13T04:40:45Z: PLAYER CHATTED [    3142254] HydeWars             (   -3.7,     3.4,  -150.8)
+  LOL
+2022-09-13T04:40:59Z: PLAYER ADDED   [ 2299434678] Kamron09t
+2022-09-13T04:41:02Z: PLAYER CHATTED [   21695083] Cinistry             (   -1.8,     3.4,  -176.5)
+  this ride ### is so fun tho
+2022-09-13T04:41:04Z: PLAYER CHATTED [   21695083] Cinistry             (   -3.9,     3.4,  -177.1)
+  ngl
+2022-09-13T04:41:13Z: PLAYER ADDED   [ 3560854525] ilazxnayy
+2022-09-13T04:41:30Z: PLAYER ADDED   [ 1653905978] lovellf3
+2022-09-13T04:41:35Z: PLAYER CHATTED [    3142254] HydeWars             (   55.1,     3.4,  -217.2)
+  LOL
+2022-09-13T04:41:36Z: PLAYER CHATTED [    3142254] HydeWars             (   28.5,     3.4,  -228.7)
+  he with the boys
+2022-09-13T04:41:46Z: PLAYER CHATTED [    3142254] HydeWars            
+  we in line fr?
+2022-09-13T04:41:54Z: PLAYER CHATTED [   16402405] Shrpn               
+  Your tail be tickling me
+2022-09-13T04:42:05Z: PLAYER CHATTED [ 1653905978] lovellf3             (   -5.1,     3.3,  -128.4)
+  dang
+2022-09-13T04:42:11Z: PLAYER CHATTED [   37379044] slvyy               
+  aint no ### #### dressed as a woman..
+2022-09-13T04:42:14Z: PLAYER CHATTED [   37379044] slvyy               
+  way
+2022-09-13T04:42:15Z: PLAYER CHATTED [   37379044] slvyy               
+  ####
+2022-09-13T04:42:22Z: PLAYER CHATTED [   37379044] slvyy               
+  ##################
+2022-09-13T04:42:28Z: PLAYER CHATTED [ 2674340880] exstzzz             
+  LOL
+2022-09-13T04:42:32Z: CHRCTER ADDED  [ 2674340880] exstzzz              (    3.9,     5.5,  -361.1)
+2022-09-13T04:42:37Z: PLAYER CHATTED [    3142254] HydeWars            
+  ## ## #### ##### house
+2022-09-13T04:42:46Z: PLAYER CHATTED [    3142254] HydeWars            
+  LOL
+2022-09-13T04:42:53Z: CHRCTER ADDED  [    3142254] HydeWars             (    3.9,     5.5,  -361.1)
+2022-09-13T04:43:03Z: PLAYER REMOVED [    3142254] HydeWars
+2022-09-13T04:43:12Z: PLAYER CHATTED [ 2674340880] exstzzz              (    7.1,     3.4,  -359.2)
+  HYDE
+2022-09-13T04:43:13Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    3.9,     5.5,  -361.1)
+2022-09-13T04:43:14Z: PLAYER CHATTED [   37379044] slvyy               
+  visual
+2022-09-13T04:43:17Z: PLAYER CHATTED [   37379044] slvyy               
+  tell hyde 
+2022-09-13T04:43:20Z: PLAYER CHATTED [   37379044] slvyy               
+  ####################
+2022-09-13T04:43:23Z: PLAYER CHATTED [   37379044] slvyy               
+  for me
+2022-09-13T04:43:32Z: CHRCTER ADDED  [   16402405] Shrpn                (    3.9,     5.5,  -361.1)
+2022-09-13T04:43:39Z: PLAYER REMOVED [    1630228] VisualPlugin

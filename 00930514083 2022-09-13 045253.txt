@@ -1,0 +1,290 @@
+[    1630228] : [  930514083] Jurassic Kingdom: Discovery Center - 13c0a21a-35f7-4338-8cc3-311237ab2639
+2022-09-13T04:52:53Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-09-13T04:52:53Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-09-13T04:52:53Z: PLAYER ADDED   [   72376517] DocSmiley113
+2022-09-13T04:52:53Z: PLAYER ADDED   [ 1429979495] HaP4l07
+2022-09-13T04:52:53Z: PLAYER ADDED   [ 1643965455] SillySallythecook645
+2022-09-13T04:52:53Z: PLAYER ADDED   [ 1983158674] 28Monkey13
+2022-09-13T04:52:53Z: PLAYER ADDED   [  116766071] chingwrld
+2022-09-13T04:52:53Z: PLAYER ADDED   [ 2674340880] exstzzz
+2022-09-13T04:52:53Z: PLAYER ADDED   [  316776316] EllenRoach1
+2022-09-13T04:52:53Z: PLAYER ADDED   [  394631851] az90yadude
+2022-09-13T04:52:53Z: PLAYER ADDED   [ 1130807371] ttv_klutchbtw
+2022-09-13T04:52:53Z: PLAYER ADDED   [ 2728561765] fletcherman990
+2022-09-13T04:52:53Z: PLAYER ADDED   [  179855410] Dry_HA9RT
+2022-09-13T04:52:53Z: PLAYER ADDED   [  364531526] vZ0rx
+2022-09-13T04:52:53Z: PLAYER ADDED   [ 1762922011] Mrssnowwolf22
+2022-09-13T04:52:53Z: PLAYER ADDED   [ 2588541354] FunGamer10140
+2022-09-13T04:52:53Z: PLAYER ADDED   [ 1569506744] catlover005t
+2022-09-13T04:52:53Z: PLAYER ADDED   [ 3815207588] sepaiderman237R
+2022-09-13T04:52:53Z: PLAYER ADDED   [  165437855] sleeplessSoul
+2022-09-13T04:52:53Z: PLAYER ADDED   [    3142254] HydeWars
+2022-09-13T04:52:53Z: PLAYER ADDED   [   37379044] slvyy
+2022-09-13T04:52:53Z: PLAYER ADDED   [   16402405] Shrpn
+2022-09-13T04:52:53Z: PLAYER ADDED   [   21695083] Cinistry
+2022-09-13T04:52:53Z: PLAYER ADDED   [   15229625] DeluxeDreams
+2022-09-13T04:52:57Z: PLAYER CHATTED [ 2728561765] fletcherman990       (  316.0,    14.3,  -179.7)
+  ya
+2022-09-13T04:53:05Z: PLAYER CHATTED [ 1429979495] HaP4l07              (  315.6,    14.3,  -180.5)
+  W
+2022-09-13T04:53:05Z: PLAYER CHATTED [  316776316] EllenRoach1          (  285.3,    43.1,  -131.1)
+  im getting dizzy
+2022-09-13T04:53:11Z: PLAYER CHATTED [  364531526] vZ0rx                (  308.2,    67.1,   -24.6)
+  nvm it wasnt that exciting
+2022-09-13T04:53:12Z: PLAYER CHATTED [  179855410] Dry_HA9RT            (  329.9,    14.1,  -198.6)
+  .
+2022-09-13T04:53:16Z: PLAYER CHATTED [  364531526] vZ0rx                (  295.7,    42.0,  -105.9)
+  RUN THAT BACK
+2022-09-13T04:53:16Z: PLAYER CHATTED [  316776316] EllenRoach1          (  291.8,    41.6,  -105.4)
+  L
+2022-09-13T04:53:19Z: PLAYER CHATTED [  316776316] EllenRoach1          (  252.5,    16.1,  -171.4)
+  LLL
+2022-09-13T04:53:23Z: PLAYER ADDED   [ 3860123672] Yuridiasuperstar
+2022-09-13T04:53:27Z: PLAYER CHATTED [   72376517] DocSmiley113         (  317.1,    14.4,  -173.7)
+  #########################
+2022-09-13T04:53:28Z: PLAYER CHATTED [  179855410] Dry_HA9RT            (  323.3,    14.6,  -157.7)
+  LOL
+2022-09-13T04:53:31Z: PLAYER CHATTED [ 1429979495] HaP4l07              (  315.6,    14.3,  -180.5)
+  woah
+2022-09-13T04:53:31Z: PLAYER REMOVED [ 3815207588] sepaiderman237R
+2022-09-13T04:53:31Z: PLAYER CHATTED [ 1762922011] Mrssnowwolf22        (  319.1,    14.6,  -156.6)
+  ..
+2022-09-13T04:53:35Z: PLAYER CHATTED [  316776316] EllenRoach1          (  323.8,    21.5,   -83.4)
+  boring
+2022-09-13T04:53:36Z: PLAYER CHATTED [ 1762922011] Mrssnowwolf22        (  319.1,    14.6,  -156.6)
+  weee
+2022-09-13T04:53:39Z: PLAYER CHATTED [ 1762922011] Mrssnowwolf22        (  319.1,    14.6,  -156.6)
+  so fun
+2022-09-13T04:53:40Z: PLAYER CHATTED [  316776316] EllenRoach1          (  319.1,    15.3,  -114.6)
+  even woke me up
+2022-09-13T04:53:45Z: PLAYER CHATTED [  364531526] vZ0rx                (  310.2,    14.9,  -149.1)
+  funner ###
+2022-09-13T04:53:51Z: PLAYER CHATTED [ 1762922011] Mrssnowwolf22        (  319.1,    14.6,  -156.6)
+  fr
+2022-09-13T04:53:55Z: PLAYER CHATTED [  316776316] EllenRoach1          (  310.4,    14.5,  -176.9)
+  nah boring
+2022-09-13T04:54:00Z: PLAYER CHATTED [  364531526] vZ0rx                (  303.8,    14.9,  -132.8)
+  ion wanna hear it 
+2022-09-13T04:54:00Z: PLAYER CHATTED [  364531526] vZ0rx                (  305.9,    15.1,  -117.7)
+  racist
+2022-09-13T04:54:01Z: PLAYER CHATTED [ 1429979495] HaP4l07              (  317.4,    14.3,  -180.8)
+  this is gonna be fun
+2022-09-13T04:54:05Z: PLAYER CHATTED [  316776316] EllenRoach1          (  301.7,    15.1,  -115.4)
+  ok
+2022-09-13T04:54:26Z: PLAYER REMOVED [ 3860123672] Yuridiasuperstar
+2022-09-13T04:54:27Z: PLAYER CHATTED [   72376517] DocSmiley113         (  307.4,    14.4,  -169.0)
+  ####
+2022-09-13T04:54:41Z: PLAYER CHATTED [ 1762922011] Mrssnowwolf22        (  324.1,    22.5,   -81.2)
+  o-
+2022-09-13T04:54:41Z: PLAYER CHATTED [  179855410] Dry_HA9RT            (  320.4,    23.3,   -79.0)
+  oh
+2022-09-13T04:54:41Z: PLAYER CHATTED [ 1130807371] ttv_klutchbtw        (  318.1,    17.3,   -93.6)
+  this is going to so intense 
+2022-09-13T04:54:41Z: PLAYER CHATTED [  364531526] vZ0rx                (  106.5,     4.0,   -61.5)
+  drippy shirts
+2022-09-13T04:54:45Z: PLAYER CHATTED [    3142254] HydeWars             (  327.3,    14.9,  -137.7)
+  FART!!!
+2022-09-13T04:54:46Z: PLAYER CHATTED [  179855410] Dry_HA9RT            (  327.3,    47.7,   -38.6)
+  one of th3se
+2022-09-13T04:54:48Z: PLAYER CHATTED [  179855410] Dry_HA9RT            (  331.6,    63.9,   -13.7)
+  these
+2022-09-13T04:54:51Z: PLAYER CHATTED [    3142254] HydeWars             (  324.0,    14.9,  -137.0)
+  lea..
+2022-09-13T04:54:54Z: PLAYER CHATTED [ 1762922011] Mrssnowwolf22        (  341.6,    86.2,    20.0)
+  omg once we go back down
+2022-09-13T04:54:54Z: PLAYER CHATTED [    3142254] HydeWars             (  324.0,    14.9,  -137.0)
+  we should ride together lol..
+2022-09-13T04:55:00Z: PLAYER CHATTED [    3142254] HydeWars             (  324.2,    14.9,  -135.3)
+  :3
+2022-09-13T04:55:01Z: PLAYER CHATTED [ 1762922011] Mrssnowwolf22        (  338.4,    74.4,     1.7)
+  I'ma fall off ###
+2022-09-13T04:55:02Z: PLAYER ADDED   [ 1653905978] lovellf3
+2022-09-13T04:55:05Z: PLAYER CHATTED [ 1762922011] Mrssnowwolf22        (  285.0,    18.1,  -276.3)
+  THIS
+2022-09-13T04:55:05Z: PLAYER CHATTED [  179855410] Dry_HA9RT            (  279.9,    16.4,  -278.0)
+  LOL
+2022-09-13T04:55:05Z: PLAYER CHATTED [    3142254] HydeWars             (  323.8,    14.9,  -136.1)
+  wth
+2022-09-13T04:55:07Z: PLAYER CHATTED [    3142254] HydeWars             (  323.5,    14.9,  -135.8)
+  they came back
+2022-09-13T04:55:14Z: PLAYER CHATTED [  364531526] vZ0rx                (  158.0,     4.0,  -102.5)
+  stalking u guys
+2022-09-13T04:55:16Z: PLAYER CHATTED [    3142254] HydeWars             (  321.0,    14.7,  -151.1)
+  LOL
+2022-09-13T04:55:17Z: PLAYER CHATTED [ 1762922011] Mrssnowwolf22        (  304.8,    67.8,   -21.0)
+  sh
+2022-09-13T04:55:20Z: PLAYER CHATTED [ 1762922011] Mrssnowwolf22        (  282.8,    43.9,  -138.7)
+  ....
+2022-09-13T04:55:21Z: PLAYER CHATTED [  364531526] vZ0rx                (  158.0,     4.0,  -102.5)
+  LOL
+2022-09-13T04:55:23Z: PLAYER CHATTED [ 1429979495] HaP4l07              (  203.8,    27.9,  -158.2)
+  i wanna ride this so ba ####
+2022-09-13T04:55:24Z: PLAYER CHATTED [    3142254] HydeWars             (  319.9,    14.7,  -149.3)
+  girl idk
+2022-09-13T04:55:25Z: PLAYER CHATTED [  179855410] Dry_HA9RT            (  242.7,    40.5,   -93.3)
+  lu have u been on the electric electric?
+2022-09-13T04:55:25Z: PLAYER CHATTED [ 1643965455] SillySallythecook645 (  262.0,    34.2,  -105.4)
+  boring lol
+2022-09-13T04:55:27Z: PLAYER CHATTED [ 1762922011] Mrssnowwolf22        (  227.8,    23.5,  -197.3)
+  fr
+2022-09-13T04:55:30Z: PLAYER CHATTED [ 1643965455] SillySallythecook645 (  260.9,    21.4,  -294.5)
+  is it real
+2022-09-13T04:55:32Z: PLAYER CHATTED [ 1762922011] Mrssnowwolf22        (  309.8,    14.4,  -180.8)
+  no?
+2022-09-13T04:55:36Z: PLAYER CHATTED [  179855410] Dry_HA9RT            (  327.4,    48.3,   -37.7)
+  dam
+2022-09-13T04:55:37Z: PLAYER CHATTED [ 1653905978] lovellf3             (  -56.5,     4.0,   -96.6)
+  yooo jurassicoaster
+2022-09-13T04:55:40Z: PLAYER CHATTED [  179855410] Dry_HA9RT            (  325.7,    41.9,   -47.6)
+  it's a alr ride
+2022-09-13T04:55:40Z: PLAYER CHATTED [ 1643965455] SillySallythecook645 (  324.1,    35.9,   -56.8)
+  fr
+2022-09-13T04:55:43Z: PLAYER CHATTED [   72376517] DocSmiley113         (  320.0,    21.8,   -81.6)
+  ###################
+2022-09-13T04:55:46Z: PLAYER CHATTED [ 1762922011] Mrssnowwolf22        (  323.1,    19.8,   -87.2)
+  I wanna go on
+2022-09-13T04:55:49Z: PLAYER CHATTED [  394631851] az90yadude           (  319.1,    15.2,  -115.0)
+  That was dumb
+2022-09-13T04:55:53Z: PLAYER CHATTED [   72376517] DocSmiley113         (  310.4,    14.7,  -148.2)
+  I wanna ride
+2022-09-13T04:55:53Z: PLAYER CHATTED [  179855410] Dry_HA9RT            (  312.3,    15.1,  -134.5)
+  no I meant ####
+2022-09-13T04:55:57Z: PLAYER CHATTED [  364531526] vZ0rx                (  164.4,     4.0,  -102.9)
+  pause
+2022-09-13T04:56:00Z: PLAYER CHATTED [ 1762922011] Mrssnowwolf22        (  313.5,    14.8,  -154.9)
+  ik
+2022-09-13T04:56:01Z: PLAYER CHATTED [ 1130807371] ttv_klutchbtw        (  306.4,    14.4,  -176.3)
+  L ride 
+2022-09-13T04:56:14Z: PLAYER CHATTED [  179855410] Dry_HA9RT            (  162.0,     4.0,   -96.3)
+  wsg
+2022-09-13T04:56:16Z: PLAYER CHATTED [ 1429979495] HaP4l07              (  169.7,     4.1,  -106.1)
+  ong
+2022-09-13T04:56:23Z: PLAYER CHATTED [    3142254] HydeWars             (  317.5,    14.6,  -156.8)
+  ladies first
+2022-09-13T04:56:33Z: PLAYER CHATTED [  364531526] vZ0rx                (   -7.9,     4.0,  -108.3)
+  ...
+2022-09-13T04:56:36Z: PLAYER REMOVED [ 1130807371] ttv_klutchbtw
+2022-09-13T04:56:37Z: PLAYER REMOVED [   72376517] DocSmiley113
+2022-09-13T04:56:39Z: PLAYER CHATTED [  364531526] vZ0rx                (   -0.8,     4.0,  -139.3)
+  round 2 >
+2022-09-13T04:56:39Z: PLAYER REMOVED [ 1429979495] HaP4l07
+2022-09-13T04:56:39Z: PLAYER REMOVED [ 2728561765] fletcherman990
+2022-09-13T04:56:41Z: PLAYER CHATTED [  364531526] vZ0rx                (  -14.7,     4.0,  -166.2)
+  ??
+2022-09-13T04:56:41Z: PLAYER CHATTED [    3142254] HydeWars             (  309.9,    14.9,  -151.8)
+  LOL
+2022-09-13T04:56:47Z: PLAYER CHATTED [ 1653905978] lovellf3             ( -140.6,    25.3,  -228.4)
+  why i always gotta ride alone?
+2022-09-13T04:56:48Z: PLAYER REMOVED [  394631851] az90yadude
+2022-09-13T04:56:50Z: PLAYER CHATTED [   37379044] slvyy                (  326.7,    31.0,   -65.8)
+  EAST
+2022-09-13T04:56:50Z: PLAYER CHATTED [  316776316] EllenRoach1          (  -43.6,     4.0,  -212.5)
+  :noclip
+2022-09-13T04:56:52Z: PLAYER CHATTED [   37379044] slvyy                (  329.6,    41.8,   -48.5)
+  NOOOOOOOOOO
+2022-09-13T04:56:53Z: PLAYER CHATTED [ 2674340880] exstzzz              (  316.6,    14.3,  -183.5)
+  NOO
+2022-09-13T04:56:53Z: PLAYER REMOVED [ 2588541354] FunGamer10140
+2022-09-13T04:56:55Z: PLAYER CHATTED [  316776316] EllenRoach1          (  -44.1,     4.0,  -213.3)
+  WOW
+2022-09-13T04:56:55Z: PLAYER CHATTED [    3142254] HydeWars             (  330.6,    60.1,   -19.5)
+  rip east
+2022-09-13T04:56:56Z: PLAYER CHATTED [   21695083] Cinistry             (  333.1,    54.7,   -28.5)
+  it's cause u ddnt have a membership
+2022-09-13T04:57:01Z: PLAYER CHATTED [  364531526] vZ0rx                (  -37.3,     4.0,  -207.7)
+  LULU
+2022-09-13T04:57:10Z: PLAYER CHATTED [ 1762922011] Mrssnowwolf22        ( -132.0,     4.1,   -49.0)
+  WHAT
+2022-09-13T04:57:11Z: PLAYER CHATTED [   16402405] Shrpn                (  299.8,    14.0,  -221.5)
+  Your card's declined
+2022-09-13T04:57:11Z: PLAYER CHATTED [  179855410] Dry_HA9RT            (  -89.1,     4.0,  -161.5)
+  WHERE THEY GO
+2022-09-13T04:57:12Z: PLAYER ADDED   [ 2728561765] fletcherman990
+2022-09-13T04:57:14Z: PLAYER CHATTED [  364531526] vZ0rx                (  -54.4,     4.0,   -96.3)
+  whered u go bro
+2022-09-13T04:57:16Z: PLAYER CHATTED [  179855410] Dry_HA9RT            (  -89.1,     4.0,  -161.5)
+  oml.
+2022-09-13T04:57:16Z: PLAYER CHATTED [  316776316] EllenRoach1          (  -86.6,     4.0,  -156.6)
+  idk and idc
+2022-09-13T04:57:20Z: PLAYER CHATTED [ 2674340880] exstzzz              (  326.6,    14.5,  -165.3)
+  THIS IS ALL NOLANS FAULT
+2022-09-13T04:57:22Z: PLAYER CHATTED [ 1762922011] Mrssnowwolf22        ( -131.8,     4.1,   -40.6)
+  exactly 
+2022-09-13T04:57:30Z: PLAYER REMOVED [ 2728561765] fletcherman990
+2022-09-13T04:57:31Z: PLAYER CHATTED [  316776316] EllenRoach1          ( -119.3,    24.4,  -273.0)
+  nah im ######
+2022-09-13T04:57:39Z: PLAYER CHATTED [  364531526] vZ0rx                (   -2.3,     4.0,  -107.6)
+  what bro
+2022-09-13T04:57:43Z: PLAYER CHATTED [  316776316] EllenRoach1          ( -144.0,    25.3,  -228.4)
+  ;clip
+2022-09-13T04:57:45Z: PLAYER CHATTED [  179855410] Dry_HA9RT            ( -140.6,    25.3,  -228.4)
+  front row
+2022-09-13T04:57:48Z: PLAYER CHATTED [  364531526] vZ0rx                (   86.7,     4.0,   -76.3)
+  OMG
+2022-09-13T04:58:08Z: PLAYER CHATTED [  364531526] vZ0rx                (  -44.2,     4.1,   -59.8)
+  u trippin
+2022-09-13T04:58:24Z: PLAYER CHATTED [ 1653905978] lovellf3             ( -699.7,    -1.5,  -110.3)
+  im riding this again
+2022-09-13T04:58:39Z: PLAYER CHATTED [    3142254] HydeWars             (  302.9,    14.5,  -162.8)
+  LOL
+2022-09-13T04:58:45Z: PLAYER CHATTED [  364531526] vZ0rx                ( -317.7,    24.4,  -343.5)
+  LOLLL
+2022-09-13T04:58:49Z: PLAYER CHATTED [ 1762922011] Mrssnowwolf22        ( -286.4,    24.4,  -299.1)
+  SH
+2022-09-13T04:59:02Z: PLAYER REMOVED [  116766071] chingwrld
+2022-09-13T04:59:03Z: PLAYER CHATTED [  364531526] vZ0rx                ( -200.0,    24.4,  -171.9)
+  U LOOK SO LOST
+2022-09-13T04:59:03Z: PLAYER REMOVED [  165437855] sleeplessSoul
+2022-09-13T04:59:04Z: PLAYER CHATTED [  179855410] Dry_HA9RT            (   46.0,     9.7,  -115.9)
+  this ride decent
+2022-09-13T04:59:09Z: PLAYER CHATTED [  364531526] vZ0rx                ( -186.9,    24.4,  -174.1)
+  WHATRE U DOINNGGGGGG
+2022-09-13T04:59:10Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  -49.5,     6.0,   -11.3)
+2022-09-13T04:59:12Z: PLAYER CHATTED [ 1762922011] Mrssnowwolf22        ( -179.0,    24.4,  -258.5)
+  U
+2022-09-13T04:59:18Z: PLAYER CHATTED [  364531526] vZ0rx                ( -184.3,    24.4,  -208.2)
+  HUH
+2022-09-13T04:59:18Z: PLAYER CHATTED [ 1762922011] Mrssnowwolf22        ( -179.0,    24.4,  -258.5)
+  THATS U
+2022-09-13T04:59:21Z: PLAYER CHATTED [    3142254] HydeWars             (  167.3,     4.0,  -103.4)
+  right
+2022-09-13T04:59:25Z: PLAYER CHATTED [  364531526] vZ0rx                ( -181.0,    24.4,  -256.6)
+  OMMGGGG
+2022-09-13T04:59:40Z: PLAYER CHATTED [ 2674340880] exstzzz              (  228.2,    43.1,   -92.5)
+  YEAHH
+2022-09-13T04:59:49Z: PLAYER CHATTED [ 1762922011] Mrssnowwolf22        ( -172.7,    24.4,  -259.9)
+  IM THERE 😭
+2022-09-13T04:59:53Z: PLAYER CHATTED [  364531526] vZ0rx                ( -173.9,    24.4,  -261.1)
+  WHY U IN THE BACK
+2022-09-13T04:59:54Z: PLAYER CHATTED [    3142254] HydeWars             (  158.8,     4.0,  -105.6)
+  brb
+2022-09-13T04:59:54Z: PLAYER REMOVED [    3142254] HydeWars
+2022-09-13T05:00:04Z: PLAYER CHATTED [  364531526] vZ0rx                ( -174.3,    24.4,  -258.3)
+  AHAHAA
+2022-09-13T05:00:04Z: PLAYER CHATTED [ 1762922011] Mrssnowwolf22        ( -167.8,    24.4,  -258.7)
+  SOLEONE TOOK NEXT TO ROACH
+2022-09-13T05:00:13Z: PLAYER CHATTED [ 1762922011] Mrssnowwolf22        ( -162.1,    24.4,  -258.2)
+  e couples
+2022-09-13T05:00:19Z: PLAYER CHATTED [ 1762922011] Mrssnowwolf22        ( -158.4,    24.4,  -259.5)
+  poor dude
+2022-09-13T05:00:21Z: PLAYER CHATTED [ 1762922011] Mrssnowwolf22        ( -158.4,    24.4,  -259.5)
+  UUU
+2022-09-13T05:00:23Z: PLAYER CHATTED [ 1653905978] lovellf3             ( -157.2,    24.4,  -251.8)
+  man
+2022-09-13T05:00:28Z: PLAYER CHATTED [   37379044] slvyy                (  181.8,     4.0,  -105.1)
+  ill b on in 15-20
+2022-09-13T05:00:29Z: PLAYER CHATTED [ 1762922011] Mrssnowwolf22        ( -158.8,    24.4,  -257.1)
+  WAIT ROACHHHHHH 
+2022-09-13T05:00:33Z: PLAYER CHATTED [   37379044] slvyy                (  181.8,     4.0,  -105.1)
+  if u still wanna play
+2022-09-13T05:00:34Z: PLAYER CHATTED [  179855410] Dry_HA9RT            ( -160.9,    24.4,  -252.4)
+  ?
+2022-09-13T05:00:34Z: PLAYER CHATTED [ 1653905978] lovellf3             ( -157.2,    24.4,  -251.8)
+  why i always gotta sit alone
+2022-09-13T05:00:45Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  -54.0,     6.0,    -5.8)
+2022-09-13T05:00:45Z: PLAYER CHATTED [  364531526] vZ0rx                ( -182.2,    24.4,  -173.5)
+  LOL
+2022-09-13T05:00:47Z: PLAYER REMOVED [   37379044] slvyy
+2022-09-13T05:00:52Z: PLAYER CHATTED [  179855410] Dry_HA9RT            ( -180.3,    24.4,  -253.7)
+  OH
+2022-09-13T05:00:53Z: PLAYER REMOVED [    1630228] VisualPlugin

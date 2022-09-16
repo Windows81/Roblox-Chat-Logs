@@ -1,0 +1,1602 @@
+[    1630228] : [10135190040] Open Mic Night [VOICE CHAT 🔊] VC ONLY - dc2e82c0-1a66-46f5-b1d6-4bba1002a9d7
+2022-08-08T01:41:02Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-08-08T01:41:02Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-08-08T01:41:02Z: PLAYER ADDED   [ 3472804802] Jenniek2m
+2022-08-08T01:41:02Z: PLAYER ADDED   [ 1244566393] ellbelk
+2022-08-08T01:41:02Z: PLAYER ADDED   [ 3710014569] tyyyyyirhhet2
+2022-08-08T01:41:02Z: PLAYER ADDED   [ 1326380481] axelrex9
+2022-08-08T01:41:02Z: PLAYER ADDED   [ 3780639183] 83skim
+2022-08-08T01:41:02Z: PLAYER ADDED   [ 3783669417] AcaiProshi
+2022-08-08T01:41:02Z: PLAYER ADDED   [   69135661] G0DZD0NTDIE
+2022-08-08T01:41:02Z: PLAYER ADDED   [  937785574] leoisnice00
+2022-08-08T01:41:02Z: PLAYER ADDED   [   90369431] Scottyscot08
+2022-08-08T01:41:02Z: PLAYER ADDED   [ 1619346534] Isadoraspm6
+2022-08-08T01:41:02Z: PLAYER ADDED   [ 3670704427] chlobandzzzzzz
+2022-08-08T01:41:02Z: PLAYER ADDED   [ 1470381010] EmmaPrincesspotato
+2022-08-08T01:41:06Z: PLAYER ADDED   [  121388888] 9Voidzz
+2022-08-08T01:41:23Z: PLAYER CHATTED [ 3783669417] AcaiProshi           (  -35.0,     4.0,     4.1)
+  wasnt it good thoo
+2022-08-08T01:41:28Z: PLAYER ADDED   [  136255862] Cxd_y
+2022-08-08T01:41:29Z: PLAYER REMOVED [ 1470381010] EmmaPrincesspotato
+2022-08-08T01:41:33Z: PLAYER REMOVED [ 3472804802] Jenniek2m
+2022-08-08T01:41:36Z: PLAYER ADDED   [ 3223053848] OPTIRLIO
+2022-08-08T01:41:36Z: CHRCTER ADDED  [  136255862] Cxd_y                (   22.9,     4.5,     4.1)
+2022-08-08T01:41:38Z: PLAYER ADDED   [ 2216052389] thatgirlrere48
+2022-08-08T01:41:44Z: CHRCTER ADDED  [ 3223053848] OPTIRLIO             (   20.9,     4.5,    -4.9)
+2022-08-08T01:41:45Z: CHRCTER ADDED  [ 3780639183] 83skim               (   14.6,     4.7,    -3.7)
+2022-08-08T01:41:54Z: PLAYER REMOVED [ 3780639183] 83skim
+2022-08-08T01:42:02Z: PLAYER REMOVED [ 3783669417] AcaiProshi
+2022-08-08T01:42:17Z: PLAYER REMOVED [ 3223053848] OPTIRLIO
+2022-08-08T01:42:29Z: PLAYER ADDED   [ 3778189143] somerandomkid485
+2022-08-08T01:42:32Z: PLAYER REMOVED [  136255862] Cxd_y
+2022-08-08T01:42:37Z: PLAYER ADDED   [ 1335495873] Sunshinelover080780
+2022-08-08T01:42:53Z: PLAYER ADDED   [  286085983] Londoncoolkid2
+2022-08-08T01:43:38Z: PLAYER ADDED   [ 1585909403] teaBuscuit
+2022-08-08T01:43:46Z: PLAYER REMOVED [  121388888] 9Voidzz
+2022-08-08T01:43:46Z: PLAYER ADDED   [  275855644] prettycoolgalaxycat
+2022-08-08T01:43:54Z: PLAYER ADDED   [ 1776012475] HerWarrior
+2022-08-08T01:44:04Z: PLAYER ADDED   [  231527249] Fizzilin
+2022-08-08T01:44:06Z: PLAYER ADDED   [  246020346] taylovespopcorn
+2022-08-08T01:44:13Z: PLAYER ADDED   [ 1947826371] enzopardini1
+2022-08-08T01:44:20Z: PLAYER REMOVED [ 1585909403] teaBuscuit
+2022-08-08T01:44:23Z: PLAYER REMOVED [  275855644] prettycoolgalaxycat
+2022-08-08T01:44:27Z: PLAYER REMOVED [ 1335495873] Sunshinelover080780
+2022-08-08T01:44:33Z: PLAYER ADDED   [ 1911858238] bahaatepp5
+2022-08-08T01:44:44Z: PLAYER ADDED   [ 2733981976] see_younow666
+2022-08-08T01:45:03Z: PLAYER REMOVED [ 3670704427] chlobandzzzzzz
+2022-08-08T01:45:13Z: PLAYER ADDED   [ 1898115389] jordan_anthony15
+2022-08-08T01:45:18Z: PLAYER ADDED   [ 1657840720] yMiriam
+2022-08-08T01:45:19Z: PLAYER CHATTED [ 3710014569] tyyyyyirhhet2        (  -26.1,     3.9,    -0.9)
+  bye
+2022-08-08T01:45:20Z: PLAYER REMOVED [  231527249] Fizzilin
+2022-08-08T01:45:21Z: PLAYER REMOVED [ 3710014569] tyyyyyirhhet2
+2022-08-08T01:45:28Z: CHRCTER ADDED  [ 1657840720] yMiriam              (   18.2,     5.3,    -4.0)
+2022-08-08T01:45:31Z: PLAYER ADDED   [ 3070592362] Hubby_bubbby
+2022-08-08T01:45:42Z: PLAYER ADDED   [ 2203599155] muru_mmc1
+2022-08-08T01:45:42Z: PLAYER REMOVED [  286085983] Londoncoolkid2
+2022-08-08T01:46:01Z: PLAYER REMOVED [ 1776012475] HerWarrior
+2022-08-08T01:46:04Z: PLAYER CHATTED [ 3070592362] Hubby_bubbby         (  -29.3,     4.2,     2.1)
+  I CANT HEARR
+2022-08-08T01:46:05Z: PLAYER REMOVED [  246020346] taylovespopcorn
+2022-08-08T01:46:14Z: PLAYER REMOVED [ 2733981976] see_younow666
+2022-08-08T01:46:17Z: PLAYER CHATTED [ 1657840720] yMiriam              (  -21.5,     4.2,     3.6)
+  Me tooo
+2022-08-08T01:46:19Z: PLAYER REMOVED [ 1911858238] bahaatepp5
+2022-08-08T01:46:45Z: PLAYER REMOVED [ 2203599155] muru_mmc1
+2022-08-08T01:47:06Z: PLAYER ADDED   [ 3780639183] 83skim
+2022-08-08T01:47:06Z: PLAYER ADDED   [ 1544856965] misa_678
+2022-08-08T01:47:16Z: PLAYER ADDED   [  196242650] AliveNonstopthebeast
+2022-08-08T01:47:26Z: PLAYER ADDED   [  442213519] vhmolleti21
+2022-08-08T01:47:54Z: PLAYER ADDED   [  423668850] HeyItzRaRa
+2022-08-08T01:48:00Z: PLAYER REMOVED [  423668850] HeyItzRaRa
+2022-08-08T01:48:07Z: PLAYER REMOVED [  196242650] AliveNonstopthebeast
+2022-08-08T01:48:27Z: PLAYER REMOVED [  442213519] vhmolleti21
+2022-08-08T01:48:31Z: PLAYER ADDED   [   40399837] apestyll
+2022-08-08T01:48:53Z: PLAYER ADDED   [ 2733981976] see_younow666
+2022-08-08T01:48:58Z: PLAYER ADDED   [ 3763138307] InsaneHamsterr
+2022-08-08T01:49:01Z: CHRCTER ADDED  [ 2733981976] see_younow666        (   13.5,     5.6,     4.1)
+2022-08-08T01:49:02Z: PLAYER ADDED   [  423668850] HeyItzRaRa
+2022-08-08T01:49:03Z: PLAYER REMOVED [ 3070592362] Hubby_bubbby
+2022-08-08T01:49:18Z: PLAYER REMOVED [ 1898115389] jordan_anthony15
+2022-08-08T01:49:36Z: PLAYER REMOVED [   90369431] Scottyscot08
+2022-08-08T01:49:37Z: CHRCTER ADDED  [ 1544856965] misa_678             (   14.5,     4.9,     4.2)
+2022-08-08T01:49:39Z: PLAYER ADDED   [ 3783610498] Yasmin_rDois
+2022-08-08T01:50:01Z: PLAYER ADDED   [   73119571] beastswager521
+2022-08-08T01:50:03Z: PLAYER ADDED   [ 3070592362] Hubby_bubbby
+2022-08-08T01:50:05Z: PLAYER REMOVED [ 3763138307] InsaneHamsterr
+2022-08-08T01:50:09Z: PLAYER CHATTED [  423668850] HeyItzRaRa           (  -32.1,     4.2,    -1.2)
+  i love the heehee sound
+2022-08-08T01:50:10Z: CHRCTER ADDED  [ 3070592362] Hubby_bubbby         (   21.8,     4.6,     2.2)
+2022-08-08T01:50:22Z: PLAYER ADDED   [ 3784537954] califesfr
+2022-08-08T01:50:30Z: PLAYER REMOVED [   73119571] beastswager521
+2022-08-08T01:50:31Z: PLAYER CHATTED [  423668850] HeyItzRaRa           (  -32.1,     4.2,    -1.2)
+  hello
+2022-08-08T01:50:38Z: PLAYER REMOVED [ 1657840720] yMiriam
+2022-08-08T01:50:44Z: PLAYER REMOVED [ 1244566393] ellbelk
+2022-08-08T01:51:00Z: PLAYER CHATTED [ 3784537954] califesfr            (  -41.9,     4.2,     1.7)
+  omg
+2022-08-08T01:51:12Z: PLAYER ADDED   [  576196992] camillemarieee1
+2022-08-08T01:51:13Z: PLAYER CHATTED [ 3070592362] Hubby_bubbby         (   49.0,    18.4,   -29.5)
+  do u guys hear anything?
+2022-08-08T01:51:27Z: PLAYER CHATTED [ 3784537954] califesfr            (  -41.4,     4.2,     1.0)
+  my pouthey flaps are jiggling
+2022-08-08T01:51:32Z: PLAYER CHATTED [ 1619346534] Isadoraspm6          (  -39.3,     3.7,    -2.9)
+  ;-;
+2022-08-08T01:51:38Z: PLAYER ADDED   [ 2803925296] animekjtty
+2022-08-08T01:51:51Z: PLAYER ADDED   [ 1984251860] cloudXYZXYZ1234
+2022-08-08T01:51:57Z: PLAYER REMOVED [ 3070592362] Hubby_bubbby
+2022-08-08T01:52:11Z: CHRCTER ADDED  [ 2216052389] thatgirlrere48       (   14.7,     4.4,    -3.8)
+2022-08-08T01:52:24Z: PLAYER ADDED   [  457562968] frogitarium
+2022-08-08T01:52:24Z: PLAYER REMOVED [ 2803925296] animekjtty
+2022-08-08T01:52:31Z: PLAYER ADDED   [ 2715789000] danielamocha28
+2022-08-08T01:52:32Z: PLAYER REMOVED [ 3783610498] Yasmin_rDois
+2022-08-08T01:52:37Z: PLAYER CHATTED [ 3784537954] califesfr            (  -14.9,     4.2,     7.2)
+  can some1 help me
+2022-08-08T01:52:39Z: CHRCTER ADDED  [ 2715789000] danielamocha28       (   13.1,     4.8,     3.0)
+2022-08-08T01:52:43Z: PLAYER CHATTED [ 3784537954] califesfr            (  -14.9,     4.2,     7.2)
+  my cewchie hole bleeding
+2022-08-08T01:52:43Z: CHRCTER ADDED  [ 1544856965] misa_678             (   13.6,     4.9,     2.4)
+2022-08-08T01:52:48Z: CHRCTER ADDED  [ 2715789000] danielamocha28       (   20.8,     4.8,     0.7)
+2022-08-08T01:53:03Z: PLAYER REMOVED [   40399837] apestyll
+2022-08-08T01:53:03Z: PLAYER CHATTED [ 3784537954] califesfr            (  -24.5,     4.3,     7.4)
+  my pouthey flaps are also falling off
+2022-08-08T01:53:08Z: PLAYER CHATTED [ 3784537954] califesfr            (  -24.5,     4.3,     7.4)
+  im crying
+2022-08-08T01:53:16Z: PLAYER ADDED   [ 3602921027] Xx_Froyomo
+2022-08-08T01:53:34Z: PLAYER REMOVED [ 1619346534] Isadoraspm6
+2022-08-08T01:53:55Z: PLAYER CHATTED [ 3784537954] califesfr            (    5.8,     4.2,     0.7)
+  can u hear me
+2022-08-08T01:54:02Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (    4.4,     3.7,     1.6)
+  no
+2022-08-08T01:54:04Z: PLAYER ADDED   [   77406647] PradaGJayla
+2022-08-08T01:54:08Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (    4.4,     3.7,     1.6)
+  can u hear me 
+2022-08-08T01:54:12Z: PLAYER CHATTED [ 3784537954] califesfr            (    5.3,     4.2,     1.0)
+  no
+2022-08-08T01:54:24Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (    4.4,     3.7,     1.6)
+  is ur volume on 
+2022-08-08T01:54:30Z: PLAYER CHATTED [ 3784537954] califesfr            (    3.2,     4.2,    -0.5)
+  wym
+2022-08-08T01:54:41Z: PLAYER REMOVED [  937785574] leoisnice00
+2022-08-08T01:54:57Z: PLAYER ADDED   [   48138857] whateveriskool
+2022-08-08T01:55:01Z: PLAYER REMOVED [ 2216052389] thatgirlrere48
+2022-08-08T01:55:04Z: PLAYER CHATTED [ 3784537954] califesfr            (   50.1,    11.4,     6.2)
+  im gonna rejoin
+2022-08-08T01:55:09Z: PLAYER REMOVED [ 3784537954] califesfr
+2022-08-08T01:55:10Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (   50.2,    10.9,     8.1)
+  i can hear u
+2022-08-08T01:55:16Z: PLAYER REMOVED [  576196992] camillemarieee1
+2022-08-08T01:55:30Z: PLAYER ADDED   [  313723010] luisa974707
+2022-08-08T01:55:32Z: PLAYER REMOVED [  457562968] frogitarium
+2022-08-08T01:55:42Z: PLAYER ADDED   [ 2531431269] Nora198o
+2022-08-08T01:55:48Z: PLAYER ADDED   [ 3784537954] califesfr
+2022-08-08T01:56:06Z: PLAYER ADDED   [ 1619346534] Isadoraspm6
+2022-08-08T01:56:12Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -42.0,     3.7,    -0.9)
+  i cant hear u no more 
+2022-08-08T01:56:18Z: PLAYER CHATTED [ 3784537954] califesfr            (  -41.4,     4.2,    -0.9)
+  im not talking yet
+2022-08-08T01:56:21Z: PLAYER CHATTED [ 3784537954] califesfr            (  -41.4,     4.2,    -0.9)
+  idiot
+2022-08-08T01:56:23Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -42.1,     3.7,    -1.1)
+  oh
+2022-08-08T01:56:24Z: PLAYER CHATTED [ 3784537954] califesfr            (  -41.4,     4.2,    -0.9)
+  im still loading
+2022-08-08T01:56:27Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -42.1,     3.7,    -1.1)
+  u 
+2022-08-08T01:56:44Z: PLAYER REMOVED [ 1544856965] misa_678
+2022-08-08T01:56:56Z: PLAYER REMOVED [ 2733981976] see_younow666
+2022-08-08T01:57:02Z: PLAYER ADDED   [ 2713391797] tanjirosfami1y
+2022-08-08T01:57:03Z: PLAYER ADDED   [ 2858729146] OdeiObTS1238
+2022-08-08T01:57:04Z: PLAYER REMOVED [  313723010] luisa974707
+2022-08-08T01:57:09Z: PLAYER ADDED   [ 2358332416] AnonymousN1ght
+2022-08-08T01:57:12Z: PLAYER ADDED   [  118085932] emma_zozz
+2022-08-08T01:57:16Z: PLAYER REMOVED [ 2858729146] OdeiObTS1238
+2022-08-08T01:57:33Z: CHRCTER ADDED  [ 2713391797] tanjirosfami1y       (   18.8,     4.4,    -1.0)
+2022-08-08T01:57:38Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -39.9,     3.7,    -8.7)
+  i can 
+2022-08-08T01:57:42Z: PLAYER REMOVED [ 2713391797] tanjirosfami1y
+2022-08-08T01:57:42Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -37.8,     3.7,    -7.9)
+  noah 
+2022-08-08T01:57:42Z: PLAYER ADDED   [ 2593953090] HenriiDawg
+2022-08-08T01:57:44Z: PLAYER CHATTED [ 3784537954] califesfr            (  -36.4,     4.2,    -8.2)
+  I CANT HEAR U THO
+2022-08-08T01:57:49Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -37.8,     3.7,    -7.9)
+  omg
+2022-08-08T01:57:50Z: CHRCTER ADDED  [ 2593953090] HenriiDawg           (   19.0,     4.4,     4.9)
+2022-08-08T01:57:50Z: PLAYER ADDED   [ 2858729146] OdeiObTS1238
+2022-08-08T01:57:55Z: PLAYER ADDED   [ 2713391797] tanjirosfami1y
+2022-08-08T01:57:56Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -26.2,     3.8,     3.7)
+  can u hear me 
+2022-08-08T01:57:56Z: PLAYER REMOVED [ 2531431269] Nora198o
+2022-08-08T01:58:02Z: CHRCTER ADDED  [ 2713391797] tanjirosfami1y       (   22.3,     4.4,    -0.8)
+2022-08-08T01:58:09Z: CHRCTER ADDED  [ 2713391797] tanjirosfami1y       (   14.9,     4.4,    -5.0)
+2022-08-08T01:58:10Z: PLAYER CHATTED [ 3784537954] califesfr            (   22.5,     4.2,    21.0)
+  can u hear me
+2022-08-08T01:58:12Z: PLAYER CHATTED [ 2358332416] AnonymousN1ght       (  -11.3,     4.0,    22.4)
+  my vc isnt working
+2022-08-08T01:58:16Z: PLAYER REMOVED [ 1947826371] enzopardini1
+2022-08-08T01:58:19Z: PLAYER CHATTED [ 3784537954] califesfr            (   14.5,     4.3,    19.7)
+  okk
+2022-08-08T01:58:19Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (   15.6,     3.7,    20.9)
+  they cant
+2022-08-08T01:58:22Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (   15.6,     3.7,    20.9)
+  omg
+2022-08-08T01:58:25Z: PLAYER CHATTED [ 2358332416] AnonymousN1ght       (  -23.1,     4.0,     8.0)
+  !rejoin
+2022-08-08T01:58:26Z: PLAYER ADDED   [  351733432] Queenrebec
+2022-08-08T01:58:27Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (   15.6,     3.7,    20.9)
+  not me 
+2022-08-08T01:58:27Z: PLAYER CHATTED [ 3784537954] califesfr            (   12.7,     4.3,    21.6)
+  u need to rejoin
+2022-08-08T01:58:30Z: PLAYER REMOVED [ 2358332416] AnonymousN1ght
+2022-08-08T01:58:37Z: PLAYER REMOVED [  118085932] emma_zozz
+2022-08-08T01:58:38Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (   14.3,     3.7,    21.3)
+  she cant hear u 
+2022-08-08T01:58:41Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (   14.3,     3.7,    21.3)
+  hold on 
+2022-08-08T01:58:45Z: PLAYER CHATTED [   48138857] whateveriskool       (  -28.6,     4.2,    10.6)
+  alr.
+2022-08-08T01:58:46Z: PLAYER ADDED   [ 2358332416] AnonymousN1ght
+2022-08-08T01:58:49Z: PLAYER REMOVED [ 2858729146] OdeiObTS1238
+2022-08-08T01:58:53Z: PLAYER REMOVED [  351733432] Queenrebec
+2022-08-08T01:58:53Z: CHRCTER ADDED  [ 2358332416] AnonymousN1ght       (   17.5,     5.2,     3.7)
+2022-08-08T01:58:57Z: PLAYER CHATTED [  423668850] HeyItzRaRa           (  -21.5,     4.3,    -3.6)
+  hi
+2022-08-08T01:59:05Z: PLAYER REMOVED [ 3780639183] 83skim
+2022-08-08T01:59:07Z: CHRCTER ADDED  [   48138857] whateveriskool       (   21.8,     4.5,     1.0)
+2022-08-08T01:59:13Z: PLAYER REMOVED [   48138857] whateveriskool
+2022-08-08T01:59:13Z: PLAYER REMOVED [ 2715789000] danielamocha28
+2022-08-08T01:59:29Z: PLAYER CHATTED [ 2358332416] AnonymousN1ght       (  -34.1,     4.0,    -9.7)
+  ARE YALL TALKING?
+2022-08-08T01:59:30Z: PLAYER CHATTED [ 3784537954] califesfr            (  -14.9,     4.2,     8.1)
+  talk
+2022-08-08T01:59:32Z: PLAYER CHATTED [ 3784537954] califesfr            (  -14.9,     4.2,     8.1)
+  can u hear em
+2022-08-08T01:59:34Z: PLAYER CHATTED [ 3784537954] califesfr            (  -14.9,     4.2,     8.1)
+  me
+2022-08-08T01:59:37Z: PLAYER CHATTED [ 2358332416] AnonymousN1ght       (  -34.1,     4.0,    -9.7)
+  I Cant hear anyone
+2022-08-08T01:59:39Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -17.8,     3.7,     8.0)
+  no
+2022-08-08T01:59:50Z: PLAYER CHATTED [ 3784537954] califesfr            (  -38.3,     4.2,     4.5)
+  i can hear u
+2022-08-08T01:59:57Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -34.1,     3.7,     5.2)
+  omg 
+2022-08-08T02:00:03Z: PLAYER ADDED   [  324211816] Sclooshy
+2022-08-08T02:00:03Z: PLAYER CHATTED [ 3784537954] califesfr            (  -35.3,     4.2,     5.4)
+  cannu hear me
+2022-08-08T02:00:15Z: PLAYER CHATTED [ 3784537954] califesfr            (  -34.5,     4.2,     4.0)
+  JUST LOAD
+2022-08-08T02:00:15Z: PLAYER CHATTED [ 1984251860] cloudXYZXYZ1234      (  -48.9,     6.2,     0.0)
+  imma sing
+2022-08-08T02:00:20Z: PLAYER CHATTED [ 3784537954] califesfr            (  -34.5,     4.2,     4.0)
+  UR STILL LOADING THATS WHY
+2022-08-08T02:00:21Z: PLAYER ADDED   [   24585084] GloKnightZ
+2022-08-08T02:00:32Z: PLAYER REMOVED [  324211816] Sclooshy
+2022-08-08T02:00:47Z: PLAYER ADDED   [ 1391943563] cutekittycupcake800
+2022-08-08T02:00:51Z: PLAYER ADDED   [  317476668] cyberrbean
+2022-08-08T02:00:56Z: PLAYER ADDED   [  534819682] goofy_alondra
+2022-08-08T02:01:04Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -41.9,     3.7,    -2.6)
+  come 
+2022-08-08T02:01:08Z: PLAYER CHATTED [ 2358332416] AnonymousN1ght       (  -35.6,     4.0,    -3.9)
+  my thing has a triangle is red
+2022-08-08T02:01:13Z: PLAYER CHATTED [ 1391943563] cutekittycupcake800  (  -38.9,     3.7,     7.2)
+  i cant hear 💀 
+2022-08-08T02:01:16Z: PLAYER CHATTED [   24585084] GloKnightZ           (  -30.6,     4.3,   -10.6)
+  just reclick it
+2022-08-08T02:01:17Z: PLAYER CHATTED [ 3784537954] califesfr            (   52.2,    11.4,    -2.7)
+  how do i get picked
+2022-08-08T02:01:23Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (   50.8,    10.9,    -2.3)
+  so can u hear me 
+2022-08-08T02:01:26Z: PLAYER CHATTED [ 2358332416] AnonymousN1ght       (  -35.6,     4.0,    -3.9)
+  YAY IT FINALLY WOKRS
+2022-08-08T02:01:27Z: PLAYER CHATTED [ 3784537954] califesfr            (   51.0,    11.4,    -2.9)
+  yes
+2022-08-08T02:01:29Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (   50.8,    10.9,    -2.3)
+  join the q 
+2022-08-08T02:01:30Z: PLAYER CHATTED [   24585084] GloKnightZ           (  -30.6,     4.3,   -10.6)
+  it needs basically a reset or ur mic isnt connected
+2022-08-08T02:01:33Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (   50.8,    10.9,    -2.3)
+  i cant hear u 
+2022-08-08T02:01:39Z: PLAYER REMOVED [ 1326380481] axelrex9
+2022-08-08T02:01:45Z: PLAYER CHATTED [ 3784537954] califesfr            (   51.0,    11.4,    -2.9)
+  did u pick low quality or high quality
+2022-08-08T02:01:47Z: PLAYER CHATTED [ 2593953090] HenriiDawg           (  -41.9,     3.9,    -1.2)
+  Ok
+2022-08-08T02:01:47Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (   50.8,    10.9,    -2.3)
+  omg go to ur in game settings \
+2022-08-08T02:01:47Z: PLAYER ADDED   [  719740596] LESSLICN
+2022-08-08T02:01:49Z: PLAYER ADDED   [  646974519] riojhknf
+2022-08-08T02:01:49Z: PLAYER ADDED   [   45606006] eric10037
+2022-08-08T02:01:50Z: PLAYER CHATTED [   24585084] GloKnightZ           (  -30.6,     4.3,   -10.6)
+  yeah
+2022-08-08T02:01:51Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (   50.8,    10.9,    -2.3)
+  no 
+2022-08-08T02:01:52Z: CHRCTER ADDED  [   45606006] eric10037            (   13.2,     5.5,     4.2)
+2022-08-08T02:01:56Z: PLAYER CHATTED [ 3784537954] califesfr            (   49.3,    11.4,    -1.5)
+  ok
+2022-08-08T02:01:56Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (   50.8,    10.9,    -2.3)
+  low 
+2022-08-08T02:01:57Z: PLAYER CHATTED [   24585084] GloKnightZ           (  -30.6,     4.3,   -10.6)
+  im having my own mic issues rn tho lol
+2022-08-08T02:01:59Z: PLAYER CHATTED [ 2593953090] HenriiDawg           (  -41.9,     3.9,    -1.2)
+  U
+2022-08-08T02:02:06Z: PLAYER CHATTED [  646974519] riojhknf             (  -31.8,     4.1,    -1.2)
+  ayyda
+2022-08-08T02:02:06Z: PLAYER ADDED   [ 1326380481] axelrex9
+2022-08-08T02:02:09Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (   50.8,    10.9,    -2.3)
+  but i never left i switched my mic 
+2022-08-08T02:02:09Z: PLAYER CHATTED [  646974519] riojhknf             (  -21.5,     4.3,     3.6)
+  me tan mela 
+2022-08-08T02:02:11Z: PLAYER CHATTED [ 2593953090] HenriiDawg           (  -41.9,     3.9,    -1.2)
+  bad
+2022-08-08T02:02:16Z: PLAYER CHATTED [ 3784537954] califesfr            (   49.3,    11.4,    -1.5)
+  JAYDEN
+2022-08-08T02:02:19Z: PLAYER ADDED   [ 2687404813] VI7NT
+2022-08-08T02:02:19Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (   50.8,    10.9,    -2.3)
+  go to ur settings 
+2022-08-08T02:02:21Z: PLAYER CHATTED [ 3784537954] califesfr            (   49.3,    11.4,    -1.5)
+  WHAT DO I DO IN SETTINGS
+2022-08-08T02:02:23Z: PLAYER REMOVED [  534819682] goofy_alondra
+2022-08-08T02:02:31Z: PLAYER REMOVED [ 3778189143] somerandomkid485
+2022-08-08T02:02:34Z: PLAYER CHATTED [ 2358332416] AnonymousN1ght       (  -34.2,     4.2,   -16.9)
+  -Drinks
+2022-08-08T02:02:34Z: PLAYER CHATTED [  423668850] HeyItzRaRa           (  -97.5,    29.6,  -100.0)
+  hi
+2022-08-08T02:02:52Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (   50.8,    10.9,    -2.3)
+  change the input and output 
+2022-08-08T02:03:07Z: PLAYER CHATTED [ 3784537954] califesfr            (   49.3,    11.4,    -1.5)
+  let me rejoin
+2022-08-08T02:03:08Z: PLAYER ADDED   [ 1594231147] sincerixy
+2022-08-08T02:03:09Z: PLAYER REMOVED [ 3784537954] califesfr
+2022-08-08T02:03:19Z: PLAYER REMOVED [   77406647] PradaGJayla
+2022-08-08T02:03:24Z: PLAYER CHATTED [ 1984251860] cloudXYZXYZ1234      (  -14.4,     4.2,    -2.9)
+  YES
+2022-08-08T02:03:29Z: PLAYER ADDED   [ 2514827102] dotorsono20
+2022-08-08T02:03:33Z: PLAYER REMOVED [ 1984251860] cloudXYZXYZ1234
+2022-08-08T02:03:36Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -33.6,     3.7,    12.8)
+  can u hear me 
+2022-08-08T02:03:37Z: CHRCTER ADDED  [   45606006] eric10037            (   22.4,     5.5,    -1.2)
+2022-08-08T02:03:41Z: CHRCTER ADDED  [  646974519] riojhknf             (   16.8,     4.5,     3.5)
+2022-08-08T02:03:44Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -33.6,     3.7,    12.8)
+  omg 
+2022-08-08T02:03:45Z: PLAYER CHATTED [  317476668] cyberrbean           (  -32.2,     4.2,    16.9)
+  no
+2022-08-08T02:03:50Z: PLAYER CHATTED [ 2593953090] HenriiDawg           (  -41.9,     3.9,    -1.2)
+  no
+2022-08-08T02:03:51Z: CHRCTER ADDED  [ 2514827102] dotorsono20          (   17.6,     4.2,     1.8)
+2022-08-08T02:03:52Z: PLAYER ADDED   [ 3784537954] califesfr
+2022-08-08T02:03:59Z: CHRCTER ADDED  [ 3784537954] califesfr            (   21.4,     4.7,    -4.6)
+2022-08-08T02:04:02Z: PLAYER ADDED   [ 1524394862] GLO4KS
+2022-08-08T02:04:04Z: PLAYER ADDED   [ 1636732093] Supercell0962
+2022-08-08T02:04:06Z: CHRCTER ADDED  [ 3784537954] califesfr            (   17.8,     4.7,    -2.0)
+2022-08-08T02:04:08Z: PLAYER ADDED   [  364748868] JoJo_isthebes
+2022-08-08T02:04:10Z: CHRCTER ADDED  [ 1524394862] GLO4KS               (   13.2,     4.7,    -1.0)
+2022-08-08T02:04:14Z: PLAYER REMOVED [ 1636732093] Supercell0962
+2022-08-08T02:04:14Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -35.3,     3.7,    -0.9)
+  can anyone hear me 
+2022-08-08T02:04:16Z: PLAYER ADDED   [  150494564] cutebunny626
+2022-08-08T02:04:22Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -32.6,     3.8,    -4.9)
+  bro ima die 
+2022-08-08T02:04:28Z: PLAYER REMOVED [  646974519] riojhknf
+2022-08-08T02:04:32Z: PLAYER ADDED   [ 2539122322] IToFury_II
+2022-08-08T02:04:33Z: PLAYER REMOVED [   45606006] eric10037
+2022-08-08T02:04:33Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -32.6,     3.8,    -4.9)
+  how do i fix this 
+2022-08-08T02:04:35Z: PLAYER ADDED   [ 3729411479] rarevc2
+2022-08-08T02:04:42Z: CHRCTER ADDED  [ 3729411479] rarevc2              (   16.5,     4.5,    -2.5)
+2022-08-08T02:04:57Z: PLAYER ADDED   [   45606006] eric10037
+2022-08-08T02:05:00Z: CHRCTER ADDED  [   45606006] eric10037            (   16.1,     5.5,    -4.1)
+2022-08-08T02:05:00Z: PLAYER REMOVED [ 2358332416] AnonymousN1ght
+2022-08-08T02:05:04Z: CHRCTER ADDED  [  719740596] LESSLICN             (   16.9,     5.5,     3.2)
+2022-08-08T02:05:05Z: PLAYER CHATTED [ 2687404813] VI7NT                (  -30.4,     4.3,     4.1)
+  y does someone sound like a chipmunk 
+2022-08-08T02:05:27Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -30.0,     3.8,     1.2)
+  voice changer
+2022-08-08T02:05:30Z: PLAYER REMOVED [  150494564] cutebunny626
+2022-08-08T02:05:31Z: PLAYER REMOVED [ 1619346534] Isadoraspm6
+2022-08-08T02:05:33Z: PLAYER REMOVED [ 3729411479] rarevc2
+2022-08-08T02:05:34Z: PLAYER REMOVED [ 2514827102] dotorsono20
+2022-08-08T02:05:38Z: PLAYER CHATTED [ 3784537954] califesfr            (  -36.1,     4.2,     4.2)
+  talk
+2022-08-08T02:05:43Z: PLAYER CHATTED [ 2687404813] VI7NT                (  -39.0,     4.2,     3.5)
+  Y DL U HAVE A VIICE CHABGE4
+2022-08-08T02:05:43Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -37.4,     3.7,     3.4)
+  i have it on rn 
+2022-08-08T02:05:44Z: PLAYER CHATTED [ 3784537954] califesfr            (  -36.0,     4.2,     5.6)
+  i cna hear u
+2022-08-08T02:05:49Z: PLAYER CHATTED [ 3784537954] califesfr            (  -36.0,     4.2,     5.6)
+  keyboard asmr core
+2022-08-08T02:05:55Z: PLAYER ADDED   [ 3729411479] rarevc2
+2022-08-08T02:05:58Z: PLAYER REMOVED [   45606006] eric10037
+2022-08-08T02:05:59Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -37.4,     3.7,     3.4)
+  noah stop 
+2022-08-08T02:06:04Z: PLAYER CHATTED [ 3784537954] califesfr            (  -36.0,     4.2,     5.6)
+  CAN U HEAR ME
+2022-08-08T02:06:04Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -37.4,     3.7,     3.4)
+  i cant heear u 
+2022-08-08T02:06:08Z: PLAYER CHATTED [ 3784537954] califesfr            (  -36.1,     4.2,     5.4)
+  omg
+2022-08-08T02:06:10Z: PLAYER CHATTED [ 3784537954] califesfr            (  -36.1,     4.2,     5.4)
+  u rejoin
+2022-08-08T02:06:13Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -36.2,     3.7,     4.5)
+  hear*
+2022-08-08T02:06:16Z: PLAYER CHATTED [ 3784537954] califesfr            (  -36.1,     4.2,     5.4)
+  pick high quality
+2022-08-08T02:06:16Z: PLAYER ADDED   [ 1011036701] chiscueth
+2022-08-08T02:06:17Z: PLAYER REMOVED [ 2687404813] VI7NT
+2022-08-08T02:06:17Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -36.2,     3.7,     4.5)
+  k
+2022-08-08T02:06:22Z: PLAYER CHATTED [ 2593953090] HenriiDawg           (  -41.8,     3.9,     3.5)
+  Jolie
+2022-08-08T02:06:24Z: CHRCTER ADDED  [ 1011036701] chiscueth            (   16.0,     5.1,     5.0)
+2022-08-08T02:06:25Z: PLAYER REMOVED [  317476668] cyberrbean
+2022-08-08T02:06:26Z: PLAYER CHATTED [ 2593953090] HenriiDawg           (  -41.8,     3.9,     3.5)
+  where is amons
+2022-08-08T02:06:28Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -32.6,     3.8,     2.2)
+  k
+2022-08-08T02:06:28Z: PLAYER ADDED   [  534819682] goofy_alondra
+2022-08-08T02:06:30Z: PLAYER REMOVED [ 3602921027] Xx_Froyomo
+2022-08-08T02:06:36Z: CHRCTER ADDED  [  534819682] goofy_alondra        (   14.6,     4.8,     2.7)
+2022-08-08T02:06:38Z: PLAYER ADDED   [   93304516] Atomic838
+2022-08-08T02:06:39Z: PLAYER REMOVED [ 1326380481] axelrex9
+2022-08-08T02:06:56Z: PLAYER ADDED   [   16411379] emil9397
+2022-08-08T02:06:58Z: PLAYER ADDED   [ 3602921027] Xx_Froyomo
+2022-08-08T02:07:04Z: PLAYER ADDED   [ 3765593420] ningning_0aespa
+2022-08-08T02:07:07Z: PLAYER ADDED   [ 3778448814] SpxcePJ
+2022-08-08T02:07:09Z: PLAYER REMOVED [  534819682] goofy_alondra
+2022-08-08T02:07:15Z: CHRCTER ADDED  [ 3778448814] SpxcePJ              (   20.3,     4.5,     0.7)
+2022-08-08T02:07:18Z: PLAYER ADDED   [  396422850] tscribs118
+2022-08-08T02:07:26Z: CHRCTER ADDED  [  396422850] tscribs118           (   18.3,     4.5,    -2.2)
+2022-08-08T02:07:30Z: PLAYER ADDED   [  150494564] cutebunny626
+2022-08-08T02:07:30Z: CHRCTER ADDED  [ 3784537954] califesfr            (   13.8,     4.7,     2.4)
+2022-08-08T02:07:31Z: PLAYER ADDED   [  892622616] Ladybunbun_01
+2022-08-08T02:07:34Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -41.3,     3.7,     0.7)
+  can anyone hear me 
+2022-08-08T02:07:38Z: CHRCTER ADDED  [  150494564] cutebunny626         (   20.0,     4.2,     5.0)
+2022-08-08T02:07:39Z: PLAYER CHATTED [ 3784537954] califesfr            (  -39.6,     4.2,     0.3)
+  can u hear me
+2022-08-08T02:07:49Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -42.0,     3.7,    -0.6)
+  nope just call 
+2022-08-08T02:07:49Z: PLAYER CHATTED [ 2593953090] HenriiDawg           (  -41.9,     3.9,     2.7)
+  BAD
+2022-08-08T02:07:53Z: PLAYER ADDED   [  469068904] donuts5678ajpw
+2022-08-08T02:07:54Z: PLAYER REMOVED [  364748868] JoJo_isthebes
+2022-08-08T02:07:59Z: PLAYER REMOVED [ 1011036701] chiscueth
+2022-08-08T02:08:01Z: CHRCTER ADDED  [  469068904] donuts5678ajpw       (   13.2,     4.4,     2.6)
+2022-08-08T02:08:07Z: PLAYER REMOVED [ 3778448814] SpxcePJ
+2022-08-08T02:08:16Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -42.0,     3.7,    -0.6)
+  can anyone hear me 
+2022-08-08T02:08:19Z: PLAYER ADDED   [ 3302555438] pollode_consome
+2022-08-08T02:08:32Z: PLAYER CHATTED [ 3784537954] califesfr            (  -36.4,     4.2,    -1.2)
+  can u hear me
+2022-08-08T02:08:34Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -31.7,     3.8,     7.5)
+  can u hear me 
+2022-08-08T02:08:35Z: PLAYER ADDED   [  647152326] I_HasABucketz
+2022-08-08T02:08:39Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -31.7,     3.8,     7.5)
+  yea
+2022-08-08T02:08:47Z: PLAYER REMOVED [ 3302555438] pollode_consome
+2022-08-08T02:08:58Z: PLAYER CHATTED [ 3784537954] califesfr            (  -31.9,     4.3,     3.2)
+  can u hear me
+2022-08-08T02:09:05Z: PLAYER REMOVED [   93304516] Atomic838
+2022-08-08T02:09:05Z: PLAYER CHATTED [ 1391943563] cutekittycupcake800  (  -34.5,     3.8,    -1.6)
+  YES
+2022-08-08T02:09:06Z: PLAYER ADDED   [ 3302555438] pollode_consome
+2022-08-08T02:09:08Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -25.0,     3.8,     3.5)
+  omg
+2022-08-08T02:09:18Z: PLAYER REMOVED [ 1524394862] GLO4KS
+2022-08-08T02:09:19Z: PLAYER CHATTED [ 3784537954] califesfr            (  -26.7,     4.3,     3.5)
+  can u hear me
+2022-08-08T02:09:22Z: PLAYER CHATTED [ 3784537954] califesfr            (  -26.7,     4.3,     3.5)
+  i can hear u
+2022-08-08T02:09:23Z: PLAYER REMOVED [ 1594231147] sincerixy
+2022-08-08T02:09:23Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -25.0,     3.8,     3.5)
+  no
+2022-08-08T02:09:26Z: PLAYER CHATTED [ 3784537954] califesfr            (  -26.7,     4.3,     3.5)
+  ur just alggy
+2022-08-08T02:09:29Z: PLAYER CHATTED [ 3784537954] califesfr            (  -26.7,     4.3,     3.5)
+  wait for it to load
+2022-08-08T02:09:47Z: PLAYER ADDED   [  100922155] xHoIySilverz
+2022-08-08T02:09:53Z: PLAYER REMOVED [  647152326] I_HasABucketz
+2022-08-08T02:10:03Z: PLAYER CHATTED [  892622616] Ladybunbun_01        (  -49.5,     6.8,     0.2)
+  can yall headr me?
+2022-08-08T02:10:04Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -42.1,     3.7,    -1.2)
+  yea
+2022-08-08T02:10:15Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -42.1,     3.7,    -1.9)
+  why
+2022-08-08T02:10:15Z: PLAYER CHATTED [  469068904] donuts5678ajpw       (  -41.8,     3.9,     2.1)
+  no
+2022-08-08T02:10:18Z: PLAYER CHATTED [ 3784537954] califesfr            (  -41.6,     4.2,    -0.6)
+  can u hear me
+2022-08-08T02:10:18Z: PLAYER ADDED   [  544182266] terrazasjr9
+2022-08-08T02:10:22Z: PLAYER REMOVED [ 2593953090] HenriiDawg
+2022-08-08T02:10:23Z: PLAYER ADDED   [ 1786311596] AlanI7u7I
+2022-08-08T02:10:25Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -42.1,     3.7,    -1.9)
+  omg BAHAHAHAHAH
+2022-08-08T02:10:26Z: CHRCTER ADDED  [  544182266] terrazasjr9          (   16.8,     5.6,    -4.3)
+2022-08-08T02:10:27Z: PLAYER CHATTED [  100922155] xHoIySilverz         (  -42.0,     3.9,     3.6)
+  vc still loading
+2022-08-08T02:10:33Z: PLAYER CHATTED [  100922155] xHoIySilverz         (  -42.0,     3.9,     3.8)
+  lol
+2022-08-08T02:10:35Z: PLAYER ADDED   [ 2693501129] ToxicJerome
+2022-08-08T02:10:39Z: PLAYER CHATTED [ 3784537954] califesfr            (  -41.8,     4.2,    -0.4)
+  ur vc prob still loading
+2022-08-08T02:10:43Z: CHRCTER ADDED  [ 2693501129] ToxicJerome          (   19.6,     4.5,    -3.3)
+2022-08-08T02:10:44Z: PLAYER CHATTED [ 3784537954] califesfr            (  -41.4,     4.2,    -0.6)
+  jayden
+2022-08-08T02:10:45Z: PLAYER REMOVED [  150494564] cutebunny626
+2022-08-08T02:11:11Z: PLAYER REMOVED [ 2693501129] ToxicJerome
+2022-08-08T02:11:16Z: PLAYER REMOVED [ 2539122322] IToFury_II
+2022-08-08T02:11:18Z: PLAYER REMOVED [ 1786311596] AlanI7u7I
+2022-08-08T02:11:21Z: PLAYER ADDED   [ 2693501129] ToxicJerome
+2022-08-08T02:11:25Z: PLAYER ADDED   [ 1468246496] SlowingPython5917
+2022-08-08T02:11:28Z: CHRCTER ADDED  [ 2693501129] ToxicJerome          (   19.2,     4.5,     4.1)
+2022-08-08T02:11:35Z: PLAYER CHATTED [  719740596] LESSLICN             (  -42.0,     4.6,    -3.3)
+  OMGG
+2022-08-08T02:11:37Z: PLAYER CHATTED [  100922155] xHoIySilverz         (  -41.7,     3.9,    -0.7)
+  yoo
+2022-08-08T02:11:50Z: PLAYER CHATTED [ 1468246496] SlowingPython5917    (  -41.6,     4.0,     5.2)
+  .
+2022-08-08T02:11:56Z: PLAYER ADDED   [  363507274] jennprzepiora
+2022-08-08T02:11:56Z: PLAYER CHATTED [ 1468246496] SlowingPython5917    (  -41.5,     4.0,     5.2)
+  Y’all kids
+2022-08-08T02:12:00Z: PLAYER ADDED   [ 3367837320] COOLfardzs
+2022-08-08T02:12:02Z: PLAYER CHATTED [ 1468246496] SlowingPython5917    (  -41.5,     4.0,     5.2)
+  You don’t got vc
+2022-08-08T02:12:09Z: PLAYER REMOVED [ 2693501129] ToxicJerome
+2022-08-08T02:12:20Z: PLAYER CHATTED [ 3784537954] califesfr            (  -37.2,     4.2,    -1.4)
+  can u hear me
+2022-08-08T02:12:26Z: PLAYER CHATTED [ 1468246496] SlowingPython5917    (  -37.7,     4.0,    -3.2)
+  Nah boi
+2022-08-08T02:12:27Z: CHRCTER ADDED  [ 3602921027] Xx_Froyomo           (   13.3,     4.2,    -3.0)
+2022-08-08T02:12:29Z: PLAYER CHATTED [ 3784537954] califesfr            (  -37.2,     4.2,    -1.4)
+  bruh
+2022-08-08T02:12:31Z: PLAYER REMOVED [   24585084] GloKnightZ
+2022-08-08T02:12:32Z: PLAYER CHATTED [ 1468246496] SlowingPython5917    (  -36.5,     4.0,    -4.7)
+  My wifi a_$_$
+2022-08-08T02:12:35Z: PLAYER CHATTED [ 3784537954] califesfr            (  -37.2,     4.2,    -1.4)
+  ur still loading
+2022-08-08T02:12:39Z: PLAYER CHATTED [ 1468246496] SlowingPython5917    (  -35.7,     4.0,    -4.8)
+  Yeah
+2022-08-08T02:12:41Z: PLAYER ADDED   [  205340953] RusticPachoncito
+2022-08-08T02:12:43Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -38.0,     3.7,    -1.5)
+  MAGIC
+2022-08-08T02:12:48Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -38.0,     3.7,    -1.5)
+  NICE
+2022-08-08T02:12:51Z: PLAYER CHATTED [ 3784537954] califesfr            (  -37.3,     4.2,    -2.6)
+  can u hear me
+2022-08-08T02:12:55Z: PLAYER REMOVED [ 3367837320] COOLfardzs
+2022-08-08T02:12:55Z: PLAYER CHATTED [ 1468246496] SlowingPython5917    (  -35.7,     4.0,    -4.8)
+  My mic look like a damn silver 
+2022-08-08T02:13:00Z: PLAYER CHATTED [ 1468246496] SlowingPython5917    (  -35.7,     4.0,    -4.8)
+  It don’t work
+2022-08-08T02:13:01Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -33.8,     3.8,    -3.2)
+  CAN U HEAR ME
+2022-08-08T02:13:04Z: CHRCTER ADDED  [   16411379] emil9397             (   15.7,     4.8,    -3.7)
+2022-08-08T02:13:05Z: PLAYER REMOVED [ 1468246496] SlowingPython5917
+2022-08-08T02:13:05Z: PLAYER ADDED   [  149484451] Reset50060414
+2022-08-08T02:13:13Z: PLAYER CHATTED [  363507274] jennprzepiora        (  -36.3,     4.1,    -2.4)
+  mine wont work eitehr 
+2022-08-08T02:13:19Z: PLAYER ADDED   [ 1119775529] xkrose21
+2022-08-08T02:13:20Z: PLAYER CHATTED [ 3784537954] califesfr            (  -37.4,     4.2,    -3.2)
+  i cna hear u
+2022-08-08T02:13:25Z: PLAYER CHATTED [ 3784537954] califesfr            (  -35.7,     4.3,    -2.6)
+  u just need to load
+2022-08-08T02:13:25Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -33.8,     3.8,    -3.2)
+  OMG ME AND MY FRIEND TO 
+2022-08-08T02:13:31Z: PLAYER ADDED   [ 1018469249] pytdavasia
+2022-08-08T02:13:37Z: PLAYER REMOVED [  719740596] LESSLICN
+2022-08-08T02:13:43Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -33.7,     3.8,    -4.1)
+  WHAT DO U MEAN BY THAT 
+2022-08-08T02:13:44Z: PLAYER ADDED   [ 2431327934] yogirlliz2
+2022-08-08T02:13:57Z: CHRCTER ADDED  [   16411379] emil9397             (   20.2,     4.8,    -3.1)
+2022-08-08T02:14:05Z: PLAYER REMOVED [ 1119775529] xkrose21
+2022-08-08T02:14:05Z: PLAYER REMOVED [ 3765593420] ningning_0aespa
+2022-08-08T02:14:06Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -40.0,     3.7,    -0.8)
+  WDYM
+2022-08-08T02:14:09Z: PLAYER REMOVED [   16411379] emil9397
+2022-08-08T02:14:15Z: PLAYER CHATTED [ 3784537954] califesfr            (  -42.6,     4.2,   -30.1)
+  can u hear me
+2022-08-08T02:14:17Z: PLAYER CHATTED [ 3784537954] califesfr            (  -41.8,     4.2,   -29.3)
+  talk
+2022-08-08T02:14:20Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -43.3,     3.7,   -26.0)
+  NO
+2022-08-08T02:14:22Z: PLAYER CHATTED [ 1018469249] pytdavasia           (  -32.3,     4.3,     6.9)
+  .
+2022-08-08T02:14:22Z: PLAYER REMOVED [  205340953] RusticPachoncito
+2022-08-08T02:14:22Z: PLAYER CHATTED [ 3784537954] califesfr            (  -41.8,     4.2,   -29.3)
+  i can hear ur keyboard asmr
+2022-08-08T02:14:25Z: PLAYER CHATTED [ 3784537954] califesfr            (  -42.5,     4.2,   -28.5)
+  YES
+2022-08-08T02:14:26Z: PLAYER ADDED   [ 3778189143] somerandomkid485
+2022-08-08T02:14:28Z: PLAYER CHATTED [ 3784537954] califesfr            (  -42.5,     4.2,   -28.5)
+  i can hear u
+2022-08-08T02:14:34Z: CHRCTER ADDED  [ 3778189143] somerandomkid485     (   13.7,     4.2,     0.3)
+2022-08-08T02:14:34Z: PLAYER ADDED   [ 1119775529] xkrose21
+2022-08-08T02:14:38Z: PLAYER CHATTED [ 3784537954] califesfr            (  -42.5,     4.2,   -28.5)
+  ur loading still
+2022-08-08T02:14:42Z: PLAYER CHATTED [ 3784537954] califesfr            (  -42.5,     4.2,   -28.5)
+  ########
+2022-08-08T02:14:44Z: PLAYER ADDED   [ 2417107227] IndiraIsobelle8
+2022-08-08T02:14:46Z: PLAYER CHATTED [ 3784537954] califesfr            (  -42.5,     4.2,   -28.5)
+  ur just laggy
+2022-08-08T02:14:52Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -43.3,     3.7,   -26.0)
+  HOW LONG DOES IT TAKE 
+2022-08-08T02:14:53Z: PLAYER CHATTED [ 3784537954] califesfr            (  -42.5,     4.2,   -28.5)
+  and have mc donalds x kfc wifi
+2022-08-08T02:14:57Z: PLAYER REMOVED [ 1119775529] xkrose21
+2022-08-08T02:14:57Z: PLAYER CHATTED [ 3784537954] califesfr            (  -42.5,     4.2,   -28.5)
+  idk
+2022-08-08T02:15:01Z: PLAYER ADDED   [ 1203513927] jeremy3manuellee
+2022-08-08T02:15:02Z: PLAYER CHATTED [ 3784537954] califesfr            (  -42.5,     4.2,   -28.5)
+  just wait till u hear me
+2022-08-08T02:15:10Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -43.3,     3.7,   -26.0)
+  U HAD THE SAME PROB
+2022-08-08T02:15:12Z: PLAYER CHATTED [ 1203513927] jeremy3manuellee     (   18.4,     3.8,     4.5)
+  Str- club
+2022-08-08T02:15:17Z: PLAYER REMOVED [  544182266] terrazasjr9
+2022-08-08T02:15:20Z: PLAYER REMOVED [ 3302555438] pollode_consome
+2022-08-08T02:15:22Z: PLAYER REMOVED [  363507274] jennprzepiora
+2022-08-08T02:15:23Z: PLAYER REMOVED [ 2431327934] yogirlliz2
+2022-08-08T02:15:25Z: CHRCTER ADDED  [  396422850] tscribs118           (   17.8,     5.8,     3.0)
+2022-08-08T02:15:34Z: PLAYER CHATTED [ 1203513927] jeremy3manuellee     (  -33.5,     3.9,    -0.3)
+  Cringe
+2022-08-08T02:15:46Z: PLAYER CHATTED [ 1203513927] jeremy3manuellee     (   50.7,    12.8,   -12.3)
+  Admin
+2022-08-08T02:15:53Z: PLAYER CHATTED [ 1203513927] jeremy3manuellee     (   50.7,    12.8,   -12.3)
+  I want to go to the prision
+2022-08-08T02:16:00Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (   -7.6,     4.2,    -4.5)
+   THERES SPIN THE BOTTLE 
+2022-08-08T02:16:09Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -42.1,     3.7,    -0.2)
+  LOOK
+2022-08-08T02:16:12Z: PLAYER CHATTED [  892622616] Ladybunbun_01        (    0.0,     4.6,    -0.3)
+  cf## ###l hearme>
+2022-08-08T02:16:13Z: PLAYER REMOVED [ 2417107227] IndiraIsobelle8
+2022-08-08T02:16:23Z: PLAYER CHATTED [  892622616] Ladybunbun_01        (  -32.5,     4.7,     2.0)
+  can yall hear me??
+2022-08-08T02:16:26Z: PLAYER REMOVED [ 1203513927] jeremy3manuellee
+2022-08-08T02:16:26Z: PLAYER ADDED   [  365731242] Oblivion_Darkn
+2022-08-08T02:16:29Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (   79.1,    18.1,   -37.0)
+  UR LIKE 6\
+2022-08-08T02:16:31Z: PLAYER ADDED   [ 3570347426] CDK_Auntie
+2022-08-08T02:16:38Z: PLAYER CHATTED [  100922155] xHoIySilverz         (  -41.9,     3.9,     2.4)
+  damn
+2022-08-08T02:16:38Z: CHRCTER ADDED  [ 3570347426] CDK_Auntie           (   18.2,     4.5,     0.6)
+2022-08-08T02:16:40Z: PLAYER ADDED   [ 1203513927] jeremy3manuellee
+2022-08-08T02:16:41Z: PLAYER CHATTED [  396422850] tscribs118           (   48.4,    10.9,    -5.7)
+  nah im 13
+2022-08-08T02:16:41Z: PLAYER CHATTED [  892622616] Ladybunbun_01        (  -41.1,     4.6,     4.0)
+  WOOOOOAAHHHHH
+2022-08-08T02:16:41Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -15.3,     4.2,     4.2)
+  NOT FUNNY
+2022-08-08T02:16:44Z: PLAYER CHATTED [  100922155] xHoIySilverz         (  -41.9,     3.9,     2.4)
+  omg
+2022-08-08T02:16:48Z: PLAYER CHATTED [ 3784537954] califesfr            (  -41.8,     4.2,     7.0)
+  my cewchie throbbing
+2022-08-08T02:16:49Z: PLAYER CHATTED [   69135661] G0DZD0NTDIE          (  -40.8,     6.9,    -0.1)
+  Autokey.
+2022-08-08T02:16:51Z: PLAYER CHATTED [  892622616] Ladybunbun_01        (  -41.1,     4.6,     4.0)
+  this is good what???
+2022-08-08T02:16:51Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (    1.1,     3.7,     0.6)
+  IM 15 
+2022-08-08T02:16:52Z: PLAYER CHATTED [ 1203513927] jeremy3manuellee     (   32.7,     6.0,    -0.3)
+  Admin
+2022-08-08T02:16:54Z: PLAYER CHATTED [   69135661] G0DZD0NTDIE          (  -40.8,     6.9,    -0.1)
+  It
+2022-08-08T02:16:55Z: PLAYER CHATTED [  100922155] xHoIySilverz         (  -41.9,     3.9,     2.4)
+  BRO THIS IS REAL TALENT
+2022-08-08T02:16:56Z: PLAYER CHATTED [   69135661] G0DZD0NTDIE          (  -39.1,     6.8,     0.1)
+  Is
+2022-08-08T02:16:59Z: PLAYER CHATTED [ 3784537954] califesfr            (  -40.0,     4.2,     3.2)
+  OHH
+2022-08-08T02:17:00Z: PLAYER ADDED   [ 3727160808] VortexxVX2ALT
+2022-08-08T02:17:00Z: PLAYER CHATTED [   69135661] G0DZD0NTDIE          (  -39.1,    11.9,     0.1)
+  Auto key
+2022-08-08T02:17:01Z: CHRCTER ADDED  [ 3778189143] somerandomkid485     (   17.0,     4.2,     1.9)
+2022-08-08T02:17:01Z: PLAYER CHATTED [ 3784537954] califesfr            (  -40.0,     4.2,     3.2)
+  tru
+2022-08-08T02:17:02Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (    1.1,     3.7,     0.6)
+  ###
+2022-08-08T02:17:03Z: PLAYER CHATTED [   69135661] G0DZD0NTDIE          (  -39.1,     6.8,     0.1)
+  .
+2022-08-08T02:17:04Z: PLAYER CHATTED [ 3784537954] califesfr            (  -40.0,     4.2,     3.2)
+  idk what that is
+2022-08-08T02:17:05Z: PLAYER CHATTED [ 1203513927] jeremy3manuellee     (   51.9,    18.1,   -97.1)
+  I want go to the prision
+2022-08-08T02:17:11Z: PLAYER CHATTED [  892622616] Ladybunbun_01        (  -41.1,     4.6,     4.0)
+  who put thumbs down yall are sick
+2022-08-08T02:17:12Z: PLAYER CHATTED [   69135661] G0DZD0NTDIE          (  -39.1,     6.8,     0.1)
+  Ya'll hear how the intervals are cramped.
+2022-08-08T02:17:15Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (    1.1,     3.7,     0.6)
+  THATS 
+2022-08-08T02:17:19Z: PLAYER CHATTED [ 3784537954] califesfr            (  -38.1,     4.2,     2.8)
+  i dont play piano
+2022-08-08T02:17:21Z: PLAYER ADDED   [ 1045668743] HunterXD_247
+2022-08-08T02:17:21Z: PLAYER ADDED   [  476698163] ImStillJamal
+2022-08-08T02:17:21Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (    1.1,     3.7,     0.6)
+  UR NOT FUNNY
+2022-08-08T02:17:21Z: PLAYER CHATTED [  100922155] xHoIySilverz         (  -41.9,     3.9,     2.4)
+  exactly 
+2022-08-08T02:17:25Z: PLAYER CHATTED [ 3784537954] califesfr            (  -38.1,     4.2,     2.8)
+  i only play flute
+2022-08-08T02:17:25Z: PLAYER REMOVED [ 1203513927] jeremy3manuellee
+2022-08-08T02:17:35Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (    5.0,     3.7,    -0.6)
+  UR IN SPED CLASSES
+2022-08-08T02:17:35Z: PLAYER CHATTED [  100922155] xHoIySilverz         (  -38.5,     3.9,     5.2)
+  auto
+2022-08-08T02:17:36Z: PLAYER CHATTED [  396422850] tscribs118           (    6.2,     3.7,    -1.0)
+  ik im just joking
+2022-08-08T02:17:40Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (    5.0,     3.7,    -0.6)
+  LITTLE KID
+2022-08-08T02:17:42Z: PLAYER CHATTED [  149484451] Reset50060414        (  -41.5,     4.0,    -7.3)
+  Yes
+2022-08-08T02:17:45Z: PLAYER CHATTED [  396422850] tscribs118           (    6.0,     3.7,    -2.0)
+  im 13
+2022-08-08T02:17:49Z: PLAYER REMOVED [ 1018469249] pytdavasia
+2022-08-08T02:17:50Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (    5.1,     3.7,    -1.2)
+  RIGHT
+2022-08-08T02:17:57Z: PLAYER CHATTED [  396422850] tscribs118           (    6.0,     3.7,    -2.0)
+  i was jk
+2022-08-08T02:18:02Z: PLAYER CHATTED [  149484451] Reset50060414        (  -41.9,     4.0,    -5.2)
+  …
+2022-08-08T02:18:03Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (    3.8,     3.7,    -0.2)
+  HES 
+2022-08-08T02:18:07Z: PLAYER CHATTED [ 3570347426] CDK_Auntie           (    3.6,     4.0,     1.6)
+  ?
+2022-08-08T02:18:12Z: PLAYER CHATTED [  396422850] tscribs118           (    6.0,     3.7,    -2.0)
+  bro how u know dat?
+2022-08-08T02:18:16Z: PLAYER ADDED   [ 3710964977] rav_oso27
+2022-08-08T02:18:21Z: PLAYER REMOVED [  476698163] ImStillJamal
+2022-08-08T02:18:26Z: PLAYER REMOVED [  892622616] Ladybunbun_01
+2022-08-08T02:18:26Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (    3.8,     3.7,    -0.2)
+  IDK
+2022-08-08T02:18:29Z: PLAYER CHATTED [  396422850] tscribs118           (    6.0,     3.7,    -2.0)
+  if youve never ### ## ###
+2022-08-08T02:18:30Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (    4.1,     3.7,    -1.2)
+  ...
+2022-08-08T02:18:41Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (    4.1,     3.7,    -1.2)
+  MY BROTHER IS IN THEM 
+2022-08-08T02:18:44Z: PLAYER ADDED   [ 3561220848] 13kzzxs
+2022-08-08T02:18:51Z: PLAYER REMOVED [ 1391943563] cutekittycupcake800
+2022-08-08T02:18:53Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (    4.1,     3.7,    -1.2)
+  ...
+2022-08-08T02:18:58Z: CHRCTER ADDED  [ 3784537954] califesfr            (   17.8,     4.7,     0.2)
+2022-08-08T02:19:06Z: PLAYER ADDED   [ 1984251860] cloudXYZXYZ1234
+2022-08-08T02:19:06Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (    4.1,     3.7,    -1.2)
+  WHAT???
+2022-08-08T02:19:10Z: PLAYER ADDED   [ 1391943563] cutekittycupcake800
+2022-08-08T02:19:11Z: PLAYER ADDED   [ 2268319681] 13kkaylaq
+2022-08-08T02:19:13Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (    4.1,     3.7,    -1.2)
+  ...
+2022-08-08T02:19:19Z: PLAYER REMOVED [ 1391943563] cutekittycupcake800
+2022-08-08T02:19:25Z: PLAYER CHATTED [ 3727160808] VortexxVX2ALT        (  -41.6,     3.7,     0.3)
+  hurry up
+2022-08-08T02:19:30Z: PLAYER CHATTED [ 3561220848] 13kzzxs              (  -40.4,     3.7,     3.1)
+  wt
+2022-08-08T02:19:31Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (    4.6,     3.7,    -0.6)
+  CAN ANYONE HEAR ME 
+2022-08-08T02:19:38Z: PLAYER CHATTED [ 3570347426] CDK_Auntie           (   11.1,    26.3,  -120.5)
+  o
+2022-08-08T02:19:45Z: PLAYER CHATTED [ 3784537954] califesfr            (    4.5,     4.2,    -0.8)
+  can u hear me
+2022-08-08T02:19:46Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (    4.4,     3.7,    -2.0)
+  OMG 
+2022-08-08T02:19:46Z: PLAYER CHATTED [ 3561220848] 13kzzxs              (  -40.4,     3.7,     3.1)
+  noodl dsnt have vc??
+2022-08-08T02:19:46Z: PLAYER REMOVED [ 3570347426] CDK_Auntie
+2022-08-08T02:19:50Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (    4.4,     3.7,    -2.0)
+  DAM 
+2022-08-08T02:19:53Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (    4.4,     3.7,    -2.0)
+  NO
+2022-08-08T02:19:55Z: PLAYER CHATTED [  365731242] Oblivion_Darkn       (  -21.4,    19.2,   -71.3)
+  dang it
+2022-08-08T02:19:58Z: PLAYER ADDED   [ 1185038871] Nani_niya07
+2022-08-08T02:19:59Z: PLAYER CHATTED [ 3727160808] VortexxVX2ALT        (    5.1,     3.7,     0.8)
+  nope
+2022-08-08T02:20:03Z: PLAYER ADDED   [   14683533] HyenaFurryGamer
+2022-08-08T02:20:05Z: PLAYER CHATTED [ 3561220848] 13kzzxs              (  -40.4,     3.7,     3.1)
+  wth
+2022-08-08T02:20:11Z: PLAYER CHATTED [  365731242] Oblivion_Darkn       (  -21.4,    19.2,   -71.3)
+  oof
+2022-08-08T02:20:14Z: PLAYER ADDED   [ 3570347426] CDK_Auntie
+2022-08-08T02:20:18Z: PLAYER CHATTED [ 3729411479] rarevc2              (  -20.4,    18.4,   -75.0)
+  lemme hop
+2022-08-08T02:20:19Z: PLAYER CHATTED [  100922155] xHoIySilverz         (  -41.9,     3.9,     0.2)
+  woah
+2022-08-08T02:20:19Z: PLAYER CHATTED [ 3729411479] rarevc2              (  -20.4,    18.4,   -75.0)
+  on da beat
+2022-08-08T02:20:23Z: PLAYER ADDED   [  206064933] syrmi
+2022-08-08T02:20:24Z: PLAYER CHATTED [ 3561220848] 13kzzxs              (  -41.9,     3.7,     3.7)
+  eee
+2022-08-08T02:20:26Z: PLAYER REMOVED [  469068904] donuts5678ajpw
+2022-08-08T02:20:29Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (    3.1,     3.7,    -0.3)
+  NOAH ITS LITTLE ZACH
+2022-08-08T02:20:34Z: PLAYER ADDED   [ 3783978816] jenni_idk0
+2022-08-08T02:20:34Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (    6.1,     3.7,    -4.8)
+  LOOK
+2022-08-08T02:20:36Z: PLAYER CHATTED [ 3561220848] 13kzzxs              (  -41.9,     3.7,     3.7)
+  macaroni
+2022-08-08T02:20:36Z: PLAYER ADDED   [  851711501] pandinhakawai00914
+2022-08-08T02:20:41Z: PLAYER CHATTED [ 3727160808] VortexxVX2ALT        (    6.1,     3.7,    -1.5)
+  yuiorp
+2022-08-08T02:20:42Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (    6.6,     3.7,    -5.9)
+  HERE
+2022-08-08T02:20:44Z: CHRCTER ADDED  [  851711501] pandinhakawai00914   (   18.4,     4.6,    -1.2)
+2022-08-08T02:20:45Z: PLAYER REMOVED [ 2268319681] 13kkaylaq
+2022-08-08T02:20:46Z: PLAYER CHATTED [  396422850] tscribs118           (    7.3,     3.7,    -4.3)
+  my names not noah
+2022-08-08T02:20:48Z: PLAYER REMOVED [ 3783978816] jenni_idk0
+2022-08-08T02:20:48Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (    6.6,     3.7,    -5.9)
+  NOAH COME 
+2022-08-08T02:20:58Z: PLAYER ADDED   [  607590624] ILoveFlamingos007
+2022-08-08T02:20:59Z: PLAYER CHATTED [ 3561220848] 13kzzxs              (  -41.8,     3.7,     3.7)
+  AY
+2022-08-08T02:21:00Z: PLAYER CHATTED [ 1045668743] HunterXD_247         (  -49.0,     7.4,    -0.3)
+  I'm not that good so....
+2022-08-08T02:21:06Z: PLAYER CHATTED [ 3727160808] VortexxVX2ALT        (    1.7,     3.7,    -4.8)
+  ehhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+2022-08-08T02:21:07Z: PLAYER REMOVED [ 1185038871] Nani_niya07
+2022-08-08T02:21:09Z: PLAYER CHATTED [ 3570347426] CDK_Auntie           (   12.4,    25.9,  -121.8)
+  still dont hear?
+2022-08-08T02:21:13Z: PLAYER ADDED   [ 2053189928] beingforcedtoply
+2022-08-08T02:21:13Z: PLAYER CHATTED [ 3570347426] CDK_Auntie           (   15.0,    25.4,  -123.4)
+  damn
+2022-08-08T02:21:14Z: PLAYER CHATTED [ 3727160808] VortexxVX2ALT        (    3.4,     3.7,    -3.7)
+  idk man
+2022-08-08T02:21:17Z: PLAYER CHATTED [  365731242] Oblivion_Darkn       (  -21.5,    18.4,   -73.8)
+  do you use auto?
+2022-08-08T02:21:20Z: CHRCTER ADDED  [ 2053189928] beingforcedtoply     (   19.8,     4.7,     1.5)
+2022-08-08T02:21:27Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (   12.4,    18.1,  -109.6)
+  I CAN 
+2022-08-08T02:21:31Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (   12.4,    18.1,  -109.6)
+  CAN U HEAR M E
+2022-08-08T02:21:33Z: PLAYER REMOVED [  607590624] ILoveFlamingos007
+2022-08-08T02:21:36Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (   12.4,    18.1,  -109.6)
+  ME*
+2022-08-08T02:21:37Z: PLAYER CHATTED [ 3561220848] 13kzzxs              (  -41.8,     3.7,     3.7)
+  AHHHH
+2022-08-08T02:21:37Z: PLAYER ADDED   [  607590624] ILoveFlamingos007
+2022-08-08T02:21:38Z: PLAYER CHATTED [ 3727160808] VortexxVX2ALT        (   10.6,     3.7,    -2.2)
+  im next to a bee hive
+2022-08-08T02:21:42Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (   12.4,    18.1,  -109.6)
+  OMG 
+2022-08-08T02:21:43Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (   12.4,    18.1,  -109.6)
+  YEA
+2022-08-08T02:21:48Z: CHRCTER ADDED  [  607590624] ILoveFlamingos007    (   21.6,     4.5,    -3.1)
+2022-08-08T02:21:48Z: PLAYER ADDED   [ 1374000992] SrTuiZ336
+2022-08-08T02:21:48Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (   16.1,    20.1,  -125.6)
+  GG
+2022-08-08T02:21:50Z: PLAYER ADDED   [ 1658117001] kikimoods
+2022-08-08T02:21:50Z: PLAYER CHATTED [ 3784537954] califesfr            (  -41.7,     4.2,     8.1)
+  keep playing
+2022-08-08T02:21:50Z: PLAYER REMOVED [   14683533] HyenaFurryGamer
+2022-08-08T02:21:52Z: PLAYER REMOVED [  365731242] Oblivion_Darkn
+2022-08-08T02:21:54Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (   13.8,    20.1,  -125.5)
+  GOOD JOB 
+2022-08-08T02:21:56Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (   13.8,    20.1,  -125.5)
+  WOW
+2022-08-08T02:22:00Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (   13.8,    20.1,  -125.5)
+  ITS 
+2022-08-08T02:22:03Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (   13.8,    20.1,  -125.5)
+  OKAY 
+2022-08-08T02:22:04Z: PLAYER REMOVED [ 1658117001] kikimoods
+2022-08-08T02:22:14Z: PLAYER CHATTED [ 1045668743] HunterXD_247         (  -38.9,     5.1,     2.1)
+  Thx
+2022-08-08T02:22:17Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (   13.8,    20.1,  -125.5)
+  # ### #### FOR ME TO
+2022-08-08T02:22:20Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (   13.8,    20.1,  -125.5)
+  HARD 
+2022-08-08T02:22:24Z: PLAYER ADDED   [ 3486686380] Gokusrighttoe
+2022-08-08T02:22:26Z: PLAYER REMOVED [  851711501] pandinhakawai00914
+2022-08-08T02:22:28Z: PLAYER REMOVED [ 3570347426] CDK_Auntie
+2022-08-08T02:22:30Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (   13.8,    20.1,  -125.5)
+  OH 
+2022-08-08T02:22:32Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (   13.8,    20.1,  -125.5)
+  K
+2022-08-08T02:22:33Z: PLAYER CHATTED [ 3727160808] VortexxVX2ALT        (    5.9,    20.1,  -123.5)
+  cool
+2022-08-08T02:22:36Z: PLAYER CHATTED [ 3561220848] 13kzzxs              (  -42.0,     3.7,    -0.2)
+  e
+2022-08-08T02:22:45Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (   13.8,    20.1,  -125.5)
+  REALLY NICE WOW
+2022-08-08T02:22:46Z: PLAYER CHATTED [ 3561220848] 13kzzxs              (  -41.8,     3.7,     2.5)
+  Yes
+2022-08-08T02:22:55Z: PLAYER CHATTED [ 3561220848] 13kzzxs              (  -41.9,     3.7,     0.0)
+  yes
+2022-08-08T02:22:59Z: PLAYER ADDED   [   36785305] tapdataus
+2022-08-08T02:23:04Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (   13.8,    20.1,  -125.5)
+  GET IT 
+2022-08-08T02:23:04Z: PLAYER ADDED   [ 3784809485] Samsclub10haha
+2022-08-08T02:23:10Z: PLAYER CHATTED [ 3561220848] 13kzzxs              (  -41.7,     3.7,     3.9)
+  Dm
+2022-08-08T02:23:15Z: PLAYER CHATTED [ 2053189928] beingforcedtoply     (   75.2,    23.6,  -267.1)
+  Sndlskseoeis demos
+2022-08-08T02:23:18Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (   14.6,    20.1,  -126.0)
+  NOAH 
+2022-08-08T02:23:22Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (   14.8,    20.1,  -126.8)
+  ITS OK
+2022-08-08T02:23:23Z: PLAYER REMOVED [  206064933] syrmi
+2022-08-08T02:23:23Z: PLAYER CHATTED [ 3561220848] 13kzzxs              (  -41.7,     3.7,     3.9)
+  Ay
+2022-08-08T02:23:25Z: PLAYER REMOVED [ 3486686380] Gokusrighttoe
+2022-08-08T02:23:27Z: PLAYER CHATTED [ 3784537954] califesfr            (   13.3,    20.6,  -126.3)
+  can u hear me
+2022-08-08T02:23:33Z: PLAYER CHATTED [ 3727160808] VortexxVX2ALT        (    7.5,    20.1,  -123.6)
+  nope
+2022-08-08T02:23:33Z: PLAYER CHATTED [ 3784537954] califesfr            (    7.0,    20.6,  -127.2)
+  omg
+2022-08-08T02:23:33Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (    9.0,    20.1,  -127.5)
+  NO
+2022-08-08T02:23:37Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (    7.7,    20.1,  -127.2)
+  I CANT 
+2022-08-08T02:23:39Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (    7.7,    20.1,  -127.2)
+  SAME 
+2022-08-08T02:23:44Z: PLAYER CHATTED [ 3784537954] califesfr            (    6.8,    20.6,  -127.7)
+  im gonna cry
+2022-08-08T02:23:50Z: PLAYER REMOVED [   36785305] tapdataus
+2022-08-08T02:23:51Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (    7.7,    20.1,  -127.2)
+  LIKE I WANT TO TALK 
+2022-08-08T02:23:51Z: PLAYER CHATTED [ 3561220848] 13kzzxs              (  -41.7,     3.7,     3.9)
+  this kinda good
+2022-08-08T02:23:53Z: PLAYER CHATTED [ 3784537954] califesfr            (    6.4,    20.6,  -128.6)
+  can u hear me yet
+2022-08-08T02:23:55Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (    7.7,    20.1,  -127.2)
+  SAME 
+2022-08-08T02:23:58Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (    7.7,    20.1,  -127.2)
+  NOOO
+2022-08-08T02:24:00Z: PLAYER CHATTED [ 1045668743] HunterXD_247         (  -38.9,     5.1,     2.1)
+  Yeah
+2022-08-08T02:24:06Z: PLAYER CHATTED [ 3561220848] 13kzzxs              (  -42.0,     3.7,     0.4)
+  e
+2022-08-08T02:24:08Z: PLAYER REMOVED [ 3784537954] califesfr
+2022-08-08T02:24:10Z: PLAYER ADDED   [ 3101612080] Sailor_1329
+2022-08-08T02:24:11Z: PLAYER CHATTED [ 2053189928] beingforcedtoply     (   75.2,    23.6,  -267.1)
+  You can dr #########################
+2022-08-08T02:24:14Z: PLAYER CHATTED [ 3727160808] VortexxVX2ALT        (    7.5,    20.1,  -123.6)
+  your the only i can hear
+2022-08-08T02:24:15Z: CHRCTER ADDED  [ 3729411479] rarevc2              (   20.3,     4.5,    -3.4)
+2022-08-08T02:24:20Z: CHRCTER ADDED  [ 2053189928] beingforcedtoply     (   16.0,     4.7,     4.8)
+2022-08-08T02:24:29Z: PLAYER ADDED   [ 3784537954] califesfr
+2022-08-08T02:24:38Z: PLAYER CHATTED [ 3561220848] 13kzzxs              (  -41.8,     3.7,     0.9)
+  uh
+2022-08-08T02:24:53Z: PLAYER CHATTED [ 3727160808] VortexxVX2ALT        (  -22.6,    18.1,   -77.9)
+  unmute
+2022-08-08T02:24:54Z: PLAYER REMOVED [  100922155] xHoIySilverz
+2022-08-08T02:25:02Z: PLAYER CHATTED [ 3727160808] VortexxVX2ALT        (  -22.6,    18.1,   -77.9)
+  ye
+2022-08-08T02:25:08Z: PLAYER ADDED   [ 2256815395] maddyisbald
+2022-08-08T02:25:09Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -21.4,    19.1,   -71.3)
+  I CAN 
+2022-08-08T02:25:09Z: PLAYER CHATTED [ 3784537954] califesfr            (  -15.8,    18.7,   -73.0)
+  ty
+2022-08-08T02:25:10Z: PLAYER ADDED   [ 3784814894] UmmokUMBYE
+2022-08-08T02:25:12Z: PLAYER CHATTED [ 3727160808] VortexxVX2ALT        (  -19.9,    18.1,   -76.3)
+  np
+2022-08-08T02:25:17Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -21.4,    19.1,   -71.3)
+  HOW DO I GET OFFF 
+2022-08-08T02:25:25Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -21.4,    19.1,   -71.3)
+  CAN U HEAR ME 
+2022-08-08T02:25:32Z: PLAYER ADDED   [ 2373001170] ArthurBaiffus01
+2022-08-08T02:25:33Z: PLAYER CHATTED [ 1984251860] cloudXYZXYZ1234      (   49.9,    11.7,    -9.8)
+  NO BOZO
+2022-08-08T02:25:34Z: PLAYER CHATTED [  607590624] ILoveFlamingos007    (   99.5,     9.0,    21.1)
+  can u hear me
+2022-08-08T02:25:35Z: PLAYER REMOVED [ 2256815395] maddyisbald
+2022-08-08T02:25:35Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (  -21.4,    19.1,   -71.3)
+  IM RESAT
+2022-08-08T02:25:36Z: PLAYER REMOVED [ 3784814894] UmmokUMBYE
+2022-08-08T02:25:39Z: PLAYER ADDED   [ 3513308557] alexisairaalex
+2022-08-08T02:25:41Z: PLAYER CHATTED [ 1045668743] HunterXD_247         (  -38.9,     5.1,     2.1)
+  Can yall hear me?
+2022-08-08T02:25:41Z: CHRCTER ADDED  [ 3602921027] Xx_Froyomo           (   17.8,     4.2,    -2.0)
+2022-08-08T02:25:44Z: PLAYER REMOVED [ 3561220848] 13kzzxs
+2022-08-08T02:25:44Z: PLAYER ADDED   [ 3784814894] UmmokUMBYE
+2022-08-08T02:25:45Z: PLAYER REMOVED [ 3710964977] rav_oso27
+2022-08-08T02:25:47Z: PLAYER REMOVED [ 2373001170] ArthurBaiffus01
+2022-08-08T02:25:47Z: PLAYER CHATTED [  607590624] ILoveFlamingos007    (   99.0,     9.1,    20.9)
+  i can
+2022-08-08T02:25:52Z: CHRCTER ADDED  [ 3784814894] UmmokUMBYE           (   19.3,     4.2,    -3.9)
+2022-08-08T02:25:55Z: PLAYER CHATTED [ 1984251860] cloudXYZXYZ1234      (  -38.2,     4.0,    -1.1)
+  yes i think
+2022-08-08T02:25:57Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (    8.8,    18.1,  -115.3)
+  CAN U HEAR ME 
+2022-08-08T02:26:00Z: PLAYER ADDED   [ 3687659905] 5tb6yruvh
+2022-08-08T02:26:00Z: PLAYER CHATTED [  607590624] ILoveFlamingos007    (   98.2,     8.7,    22.8)
+  one sec
+2022-08-08T02:26:01Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (    6.9,    20.1,  -117.0)
+  NOAH
+2022-08-08T02:26:02Z: PLAYER REMOVED [ 3784814894] UmmokUMBYE
+2022-08-08T02:26:02Z: PLAYER ADDED   [  326052597] salty_tenocca
+2022-08-08T02:26:05Z: PLAYER CHATTED [ 3784537954] califesfr            (    6.1,    20.6,  -120.4)
+  no
+2022-08-08T02:26:07Z: PLAYER CHATTED [ 1045668743] HunterXD_247         (  -38.9,     5.1,     2.1)
+  Ok, thanks.
+2022-08-08T02:26:08Z: PLAYER REMOVED [ 1984251860] cloudXYZXYZ1234
+2022-08-08T02:26:09Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (    6.2,    20.1,  -118.1)
+  OMG
+2022-08-08T02:26:14Z: PLAYER CHATTED [ 3101612080] Sailor_1329          (  -41.9,     4.8,     1.7)
+  xD?
+2022-08-08T02:26:14Z: PLAYER CHATTED [ 3784537954] califesfr            (    6.1,    20.6,  -120.4)
+  im still loading
+2022-08-08T02:26:18Z: PLAYER REMOVED [ 3101612080] Sailor_1329
+2022-08-08T02:26:18Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (    6.2,    20.1,  -118.1)
+  IMA DIE WAIT COME 
+2022-08-08T02:26:19Z: PLAYER ADDED   [ 3391110176] AndMisterNormie
+2022-08-08T02:26:31Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (   52.0,    18.0,  -109.9)
+  I CAN HEAR U
+2022-08-08T02:26:38Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (   55.5,    18.0,  -154.5)
+  NOAH
+2022-08-08T02:26:41Z: PLAYER ADDED   [  748041641] Xanti_scarredX
+2022-08-08T02:26:46Z: PLAYER ADDED   [  180664987] fire_rock71
+2022-08-08T02:26:47Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (   55.5,    18.0,  -154.5)
+  CAN U HEAR ME
+2022-08-08T02:26:48Z: CHRCTER ADDED  [  748041641] Xanti_scarredX       (   18.4,     4.4,    -1.1)
+2022-08-08T02:26:53Z: PLAYER CHATTED [ 3784537954] califesfr            (   55.0,    18.5,  -156.1)
+  no
+2022-08-08T02:26:59Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (   55.5,    18.0,  -154.5)
+  OMG
+2022-08-08T02:26:59Z: PLAYER ADDED   [ 2736010652] vve3ns
+2022-08-08T02:26:59Z: PLAYER REMOVED [  607590624] ILoveFlamingos007
+2022-08-08T02:27:02Z: PLAYER CHATTED [ 3391110176] AndMisterNormie      (   37.4,     8.5,    -2.9)
+  my vc is not working lol
+2022-08-08T02:27:06Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (   53.9,    18.0,  -139.7)
+  MEE TO
+2022-08-08T02:27:06Z: CHRCTER ADDED  [ 2736010652] vve3ns               (   16.7,     4.2,     3.7)
+2022-08-08T02:27:09Z: PLAYER ADDED   [   36785305] tapdataus
+2022-08-08T02:27:15Z: PLAYER CHATTED [ 3391110176] AndMisterNormie      (   16.0,     4.0,    -0.9)
+  where are you!
+2022-08-08T02:27:22Z: PLAYER ADDED   [  607590624] ILoveFlamingos007
+2022-08-08T02:27:39Z: PLAYER REMOVED [  326052597] salty_tenocca
+2022-08-08T02:27:46Z: PLAYER ADDED   [  888227982] TheLastGuest20290
+2022-08-08T02:27:58Z: PLAYER CHATTED [ 3727160808] VortexxVX2ALT        (   11.7,     3.7,    -3.0)
+  buy me some vegan water
+2022-08-08T02:28:04Z: PLAYER CHATTED [ 3391110176] AndMisterNormie      (  -39.2,     4.0,    -0.1)
+  who gave this kid voice chat
+2022-08-08T02:28:14Z: PLAYER CHATTED [ 3784537954] califesfr            (    6.6,     4.2,    -3.0)
+  can u hear me
+2022-08-08T02:28:15Z: PLAYER REMOVED [ 3391110176] AndMisterNormie
+2022-08-08T02:28:16Z: PLAYER REMOVED [ 2053189928] beingforcedtoply
+2022-08-08T02:28:18Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (    5.7,     3.7,    -1.3)
+  LEAVE
+2022-08-08T02:28:21Z: PLAYER CHATTED [ 3784537954] califesfr            (    6.5,     4.2,    -2.7)
+  ok
+2022-08-08T02:28:22Z: PLAYER CHATTED [ 3602921027] Xx_Froyomo           (    5.7,     3.7,    -1.3)
+  YEA
+2022-08-08T02:28:22Z: PLAYER REMOVED [  748041641] Xanti_scarredX
+2022-08-08T02:28:24Z: PLAYER REMOVED [ 3784537954] califesfr
+2022-08-08T02:28:25Z: PLAYER REMOVED [ 3602921027] Xx_Froyomo
+2022-08-08T02:28:27Z: PLAYER ADDED   [ 1462801801] vampicittaaa
+2022-08-08T02:28:40Z: PLAYER REMOVED [ 3513308557] alexisairaalex
+2022-08-08T02:28:41Z: PLAYER REMOVED [ 1462801801] vampicittaaa
+2022-08-08T02:28:57Z: PLAYER REMOVED [ 2713391797] tanjirosfami1y
+2022-08-08T02:29:03Z: PLAYER ADDED   [ 2713391797] tanjirosfami1y
+2022-08-08T02:29:08Z: PLAYER ADDED   [ 1542526680] XxArtUro0xX
+2022-08-08T02:29:09Z: PLAYER REMOVED [ 2736010652] vve3ns
+2022-08-08T02:29:11Z: CHRCTER ADDED  [ 2713391797] tanjirosfami1y       (   15.5,     4.4,     0.5)
+2022-08-08T02:29:30Z: PLAYER ADDED   [ 3784597956] ItsNick213
+2022-08-08T02:29:33Z: PLAYER CHATTED [ 3727160808] VortexxVX2ALT        (    3.9,    20.1,  -126.5)
+  yes
+2022-08-08T02:29:34Z: PLAYER REMOVED [ 2713391797] tanjirosfami1y
+2022-08-08T02:29:41Z: PLAYER CHATTED [ 3727160808] VortexxVX2ALT        (    3.9,    20.1,  -126.5)
+  k
+2022-08-08T02:29:42Z: CHRCTER ADDED  [ 3784597956] ItsNick213           (   13.7,     4.5,    -3.4)
+2022-08-08T02:29:43Z: PLAYER REMOVED [ 3729411479] rarevc2
+2022-08-08T02:29:56Z: PLAYER CHATTED [ 3727160808] VortexxVX2ALT        (    3.9,    20.1,  -126.5)
+  ##
+2022-08-08T02:30:03Z: PLAYER CHATTED [ 3727160808] VortexxVX2ALT        (    3.9,    20.1,  -126.5)
+  yes
+2022-08-08T02:30:04Z: PLAYER REMOVED [ 1045668743] HunterXD_247
+2022-08-08T02:30:11Z: PLAYER CHATTED [ 3727160808] VortexxVX2ALT        (    3.9,    20.1,  -126.5)
+  notes
+2022-08-08T02:30:30Z: PLAYER REMOVED [ 3784597956] ItsNick213
+2022-08-08T02:30:51Z: PLAYER CHATTED [ 3687659905] 5tb6yruvh            (  -49.0,     6.2,    -0.3)
+  GOD IS GOOD
+2022-08-08T02:30:55Z: PLAYER CHATTED [ 3687659905] 5tb6yruvh            (  -49.0,     6.2,    -0.3)
+  GOD IS GREAT
+2022-08-08T02:31:01Z: PLAYER ADDED   [  329208725] Hariethvvy
+2022-08-08T02:31:02Z: PLAYER CHATTED [   69135661] G0DZD0NTDIE          (   11.1,    21.1,  -125.2)
+  ^ Thank you
+2022-08-08T02:31:04Z: PLAYER CHATTED [   69135661] G0DZD0NTDIE          (   11.1,    21.1,  -125.2)
+  I am good
+2022-08-08T02:31:07Z: PLAYER CHATTED [   69135661] G0DZD0NTDIE          (   11.1,    21.1,  -125.2)
+  And I am great
+2022-08-08T02:31:09Z: CHRCTER ADDED  [  329208725] Hariethvvy           (   14.3,     4.2,    -0.7)
+2022-08-08T02:31:19Z: PLAYER CHATTED [ 3687659905] 5tb6yruvh            (  -49.1,     6.2,    -0.5)
+  thank you
+2022-08-08T02:31:20Z: PLAYER CHATTED [ 3727160808] VortexxVX2ALT        (  -23.0,     3.7,    -9.4)
+  ummmmmmmmmmmmmmmmmmmmmmmmmm
+2022-08-08T02:31:21Z: PLAYER REMOVED [ 1374000992] SrTuiZ336
+2022-08-08T02:31:23Z: PLAYER CHATTED [  888227982] TheLastGuest20290    (  -41.3,     4.0,     3.2)
+  still by dre
+2022-08-08T02:31:29Z: PLAYER CHATTED [ 3687659905] 5tb6yruvh            (  -41.9,     4.0,    -1.5)
+  OH YEA
+2022-08-08T02:32:16Z: PLAYER ADDED   [  479237550] LLcoolK4
+2022-08-08T02:32:59Z: PLAYER REMOVED [  888227982] TheLastGuest20290
+2022-08-08T02:33:00Z: PLAYER REMOVED [ 1542526680] XxArtUro0xX
+2022-08-08T02:33:03Z: PLAYER ADDED   [ 1044896701] FluffyJesus345
+2022-08-08T02:33:04Z: PLAYER ADDED   [   47958401] Opal9080
+2022-08-08T02:33:11Z: PLAYER ADDED   [  200851636] FunnyGeorge6042
+2022-08-08T02:33:20Z: PLAYER ADDED   [ 3712646813] Va01_youraveromni
+2022-08-08T02:33:26Z: PLAYER REMOVED [  149484451] Reset50060414
+2022-08-08T02:33:26Z: PLAYER REMOVED [  200851636] FunnyGeorge6042
+2022-08-08T02:33:41Z: PLAYER REMOVED [  180664987] fire_rock71
+2022-08-08T02:33:43Z: PLAYER ADDED   [ 3724405584] User7201_LXM
+2022-08-08T02:33:46Z: PLAYER REMOVED [ 3784809485] Samsclub10haha
+2022-08-08T02:34:01Z: PLAYER REMOVED [  479237550] LLcoolK4
+2022-08-08T02:34:12Z: PLAYER REMOVED [   47958401] Opal9080
+2022-08-08T02:34:12Z: PLAYER REMOVED [ 3712646813] Va01_youraveromni
+2022-08-08T02:34:15Z: PLAYER REMOVED [  329208725] Hariethvvy
+2022-08-08T02:35:24Z: PLAYER ADDED   [ 3752841993] tonnbunn
+2022-08-08T02:35:37Z: PLAYER ADDED   [ 3481572682] L0g4n_26k
+2022-08-08T02:35:55Z: PLAYER REMOVED [ 3481572682] L0g4n_26k
+2022-08-08T02:35:56Z: PLAYER REMOVED [ 3724405584] User7201_LXM
+2022-08-08T02:36:08Z: PLAYER CHATTED [ 3687659905] 5tb6yruvh            (  -41.9,     4.0,    -0.0)
+  BOOO
+2022-08-08T02:36:13Z: PLAYER ADDED   [ 1458740818] 9kvkq
+2022-08-08T02:36:17Z: PLAYER CHATTED [ 3687659905] 5tb6yruvh            (  -41.8,     4.0,    -1.0)
+  ###########################
+2022-08-08T02:36:21Z: PLAYER CHATTED [ 3687659905] 5tb6yruvh            (  -41.6,     4.0,    -1.6)
+  ######
+2022-08-08T02:36:23Z: PLAYER ADDED   [ 3407816745] Maria_15940
+2022-08-08T02:36:25Z: PLAYER CHATTED [ 3687659905] 5tb6yruvh            (  -41.7,     4.0,    -2.7)
+  BOO
+2022-08-08T02:36:28Z: PLAYER CHATTED [ 3687659905] 5tb6yruvh            (  -41.7,     4.0,    -0.9)
+  BOO
+2022-08-08T02:36:30Z: PLAYER CHATTED [ 3687659905] 5tb6yruvh            (  -41.7,     4.0,    -0.9)
+  BOO
+2022-08-08T02:36:40Z: PLAYER ADDED   [  149484451] Reset50060414
+2022-08-08T02:36:41Z: PLAYER CHATTED [ 3687659905] 5tb6yruvh            (  -41.7,     4.0,    -0.9)
+  I do have a mic its better then urs
+2022-08-08T02:36:52Z: PLAYER CHATTED [ 3687659905] 5tb6yruvh            (  -41.7,     4.0,    -1.4)
+  sup
+2022-08-08T02:37:02Z: PLAYER CHATTED [ 3687659905] 5tb6yruvh            (  -41.7,     4.0,    -1.4)
+  BOO
+2022-08-08T02:37:03Z: PLAYER CHATTED [  607590624] ILoveFlamingos007    (   31.0,     5.2,    -3.3)
+  what
+2022-08-08T02:37:05Z: PLAYER CHATTED [ 3687659905] 5tb6yruvh            (  -41.7,     4.0,    -1.4)
+  THIS SUCKS
+2022-08-08T02:37:06Z: PLAYER ADDED   [ 3177536784] Warrenpogi_1228
+2022-08-08T02:37:19Z: PLAYER ADDED   [   82906329] sparklebottom21
+2022-08-08T02:37:27Z: CHRCTER ADDED  [   82906329] sparklebottom21      (   14.5,     4.4,    -2.4)
+2022-08-08T02:37:44Z: PLAYER CHATTED [ 1458740818] 9kvkq                (  -39.2,     3.7,    -3.9)
+  shut up
+2022-08-08T02:37:55Z: PLAYER ADDED   [ 3731735417] lieuplay3r
+2022-08-08T02:38:08Z: PLAYER REMOVED [ 1044896701] FluffyJesus345
+2022-08-08T02:38:08Z: CHRCTER ADDED  [ 3752841993] tonnbunn             (   21.0,     4.4,    -0.6)
+2022-08-08T02:38:11Z: PLAYER REMOVED [  149484451] Reset50060414
+2022-08-08T02:38:19Z: PLAYER ADDED   [ 3763791925] CHXIAIJS
+2022-08-08T02:38:24Z: PLAYER REMOVED [ 3731735417] lieuplay3r
+2022-08-08T02:38:26Z: PLAYER ADDED   [ 2394121878] xItzChrxs
+2022-08-08T02:38:34Z: CHRCTER ADDED  [ 2394121878] xItzChrxs            (   19.9,     4.2,     4.5)
+2022-08-08T02:38:35Z: PLAYER ADDED   [  149357588] benhulksmash
+2022-08-08T02:38:35Z: PLAYER REMOVED [ 3407816745] Maria_15940
+2022-08-08T02:38:36Z: PLAYER REMOVED [ 3763791925] CHXIAIJS
+2022-08-08T02:38:43Z: PLAYER ADDED   [  149484451] Reset50060414
+2022-08-08T02:38:43Z: PLAYER ADDED   [  697907685] Not45229
+2022-08-08T02:38:48Z: PLAYER ADDED   [ 3731735417] lieuplay3r
+2022-08-08T02:38:48Z: PLAYER CHATTED [ 3687659905] 5tb6yruvh            (  -49.0,     6.2,    -0.3)
+  o hi everyone
+2022-08-08T02:38:52Z: PLAYER CHATTED [ 3687659905] 5tb6yruvh            (  -49.0,     6.2,    -0.3)
+  Uhm
+2022-08-08T02:38:54Z: PLAYER REMOVED [ 3177536784] Warrenpogi_1228
+2022-08-08T02:38:56Z: PLAYER CHATTED [ 3687659905] 5tb6yruvh            (  -49.0,     6.2,    -0.3)
+  LALALALLALALAL
+2022-08-08T02:39:04Z: PLAYER CHATTED [ 3687659905] 5tb6yruvh            (  -49.0,     6.2,    -0.3)
+  making my waydowntown
+2022-08-08T02:39:08Z: PLAYER CHATTED [ 3687659905] 5tb6yruvh            (  -49.0,     6.2,    -0.3)
+  with my team
+2022-08-08T02:39:14Z: PLAYER REMOVED [ 3731735417] lieuplay3r
+2022-08-08T02:39:14Z: PLAYER ADDED   [ 3648017919] kenzguini
+2022-08-08T02:39:14Z: PLAYER CHATTED [ 3687659905] 5tb6yruvh            (  -49.0,     6.2,    -0.3)
+  were going to get me some foot cream
+2022-08-08T02:39:19Z: PLAYER CHATTED [ 1458740818] 9kvkq                (  -35.7,     3.7,    -0.6)
+  ..
+2022-08-08T02:39:23Z: PLAYER CHATTED [ 3687659905] 5tb6yruvh            (  -49.0,     6.2,    -0.3)
+  yo whos gettigncalled
+2022-08-08T02:39:24Z: PLAYER REMOVED [ 1458740818] 9kvkq
+2022-08-08T02:39:31Z: PLAYER ADDED   [ 3731735417] lieuplay3r
+2022-08-08T02:39:33Z: CHRCTER ADDED  [ 3687659905] 5tb6yruvh            (   15.2,     4.5,    -4.8)
+2022-08-08T02:39:34Z: PLAYER CHATTED [ 3727160808] VortexxVX2ALT        (  -49.2,     6.0,    -0.4)
+  i went outside and fell
+2022-08-08T02:39:41Z: PLAYER CHATTED [ 3727160808] VortexxVX2ALT        (  -49.2,     6.0,    -0.4)
+  the end
+2022-08-08T02:39:50Z: PLAYER CHATTED [   36785305] tapdataus            (   52.8,    17.7,   -56.3)
+  /
+2022-08-08T02:40:06Z: PLAYER REMOVED [ 2394121878] xItzChrxs
+2022-08-08T02:40:14Z: PLAYER REMOVED [ 3727160808] VortexxVX2ALT
+2022-08-08T02:40:19Z: PLAYER REMOVED [   82906329] sparklebottom21
+2022-08-08T02:40:23Z: PLAYER ADDED   [ 3727160808] VortexxVX2ALT
+2022-08-08T02:40:31Z: CHRCTER ADDED  [ 3727160808] VortexxVX2ALT        (   21.9,     4.2,    -0.8)
+2022-08-08T02:40:31Z: PLAYER REMOVED [ 3727160808] VortexxVX2ALT
+2022-08-08T02:40:35Z: PLAYER ADDED   [  165546929] MasterDrakeyd
+2022-08-08T02:40:40Z: PLAYER REMOVED [  165546929] MasterDrakeyd
+2022-08-08T02:40:59Z: PLAYER ADDED   [ 1415111992] b33_1290
+2022-08-08T02:41:04Z: PLAYER ADDED   [  500500939] sixmonthoftheyear
+2022-08-08T02:41:09Z: PLAYER REMOVED [   36785305] tapdataus
+2022-08-08T02:41:11Z: PLAYER ADDED   [ 1027909732] itschiefkeefhoe
+2022-08-08T02:41:20Z: PLAYER ADDED   [  279786662] savagegirlBrooklyn13
+2022-08-08T02:41:22Z: PLAYER ADDED   [ 3252953478] heartsyadi
+2022-08-08T02:41:25Z: PLAYER CHATTED [ 3687659905] 5tb6yruvh            (  -41.7,     4.0,    -0.2)
+  elvis
+2022-08-08T02:41:38Z: PLAYER ADDED   [ 3692808312] kyndalspish
+2022-08-08T02:41:42Z: PLAYER CHATTED [ 3687659905] 5tb6yruvh            (  -41.9,     4.0,     0.8)
+  the guy from fortnite
+2022-08-08T02:41:48Z: PLAYER CHATTED [ 3252953478] heartsyadi           (  -41.5,     4.0,    -6.9)
+  u got a big ah heads
+2022-08-08T02:41:48Z: PLAYER CHATTED [  279786662] savagegirlBrooklyn13 (  -41.9,     4.0,    -3.0)
+  Ur momma
+2022-08-08T02:41:50Z: PLAYER CHATTED [ 3252953478] heartsyadi           (  -41.9,     4.0,    -6.0)
+  ..
+2022-08-08T02:41:58Z: PLAYER ADDED   [ 2955446135] Miss_ssuchka
+2022-08-08T02:42:04Z: PLAYER ADDED   [ 3407816745] Maria_15940
+2022-08-08T02:42:05Z: PLAYER REMOVED [ 3778189143] somerandomkid485
+2022-08-08T02:42:06Z: CHRCTER ADDED  [  279786662] savagegirlBrooklyn13 (   21.4,     4.5,     4.1)
+2022-08-08T02:42:07Z: PLAYER REMOVED [  279786662] savagegirlBrooklyn13
+2022-08-08T02:42:13Z: PLAYER CHATTED [ 3252953478] heartsyadi           (  -39.8,     4.0,    -4.8)
+  EW WHY IS UR FACE THAT
+2022-08-08T02:42:19Z: PLAYER ADDED   [  319483916] AL6SE
+2022-08-08T02:42:26Z: CHRCTER ADDED  [  319483916] AL6SE                (   21.5,     4.3,    -2.8)
+2022-08-08T02:42:27Z: PLAYER REMOVED [  500500939] sixmonthoftheyear
+2022-08-08T02:42:32Z: PLAYER REMOVED [ 3692808312] kyndalspish
+2022-08-08T02:42:35Z: PLAYER ADDED   [ 3774821165] Violentseed
+2022-08-08T02:42:48Z: PLAYER REMOVED [ 3648017919] kenzguini
+2022-08-08T02:42:58Z: PLAYER ADDED   [ 3648017919] kenzguini
+2022-08-08T02:43:08Z: PLAYER CHATTED [ 3752841993] tonnbunn             (  -21.5,     4.1,     3.6)
+  this kinda...sad 💀
+2022-08-08T02:43:08Z: CHRCTER ADDED  [ 3648017919] kenzguini            (   16.9,     3.8,    -1.3)
+2022-08-08T02:43:20Z: PLAYER REMOVED [  319483916] AL6SE
+2022-08-08T02:43:21Z: PLAYER REMOVED [ 3687659905] 5tb6yruvh
+2022-08-08T02:43:22Z: PLAYER ADDED   [ 3462578972] hi_michael00
+2022-08-08T02:43:28Z: PLAYER REMOVED [ 3648017919] kenzguini
+2022-08-08T02:43:29Z: PLAYER ADDED   [ 3655259826] catdo1le
+2022-08-08T02:43:31Z: PLAYER REMOVED [ 3252953478] heartsyadi
+2022-08-08T02:43:42Z: PLAYER ADDED   [ 3252953478] heartsyadi
+2022-08-08T02:43:50Z: PLAYER ADDED   [ 1772594589] Real_TatsTopVideos
+2022-08-08T02:44:03Z: PLAYER ADDED   [ 1770325936] xNotladyirisx
+2022-08-08T02:44:22Z: PLAYER REMOVED [ 3252953478] heartsyadi
+2022-08-08T02:44:22Z: PLAYER CHATTED [ 3774821165] Violentseed          (  -16.8,     4.2,   -31.9)
+  BRUH MY VOICE CHAT ISIN'T WORKINGG
+2022-08-08T02:44:25Z: CHRCTER ADDED  [ 3407816745] Maria_15940          (   15.7,     4.7,     2.6)
+2022-08-08T02:44:27Z: PLAYER ADDED   [ 3252953478] heartsyadi
+2022-08-08T02:44:34Z: PLAYER ADDED   [ 2012980860] XzSayanzX
+2022-08-08T02:44:36Z: PLAYER ADDED   [ 1516350852] Stephencurry30643
+2022-08-08T02:44:36Z: PLAYER REMOVED [ 3407816745] Maria_15940
+2022-08-08T02:44:49Z: PLAYER REMOVED [ 1415111992] b33_1290
+2022-08-08T02:44:50Z: PLAYER REMOVED [ 2012980860] XzSayanzX
+2022-08-08T02:44:51Z: PLAYER ADDED   [ 3685623865] YSkullzy
+2022-08-08T02:45:00Z: PLAYER REMOVED [ 3685623865] YSkullzy
+2022-08-08T02:45:03Z: PLAYER ADDED   [  245092258] John13Cena11
+2022-08-08T02:45:12Z: PLAYER REMOVED [ 1027909732] itschiefkeefhoe
+2022-08-08T02:45:28Z: PLAYER ADDED   [   77530832] nagareaper
+2022-08-08T02:45:41Z: PLAYER REMOVED [   69135661] G0DZD0NTDIE
+2022-08-08T02:45:52Z: PLAYER ADDED   [ 3288980509] AtomicWarden
+2022-08-08T02:45:55Z: PLAYER ADDED   [  687188236] Dory_2727
+2022-08-08T02:45:57Z: PLAYER ADDED   [ 2352269961] Sammiyy20221
+2022-08-08T02:45:57Z: PLAYER CHATTED [ 3774821165] Violentseed          (  -50.2,     6.5,    -4.1)
+  amen!
+2022-08-08T02:46:06Z: PLAYER REMOVED [ 2352269961] Sammiyy20221
+2022-08-08T02:46:08Z: PLAYER CHATTED [  396422850] tscribs118           (  -47.4,     5.9,    -4.7)
+  AMEN BURN THE GOD BLOOD FOR THE BLOOD GOD
+2022-08-08T02:46:08Z: PLAYER CHATTED [ 3774821165] Violentseed          (  -41.8,     4.2,    -0.6)
+  OMG FINALLY VC
+2022-08-08T02:46:13Z: PLAYER ADDED   [  160765309] OrphicBbx
+2022-08-08T02:46:14Z: PLAYER ADDED   [  356670991] TrillThrills
+2022-08-08T02:46:16Z: PLAYER ADDED   [  678161410] qwertyash09
+2022-08-08T02:46:16Z: PLAYER REMOVED [ 3731735417] lieuplay3r
+2022-08-08T02:46:17Z: PLAYER ADDED   [ 3231905364] namjohnkimbpop
+2022-08-08T02:46:20Z: CHRCTER ADDED  [  160765309] OrphicBbx            (   19.6,     5.6,    -4.4)
+2022-08-08T02:46:34Z: PLAYER REMOVED [  697907685] Not45229
+2022-08-08T02:46:36Z: PLAYER ADDED   [ 1516542969] bruh_momentum419
+2022-08-08T02:46:42Z: PLAYER REMOVED [ 3655259826] catdo1le
+2022-08-08T02:46:45Z: PLAYER REMOVED [  678161410] qwertyash09
+2022-08-08T02:46:47Z: PLAYER CHATTED [  356670991] TrillThrills         (  -33.6,     5.2,    -4.3)
+  Bro as soon as we go vc only server my vc stops working
+2022-08-08T02:46:48Z: PLAYER ADDED   [ 3731735417] lieuplay3r
+2022-08-08T02:46:51Z: PLAYER CHATTED [  356670991] TrillThrills         (  -31.6,     5.2,     9.2)
+  let me rejoin
+2022-08-08T02:46:58Z: PLAYER REMOVED [  356670991] TrillThrills
+2022-08-08T02:47:00Z: PLAYER ADDED   [   36785305] tapdataus
+2022-08-08T02:47:00Z: PLAYER CHATTED [ 3288980509] AtomicWarden         (  -39.2,     6.6,     9.0)
+  same here
+2022-08-08T02:47:03Z: PLAYER CHATTED [ 3288980509] AtomicWarden         (  -39.2,     6.6,     9.0)
+  vc broke
+2022-08-08T02:47:08Z: PLAYER ADDED   [  237995259] 24kTaye
+2022-08-08T02:47:12Z: PLAYER REMOVED [   36785305] tapdataus
+2022-08-08T02:47:12Z: PLAYER REMOVED [  396422850] tscribs118
+2022-08-08T02:47:14Z: PLAYER ADDED   [  356670991] TrillThrills
+2022-08-08T02:47:16Z: PLAYER REMOVED [ 3231905364] namjohnkimbpop
+2022-08-08T02:47:17Z: PLAYER CHATTED [ 3774821165] Violentseed          (  -37.5,     4.2,     2.1)
+  its always laggy when you join
+2022-08-08T02:47:22Z: CHRCTER ADDED  [  356670991] TrillThrills         (   20.0,     5.7,    -2.6)
+2022-08-08T02:47:22Z: PLAYER CHATTED [ 3288980509] AtomicWarden         (  -32.8,     6.7,     0.3)
+  alr
+2022-08-08T02:47:23Z: PLAYER CHATTED [ 3774821165] Violentseed          (  -34.0,     4.3,     3.4)
+  just keep pressing on it
+2022-08-08T02:47:32Z: PLAYER REMOVED [ 1772594589] Real_TatsTopVideos
+2022-08-08T02:47:46Z: CHRCTER ADDED  [ 1516542969] bruh_momentum419     (   21.8,     4.2,    -4.3)
+2022-08-08T02:47:50Z: PLAYER REMOVED [  149357588] benhulksmash
+2022-08-08T02:47:50Z: PLAYER CHATTED [ 3774821165] Violentseed          (  -36.2,     4.2,    -1.1)
+  nobody sings
+2022-08-08T02:47:56Z: PLAYER CHATTED [  356670991] TrillThrills         (  -35.9,     5.2,    -5.6)
+  I can
+2022-08-08T02:47:57Z: PLAYER ADDED   [ 2529165224] Wearevenom0305
+2022-08-08T02:48:02Z: PLAYER CHATTED [ 3288980509] AtomicWarden         (  -40.4,     6.7,    -4.3)
+  kalinka
+2022-08-08T02:48:04Z: PLAYER CHATTED [  356670991] TrillThrills         (  -37.3,     5.2,    -6.3)
+  if vc starts working tho
+2022-08-08T02:48:05Z: PLAYER CHATTED [  356670991] TrillThrills         (  -38.8,     5.2,    -5.9)
+  Yes
+2022-08-08T02:48:05Z: CHRCTER ADDED  [ 2529165224] Wearevenom0305       (   20.4,     4.2,     0.2)
+2022-08-08T02:48:12Z: PLAYER CHATTED [ 3774821165] Violentseed          (  -37.0,     4.2,    -2.6)
+  ..!
+2022-08-08T02:48:16Z: CHRCTER ADDED  [ 1516542969] bruh_momentum419     (   16.6,     4.2,     1.7)
+2022-08-08T02:48:18Z: PLAYER CHATTED [ 3774821165] Violentseed          (  -37.0,     4.2,    -2.6)
+  yuri..
+2022-08-08T02:48:19Z: PLAYER ADDED   [ 3727160808] VortexxVX2ALT
+2022-08-08T02:48:19Z: CHRCTER ADDED  [ 2529165224] Wearevenom0305       (   22.1,     4.2,     1.2)
+2022-08-08T02:48:20Z: PLAYER CHATTED [  356670991] TrillThrills         (  -41.0,     5.2,    -8.9)
+  or spongebob squarepants
+2022-08-08T02:48:25Z: PLAYER CHATTED [ 3774821165] Violentseed          (  -41.7,     4.2,    -0.3)
+  LOL
+2022-08-08T02:48:28Z: PLAYER CHATTED [ 3288980509] AtomicWarden         (  -41.5,     6.7,    -5.7)
+  kalinka is more pro
+2022-08-08T02:48:29Z: PLAYER REMOVED [  160765309] OrphicBbx
+2022-08-08T02:48:30Z: PLAYER REMOVED [ 2529165224] Wearevenom0305
+2022-08-08T02:48:33Z: PLAYER REMOVED [ 3252953478] heartsyadi
+2022-08-08T02:48:35Z: PLAYER REMOVED [ 1516542969] bruh_momentum419
+2022-08-08T02:48:36Z: PLAYER ADDED   [ 2529165224] Wearevenom0305
+2022-08-08T02:48:37Z: PLAYER REMOVED [ 3731735417] lieuplay3r
+2022-08-08T02:48:44Z: CHRCTER ADDED  [ 2529165224] Wearevenom0305       (   22.3,     4.2,    -3.1)
+2022-08-08T02:48:45Z: PLAYER CHATTED [  356670991] TrillThrills         (  -41.0,     5.2,    -8.9)
+  Bro now its not even letting me activate
+2022-08-08T02:48:46Z: PLAYER REMOVED [ 2529165224] Wearevenom0305
+2022-08-08T02:48:46Z: PLAYER CHATTED [  356670991] TrillThrills         (  -41.0,     5.2,    -8.9)
+  bruuuh
+2022-08-08T02:48:53Z: CHRCTER ADDED  [ 3462578972] hi_michael00         (   14.1,     5.5,    -4.6)
+2022-08-08T02:48:53Z: PLAYER REMOVED [  356670991] TrillThrills
+2022-08-08T02:48:58Z: PLAYER ADDED   [  483273347] HydroHawk1849
+2022-08-08T02:48:59Z: PLAYER CHATTED [ 3288980509] AtomicWarden         (  -41.5,     6.7,    -5.7)
+  its silver
+2022-08-08T02:48:59Z: PLAYER ADDED   [ 3171977829] 24K_jaylena
+2022-08-08T02:49:00Z: PLAYER ADDED   [ 1283361273] nya070407
+2022-08-08T02:49:07Z: PLAYER REMOVED [  237995259] 24kTaye
+2022-08-08T02:49:07Z: PLAYER CHATTED [ 3774821165] Violentseed          (   13.7,    18.7,   -92.3)
+  hm?
+2022-08-08T02:49:14Z: PLAYER ADDED   [  118529691] Flaimingboy15
+2022-08-08T02:49:16Z: PLAYER CHATTED [ 3288980509] AtomicWarden         (  -38.9,     6.7,    -3.3)
+  can u hear me
+2022-08-08T02:49:16Z: PLAYER ADDED   [  356670991] TrillThrills
+2022-08-08T02:49:23Z: PLAYER REMOVED [ 3171977829] 24K_jaylena
+2022-08-08T02:49:24Z: PLAYER REMOVED [ 2955446135] Miss_ssuchka
+2022-08-08T02:49:27Z: CHRCTER ADDED  [ 1770325936] xNotladyirisx        (   22.6,     4.8,     4.6)
+2022-08-08T02:49:36Z: PLAYER CHATTED [  356670991] TrillThrills         (  -39.8,     5.2,    -4.0)
+  r you speaking
+2022-08-08T02:49:43Z: PLAYER CHATTED [  356670991] TrillThrills         (  -37.0,     5.2,    -6.1)
+  FINALLY I CAN HEAR
+2022-08-08T02:50:11Z: PLAYER REMOVED [  483273347] HydroHawk1849
+2022-08-08T02:50:13Z: PLAYER ADDED   [   55984678] princessnini03
+2022-08-08T02:50:13Z: PLAYER ADDED   [   43275584] AkumaSamurai
+2022-08-08T02:50:17Z: PLAYER CHATTED [  356670991] TrillThrills         (  -33.1,     5.2,    -5.9)
+  Im gonna be in corner with kalinka 
+2022-08-08T02:50:21Z: PLAYER ADDED   [  269821019] Supergamer_playz
+2022-08-08T02:50:24Z: CHRCTER ADDED  [ 3462578972] hi_michael00         (   18.3,     5.5,    -4.5)
+2022-08-08T02:50:24Z: PLAYER ADDED   [  509304616] shutupandbeepik
+2022-08-08T02:50:54Z: PLAYER ADDED   [ 1646837917] NotSleepingWithJon
+2022-08-08T02:50:57Z: PLAYER ADDED   [ 2392417022] CAIBRONA
+2022-08-08T02:51:07Z: PLAYER ADDED   [   48138857] whateveriskool
+2022-08-08T02:51:07Z: PLAYER ADDED   [    4513510] iSerpent
+2022-08-08T02:51:14Z: PLAYER ADDED   [ 3171977829] 24K_jaylena
+2022-08-08T02:51:15Z: PLAYER REMOVED [   43275584] AkumaSamurai
+2022-08-08T02:51:24Z: PLAYER REMOVED [   77530832] nagareaper
+2022-08-08T02:51:25Z: PLAYER REMOVED [  269821019] Supergamer_playz
+2022-08-08T02:51:27Z: PLAYER REMOVED [ 1646837917] NotSleepingWithJon
+2022-08-08T02:51:35Z: PLAYER ADDED   [ 1646837917] NotSleepingWithJon
+2022-08-08T02:51:46Z: PLAYER ADDED   [  254534890] jimelily
+2022-08-08T02:51:51Z: PLAYER REMOVED [   48138857] whateveriskool
+2022-08-08T02:51:52Z: PLAYER ADDED   [  316622251] JillSpencer4
+2022-08-08T02:51:54Z: CHRCTER ADDED  [  254534890] jimelily             (   22.4,     4.7,    -4.9)
+2022-08-08T02:52:01Z: PLAYER REMOVED [  509304616] shutupandbeepik
+2022-08-08T02:52:01Z: PLAYER ADDED   [ 3234607037] strawberryri0
+2022-08-08T02:52:02Z: CHRCTER ADDED  [ 3288980509] AtomicWarden         (   15.0,     7.1,    -4.6)
+2022-08-08T02:52:18Z: PLAYER REMOVED [    4513510] iSerpent
+2022-08-08T02:52:18Z: PLAYER ADDED   [   48138857] whateveriskool
+2022-08-08T02:52:21Z: PLAYER ADDED   [  171621354] coffeeeghost
+2022-08-08T02:52:22Z: CHRCTER ADDED  [  254534890] jimelily             (   22.0,     4.7,    -1.8)
+2022-08-08T02:52:23Z: PLAYER REMOVED [  149484451] Reset50060414
+2022-08-08T02:52:27Z: PLAYER ADDED   [ 1772594589] Real_TatsTopVideos
+2022-08-08T02:52:29Z: CHRCTER ADDED  [  171621354] coffeeeghost         (   17.7,     4.2,    -3.9)
+2022-08-08T02:52:35Z: CHRCTER ADDED  [ 1772594589] Real_TatsTopVideos   (   16.2,     4.5,     1.5)
+2022-08-08T02:52:41Z: PLAYER ADDED   [  255139474] iilChloeii
+2022-08-08T02:52:43Z: PLAYER REMOVED [  254534890] jimelily
+2022-08-08T02:52:48Z: PLAYER REMOVED [ 3234607037] strawberryri0
+2022-08-08T02:52:58Z: PLAYER ADDED   [  483273347] HydroHawk1849
+2022-08-08T02:53:08Z: PLAYER REMOVED [ 1646837917] NotSleepingWithJon
+2022-08-08T02:53:11Z: PLAYER REMOVED [ 1516350852] Stephencurry30643
+2022-08-08T02:53:24Z: PLAYER REMOVED [ 3752841993] tonnbunn
+2022-08-08T02:53:37Z: PLAYER CHATTED [ 3774821165] Violentseed          (  -41.4,     4.2,    -5.9)
+  !
+2022-08-08T02:53:38Z: PLAYER REMOVED [  118529691] Flaimingboy15
+2022-08-08T02:53:44Z: PLAYER REMOVED [   55984678] princessnini03
+2022-08-08T02:53:49Z: PLAYER REMOVED [  255139474] iilChloeii
+2022-08-08T02:54:02Z: PLAYER CHATTED [  483273347] HydroHawk1849        (  -41.7,     4.8,     0.3)
+  sing
+2022-08-08T02:54:18Z: PLAYER CHATTED [  356670991] TrillThrills         (   -1.4,     4.4,   -39.9)
+  Is your vc working atomic?
+2022-08-08T02:54:18Z: PLAYER CHATTED [ 3774821165] Violentseed          (  -41.6,     4.2,     2.9)
+  PLEAASEE sing!
+2022-08-08T02:54:28Z: PLAYER CHATTED [  483273347] HydroHawk1849        (  -41.9,     4.8,    -1.0)
+  SINNNNNNNNNG
+2022-08-08T02:54:29Z: PLAYER REMOVED [  171621354] coffeeeghost
+2022-08-08T02:54:31Z: PLAYER CHATTED [ 3288980509] AtomicWarden         (   -1.4,     4.4,   -45.9)
+  join me
+2022-08-08T02:54:33Z: PLAYER REMOVED [ 3288980509] AtomicWarden
+2022-08-08T02:54:34Z: PLAYER CHATTED [  356670991] TrillThrills         (   -1.4,     4.4,   -39.9)
+  k
+2022-08-08T02:54:37Z: PLAYER REMOVED [  356670991] TrillThrills
+2022-08-08T02:54:44Z: CHRCTER ADDED  [ 3462578972] hi_michael00         (   16.3,     5.5,     1.8)
+2022-08-08T02:54:45Z: PLAYER REMOVED [ 2392417022] CAIBRONA
+2022-08-08T02:55:02Z: PLAYER CHATTED [  483273347] HydroHawk1849        (  -41.7,     4.8,    -3.0)
+  singgggg
+2022-08-08T02:55:50Z: CHRCTER ADDED  [   48138857] whateveriskool       (   16.3,     4.5,    -4.1)
+2022-08-08T02:55:56Z: PLAYER CHATTED [ 3774821165] Violentseed          (  -41.9,     4.2,    -1.9)
+  yeah they do 
+2022-08-08T02:55:56Z: PLAYER ADDED   [ 1937058869] cookiegorllover3522
+2022-08-08T02:55:59Z: PLAYER CHATTED [ 3774821165] Violentseed          (  -41.9,     4.2,    -1.9)
+  they have voice chat
+2022-08-08T02:56:03Z: CHRCTER ADDED  [ 3462578972] hi_michael00         (   20.5,     5.3,     1.8)
+2022-08-08T02:56:07Z: PLAYER ADDED   [   55984678] princessnini03
+2022-08-08T02:56:11Z: PLAYER CHATTED [ 3774821165] Violentseed          (  -41.4,     4.2,    -3.1)
+  yeah they do 
+2022-08-08T02:56:12Z: PLAYER CHATTED [ 3774821165] Violentseed          (  -41.4,     4.2,    -3.1)
+  LOL
+2022-08-08T02:56:14Z: PLAYER ADDED   [ 2464201255] Theprokid678
+2022-08-08T02:56:27Z: PLAYER CHATTED [  483273347] HydroHawk1849        (  -41.7,     4.8,     0.1)
+  SINGGGGGGGG
+2022-08-08T02:56:31Z: PLAYER REMOVED [ 2464201255] Theprokid678
+2022-08-08T02:56:31Z: PLAYER REMOVED [   55984678] princessnini03
+2022-08-08T02:56:34Z: PLAYER ADDED   [ 2054624298] skylamilan_101
+2022-08-08T02:56:58Z: PLAYER ADDED   [   77237743] Chief8808
+2022-08-08T02:57:00Z: PLAYER REMOVED [ 2054624298] skylamilan_101
+2022-08-08T02:57:04Z: PLAYER ADDED   [  118497788] Takxu
+2022-08-08T02:57:05Z: PLAYER ADDED   [ 1559850187] ADylanA23
+2022-08-08T02:57:06Z: PLAYER ADDED   [ 3252623206] Melaxann
+2022-08-08T02:57:07Z: PLAYER ADDED   [ 2881666584] kuletonthemix
+2022-08-08T02:57:18Z: PLAYER REMOVED [ 1559850187] ADylanA23
+2022-08-08T02:57:18Z: PLAYER ADDED   [  307339577] DeadlineBBX
+2022-08-08T02:57:23Z: PLAYER REMOVED [ 3252623206] Melaxann
+2022-08-08T02:57:31Z: PLAYER REMOVED [ 2881666584] kuletonthemix
+2022-08-08T02:57:38Z: PLAYER CHATTED [  483273347] HydroHawk1849        (  -42.0,     5.3,     2.7)
+  say HEE HEE
+2022-08-08T02:57:43Z: PLAYER CHATTED [  687188236] Dory_2727            (  -38.7,     4.0,     2.9)
+  hee hee
+2022-08-08T02:57:51Z: PLAYER ADDED   [ 1559850187] ADylanA23
+2022-08-08T02:57:53Z: PLAYER REMOVED [ 1937058869] cookiegorllover3522
+2022-08-08T02:57:54Z: PLAYER CHATTED [ 3774821165] Violentseed          (  -41.5,     4.2,    -3.7)
+  i'd sing but like i dont know what i sound like and i'd be WAY to be embarassed!
+2022-08-08T02:57:55Z: PLAYER ADDED   [ 2915291069] DoctorMrFries
+2022-08-08T02:57:58Z: PLAYER REMOVED [ 1559850187] ADylanA23
+2022-08-08T02:58:03Z: CHRCTER ADDED  [ 2915291069] DoctorMrFries        (   17.7,     4.4,     2.4)
+2022-08-08T02:58:24Z: PLAYER REMOVED [ 2915291069] DoctorMrFries
+2022-08-08T02:58:28Z: PLAYER CHATTED [  687188236] Dory_2727            (  -40.8,     4.0,   -10.1)
+  i’m crying right now bro
+2022-08-08T02:58:35Z: PLAYER REMOVED [  118497788] Takxu
+2022-08-08T02:58:37Z: PLAYER CHATTED [ 3774821165] Violentseed          (  -41.0,     4.2,     2.1)
+  why?
+2022-08-08T02:58:41Z: PLAYER CHATTED [  687188236] Dory_2727            (  -39.9,     4.0,     4.2)
+  bc
+2022-08-08T02:58:43Z: PLAYER ADDED   [ 2920632286] snk1ttyi
+2022-08-08T02:58:48Z: PLAYER ADDED   [ 3745238952] mermaid_0017
+2022-08-08T02:58:51Z: PLAYER ADDED   [  646724964] cupcakedoplay
+2022-08-08T02:58:52Z: PLAYER ADDED   [ 1894903637] XxslayyyterxeyeshaxX
+2022-08-08T02:58:56Z: PLAYER CHATTED [  687188236] Dory_2727            (  -39.9,     4.0,     4.2)
+  i ripped ## #### skin
+2022-08-08T02:58:59Z: PLAYER CHATTED [  307339577] DeadlineBBX          (  -35.5,     4.4,    -2.1)
+  what about glimpse of us by joji?
+2022-08-08T02:59:06Z: PLAYER ADDED   [ 3480328472] cartierdorthy
+2022-08-08T02:59:08Z: PLAYER CHATTED [  687188236] Dory_2727            (  -39.9,     4.0,     4.2)
+  all of my skin on one finger
+2022-08-08T02:59:10Z: PLAYER CHATTED [  607590624] ILoveFlamingos007    (   11.1,    20.8,  -125.2)
+  \
+2022-08-08T02:59:12Z: PLAYER CHATTED [  483273347] HydroHawk1849        (  -41.9,     4.8,    -0.2)
+  sing jojo siwa songs
+2022-08-08T02:59:12Z: PLAYER REMOVED [  646724964] cupcakedoplay
+2022-08-08T02:59:16Z: PLAYER REMOVED [   77237743] Chief8808
+2022-08-08T02:59:16Z: PLAYER CHATTED [ 3774821165] Violentseed          (  -39.8,     4.2,     8.1)
+  oh 
+2022-08-08T02:59:16Z: PLAYER REMOVED [  423668850] HeyItzRaRa
+2022-08-08T02:59:18Z: PLAYER ADDED   [   37716195] g0r3mutt
+2022-08-08T02:59:24Z: PLAYER CHATTED [ 3774821165] Violentseed          (  -39.8,     4.2,     8.1)
+  it heals quick dont think abt it
+2022-08-08T02:59:26Z: CHRCTER ADDED  [   37716195] g0r3mutt             (   13.7,     5.6,     4.1)
+2022-08-08T02:59:27Z: PLAYER ADDED   [   53221055] draggy553
+2022-08-08T02:59:30Z: PLAYER ADDED   [ 2865838269] Leahisbai
+2022-08-08T02:59:31Z: PLAYER CHATTED [ 3774821165] Violentseed          (  -40.0,     4.2,   -11.2)
+  and dont use it often
+2022-08-08T02:59:32Z: PLAYER REMOVED [ 2920632286] snk1ttyi
+2022-08-08T02:59:33Z: PLAYER CHATTED [  687188236] Dory_2727            (  -37.2,     4.0,   -14.0)
+  ##
+2022-08-08T02:59:38Z: PLAYER REMOVED [  607590624] ILoveFlamingos007
+2022-08-08T02:59:39Z: PLAYER ADDED   [ 2665641567] Xx200x4444xX
+2022-08-08T02:59:45Z: PLAYER ADDED   [  607590624] ILoveFlamingos007
+2022-08-08T02:59:46Z: CHRCTER ADDED  [ 2665641567] Xx200x4444xX         (   17.2,     4.2,     2.7)
+2022-08-08T02:59:48Z: PLAYER REMOVED [ 3480328472] cartierdorthy
+2022-08-08T02:59:52Z: PLAYER CHATTED [  483273347] HydroHawk1849        (  -38.8,     4.8,   -12.8)
+  thats coco?
+2022-08-08T02:59:53Z: CHRCTER ADDED  [  607590624] ILoveFlamingos007    (   16.9,     4.5,     4.9)
+2022-08-08T02:59:57Z: PLAYER ADDED   [  131750037] LastResprt
+2022-08-08T02:59:59Z: PLAYER CHATTED [  307339577] DeadlineBBX          (  -40.2,     4.4,   -15.2)
+  lol no
+2022-08-08T03:00:03Z: PLAYER ADDED   [ 2220332445] KonohamaruNarutoBoy
+2022-08-08T03:00:04Z: CHRCTER ADDED  [  131750037] LastResprt           (   15.8,     4.9,    -1.7)
+2022-08-08T03:00:04Z: PLAYER CHATTED [  307339577] DeadlineBBX          (  -40.2,     4.4,   -15.2)
+  just practicing the guitar
+2022-08-08T03:00:07Z: PLAYER REMOVED [   37716195] g0r3mutt
+2022-08-08T03:00:10Z: PLAYER REMOVED [ 2865838269] Leahisbai
+2022-08-08T03:00:31Z: CHRCTER ADDED  [ 1770325936] xNotladyirisx        (   20.4,     4.8,     3.0)
+2022-08-08T03:00:44Z: PLAYER REMOVED [ 1770325936] xNotladyirisx
+2022-08-08T03:00:47Z: PLAYER REMOVED [  316622251] JillSpencer4
+2022-08-08T03:00:53Z: PLAYER REMOVED [  607590624] ILoveFlamingos007
+2022-08-08T03:01:26Z: PLAYER ADDED   [ 3218145139] notmude
+2022-08-08T03:01:30Z: PLAYER CHATTED [ 1894903637] XxslayyyterxeyeshaxX (  -41.1,     4.0,     6.8)
+  dude got the quiestest mic in the world 
+2022-08-08T03:01:38Z: PLAYER ADDED   [ 2256431955] SpringyCrew101
+2022-08-08T03:01:40Z: PLAYER REMOVED [   53221055] draggy553
+2022-08-08T03:01:46Z: PLAYER ADDED   [ 1374224401] caramelapor100pre
+2022-08-08T03:01:47Z: PLAYER CHATTED [ 1894903637] XxslayyyterxeyeshaxX (  -41.1,     4.0,     6.8)
+  bruh 
+2022-08-08T03:01:48Z: PLAYER REMOVED [  687188236] Dory_2727
+2022-08-08T03:01:48Z: PLAYER CHATTED [  483273347] HydroHawk1849        (  -42.0,     5.3,    -0.3)
+  :O
+2022-08-08T03:01:56Z: PLAYER ADDED   [  341512653] Cisne43
+2022-08-08T03:02:03Z: PLAYER REMOVED [ 2256431955] SpringyCrew101
+2022-08-08T03:02:04Z: CHRCTER ADDED  [  341512653] Cisne43              (   18.5,     5.3,    -3.5)
+2022-08-08T03:02:06Z: PLAYER CHATTED [  483273347] HydroHawk1849        (  -42.0,     5.3,    -0.1)
+  awwww
+2022-08-08T03:02:08Z: PLAYER CHATTED [ 1894903637] XxslayyyterxeyeshaxX (  -42.0,     4.0,     6.4)
+  voice chat really is just racism 
+2022-08-08T03:02:26Z: PLAYER REMOVED [ 2220332445] KonohamaruNarutoBoy
+2022-08-08T03:02:28Z: PLAYER CHATTED [ 1894903637] XxslayyyterxeyeshaxX (  -42.0,     4.0,     6.4)
+  is this dude gonna do anything 
+2022-08-08T03:02:31Z: PLAYER CHATTED [   48138857] whateveriskool       (  -40.4,     4.0,    -2.1)
+  ga damn 
+2022-08-08T03:02:50Z: PLAYER CHATTED [ 1894903637] XxslayyyterxeyeshaxX (  -41.6,     4.0,     6.4)
+  sing for us 
+2022-08-08T03:02:53Z: PLAYER ADDED   [   53221055] draggy553
+2022-08-08T03:03:00Z: PLAYER ADDED   [ 2066053349] cl0udyxd_ay
+2022-08-08T03:03:01Z: PLAYER CHATTED [ 1894903637] XxslayyyterxeyeshaxX (  -41.6,     4.0,     6.4)
+  your fav song 
+2022-08-08T03:03:02Z: PLAYER REMOVED [ 1772594589] Real_TatsTopVideos
+2022-08-08T03:03:07Z: CHRCTER ADDED  [ 2066053349] cl0udyxd_ay          (   22.6,     4.3,    -0.8)
+2022-08-08T03:03:14Z: PLAYER ADDED   [ 2691550978] snieguole49
+2022-08-08T03:03:22Z: PLAYER ADDED   [ 2028022773] Itscobie1
+2022-08-08T03:03:29Z: PLAYER CHATTED [ 1894903637] XxslayyyterxeyeshaxX (  -41.6,     4.0,     6.4)
+  period 
+2022-08-08T03:03:29Z: CHRCTER ADDED  [ 2028022773] Itscobie1            (   22.4,     4.5,    -0.2)
+2022-08-08T03:03:46Z: PLAYER ADDED   [ 1085595226] karyna_pandinha
+2022-08-08T03:03:48Z: PLAYER CHATTED [ 1894903637] XxslayyyterxeyeshaxX (  -39.6,     4.0,     3.3)
+  idk do i?
+2022-08-08T03:03:54Z: PLAYER CHATTED [ 1894903637] XxslayyyterxeyeshaxX (  -39.6,     4.0,     3.3)
+  lol okay 
+2022-08-08T03:03:56Z: PLAYER ADDED   [ 1203513927] jeremy3manuellee
+2022-08-08T03:03:59Z: PLAYER REMOVED [  341512653] Cisne43
+2022-08-08T03:04:03Z: PLAYER CHATTED [ 1203513927] jeremy3manuellee    
+  Who have mic?
+2022-08-08T03:04:04Z: PLAYER ADDED   [ 3760274313] iheartss1
+2022-08-08T03:04:04Z: CHRCTER ADDED  [ 1203513927] jeremy3manuellee     (   16.6,     4.4,    -0.7)
+2022-08-08T03:04:05Z: PLAYER CHATTED [ 1203513927] jeremy3manuellee     (   16.6,     3.9,    -0.7)
+  Admins
+2022-08-08T03:04:07Z: PLAYER CHATTED [ 1894903637] XxslayyyterxeyeshaxX (  -39.6,     4.0,     3.3)
+  omg confirmed lay 
+2022-08-08T03:04:10Z: PLAYER CHATTED [ 1894903637] XxslayyyterxeyeshaxX (  -39.6,     4.0,     3.3)
+  slay* 
+2022-08-08T03:04:12Z: PLAYER CHATTED [ 1894903637] XxslayyyterxeyeshaxX (  -39.6,     4.0,     3.3)
+  yaaaas
+2022-08-08T03:04:13Z: PLAYER CHATTED [ 1203513927] jeremy3manuellee     (   16.6,     3.9,    -0.7)
+  I want go to the prision
+2022-08-08T03:04:14Z: PLAYER CHATTED [ 1894903637] XxslayyyterxeyeshaxX (  -39.6,     4.0,     3.3)
+  lol 
+2022-08-08T03:04:17Z: PLAYER CHATTED [ 1894903637] XxslayyyterxeyeshaxX (  -39.6,     4.0,     3.3)
+  thank you 
+2022-08-08T03:04:22Z: PLAYER CHATTED [ 1894903637] XxslayyyterxeyeshaxX (  -39.6,     4.0,     3.3)
+  you slay too 
+2022-08-08T03:04:25Z: PLAYER CHATTED [ 1203513927] jeremy3manuellee     (  -12.5,     4.3,    -8.4)
+  Noobs
+2022-08-08T03:04:28Z: PLAYER CHATTED [ 1894903637] XxslayyyterxeyeshaxX (  -39.6,     4.0,     3.3)
+  yes you do 
+2022-08-08T03:04:30Z: PLAYER REMOVED [  245092258] John13Cena11
+2022-08-08T03:04:30Z: CHRCTER ADDED  [ 3462578972] hi_michael00         (   18.4,     5.3,    -4.2)
+2022-08-08T03:04:32Z: PLAYER CHATTED [ 2028022773] Itscobie1            (  -30.6,     4.3,   -10.6)
+  i got a mic ima sing
+2022-08-08T03:04:38Z: CHRCTER ADDED  [ 3171977829] 24K_jaylena          (   13.4,     5.7,    -4.2)
+2022-08-08T03:04:42Z: PLAYER ADDED   [  341512653] Cisne43
+2022-08-08T03:04:45Z: PLAYER CHATTED [ 1894903637] XxslayyyterxeyeshaxX (  -39.7,     4.0,     2.2)
+  honestly the shirt is a slay 
+2022-08-08T03:04:50Z: PLAYER REMOVED [ 1203513927] jeremy3manuellee
+2022-08-08T03:04:53Z: PLAYER CHATTED [ 1894903637] XxslayyyterxeyeshaxX (  -39.7,     4.0,     2.2)
+  god dang this dude loud 
+2022-08-08T03:04:54Z: PLAYER REMOVED [  341512653] Cisne43
+2022-08-08T03:04:56Z: PLAYER REMOVED [ 3760274313] iheartss1
+2022-08-08T03:05:01Z: PLAYER REMOVED [ 3171977829] 24K_jaylena
+2022-08-08T03:05:05Z: PLAYER ADDED   [ 3784758985] Ebvsvensg
+2022-08-08T03:05:09Z: CHRCTER ADDED  [ 3462578972] hi_michael00         (   21.1,     5.3,    -4.6)
+2022-08-08T03:06:00Z: PLAYER REMOVED [    1630228] VisualPlugin

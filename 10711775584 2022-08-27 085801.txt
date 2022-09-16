@@ -1,0 +1,77 @@
+[    1630228] : [10711775584] Control demo - 5ec5c49a-02bb-4f7b-8d54-b35d8583cb7c
+2022-08-27T08:58:01Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-08-27T08:58:01Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-08-27T08:58:01Z: PLAYER ADDED   [ 3109050268] Avionlix
+2022-08-27T08:58:01Z: PLAYER ADDED   [ 3632216615] J4GB1
+2022-08-27T08:58:01Z: PLAYER ADDED   [ 2583335332] leonamasal
+2022-08-27T08:58:28Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -55.3,     4.2,    29.4)
+  move
+2022-08-27T08:58:43Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -55.4,     4.2,    29.4)
+  Not really
+2022-08-27T08:58:55Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -52.7,     4.2,    30.4)
+  We are all this one atm
+2022-08-27T08:59:55Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -56.9,     4.2,    38.3)
+  let me rejoin
+2022-08-27T08:59:56Z: PLAYER REMOVED [ 3109050268] Avionlix
+2022-08-27T09:00:08Z: PLAYER ADDED   [ 3109050268] Avionlix
+2022-08-27T09:01:18Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -56.4,     4.2,    37.4)
+  I made this in 2 days
+2022-08-27T09:01:55Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -59.5,     4.0,    36.6)
+  And its still in progress 
+2022-08-27T09:02:35Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -50.6,     4.1,    29.7)
+  noted
+2022-08-27T09:02:57Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -53.8,     4.2,    29.4)
+  yes
+2022-08-27T09:03:05Z: PLAYER CHATTED [ 3632216615] J4GB1                (  -49.0,     4.4,    32.8)
+  yo
+2022-08-27T09:03:06Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -49.2,     4.0,    29.1)
+  It needs to be moving when holded
+2022-08-27T09:03:07Z: PLAYER CHATTED [ 3632216615] J4GB1                (  -49.0,     4.4,    32.8)
+  Hi
+2022-08-27T09:03:16Z: PLAYER CHATTED [ 3632216615] J4GB1                (  -59.4,     4.4,    29.2)
+  yes
+2022-08-27T09:03:22Z: PLAYER CHATTED [ 3632216615] J4GB1                (  -59.4,     4.4,    29.2)
+  I had a idea
+2022-08-27T09:03:33Z: PLAYER CHATTED [ 3632216615] J4GB1                (  -59.4,     4.4,    29.2)
+  when you hold the key it moves
+2022-08-27T09:04:02Z: PLAYER CHATTED [ 3632216615] J4GB1                (  -59.5,     4.2,    38.1)
+  the further you go the more money you get
+2022-08-27T09:04:08Z: PLAYER CHATTED [ 3632216615] J4GB1                (  -59.5,     4.2,    38.1)
+  but obby
+2022-08-27T09:04:13Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -48.9,     8.2,    29.6)
+  Maybe
+2022-08-27T09:04:23Z: PLAYER CHATTED [ 3632216615] J4GB1                (  -59.5,     4.2,    38.1)
+  k
+2022-08-27T09:04:28Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -48.9,     8.2,    29.6)
+  ok
+2022-08-27T09:05:01Z: PLAYER CHATTED [ 3632216615] J4GB1                (  -59.4,     4.4,    34.9)
+  ##
+2022-08-27T09:05:04Z: PLAYER CHATTED [ 3632216615] J4GB1                (  -59.4,     4.4,    34.9)
+  k
+2022-08-27T09:05:19Z: PLAYER CHATTED [ 3632216615] J4GB1                (  -59.4,     4.4,    34.9)
+  ##
+2022-08-27T09:05:26Z: PLAYER CHATTED [ 3632216615] J4GB1                (  -59.4,     4.4,    34.9)
+  #
+2022-08-27T09:05:35Z: PLAYER CHATTED [ 3632216615] J4GB1                (  -59.6,     4.2,    35.0)
+  oh my god roblox filter
+2022-08-27T09:05:49Z: PLAYER CHATTED [ 3632216615] J4GB1                (  -59.6,     4.2,    35.0)
+  anyways ill join you all
+2022-08-27T09:05:51Z: PLAYER REMOVED [ 3632216615] J4GB1
+2022-08-27T09:05:58Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -58.6,     4.2,    33.3)
+  1
+2022-08-27T09:05:59Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -58.6,     4.2,    33.3)
+  2
+2022-08-27T09:05:59Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -58.6,     4.2,    33.3)
+  3
+2022-08-27T09:06:00Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -58.6,     4.2,    33.3)
+  4
+2022-08-27T09:06:00Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -58.6,     4.2,    33.3)
+  5
+2022-08-27T09:06:01Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -58.6,     4.2,    33.3)
+  6
+2022-08-27T09:06:02Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -58.6,     4.2,    33.3)
+  #
+2022-08-27T09:06:17Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -58.6,     4.2,    33.3)
+  Ill join you
+2022-08-27T09:06:20Z: PLAYER REMOVED [ 3109050268] Avionlix
+2022-08-27T09:06:25Z: PLAYER REMOVED [    1630228] VisualPlugin
