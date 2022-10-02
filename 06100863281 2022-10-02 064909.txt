@@ -1,0 +1,1829 @@
+[    1630228] : [ 6100863281] RoVille Party - e03729b3-ea60-1abf-317b-ad245e9e9f2b
+2022-10-02T06:49:09Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-10-02T06:49:09Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-10-02T06:49:09Z: PLAYER ADDED   [ 3293007487] abcXzLol45
+2022-10-02T06:49:09Z: PLAYER ADDED   [ 3650845749] EvaGaming45
+2022-10-02T06:49:09Z: PLAYER ADDED   [ 2031102243] yaren_3465
+2022-10-02T06:49:09Z: PLAYER ADDED   [ 3171115100] Karz551
+2022-10-02T06:49:09Z: PLAYER ADDED   [ 1504222992] mynameisnoob21ok
+2022-10-02T06:49:09Z: PLAYER ADDED   [ 1358581421] maisararaisha2012
+2022-10-02T06:49:09Z: PLAYER ADDED   [ 2858204049] NTHANRBLX23
+2022-10-02T06:49:09Z: PLAYER ADDED   [ 2874430058] maria_theqeeun1
+2022-10-02T06:49:09Z: PLAYER ADDED   [ 3849340835] Samhellohowareyou
+2022-10-02T06:49:09Z: PLAYER ADDED   [ 1291085356] tgenevieve250
+2022-10-02T06:49:09Z: PLAYER ADDED   [ 1490764943] jaxian_44
+2022-10-02T06:49:09Z: PLAYER ADDED   [ 2508468239] Suga15675
+2022-10-02T06:49:09Z: PLAYER ADDED   [ 3769999448] MRLI70
+2022-10-02T06:49:09Z: PLAYER ADDED   [ 2935519787] xxxwwyajjsb12345
+2022-10-02T06:49:09Z: PLAYER ADDED   [ 3331195600] Livj246
+2022-10-02T06:49:09Z: PLAYER ADDED   [ 1794680742] grettdig
+2022-10-02T06:49:09Z: PLAYER ADDED   [ 2810086901] Xxaltheaplyzz
+2022-10-02T06:49:09Z: PLAYER ADDED   [ 2478936938] XxFlower_Jade
+2022-10-02T06:49:09Z: PLAYER ADDED   [  630008878] AkeishaGlace
+2022-10-02T06:49:09Z: PLAYER ADDED   [ 2874347303] Xxgaby_aesthetic0xX
+2022-10-02T06:49:09Z: PLAYER ADDED   [ 1661522344] Queen_scottia
+2022-10-02T06:49:09Z: PLAYER ADDED   [ 3677684285] XxcocopuffyyxX
+2022-10-02T06:49:09Z: PLAYER ADDED   [ 3935562078] Akkatada23
+2022-10-02T06:49:09Z: PLAYER ADDED   [ 3261085597] Lisa_Cutie47
+2022-10-02T06:49:11Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4381.4,    37.1,   343.6)
+  after prom i got to show u something
+2022-10-02T06:49:11Z: PLAYER CHATTED [ 2508468239] Suga15675            ( 4373.5,    37.1,   350.5)
+  Ohhh 
+2022-10-02T06:49:13Z: PLAYER CHATTED [ 2478936938] XxFlower_Jade        ( 4422.5,    59.7,   360.2)
+  IMAOO ITS RIGHT HERE
+2022-10-02T06:49:16Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  me to
+2022-10-02T06:49:17Z: PLAYER CHATTED [ 1358581421] maisararaisha2012    ( 4381.2,    37.2,   374.0)
+  Knight and princess?
+2022-10-02T06:49:20Z: PLAYER CHATTED [ 1504222992] mynameisnoob21ok     ( 4376.1,    37.2,   358.1)
+  he says i get good money if i do that
+2022-10-02T06:49:20Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4380.2,    37.2,   352.7)
+  Yep 
+2022-10-02T06:49:20Z: CHRCTER ADDED  [    1630228] VisualPlugin         ( 4295.5,    56.9,   377.8)
+2022-10-02T06:49:21Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4404.4,    61.3,   395.0)
+  ohh ok 
+2022-10-02T06:49:22Z: PLAYER ADDED   [ 3778639861] yo2httt
+2022-10-02T06:49:23Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4404.4,    61.3,   395.0)
+  and ###
+2022-10-02T06:49:24Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4404.4,    61.3,   395.0)
+  btw
+2022-10-02T06:49:26Z: PLAYER CHATTED [ 1504222992] mynameisnoob21ok     ( 4376.1,    37.2,   358.1)
+  i need extra to pay bills to-
+2022-10-02T06:49:29Z: PLAYER CHATTED [ 2478936938] XxFlower_Jade        ( 4404.7,    62.4,   391.5)
+  Hi
+2022-10-02T06:49:30Z: PLAYER CHATTED [ 2874347303] Xxgaby_aesthetic0xX  ( 4406.8,    59.6,   377.4)
+  EZ-
+2022-10-02T06:49:32Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4383.5,    37.3,   374.0)
+  yeah.
+2022-10-02T06:49:35Z: PLAYER CHATTED [ 2478936938] XxFlower_Jade        ( 4404.7,    62.4,   391.5)
+  we wanna enroll
+2022-10-02T06:49:36Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4381.5,    37.2,   350.5)
+  wait ### how to import?
+2022-10-02T06:49:39Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4404.4,    61.3,   395.0)
+  did you get a partne you need a partner to win ^^
+2022-10-02T06:49:39Z: PLAYER CHATTED [ 3293007487] abcXzLol45           ( 4374.5,    37.2,   360.0)
+  👀 💰 
+2022-10-02T06:49:40Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4381.5,    37.2,   350.5)
+  do u know*
+2022-10-02T06:49:40Z: PLAYER CHATTED [ 2478936938] XxFlower_Jade        ( 4404.2,    62.4,   391.0)
+  BERYR
+2022-10-02T06:49:43Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4404.4,    61.3,   395.0)
+  ;-;
+2022-10-02T06:49:43Z: PLAYER CHATTED [ 3261085597] Lisa_Cutie47         ( 4375.4,    37.2,   343.6)
+  i dont have a partner ########
+2022-10-02T06:49:46Z: PLAYER CHATTED [ 2478936938] XxFlower_Jade        ( 4404.2,    62.4,   391.0)
+  ######
+2022-10-02T06:49:47Z: PLAYER CHATTED [ 3293007487] abcXzLol45           ( 4374.5,    37.2,   360.0)
+  👍✅
+2022-10-02T06:49:48Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4404.4,    61.3,   395.0)
+  sure
+2022-10-02T06:49:49Z: PLAYER CHATTED [ 2874347303] Xxgaby_aesthetic0xX  ( 4402.8,    59.6,   387.1)
+  JADE HE HAVE WORK LEAVE
+2022-10-02T06:49:54Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4383.5,    37.3,   374.0)
+  this was my first prom.
+2022-10-02T06:49:54Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4380.2,    37.2,   352.7)
+  Import?
+2022-10-02T06:49:55Z: PLAYER CHATTED [ 1358581421] maisararaisha2012    ( 4381.2,    37.2,   374.0)
+  everyone already had an partner
+2022-10-02T06:49:58Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4383.5,    37.3,   374.0)
+  and i have no one.
+2022-10-02T06:49:59Z: PLAYER CHATTED [ 2478936938] XxFlower_Jade        ( 4403.6,    62.4,   391.1)
+  WHO CARES
+2022-10-02T06:50:04Z: PLAYER CHATTED [ 2874347303] Xxgaby_aesthetic0xX  ( 4401.8,    59.6,   376.2)
+  #### YOU
+2022-10-02T06:50:05Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4404.4,    61.3,   395.0)
+  TvT
+2022-10-02T06:50:07Z: PLAYER CHATTED [ 2478936938] XxFlower_Jade        ( 4403.6,    62.4,   391.1)
+  ARE DORMS SELF CLAIM?
+2022-10-02T06:50:08Z: PLAYER CHATTED [ 1504222992] mynameisnoob21ok     ( 4376.1,    37.2,   358.1)
+  im going broke
+2022-10-02T06:50:12Z: PLAYER CHATTED [ 1504222992] mynameisnoob21ok     ( 4376.1,    37.2,   358.1)
+  so uhh
+2022-10-02T06:50:12Z: PLAYER CHATTED [ 2935519787] xxxwwyajjsb12345     ( 4374.9,    37.2,   348.5)
+  #### i dont have a crown
+2022-10-02T06:50:14Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4381.5,    37.2,   350.5)
+  yk like how to copy and paste the id of the accesorries
+2022-10-02T06:50:14Z: PLAYER CHATTED [ 1490764943] jaxian_44            ( 4426.6,    61.3,   397.8)
+  oh hi abigail ;-;
+2022-10-02T06:50:15Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4404.4,    61.3,   395.0)
+  no
+2022-10-02T06:50:16Z: PLAYER CHATTED [ 1358581421] maisararaisha2012    ( 4381.2,    37.2,   374.0)
+  mine is... 4th ##
+2022-10-02T06:50:17Z: PLAYER CHATTED [ 3261085597] Lisa_Cutie47         ( 4375.4,    37.2,   343.6)
+  abc for a prom partner
+2022-10-02T06:50:18Z: PLAYER CHATTED [ 2810086901] Xxaltheaplyzz        ( 4419.6,    60.2,   392.7)
+  heylow
+2022-10-02T06:50:20Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4380.2,    37.2,   352.7)
+  Ohh 
+2022-10-02T06:50:22Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4380.2,    37.2,   352.7)
+  Lol
+2022-10-02T06:50:22Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  ''im nerves''
+2022-10-02T06:50:24Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4383.5,    37.3,   374.0)
+  huh?
+2022-10-02T06:50:24Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4381.5,    37.2,   350.5)
+  xD
+2022-10-02T06:50:25Z: PLAYER CHATTED [ 2874347303] Xxgaby_aesthetic0xX  ( 4401.5,    62.4,   392.5)
+  ez-
+2022-10-02T06:50:25Z: PLAYER CHATTED [ 1504222992] mynameisnoob21ok     ( 4376.1,    37.2,   358.1)
+  #########################################
+2022-10-02T06:50:29Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4381.4,    37.1,   343.6)
+  its fine
+2022-10-02T06:50:29Z: PLAYER CHATTED [ 2478936938] XxFlower_Jade        ( 4404.0,    62.4,   391.6)
+  GIVE US DORM
+2022-10-02T06:50:31Z: PLAYER CHATTED [ 1490764943] jaxian_44            ( 4426.6,    61.3,   397.8)
+  what are you doing there?
+2022-10-02T06:50:32Z: PLAYER CHATTED [ 2810086901] Xxaltheaplyzz        ( 4419.6,    60.2,   391.4)
+  AM SO SHORT
+2022-10-02T06:50:35Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4404.4,    61.3,   395.0)
+  itss all shared by three rooms there are males room females room and shared room ^^
+2022-10-02T06:50:35Z: PLAYER CHATTED [ 2874347303] Xxgaby_aesthetic0xX  ( 4401.5,    62.4,   392.5)
+  IMAO
+2022-10-02T06:50:35Z: PLAYER CHATTED [ 3261085597] Lisa_Cutie47         ( 4375.4,    37.2,   343.6)
+  ohh ####
+2022-10-02T06:50:36Z: PLAYER CHATTED [ 1504222992] mynameisnoob21ok     ( 4376.1,    37.2,   358.1)
+  ur gonna have to stay at ur friends
+2022-10-02T06:50:37Z: PLAYER CHATTED [ 2810086901] Xxaltheaplyzz        ( 4419.5,    60.2,   394.0)
+  nothing-
+2022-10-02T06:50:37Z: PLAYER CHATTED [ 2858204049] NTHANRBLX23          ( 4375.4,    37.2,   324.6)
+  i dont need a partner ##
+2022-10-02T06:50:37Z: PLAYER CHATTED [ 1490764943] jaxian_44            ( 4426.6,    61.3,   397.8)
+  IMAO 
+2022-10-02T06:50:38Z: PLAYER CHATTED [ 1504222992] mynameisnoob21ok     ( 4376.1,    37.2,   358.1)
+  ...
+2022-10-02T06:50:41Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4380.2,    37.2,   352.7)
+  I import whit the control and c 
+2022-10-02T06:50:43Z: PLAYER CHATTED [ 3293007487] abcXzLol45           ( 4374.5,    37.2,   360.0)
+  …
+2022-10-02T06:50:44Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4383.5,    37.3,   374.0)
+  wdym
+2022-10-02T06:50:44Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4368.5,    38.2,   345.6)
+  LADIES AND GENTLEWOMEN!
+2022-10-02T06:50:48Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4381.5,    37.2,   350.5)
+  same
+2022-10-02T06:50:49Z: PLAYER CHATTED [ 3650845749] EvaGaming45          ( 4407.7,    61.3,   388.6)
+  can i stay here to see the show?
+2022-10-02T06:50:49Z: PLAYER CHATTED [ 3293007487] abcXzLol45           ( 4374.5,    37.2,   360.0)
+  💰?
+2022-10-02T06:50:49Z: PLAYER CHATTED [ 2874347303] Xxgaby_aesthetic0xX  ( 4401.5,    62.4,   392.5)
+  huh? maybe i am dumb
+2022-10-02T06:50:50Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4368.5,    38.2,   345.6)
+  I HAVE AN ANNOUNCEMENT!
+2022-10-02T06:50:50Z: PLAYER CHATTED [ 2478936938] XxFlower_Jade        ( 4404.0,    62.4,   391.6)
+  PUT US IN SHARED
+2022-10-02T06:50:52Z: PLAYER CHATTED [ 2810086901] Xxaltheaplyzz        ( 4419.6,    58.8,   396.0)
+  HELP
+2022-10-02T06:50:52Z: PLAYER CHATTED [ 3778639861] yo2httt              ( 4372.1,    37.2,   352.6)
+  yalo
+2022-10-02T06:50:55Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  ''uh oh''
+2022-10-02T06:50:55Z: PLAYER CHATTED [ 3261085597] Lisa_Cutie47         ( 4375.4,    37.2,   343.6)
+  ya?
+2022-10-02T06:50:56Z: PLAYER CHATTED [ 2935519787] xxxwwyajjsb12345     ( 4374.9,    37.2,   348.5)
+  what is it
+2022-10-02T06:50:58Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4380.2,    37.2,   352.7)
+  Loll
+2022-10-02T06:50:58Z: PLAYER CHATTED [ 2874347303] Xxgaby_aesthetic0xX  ( 4401.5,    62.4,   392.5)
+  yes!
+2022-10-02T06:50:58Z: PLAYER CHATTED [ 1504222992] mynameisnoob21ok     ( 4376.1,    37.2,   358.1)
+  i have 86m
+2022-10-02T06:51:02Z: PLAYER CHATTED [ 1358581421] maisararaisha2012    ( 4381.2,    37.2,   374.0)
+  oh
+2022-10-02T06:51:02Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4381.4,    37.1,   343.6)
+  yeh
+2022-10-02T06:51:04Z: PLAYER CHATTED [ 2508468239] Suga15675            ( 4373.5,    37.1,   350.5)
+  What is it
+2022-10-02T06:51:04Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4404.4,    61.3,   395.0)
+  TvT so its all shared you can sleep tot he garden if you want
+2022-10-02T06:51:04Z: PLAYER CHATTED [ 2478936938] XxFlower_Jade        ( 4404.0,    62.4,   391.6)
+  SHATAP FOR 1 SED
+2022-10-02T06:51:06Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4383.5,    37.3,   374.0)
+  it hasent started yet
+2022-10-02T06:51:08Z: PLAYER REMOVED [ 2031102243] yaren_3465
+2022-10-02T06:51:09Z: PLAYER CHATTED [ 2478936938] XxFlower_Jade        ( 4403.9,    62.4,   391.3)
+  ####
+2022-10-02T06:51:10Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4369.0,    38.2,   345.1)
+  I have been working on a hotel for over two years.
+2022-10-02T06:51:12Z: PLAYER CHATTED [ 2478936938] XxFlower_Jade        ( 4403.9,    62.4,   391.3)
+  SEC
+2022-10-02T06:51:12Z: PLAYER CHATTED [ 2810086901] Xxaltheaplyzz        ( 4413.0,    58.8,   380.2)
+  GAAAH
+2022-10-02T06:51:13Z: PLAYER CHATTED [ 1504222992] mynameisnoob21ok     ( 4376.1,    37.2,   358.1)
+  ur gonna have to stay at a friends place
+2022-10-02T06:51:14Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4381.4,    37.1,   343.6)
+  ehat
+2022-10-02T06:51:15Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4369.0,    38.2,   345.1)
+  It's a game of its own.
+2022-10-02T06:51:15Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4404.4,    61.3,   395.0)
+  TvT
+2022-10-02T06:51:17Z: PLAYER CHATTED [ 3261085597] Lisa_Cutie47         ( 4375.4,    37.2,   343.6)
+  abc for prom partner 
+2022-10-02T06:51:18Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4381.4,    37.1,   343.6)
+  what
+2022-10-02T06:51:19Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  ''oh''
+2022-10-02T06:51:20Z: PLAYER CHATTED [ 1358581421] maisararaisha2012    ( 4381.2,    37.2,   374.0)
+  4th time prom
+2022-10-02T06:51:24Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4383.5,    37.3,   374.0)
+  do you have someone to go with?
+2022-10-02T06:51:26Z: PLAYER CHATTED [ 3650845749] EvaGaming45          ( 4401.1,    61.3,   388.7)
+  i Will go now
+2022-10-02T06:51:27Z: PLAYER CHATTED [ 3261085597] Lisa_Cutie47         ( 4375.4,    37.2,   343.6)
+  omg im scared, i got no partner*
+2022-10-02T06:51:27Z: PLAYER CHATTED [ 2935519787] xxxwwyajjsb12345     ( 4374.9,    37.2,   348.5)
+  ok and
+2022-10-02T06:51:28Z: PLAYER CHATTED [ 3293007487] abcXzLol45           ( 4374.5,    37.2,   360.0)
+  ##
+2022-10-02T06:51:28Z: PLAYER CHATTED [ 2874347303] Xxgaby_aesthetic0xX  ( 4401.5,    62.4,   392.5)
+  JADE PUT THE PISTOL DOWN
+2022-10-02T06:51:29Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  ''its like an AD''
+2022-10-02T06:51:31Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4404.4,    61.3,   395.0)
+  sure ^^
+2022-10-02T06:51:31Z: PLAYER CHATTED [ 1358581421] maisararaisha2012    ( 4381.2,    37.2,   374.0)
+  ofc
+2022-10-02T06:51:31Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4369.0,    38.2,   345.1)
+  This announcement is important because I said so.
+2022-10-02T06:51:32Z: PLAYER CHATTED [ 2478936938] XxFlower_Jade        ( 4403.9,    62.4,   391.3)
+  NO
+2022-10-02T06:51:32Z: PLAYER CHATTED [ 3293007487] abcXzLol45           ( 4374.5,    37.2,   360.0)
+  !!!
+2022-10-02T06:51:34Z: PLAYER CHATTED [ 1358581421] maisararaisha2012    ( 4381.2,    37.2,   374.0)
+  no
+2022-10-02T06:51:39Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4383.5,    37.3,   374.0)
+  ah
+2022-10-02T06:51:39Z: PLAYER CHATTED [ 2810086901] Xxaltheaplyzz        ( 4413.1,    58.8,   380.2)
+  AnYoNe????/
+2022-10-02T06:51:40Z: PLAYER CHATTED [ 2508468239] Suga15675            ( 4373.5,    37.1,   350.5)
+  Opp
+2022-10-02T06:51:41Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4369.0,    38.2,   345.1)
+  It's called an adnouncement.
+2022-10-02T06:51:41Z: PLAYER CHATTED [ 2935519787] xxxwwyajjsb12345     ( 4374.9,    37.2,   348.5)
+  ok
+2022-10-02T06:51:42Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4381.5,    37.2,   350.5)
+  das why i look like a ✨Material gworl✨
+2022-10-02T06:51:42Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4383.5,    37.3,   374.0)
+  well
+2022-10-02T06:51:44Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4380.2,    37.2,   352.7)
+  Afk rq
+2022-10-02T06:51:44Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4383.5,    37.3,   374.0)
+  i mean
+2022-10-02T06:51:48Z: PLAYER ADDED   [ 1814798410] monsterslayers21e
+2022-10-02T06:51:53Z: PLAYER CHATTED [ 2478936938] XxFlower_Jade        ( 4403.8,    59.7,   376.7)
+  WHICH .ONE .IS .OUR .DORM
+2022-10-02T06:51:54Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4381.5,    37.2,   350.5)
+  oho kay
+2022-10-02T06:51:54Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4413.5,    61.8,   376.6)
+  ## otta go now and start the show
+2022-10-02T06:51:54Z: PLAYER CHATTED [ 1504222992] mynameisnoob21ok     ( 4376.1,    37.2,   358.1)
+  why u may ask im broke?
+2022-10-02T06:51:54Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4383.5,    37.3,   374.0)
+  couullld
+2022-10-02T06:51:54Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4381.5,    37.2,   350.5)
+  same
+2022-10-02T06:51:54Z: PLAYER CHATTED [ 2874347303] Xxgaby_aesthetic0xX  ( 4401.7,    62.4,   390.4)
+  excuse my best friend- she is a little crazy
+2022-10-02T06:51:54Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  XD
+2022-10-02T06:51:54Z: CHRCTER ADDED  [ 1814798410] monsterslayers21e    ( 4295.5,    56.9,   377.8)
+2022-10-02T06:51:55Z: PLAYER CHATTED [ 1490764943] jaxian_44            ( 4426.6,    61.3,   397.8)
+  ;-;
+2022-10-02T06:51:58Z: PLAYER CHATTED [ 1504222992] mynameisnoob21ok     ( 4376.1,    37.2,   358.1)
+  u spent my money on a new car
+2022-10-02T06:52:00Z: PLAYER CHATTED [ 2810086901] Xxaltheaplyzz        ( 4412.9,    58.8,   395.9)
+  HWELP
+2022-10-02T06:52:00Z: PLAYER ADDED   [ 1987436964] Rhianna_faye16
+2022-10-02T06:52:00Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4369.0,    38.2,   345.1)
+  Say 'AD-TASTIC' if you're interested.
+2022-10-02T06:52:02Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4383.5,    37.3,   374.0)
+  you just watch with me?
+2022-10-02T06:52:03Z: PLAYER CHATTED [ 3261085597] Lisa_Cutie47         ( 4373.5,    38.7,   325.0)
+  hi?
+2022-10-02T06:52:03Z: PLAYER CHATTED [ 3935562078] Akkatada23           ( 4369.2,    38.1,   349.8)
+  I hope you all have your knight and princess 
+2022-10-02T06:52:04Z: PLAYER ADDED   [ 3627005542] minecraftuser1002
+2022-10-02T06:52:06Z: PLAYER CHATTED [ 2874347303] Xxgaby_aesthetic0xX  ( 4396.5,    35.6,   336.6)
+  OAHAAHAH
+2022-10-02T06:52:07Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  XXD
+2022-10-02T06:52:09Z: CHRCTER ADDED  [ 1814798410] monsterslayers21e    ( 4295.5,    56.9,   377.8)
+2022-10-02T06:52:10Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4381.4,    37.1,   343.6)
+  well i have wanted to do this for a long time holds hand
+2022-10-02T06:52:11Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4381.5,    37.2,   350.5)
+  NOAH
+2022-10-02T06:52:11Z: PLAYER CHATTED [ 2810086901] Xxaltheaplyzz        ( 4403.0,    62.2,   379.3)
+  paynally-
+2022-10-02T06:52:12Z: PLAYER CHATTED [ 1358581421] maisararaisha2012    ( 4381.2,    37.2,   374.0)
+  sure
+2022-10-02T06:52:13Z: PLAYER ADDED   [ 2243175310] chickenspootherepant
+2022-10-02T06:52:15Z: CHRCTER ADDED  [ 3677684285] XxcocopuffyyxX       ( 4295.5,    56.9,   377.8)
+2022-10-02T06:52:17Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4381.5,    37.2,   350.5)
+  cmon lets get ready
+2022-10-02T06:52:19Z: PLAYER CHATTED [ 2810086901] Xxaltheaplyzz        ( 4405.6,    62.3,   375.7)
+  TvT
+2022-10-02T06:52:19Z: PLAYER CHATTED [ 1490764943] jaxian_44            ( 4404.9,    62.1,   376.3)
+  HAHAHAHAHHA
+2022-10-02T06:52:20Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4383.5,    37.3,   374.0)
+  then come on
+2022-10-02T06:52:20Z: PLAYER CHATTED [ 1504222992] mynameisnoob21ok     ( 4376.1,    37.2,   358.1)
+  and i have to pay tax and im working like triple-double shifts
+2022-10-02T06:52:22Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4369.7,    38.2,   344.1)
+  Well enough.
+2022-10-02T06:52:22Z: PLAYER CHATTED [ 2858204049] NTHANRBLX23          ( 4375.4,    37.2,   324.6)
+  hi
+2022-10-02T06:52:25Z: PLAYER CHATTED [ 2810086901] Xxaltheaplyzz        ( 4405.0,    62.3,   388.6)
+  #####
+2022-10-02T06:52:28Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4380.2,    37.2,   352.7)
+  Hack
+2022-10-02T06:52:30Z: PLAYER CHATTED [ 1504222992] mynameisnoob21ok     ( 4376.1,    37.2,   358.1)
+  so i cant cook for u
+2022-10-02T06:52:30Z: PLAYER CHATTED [ 2478936938] XxFlower_Jade        ( 4364.2,    40.1,   337.0)
+  NAUR
+2022-10-02T06:52:32Z: PLAYER CHATTED [ 2935519787] xxxwwyajjsb12345     ( 4375.4,    37.2,   339.6)
+  no
+2022-10-02T06:52:33Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  ''yse''!
+2022-10-02T06:52:33Z: PLAYER CHATTED [ 3261085597] Lisa_Cutie47         ( 4372.0,    38.1,   324.2)
+  can u be my prom partner?
+2022-10-02T06:52:35Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4380.2,    37.2,   352.7)
+  Back*
+2022-10-02T06:52:35Z: PLAYER CHATTED [ 2858204049] NTHANRBLX23          ( 4375.4,    37.2,   324.6)
+  nope
+2022-10-02T06:52:37Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  ''yes*''
+2022-10-02T06:52:38Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4366.2,    37.1,   359.7)
+  ah
+2022-10-02T06:52:39Z: PLAYER CHATTED [ 2478936938] XxFlower_Jade        ( 4364.2,    40.1,   337.0)
+  MY PARTNER IS THIS PISTOL
+2022-10-02T06:52:40Z: PLAYER CHATTED [ 2810086901] Xxaltheaplyzz        ( 4405.0,    60.3,   386.1)
+  wit wut a partner-
+2022-10-02T06:52:40Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4383.1,    38.1,   352.7)
+  im already preapared
+2022-10-02T06:52:42Z: PLAYER CHATTED [ 3261085597] Lisa_Cutie47         ( 4385.6,    38.1,   346.5)
+  hi
+2022-10-02T06:52:43Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4366.2,    37.1,   359.7)
+  we got a bad view
+2022-10-02T06:52:45Z: PLAYER CHATTED [ 2858204049] NTHANRBLX23          ( 4375.4,    37.2,   324.6)
+  i dont need one lol
+2022-10-02T06:52:49Z: PLAYER CHATTED [ 1504222992] mynameisnoob21ok     ( 4376.1,    37.2,   358.1)
+  o ye
+2022-10-02T06:52:50Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4377.5,    38.6,   350.9)
+  Samw
+2022-10-02T06:52:51Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4374.9,    37.1,   348.5)
+  better
+2022-10-02T06:52:54Z: PLAYER CHATTED [ 1490764943] jaxian_44            ( 4405.7,    62.1,   383.7)
+  you can be my partner :3
+2022-10-02T06:52:59Z: PLAYER CHATTED [ 1504222992] mynameisnoob21ok     ( 4376.1,    37.2,   358.1)
+  wanna ## ## # ######## #######
+2022-10-02T06:52:59Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4377.5,    38.6,   350.9)
+  Wow you look stunning 
+2022-10-02T06:53:00Z: PLAYER CHATTED [ 2810086901] Xxaltheaplyzz        ( 4403.9,    60.3,   386.4)
+  YAYYY
+2022-10-02T06:53:01Z: PLAYER CHATTED [ 3261085597] Lisa_Cutie47         ( 4386.4,    42.0,   348.1)
+  canu be my prom partner?
+2022-10-02T06:53:02Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4379.9,    38.1,   349.4)
+  yass!
+2022-10-02T06:53:03Z: PLAYER CHATTED [ 3778639861] yo2httt              ( 4383.8,    35.0,   350.0)
+  ###
+2022-10-02T06:53:08Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4379.9,    38.1,   349.4)
+  tyy u too!~
+2022-10-02T06:53:09Z: PLAYER REMOVED [ 3627005542] minecraftuser1002
+2022-10-02T06:53:09Z: PLAYER CHATTED [ 1490764943] jaxian_44            ( 4405.3,    62.1,   383.5)
+  :333
+2022-10-02T06:53:10Z: PLAYER CHATTED [ 1504222992] mynameisnoob21ok     ( 4376.1,    37.2,   358.1)
+  do u wanna homeschool?
+2022-10-02T06:53:11Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  ''i already have an someone ##
+2022-10-02T06:53:12Z: PLAYER CHATTED [ 2478936938] XxFlower_Jade        ( 4364.1,    40.1,   337.1)
+  LET ME DO ALL THE TALKING
+2022-10-02T06:53:14Z: PLAYER CHATTED [ 1814798410] monsterslayers21e    ( 4387.0,    41.8,   351.1)
+  sure
+2022-10-02T06:53:14Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4377.5,    38.6,   350.9)
+  Ty 
+2022-10-02T06:53:14Z: PLAYER CHATTED [ 2810086901] Xxaltheaplyzz        ( 4406.5,    60.3,   382.7)
+  :DDD
+2022-10-02T06:53:15Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  ''
+2022-10-02T06:53:16Z: PLAYER CHATTED [ 2858204049] NTHANRBLX23          ( 4375.4,    37.2,   324.6)
+  reject kayo lahat ##### ########
+2022-10-02T06:53:17Z: PLAYER CHATTED [ 3293007487] abcXzLol45           ( 4374.5,    37.2,   360.0)
+  👎 
+2022-10-02T06:53:18Z: PLAYER CHATTED [ 3261085597] Lisa_Cutie47         ( 4386.4,    42.0,   348.1)
+  yass come
+2022-10-02T06:53:20Z: PLAYER CHATTED [ 2874347303] Xxgaby_aesthetic0xX  ( 4364.9,    35.6,   334.7)
+  imao
+2022-10-02T06:53:23Z: PLAYER CHATTED [ 2935519787] xxxwwyajjsb12345     ( 4375.4,    37.2,   339.6)
+  i got no partner
+2022-10-02T06:53:26Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4377.5,    38.6,   350.9)
+  We got this 
+2022-10-02T06:53:26Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4381.4,    37.1,   343.6)
+  what?
+2022-10-02T06:53:27Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4379.9,    38.1,   349.4)
+  i saw a quirky girl said dis in ### ###
+2022-10-02T06:53:28Z: PLAYER CHATTED [ 2810086901] Xxaltheaplyzz        ( 4405.5,    60.3,   385.3)
+  ima go #### byeee
+2022-10-02T06:53:32Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4379.9,    38.1,   349.4)
+  ########
+2022-10-02T06:53:34Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4379.9,    38.1,   349.4)
+  A
+2022-10-02T06:53:35Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4379.9,    38.1,   349.4)
+  t
+2022-10-02T06:53:37Z: CHRCTER ADDED  [ 3778639861] yo2httt              ( 4295.5,    56.9,   377.8)
+2022-10-02T06:53:38Z: PLAYER CHATTED [ 2858204049] NTHANRBLX23          ( 4375.4,    37.2,   324.6)
+  1
+2022-10-02T06:53:39Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4379.9,    38.1,   349.4)
+  t
+2022-10-02T06:53:39Z: PLAYER CHATTED [ 2858204049] NTHANRBLX23          ( 4375.4,    37.2,   324.6)
+  2
+2022-10-02T06:53:40Z: PLAYER CHATTED [ 2858204049] NTHANRBLX23          ( 4375.4,    37.2,   324.6)
+  3
+2022-10-02T06:53:41Z: PLAYER CHATTED [ 2858204049] NTHANRBLX23          ( 4375.4,    37.2,   324.6)
+  4
+2022-10-02T06:53:42Z: PLAYER CHATTED [ 2858204049] NTHANRBLX23          ( 4375.4,    37.2,   324.6)
+  #
+2022-10-02T06:53:42Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4379.9,    38.1,   349.4)
+  yass
+2022-10-02T06:53:44Z: PLAYER CHATTED [ 2478936938] XxFlower_Jade        ( 4364.1,    40.1,   337.1)
+  Y'all im lagging 💀💀
+2022-10-02T06:53:46Z: PLAYER CHATTED [ 2858204049] NTHANRBLX23          ( 4375.4,    37.2,   324.6)
+  5
+2022-10-02T06:53:49Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4363.0,    42.2,   334.3)
+  oop-
+2022-10-02T06:53:50Z: PLAYER CHATTED [ 3650845749] EvaGaming45          ( 4376.3,    38.2,   333.6)
+  Excuse me girl
+2022-10-02T06:53:50Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  ''i dont think we are going to win''/
+2022-10-02T06:53:51Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4377.5,    38.6,   350.9)
+  Loll
+2022-10-02T06:53:58Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4379.9,    38.1,   349.4)
+  the quirky girl said ##### Noah~" xD
+2022-10-02T06:53:59Z: PLAYER CHATTED [ 3650845749] EvaGaming45          ( 4376.3,    38.2,   333.6)
+  pls get out of the seat
+2022-10-02T06:54:00Z: PLAYER CHATTED [ 2935519787] xxxwwyajjsb12345     ( 4375.4,    37.2,   339.6)
+  what the
+2022-10-02T06:54:01Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  they look amazing!
+2022-10-02T06:54:03Z: PLAYER CHATTED [ 2243175310] chickenspootherepant ( 4370.3,    37.5,   339.2)
+  Be my partner
+2022-10-02T06:54:04Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4379.9,    38.1,   349.4)
+  oh l a*
+2022-10-02T06:54:05Z: PLAYER CHATTED [ 3650845749] EvaGaming45          ( 4376.3,    38.2,   333.6)
+  the princapal sits here
+2022-10-02T06:54:08Z: PLAYER CHATTED [ 2935519787] xxxwwyajjsb12345     ( 4375.4,    37.2,   339.6)
+  uhm no
+2022-10-02T06:54:08Z: PLAYER CHATTED [ 2810086901] Xxaltheaplyzz        ( 4383.0,    39.8,   319.4)
+  i-
+2022-10-02T06:54:09Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4381.4,    37.1,   343.6)
+  its fine at lest we tryed
+2022-10-02T06:54:09Z: PLAYER CHATTED [ 3261085597] Lisa_Cutie47         ( 4373.0,    37.2,   312.2)
+  can u check if there are any seats left in the front?
+2022-10-02T06:54:10Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4377.5,    38.6,   350.9)
+  What did she said?
+2022-10-02T06:54:15Z: PLAYER CHATTED [ 2874347303] Xxgaby_aesthetic0xX  ( 4375.4,    36.5,   343.6)
+  IMAO
+2022-10-02T06:54:15Z: PLAYER CHATTED [ 2935519787] xxxwwyajjsb12345     ( 4375.4,    37.2,   339.6)
+  and put the pistol down
+2022-10-02T06:54:17Z: PLAYER CHATTED [ 1358581421] maisararaisha2012    ( 4373.5,    37.1,   350.5)
+  i hate this school sm
+2022-10-02T06:54:19Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  ''yeah''
+2022-10-02T06:54:19Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4377.5,    38.6,   350.9)
+  #####
+2022-10-02T06:54:23Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4377.5,    38.6,   350.9)
+  Loll
+2022-10-02T06:54:26Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4378.7,    37.9,   343.9)
+  move pls
+2022-10-02T06:54:27Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4379.9,    38.1,   349.4)
+  lol
+2022-10-02T06:54:27Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  ''uh''
+2022-10-02T06:54:30Z: PLAYER CHATTED [ 1490764943] jaxian_44            ( 4364.7,    42.5,   336.3)
+  hello everyonee!
+2022-10-02T06:54:31Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4379.9,    38.1,   349.4)
+  which one sohudl i wear?
+2022-10-02T06:54:32Z: PLAYER CHATTED [ 2508468239] Suga15675            ( 4372.1,    37.1,   352.6)
+  I just came to support 
+2022-10-02T06:54:36Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4379.9,    38.1,   349.4)
+  dis one or
+2022-10-02T06:54:41Z: PLAYER CHATTED [ 2935519787] xxxwwyajjsb12345     ( 4375.4,    37.2,   339.6)
+  hello miss jay
+2022-10-02T06:54:45Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4379.9,    39.0,   349.4)
+  dis
+2022-10-02T06:54:48Z: PLAYER CHATTED [ 2874347303] Xxgaby_aesthetic0xX  ( 4365.7,    35.6,   337.5)
+  JADEEEE
+2022-10-02T06:54:53Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4377.5,    38.6,   350.9)
+  Ohhh 
+2022-10-02T06:54:53Z: PLAYER CHATTED [ 2874347303] Xxgaby_aesthetic0xX  ( 4365.7,    35.6,   337.5)
+  LETS GO OTHER RP
+2022-10-02T06:54:57Z: PLAYER CHATTED [ 2874347303] Xxgaby_aesthetic0xX  ( 4365.7,    35.6,   337.5)
+  HERE IS BORED
+2022-10-02T06:55:00Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4377.5,    38.6,   350.9)
+  Hmm the second one 
+2022-10-02T06:55:01Z: PLAYER CHATTED [ 3293007487] abcXzLol45           ( 4374.5,    37.2,   360.0)
+  Wheres ur outfit?
+2022-10-02T06:55:02Z: PLAYER REMOVED [ 2243175310] chickenspootherepant
+2022-10-02T06:55:07Z: PLAYER CHATTED [ 1504222992] mynameisnoob21ok     ( 4376.1,    37.2,   358.1)
+  WHAT THE HELL
+2022-10-02T06:55:09Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4381.4,    37.1,   343.6)
+  at lest we still have echother
+2022-10-02T06:55:11Z: PLAYER CHATTED [  630008878] AkeishaGlace        
+  which is dis so okay i like dis one anyway :>
+2022-10-02T06:55:13Z: PLAYER CHATTED [ 1504222992] mynameisnoob21ok     ( 4376.1,    37.2,   358.1)
+  UR NOT USING EMOJIS?
+2022-10-02T06:55:14Z: PLAYER CHATTED [ 3261085597] Lisa_Cutie47         ( 4373.0,    37.2,   312.2)
+  Is this ur outfit?
+2022-10-02T06:55:15Z: PLAYER CHATTED [ 2874347303] Xxgaby_aesthetic0xX 
+  #############
+2022-10-02T06:55:15Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  yeah
+2022-10-02T06:55:19Z: PLAYER ADDED   [ 1090962356] alicesav1
+2022-10-02T06:55:21Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou   
+  Yeahh
+2022-10-02T06:55:22Z: PLAYER CHATTED [ 2478936938] XxFlower_Jade       
+  YAS OK
+2022-10-02T06:55:23Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4374.9,    37.1,   348.5)
+  hey
+2022-10-02T06:55:24Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  ''
+2022-10-02T06:55:26Z: PLAYER CHATTED [ 2874347303] Xxgaby_aesthetic0xX 
+  LETS GO OTHER RP
+2022-10-02T06:55:26Z: PLAYER CHATTED [ 3261085597] Lisa_Cutie47         ( 4373.0,    37.2,   312.2)
+  takai?
+2022-10-02T06:55:27Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4374.9,    37.1,   348.5)
+  theyre starting
+2022-10-02T06:55:29Z: PLAYER CHATTED [ 3293007487] abcXzLol45           ( 4374.5,    37.2,   360.0)
+  👍
+2022-10-02T06:55:29Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4374.9,    37.1,   348.5)
+  wake up
+2022-10-02T06:55:31Z: PLAYER CHATTED [ 2874347303] Xxgaby_aesthetic0xX 
+  HERE'S BORED
+2022-10-02T06:55:35Z: PLAYER CHATTED [ 1504222992] mynameisnoob21ok     ( 4376.1,    37.2,   358.1)
+  o and thx
+2022-10-02T06:55:35Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou   
+  You look stunning in both anyways 
+2022-10-02T06:55:41Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4379.5,    38.1,   350.0)
+  awee~
+2022-10-02T06:55:55Z: PLAYER CHATTED [ 3261085597] Lisa_Cutie47         ( 4373.0,    37.2,   312.2)
+  thats um
+2022-10-02T06:55:56Z: PLAYER CHATTED [ 2478936938] XxFlower_Jade        ( 4364.4,    40.1,   338.4)
+  FIND A PARTNER OR I'LL START SHOOTING
+2022-10-02T06:56:03Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4374.9,    37.1,   348.5)
+  can i call you mai?
+2022-10-02T06:56:11Z: PLAYER CHATTED [ 3778639861] yo2httt              ( 4369.4,    37.2,   355.8)
+  what is this party
+2022-10-02T06:56:12Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4379.5,    38.1,   350.0)
+  lets sit here for a while
+2022-10-02T06:56:12Z: CHRCTER ADDED  [ 2478936938] XxFlower_Jade        ( 4295.5,    56.9,   377.8)
+2022-10-02T06:56:12Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4377.5,    38.6,   350.9)
+  Im glad we came to prom together 
+2022-10-02T06:56:14Z: PLAYER CHATTED [ 1358581421] maisararaisha2012    ( 4373.5,    37.1,   350.5)
+  oh
+2022-10-02T06:56:15Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4377.5,    38.6,   350.9)
+  Lol
+2022-10-02T06:56:19Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  Yep
+2022-10-02T06:56:23Z: PLAYER CHATTED [ 1504222992] mynameisnoob21ok     ( 4373.8,    38.8,   356.7)
+  here
+2022-10-02T06:56:23Z: PLAYER CHATTED [ 1358581421] maisararaisha2012    ( 4373.5,    37.1,   350.5)
+  sure I think
+2022-10-02T06:56:26Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4380.2,    37.2,   352.7)
+  me too ^^
+2022-10-02T06:56:28Z: PLAYER CHATTED [ 1504222992] mynameisnoob21ok     ( 4374.2,    35.3,   355.3)
+  its nice ay?
+2022-10-02T06:56:31Z: CHRCTER ADDED  [ 1504222992] mynameisnoob21ok     ( 4295.5,    56.9,   377.8)
+2022-10-02T06:56:32Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4374.9,    37.1,   348.5)
+  alr
+2022-10-02T06:56:32Z: CHRCTER ADDED  [ 3677684285] XxcocopuffyyxX       ( 4295.5,    56.9,   377.8)
+2022-10-02T06:56:33Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4381.4,    37.1,   343.6)
+  i dont really care if we lose by them because noah was my freaind from the start
+2022-10-02T06:56:34Z: PLAYER REMOVED [ 1987436964] Rhianna_faye16
+2022-10-02T06:56:37Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  At least we are not getting shoot by that duck loll
+2022-10-02T06:56:41Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  ''the girls look so nice''!
+2022-10-02T06:56:42Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4374.9,    37.1,   348.5)
+  well, mai, wake up. theyre starting
+2022-10-02T06:56:43Z: PLAYER CHATTED [ 1504222992] mynameisnoob21ok     ( 4376.1,    37.2,   358.1)
+  i wanna win
+2022-10-02T06:56:48Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4380.2,    37.2,   352.7)
+  yep lol-
+2022-10-02T06:56:49Z: PLAYER CHATTED [ 1504222992] mynameisnoob21ok     ( 4376.1,    37.2,   358.1)
+  so ur my partner now
+2022-10-02T06:56:57Z: PLAYER CHATTED [ 1358581421] maisararaisha2012    ( 4373.5,    37.1,   350.5)
+  hate it
+2022-10-02T06:56:59Z: PLAYER CHATTED [ 2935519787] xxxwwyajjsb12345     ( 4375.4,    37.2,   339.6)
+  who the hell is puday
+2022-10-02T06:57:04Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4374.9,    37.1,   348.5)
+  well
+2022-10-02T06:57:04Z: PLAYER CHATTED [ 2874347303] Xxgaby_aesthetic0xX  ( 4362.8,    40.0,   333.2)
+  JADEEE PLEASEEE
+2022-10-02T06:57:10Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4374.9,    37.1,   348.5)
+  alright then.
+2022-10-02T06:57:15Z: PLAYER CHATTED [ 1490764943] jaxian_44            ( 4364.7,    42.5,   336.3)
+  uhhh we dont talk about puday chloe
+2022-10-02T06:57:18Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4380.2,    37.2,   352.7)
+  -whispers: whats aisha's problem?-
+2022-10-02T06:57:21Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4381.4,    37.1,   343.6)
+  aye i have a tip in life never think ur not better than anyone 
+2022-10-02T06:57:24Z: PLAYER CHATTED [ 2478936938] XxFlower_Jade        ( 4368.5,    35.7,   352.8)
+  ADDING SOME SPICE TO PROM
+2022-10-02T06:57:27Z: PLAYER CHATTED [ 2935519787] xxxwwyajjsb12345     ( 4375.4,    37.2,   339.6)
+  oof
+2022-10-02T06:57:36Z: PLAYER CHATTED [ 3261085597] Lisa_Cutie47         ( 4373.0,    37.2,   312.2)
+  Okk
+2022-10-02T06:57:48Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  Ikr 
+2022-10-02T06:57:52Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4374.9,    37.1,   348.5)
+  /NO
+2022-10-02T06:57:55Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4374.9,    37.1,   348.5)
+  NO
+2022-10-02T06:57:55Z: PLAYER CHATTED [ 3261085597] Lisa_Cutie47         ( 4373.0,    37.2,   312.2)
+  duckies
+2022-10-02T06:57:55Z: PLAYER CHATTED [ 2935519787] xxxwwyajjsb12345     ( 4375.4,    37.2,   339.6)
+  OOF
+2022-10-02T06:57:57Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4374.9,    37.1,   348.5)
+  WAIT
+2022-10-02T06:57:58Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  mh?
+2022-10-02T06:58:01Z: PLAYER CHATTED [ 2935519787] xxxwwyajjsb12345     ( 4375.4,    37.2,   339.6)
+  THATS A BIG OOF
+2022-10-02T06:58:02Z: PLAYER CHATTED [ 2874347303] Xxgaby_aesthetic0xX  ( 4370.8,    35.6,   313.4)
+  MEAW
+2022-10-02T06:58:05Z: PLAYER CHATTED [ 2874347303] Xxgaby_aesthetic0xX  ( 4370.8,    35.6,   313.4)
+  ops0
+2022-10-02T06:58:05Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4374.9,    37.1,   348.5)
+  WERE JUST WATCHING
+2022-10-02T06:58:05Z: PLAYER CHATTED [ 3261085597] Lisa_Cutie47         ( 4373.0,    37.2,   312.2)
+  aw cute
+2022-10-02T06:58:08Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  Bruh 
+2022-10-02T06:58:12Z: PLAYER ADDED   [ 1755892326] gerlywww1234
+2022-10-02T06:58:13Z: PLAYER CHATTED [ 3261085597] Lisa_Cutie47         ( 4373.0,    37.2,   312.2)
+  but no
+2022-10-02T06:58:16Z: PLAYER REMOVED [ 1814798410] monsterslayers21e
+2022-10-02T06:58:16Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  This is taking forever 
+2022-10-02T06:58:16Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4380.2,    37.2,   352.7)
+  ?
+2022-10-02T06:58:20Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4380.2,    37.2,   352.7)
+  true
+2022-10-02T06:58:23Z: PLAYER CHATTED [ 3677684285] XxcocopuffyyxX       ( 4382.4,    37.8,   354.9)
+  HI
+2022-10-02T06:58:25Z: PLAYER CHATTED [ 2874347303] Xxgaby_aesthetic0xX  ( 4368.4,    35.6,   314.5)
+  TvT
+2022-10-02T06:58:26Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4380.2,    37.2,   352.7)
+  oh hi xy r a1
+2022-10-02T06:58:28Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  Hey 
+2022-10-02T06:58:32Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  '' 4 people that have someone''
+2022-10-02T06:58:33Z: PLAYER CHATTED [ 2858204049] NTHANRBLX23          ( 4363.6,    42.2,   328.2)
+  bro
+2022-10-02T06:58:35Z: PLAYER CHATTED [ 3677684285] XxcocopuffyyxX       ( 4382.4,    37.8,   354.9)
+  grilll
+2022-10-02T06:58:37Z: PLAYER CHATTED [ 2874347303] Xxgaby_aesthetic0xX  ( 4368.9,    35.6,   315.9)
+  HERE IS BOREDDDDDDD JADEEEEEEEEEEEEEE
+2022-10-02T06:58:39Z: PLAYER CHATTED [ 3677684285] XxcocopuffyyxX       ( 4382.4,    37.8,   354.9)
+  help me-
+2022-10-02T06:58:40Z: PLAYER CHATTED [ 1490764943] jaxian_44            ( 4364.7,    42.5,   336.3)
+  HIHIHIHIHIHIHIHIHI
+2022-10-02T06:58:44Z: PLAYER ADDED   [ 3788762939] theyfw_dylani
+2022-10-02T06:58:46Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4380.2,    37.2,   352.7)
+  why?
+2022-10-02T06:58:49Z: PLAYER CHATTED [ 2478936938] XxFlower_Jade        ( 4371.8,    39.3,   334.2)
+  ADDING SOME SPICEEEEEEEEEEE
+2022-10-02T06:58:51Z: PLAYER CHATTED [ 2858204049] NTHANRBLX23          ( 4363.6,    42.2,   328.2)
+  imma left and get ready later
+2022-10-02T06:58:52Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4381.2,    38.1,   356.8)
+  is somethign wrong?
+2022-10-02T06:58:52Z: PLAYER ADDED   [ 3675097561] Designer_Girls1
+2022-10-02T06:58:53Z: PLAYER CHATTED [ 3677684285] XxcocopuffyyxX       ( 4382.2,    37.8,   354.5)
+  i cant ###### ######
+2022-10-02T06:58:54Z: PLAYER ADDED   [ 3628795396] cutie25145
+2022-10-02T06:58:54Z: PLAYER CHATTED [ 2874347303] Xxgaby_aesthetic0xX  ( 4372.5,    39.3,   330.4)
+  EZZZ JADEE
+2022-10-02T06:58:56Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4374.9,    37.1,   348.5)
+  oh man
+2022-10-02T06:58:57Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4381.2,    38.1,   356.8)
+  something*
+2022-10-02T06:59:01Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4381.4,    37.1,   343.6)
+  aye i did not tell u but im rich now
+2022-10-02T06:59:03Z: PLAYER CHATTED [ 3261085597] Lisa_Cutie47         ( 4380.2,    37.2,   352.7)
+  hi
+2022-10-02T06:59:03Z: PLAYER ADDED   [ 3911454013] Chanel_swaggs
+2022-10-02T06:59:03Z: PLAYER CHATTED [ 1504222992] mynameisnoob21ok     ( 4371.5,    38.8,   362.7)
+  excuse me?
+2022-10-02T06:59:03Z: PLAYER CHATTED [ 2874347303] Xxgaby_aesthetic0xX  ( 4372.0,    38.9,   327.6)
+  ok i am leaving you
+2022-10-02T06:59:05Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4374.9,    37.1,   348.5)
+  i hope we dont get on stage
+2022-10-02T06:59:06Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4381.2,    38.1,   356.8)
+  maybe try going with .
+2022-10-02T06:59:06Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  ## hi?
+2022-10-02T06:59:11Z: PLAYER CHATTED [ 3677684285] XxcocopuffyyxX       ( 4382.7,    37.8,   355.3)
+  ?
+2022-10-02T06:59:13Z: PLAYER CHATTED [ 3261085597] Lisa_Cutie47         ( 4380.2,    37.2,   352.7)
+  will u be my prom >
+2022-10-02T06:59:14Z: PLAYER CHATTED [ 2858204049] NTHANRBLX23          ( 4363.6,    42.2,   328.2)
+  byee
+2022-10-02T06:59:14Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  ''woah''
+2022-10-02T06:59:15Z: PLAYER CHATTED [ 2874347303] Xxgaby_aesthetic0xX  ( 4375.8,    38.0,   342.1)
+  i am going to other rp
+2022-10-02T06:59:16Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  I got a partner sorry 
+2022-10-02T06:59:17Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4372.0,    40.3,   352.8)
+  ms jjame
+2022-10-02T06:59:18Z: PLAYER REMOVED [ 2858204049] NTHANRBLX23
+2022-10-02T06:59:18Z: PLAYER CHATTED [ 1490764943] jaxian_44            ( 4364.7,    42.5,   336.3)
+  wait where is she
+2022-10-02T06:59:18Z: PLAYER CHATTED [ 2478936938] XxFlower_Jade        ( 4374.8,    39.2,   344.1)
+  NAUR
+2022-10-02T06:59:22Z: PLAYER CHATTED [ 2478936938] XxFlower_Jade        ( 4374.8,    39.2,   344.1)
+  TAKE ME WITH U
+2022-10-02T06:59:24Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4381.4,    37.1,   343.6)
+  i have 788k rn 
+2022-10-02T06:59:25Z: PLAYER ADDED   [ 2893615055] xXMilaMajXx
+2022-10-02T06:59:25Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4372.8,    40.7,   352.6)
+  come sit to mr asep
+2022-10-02T06:59:26Z: PLAYER CHATTED [ 1490764943] jaxian_44            ( 4364.7,    42.5,   336.3)
+  nvm
+2022-10-02T06:59:27Z: PLAYER CHATTED [ 3261085597] Lisa_Cutie47         ( 4380.2,    37.2,   352.7)
+  bruh then y u sitting alone?
+2022-10-02T06:59:31Z: PLAYER CHATTED [ 1490764943] jaxian_44            ( 4364.7,    42.5,   336.3)
+  YIEEEEEEEEEEEEEEEEE
+2022-10-02T06:59:32Z: PLAYER REMOVED [ 3331195600] Livj246
+2022-10-02T06:59:32Z: PLAYER CHATTED [ 2874347303] Xxgaby_aesthetic0xX  ( 4375.8,    38.0,   342.1)
+  th ok
+2022-10-02T06:59:34Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4380.5,    38.1,   355.4)
+  turn around please!
+2022-10-02T06:59:36Z: PLAYER CHATTED [ 1504222992] mynameisnoob21ok     ( 4381.4,    37.2,   319.6)
+  ello
+2022-10-02T06:59:40Z: PLAYER CHATTED [ 1490764943] jaxian_44            ( 4364.7,    42.5,   336.3)
+  ASEP I CAN SEE YOU BLUSHING
+2022-10-02T06:59:41Z: PLAYER CHATTED [ 3675097561] Designer_Girls1      ( 4376.3,    38.2,   329.6)
+  Are you from the royal family too?
+2022-10-02T06:59:42Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  '' woah i have 73k''
+2022-10-02T06:59:42Z: PLAYER CHATTED [ 1794680742] grettdig             ( 4381.4,    37.2,   324.6)
+  ELO
+2022-10-02T06:59:48Z: PLAYER CHATTED [ 3677684285] XxcocopuffyyxX       ( 4382.6,    37.8,   354.1)
+  HELP ME-
+2022-10-02T06:59:51Z: PLAYER CHATTED [ 2810086901] Xxaltheaplyzz        ( 4360.5,    40.6,   340.9)
+  wth is happening
+2022-10-02T06:59:53Z: PLAYER CHATTED [ 2874347303] Xxgaby_aesthetic0xX  ( 4375.8,    38.0,   342.1)
+  fam rp by fakePeace2345 by the black guy
+2022-10-02T06:59:56Z: PLAYER CHATTED [ 2935519787] xxxwwyajjsb12345     ( 4375.4,    37.2,   339.6)
+  FINALLY
+2022-10-02T06:59:57Z: PLAYER ADDED   [ 2666452733] AlisonWinterCat
+2022-10-02T06:59:57Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  Lol
+2022-10-02T06:59:59Z: PLAYER CHATTED [ 3650845749] EvaGaming45          ( 4376.3,    38.2,   333.6)
+  yes i am
+2022-10-02T07:00:01Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4374.9,    37.1,   348.5)
+  finally-
+2022-10-02T07:00:02Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4380.7,    38.1,   356.0)
+  HELP U WITH WAT IDK WAT UR SAYING BC IT WAS TAGS
+2022-10-02T07:00:07Z: PLAYER CHATTED [ 2478936938] XxFlower_Jade        ( 4373.4,    35.7,   345.9)
+  ALR CYA
+2022-10-02T07:00:10Z: PLAYER CHATTED [ 3677684285] XxcocopuffyyxX       ( 4382.6,    37.8,   354.1)
+  i cant
+2022-10-02T07:00:10Z: PLAYER CHATTED [ 2874347303] Xxgaby_aesthetic0xX  ( 4375.8,    38.0,   342.1)
+  kk
+2022-10-02T07:00:12Z: PLAYER REMOVED [ 2478936938] XxFlower_Jade
+2022-10-02T07:00:12Z: PLAYER REMOVED [ 2874347303] Xxgaby_aesthetic0xX
+2022-10-02T07:00:13Z: PLAYER CHATTED [ 3677684285] XxcocopuffyyxX       ( 4382.6,    37.8,   354.1)
+  remove
+2022-10-02T07:00:13Z: PLAYER CHATTED [ 2935519787] xxxwwyajjsb12345     ( 4375.4,    37.2,   339.6)
+  cute duck
+2022-10-02T07:00:14Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4381.4,    37.1,   343.6)
+  no u sould have more
+2022-10-02T07:00:14Z: PLAYER CHATTED [ 3677684285] XxcocopuffyyxX       ( 4382.6,    37.8,   354.1)
+  my
+2022-10-02T07:00:15Z: PLAYER CHATTED [ 1490764943] jaxian_44            ( 4364.7,    42.5,   336.3)
+  oh were starting now abi
+2022-10-02T07:00:16Z: PLAYER CHATTED [ 3650845749] EvaGaming45          ( 4376.3,    38.2,   333.6)
+  a am the Queen of Englend 
+2022-10-02T07:00:16Z: PLAYER CHATTED [ 3677684285] XxcocopuffyyxX       ( 4382.6,    37.8,   354.1)
+  #####
+2022-10-02T07:00:17Z: PLAYER REMOVED [ 3628795396] cutie25145
+2022-10-02T07:00:19Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  ''omg but why tho?''
+2022-10-02T07:00:22Z: PLAYER CHATTED [ 2810086901] Xxaltheaplyzz        ( 4362.8,    40.6,   340.9)
+  oh
+2022-10-02T07:00:23Z: PLAYER CHATTED [ 2935519787] xxxwwyajjsb12345     ( 4375.4,    37.2,   339.6)
+  OMG NOT PUDAY 
+2022-10-02T07:00:27Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  ''i dont need it!''
+2022-10-02T07:00:29Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4381.4,    37.1,   343.6)
+  im fine 
+2022-10-02T07:00:30Z: PLAYER CHATTED [ 3677684285] XxcocopuffyyxX       ( 4382.6,    37.8,   354.1)
+  THERE
+2022-10-02T07:00:33Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4299.7,    50.3,   389.8)
+  ah
+2022-10-02T07:00:35Z: PLAYER REMOVED [ 2666452733] AlisonWinterCat
+2022-10-02T07:00:35Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4299.7,    50.3,   389.8)
+  wait
+2022-10-02T07:00:35Z: PLAYER CHATTED [ 3778639861] yo2httt              ( 4369.2,    37.8,   340.9)
+  im a dancer
+2022-10-02T07:00:36Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  Barbara 
+2022-10-02T07:00:39Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4381.4,    37.1,   343.6)
+  i have so much its fine
+2022-10-02T07:00:40Z: PLAYER CHATTED [ 3675097561] Designer_Girls1      ( 4376.3,    38.2,   329.6)
+  Very nice,I’m prinsess Brittany of Estonia
+2022-10-02T07:00:42Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4299.7,    50.3,   389.8)
+  are you leaving the school
+2022-10-02T07:00:44Z: PLAYER CHATTED [ 3677684285] XxcocopuffyyxX       ( 4382.6,    37.8,   354.1)
+  noah CHILL
+2022-10-02T07:00:47Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4379.5,    38.1,   355.1)
+  Noah!
+2022-10-02T07:00:48Z: PLAYER CHATTED [ 1504222992] mynameisnoob21ok     ( 4381.4,    37.2,   319.6)
+  i may not be a slay
+2022-10-02T07:00:49Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4379.5,    38.1,   355.1)
+  Noah!
+2022-10-02T07:00:50Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  #######
+2022-10-02T07:00:53Z: PLAYER CHATTED [ 3650845749] EvaGaming45          ( 4376.3,    38.2,   333.6)
+  how is your mom?
+2022-10-02T07:00:54Z: PLAYER CHATTED [ 1504222992] mynameisnoob21ok     ( 4381.4,    37.2,   319.6)
+  but i slay myself
+2022-10-02T07:00:55Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  #######
+2022-10-02T07:00:56Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        ( 4373.5,    37.2,   350.5)
+  Omg hey
+2022-10-02T07:00:58Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  Ba r b 
+2022-10-02T07:00:58Z: PLAYER CHATTED [ 1504222992] mynameisnoob21ok     ( 4381.4,    37.2,   319.6)
+  purr
+2022-10-02T07:00:59Z: PLAYER CHATTED [ 1358581421] maisararaisha2012    ( 4295.7,    49.9,   402.1)
+  yeah
+2022-10-02T07:00:59Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4382.0,    38.1,   356.3)
+  remove the bow?
+2022-10-02T07:01:00Z: PLAYER CHATTED [ 3261085597] Lisa_Cutie47         ( 4374.9,    37.2,   348.5)
+  hI?
+2022-10-02T07:01:00Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  "''LANE''
+2022-10-02T07:01:01Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  Barb a ra 
+2022-10-02T07:01:02Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4297.4,    50.3,   391.6)
+  oh.
+2022-10-02T07:01:03Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        ( 4373.5,    37.2,   350.5)
+  Same dress but diff colour
+2022-10-02T07:01:04Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  "''LANE''
+2022-10-02T07:01:05Z: PLAYER CHATTED [ 2935519787] xxxwwyajjsb12345     ( 4375.4,    37.2,   339.6)
+  i aint spamming i got a warning in spamming
+2022-10-02T07:01:06Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  "''LANE''
+2022-10-02T07:01:07Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  "''LANE''
+2022-10-02T07:01:07Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4383.1,    38.1,   357.5)
+  ohh the top!
+2022-10-02T07:01:08Z: PLAYER CHATTED [ 3935562078] Akkatada23           ( 4369.6,    38.1,   318.1)
+  Jame
+2022-10-02T07:01:08Z: PLAYER CHATTED [ 3261085597] Lisa_Cutie47         ( 4374.9,    37.2,   348.5)
+  ik
+2022-10-02T07:01:08Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  Ba r hará 
+2022-10-02T07:01:09Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4381.4,    37.1,   343.6)
+  kiya
+2022-10-02T07:01:09Z: PLAYER CHATTED [ 3677684285] XxcocopuffyyxX       ( 4382.6,    37.8,   354.1)
+  no the shIrt
+2022-10-02T07:01:10Z: PLAYER CHATTED [ 3935562078] Akkatada23           ( 4369.6,    38.1,   318.1)
+  ####
+2022-10-02T07:01:11Z: PLAYER CHATTED [ 3650845749] EvaGaming45          ( 4376.3,    38.2,   333.6)
+  i mean we are friends
+2022-10-02T07:01:11Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  Barbara 
+2022-10-02T07:01:12Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4381.4,    37.1,   343.6)
+  kiya
+2022-10-02T07:01:13Z: PLAYER CHATTED [ 3935562078] Akkatada23           ( 4369.6,    38.1,   318.1)
+  ####
+2022-10-02T07:01:15Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  #######
+2022-10-02T07:01:15Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4381.4,    37.1,   343.6)
+  kiya
+2022-10-02T07:01:17Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  "''LANE''
+2022-10-02T07:01:18Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  Barb 
+2022-10-02T07:01:18Z: PLAYER CHATTED [ 3935562078] Akkatada23           ( 4369.6,    38.1,   318.1)
+  Aseptic
+2022-10-02T07:01:18Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4382.5,    38.1,   356.8)
+  maybe try reloading ur fit
+2022-10-02T07:01:18Z: PLAYER CHATTED [ 3261085597] Lisa_Cutie47         ( 4374.9,    37.2,   348.5)
+  LISA
+2022-10-02T07:01:19Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4381.4,    37.1,   343.6)
+  kiya
+2022-10-02T07:01:19Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  "''LANE''
+2022-10-02T07:01:20Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  Barb
+2022-10-02T07:01:20Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4297.4,    50.3,   391.6)
+  ok
+2022-10-02T07:01:21Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4381.4,    37.1,   343.6)
+  kiya
+2022-10-02T07:01:22Z: PLAYER CHATTED [ 3675097561] Designer_Girls1      ( 4376.3,    38.2,   329.6)
+  Umm sure!
+2022-10-02T07:01:22Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  "''LANE''
+2022-10-02T07:01:23Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  Barb
+2022-10-02T07:01:23Z: PLAYER CHATTED [ 3261085597] Lisa_Cutie47         ( 4374.9,    37.2,   348.5)
+  LISA
+2022-10-02T07:01:23Z: PLAYER CHATTED [ 3935562078] Akkatada23           ( 4369.6,    38.1,   318.1)
+  Asep
+2022-10-02T07:01:24Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4381.4,    37.1,   343.6)
+  kiya
+2022-10-02T07:01:24Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  "''LANE''
+2022-10-02T07:01:25Z: PLAYER CHATTED [ 1490764943] jaxian_44            ( 4364.7,    42.5,   336.3)
+  KEEP IT UP
+2022-10-02T07:01:25Z: PLAYER CHATTED [ 3261085597] Lisa_Cutie47         ( 4374.9,    37.2,   348.5)
+  LISA
+2022-10-02T07:01:26Z: PLAYER CHATTED [ 3261085597] Lisa_Cutie47         ( 4374.9,    37.2,   348.5)
+  LISA
+2022-10-02T07:01:30Z: PLAYER CHATTED [ 3677684285] XxcocopuffyyxX       ( 4383.0,    37.8,   354.2)
+  i just made this fit-
+2022-10-02T07:01:31Z: PLAYER CHATTED [ 3650845749] EvaGaming45          ( 4376.3,    38.2,   333.6)
+  is she good
+2022-10-02T07:01:31Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  Bar ba ra
+2022-10-02T07:01:31Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        ( 4373.5,    37.2,   350.5)
+  CHANEL
+2022-10-02T07:01:31Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4381.4,    37.1,   343.6)
+  kyia
+2022-10-02T07:01:33Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        ( 4373.5,    37.2,   350.5)
+  CHANEL 
+2022-10-02T07:01:33Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  /"''LANE''
+2022-10-02T07:01:33Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  Bar ba ra
+2022-10-02T07:01:34Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4381.4,    37.1,   343.6)
+  kyia
+2022-10-02T07:01:34Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  "''LANE''
+2022-10-02T07:01:34Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4381.2,    38.1,   356.6)
+  oop
+2022-10-02T07:01:35Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4297.4,    50.3,   391.6)
+  well ## i wont have anyone to watch with either then'
+2022-10-02T07:01:35Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  "''LANE''
+2022-10-02T07:01:36Z: PLAYER CHATTED [ 3675097561] Designer_Girls1      ( 4376.3,    38.2,   329.6)
+  Brittany 
+2022-10-02T07:01:36Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  Bar ba ra
+2022-10-02T07:01:37Z: PLAYER CHATTED [ 3293007487] abcXzLol45           ( 4377.7,    37.2,   356.2)
+  Jame
+2022-10-02T07:01:37Z: PLAYER CHATTED [ 2810086901] Xxaltheaplyzz        ( 4362.3,    40.6,   341.3)
+  O-O
+2022-10-02T07:01:37Z: PLAYER CHATTED [ 3261085597] Lisa_Cutie47         ( 4374.9,    37.2,   348.5)
+  LISA
+2022-10-02T07:01:38Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4382.4,    38.1,   357.0)
+  hmm
+2022-10-02T07:01:38Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4381.4,    37.1,   343.6)
+  kiya
+2022-10-02T07:01:39Z: PLAYER CHATTED [ 3261085597] Lisa_Cutie47         ( 4374.9,    37.2,   348.5)
+  LISA
+2022-10-02T07:01:39Z: PLAYER CHATTED [ 3293007487] abcXzLol45           ( 4377.7,    37.2,   356.2)
+  ####
+2022-10-02T07:01:39Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        ( 4373.5,    37.2,   350.5)
+  CHANEL 
+2022-10-02T07:01:39Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  Bar ba ra
+2022-10-02T07:01:40Z: PLAYER CHATTED [ 3261085597] Lisa_Cutie47         ( 4374.9,    37.2,   348.5)
+  LISA
+2022-10-02T07:01:41Z: PLAYER CHATTED [ 3293007487] abcXzLol45           ( 4377.7,    37.2,   356.2)
+  ####
+2022-10-02T07:01:41Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4381.4,    37.1,   343.6)
+  kyia
+2022-10-02T07:01:41Z: PLAYER CHATTED [ 3261085597] Lisa_Cutie47         ( 4374.9,    37.2,   348.5)
+  LISA
+2022-10-02T07:01:42Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  "''LANE''
+2022-10-02T07:01:42Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        ( 4373.5,    37.2,   350.5)
+   CHANEL 
+2022-10-02T07:01:43Z: PLAYER CHATTED [ 3261085597] Lisa_Cutie47         ( 4374.9,    37.2,   348.5)
+  LISA
+2022-10-02T07:01:43Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  "''LANE''
+2022-10-02T07:01:44Z: PLAYER CHATTED [ 3261085597] Lisa_Cutie47         ( 4374.9,    37.2,   348.5)
+  LISA
+2022-10-02T07:01:45Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        ( 4373.5,    37.2,   350.5)
+  CHANEL 
+2022-10-02T07:01:45Z: PLAYER CHATTED [ 1490764943] jaxian_44            ( 4364.7,    42.5,   336.3)
+  IMAO
+2022-10-02T07:01:47Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4381.4,    37.1,   343.6)
+  kiya
+2022-10-02T07:01:48Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        ( 4373.5,    37.2,   350.5)
+  CHANEL 
+2022-10-02T07:01:49Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4382.4,    38.1,   357.0)
+  i think uy have to start again-
+2022-10-02T07:01:50Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  BAR BA RA
+2022-10-02T07:01:50Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  "''LANE''
+2022-10-02T07:01:50Z: PLAYER CHATTED [ 3788762939] theyfw_dylani        ( 4375.4,    37.2,   343.6)
+  LANI
+2022-10-02T07:01:50Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        ( 4373.5,    37.2,   350.5)
+  CHANEL 
+2022-10-02T07:01:51Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  "''LANE''
+2022-10-02T07:01:51Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4382.4,    38.1,   357.0)
+  u*
+2022-10-02T07:01:51Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4381.4,    37.1,   343.6)
+  kiya
+2022-10-02T07:01:51Z: PLAYER CHATTED [ 3293007487] abcXzLol45           ( 4377.7,    37.2,   356.2)
+  ####
+2022-10-02T07:01:52Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  BAR BA RA
+2022-10-02T07:01:52Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  "''LANE''
+2022-10-02T07:01:52Z: PLAYER CHATTED [ 2935519787] xxxwwyajjsb12345     ( 4375.4,    37.2,   339.6)
+  NOT PUDAY WHAAAAAAAAAAAAAA
+2022-10-02T07:01:53Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        ( 4373.5,    37.2,   350.5)
+  CHANEL 
+2022-10-02T07:01:53Z: PLAYER CHATTED [ 3261085597] Lisa_Cutie47         ( 4374.9,    37.2,   348.5)
+  LISA
+2022-10-02T07:01:54Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4381.4,    37.1,   343.6)
+  kyai
+2022-10-02T07:01:54Z: PLAYER CHATTED [ 3293007487] abcXzLol45           ( 4377.7,    37.2,   356.2)
+  #####
+2022-10-02T07:01:55Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  BAR BA RA
+2022-10-02T07:01:55Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        ( 4373.5,    37.2,   350.5)
+  CHANEL 
+2022-10-02T07:01:55Z: PLAYER CHATTED [ 3261085597] Lisa_Cutie47         ( 4374.9,    37.2,   348.5)
+  LISA
+2022-10-02T07:01:56Z: PLAYER CHATTED [ 3677684285] XxcocopuffyyxX       ( 4383.0,    37.8,   354.2)
+  HELL NAHH
+2022-10-02T07:01:57Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4382.4,    38.1,   357.0)
+  just be hurry tho
+2022-10-02T07:01:57Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  BAR BA RA
+2022-10-02T07:01:57Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  "''LANE''
+2022-10-02T07:01:57Z: PLAYER CHATTED [ 3261085597] Lisa_Cutie47         ( 4374.9,    37.2,   348.5)
+  LISA
+2022-10-02T07:01:58Z: PLAYER CHATTED [ 3293007487] abcXzLol45           ( 4377.7,    37.2,   356.2)
+  BRUH
+2022-10-02T07:01:59Z: PLAYER CHATTED [ 3261085597] Lisa_Cutie47         ( 4374.9,    37.2,   348.5)
+  LISA
+2022-10-02T07:01:59Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  BAR BA RA
+2022-10-02T07:02:00Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4362.7,    38.0,   354.6)
+  ugh
+2022-10-02T07:02:01Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  "''LANE''
+2022-10-02T07:02:01Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4382.3,    38.1,   357.2)
+  e-
+2022-10-02T07:02:01Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        ( 4373.5,    37.2,   350.5)
+  CHANEL 
+2022-10-02T07:02:02Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  BAR BA RA
+2022-10-02T07:02:04Z: PLAYER CHATTED [ 3788762939] theyfw_dylani        ( 4375.4,    37.2,   343.6)
+  ####
+2022-10-02T07:02:06Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4382.5,    38.1,   354.4)
+  Noah!
+2022-10-02T07:02:06Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4362.7,    38.0,   354.6)
+  i cant stand prom
+2022-10-02T07:02:07Z: PLAYER CHATTED [ 2810086901] Xxaltheaplyzz        ( 4362.8,    40.6,   341.0)
+  wHaT tHe h3Ck
+2022-10-02T07:02:07Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4382.5,    38.1,   354.4)
+  Noah!
+2022-10-02T07:02:08Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4382.5,    38.1,   354.4)
+  a
+2022-10-02T07:02:09Z: PLAYER CHATTED [ 3675097561] Designer_Girls1      ( 4376.3,    38.2,   329.6)
+  Well,she’s doing kinda good
+2022-10-02T07:02:09Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4382.5,    38.1,   354.4)
+  Noah!
+2022-10-02T07:02:09Z: PLAYER CHATTED [ 3261085597] Lisa_Cutie47         ( 4374.9,    37.2,   348.5)
+  LISA
+2022-10-02T07:02:13Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  Barb 
+2022-10-02T07:02:14Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        ( 4373.5,    37.2,   350.5)
+  CHANEL
+2022-10-02T07:02:15Z: PLAYER CHATTED [ 1504222992] mynameisnoob21ok     ( 4381.4,    37.2,   319.6)
+  Asep
+2022-10-02T07:02:16Z: PLAYER REMOVED [ 1358581421] maisararaisha2012
+2022-10-02T07:02:17Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        ( 4373.5,    37.2,   350.5)
+  CHANEL
+2022-10-02T07:02:19Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        ( 4373.5,    37.2,   350.5)
+  CHANEL
+2022-10-02T07:02:20Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  BAR BA RA
+2022-10-02T07:02:20Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  O_O
+2022-10-02T07:02:24Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        ( 4373.5,    37.2,   350.5)
+  Chanel
+2022-10-02T07:02:26Z: PLAYER CHATTED [ 3788762939] theyfw_dylani        ( 4375.4,    37.2,   343.6)
+  Lani
+2022-10-02T07:02:26Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  BARBARA
+2022-10-02T07:02:27Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        ( 4373.5,    37.2,   350.5)
+  Chanel
+2022-10-02T07:02:28Z: PLAYER CHATTED [ 1490764943] jaxian_44            ( 4364.7,    42.5,   336.3)
+  :>>>
+2022-10-02T07:02:29Z: PLAYER CHATTED [ 3650845749] EvaGaming45          ( 4376.3,    38.2,   333.6)
+  why kinda
+2022-10-02T07:02:29Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        ( 4373.5,    37.2,   350.5)
+  Chanel
+2022-10-02T07:02:31Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        ( 4373.5,    37.2,   350.5)
+  Chanel
+2022-10-02T07:02:31Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4382.7,    37.2,   348.3)
+  Noah!
+2022-10-02T07:02:33Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4382.7,    37.2,   348.3)
+  Noah!
+2022-10-02T07:02:34Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        ( 4373.5,    37.2,   350.5)
+  Chanel
+2022-10-02T07:02:34Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4382.7,    37.2,   348.3)
+  Noah!
+2022-10-02T07:02:36Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4382.7,    37.2,   348.3)
+  Noah!
+2022-10-02T07:02:36Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        ( 4373.5,    37.2,   350.5)
+  Chanel
+2022-10-02T07:02:37Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4382.7,    37.2,   348.3)
+  Noah!
+2022-10-02T07:02:38Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        ( 4373.5,    37.2,   350.5)
+  Chanel
+2022-10-02T07:02:40Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        ( 4373.5,    37.2,   350.5)
+  Chanel
+2022-10-02T07:02:41Z: PLAYER CHATTED [ 2935519787] xxxwwyajjsb12345     ( 4375.4,    37.2,   339.6)
+  MAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+2022-10-02T07:02:42Z: PLAYER REMOVED [ 1090962356] alicesav1
+2022-10-02T07:02:42Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  STOP SPAMMING CHANEL 
+2022-10-02T07:02:43Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        ( 4373.5,    37.2,   350.5)
+  Chanel
+2022-10-02T07:02:45Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  BAR BA RA
+2022-10-02T07:02:45Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        ( 4373.5,    37.2,   350.5)
+  Chanel
+2022-10-02T07:02:45Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  ''didnt they say stop spamming?''
+2022-10-02T07:02:48Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        ( 4373.5,    37.2,   350.5)
+  Chanel
+2022-10-02T07:02:50Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4382.7,    37.2,   348.3)
+  Noah!
+2022-10-02T07:02:50Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  BARBARA
+2022-10-02T07:02:50Z: PLAYER CHATTED [ 2810086901] Xxaltheaplyzz        ( 4362.3,    40.6,   340.3)
+  whos gonna win?
+2022-10-02T07:02:51Z: PLAYER CHATTED [ 3650845749] EvaGaming45          ( 4376.3,    38.2,   333.6)
+  is ### #### is she ok Do yall have a war with someone
+2022-10-02T07:02:53Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4382.7,    37.2,   348.3)
+  Noah!
+2022-10-02T07:02:53Z: PLAYER CHATTED [ 3675097561] Designer_Girls1      ( 4376.3,    38.2,   329.6)
+  I don’t really want to talk about it…..
+2022-10-02T07:02:54Z: PLAYER REMOVED [ 3261085597] Lisa_Cutie47
+2022-10-02T07:03:01Z: PLAYER CHATTED [ 1490764943] jaxian_44            ( 4364.7,    42.5,   336.3)
+  shh we'll see ;)
+2022-10-02T07:03:11Z: PLAYER CHATTED [ 2810086901] Xxaltheaplyzz        ( 4363.2,    40.6,   341.1)
+  ok
+2022-10-02T07:03:19Z: PLAYER CHATTED [ 1504222992] mynameisnoob21ok     ( 4381.4,    37.2,   319.6)
+  i joined late
+2022-10-02T07:03:19Z: PLAYER CHATTED [ 3650845749] EvaGaming45          ( 4376.3,    38.2,   333.6)
+  pls tell me a am Queen of almowst half the world
+2022-10-02T07:03:24Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4381.2,    37.3,   374.0)
+  hmm~
+2022-10-02T07:03:31Z: PLAYER CHATTED [ 3650845749] EvaGaming45          ( 4376.3,    38.2,   333.6)
+  pls i need to know
+2022-10-02T07:03:39Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4382.7,    37.2,   348.3)
+  please be us!
+2022-10-02T07:03:42Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  ''us''
+2022-10-02T07:03:45Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  We got this 
+2022-10-02T07:03:46Z: PLAYER CHATTED [ 3675097561] Designer_Girls1      ( 4376.3,    38.2,   329.6)
+  I need to use the bathroom…..
+2022-10-02T07:03:49Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  ''pretty please''
+2022-10-02T07:04:00Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4382.7,    37.2,   348.3)
+  yes ### ### need to wait patiendly :>
+2022-10-02T07:04:01Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  ''beatifull please?''
+2022-10-02T07:04:02Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4364.1,    42.2,   331.7)
+  THE TWO PARTNER OF KNIGHT AND PRINCESS PROM NIGHT WILL BE...
+2022-10-02T07:04:05Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4382.7,    37.2,   348.3)
+  we just*
+2022-10-02T07:04:08Z: PLAYER CHATTED [ 2935519787] xxxwwyajjsb12345     ( 4375.4,    37.2,   339.6)
+  OMG THERES A CUTE KID
+2022-10-02T07:04:10Z: PLAYER REMOVED [ 1755892326] gerlywww1234
+2022-10-02T07:04:10Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  '' ill even talk!''
+2022-10-02T07:04:12Z: PLAYER CHATTED [ 3650845749] EvaGaming45          ( 4376.3,    38.2,   333.6)
+  miss pls get off the table
+2022-10-02T07:04:13Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4381.4,    37.1,   343.6)
+  ovo
+2022-10-02T07:04:14Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4382.7,    37.2,   348.3)
+  patiently*
+2022-10-02T07:04:16Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4381.2,    37.3,   374.0)
+  hmm hm hmmm... hm hm hm
+2022-10-02T07:04:20Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  Yeahhh
+2022-10-02T07:04:28Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  It has to be us 
+2022-10-02T07:04:29Z: PLAYER CHATTED [ 1490764943] jaxian_44            ( 4364.7,    42.5,   336.3)
+  slay puday
+2022-10-02T07:04:30Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  ''yse ill even talk!''
+2022-10-02T07:04:38Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4382.7,    37.2,   348.3)
+  welp theres one way to find out
+2022-10-02T07:04:38Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4381.4,    37.1,   343.6)
+  just say it
+2022-10-02T07:04:42Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  ''beatifull please''!
+2022-10-02T07:04:53Z: PLAYER CHATTED [ 2893615055] xXMilaMajXx          ( 4375.4,    37.1,   324.6)
+  Come on... 
+2022-10-02T07:04:53Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  ''ill talk scream!''
+2022-10-02T07:04:56Z: PLAYER CHATTED [ 2810086901] Xxaltheaplyzz        ( 4362.1,    40.6,   341.1)
+  i cant wait whos gonna win-
+2022-10-02T07:04:56Z: PLAYER CHATTED [ 3677684285] XxcocopuffyyxX       ( 4382.9,    37.8,   353.2)
+  lol i missed everything-
+2022-10-02T07:04:57Z: PLAYER CHATTED [ 1794680742] grettdig             ( 4381.4,    37.2,   324.6)
+  OW
+2022-10-02T07:04:58Z: PLAYER CHATTED [ 2810086901] Xxaltheaplyzz        ( 4362.1,    40.6,   341.1)
+  OH
+2022-10-02T07:05:00Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4382.7,    37.2,   348.3)
+  CGG!
+2022-10-02T07:05:01Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  oh
+2022-10-02T07:05:01Z: PLAYER CHATTED [ 1504222992] mynameisnoob21ok     ( 4381.4,    37.2,   319.6)
+  OOP
+2022-10-02T07:05:02Z: PLAYER CHATTED [ 1490764943] jaxian_44            ( 4364.7,    42.5,   336.3)
+  CONGRATSSSS
+2022-10-02T07:05:02Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  ?
+2022-10-02T07:05:03Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  CG
+2022-10-02T07:05:07Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  Congrats 
+2022-10-02T07:05:08Z: PLAYER CHATTED [ 3935562078] Akkatada23           ( 4370.2,    38.1,   321.0)
+  Congratulations 
+2022-10-02T07:05:10Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4381.2,    37.3,   374.0)
+  *sighs*
+2022-10-02T07:05:15Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  ''oh well''
+2022-10-02T07:05:16Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  Lol
+2022-10-02T07:05:17Z: PLAYER CHATTED [ 3675097561] Designer_Girls1      ( 4376.3,    38.2,   329.6)
+  Congrats!!
+2022-10-02T07:05:18Z: PLAYER CHATTED [ 2935519787] xxxwwyajjsb12345     ( 4375.4,    37.2,   339.6)
+  omg puday
+2022-10-02T07:05:18Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4381.4,    37.1,   343.6)
+  lets just go
+2022-10-02T07:05:19Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  Anyways 
+2022-10-02T07:05:20Z: PLAYER CHATTED [ 2810086901] Xxaltheaplyzz        ( 4358.8,    40.6,   342.5)
+  bro
+2022-10-02T07:05:21Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4382.7,    37.2,   348.3)
+  #### kay we tried-
+2022-10-02T07:05:24Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4381.5,    37.2,   350.5)
+  It’s fine 
+2022-10-02T07:05:26Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4362.8,    42.2,   332.9)
+  ms pday get off the throne thank yo u TvT
+2022-10-02T07:05:26Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4382.7,    37.2,   348.3)
+  xy r a
+2022-10-02T07:05:27Z: PLAYER CHATTED [ 3788762939] theyfw_dylani        ( 4375.4,    37.2,   343.6)
+  wooooooooooooo
+2022-10-02T07:05:28Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4382.7,    37.2,   348.3)
+  noah
+2022-10-02T07:05:32Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4381.4,    37.2,   339.6)
+  yeah
+2022-10-02T07:05:32Z: PLAYER CHATTED [ 1504222992] mynameisnoob21ok     ( 4358.2,    42.3,   330.6)
+  ty yallz
+2022-10-02T07:05:36Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4381.9,    38.1,   356.3)
+  lets go to my house and have a sleep over
+2022-10-02T07:05:36Z: PLAYER CHATTED [ 1504222992] mynameisnoob21ok     ( 4358.2,    42.3,   330.6)
+  im grateful
+2022-10-02T07:05:36Z: PLAYER CHATTED [ 3677684285] XxcocopuffyyxX       ( 4383.1,    39.5,   353.2)
+  wat?
+2022-10-02T07:05:39Z: PLAYER CHATTED [ 1490764943] jaxian_44            ( 4369.3,    38.1,   342.1)
+  ;-;
+2022-10-02T07:05:43Z: PLAYER CHATTED [ 3677684285] XxcocopuffyyxX       ( 4382.9,    37.8,   354.1)
+  SURE!!
+2022-10-02T07:05:45Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        ( 4373.5,    37.2,   350.5)
+  I didn’t even have a partner so Yh
+2022-10-02T07:05:48Z: PLAYER CHATTED [ 2810086901] Xxaltheaplyzz        ( 4368.0,    36.2,   339.8)
+  what was the theme again-
+2022-10-02T07:05:48Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4372.8,    41.5,   333.7)
+  in*
+2022-10-02T07:05:52Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4449.5,    37.2,   314.0)
+  ok so the thingd
+2022-10-02T07:05:53Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4382.7,    38.6,   360.3)
+  Yeah 
+2022-10-02T07:05:54Z: PLAYER CHATTED [ 3650845749] EvaGaming45          ( 4376.3,    38.2,   333.6)
+  sir is it a real trown or a. fake on cuz i have real ones
+2022-10-02T07:05:55Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4449.5,    37.2,   314.0)
+  things
+2022-10-02T07:05:57Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4364.5,    42.2,   331.3)
+  TvT
+2022-10-02T07:05:58Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4447.2,    37.3,   314.0)
+  'mh?''
+2022-10-02T07:06:01Z: PLAYER REMOVED [ 2935519787] xxxwwyajjsb12345
+2022-10-02T07:06:03Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4381.4,    38.1,   358.3)
+  k brb ima host a party the name of the host party is sleeps over! (friends only)
+2022-10-02T07:06:13Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4380.7,    38.1,   357.6)
+  sleep*
+2022-10-02T07:06:14Z: PLAYER CHATTED [ 3293007487] abcXzLol45           ( 4371.7,    42.3,   334.1)
+  THATS MY SISTER WHO WON
+2022-10-02T07:06:20Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4449.9,    37.9,   318.0)
+  ok so u should know what i look like
+2022-10-02T07:06:21Z: PLAYER CHATTED [  630008878] AkeishaGlace         ( 4380.7,    38.1,   357.6)
+  k brb yall
+2022-10-02T07:06:22Z: PLAYER CHATTED [ 3650845749] EvaGaming45          ( 4365.9,    37.8,   329.8)
+  *claps*
+2022-10-02T07:06:25Z: PLAYER CHATTED [ 3677684285] XxcocopuffyyxX       ( 4382.9,    37.8,   354.1)
+  #####
+2022-10-02T07:06:26Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4381.2,    37.3,   374.0)
+  *sighs*
+2022-10-02T07:06:26Z: PLAYER CHATTED [ 1504222992] mynameisnoob21ok     ( 4358.2,    42.3,   330.6)
+  AND MY BROTHER WHO GOT REJECTED
+2022-10-02T07:06:27Z: PLAYER REMOVED [  630008878] AkeishaGlace
+2022-10-02T07:06:27Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4382.7,    38.6,   360.3)
+  Alr 
+2022-10-02T07:06:29Z: PLAYER CHATTED [ 3650845749] EvaGaming45          ( 4365.9,    37.8,   329.8)
+  yall look so cute
+2022-10-02T07:06:31Z: PLAYER CHATTED [ 3677684285] XxcocopuffyyxX       ( 4383.0,    37.8,   356.0)
+  NOAH
+2022-10-02T07:06:33Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4447.2,    37.3,   314.0)
+  ''woah!
+2022-10-02T07:06:33Z: PLAYER CHATTED [ 3675097561] Designer_Girls1      ( 4376.3,    38.2,   329.6)
+  -claps-
+2022-10-02T07:06:36Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4363.9,    42.2,   333.2)
+  dont text please tryna sCREEN SHOT tVt
+2022-10-02T07:06:37Z: PLAYER CHATTED [ 3935562078] Akkatada23           ( 4376.8,    38.1,   378.3)
+  Not
+2022-10-02T07:06:38Z: PLAYER CHATTED [ 1490764943] jaxian_44            ( 4369.3,    38.1,   342.1)
+  WOOOOOOHOOOOOOO CONGRATULATIONSS
+2022-10-02T07:06:39Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4382.5,    38.6,   360.4)
+  Yeah
+2022-10-02T07:06:41Z: PLAYER CHATTED [ 3935562078] Akkatada23           ( 4376.8,    38.1,   378.3)
+  Nok
+2022-10-02T07:06:43Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4449.9,    37.9,   318.0)
+  thats that
+2022-10-02T07:06:43Z: PLAYER CHATTED [ 3677684285] XxcocopuffyyxX       ( 4383.0,    37.8,   356.0)
+  do u like babara?
+2022-10-02T07:06:45Z: PLAYER CHATTED [ 2810086901] Xxaltheaplyzz        ( 4363.0,    40.6,   340.3)
+  weeee
+2022-10-02T07:06:46Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4381.2,    37.3,   374.0)
+  huh?
+2022-10-02T07:06:52Z: PLAYER REMOVED [ 3788762939] theyfw_dylani
+2022-10-02T07:06:58Z: PLAYER CHATTED [ 3677684285] XxcocopuffyyxX       ( 4383.0,    37.8,   356.0)
+  OH MY GAWD
+2022-10-02T07:06:58Z: PLAYER CHATTED [ 3650845749] EvaGaming45          ( 4366.0,    37.8,   331.0)
+  can i get a screen shot after you
+2022-10-02T07:07:01Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4447.2,    37.3,   314.0)
+  w-well t-this is how i sound like!
+2022-10-02T07:07:01Z: PLAYER CHATTED [ 3935562078] Akkatada23           ( 4376.8,    38.1,   378.3)
+  Why aren’t you out there having fun
+2022-10-02T07:07:06Z: PLAYER CHATTED [ 3849340835] Samhellohowareyou    ( 4382.5,    38.6,   360.4)
+  Gtg
+2022-10-02T07:07:10Z: PLAYER CHATTED [ 1504222992] mynameisnoob21ok     ( 4358.2,    42.3,   330.6)
+  TY
+2022-10-02T07:07:12Z: PLAYER CHATTED [ 3677684285] XxcocopuffyyxX       ( 4383.0,    37.8,   356.0)
+  i-
+2022-10-02T07:07:13Z: PLAYER CHATTED [ 3677684285] XxcocopuffyyxX       ( 4383.0,    37.8,   356.0)
+  ok
+2022-10-02T07:07:13Z: PLAYER CHATTED [ 1794680742] grettdig             ( 4358.2,    42.3,   336.6)
+  OK
+2022-10-02T07:07:17Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        ( 4367.8,    37.8,   339.2)
+  YASS SLAY CONGRATS
+2022-10-02T07:07:18Z: PLAYER ADDED   [ 2388803871] barbie17372
+2022-10-02T07:07:22Z: PLAYER CHATTED [ 1490764943] jaxian_44            ( 4369.9,    38.1,   341.3)
+  YA
+2022-10-02T07:07:23Z: PLAYER CHATTED [ 3293007487] abcXzLol45           ( 4371.7,    42.3,   334.1)
+  SLAYY~
+2022-10-02T07:07:25Z: PLAYER CHATTED [ 3677684285] XxcocopuffyyxX       ( 4383.0,    37.8,   356.0)
+  bye-
+2022-10-02T07:07:28Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4381.2,    37.3,   374.0)
+  the them was knights and princesses
+2022-10-02T07:07:29Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4450.0,    37.9,   318.0)
+  idc what u sound like i will still like u the smae
+2022-10-02T07:07:32Z: PLAYER CHATTED [ 3650845749] EvaGaming45          ( 4363.9,    42.2,   333.4)
+  both of yall are soo cute
+2022-10-02T07:07:33Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4381.2,    37.3,   374.0)
+  theeme
+2022-10-02T07:07:35Z: PLAYER REMOVED [ 3849340835] Samhellohowareyou
+2022-10-02T07:07:39Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4381.2,    37.3,   374.0)
+  theme
+2022-10-02T07:07:41Z: PLAYER CHATTED [ 3650845749] EvaGaming45          ( 4363.9,    42.2,   333.4)
+  awwwww
+2022-10-02T07:07:46Z: PLAYER CHATTED [ 2810086901] Xxaltheaplyzz        ( 4363.2,    40.6,   340.1)
+  yar
+2022-10-02T07:07:52Z: PLAYER ADDED   [ 1962545954] jessicalove_1022
+2022-10-02T07:07:53Z: PLAYER CHATTED [ 1794680742] grettdig             ( 4358.2,    42.3,   336.6)
+  YEY
+2022-10-02T07:07:53Z: PLAYER CHATTED [ 2893615055] xXMilaMajXx          ( 4367.5,    37.7,   345.1)
+  Sir
+2022-10-02T07:07:54Z: PLAYER CHATTED [ 3293007487] abcXzLol45           ( 4380.8,    38.7,   360.4)
+  👋 
+2022-10-02T07:07:57Z: PLAYER CHATTED [ 3677684285] XxcocopuffyyxX       ( 4382.7,    37.8,   356.5)
+  wat?
+2022-10-02T07:07:57Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4447.2,    37.3,   314.0)
+  its just i got bullyed because i never talk
+2022-10-02T07:08:00Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4381.2,    37.3,   374.0)
+  thats a partner thing
+2022-10-02T07:08:08Z: PLAYER ADDED   [ 2241638910] cutemixedgirl2012
+2022-10-02T07:08:08Z: PLAYER CHATTED [ 1490764943] jaxian_44            ( 4360.7,    42.5,   325.2)
+  did i get the right person? ;-;
+2022-10-02T07:08:09Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4381.2,    37.3,   374.0)
+  nobody asked me.
+2022-10-02T07:08:11Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4447.2,    37.3,   314.0)
+  so i keeped my word
+2022-10-02T07:08:11Z: PLAYER CHATTED [ 2893615055] xXMilaMajXx          ( 4370.7,    41.0,   337.6)
+  Can i be teacher or worker? 
+2022-10-02T07:08:14Z: PLAYER CHATTED [ 3293007487] abcXzLol45           ( 4380.8,    38.7,   360.4)
+  Nothing
+2022-10-02T07:08:18Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4374.7,    41.1,   332.4)
+  sure
+2022-10-02T07:08:20Z: PLAYER CHATTED [ 3677684285] XxcocopuffyyxX       ( 4382.7,    37.8,   356.5)
+  ok??
+2022-10-02T07:08:21Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4450.0,    37.9,   318.0)
+  aye i got bullyed to why do u think i wear a mask
+2022-10-02T07:08:25Z: PLAYER CHATTED [ 3778639861] yo2httt              ( 4371.4,    37.8,   342.6)
+  yalo
+2022-10-02T07:08:25Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4374.7,    41.1,   332.4)
+  lets talk later go to my office and wait for me ^^
+2022-10-02T07:08:29Z: PLAYER CHATTED [ 3935562078] Akkatada23           ( 4376.8,    38.1,   378.3)
+  Good point I don’t know why I went nobody ask me so ima just sit down
+2022-10-02T07:08:32Z: PLAYER CHATTED [ 2893615055] xXMilaMajXx          ( 4372.3,    41.1,   335.6)
+  Okay! 
+2022-10-02T07:08:33Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4447.2,    37.3,   314.0)
+  oh!
+2022-10-02T07:08:46Z: PLAYER CHATTED [ 3650845749] EvaGaming45          ( 4361.6,    42.2,   334.6)
+  OP gtg back to the kingdom but yall Will have a photo of both of you on the royal galary wall
+2022-10-02T07:08:54Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4450.0,    37.9,   318.0)
+  well i mean i should tell u who i really am
+2022-10-02T07:08:57Z: PLAYER CHATTED [ 2810086901] Xxaltheaplyzz        ( 4363.3,    37.8,   311.1)
+  char
+2022-10-02T07:08:58Z: PLAYER CHATTED [ 1504222992] mynameisnoob21ok     ( 4358.2,    42.3,   330.6)
+  thank you Ms
+2022-10-02T07:09:04Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4447.2,    37.3,   314.0)
+  same for me
+2022-10-02T07:09:07Z: PLAYER REMOVED [ 3293007487] abcXzLol45
+2022-10-02T07:09:08Z: PLAYER CHATTED [ 3650845749] EvaGaming45          ( 4361.6,    42.2,   334.6)
+  np
+2022-10-02T07:09:11Z: PLAYER CHATTED [ 1504222992] mynameisnoob21ok     ( 4358.2,    42.3,   330.6)
+  i gtg now
+2022-10-02T07:09:13Z: PLAYER CHATTED [ 1504222992] mynameisnoob21ok     ( 4358.2,    42.3,   330.6)
+  cya yallz
+2022-10-02T07:09:13Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4450.5,    37.9,   318.1)
+  i am the prince
+2022-10-02T07:09:15Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4447.2,    37.3,   314.0)
+  ill start talking more-e
+2022-10-02T07:09:21Z: PLAYER REMOVED [ 2810086901] Xxaltheaplyzz
+2022-10-02T07:09:21Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4447.2,    37.3,   314.0)
+  WHAT!
+2022-10-02T07:09:22Z: PLAYER REMOVED [ 2508468239] Suga15675
+2022-10-02T07:09:26Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4450.5,    37.9,   318.1)
+  yeh
+2022-10-02T07:09:40Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4447.2,    37.3,   314.0)
+  what are you d-doing at an -h-high school!
+2022-10-02T07:09:41Z: PLAYER REMOVED [ 3677684285] XxcocopuffyyxX
+2022-10-02T07:09:43Z: CHRCTER ADDED  [ 1962545954] jessicalove_1022     ( 4295.5,    56.9,   377.8)
+2022-10-02T07:09:45Z: PLAYER REMOVED [ 2388803871] barbie17372
+2022-10-02T07:09:47Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4381.2,    37.3,   374.0)
+  ugh
+2022-10-02T07:09:58Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4447.2,    37.3,   314.0)
+  a-arent y-you gonna do prince dutys
+2022-10-02T07:09:58Z: PLAYER CHATTED [ 3650845749] EvaGaming45          ( 4362.5,    42.2,   333.5)
+  Good bye everyone i Will see YOU when i have time to. ### here agine!
+2022-10-02T07:09:59Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4404.4,    61.3,   395.0)
+  so yes how can i help you?
+2022-10-02T07:10:00Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4450.5,    37.9,   318.1)
+  i gust want to live a norm life
+2022-10-02T07:10:07Z: PLAYER ADDED   [ 3933271858] Aurelka135
+2022-10-02T07:10:07Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        ( 4363.3,    37.8,   360.1)
+  WHERES THE HOST?!
+2022-10-02T07:10:10Z: PLAYER CHATTED [ 2893615055] xXMilaMajXx          ( 4401.1,    61.2,   388.7)
+  Im wanted to be a staff 
+2022-10-02T07:10:12Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4447.2,    37.3,   314.0)
+  ''oh!''
+2022-10-02T07:10:16Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4381.2,    37.3,   374.0)
+  do you need help?
+2022-10-02T07:10:18Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4447.2,    37.3,   314.0)
+  makes sense
+2022-10-02T07:10:19Z: PLAYER REMOVED [ 3650845749] EvaGaming45
+2022-10-02T07:10:23Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4404.4,    61.3,   395.0)
+  oh ok what job will you take ^^
+2022-10-02T07:10:26Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4450.5,    37.9,   318.1)
+  so umm 
+2022-10-02T07:10:32Z: PLAYER CHATTED [ 2893615055] xXMilaMajXx          ( 4404.2,    61.7,   388.3)
+  Hmm maybe teacher
+2022-10-02T07:10:34Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4386.4,    38.0,   390.6)
+  chanel
+2022-10-02T07:10:42Z: PLAYER REMOVED [ 3933271858] Aurelka135
+2022-10-02T07:10:45Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4450.5,    37.9,   318.1)
+  i sould prob put my stuff back on
+2022-10-02T07:10:46Z: PLAYER CHATTED [ 2893615055] xXMilaMajXx          ( 4404.2,    61.7,   388.3)
+  what subjects are free? 
+2022-10-02T07:10:53Z: PLAYER CHATTED [ 2893615055] xXMilaMajXx          ( 4404.2,    61.7,   388.3)
+  not owned*
+2022-10-02T07:10:58Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4392.1,    38.0,   339.8)
+  miss
+2022-10-02T07:11:01Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4447.2,    37.3,   314.0)
+  you're choice
+2022-10-02T07:11:03Z: PLAYER REMOVED [ 1504222992] mynameisnoob21ok
+2022-10-02T07:11:13Z: PLAYER CHATTED [ 3778639861] yo2httt              ( 4447.7,    37.8,   317.6)
+  buang
+2022-10-02T07:11:17Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4404.4,    61.3,   395.0)
+  yes there are art and pe class are availablle
+2022-10-02T07:11:18Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        ( 4417.4,    37.8,   368.0)
+  Me?
+2022-10-02T07:11:21Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4415.0,    38.0,   370.2)
+  yes
+2022-10-02T07:11:27Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        ( 4417.3,    37.8,   368.7)
+  Ok what is it
+2022-10-02T07:11:29Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4415.0,    38.0,   370.2)
+  you running aroud crazy
+2022-10-02T07:11:37Z: PLAYER CHATTED [ 3675097561] Designer_Girls1      ( 4415.5,    62.1,   419.4)
+  Excuse me
+2022-10-02T07:11:38Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4452.4,    37.9,   317.8)
+  no wait no more hideing it
+2022-10-02T07:11:38Z: PLAYER CHATTED [ 2893615055] xXMilaMajXx          ( 4404.2,    61.7,   388.3)
+  Ohh can i be two subjects teacher if i can? 
+2022-10-02T07:11:40Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4415.0,    38.0,   370.2)
+  do you need to see the enrollment?
+2022-10-02T07:11:43Z: PLAYER CHATTED [ 3935562078] Akkatada23           ( 4414.9,    62.1,   423.0)
+  Yes
+2022-10-02T07:11:43Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4404.4,    61.3,   395.0)
+  sure ^^
+2022-10-02T07:11:46Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4447.2,    37.3,   314.0)
+  yeah''
+2022-10-02T07:11:49Z: PLAYER CHATTED [ 2893615055] xXMilaMajXx          ( 4404.2,    61.7,   388.3)
+  Okay 
+2022-10-02T07:11:52Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        ( 4417.3,    37.8,   368.7)
+  No.
+2022-10-02T07:11:54Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4415.0,    38.0,   370.2)
+  what are you looking for?
+2022-10-02T07:11:59Z: PLAYER CHATTED [ 3675097561] Designer_Girls1      ( 4415.5,    62.1,   419.4)
+  I’m new in this school,can you please show me around?
+2022-10-02T07:11:59Z: PLAYER ADDED   [ 2411666611] offialmelody
+2022-10-02T07:12:04Z: PLAYER CHATTED [ 3935562078] Akkatada23           ( 4414.9,    62.1,   423.0)
+  Yes
+2022-10-02T07:12:07Z: PLAYER CHATTED [ 2893615055] xXMilaMajXx          ( 4404.2,    61.7,   388.3)
+  Is there teachers doorm or smth like that? 
+2022-10-02T07:12:10Z: PLAYER CHATTED [ 3675097561] Designer_Girls1      ( 4415.5,    62.1,   419.4)
+  Thank you
+2022-10-02T07:12:11Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        ( 4417.3,    37.8,   368.7)
+  I’m just trynna memorize where everything is
+2022-10-02T07:12:15Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4451.0,    37.9,   318.6)
+  i should mabye tell noah
+2022-10-02T07:12:15Z: PLAYER CHATTED [ 3935562078] Akkatada23           ( 4416.1,    62.1,   423.2)
+  Follow me
+2022-10-02T07:12:15Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4415.0,    38.0,   370.2)
+  oh.
+2022-10-02T07:12:18Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        ( 4417.3,    37.8,   368.7)
+  So ik where to go
+2022-10-02T07:12:22Z: PLAYER CHATTED [ 3935562078] Akkatada23           ( 4434.2,    62.1,   416.7)
+  Dorms
+2022-10-02T07:12:23Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4404.4,    61.3,   395.0)
+  your schedule will be in wednesday for pe and tuesday for art ^^
+2022-10-02T07:12:25Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4445.6,    38.1,   318.0)
+  sure
+2022-10-02T07:12:28Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4415.0,    38.0,   370.2)
+  i thought you needed the host.
+2022-10-02T07:12:30Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4415.0,    38.0,   370.2)
+  well
+2022-10-02T07:12:34Z: PLAYER CHATTED [ 2893615055] xXMilaMajXx          ( 4404.2,    61.7,   388.3)
+  Oh okay tysm
+2022-10-02T07:12:35Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4445.6,    38.1,   318.0)
+  i have ot go now
+2022-10-02T07:12:36Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        ( 4417.3,    37.8,   368.7)
+  Do u have a problem with it tho..
+2022-10-02T07:12:37Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4445.6,    38.1,   318.0)
+  bye!
+2022-10-02T07:12:37Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4404.4,    61.3,   395.0)
+  you cna now prepare ^^
+2022-10-02T07:12:39Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        ( 4417.3,    37.8,   368.7)
+  ?
+2022-10-02T07:12:47Z: PLAYER CHATTED [ 3778639861] yo2httt              ( 4373.5,    37.8,   432.5)
+  hi
+2022-10-02T07:12:49Z: PLAYER CHATTED [ 2893615055] xXMilaMajXx          ( 4404.2,    61.7,   388.3)
+  Okay hbu doorms for staff? 
+2022-10-02T07:12:51Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4415.0,    38.0,   370.2)
+  school will start probably on monday so
+2022-10-02T07:12:52Z: PLAYER CHATTED [ 3778639861] yo2httt              ( 4373.5,    37.8,   432.5)
+  whats ur order
+2022-10-02T07:12:55Z: PLAYER CHATTED [ 3935562078] Akkatada23           ( 4424.2,    62.1,   356.7)
+  The host office 
+2022-10-02T07:12:56Z: PLAYER CHATTED [ 2893615055] xXMilaMajXx          ( 4404.2,    61.7,   388.3)
+  is there? 
+2022-10-02T07:12:59Z: PLAYER CHATTED [ 1962545954] jessicalove_1022     ( 4372.1,    37.3,   424.0)
+  milke
+2022-10-02T07:13:04Z: PLAYER CHATTED [ 3778639861] yo2httt              ( 4373.5,    37.8,   432.2)
+  ok
+2022-10-02T07:13:06Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4415.0,    38.0,   370.2)
+  what do you need to find out?
+2022-10-02T07:13:11Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        ( 4417.3,    37.8,   368.7)
+  Ik. That’s why I’m memorizing where everything is
+2022-10-02T07:13:13Z: PLAYER ADDED   [ 1560751333] Helps_people736519
+2022-10-02T07:13:18Z: PLAYER CHATTED [ 2874430058] maria_theqeeun1      ( 4438.0,    38.3,   333.7)
+  i gtg
+2022-10-02T07:13:19Z: PLAYER CHATTED [ 3935562078] Akkatada23           ( 4433.4,    50.1,   352.1)
+  I gtg 
+2022-10-02T07:13:24Z: PLAYER CHATTED [ 3778639861] yo2httt             
+  wait
+2022-10-02T07:13:25Z: PLAYER CHATTED [ 3675097561] Designer_Girls1      ( 4435.6,    50.1,   353.3)
+  Oh okay
+2022-10-02T07:13:27Z: PLAYER CHATTED [ 2893615055] xXMilaMajXx          ( 4404.2,    61.7,   388.3)
+  Oh okay i guess i need go Bye Sir! 
+2022-10-02T07:13:34Z: PLAYER CHATTED [ 3675097561] Designer_Girls1      ( 4435.6,    50.1,   353.3)
+  Thank you though
+2022-10-02T07:13:41Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4404.4,    61.3,   395.0)
+  ok ^^
+2022-10-02T07:13:41Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        ( 4417.3,    37.8,   368.7)
+  Nothing really I’m almost done with the whole school
+2022-10-02T07:13:46Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4415.0,    38.0,   370.2)
+  oh
+2022-10-02T07:13:47Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4434.4,    49.9,   361.2)
+  hey do u know where noah is
+2022-10-02T07:13:50Z: PLAYER REMOVED [ 2411666611] offialmelody
+2022-10-02T07:13:53Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        ( 4417.3,    37.8,   368.7)
+  Ok so bye.
+2022-10-02T07:13:54Z: PLAYER CHATTED [ 1560751333] Helps_people736519   ( 4418.2,    37.7,   372.4)
+  Hey girls <33
+2022-10-02T07:13:58Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4413.1,    38.0,   371.1)
+  hello
+2022-10-02T07:14:13Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4413.1,    38.0,   371.1)
+  what are you guys up to?
+2022-10-02T07:14:19Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4413.4,    37.9,   366.0)
+  oh yeh well no more fkae id 
+2022-10-02T07:14:22Z: PLAYER REMOVED [ 2874430058] maria_theqeeun1
+2022-10-02T07:14:27Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4413.4,    37.9,   366.0)
+  fake
+2022-10-02T07:14:38Z: PLAYER CHATTED [ 1560751333] Helps_people736519   ( 4407.3,    37.7,   437.1)
+  R u a teacher?
+2022-10-02T07:14:43Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4413.1,    38.0,   371.1)
+  alright
+2022-10-02T07:14:47Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4404.1,    37.8,   446.7)
+  me?
+2022-10-02T07:14:50Z: PLAYER REMOVED [ 3778639861] yo2httt
+2022-10-02T07:14:50Z: PLAYER CHATTED [ 1560751333] Helps_people736519   ( 4406.6,    37.7,   439.3)
+  Yeah!
+2022-10-02T07:14:54Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4413.1,    38.0,   371.1)
+  help express yourself more if you need to
+2022-10-02T07:15:00Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4413.4,    37.9,   366.0)
+  if u did no t know im a prince 
+2022-10-02T07:15:06Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4413.1,    38.0,   371.1)
+  oh
+2022-10-02T07:15:07Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4404.1,    37.8,   446.7)
+  nope im the owner of this school and im the ceo of thi school
+2022-10-02T07:15:08Z: PLAYER CHATTED [ 2893615055] xXMilaMajXx          ( 4412.4,    37.2,   449.7)
+  Hello! 
+2022-10-02T07:15:09Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4413.1,    38.0,   371.1)
+  wow
+2022-10-02T07:15:09Z: PLAYER ADDED   [ 2732524081] fififlom2
+2022-10-02T07:15:10Z: PLAYER ADDED   [ 3674876752] marlon_0201
+2022-10-02T07:15:13Z: PLAYER CHATTED [ 1560751333] Helps_people736519   ( 4406.7,    37.7,   440.6)
+  Woah!
+2022-10-02T07:15:18Z: PLAYER CHATTED [ 1560751333] Helps_people736519   ( 4406.7,    37.7,   440.6)
+  Amazing
+2022-10-02T07:15:19Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4413.1,    38.0,   371.1)
+  *bows
+2022-10-02T07:15:27Z: CHRCTER ADDED  [ 3674876752] marlon_0201          ( 4295.5,    56.9,   377.8)
+2022-10-02T07:15:28Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4413.4,    37.9,   367.3)
+  yeh i was hideing it so that i could not be used
+2022-10-02T07:15:49Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4406.4,    37.8,   446.6)
+  is all teacher here?
+2022-10-02T07:15:54Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4413.1,    38.0,   371.1)
+  well
+2022-10-02T07:15:58Z: PLAYER CHATTED [ 3675097561] Designer_Girls1      ( 4453.9,    62.1,   424.9)
+  -looks in the mirror-
+2022-10-02T07:15:59Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4413.4,    37.9,   367.3)
+  im just looking for noah
+2022-10-02T07:16:01Z: PLAYER CHATTED [ 3935562078] Akkatada23           ( 4412.3,    37.3,   441.6)
+  I guess
+2022-10-02T07:16:02Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4413.1,    38.0,   371.1)
+  your highness
+2022-10-02T07:16:03Z: PLAYER CHATTED [ 2893615055] xXMilaMajXx          ( 4412.4,    37.2,   449.7)
+  Hmm i dont know sir-
+2022-10-02T07:16:07Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4406.5,    37.8,   445.1)
+  ok have a seat you three
+2022-10-02T07:16:10Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4413.1,    38.0,   371.1)
+  i dont know where he is
+2022-10-02T07:16:13Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4413.8,    37.9,   367.7)
+  u can just call me lane its fine
+2022-10-02T07:16:19Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4413.1,    38.0,   371.1)
+  okay.
+2022-10-02T07:16:27Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4424.8,    37.8,   445.4)
+  since ms jay our principal is afk
+2022-10-02T07:16:31Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4416.4,    37.9,   372.1)
+  well im going to see if i can find him
+2022-10-02T07:16:36Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4424.8,    37.8,   445.1)
+  ill be taking her place for now TvT
+2022-10-02T07:16:40Z: PLAYER ADDED   [ 1708186465] furrypolskauwu123
+2022-10-02T07:16:41Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4413.1,    38.0,   371.1)
+  i guess ill just go back to being a councilor.
+2022-10-02T07:16:42Z: PLAYER ADDED   [ 3880546911] Shlayko
+2022-10-02T07:16:47Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4416.4,    37.9,   372.1)
+  ###
+2022-10-02T07:16:50Z: PLAYER REMOVED [ 1962545954] jessicalove_1022
+2022-10-02T07:17:02Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4424.8,    37.8,   445.1)
+  and now were going have a meetign about students how is the students?
+2022-10-02T07:17:02Z: CHRCTER ADDED  [ 3880546911] Shlayko              ( 4295.5,    56.9,   377.8)
+2022-10-02T07:17:09Z: PLAYER CHATTED [ 2893615055] xXMilaMajXx          ( 4412.4,    37.2,   449.7)
+  -writing in notebook-
+2022-10-02T07:17:14Z: PLAYER CHATTED [ 2893615055] xXMilaMajXx          ( 4412.4,    37.2,   449.7)
+  Okay! 
+2022-10-02T07:17:31Z: PLAYER CHATTED [ 3880546911] Shlayko              ( 4465.2,    36.9,   372.5)
+  Hi excuse me do you have money taht I could have?
+2022-10-02T07:17:36Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4424.8,    37.8,   445.1)
+  are they behaved and listen or?
+2022-10-02T07:17:36Z: PLAYER CHATTED [ 3675097561] Designer_Girls1      ( 4416.1,    62.1,   423.7)
+  I’m so #### of myself…
+2022-10-02T07:17:44Z: PLAYER CHATTED [ 3935562078] Akkatada23           ( 4412.3,    37.3,   441.6)
+  My students are amazing although some are sad bc Thay didn’t get dat on prom
+2022-10-02T07:17:46Z: PLAYER CHATTED [ 1560751333] Helps_people736519   ( 4415.5,    61.7,   420.4)
+  Hey u!
+2022-10-02T07:17:58Z: PLAYER ADDED   [ 2931013197] NatureLover5577
+2022-10-02T07:17:58Z: PLAYER CHATTED [ 3880546911] Shlayko              ( 4464.5,    36.9,   414.1)
+  L
+2022-10-02T07:18:00Z: PLAYER CHATTED [ 3880546911] Shlayko              ( 4464.5,    36.9,   414.1)
+  !
+2022-10-02T07:18:01Z: PLAYER CHATTED [ 1490764943] jaxian_44            ( 4426.6,    61.3,   397.8)
+  im back
+2022-10-02T07:18:02Z: PLAYER CHATTED [ 2732524081] fififlom2            ( 4463.2,    38.3,   416.0)
+  No sry I havnt enough to donate 😭🙏
+2022-10-02T07:18:03Z: PLAYER CHATTED [ 3880546911] Shlayko              ( 4464.5,    36.9,   414.1)
+  ?
+2022-10-02T07:18:09Z: PLAYER CHATTED [ 2893615055] xXMilaMajXx          ( 4412.4,    37.2,   449.7)
+  Ohh im new teacher so i didnt know students ^^
+2022-10-02T07:18:12Z: PLAYER CHATTED [ 3880546911] Shlayko              ( 4464.5,    36.9,   414.1)
+  DANG OK:(
+2022-10-02T07:18:12Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4424.8,    37.8,   445.1)
+  ohh yea well thats great now we have a schedule of this school
+2022-10-02T07:18:24Z: PLAYER REMOVED [ 1560751333] Helps_people736519
+2022-10-02T07:18:30Z: PLAYER CHATTED [ 2893615055] xXMilaMajXx          ( 4412.4,    37.2,   449.7)
+  -writing again-
+2022-10-02T07:18:31Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4382.3,    37.2,   405.3)
+  crys
+2022-10-02T07:18:39Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4424.8,    37.8,   445.1)
+  #################################
+2022-10-02T07:18:44Z: PLAYER CHATTED [ 3880546911] Shlayko              ( 4435.7,    60.9,   343.6)
+  Hi
+2022-10-02T07:18:45Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4424.6,    37.8,   446.5)
+  Ms hazel
+2022-10-02T07:18:50Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4424.6,    37.8,   446.5)
+  ######################
+2022-10-02T07:18:52Z: PLAYER CHATTED [ 1708186465] furrypolskauwu123    ( 4436.5,    61.6,   370.6)
+  hi
+2022-10-02T07:18:53Z: PLAYER REMOVED [ 3911454013] Chanel_swaggs
+2022-10-02T07:18:55Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4424.6,    37.8,   446.5)
+  what subject are u?
+2022-10-02T07:19:02Z: PLAYER CHATTED [ 3880546911] Shlayko              ( 4437.9,    60.9,   373.2)
+  Do you have some money I could have?
+2022-10-02T07:19:02Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4384.5,    38.0,   392.9)
+  hey jay
+2022-10-02T07:19:04Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4466.2,    38.1,   431.0)
+  awrun~ run~ lost boy, they'd say to me~e~e~e
+2022-10-02T07:19:06Z: PLAYER ADDED   [ 3852132721] Dontevenplaywitmefr
+2022-10-02T07:19:07Z: PLAYER CHATTED [ 2241638910] cutemixedgirl2012    ( 4420.3,    37.2,   441.6)
+  math!
+2022-10-02T07:19:08Z: PLAYER CHATTED [ 1490764943] jaxian_44            ( 4370.9,    50.1,   419.3)
+  oh hello
+2022-10-02T07:19:11Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4425.2,    37.8,   446.1)
+  ohh
+2022-10-02T07:19:13Z: PLAYER CHATTED [ 2893615055] xXMilaMajXx          ( 4412.4,    37.2,   449.7)
+  Cool-
+2022-10-02T07:19:14Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4425.2,    37.8,   446.1)
+  ok 
+2022-10-02T07:19:17Z: PLAYER CHATTED [ 1708186465] furrypolskauwu123    ( 4436.5,    61.6,   370.6)
+  why do you need money
+2022-10-02T07:19:24Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4425.1,    37.8,   446.7)
+  have yall know the schedule classes?
+2022-10-02T07:19:27Z: PLAYER CHATTED [ 3880546911] Shlayko              ( 4437.9,    60.9,   373.2)
+  I want to buy new house cuz I don’t have one
+2022-10-02T07:19:36Z: PLAYER CHATTED [ 1291085356] tgenevieve250        ( 4466.2,    38.1,   431.0)
+  away, from all of~ reality~y~y~y
+2022-10-02T07:19:37Z: PLAYER CHATTED [ 3880546911] Shlayko              ( 4437.9,    60.9,   373.2)
+  In public surver
+2022-10-02T07:19:37Z: PLAYER CHATTED [ 3935562078] Akkatada23           ( 4412.3,    37.3,   441.6)
+  Yes
+2022-10-02T07:19:37Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4374.6,    49.9,   420.6)
+  i dont know if u know me or not but im done hideing it im the prince 
+2022-10-02T07:19:42Z: PLAYER CHATTED [ 1708186465] furrypolskauwu123    ( 4436.5,    61.6,   370.6)
+  sorry then because i want to do the same
+2022-10-02T07:19:43Z: PLAYER CHATTED [ 3675097561] Designer_Girls1      ( 4416.2,    62.1,   424.1)
+  I’ll just fake a smile….
+2022-10-02T07:19:45Z: PLAYER CHATTED [ 2893615055] xXMilaMajXx          ( 4412.4,    37.2,   449.7)
+  Mhm! 
+2022-10-02T07:19:46Z: PLAYER REMOVED [ 3674876752] marlon_0201
+2022-10-02T07:19:48Z: PLAYER REMOVED [ 2732524081] fififlom2
+2022-10-02T07:19:49Z: PLAYER CHATTED [ 1490764943] jaxian_44            ( 4370.6,    50.1,   415.6)
+  really??
+2022-10-02T07:19:52Z: PLAYER CHATTED [ 3880546911] Shlayko              ( 4437.9,    60.9,   373.2)
+  Oh ok that’s fine
+2022-10-02T07:19:52Z: PLAYER CHATTED [ 3769999448] MRLI70               ( 4424.4,    37.8,   445.9)
+  ok then 
+2022-10-02T07:19:57Z: PLAYER CHATTED [ 3675097561] Designer_Girls1      ( 4416.2,    62.1,   424.1)
+  There..
+2022-10-02T07:19:58Z: PLAYER CHATTED [ 2893615055] xXMilaMajXx          ( 4412.4,    37.2,   449.7)
+  -writing scheldue-
+2022-10-02T07:19:59Z: PLAYER CHATTED [ 3171115100] Karz551              ( 4374.6,    49.9,   420.6)
+  i can show u the cloths
+2022-10-02T07:20:03Z: PLAYER REMOVED [    1630228] VisualPlugin

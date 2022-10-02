@@ -1,0 +1,1010 @@
+[    1630228] : [ 9862832367] [NEW]Never-Ending Cart Ride - 423e60b9-4312-45d7-b427-37c2313be43c
+2022-09-27T07:47:18Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-09-27T07:47:18Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-09-27T07:47:18Z: PLAYER ADDED   [   92433500] BaoClassic
+2022-09-27T07:47:18Z: PLAYER ADDED   [ 1865832413] Fox_BaerplaysRoblox
+2022-09-27T07:47:18Z: PLAYER ADDED   [ 2353657730] kwiskaus
+2022-09-27T07:47:18Z: PLAYER ADDED   [ 1816014212] alanwalker2020k
+2022-09-27T07:47:18Z: PLAYER ADDED   [ 3714840375] Hatfishkiwi
+2022-09-27T07:47:18Z: PLAYER ADDED   [ 3889042706] mfmskjgktkgmgk
+2022-09-27T07:47:27Z: PLAYER CHATTED [ 2353657730] kwiskaus            
+  to cats siting in a cart ^^
+2022-09-27T07:47:35Z: PLAYER ADDED   [ 3886721191] Lyx_L3xu13lexuie
+2022-09-27T07:47:35Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox 
+  Yes
+2022-09-27T07:47:37Z: PLAYER CHATTED [ 2353657730] kwiskaus            
+  having fun lalallaaaaa
+2022-09-27T07:47:47Z: PLAYER CHATTED [ 2353657730] kwiskaus            
+  this is a great day
+2022-09-27T07:47:54Z: PLAYER ADDED   [  199414954] SR_VV
+2022-09-27T07:47:59Z: PLAYER CHATTED [ 2353657730] kwiskaus            
+  you're going to love the stuff I made^^
+2022-09-27T07:48:01Z: PLAYER REMOVED [ 3714840375] Hatfishkiwi
+2022-09-27T07:48:01Z: PLAYER REMOVED [   92433500] BaoClassic
+2022-09-27T07:48:10Z: PLAYER ADDED   [ 2447885552] Jui6877
+2022-09-27T07:48:13Z: PLAYER REMOVED [ 2447885552] Jui6877
+2022-09-27T07:48:13Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox 
+  MY IPAD IS AT 3%
+2022-09-27T07:48:24Z: PLAYER CHATTED [ 2353657730] kwiskaus            
+  omg cherg it
+2022-09-27T07:48:27Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox 
+  ITS NOT
+2022-09-27T07:48:32Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-5348.6,     4.3, -1654.4)
+  I CAN)T
+2022-09-27T07:48:32Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-5346.5,     4.7, -1701.3)
+  AHHHH
+2022-09-27T07:48:39Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-5346.5,     4.7, -2705.9)
+  WUT DO WE DO
+2022-09-27T07:48:45Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-5346.5,     4.7, -3697.0)
+  I WILL MISS YOU BFF
+2022-09-27T07:49:00Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-5348.5,     4.4, -5840.7)
+  :((
+2022-09-27T07:49:06Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-4799.9,     4.7, -6216.5)
+  WAHHHH
+2022-09-27T07:49:15Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-3578.0,     4.7, -6216.5)
+  SAD ENDING
+2022-09-27T07:49:20Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-2828.3,     4.7, -6216.5)
+  WAHHHH
+2022-09-27T07:49:32Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-1014.9,     4.7, -6216.5)
+  HMMM
+2022-09-27T07:49:38Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( -243.8,     4.4, -6218.5)
+  :(
+2022-09-27T07:49:40Z: PLAYER CHATTED [ 2353657730] kwiskaus             (  172.4,     4.7, -6216.5)
+  :((
+2022-09-27T07:49:46Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 1030.8,     4.7, -6216.4)
+  MWA
+2022-09-27T07:49:57Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 2607.1,     4.4, -6218.4)
+  AHHH
+2022-09-27T07:49:59Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 2893.5,     4.3, -6218.4)
+  :<
+2022-09-27T07:50:02Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 3296.7,     4.7, -6216.4)
+  AHHH
+2022-09-27T07:50:08Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 4248.0,     4.4, -6218.4)
+  WE ARE SO CLOSE TO 200k tho..
+2022-09-27T07:50:09Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  455.6,    10.2,  -731.2)
+2022-09-27T07:50:21Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 6114.4,     4.7, -6215.8)
+  Y CANT IT CHARGE THO
+2022-09-27T07:50:31Z: CHRCTER ADDED  [ 3889042706] mfmskjgktkgmgk       (  481.9,     8.5,  -736.7)
+2022-09-27T07:50:39Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 6159.7,     4.7, -3647.6)
+  we so close :<
+2022-09-27T07:50:56Z: CHRCTER ADDED  [ 3886721191] Lyx_L3xu13lexuie     (  454.8,     8.2,  -727.4)
+2022-09-27T07:51:22Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 6161.7,     4.4,  2636.4)
+  Hang on!!
+2022-09-27T07:51:48Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 5464.2,     4.7,  5696.8)
+  you can do this!!
+2022-09-27T07:52:01Z: CHRCTER ADDED  [ 3886721191] Lyx_L3xu13lexuie     (  477.1,     8.2,  -737.0)
+2022-09-27T07:52:12Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 1960.7,     4.3,  5698.8)
+  Omg..
+2022-09-27T07:52:14Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 1588.4,     4.4,  5698.8)
+  I did it
+2022-09-27T07:52:19Z: CHRCTER ADDED  [ 3889042706] mfmskjgktkgmgk       (  452.3,     8.5,  -732.8)
+2022-09-27T07:52:22Z: PLAYER CHATTED [ 2353657730] kwiskaus             (  430.4,     4.7,  5696.8)
+  YASSSS!!!
+2022-09-27T07:52:24Z: PLAYER REMOVED [ 1816014212] alanwalker2020k
+2022-09-27T07:52:27Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( -331.1,     4.7,  5696.8)
+  MWA MWA MWAAA
+2022-09-27T07:52:27Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( -331.1,     4.4,  5698.8)
+  I DID IT
+2022-09-27T07:52:30Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( -796.8,     4.7,  5696.8)
+  YAYAYAYAYA
+2022-09-27T07:52:52Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-3973.3,     4.7,  5696.8)
+  ## ##### TOR ## ##### TOR ##
+2022-09-27T07:52:55Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-4387.6,     4.7,  5696.8)
+  ##
+2022-09-27T07:52:58Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-4855.7,     4.7,  5696.8)
+  :<
+2022-09-27T07:53:04Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-5708.5,     4.4,  5698.8)
+  HUH
+2022-09-27T07:53:10Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-6160.6,     4.7,  5324.4)
+  yay
+2022-09-27T07:53:10Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  475.0,    10.2,  -730.8)
+2022-09-27T07:53:13Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-6160.6,     4.7,  4859.0)
+  yayayayayayyaayyayayayaay
+2022-09-27T07:53:14Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-6162.6,     4.3,  4708.5)
+  :))
+2022-09-27T07:53:17Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-6160.6,     4.7,  4234.5)
+  mwa
+2022-09-27T07:53:21Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-6162.5,     4.3,  3654.3)
+  Mwa
+2022-09-27T07:54:05Z: PLAYER REMOVED [ 3886721191] Lyx_L3xu13lexuie
+2022-09-27T07:54:13Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-6162.5,     4.4, -3920.7)
+  Btw
+2022-09-27T07:54:20Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-6162.5,     4.3, -4878.5)
+  Happy early birthday:))
+2022-09-27T07:54:22Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-6160.5,     4.7, -5147.6)
+  how is my charger still working if it's literally on its last shring
+2022-09-27T07:54:31Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-6162.5,     4.4, -6491.1)
+  …
+2022-09-27T07:54:34Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-6160.5,     4.7, -6925.8)
+  AWWWW TYSM TYSM TYSMM TYSM #### TYSM
+2022-09-27T07:54:38Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-5719.6,     4.4, -7032.5)
+  ### GOT THISS
+2022-09-27T07:54:40Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-5418.1,     4.3, -7032.5)
+  YOU
+2022-09-27T07:54:47Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-4466.1,     4.7, -7030.5)
+  YOUR SOO NICE 
+2022-09-27T07:55:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (  506.4,     4.7,  -727.3)
+  Come in my bus!
+2022-09-27T07:55:36Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  478.6,    10.2,  -728.7)
+2022-09-27T07:55:44Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 3904.7,     4.4, -7032.4)
+  U nicer
+2022-09-27T07:55:44Z: PLAYER ADDED   [ 1175386984] JustRic96
+2022-09-27T07:55:52Z: PLAYER ADDED   [ 3846943427] ianwalu
+2022-09-27T07:56:05Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  453.6,    10.2,  -734.6)
+2022-09-27T07:56:18Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 6975.7,     4.4, -5121.6)
+  Omg..
+2022-09-27T07:56:24Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 6975.7,     4.3, -4230.9)
+  200k!!
+2022-09-27T07:57:18Z: PLAYER ADDED   [ 1120338199] fffffdddfdddffffff
+2022-09-27T07:57:37Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 6961.3,     4.7,  6491.5)
+  NO YOUR NICER
+2022-09-27T07:57:45Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 5941.9,     4.3,  6512.8)
+  No u
+2022-09-27T07:57:49Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 5302.3,     4.7,  6510.8)
+  like a angel
+2022-09-27T07:57:51Z: PLAYER REMOVED [ 1120338199] fffffdddfdddffffff
+2022-09-27T07:57:55Z: PLAYER ADDED   [  175271248] bigThecatmat
+2022-09-27T07:57:55Z: PLAYER ADDED   [ 1823120423] Cookiefan_rblx
+2022-09-27T07:57:56Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 4324.6,     4.7,  6510.8)
+  your a angel
+2022-09-27T07:57:57Z: PLAYER ADDED   [ 3588742226] whatmnmnm
+2022-09-27T07:58:00Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 3626.7,     4.4,  6512.8)
+  ur a god
+2022-09-27T07:58:00Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 3624.4,     4.7,  6510.8)
+  NO you
+2022-09-27T07:58:13Z: PLAYER REMOVED [ 1175386984] JustRic96
+2022-09-27T07:58:19Z: PLAYER ADDED   [ 2804116627] Tyler48654
+2022-09-27T07:58:20Z: PLAYER CHATTED [ 2353657730] kwiskaus             (  739.5,     4.7,  6510.8)
+  ###########################
+2022-09-27T07:58:21Z: CHRCTER ADDED  [ 3588742226] whatmnmnm            (  478.7,     8.3,  -730.1)
+2022-09-27T07:58:28Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( -400.6,     4.7,  6510.8)
+  well you're amazinger than me
+2022-09-27T07:58:36Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-1552.9,     4.7,  6510.8)
+  no one can beat your niceness
+2022-09-27T07:58:38Z: PLAYER REMOVED [ 2804116627] Tyler48654
+2022-09-27T07:58:43Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-2531.5,     4.7,  6510.8)
+  NO ONE
+2022-09-27T07:58:48Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-3243.7,     4.7,  6510.8)
+  mwa
+2022-09-27T07:58:50Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-3546.4,     4.3,  6512.8)
+  You’re a goddess 
+2022-09-27T07:58:56Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-4524.8,     4.7,  6510.8)
+  NO YOU R
+2022-09-27T07:59:01Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  450.8,    10.2,  -729.5)
+2022-09-27T07:59:06Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-5907.3,     4.7,  6510.8)
+  mwa
+2022-09-27T07:59:08Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-6238.8,     4.4,  6512.8)
+  No
+2022-09-27T07:59:11Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-6632.2,     4.4,  6512.8)
+  You.
+2022-09-27T07:59:13Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-6939.8,     4.7,  6507.4)
+  no you
+2022-09-27T07:59:18Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-6976.6,     4.4,  5761.2)
+  You
+2022-09-27T07:59:20Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-6974.6,     4.7,  5551.4)
+  no you
+2022-09-27T07:59:20Z: CHRCTER ADDED  [  175271248] bigThecatmat         (  455.2,     8.7,  -733.0)
+2022-09-27T07:59:22Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-6976.6,     4.4,  5223.0)
+  You
+2022-09-27T07:59:23Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-6974.6,     4.7,  5080.7)
+  no you
+2022-09-27T07:59:24Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-6976.6,     4.3,  4986.8)
+  You
+2022-09-27T07:59:27Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-6976.6,     4.4,  4471.7)
+  You.
+2022-09-27T07:59:27Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-6974.6,     4.7,  4455.4)
+  no you
+2022-09-27T07:59:29Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-6976.5,     4.4,  4167.7)
+  You.
+2022-09-27T07:59:32Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-6974.6,     4.7,  3766.2)
+  MWA
+2022-09-27T07:59:34Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-6976.6,     4.4,  3521.8)
+  YOU,,,,,,
+2022-09-27T07:59:37Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-6976.6,     4.3,  3064.5)
+  :O
+2022-09-27T07:59:37Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-6974.6,     4.7,  3027.7)
+  YOU
+2022-09-27T07:59:42Z: CHRCTER ADDED  [ 1823120423] Cookiefan_rblx       (  460.3,     8.5,  -735.2)
+2022-09-27T07:59:42Z: CHRCTER ADDED  [ 3889042706] mfmskjgktkgmgk       (  482.7,     8.5,  -735.5)
+2022-09-27T07:59:46Z: CHRCTER ADDED  [  175271248] bigThecatmat         (  483.4,     8.7,  -733.6)
+2022-09-27T07:59:47Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-6974.5,     4.7,  1518.7)
+  >:3 your very special
+2022-09-27T08:00:03Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-6974.5,     4.7,  -812.7)
+  you're like a floating star
+2022-09-27T08:00:11Z: PLAYER REMOVED [  175271248] bigThecatmat
+2022-09-27T08:00:14Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-6974.5,     4.7, -2425.2)
+  floating finding every friend in the world^^
+2022-09-27T08:00:30Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-6976.5,     4.4, -4757.5)
+  We r so close to 250k
+2022-09-27T08:00:30Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-6974.5,     4.7, -4786.0)
+  seeing how amazing you are
+2022-09-27T08:00:36Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-6974.5,     4.7, -5547.9)
+  YA
+2022-09-27T08:00:45Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-6976.5,     4.3, -6862.5)
+  what the dog doin.
+2022-09-27T08:00:51Z: PLAYER ADDED   [ 3470266096] ffrobbyy
+2022-09-27T08:01:05Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-4971.8,     4.7, -7844.5)
+  WUT DA DOG doIn
+2022-09-27T08:01:07Z: PLAYER REMOVED [ 3470266096] ffrobbyy
+2022-09-27T08:01:13Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-3781.5,     4.7, -7844.5)
+  lol :)
+2022-09-27T08:01:28Z: PLAYER ADDED   [ 3909633664] JDMKING012
+2022-09-27T08:01:33Z: PLAYER ADDED   [ 1413344876] BATFANLOlz
+2022-09-27T08:01:44Z: PLAYER ADDED   [ 1750794271] Zatto98
+2022-09-27T08:01:46Z: PLAYER ADDED   [  938102650] Gamerninja314
+2022-09-27T08:01:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (  508.5,     4.7,  -709.2)
+  Wanna ride with me?
+2022-09-27T08:02:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (  507.4,     4.7,  -663.0)
+  I can go fast!
+2022-09-27T08:02:08Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 4273.9,     4.7, -7844.4)
+  you're wonderful >:)
+2022-09-27T08:02:23Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  481.4,    10.2,  -731.1)
+2022-09-27T08:02:23Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 6442.7,     4.7, -7844.4)
+  have a block of cheese
+2022-09-27T08:02:42Z: PLAYER CHATTED [ 3889042706] mfmskjgktkgmgk       ( 2903.6,     4.6, -1461.3)
+  GİT
+2022-09-27T08:02:53Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 7787.7,     4.7, -4975.3)
+  CHEESE FOR YOU
+2022-09-27T08:03:14Z: PLAYER ADDED   [ 1742553920] gsgsdudue
+2022-09-27T08:03:37Z: PLAYER REMOVED [ 3909633664] JDMKING012
+2022-09-27T08:03:37Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  454.1,    10.2,  -731.8)
+2022-09-27T08:03:43Z: PLAYER ADDED   [ 3174943833] salwaaisyahs
+2022-09-27T08:04:25Z: PLAYER CHATTED [ 3889042706] mfmskjgktkgmgk       (-2108.5,     4.6,  3254.7)
+  GİİİİİİİİİİİİT
+2022-09-27T08:04:39Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  477.5,    10.2,  -734.7)
+2022-09-27T08:04:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (  447.0,     4.1,  -737.6)
+  $ git push
+2022-09-27T08:05:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (  474.0,     4.1,  -727.4)
+  No sudo?
+2022-09-27T08:05:13Z: CHRCTER ADDED  [ 3174943833] salwaaisyahs         (  477.8,     8.7,  -732.9)
+2022-09-27T08:05:22Z: CHRCTER ADDED  [ 1742553920] gsgsdudue            (  456.1,     8.2,  -730.3)
+2022-09-27T08:05:36Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-3784.8,     4.7,  7324.8)
+  we are so close
+2022-09-27T08:05:49Z: CHRCTER ADDED  [ 1750794271] Zatto98              (  455.8,     8.5,  -731.2)
+2022-09-27T08:05:58Z: PLAYER REMOVED [ 1750794271] Zatto98
+2022-09-27T08:06:12Z: PLAYER CHATTED [ 3889042706] mfmskjgktkgmgk       ( 4531.7,     4.6, -2870.5)
+  GO AWAY
+2022-09-27T08:06:21Z: CHRCTER ADDED  [  938102650] Gamerninja314        (  484.5,     8.5,  -735.4)
+2022-09-27T08:06:21Z: CHRCTER ADDED  [ 1742553920] gsgsdudue            (  451.3,     8.2,  -736.8)
+2022-09-27T08:06:31Z: PLAYER REMOVED [  938102650] Gamerninja314
+2022-09-27T08:06:34Z: CHRCTER ADDED  [ 3174943833] salwaaisyahs         (  459.6,     8.7,  -731.3)
+2022-09-27T08:06:35Z: PLAYER ADDED   [ 1163974283] spiderclone01
+2022-09-27T08:07:26Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-7788.5,     4.7, -4781.1)
+  your sooo nice ^^
+2022-09-27T08:08:48Z: CHRCTER ADDED  [ 1742553920] gsgsdudue            (  476.4,     8.2,  -736.0)
+2022-09-27T08:08:49Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (  527.6,     4.3, -8660.5)
+  Hey.
+2022-09-27T08:08:56Z: CHRCTER ADDED  [ 3174943833] salwaaisyahs         (  456.7,     8.7,  -736.8)
+2022-09-27T08:09:26Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 5814.5,     4.7, -8658.4)
+  hi
+2022-09-27T08:09:32Z: CHRCTER ADDED  [ 3174943833] salwaaisyahs         (  479.5,     8.7,  -728.1)
+2022-09-27T08:09:35Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 7226.9,     4.7, -8658.4)
+  you r TO NICE
+2022-09-27T08:09:50Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 8601.7,     4.7, -7918.8)
+  WUT ThE DOG DoIn
+2022-09-27T08:10:17Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 8601.7,     4.7, -3987.7)
+  CHEESE ROLES
+2022-09-27T08:10:25Z: PLAYER REMOVED [ 3588742226] whatmnmnm
+2022-09-27T08:10:29Z: CHRCTER ADDED  [ 1742553920] gsgsdudue            (  456.8,     8.2,  -727.3)
+2022-09-27T08:10:37Z: PLAYER REMOVED [ 3174943833] salwaaisyahs
+2022-09-27T08:11:07Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 8603.7,     4.4,  3393.7)
+  the seat is grass.
+2022-09-27T08:11:12Z: PLAYER ADDED   [ 3028628044] dababy200098
+2022-09-27T08:11:16Z: PLAYER ADDED   [ 3899849149] Awaaaa_cxyz
+2022-09-27T08:11:22Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 8601.7,     4.7,  5546.4)
+  WAH
+2022-09-27T08:11:26Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 8601.7,     4.7,  6213.6)
+  lol
+2022-09-27T08:11:47Z: CHRCTER ADDED  [ 1742553920] gsgsdudue            (  453.5,     8.2,  -734.7)
+2022-09-27T08:12:09Z: CHRCTER ADDED  [ 1742553920] gsgsdudue            (  479.0,     8.2,  -736.7)
+2022-09-27T08:12:14Z: CHRCTER ADDED  [ 1742553920] gsgsdudue            (  482.8,     8.2,  -736.0)
+2022-09-27T08:12:15Z: PLAYER REMOVED [ 1742553920] gsgsdudue
+2022-09-27T08:12:16Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 3261.9,     4.7,  8138.8)
+  ohh now i no y your not talking
+2022-09-27T08:12:23Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 2334.0,     4.7,  8138.8)
+  bc your sleepy
+2022-09-27T08:12:27Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 1700.8,     4.3,  8140.8)
+  I’m not.
+2022-09-27T08:12:32Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 1001.2,     4.7,  8138.8)
+  oh
+2022-09-27T08:12:33Z: CHRCTER ADDED  [ 3899849149] Awaaaa_cxyz          (  452.8,     8.2,  -732.1)
+2022-09-27T08:12:38Z: PLAYER CHATTED [ 2353657730] kwiskaus             (   -0.3,     4.7,  8138.8)
+  your bord?
+2022-09-27T08:12:50Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-1699.9,     4.3,  8140.8)
+  Maybe
+2022-09-27T08:12:56Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-2486.2,     4.7,  8138.8)
+  :)
+2022-09-27T08:12:58Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-2813.0,     4.7,  8138.8)
+  well
+2022-09-27T08:13:14Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-5183.1,     4.7,  8138.8)
+  MWA its ok well do anything rn
+2022-09-27T08:13:18Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-5736.1,     4.4,  8140.8)
+  I want to play this though.
+2022-09-27T08:13:24Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-6652.4,     4.7,  8138.8)
+  HMMM
+2022-09-27T08:13:38Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-8602.6,     4.7,  7980.9)
+  IM MABY GETING DI CORDS
+2022-09-27T08:13:41Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-8604.6,     4.3,  7618.3)
+  And get cheese.
+2022-09-27T08:13:49Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-8602.6,     4.7,  6478.1)
+  i got cheese
+2022-09-27T08:13:59Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-8602.6,     4.7,  5031.8)
+  a block of cheese
+2022-09-27T08:14:01Z: PLAYER REMOVED [  199414954] SR_VV
+2022-09-27T08:14:23Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-8602.5,     4.7,  1478.5)
+  btw you no :}
+2022-09-27T08:14:27Z: PLAYER REMOVED [ 3028628044] dababy200098
+2022-09-27T08:14:31Z: PLAYER REMOVED [ 1823120423] Cookiefan_rblx
+2022-09-27T08:15:34Z: CHRCTER ADDED  [ 3889042706] mfmskjgktkgmgk       (  474.8,     8.5,  -731.6)
+2022-09-27T08:15:34Z: CHRCTER ADDED  [ 1413344876] BATFANLOlz           (  459.8,     8.5,  -735.9)
+2022-09-27T08:15:37Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-8602.5,     4.7, -9304.2)
+   you must be famous
+2022-09-27T08:15:44Z: PLAYER REMOVED [ 1413344876] BATFANLOlz
+2022-09-27T08:15:44Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-7767.4,     4.7, -9472.5)
+  bc your sooo nice
+2022-09-27T08:15:53Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-6383.7,     4.4, -9474.5)
+  Ty.
+2022-09-27T08:15:57Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-5857.6,     4.7, -9472.5)
+  and gr8 at avry thig
+2022-09-27T08:16:25Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-1793.0,     4.7, -9472.5)
+  uh why r you doing this.
+2022-09-27T08:16:35Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( -291.2,     4.7, -9472.4)
+  the dot
+2022-09-27T08:16:36Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (  -50.3,     4.4, -9474.4)
+  Doing what
+2022-09-27T08:16:43Z: PLAYER CHATTED [ 2353657730] kwiskaus             (  828.5,     4.7, -9472.4)
+  nvm
+2022-09-27T08:16:46Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 1280.9,     4.7, -9472.4)
+  :)
+2022-09-27T08:17:01Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 3496.1,     4.7, -9472.5)
+  if you like cheese a lot
+2022-09-27T08:17:01Z: PLAYER REMOVED [ 3899849149] Awaaaa_cxyz
+2022-09-27T08:17:08Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 4538.8,     4.3, -9474.4)
+  yes
+2022-09-27T08:17:13Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 5208.4,     4.7, -9472.4)
+  I must find a game that has cheese>:3
+2022-09-27T08:17:21Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 6443.1,     4.4, -9474.4)
+  Play this 
+2022-09-27T08:17:42Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 9415.8,     4.7, -9387.3)
+  i will be chees we will both be cheese bros
+2022-09-27T08:17:48Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 9417.7,     4.3, -8471.2)
+  yay.
+2022-09-27T08:17:48Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 9415.7,     4.7, -8418.3)
+  oh yas ^^
+2022-09-27T08:18:09Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 9415.7,     4.7, -5471.2)
+  if you're bored just tell me
+2022-09-27T08:18:10Z: PLAYER REMOVED [ 3846943427] ianwalu
+2022-09-27T08:18:12Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 9415.7,     4.7, -4970.9)
+  mwa
+2022-09-27T08:18:24Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 9415.7,     4.7, -3274.3)
+  this mite help
+2022-09-27T08:18:32Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 9415.7,     4.7, -2116.2)
+  hmm
+2022-09-27T08:18:46Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 9415.7,     4.7,    -9.2)
+  do yeah do you have another electronic with you
+2022-09-27T08:18:52Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 9417.7,     4.4,   803.6)
+  Yep
+2022-09-27T08:18:54Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 9417.7,     4.4,  1075.0)
+  Pc
+2022-09-27T08:19:10Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 9415.7,     4.7,  3491.8)
+  well do ### #### ## on that?
+2022-09-27T08:19:19Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 9415.7,     4.7,  4758.9)
+  #### ###
+2022-09-27T08:19:21Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 9415.7,     4.7,  5156.3)
+  ###
+2022-09-27T08:19:24Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 9415.7,     4.7,  5566.6)
+  yt
+2022-09-27T08:19:38Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 9415.7,     4.7,  7596.2)
+  do ### #### ###
+2022-09-27T08:20:04Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 6961.2,     4.7,  8952.8)
+  OHHHh ### ###
+2022-09-27T08:20:08Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 6413.8,     4.4,  8954.8)
+  Huh
+2022-09-27T08:20:22Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 4429.5,     4.7,  8952.8)
+  YOU MEAN t.t
+2022-09-27T08:20:27Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 3673.9,     4.4,  8954.8)
+  TIK
+2022-09-27T08:20:29Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 3327.6,     4.7,  8952.8)
+  NOT YT
+2022-09-27T08:20:30Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 3177.3,     4.4,  8954.8)
+  ###
+2022-09-27T08:20:36Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 2304.7,     4.7,  8952.8)
+  OHHHHHHHHH
+2022-09-27T08:20:48Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (  625.3,     4.3,  8954.8)
+  Yep.
+2022-09-27T08:20:49Z: PLAYER CHATTED [ 2353657730] kwiskaus             (  446.6,     4.7,  8952.8)
+  YA I DONT HAVE T.T
+2022-09-27T08:20:55Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( -390.8,     4.7,  8952.8)
+  # #### ##
+2022-09-27T08:20:58Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( -903.0,     4.7,  8952.8)
+  OHHHH
+2022-09-27T08:20:58Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( -927.8,     4.3,  8954.8)
+  Oh
+2022-09-27T08:21:03Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-1594.9,     4.7,  8952.8)
+  IM SORRRY
+2022-09-27T08:21:25Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-4811.2,     4.7,  8952.8)
+  no wonder you just know i dont have followrs
+2022-09-27T08:21:33Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-5994.6,     4.7,  8952.8)
+  Hehe im sorrry
+2022-09-27T08:21:35Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-6299.0,     4.3,  8954.8)
+  lol
+2022-09-27T08:21:37Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-6542.9,     4.7,  8952.8)
+  mwa
+2022-09-27T08:21:45Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-7688.6,     4.7,  8952.8)
+  btw
+2022-09-27T08:21:53Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-8936.3,     4.7,  8952.8)
+  I know we can make it there
+2022-09-27T08:22:12Z: PLAYER REMOVED [ 3889042706] mfmskjgktkgmgk
+2022-09-27T08:22:16Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-9418.6,     4.4,  6126.6)
+  :)
+2022-09-27T08:23:17Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-9416.5,     4.7, -2867.8)
+  your the best
+2022-09-27T08:23:22Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-9418.5,     4.3, -3607.5)
+  :)
+2022-09-27T08:23:27Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-9416.5,     4.7, -4215.4)
+  WODEFOLL
+2022-09-27T08:23:40Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-9416.5,     4.7, -6151.6)
+  wonderful >:3
+2022-09-27T08:23:52Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-9416.5,     4.7, -7876.0)
+  your wonderful
+2022-09-27T08:24:10Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-9169.6,     4.7, -10286.5)
+  how to make gr8 outfits
+2022-09-27T08:24:11Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-9018.7,     4.3, -10288.5)
+  :))
+2022-09-27T08:24:25Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-6916.0,     4.7, -10286.5)
+  you have A gr8 personally
+2022-09-27T08:24:30Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-6226.2,     4.4, -10288.5)
+  Just style what you have
+2022-09-27T08:24:34Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-5644.0,     4.4, -10288.5)
+  Be creative
+2022-09-27T08:24:38Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-4998.5,     4.7, -10286.5)
+  :O
+2022-09-27T08:24:47Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-3699.7,     4.7, -10286.5)
+  by the way what's your favorite song
+2022-09-27T08:24:51Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-3123.4,     4.3, -10288.5)
+  Uh
+2022-09-27T08:25:04Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-1250.2,     4.4, -10288.5)
+  Idrk
+2022-09-27T08:25:14Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (  232.2,     4.4, -10288.5)
+  I have a lot of favorites..
+2022-09-27T08:25:22Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 1398.3,     4.4, -10288.5)
+  :<
+2022-09-27T08:25:40Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 3967.7,     4.7, -10286.4)
+  oh mine is under the surface
+2022-09-27T08:25:58Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 6597.4,     4.4, -10288.4)
+  Bellow the?
+2022-09-27T08:26:07Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 7904.5,     4.7, -10286.4)
+  surface
+2022-09-27T08:26:11Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 8565.7,     4.4, -10288.4)
+  Ooo
+2022-09-27T08:26:26Z: PLAYER CHATTED [ 2353657730] kwiskaus             (10229.8,     4.7, -9845.1)
+  you should hear it the speed up one is very nice
+2022-09-27T08:26:30Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (10231.7,     4.3, -9149.3)
+  Ooo
+2022-09-27T08:26:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (-6494.5,     4.7,  7324.8)
+  500-600 studs per second!
+2022-09-27T08:26:52Z: PLAYER CHATTED [ 2353657730] kwiskaus             (10229.7,     4.7, -6117.4)
+  I like the speed of one better than the original tho you can try both
+2022-09-27T08:26:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (-7788.6,     4.7,  6465.6)
+  ¡!
+2022-09-27T08:27:08Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (10231.7,     4.4, -3641.7)
+  O
+2022-09-27T08:27:23Z: PLAYER CHATTED [ 2353657730] kwiskaus             (10229.7,     4.7, -1493.1)
+  they're even slow ### to
+2022-09-27T08:27:31Z: PLAYER CHATTED [ 2353657730] kwiskaus             (10229.7,     4.7,  -342.6)
+  the slow one is very weird
+2022-09-27T08:27:51Z: PLAYER CHATTED [ 2353657730] kwiskaus             (10229.7,     4.7,  2642.4)
+  my favorite animal is foxy now
+2022-09-27T08:27:58Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (10231.7,     4.4,  3629.8)
+  Mine is a tiger
+2022-09-27T08:28:05Z: PLAYER CHATTED [ 2353657730] kwiskaus             (10229.7,     4.7,  4723.1)
+  I like foxs now
+2022-09-27T08:28:09Z: PLAYER CHATTED [ 2353657730] kwiskaus             (10229.7,     4.7,  5163.5)
+  nice
+2022-09-27T08:28:15Z: PLAYER CHATTED [ 2353657730] kwiskaus             (10229.7,     4.7,  6167.4)
+  what made you like them?
+2022-09-27T08:28:51Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 8649.1,     4.3,  9768.8)
+  I like there personality
+2022-09-27T08:28:55Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 7982.1,     4.3,  9768.8)
+  Did you know
+2022-09-27T08:28:56Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 7961.6,     4.7,  9766.8)
+  oooo
+2022-09-27T08:28:59Z: PLAYER ADDED   [ 2379433677] sowldd167
+2022-09-27T08:29:08Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 6099.4,     4.4,  9768.8)
+  Tigers live up till 25 years
+2022-09-27T08:29:13Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 5410.6,     4.7,  9766.8)
+  :O
+2022-09-27T08:29:17Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 4898.0,     4.4,  9768.8)
+  Yea
+2022-09-27T08:29:18Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 4676.8,     4.7,  9766.8)
+  wow
+2022-09-27T08:29:20Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 4389.8,     4.3,  9768.8)
+  It’s crazy
+2022-09-27T08:29:24Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 3813.2,     4.7,  9766.8)
+  ya
+2022-09-27T08:29:24Z: PLAYER CHATTED [    1630228] VisualPlugin         (-7989.0,     4.7, -9472.5)
+  My favourite animal is the plugin.
+2022-09-27T08:29:27Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 3435.3,     4.4,  9768.8)
+  and
+2022-09-27T08:29:36Z: CHRCTER ADDED  [ 2379433677] sowldd167            (  457.3,     8.5,  -729.4)
+2022-09-27T08:29:38Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -478.4,     4.7, -9472.5)
+  They can live for up to 7 years.
+2022-09-27T08:29:50Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (   41.9,     4.4,  9768.8)
+  Tigers let out their tub at the ### ###
+2022-09-27T08:30:01Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 9415.7,     4.7, -6253.5)
+  That is before they get refreshed completely and rebranded.
+2022-09-27T08:30:03Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-1930.7,     4.4,  9768.8)
+  The ag3
+2022-09-27T08:30:07Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-2523.7,     4.7,  9766.8)
+  do you want to know why i like foxs now? and wow
+2022-09-27T08:30:08Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-2547.5,     4.3,  9768.8)
+  2
+2022-09-27T08:30:13Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-3406.6,     4.3,  9768.8)
+  or 3
+2022-09-27T08:30:21Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-4492.8,     4.7,  9766.8)
+  :O
+2022-09-27T08:30:25Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-5039.4,     4.3,  9768.8)
+  Yea
+2022-09-27T08:31:00Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-10148.1,     4.7,  9766.8)
+  I love foxes because they are very adorable and these they make a squeak sound and how they hunt in the snow they jump their heads inside the snow
+2022-09-27T08:31:10Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-10232.6,     4.3,  8393.6)
+  :))
+2022-09-27T08:31:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (-9416.6,     4.7,  8623.0)
+  Plugins can make any sound we want.
+2022-09-27T08:31:19Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-10230.6,     4.7,  7081.2)
+  :)
+2022-09-27T08:31:19Z: PLAYER CHATTED [    1630228] VisualPlugin         (-9416.6,     4.7,  4040.2)
+  We can sine waves.
+2022-09-27T08:31:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (-9416.6,     4.7,  1483.8)
+  Also squares.
+2022-09-27T08:31:32Z: PLAYER CHATTED [    1630228] VisualPlugin         (-9416.5,     4.7, -3176.3)
+  We can reproduce any sound and image you want.
+2022-09-27T08:31:33Z: PLAYER REMOVED [ 2379433677] sowldd167
+2022-09-27T08:31:49Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-10230.6,     4.7,  2588.2)
+  I actually made a book about you
+2022-09-27T08:31:55Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-10232.6,     4.4,  1739.0)
+  Aw
+2022-09-27T08:32:19Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-10230.5,     4.7, -1705.1)
+  it's called how to befriend a bailey
+2022-09-27T08:32:38Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-10232.5,     4.4, -4549.6)
+  :))
+2022-09-27T08:33:02Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-10230.5,     4.7, -8078.7)
+  step 1: find a wild bairey 
+2022-09-27T08:33:23Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-10230.6,     4.7, -11041.4)
+  step 2: say have sum cheese
+2022-09-27T08:33:45Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-7004.5,     4.3, -11102.5)
+  yum
+2022-09-27T08:34:08Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-3636.2,     4.7, -11100.5)
+  step3: pat it
+2022-09-27T08:34:11Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-3162.0,     4.4, -11102.5)
+  OMG 500k!!!
+2022-09-27T08:34:31Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( -272.1,     4.7, -11100.5)
+  WoW
+2022-09-27T08:34:42Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 1360.0,     4.7, -11100.4)
+  its rilly cool
+2022-09-27T08:34:55Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 3213.9,     4.7, -11100.5)
+  step:4 hug it
+2022-09-27T08:35:01Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 4102.5,     4.4, -11102.4)
+  <3
+2022-09-27T08:35:29Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 8146.6,     4.7, -11100.4)
+  you are now friends with the bali
+2022-09-27T08:35:36Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 9168.0,     4.4, -11102.4)
+  yes
+2022-09-27T08:35:55Z: PLAYER CHATTED [ 2353657730] kwiskaus             (11043.7,     4.7, -10249.1)
+  I was literally just reading the book to tell you what the steps r
+2022-09-27T08:36:04Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (11045.7,     4.4, -8878.5)
+  :D
+2022-09-27T08:36:05Z: PLAYER CHATTED [ 2353657730] kwiskaus             (11043.7,     4.7, -8773.6)
+  lol
+2022-09-27T08:36:16Z: PLAYER CHATTED [ 2353657730] kwiskaus             (11043.7,     4.7, -7106.5)
+  now you want to know how to befriend a k a l a
+2022-09-27T08:36:20Z: PLAYER REMOVED [ 1163974283] spiderclone01
+2022-09-27T08:36:35Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (11045.7,     4.4, -4379.7)
+  Sure!
+2022-09-27T08:36:40Z: PLAYER CHATTED [ 2353657730] kwiskaus             (11043.7,     4.7, -3578.7)
+  ok ^^
+2022-09-27T08:36:51Z: PLAYER CHATTED [ 2353657730] kwiskaus             (11043.7,     4.7, -2030.7)
+  step1:
+2022-09-27T08:37:00Z: PLAYER CHATTED [ 2353657730] kwiskaus             (11043.7,     4.7,  -662.8)
+  find a wild kala
+2022-09-27T08:37:11Z: PLAYER CHATTED [ 2353657730] kwiskaus             (11043.7,     4.7,   963.0)
+  step2:
+2022-09-27T08:37:30Z: PLAYER CHATTED [ 2353657730] kwiskaus             (11043.7,     4.7,  7209.4)
+  give it sushi
+2022-09-27T08:37:40Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 8303.6,     4.7, 10580.8)
+  Step 3:
+2022-09-27T08:37:42Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 7073.6,     4.7, 10580.8)
+  ÒÓ
+2022-09-27T08:37:43Z: PLAYER CHATTED [ 2353657730] kwiskaus             (11043.7,     4.7,  9528.4)
+  step3:
+2022-09-27T08:37:50Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 2303.5,     4.7, 10580.8)
+  Step 4:
+2022-09-27T08:37:52Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (10689.1,     4.3, 10582.9)
+  Lol
+2022-09-27T08:37:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -74.0,     4.7, 10580.8)
+  Ò?Ó
+2022-09-27T08:38:01Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 9486.8,     4.7, 10580.8)
+  the kala will come to you
+2022-09-27T08:38:10Z: PLAYER CHATTED [    1630228] VisualPlugin         (-9964.1,     4.7, 10580.8)
+  I was just with the kala!
+2022-09-27T08:38:11Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 8047.6,     4.7, 10580.8)
+  step4:
+2022-09-27T08:38:24Z: PLAYER ADDED   [ 1020209613] ZT5559
+2022-09-27T08:38:24Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 6089.2,     4.7, 10580.8)
+  grab it
+2022-09-27T08:38:34Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 4598.5,     4.7, 10580.8)
+  step5:
+2022-09-27T08:38:38Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 4030.7,     4.7, 10580.8)
+  pat it
+2022-09-27T08:39:10Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( -663.6,     4.7, 10580.8)
+  step6: say do you want to be friends to the kala
+2022-09-27T08:39:23Z: PLAYER ADDED   [  701412144] Jaseh143
+2022-09-27T08:39:32Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-3818.0,     4.7, 10580.8)
+  step7: it will say yes
+2022-09-27T08:39:56Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-7318.3,     4.7, 10580.8)
+  and that's how you befriend a kala
+2022-09-27T08:40:03Z: CHRCTER ADDED  [  701412144] Jaseh143             (  480.3,     8.5,  -735.3)
+2022-09-27T08:40:18Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-10632.7,     4.7, 10580.8)
+  wut do you think
+2022-09-27T08:40:26Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-11046.6,     4.3,  9877.1)
+  Love it
+2022-09-27T08:40:30Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-11044.6,     4.7,  9299.4)
+  tysm
+2022-09-27T08:41:17Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-11044.6,     4.7,  2474.0)
+  mwa
+2022-09-27T08:41:41Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-11046.5,     4.4, -1115.9)
+  Mwa
+2022-09-27T08:41:48Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-11044.5,     4.7, -2029.1)
+  ^^
+2022-09-27T08:41:56Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-11044.5,     4.7, -3182.4)
+  I'm going to make another book soon
+2022-09-27T08:42:01Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-11046.5,     4.4, -4030.1)
+  Ok
+2022-09-27T08:42:05Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-11044.5,     4.7, -4633.5)
+  I have 100 books i mad
+2022-09-27T08:42:08Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-11044.5,     4.7, -4981.6)
+  made
+2022-09-27T08:42:21Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-11044.5,     4.7, -6858.6)
+  no actually 20 books that I made
+2022-09-27T08:42:22Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-11046.5,     4.4, -7041.2)
+  .
+2022-09-27T08:42:31Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-11044.5,     4.7, -8322.3)
+  I love making books
+2022-09-27T08:42:38Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-11046.5,     4.4, -9459.6)
+  Heh
+2022-09-27T08:42:52Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-11044.5,     4.7, -11437.9)
+  I made some on my skool 
+2022-09-27T08:42:58Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-10639.1,     4.7, -11914.5)
+  School
+2022-09-27T08:43:08Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-9245.6,     4.7, -11914.5)
+  now i dont go thar
+2022-09-27T08:45:04Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 7793.0,     4.7, -11914.4)
+  mwa
+2022-09-27T08:45:08Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 8376.2,     4.3, -11916.4)
+  Mwa
+2022-09-27T08:45:23Z: PLAYER CHATTED [ 2353657730] kwiskaus             (10537.6,     4.7, -11914.4)
+  btw cheese fits the owfit
+2022-09-27T08:45:52Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (11859.7,     4.4, -8960.9)
+  I love the cheese 
+2022-09-27T08:45:56Z: PLAYER CHATTED [ 2353657730] kwiskaus             (11857.7,     4.7, -8350.2)
+  yas
+2022-09-27T08:45:59Z: PLAYER CHATTED [ 2353657730] kwiskaus             (11857.7,     4.7, -8028.3)
+  same
+2022-09-27T08:46:18Z: PLAYER CHATTED [ 2353657730] kwiskaus             (11857.7,     4.7, -5268.4)
+  I ate too much cheese lately
+2022-09-27T08:46:27Z: PLAYER CHATTED [ 2353657730] kwiskaus             (11857.7,     4.7, -3931.7)
+  now i got sick :<
+2022-09-27T08:46:32Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (11859.7,     4.3, -3198.9)
+  Noo
+2022-09-27T08:46:39Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (11859.7,     4.3, -2120.6)
+  Cheese is good:<“
+2022-09-27T08:46:39Z: PLAYER CHATTED [ 2353657730] kwiskaus             (11857.7,     4.7, -2065.9)
+  not like runny nose sike
+2022-09-27T08:46:55Z: PLAYER CHATTED [ 2353657730] kwiskaus             (11857.7,     4.7,   185.6)
+  I shoved too much cheese in my mouth too much milk
+2022-09-27T08:47:22Z: PLAYER CHATTED [ 2353657730] kwiskaus             (11857.7,     4.7,  4173.9)
+  I couldn't find any cereal so I poot. cheese in milk
+2022-09-27T08:47:30Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (11859.7,     4.4,  5314.2)
+  :0
+2022-09-27T08:47:41Z: PLAYER CHATTED [ 2353657730] kwiskaus             (11857.7,     4.7,  6920.0)
+  it's just stacking more milk inside
+2022-09-27T08:47:45Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (11859.7,     4.4,  7527.6)
+  Omg
+2022-09-27T08:47:48Z: PLAYER CHATTED [ 2353657730] kwiskaus             (11857.7,     4.7,  8008.8)
+  because cheese is made out of milk
+2022-09-27T08:47:57Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (11859.7,     4.4,  9277.8)
+  WHAT
+2022-09-27T08:47:59Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (11859.6,     4.4,  9595.6)
+  OMG
+2022-09-27T08:48:09Z: PLAYER CHATTED [ 2353657730] kwiskaus             (11857.7,     4.7, 10970.1)
+  tomatoes are actually a fruit ^^
+2022-09-27T08:48:27Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 9621.2,     4.4, 11396.8)
+  :o
+2022-09-27T08:48:28Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 9442.4,     4.7, 11394.8)
+  anything with seeds inside is a food
+2022-09-27T08:48:39Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 7930.6,     4.7, 11394.8)
+  cucumbers is a fruit too
+2022-09-27T08:48:48Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 6605.6,     4.7, 11394.8)
+  pickles are actually cucumbers
+2022-09-27T08:49:02Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 4522.3,     4.4, 11396.8)
+  :O
+2022-09-27T08:49:03Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 4332.8,     4.4, 11396.8)
+  WHAT
+2022-09-27T08:49:04Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 4136.3,     4.7, 11394.8)
+  you're just eating salted cucumbers^^
+2022-09-27T08:49:14Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 2724.8,     4.4, 11396.8)
+  My head rn bro
+2022-09-27T08:49:30Z: PLAYER ADDED   [  537220356] Mark_Torpeda
+2022-09-27T08:49:36Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( -512.6,     4.7, 11394.8)
+  I'm feeling your brain with one knowledge
+2022-09-27T08:49:52Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-2742.7,     4.4, 11396.8)
+  :o
+2022-09-27T08:49:59Z: PLAYER ADDED   [ 3750634134] zamcooled
+2022-09-27T08:49:59Z: PLAYER ADDED   [ 3502002824] Rishugsg
+2022-09-27T08:50:10Z: PLAYER ADDED   [ 3648874125] milyaa12
+2022-09-27T08:50:11Z: PLAYER ADDED   [  253530771] Olrehen
+2022-09-27T08:50:14Z: PLAYER ADDED   [ 1118566470] Jacksepticson_20
+2022-09-27T08:50:15Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-6182.6,     4.7, 11394.8)
+  there is a watermelon that is yallow in the inside
+2022-09-27T08:50:21Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-7013.6,     4.4, 11396.8)
+  ….
+2022-09-27T08:50:25Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-7566.1,     4.7, 11394.8)
+  it is way sweeter
+2022-09-27T08:50:51Z: PLAYER ADDED   [ 1211737732] queenflamingogirl27
+2022-09-27T08:50:51Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-11389.9,     4.7, 11394.7)
+  now you have more knowledge in your brain ^^
+2022-09-27T08:50:59Z: PLAYER CHATTED [ 1118566470] Jacksepticson_20     (  432.3,     4.4,  -700.4)
+  who wanna sit in ma cart?
+2022-09-27T08:51:03Z: PLAYER CHATTED [ 1118566470] Jacksepticson_20     (  432.3,     4.4,  -700.4)
+  six seats
+2022-09-27T08:51:07Z: PLAYER CHATTED [ 1118566470] Jacksepticson_20     (  432.3,     4.4,  -700.4)
+  5 available
+2022-09-27T08:51:17Z: CHRCTER ADDED  [ 3648874125] milyaa12             (  453.5,     8.6,  -728.3)
+2022-09-27T08:51:19Z: CHRCTER ADDED  [ 3502002824] Rishugsg             (  457.0,     8.7,  -728.1)
+2022-09-27T08:51:39Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-11858.6,     4.7,  4974.3)
+  did you know Roblox used to not look like this it was only just want to block you have to play with
+2022-09-27T08:51:51Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-11860.6,     4.3,  3160.0)
+  :0
+2022-09-27T08:51:59Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-11860.6,     4.3,  2024.7)
+  I was in roblox in 2020
+2022-09-27T08:52:07Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-11858.6,     4.7,   781.9)
+  did you know your belly button used to be your old mawth
+2022-09-27T08:52:16Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-11860.6,     4.3,  -418.2)
+  ####
+2022-09-27T08:52:22Z: PLAYER CHATTED [ 1118566470] Jacksepticson_20     (-1278.5,     4.4, -1821.3)
+  I've been playing since 2015
+2022-09-27T08:52:23Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-11860.6,     4.4, -1499.6)
+  …..
+2022-09-27T08:52:25Z: PLAYER CHATTED [ 1118566470] Jacksepticson_20     ( -420.7,     4.4, -2148.4)
+  beat that
+2022-09-27T08:52:29Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-11858.5,     4.7, -2347.8)
+  sorry :(
+2022-09-27T08:52:34Z: PLAYER CHATTED [ 1211737732] queenflamingogirl27  ( 2089.7,     4.7,  -844.2)
+  Dang
+2022-09-27T08:52:37Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-11858.5,     4.7, -3580.3)
+  I will stop I feel like I'm making you mad
+2022-09-27T08:52:42Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-11858.5,     4.7, -4343.9)
+  mwa
+2022-09-27T08:52:50Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-11860.5,     4.4, -5395.3)
+  No I just feel like that’s weird
+2022-09-27T08:52:54Z: PLAYER CHATTED [ 1118566470] Jacksepticson_20     (  408.6,     4.8,  1629.6)
+  ##################
+2022-09-27T08:52:58Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-11858.5,     4.7, -6473.3)
+  did you know you're amazing
+2022-09-27T08:52:58Z: PLAYER CHATTED [ 1118566470] Jacksepticson_20     (  408.6,     4.7,  1629.6)
+  BYE
+2022-09-27T08:53:01Z: CHRCTER ADDED  [ 1211737732] queenflamingogirl27  (  477.7,     8.5,  -736.2)
+2022-09-27T08:53:02Z: CHRCTER ADDED  [ 1118566470] Jacksepticson_20     (  484.4,     9.0,  -735.0)
+2022-09-27T08:53:08Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-11860.5,     4.4, -8130.4)
+  no
+2022-09-27T08:53:15Z: CHRCTER ADDED  [  253530771] Olrehen              (  454.3,     8.6,  -732.1)
+2022-09-27T08:53:23Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-11860.5,     4.4, -10257.2)
+  But ty
+2022-09-27T08:53:26Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-11858.5,     4.7, -10655.8)
+  special lil cheese ^^
+2022-09-27T08:53:33Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-11860.5,     4.4, -11694.9)
+  :>
+2022-09-27T08:53:36Z: PLAYER CHATTED [ 1211737732] queenflamingogirl27  (  432.4,     4.6,  -738.8)
+  Anyone hop in 
+2022-09-27T08:54:00Z: PLAYER CHATTED [ 1118566470] Jacksepticson_20     (  430.4,     4.3,  -738.8)
+  oh god
+2022-09-27T08:54:03Z: PLAYER CHATTED [ 1118566470] Jacksepticson_20     (  430.4,     4.3,  -738.8)
+  wait for it
+2022-09-27T08:54:07Z: PLAYER CHATTED [ 1118566470] Jacksepticson_20     (  430.4,     4.3,  -738.8)
+  wait
+2022-09-27T08:54:08Z: PLAYER CHATTED [ 1118566470] Jacksepticson_20     (  430.4,     4.3,  -738.8)
+  for
+2022-09-27T08:54:09Z: PLAYER CHATTED [ 1118566470] Jacksepticson_20     (  430.4,     4.3,  -738.8)
+  it
+2022-09-27T08:54:14Z: PLAYER CHATTED [ 1118566470] Jacksepticson_20     (  430.4,     4.3,  -738.8)
+  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaand
+2022-09-27T08:54:15Z: PLAYER CHATTED [ 1211737732] queenflamingogirl27  (  432.4,     4.6,  -738.8)
+  Yes
+2022-09-27T08:54:18Z: PLAYER CHATTED [ 1118566470] Jacksepticson_20     (  430.4,     4.3,  -738.8)
+  now
+2022-09-27T08:54:20Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-6002.8,     4.7, -12728.5)
+  did you know there is a different timeline and universe
+2022-09-27T08:54:31Z: CHRCTER ADDED  [  253530771] Olrehen              (  455.1,     8.6,  -727.7)
+2022-09-27T08:54:47Z: PLAYER CHATTED [ 1118566470] Jacksepticson_20     (-1276.5,     4.4,   559.2)
+  oh no
+2022-09-27T08:54:47Z: CHRCTER ADDED  [ 3648874125] milyaa12             (  479.1,     8.6,  -732.8)
+2022-09-27T08:54:51Z: PLAYER CHATTED [ 1118566470] Jacksepticson_20     (-1276.4,     4.4, -1330.4)
+  welp
+2022-09-27T08:54:53Z: PLAYER REMOVED [  537220356] Mark_Torpeda
+2022-09-27T08:54:53Z: CHRCTER ADDED  [ 3502002824] Rishugsg             (  454.4,     8.7,  -734.6)
+2022-09-27T08:54:53Z: PLAYER CHATTED [ 1118566470] Jacksepticson_20     (-1276.5,     4.4, -1970.1)
+  bye
+2022-09-27T08:54:55Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( -868.0,     4.7, -12728.5)
+  so and maybe a different universe there might be dogs that control the world lol
+2022-09-27T08:54:57Z: CHRCTER ADDED  [ 1118566470] Jacksepticson_20     (  452.6,     9.0,  -736.8)
+2022-09-27T08:55:02Z: PLAYER CHATTED [ 1118566470] Jacksepticson_20     (  452.6,     3.7,  -736.8)
+  well no duh
+2022-09-27T08:55:08Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 1063.7,     4.3, -12730.5)
+  omg
+2022-09-27T08:55:12Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 1626.7,     4.7, -12728.4)
+  ya
+2022-09-27T08:55:22Z: PLAYER REMOVED [  253530771] Olrehen
+2022-09-27T08:55:42Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 5972.8,     4.7, -12728.4)
+  did you know Mercury is more dense than water
+2022-09-27T08:55:57Z: CHRCTER ADDED  [ 3502002824] Rishugsg             (  478.8,     8.7,  -729.4)
+2022-09-27T08:56:02Z: PLAYER ADDED   [  253530771] Olrehen
+2022-09-27T08:56:17Z: CHRCTER ADDED  [ 3648874125] milyaa12             (  481.0,     8.6,  -736.1)
+2022-09-27T08:56:20Z: CHRCTER ADDED  [ 3502002824] Rishugsg             (  451.1,     8.7,  -727.7)
+2022-09-27T08:56:20Z: PLAYER ADDED   [ 3917923172] Ssyluss123
+2022-09-27T08:56:33Z: PLAYER CHATTED [ 2353657730] kwiskaus             (12671.7,     4.7, -11923.8)
+  I know sitting in a hot tub for your whole life will be fun but its not
+2022-09-27T08:56:36Z: CHRCTER ADDED  [ 1211737732] queenflamingogirl27  (  479.6,     8.5,  -735.8)
+2022-09-27T08:56:48Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (12673.7,     4.3, -9729.7)
+  It is not?
+2022-09-27T08:56:52Z: PLAYER CHATTED [ 2353657730] kwiskaus             (12671.7,     4.7, -9222.2)
+  ya
+2022-09-27T08:57:26Z: PLAYER CHATTED [ 2353657730] kwiskaus             (12671.7,     4.7, -4221.4)
+  if you sit in it too long you will be very cold or you know how you put your hand in the water for a little while and your hand starts wrinkling
+2022-09-27T08:57:35Z: CHRCTER ADDED  [ 3750634134] zamcooled            (  484.0,     9.4,  -732.5)
+2022-09-27T08:57:38Z: CHRCTER ADDED  [  253530771] Olrehen              (  452.4,     8.6,  -731.5)
+2022-09-27T08:57:41Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (12673.7,     4.4, -1985.6)
+  Yeah I know that
+2022-09-27T08:57:50Z: PLAYER CHATTED [  701412144] Jaseh143             ( 2904.7,     4.7,  -504.3)
+  Lol
+2022-09-27T08:58:00Z: PLAYER CHATTED [ 1118566470] Jacksepticson_20     ( -154.3,     4.4, -2148.3)
+  get R I C C D
+2022-09-27T08:58:13Z: PLAYER CHATTED [ 2353657730] kwiskaus             (12671.7,     4.7,  2558.5)
+  well what I was keeping my hand in the water it was so wrinkly it made my skin hurt
+2022-09-27T08:58:14Z: CHRCTER ADDED  [ 3648874125] milyaa12             (  451.6,     8.6,  -733.7)
+2022-09-27T08:58:15Z: CHRCTER ADDED  [ 3502002824] Rishugsg             (  453.3,     8.7,  -727.4)
+2022-09-27T08:58:22Z: PLAYER CHATTED [ 1118566470] Jacksepticson_20     (  191.9,     4.4,  1628.6)
+  Fun Fact
+2022-09-27T08:58:32Z: PLAYER CHATTED [ 1118566470] Jacksepticson_20     (-2092.4,     4.4,   270.0)
+  Your skin wrinkles
+2022-09-27T08:58:51Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (12673.7,     4.4,  8208.3)
+  Ow
+2022-09-27T08:58:52Z: PLAYER CHATTED [ 1118566470] Jacksepticson_20     ( 2500.8,     4.4, -2962.3)
+  because it's designed to make your hand get more grip
+2022-09-27T08:58:55Z: PLAYER REMOVED [ 3917923172] Ssyluss123
+2022-09-27T08:59:06Z: CHRCTER ADDED  [  253530771] Olrehen              (  481.2,     8.6,  -736.5)
+2022-09-27T08:59:08Z: PLAYER CHATTED [ 2353657730] kwiskaus             (12671.7,     4.7, 10635.2)
+  did you know see all r ########### rare
+2022-09-27T08:59:10Z: PLAYER CHATTED [ 1118566470] Jacksepticson_20     ( 1983.7,     4.2,  2442.8)
+  OH NO\
+2022-09-27T08:59:15Z: PLAYER CHATTED [ 2353657730] kwiskaus             (12671.6,     4.7, 11688.2)
+  we are really really rare
+2022-09-27T08:59:16Z: PLAYER CHATTED [ 1118566470] Jacksepticson_20     ( 1722.8,     4.6,  2442.5)
+  hi
+2022-09-27T08:59:22Z: PLAYER CHATTED [ 2353657730] kwiskaus             (12153.9,     4.7, 12208.8)
+  we're more rare than a diamond
+2022-09-27T08:59:25Z: CHRCTER ADDED  [ 3750634134] zamcooled            (  460.2,     9.4,  -729.6)
+2022-09-27T08:59:27Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (11344.5,     4.3, 12210.8)
+  oh god
+2022-09-27T08:59:32Z: CHRCTER ADDED  [ 1211737732] queenflamingogirl27  (  452.3,     8.5,  -729.0)
+2022-09-27T08:59:33Z: PLAYER ADDED   [ 1334600725] pokedigger1fan906
+2022-09-27T08:59:39Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 9735.0,     4.7, 12208.8)
+  us being born is like super rare
+2022-09-27T08:59:41Z: PLAYER CHATTED [ 1118566470] Jacksepticson_20     (  673.7,     4.4,  2442.7)
+  mate
+2022-09-27T08:59:48Z: PLAYER CHATTED [ 1118566470] Jacksepticson_20     (  673.7,     4.4,  2442.7)
+  hit big green button
+2022-09-27T08:59:54Z: PLAYER CHATTED [ 1118566470] Jacksepticson_20     (  673.7,     4.4,  2442.7)
+  i make cart faster
+2022-09-27T09:00:24Z: PLAYER CHATTED [ 1118566470] Jacksepticson_20     (-1120.3,     4.4,  2442.8)
+  DUDE
+2022-09-27T09:00:26Z: PLAYER CHATTED [ 1118566470] Jacksepticson_20     (-1120.3,     4.4,  2442.8)
+  STOP
+2022-09-27T09:00:38Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 1077.4,     4.7, 12208.8)
+  so this is sooo fun^^
+2022-09-27T09:00:52Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( -950.0,     4.7, 12208.8)
+  i rilly like hanging out with you
+2022-09-27T09:00:55Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-1454.1,     4.3, 12210.8)
+  :)
+2022-09-27T09:00:56Z: PLAYER REMOVED [  701412144] Jaseh143
+2022-09-27T09:01:30Z: PLAYER REMOVED [ 1211737732] queenflamingogirl27
+2022-09-27T09:01:31Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-6672.9,     4.3, 12210.8)
+  I rlly want the Cheese 
+2022-09-27T09:01:41Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-8144.5,     4.7, 12208.8)
+  same
+2022-09-27T09:01:44Z: PLAYER CHATTED [ 1118566470] Jacksepticson_20     ( 3719.5,     4.4,  1284.8)
+  Excuse me?
+2022-09-27T09:01:48Z: PLAYER REMOVED [ 1334600725] pokedigger1fan906
+2022-09-27T09:01:53Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-9836.3,     4.7, 12208.7)
+  I really want the corn it's corn a big lump and all it has the juice
+2022-09-27T09:02:00Z: PLAYER CHATTED [ 1118566470] Jacksepticson_20     ( -357.9,     4.4,  3256.6)
+  AYO
+2022-09-27T09:02:03Z: PLAYER REMOVED [ 1118566470] Jacksepticson_20
+2022-09-27T09:02:10Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-12383.9,     4.3, 12210.8)
+  LOL
+2022-09-27T09:02:11Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-12476.0,     4.7, 12208.8)
+  I can't imagine a whole beautiful thing^^
+2022-09-27T09:02:20Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-12674.6,     4.4, 11117.4)
+  It’s FORN,
+2022-09-27T09:02:26Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-12674.6,     4.4, 10174.5)
+  CORN!
+2022-09-27T09:02:45Z: PLAYER CHATTED [ 3502002824] Rishugsg             ( 2867.2,     4.5, -2959.7)
+  jump
+2022-09-27T09:02:57Z: CHRCTER ADDED  [  253530771] Olrehen              (  478.8,     8.6,  -727.1)
+2022-09-27T09:02:59Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-12672.6,     4.7,  5362.0)
+  its bailey a really nice person she has the niceness 
+2022-09-27T09:03:05Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-12674.6,     4.3,  4418.8)
+  :)))
+2022-09-27T09:04:01Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-12672.5,     4.7, -3709.7)
+  it's bailey I can tell you all about it I meen look at her I can't imagine a whole beautiful thing
+2022-09-27T09:04:13Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-12674.5,     4.3, -5431.5)
+  <3
+2022-09-27T09:04:45Z: CHRCTER ADDED  [  253530771] Olrehen              (  476.1,     8.6,  -728.2)
+2022-09-27T09:04:49Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-12672.5,     4.7, -10734.8)
+  bailey she really likes cheese a lot ^^
+2022-09-27T09:05:27Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-9928.4,     4.7, -13542.5)
+  🐯 and she really likes tigers >:3
+2022-09-27T09:06:08Z: PLAYER CHATTED [ 2353657730] kwiskaus             (-3976.4,     4.7, -13542.5)
+  🎃 it's going to be my birthday in Halloween👻🎃
+2022-09-27T09:06:24Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (-1575.8,     4.4, -13544.4)
+  Oo
+2022-09-27T09:06:43Z: PLAYER REMOVED [ 3750634134] zamcooled
+2022-09-27T09:06:43Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 1191.4,     4.7, -13542.5)
+  i gtg :(
+2022-09-27T09:06:53Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 2594.0,     4.3, -13544.4)
+  noOoOoOoO
+2022-09-27T09:06:55Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 2869.6,     4.3, -13544.4)
+  nOoO
+2022-09-27T09:06:56Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 3085.9,     4.4, -13544.4)
+  noO
+2022-09-27T09:06:59Z: CHRCTER ADDED  [  253530771] Olrehen              (  475.6,     8.6,  -731.9)
+2022-09-27T09:06:59Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 3526.3,     4.4, -13544.4)
+  ########
+2022-09-27T09:07:02Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 4005.3,     4.3, -13544.4)
+  :((
+2022-09-27T09:07:04Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 4170.8,     4.4, -13544.4)
+  :(
+2022-09-27T09:07:06Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  ( 4555.1,     4.4, -13544.4)
+  Bye bye:(
+2022-09-27T09:07:34Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 8641.6,     4.7, -13542.4)
+  my dad sad to go to bed :(
+2022-09-27T09:07:37Z: PLAYER CHATTED [ 2353657730] kwiskaus             ( 9078.6,     4.7, -13542.4)
+  MWA
+2022-09-27T09:07:47Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (10445.3,     4.4, -13544.4)
+  Mwa:(
+2022-09-27T09:07:51Z: PLAYER CHATTED [ 1865832413] Fox_BaerplaysRoblox  (11031.4,     4.4, -13544.4)
+  Cya!
+2022-09-27T09:07:55Z: PLAYER CHATTED [ 2353657730] kwiskaus             (11698.1,     4.7, -13542.4)
+  Bye^^
+2022-09-27T09:08:14Z: PLAYER REMOVED [ 2353657730] kwiskaus
+2022-09-27T09:09:43Z: PLAYER ADDED   [ 1567046042] alyanadine2740
+2022-09-27T09:10:25Z: PLAYER ADDED   [ 2486584576] ItsGadingVahrey
+2022-09-27T09:11:26Z: PLAYER REMOVED [  253530771] Olrehen
+2022-09-27T09:11:51Z: CHRCTER ADDED  [ 2486584576] ItsGadingVahrey      (  452.8,     8.2,  -727.4)
+2022-09-27T09:13:55Z: CHRCTER ADDED  [ 1567046042] alyanadine2740       (  478.1,     9.6,  -730.2)
+2022-09-27T09:16:56Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  483.5,    10.2,  -727.5)
+2022-09-27T09:17:11Z: PLAYER CHATTED [ 1567046042] alyanadine2740       ( 2001.2,     4.6, -2147.5)
+  .
+2022-09-27T09:18:04Z: PLAYER REMOVED [ 3502002824] Rishugsg
+2022-09-27T09:18:30Z: CHRCTER ADDED  [ 3648874125] milyaa12             (  458.9,     8.6,  -735.9)
+2022-09-27T09:18:35Z: PLAYER REMOVED [ 3648874125] milyaa12
+2022-09-27T09:19:34Z: PLAYER ADDED   [ 1598335275] c543334
+2022-09-27T09:20:33Z: PLAYER CHATTED [ 1567046042] alyanadine2740       ( 2904.7,     4.6, -2350.9)
+  go to the dentist
+2022-09-27T09:20:36Z: PLAYER CHATTED [ 1567046042] alyanadine2740       ( 2904.7,     4.6, -2049.3)
+  oops
+2022-09-27T09:21:01Z: PLAYER ADDED   [ 3926380579] Smokey_9566
+2022-09-27T09:21:30Z: CHRCTER ADDED  [ 3926380579] Smokey_9566          (  476.0,     8.5,  -730.1)
+2022-09-27T09:22:06Z: PLAYER REMOVED [ 1598335275] c543334
+2022-09-27T09:22:22Z: PLAYER REMOVED [ 3926380579] Smokey_9566
+2022-09-27T09:23:08Z: PLAYER REMOVED [ 1020209613] ZT5559
+2022-09-27T09:23:11Z: PLAYER REMOVED [    1630228] VisualPlugin

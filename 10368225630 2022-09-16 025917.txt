@@ -1,0 +1,241 @@
+[    1630228] : [10368225630] The Beach Cave - 13e2c60e-cbb7-4db1-839b-6a166b59048a
+2022-09-16T02:59:17Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-09-16T02:59:17Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-09-16T02:59:17Z: PLAYER ADDED   [  175510952] milk_man5
+2022-09-16T02:59:17Z: PLAYER ADDED   [  140344513] TheCookiNerd
+2022-09-16T02:59:17Z: PLAYER ADDED   [ 1903233290] unicornsparkles2930
+2022-09-16T02:59:17Z: PLAYER ADDED   [   62717731] NV_A0
+2022-09-16T02:59:17Z: PLAYER ADDED   [ 1554009305] chlckentaquito
+2022-09-16T02:59:17Z: PLAYER ADDED   [ 1656323961] crazyorange2013
+2022-09-16T02:59:17Z: PLAYER ADDED   [ 1823712324] creativefox8_6
+2022-09-16T02:59:22Z: PLAYER CHATTED [   62717731] NV_A0                (  -30.4,     3.4,   -31.5)
+  A shark ate me
+2022-09-16T02:59:23Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -25.3,     3.6,   -34.2)
+  f
+2022-09-16T02:59:25Z: PLAYER CHATTED [  140344513] TheCookiNerd         (  -18.1,     3.7,   -25.6)
+  /load night1
+2022-09-16T02:59:38Z: PLAYER REMOVED [ 1656323961] crazyorange2013
+2022-09-16T02:59:43Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -21.0,     3.6,   -29.1)
+  1
+2022-09-16T02:59:53Z: PLAYER ADDED   [ 2343399922] Almond_Pogg
+2022-09-16T03:00:01Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -30.3,     3.6,   -33.2)
+  2ty
+2022-09-16T03:00:01Z: PLAYER REMOVED [ 1823712324] creativefox8_6
+2022-09-16T03:00:09Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -22.4,     3.6,   -29.7)
+  ##
+2022-09-16T03:00:17Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -21.7,     3.6,   -28.4)
+  #################################
+2022-09-16T03:00:20Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -20.1,     3.6,   -28.2)
+  ############
+2022-09-16T03:00:21Z: PLAYER ADDED   [ 3295880986] Patrick_tipan
+2022-09-16T03:00:23Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -20.1,     3.6,   -28.2)
+  121212121
+2022-09-16T03:00:26Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -20.1,     3.6,   -28.2)
+  #########
+2022-09-16T03:00:30Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -20.1,     3.6,   -28.2)
+  ###########
+2022-09-16T03:00:34Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -20.4,     3.6,   -30.3)
+  22121212
+2022-09-16T03:00:39Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -21.4,     3.6,   -29.7)
+  2121q212121
+2022-09-16T03:00:42Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -21.4,     3.6,   -29.7)
+  #########
+2022-09-16T03:00:45Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -21.4,     3.6,   -29.7)
+  #########
+2022-09-16T03:00:48Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -21.6,     3.6,   -29.0)
+  1221212122112
+2022-09-16T03:00:52Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -20.0,     3.6,   -28.8)
+  ##########
+2022-09-16T03:00:53Z: CHRCTER ADDED  [   62717731] NV_A0                (  -42.5,     4.3,   -32.6)
+2022-09-16T03:00:55Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -20.0,     3.6,   -28.8)
+  2212121
+2022-09-16T03:01:02Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -20.7,     3.6,   -31.3)
+  ############
+2022-09-16T03:01:05Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -20.7,     3.6,   -31.3)
+  2222222222222222222222
+2022-09-16T03:01:06Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  -42.5,     4.5,   -32.6)
+2022-09-16T03:01:08Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -20.7,     3.6,   -31.3)
+  ###########
+2022-09-16T03:01:10Z: PLAYER CHATTED [   62717731] NV_A0                (  -27.6,     3.4,   -40.0)
+  Tongues
+2022-09-16T03:01:12Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -20.7,     3.6,   -31.3)
+  ##########
+2022-09-16T03:01:15Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -20.7,     3.6,   -31.3)
+  21211221212121
+2022-09-16T03:01:21Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -20.2,     3.6,   -31.0)
+  ###################################
+2022-09-16T03:01:26Z: PLAYER CHATTED [   62717731] NV_A0                (  -21.0,     3.4,   -35.2)
+  She’s listing end times dates
+2022-09-16T03:01:33Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -20.2,     3.6,   -31.0)
+  ################################################################################################################
+2022-09-16T03:01:42Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -20.2,     3.6,   -31.0)
+  ####################################
+2022-09-16T03:01:47Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -20.2,     3.6,   -31.0)
+  #########
+2022-09-16T03:01:51Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -20.2,     3.6,   -31.0)
+  dadwadwad
+2022-09-16T03:01:51Z: PLAYER REMOVED [ 1554009305] chlckentaquito
+2022-09-16T03:01:53Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -20.2,     3.6,   -31.0)
+  adada
+2022-09-16T03:01:54Z: CHRCTER ADDED  [ 3295880986] Patrick_tipan        (  -42.5,     4.5,   -32.6)
+2022-09-16T03:01:59Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -18.8,     3.6,   -29.9)
+  addfead
+2022-09-16T03:02:02Z: PLAYER ADDED   [ 2882367937] Slimpicjr
+2022-09-16T03:02:05Z: PLAYER REMOVED [  140344513] TheCookiNerd
+2022-09-16T03:02:06Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -17.1,     3.6,   -29.8)
+  dadadadada
+2022-09-16T03:02:08Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -17.0,     3.6,   -29.8)
+  d
+2022-09-16T03:02:09Z: PLAYER ADDED   [  364915231] ii_mintyvibes
+2022-09-16T03:02:10Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -16.9,     3.6,   -29.7)
+  s
+2022-09-16T03:02:12Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -16.9,     3.6,   -29.7)
+  a
+2022-09-16T03:02:16Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -16.9,     3.6,   -29.7)
+  #########
+2022-09-16T03:02:20Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -16.9,     3.6,   -29.7)
+  ############
+2022-09-16T03:02:25Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -15.7,     3.6,   -29.7)
+  ############
+2022-09-16T03:02:34Z: PLAYER REMOVED [  364915231] ii_mintyvibes
+2022-09-16T03:02:37Z: PLAYER REMOVED [ 2343399922] Almond_Pogg
+2022-09-16T03:02:38Z: PLAYER REMOVED [ 2882367937] Slimpicjr
+2022-09-16T03:02:42Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -28.3,     3.6,   -31.9)
+  ###########
+2022-09-16T03:02:44Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -28.3,     3.6,   -31.9)
+  asdasdsa
+2022-09-16T03:02:47Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -28.4,     3.6,   -31.1)
+  sadsasad
+2022-09-16T03:02:49Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -28.9,     3.6,   -31.9)
+  #########
+2022-09-16T03:02:53Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -28.9,     3.6,   -31.8)
+  ###########
+2022-09-16T03:02:55Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -28.9,     3.6,   -31.8)
+  ###########
+2022-09-16T03:02:57Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -28.9,     3.6,   -31.8)
+  #########
+2022-09-16T03:02:59Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -28.9,     3.6,   -31.8)
+  #############
+2022-09-16T03:03:02Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -28.9,     3.6,   -31.8)
+  s
+2022-09-16T03:03:02Z: PLAYER REMOVED [  175510952] milk_man5
+2022-09-16T03:03:04Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -28.9,     3.6,   -31.8)
+  da
+2022-09-16T03:03:06Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -28.9,     3.6,   -31.8)
+  #############
+2022-09-16T03:03:10Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -28.9,     3.6,   -31.8)
+  asdasdadsadsad
+2022-09-16T03:03:14Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -27.5,     3.6,   -31.6)
+  ############
+2022-09-16T03:03:18Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -27.5,     3.6,   -31.6)
+  ###
+2022-09-16T03:03:22Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -27.5,     3.6,   -31.6)
+  wdwadaw
+2022-09-16T03:03:23Z: CHRCTER ADDED  [ 3295880986] Patrick_tipan        (  -42.5,     4.5,   -32.6)
+2022-09-16T03:03:26Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -27.5,     3.6,   -31.6)
+  ok
+2022-09-16T03:03:59Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -34.6,     4.3,   -60.5)
+  1
+2022-09-16T03:04:03Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -34.6,     4.3,   -60.5)
+  2
+2022-09-16T03:04:06Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -34.7,     4.3,   -60.5)
+  3
+2022-09-16T03:04:06Z: PLAYER ADDED   [    4341464] SoberRage
+2022-09-16T03:04:09Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -34.7,     4.3,   -60.5)
+  4
+2022-09-16T03:04:13Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -34.7,     4.3,   -60.5)
+  ok
+2022-09-16T03:04:15Z: PLAYER REMOVED [ 3295880986] Patrick_tipan
+2022-09-16T03:04:16Z: CHRCTER ADDED  [   62717731] NV_A0                (  -42.5,     5.0,   -32.6)
+2022-09-16T03:04:16Z: PLAYER ADDED   [ 1580314909] The_MYSTICredpanda
+2022-09-16T03:04:21Z: PLAYER ADDED   [ 1533058160] Karen2Swaggg
+2022-09-16T03:04:25Z: PLAYER ADDED   [ 2895209138] nliyan4
+2022-09-16T03:04:31Z: PLAYER ADDED   [ 2742615229] ltzRei
+2022-09-16T03:04:45Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -24.3,     3.6,   -34.8)
+  adada
+2022-09-16T03:04:47Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -24.4,     3.6,   -34.8)
+  adadadad
+2022-09-16T03:04:49Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -24.4,     3.6,   -34.8)
+  daadadasd
+2022-09-16T03:04:53Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -24.2,     3.6,   -34.7)
+  ############
+2022-09-16T03:04:55Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -24.2,     3.6,   -34.7)
+  asdasdsa
+2022-09-16T03:04:57Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -24.2,     3.6,   -34.7)
+  ##########
+2022-09-16T03:04:59Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -24.2,     3.6,   -34.7)
+  ###########
+2022-09-16T03:05:02Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -24.2,     3.6,   -34.7)
+  asdasdasds
+2022-09-16T03:05:04Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -24.2,     3.6,   -34.7)
+  ###########
+2022-09-16T03:05:06Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -23.5,     3.6,   -35.6)
+  #########
+2022-09-16T03:05:09Z: PLAYER CHATTED [ 2895209138] nliyan4              (  -59.9,     3.9,   -45.8)
+  the camera can't move ?
+2022-09-16T03:05:13Z: PLAYER REMOVED [ 1533058160] Karen2Swaggg
+2022-09-16T03:05:27Z: CHRCTER ADDED  [ 1903233290] unicornsparkles2930  (  -44.0,     3.6,   -31.8)
+2022-09-16T03:05:28Z: PLAYER REMOVED [ 2742615229] ltzRei
+2022-09-16T03:05:29Z: PLAYER ADDED   [  367710451] Kazisbro
+2022-09-16T03:05:40Z: PLAYER ADDED   [ 2708595437] Big_BrownBallz
+2022-09-16T03:05:50Z: PLAYER REMOVED [    4341464] SoberRage
+2022-09-16T03:05:50Z: PLAYER ADDED   [ 2758802365] djhgskghs
+2022-09-16T03:05:51Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -70.4,     3.8,   -48.2)
+  #####
+2022-09-16T03:05:53Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -69.7,     3.8,   -47.3)
+  dasdawsd
+2022-09-16T03:05:54Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -69.7,     3.8,   -47.3)
+  dadwadasd
+2022-09-16T03:05:56Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -66.0,     3.8,   -46.8)
+  asdadsad
+2022-09-16T03:06:01Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -66.2,     3.8,   -45.5)
+  adddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+2022-09-16T03:06:03Z: PLAYER CHATTED [ 2895209138] nliyan4              (  -76.7,     3.8,  -126.4)
+  ouh okey
+2022-09-16T03:06:03Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -66.2,     3.8,   -45.5)
+  dadadadadad
+2022-09-16T03:06:05Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -66.2,     3.8,   -45.5)
+  adada
+2022-09-16T03:06:07Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -66.6,     3.8,   -43.4)
+  adadadadasd
+2022-09-16T03:06:09Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -66.7,     3.7,   -42.5)
+  adadad
+2022-09-16T03:06:11Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -66.9,     3.3,   -40.7)
+  asdadadas
+2022-09-16T03:06:12Z: PLAYER REMOVED [ 2895209138] nliyan4
+2022-09-16T03:06:13Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -66.9,     3.3,   -40.7)
+  asdasdas
+2022-09-16T03:06:16Z: PLAYER ADDED   [ 3018199802] zhyl_nap
+2022-09-16T03:06:18Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -66.7,     3.8,   -42.7)
+  ########
+2022-09-16T03:06:18Z: PLAYER REMOVED [  367710451] Kazisbro
+2022-09-16T03:06:23Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -63.3,     3.8,   -39.3)
+  ################################
+2022-09-16T03:06:25Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -63.4,     3.8,   -38.5)
+  dadasdasdasdads
+2022-09-16T03:06:28Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -63.4,     3.8,   -38.5)
+  dsaadsasd
+2022-09-16T03:06:31Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -63.4,     3.8,   -38.5)
+  zxcds
+2022-09-16T03:06:31Z: PLAYER ADDED   [ 2259690322] lili1666hg
+2022-09-16T03:06:34Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -63.4,     3.8,   -38.5)
+  szAasas
+2022-09-16T03:06:41Z: PLAYER CHATTED [ 1903233290] unicornsparkles2930  (  -25.7,     3.6,   -31.6)
+  Zdsadsb
+2022-09-16T03:06:46Z: PLAYER REMOVED [ 3018199802] zhyl_nap
+2022-09-16T03:06:55Z: PLAYER CHATTED [ 2758802365] djhgskghs            (  -18.6,     3.6,   -37.1)
+  hi
+2022-09-16T03:07:02Z: PLAYER ADDED   [ 3147334469] rde215279
+2022-09-16T03:07:07Z: PLAYER REMOVED [   62717731] NV_A0
+2022-09-16T03:07:12Z: PLAYER ADDED   [ 3890396096] roxanne2020m
+2022-09-16T03:07:12Z: PLAYER CHATTED [ 2758802365] djhgskghs            (  -20.7,     3.6,   -38.2)
+  lol
+2022-09-16T03:07:14Z: PLAYER REMOVED [ 2708595437] Big_BrownBallz
+2022-09-16T03:07:37Z: PLAYER REMOVED [ 2259690322] lili1666hg
+2022-09-16T03:07:37Z: CHRCTER ADDED  [ 3147334469] rde215279            (  -46.7,     3.1,   -33.8)
+2022-09-16T03:07:45Z: PLAYER REMOVED [ 3890396096] roxanne2020m
+2022-09-16T03:07:48Z: PLAYER CHATTED [ 2758802365] djhgskghs            (  -18.5,     7.0,   -21.4)
+  ok
+2022-09-16T03:07:48Z: PLAYER REMOVED [ 3147334469] rde215279
+2022-09-16T03:07:53Z: PLAYER REMOVED [ 1903233290] unicornsparkles2930
+2022-09-16T03:08:13Z: PLAYER REMOVED [    1630228] VisualPlugin

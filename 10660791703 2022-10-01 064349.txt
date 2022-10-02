@@ -1,0 +1,655 @@
+[    1630228] : [10660791703] cart ride around nothing - cc442ad7-ec4b-4884-b119-c04eab911cf8
+2022-10-01T06:43:49Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-10-01T06:43:49Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-10-01T06:43:49Z: PLAYER ADDED   [ 3724318604] Sashy0111
+2022-10-01T06:43:49Z: PLAYER ADDED   [ 3512255421] Salo28NB
+2022-10-01T06:43:49Z: PLAYER ADDED   [ 3770412548] SoldadoOscuro_1214
+2022-10-01T06:43:49Z: PLAYER ADDED   [  129014124] Djender1223
+2022-10-01T06:43:49Z: PLAYER ADDED   [ 3928220874] katya5jsr1
+2022-10-01T06:43:49Z: PLAYER ADDED   [ 2967636664] hanen02florx
+2022-10-01T06:43:49Z: PLAYER ADDED   [ 2937578728] totito_128
+2022-10-01T06:43:53Z: CHRCTER ADDED  [ 2937578728] totito_128           (    1.0,     3.0,    38.0)
+2022-10-01T06:44:08Z: CHRCTER ADDED  [ 3770412548] SoldadoOscuro_1214   (   -4.0,     3.0,   -28.0)
+2022-10-01T06:44:08Z: CHRCTER ADDED  [  129014124] Djender1223          (    1.0,     3.6,    38.0)
+2022-10-01T06:44:18Z: PLAYER REMOVED [  129014124] Djender1223
+2022-10-01T06:44:29Z: CHRCTER ADDED  [ 3512255421] Salo28NB             (    1.0,     3.2,    38.0)
+2022-10-01T06:44:32Z: PLAYER ADDED   [ 2638058990] Misael2000y
+2022-10-01T06:44:45Z: CHRCTER ADDED  [ 2937578728] totito_128           (   -4.0,     7.0,   -28.0)
+2022-10-01T06:44:54Z: PLAYER ADDED   [ 1850248818] torivio1542
+2022-10-01T06:44:59Z: CHRCTER ADDED  [ 2967636664] hanen02florx         (    1.0,     8.4,   -28.0)
+2022-10-01T06:45:17Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   22.8,     3.0,   -25.4)
+  hola?
+2022-10-01T06:45:20Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   21.2,     3.0,   -25.4)
+  ven
+2022-10-01T06:45:23Z: PLAYER CHATTED [ 1850248818] torivio1542          (   15.7,     3.7,   -26.6)
+  que cosa
+2022-10-01T06:45:26Z: CHRCTER ADDED  [ 3512255421] Salo28NB             (   -4.0,     3.2,   -28.0)
+2022-10-01T06:45:32Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   41.6,     3.7,   -36.0)
+  sube
+2022-10-01T06:45:42Z: CHRCTER ADDED  [ 2937578728] totito_128           (    1.0,     3.0,    38.0)
+2022-10-01T06:46:07Z: CHRCTER ADDED  [ 2967636664] hanen02florx         (    1.0,     3.2,    38.0)
+2022-10-01T06:46:07Z: CHRCTER ADDED  [ 2638058990] Misael2000y          (    1.0,     7.2,    38.0)
+2022-10-01T06:46:08Z: CHRCTER ADDED  [ 3770412548] SoldadoOscuro_1214   (    1.0,     3.0,   -28.0)
+2022-10-01T06:46:08Z: CHRCTER ADDED  [ 3928220874] katya5jsr1           (   -4.0,     2.9,   -28.0)
+2022-10-01T06:46:10Z: CHRCTER ADDED  [ 1850248818] torivio1542          (    1.0,     8.0,    38.0)
+2022-10-01T06:46:29Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   41.2,     3.7,   -36.0)
+  bajate tu
+2022-10-01T06:46:33Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   41.4,     3.7,   -36.0)
+  sube
+2022-10-01T06:46:37Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   41.4,     3.6,   -36.0)
+  amos
+2022-10-01T06:46:43Z: PLAYER CHATTED [ 1850248818] torivio1542          (   64.2,     3.8,    -7.5)
+  jajaja
+2022-10-01T06:46:47Z: CHRCTER ADDED  [ 2967636664] hanen02florx         (    1.0,     3.2,    38.0)
+2022-10-01T06:46:47Z: CHRCTER ADDED  [ 3770412548] SoldadoOscuro_1214   (    1.0,     7.2,    38.0)
+2022-10-01T06:46:54Z: CHRCTER ADDED  [ 3512255421] Salo28NB             (    1.0,     3.2,    38.0)
+2022-10-01T06:46:56Z: PLAYER CHATTED [ 1850248818] torivio1542          (  -42.4,     3.8,    81.3)
+  #####
+2022-10-01T06:47:10Z: PLAYER CHATTED [ 1850248818] torivio1542          (  -64.0,     3.8,   236.7)
+  ######
+2022-10-01T06:47:11Z: CHRCTER ADDED  [ 2967636664] hanen02florx         (   -4.0,     3.2,    38.0)
+2022-10-01T06:47:11Z: CHRCTER ADDED  [ 3928220874] katya5jsr1           (    1.0,     2.9,    38.0)
+2022-10-01T06:47:14Z: PLAYER REMOVED [ 2967636664] hanen02florx
+2022-10-01T06:47:20Z: PLAYER CHATTED [ 1850248818] torivio1542          ( -104.4,     6.0,   302.2)
+  #####
+2022-10-01T06:47:23Z: CHRCTER ADDED  [ 2937578728] totito_128           (   -4.0,     3.0,    38.0)
+2022-10-01T06:47:24Z: PLAYER CHATTED [ 1850248818] torivio1542          (  -97.8,     7.7,   335.9)
+  dale
+2022-10-01T06:47:27Z: PLAYER CHATTED [ 2638058990] Misael2000y          (  -80.4,    10.6,   327.2)
+  ok
+2022-10-01T06:47:44Z: PLAYER CHATTED [ 1850248818] torivio1542          (  -81.4,    20.7,   297.1)
+  hay viene ### otras
+2022-10-01T06:47:51Z: CHRCTER ADDED  [ 2937578728] totito_128           (   -4.0,     3.0,   -28.0)
+2022-10-01T06:48:02Z: PLAYER CHATTED [ 2638058990] Misael2000y          (  -93.8,    35.1,   290.0)
+  
+2022-10-01T06:48:07Z: PLAYER CHATTED [ 1850248818] torivio1542          (  -88.3,    31.2,   292.7)
+  hay aiudaa
+2022-10-01T06:48:15Z: PLAYER CHATTED [ 2638058990] Misael2000y          (  -90.6,    33.8,   290.9)
+  espera 
+2022-10-01T06:48:20Z: CHRCTER ADDED  [ 2937578728] totito_128           (   -4.0,     3.0,    38.0)
+2022-10-01T06:48:21Z: CHRCTER ADDED  [ 2638058990] Misael2000y          (    1.0,     3.0,    38.0)
+2022-10-01T06:48:21Z: CHRCTER ADDED  [ 1850248818] torivio1542          (    1.0,     3.7,   -28.0)
+2022-10-01T06:48:21Z: CHRCTER ADDED  [ 3770412548] SoldadoOscuro_1214   (   -4.0,     7.0,    38.0)
+2022-10-01T06:48:28Z: CHRCTER ADDED  [ 3512255421] Salo28NB             (    1.0,     3.2,    38.0)
+2022-10-01T06:48:34Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   41.5,     3.7,   -36.0)
+  jajaja 
+2022-10-01T06:48:34Z: PLAYER CHATTED [ 1850248818] torivio1542          (   34.7,     3.8,   -35.9)
+  a
+2022-10-01T06:48:40Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   41.5,     3.7,   -36.0)
+  dale
+2022-10-01T06:48:42Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   41.5,     3.7,   -36.0)
+  ok
+2022-10-01T06:48:47Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   51.1,     3.7,   -35.8)
+  a
+2022-10-01T06:48:57Z: CHRCTER ADDED  [ 3928220874] katya5jsr1           (   -4.0,     2.9,    38.0)
+2022-10-01T06:49:04Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   65.3,   -10.2,    43.3)
+  bro?
+2022-10-01T06:49:06Z: CHRCTER ADDED  [ 2638058990] Misael2000y          (   -4.0,     3.0,    38.0)
+2022-10-01T06:49:06Z: CHRCTER ADDED  [ 1850248818] torivio1542          (   -4.0,     3.7,   -28.0)
+2022-10-01T06:49:06Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   -4.0,     3.0,    38.0)
+  aaaaa
+2022-10-01T06:49:09Z: PLAYER CHATTED [ 1850248818] torivio1542          (   -4.0,     3.7,   -28.0)
+  aaa
+2022-10-01T06:49:21Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   38.4,     3.0,   -25.0)
+  y esa que?
+2022-10-01T06:49:27Z: PLAYER CHATTED [ 1850248818] torivio1542          (   32.8,     3.7,   -29.6)
+  xd
+2022-10-01T06:49:33Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   38.6,     3.0,   -25.2)
+  vamos 
+2022-10-01T06:49:40Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   41.1,     3.6,   -36.0)
+  dale
+2022-10-01T06:49:42Z: PLAYER CHATTED [ 3512255421] Salo28NB             (   37.8,     3.2,   -28.7)
+  nosé que aser
+2022-10-01T06:49:47Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   41.0,     3.7,   -36.0)
+  a
+2022-10-01T06:49:50Z: PLAYER CHATTED [ 1850248818] torivio1542          (   34.1,     3.7,   -36.0)
+  e
+2022-10-01T06:49:55Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   40.6,     3.6,   -36.0)
+  dale tori
+2022-10-01T06:50:00Z: CHRCTER ADDED  [ 3928220874] katya5jsr1           (   -4.0,     2.9,   -28.0)
+2022-10-01T06:50:03Z: PLAYER REMOVED [ 3928220874] katya5jsr1
+2022-10-01T06:50:05Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   39.0,     3.6,   -36.0)
+  vamos 
+2022-10-01T06:50:20Z: PLAYER ADDED   [ 1568016588] supersonicstyleog
+2022-10-01T06:50:21Z: PLAYER CHATTED [ 1850248818] torivio1542          (  -10.3,     3.8,    79.1)
+  #####
+2022-10-01T06:50:29Z: PLAYER CHATTED [ 3512255421] Salo28NB             (    1.9,     3.2,    34.5)
+  hola
+2022-10-01T06:50:34Z: PLAYER CHATTED [ 1568016588] supersonicstyleog    (   12.2,     3.0,    36.0)
+  hola
+2022-10-01T06:50:40Z: PLAYER ADDED   [ 3109050268] Avionlix
+2022-10-01T06:50:50Z: PLAYER CHATTED [ 3109050268] Avionlix             (   15.3,     3.1,    30.2)
+   Lead 
+2022-10-01T06:50:51Z: PLAYER CHATTED [ 3512255421] Salo28NB             (    8.8,     3.2,    35.1)
+  busco amigo
+2022-10-01T06:51:00Z: PLAYER CHATTED [ 1568016588] supersonicstyleog    (    7.0,     3.0,    32.3)
+  seamos amigos 
+2022-10-01T06:51:01Z: PLAYER CHATTED [ 3109050268] Avionlix             (   15.3,     3.1,    30.2)
+  Clear the leader visualplugin
+2022-10-01T06:51:08Z: PLAYER CHATTED [ 3512255421] Salo28NB             (    9.1,     3.2,    32.9)
+  ok
+2022-10-01T06:51:09Z: PLAYER CHATTED [ 2937578728] totito_128           (  319.7,    40.3,   152.2)
+  espera aqui
+2022-10-01T06:51:20Z: CHRCTER ADDED  [ 3512255421] Salo28NB             (   -4.0,     8.6,    38.0)
+2022-10-01T06:51:20Z: CHRCTER ADDED  [ 3109050268] Avionlix             (   -4.0,     3.0,   -28.0)
+2022-10-01T06:51:20Z: PLAYER CHATTED [ 3770412548] SoldadoOscuro_1214   (  319.2,    40.4,   148.3)
+  ok
+2022-10-01T06:51:20Z: CHRCTER ADDED  [ 1568016588] supersonicstyleog    (    1.0,     3.6,    38.0)
+2022-10-01T06:51:22Z: PLAYER CHATTED [ 2638058990] Misael2000y          ( -103.9,    34.6,   330.9)
+  agarrate
+2022-10-01T06:51:24Z: PLAYER CHATTED [ 2937578728] totito_128           (  319.7,    40.3,   152.2)
+  voy por otro
+2022-10-01T06:51:28Z: PLAYER CHATTED [ 1850248818] torivio1542          (  -62.1,    36.3,   352.7)
+  carro tactico
+2022-10-01T06:51:29Z: PLAYER CHATTED [ 3770412548] SoldadoOscuro_1214   (  319.2,    40.4,   148.3)
+  si
+2022-10-01T06:51:31Z: CHRCTER ADDED  [ 2937578728] totito_128           (   -4.0,     3.0,    38.0)
+2022-10-01T06:51:58Z: PLAYER CHATTED [ 1850248818] torivio1542          (  -37.8,    36.2,   341.3)
+  oo me vengo
+2022-10-01T06:52:24Z: PLAYER CHATTED [ 2638058990] Misael2000y          (  -62.0,    83.7,    10.0)
+  me avisas si vienen la policía 
+2022-10-01T06:52:30Z: PLAYER CHATTED [ 2638058990] Misael2000y          (  -57.5,    83.7,     6.9)
+  los puercos
+2022-10-01T06:52:32Z: CHRCTER ADDED  [ 1568016588] supersonicstyleog    (   -4.0,     3.6,   -28.0)
+2022-10-01T06:52:32Z: PLAYER CHATTED [ 1850248818] torivio1542          (  -58.6,    83.7,     7.5)
+  ok
+2022-10-01T06:52:44Z: PLAYER CHATTED [ 2638058990] Misael2000y          (  -84.7,    83.7,     7.1)
+  turbo
+2022-10-01T06:52:54Z: PLAYER REMOVED [ 3109050268] Avionlix
+2022-10-01T06:53:00Z: PLAYER CHATTED [ 1850248818] torivio1542          (  240.6,    83.8,    -3.9)
+  vieneee
+2022-10-01T06:53:12Z: PLAYER CHATTED [ 3512255421] Salo28NB             (  -55.9,     3.8,   215.1)
+  aqui
+2022-10-01T06:53:16Z: PLAYER CHATTED [ 2638058990] Misael2000y          (  352.2,    40.0,   121.0)
+  ya me di cuenta 
+2022-10-01T06:53:20Z: PLAYER CHATTED [ 1850248818] torivio1542          (  349.9,    40.1,   125.6)
+  ese marrano
+2022-10-01T06:53:21Z: CHRCTER ADDED  [ 2937578728] totito_128           (   -4.0,     3.0,   -28.0)
+2022-10-01T06:53:22Z: PLAYER CHATTED [ 2638058990] Misael2000y          (  348.5,    40.2,   136.3)
+  con el disparo 
+2022-10-01T06:53:40Z: PLAYER CHATTED [ 1850248818] torivio1542          (  320.3,    40.3,    88.8)
+  saquese
+2022-10-01T06:53:44Z: PLAYER CHATTED [ 2638058990] Misael2000y          (  320.3,    40.0,    82.7)
+  noooo
+2022-10-01T06:53:49Z: PLAYER CHATTED [ 1850248818] torivio1542          (  319.8,    40.1,    89.2)
+  ######
+2022-10-01T06:53:50Z: PLAYER CHATTED [ 2638058990] Misael2000y          (  320.1,    40.0,    83.0)
+  ###### ## ##
+2022-10-01T06:53:53Z: PLAYER CHATTED [ 3512255421] Salo28NB             ( -104.6,    15.8,   331.3)
+  siiiiii!!!
+2022-10-01T06:53:54Z: PLAYER CHATTED [ 1850248818] torivio1542          (  320.2,    40.1,    89.5)
+  mata
+2022-10-01T06:54:01Z: PLAYER CHATTED [ 1568016588] supersonicstyleog    ( -106.6,     5.8,   286.7)
+  a
+2022-10-01T06:54:03Z: CHRCTER ADDED  [ 2937578728] totito_128           (    1.0,     3.0,    38.0)
+2022-10-01T06:54:04Z: CHRCTER ADDED  [ 1568016588] supersonicstyleog    (    1.0,     3.6,   -28.0)
+2022-10-01T06:54:10Z: PLAYER CHATTED [ 2638058990] Misael2000y          (  317.5,    39.6,    90.6)
+  ######
+2022-10-01T06:54:15Z: PLAYER CHATTED [ 2638058990] Misael2000y          (  317.6,    39.6,    90.4)
+  ###
+2022-10-01T06:54:17Z: PLAYER CHATTED [ 1850248818] torivio1542          (  322.3,    40.5,   101.4)
+  jajaja
+2022-10-01T06:54:26Z: PLAYER CHATTED [ 1850248818] torivio1542          (  322.3,    40.5,   101.4)
+  mata
+2022-10-01T06:54:28Z: PLAYER CHATTED [ 2638058990] Misael2000y          (  320.2,    39.9,    90.0)
+  ## vas con nosotros
+2022-10-01T06:54:31Z: PLAYER CHATTED [ 1850248818] torivio1542          (  322.3,    40.5,   101.4)
+  lo
+2022-10-01T06:54:32Z: PLAYER CHATTED [ 2638058990] Misael2000y          (  320.2,    39.9,    90.0)
+  #####
+2022-10-01T06:54:32Z: CHRCTER ADDED  [ 2638058990] Misael2000y          (    1.0,     3.0,    38.0)
+2022-10-01T06:54:33Z: CHRCTER ADDED  [ 1850248818] torivio1542          (    1.0,     3.7,   -28.0)
+2022-10-01T06:54:45Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   42.7,     3.0,   -25.4)
+  jajaja 
+2022-10-01T06:54:51Z: PLAYER CHATTED [ 1850248818] torivio1542          (   28.4,     3.7,   -26.1)
+  no lo mataste
+2022-10-01T06:54:58Z: CHRCTER ADDED  [ 1568016588] supersonicstyleog    (   -4.0,     3.6,   -28.0)
+2022-10-01T06:54:59Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   41.6,     3.7,   -36.0)
+  enserio?
+2022-10-01T06:55:04Z: PLAYER CHATTED [ 1850248818] torivio1542          (   34.8,     3.8,   -36.0)
+  si
+2022-10-01T06:55:05Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   41.6,     3.7,   -36.0)
+  vamos por el
+2022-10-01T06:55:07Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   41.6,     3.7,   -36.0)
+  dale
+2022-10-01T06:55:14Z: PLAYER CHATTED [ 1850248818] torivio1542          (   30.9,     3.8,   -36.0)
+  presenta una amenaza
+2022-10-01T06:55:15Z: CHRCTER ADDED  [ 3512255421] Salo28NB             (    1.0,     3.2,    38.0)
+2022-10-01T06:55:27Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   37.7,     3.7,   -36.0)
+  Bv
+2022-10-01T06:55:49Z: PLAYER CHATTED [ 1850248818] torivio1542          (  -35.6,     3.8,    79.1)
+  vamos turbo
+2022-10-01T06:56:02Z: PLAYER CHATTED [ 1850248818] torivio1542          (  -44.6,     3.8,   175.1)
+  carro tactico
+2022-10-01T06:56:08Z: PLAYER CHATTED [ 2638058990] Misael2000y          (  -64.1,     3.7,   235.0)
+  gracias 
+2022-10-01T06:56:15Z: CHRCTER ADDED  [ 1850248818] torivio1542          (   -4.0,     3.7,   -28.0)
+2022-10-01T06:56:15Z: PLAYER CHATTED [ 3512255421] Salo28NB             (  -64.1,     3.7,    10.0)
+  aya voy
+2022-10-01T06:56:17Z: PLAYER CHATTED [ 2638058990] Misael2000y          (  -98.8,     4.9,   294.5)
+  jajaja 
+2022-10-01T06:56:19Z: CHRCTER ADDED  [ 1568016588] supersonicstyleog    (    1.0,     3.6,   -28.0)
+2022-10-01T06:56:19Z: CHRCTER ADDED  [ 2638058990] Misael2000y          (    1.0,     3.0,    38.0)
+2022-10-01T06:56:20Z: PLAYER CHATTED [ 1850248818] torivio1542          (   -4.0,     3.7,   -28.0)
+  ####
+2022-10-01T06:56:28Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   30.2,     3.0,   -20.7)
+  jajaja 
+2022-10-01T06:56:32Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   30.2,     3.0,   -20.7)
+  que paso?
+2022-10-01T06:56:45Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   41.5,     3.7,   -36.1)
+  dale pa
+2022-10-01T06:56:51Z: PLAYER CHATTED [ 1850248818] torivio1542          (   34.7,     3.8,   -36.0)
+  conoci a ########
+2022-10-01T06:56:51Z: PLAYER REMOVED [ 3770412548] SoldadoOscuro_1214
+2022-10-01T06:56:57Z: PLAYER ADDED   [ 3051447829] DANIEL_BAASM
+2022-10-01T06:57:04Z: PLAYER CHATTED [ 1850248818] torivio1542          (   63.8,     3.6,    14.7)
+  ########
+2022-10-01T06:57:05Z: CHRCTER ADDED  [ 1568016588] supersonicstyleog    (   -4.0,     3.6,    38.0)
+2022-10-01T06:57:09Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   64.4,     3.4,     9.7)
+  a
+2022-10-01T06:57:10Z: PLAYER CHATTED [ 1850248818] torivio1542          (   62.0,    -2.9,    10.8)
+  nooo
+2022-10-01T06:57:15Z: CHRCTER ADDED  [ 3512255421] Salo28NB             (   -4.0,     3.2,   -28.0)
+2022-10-01T06:57:19Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   64.3,     3.3,     9.7)
+  salta
+2022-10-01T06:57:20Z: PLAYER CHATTED [ 1850248818] torivio1542          (   62.1,    -3.0,    11.0)
+  no me dejes}
+2022-10-01T06:57:31Z: PLAYER CHATTED [ 1850248818] torivio1542          (   62.1,    -3.0,    11.0)
+  hijo 
+2022-10-01T06:57:31Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   62.9,     6.0,    10.3)
+  cómo le hago
+2022-10-01T06:57:37Z: CHRCTER ADDED  [ 2638058990] Misael2000y          (    1.0,     3.0,   -28.0)
+2022-10-01T06:57:37Z: CHRCTER ADDED  [ 1850248818] torivio1542          (   -4.0,     3.7,   -28.0)
+2022-10-01T06:57:43Z: PLAYER REMOVED [ 1568016588] supersonicstyleog
+2022-10-01T06:57:45Z: PLAYER ADDED   [ 3890763001] RobloxKin2023
+2022-10-01T06:58:02Z: PLAYER CHATTED [ 1850248818] torivio1542          (   64.1,     3.8,    44.3)
+  turboo
+2022-10-01T06:58:25Z: CHRCTER ADDED  [ 3890763001] RobloxKin2023        (   -4.0,     3.2,    38.0)
+2022-10-01T06:58:25Z: CHRCTER ADDED  [ 1850248818] torivio1542          (    1.0,     3.7,   -28.0)
+2022-10-01T06:58:26Z: CHRCTER ADDED  [ 2638058990] Misael2000y          (    1.0,     8.2,   -28.0)
+2022-10-01T06:58:27Z: PLAYER CHATTED [ 2638058990] Misael2000y          (    1.0,     8.2,   -28.0)
+  a
+2022-10-01T06:58:31Z: PLAYER CHATTED [ 1850248818] torivio1542          (    0.9,     3.7,   -28.0)
+  no ma
+2022-10-01T06:58:44Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   41.7,     3.7,   -36.0)
+  ta raro
+2022-10-01T06:58:46Z: CHRCTER ADDED  [ 3051447829] DANIEL_BAASM         (   -4.0,     2.7,   -28.0)
+2022-10-01T06:58:49Z: PLAYER CHATTED [ 1850248818] torivio1542          (   63.9,     3.7,   -22.2)
+  jaja
+2022-10-01T06:58:55Z: CHRCTER ADDED  [ 3512255421] Salo28NB             (    1.0,     3.2,    38.0)
+2022-10-01T06:59:00Z: CHRCTER ADDED  [ 3890763001] RobloxKin2023        (    1.0,     3.2,    38.0)
+2022-10-01T06:59:00Z: CHRCTER ADDED  [ 3051447829] DANIEL_BAASM         (   -4.0,     2.7,    38.0)
+2022-10-01T06:59:07Z: PLAYER CHATTED [ 1850248818] torivio1542          (  -48.6,     3.9,   128.7)
+  a la merga
+2022-10-01T06:59:13Z: PLAYER CHATTED [ 2638058990] Misael2000y          (  -27.4,     3.6,   172.5)
+  que?
+2022-10-01T06:59:25Z: PLAYER CHATTED [ 1850248818] torivio1542          (  -64.0,     3.9,   261.1)
+  exploto un coche atras
+2022-10-01T06:59:32Z: PLAYER CHATTED [ 2638058990] Misael2000y          (  -65.4,     3.7,   283.9)
+  esa que?
+2022-10-01T06:59:39Z: PLAYER CHATTED [ 2638058990] Misael2000y          (  -65.8,     3.7,   285.0)
+  a como m4m4s 
+2022-10-01T06:59:41Z: PLAYER CHATTED [ 1850248818] torivio1542          (  -64.1,     3.8,   278.6)
+  no cochina
+2022-10-01T06:59:41Z: CHRCTER ADDED  [ 3890763001] RobloxKin2023        (   -4.0,     3.2,    38.0)
+2022-10-01T06:59:46Z: PLAYER CHATTED [ 2638058990] Misael2000y          (  -65.8,     3.7,   285.0)
+  y no es mi chil3
+2022-10-01T06:59:51Z: PLAYER REMOVED [ 3890763001] RobloxKin2023
+2022-10-01T06:59:59Z: PLAYER CHATTED [ 1850248818] torivio1542          (  -74.8,     3.8,   291.5)
+  uy
+2022-10-01T07:00:01Z: PLAYER CHATTED [ 2638058990] Misael2000y          (  -79.9,     3.7,   292.0)
+  espera aquí 
+2022-10-01T07:00:09Z: CHRCTER ADDED  [ 2638058990] Misael2000y          (   -4.0,     3.0,   -28.0)
+2022-10-01T07:00:09Z: PLAYER CHATTED [ 1850248818] torivio1542          (  -87.1,    -0.7,   343.3)
+  aaa
+2022-10-01T07:00:12Z: CHRCTER ADDED  [ 1850248818] torivio1542          (   -4.0,     3.7,   -28.0)
+2022-10-01T07:00:19Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   15.9,     3.0,   -26.0)
+  que paso?
+2022-10-01T07:00:20Z: PLAYER ADDED   [ 3285609742] inotMrCat
+2022-10-01T07:00:28Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   16.2,     3.0,   -25.2)
+  por qué le aceleraa
+2022-10-01T07:00:32Z: PLAYER CHATTED [ 1850248818] torivio1542          (   19.5,     3.7,   -22.8)
+  ## habia quien conduzca
+2022-10-01T07:00:35Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   16.2,     3.0,   -25.2)
+  aceleraa
+2022-10-01T07:00:40Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   16.2,     3.0,   -25.2)
+  ._.
+2022-10-01T07:00:49Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   27.3,     3.0,   -24.1)
+  pero 
+2022-10-01T07:00:57Z: CHRCTER ADDED  [ 3285609742] inotMrCat            (    1.0,     3.0,    38.0)
+2022-10-01T07:00:57Z: PLAYER REMOVED [ 3051447829] DANIEL_BAASM
+2022-10-01T07:00:57Z: CHRCTER ADDED  [ 3512255421] Salo28NB             (   -4.0,     3.2,   -28.0)
+2022-10-01T07:01:02Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   27.3,     3.0,   -24.1)
+  aún así se tiene que quedar quieto
+2022-10-01T07:01:06Z: PLAYER ADDED   [ 1079930013] luis1236810
+2022-10-01T07:01:07Z: PLAYER REMOVED [ 3512255421] Salo28NB
+2022-10-01T07:01:09Z: PLAYER ADDED   [ 3922494816] hdkoyrh799
+2022-10-01T07:01:18Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   62.0,     3.3,   -31.6)
+  a
+2022-10-01T07:01:18Z: PLAYER CHATTED [ 1850248818] torivio1542          (   57.2,     3.4,   -34.7)
+  nooo
+2022-10-01T07:01:25Z: PLAYER CHATTED [ 1850248818] torivio1542          (   57.1,     3.3,   -34.6)
+  cochinas
+2022-10-01T07:01:26Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   61.4,     3.1,   -31.0)
+  cómo m4m4s 
+2022-10-01T07:01:50Z: PLAYER CHATTED [ 1850248818] torivio1542          (   30.0,     3.7,   -31.2)
+  mamatela
+2022-10-01T07:01:51Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   36.4,     3.0,   -26.8)
+  sabes que 
+2022-10-01T07:02:15Z: PLAYER CHATTED [ 1850248818] torivio1542          (  -31.6,     3.7,   -17.0)
+  hija de la
+2022-10-01T07:02:15Z: PLAYER CHATTED [ 2638058990] Misael2000y          (  -34.1,     3.7,   -17.0)
+  dale
+2022-10-01T07:02:27Z: CHRCTER ADDED  [ 3285609742] inotMrCat            (    1.0,     3.0,   -28.0)
+2022-10-01T07:02:27Z: CHRCTER ADDED  [ 3922494816] hdkoyrh799           (    1.0,     7.1,   -28.0)
+2022-10-01T07:02:27Z: CHRCTER ADDED  [ 1850248818] torivio1542          (    1.0,    11.8,   -28.0)
+2022-10-01T07:02:35Z: CHRCTER ADDED  [ 2638058990] Misael2000y          (   -4.0,     3.0,   -28.0)
+2022-10-01T07:02:48Z: CHRCTER ADDED  [ 2937578728] totito_128           (    1.0,     3.0,    38.0)
+2022-10-01T07:02:49Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   44.4,     3.0,   -14.7)
+  mira ese tren
+2022-10-01T07:02:49Z: PLAYER CHATTED [ 1850248818] torivio1542          (   46.9,     3.7,   -24.4)
+  jajaja
+2022-10-01T07:02:53Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   44.3,     3.0,   -13.3)
+  va morir
+2022-10-01T07:02:55Z: CHRCTER ADDED  [ 3724318604] Sashy0111            ( -417.0,   163.2,   171.0)
+2022-10-01T07:02:56Z: PLAYER REMOVED [ 3922494816] hdkoyrh799
+2022-10-01T07:02:56Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   44.3,     3.0,   -13.3)
+  jajaja 
+2022-10-01T07:03:01Z: CHRCTER ADDED  [ 3285609742] inotMrCat            (    1.0,     3.0,   -28.0)
+2022-10-01T07:03:02Z: CHRCTER ADDED  [ 1079930013] luis1236810          (    1.0,     4.1,    38.0)
+2022-10-01T07:03:11Z: PLAYER ADDED   [ 1356951720] IronmanRichi
+2022-10-01T07:03:15Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   39.2,     3.2,   -33.7)
+  no
+2022-10-01T07:03:15Z: PLAYER CHATTED [ 1850248818] torivio1542          (   32.6,     3.7,   -27.9)
+  #######
+2022-10-01T07:03:29Z: PLAYER CHATTED [ 1850248818] torivio1542          (   35.3,     3.9,   -33.0)
+  che wea
+2022-10-01T07:03:34Z: CHRCTER ADDED  [ 1356951720] IronmanRichi         (    1.0,     3.0,    38.0)
+2022-10-01T07:03:37Z: PLAYER REMOVED [ 1356951720] IronmanRichi
+2022-10-01T07:03:37Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   42.6,     3.0,   -30.9)
+  espera 
+2022-10-01T07:03:44Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   42.6,     3.0,   -30.9)
+  con eso
+2022-10-01T07:03:45Z: CHRCTER ADDED  [ 1079930013] luis1236810          (    1.0,     4.1,    38.0)
+2022-10-01T07:03:45Z: PLAYER ADDED   [ 3898253502] Chilahahha
+2022-10-01T07:03:49Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   38.5,     3.0,   -24.7)
+  ves
+2022-10-01T07:03:53Z: PLAYER ADDED   [ 1506037124] gucciboi20123
+2022-10-01T07:03:55Z: CHRCTER ADDED  [ 1079930013] luis1236810          (   -4.0,     4.1,    38.0)
+2022-10-01T07:03:59Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   40.2,     3.0,   -22.6)
+  jajaja 
+2022-10-01T07:04:00Z: PLAYER CHATTED [ 1850248818] torivio1542          (   36.1,     3.7,   -24.3)
+  jajajaja
+2022-10-01T07:04:08Z: CHRCTER ADDED  [ 2937578728] totito_128           (   -4.0,     3.0,    38.0)
+2022-10-01T07:04:14Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   -4.0,     4.2,    38.0)
+2022-10-01T07:04:15Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   32.4,     3.0,   -19.7)
+  jajaja 
+2022-10-01T07:04:15Z: PLAYER REMOVED [ 2937578728] totito_128
+2022-10-01T07:04:18Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   33.0,     3.0,   -19.4)
+  volo
+2022-10-01T07:04:29Z: PLAYER CHATTED [ 3898253502] Chilahahha           (   25.7,     3.0,   -12.3)
+  hi
+2022-10-01T07:04:39Z: PLAYER CHATTED [ 1850248818] torivio1542          (   64.1,     3.8,   -11.6)
+  rapidooo
+2022-10-01T07:04:45Z: PLAYER CHATTED [ 1850248818] torivio1542          (   63.0,     3.8,    69.9)
+  que no esta
+2022-10-01T07:04:50Z: CHRCTER ADDED  [ 2638058990] Misael2000y          (   -4.0,     3.0,    38.0)
+2022-10-01T07:04:50Z: CHRCTER ADDED  [ 1850248818] torivio1542          (    1.0,     3.7,    38.0)
+2022-10-01T07:04:51Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   -4.0,     4.2,   -28.0)
+2022-10-01T07:04:56Z: PLAYER CHATTED [ 1850248818] torivio1542          (    1.0,     3.7,    38.0)
+  XD
+2022-10-01T07:05:01Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   37.8,     3.0,   -23.6)
+  a la
+2022-10-01T07:05:01Z: PLAYER CHATTED [ 3898253502] Chilahahha           (  -84.2,   -15.3,   160.0)
+  hi
+2022-10-01T07:05:03Z: CHRCTER ADDED  [ 3898253502] Chilahahha           (    1.0,     3.0,   -28.0)
+2022-10-01T07:05:03Z: CHRCTER ADDED  [ 1506037124] gucciboi20123        (   -4.0,     3.9,   -28.0)
+2022-10-01T07:05:09Z: CHRCTER ADDED  [ 3898253502] Chilahahha           (    1.0,     3.0,   -28.0)
+2022-10-01T07:05:09Z: CHRCTER ADDED  [ 1506037124] gucciboi20123        (   -4.0,     3.9,    38.0)
+2022-10-01T07:05:09Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    1.0,     4.2,    38.0)
+2022-10-01T07:05:19Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   60.2,     3.7,   -31.5)
+  a
+2022-10-01T07:05:19Z: PLAYER CHATTED [ 1850248818] torivio1542          (   54.3,     3.2,   -33.8)
+  hija de la
+2022-10-01T07:05:28Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   38.0,     3.0,   -33.5)
+  es una 
+2022-10-01T07:05:31Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   38.0,     3.0,   -33.5)
+  ######
+2022-10-01T07:05:32Z: PLAYER CHATTED [ 3898253502] Chilahahha           (  -64.1,     3.8,    41.5)
+  I good 
+2022-10-01T07:05:39Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   36.8,     3.1,   -33.7)
+  con p mayúscula 
+2022-10-01T07:05:54Z: CHRCTER ADDED  [ 1079930013] luis1236810          (    1.0,     4.1,   -28.0)
+2022-10-01T07:05:54Z: CHRCTER ADDED  [ 3898253502] Chilahahha           (    1.0,     8.8,   -28.0)
+2022-10-01T07:05:54Z: CHRCTER ADDED  [ 1506037124] gucciboi20123        (   -4.0,     3.9,   -28.0)
+2022-10-01T07:05:57Z: PLAYER CHATTED [ 1850248818] torivio1542          (   27.7,     3.7,   -30.6)
+  .-.
+2022-10-01T07:06:02Z: PLAYER CHATTED [ 3285609742] inotMrCat            (   28.8,     3.6,   -35.2)
+  ok 2x6
+2022-10-01T07:06:13Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   37.6,     3.0,   -30.8)
+  ._.
+2022-10-01T07:06:18Z: CHRCTER ADDED  [ 3898253502] Chilahahha           (    1.0,     3.0,   -28.0)
+2022-10-01T07:06:19Z: CHRCTER ADDED  [ 1506037124] gucciboi20123        (   -4.0,     3.9,   -28.0)
+2022-10-01T07:06:23Z: PLAYER CHATTED [ 3898253502] Chilahahha           (    1.3,     3.0,   -28.0)
+  I good 
+2022-10-01T07:06:24Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    1.0,     4.2,   -28.0)
+2022-10-01T07:06:29Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   38.1,     3.0,   -31.5)
+  y eso que tiene que ver con la navidad?
+2022-10-01T07:06:36Z: CHRCTER ADDED  [ 1079930013] luis1236810          (    1.0,     4.1,    38.0)
+2022-10-01T07:06:47Z: PLAYER CHATTED [ 1850248818] torivio1542          (   40.2,     3.7,   -36.1)
+  veteee
+2022-10-01T07:06:49Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   47.1,     3.7,   -36.0)
+  dale
+2022-10-01T07:06:55Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   51.8,     3.7,   -35.7)
+  ._.
+2022-10-01T07:07:00Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   54.3,     3.7,   -35.2)
+  dale
+2022-10-01T07:07:10Z: CHRCTER ADDED  [ 3285609742] inotMrCat            (    1.0,     7.9,   -28.0)
+2022-10-01T07:07:12Z: PLAYER CHATTED [ 1850248818] torivio1542          (   62.4,     3.2,    18.3)
+  jajaja
+2022-10-01T07:07:16Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   63.4,     5.8,    21.3)
+  jajaja 
+2022-10-01T07:07:18Z: PLAYER CHATTED [ 1850248818] torivio1542          (   62.4,     3.2,    18.3)
+  se cayo
+2022-10-01T07:07:20Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   63.4,     5.8,    21.3)
+  c fue
+2022-10-01T07:07:37Z: CHRCTER ADDED  [ 1506037124] gucciboi20123        (    1.0,     3.9,    38.0)
+2022-10-01T07:07:40Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   63.7,     6.5,    22.6)
+  no puedes manejar 
+2022-10-01T07:07:41Z: CHRCTER ADDED  [ 3285609742] inotMrCat            (   -4.0,     3.0,    38.0)
+2022-10-01T07:07:45Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   63.8,     6.3,    22.7)
+  ven
+2022-10-01T07:08:04Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   42.2,     3.6,   -36.0)
+  a
+2022-10-01T07:08:17Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   44.8,     3.7,   -36.0)
+  ## subo gordas
+2022-10-01T07:08:24Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   45.8,     3.7,   -36.0)
+  dale
+2022-10-01T07:08:29Z: CHRCTER ADDED  [ 1079930013] luis1236810          (   -4.0,     4.1,   -28.0)
+2022-10-01T07:08:32Z: PLAYER CHATTED [ 1850248818] torivio1542          (   39.0,     3.7,   -36.0)
+  mr #######
+2022-10-01T07:08:33Z: PLAYER CHATTED [ 3898253502] Chilahahha           (  -65.6,    37.9,   299.6)
+  :(
+2022-10-01T07:08:39Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   45.9,     3.7,   -36.0)
+  jajaja 
+2022-10-01T07:08:58Z: CHRCTER ADDED  [ 1506037124] gucciboi20123        (   -4.0,     3.9,    38.0)
+2022-10-01T07:08:59Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   64.1,     3.7,    50.2)
+  espera
+2022-10-01T07:09:00Z: PLAYER CHATTED [ 1850248818] torivio1542          (   64.2,     3.7,    44.1)
+  hija de merga
+2022-10-01T07:09:06Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   64.1,     3.7,    54.5)
+  tu dale
+2022-10-01T07:09:15Z: PLAYER CHATTED [ 1850248818] torivio1542          (   64.1,     3.8,    55.7)
+  ######
+2022-10-01T07:09:44Z: PLAYER CHATTED [ 2638058990] Misael2000y          (  -48.4,     3.7,    92.0)
+  dale
+2022-10-01T07:09:54Z: PLAYER CHATTED [ 2638058990] Misael2000y          (  -38.7,     3.7,   146.2)
+  dale
+2022-10-01T07:10:08Z: PLAYER CHATTED [ 2638058990] Misael2000y          (  -33.8,     3.7,   174.8)
+  dale
+2022-10-01T07:10:11Z: CHRCTER ADDED  [ 1506037124] gucciboi20123        (   -4.0,     3.9,    38.0)
+2022-10-01T07:10:30Z: CHRCTER ADDED  [ 1079930013] luis1236810          (   -4.0,     4.1,    38.0)
+2022-10-01T07:10:30Z: CHRCTER ADDED  [ 3285609742] inotMrCat            (    1.0,     3.0,    38.0)
+2022-10-01T07:10:30Z: CHRCTER ADDED  [ 2638058990] Misael2000y          (   -4.0,     3.0,   -28.0)
+2022-10-01T07:10:30Z: CHRCTER ADDED  [ 1850248818] torivio1542          (    1.0,     3.7,   -28.0)
+2022-10-01T07:10:40Z: PLAYER CHATTED [ 1850248818] torivio1542          (    2.5,     3.7,   -28.8)
+  por #######
+2022-10-01T07:10:51Z: PLAYER CHATTED [ 2638058990] Misael2000y          (    0.9,     3.0,   -30.5)
+  vamos a otro tren
+2022-10-01T07:11:00Z: CHRCTER ADDED  [ 1506037124] gucciboi20123        (   -4.0,     3.9,   -28.0)
+2022-10-01T07:11:00Z: CHRCTER ADDED  [ 1079930013] luis1236810          (    1.0,     4.1,    38.0)
+2022-10-01T07:11:04Z: CHRCTER ADDED  [ 3724318604] Sashy0111            ( -417.0,   163.2,   171.0)
+2022-10-01T07:11:14Z: PLAYER CHATTED [ 1850248818] torivio1542          (   29.5,     3.8,    -6.9)
+  fuaa
+2022-10-01T07:11:17Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   46.7,     3.7,    -6.9)
+  ya se fue
+2022-10-01T07:11:30Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   42.5,     3.7,   -36.0)
+  turbo
+2022-10-01T07:11:35Z: PLAYER CHATTED [ 1850248818] torivio1542          (   34.5,     3.8,   -36.0)
+  turbo pa
+2022-10-01T07:11:38Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   41.7,     3.7,   -36.0)
+  dale
+2022-10-01T07:11:40Z: CHRCTER ADDED  [ 3285609742] inotMrCat            (   -4.0,     3.0,    38.0)
+2022-10-01T07:11:48Z: CHRCTER ADDED  [ 1079930013] luis1236810          (   -4.0,     4.1,   -28.0)
+2022-10-01T07:11:52Z: PLAYER CHATTED [ 1850248818] torivio1542          (   62.7,     3.9,    70.7)
+  nooo
+2022-10-01T07:11:56Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   55.4,   -41.9,    84.8)
+  jajaja 
+2022-10-01T07:11:56Z: CHRCTER ADDED  [ 1850248818] torivio1542          (   -4.0,     3.7,   -28.0)
+2022-10-01T07:11:56Z: CHRCTER ADDED  [ 2638058990] Misael2000y          (    1.0,     3.0,    38.0)
+2022-10-01T07:11:57Z: CHRCTER ADDED  [ 3724318604] Sashy0111            ( -417.0,   163.2,   171.0)
+2022-10-01T07:12:02Z: PLAYER CHATTED [ 1850248818] torivio1542          (   -4.0,     3.7,   -28.0)
+  pvt@
+2022-10-01T07:12:08Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   19.3,     3.0,   -25.4)
+  si literal 
+2022-10-01T07:12:34Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   20.8,     3.0,   -21.7)
+  me ####
+2022-10-01T07:12:37Z: PLAYER CHATTED [ 1850248818] torivio1542          (   17.8,     3.7,   -30.4)
+  se puede matar
+2022-10-01T07:12:40Z: PLAYER CHATTED [ 3898253502] Chilahahha           (  -64.1,     3.7,   125.7)
+  hi
+2022-10-01T07:12:42Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   39.2,     3.0,   -27.9)
+  no
+2022-10-01T07:12:46Z: CHRCTER ADDED  [ 3724318604] Sashy0111            ( -417.0,   163.2,   171.0)
+2022-10-01T07:12:47Z: PLAYER CHATTED [ 1506037124] gucciboi20123        (  -83.0,     3.7,   190.9)
+  h
+2022-10-01T07:12:52Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   14.2,     3.0,   -25.0)
+  ven
+2022-10-01T07:12:55Z: PLAYER CHATTED [ 1506037124] gucciboi20123        (  -63.9,     3.7,   246.8)
+  hi
+2022-10-01T07:12:58Z: CHRCTER ADDED  [ 1079930013] luis1236810          (   -4.0,     4.1,    38.0)
+2022-10-01T07:13:01Z: PLAYER CHATTED [ 2638058990] Misael2000y          (  -28.3,     3.0,    23.8)
+  a
+2022-10-01T07:13:03Z: PLAYER CHATTED [ 3898253502] Chilahahha           ( -119.1,   -40.6,   310.7)
+  I good 
+2022-10-01T07:13:03Z: CHRCTER ADDED  [ 1506037124] gucciboi20123        (    1.0,     3.9,    38.0)
+2022-10-01T07:13:04Z: CHRCTER ADDED  [ 3898253502] Chilahahha           (    1.0,     3.0,   -28.0)
+2022-10-01T07:13:33Z: CHRCTER ADDED  [ 1079930013] luis1236810          (    1.0,     4.1,   -28.0)
+2022-10-01T07:13:34Z: CHRCTER ADDED  [ 1850248818] torivio1542          (   -4.0,     3.7,   -28.0)
+2022-10-01T07:13:40Z: PLAYER CHATTED [ 1850248818] torivio1542          (   -0.5,     3.7,   -21.7)
+  .-.
+2022-10-01T07:13:48Z: PLAYER REMOVED [ 3285609742] inotMrCat
+2022-10-01T07:14:00Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   60.3,     3.7,   -31.6)
+  valio
+2022-10-01T07:14:19Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   41.6,     3.7,   -36.0)
+  corre
+2022-10-01T07:14:26Z: PLAYER ADDED   [ 3484422426] alialabelica
+2022-10-01T07:14:28Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   63.0,     3.7,   -27.3)
+  eh no
+2022-10-01T07:14:30Z: PLAYER CHATTED [ 1850248818] torivio1542          (   56.1,     3.8,   -34.5)
+  nooo
+2022-10-01T07:14:32Z: CHRCTER ADDED  [ 2638058990] Misael2000y          (   -4.0,     3.0,   -28.0)
+2022-10-01T07:14:32Z: CHRCTER ADDED  [ 1850248818] torivio1542          (   -4.0,     3.7,    38.0)
+2022-10-01T07:14:53Z: CHRCTER ADDED  [ 1079930013] luis1236810          (   -4.0,     4.1,   -28.0)
+2022-10-01T07:14:57Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   64.1,     3.7,    56.2)
+  jajaja 
+2022-10-01T07:14:58Z: CHRCTER ADDED  [ 3484422426] alialabelica         (    1.0,     2.2,    38.0)
+2022-10-01T07:15:00Z: PLAYER CHATTED [ 1850248818] torivio1542          (   59.2,     3.8,    75.9)
+  jajaja
+2022-10-01T07:15:02Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   48.6,    -1.1,    81.4)
+  nooo
+2022-10-01T07:15:05Z: PLAYER CHATTED [ 1850248818] torivio1542          (   45.3,     3.7,    80.8)
+  nooo
+2022-10-01T07:15:10Z: CHRCTER ADDED  [ 1850248818] torivio1542          (   -4.0,     3.7,   -28.0)
+2022-10-01T07:15:11Z: CHRCTER ADDED  [ 2638058990] Misael2000y          (    1.0,     3.0,    38.0)
+2022-10-01T07:15:12Z: PLAYER CHATTED [ 2638058990] Misael2000y          (    1.0,     3.0,    38.0)
+  XD
+2022-10-01T07:15:19Z: PLAYER CHATTED [ 1850248818] torivio1542          (   33.7,     3.7,   -31.1)
+  jajaja
+2022-10-01T07:15:26Z: CHRCTER ADDED  [ 1079930013] luis1236810          (   -4.0,     4.1,   -28.0)
+2022-10-01T07:15:37Z: CHRCTER ADDED  [ 3484422426] alialabelica         (   -4.0,     2.2,   -28.0)
+2022-10-01T07:15:39Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   58.1,     3.6,    76.5)
+  jajaja 
+2022-10-01T07:15:40Z: CHRCTER ADDED  [ 1506037124] gucciboi20123        (   -4.0,     3.9,    38.0)
+2022-10-01T07:15:40Z: PLAYER CHATTED [ 1850248818] torivio1542          (   59.2,     3.7,    75.5)
+  jajaja
+2022-10-01T07:15:40Z: CHRCTER ADDED  [ 3898253502] Chilahahha           (   -4.0,     8.5,    38.0)
+2022-10-01T07:15:44Z: PLAYER REMOVED [ 3484422426] alialabelica
+2022-10-01T07:15:45Z: PLAYER ADDED   [ 3695086823] peshochin
+2022-10-01T07:15:56Z: PLAYER REMOVED [ 3695086823] peshochin
+2022-10-01T07:16:00Z: PLAYER CHATTED [ 2638058990] Misael2000y          (  -45.5,     3.7,   175.1)
+  esta es la buena 
+2022-10-01T07:16:03Z: PLAYER ADDED   [  931702354] beni_wipol1983
+2022-10-01T07:16:05Z: PLAYER CHATTED [ 1850248818] torivio1542          (  -64.1,     3.8,   194.5)
+  see
+2022-10-01T07:16:16Z: CHRCTER ADDED  [ 3898253502] Chilahahha           (   -4.0,     3.0,   -28.0)
+2022-10-01T07:16:16Z: CHRCTER ADDED  [ 1506037124] gucciboi20123        (    1.0,     7.8,    38.0)
+2022-10-01T07:16:41Z: PLAYER CHATTED [ 1850248818] torivio1542          (  -81.5,    19.9,   330.0)
+  uff casi
+2022-10-01T07:16:50Z: PLAYER CHATTED [ 2638058990] Misael2000y          ( -105.5,    24.9,   310.9)
+  si bro
+2022-10-01T07:17:05Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   -4.0,     4.2,    38.0)
+2022-10-01T07:17:39Z: CHRCTER ADDED  [  931702354] beni_wipol1983       (    1.0,     2.4,    38.0)
+2022-10-01T07:17:43Z: PLAYER CHATTED [ 1850248818] torivio1542          (  -37.8,    36.4,   356.9)
+  fuaa
+2022-10-01T07:17:51Z: PLAYER CHATTED [ 1506037124] gucciboi20123        (  -43.9,     3.7,   175.1)
+  hilo
+2022-10-01T07:17:55Z: PLAYER CHATTED [ 2638058990] Misael2000y          (  -65.6,    38.0,   299.2)
+  turbo
+2022-10-01T07:18:13Z: CHRCTER ADDED  [ 1506037124] gucciboi20123        (    1.0,     3.9,   -28.0)
+2022-10-01T07:18:13Z: CHRCTER ADDED  [ 3898253502] Chilahahha           (   -4.0,     3.0,   -28.0)
+2022-10-01T07:18:13Z: PLAYER CHATTED [ 1850248818] torivio1542          (  -65.6,    83.6,    36.7)
+  nitro
+2022-10-01T07:18:17Z: CHRCTER ADDED  [ 1079930013] luis1236810          (    1.0,     4.1,    38.0)
+2022-10-01T07:18:18Z: PLAYER CHATTED [ 3898253502] Chilahahha           (   -4.0,     3.0,   -28.0)
+  D:
+2022-10-01T07:18:27Z: PLAYER CHATTED [ 2638058990] Misael2000y          (  -37.9,    83.7,    22.3)
+  los puerco
+2022-10-01T07:18:38Z: PLAYER CHATTED [ 1506037124] gucciboi20123        (   47.3,     3.9,   -30.6)
+  Bye
+2022-10-01T07:18:41Z: PLAYER CHATTED [ 3898253502] Chilahahha           (   41.6,     3.7,   -36.0)
+  Ok
+2022-10-01T07:18:45Z: PLAYER CHATTED [ 3898253502] Chilahahha           (   41.6,     3.6,   -36.0)
+  Bye
+2022-10-01T07:18:47Z: PLAYER REMOVED [ 3898253502] Chilahahha
+2022-10-01T07:18:51Z: PLAYER ADDED   [ 3895328437] rokiownr
+2022-10-01T07:18:59Z: PLAYER CHATTED [ 2638058990] Misael2000y          (  -19.3,    83.7,    -4.1)
+  lento
+2022-10-01T07:19:04Z: PLAYER CHATTED [ 1850248818] torivio1542          (    0.0,    83.8,    -4.1)
+  nooo
+2022-10-01T07:19:05Z: PLAYER CHATTED [ 2638058990] Misael2000y          (    8.6,    83.7,    -4.1)
+  o rápido 
+2022-10-01T07:19:09Z: PLAYER REMOVED [ 1506037124] gucciboi20123
+2022-10-01T07:19:09Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   27.0,    83.7,    -4.1)
+  ##
+2022-10-01T07:19:16Z: PLAYER CHATTED [ 1850248818] torivio1542          (   48.0,    83.8,    -3.9)
+  rapido
+2022-10-01T07:19:20Z: PLAYER CHATTED [ 2638058990] Misael2000y          (   70.2,    83.7,    -4.1)
+  ok
+2022-10-01T07:19:26Z: PLAYER CHATTED [ 1850248818] torivio1542          (  117.4,    83.8,    -3.9)
+  hay viene
+2022-10-01T07:19:39Z: CHRCTER ADDED  [ 3895328437] rokiownr             (    1.0,     4.4,   -28.0)
+2022-10-01T07:20:01Z: PLAYER CHATTED [ 1850248818] torivio1542          (  334.6,    40.3,   160.2)
+  uy
+2022-10-01T07:20:14Z: PLAYER ADDED   [ 3663379388] Miutone_1
+2022-10-01T07:20:18Z: PLAYER CHATTED [ 2638058990] Misael2000y          (  319.2,    39.7,    68.3)
+  que 
+2022-10-01T07:20:20Z: PLAYER CHATTED [ 1850248818] torivio1542          (  321.1,    40.3,    74.3)
+  noooo
+2022-10-01T07:20:21Z: CHRCTER ADDED  [  931702354] beni_wipol1983       (   -4.0,     5.0,    38.0)
+2022-10-01T07:20:22Z: PLAYER CHATTED [ 2638058990] Misael2000y          (  319.2,    39.6,    68.3)
+  a ya
+2022-10-01T07:20:28Z: PLAYER REMOVED [ 3663379388] Miutone_1
+2022-10-01T07:20:30Z: PLAYER CHATTED [ 2638058990] Misael2000y          (  318.4,    39.6,    68.4)
+  pasamos en rojo
+2022-10-01T07:20:32Z: PLAYER REMOVED [    1630228] VisualPlugin

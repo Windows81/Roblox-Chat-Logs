@@ -1,0 +1,556 @@
+[    1630228] : [ 7058417928] Mexican border sim (UPDATE!!!) - 5070b332-6561-4753-aaf4-33220a504984
+2022-09-17T08:46:43Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-09-17T08:46:43Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-09-17T08:46:43Z: PLAYER ADDED   [  262944499] YesMySon_thepolak2
+2022-09-17T08:46:43Z: PLAYER ADDED   [ 2405884511] LizForgotAgain
+2022-09-17T08:46:43Z: PLAYER ADDED   [  568859782] highteletubbies
+2022-09-17T08:46:43Z: PLAYER ADDED   [ 1778585822] TheBuffetMate
+2022-09-17T08:46:43Z: PLAYER ADDED   [  149135483] KBHunlai
+2022-09-17T08:46:43Z: PLAYER ADDED   [  114580561] DiamondGamerKing951
+2022-09-17T08:46:43Z: PLAYER ADDED   [ 2278156279] papppsy
+2022-09-17T08:46:43Z: PLAYER ADDED   [  170389259] BeausRBLX
+2022-09-17T08:46:43Z: PLAYER ADDED   [ 1993885728] CAVMOTCreations
+2022-09-17T08:46:45Z: PLAYER ADDED   [ 3182593889] AtomHunter592
+2022-09-17T08:47:02Z: PLAYER CHATTED [ 2405884511] LizForgotAgain      
+  you need to get to the long patch ooooff grasss
+2022-09-17T08:47:13Z: PLAYER CHATTED [  568859782] highteletubbies     
+  be carefulk
+2022-09-17T08:47:18Z: PLAYER CHATTED [  568859782] highteletubbies     
+  truck #### #
+2022-09-17T08:47:23Z: PLAYER CHATTED [  568859782] highteletubbies      (  319.0,    25.1,   985.0)
+  ###########
+2022-09-17T08:47:26Z: PLAYER CHATTED [  568859782] highteletubbies      (  319.0,    25.1,   985.0)
+  bro
+2022-09-17T08:47:29Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  311.6,    25.1,   988.0)
+  IMAO
+2022-09-17T08:47:30Z: PLAYER CHATTED [  568859782] highteletubbies      (  319.0,    25.1,   985.0)
+  dont go near truck
+2022-09-17T08:47:33Z: PLAYER CHATTED [  568859782] highteletubbies      (  319.0,    25.1,   985.0)
+  dont fall in ####
+2022-09-17T08:47:34Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  311.6,    25.1,   988.0)
+  oooo
+2022-09-17T08:47:37Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  311.6,    25.1,   988.0)
+  alrrr
+2022-09-17T08:47:41Z: PLAYER CHATTED [  568859782] highteletubbies      (  247.3,    21.5,  1129.8)
+   its ice
+2022-09-17T08:47:42Z: CHRCTER ADDED  [ 1778585822] TheBuffetMate        (  442.5,    27.7,  -974.0)
+2022-09-17T08:47:44Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  288.9,    25.1,  1036.5)
+  fall in holes i got u
+2022-09-17T08:47:56Z: CHRCTER ADDED  [  568859782] highteletubbies      (  442.5,    27.7,  -974.0)
+2022-09-17T08:47:58Z: PLAYER CHATTED [  568859782] highteletubbies      (  442.5,    25.5,  -974.0)
+  oh
+2022-09-17T08:48:02Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  278.5,    13.6,  1372.4)
+  IMAO
+2022-09-17T08:48:08Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  278.3,    14.2,  1372.9)
+  that was amazing
+2022-09-17T08:48:11Z: CHRCTER ADDED  [  114580561] DiamondGamerKing951  (  442.5,    27.7,  -974.0)
+2022-09-17T08:48:13Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  442.5,    27.7,  -974.0)
+  oh
+2022-09-17T08:48:15Z: PLAYER CHATTED [  568859782] highteletubbies      (  215.1,    25.1,  -711.1)
+  #### fudge
+2022-09-17T08:48:17Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  442.5,    27.7,  -974.0)
+  i died too..
+2022-09-17T08:48:33Z: PLAYER CHATTED [  568859782] highteletubbies      (  222.6,    25.1,  -746.8)
+  ######
+2022-09-17T08:48:37Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  391.8,    36.8,  -574.0)
+  ^
+2022-09-17T08:48:49Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  345.2,    25.3,  -361.2)
+  ur father?
+2022-09-17T08:48:58Z: PLAYER CHATTED [  568859782] highteletubbies      (  273.0,    26.9,  -454.8)
+  are u a bot
+2022-09-17T08:49:06Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  313.5,    25.4,     3.7)
+  AI activities
+2022-09-17T08:49:11Z: PLAYER CHATTED [  568859782] highteletubbies      (  273.0,    25.1,   -92.8)
+  #####
+2022-09-17T08:49:18Z: CHRCTER ADDED  [  114580561] DiamondGamerKing951  (  442.5,    27.7,  -974.0)
+2022-09-17T08:49:19Z: CHRCTER ADDED  [  170389259] BeausRBLX            (  442.5,    36.5,  -974.0)
+2022-09-17T08:49:20Z: CHRCTER ADDED  [ 3182593889] AtomHunter592        (  442.5,    27.7,  -974.0)
+2022-09-17T08:49:23Z: PLAYER CHATTED [  568859782] highteletubbies      (  326.2,    26.5,    13.2)
+  IMAOOOOOOOOOOO
+2022-09-17T08:49:32Z: CHRCTER ADDED  [  262944499] YesMySon_thepolak2   (  442.5,    27.7,  -974.0)
+2022-09-17T08:49:33Z: PLAYER ADDED   [ 1780613271] SH_0Y0
+2022-09-17T08:49:40Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  258.6,    25.1,  -599.3)
+  wya
+2022-09-17T08:49:42Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  258.6,    25.1,  -599.3)
+  i uh
+2022-09-17T08:49:44Z: PLAYER ADDED   [ 3054591233] luciferdawnbringer
+2022-09-17T08:49:45Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  258.6,    25.1,  -599.3)
+  died twice
+2022-09-17T08:49:47Z: PLAYER CHATTED [  568859782] highteletubbies      ( -175.2,    25.4,   115.3)
+  I SAW
+2022-09-17T08:49:52Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  180.9,    28.3,  -469.4)
+  IMAO
+2022-09-17T08:49:52Z: PLAYER CHATTED [  568859782] highteletubbies      ( -179.4,    25.5,   116.4)
+  im by the spoider
+2022-09-17T08:49:56Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  149.4,    26.1,  -388.3)
+  alrr
+2022-09-17T08:50:00Z: CHRCTER ADDED  [ 1778585822] TheBuffetMate        (  442.5,    27.7,  -974.0)
+2022-09-17T08:50:02Z: PLAYER CHATTED [ 3054591233] luciferdawnbringer   (  392.9,    31.0,  -936.1)
+  hiiii
+2022-09-17T08:50:03Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  442.5,    27.7,  -974.0)
+2022-09-17T08:50:07Z: PLAYER CHATTED [ 1780613271] SH_0Y0               (  329.3,    26.2,  -880.6)
+  yooo
+2022-09-17T08:50:17Z: PLAYER CHATTED [ 3054591233] luciferdawnbringer   (  327.8,    26.3,  -881.5)
+  i know a way across
+2022-09-17T08:50:19Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  ( -278.8,    25.1,     0.3)
+  hello
+2022-09-17T08:50:21Z: PLAYER CHATTED [ 1780613271] SH_0Y0               (  330.7,    26.3,  -876.9)
+  oki
+2022-09-17T08:50:33Z: CHRCTER ADDED  [  149135483] KBHunlai             (  442.5,    27.7,  -974.0)
+2022-09-17T08:50:35Z: PLAYER REMOVED [  149135483] KBHunlai
+2022-09-17T08:51:22Z: PLAYER REMOVED [ 2278156279] papppsy
+2022-09-17T08:51:28Z: CHRCTER ADDED  [  262944499] YesMySon_thepolak2   (  442.5,    27.7,  -974.0)
+2022-09-17T08:51:29Z: PLAYER REMOVED [ 1780613271] SH_0Y0
+2022-09-17T08:51:31Z: PLAYER CHATTED [ 3054591233] luciferdawnbringer   ( -805.0,    33.2,    83.4)
+  oh the walls down
+2022-09-17T08:51:33Z: PLAYER CHATTED [ 3054591233] luciferdawnbringer   ( -805.0,    33.2,    83.4)
+  ez
+2022-09-17T08:51:36Z: CHRCTER ADDED  [  170389259] BeausRBLX            (  442.5,    27.7,  -974.0)
+2022-09-17T08:51:52Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  189.4,    19.0,  1587.9)
+  WHAT
+2022-09-17T08:51:52Z: CHRCTER ADDED  [  114580561] DiamondGamerKing951  (  442.5,    27.7,  -974.0)
+2022-09-17T08:51:53Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  442.5,    27.7,  -974.0)
+  #####
+2022-09-17T08:51:54Z: PLAYER CHATTED [  568859782] highteletubbies      (  220.9,    29.3,  1630.2)
+  NOOOOOOOOOOOOOOOOOOOOOOO
+2022-09-17T08:51:59Z: PLAYER REMOVED [  170389259] BeausRBLX
+2022-09-17T08:51:59Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  420.7,    25.1,  -948.5)
+  THATS ########
+2022-09-17T08:51:59Z: PLAYER CHATTED [  568859782] highteletubbies      (  220.9,    29.3,  1630.2)
+  u have to look rly close
+2022-09-17T08:52:04Z: PLAYER CHATTED [  568859782] highteletubbies      (  220.9,    29.3,  1630.2)
+  IMAOOOOOOO
+2022-09-17T08:52:06Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  363.6,    27.5,  -900.6)
+  its cause im bean fr
+2022-09-17T08:52:11Z: CHRCTER ADDED  [ 1778585822] TheBuffetMate        (  442.5,    27.7,  -974.0)
+2022-09-17T08:52:19Z: PLAYER REMOVED [ 1778585822] TheBuffetMate
+2022-09-17T08:52:47Z: PLAYER CHATTED [  568859782] highteletubbies      (  220.9,    29.3,  1630.2)
+  REAL
+2022-09-17T08:53:36Z: PLAYER CHATTED [  568859782] highteletubbies      (  222.9,    28.9,  1630.7)
+  momma
+2022-09-17T08:53:58Z: PLAYER CHATTED [ 3182593889] AtomHunter592        (  653.5,    26.9,   732.4)
+  first try
+2022-09-17T08:54:03Z: CHRCTER ADDED  [  262944499] YesMySon_thepolak2   (  442.5,    27.7,  -974.0)
+2022-09-17T08:54:05Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  202.4,    25.0,  1613.7)
+  I #### IT
+2022-09-17T08:54:07Z: PLAYER CHATTED [  568859782] highteletubbies      (  226.6,    27.5,  1631.3)
+  WE MADE IT
+2022-09-17T08:54:11Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  244.0,    26.9,  1639.5)
+  YESS
+2022-09-17T08:54:14Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  243.6,    26.9,  1638.3)
+  FREEDOM
+2022-09-17T08:54:21Z: PLAYER CHATTED [  568859782] highteletubbies      (  425.3,    26.9,  1642.7)
+  ####
+2022-09-17T08:54:30Z: PLAYER CHATTED [ 3054591233] luciferdawnbringer   (  416.1,    26.9,  1647.5)
+  ######################
+2022-09-17T08:54:33Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  421.0,    26.9,  1645.5)
+  oh
+2022-09-17T08:54:34Z: CHRCTER ADDED  [ 3182593889] AtomHunter592        (  442.5,    27.7,  -974.0)
+2022-09-17T08:54:37Z: PLAYER CHATTED [  568859782] highteletubbies      (  422.7,    31.6,  1649.0)
+  ###########
+2022-09-17T08:54:40Z: PLAYER CHATTED [  568859782] highteletubbies      (  422.7,    31.6,  1649.0)
+  SUGA DADDA
+2022-09-17T08:54:46Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  426.2,    26.9,  1646.3)
+  ai papi
+2022-09-17T08:54:49Z: PLAYER CHATTED [ 3054591233] luciferdawnbringer   (  419.3,    26.9,  1647.2)
+  ##############
+2022-09-17T08:54:53Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  425.6,    26.9,  1648.1)
+  ################
+2022-09-17T08:55:00Z: PLAYER CHATTED [  568859782] highteletubbies      (  419.6,    26.9,  1657.6)
+  come we go to mcdonalds
+2022-09-17T08:55:01Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  425.3,    26.9,  1647.8)
+  ill do a lil dance for u
+2022-09-17T08:55:31Z: PLAYER CHATTED [  568859782] highteletubbies      (  419.6,    26.9,  1657.6)
+  ur not real
+2022-09-17T08:55:35Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  420.9,    26.9,  1654.6)
+  what
+2022-09-17T08:55:37Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  420.9,    26.9,  1654.6)
+  yes i am
+2022-09-17T08:55:39Z: PLAYER CHATTED [  568859782] highteletubbies      (  423.9,    26.9,  1672.6)
+  LOLLLL
+2022-09-17T08:55:42Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  420.9,    26.9,  1654.6)
+  i think
+2022-09-17T08:55:45Z: PLAYER CHATTED [  568859782] highteletubbies      (  423.9,    26.9,  1672.6)
+  tht dance was amazing
+2022-09-17T08:55:48Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  427.9,    26.9,  1667.9)
+  #####
+2022-09-17T08:56:00Z: PLAYER ADDED   [ 1796174354] wephiz
+2022-09-17T08:56:01Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  430.0,    28.5,  1793.9)
+  waittt
+2022-09-17T08:56:16Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  430.0,    28.5,  1892.8)
+  vroooom
+2022-09-17T08:56:20Z: PLAYER ADDED   [  112809386] wiqers
+2022-09-17T08:56:24Z: PLAYER CHATTED [ 3054591233] luciferdawnbringer   (  432.6,    28.2,  3568.7)
+  yayyyy
+2022-09-17T08:56:27Z: PLAYER ADDED   [  688328173] ESsugarRush
+2022-09-17T08:56:44Z: PLAYER ADDED   [  295305895] TauritDj
+2022-09-17T08:57:11Z: PLAYER REMOVED [ 2405884511] LizForgotAgain
+2022-09-17T08:57:15Z: PLAYER REMOVED [  262944499] YesMySon_thepolak2
+2022-09-17T08:57:22Z: CHRCTER ADDED  [  112809386] wiqers               (  442.5,    27.7,  -974.0)
+2022-09-17T08:57:23Z: PLAYER CHATTED [  568859782] highteletubbies      (  533.5,    28.9,  3597.1)
+  wYA
+2022-09-17T08:57:26Z: PLAYER ADDED   [  107640551] Juandiego72
+2022-09-17T08:57:28Z: PLAYER CHATTED [ 3054591233] luciferdawnbringer   (  434.7,    28.1,  3578.0)
+  hi order pls
+2022-09-17T08:57:30Z: CHRCTER ADDED  [  688328173] ESsugarRush          (  442.5,    36.5,  -974.0)
+2022-09-17T08:57:36Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  419.4,    28.5,  3129.8)
+  pullin up wit my whip
+2022-09-17T08:57:57Z: PLAYER CHATTED [  568859782] highteletubbies      (  552.1,    28.9,  3579.5)
+  IMAOOO
+2022-09-17T08:57:57Z: PLAYER CHATTED [ 3182593889] AtomHunter592        (  -53.4,    21.5,  1408.4)
+  so now that i've crossed where do i find all the jobs 
+2022-09-17T08:58:02Z: CHRCTER ADDED  [ 3182593889] AtomHunter592        (  442.5,    27.7,  -974.0)
+2022-09-17T08:58:09Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  427.4,    28.5,  3409.4)
+  almost there
+2022-09-17T08:58:09Z: PLAYER REMOVED [  295305895] TauritDj
+2022-09-17T08:58:17Z: PLAYER ADDED   [ 1744769306] Dragas2022
+2022-09-17T08:58:31Z: PLAYER ADDED   [ 3866425717] SxzyyIs_Lazxxyy26
+2022-09-17T08:58:37Z: PLAYER CHATTED [ 3182593889] AtomHunter592        (  230.9,    26.1,  -420.3)
+  there are none here, why do you think i cross
+2022-09-17T08:58:39Z: PLAYER REMOVED [ 1993885728] CAVMOTCreations
+2022-09-17T08:58:51Z: PLAYER CHATTED [ 1744769306] Dragas2022           (  375.9,    32.3,  -956.3)
+  .
+2022-09-17T08:59:02Z: PLAYER CHATTED [ 1744769306] Dragas2022           (  349.3,    34.6,  -949.5)
+  uh oke
+2022-09-17T08:59:11Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  472.3,    29.5,  3584.7)
+  wyaaa
+2022-09-17T08:59:19Z: PLAYER CHATTED [  568859782] highteletubbies      (  548.2,    28.9,  3594.8)
+  TURN AROUND
+2022-09-17T08:59:22Z: PLAYER REMOVED [ 3866425717] SxzyyIs_Lazxxyy26
+2022-09-17T08:59:26Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  425.4,    29.5,  3551.2)
+  OOOOOOO
+2022-09-17T08:59:26Z: PLAYER CHATTED [ 3182593889] AtomHunter592        (  -45.0,    25.1,   117.3)
+  trying to become a lawn worker or something
+2022-09-17T08:59:26Z: PLAYER CHATTED [ 1744769306] Dragas2022           (  427.6,    28.0,  3493.0)
+  wth
+2022-09-17T08:59:49Z: PLAYER CHATTED [  568859782] highteletubbies      (  512.7,    28.1,  3613.3)
+  ####
+2022-09-17T08:59:50Z: CHRCTER ADDED  [  107640551] Juandiego72          (  442.5,    27.7,  -974.0)
+2022-09-17T08:59:52Z: PLAYER CHATTED [  568859782] highteletubbies      (  533.6,    28.1,  3605.4)
+  BRO
+2022-09-17T08:59:58Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  516.2,    28.5,  3612.0)
+  IMAOOO
+2022-09-17T08:59:59Z: PLAYER CHATTED [  107640551] Juandiego72          (  455.6,   115.6,  3013.1)
+  omg
+2022-09-17T08:59:59Z: PLAYER ADDED   [ 3866425717] SxzyyIs_Lazxxyy26
+2022-09-17T09:00:01Z: PLAYER CHATTED [  568859782] highteletubbies      (  508.9,    28.1,  3622.3)
+  BRO
+2022-09-17T09:00:08Z: PLAYER CHATTED [  107640551] Juandiego72          (  426.3,    28.0,  3551.2)
+  thank u
+2022-09-17T09:00:11Z: PLAYER CHATTED [ 3054591233] luciferdawnbringer   (  553.6,    28.1,  3600.5)
+  weeeee
+2022-09-17T09:00:16Z: PLAYER REMOVED [ 3866425717] SxzyyIs_Lazxxyy26
+2022-09-17T09:00:25Z: CHRCTER ADDED  [  112809386] wiqers               (  442.5,    27.7,  -974.0)
+2022-09-17T09:00:30Z: PLAYER ADDED   [ 3866425717] SxzyyIs_Lazxxyy26
+2022-09-17T09:00:31Z: CHRCTER ADDED  [ 1796174354] wephiz               (  442.5,    36.5,  -974.0)
+2022-09-17T09:00:37Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  527.9,    28.5,  3611.8)
+  whoops
+2022-09-17T09:00:46Z: PLAYER ADDED   [  174020797] bananman9
+2022-09-17T09:00:48Z: PLAYER CHATTED [  568859782] highteletubbies      (  571.3,    28.1,  3587.2)
+  OK WE GO IN MCDONALDS
+2022-09-17T09:00:54Z: PLAYER REMOVED [  107640551] Juandiego72
+2022-09-17T09:00:55Z: PLAYER REMOVED [ 3054591233] luciferdawnbringer
+2022-09-17T09:00:56Z: PLAYER REMOVED [ 1796174354] wephiz
+2022-09-17T09:01:05Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  415.8,    28.2,  3586.5)
+  brother
+2022-09-17T09:01:11Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  415.8,    28.2,  3586.5)
+  ive been searching for you..
+2022-09-17T09:01:12Z: PLAYER CHATTED [  568859782] highteletubbies      (  447.4,     8.7,  3572.9)
+  IMAOOOO COME
+2022-09-17T09:01:15Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  415.8,    28.2,  3586.5)
+  its been years
+2022-09-17T09:01:20Z: CHRCTER ADDED  [  688328173] ESsugarRush          (  442.5,    27.7,  -974.0)
+2022-09-17T09:01:21Z: CHRCTER ADDED  [  174020797] bananman9            (  442.5,    36.5,  -974.0)
+2022-09-17T09:01:25Z: PLAYER REMOVED [  112809386] wiqers
+2022-09-17T09:01:28Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  427.9,    28.0,  3555.7)
+  WHERE
+2022-09-17T09:01:29Z: PLAYER REMOVED [  174020797] bananman9
+2022-09-17T09:01:32Z: PLAYER CHATTED [  568859782] highteletubbies      (  446.6,     9.6,  3575.1)
+  go in the bathroom
+2022-09-17T09:01:33Z: CHRCTER ADDED  [ 1744769306] Dragas2022           (  442.5,    27.7,  -974.0)
+2022-09-17T09:01:36Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  430.9,    28.3,  3563.7)
+  oo
+2022-09-17T09:01:42Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  449.8,     9.3,  3571.5)
+  ...
+2022-09-17T09:01:45Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  449.8,     9.8,  3571.5)
+  uh oh
+2022-09-17T09:01:45Z: PLAYER CHATTED [  568859782] highteletubbies      (  447.6,     8.7,  3566.2)
+  the backrooms.
+2022-09-17T09:01:51Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  444.0,     8.7,  3564.2)
+  ###################
+2022-09-17T09:01:57Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  445.9,     8.7,  3559.2)
+  cat 
+2022-09-17T09:02:01Z: PLAYER CHATTED [  568859782] highteletubbies      (  450.1,     8.7,  3449.2)
+  there is no way out btw
+2022-09-17T09:02:04Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  447.8,     8.7,  3522.4)
+  ...
+2022-09-17T09:02:12Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  442.2,     8.7,  3454.3)
+  sure there is..
+2022-09-17T09:02:16Z: PLAYER CHATTED [  568859782] highteletubbies      (  447.0,     8.7,  3461.0)
+  IMAOOOOOOO
+2022-09-17T09:02:29Z: CHRCTER ADDED  [ 3866425717] SxzyyIs_Lazxxyy26    (  442.5,    27.7,  -974.0)
+2022-09-17T09:02:32Z: CHRCTER ADDED  [  688328173] ESsugarRush          (  442.5,    27.7,  -974.0)
+2022-09-17T09:02:34Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  449.7,     8.7,  3454.4)
+  i thought i got lost already
+2022-09-17T09:02:46Z: PLAYER CHATTED [  568859782] highteletubbies      (  446.8,     8.7,  3441.7)
+  #####
+2022-09-17T09:03:18Z: PLAYER CHATTED [ 1744769306] Dragas2022           (  126.9,  1039.6,  -934.1)
+  zenius
+2022-09-17T09:03:30Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  534.5,     8.7,  3454.1)
+  wait im actually lost
+2022-09-17T09:03:32Z: PLAYER CHATTED [ 1744769306] Dragas2022           (  126.9,  1039.6,  -934.1)
+  no
+2022-09-17T09:03:40Z: PLAYER REMOVED [ 3866425717] SxzyyIs_Lazxxyy26
+2022-09-17T09:03:56Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  454.3,     8.7,  3450.3)
+  oh
+2022-09-17T09:04:00Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  451.1,     8.7,  3439.0)
+  hello
+2022-09-17T09:04:16Z: PLAYER CHATTED [  568859782] highteletubbies      (  449.4,     8.7,  3437.7)
+  HELLO
+2022-09-17T09:04:24Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  451.4,     8.7,  3438.8)
+  HII
+2022-09-17T09:04:24Z: PLAYER CHATTED [  568859782] highteletubbies      (  446.9,     8.7,  3439.2)
+  we stuck downm here
+2022-09-17T09:04:31Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  451.4,     8.7,  3438.8)
+  no.
+2022-09-17T09:04:34Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  451.4,     8.7,  3438.8)
+  i refuse!
+2022-09-17T09:04:39Z: PLAYER CHATTED [  568859782] highteletubbies      (  447.3,     8.7,  3440.6)
+  cat help get out
+2022-09-17T09:04:41Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  451.4,     8.7,  3438.8)
+  with the power of friendship!
+2022-09-17T09:04:46Z: PLAYER CHATTED [  568859782] highteletubbies      (  447.0,     8.7,  3549.0)
+  hes dead
+2022-09-17T09:04:48Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  443.5,     8.7,  3547.2)
+  oh
+2022-09-17T09:04:53Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  443.5,     8.7,  3547.2)
+  yea nvm we stuck
+2022-09-17T09:04:55Z: PLAYER CHATTED [  568859782] highteletubbies      (  444.3,     8.7,  3562.2)
+  i have no hope
+2022-09-17T09:04:58Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  443.8,     8.7,  3553.4)
+  ##########
+2022-09-17T09:04:59Z: PLAYER REMOVED [  688328173] ESsugarRush
+2022-09-17T09:05:01Z: PLAYER CHATTED [  568859782] highteletubbies      (  444.3,     8.7,  3562.2)
+  fr
+2022-09-17T09:05:05Z: PLAYER CHATTED [  568859782] highteletubbies      (  444.3,     8.7,  3562.2)
+  how u die as cat
+2022-09-17T09:05:08Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  443.8,     8.7,  3553.4)
+  bro shoulda just healed 
+2022-09-17T09:05:08Z: PLAYER CHATTED [  568859782] highteletubbies      (  444.3,     8.7,  3562.2)
+  dont cat have 9 live?
+2022-09-17T09:05:12Z: PLAYER CHATTED [  568859782] highteletubbies      (  444.3,     8.7,  3562.2)
+  real
+2022-09-17T09:05:14Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  443.8,     8.7,  3553.4)
+  yea fr
+2022-09-17T09:05:15Z: PLAYER CHATTED [  568859782] highteletubbies      (  444.3,     8.7,  3562.2)
+  sage heal 
+2022-09-17T09:05:21Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  443.8,     8.7,  3553.4)
+  #################
+2022-09-17T09:05:22Z: PLAYER CHATTED [  568859782] highteletubbies      (  444.3,     8.7,  3562.2)
+  we need chmaber tp to get out
+2022-09-17T09:05:25Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  443.8,     8.7,  3553.4)
+  fr
+2022-09-17T09:05:30Z: PLAYER CHATTED [  568859782] highteletubbies      (  444.3,     8.7,  3562.2)
+  brim ult
+2022-09-17T09:05:32Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  443.8,     8.7,  3553.4)
+  sage wall would be good
+2022-09-17T09:05:37Z: CHRCTER ADDED  [ 1744769306] Dragas2022           (  442.5,    27.7,  -974.0)
+2022-09-17T09:05:37Z: PLAYER CHATTED [ 1744769306] Dragas2022           (  442.5,    27.7,  -974.0)
+  AH SH
+2022-09-17T09:05:38Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  443.8,     8.7,  3553.4)
+  OMG
+2022-09-17T09:05:38Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  443.8,     8.7,  3553.4)
+  yes
+2022-09-17T09:05:41Z: PLAYER CHATTED [  568859782] highteletubbies      (  444.3,     8.7,  3562.2)
+  omg
+2022-09-17T09:05:47Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  443.9,     8.7,  3553.0)
+  brim ult the mcdonalds
+2022-09-17T09:05:50Z: PLAYER CHATTED [  568859782] highteletubbies      (  445.9,     8.7,  3546.2)
+  what hte
+2022-09-17T09:05:54Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  442.9,     8.7,  3548.7)
+  god?!
+2022-09-17T09:05:58Z: PLAYER CHATTED [  568859782] highteletubbies      (  425.0,    10.1,  3457.8)
+  GODIMAOO
+2022-09-17T09:06:05Z: PLAYER CHATTED [  568859782] highteletubbies      (  414.6,     8.7,  3425.2)
+  he gone
+2022-09-17T09:06:08Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  442.8,     8.7,  3446.7)
+  god whered u go.........................
+2022-09-17T09:06:17Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  378.3,     8.7,  3472.1)
+  GOD
+2022-09-17T09:06:22Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  378.3,     8.7,  3472.1)
+  wheres my money
+2022-09-17T09:06:35Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  376.9,     8.7,  3470.4)
+  ##### owes me ###### bucks
+2022-09-17T09:06:36Z: PLAYER CHATTED [  568859782] highteletubbies      (  368.9,     8.7,  3466.9)
+  we stuck help
+2022-09-17T09:06:51Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  374.8,     8.7,  3469.2)
+  omg
+2022-09-17T09:06:56Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  374.8,     8.7,  3469.2)
+  its an honor
+2022-09-17T09:07:04Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  374.8,     8.7,  3469.2)
+  ill do a lil dance for u ;)
+2022-09-17T09:07:04Z: PLAYER CHATTED [  568859782] highteletubbies      (  366.8,    12.4,  3471.4)
+  are u real?
+2022-09-17T09:07:07Z: PLAYER CHATTED [  568859782] highteletubbies      (  366.8,    12.4,  3471.4)
+  LOLLLLLLL
+2022-09-17T09:07:17Z: PLAYER CHATTED [  568859782] highteletubbies      (  369.8,     8.7,  3471.4)
+  WOW
+2022-09-17T09:07:17Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  417.3,    20.7,  3531.0)
+  WEEEEEEEEEEEEEEEEEEEE
+2022-09-17T09:07:20Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  484.8,    20.7,  3516.9)
+  L
+2022-09-17T09:07:23Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  672.9,    23.9,  3502.1)
+  god likes me more
+2022-09-17T09:07:24Z: PLAYER CHATTED [  568859782] highteletubbies      (  369.8,     8.7,  3471.4)
+  yall done left me
+2022-09-17T09:07:33Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  467.1,    27.0,  3517.6)
+  thank u father
+2022-09-17T09:08:03Z: PLAYER CHATTED [  568859782] highteletubbies      (  401.9,    26.9,  3519.1)
+  thank u god
+2022-09-17T09:08:05Z: PLAYER ADDED   [ 1860563858] bellamy2054
+2022-09-17T09:08:13Z: PLAYER ADDED   [  277491895] rolicob
+2022-09-17T09:08:33Z: PLAYER CHATTED [  568859782] highteletubbies      (  417.6,    28.5,  3420.6)
+  you are now
+2022-09-17T09:08:37Z: PLAYER ADDED   [   64059454] okakusi
+2022-09-17T09:08:37Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  425.5,    28.5,  3512.4)
+  its #####
+2022-09-17T09:08:39Z: PLAYER ADDED   [ 2653393449] koyjvv
+2022-09-17T09:08:39Z: PLAYER CHATTED [  568859782] highteletubbies      (  417.6,    28.5,  3420.6)
+  the bot cuss?
+2022-09-17T09:08:40Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  425.5,    28.5,  3512.4)
+  je sus
+2022-09-17T09:08:46Z: CHRCTER ADDED  [ 1860563858] bellamy2054          (  442.5,    39.3,  -974.0)
+2022-09-17T09:08:55Z: PLAYER CHATTED [  568859782] highteletubbies      (  417.4,    28.5,  3420.1)
+  how we jnow that,
+2022-09-17T09:08:58Z: PLAYER ADDED   [  242245903] MagicalMaster0320
+2022-09-17T09:09:13Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  413.0,    28.5,  3431.6)
+  U OUT HERE WRECKIN MY WHIP
+2022-09-17T09:09:14Z: PLAYER CHATTED [  568859782] highteletubbies      (  411.7,    28.5,  3419.3)
+  how are u talking to me if ur a bot.
+2022-09-17T09:09:17Z: PLAYER ADDED   [  110537223] JanielDackson
+2022-09-17T09:09:17Z: PLAYER CHATTED [  568859782] highteletubbies      (  411.7,    28.5,  3419.3)
+  LOLLLLLLLLLL
+2022-09-17T09:09:24Z: PLAYER ADDED   [   74597609] ReallyEvil10
+2022-09-17T09:09:33Z: PLAYER CHATTED [  568859782] highteletubbies      (  424.4,    28.5,  3424.1)
+  GI VE ME ROBUX god
+2022-09-17T09:09:40Z: CHRCTER ADDED  [  242245903] MagicalMaster0320    (  442.5,    27.7,  -974.0)
+2022-09-17T09:09:46Z: PLAYER CHATTED [  568859782] highteletubbies      (  416.3,    28.5,  3430.4)
+  urs isnt very high
+2022-09-17T09:09:49Z: PLAYER CHATTED [ 1860563858] bellamy2054          (  151.3,    26.3,  -702.3)
+  Hi
+2022-09-17T09:09:50Z: PLAYER CHATTED [  568859782] highteletubbies      (  416.2,    28.5,  3430.3)
+  no ur not u cant spell
+2022-09-17T09:09:51Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  414.3,    28.5,  3420.4)
+  113 is my lucky number
+2022-09-17T09:09:51Z: PLAYER CHATTED [ 3182593889] AtomHunter592        (  445.5,     8.7,  3505.9)
+  backrooms taco
+2022-09-17T09:09:55Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  414.2,    28.5,  3420.3)
+  its not actually
+2022-09-17T09:09:58Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  414.2,    28.5,  3420.3)
+  but it is now
+2022-09-17T09:09:59Z: PLAYER CHATTED [  568859782] highteletubbies      (  416.8,    28.5,  3431.1)
+  ## # ####
+2022-09-17T09:10:11Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  420.2,    28.5,  3420.0)
+  me personally..
+2022-09-17T09:10:14Z: PLAYER CHATTED [  568859782] highteletubbies      (  417.4,    28.5,  3424.1)
+  prime vandal?
+2022-09-17T09:10:19Z: CHRCTER ADDED  [ 1744769306] Dragas2022           (  442.5,    27.7,  -974.0)
+2022-09-17T09:10:28Z: PLAYER CHATTED [  568859782] highteletubbies      (  419.3,    28.5,  3425.9)
+  he like thor
+2022-09-17T09:10:28Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  416.8,    28.5,  3414.5)
+  reaver >>>
+2022-09-17T09:10:33Z: PLAYER CHATTED [  568859782] highteletubbies      (  419.4,    28.5,  3426.9)
+  i wanan play unrated
+2022-09-17T09:10:49Z: PLAYER CHATTED [   64059454] okakusi              (  -60.8,    29.1,  -609.0)
+  reaver is best
+2022-09-17T09:10:54Z: PLAYER ADDED   [  302960449] weirdocandywolf
+2022-09-17T09:10:55Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  428.8,    28.5,  3444.1)
+  YES
+2022-09-17T09:10:58Z: PLAYER CHATTED [  568859782] highteletubbies      (  417.2,    28.5,  3451.8)
+  not true
+2022-09-17T09:11:04Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  428.8,    28.5,  3444.0)
+  dont lie
+2022-09-17T09:11:06Z: PLAYER CHATTED [  568859782] highteletubbies      (  417.2,    28.5,  3451.8)
+  prime 2.0 was better than reaver 2.0
+2022-09-17T09:11:12Z: PLAYER CHATTED [   64059454] okakusi              ( -216.0,    32.0,  -543.4)
+  HI RIO
+2022-09-17T09:11:13Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  428.8,    28.5,  3444.0)
+  the satisfaction of hitting a headshot is just
+2022-09-17T09:11:15Z: PLAYER CHATTED [  302960449] weirdocandywolf      (  442.5,    25.5,  -974.0)
+  HI
+2022-09-17T09:11:16Z: PLAYER CHATTED [   64059454] okakusi              ( -216.0,    32.0,  -543.4)
+  NO
+2022-09-17T09:11:19Z: PLAYER CHATTED [  568859782] highteletubbies      (  417.2,    28.5,  3451.8)
+  ok true
+2022-09-17T09:11:19Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  428.8,    28.5,  3444.0)
+  ######
+2022-09-17T09:11:23Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  428.8,    28.5,  3444.0)
+  ########
+2022-09-17T09:11:24Z: PLAYER CHATTED [  302960449] weirdocandywolf      (  429.9,    25.5,  -977.3)
+  amogus??
+2022-09-17T09:11:25Z: PLAYER CHATTED [   64059454] okakusi              ( -216.0,    32.0,  -543.4)
+  origin is best
+2022-09-17T09:11:27Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  428.8,    28.5,  3444.0)
+  ###
+2022-09-17T09:11:28Z: PLAYER CHATTED [  568859782] highteletubbies      (  417.2,    28.5,  3451.8)
+  ok thats not true
+2022-09-17T09:11:29Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  428.8,    28.5,  3444.0)
+  BRO
+2022-09-17T09:11:33Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  428.8,    28.5,  3444.0)
+  origin is mid
+2022-09-17T09:11:38Z: PLAYER CHATTED [  568859782] highteletubbies      (  417.5,    28.5,  3451.7)
+  #### ######## is bester
+2022-09-17T09:11:43Z: PLAYER CHATTED [   64059454] okakusi              (   20.4,    29.4,  -613.0)
+  tree vandal is mid
+2022-09-17T09:11:43Z: PLAYER CHATTED [  242245903] MagicalMaster0320    (  185.6,    25.1,  -724.0)
+  yes
+2022-09-17T09:11:46Z: PLAYER CHATTED [  242245903] MagicalMaster0320    (  185.6,    25.1,  -724.0)
+  i agree
+2022-09-17T09:11:47Z: PLAYER CHATTED [  242245903] MagicalMaster0320    (  185.6,    25.1,  -724.0)
+  tree
+2022-09-17T09:11:49Z: PLAYER CHATTED [  242245903] MagicalMaster0320    (  185.6,    25.1,  -724.0)
+  skins
+2022-09-17T09:11:50Z: PLAYER CHATTED [  242245903] MagicalMaster0320    (  185.6,    25.1,  -724.0)
+  are
+2022-09-17T09:11:51Z: PLAYER CHATTED [  242245903] MagicalMaster0320    (  185.6,    25.1,  -724.0)
+  the
+2022-09-17T09:11:52Z: PLAYER CHATTED [  242245903] MagicalMaster0320    (  185.6,    25.1,  -724.0)
+  best
+2022-09-17T09:11:52Z: PLAYER CHATTED [  568859782] highteletubbies      (  417.5,    28.5,  3451.7)
+  gays vegenace
+2022-09-17T09:11:53Z: CHRCTER ADDED  [ 1860563858] bellamy2054          (  442.5,    27.7,  -974.0)
+2022-09-17T09:12:00Z: PLAYER CHATTED [  302960449] weirdocandywolf      (  474.5,    25.4,  -952.8)
+  why am i drinking this taco
+2022-09-17T09:12:10Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  428.8,    28.5,  3444.0)
+  tree vandal is aimbot fr
+2022-09-17T09:12:11Z: PLAYER CHATTED [ 3182593889] AtomHunter592        (  482.0,     8.7,  3529.3)
+  im lost
+2022-09-17T09:12:15Z: PLAYER CHATTED [  568859782] highteletubbies      (  417.5,    28.5,  3451.7)
+  true
+2022-09-17T09:12:15Z: PLAYER REMOVED [ 2653393449] koyjvv
+2022-09-17T09:12:16Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  428.8,    28.5,  3444.0)
+  be found
+2022-09-17T09:12:19Z: PLAYER CHATTED [ 3182593889] AtomHunter592        (  490.6,     8.7,  3491.6)
+  in the backrooms
+2022-09-17T09:12:20Z: PLAYER CHATTED [  568859782] highteletubbies      (  417.5,    28.5,  3451.7)
+  can we paly #########
+2022-09-17T09:12:24Z: PLAYER CHATTED [  114580561] DiamondGamerKing951  (  428.8,    28.5,  3444.0)
+  sure
+2022-09-17T09:12:30Z: PLAYER CHATTED [  568859782] highteletubbies      (  417.5,    28.5,  3451.7)
+  ok gangy
+2022-09-17T09:12:34Z: PLAYER CHATTED [  242245903] MagicalMaster0320    (  152.6,    26.3,  -703.3)
+  hola/hoa
+2022-09-17T09:12:37Z: PLAYER CHATTED [  242245903] MagicalMaster0320    (  151.3,    26.3,  -702.9)
+  hola
+2022-09-17T09:12:39Z: PLAYER REMOVED [  568859782] highteletubbies
+2022-09-17T09:12:39Z: CHRCTER ADDED  [  302960449] weirdocandywolf      (  442.5,    27.7,  -974.0)
+2022-09-17T09:12:40Z: PLAYER CHATTED [  302960449] weirdocandywolf      (  442.5,    27.7,  -974.0)
+  omg
+2022-09-17T09:12:40Z: PLAYER CHATTED [  242245903] MagicalMaster0320    (  151.3,    26.3,  -702.9)
+  como esta
+2022-09-17T09:12:41Z: PLAYER REMOVED [  114580561] DiamondGamerKing951
+2022-09-17T09:12:41Z: PLAYER REMOVED [ 1860563858] bellamy2054
+2022-09-17T09:12:42Z: PLAYER ADDED   [  495342263] OsmanPro100
+2022-09-17T09:12:44Z: PLAYER CHATTED [  242245903] MagicalMaster0320    (  151.3,    26.3,  -702.9)
+  ## ## ### #######
+2022-09-17T09:12:53Z: PLAYER REMOVED [    1630228] VisualPlugin

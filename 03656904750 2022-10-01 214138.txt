@@ -1,0 +1,1931 @@
+[    1630228] : [ 3656904750] Election Simulator - 86b5558f-028d-401c-bf2d-cce712a23266
+2022-10-01T21:41:38Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-10-01T21:41:38Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-10-01T21:41:38Z: PLAYER ADDED   [ 2206394281] superAbby956
+2022-10-01T21:41:38Z: PLAYER ADDED   [ 2762882849] Aedificentiup
+2022-10-01T21:41:38Z: PLAYER ADDED   [   18702747] MikaJatkosota
+2022-10-01T21:41:38Z: PLAYER ADDED   [ 1441338640] Ssabredonutss
+2022-10-01T21:41:38Z: PLAYER ADDED   [  541756837] davidiscool736437
+2022-10-01T21:41:38Z: PLAYER ADDED   [ 1101459928] javieeeeer7
+2022-10-01T21:41:38Z: PLAYER ADDED   [ 3805748171] footmaster57
+2022-10-01T21:41:38Z: PLAYER ADDED   [ 2828416943] Captian_rex67
+2022-10-01T21:41:38Z: PLAYER ADDED   [   73929731] ABCMartinFry
+2022-10-01T21:41:38Z: PLAYER ADDED   [ 1471168512] annabanannika
+2022-10-01T21:41:38Z: PLAYER ADDED   [ 1662593194] Danielgalo2
+2022-10-01T21:41:38Z: PLAYER ADDED   [ 3786368809] Charles_mcSUS
+2022-10-01T21:41:38Z: PLAYER ADDED   [  160402837] blueisberry552
+2022-10-01T21:41:38Z: PLAYER ADDED   [   37856143] takaramonozu
+2022-10-01T21:41:38Z: PLAYER ADDED   [ 3653522471] Luckymonkey95
+2022-10-01T21:41:38Z: PLAYER ADDED   [  527801344] PrincWakanda
+2022-10-01T21:41:38Z: PLAYER ADDED   [ 1592569757] Hpuppy4
+2022-10-01T21:41:38Z: PLAYER ADDED   [  464107940] epicohecter9
+2022-10-01T21:41:38Z: PLAYER ADDED   [ 2899854402] Kashnes
+2022-10-01T21:41:38Z: PLAYER ADDED   [ 1359679232] shootfloss314
+2022-10-01T21:41:38Z: PLAYER ADDED   [  491214634] PrimalSyth
+2022-10-01T21:41:38Z: PLAYER ADDED   [   77657486] womb_cervix
+2022-10-01T21:41:38Z: PLAYER ADDED   [  770002031] Flame_TheNinja
+2022-10-01T21:41:38Z: PLAYER ADDED   [ 2723147429] edziel2001
+2022-10-01T21:41:38Z: PLAYER ADDED   [  907193944] markdwyer
+2022-10-01T21:41:38Z: PLAYER ADDED   [ 2587671979] FinnF56677
+2022-10-01T21:41:38Z: PLAYER ADDED   [  641218061] GamanistaGaming
+2022-10-01T21:41:38Z: PLAYER ADDED   [ 3760242675] NotVeryInteractive
+2022-10-01T21:41:38Z: PLAYER ADDED   [ 1919485122] hen525252
+2022-10-01T21:41:38Z: PLAYER CHATTED [ 2723147429] edziel2001           ( -111.8,     3.1,    25.2)
+  ###k
+2022-10-01T21:41:39Z: PLAYER CHATTED [ 1471168512] annabanannika        ( -128.2,     3.7,    31.8)
+  yea
+2022-10-01T21:41:42Z: PLAYER CHATTED [  541756837] davidiscool736437    ( -167.3,     8.1,   -37.2)
+  YEah
+2022-10-01T21:41:43Z: PLAYER CHATTED [  527801344] PrincWakanda         ( -151.4,     3.3,    -8.9)
+  ################
+2022-10-01T21:41:44Z: PLAYER CHATTED [  541756837] davidiscool736437    ( -167.3,     8.1,   -37.2)
+  That too
+2022-10-01T21:41:47Z: PLAYER CHATTED [  641218061] GamanistaGaming      ( -159.4,     7.4,   -47.0)
+  WHITE PEOPLE
+2022-10-01T21:41:49Z: CHRCTER ADDED  [  491214634] PrimalSyth           ( -188.8,     3.2,    32.2)
+2022-10-01T21:41:56Z: PLAYER REMOVED [   18702747] MikaJatkosota
+2022-10-01T21:42:08Z: PLAYER CHATTED [  527801344] PrincWakanda         ( -151.4,     3.3,    -8.9)
+  WE NEED MORE BLACK PEOPLE!!
+2022-10-01T21:42:09Z: PLAYER CHATTED [ 3805748171] footmaster57         ( -136.1,     3.1,   -14.2)
+  les go
+2022-10-01T21:42:11Z: PLAYER ADDED   [ 3319443488] Mintomnivore984
+2022-10-01T21:42:17Z: PLAYER CHATTED [ 1592569757] Hpuppy4              ( -142.8,     3.3,   -21.8)
+  No
+2022-10-01T21:42:17Z: PLAYER CHATTED [ 2723147429] edziel2001           ( -113.0,     3.1,    23.2)
+  david!!!!!
+2022-10-01T21:42:31Z: CHRCTER ADDED  [  464107940] epicohecter9         ( -132.8,     7.6,    25.2)
+2022-10-01T21:42:31Z: PLAYER CHATTED [  541756837] davidiscool736437    ( -111.8,     3.2,    32.2)
+  im retirign
+2022-10-01T21:42:37Z: CHRCTER ADDED  [ 3319443488] Mintomnivore984      ( -188.8,     3.1,    32.2)
+2022-10-01T21:42:38Z: PLAYER CHATTED [  541756837] davidiscool736437    ( -149.7,     3.2,    -9.6)
+  retiring
+2022-10-01T21:42:43Z: PLAYER CHATTED [ 1441338640] Ssabredonutss        ( -160.8,     3.5,    32.2)
+  PUT ME AS UR VICE FOR GOOD FACTS AND NOT JUST TOM CRUISE ####
+2022-10-01T21:42:46Z: PLAYER CHATTED [ 1592569757] Hpuppy4              ( -152.6,     3.3,   -10.0)
+  ME]
+2022-10-01T21:42:47Z: PLAYER CHATTED [ 3805748171] footmaster57         ( -140.6,     3.1,   -21.9)
+  me for rep
+2022-10-01T21:42:49Z: CHRCTER ADDED  [ 3653522471] Luckymonkey95        ( -146.8,     3.2,    32.2)
+2022-10-01T21:42:50Z: PLAYER REMOVED [ 3319443488] Mintomnivore984
+2022-10-01T21:42:50Z: PLAYER CHATTED [ 2587671979] FinnF56677           ( -156.9,     3.3,    -9.2)
+  Me
+2022-10-01T21:42:51Z: PLAYER REMOVED [ 1662593194] Danielgalo2
+2022-10-01T21:42:54Z: PLAYER ADDED   [ 3850816826] Anothewabo892
+2022-10-01T21:42:55Z: PLAYER REMOVED [  491214634] PrimalSyth
+2022-10-01T21:42:56Z: PLAYER CHATTED [ 3786368809] Charles_mcSUS        ( -145.2,     3.1,    -9.8)
+  Can i be Vice President 
+2022-10-01T21:42:59Z: PLAYER ADDED   [ 1308823895] Frederick_Rks
+2022-10-01T21:43:01Z: PLAYER ADDED   [ 1038084411] maymay55555y
+2022-10-01T21:43:03Z: PLAYER CHATTED [ 3805748171] footmaster57         ( -143.2,     3.1,   -16.9)
+  independant has a #########
+2022-10-01T21:43:10Z: PLAYER CHATTED [ 3805748171] footmaster57         ( -143.3,     3.1,   -17.1)
+  terro
+2022-10-01T21:43:15Z: PLAYER REMOVED [ 3805748171] footmaster57
+2022-10-01T21:43:15Z: PLAYER CHATTED [ 3760242675] NotVeryInteractive   ( -142.4,     8.0,   -37.1)
+  I will lower taxes and grant women abort rights back over the nation 
+2022-10-01T21:43:17Z: PLAYER CHATTED [   37856143] takaramonozu         ( -159.4,     7.0,   -47.0)
+  watch your words footmaster
+2022-10-01T21:43:18Z: PLAYER CHATTED [ 2723147429] edziel2001           ( -167.3,     8.0,   -37.2)
+  I will make Robloxia a better place and More Work
+2022-10-01T21:43:19Z: PLAYER ADDED   [ 2969707896] Aletacisu0
+2022-10-01T21:43:19Z: PLAYER REMOVED [ 3786368809] Charles_mcSUS
+2022-10-01T21:43:25Z: PLAYER ADDED   [  555196484] cooldudepro182982
+2022-10-01T21:43:25Z: PLAYER CHATTED [ 2587671979] FinnF56677           ( -156.9,     3.3,    -9.1)
+  Yes
+2022-10-01T21:43:26Z: PLAYER CHATTED [  641218061] GamanistaGaming      ( -154.4,     3.5,    -9.3)
+  *CRIES*
+2022-10-01T21:43:28Z: PLAYER CHATTED [  641218061] GamanistaGaming      ( -154.4,     3.5,    -9.3)
+  YASS BACON
+2022-10-01T21:43:30Z: PLAYER CHATTED [  527801344] PrincWakanda         ( -139.3,     7.2,   -32.7)
+  Yas
+2022-10-01T21:43:35Z: PLAYER CHATTED [ 3850816826] Anothewabo892        ( -147.7,     3.1,    13.6)
+  Elliott 
+2022-10-01T21:43:36Z: PLAYER CHATTED [  527801344] PrincWakanda         ( -139.3,     7.2,   -32.7)
+  BETTTER EDUCATION
+2022-10-01T21:43:38Z: PLAYER CHATTED [ 3760242675] NotVeryInteractive   ( -142.4,     8.0,   -37.1)
+  All crimes will be punished equally no matter race or ###### 
+2022-10-01T21:43:38Z: CHRCTER ADDED  [  770002031] Flame_TheNinja       ( -195.8,     3.2,    25.2)
+2022-10-01T21:43:39Z: PLAYER CHATTED [ 2587671979] FinnF56677           ( -156.9,     3.3,    -9.1)
+  Go bacon!
+2022-10-01T21:43:39Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -161.2,     3.1,     2.2)
+  nos
+2022-10-01T21:43:42Z: PLAYER CHATTED [  160402837] blueisberry552       ( -166.6,     3.1,   -18.9)
+  slay
+2022-10-01T21:43:42Z: PLAYER CHATTED [   37856143] takaramonozu         ( -159.4,     7.0,   -47.0)
+  hang the rich with their own entrails
+2022-10-01T21:43:44Z: PLAYER CHATTED [  541756837] davidiscool736437    ( -150.7,     3.2,   -10.0)
+  NO EDUCATION
+2022-10-01T21:43:48Z: PLAYER CHATTED [  527801344] PrincWakanda         ( -139.3,     7.2,   -32.7)
+  BETTER COLEGES
+2022-10-01T21:43:52Z: PLAYER CHATTED [  527801344] PrincWakanda         ( -139.3,     7.2,   -32.7)
+  COLLEGES*
+2022-10-01T21:43:52Z: PLAYER CHATTED [ 3760242675] NotVeryInteractive   ( -142.4,     8.0,   -37.1)
+  Better security system in schools
+2022-10-01T21:43:55Z: PLAYER CHATTED [  527801344] PrincWakanda         ( -139.3,     7.2,   -32.7)
+  #############
+2022-10-01T21:43:57Z: CHRCTER ADDED  [  555196484] cooldudepro182982    ( -153.8,     8.6,    25.2)
+2022-10-01T21:44:01Z: PLAYER CHATTED [  527801344] PrincWakanda         ( -139.3,     7.2,   -32.7)
+  thats true
+2022-10-01T21:44:02Z: PLAYER CHATTED [   73929731] ABCMartinFry         ( -154.9,     8.0,   -45.0)
+  FREE GREGGS FOR EVERYONE
+2022-10-01T21:44:03Z: PLAYER CHATTED [  641218061] GamanistaGaming      ( -154.4,     3.5,    -9.3)
+  NICKI???
+2022-10-01T21:44:04Z: PLAYER CHATTED [  527801344] PrincWakanda         ( -139.3,     7.2,   -32.7)
+  lol
+2022-10-01T21:44:06Z: PLAYER CHATTED [   73929731] ABCMartinFry         ( -154.9,     8.0,   -45.0)
+  NATIONALISE GREGGS
+2022-10-01T21:44:09Z: PLAYER CHATTED [  527801344] PrincWakanda         ( -139.3,     7.2,   -32.7)
+  LOL
+2022-10-01T21:44:12Z: PLAYER CHATTED [   37856143] takaramonozu         ( -159.4,     7.0,   -47.0)
+  good morning englishman there is a car outside your house
+2022-10-01T21:44:14Z: PLAYER CHATTED [   37856143] takaramonozu         ( -159.4,     7.0,   -47.0)
+  turn it on NOW
+2022-10-01T21:44:18Z: PLAYER CHATTED [   73929731] ABCMartinFry         ( -154.9,     8.0,   -45.0)
+  FREE IRELAND
+2022-10-01T21:44:23Z: PLAYER CHATTED [   73929731] ABCMartinFry         ( -154.9,     8.0,   -45.0)
+  NO MORE ENGLAND
+2022-10-01T21:44:24Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -169.6,     3.8,    34.5)
+  Hereeee!
+2022-10-01T21:44:26Z: PLAYER CHATTED [  641218061] GamanistaGaming      ( -154.4,     3.5,    -9.3)
+  YASSS WRONG COUNTRY BUT YASSSSS
+2022-10-01T21:44:28Z: PLAYER CHATTED [ 1592569757] Hpuppy4              ( -162.4,     3.3,    -9.3)
+  NO
+2022-10-01T21:44:28Z: PLAYER CHATTED [   73929731] ABCMartinFry         ( -154.9,     8.0,   -45.0)
+  THE UNITED KINGDOM OF IRELAND
+2022-10-01T21:44:33Z: PLAYER CHATTED [   37856143] takaramonozu         ( -159.4,     7.0,   -47.0)
+  ######### ár lá
+2022-10-01T21:44:33Z: PLAYER CHATTED [  641218061] GamanistaGaming      ( -154.4,     3.5,    -9.3)
+  SCREW ENGLAND
+2022-10-01T21:44:36Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -169.6,     3.8,    34.5)
+  Heareeee hearee!
+2022-10-01T21:44:39Z: PLAYER CHATTED [   73929731] ABCMartinFry         ( -154.9,     8.0,   -45.0)
+  DESTROY ENGLAND
+2022-10-01T21:44:39Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.3,     3.5,   -14.6)
+  ########
+2022-10-01T21:44:40Z: PLAYER CHATTED [ 2828416943] Captian_rex67        ( -143.4,     3.1,    -7.8)
+  ###oo
+2022-10-01T21:44:41Z: PLAYER CHATTED [ 1919485122] hen525252            ( -137.6,     4.2,    -8.3)
+  agreed
+2022-10-01T21:44:44Z: PLAYER CHATTED [ 2828416943] Captian_rex67        ( -143.4,     3.1,    -7.8)
+  ###
+2022-10-01T21:44:44Z: PLAYER CHATTED [ 1441338640] Ssabredonutss        ( -170.4,     7.4,   -32.9)
+  Vote for ########### not just because we are in the red, because we will lower prices, get better education, take care of our people and not fall off bikes! god bless america! Lower food costs too!
+2022-10-01T21:44:44Z: PLAYER CHATTED [ 1592569757] Hpuppy4              ( -162.4,     3.3,    -9.3)
+  No
+2022-10-01T21:44:47Z: PLAYER CHATTED [  527801344] PrincWakanda         ( -139.3,     7.2,   -32.7)
+  Aloha come estas. Muy bien
+2022-10-01T21:44:48Z: PLAYER CHATTED [ 2723147429] edziel2001           ( -167.3,     8.0,   -37.2)
+  I will make Robloxia a better place And arrest all hackers
+2022-10-01T21:44:59Z: PLAYER CHATTED [  541756837] davidiscool736437    ( -150.7,     3.2,   -10.0)
+  LET HACKERS ####
+2022-10-01T21:45:02Z: PLAYER CHATTED [  541756837] davidiscool736437    ( -150.7,     3.2,   -10.0)
+  ####
+2022-10-01T21:45:03Z: CHRCTER ADDED  [    1630228] VisualPlugin         ( -160.8,     7.7,    25.2)
+2022-10-01T21:45:04Z: PLAYER CHATTED [  527801344] PrincWakanda         ( -139.3,     7.2,   -32.7)
+  u never know the hackers tho
+2022-10-01T21:45:04Z: PLAYER REMOVED [ 1308823895] Frederick_Rks
+2022-10-01T21:45:05Z: PLAYER CHATTED [  555196484] cooldudepro182982    ( -153.8,     4.0,    25.2)
+  ###### ######
+2022-10-01T21:45:06Z: PLAYER CHATTED [  541756837] davidiscool736437    ( -150.7,     3.2,   -10.0)
+  Live
+2022-10-01T21:45:09Z: PLAYER CHATTED [ 1038084411] maymay55555y         ( -118.8,     2.8,    32.2)
+  …
+2022-10-01T21:45:09Z: PLAYER ADDED   [ 2552223260] Samukacdm
+2022-10-01T21:45:11Z: PLAYER CHATTED [ 1441338640] Ssabredonutss        ( -170.4,     7.4,   -32.9)
+  listen to me not him-
+2022-10-01T21:45:11Z: PLAYER CHATTED [  641218061] GamanistaGaming      ( -154.4,     3.5,    -9.3)
+  我####
+2022-10-01T21:45:12Z: PLAYER CHATTED [  527801344] PrincWakanda         ( -139.3,     7.2,   -32.7)
+  but anyways!!!
+2022-10-01T21:45:13Z: PLAYER CHATTED [  160402837] blueisberry552       ( -166.6,     3.1,   -18.9)
+  ###O
+2022-10-01T21:45:15Z: CHRCTER ADDED  [    1630228] VisualPlugin         ( -139.8,     4.9,    32.2)
+2022-10-01T21:45:18Z: PLAYER CHATTED [ 1441338640] Ssabredonutss        ( -170.4,     7.4,   -32.9)
+  LOWER GAS PRICES
+2022-10-01T21:45:19Z: PLAYER CHATTED [  160402837] blueisberry552       ( -166.6,     3.1,   -18.9)
+  ###
+2022-10-01T21:45:22Z: PLAYER CHATTED [  641218061] GamanistaGaming      ( -154.4,     3.5,    -9.3)
+  我#我自己
+2022-10-01T21:45:22Z: PLAYER CHATTED [ 1441338640] Ssabredonutss        ( -170.4,     7.4,   -32.9)
+  JESUS LOVES U
+2022-10-01T21:45:22Z: PLAYER CHATTED [  541756837] davidiscool736437    ( -150.7,     3.2,   -10.0)
+  Maam your VP
+2022-10-01T21:45:23Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -161.2,     3.1,     2.2)
+  YAS
+2022-10-01T21:45:24Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -139.8,     3.8,    31.7)
+  * passes gas *
+2022-10-01T21:45:24Z: PLAYER CHATTED [ 2899854402] Kashnes              ( -146.8,     3.1,    -8.9)
+  skelly=L helper
+2022-10-01T21:45:27Z: PLAYER CHATTED [  160402837] blueisberry552       ( -166.6,     3.1,   -18.9)
+  ew
+2022-10-01T21:45:27Z: PLAYER CHATTED [   37856143] takaramonozu         ( -159.4,     7.0,   -47.0)
+  the dark brandon plan is in full motion
+2022-10-01T21:45:35Z: PLAYER CHATTED [   73929731] ABCMartinFry         ( -154.9,     8.0,   -45.0)
+  FREE IRELAND
+2022-10-01T21:45:36Z: PLAYER CHATTED [  527801344] PrincWakanda         ( -139.3,     7.2,   -32.7)
+  ##### ##### ## YES I KNOW FOR THE BIB LE TELLS ME SO
+2022-10-01T21:45:37Z: CHRCTER ADDED  [  160402837] blueisberry552       ( -125.8,     3.2,    25.2)
+2022-10-01T21:45:39Z: PLAYER CHATTED [ 2723147429] edziel2001           ( -167.3,     8.0,   -37.2)
+  free mansions for every robloxian
+2022-10-01T21:45:41Z: PLAYER CHATTED [ 2899854402] Kashnes              ( -146.8,     3.1,    -8.9)
+  VOTE BLUE
+2022-10-01T21:45:43Z: PLAYER CHATTED [  527801344] PrincWakanda         ( -139.3,     7.2,   -32.7)
+  listen to me yall!
+2022-10-01T21:45:45Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.5,     3.5,   -17.1)
+  Yessss
+2022-10-01T21:45:48Z: PLAYER CHATTED [  160402837] blueisberry552       ( -123.2,     3.1,    20.7)
+  YUHHHH
+2022-10-01T21:45:48Z: PLAYER CHATTED [  527801344] PrincWakanda         ( -139.3,     7.2,   -32.7)
+  YASS
+2022-10-01T21:45:48Z: PLAYER CHATTED [  641218061] GamanistaGaming      ( -158.7,     3.5,    -9.6)
+  YASSSSSSSS
+2022-10-01T21:45:49Z: PLAYER CHATTED [ 2723147429] edziel2001           ( -167.3,     8.0,   -37.2)
+  bruh
+2022-10-01T21:45:49Z: PLAYER CHATTED [ 2206394281] superAbby956         ( -165.7,     2.8,   -17.5)
+  Vote for us we will make better schools and LOWER GAS PRICES betterteachers!
+2022-10-01T21:45:50Z: PLAYER CHATTED [ 1038084411] maymay55555y         ( -118.8,     2.8,    32.2)
+  YAYY
+2022-10-01T21:45:52Z: PLAYER CHATTED [  527801344] PrincWakanda         ( -139.3,     7.2,   -32.7)
+  THANKS YALL
+2022-10-01T21:46:02Z: PLAYER CHATTED [  527801344] PrincWakanda         ( -125.8,     3.2,    25.2)
+  GOD BLESS U
+2022-10-01T21:46:05Z: PLAYER REMOVED [ 3760242675] NotVeryInteractive
+2022-10-01T21:46:08Z: PLAYER CHATTED [ 2899854402] Kashnes              ( -118.8,     3.1,    25.2)
+  n####3
+2022-10-01T21:46:09Z: CHRCTER ADDED  [  464107940] epicohecter9         ( -146.8,     3.1,    32.2)
+2022-10-01T21:46:12Z: CHRCTER ADDED  [  641218061] GamanistaGaming      ( -146.8,     3.6,    32.2)
+2022-10-01T21:46:13Z: PLAYER REMOVED [ 1441338640] Ssabredonutss
+2022-10-01T21:46:13Z: PLAYER CHATTED [ 2899854402] Kashnes              ( -167.3,     8.0,   -37.2)
+  n###
+2022-10-01T21:46:14Z: CHRCTER ADDED  [ 2969707896] Aletacisu0           ( -139.8,     7.5,    25.2)
+2022-10-01T21:46:17Z: PLAYER ADDED   [ 3697068106] ConquerorM13
+2022-10-01T21:46:17Z: PLAYER CHATTED [ 2587671979] FinnF56677           ( -150.6,     3.3,    -9.2)
+  Me
+2022-10-01T21:46:19Z: CHRCTER ADDED  [ 3697068106] ConquerorM13         ( -125.8,     3.2,    25.2)
+2022-10-01T21:46:19Z: PLAYER CHATTED [  541756837] davidiscool736437    ( -169.7,     3.2,   -16.4)
+  Sir me 
+2022-10-01T21:46:20Z: CHRCTER ADDED  [ 2587671979] FinnF56677           ( -167.8,     4.3,    25.2)
+2022-10-01T21:46:21Z: PLAYER ADDED   [ 1479800636] PBLTR
+2022-10-01T21:46:22Z: PLAYER CHATTED [  555196484] cooldudepro182982    ( -141.6,     4.0,   -22.3)
+  COMMUIS?
+2022-10-01T21:46:22Z: PLAYER CHATTED [  541756837] davidiscool736437    ( -167.6,     3.2,   -22.3)
+  Okay
+2022-10-01T21:46:22Z: PLAYER CHATTED [ 2206394281] superAbby956         ( -168.4,     2.8,   -19.1)
+  ME!!
+2022-10-01T21:46:26Z: PLAYER CHATTED [ 1592569757] Hpuppy4              ( -165.4,     3.3,    -9.9)
+  Pick Scarlett 
+2022-10-01T21:46:29Z: PLAYER REMOVED [ 3850816826] Anothewabo892
+2022-10-01T21:46:29Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.2,     3.5,   -22.5)
+  I will helpp you!
+2022-10-01T21:46:30Z: PLAYER REMOVED [ 2828416943] Captian_rex67
+2022-10-01T21:46:37Z: PLAYER CHATTED [ 2206394281] superAbby956         ( -172.7,     2.8,   -22.4)
+  MEE
+2022-10-01T21:46:39Z: PLAYER CHATTED [  555196484] cooldudepro182982    ( -141.6,     4.0,   -22.3)
+  #########!!!!! 
+2022-10-01T21:46:40Z: PLAYER CHATTED [  527801344] PrincWakanda         ( -181.8,     3.3,    32.2)
+  pick me ppl
+2022-10-01T21:46:43Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -165.9,     3.5,   -20.3)
+  Awwww
+2022-10-01T21:46:43Z: PLAYER ADDED   [   45814507] LE_N00B2
+2022-10-01T21:46:43Z: PLAYER CHATTED [  555196484] cooldudepro182982    ( -141.0,     4.0,   -15.6)
+  COMUNIST
+2022-10-01T21:46:44Z: PLAYER REMOVED [  641218061] GamanistaGaming
+2022-10-01T21:46:49Z: PLAYER REMOVED [  907193944] markdwyer
+2022-10-01T21:46:49Z: PLAYER REMOVED [ 2587671979] FinnF56677
+2022-10-01T21:46:51Z: PLAYER CHATTED [   73929731] ABCMartinFry         ( -139.3,     7.0,   -32.7)
+  ROAST QUEEN ELIZABETH HAVE A NATION WIDE BANQUET
+2022-10-01T21:46:56Z: PLAYER CHATTED [ 1919485122] hen525252            ( -142.4,     9.1,   -37.1)
+  i am staying with no england
+2022-10-01T21:46:57Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -143.1,     3.1,   -22.4)
+  Pick me I have a good 1
+2022-10-01T21:47:02Z: PLAYER ADDED   [  907193944] markdwyer
+2022-10-01T21:47:05Z: PLAYER CHATTED [   73929731] ABCMartinFry         ( -139.3,     7.0,   -32.7)
+  NO MORE MONARCHY
+2022-10-01T21:47:06Z: PLAYER REMOVED [ 2552223260] Samukacdm
+2022-10-01T21:47:08Z: PLAYER ADDED   [ 2828940805] Yourmonbum78
+2022-10-01T21:47:08Z: PLAYER ADDED   [  508903339] calods
+2022-10-01T21:47:10Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -165.9,     3.5,   -20.3)
+  Yes!!
+2022-10-01T21:47:10Z: PLAYER CHATTED [   73929731] ABCMartinFry         ( -139.3,     7.0,   -32.7)
+  TURN BUCKINGHAM PALACE INTO A GREGGS
+2022-10-01T21:47:12Z: PLAYER CHATTED [ 1919485122] hen525252            ( -142.4,     9.1,   -37.1)
+  the only w thing about england was the queen
+2022-10-01T21:47:12Z: PLAYER ADDED   [ 3771657236] stephenxxx124
+2022-10-01T21:47:16Z: PLAYER REMOVED [ 2206394281] superAbby956
+2022-10-01T21:47:18Z: PLAYER ADDED   [ 2461792462] Ewprice
+2022-10-01T21:47:21Z: PLAYER ADDED   [ 2552223260] Samukacdm
+2022-10-01T21:47:22Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -154.8,     8.7,   -45.0)
+  And high energy prices.
+2022-10-01T21:47:23Z: PLAYER CHATTED [ 1919485122] hen525252            ( -142.4,     9.1,   -37.1)
+  but now she died
+2022-10-01T21:47:25Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -155.7,     3.1,    -9.9)
+  she is dead
+2022-10-01T21:47:26Z: PLAYER CHATTED [   73929731] ABCMartinFry         ( -139.3,     7.0,   -32.7)
+  FREE SAUSAGE BEAN BAKES
+2022-10-01T21:47:29Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -155.7,     3.1,    -9.9)
+  L
+2022-10-01T21:47:31Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -155.7,     3.1,    -9.9)
+  L
+2022-10-01T21:47:32Z: PLAYER CHATTED [  527801344] PrincWakanda         ( -131.6,     3.3,     1.3)
+  thats nun but non sense
+2022-10-01T21:47:36Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -154.8,     8.7,   -45.0)
+  ÒÓ?
+2022-10-01T21:47:39Z: PLAYER REMOVED [ 1471168512] annabanannika
+2022-10-01T21:47:40Z: PLAYER CHATTED [  527801344] PrincWakanda         ( -131.6,     3.3,     1.3)
+  BO
+2022-10-01T21:47:40Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -155.7,     3.1,    -9.9)
+  thats a L speach
+2022-10-01T21:47:41Z: PLAYER CHATTED [  527801344] PrincWakanda         ( -131.6,     3.3,     1.3)
+  O
+2022-10-01T21:47:42Z: PLAYER CHATTED [ 1592569757] Hpuppy4              ( -165.6,     3.3,   -10.2)
+  I pledge allegiance to the flag of the United States of America and to the republic for which stands one nation under god with liberty and justice for all
+2022-10-01T21:47:43Z: PLAYER CHATTED [  527801344] PrincWakanda         ( -131.6,     3.3,     1.3)
+  ###O
+2022-10-01T21:47:44Z: PLAYER ADDED   [ 2434678151] marlo201224
+2022-10-01T21:47:46Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -154.8,     8.7,   -45.0)
+  CAP ENERGY PRICES AT £2500?
+2022-10-01T21:47:53Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -165.9,     3.5,   -20.3)
+  No!!!
+2022-10-01T21:47:53Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -154.8,     8.7,   -45.0)
+  Also, lower rate taxes.
+2022-10-01T21:47:57Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -154.8,     8.7,   -45.0)
+  And stuff.
+2022-10-01T21:47:58Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -165.9,     3.5,   -20.3)
+  N#######!!!!
+2022-10-01T21:48:00Z: PLAYER CHATTED [  527801344] PrincWakanda         ( -131.6,     3.3,     1.3)
+  O SAY CAN WE SEE BY SUM SUM SUM
+2022-10-01T21:48:00Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -165.9,     3.5,   -20.3)
+  No!!
+2022-10-01T21:48:01Z: CHRCTER ADDED  [ 2552223260] Samukacdm            ( -160.8,     3.2,    32.2)
+2022-10-01T21:48:01Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -155.7,     3.1,    -9.9)
+  L
+2022-10-01T21:48:06Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -155.7,     3.1,    -9.9)
+  L
+2022-10-01T21:48:09Z: PLAYER CHATTED [  527801344] PrincWakanda         ( -131.6,     3.3,     1.3)
+  No!! 
+2022-10-01T21:48:13Z: PLAYER REMOVED [ 2552223260] Samukacdm
+2022-10-01T21:48:13Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -155.7,     3.1,    -9.9)
+  L opion 
+2022-10-01T21:48:13Z: PLAYER CHATTED [  527801344] PrincWakanda         ( -131.6,     3.3,     1.3)
+  N###!
+2022-10-01T21:48:14Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -154.8,     8.7,   -45.0)
+  Lower taxes?
+2022-10-01T21:48:19Z: PLAYER ADDED   [  930431858] thekittensarereal
+2022-10-01T21:48:20Z: PLAYER REMOVED [ 2723147429] edziel2001
+2022-10-01T21:48:20Z: PLAYER REMOVED [ 2899854402] Kashnes
+2022-10-01T21:48:24Z: PLAYER CHATTED [ 1919485122] hen525252            ( -142.4,     9.1,   -37.1)
+  vote blue
+2022-10-01T21:48:26Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -143.1,     3.1,   -22.4)
+  LOL
+2022-10-01T21:48:27Z: PLAYER CHATTED [   73929731] ABCMartinFry         ( -139.3,     7.0,   -32.7)
+  VOTE US
+2022-10-01T21:48:27Z: PLAYER ADDED   [ 2728234582] bryce91014
+2022-10-01T21:48:27Z: PLAYER ADDED   [ 2302059014] xXlxvely_starXx
+2022-10-01T21:48:29Z: PLAYER CHATTED [   73929731] ABCMartinFry         ( -139.3,     7.0,   -32.7)
+  #######
+2022-10-01T21:48:30Z: PLAYER CHATTED [ 1919485122] hen525252            ( -142.4,     9.1,   -37.1)
+  no england
+2022-10-01T21:48:31Z: PLAYER CHATTED [  527801344] PrincWakanda         ( -131.6,     3.3,     1.3)
+  dont #### ####### ##### #####
+2022-10-01T21:48:31Z: PLAYER CHATTED [  464107940] epicohecter9         ( -138.7,     3.0,     9.5)
+  white
+2022-10-01T21:48:32Z: CHRCTER ADDED  [ 2461792462] Ewprice              ( -181.8,     4.3,    32.2)
+2022-10-01T21:48:33Z: PLAYER CHATTED [   73929731] ABCMartinFry         ( -139.3,     7.0,   -32.7)
+  I SMELL NICE
+2022-10-01T21:48:33Z: PLAYER CHATTED [ 1592569757] Hpuppy4              ( -165.6,     3.3,   -10.2)
+  No
+2022-10-01T21:48:34Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -155.7,     3.1,    -9.9)
+  Both massive L
+2022-10-01T21:48:37Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -154.8,     8.7,   -45.0)
+  ÒÓ
+2022-10-01T21:48:37Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -143.1,     3.1,   -22.4)
+  ###
+2022-10-01T21:48:38Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -165.9,     3.5,   -20.3)
+  Yesssss
+2022-10-01T21:48:39Z: PLAYER CHATTED [ 1038084411] maymay55555y         ( -143.4,     2.8,   -15.8)
+  Fr
+2022-10-01T21:48:41Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -165.9,     3.5,   -20.3)
+  Hyde’s
+2022-10-01T21:48:42Z: PLAYER CHATTED [ 1919485122] hen525252            ( -142.4,     9.1,   -37.1)
+  bru
+2022-10-01T21:48:44Z: PLAYER REMOVED [ 1919485122] hen525252
+2022-10-01T21:48:45Z: PLAYER CHATTED [ 3697068106] ConquerorM13         ( -125.8,     3.1,    35.2)
+  low tax
+2022-10-01T21:48:53Z: CHRCTER ADDED  [ 3653522471] Luckymonkey95        ( -181.8,     3.2,    25.2)
+2022-10-01T21:48:54Z: PLAYER CHATTED [  527801344] PrincWakanda         ( -131.6,     3.3,     1.3)
+  the ### who finna be racist makin me wanna ##### ###
+2022-10-01T21:48:55Z: CHRCTER ADDED  [ 2461792462] Ewprice              ( -181.8,     4.3,    25.2)
+2022-10-01T21:48:56Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.3,     3.5,   -21.7)
+  Meee
+2022-10-01T21:48:57Z: PLAYER CHATTED [  527801344] PrincWakanda         ( -118.8,     3.2,    25.2)
+  hit him
+2022-10-01T21:48:58Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -139.8,     3.2,    32.2)
+  i am the one who knocks
+2022-10-01T21:48:58Z: PLAYER ADDED   [  487311168] walterghjklfdsa
+2022-10-01T21:49:05Z: CHRCTER ADDED  [ 3653522471] Luckymonkey95        ( -132.8,     5.1,    32.2)
+2022-10-01T21:49:09Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -181.8,     3.8,    32.2)
+  I VOTE TO REMOVE THE INSCRIPTION FEE FOR THE SECOND TERM!
+2022-10-01T21:49:10Z: PLAYER REMOVED [  907193944] markdwyer
+2022-10-01T21:49:11Z: CHRCTER ADDED  [   73929731] ABCMartinFry         ( -167.8,     5.1,    25.2)
+2022-10-01T21:49:12Z: PLAYER ADDED   [ 1621581319] ElectricComets
+2022-10-01T21:49:14Z: PLAYER CHATTED [ 2302059014] xXlxvely_starXx      ( -166.3,     2.8,   -16.6)
+  me
+2022-10-01T21:49:14Z: PLAYER CHATTED [  541756837] davidiscool736437    ( -150.9,     3.2,   -10.0)
+  Sir me
+2022-10-01T21:49:14Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.5,     3.5,   -19.3)
+  I will help you!!
+2022-10-01T21:49:21Z: CHRCTER ADDED  [ 1621581319] ElectricComets       ( -174.8,     3.2,    32.2)
+2022-10-01T21:49:25Z: PLAYER REMOVED [  508903339] calods
+2022-10-01T21:49:26Z: CHRCTER ADDED  [  555196484] cooldudepro182982    ( -146.8,     4.1,    32.2)
+2022-10-01T21:49:27Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.3,     3.5,   -22.1)
+  Plisss
+2022-10-01T21:49:28Z: CHRCTER ADDED  [ 1621581319] ElectricComets       ( -174.8,     3.2,    32.2)
+2022-10-01T21:49:28Z: PLAYER ADDED   [ 3920263174] howdy_hihowareyou
+2022-10-01T21:49:28Z: PLAYER CHATTED [   77657486] womb_cervix          ( -167.3,     7.9,   -37.2)
+  darkmaga
+2022-10-01T21:49:29Z: CHRCTER ADDED  [ 2434678151] marlo201224          ( -174.8,     2.9,    32.2)
+2022-10-01T21:49:31Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.3,     3.5,   -22.1)
+  ###:###
+2022-10-01T21:49:33Z: CHRCTER ADDED  [  555196484] cooldudepro182982    ( -195.8,     4.1,    32.2)
+2022-10-01T21:49:34Z: CHRCTER ADDED  [ 1621581319] ElectricComets       ( -132.8,     3.2,    25.2)
+2022-10-01T21:49:35Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.3,     3.5,   -22.1)
+  (:::
+2022-10-01T21:49:37Z: PLAYER CHATTED [   37856143] takaramonozu         ( -170.4,     7.0,   -32.9)
+  GATHER ALL COPS AND MAKE A BIG BONFIRE WITH THEIR CORPSES
+2022-10-01T21:49:37Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.3,     3.5,   -22.1)
+  :(((
+2022-10-01T21:49:39Z: CHRCTER ADDED  [ 3653522471] Luckymonkey95        ( -188.8,     3.2,    32.2)
+2022-10-01T21:49:39Z: PLAYER CHATTED [ 1038084411] maymay55555y         ( -143.4,     2.8,   -13.2)
+  Bruh
+2022-10-01T21:49:44Z: PLAYER CHATTED [ 1101459928] javieeeeer7          ( -142.4,     7.9,   -37.1)
+  I tide the economy workers will get paid more and will get more houses plant more trees and bring world peace
+2022-10-01T21:49:45Z: PLAYER CHATTED [   37856143] takaramonozu         ( -170.4,     7.0,   -32.9)
+  ROASTED MARSHMALLOWS
+2022-10-01T21:49:49Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -142.5,     3.1,   -18.9)
+  L
+2022-10-01T21:49:56Z: PLAYER CHATTED [   73929731] ABCMartinFry         ( -172.1,     3.1,   -16.6)
+  #######
+2022-10-01T21:49:59Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -142.5,     3.1,   -18.9)
+  bro really thought about this
+2022-10-01T21:49:59Z: PLAYER CHATTED [   73929731] ABCMartinFry         ( -172.1,     3.1,   -16.6)
+  #############OO
+2022-10-01T21:50:02Z: PLAYER CHATTED [   37856143] takaramonozu         ( -170.4,     7.0,   -32.9)
+  PIGS IN A BLANKET FRY LIKE BACON
+2022-10-01T21:50:02Z: PLAYER CHATTED [ 1101459928] javieeeeer7          ( -142.4,     7.9,   -37.1)
+  Tax and gas prices will lower
+2022-10-01T21:50:02Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -142.5,     3.1,   -18.9)
+  L
+2022-10-01T21:50:04Z: PLAYER CHATTED [   73929731] ABCMartinFry         ( -172.1,     3.1,   -16.6)
+  GET OFF THE STAGE
+2022-10-01T21:50:06Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -142.5,     3.1,   -18.9)
+  fr
+2022-10-01T21:50:07Z: PLAYER REMOVED [ 2434678151] marlo201224
+2022-10-01T21:50:08Z: PLAYER CHATTED [  555196484] cooldudepro182982    ( -178.9,     4.0,   -10.4)
+  ####
+2022-10-01T21:50:09Z: PLAYER REMOVED [ 2302059014] xXlxvely_starXx
+2022-10-01T21:50:11Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -142.5,     3.1,   -18.9)
+  ###
+2022-10-01T21:50:11Z: PLAYER CHATTED [ 2461792462] Ewprice              ( -182.9,     4.2,   -10.8)
+  Yes
+2022-10-01T21:50:12Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -142.5,     3.1,   -18.9)
+  bo
+2022-10-01T21:50:13Z: PLAYER CHATTED [  555196484] cooldudepro182982    ( -178.9,     4.0,   -10.4)
+  ######
+2022-10-01T21:50:14Z: PLAYER ADDED   [   46775850] antho84
+2022-10-01T21:50:16Z: PLAYER CHATTED [  555196484] cooldudepro182982    ( -178.9,     4.0,   -10.4)
+  NI
+2022-10-01T21:50:17Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -142.5,     3.1,   -18.9)
+  ####
+2022-10-01T21:50:18Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -139.9,     3.1,   -22.5)
+  WOOHOO
+2022-10-01T21:50:18Z: PLAYER CHATTED [ 3697068106] ConquerorM13         ( -174.8,     3.1,    25.2)
+  amazing president
+2022-10-01T21:50:24Z: PLAYER CHATTED [ 1038084411] maymay55555y         ( -143.4,     2.8,   -13.2)
+  Unrealistic but a W
+2022-10-01T21:50:24Z: PLAYER CHATTED [  555196484] cooldudepro182982    ( -178.9,     4.0,   -10.4)
+  NO
+2022-10-01T21:50:24Z: PLAYER ADDED   [  746447327] ii_officers
+2022-10-01T21:50:24Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -142.5,     3.1,   -18.9)
+  nope
+2022-10-01T21:50:28Z: PLAYER CHATTED [ 1592569757] Hpuppy4              ( -139.3,     7.2,   -32.7)
+  I pledge allegiance to the flag of the United States of America and to the republic for which stands one nation under god with liberty and justice for all
+2022-10-01T21:50:29Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -142.5,     3.1,   -18.9)
+  L
+2022-10-01T21:50:32Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -139.9,     3.1,   -22.5)
+  Nope
+2022-10-01T21:50:33Z: PLAYER CHATTED [  541756837] davidiscool736437    ( -143.0,     3.2,   -22.4)
+  Go alice
+2022-10-01T21:50:37Z: PLAYER CHATTED [  746447327] ii_officers          ( -118.8,     3.1,    25.2)
+  NO
+2022-10-01T21:50:38Z: PLAYER CHATTED [  930431858] thekittensarereal    ( -154.9,     8.8,   -45.0)
+  I will help save earth and reduce plastic pollution. I will also speak for the animals. We will rebuild this economy together as one!
+2022-10-01T21:50:39Z: PLAYER CHATTED [ 3697068106] ConquerorM13         ( -174.8,     3.1,    25.2)
+  you gon say anything?
+2022-10-01T21:50:42Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -142.5,     3.1,   -18.9)
+  this man is a W
+2022-10-01T21:50:44Z: PLAYER REMOVED [ 2461792462] Ewprice
+2022-10-01T21:50:46Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -142.5,     3.1,   -18.9)
+  wait
+2022-10-01T21:50:47Z: PLAYER CHATTED [  555196484] cooldudepro182982    ( -178.9,     4.0,   -10.4)
+  YES
+2022-10-01T21:50:47Z: PLAYER REMOVED [   45814507] LE_N00B2
+2022-10-01T21:50:49Z: PLAYER CHATTED [ 3697068106] ConquerorM13         ( -174.8,     3.1,    25.2)
+  W
+2022-10-01T21:50:49Z: PLAYER CHATTED [  746447327] ii_officers          ( -118.8,     3.1,    25.2)
+  hm
+2022-10-01T21:50:51Z: PLAYER CHATTED [  746447327] ii_officers          ( -118.8,     3.1,    25.2)
+  ok
+2022-10-01T21:50:51Z: PLAYER ADDED   [ 3753807986] soyinsano700
+2022-10-01T21:50:52Z: PLAYER CHATTED [  746447327] ii_officers          ( -118.8,     3.1,    25.2)
+  YES
+2022-10-01T21:50:52Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -142.5,     3.1,   -18.9)
+  Never mind
+2022-10-01T21:50:54Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -119.8,     3.1,    16.2)
+  nah
+2022-10-01T21:50:55Z: PLAYER CHATTED [  527801344] PrincWakanda         ( -166.3,     3.3,   -21.5)
+  YASS
+2022-10-01T21:50:57Z: PLAYER CHATTED [ 2762882849] Aedificentiup        ( -159.4,     7.0,   -47.0)
+  i would like to improve our economy and military
+2022-10-01T21:50:58Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -142.5,     3.1,   -18.9)
+  massive L
+2022-10-01T21:50:58Z: PLAYER ADDED   [  169419248] Pearno
+2022-10-01T21:50:58Z: PLAYER CHATTED [  746447327] ii_officers          ( -118.8,     3.1,    25.2)
+  YES
+2022-10-01T21:50:59Z: PLAYER CHATTED [  527801344] PrincWakanda         ( -166.3,     3.3,   -21.5)
+  YAS S###
+2022-10-01T21:51:01Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.3,     3.5,   -22.1)
+  Yesss
+2022-10-01T21:51:01Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -139.9,     3.1,   -22.5)
+  very good one
+2022-10-01T21:51:02Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -119.8,     3.1,    16.2)
+  Too Basic
+2022-10-01T21:51:06Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -139.9,     3.1,   -22.5)
+  HOW
+2022-10-01T21:51:06Z: PLAYER CHATTED [  930431858] thekittensarereal    ( -154.9,     8.8,   -45.0)
+  We will do that to
+2022-10-01T21:51:07Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -119.8,     3.1,    16.2)
+  -_-
+2022-10-01T21:51:08Z: CHRCTER ADDED  [    1630228] VisualPlugin         ( -181.8,     4.9,    32.2)
+2022-10-01T21:51:08Z: PLAYER CHATTED [  527801344] PrincWakanda         ( -166.3,     3.3,   -21.5)
+  #########################
+2022-10-01T21:51:09Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.3,     3.5,   -22.1)
+   Vote for him’ n
+2022-10-01T21:51:12Z: PLAYER CHATTED [   77657486] womb_cervix          ( -167.3,     7.9,   -37.2)
+  defund the health care system and buy more nukes
+2022-10-01T21:51:12Z: PLAYER REMOVED [ 1479800636] PBLTR
+2022-10-01T21:51:17Z: PLAYER CHATTED [  746447327] ii_officers          ( -118.8,     3.1,    25.2)
+  ###OO
+2022-10-01T21:51:18Z: CHRCTER ADDED  [ 3753807986] soyinsano700         ( -174.8,     7.1,    25.2)
+2022-10-01T21:51:19Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -119.0,     3.1,    16.4)
+  YES
+2022-10-01T21:51:19Z: PLAYER CHATTED [   37856143] takaramonozu         ( -170.4,     7.0,   -32.9)
+  NUKE EVERYTHING
+2022-10-01T21:51:20Z: PLAYER CHATTED [   37856143] takaramonozu         ( -170.4,     7.0,   -32.9)
+  BBOMBS
+2022-10-01T21:51:21Z: PLAYER CHATTED [  746447327] ii_officers          ( -118.8,     3.1,    25.2)
+  DISCUSTING
+2022-10-01T21:51:21Z: PLAYER CHATTED [   37856143] takaramonozu         ( -170.4,     7.0,   -32.9)
+  DEATH
+2022-10-01T21:51:21Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -142.5,     3.1,   -18.9)
+  W
+2022-10-01T21:51:22Z: PLAYER CHATTED [ 3697068106] ConquerorM13         ( -174.8,     3.1,    25.2)
+  no
+2022-10-01T21:51:22Z: PLAYER CHATTED [  555196484] cooldudepro182982    ( -178.9,     4.0,   -10.4)
+  ###O
+2022-10-01T21:51:22Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -119.0,     3.1,    16.4)
+  THIS IS THE ONE
+2022-10-01T21:51:23Z: PLAYER CHATTED [   37856143] takaramonozu         ( -170.4,     7.0,   -32.9)
+  DESTRUCTION
+2022-10-01T21:51:23Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -119.0,     3.1,    16.4)
+  W
+2022-10-01T21:51:24Z: PLAYER ADDED   [ 3564974562] alice192fofa
+2022-10-01T21:51:24Z: PLAYER CHATTED [   37856143] takaramonozu         ( -170.4,     7.0,   -32.9)
+  KILL
+2022-10-01T21:51:25Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -119.0,     3.1,    16.4)
+  W
+2022-10-01T21:51:25Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -142.5,     3.1,   -18.9)
+  W
+2022-10-01T21:51:26Z: PLAYER CHATTED [ 3697068106] ConquerorM13         ( -174.8,     3.1,    25.2)
+  get out
+2022-10-01T21:51:27Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -142.5,     3.1,   -18.9)
+  W
+2022-10-01T21:51:27Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -139.9,     3.1,   -22.5)
+  ###O
+2022-10-01T21:51:27Z: PLAYER CHATTED [   37856143] takaramonozu         ( -170.4,     7.0,   -32.9)
+  KILL EVERYTHING
+2022-10-01T21:51:29Z: PLAYER CHATTED [  555196484] cooldudepro182982    ( -178.9,     4.0,   -10.4)
+  GO BACK TO RUS
+2022-10-01T21:51:29Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.3,     3.5,   -22.1)
+  ######u
+2022-10-01T21:51:29Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -142.5,     3.1,   -18.9)
+  W
+2022-10-01T21:51:30Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -121.8,     3.1,    15.6)
+  W
+2022-10-01T21:51:31Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -139.9,     3.1,   -22.5)
+  NOO
+2022-10-01T21:51:32Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.3,     3.5,   -22.1)
+  Noo!!!
+2022-10-01T21:51:32Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -142.5,     3.1,   -18.9)
+  W
+2022-10-01T21:51:32Z: PLAYER CHATTED [  746447327] ii_officers          ( -118.8,     3.1,    25.2)
+  I HATE THIS
+2022-10-01T21:51:33Z: PLAYER CHATTED [   77657486] womb_cervix          ( -167.3,     7.9,   -37.2)
+  i will raze canada to the ground
+2022-10-01T21:51:34Z: PLAYER CHATTED [  160402837] blueisberry552       ( -154.5,     3.1,    -9.9)
+  L
+2022-10-01T21:51:35Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -121.8,     3.1,    15.6)
+  W
+2022-10-01T21:51:35Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.3,     3.5,   -22.1)
+  N####!!!
+2022-10-01T21:51:36Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -139.9,     3.1,   -22.5)
+  U WANNA DIE
+2022-10-01T21:51:37Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -142.5,     3.1,   -18.9)
+  W
+2022-10-01T21:51:38Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -121.8,     3.1,    15.6)
+  W
+2022-10-01T21:51:39Z: PLAYER CHATTED [   37856143] takaramonozu         ( -170.4,     7.0,   -32.9)
+  MILLIONS OF NUKES OVER THE SKIES
+2022-10-01T21:51:40Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -121.8,     3.1,    15.6)
+  W
+2022-10-01T21:51:41Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.3,     3.5,   -22.1)
+  Kill!!
+2022-10-01T21:51:41Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -142.5,     3.1,   -18.9)
+  W
+2022-10-01T21:51:41Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -121.8,     3.1,    15.6)
+  W
+2022-10-01T21:51:42Z: PLAYER CHATTED [ 3697068106] ConquerorM13         ( -174.8,     3.1,    25.2)
+  get out
+2022-10-01T21:51:42Z: PLAYER CHATTED [  169419248] Pearno               ( -148.6,     3.2,    -9.4)
+  how did his username bypas filter
+2022-10-01T21:51:43Z: PLAYER CHATTED [  746447327] ii_officers          ( -118.8,     3.1,    25.2)
+  WILL U TAKE OVER CANADAS ECONOMY?
+2022-10-01T21:51:46Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -142.5,     3.1,   -18.9)
+  W
+2022-10-01T21:51:47Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.3,     3.5,   -22.1)
+  Noo!!
+2022-10-01T21:51:47Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -121.8,     3.1,    15.6)
+  W
+2022-10-01T21:51:48Z: PLAYER CHATTED [  746447327] ii_officers          ( -118.8,     3.1,    25.2)
+  WHAT WILL U DO ABOUT UN
+2022-10-01T21:51:50Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -139.9,     3.1,   -22.5)
+  THREAT
+2022-10-01T21:51:50Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.3,     3.5,   -22.1)
+  N###!!
+2022-10-01T21:51:51Z: PLAYER REMOVED [ 3771657236] stephenxxx124
+2022-10-01T21:51:51Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -142.5,     3.1,   -18.9)
+  W
+2022-10-01T21:51:52Z: PLAYER CHATTED [   37856143] takaramonozu         ( -170.4,     7.0,   -32.9)
+  NUKE THEM
+2022-10-01T21:51:53Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -121.8,     3.1,    15.6)
+  W
+2022-10-01T21:51:54Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -121.8,     3.1,    15.6)
+  W
+2022-10-01T21:51:54Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.3,     3.5,   -22.1)
+  N####!
+2022-10-01T21:51:55Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -121.8,     3.1,    15.6)
+  W
+2022-10-01T21:51:57Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.3,     3.5,   -22.1)
+  N###
+2022-10-01T21:51:57Z: PLAYER ADDED   [  952263096] ChomperDesmond
+2022-10-01T21:52:00Z: PLAYER CHATTED [   77657486] womb_cervix          ( -167.3,     7.9,   -37.2)
+  nuke the un blue hats
+2022-10-01T21:52:00Z: PLAYER CHATTED [  746447327] ii_officers          ( -118.8,     3.1,    25.2)
+  NEAUTRAL
+2022-10-01T21:52:02Z: PLAYER CHATTED [  464107940] epicohecter9         ( -122.1,     3.0,    10.3)
+  vote red
+2022-10-01T21:52:03Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.3,     3.5,   -22.1)
+  Ahíteme
+2022-10-01T21:52:05Z: PLAYER CHATTED [  746447327] ii_officers          ( -118.8,     3.1,    25.2)
+  NEATRRAL
+2022-10-01T21:52:05Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.3,     3.5,   -22.1)
+  White
+2022-10-01T21:52:08Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -121.8,     3.1,    15.6)
+  N#####
+2022-10-01T21:52:08Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.3,     3.5,   -22.1)
+  White yess
+2022-10-01T21:52:09Z: PLAYER CHATTED [  746447327] ii_officers          ( -118.8,     3.1,    25.2)
+  YASSSSSSSSss
+2022-10-01T21:52:09Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -139.9,     3.1,   -22.5)
+  YES
+2022-10-01T21:52:10Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -121.8,     3.1,    15.6)
+  ###
+2022-10-01T21:52:11Z: PLAYER CHATTED [  746447327] ii_officers          ( -118.8,     3.1,    25.2)
+  SSSs
+2022-10-01T21:52:12Z: PLAYER CHATTED [  541756837] davidiscool736437    ( -143.0,     3.2,   -22.4)
+  Yessir
+2022-10-01T21:52:12Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -121.8,     3.1,    15.6)
+  NP
+2022-10-01T21:52:13Z: PLAYER CHATTED [  746447327] ii_officers          ( -118.8,     3.1,    25.2)
+  YAYYYYYYYYY
+2022-10-01T21:52:15Z: PLAYER REMOVED [ 1101459928] javieeeeer7
+2022-10-01T21:52:17Z: PLAYER CHATTED [  160402837] blueisberry552       ( -154.5,     3.1,    -9.9)
+  W
+2022-10-01T21:52:17Z: PLAYER ADDED   [  268467180] SevenE5
+2022-10-01T21:52:18Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -121.8,     3.1,    15.6)
+  NO
+2022-10-01T21:52:19Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -121.8,     3.1,    15.6)
+  NO
+2022-10-01T21:52:21Z: PLAYER CHATTED [   77657486] womb_cervix          ( -167.3,     7.9,   -37.2)
+  the public are full of sheep they do not know the truth
+2022-10-01T21:52:21Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -121.8,     3.1,    15.6)
+  NO
+2022-10-01T21:52:21Z: PLAYER CHATTED [ 3697068106] ConquerorM13         ( -174.8,     3.1,    25.2)
+  YES
+2022-10-01T21:52:22Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -142.5,     3.1,   -18.9)
+  yall are a bunch of walking L
+2022-10-01T21:52:22Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -139.9,     3.1,   -22.5)
+  PICK ME
+2022-10-01T21:52:23Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -121.8,     3.1,    12.1)
+  ###
+2022-10-01T21:52:28Z: CHRCTER ADDED  [ 3753807986] soyinsano700         ( -188.8,     4.2,    25.2)
+2022-10-01T21:52:30Z: PLAYER CHATTED [  541756837] davidiscool736437    ( -160.8,     3.2,    32.2)
+  Me :(
+2022-10-01T21:52:34Z: CHRCTER ADDED  [ 3753807986] soyinsano700         ( -153.8,     4.2,    25.2)
+2022-10-01T21:52:37Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.5,     3.5,   -15.2)
+  Mee
+2022-10-01T21:52:38Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -181.8,     3.1,    25.2)
+  Yes you
+2022-10-01T21:52:40Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -143.0,     3.1,   -22.6)
+  MEEEE
+2022-10-01T21:52:41Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.5,     3.5,   -15.2)
+  I will help you!!
+2022-10-01T21:52:41Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -143.0,     3.1,   -22.6)
+  PLZ
+2022-10-01T21:52:44Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.4,     3.5,   -21.6)
+  Meee
+2022-10-01T21:52:45Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -143.0,     3.1,   -22.6)
+  I NEVER GO
+2022-10-01T21:52:46Z: PLAYER CHATTED [  541756837] davidiscool736437    ( -170.6,     3.2,   -20.4)
+  Local
+2022-10-01T21:52:48Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -181.8,     3.1,    25.2)
+  i want world peace
+2022-10-01T21:52:48Z: CHRCTER ADDED  [ 3653522471] Luckymonkey95        ( -188.8,     3.2,    25.2)
+2022-10-01T21:52:48Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.4,     3.5,   -21.6)
+  I will help!!
+2022-10-01T21:52:50Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -181.8,     3.1,    25.2)
+  goofy
+2022-10-01T21:52:52Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.2,     3.5,   -22.6)
+  Plisss!!
+2022-10-01T21:52:56Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -141.4,     3.1,   -22.6)
+  YES
+2022-10-01T21:52:58Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.2,     3.5,   -22.6)
+  :((((
+2022-10-01T21:53:02Z: PLAYER REMOVED [ 2728234582] bryce91014
+2022-10-01T21:53:04Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -141.4,     3.1,   -22.3)
+  MEEEE
+2022-10-01T21:53:04Z: PLAYER ADDED   [  454524753] Luigitheone
+2022-10-01T21:53:07Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -141.4,     3.1,   -22.2)
+  PLZ
+2022-10-01T21:53:07Z: PLAYER REMOVED [ 3753807986] soyinsano700
+2022-10-01T21:53:07Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.3,     3.5,   -21.7)
+  Pliss
+2022-10-01T21:53:08Z: PLAYER REMOVED [ 3920263174] howdy_hihowareyou
+2022-10-01T21:53:08Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -141.4,     3.1,   -22.1)
+  PLZ
+2022-10-01T21:53:09Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -141.4,     3.1,   -22.1)
+  PLZ
+2022-10-01T21:53:13Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -141.4,     3.1,   -22.1)
+  N###########################
+2022-10-01T21:53:15Z: PLAYER REMOVED [  160402837] blueisberry552
+2022-10-01T21:53:17Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -141.4,     3.1,   -22.1)
+  WHYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY
+2022-10-01T21:53:18Z: PLAYER CHATTED [ 1038084411] maymay55555y         ( -142.3,     7.7,   -37.0)
+  Alright listen. With me health care won’t be expensive. I’ll improve the economy, and I’ll make sure everyone gets a foot rub at night.
+2022-10-01T21:53:23Z: PLAYER REMOVED [  746447327] ii_officers
+2022-10-01T21:53:24Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -139.3,     7.0,   -32.7)
+  free wepons 
+2022-10-01T21:53:30Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -139.3,     7.0,   -32.7)
+  free #####
+2022-10-01T21:53:30Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -165.8,     3.5,   -21.3)
+  Yes!!
+2022-10-01T21:53:30Z: PLAYER CHATTED [   77657486] womb_cervix          ( -182.7,     2.9,    -0.8)
+  i love feet rubs
+2022-10-01T21:53:32Z: CHRCTER ADDED  [    1630228] VisualPlugin         ( -132.8,     4.9,    25.2)
+2022-10-01T21:53:32Z: PLAYER CHATTED [   37856143] takaramonozu         ( -138.2,     3.1,   -22.6)
+  will you be the one rubbing my feet
+2022-10-01T21:53:33Z: PLAYER ADDED   [  493100523] jpx_rams
+2022-10-01T21:53:33Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -165.8,     3.5,   -21.3)
+  Yes!!
+2022-10-01T21:53:34Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -139.3,     7.0,   -32.7)
+  crack
+2022-10-01T21:53:34Z: PLAYER CHATTED [   37856143] takaramonozu         ( -138.2,     3.1,   -22.6)
+  WILL YOU RUB MY FEET
+2022-10-01T21:53:35Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -165.8,     3.5,   -21.3)
+  Yes!!
+2022-10-01T21:53:37Z: PLAYER CHATTED [ 1038084411] maymay55555y         ( -142.3,     7.7,   -37.0)
+  I’ll give everyone free coupons too
+2022-10-01T21:53:37Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -141.4,     3.1,   -22.1)
+  Lol
+2022-10-01T21:53:38Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -165.8,     3.5,   -21.3)
+  Yesss
+2022-10-01T21:53:38Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -139.3,     7.0,   -32.7)
+  for every one
+2022-10-01T21:53:39Z: PLAYER CHATTED [   37856143] takaramonozu         ( -138.4,     3.1,   -22.6)
+  RUB MY FEET NOW
+2022-10-01T21:53:40Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -165.8,     3.5,   -21.3)
+  Yess
+2022-10-01T21:53:41Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -139.3,     7.0,   -32.7)
+  i am the one who knocks
+2022-10-01T21:53:43Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -165.8,     3.5,   -21.3)
+  Tesss
+2022-10-01T21:53:44Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -141.4,     3.1,   -22.1)
+  FREE MONEY
+2022-10-01T21:53:45Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -165.8,     3.5,   -21.3)
+  Yesss
+2022-10-01T21:53:47Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -165.8,     3.5,   -21.3)
+  Yesss
+2022-10-01T21:53:47Z: PLAYER CHATTED [ 1038084411] maymay55555y         ( -142.3,     7.7,   -37.0)
+  To krispy cream
+2022-10-01T21:53:47Z: PLAYER REMOVED [  487311168] walterghjklfdsa
+2022-10-01T21:53:47Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -139.3,     7.0,   -32.7)
+  bombs
+2022-10-01T21:53:48Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -165.8,     3.5,   -21.3)
+  Yesss
+2022-10-01T21:53:49Z: PLAYER CHATTED [   37856143] takaramonozu         ( -138.6,     3.1,   -22.6)
+  FEET
+2022-10-01T21:53:52Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -165.8,     3.5,   -21.3)
+  Yesss
+2022-10-01T21:53:53Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -139.3,     7.0,   -32.7)
+  no more woman
+2022-10-01T21:53:57Z: PLAYER CHATTED [ 1038084411] maymay55555y         ( -142.3,     7.7,   -37.0)
+  I’ll improve the economy and stuff
+2022-10-01T21:54:02Z: PLAYER REMOVED [  555196484] cooldudepro182982
+2022-10-01T21:54:02Z: PLAYER ADDED   [  100043935] DirectorBillyBob
+2022-10-01T21:54:03Z: PLAYER ADDED   [ 3480982844] FatFaceTheIISupreme
+2022-10-01T21:54:04Z: PLAYER REMOVED [  527801344] PrincWakanda
+2022-10-01T21:54:04Z: PLAYER ADDED   [ 1649580965] glitter_bxrry
+2022-10-01T21:54:05Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -132.4,     3.8,    24.7)
+  OVERTHROW THE SUPPLY-CHAIN ECONOMY!
+2022-10-01T21:54:05Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -141.4,     3.1,   -22.1)
+  100K EACH HOUR
+2022-10-01T21:54:06Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -165.8,     3.5,   -21.3)
+  No more What!??
+2022-10-01T21:54:11Z: PLAYER CHATTED [ 2762882849] Aedificentiup        ( -154.9,     8.0,   -45.0)
+  i would like to improve this country by making more factories and helping out homeless people as well as keeping it stable by reudcing rebels, the factories would produce lots of things
+2022-10-01T21:54:11Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -165.8,     3.5,   -21.3)
+  No!!
+2022-10-01T21:54:13Z: PLAYER ADDED   [ 1879665522] krtdjrtsrsjfx
+2022-10-01T21:54:15Z: PLAYER ADDED   [ 2287341360] Brambor13042
+2022-10-01T21:54:19Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -165.8,     3.5,   -21.3)
+  No blue!!
+2022-10-01T21:54:21Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -139.3,     7.0,   -32.7)
+  L opion
+2022-10-01T21:54:22Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -165.8,     3.5,   -21.3)
+  No blue!!
+2022-10-01T21:54:23Z: PLAYER ADDED   [ 1157888012] popsvidspranks
+2022-10-01T21:54:27Z: PLAYER CHATTED [   73929731] ABCMartinFry         ( -169.0,     3.1,   -14.1)
+  DO YOU PLAY RISE OF NATIONS
+2022-10-01T21:54:27Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -139.3,     7.0,   -32.7)
+  L
+2022-10-01T21:54:29Z: PLAYER CHATTED [  493100523] jpx_rams             ( -153.2,     3.1,   -10.0)
+  tax all dogs
+2022-10-01T21:54:29Z: PLAYER REMOVED [ 3480982844] FatFaceTheIISupreme
+2022-10-01T21:54:30Z: PLAYER CHATTED [  930431858] thekittensarereal    ( -159.4,     7.8,   -47.0)
+  Yes we will help build this country!
+2022-10-01T21:54:31Z: PLAYER CHATTED [  100043935] DirectorBillyBob     ( -155.6,     3.1,    -9.3)
+  ##########################
+2022-10-01T21:54:31Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -165.8,     3.5,   -21.3)
+  No more woman what??? Yiu are gray
+2022-10-01T21:54:36Z: PLAYER CHATTED [   73929731] ABCMartinFry         ( -169.0,     3.1,   -14.1)
+  N### NEW ENGLAND HAS SPLIT OFF
+2022-10-01T21:54:36Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -139.3,     7.0,   -32.7)
+  bro really thought
+2022-10-01T21:54:36Z: PLAYER CHATTED [ 2762882849] Aedificentiup        ( -154.9,     8.0,   -45.0)
+  uh yeah i play rise of nations
+2022-10-01T21:54:38Z: PLAYER CHATTED [  100043935] DirectorBillyBob     ( -142.5,     3.1,   -19.2)
+  who knocks?
+2022-10-01T21:54:38Z: PLAYER CHATTED [ 2762882849] Aedificentiup        ( -154.9,     8.0,   -45.0)
+  is epic game
+2022-10-01T21:54:42Z: PLAYER CHATTED [  930431858] thekittensarereal    ( -159.4,     7.8,   -47.0)
+  Yep
+2022-10-01T21:54:42Z: PLAYER ADDED   [ 3425175435] Dani_47689
+2022-10-01T21:54:43Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -165.8,     3.5,   -21.3)
+  No blue!!
+2022-10-01T21:54:43Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -139.3,     7.0,   -32.7)
+  let me take notes
+2022-10-01T21:54:45Z: PLAYER CHATTED [  464107940] epicohecter9         ( -167.3,     7.9,   -37.2)
+  Have better schools
+2022-10-01T21:54:46Z: PLAYER CHATTED [  541756837] davidiscool736437    ( -170.4,     7.1,   -32.9)
+  More black ppl
+2022-10-01T21:54:50Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -165.8,     3.5,   -21.3)
+   No!!
+2022-10-01T21:54:50Z: PLAYER CHATTED [  493100523] jpx_rams             ( -153.2,     3.1,   -10.0)
+  TAX ALL DOGS
+2022-10-01T21:54:53Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -165.8,     3.5,   -21.3)
+  No red!!
+2022-10-01T21:54:54Z: PLAYER CHATTED [  464107940] epicohecter9         ( -167.3,     7.9,   -37.2)
+  have more commity
+2022-10-01T21:54:56Z: PLAYER CHATTED [  493100523] jpx_rams             ( -153.2,     3.1,   -10.0)
+  TAX ALL DOGS
+2022-10-01T21:54:56Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -165.8,     3.5,   -21.3)
+  ## ###
+2022-10-01T21:54:57Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -141.4,     3.1,   -22.1)
+  #### #ACSIT
+2022-10-01T21:54:59Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -139.3,     7.0,   -32.7)
+  more robbery
+2022-10-01T21:55:00Z: PLAYER CHATTED [  541756837] davidiscool736437    ( -170.4,     7.1,   -32.9)
+  Free computers
+2022-10-01T21:55:00Z: PLAYER CHATTED [  493100523] jpx_rams             ( -153.2,     3.1,   -10.0)
+  TAX ALL DOGS
+2022-10-01T21:55:02Z: PLAYER CHATTED [  464107940] epicohecter9         ( -167.3,     7.9,   -37.2)
+  Better channels
+2022-10-01T21:55:02Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -132.4,     3.8,    24.7)
+  And more commits to git!
+2022-10-01T21:55:03Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -139.3,     7.0,   -32.7)
+  thats good
+2022-10-01T21:55:03Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -141.4,     3.1,   -22.1)
+  ######
+2022-10-01T21:55:05Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -165.8,     3.5,   -21.3)
+  No!!
+2022-10-01T21:55:07Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -139.3,     7.0,   -32.7)
+  L
+2022-10-01T21:55:08Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -141.4,     3.1,   -22.1)
+  RASCSIT
+2022-10-01T21:55:08Z: PLAYER CHATTED [  464107940] epicohecter9         ( -167.3,     7.9,   -37.2)
+  better peopole
+2022-10-01T21:55:11Z: PLAYER REMOVED [  493100523] jpx_rams
+2022-10-01T21:55:11Z: PLAYER CHATTED [  464107940] epicohecter9         ( -167.3,     7.9,   -37.2)
+  tix
+2022-10-01T21:55:11Z: PLAYER CHATTED [  541756837] davidiscool736437    ( -170.4,     7.1,   -32.9)
+  More socialize
+2022-10-01T21:55:12Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -139.3,     7.0,   -32.7)
+  goofy
+2022-10-01T21:55:19Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -139.3,     7.0,   -32.7)
+  L
+2022-10-01T21:55:20Z: PLAYER REMOVED [ 3425175435] Dani_47689
+2022-10-01T21:55:22Z: PLAYER CHATTED [   77657486] womb_cervix          ( -166.1,     2.9,   -13.2)
+  what do you mean by better people
+2022-10-01T21:55:22Z: PLAYER ADDED   [ 1636463338] xRedDeathStarx1234
+2022-10-01T21:55:23Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -139.3,     7.0,   -32.7)
+  L
+2022-10-01T21:55:23Z: PLAYER CHATTED [  541756837] davidiscool736437    ( -170.4,     7.1,   -32.9)
+  :(
+2022-10-01T21:55:23Z: PLAYER CHATTED [   77657486] womb_cervix          ( -166.1,     2.9,   -13.2)
+  what race
+2022-10-01T21:55:23Z: PLAYER CHATTED [  464107940] epicohecter9         ( -167.3,     7.9,   -37.2)
+  everyone
+2022-10-01T21:55:29Z: PLAYER CHATTED [ 2287341360] Brambor13042         ( -168.0,     3.9,   -17.1)
+  Humans
+2022-10-01T21:55:32Z: PLAYER CHATTED [ 1038084411] maymay55555y         ( -142.3,     7.7,   -37.0)
+  Vote me !
+2022-10-01T21:55:33Z: PLAYER CHATTED [ 2287341360] Brambor13042         ( -166.9,     3.9,   -14.5)
+  Lol
+2022-10-01T21:55:37Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -165.8,     3.5,   -21.3)
+  #####
+2022-10-01T21:55:38Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -139.3,     7.0,   -32.7)
+  #################
+2022-10-01T21:55:39Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -141.4,     3.1,   -22.1)
+  BLUE
+2022-10-01T21:55:40Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -165.8,     3.5,   -21.3)
+  Wither
+2022-10-01T21:55:41Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -141.4,     3.1,   -22.1)
+  ALL DAY
+2022-10-01T21:55:42Z: PLAYER CHATTED [   77657486] womb_cervix          ( -166.1,     2.9,   -13.2)
+  I LOVE FEET
+2022-10-01T21:55:43Z: PLAYER ADDED   [ 2307962814] dancingandacting123
+2022-10-01T21:55:45Z: PLAYER CHATTED [ 1038084411] maymay55555y         ( -142.3,     7.7,   -37.0)
+  W
+2022-10-01T21:55:47Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -139.3,     7.0,   -32.7)
+  all me
+2022-10-01T21:55:49Z: PLAYER CHATTED [  464107940] epicohecter9         ( -167.3,     7.9,   -37.2)
+  ###
+2022-10-01T21:55:49Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -167.4,     3.5,   -17.1)
+  Xd
+2022-10-01T21:55:50Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -141.4,     3.1,   -22.1)
+  VOTE ME
+2022-10-01T21:55:51Z: PLAYER REMOVED [  454524753] Luigitheone
+2022-10-01T21:55:52Z: PLAYER REMOVED [ 2307962814] dancingandacting123
+2022-10-01T21:55:52Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -141.4,     3.1,   -22.1)
+  PLZ
+2022-10-01T21:55:53Z: PLAYER ADDED   [ 3425175435] Dani_47689
+2022-10-01T21:55:55Z: CHRCTER ADDED  [  268467180] SevenE5              ( -181.8,     2.9,    25.2)
+2022-10-01T21:55:58Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -141.4,     3.1,   -22.1)
+  HAVE NEVER WENT
+2022-10-01T21:55:58Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -139.3,     7.0,   -32.7)
+  i carried
+2022-10-01T21:55:59Z: PLAYER CHATTED [  464107940] epicohecter9         ( -167.3,     7.9,   -37.2)
+  why7
+2022-10-01T21:56:04Z: PLAYER CHATTED [ 1038084411] maymay55555y         ( -125.8,     2.8,    32.2)
+  Smh
+2022-10-01T21:56:05Z: PLAYER REMOVED [  100043935] DirectorBillyBob
+2022-10-01T21:56:10Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -143.1,     3.1,   -22.3)
+  PLEASE
+2022-10-01T21:56:11Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.8,     3.5,   -17.9)
+  Me!!
+2022-10-01T21:56:15Z: PLAYER CHATTED [ 2287341360] Brambor13042         ( -168.2,     3.9,   -12.1)
+  ey
+2022-10-01T21:56:16Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.8,     3.5,   -17.9)
+  I will help you!!
+2022-10-01T21:56:19Z: PLAYER REMOVED [ 2287341360] Brambor13042
+2022-10-01T21:56:19Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -141.7,     3.1,   -22.4)
+  IM BEGGING U
+2022-10-01T21:56:19Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.2,     3.5,   -22.5)
+  Please
+2022-10-01T21:56:20Z: PLAYER CHATTED [ 1649580965] glitter_bxrry        ( -154.3,     2.8,    -9.7)
+  Banana
+2022-10-01T21:56:20Z: PLAYER REMOVED [ 2762882849] Aedificentiup
+2022-10-01T21:56:21Z: CHRCTER ADDED  [ 1621581319] ElectricComets       ( -118.8,     3.2,    32.2)
+2022-10-01T21:56:22Z: PLAYER CHATTED [ 1879665522] krtdjrtsrsjfx        ( -170.3,     3.3,   -13.8)
+  e
+2022-10-01T21:56:22Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -188.5,     3.8,    17.4)
+  SELECT ME!
+2022-10-01T21:56:25Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.2,     3.5,   -22.5)
+  I will help you!!
+2022-10-01T21:56:26Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -141.7,     3.1,   -22.4)
+  FOR THE LOVE OF GOD
+2022-10-01T21:56:27Z: PLAYER CHATTED [   77657486] womb_cervix          ( -154.9,     7.9,   -45.0)
+  i forgot to change my campaign slogan
+2022-10-01T21:56:28Z: PLAYER CHATTED [  464107940] epicohecter9         ( -166.2,     3.0,   -22.3)
+  plz me
+2022-10-01T21:56:29Z: PLAYER ADDED   [ 3480982844] FatFaceTheIISupreme
+2022-10-01T21:56:34Z: CHRCTER ADDED  [ 1621581319] ElectricComets       ( -188.8,     5.1,    25.2)
+2022-10-01T21:56:34Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -141.7,     3.1,   -22.2)
+  PLEASE
+2022-10-01T21:56:36Z: PLAYER REMOVED [  464107940] epicohecter9
+2022-10-01T21:56:36Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.2,     3.5,   -22.6)
+  PlseaA
+2022-10-01T21:56:37Z: PLAYER CHATTED [   77657486] womb_cervix          ( -154.9,     7.9,   -45.0)
+  i think we should have a middling number of nukes
+2022-10-01T21:56:37Z: PLAYER REMOVED [ 3653522471] Luckymonkey95
+2022-10-01T21:56:41Z: PLAYER ADDED   [ 2606456370] secret_service252
+2022-10-01T21:56:41Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.2,     3.5,   -22.5)
+  :((
+2022-10-01T21:56:42Z: PLAYER ADDED   [ 1824098942] Dalstraw_2
+2022-10-01T21:56:45Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -141.6,     3.1,   -22.2)
+  N##############################################
+2022-10-01T21:56:45Z: PLAYER REMOVED [ 3564974562] alice192fofa
+2022-10-01T21:56:47Z: PLAYER CHATTED [  268467180] SevenE5              ( -139.3,     6.7,   -32.7)
+  racisim
+2022-10-01T21:56:48Z: CHRCTER ADDED  [ 1636463338] xRedDeathStarx1234   ( -125.8,     3.9,    32.2)
+2022-10-01T21:56:50Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -141.6,     3.1,   -22.1)
+  NOPE
+2022-10-01T21:56:51Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -170.4,     7.0,   -32.9)
+  op
+2022-10-01T21:56:51Z: PLAYER ADDED   [ 3419195147] Jaythesheep07
+2022-10-01T21:56:51Z: CHRCTER ADDED  [   37856143] takaramonozu         ( -125.8,     3.2,    25.2)
+2022-10-01T21:56:56Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.2,     3.5,   -22.5)
+  N###!!
+2022-10-01T21:56:57Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.2,     3.5,   -22.5)
+  No
+2022-10-01T21:56:58Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -170.4,     7.0,   -32.9)
+  we might loose
+2022-10-01T21:57:00Z: PLAYER CHATTED [ 1038084411] maymay55555y         ( -171.2,     2.8,   -21.2)
+  Bro 💀
+2022-10-01T21:57:01Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.2,     3.5,   -22.5)
+  ######uu 
+2022-10-01T21:57:02Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -138.6,     3.1,   -14.3)
+  True
+2022-10-01T21:57:04Z: PLAYER REMOVED [ 1879665522] krtdjrtsrsjfx
+2022-10-01T21:57:05Z: PLAYER CHATTED [   73929731] ABCMartinFry         ( -159.4,     7.0,   -47.0)
+  BOMBS BOMBS BOMBS MAKE THE SKY RAIN WITH BOMBS AND NUKES SCORCH EVERY CITYH BOMBS BOMBS BOMBS BOMBS
+2022-10-01T21:57:08Z: CHRCTER ADDED  [   37856143] takaramonozu         ( -195.8,     3.2,    25.2)
+2022-10-01T21:57:11Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -141.6,     3.1,   -22.1)
+  ABSOULTLY NOT
+2022-10-01T21:57:12Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -138.6,     3.1,   -14.3)
+  YES
+2022-10-01T21:57:13Z: PLAYER REMOVED [  952263096] ChomperDesmond
+2022-10-01T21:57:13Z: PLAYER CHATTED [   77657486] womb_cervix          ( -154.9,     7.9,   -45.0)
+  so true
+2022-10-01T21:57:15Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -141.6,     3.1,   -22.1)
+  NOPE
+2022-10-01T21:57:15Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.2,     3.5,   -22.5)
+  N###!!
+2022-10-01T21:57:16Z: PLAYER CHATTED [   73929731] ABCMartinFry         ( -159.4,     7.0,   -47.0)
+  KILLLL
+2022-10-01T21:57:16Z: PLAYER CHATTED [   77657486] womb_cervix          ( -154.9,     7.9,   -45.0)
+  nuke rich people
+2022-10-01T21:57:18Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.2,     3.5,   -22.5)
+  No!!
+2022-10-01T21:57:18Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -138.6,     3.1,   -14.3)
+  W
+2022-10-01T21:57:18Z: PLAYER CHATTED [   73929731] ABCMartinFry         ( -159.4,     7.0,   -47.0)
+  DEATH#
+2022-10-01T21:57:20Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.2,     3.5,   -22.5)
+  No!!
+2022-10-01T21:57:21Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -138.6,     3.1,   -14.3)
+  W
+2022-10-01T21:57:21Z: PLAYER CHATTED [ 1649580965] glitter_bxrry        ( -154.3,     2.8,    -9.7)
+  YESSSS
+2022-10-01T21:57:21Z: PLAYER CHATTED [   73929731] ABCMartinFry         ( -159.4,     7.0,   -47.0)
+  MURDER
+2022-10-01T21:57:21Z: PLAYER CHATTED [ 1038084411] maymay55555y         ( -171.2,     2.8,   -21.2)
+  L
+2022-10-01T21:57:22Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -138.6,     3.1,   -14.3)
+  W
+2022-10-01T21:57:22Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.2,     3.5,   -22.5)
+  No!!
+2022-10-01T21:57:24Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.2,     3.5,   -22.5)
+  No!!
+2022-10-01T21:57:24Z: PLAYER CHATTED [ 1649580965] glitter_bxrry        ( -154.3,     2.8,    -9.7)
+  WHITE
+2022-10-01T21:57:25Z: PLAYER CHATTED [   73929731] ABCMartinFry         ( -159.4,     7.0,   -47.0)
+  RUIN
+2022-10-01T21:57:26Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.2,     3.5,   -22.5)
+  No!!
+2022-10-01T21:57:26Z: PLAYER CHATTED [ 1649580965] glitter_bxrry        ( -154.3,     2.8,    -9.7)
+  W
+2022-10-01T21:57:27Z: PLAYER ADDED   [ 1997021102] jukemachine5
+2022-10-01T21:57:28Z: PLAYER CHATTED [   73929731] ABCMartinFry         ( -159.4,     7.0,   -47.0)
+  SCORCH
+2022-10-01T21:57:28Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.2,     3.5,   -22.5)
+  No!
+2022-10-01T21:57:29Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -138.6,     3.1,   -14.3)
+  VOTE WHITE
+2022-10-01T21:57:30Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -141.6,     3.1,   -22.1)
+  NO
+2022-10-01T21:57:31Z: PLAYER REMOVED [ 1157888012] popsvidspranks
+2022-10-01T21:57:31Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.2,     3.5,   -22.5)
+  No!!
+2022-10-01T21:57:32Z: PLAYER CHATTED [   73929731] ABCMartinFry         ( -159.4,     7.0,   -47.0)
+  PILLAGE
+2022-10-01T21:57:33Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -138.6,     3.1,   -14.3)
+  YES
+2022-10-01T21:57:33Z: PLAYER ADDED   [ 1822273858] lovethapopeyes122
+2022-10-01T21:57:34Z: PLAYER CHATTED [   77657486] womb_cervix          ( -154.9,     7.9,   -45.0)
+  we will use the taxes of the rich to buy infinite robux
+2022-10-01T21:57:34Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.2,     3.5,   -22.5)
+  No!
+2022-10-01T21:57:36Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.2,     3.5,   -22.5)
+  No!!
+2022-10-01T21:57:37Z: PLAYER REMOVED [ 1997021102] jukemachine5
+2022-10-01T21:57:38Z: PLAYER ADDED   [ 3304716616] Erikball1234
+2022-10-01T21:57:39Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -138.6,     3.1,   -14.3)
+  I SUPPORT
+2022-10-01T21:57:40Z: PLAYER ADDED   [ 2463552435] Russiangeneral23
+2022-10-01T21:57:42Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.2,     3.5,   -22.5)
+  No!!
+2022-10-01T21:57:43Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -170.4,     7.0,   -32.9)
+  ##########
+2022-10-01T21:57:44Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -141.6,     3.1,   -22.1)
+  NI
+2022-10-01T21:57:45Z: PLAYER CHATTED [ 1038084411] maymay55555y         ( -171.2,     2.8,   -21.2)
+  Nice save
+2022-10-01T21:57:45Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.2,     3.5,   -22.5)
+  No!!!
+2022-10-01T21:57:47Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.2,     3.5,   -22.5)
+  No!!
+2022-10-01T21:57:50Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.2,     3.5,   -22.5)
+  No!!
+2022-10-01T21:57:50Z: PLAYER CHATTED [  541756837] davidiscool736437    ( -167.3,     8.1,   -37.2)
+  Delete UWU
+2022-10-01T21:57:54Z: PLAYER CHATTED [ 1038084411] maymay55555y         ( -171.2,     2.8,   -21.2)
+  HWATT
+2022-10-01T21:57:54Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -170.4,     7.0,   -32.9)
+  we will remove ##########
+2022-10-01T21:57:56Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.2,     3.5,   -22.5)
+  Yes!!
+2022-10-01T21:57:57Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -141.6,     3.1,   -22.1)
+  UWU
+2022-10-01T21:57:59Z: PLAYER REMOVED [ 3697068106] ConquerorM13
+2022-10-01T21:57:59Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -170.4,     7.0,   -32.9)
+  ###
+2022-10-01T21:58:04Z: PLAYER CHATTED [  541756837] davidiscool736437    ( -167.3,     8.1,   -37.2)
+  ###
+2022-10-01T21:58:04Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.2,     3.5,   -22.5)
+  Ysss
+2022-10-01T21:58:05Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -141.6,     3.1,   -22.1)
+  DO SOMETHING ABOUT IT
+2022-10-01T21:58:06Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.2,     3.5,   -22.5)
+  I esss
+2022-10-01T21:58:06Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -170.4,     7.0,   -32.9)
+  remove woman
+2022-10-01T21:58:08Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.2,     3.5,   -22.5)
+  Yess
+2022-10-01T21:58:09Z: PLAYER CHATTED [  541756837] davidiscool736437    ( -167.3,     8.1,   -37.2)
+  Yes
+2022-10-01T21:58:10Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.2,     3.5,   -22.5)
+  No!!
+2022-10-01T21:58:11Z: PLAYER CHATTED [ 1038084411] maymay55555y         ( -171.2,     2.8,   -21.2)
+  L
+2022-10-01T21:58:12Z: PLAYER ADDED   [ 1920165887] keybojr
+2022-10-01T21:58:13Z: PLAYER ADDED   [ 3922722728] Just_Julio555
+2022-10-01T21:58:13Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -170.4,     7.0,   -32.9)
+  no more black people
+2022-10-01T21:58:13Z: PLAYER REMOVED [ 1592569757] Hpuppy4
+2022-10-01T21:58:14Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.2,     3.5,   -22.5)
+  I am q women!!
+2022-10-01T21:58:16Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -141.6,     3.1,   -22.1)
+  #################
+2022-10-01T21:58:17Z: PLAYER CHATTED [ 1649580965] glitter_bxrry        ( -154.2,     2.8,    -8.7)
+  L
+2022-10-01T21:58:18Z: PLAYER CHATTED [  541756837] davidiscool736437    ( -167.3,     8.1,   -37.2)
+  Men first
+2022-10-01T21:58:18Z: PLAYER CHATTED [ 1038084411] maymay55555y         ( -171.2,     2.8,   -21.2)
+  HUH
+2022-10-01T21:58:21Z: PLAYER CHATTED [ 3304716616] Erikball1234         ( -131.0,     3.7,     6.9)
+  im proud to be American
+2022-10-01T21:58:22Z: PLAYER ADDED   [ 3101480429] reeeee4508
+2022-10-01T21:58:28Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.2,     3.5,   -22.5)
+  Lwoman firts!!
+2022-10-01T21:58:29Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -170.4,     7.0,   -32.9)
+  ### removed
+2022-10-01T21:58:31Z: PLAYER CHATTED [  541756837] davidiscool736437    ( -167.3,     8.1,   -37.2)
+  English into american
+2022-10-01T21:58:31Z: PLAYER ADDED   [ 1741607200] MilitantMilli
+2022-10-01T21:58:31Z: PLAYER CHATTED [ 1649580965] glitter_bxrry        ( -154.2,     2.8,    -8.7)
+  I’m not
+2022-10-01T21:58:33Z: PLAYER CHATTED [ 2463552435] Russiangeneral23     ( -160.8,     3.4,    32.2)
+  yes
+2022-10-01T21:58:33Z: PLAYER CHATTED [   77657486] womb_cervix          ( -154.9,     7.9,   -45.0)
+  vote for us
+2022-10-01T21:58:33Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -141.6,     3.1,   -22.1)
+  HOW WE GETTING G
+2022-10-01T21:58:34Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.2,     3.5,   -22.5)
+  No!!
+2022-10-01T21:58:34Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -170.4,     7.0,   -32.9)
+  we lost
+2022-10-01T21:58:35Z: PLAYER ADDED   [ 3617643042] Kaiser_Wilhelm1940
+2022-10-01T21:58:38Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -138.6,     3.1,   -14.3)
+  WHITE
+2022-10-01T21:58:39Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -170.4,     7.0,   -32.9)
+  i sold
+2022-10-01T21:58:41Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -138.6,     3.1,   -14.3)
+  VOTE WHITE
+2022-10-01T21:58:42Z: PLAYER CHATTED [ 2463552435] Russiangeneral23     ( -160.8,     3.4,    32.2)
+  shush femenist
+2022-10-01T21:58:42Z: PLAYER CHATTED [ 1649580965] glitter_bxrry        ( -154.2,     2.8,    -8.7)
+  I HIT
+2022-10-01T21:58:43Z: PLAYER CHATTED [  541756837] davidiscool736437    ( -167.3,     8.1,   -37.2)
+  same
+2022-10-01T21:58:44Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.2,     3.5,   -22.5)
+  Wihiye
+2022-10-01T21:58:44Z: PLAYER CHATTED [ 1649580965] glitter_bxrry        ( -154.2,     2.8,    -8.7)
+  White
+2022-10-01T21:58:46Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -138.6,     3.1,   -14.3)
+  YESSS
+2022-10-01T21:58:47Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -170.4,     7.0,   -32.9)
+  yea
+2022-10-01T21:58:47Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.2,     3.5,   -22.5)
+  Yesss
+2022-10-01T21:58:47Z: PLAYER CHATTED [ 1649580965] glitter_bxrry        ( -154.2,     2.8,    -8.7)
+  WHITE
+2022-10-01T21:58:48Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.2,     3.5,   -22.5)
+  Yess
+2022-10-01T21:58:49Z: PLAYER CHATTED [   77657486] womb_cervix          ( -154.9,     7.9,   -45.0)
+  INFINITE ROBUX
+2022-10-01T21:58:49Z: PLAYER CHATTED [ 3922722728] Just_Julio555        ( -166.1,     3.2,   -22.0)
+  NO
+2022-10-01T21:58:50Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.2,     3.5,   -22.5)
+  Yess
+2022-10-01T21:58:51Z: PLAYER CHATTED [ 1649580965] glitter_bxrry        ( -154.2,     2.8,    -8.7)
+  Yessssss
+2022-10-01T21:58:54Z: PLAYER CHATTED [  169419248] Pearno               ( -157.1,     6.2,   -12.3)
+  landslide
+2022-10-01T21:59:07Z: PLAYER CHATTED [  541756837] davidiscool736437    ( -167.3,     8.1,   -37.2)
+  Rob elon musk
+2022-10-01T21:59:08Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -195.8,     3.2,    32.2)
+  MEEEEEEEEEEEEEEEEEEE
+2022-10-01T21:59:17Z: PLAYER CHATTED [ 1741607200] MilitantMilli        ( -189.1,     3.3,    23.9)
+  me
+2022-10-01T21:59:19Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -165.8,     3.5,   -18.4)
+  Mee plis!!
+2022-10-01T21:59:22Z: CHRCTER ADDED  [ 1822273858] lovethapopeyes122    ( -153.8,     3.4,    32.2)
+2022-10-01T21:59:24Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.4,     3.5,   -22.2)
+  I will help you!$
+2022-10-01T21:59:27Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.4,     3.5,   -22.2)
+  Please!!
+2022-10-01T21:59:27Z: PLAYER CHATTED [ 2463552435] Russiangeneral23     ( -183.3,     3.4,    -9.4)
+  me
+2022-10-01T21:59:28Z: CHRCTER ADDED  [ 1621581319] ElectricComets       ( -188.8,     3.2,    32.2)
+2022-10-01T21:59:28Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -139.7,     3.1,   -22.5)
+  ME ME ME ME ME ME ME
+2022-10-01T21:59:29Z: PLAYER CHATTED [ 2463552435] Russiangeneral23     ( -183.3,     3.4,    -9.4)
+  please
+2022-10-01T21:59:31Z: PLAYER CHATTED [ 1649580965] glitter_bxrry        ( -156.3,     2.8,    -9.6)
+  ME 👹
+2022-10-01T21:59:32Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -137.7,     3.1,   -16.3)
+  my bad
+2022-10-01T21:59:34Z: PLAYER CHATTED [ 1038084411] maymay55555y         ( -165.9,     2.8,   -16.2)
+  I’m the best Fr
+2022-10-01T21:59:39Z: PLAYER CHATTED [  541756837] davidiscool736437    ( -141.2,     3.2,   -18.0)
+  Its fine
+2022-10-01T21:59:39Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -140.9,     3.1,   -16.3)
+  -_-
+2022-10-01T21:59:43Z: PLAYER REMOVED [ 2463552435] Russiangeneral23
+2022-10-01T21:59:44Z: PLAYER CHATTED [  541756837] davidiscool736437    ( -142.7,     3.2,   -18.5)
+  I sold the most
+2022-10-01T21:59:46Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -139.7,     3.1,   -22.5)
+  I HAVE GOOD PLANS
+2022-10-01T21:59:50Z: PLAYER ADDED   [ 3786677068] Jacobwshere
+2022-10-01T21:59:54Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -140.9,     3.1,   -16.3)
+  i bet secret service is typing a whole paragraph
+2022-10-01T21:59:55Z: PLAYER CHATTED [  770002031] Flame_TheNinja       ( -142.4,     8.0,   -37.1)
+  If you vote for me i will lower the tax rates give women and men their rights back better school programs and make all restaurants Halal for ####### and make gas cheaper and make peace with Russia
+2022-10-01T21:59:58Z: PLAYER CHATTED [ 2606456370] secret_service252    ( -139.3,     7.0,   -32.7)
+  to help Ukraine
+2022-10-01T21:59:58Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -170.4,     7.0,   -32.9)
+  L
+2022-10-01T22:00:00Z: PLAYER CHATTED [ 2606456370] secret_service252    ( -139.3,     7.0,   -32.7)
+  to
+2022-10-01T22:00:03Z: PLAYER REMOVED [ 1822273858] lovethapopeyes122
+2022-10-01T22:00:05Z: PLAYER CHATTED [   77657486] womb_cervix          ( -159.4,     6.9,   -47.0)
+  lowering taxes is a ########## policy
+2022-10-01T22:00:05Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -170.4,     7.0,   -32.9)
+  let me take notes
+2022-10-01T22:00:06Z: PLAYER ADDED   [ 1389304186] dfstdfsydss
+2022-10-01T22:00:07Z: PLAYER CHATTED [  268467180] SevenE5              ( -121.9,     2.8,    21.4)
+  L
+2022-10-01T22:00:07Z: PLAYER REMOVED [ 3419195147] Jaythesheep07
+2022-10-01T22:00:09Z: PLAYER CHATTED [ 1038084411] maymay55555y         ( -151.9,     2.8,    -5.0)
+  Interesting 
+2022-10-01T22:00:09Z: PLAYER CHATTED [ 2606456370] secret_service252    ( -139.3,     7.0,   -32.7)
+  with schools
+2022-10-01T22:00:09Z: PLAYER CHATTED [  541756837] davidiscool736437    ( -137.4,     3.2,   -16.1)
+  EMO
+2022-10-01T22:00:09Z: PLAYER CHATTED [   77657486] womb_cervix          ( -159.4,     6.9,   -47.0)
+  conservative
+2022-10-01T22:00:11Z: PLAYER REMOVED [ 1824098942] Dalstraw_2
+2022-10-01T22:00:12Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -170.4,     7.0,   -32.9)
+  yes teacher
+2022-10-01T22:00:15Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -170.4,     7.0,   -32.9)
+  l
+2022-10-01T22:00:16Z: PLAYER CHATTED [  770002031] Flame_TheNinja       ( -142.4,     8.0,   -37.1)
+  And make everyone equal
+2022-10-01T22:00:17Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -140.9,     3.1,   -16.3)
+  ###
+2022-10-01T22:00:17Z: PLAYER CHATTED [   77657486] womb_cervix          ( -159.4,     6.9,   -47.0)
+  youre at the wrong podium
+2022-10-01T22:00:17Z: PLAYER CHATTED [ 1649580965] glitter_bxrry        ( -156.3,     2.8,    -9.5)
+  W
+2022-10-01T22:00:18Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -170.4,     7.0,   -32.9)
+  L
+2022-10-01T22:00:19Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -140.9,     3.1,   -16.3)
+  nah
+2022-10-01T22:00:19Z: PLAYER CHATTED [ 2606456370] secret_service252    ( -139.3,     7.0,   -32.7)
+  Ukraine for kids schools
+2022-10-01T22:00:22Z: PLAYER CHATTED [ 3922722728] Just_Julio555        ( -159.7,     3.2,    -9.3)
+  ##
+2022-10-01T22:00:22Z: PLAYER CHATTED [  268467180] SevenE5              ( -121.9,     2.8,    21.4)
+  #######
+2022-10-01T22:00:24Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -140.9,     3.1,   -16.3)
+  ew
+2022-10-01T22:00:24Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -170.4,     7.0,   -32.9)
+   Goofy
+2022-10-01T22:00:25Z: PLAYER CHATTED [  268467180] SevenE5              ( -121.9,     2.8,    21.4)
+  lib
+2022-10-01T22:00:26Z: PLAYER CHATTED [  770002031] Flame_TheNinja       ( -142.4,     8.0,   -37.1)
+  no
+2022-10-01T22:00:29Z: PLAYER CHATTED [ 2606456370] secret_service252    ( -139.3,     7.0,   -32.7)
+  and food
+2022-10-01T22:00:29Z: PLAYER CHATTED [  770002031] Flame_TheNinja       ( -142.4,     8.0,   -37.1)
+  not ukraine
+2022-10-01T22:00:29Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -140.9,     3.1,   -16.3)
+  Goofy ahh
+2022-10-01T22:00:32Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -139.7,     3.1,   -22.2)
+  GOOFBALL
+2022-10-01T22:00:32Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -170.4,     7.0,   -32.9)
+  peace and harmeny
+2022-10-01T22:00:33Z: PLAYER CHATTED [ 2606456370] secret_service252    ( -139.3,     7.0,   -32.7)
+  to them
+2022-10-01T22:00:35Z: PLAYER CHATTED [ 1389304186] dfstdfsydss          ( -152.0,     3.1,   -10.0)
+  vive ## ##sismo !
+2022-10-01T22:00:35Z: PLAYER CHATTED [  770002031] Flame_TheNinja       ( -142.4,     8.0,   -37.1)
+  Russia
+2022-10-01T22:00:35Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -170.4,     7.0,   -32.9)
+  goofy
+2022-10-01T22:00:39Z: PLAYER REMOVED [ 3101480429] reeeee4508
+2022-10-01T22:00:40Z: PLAYER CHATTED [   37856143] takaramonozu         ( -154.9,     8.0,   -45.0)
+  ##########
+2022-10-01T22:00:41Z: PLAYER CHATTED [   37856143] takaramonozu         ( -154.9,     8.0,   -45.0)
+  ROBUX
+2022-10-01T22:00:44Z: PLAYER CHATTED [   37856143] takaramonozu         ( -154.9,     8.0,   -45.0)
+  TRILLIONS OF ROBUX
+2022-10-01T22:00:44Z: PLAYER CHATTED [   77657486] womb_cervix          ( -159.4,     6.9,   -47.0)
+  infinite robux
+2022-10-01T22:00:45Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -140.9,     3.1,   -16.3)
+  YES
+2022-10-01T22:00:47Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -140.9,     3.1,   -16.3)
+  W
+2022-10-01T22:00:47Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -139.7,     3.1,   -22.1)
+  YES
+2022-10-01T22:00:47Z: PLAYER CHATTED [   37856143] takaramonozu         ( -154.9,     8.0,   -45.0)
+  INFINITE ROBUX
+2022-10-01T22:00:48Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -140.9,     3.1,   -16.3)
+  W
+2022-10-01T22:00:50Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -140.9,     3.1,   -18.9)
+  W
+2022-10-01T22:00:50Z: PLAYER CHATTED [   37856143] takaramonozu         ( -154.9,     8.0,   -45.0)
+  #### DOMINUS AND VOIDSTAR
+2022-10-01T22:00:52Z: PLAYER CHATTED [ 1038084411] maymay55555y         ( -151.9,     2.8,    -5.0)
+  ####
+2022-10-01T22:00:53Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -140.9,     3.1,   -18.9)
+  W
+2022-10-01T22:00:54Z: PLAYER CHATTED [   77657486] womb_cervix          ( -159.4,     6.9,   -47.0)
+  #### food
+2022-10-01T22:00:54Z: PLAYER ADDED   [  144804390] chuck_corn
+2022-10-01T22:00:55Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -170.4,     7.0,   -32.9)
+  L
+2022-10-01T22:00:56Z: PLAYER CHATTED [   37856143] takaramonozu         ( -154.9,     8.0,   -45.0)
+  NO MORE CARS
+2022-10-01T22:00:57Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -170.4,     7.0,   -32.9)
+  L
+2022-10-01T22:00:57Z: PLAYER CHATTED [ 3922722728] Just_Julio555        ( -159.7,     3.2,    -9.3)
+  yea no
+2022-10-01T22:00:58Z: PLAYER CHATTED [   37856143] takaramonozu         ( -154.9,     8.0,   -45.0)
+  ONLY ROBUX
+2022-10-01T22:00:58Z: PLAYER CHATTED [ 1389304186] dfstdfsydss          ( -142.8,     3.1,   -14.1)
+  Vive ## ##sismo !
+2022-10-01T22:01:00Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -139.7,     3.1,   -22.1)
+  NO
+2022-10-01T22:01:01Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -170.4,     7.0,   -32.9)
+  L
+2022-10-01T22:01:01Z: PLAYER ADDED   [ 1626536449] HavyBee
+2022-10-01T22:01:02Z: PLAYER CHATTED [   37856143] takaramonozu         ( -154.9,     8.0,   -45.0)
+  ROBUX CARS
+2022-10-01T22:01:03Z: PLAYER REMOVED [ 3617643042] Kaiser_Wilhelm1940
+2022-10-01T22:01:06Z: PLAYER CHATTED [ 1389304186] dfstdfsydss          ( -142.8,     3.1,   -14.1)
+  #### le comfederate !
+2022-10-01T22:01:09Z: PLAYER CHATTED [   37856143] takaramonozu         ( -154.9,     8.0,   -45.0)
+  INFINITE ROBUX FOREVER
+2022-10-01T22:01:10Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -170.4,     7.0,   -32.9)
+  robux is fake
+2022-10-01T22:01:13Z: PLAYER CHATTED [   37856143] takaramonozu         ( -154.9,     8.0,   -45.0)
+  NO SCHOOL
+2022-10-01T22:01:14Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -170.4,     7.0,   -32.9)
+  fake robux
+2022-10-01T22:01:16Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -139.7,     3.1,   -22.1)
+  WE NEED ONLY FAST SUPER CARS AND ROBUX
+2022-10-01T22:01:19Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -170.4,     7.0,   -32.9)
+  not real
+2022-10-01T22:01:19Z: PLAYER CHATTED [   37856143] takaramonozu         ( -154.9,     8.0,   -45.0)
+  ROBUX SHCOOL
+2022-10-01T22:01:20Z: PLAYER CHATTED [ 1389304186] dfstdfsydss          ( -142.8,     3.1,   -13.0)
+  ##### !
+2022-10-01T22:01:21Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -140.9,     3.1,   -18.9)
+  i like sch###l
+2022-10-01T22:01:25Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -140.9,     3.1,   -18.9)
+  school is good
+2022-10-01T22:01:27Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -170.4,     7.0,   -32.9)
+  crack for all
+2022-10-01T22:01:30Z: PLAYER CHATTED [   46775850] antho84              ( -167.3,     8.0,   -37.2)
+  I will remove the right to gay and trans
+2022-10-01T22:01:31Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -140.9,     3.1,   -18.9)
+  YE
+2022-10-01T22:01:33Z: PLAYER CHATTED [  541756837] davidiscool736437    ( -137.4,     3.2,   -16.1)
+  Vote for breaking bad man
+2022-10-01T22:01:34Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -140.9,     3.1,   -18.9)
+  YES
+2022-10-01T22:01:34Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -170.4,     7.0,   -32.9)
+  free bugattis
+2022-10-01T22:01:36Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -140.9,     3.1,   -18.9)
+  YESSSSS
+2022-10-01T22:01:37Z: PLAYER CHATTED [   37856143] takaramonozu         ( -154.9,     8.0,   -45.0)
+  ######## my ###########
+2022-10-01T22:01:39Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.4,     3.5,   -22.2)
+  School is good!!
+2022-10-01T22:01:40Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -139.7,     3.1,   -22.1)
+  ###OO
+2022-10-01T22:01:40Z: PLAYER CHATTED [   46775850] antho84              ( -167.3,     8.0,   -37.2)
+  legalize math
+2022-10-01T22:01:40Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -140.9,     3.1,   -18.9)
+  W
+2022-10-01T22:01:41Z: PLAYER CHATTED [   77657486] womb_cervix          ( -159.4,     6.9,   -47.0)
+  thats very in character
+2022-10-01T22:01:41Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -170.4,     7.0,   -32.9)
+  no more woman
+2022-10-01T22:01:42Z: PLAYER CHATTED [ 3922722728] Just_Julio555        ( -159.7,     3.2,    -9.3)
+  YESSSS
+2022-10-01T22:01:42Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -140.9,     3.1,   -18.9)
+  W
+2022-10-01T22:01:43Z: PLAYER CHATTED [ 1038084411] maymay55555y         ( -151.9,     2.8,    -5.0)
+  WHAT
+2022-10-01T22:01:44Z: PLAYER ADDED   [ 1943027605] WentToGoGetMilkBrb
+2022-10-01T22:01:44Z: PLAYER CHATTED [  930431858] thekittensarereal    ( -160.8,     3.9,    25.2)
+  …
+2022-10-01T22:01:45Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -170.4,     7.0,   -32.9)
+  bye bye
+2022-10-01T22:01:46Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -139.7,     3.1,   -22.1)
+  NO
+2022-10-01T22:01:47Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -140.9,     3.1,   -18.9)
+  YES
+2022-10-01T22:01:48Z: PLAYER CHATTED [  268467180] SevenE5              ( -121.9,     2.8,    21.4)
+  W
+2022-10-01T22:01:49Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -140.9,     3.1,   -18.9)
+  RED
+2022-10-01T22:01:49Z: PLAYER CHATTED [  541756837] davidiscool736437    ( -137.4,     3.2,   -16.1)
+  YES
+2022-10-01T22:01:50Z: PLAYER CHATTED [ 1636463338] xRedDeathStarx1234   ( -141.1,     3.8,   -22.5)
+  no
+2022-10-01T22:01:50Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.4,     3.5,   -22.2)
+  No more What!??
+2022-10-01T22:01:52Z: PLAYER CHATTED [ 3922722728] Just_Julio555        ( -159.7,     3.2,    -9.3)
+  YESSIR
+2022-10-01T22:01:53Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -140.9,     3.1,   -18.9)
+  ### FOR THE WIN
+2022-10-01T22:01:53Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.4,     3.5,   -22.2)
+  I am q women!!
+2022-10-01T22:01:54Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -183.2,     3.8,     8.3)
+  Maths should always be possible.
+2022-10-01T22:01:54Z: PLAYER CHATTED [  541756837] davidiscool736437    ( -137.4,     3.2,   -16.1)
+  W
+2022-10-01T22:01:55Z: PLAYER CHATTED [  268467180] SevenE5              ( -121.9,     2.8,    21.4)
+  W
+2022-10-01T22:01:55Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -170.4,     7.0,   -32.9)
+  rain bombs
+2022-10-01T22:01:57Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.4,     3.5,   -22.2)
+  No!!
+2022-10-01T22:01:57Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -140.9,     3.1,   -18.9)
+  ###
+2022-10-01T22:01:59Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -170.4,     7.0,   -32.9)
+  nukes
+2022-10-01T22:01:59Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.4,     3.5,   -22.2)
+  No!!
+2022-10-01T22:02:00Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -183.2,     3.8,     8.3)
+  Calculus included!
+2022-10-01T22:02:00Z: PLAYER CHATTED [ 1038084411] maymay55555y         ( -151.9,     2.8,    -5.0)
+  ….
+2022-10-01T22:02:01Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -139.7,     3.1,   -22.1)
+  NO MORE RACSIST MEN
+2022-10-01T22:02:03Z: PLAYER ADDED   [ 2420422851] schoolbussimulator7
+2022-10-01T22:02:04Z: PLAYER CHATTED [  268467180] SevenE5              ( -121.9,     2.8,    21.4)
+  W PARTY
+2022-10-01T22:02:04Z: PLAYER CHATTED [   46775850] antho84              ( -167.3,     8.0,   -37.2)
+  free gun
+2022-10-01T22:02:05Z: PLAYER CHATTED [ 3922722728] Just_Julio555        ( -159.7,     3.2,    -9.3)
+  ##### ###### ##### ######
+2022-10-01T22:02:05Z: PLAYER CHATTED [  770002031] Flame_TheNinja       ( -142.4,     8.0,   -37.1)
+  bro i legit gave a good speech about stuff and yall choosing that :/
+2022-10-01T22:02:05Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -170.4,     7.0,   -32.9)
+  pet elon musk
+2022-10-01T22:02:08Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -140.9,     3.1,   -18.9)
+  #### ###
+2022-10-01T22:02:10Z: PLAYER CHATTED [  268467180] SevenE5              ( -121.9,     2.8,    21.4)
+  W PEANUT
+2022-10-01T22:02:13Z: PLAYER CHATTED [ 1626536449] HavyBee              ( -165.9,     3.1,   -15.0)
+  Boys only boys only 
+2022-10-01T22:02:14Z: PLAYER CHATTED [ 3786677068] Jacobwshere          ( -125.8,     2.8,    25.2)
+  VOTE ,EEEEEEEE
+2022-10-01T22:02:15Z: PLAYER CHATTED [   77657486] womb_cervix          ( -159.4,     6.9,   -47.0)
+  it wasnt a speech it was a single paragraph
+2022-10-01T22:02:15Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -170.4,     7.0,   -32.9)
+  for every one
+2022-10-01T22:02:15Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -140.9,     3.1,   -18.9)
+  VOTE 4 PEANUT
+2022-10-01T22:02:15Z: PLAYER CHATTED [   73929731] ABCMartinFry         ( -176.0,     3.1,   -10.6)
+  YOUR SPEECH WAS BAD
+2022-10-01T22:02:17Z: PLAYER CHATTED [ 3425175435] Dani_47689           ( -141.5,     3.3,   -10.0)
+  You all are bad!
+2022-10-01T22:02:22Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -139.7,     3.1,   -22.1)
+  ###
+2022-10-01T22:02:22Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -140.9,     3.1,   -18.9)
+  PLS NOT BLUE
+2022-10-01T22:02:23Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -170.4,     7.0,   -32.9)
+  pet elon musk
+2022-10-01T22:02:23Z: PLAYER CHATTED [ 3786677068] Jacobwshere          ( -136.8,     2.8,   -22.4)
+  VOTE MEEEEEE
+2022-10-01T22:02:25Z: PLAYER CHATTED [  169419248] Pearno               ( -152.4,     3.2,    -9.8)
+  tie
+2022-10-01T22:02:26Z: PLAYER CHATTED [  541756837] davidiscool736437    ( -137.4,     3.2,   -16.1)
+  NO BLUE
+2022-10-01T22:02:30Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -170.4,     7.0,   -32.9)
+  for all
+2022-10-01T22:02:32Z: PLAYER CHATTED [   77657486] womb_cervix          ( -159.4,     6.9,   -47.0)
+  none of these sheep want infinite robux
+2022-10-01T22:02:32Z: PLAYER CHATTED [ 3786677068] Jacobwshere          ( -135.4,     2.8,   -22.2)
+  VOTE MEEEEEEEEEEEEEEEEE
+2022-10-01T22:02:34Z: PLAYER CHATTED [   37856143] takaramonozu         ( -154.9,     8.0,   -45.0)
+  why do none of you want #### #####
+2022-10-01T22:02:35Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.4,     3.5,   -22.2)
+  Blue!!
+2022-10-01T22:02:35Z: PLAYER CHATTED [ 1636463338] xRedDeathStarx1234   ( -141.1,     3.8,   -22.5)
+  blue
+2022-10-01T22:02:37Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.4,     3.5,   -22.2)
+  Blues
+2022-10-01T22:02:38Z: PLAYER CHATTED [   37856143] takaramonozu         ( -154.9,     8.0,   -45.0)
+  infinite robux
+2022-10-01T22:02:39Z: PLAYER CHATTED [ 1389304186] dfstdfsydss          ( -142.8,     3.1,   -13.0)
+  peanut !
+2022-10-01T22:02:41Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -140.9,     3.1,   -18.9)
+  N#####
+2022-10-01T22:02:42Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -170.4,     7.0,   -32.9)
+  What
+2022-10-01T22:02:43Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -140.9,     3.1,   -18.9)
+  NO
+2022-10-01T22:02:44Z: PLAYER CHATTED [ 3786677068] Jacobwshere          ( -155.0,     2.8,    -9.5)
+  VOTE MEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+2022-10-01T22:02:44Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -140.9,     3.1,   -18.9)
+  NO
+2022-10-01T22:02:45Z: PLAYER CHATTED [ 3922722728] Just_Julio555        ( -159.7,     3.2,    -9.3)
+  NOO
+2022-10-01T22:02:47Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -140.9,     3.1,   -18.9)
+  NO
+2022-10-01T22:02:48Z: PLAYER CHATTED [  268467180] SevenE5              ( -121.9,     2.8,    21.4)
+  rigged
+2022-10-01T22:02:50Z: PLAYER CHATTED [  770002031] Flame_TheNinja       ( -142.4,     8.0,   -37.1)
+  Thx
+2022-10-01T22:02:50Z: PLAYER CHATTED [ 1038084411] maymay55555y         ( -155.7,     2.8,    -3.2)
+  #####
+2022-10-01T22:02:51Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -140.9,     3.1,   -18.9)
+  NO
+2022-10-01T22:02:52Z: PLAYER CHATTED [  541756837] davidiscool736437    ( -137.4,     3.2,   -16.1)
+  YOU NEED TO LEAVE
+2022-10-01T22:02:56Z: PLAYER REMOVED [ 1649580965] glitter_bxrry
+2022-10-01T22:02:57Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -170.4,     7.0,   -32.9)
+  THATS FAKE
+2022-10-01T22:02:57Z: CHRCTER ADDED  [ 1038084411] maymay55555y         ( -139.8,     2.9,    32.2)
+2022-10-01T22:02:57Z: PLAYER CHATTED [ 1741607200] MilitantMilli        ( -169.9,     3.3,   -20.1)
+  i wan a try
+2022-10-01T22:02:58Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -140.7,     3.1,   -22.2)
+  OUT
+2022-10-01T22:02:58Z: PLAYER CHATTED [  770002031] Flame_TheNinja       ( -142.4,     8.0,   -37.1)
+  i won,t run again
+2022-10-01T22:02:59Z: PLAYER CHATTED [ 3786677068] Jacobwshere          ( -155.5,     2.8,   -10.1)
+  VOTE ME IF YOUR COOL
+2022-10-01T22:03:01Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -170.4,     7.0,   -32.9)
+  ccaps
+2022-10-01T22:03:03Z: CHRCTER ADDED  [ 1038084411] maymay55555y         ( -195.8,     2.9,    25.2)
+2022-10-01T22:03:09Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -140.5,     3.1,   -17.5)
+  me
+2022-10-01T22:03:09Z: PLAYER CHATTED [  770002031] Flame_TheNinja       ( -188.8,     3.1,    32.2)
+  ehh i gave a good paragraphe
+2022-10-01T22:03:13Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -143.2,     3.1,   -22.0)
+  mee
+2022-10-01T22:03:14Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -167.3,     8.0,   -37.2)
+  please
+2022-10-01T22:03:15Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -190.8,     3.5,     2.3)
+  ##########
+2022-10-01T22:03:17Z: PLAYER CHATTED [ 1741607200] MilitantMilli        ( -153.5,     3.3,    11.2)
+  me
+2022-10-01T22:03:17Z: PLAYER REMOVED [ 3425175435] Dani_47689
+2022-10-01T22:03:18Z: PLAYER CHATTED [   46775850] antho84              ( -136.6,     3.1,     8.8)
+  recape vote
+2022-10-01T22:03:18Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -174.3,     3.5,   -16.0)
+  Mee
+2022-10-01T22:03:19Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -142.9,     3.1,   -22.3)
+  man
+2022-10-01T22:03:19Z: PLAYER CHATTED [ 1038084411] maymay55555y         ( -161.6,     2.8,    -9.7)
+  Vote me Fr 
+2022-10-01T22:03:19Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -156.1,     3.1,    -9.7)
+  bought the W
+2022-10-01T22:03:20Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -142.9,     3.1,   -22.3)
+  do me
+2022-10-01T22:03:21Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.3,     3.5,   -22.0)
+  I will help!!
+2022-10-01T22:03:23Z: PLAYER ADDED   [ 1762347480] SH1LXHH
+2022-10-01T22:03:24Z: PLAYER CHATTED [ 2420422851] schoolbussimulator7  ( -165.7,     3.1,   -21.1)
+  gunther!
+2022-10-01T22:03:25Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.3,     3.5,   -22.0)
+  #########
+2022-10-01T22:03:27Z: PLAYER CHATTED [ 1389304186] dfstdfsydss          ( -167.5,     3.1,   -11.9)
+  free nationalisimo !
+2022-10-01T22:03:27Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -142.9,     3.1,   -22.2)
+  ill take the w
+2022-10-01T22:03:29Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.3,     3.5,   -22.0)
+  Plisss
+2022-10-01T22:03:31Z: PLAYER REMOVED [  770002031] Flame_TheNinja
+2022-10-01T22:03:31Z: PLAYER CHATTED [ 1389304186] dfstdfsydss          ( -166.3,     3.1,   -20.9)
+  south !
+2022-10-01T22:03:31Z: PLAYER CHATTED [   37856143] takaramonozu         ( -169.4,     3.1,   -18.7)
+  why
+2022-10-01T22:03:34Z: PLAYER CHATTED [ 2969707896] Aletacisu0           ( -166.3,     3.5,   -22.0)
+  I will help!!
+2022-10-01T22:03:40Z: PLAYER REMOVED [ 2606456370] secret_service252
+2022-10-01T22:03:40Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -141.6,     3.1,   -21.2)
+  please
+2022-10-01T22:03:41Z: PLAYER CHATTED [   46775850] antho84              ( -169.5,     3.1,   -11.7)
+  blue hack election with russia
+2022-10-01T22:03:41Z: PLAYER CHATTED [ 1741607200] MilitantMilli        ( -140.5,     3.3,   -17.4)
+  i want tohelp 
+2022-10-01T22:03:42Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -141.6,     3.1,   -21.2)
+  NOO
+2022-10-01T22:03:45Z: PLAYER CHATTED [   37856143] takaramonozu         ( -170.4,     7.0,   -32.9)
+  hey guys whats up
+2022-10-01T22:03:46Z: PLAYER REMOVED [ 1762347480] SH1LXHH
+2022-10-01T22:03:48Z: PLAYER CHATTED [ 2420422851] schoolbussimulator7  ( -159.4,     7.0,   -47.0)
+  IM A VICE!
+2022-10-01T22:03:53Z: PLAYER CHATTED [ 1038084411] maymay55555y         ( -136.9,     2.8,   -18.8)
+  ….
+2022-10-01T22:03:53Z: PLAYER REMOVED [ 3922722728] Just_Julio555
+2022-10-01T22:03:54Z: PLAYER REMOVED [ 1389304186] dfstdfsydss
+2022-10-01T22:03:55Z: CHRCTER ADDED  [ 1943027605] WentToGoGetMilkBrb   ( -174.8,     3.3,    32.2)
+2022-10-01T22:03:55Z: PLAYER ADDED   [  290257614] h20godmaxpro25
+2022-10-01T22:03:58Z: PLAYER REMOVED [ 1943027605] WentToGoGetMilkBrb
+2022-10-01T22:04:01Z: PLAYER ADDED   [ 1203964980] Tanajai84
+2022-10-01T22:04:01Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -142.4,     8.7,   -37.1)
+  I reckon making me have to pay to rruna gain is absurd!
+2022-10-01T22:04:01Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -161.7,     3.1,   -10.0)
+  W
+2022-10-01T22:04:03Z: PLAYER REMOVED [ 1626536449] HavyBee
+2022-10-01T22:04:06Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -142.4,     8.7,   -37.1)
+  *Run again.
+2022-10-01T22:04:10Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -161.7,     3.1,   -10.0)
+  what
+2022-10-01T22:04:11Z: PLAYER CHATTED [   73929731] ABCMartinFry         ( -163.2,     3.1,     1.9)
+  AGREE
+2022-10-01T22:04:12Z: PLAYER CHATTED [ 1038084411] maymay55555y         ( -136.9,     2.8,   -18.8)
+  What bruh
+2022-10-01T22:04:14Z: PLAYER ADDED   [ 1762347480] SH1LXHH
+2022-10-01T22:04:16Z: CHRCTER ADDED  [ 1203964980] Tanajai84            ( -125.8,     4.1,    32.2)
+2022-10-01T22:04:19Z: PLAYER CHATTED [   73929731] ABCMartinFry         ( -163.2,     3.1,     1.9)
+  NO MORE MONEY
+2022-10-01T22:04:19Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -142.4,     8.7,   -37.1)
+  It's an injustice to our system of democracy.
+2022-10-01T22:04:22Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -161.7,     3.1,   -10.0)
+  L
+2022-10-01T22:04:22Z: PLAYER CHATTED [   73929731] ABCMartinFry         ( -163.2,     3.1,     1.9)
+  ONLY ROBUX
+2022-10-01T22:04:27Z: PLAYER ADDED   [   25864516] RMJellyfish456
+2022-10-01T22:04:29Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -142.4,     8.7,   -37.1)
+  Who're we paying it to?
+2022-10-01T22:04:31Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -161.7,     3.1,   -10.0)
+  ############
+2022-10-01T22:04:32Z: PLAYER REMOVED [   25864516] RMJellyfish456
+2022-10-01T22:04:32Z: PLAYER CHATTED [ 3786677068] Jacobwshere          ( -154.9,     7.7,   -45.0)
+  We get free ladies #### ##### #### ###### Give cars Pull baba grills
+2022-10-01T22:04:35Z: PLAYER ADDED   [ 3097958948] shelbielovesfrogs
+2022-10-01T22:04:35Z: PLAYER ADDED   [  773244198] cjkittycatman8
+2022-10-01T22:04:38Z: PLAYER CHATTED [ 3786677068] Jacobwshere          ( -154.9,     7.7,   -45.0)
+  free #####
+2022-10-01T22:04:41Z: PLAYER CHATTED [ 3786677068] Jacobwshere          ( -154.9,     7.7,   -45.0)
+  free baba grills
+2022-10-01T22:04:44Z: PLAYER ADDED   [ 1035517477] TrapNation_08
+2022-10-01T22:04:45Z: PLAYER ADDED   [ 3563427680] luvjevna
+2022-10-01T22:04:47Z: PLAYER CHATTED [ 3786677068] Jacobwshere          ( -154.9,     7.7,   -45.0)
+  No candice
+2022-10-01T22:04:47Z: PLAYER CHATTED [ 1038084411] maymay55555y         ( -136.9,     2.8,   -18.8)
+  YEAA
+2022-10-01T22:04:50Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -161.7,     3.1,   -10.0)
+  ###########
+2022-10-01T22:04:51Z: PLAYER CHATTED [ 3786677068] Jacobwshere          ( -154.9,     7.7,   -45.0)
+  wait whos candice
+2022-10-01T22:04:53Z: PLAYER CHATTED [ 3786677068] Jacobwshere          ( -154.9,     7.7,   -45.0)
+  nvm
+2022-10-01T22:04:55Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -161.7,     3.1,   -10.0)
+  L
+2022-10-01T22:05:00Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -161.7,     3.1,   -10.0)
+  get off the stage
+2022-10-01T22:05:00Z: PLAYER CHATTED [ 3786677068] Jacobwshere          ( -154.9,     7.7,   -45.0)
+  free baba grills
+2022-10-01T22:05:03Z: PLAYER CHATTED [ 1038084411] maymay55555y         ( -136.9,     2.8,   -18.8)
+  GO JOE
+2022-10-01T22:05:04Z: PLAYER CHATTED [   73929731] ABCMartinFry         ( -163.2,     3.1,     1.9)
+  GET OFF THE STAGE
+2022-10-01T22:05:05Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -161.7,     3.1,   -10.0)
+  nobody cares
+2022-10-01T22:05:06Z: PLAYER CHATTED [ 3786677068] Jacobwshere          ( -154.9,     7.7,   -45.0)
+  1####m #####
+2022-10-01T22:05:07Z: PLAYER REMOVED [ 3097958948] shelbielovesfrogs
+2022-10-01T22:05:10Z: PLAYER REMOVED [  773244198] cjkittycatman8
+2022-10-01T22:05:10Z: PLAYER CHATTED [   73929731] ABCMartinFry         ( -163.2,     3.1,     1.9)
+  NO ONE WANTS TO VOTE FOR YOU
+2022-10-01T22:05:10Z: PLAYER CHATTED [ 3786677068] Jacobwshere          ( -154.9,     7.7,   -45.0)
+  ########
+2022-10-01T22:05:11Z: PLAYER ADDED   [  554122512] Adamnetic
+2022-10-01T22:05:12Z: PLAYER CHATTED [ 1035517477] TrapNation_08        ( -155.5,     3.8,    -9.8)
+  ###
+2022-10-01T22:05:16Z: PLAYER ADDED   [ 3862238166] DAKQUACK
+2022-10-01T22:05:17Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -167.3,     8.0,   -37.2)
+  Make gas prices lower. No more racisim! More Money everyday! 100K EVERYDAY NO SCHOOL
+2022-10-01T22:05:21Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -161.7,     3.1,   -10.0)
+  baba girls built like quandingle
+2022-10-01T22:05:21Z: PLAYER CHATTED [   37856143] takaramonozu         ( -170.4,     7.0,   -32.9)
+  YEAH
+2022-10-01T22:05:23Z: PLAYER CHATTED [ 1035517477] TrapNation_08        ( -155.5,     3.8,    -9.8)
+  YES!!!
+2022-10-01T22:05:24Z: PLAYER CHATTED [  268467180] SevenE5              ( -195.8,     2.8,    25.2)
+  L
+2022-10-01T22:05:24Z: PLAYER CHATTED [   37856143] takaramonozu         ( -170.4,     7.0,   -32.9)
+  NO MORE RACIST
+2022-10-01T22:05:24Z: PLAYER CHATTED [ 1203964980] Tanajai84            ( -164.5,     4.0,    -9.9)
+  Yes
+2022-10-01T22:05:27Z: PLAYER CHATTED [   77657486] womb_cervix          ( -171.4,     2.9,   -18.3)
+  that isnt very conservative of you
+2022-10-01T22:05:27Z: PLAYER ADDED   [  404687826] LlamaLover2046
+2022-10-01T22:05:29Z: PLAYER CHATTED [   37856143] takaramonozu         ( -170.4,     7.0,   -32.9)
+  INFINITE ROBUX
+2022-10-01T22:05:31Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -161.7,     3.1,   -10.0)
+  L
+2022-10-01T22:05:32Z: PLAYER CHATTED [ 1035517477] TrapNation_08        ( -155.5,     3.8,    -9.8)
+  Let’s Go
+2022-10-01T22:05:39Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -167.3,     8.0,   -37.2)
+  INFINITE ROBUX ALL DAY
+2022-10-01T22:05:39Z: PLAYER CHATTED [  268467180] SevenE5              ( -195.8,     2.8,    25.2)
+  your on the wrong party rhino
+2022-10-01T22:05:44Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -161.0,     3.1,    -8.6)
+  five year old
+2022-10-01T22:05:44Z: PLAYER CHATTED [   37856143] takaramonozu         ( -170.4,     7.0,   -32.9)
+  please
+2022-10-01T22:05:44Z: PLAYER CHATTED [ 1035517477] TrapNation_08        ( -155.5,     3.8,    -9.8)
+  YE!!
+2022-10-01T22:05:45Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -142.0,     3.1,   -19.5)
+  no one asked + cares + niceness is bad
+2022-10-01T22:05:46Z: PLAYER CHATTED [   37856143] takaramonozu         ( -170.4,     7.0,   -32.9)
+  roux
+2022-10-01T22:05:50Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -167.3,     8.0,   -37.2)
+  EVERY SECOND
+2022-10-01T22:05:55Z: PLAYER CHATTED [ 1359679232] shootfloss314        ( -167.3,     8.0,   -37.2)
+  ROBUX
+2022-10-01T22:05:55Z: PLAYER CHATTED [ 1035517477] TrapNation_08        ( -155.5,     3.8,    -9.8)
+  YES!
+2022-10-01T22:05:56Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -161.0,     3.1,    -8.6)
+  get off the stage
+2022-10-01T22:05:57Z: PLAYER CHATTED [   37856143] takaramonozu         ( -170.4,     7.0,   -32.9)
+  no more children
+2022-10-01T22:05:59Z: PLAYER CHATTED [ 3786677068] Jacobwshere          ( -154.9,     7.7,   -45.0)
+  FREE BABA GRILLS
+2022-10-01T22:06:00Z: PLAYER CHATTED [ 1038084411] maymay55555y         ( -136.9,     2.8,   -18.8)
+  …
+2022-10-01T22:06:01Z: PLAYER CHATTED [ 3786677068] Jacobwshere          ( -154.9,     7.7,   -45.0)
+  FEE
+2022-10-01T22:06:05Z: PLAYER CHATTED [ 3786677068] Jacobwshere          ( -154.9,     7.7,   -45.0)
+  FEAT PIC
+2022-10-01T22:06:06Z: PLAYER CHATTED [  144804390] chuck_corn           ( -149.9,     3.1,   -10.0)
+  they all bad
+2022-10-01T22:06:06Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -142.0,     3.1,   -19.5)
+  tbh white
+2022-10-01T22:06:11Z: PLAYER CHATTED [ 2828940805] Yourmonbum78         ( -161.0,     3.1,    -8.6)
+  ########
+2022-10-01T22:06:13Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -142.0,     3.1,   -19.5)
+  why
+2022-10-01T22:06:22Z: PLAYER CHATTED [ 1038084411] maymay55555y         ( -136.9,     2.8,   -18.8)
+  W abs
+2022-10-01T22:06:28Z: CHRCTER ADDED  [    1630228] VisualPlugin         ( -118.8,     4.9,    32.2)
+2022-10-01T22:06:29Z: CHRCTER ADDED  [ 3862238166] DAKQUACK             ( -146.8,     4.0,    32.2)
+2022-10-01T22:06:30Z: PLAYER REMOVED [  404687826] LlamaLover2046
+2022-10-01T22:06:30Z: PLAYER CHATTED [ 3786677068] Jacobwshere          ( -154.9,     7.7,   -45.0)
+  Thank you
+2022-10-01T22:06:32Z: PLAYER CHATTED [ 3786677068] Jacobwshere          ( -154.9,     7.7,   -45.0)
+  for your time
+2022-10-01T22:06:33Z: PLAYER ADDED   [ 2021098398] ashgabe2020
+2022-10-01T22:06:34Z: PLAYER CHATTED [ 1741607200] MilitantMilli        ( -139.8,     3.2,    32.2)
+  me
+2022-10-01T22:06:43Z: PLAYER REMOVED [ 2969707896] Aletacisu0
+2022-10-01T22:06:44Z: CHRCTER ADDED  [ 1203964980] Tanajai84            ( -125.8,     4.1,    32.2)
+2022-10-01T22:06:45Z: CHRCTER ADDED  [ 2021098398] ashgabe2020          ( -195.8,     4.1,    25.2)
+2022-10-01T22:06:46Z: PLAYER ADDED   [ 3039105957] Ivy23278
+2022-10-01T22:06:49Z: CHRCTER ADDED  [ 2420422851] schoolbussimulator7  ( -146.8,     3.1,    25.2)
+2022-10-01T22:06:49Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -167.3,     3.1,   -20.8)
+  me
+2022-10-01T22:06:50Z: CHRCTER ADDED  [ 1920165887] keybojr              ( -174.8,     4.1,    25.2)
+2022-10-01T22:06:50Z: PLAYER CHATTED [  930431858] thekittensarereal    ( -153.0,     3.9,   -10.1)
+  I CAN BE VICE!
+2022-10-01T22:06:51Z: PLAYER CHATTED [ 1741607200] MilitantMilli        ( -139.6,     3.3,   -18.1)
+  me
+2022-10-01T22:06:56Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -142.9,     3.1,   -22.3)
+  do me
+2022-10-01T22:06:57Z: CHRCTER ADDED  [ 1920165887] keybojr              ( -174.8,     4.1,    25.2)
+2022-10-01T22:07:01Z: CHRCTER ADDED  [ 1621581319] ElectricComets       ( -188.8,     3.2,    25.2)
+2022-10-01T22:07:04Z: CHRCTER ADDED  [ 1920165887] keybojr              ( -188.8,     4.1,    32.2)
+2022-10-01T22:07:05Z: PLAYER CHATTED [ 1203964980] Tanajai84            ( -142.6,     4.0,   -15.9)
+  Me
+2022-10-01T22:07:08Z: PLAYER REMOVED [ 1920165887] keybojr
+2022-10-01T22:07:10Z: PLAYER ADDED   [  718206066] Brendengamertdm
+2022-10-01T22:07:11Z: CHRCTER ADDED  [ 1621581319] ElectricComets       ( -146.8,     3.2,    25.2)
+2022-10-01T22:07:12Z: PLAYER CHATTED [ 1741607200] MilitantMilli        ( -142.8,     3.3,   -21.8)
+  i never get a turn
+2022-10-01T22:07:14Z: PLAYER REMOVED [  290257614] h20godmaxpro25
+2022-10-01T22:07:23Z: PLAYER CHATTED [ 1038084411] maymay55555y         ( -139.3,     6.7,   -32.7)
+  We will air drop you a #### ### each day!!
+2022-10-01T22:07:25Z: PLAYER ADDED   [  524684322] thebossoffir
+2022-10-01T22:07:25Z: PLAYER CHATTED [  169419248] Pearno               ( -142.4,     8.1,   -37.1)
+  i will fix the economic problems
+2022-10-01T22:07:27Z: PLAYER REMOVED [ 1203964980] Tanajai84
+2022-10-01T22:07:31Z: PLAYER CHATTED [   77657486] womb_cervix          ( -166.3,     2.9,   -22.5)
+  how
+2022-10-01T22:07:31Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -153.7,     3.1,    -9.6)
+  NOPE
+2022-10-01T22:07:33Z: PLAYER ADDED   [  947771717] keflay13
+2022-10-01T22:07:34Z: PLAYER CHATTED [   37856143] takaramonozu         ( -168.3,     3.1,   -22.6)
+  how
+2022-10-01T22:07:34Z: PLAYER REMOVED [ 1762347480] SH1LXHH
+2022-10-01T22:07:34Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -153.7,     3.1,    -9.6)
+  ALREADY BORED
+2022-10-01T22:07:35Z: PLAYER CHATTED [ 1035517477] TrapNation_08        ( -155.0,     3.8,    -9.5)
+  Ehh ok
+2022-10-01T22:07:36Z: PLAYER CHATTED [ 1038084411] maymay55555y         ( -139.3,     6.7,   -32.7)
+  WE WILL GIVE FOOT RUBS
+2022-10-01T22:07:37Z: PLAYER CHATTED [   73929731] ABCMartinFry         ( -170.4,     7.0,   -32.9)
+  YOU CANT FIX ANYTHNIG
+2022-10-01T22:07:38Z: PLAYER CHATTED [ 1621581319] ElectricComets       ( -153.7,     3.1,    -9.6)
+  DENY
+2022-10-01T22:07:44Z: PLAYER ADDED   [ 3405438207] eatfreedom1111
+2022-10-01T22:07:44Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-10-01T22:07:44Z: PLAYER REMOVED [  541756837] davidiscool736437
+2022-10-01T22:07:44Z: PLAYER REMOVED [   73929731] ABCMartinFry
+2022-10-01T22:07:44Z: PLAYER REMOVED [   37856143] takaramonozu
+2022-10-01T22:07:44Z: PLAYER REMOVED [ 1359679232] shootfloss314
+2022-10-01T22:07:44Z: PLAYER REMOVED [   77657486] womb_cervix
+2022-10-01T22:07:44Z: PLAYER REMOVED [ 1038084411] maymay55555y
+2022-10-01T22:07:44Z: PLAYER REMOVED [ 2828940805] Yourmonbum78
+2022-10-01T22:07:44Z: PLAYER REMOVED [  930431858] thekittensarereal
+2022-10-01T22:07:44Z: PLAYER REMOVED [ 1621581319] ElectricComets
+2022-10-01T22:07:44Z: PLAYER REMOVED [   46775850] antho84
+2022-10-01T22:07:44Z: PLAYER REMOVED [  169419248] Pearno
+2022-10-01T22:07:44Z: PLAYER REMOVED [  268467180] SevenE5
+2022-10-01T22:07:44Z: PLAYER REMOVED [ 1636463338] xRedDeathStarx1234
+2022-10-01T22:07:44Z: PLAYER REMOVED [ 3480982844] FatFaceTheIISupreme
+2022-10-01T22:07:44Z: PLAYER REMOVED [ 3304716616] Erikball1234
+2022-10-01T22:07:44Z: PLAYER REMOVED [ 1741607200] MilitantMilli
+2022-10-01T22:07:44Z: PLAYER REMOVED [ 3786677068] Jacobwshere
+2022-10-01T22:07:44Z: PLAYER REMOVED [  144804390] chuck_corn
+2022-10-01T22:07:44Z: PLAYER REMOVED [ 2420422851] schoolbussimulator7
+2022-10-01T22:07:44Z: PLAYER REMOVED [ 1035517477] TrapNation_08
+2022-10-01T22:07:44Z: PLAYER REMOVED [ 3563427680] luvjevna
+2022-10-01T22:07:44Z: PLAYER REMOVED [  554122512] Adamnetic
+2022-10-01T22:07:44Z: PLAYER REMOVED [ 3862238166] DAKQUACK
+2022-10-01T22:07:44Z: PLAYER REMOVED [ 2021098398] ashgabe2020
+2022-10-01T22:07:44Z: PLAYER REMOVED [ 3039105957] Ivy23278
+2022-10-01T22:07:44Z: PLAYER REMOVED [  718206066] Brendengamertdm
+2022-10-01T22:07:44Z: PLAYER REMOVED [  524684322] thebossoffir
+2022-10-01T22:07:44Z: PLAYER REMOVED [  947771717] keflay13
+2022-10-01T22:07:44Z: PLAYER REMOVED [ 3405438207] eatfreedom1111

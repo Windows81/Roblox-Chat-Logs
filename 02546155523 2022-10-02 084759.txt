@@ -1,0 +1,79 @@
+[    1630228] : [ 2546155523] 🌆 RoVille [HEIST!] - cf2ec3f3-f1aa-4f05-9a73-855344258819
+2022-10-02T08:47:59Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-10-02T08:47:59Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-10-02T08:47:59Z: PLAYER ADDED   [  649022142] brooklyqn
+2022-10-02T08:47:59Z: PLAYER ADDED   [  778774021] ori146790
+2022-10-02T08:47:59Z: PLAYER ADDED   [ 1943467048] benhotdog280317
+2022-10-02T08:47:59Z: PLAYER ADDED   [ 2928527175] Zyyynek
+2022-10-02T08:47:59Z: PLAYER ADDED   [ 3598478096] Kwieur23
+2022-10-02T08:47:59Z: PLAYER ADDED   [ 1750749774] Pinkly_123
+2022-10-02T08:47:59Z: PLAYER ADDED   [ 2635956851] jaojack_000
+2022-10-02T08:47:59Z: PLAYER ADDED   [ 3148625577] rewgherh
+2022-10-02T08:47:59Z: PLAYER ADDED   [ 2798946389] rosefofay
+2022-10-02T08:47:59Z: PLAYER ADDED   [ 3877863194] xhgcyhhb
+2022-10-02T08:47:59Z: PLAYER ADDED   [ 3937833133] yogi60424106
+2022-10-02T08:47:59Z: PLAYER ADDED   [ 3364423963] Jujapinha28
+2022-10-02T08:47:59Z: PLAYER ADDED   [ 3380090910] Tha_japinha
+2022-10-02T08:47:59Z: PLAYER ADDED   [ 2688895671] ANameWhichIsntGood
+2022-10-02T08:47:59Z: PLAYER ADDED   [ 1044902971] joshua2010709
+2022-10-02T08:47:59Z: PLAYER ADDED   [ 3076392629] kjhkhgfy
+2022-10-02T08:47:59Z: PLAYER ADDED   [ 3453243153] rayppp123567
+2022-10-02T08:47:59Z: PLAYER ADDED   [ 3685206502] Yuookii8
+2022-10-02T08:47:59Z: PLAYER ADDED   [ 2343556879] Kiyan202033
+2022-10-02T08:48:06Z: PLAYER CHATTED [ 3076392629] kjhkhgfy            
+  謝拉
+2022-10-02T08:48:09Z: PLAYER REMOVED [ 3598478096] Kwieur23
+2022-10-02T08:48:19Z: PLAYER ADDED   [ 3598478096] Kwieur23
+2022-10-02T08:48:29Z: PLAYER CHATTED [ 3076392629] kjhkhgfy            
+  好友
+2022-10-02T08:48:34Z: PLAYER CHATTED [ 3076392629] kjhkhgfy            
+  你不工作
+2022-10-02T08:48:38Z: PLAYER CHATTED [ 3148625577] rewgherh            
+  我出門拉
+2022-10-02T08:48:43Z: PLAYER CHATTED [ 3076392629] kjhkhgfy            
+  我和我徒弟工作就好
+2022-10-02T08:48:44Z: PLAYER CHATTED [ 3076392629] kjhkhgfy            
+  好
+2022-10-02T08:48:50Z: PLAYER CHATTED [ 3076392629] kjhkhgfy            
+  徒弟去工作吧
+2022-10-02T08:48:55Z: PLAYER CHATTED [ 3453243153] rayppp123567         (-1361.6,   -15.1,     1.4)
+  恩
+2022-10-02T08:49:00Z: PLAYER CHATTED [ 3076392629] kjhkhgfy            
+  我去工作了喔
+2022-10-02T08:49:16Z: PLAYER CHATTED [ 3076392629] kjhkhgfy             (-1361.6,   -15.1,     1.4)
+  哈
+2022-10-02T08:50:36Z: PLAYER REMOVED [  778774021] ori146790
+2022-10-02T08:51:16Z: PLAYER CHATTED [ 3076392629] kjhkhgfy             (-1381.9,   -19.0,   -10.8)
+  我做好了
+2022-10-02T08:51:20Z: PLAYER CHATTED [ 3076392629] kjhkhgfy             (-1381.9,   -19.0,   -10.8)
+  等你們
+2022-10-02T08:51:21Z: PLAYER CHATTED [  649022142] brooklyqn            (-2748.3,     4.4,  -164.3)
+  ###################################################################################################################################################################################################
+2022-10-02T08:51:32Z: PLAYER CHATTED [ 3076392629] kjhkhgfy             (-1373.5,   -19.0,   -34.5)
+  zzz
+2022-10-02T08:51:37Z: PLAYER REMOVED [ 3380090910] Tha_japinha
+2022-10-02T08:51:43Z: PLAYER CHATTED [ 3148625577] rewgherh             (-1366.4,   -19.0,   -10.8)
+  事情真多
+2022-10-02T08:51:49Z: PLAYER CHATTED [ 3076392629] kjhkhgfy             (-1372.5,   -19.2,    -9.2)
+  當然
+2022-10-02T08:51:56Z: PLAYER CHATTED [ 3076392629] kjhkhgfy             (-1372.5,   -19.2,    -9.2)
+  當經查一定很累阿
+2022-10-02T08:51:59Z: PLAYER CHATTED [ 3076392629] kjhkhgfy             (-1372.5,   -19.2,    -9.2)
+  警察
+2022-10-02T08:52:12Z: PLAYER CHATTED [ 3076392629] kjhkhgfy             (-1368.5,   -19.2,     1.3)
+  等我徒弟
+2022-10-02T08:52:13Z: PLAYER CHATTED [ 1943467048] benhotdog280317     
+  tat ### xe cai dit ### may
+2022-10-02T08:52:23Z: PLAYER CHATTED [ 3076392629] kjhkhgfy             (-1372.9,   -19.2,    -6.4)
+  等等去買菜
+2022-10-02T08:52:32Z: PLAYER CHATTED [ 3076392629] kjhkhgfy             (-1370.4,   -19.2,    -2.9)
+  ?
+2022-10-02T08:52:39Z: PLAYER CHATTED [ 3076392629] kjhkhgfy             (-1373.1,   -19.2,    -6.1)
+  好友回來啦
+2022-10-02T08:52:46Z: PLAYER CHATTED [ 3076392629] kjhkhgfy             (-1371.0,   -19.2,    -1.0)
+  來警局
+2022-10-02T08:53:01Z: PLAYER CHATTED [ 3076392629] kjhkhgfy             (-1374.5,   -19.2,     6.2)
+  好友!
+2022-10-02T08:53:34Z: PLAYER CHATTED [ 3076392629] kjhkhgfy             (-1371.5,   -19.2,    -1.7)
+  好友!!
+2022-10-02T08:53:36Z: PLAYER REMOVED [    1630228] VisualPlugin

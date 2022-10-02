@@ -1,0 +1,206 @@
+[    1630228] : [ 5614655179] Script Fighting Ultimate - 114e8d7c-e1e6-4a28-881f-e326d45ba269
+2022-10-01T07:34:49Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-10-01T07:34:49Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-10-01T07:34:49Z: PLAYER ADDED   [ 1578637575] Araceli2013d
+2022-10-01T07:34:49Z: PLAYER ADDED   [ 2285357021] fotegreen1436
+2022-10-01T07:34:49Z: PLAYER ADDED   [  158699990] ZachGamings23
+2022-10-01T07:34:49Z: PLAYER ADDED   [ 3361235780] 4000mattDawg
+2022-10-01T07:34:52Z: PLAYER CHATTED [ 2285357021] fotegreen1436        (  434.4,   229.1,  1911.6)
+  I DIDNT DESERVE DAT
+2022-10-01T07:35:06Z: CHRCTER ADDED  [ 3361235780] 4000mattDawg         (  466.9,   229.1,  1947.4)
+2022-10-01T07:35:06Z: PLAYER CHATTED [  158699990] ZachGamings23       
+  gamed on fr
+2022-10-01T07:35:22Z: PLAYER CHATTED [  158699990] ZachGamings23       
+  its all fun and games until someone pulls out reaper
+2022-10-01T07:35:29Z: PLAYER CHATTED [ 2285357021] fotegreen1436       
+  ya think
+2022-10-01T07:35:35Z: CHRCTER ADDED  [ 2285357021] fotegreen1436        (  573.5,     3.6, -1954.6)
+2022-10-01T07:35:39Z: PLAYER CHATTED [ 2285357021] fotegreen1436        (  602.3,     0.7, -1942.3)
+  AH
+2022-10-01T07:35:41Z: PLAYER CHATTED [ 2285357021] fotegreen1436        (  602.3,     0.7, -1942.3)
+  :(
+2022-10-01T07:35:42Z: CHRCTER ADDED  [ 2285357021] fotegreen1436        (  448.9,   229.1,  1969.9)
+2022-10-01T07:35:44Z: PLAYER CHATTED [ 2285357021] fotegreen1436        (  448.9,   229.1,  1969.9)
+  >:(
+2022-10-01T07:35:51Z: CHRCTER ADDED  [  158699990] ZachGamings23        (  472.7,   229.1,  1909.3)
+2022-10-01T07:35:55Z: PLAYER REMOVED [ 2285357021] fotegreen1436
+2022-10-01T07:35:55Z: PLAYER CHATTED [  158699990] ZachGamings23        (  472.7,   229.1,  1909.3)
+  what the hell did you do
+2022-10-01T07:36:00Z: CHRCTER ADDED  [ 3361235780] 4000mattDawg         (  487.2,   229.1,  1945.6)
+2022-10-01T07:36:05Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  446.9,   229.1,  1972.6)
+2022-10-01T07:36:05Z: CHRCTER ADDED  [  158699990] ZachGamings23        (  680.9,     3.7, -1678.5)
+2022-10-01T07:36:26Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  492.2,   229.1,  1905.6)
+2022-10-01T07:36:26Z: CHRCTER ADDED  [ 1578637575] Araceli2013d         (  451.1,   229.1,  1952.9)
+2022-10-01T07:36:26Z: CHRCTER ADDED  [ 3361235780] 4000mattDawg         (  446.7,   229.1,  1929.7)
+2022-10-01T07:36:26Z: CHRCTER ADDED  [  158699990] ZachGamings23        (  486.2,   229.1,  1909.6)
+2022-10-01T07:36:32Z: CHRCTER ADDED  [  158699990] ZachGamings23        (  258.9,     3.7, -2037.5)
+2022-10-01T07:36:47Z: CHRCTER ADDED  [ 3361235780] 4000mattDawg         (  644.9,     3.8, -2009.5)
+2022-10-01T07:36:56Z: CHRCTER ADDED  [ 1578637575] Araceli2013d         (  472.8,   229.1,  1970.8)
+2022-10-01T07:37:06Z: PLAYER ADDED   [ 2285357021] fotegreen1436
+2022-10-01T07:37:37Z: PLAYER CHATTED [ 3361235780] 4000mattDawg         (  568.6,     3.2, -2000.9)
+  Z
+2022-10-01T07:37:41Z: PLAYER CHATTED [ 2285357021] fotegreen1436        (  408.3,   229.1,  1932.2)
+  e
+2022-10-01T07:37:58Z: CHRCTER ADDED  [  158699990] ZachGamings23        (  445.8,   229.1,  1973.4)
+2022-10-01T07:38:14Z: CHRCTER ADDED  [ 1578637575] Araceli2013d         (  429.6,   229.1,  1912.6)
+2022-10-01T07:38:15Z: CHRCTER ADDED  [ 3361235780] 4000mattDawg         (  410.2,   229.1,  1930.9)
+2022-10-01T07:38:22Z: CHRCTER ADDED  [ 2285357021] fotegreen1436        (  448.7,   229.1,  1972.6)
+2022-10-01T07:38:31Z: PLAYER CHATTED [ 2285357021] fotegreen1436        (  448.7,   229.1,  1972.6)
+  bruh my blind reaper be goofy ahh looking fr
+2022-10-01T07:38:38Z: PLAYER CHATTED [  158699990] ZachGamings23        (  451.4,     3.2, -1994.2)
+  lol
+2022-10-01T07:38:39Z: CHRCTER ADDED  [ 3361235780] 4000mattDawg         (  507.9,     3.7, -2261.5)
+2022-10-01T07:38:46Z: PLAYER CHATTED [ 2285357021] fotegreen1436        (  507.9,     3.2, -2261.5)
+  hii
+2022-10-01T07:38:49Z: CHRCTER ADDED  [ 1578637575] Araceli2013d         (  406.0,   229.1,  1934.6)
+2022-10-01T07:38:52Z: PLAYER CHATTED [ 2285357021] fotegreen1436        (  532.8,     3.2, -2232.3)
+  ded
+2022-10-01T07:38:53Z: CHRCTER ADDED  [ 3361235780] 4000mattDawg         (  490.0,   229.1,  1934.0)
+2022-10-01T07:39:08Z: CHRCTER ADDED  [  158699990] ZachGamings23        (  430.5,   229.1,  1951.6)
+2022-10-01T07:39:08Z: CHRCTER ADDED  [ 3361235780] 4000mattDawg         (  507.9,     3.8, -2261.5)
+2022-10-01T07:39:12Z: PLAYER CHATTED [  158699990] ZachGamings23        (  430.5,   229.1,  1951.6)
+  bruh this dude is flying
+2022-10-01T07:39:17Z: PLAYER ADDED   [ 2911673476] ajpadjake
+2022-10-01T07:39:22Z: PLAYER CHATTED [    1630228] VisualPlugin         (  376.5,   302.5, -1905.9)
+  I AM O.P.!
+2022-10-01T07:39:23Z: CHRCTER ADDED  [ 1578637575] Araceli2013d         (  493.2,   229.1,  1974.9)
+2022-10-01T07:39:27Z: CHRCTER ADDED  [ 3361235780] 4000mattDawg         (  489.0,   229.1,  1930.5)
+2022-10-01T07:39:35Z: PLAYER CHATTED [  158699990] ZachGamings23        (  628.2,     3.2, -2018.7)
+  hacks fr
+2022-10-01T07:39:36Z: PLAYER CHATTED [ 2285357021] fotegreen1436        (  564.4,     3.2, -2034.2)
+  hi there
+2022-10-01T07:39:43Z: PLAYER CHATTED [ 2285357021] fotegreen1436        (  599.3,     3.2, -2046.5)
+  OW
+2022-10-01T07:39:44Z: PLAYER CHATTED [  158699990] ZachGamings23        (  597.0,     3.2, -2052.9)
+  lol
+2022-10-01T07:39:49Z: PLAYER CHATTED [  158699990] ZachGamings23        (  600.2,     3.2, -2050.3)
+  sorry
+2022-10-01T07:39:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (  226.9,     9.2, -1875.2)
+  VIPs are also over-powered.
+2022-10-01T07:39:55Z: PLAYER CHATTED [ 2285357021] fotegreen1436        (  599.7,     3.1, -2046.3)
+  tis but a sctrach
+2022-10-01T07:39:59Z: CHRCTER ADDED  [ 2285357021] fotegreen1436        (  406.3,   229.1,  1967.8)
+2022-10-01T07:39:59Z: PLAYER CHATTED [ 2285357021] fotegreen1436        (  406.3,   229.1,  1967.8)
+  well that
+2022-10-01T07:40:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (  228.4,     9.2, -1917.2)
+  That's the best I can say to justify.
+2022-10-01T07:40:11Z: CHRCTER ADDED  [ 3361235780] 4000mattDawg         (  435.1,   229.1,  1950.9)
+2022-10-01T07:40:12Z: PLAYER CHATTED [ 2285357021] fotegreen1436        (  406.3,   229.1,  1970.5)
+  was a un forgivalbe mistake
+2022-10-01T07:40:14Z: CHRCTER ADDED  [ 1578637575] Araceli2013d         (  406.9,   229.1,  1974.1)
+2022-10-01T07:40:27Z: PLAYER CHATTED [  158699990] ZachGamings23        (  500.0,     3.2, -2028.3)
+  mans hacking fr
+2022-10-01T07:40:31Z: PLAYER CHATTED [ 2285357021] fotegreen1436        (  490.1,     3.2, -2012.8)
+  oop srry
+2022-10-01T07:40:36Z: PLAYER CHATTED [  158699990] ZachGamings23        (  496.6,     3.2, -2022.9)
+  ##
+2022-10-01T07:40:37Z: PLAYER CHATTED [ 2285357021] fotegreen1436        (  499.6,     3.2, -2015.9)
+  my fault
+2022-10-01T07:40:37Z: PLAYER ADDED   [ 3932739224] coolflexnooop
+2022-10-01T07:40:44Z: PLAYER CHATTED [ 2285357021] fotegreen1436        (  499.6,     3.2, -2015.9)
+  tryna get the guy
+2022-10-01T07:40:47Z: PLAYER ADDED   [ 3317868414] Dreammyfavorite
+2022-10-01T07:40:49Z: CHRCTER ADDED  [ 3361235780] 4000mattDawg         (  434.0,   229.1,  1913.7)
+2022-10-01T07:40:54Z: PLAYER CHATTED [ 2285357021] fotegreen1436        (  500.1,     1.6, -2017.1)
+  un-succesfull
+2022-10-01T07:40:57Z: PLAYER CHATTED [  158699990] ZachGamings23        (  501.2,     3.2, -2030.1)
+  sorry
+2022-10-01T07:40:59Z: CHRCTER ADDED  [ 2285357021] fotegreen1436        (  414.0,   229.1,  1971.1)
+2022-10-01T07:41:04Z: PLAYER CHATTED [ 2285357021] fotegreen1436        (  414.0,   229.1,  1971.1)
+  tis but a scratch
+2022-10-01T07:41:09Z: CHRCTER ADDED  [ 3317868414] Dreammyfavorite      (  645.0,     3.8, -2009.5)
+2022-10-01T07:41:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (  604.4,   495.9, -1922.3)
+  I have a secret weapon.
+2022-10-01T07:41:27Z: CHRCTER ADDED  [ 3317868414] Dreammyfavorite      (  454.9,   229.1,  1908.6)
+2022-10-01T07:41:27Z: PLAYER CHATTED [ 2285357021] fotegreen1436        (  414.0,   229.1,  1971.1)
+  so imma have to do it the old way.
+2022-10-01T07:41:41Z: CHRCTER ADDED  [ 1578637575] Araceli2013d         (  490.3,   229.1,  1970.8)
+2022-10-01T07:41:41Z: CHRCTER ADDED  [ 2285357021] fotegreen1436        (  450.3,   229.1,  1909.6)
+2022-10-01T07:41:45Z: CHRCTER ADDED  [ 3317868414] Dreammyfavorite      (  410.3,   231.9,  1931.2)
+2022-10-01T07:41:46Z: CHRCTER ADDED  [ 3932739224] coolflexnooop        (  489.2,   229.1,  1906.8)
+2022-10-01T07:41:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (  604.4,   495.9, -1922.3)
+  And I'm not one to keep secrets.
+2022-10-01T07:41:55Z: PLAYER ADDED   [ 3049655326] Malik12790jd
+2022-10-01T07:41:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (  604.4,   495.9, -1922.3)
+  So I will reveal my procedure:
+2022-10-01T07:42:01Z: PLAYER CHATTED [  158699990] ZachGamings23        (  502.0,     3.2, -1901.6)
+  Your secret weapon is hacks
+2022-10-01T07:42:06Z: CHRCTER ADDED  [ 2911673476] ajpadjake            (  681.9,     3.8, -1876.5)
+2022-10-01T07:42:17Z: PLAYER CHATTED [ 2285357021] fotegreen1436        (  597.8,     3.2, -2034.9)
+  hey can i test smth
+2022-10-01T07:42:21Z: PLAYER CHATTED [ 2285357021] fotegreen1436        (  597.8,     3.2, -2034.9)
+  uh.
+2022-10-01T07:42:21Z: CHRCTER ADDED  [ 2285357021] fotegreen1436        (  410.2,   229.1,  1953.1)
+2022-10-01T07:42:22Z: PLAYER CHATTED [  158699990] ZachGamings23        (  567.9,     3.2, -2050.4)
+  oh ##
+2022-10-01T07:42:25Z: PLAYER CHATTED [  158699990] ZachGamings23        (  576.7,     3.2, -2045.2)
+  that was you
+2022-10-01T07:42:31Z: CHRCTER ADDED  [ 3049655326] Malik12790jd         (  445.9,   229.1,  1914.6)
+2022-10-01T07:42:32Z: PLAYER CHATTED [ 2285357021] fotegreen1436        (  681.9,     4.3, -1876.5)
+  yeahhhhh
+2022-10-01T07:42:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (  604.4,   495.9, -1922.3)
+  If you have hax, you'll need to know how to use them.
+2022-10-01T07:42:35Z: CHRCTER ADDED  [ 2911673476] ajpadjake            (  407.0,   229.1,  1910.0)
+2022-10-01T07:42:36Z: CHRCTER ADDED  [ 3317868414] Dreammyfavorite      (  445.8,   229.1,  1971.6)
+2022-10-01T07:42:44Z: PLAYER REMOVED [ 2911673476] ajpadjake
+2022-10-01T07:42:44Z: CHRCTER ADDED  [ 1578637575] Araceli2013d         (  426.7,   232.1,  1912.5)
+2022-10-01T07:42:45Z: PLAYER CHATTED [  158699990] ZachGamings23        (  621.2,     1.3, -2016.0)
+  BRUH
+2022-10-01T07:42:47Z: PLAYER CHATTED [ 2285357021] fotegreen1436        (  624.5,     0.7, -2015.7)
+  oh
+2022-10-01T07:42:48Z: CHRCTER ADDED  [ 2285357021] fotegreen1436        (  494.9,   229.1,  1949.4)
+2022-10-01T07:42:49Z: PLAYER REMOVED [ 3317868414] Dreammyfavorite
+2022-10-01T07:42:49Z: PLAYER CHATTED [  158699990] ZachGamings23        (  621.3,     1.2, -2016.0)
+  wrong attack
+2022-10-01T07:42:50Z: CHRCTER ADDED  [ 3932739224] coolflexnooop        (  445.4,   229.1,  1930.2)
+2022-10-01T07:42:52Z: PLAYER CHATTED [ 2285357021] fotegreen1436        (  494.9,   229.1,  1949.4)
+  HAHAHA
+2022-10-01T07:42:53Z: PLAYER CHATTED [    1630228] VisualPlugin         (  604.4,   495.9, -1922.3)
+  Flying isn't my only power.
+2022-10-01T07:42:58Z: PLAYER CHATTED [  158699990] ZachGamings23        (  621.3,     1.2, -2016.0)
+  get me free of these bonds
+2022-10-01T07:43:01Z: PLAYER CHATTED [ 2285357021] fotegreen1436        (  494.9,   229.1,  1949.4)
+  imma report this man
+2022-10-01T07:43:13Z: PLAYER ADDED   [ 2296919769] 046IP
+2022-10-01T07:43:16Z: CHRCTER ADDED  [ 1578637575] Araceli2013d         (  489.1,   229.1,  1926.8)
+2022-10-01T07:43:17Z: PLAYER ADDED   [ 1452426711] fallen_darknes
+2022-10-01T07:43:39Z: PLAYER ADDED   [  604678543] kingOfInfinteStone
+2022-10-01T07:43:41Z: PLAYER CHATTED [ 2285357021] fotegreen1436        (  497.5,     3.2, -2236.7)
+  i am a good cop
+2022-10-01T07:43:54Z: PLAYER CHATTED [ 3932739224] coolflexnooop        (  416.8,     1.3, -2071.3)
+  what
+2022-10-01T07:43:55Z: PLAYER CHATTED [  158699990] ZachGamings23        (  575.6,     0.7, -1791.2)
+  my reaper is doing some things
+2022-10-01T07:44:00Z: PLAYER REMOVED [ 3049655326] Malik12790jd
+2022-10-01T07:44:07Z: PLAYER CHATTED [ 3932739224] coolflexnooop        (  514.6,     3.2, -2088.6)
+  stop
+2022-10-01T07:44:10Z: PLAYER CHATTED [    1630228] VisualPlugin         (  604.4,   495.9, -1922.3)
+  My expectation was that exploiting is commonplace in a game such as this.
+2022-10-01T07:44:10Z: CHRCTER ADDED  [ 1578637575] Araceli2013d         (  472.4,   229.1,  1948.9)
+2022-10-01T07:44:18Z: CHRCTER ADDED  [ 2296919769] 046IP                (  406.0,   229.1,  1954.7)
+2022-10-01T07:44:19Z: CHRCTER ADDED  [ 1452426711] fallen_darknes       (  431.1,   229.1,  1930.3)
+2022-10-01T07:44:21Z: PLAYER CHATTED [  158699990] ZachGamings23        (  524.9,     0.7, -2261.1)
+  do you see me
+2022-10-01T07:44:26Z: CHRCTER ADDED  [ 1452426711] fallen_darknes       (  487.7,   229.1,  1906.5)
+2022-10-01T07:44:32Z: CHRCTER ADDED  [ 3932739224] coolflexnooop        (  429.3,   229.1,  1908.8)
+2022-10-01T07:44:56Z: CHRCTER ADDED  [  158699990] ZachGamings23        (  487.4,   229.1,  1971.0)
+2022-10-01T07:45:11Z: PLAYER CHATTED [ 2285357021] fotegreen1436        (  665.0,     0.7, -1861.2)
+  thanks partner
+2022-10-01T07:45:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (  604.4,   495.9, -1922.3)
+  For this reason, I ask you refrain from reporting.
+2022-10-01T07:45:14Z: CHRCTER ADDED  [ 2296919769] 046IP                (  495.1,   229.1,  1971.8)
+2022-10-01T07:45:14Z: PLAYER CHATTED [ 3932739224] coolflexnooop        (  651.4,     1.6, -1867.4)
+  what did I do
+2022-10-01T07:45:14Z: PLAYER REMOVED [ 2296919769] 046IP
+2022-10-01T07:45:15Z: CHRCTER ADDED  [ 2285357021] fotegreen1436        (  410.7,   229.1,  1952.9)
+2022-10-01T07:45:16Z: PLAYER CHATTED [ 2285357021] fotegreen1436        (  410.7,   229.1,  1952.9)
+  AH
+2022-10-01T07:45:16Z: CHRCTER ADDED  [ 3932739224] coolflexnooop        (  409.1,   229.1,  1929.6)
+2022-10-01T07:45:17Z: PLAYER CHATTED [ 3932739224] coolflexnooop        (  409.1,   229.1,  1929.6)
+  lie fr
+2022-10-01T07:45:20Z: CHRCTER ADDED  [ 3361235780] 4000mattDawg         (  466.6,   229.1,  1967.1)
+2022-10-01T07:45:22Z: CHRCTER ADDED  [ 1578637575] Araceli2013d         (  406.5,   229.1,  1950.0)
+2022-10-01T07:45:22Z: PLAYER CHATTED [  158699990] ZachGamings23        (  653.9,     3.2, -1905.4)
+  I avenged you
+2022-10-01T07:45:27Z: CHRCTER ADDED  [  604678543] kingOfInfinteStone   (  426.1,   229.1,  1912.4)
+2022-10-01T07:45:35Z: PLAYER REMOVED [    1630228] VisualPlugin

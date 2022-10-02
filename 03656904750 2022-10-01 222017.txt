@@ -1,0 +1,375 @@
+[    1630228] : [ 3656904750] Election Simulator - b14cffef-7644-4787-b5a9-792ca900997a
+2022-10-01T22:20:17Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-10-01T22:20:17Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-10-01T22:20:17Z: PLAYER ADDED   [ 1586267931] coolahadboi
+2022-10-01T22:20:17Z: PLAYER ADDED   [ 1478361538] Hyp0o0
+2022-10-01T22:20:17Z: PLAYER ADDED   [ 2874867030] DeadBoy4645
+2022-10-01T22:20:17Z: PLAYER ADDED   [  219336860] SirCollinHall
+2022-10-01T22:20:17Z: PLAYER ADDED   [   78682284] SirBryanHall
+2022-10-01T22:20:17Z: PLAYER ADDED   [ 3659861290] Stopmatujo
+2022-10-01T22:20:17Z: PLAYER ADDED   [ 1471094483] Markoodyt123
+2022-10-01T22:20:17Z: PLAYER ADDED   [  106554403] ActuallyJamiejohn
+2022-10-01T22:20:17Z: PLAYER ADDED   [ 2017419801] UnknownBounty22
+2022-10-01T22:20:17Z: PLAYER ADDED   [ 1292156506] DrHranolka
+2022-10-01T22:20:17Z: PLAYER ADDED   [ 3522305144] Notarealprincess24
+2022-10-01T22:20:17Z: PLAYER ADDED   [ 1097095597] rainbowtiger876
+2022-10-01T22:20:17Z: PLAYER ADDED   [  523256039] eisaniazi
+2022-10-01T22:20:17Z: PLAYER ADDED   [ 2735479894] Islaerry
+2022-10-01T22:20:17Z: PLAYER ADDED   [ 2660865653] JxAME5
+2022-10-01T22:20:17Z: PLAYER ADDED   [ 1731420078] bipper1115
+2022-10-01T22:20:17Z: PLAYER ADDED   [  514874496] Maidelyn6894
+2022-10-01T22:20:19Z: PLAYER CHATTED [ 2017419801] UnknownBounty22      ( -132.8,     3.2,    25.2)
+  IMA OVERTHROW HIM
+2022-10-01T22:20:20Z: PLAYER CHATTED [ 1478361538] Hyp0o0               ( -153.8,     3.1,    25.2)
+  #####################
+2022-10-01T22:20:23Z: PLAYER CHATTED [ 2874867030] DeadBoy4645          ( -118.8,     3.1,    25.2)
+  Well Done sir coke
+2022-10-01T22:20:28Z: PLAYER CHATTED [ 1292156506] DrHranolka           ( -148.8,     3.1,    26.5)
+  yo
+2022-10-01T22:20:31Z: PLAYER CHATTED [ 1292156506] DrHranolka           ( -148.8,     3.1,    24.4)
+  Collin
+2022-10-01T22:20:33Z: PLAYER REMOVED [ 2660865653] JxAME5
+2022-10-01T22:20:33Z: PLAYER CHATTED [  523256039] eisaniazi            ( -157.6,     3.1,    -4.9)
+  WHO WANTS TO JOIN OUR NATIONALIST PARTY
+2022-10-01T22:20:37Z: PLAYER CHATTED [ 2874867030] DeadBoy4645          ( -166.6,     3.1,   -21.4)
+  I’m expirenced
+2022-10-01T22:20:46Z: PLAYER CHATTED [ 1292156506] DrHranolka           ( -154.2,     3.1,    28.4)
+  #### suit
+2022-10-01T22:20:48Z: PLAYER CHATTED [ 1292156506] DrHranolka           ( -154.2,     3.1,    28.4)
+  nice-
+2022-10-01T22:20:49Z: PLAYER ADDED   [ 1959484814] diegodebruin22435
+2022-10-01T22:20:52Z: PLAYER CHATTED [ 2735479894] Islaerry             ( -167.3,     3.3,   -13.5)
+  I am also
+2022-10-01T22:20:54Z: PLAYER CHATTED [ 2874867030] DeadBoy4645          ( -166.6,     3.1,   -21.4)
+  I have made people president 3 times!
+2022-10-01T22:20:54Z: PLAYER CHATTED [ 1097095597] rainbowtiger876      ( -152.4,     3.3,    -3.8)
+  WAIT
+2022-10-01T22:20:55Z: PLAYER REMOVED [  106554403] ActuallyJamiejohn
+2022-10-01T22:20:55Z: PLAYER CHATTED [ 1097095597] rainbowtiger876      ( -151.6,     3.3,    -2.3)
+  WHAT THE
+2022-10-01T22:20:57Z: PLAYER CHATTED [ 1097095597] rainbowtiger876      ( -151.6,     3.3,    -2.3)
+  ITS ME?
+2022-10-01T22:21:04Z: PLAYER CHATTED [ 3659861290] Stopmatujo           ( -142.3,     8.0,   -36.9)
+  more power to you, people
+2022-10-01T22:21:14Z: PLAYER CHATTED [ 2874867030] DeadBoy4645          ( -139.3,     7.0,   -32.7)
+  More hospitals
+2022-10-01T22:21:16Z: PLAYER CHATTED [ 3659861290] Stopmatujo           ( -142.3,     8.0,   -36.9)
+  no more violence
+2022-10-01T22:21:20Z: PLAYER ADDED   [ 2048291750] cloudyxxfifi
+2022-10-01T22:21:20Z: PLAYER CHATTED [ 3659861290] Stopmatujo           ( -142.3,     8.0,   -36.9)
+  more peace
+2022-10-01T22:21:22Z: PLAYER CHATTED [ 2874867030] DeadBoy4645          ( -139.3,     7.0,   -32.7)
+  Less taxes
+2022-10-01T22:21:26Z: PLAYER CHATTED [ 3659861290] Stopmatujo           ( -142.3,     8.0,   -36.9)
+  yes
+2022-10-01T22:21:27Z: PLAYER REMOVED [  514874496] Maidelyn6894
+2022-10-01T22:21:30Z: PLAYER CHATTED [ 3659861290] Stopmatujo           ( -142.3,     8.0,   -36.9)
+  tax richs
+2022-10-01T22:21:30Z: PLAYER CHATTED [ 2874867030] DeadBoy4645          ( -139.3,     7.0,   -32.7)
+  Less Bills
+2022-10-01T22:21:36Z: PLAYER CHATTED [ 3659861290] Stopmatujo           ( -142.3,     8.0,   -36.9)
+  no guns
+2022-10-01T22:21:41Z: PLAYER CHATTED [ 3659861290] Stopmatujo           ( -142.3,     8.0,   -36.9)
+  liberty
+2022-10-01T22:21:42Z: PLAYER CHATTED [ 2874867030] DeadBoy4645          ( -139.3,     7.0,   -32.7)
+  Free education
+2022-10-01T22:21:44Z: PLAYER CHATTED [ 3659861290] Stopmatujo           ( -142.3,     8.0,   -36.9)
+  for all
+2022-10-01T22:21:49Z: PLAYER CHATTED [ 1586267931] coolahadboi          ( -154.9,     8.0,   -45.0)
+  We as ### #### #### UP WITH THE TALIBAN BRING PEACE TO THE AFGHANS AND ####### SHALL RISE
+2022-10-01T22:21:50Z: PLAYER CHATTED [ 2874867030] DeadBoy4645          ( -139.3,     7.0,   -32.7)
+  No more poverty
+2022-10-01T22:21:51Z: PLAYER CHATTED [  523256039] eisaniazi            ( -159.4,     7.0,   -47.0)
+  We will abolish unemployment like ### ### did in Germany . Even the non americans will have jobs in camps and they will be re educated that they are nationalists and pakistanis will join Ahad youth cl
+2022-10-01T22:21:53Z: PLAYER CHATTED [ 1586267931] coolahadboi          ( -154.9,     8.0,   -45.0)
+  we will help in the social economic status of this country better and will try to increase the value of our dollar.
+2022-10-01T22:21:55Z: PLAYER REMOVED [ 1292156506] DrHranolka
+2022-10-01T22:22:00Z: PLAYER CHATTED [ 1586267931] coolahadboi          ( -154.9,     8.0,   -45.0)
+  NO MORE CORRUPTION
+2022-10-01T22:22:01Z: PLAYER REMOVED [ 2048291750] cloudyxxfifi
+2022-10-01T22:22:02Z: PLAYER CHATTED [  523256039] eisaniazi            ( -159.4,     7.0,   -47.0)
+  club
+2022-10-01T22:22:12Z: PLAYER CHATTED [ 3659861290] Stopmatujo           ( -142.3,     8.0,   -36.9)
+  STOP TO CRY
+2022-10-01T22:22:14Z: PLAYER CHATTED [ 1586267931] coolahadboi          ( -154.9,     8.0,   -45.0)
+  HELP THE 3RD WORLD COUNTTRIES
+2022-10-01T22:22:20Z: PLAYER CHATTED [  523256039] eisaniazi            ( -159.4,     7.0,   -47.0)
+  We will declare war on india
+2022-10-01T22:22:22Z: PLAYER CHATTED [ 1586267931] coolahadboi          ( -154.9,     8.0,   -45.0)
+  MAKE PEOPLE HAPPY
+2022-10-01T22:22:26Z: PLAYER CHATTED [  523256039] eisaniazi            ( -159.4,     7.0,   -47.0)
+  WE WILL BECOME ARMY AND DESTROY INDIA
+2022-10-01T22:22:26Z: PLAYER CHATTED [ 1586267931] coolahadboi          ( -154.9,     8.0,   -45.0)
+  thank you
+2022-10-01T22:22:31Z: PLAYER CHATTED [  523256039] eisaniazi            ( -159.4,     7.0,   -47.0)
+  AND TAKE KASHMIR
+2022-10-01T22:22:32Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -167.3,     8.7,   -37.2)
+  Having to pay 30 robux to run again is an violation to our democratic principles.  I will not stand for it, especially that the fees are being funneled to the developers and to Roblox.
+2022-10-01T22:22:49Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -167.3,     8.7,   -37.2)
+  I will sign an executive order that urges Congress to do away with it.
+2022-10-01T22:22:51Z: PLAYER CHATTED [ 1471094483] Markoodyt123         ( -170.4,     7.0,   -32.9)
+  Help for coutries and kids with no parents
+2022-10-01T22:22:56Z: PLAYER ADDED   [ 2792176998] KEVA_PRAVA
+2022-10-01T22:23:01Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -167.0,     7.7,   -32.6)
+  Not what I said.
+2022-10-01T22:23:04Z: PLAYER ADDED   [ 2606359292] TheGodThat_Lived
+2022-10-01T22:23:06Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -167.0,     7.7,   -32.6)
+  But good enough.
+2022-10-01T22:23:15Z: PLAYER CHATTED [ 1478361538] Hyp0o0               ( -161.5,     3.1,    23.3)
+  uh how can move
+2022-10-01T22:23:27Z: PLAYER CHATTED [ 2792176998] KEVA_PRAVA           ( -154.0,     3.1,    -8.8)
+  ###########
+2022-10-01T22:23:29Z: PLAYER REMOVED [ 1471094483] Markoodyt123
+2022-10-01T22:23:33Z: PLAYER CHATTED [ 2792176998] KEVA_PRAVA           ( -154.0,     3.1,    -8.8)
+  you such a dirty
+2022-10-01T22:23:37Z: PLAYER CHATTED [ 2792176998] KEVA_PRAVA           ( -154.0,     3.1,    -8.8)
+  ## oh
+2022-10-01T22:23:38Z: PLAYER CHATTED [ 2874867030] DeadBoy4645          ( -139.3,     7.0,   -32.7)
+  God bless amireca
+2022-10-01T22:23:45Z: PLAYER CHATTED [ 2017419801] UnknownBounty22      ( -154.7,     3.3,   -10.0)
+  im pulling a jfk
+2022-10-01T22:23:50Z: PLAYER CHATTED [  523256039] eisaniazi            ( -174.8,     3.1,    25.2)
+  afk for some time 
+2022-10-01T22:24:02Z: CHRCTER ADDED  [    1630228] VisualPlugin         ( -118.8,     4.9,    32.2)
+2022-10-01T22:24:06Z: PLAYER REMOVED [ 3522305144] Notarealprincess24
+2022-10-01T22:24:08Z: PLAYER REMOVED [ 2606359292] TheGodThat_Lived
+2022-10-01T22:24:10Z: PLAYER ADDED   [ 3771657236] stephenxxx124
+2022-10-01T22:24:15Z: PLAYER ADDED   [ 2461792462] Ewprice
+2022-10-01T22:24:16Z: PLAYER ADDED   [ 1114868174] apellido10k
+2022-10-01T22:24:17Z: PLAYER CHATTED [ 2017419801] UnknownBounty22      ( -166.2,     3.3,   -14.7)
+  ima pull a jfk on the next president
+2022-10-01T22:24:17Z: PLAYER CHATTED [ 2874867030] DeadBoy4645          ( -170.6,     3.1,   -21.8)
+  I’m made people president 4 times
+2022-10-01T22:24:20Z: PLAYER ADDED   [ 3745654269] MGCIsprogamer
+2022-10-01T22:24:27Z: PLAYER REMOVED [ 1959484814] diegodebruin22435
+2022-10-01T22:24:28Z: PLAYER ADDED   [ 1309520813] shadowboy8934
+2022-10-01T22:24:32Z: PLAYER CHATTED [ 2874867030] DeadBoy4645          ( -168.0,     3.1,   -22.4)
+  I’ve got expirence
+2022-10-01T22:24:37Z: PLAYER ADDED   [ 2357192420] arthurbrasil12385
+2022-10-01T22:24:39Z: PLAYER REMOVED [ 2735479894] Islaerry
+2022-10-01T22:24:40Z: PLAYER CHATTED [   78682284] SirBryanHall         ( -142.4,     8.0,   -37.1)
+  do not vote for me
+2022-10-01T22:24:46Z: PLAYER CHATTED [ 3659861290] Stopmatujo           ( -139.3,     7.0,   -32.7)
+  well...
+2022-10-01T22:24:46Z: PLAYER CHATTED [ 2017419801] UnknownBounty22      ( -154.9,     3.3,    -9.2)
+  cool
+2022-10-01T22:24:51Z: PLAYER REMOVED [ 3745654269] MGCIsprogamer
+2022-10-01T22:24:54Z: PLAYER CHATTED [ 2357192420] arthurbrasil12385    ( -140.4,     3.1,   -18.4)
+  HMMMM
+2022-10-01T22:24:54Z: PLAYER CHATTED [ 3659861290] Stopmatujo           ( -139.3,     7.0,   -32.7)
+  that's strange
+2022-10-01T22:24:58Z: PLAYER ADDED   [  458923878] DeIta_Shock
+2022-10-01T22:24:59Z: PLAYER ADDED   [  909385418] ItsMeCedie12
+2022-10-01T22:25:04Z: CHRCTER ADDED  [ 2357192420] arthurbrasil12385    ( -174.8,     3.1,    25.2)
+2022-10-01T22:25:07Z: PLAYER CHATTED [ 3659861290] Stopmatujo           ( -139.3,     7.0,   -32.7)
+  i don't ###########
+2022-10-01T22:25:09Z: PLAYER ADDED   [  265336978] embro738
+2022-10-01T22:25:12Z: PLAYER CHATTED [ 3659861290] Stopmatujo           ( -139.3,     7.0,   -32.7)
+  vote
+2022-10-01T22:25:17Z: PLAYER CHATTED [ 1478361538] Hyp0o0               ( -154.9,     8.0,   -45.0)
+  Great people of our union I stand for you. These other candidates do not stand for you!
+2022-10-01T22:25:18Z: PLAYER CHATTED [ 1731420078] bipper1115           ( -159.4,     7.3,   -47.0)
+  ##############################
+2022-10-01T22:25:26Z: PLAYER CHATTED [ 1478361538] Hyp0o0               ( -154.9,     8.0,   -45.0)
+  DOWN WITH THE RICH
+2022-10-01T22:25:27Z: PLAYER CHATTED [ 1731420078] bipper1115           ( -159.4,     7.3,   -47.0)
+  you havent done anything
+2022-10-01T22:25:34Z: PLAYER CHATTED [ 2874867030] DeadBoy4645          ( -168.0,     3.1,   -22.4)
+  ######
+2022-10-01T22:25:35Z: PLAYER ADDED   [ 3871650359] RobloxPersonMan3
+2022-10-01T22:25:38Z: PLAYER CHATTED [ 1478361538] Hyp0o0               ( -154.9,     8.0,   -45.0)
+  People shall be equal in everything
+2022-10-01T22:25:43Z: PLAYER CHATTED [ 1731420078] bipper1115           ( -159.4,     7.3,   -47.0)
+  i ###### war on canada
+2022-10-01T22:25:49Z: PLAYER CHATTED [ 2874867030] DeadBoy4645          ( -168.0,     3.1,   -22.4)
+  No.
+2022-10-01T22:25:50Z: PLAYER CHATTED [ 1478361538] Hyp0o0               ( -154.9,     8.0,   -45.0)
+  For our brothers and sisters of this nation!
+2022-10-01T22:25:53Z: PLAYER CHATTED [ 2357192420] arthurbrasil12385    ( -175.6,     3.1,    10.9)
+  NO WAR
+2022-10-01T22:25:57Z: PLAYER CHATTED [ 1478361538] Hyp0o0               ( -154.9,     8.0,   -45.0)
+  We shall be equal
+2022-10-01T22:25:59Z: PLAYER CHATTED [ 1731420078] bipper1115           ( -159.4,     7.3,   -47.0)
+  ###################
+2022-10-01T22:26:02Z: PLAYER CHATTED [ 2792176998] KEVA_PRAVA           ( -170.4,     7.0,   -32.9)
+  We Shall #### ####### ##### ######
+2022-10-01T22:26:05Z: PLAYER CHATTED [ 1478361538] Hyp0o0               ( -154.9,     8.0,   -45.0)
+  I will save this world
+2022-10-01T22:26:08Z: PLAYER CHATTED [ 2357192420] arthurbrasil12385    ( -175.6,     3.1,    10.9)
+  YEAH
+2022-10-01T22:26:10Z: PLAYER CHATTED [  219336860] SirCollinHall        ( -167.3,     8.0,   -37.2)
+  Ladies and gentlemen of this supposed jury, it does not make sense!
+2022-10-01T22:26:10Z: PLAYER CHATTED [ 2357192420] arthurbrasil12385    ( -175.6,     3.1,    10.9)
+  YEAH
+2022-10-01T22:26:13Z: PLAYER ADDED   [ 1180373580] fatyan001
+2022-10-01T22:26:13Z: PLAYER CHATTED [ 2357192420] arthurbrasil12385    ( -175.6,     3.1,    10.9)
+  YEAH
+2022-10-01T22:26:16Z: PLAYER CHATTED [ 1731420078] bipper1115           ( -159.4,     7.3,   -47.0)
+  corrupted you have done nothing
+2022-10-01T22:26:16Z: PLAYER CHATTED [ 2792176998] KEVA_PRAVA           ( -170.4,     7.0,   -32.9)
+  Vote for Collin get free icecream.
+2022-10-01T22:26:19Z: PLAYER CHATTED [ 2357192420] arthurbrasil12385    ( -175.6,     3.1,    10.9)
+  AYeah
+2022-10-01T22:26:21Z: PLAYER CHATTED [ 2357192420] arthurbrasil12385    ( -175.6,     3.1,    10.9)
+  YEAH
+2022-10-01T22:26:22Z: PLAYER CHATTED [  219336860] SirCollinHall        ( -167.3,     8.0,   -37.2)
+  If Chewbacca lives on Endor, you must acquit! The defense rests
+2022-10-01T22:26:26Z: PLAYER CHATTED [ 2792176998] KEVA_PRAVA           ( -170.4,     7.0,   -32.9)
+  and no knocks from MoSS.
+2022-10-01T22:26:36Z: PLAYER CHATTED [ 1731420078] bipper1115           ( -159.4,     7.3,   -47.0)
+  the irs are coming for youy
+2022-10-01T22:26:56Z: CHRCTER ADDED  [ 1180373580] fatyan001            ( -139.8,     3.4,    25.2)
+2022-10-01T22:27:05Z: PLAYER CHATTED [ 2017419801] UnknownBounty22      ( -154.9,     3.3,    -9.2)
+  IMA PULL A JFK ON THIS PRESIDENT!
+2022-10-01T22:27:05Z: PLAYER CHATTED [ 1478361538] Hyp0o0               ( -154.9,     8.0,   -45.0)
+  THANK YOU
+2022-10-01T22:27:12Z: PLAYER CHATTED [ 1478361538] Hyp0o0               ( -154.9,     8.0,   -45.0)
+  I am your dictator
+2022-10-01T22:27:39Z: CHRCTER ADDED  [ 1114868174] apellido10k          ( -132.8,     3.2,    32.2)
+2022-10-01T22:27:43Z: PLAYER CHATTED [ 2874867030] DeadBoy4645          ( -169.5,     3.1,   -22.2)
+  I’m expirenced
+2022-10-01T22:28:10Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -142.4,     8.7,   -37.1)
+  Oh well.
+2022-10-01T22:28:18Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -142.4,     8.7,   -37.1)
+  I am secretly a Republican't.
+2022-10-01T22:28:19Z: PLAYER CHATTED [ 1478361538] Hyp0o0               ( -139.3,     7.0,   -32.7)
+  Europe shall fall
+2022-10-01T22:28:25Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -142.4,     8.7,   -37.1)
+  That means I hash to it.
+2022-10-01T22:28:27Z: PLAYER CHATTED [ 1478361538] Hyp0o0               ( -139.3,     7.0,   -32.7)
+  We will take over the moon
+2022-10-01T22:28:29Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -142.4,     8.7,   -37.1)
+  Very well.
+2022-10-01T22:28:30Z: PLAYER CHATTED [  458923878] DeIta_Shock          ( -183.2,     3.1,   -21.0)
+  Democratic society will collapse!
+2022-10-01T22:28:33Z: PLAYER CHATTED [ 1478361538] Hyp0o0               ( -139.3,     7.0,   -32.7)
+  we shall take the world
+2022-10-01T22:28:33Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -142.4,     8.7,   -37.1)
+  ##Ò##Ó###
+2022-10-01T22:28:36Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -142.4,     8.7,   -37.1)
+  ÒÓ
+2022-10-01T22:28:39Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -142.4,     8.7,   -37.1)
+  0% for me!
+2022-10-01T22:28:42Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -142.4,     8.7,   -37.1)
+  Hash
+2022-10-01T22:28:42Z: PLAYER CHATTED [  458923878] DeIta_Shock          ( -183.2,     3.1,   -21.0)
+  My ####### views are better
+2022-10-01T22:28:44Z: PLAYER CHATTED [ 1478361538] Hyp0o0               ( -139.3,     7.0,   -32.7)
+  We shall make us the people the world leader
+2022-10-01T22:28:45Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -142.4,     8.7,   -37.1)
+  ###ÒÓ
+2022-10-01T22:28:49Z: PLAYER CHATTED [ 2017419801] UnknownBounty22      ( -159.4,     7.1,   -47.0)
+  We shall help the taliban ####### ### ### ###### in the world and after that we will make them work in the cotton fields again!
+2022-10-01T22:28:49Z: PLAYER CHATTED [ 1731420078] bipper1115           ( -154.9,     8.3,   -45.0)
+  ###############################
+2022-10-01T22:28:56Z: PLAYER CHATTED [ 1731420078] bipper1115           ( -154.9,     8.3,   -45.0)
+  ## more black people
+2022-10-01T22:28:56Z: PLAYER CHATTED [  523256039] eisaniazi            ( -118.8,     3.1,    25.2)
+  im back
+2022-10-01T22:28:58Z: PLAYER CHATTED [ 1731420078] bipper1115           ( -154.9,     8.3,   -45.0)
+  ##
+2022-10-01T22:29:02Z: PLAYER CHATTED [ 2017419801] UnknownBounty22      ( -159.4,     7.1,   -47.0)
+  DOWN WITH THE BLACKS!
+2022-10-01T22:29:02Z: PLAYER CHATTED [ 1731420078] bipper1115           ( -154.9,     8.3,   -45.0)
+  ## more ######s
+2022-10-01T22:29:05Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -142.4,     8.7,   -37.1)
+  RACIST!
+2022-10-01T22:29:07Z: PLAYER CHATTED [ 3659861290] Stopmatujo           ( -160.4,     3.1,    -8.2)
+  RACIST
+2022-10-01T22:29:11Z: PLAYER CHATTED [ 1731420078] bipper1115           ( -154.9,     8.3,   -45.0)
+  get rid of the ######s
+2022-10-01T22:29:13Z: PLAYER CHATTED [ 2017419801] UnknownBounty22      ( -159.4,     7.1,   -47.0)
+  #### ALL THE ######S IN AMERICA
+2022-10-01T22:29:16Z: PLAYER ADDED   [ 3747622984] dramanagi210
+2022-10-01T22:29:17Z: PLAYER ADDED   [ 2231273348] SupItsFairy
+2022-10-01T22:29:17Z: PLAYER CHATTED [ 1478361538] Hyp0o0               ( -139.3,     7.0,   -32.7)
+  YESSSSSSSSSSSSSSSSSS
+2022-10-01T22:29:20Z: PLAYER CHATTED [ 2017419801] UnknownBounty22      ( -159.4,     7.1,   -47.0)
+  ######S SHaLL FALL
+2022-10-01T22:29:22Z: PLAYER CHATTED [ 1478361538] Hyp0o0               ( -139.3,     7.0,   -32.7)
+  #### ### ######
+2022-10-01T22:29:30Z: PLAYER CHATTED [ 2017419801] UnknownBounty22      ( -159.4,     7.1,   -47.0)
+  BLACKS WILL DIE WITH US!
+2022-10-01T22:29:30Z: PLAYER ADDED   [ 2682428683] Punzerater_1947
+2022-10-01T22:29:33Z: PLAYER CHATTED [  265336978] embro738             ( -167.3,     7.7,   -37.2)
+  THE ONE PIECE IS REAL!!!!!!!!
+2022-10-01T22:29:35Z: PLAYER CHATTED [ 2874867030] DeadBoy4645          ( -169.5,     3.1,   -22.2)
+  Discrimination by sir coke
+2022-10-01T22:29:39Z: PLAYER CHATTED [ 1478361538] Hyp0o0               ( -139.3,     7.0,   -32.7)
+  KILL THE RICY RICE people
+2022-10-01T22:29:39Z: PLAYER CHATTED [  909385418] ItsMeCedie12         ( -170.4,     7.3,   -32.9)
+  Da one piece is real
+2022-10-01T22:29:39Z: PLAYER CHATTED [  265336978] embro738             ( -167.3,     7.7,   -37.2)
+  THE ONE PIECE IS REALLLLLL
+2022-10-01T22:29:41Z: PLAYER REMOVED [  458923878] DeIta_Shock
+2022-10-01T22:29:43Z: PLAYER CHATTED [  265336978] embro738             ( -167.3,     7.7,   -37.2)
+  THE ONE PIECE IS REALLLLLLLLLLLLLLLLLLLLLL
+2022-10-01T22:29:46Z: PLAYER CHATTED [ 1180373580] fatyan001            ( -143.2,     3.3,   -17.8)
+  C@ we get mush higher
+2022-10-01T22:29:49Z: CHRCTER ADDED  [ 1309520813] shadowboy8934        ( -146.8,     3.8,    32.2)
+2022-10-01T22:29:49Z: PLAYER CHATTED [  909385418] ItsMeCedie12         ( -170.4,     7.3,   -32.9)
+  dam right
+2022-10-01T22:29:53Z: PLAYER CHATTED [ 2682428683] Punzerater_1947      ( -167.8,     3.1,    25.2)
+  no one cares about anime in 2022
+2022-10-01T22:29:54Z: PLAYER CHATTED [  909385418] ItsMeCedie12         ( -170.4,     7.3,   -32.9)
+  its real
+2022-10-01T22:29:56Z: PLAYER CHATTED [ 2682428683] Punzerater_1947      ( -167.8,     3.1,    25.2)
+  open your eyes
+2022-10-01T22:30:00Z: PLAYER CHATTED [  265336978] embro738             ( -167.3,     7.7,   -37.2)
+  VOTE FOR ME
+2022-10-01T22:30:01Z: PLAYER CHATTED [  909385418] ItsMeCedie12         ( -170.4,     7.3,   -32.9)
+  confirmed
+2022-10-01T22:30:01Z: PLAYER CHATTED [ 1731420078] bipper1115           ( -154.9,     8.3,   -45.0)
+  amine ## ###
+2022-10-01T22:30:03Z: PLAYER CHATTED [ 1586267931] coolahadboi          ( -166.5,     3.1,   -13.3)
+  we do.
+2022-10-01T22:30:07Z: PLAYER CHATTED [ 1731420078] bipper1115           ( -154.9,     8.3,   -45.0)
+  anime ####s
+2022-10-01T22:30:10Z: PLAYER CHATTED [ 1586267931] coolahadboi          ( -166.5,     3.1,   -13.3)
+  anime is good.
+2022-10-01T22:30:11Z: PLAYER CHATTED [ 1180373580] fatyan001            ( -143.2,     3.3,   -17.8)
+  REAL
+2022-10-01T22:30:14Z: PLAYER CHATTED [ 1586267931] coolahadboi          ( -166.5,     3.1,   -13.3)
+  i support.
+2022-10-01T22:30:15Z: PLAYER CHATTED [ 2682428683] Punzerater_1947      ( -167.8,     3.1,    25.2)
+  im not voting cry about it
+2022-10-01T22:30:18Z: PLAYER CHATTED [ 1731420078] bipper1115           ( -154.9,     8.3,   -45.0)
+  get outta here with that #### stuff
+2022-10-01T22:30:21Z: PLAYER CHATTED [ 1731420078] bipper1115           ( -154.9,     8.3,   -45.0)
+  ####
+2022-10-01T22:30:25Z: CHRCTER ADDED  [    1630228] VisualPlugin         ( -118.8,     4.9,    32.2)
+2022-10-01T22:30:32Z: PLAYER CHATTED [ 2017419801] UnknownBounty22      ( -159.4,     7.1,   -47.0)
+  DOWN WITH THE BLACKS RIS OF THE TALIBAN!
+2022-10-01T22:30:37Z: PLAYER ADDED   [ 3609409935] gghi76t
+2022-10-01T22:30:42Z: PLAYER CHATTED [  265336978] embro738             ( -167.3,     7.7,   -37.2)
+  LETS G###
+2022-10-01T22:30:45Z: PLAYER CHATTED [ 2682428683] Punzerater_1947      ( -178.2,     3.1,   -20.6)
+  people who play this game are manipulated easily
+2022-10-01T22:31:11Z: PLAYER CHATTED [ 2874867030] DeadBoy4645          ( -169.7,     3.1,   -22.3)
+  I’m expirenced
+2022-10-01T22:31:15Z: CHRCTER ADDED  [ 2461792462] Ewprice              ( -132.8,     4.3,    25.2)
+2022-10-01T22:31:19Z: PLAYER CHATTED [ 1731420078] bipper1115           ( -168.7,     3.4,   -19.5)
+  no your not
+2022-10-01T22:31:23Z: PLAYER ADDED   [ 1329417466] Daviddeutsch5917
+2022-10-01T22:31:27Z: PLAYER CHATTED [ 1180373580] fatyan001            ( -143.5,     3.3,   -22.1)
+  you are not a fun guy in party
+2022-10-01T22:31:28Z: PLAYER ADDED   [ 2840806713] Yume_Amaii
+2022-10-01T22:31:29Z: PLAYER CHATTED [ 2874867030] DeadBoy4645          ( -169.7,     3.1,   -22.3)
+  I’ve made people president 4 times
+2022-10-01T22:31:36Z: PLAYER CHATTED [ 1097095597] rainbowtiger876      ( -154.9,     8.2,   -45.0)
+  Alright
+2022-10-01T22:31:36Z: PLAYER ADDED   [ 1376478247] littleduckydude1234
+2022-10-01T22:31:37Z: PLAYER CHATTED [ 2682428683] Punzerater_1947      ( -171.0,     3.1,   -15.7)
+  everyone's done that here really
+2022-10-01T22:31:40Z: PLAYER CHATTED [ 1097095597] rainbowtiger876      ( -154.9,     8.2,   -45.0)
+  This is good
+2022-10-01T22:31:42Z: PLAYER CHATTED [ 1731420078] bipper1115           ( -168.7,     3.4,   -19.5)
+  bro you look like grape koolaid
+2022-10-01T22:31:42Z: PLAYER CHATTED [ 2874867030] DeadBoy4645          ( -168.2,     3.1,   -19.8)
+  Ahh
+2022-10-01T22:31:42Z: PLAYER CHATTED [ 2461792462] Ewprice              ( -139.3,     8.1,   -32.7)
+  Ladies and gentlemen 
+2022-10-01T22:31:51Z: PLAYER CHATTED [ 3771657236] stephenxxx124        ( -142.4,     8.0,   -37.1)
+  ya
+2022-10-01T22:31:54Z: PLAYER ADDED   [ 1326609775] coolekohle
+2022-10-01T22:31:54Z: PLAYER REMOVED [    1630228] VisualPlugin
