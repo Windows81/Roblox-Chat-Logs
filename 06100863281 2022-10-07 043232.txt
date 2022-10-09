@@ -1,0 +1,382 @@
+[    1630228] : [ 6100863281] RoVille Party - c1410d0b-4175-6e48-e2b4-56fcb062794c
+2022-10-07T04:32:32Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-10-07T04:32:32Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-10-07T04:32:32Z: PLAYER ADDED   [ 3871038100] ContaTemporaria02524
+2022-10-07T04:32:32Z: PLAYER ADDED   [ 3928751317] Itztoacgameingtose
+2022-10-07T04:32:32Z: PLAYER ADDED   [ 1051821886] llizbethh15
+2022-10-07T04:32:32Z: PLAYER ADDED   [ 3751939834] Kingfarral
+2022-10-07T04:32:32Z: PLAYER ADDED   [ 3378262091] purinok2016
+2022-10-07T04:32:32Z: PLAYER ADDED   [ 2662219715] ITZ_Melodycruz300
+2022-10-07T04:32:32Z: PLAYER ADDED   [ 3171115100] Karz551
+2022-10-07T04:32:32Z: PLAYER ADDED   [ 2390700634] ELIZABETHTHEFLOWER12
+2022-10-07T04:32:32Z: PLAYER ADDED   [ 3360600989] berrykayla2022
+2022-10-07T04:32:34Z: PLAYER CHATTED [ 2390700634] ELIZABETHTHEFLOWER12 ( 1881.4,   -19.6,  3748.8)
+  *get tickets*
+2022-10-07T04:32:34Z: PLAYER CHATTED [ 2662219715] ITZ_Melodycruz300    ( 1713.4,   -20.0,  3721.0)
+  Yes sir?
+2022-10-07T04:32:35Z: PLAYER ADDED   [ 2281823057] CUTLERPO
+2022-10-07T04:32:35Z: PLAYER CHATTED [ 3360600989] berrykayla2022       ( 1887.9,   -20.0,  3757.6)
+  hi how can i help u?
+2022-10-07T04:32:38Z: PLAYER CHATTED [ 1051821886] llizbethh15          ( 1879.9,   -20.4,  3740.8)
+  *takes* thank you maam
+2022-10-07T04:32:40Z: PLAYER CHATTED [ 3928751317] Itztoacgameingtose   ( 1887.9,   -19.9,  3741.6)
+  Ok it will be 1 k
+2022-10-07T04:32:48Z: PLAYER CHATTED [ 3751939834] Kingfarral           ( 1878.0,   -19.9,  3757.4)
+  we're AM I 
+2022-10-07T04:32:48Z: PLAYER CHATTED [ 1051821886] llizbethh15          ( 1879.9,   -20.4,  3740.8)
+  here you go *hands card*
+2022-10-07T04:32:49Z: PLAYER CHATTED [ 3171115100] Karz551              ( 1716.3,   -19.9,  3706.7)
+  im going to be here for 4 days to u guys have a food area
+2022-10-07T04:32:53Z: PLAYER CHATTED [ 3928751317] Itztoacgameingtose   ( 1887.9,   -19.9,  3741.6)
+  ##
+2022-10-07T04:32:56Z: PLAYER CHATTED [ 3360600989] berrykayla2022       ( 1887.9,   -20.0,  3757.6)
+  ur at the airport
+2022-10-07T04:33:00Z: PLAYER CHATTED [ 2662219715] ITZ_Melodycruz300    ( 1713.4,   -20.0,  3721.0)
+  yes sir
+2022-10-07T04:33:02Z: PLAYER CHATTED [ 3928751317] Itztoacgameingtose   ( 1887.9,   -19.9,  3741.6)
+  K safe travels 
+2022-10-07T04:33:03Z: PLAYER CHATTED [ 2662219715] ITZ_Melodycruz300    ( 1713.4,   -20.0,  3721.0)
+  kfc
+2022-10-07T04:33:03Z: PLAYER CHATTED [ 3751939834] Kingfarral           ( 1878.0,   -19.9,  3757.4)
+  poooooo
+2022-10-07T04:33:04Z: PLAYER CHATTED [ 2662219715] ITZ_Melodycruz300    ( 1713.4,   -20.0,  3721.0)
+  ?
+2022-10-07T04:33:06Z: PLAYER CHATTED [ 1051821886] llizbethh15          ( 1879.9,   -20.4,  3740.8)
+  thanks 
+2022-10-07T04:33:13Z: PLAYER CHATTED [ 3751939834] Kingfarral           ( 1878.0,   -19.9,  3757.4)
+  we're can I fly to 
+2022-10-07T04:33:13Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 ( 1887.9,   -20.0,  3749.6)
+  let's fly
+2022-10-07T04:33:17Z: PLAYER ADDED   [ 1875164815] zetiTa125
+2022-10-07T04:33:21Z: PLAYER CHATTED [ 3171115100] Karz551              ( 1741.2,   -19.9,  3712.4)
+  its fine what ever
+2022-10-07T04:33:27Z: PLAYER CHATTED [ 3360600989] berrykayla2022       ( 1887.9,   -20.0,  3757.6)
+  new york is the earlest flight
+2022-10-07T04:33:39Z: PLAYER CHATTED [ 3751939834] Kingfarral           ( 1880.5,   -19.9,  3757.9)
+  okay 
+2022-10-07T04:33:55Z: PLAYER CHATTED [ 3360600989] berrykayla2022       ( 1887.9,   -20.0,  3757.6)
+  may i have a card to pay plz?
+2022-10-07T04:33:57Z: PLAYER CHATTED [ 3751939834] Kingfarral           ( 1880.5,   -19.9,  3757.9)
+  soooooooooooooooooooooo
+2022-10-07T04:34:09Z: PLAYER CHATTED [ 3751939834] Kingfarral           ( 1880.5,   -19.9,  3757.9)
+  sure 
+2022-10-07T04:34:18Z: PLAYER CHATTED [ 3360600989] berrykayla2022       ( 1887.9,   -20.0,  3757.6)
+  takes card*
+2022-10-07T04:34:28Z: PLAYER ADDED   [ 2760942140] Ailannahr
+2022-10-07T04:34:31Z: PLAYER CHATTED [ 3360600989] berrykayla2022       ( 1887.9,   -20.0,  3757.6)
+  would u like first class?
+2022-10-07T04:34:41Z: PLAYER CHATTED [ 2662219715] ITZ_Melodycruz300    ( 1723.0,     4.0,  3619.9)
+  Hello! And Welcome! Please Give Me Your Ticket So I Could Show You Where Your Gonna sit!
+2022-10-07T04:34:43Z: PLAYER CHATTED [ 3751939834] Kingfarral           ( 1880.5,   -19.9,  3757.9)
+  yes please 
+2022-10-07T04:34:47Z: PLAYER ADDED   [ 3447614783] eyshila13yp
+2022-10-07T04:34:52Z: PLAYER CHATTED [ 3360600989] berrykayla2022       ( 1887.9,   -20.0,  3757.6)
+  ok 
+2022-10-07T04:34:53Z: PLAYER ADDED   [ 2572655202] ayesh_ayi3
+2022-10-07T04:34:54Z: PLAYER ADDED   [ 3231039277] Kate_7738
+2022-10-07T04:34:55Z: PLAYER REMOVED [ 2760942140] Ailannahr
+2022-10-07T04:34:56Z: PLAYER CHATTED [ 2281823057] CUTLERPO             ( 1712.0,     4.5,  3609.7)
+  zzz
+2022-10-07T04:35:01Z: PLAYER CHATTED [ 1051821886] llizbethh15          ( 1715.5,     5.0,  3616.1)
+  here you go *hands*
+2022-10-07T04:35:02Z: PLAYER CHATTED [ 3360600989] berrykayla2022       ( 1887.9,   -20.0,  3757.6)
+  gives her aticket*
+2022-10-07T04:35:03Z: PLAYER ADDED   [ 2829337627] mcnonnyer
+2022-10-07T04:35:03Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 ( 1717.8,     4.8,  3609.9)
+  Sir.
+2022-10-07T04:35:07Z: PLAYER CHATTED [ 2281823057] CUTLERPO             ( 1712.0,     4.5,  3609.7)
+  yes
+2022-10-07T04:35:08Z: PLAYER CHATTED [ 3751939834] Kingfarral           ( 1880.5,   -19.9,  3757.9)
+  do you think i am late 
+2022-10-07T04:35:08Z: CHRCTER ADDED  [ 3231039277] Kate_7738            ( 1756.2,   -12.9,  3872.5)
+2022-10-07T04:35:09Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 ( 1715.7,     5.1,  3609.8)
+  ticket please.
+2022-10-07T04:35:10Z: PLAYER CHATTED [ 3360600989] berrykayla2022       ( 1887.9,   -20.0,  3757.6)
+  there you go maam
+2022-10-07T04:35:10Z: PLAYER CHATTED [ 2662219715] ITZ_Melodycruz300    ( 1720.5,     4.0,  3613.1)
+  Thank you
+2022-10-07T04:35:16Z: PLAYER CHATTED [ 2662219715] ITZ_Melodycruz300    ( 1720.5,     4.0,  3613.1)
+  sit 003
+2022-10-07T04:35:20Z: PLAYER CHATTED [ 3751939834] Kingfarral           ( 1880.5,   -19.9,  3757.9)
+  we're should I go 
+2022-10-07T04:35:22Z: PLAYER CHATTED [ 3360600989] berrykayla2022       ( 1887.9,   -20.0,  3757.6)
+  and nobut u might wanna hurry and go now
+2022-10-07T04:35:22Z: PLAYER CHATTED [ 2281823057] CUTLERPO             ( 1712.0,     4.5,  3609.7)
+  -give ticket-
+2022-10-07T04:35:28Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 ( 1715.7,     5.1,  3609.8)
+  *check scanner*
+2022-10-07T04:35:31Z: PLAYER CHATTED [ 3928751317] Itztoacgameingtose   ( 1717.8,     5.3,  3615.3)
+  Hey sir
+2022-10-07T04:35:32Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 ( 1715.7,     5.1,  3609.8)
+  *gives back*
+2022-10-07T04:35:32Z: PLAYER CHATTED [ 2662219715] ITZ_Melodycruz300    ( 1699.3,     5.4,  3616.2)
+  Enjoy your flight!
+2022-10-07T04:35:32Z: PLAYER CHATTED [ 3360600989] berrykayla2022       ( 1887.9,   -20.0,  3757.6)
+  go to the gate
+2022-10-07T04:35:35Z: PLAYER CHATTED [ 1051821886] llizbethh15          ( 1697.0,     4.7,  3620.6)
+  thank you ma'am
+2022-10-07T04:35:38Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 ( 1715.6,     5.1,  3616.0)
+  ticket please.
+2022-10-07T04:35:42Z: PLAYER ADDED   [ 1068635921] DeadxInzide
+2022-10-07T04:35:44Z: PLAYER CHATTED [ 2390700634] ELIZABETHTHEFLOWER12 ( 1712.8,     5.8,  3613.4)
+  here my ticket
+2022-10-07T04:35:47Z: PLAYER CHATTED [ 3360600989] berrykayla2022       ( 1887.9,   -20.0,  3757.6)
+  hell how may i help u
+2022-10-07T04:35:47Z: PLAYER CHATTED [ 3378262091] purinok2016          ( 1877.6,   -20.2,  3756.7)
+  hello
+2022-10-07T04:35:48Z: PLAYER CHATTED [ 3171115100] Karz551              ( 1718.4,     4.3,  3614.4)
+  gives tickit
+2022-10-07T04:35:49Z: PLAYER CHATTED [ 2281823057] CUTLERPO             ( 1712.0,     4.5,  3609.7)
+  -takes-
+2022-10-07T04:35:53Z: PLAYER CHATTED [ 3360600989] berrykayla2022       ( 1887.9,   -20.0,  3757.6)
+  hello*
+2022-10-07T04:36:01Z: PLAYER CHATTED [ 3360600989] berrykayla2022       ( 1887.9,   -20.0,  3757.6)
+  where u heading?
+2022-10-07T04:36:09Z: PLAYER CHATTED [ 2281823057] CUTLERPO             ( 1697.0,     4.5,  3617.9)
+  hello
+2022-10-07T04:36:10Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 ( 1728.6,     3.7,  3612.8)
+  sir sit in back please
+2022-10-07T04:36:12Z: PLAYER CHATTED [ 1051821886] llizbethh15          ( 1697.0,     4.7,  3620.6)
+  hi
+2022-10-07T04:36:23Z: PLAYER CHATTED [ 3378262091] purinok2016          ( 1879.9,   -20.2,  3756.7)
+  l can one ticker fist class
+2022-10-07T04:36:23Z: PLAYER CHATTED [ 2281823057] CUTLERPO             ( 1697.0,     4.5,  3617.9)
+  hru
+2022-10-07T04:36:23Z: PLAYER CHATTED [ 2662219715] ITZ_Melodycruz300    ( 1717.8,     4.8,  3613.8)
+  Good Morning Passengers!
+2022-10-07T04:36:24Z: PLAYER CHATTED [ 3928751317] Itztoacgameingtose   ( 1697.5,    -7.8,  3707.9)
+  Go
+2022-10-07T04:36:25Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 ( 1722.1,     3.7,  3612.4)
+  *enter in cabin*
+2022-10-07T04:36:31Z: PLAYER CHATTED [ 3360600989] berrykayla2022       ( 1887.9,   -20.0,  3757.6)
+  to where sir?
+2022-10-07T04:36:33Z: PLAYER CHATTED [ 2662219715] ITZ_Melodycruz300    ( 1717.9,     4.8,  3612.9)
+  Our first destination is!!!!
+2022-10-07T04:36:37Z: PLAYER CHATTED [ 1051821886] llizbethh15          ( 1697.0,     4.7,  3620.6)
+  im sleepy but excited wby
+2022-10-07T04:36:43Z: PLAYER CHATTED [ 3378262091] purinok2016          ( 1879.9,   -20.2,  3756.7)
+  is join
+2022-10-07T04:36:50Z: PLAYER CHATTED [ 2281823057] CUTLERPO             ( 1697.0,     4.5,  3617.9)
+  sleepy
+2022-10-07T04:36:53Z: PLAYER CHATTED [ 2390700634] ELIZABETHTHEFLOWER12 ( 1689.0,     4.8,  3617.5)
+  ?
+2022-10-07T04:36:54Z: PLAYER CHATTED [ 3378262091] purinok2016          ( 1879.9,   -20.2,  3756.7)
+  me
+2022-10-07T04:36:55Z: PLAYER CHATTED [ 3360600989] berrykayla2022       ( 1887.9,   -20.0,  3757.6)
+  ok a card plz
+2022-10-07T04:36:55Z: PLAYER CHATTED [ 3751939834] Kingfarral           ( 1720.4,     4.1,  3616.0)
+  New York 
+2022-10-07T04:36:57Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1705.0,     4.8,  3618.3)
+  Very spacious seats!
+2022-10-07T04:36:58Z: PLAYER CHATTED [ 2662219715] ITZ_Melodycruz300    ( 1717.9,     4.8,  3612.9)
+  Miami!
+2022-10-07T04:37:04Z: PLAYER CHATTED [ 3378262091] purinok2016          ( 1879.9,   -20.2,  3756.7)
+  ok
+2022-10-07T04:37:06Z: PLAYER CHATTED [ 3171115100] Karz551              ( 1697.0,     4.7,  3610.9)
+  ugh i dint make that much money this week only 300k ugh
+2022-10-07T04:37:11Z: PLAYER CHATTED [ 2662219715] ITZ_Melodycruz300    ( 1716.7,     5.4,  3612.3)
+  Ticket?
+2022-10-07T04:37:12Z: PLAYER CHATTED [ 1051821886] llizbethh15          ( 1697.0,     4.7,  3620.6)
+  good thing we have time to sleep on this flight
+2022-10-07T04:37:14Z: PLAYER CHATTED [ 2390700634] ELIZABETHTHEFLOWER12 ( 1708.2,     5.8,  3614.4)
+  umm
+2022-10-07T04:37:20Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 ( 1731.0,     5.5,  3608.7)
+  *put headphones*
+2022-10-07T04:37:22Z: PLAYER CHATTED [ 3751939834] Kingfarral           ( 1719.9,     4.1,  3611.4)
+  I am first class 
+2022-10-07T04:37:28Z: PLAYER CHATTED [ 3928751317] Itztoacgameingtose   ( 1728.8,     6.9,  3612.2)
+  Boss 
+2022-10-07T04:37:29Z: PLAYER CHATTED [ 2662219715] ITZ_Melodycruz300    ( 1716.8,     5.4,  3613.2)
+  okay
+2022-10-07T04:37:29Z: PLAYER CHATTED [ 3360600989] berrykayla2022       ( 1887.9,   -20.0,  3757.6)
+  pay and gives him a ticket * there u go sir plz head to the gate
+2022-10-07T04:37:30Z: PLAYER REMOVED [ 1068635921] DeadxInzide
+2022-10-07T04:37:38Z: PLAYER CHATTED [ 2662219715] ITZ_Melodycruz300    ( 1716.8,     5.4,  3613.2)
+  more experience in the front row sit
+2022-10-07T04:37:39Z: PLAYER CHATTED [ 2281823057] CUTLERPO             ( 1697.0,     4.5,  3617.9)
+  i am 10 
+2022-10-07T04:37:39Z: PLAYER CHATTED [ 3171115100] Karz551              ( 1697.0,     4.7,  3610.9)
+  so i should have in the bank 22.5 millon ok 
+2022-10-07T04:37:40Z: PLAYER REMOVED [ 3231039277] Kate_7738
+2022-10-07T04:37:51Z: PLAYER REMOVED [ 3447614783] eyshila13yp
+2022-10-07T04:37:56Z: PLAYER CHATTED [ 3378262091] purinok2016          ( 1879.9,   -20.2,  3756.7)
+  l one first class
+2022-10-07T04:37:58Z: PLAYER CHATTED [ 1051821886] llizbethh15          ( 1697.0,     4.7,  3620.6)
+  i am 12 
+2022-10-07T04:38:00Z: PLAYER ADDED   [ 1556780492] Bratishka_575
+2022-10-07T04:38:05Z: PLAYER CHATTED [ 2281823057] CUTLERPO             ( 1697.0,     4.5,  3617.9)
+  and no family
+2022-10-07T04:38:17Z: PLAYER CHATTED [ 2662219715] ITZ_Melodycruz300    ( 1719.2,     4.0,  3615.0)
+  Please wear your sitbelts and stay still! thank you
+2022-10-07T04:38:18Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1705.0,     4.8,  3618.3)
+  I am ÒÓ.
+2022-10-07T04:38:18Z: PLAYER CHATTED [ 2281823057] CUTLERPO             ( 1697.0,     4.5,  3617.9)
+  i live alone
+2022-10-07T04:38:38Z: PLAYER REMOVED [ 2572655202] ayesh_ayi3
+2022-10-07T04:38:39Z: PLAYER REMOVED [ 1051821886] llizbethh15
+2022-10-07T04:38:40Z: PLAYER CHATTED [ 3928751317] Itztoacgameingtose   ( 1712.0,     4.8,  3618.5)
+  Mad
+2022-10-07T04:38:41Z: PLAYER CHATTED [ 3751939834] Kingfarral           ( 1717.5,     5.2,  3611.3)
+  imma go to sleep 
+2022-10-07T04:38:43Z: PLAYER CHATTED [ 3171115100] Karz551              ( 1697.0,     4.7,  3610.9)
+  ok so i cna spend 200k on this trip
+2022-10-07T04:38:47Z: PLAYER CHATTED [ 2662219715] ITZ_Melodycruz300    ( 1716.5,     5.4,  3616.1)
+  yes?
+2022-10-07T04:38:50Z: PLAYER CHATTED [ 2662219715] ITZ_Melodycruz300    ( 1716.5,     5.4,  3616.1)
+  Hmm
+2022-10-07T04:38:59Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 ( 1731.0,     5.5,  3608.7)
+  *starting other turbine*
+2022-10-07T04:39:08Z: CHRCTER ADDED  [ 2281823057] CUTLERPO             ( 1756.2,   -12.9,  3872.5)
+2022-10-07T04:39:15Z: PLAYER CHATTED [ 2662219715] ITZ_Melodycruz300    ( 1716.5,     5.4,  3616.1)
+  Everyone please sit still and you will see something the dropped in the roof!
+2022-10-07T04:39:15Z: PLAYER CHATTED [ 3171115100] Karz551              ( 1697.0,     4.7,  3610.9)
+  -drops 50k -
+2022-10-07T04:39:16Z: PLAYER CHATTED [ 3928751317] Itztoacgameingtose   ( 1712.0,     4.8,  3618.5)
+  Give out the safety supplies 
+2022-10-07T04:39:20Z: PLAYER REMOVED [ 1556780492] Bratishka_575
+2022-10-07T04:39:32Z: PLAYER CHATTED [ 2662219715] ITZ_Melodycruz300    ( 1712.2,     5.4,  3613.5)
+  please put it propperly!
+2022-10-07T04:39:34Z: PLAYER ADDED   [ 3107716909] Art1salt20
+2022-10-07T04:39:42Z: PLAYER ADDED   [ 2636446478] Jackson123LOL2
+2022-10-07T04:39:43Z: PLAYER REMOVED [ 2281823057] CUTLERPO
+2022-10-07T04:39:48Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 ( 1731.0,     5.5,  3608.7)
+  close
+2022-10-07T04:39:53Z: PLAYER CHATTED [ 2662219715] ITZ_Melodycruz300    ( 1722.3,     4.0,  3617.5)
+  You all may now take it off
+2022-10-07T04:40:08Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 ( 1731.0,     5.5,  3608.7)
+  back
+2022-10-07T04:40:16Z: PLAYER REMOVED [ 2829337627] mcnonnyer
+2022-10-07T04:40:32Z: PLAYER REMOVED [ 3107716909] Art1salt20
+2022-10-07T04:40:47Z: PLAYER CHATTED [ 3928751317] Itztoacgameingtose   ( 1731.0,     5.6,  3617.7)
+  * puts on headphones * have a safe flight 
+2022-10-07T04:40:57Z: PLAYER CHATTED [ 3751939834] Kingfarral           ( 1712.0,     4.8,  3609.7)
+  I am hungry 
+2022-10-07T04:41:19Z: PLAYER ADDED   [ 3218977515] tooteezzy
+2022-10-07T04:41:28Z: PLAYER CHATTED [ 3751939834] Kingfarral           ( 1701.2,     5.5,  3613.5)
+  we ain't moving 
+2022-10-07T04:41:30Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 ( 1731.0,     5.5,  3608.7)
+  cruize mod.
+2022-10-07T04:41:32Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 ( 1731.0,     5.5,  3608.7)
+  *turn on*
+2022-10-07T04:41:34Z: PLAYER CHATTED [ 2662219715] ITZ_Melodycruz300    ( 1726.4,     4.0,  3613.2)
+  Sir how many hours to get to miami??
+2022-10-07T04:41:39Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 ( 1731.0,     5.5,  3608.7)
+  *views clock*
+2022-10-07T04:41:43Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 ( 1731.0,     5.5,  3608.7)
+  1# ###########
+2022-10-07T04:41:48Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 ( 1731.0,     5.5,  3608.7)
+  ## ### (RP)
+2022-10-07T04:41:49Z: PLAYER CHATTED [ 3171115100] Karz551              ( 1712.0,     4.7,  3609.7)
+  mad
+2022-10-07T04:41:51Z: PLAYER ADDED   [ 3245375187] NewtStrangers
+2022-10-07T04:41:56Z: PLAYER CHATTED [ 3928751317] Itztoacgameingtose   ( 1731.0,     5.6,  3617.7)
+  * puts on music * 
+2022-10-07T04:42:03Z: PLAYER CHATTED [ 2662219715] ITZ_Melodycruz300    ( 1726.4,     4.0,  3613.2)
+  Okay got it thank you
+2022-10-07T04:42:08Z: PLAYER ADDED   [ 3775893633] kttybvlw
+2022-10-07T04:42:09Z: PLAYER CHATTED [ 3171115100] Karz551              ( 1712.0,     4.7,  3609.7)
+  mad
+2022-10-07T04:42:14Z: PLAYER REMOVED [ 3378262091] purinok2016
+2022-10-07T04:42:20Z: PLAYER CHATTED [ 3171115100] Karz551              ( 1712.0,     4.7,  3609.7)
+  i have a tip for u
+2022-10-07T04:42:21Z: PLAYER CHATTED [ 3751939834] Kingfarral           ( 1714.5,     5.5,  3608.7)
+  go away from my sit 
+2022-10-07T04:42:33Z: PLAYER CHATTED [ 2662219715] ITZ_Melodycruz300    ( 1714.9,     5.4,  3613.4)
+  Miss please sit
+2022-10-07T04:42:49Z: PLAYER CHATTED [ 3751939834] Kingfarral           ( 1712.0,     4.8,  3609.7)
+  I am he was in my sit
+2022-10-07T04:42:49Z: PLAYER CHATTED [ 3171115100] Karz551              ( 1712.0,     4.7,  3618.5)
+  gives mad tip of 10k
+2022-10-07T04:43:07Z: PLAYER CHATTED [ 3751939834] Kingfarral           ( 1712.0,     4.8,  3609.7)
+  mad come please 🥺
+2022-10-07T04:43:30Z: PLAYER CHATTED [ 2662219715] ITZ_Melodycruz300    ( 1714.4,     5.4,  3611.9)
+  Ticket?
+2022-10-07T04:43:34Z: PLAYER CHATTED [ 3928751317] Itztoacgameingtose   ( 1714.3,     5.6,  3617.2)
+  We don’t need your money sir 
+2022-10-07T04:43:39Z: PLAYER CHATTED [ 3751939834] Kingfarral           ( 1712.0,     4.8,  3609.7)
+  mad I am hungry 
+2022-10-07T04:44:01Z: PLAYER CHATTED [ 2662219715] ITZ_Melodycruz300    ( 1720.3,     4.0,  3614.1)
+  Were now in the city of miami
+2022-10-07T04:44:06Z: PLAYER CHATTED [ 2662219715] ITZ_Melodycruz300    ( 1720.3,     4.0,  3614.1)
+  we will now wait till we land
+2022-10-07T04:44:07Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 ( 1731.0,     5.5,  3608.7)
+  welcome miami baby kkkk
+2022-10-07T04:44:11Z: PLAYER CHATTED [ 2662219715] ITZ_Melodycruz300    ( 1720.3,     4.0,  3614.1)
+  please stay still
+2022-10-07T04:44:15Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 ( 1731.0,     5.5,  3608.7)
+  *talk to the airport of the #####
+2022-10-07T04:44:17Z: CHRCTER ADDED  [ 3775893633] kttybvlw             ( 1756.2,   -12.9,  3872.5)
+2022-10-07T04:44:21Z: PLAYER REMOVED [ 3245375187] NewtStrangers
+2022-10-07T04:44:28Z: PLAYER REMOVED [ 3775893633] kttybvlw
+2022-10-07T04:44:33Z: PLAYER CHATTED [ 3171115100] Karz551              ( 1697.0,     4.7,  3620.6)
+  count money
+2022-10-07T04:44:37Z: PLAYER ADDED   [ 3548618500] Doumatia1
+2022-10-07T04:44:39Z: PLAYER CHATTED [ 3171115100] Karz551              ( 1697.0,     4.7,  3620.6)
+  counts money
+2022-10-07T04:44:46Z: PLAYER CHATTED [ 3171115100] Karz551              ( 1697.0,     4.7,  3620.6)
+  ### ##
+2022-10-07T04:44:53Z: PLAYER CHATTED [ 3171115100] Karz551              ( 1697.0,     4.7,  3620.6)
+  ### ##
+2022-10-07T04:44:57Z: PLAYER CHATTED [ 3171115100] Karz551              ( 1697.0,     4.7,  3620.6)
+  30k
+2022-10-07T04:45:18Z: PLAYER CHATTED [ 2662219715] ITZ_Melodycruz300    ( 1722.7,     4.0,  3617.2)
+  We have landed to miami! Enjoy Your trip to miami!!!!!
+2022-10-07T04:45:39Z: PLAYER CHATTED [ 3928751317] Itztoacgameingtose   ( 1731.0,     5.6,  3617.7)
+  Boss the wind is strong 
+2022-10-07T04:45:45Z: PLAYER CHATTED [ 2662219715] ITZ_Melodycruz300    ( 1720.2,     4.0,  3613.9)
+  I THOUGHT THAT MEANS WE LANDED-"''
+2022-10-07T04:45:55Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 ( 1731.0,     5.5,  3608.7)
+  Landing Flaps and lading gears
+2022-10-07T04:45:59Z: PLAYER REMOVED [ 3171115100] Karz551
+2022-10-07T04:46:10Z: PLAYER CHATTED [ 3751939834] Kingfarral           ( 1799.7,   -17.5,  3673.0)
+  who knows how to build 
+2022-10-07T04:46:23Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 ( 1731.0,     5.5,  3608.7)
+  back please
+2022-10-07T04:46:36Z: PLAYER CHATTED [ 2636446478] Jackson123LOL2       ( 1729.7,     4.8,  3612.5)
+  can i please be co pilot
+2022-10-07T04:46:45Z: PLAYER CHATTED [ 3751939834] Kingfarral           ( 1720.7,     4.1,  3625.0)
+  help mad
+2022-10-07T04:46:45Z: PLAYER CHATTED [ 2662219715] ITZ_Melodycruz300    ( 1721.1,     4.0,  3617.1)
+  im fr gonna be fired
+2022-10-07T04:47:01Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 ( 1731.0,     5.5,  3608.7)
+  spoilers
+2022-10-07T04:47:09Z: PLAYER CHATTED [ 2662219715] ITZ_Melodycruz300    ( 1722.9,     4.0,  3614.3)
+  ok we have landed
+2022-10-07T04:47:12Z: PLAYER CHATTED [ 2662219715] ITZ_Melodycruz300    ( 1722.9,     4.0,  3614.3)
+  sooo
+2022-10-07T04:47:13Z: PLAYER CHATTED [ 2662219715] ITZ_Melodycruz300    ( 1722.9,     4.0,  3614.3)
+  nyc
+2022-10-07T04:47:16Z: PLAYER CHATTED [ 2662219715] ITZ_Melodycruz300    ( 1723.2,     4.0,  3612.5)
+  next
+2022-10-07T04:47:20Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 ( 1731.0,     5.5,  3608.7)
+  *stop in gate after taxi*
+2022-10-07T04:47:23Z: PLAYER REMOVED [ 3548618500] Doumatia1
+2022-10-07T04:47:28Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 ( 1731.0,     5.5,  3608.7)
+  *turn off enginers*
+2022-10-07T04:47:39Z: PLAYER CHATTED [ 2662219715] ITZ_Melodycruz300    ( 1725.3,   -18.6,  3663.7)
+  Thank you for flying with us!!
+2022-10-07T04:47:40Z: PLAYER REMOVED [ 2390700634] ELIZABETHTHEFLOWER12
+2022-10-07T04:47:45Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 ( 1728.5,     3.7,  3614.7)
+  come kayla
+2022-10-07T04:47:49Z: PLAYER REMOVED [ 3751939834] Kingfarral
+2022-10-07T04:47:58Z: PLAYER REMOVED [ 3360600989] berrykayla2022
+2022-10-07T04:48:12Z: PLAYER REMOVED [ 2662219715] ITZ_Melodycruz300
+2022-10-07T04:48:15Z: PLAYER REMOVED [ 3218977515] tooteezzy
+2022-10-07T04:48:48Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 ( 1705.9,   -20.3,  3733.4)
+  Hey jordan kkkk
+2022-10-07T04:49:01Z: PLAYER CHATTED [ 2636446478] Jackson123LOL2       ( 1707.3,   -19.3,  3731.8)
+  when are we boarding the next plane
+2022-10-07T04:49:06Z: PLAYER ADDED   [ 2618981192] xxCloudy_Smudgexx
+2022-10-07T04:49:07Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 ( 1706.6,   -20.3,  3734.6)
+  yeah.
+2022-10-07T04:49:13Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 ( 1706.6,   -20.3,  3734.6)
+  but im am take my papers.
+2022-10-07T04:49:21Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 ( 1771.9,   -20.3,  3712.1)
+  *miami*
+2022-10-07T04:49:25Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 ( 1785.9,   -20.3,  3714.0)
+  nice sicty.
+2022-10-07T04:49:27Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 ( 1789.1,   -20.3,  3714.3)
+  nice city
+2022-10-07T04:49:41Z: PLAYER CHATTED [ 3928751317] Itztoacgameingtose   ( 1740.6,   -19.8,  3710.4)
+  ###
+2022-10-07T04:50:03Z: PLAYER REMOVED [    1630228] VisualPlugin

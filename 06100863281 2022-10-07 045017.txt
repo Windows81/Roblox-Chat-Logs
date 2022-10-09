@@ -1,0 +1,269 @@
+[    1630228] : [ 6100863281] RoVille Party - 58cd7b1d-d54e-3d67-e1cb-48f467e96abc
+2022-10-07T04:50:17Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-10-07T04:50:17Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-10-07T04:55:34Z: PLAYER ADDED   [ 2893549352] TottalyNotPan
+2022-10-07T04:55:47Z: PLAYER CHATTED [ 2893549352] TottalyNotPan        ( 1001.2,   -20.3,  1618.5)
+  elloo
+2022-10-07T04:56:58Z: PLAYER CHATTED [ 2893549352] TottalyNotPan        ( 1001.2,   -20.3,  1618.5)
+  can i be a judge???
+2022-10-07T04:58:36Z: PLAYER CHATTED [ 2893549352] TottalyNotPan        ( 1057.8,   -18.0,  1641.9)
+  k nvm
+2022-10-07T04:58:41Z: PLAYER REMOVED [ 2893549352] TottalyNotPan
+2022-10-07T04:58:48Z: PLAYER ADDED   [ 3937628330] Naydene55
+2022-10-07T04:59:45Z: PLAYER REMOVED [ 3937628330] Naydene55
+2022-10-07T05:03:39Z: PLAYER ADDED   [ 3883610955] Mrkfksh
+2022-10-07T05:04:25Z: PLAYER REMOVED [ 3883610955] Mrkfksh
+2022-10-07T05:07:03Z: PLAYER ADDED   [ 3883610955] Mrkfksh
+2022-10-07T05:08:00Z: PLAYER REMOVED [ 3883610955] Mrkfksh
+2022-10-07T05:12:31Z: PLAYER ADDED   [ 2451151601] LovelyAubreyS
+2022-10-07T05:13:07Z: PLAYER REMOVED [ 2451151601] LovelyAubreyS
+2022-10-07T05:14:01Z: PLAYER ADDED   [ 2451151601] LovelyAubreyS
+2022-10-07T05:14:50Z: PLAYER REMOVED [ 2451151601] LovelyAubreyS
+2022-10-07T05:25:13Z: PLAYER ADDED   [ 2987993252] im_notrose12345
+2022-10-07T05:26:23Z: PLAYER ADDED   [ 3911454013] Chanel_swaggs
+2022-10-07T05:27:27Z: PLAYER REMOVED [ 3911454013] Chanel_swaggs
+2022-10-07T05:27:53Z: PLAYER REMOVED [ 2987993252] im_notrose12345
+2022-10-07T05:29:56Z: PLAYER ADDED   [ 3911454013] Chanel_swaggs
+2022-10-07T05:30:34Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        ( 1002.2,   -19.0,  1686.7)
+  Bro where’s everyone
+2022-10-07T05:31:51Z: PLAYER ADDED   [ 1839378963] 55valiant55
+2022-10-07T05:31:56Z: PLAYER REMOVED [ 3911454013] Chanel_swaggs
+2022-10-07T05:31:56Z: PLAYER ADDED   [ 3911454013] Chanel_swaggs
+2022-10-07T05:33:27Z: PLAYER REMOVED [ 3911454013] Chanel_swaggs
+2022-10-07T05:38:57Z: PLAYER REMOVED [ 1839378963] 55valiant55
+2022-10-07T05:52:06Z: PLAYER ADDED   [ 3116908687] naetaelee
+2022-10-07T05:52:41Z: PLAYER REMOVED [ 3116908687] naetaelee
+2022-10-07T06:04:04Z: PLAYER ADDED   [ 2984905033] Ferdaus1345
+2022-10-07T06:04:45Z: CHRCTER ADDED  [ 2984905033] Ferdaus1345          ( 1068.3,   -12.8,  1641.3)
+2022-10-07T06:09:18Z: CHRCTER ADDED  [ 2984905033] Ferdaus1345          (  994.4,   -12.8,  1688.8)
+2022-10-07T06:09:43Z: PLAYER REMOVED [ 2984905033] Ferdaus1345
+2022-10-07T06:11:36Z: PLAYER ADDED   [ 2296164961] Adlah2016
+2022-10-07T06:12:14Z: PLAYER REMOVED [ 2296164961] Adlah2016
+2022-10-07T06:12:43Z: PLAYER ADDED   [ 2339606017] Yousefbashar2017
+2022-10-07T06:13:05Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1272.6,    24.8,  1596.9)
+  Welcome!
+2022-10-07T06:13:57Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1252.0,   -18.9,  1045.3)
+  Welcome to Roblox's Got Talent!
+2022-10-07T06:14:07Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1245.7,   -19.1,  1043.5)
+  * sips peas *
+2022-10-07T06:14:17Z: PLAYER REMOVED [ 2339606017] Yousefbashar2017
+2022-10-07T06:15:39Z: PLAYER ADDED   [ 2296164961] Adlah2016
+2022-10-07T06:15:44Z: PLAYER REMOVED [ 2296164961] Adlah2016
+2022-10-07T06:16:28Z: PLAYER ADDED   [ 1256311687] fifiloves_unicorns2
+2022-10-07T06:16:37Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1530.5,   -20.0,   354.2)
+  Welcome!
+2022-10-07T06:17:34Z: PLAYER CHATTED [ 1256311687] fifiloves_unicorns2 
+  hi
+2022-10-07T06:17:39Z: PLAYER ADDED   [ 2296164961] Adlah2016
+2022-10-07T06:17:53Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1045.9,   -18.1,  1636.1)
+  Welcome to Miss Universe!
+2022-10-07T06:18:14Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1045.9,   -18.1,  1636.1)
+  Because I'm a male, I will rename it temporarily to Mr Universe.
+2022-10-07T06:18:16Z: PLAYER REMOVED [ 2296164961] Adlah2016
+2022-10-07T06:18:23Z: PLAYER CHATTED [ 1256311687] fifiloves_unicorns2  ( 1049.3,   -18.8,  1621.4)
+  okay 
+2022-10-07T06:18:35Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1046.6,   -18.4,  1626.4)
+  Wanna go to the 1984 venue?
+2022-10-07T06:18:40Z: PLAYER CHATTED [ 1256311687] fifiloves_unicorns2  ( 1244.6,   555.9,  1975.9)
+  sure
+2022-10-07T06:18:54Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -347.0,   612.8,   942.7)
+  Ladies and ladies!
+2022-10-07T06:19:01Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -347.0,   612.8,   942.7)
+  We have our contestant!
+2022-10-07T06:19:12Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -354.3,   612.8,   940.5)
+  Mrs Orns2!
+2022-10-07T06:19:31Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -352.3,   612.8,   942.8)
+  Every contestnat's name begins with 'Fifi'!
+2022-10-07T06:19:46Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -352.5,   612.8,   941.2)
+  What a coincidence!
+2022-10-07T06:20:04Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -344.8,   612.8,   947.5)
+  * enters the show *
+2022-10-07T06:20:07Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -344.8,   612.8,   947.5)
+  What do we know!
+2022-10-07T06:20:08Z: PLAYER REMOVED [ 1256311687] fifiloves_unicorns2
+2022-10-07T06:21:56Z: PLAYER ADDED   [ 3350025466] Lanawaseemabdelqader
+2022-10-07T06:22:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (  585.3,   -20.1,  1987.8)
+  There is ... Welcome.
+2022-10-07T06:22:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (  996.6,   -19.3,  1685.8)
+  I had a show a few minutes ago.
+2022-10-07T06:22:53Z: PLAYER CHATTED [    1630228] VisualPlugin         (  932.1,   -21.6,  1655.3)
+  It got cut short.
+2022-10-07T06:22:58Z: CHRCTER ADDED  [ 3350025466] Lanawaseemabdelqader ( 1053.0,   -12.3,  1709.8)
+2022-10-07T06:23:10Z: PLAYER REMOVED [ 3350025466] Lanawaseemabdelqader
+2022-10-07T06:26:06Z: PLAYER ADDED   [ 3365681565] Neonworld511
+2022-10-07T06:26:50Z: PLAYER CHATTED [ 3365681565] Neonworld511         ( 1154.7,   109.4,  2791.2)
+  ?
+2022-10-07T06:26:57Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1154.0,   109.6,  2790.6)
+  Welcome to Miss Universe.!
+2022-10-07T06:27:02Z: PLAYER CHATTED [ 3365681565] Neonworld511         ( 1154.7,   109.4,  2791.2)
+  how?
+2022-10-07T06:27:15Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1161.3,   109.6,  2805.4)
+  The show will proceed with one contestant.
+2022-10-07T06:27:24Z: PLAYER CHATTED [ 3365681565] Neonworld511         ( 1158.6,   109.4,  2798.7)
+  ok
+2022-10-07T06:27:37Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1161.3,   109.6,  2805.4)
+  If you're asking how I flew, I'll tell you that I may have used 'explots'.
+2022-10-07T06:27:37Z: PLAYER ADDED   [ 1760295500] Z61000
+2022-10-07T06:27:38Z: PLAYER ADDED   [ 3264319900] Chantelleillve
+2022-10-07T06:27:50Z: PLAYER CHATTED [ 3365681565] Neonworld511         ( 1161.3,   109.4,  2797.9)
+  ok
+2022-10-07T06:27:56Z: PLAYER CHATTED [ 3365681565] Neonworld511         ( 1160.7,   109.4,  2796.0)
+  cool
+2022-10-07T06:28:12Z: PLAYER CHATTED [ 3264319900] Chantelleillve       ( 1162.4,   109.2,  2814.6)
+  Who’s the host
+2022-10-07T06:28:15Z: PLAYER CHATTED [ 1760295500] Z61000               ( 1161.8,   108.8,  2822.1)
+  Can you give me money
+2022-10-07T06:28:21Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1149.4,   109.6,  2822.9)
+  I'm the hòóst.
+2022-10-07T06:28:26Z: PLAYER CHATTED [ 3264319900] Chantelleillve       ( 1162.4,   109.2,  2814.6)
+  Kk
+2022-10-07T06:28:27Z: PLAYER CHATTED [ 1760295500] Z61000               ( 1161.0,   108.8,  2821.8)
+  I only have 0$
+2022-10-07T06:28:38Z: PLAYER CHATTED [ 3365681565] Neonworld511         ( 1158.1,   109.4,  2818.6)
+  stop the cap
+2022-10-07T06:28:44Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1153.6,   109.6,  2822.2)
+  I don't have $20,000.
+2022-10-07T06:28:47Z: PLAYER ADDED   [ 2829972467] MiaMillyFrog
+2022-10-07T06:28:47Z: PLAYER CHATTED [ 3264319900] Chantelleillve       ( 1162.9,   109.2,  2816.9)
+  Sell ur house or smth
+2022-10-07T06:28:58Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1154.7,   109.6,  2822.5)
+  Too much effort.
+2022-10-07T06:28:59Z: PLAYER CHATTED [ 3365681565] Neonworld511         ( 1159.6,   109.4,  2822.8)
+  ye
+2022-10-07T06:29:02Z: PLAYER CHATTED [ 1760295500] Z61000               ( 1161.4,   108.8,  2825.5)
+  I already sell my house
+2022-10-07T06:29:09Z: PLAYER CHATTED [ 1760295500] Z61000               ( 1161.4,   108.8,  2825.5)
+  And they give me nothing 
+2022-10-07T06:29:16Z: PLAYER CHATTED [ 3264319900] Chantelleillve       ( 1166.4,   109.2,  2825.5)
+   Cap
+2022-10-07T06:29:23Z: PLAYER REMOVED [ 1760295500] Z61000
+2022-10-07T06:29:38Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1158.1,   109.6,  2811.8)
+  Let the show go on!
+2022-10-07T06:29:43Z: PLAYER CHATTED [ 3365681565] Neonworld511         ( 1161.8,   109.4,  2817.2)
+  ok
+2022-10-07T06:29:48Z: PLAYER CHATTED [ 3264319900] Chantelleillve       ( 1166.4,   109.2,  2825.5)
+  Kk
+2022-10-07T06:29:54Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1155.7,   109.6,  2817.8)
+  Ladies and lady!
+2022-10-07T06:30:03Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1155.7,   109.6,  2817.8)
+  Let the shöw begin!
+2022-10-07T06:30:15Z: PLAYER CHATTED [ 2829972467] MiaMillyFrog         ( 1161.2,   107.3,  2812.4)
+  wat this
+2022-10-07T06:30:19Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1155.7,   109.6,  2809.4)
+  Miss Universe.
+2022-10-07T06:30:40Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1155.7,   109.6,  2809.0)
+  No. 1: Mrs Alexa.
+2022-10-07T06:30:42Z: PLAYER CHATTED [ 2829972467] MiaMillyFrog         ( 1159.7,   107.3,  2813.8)
+  fashion show?
+2022-10-07T06:31:07Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1154.1,   109.6,  2808.6)
+  /w Chantelleillve  ¿?
+2022-10-07T06:31:17Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1154.1,   109.6,  2808.6)
+  This is the ultimate fashion show!
+2022-10-07T06:31:23Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1153.6,   109.6,  2809.6)
+  No. 2: Mrs Peppa.
+2022-10-07T06:31:36Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1157.3,   109.6,  2806.8)
+  Unfortunately, contestnats have to be at least 18.
+2022-10-07T06:31:41Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1157.3,   109.6,  2806.8)
+  So Mia is not eligible.
+2022-10-07T06:31:43Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1157.3,   109.6,  2806.8)
+  ÒÓ.
+2022-10-07T06:31:57Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1157.8,   109.6,  2807.1)
+  * changes her age to 18.04 *
+2022-10-07T06:32:06Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1157.8,   109.6,  2807.1)
+  Now she's eligible.
+2022-10-07T06:32:16Z: PLAYER REMOVED [ 2829972467] MiaMillyFrog
+2022-10-07T06:32:21Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1157.7,   109.6,  2806.7)
+  No. 3: Mrs ... what?
+2022-10-07T06:32:46Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1155.4,   109.6,  2808.7)
+  Peppa:
+2022-10-07T06:32:52Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1155.4,   109.6,  2808.7)
+  Which of you should win?
+2022-10-07T06:33:00Z: PLAYER CHATTED [ 3365681565] Neonworld511         ( 1154.5,   109.4,  2814.8)
+  me
+2022-10-07T06:33:00Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1155.4,   109.6,  2808.7)
+  You or Alexa?
+2022-10-07T06:33:04Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1155.4,   109.6,  2808.7)
+  Got it.
+2022-10-07T06:33:10Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1158.7,   109.6,  2809.2)
+  Alexa:
+2022-10-07T06:33:15Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1158.7,   109.6,  2809.2)
+  Which one of you should win?
+2022-10-07T06:33:17Z: PLAYER ADDED   [ 3697752761] xxdinoxxnugsxx
+2022-10-07T06:33:36Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1158.7,   109.6,  2809.2)
+  Alexa whispered to me 'IDK'.
+2022-10-07T06:33:47Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1156.6,   109.6,  2810.2)
+  Well, Peppa knows.
+2022-10-07T06:33:51Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1156.6,   109.6,  2810.2)
+  The winner is Peppa!
+2022-10-07T06:34:00Z: PLAYER CHATTED [ 3365681565] Neonworld511         ( 1154.3,   109.4,  2814.9)
+  ye
+2022-10-07T06:34:16Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1156.6,   109.6,  2810.2)
+  The loser will be flown around the map in ... oh well.
+2022-10-07T06:34:21Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1156.6,   109.6,  2810.2)
+  New contestant!
+2022-10-07T06:34:29Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1160.2,   109.6,  2815.9)
+  Alex:
+2022-10-07T06:34:39Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1160.2,   109.6,  2815.9)
+  Which one of you three do you think should win?
+2022-10-07T06:34:47Z: PLAYER CHATTED [ 3365681565] Neonworld511         ( 1153.8,   109.4,  2814.7)
+  mee
+2022-10-07T06:34:58Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1157.7,   109.6,  2815.9)
+  How does Alex respond?
+2022-10-07T06:35:07Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1157.7,   109.6,  2815.9)
+  I treat them as separate people.
+2022-10-07T06:35:32Z: PLAYER CHATTED [ 3365681565] Neonworld511         ( 1152.6,   109.4,  2812.7)
+  soo
+2022-10-07T06:35:43Z: PLAYER CHATTED [ 3365681565] Neonworld511         ( 1152.6,   109.4,  2812.7)
+  do we get money
+2022-10-07T06:35:50Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1157.7,   109.6,  2815.9)
+  I don't have 20,000 yet.
+2022-10-07T06:35:59Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1157.7,   109.6,  2815.9)
+  So I will not promise money.
+2022-10-07T06:36:04Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1157.7,   109.6,  2815.9)
+  I promise something better:
+2022-10-07T06:36:08Z: PLAYER CHATTED [ 3365681565] Neonworld511         ( 1152.8,   109.4,  2814.5)
+  then why am i here
+2022-10-07T06:37:04Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1139.4,   109.6,  2790.2)
+  Accept the request?
+2022-10-07T06:37:42Z: PLAYER CHATTED [ 3365681565] Neonworld511         ( 1657.9,   371.3,  1013.2)
+  how do you exlorit
+2022-10-07T06:37:54Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 3977.2,  1071.1,  3355.5)
+  I use the WRD API.
+2022-10-07T06:37:57Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 3977.2,  1071.1,  3355.5)
+  Look into it.
+2022-10-07T06:38:16Z: PLAYER CHATTED [ 3365681565] Neonworld511         (   95.5,   861.9,  1208.7)
+  ok
+2022-10-07T06:38:38Z: PLAYER REMOVED [ 3365681565] Neonworld511
+2022-10-07T06:38:42Z: PLAYER CHATTED [ 3697752761] xxdinoxxnugsxx       ( 5102.9,    16.2,  4578.3)
+  WHERE r we goin
+2022-10-07T06:38:49Z: PLAYER ADDED   [ 1148505657] XxLivi_GymnastxX
+2022-10-07T06:38:49Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 5096.8,    20.6,  4584.5)
+  Wherever you want to.
+2022-10-07T06:38:55Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 5096.8,    20.6,  4584.5)
+  And Chantelle is whispering again.
+2022-10-07T06:39:12Z: PLAYER CHATTED [ 1148505657] XxLivi_GymnastxX     (-2699.1,  1105.1,  1488.2)
+  uh what
+2022-10-07T06:39:21Z: PLAYER REMOVED [ 3264319900] Chantelleillve
+2022-10-07T06:39:26Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1361.8,   691.3,  1399.6)
+  We had a game of Miss Universe.
+2022-10-07T06:39:38Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1361.8,   691.3,  1399.6)
+  Everyone won, so I'm flying us around.
+2022-10-07T06:39:45Z: PLAYER CHATTED [ 1148505657] XxLivi_GymnastxX     (  -92.3,   371.2,  1999.2)
+  oh what
+2022-10-07T06:39:50Z: PLAYER CHATTED [ 1148505657] XxLivi_GymnastxX     ( 1756.0,  5838.7,  1814.6)
+  can we do another round
+2022-10-07T06:39:56Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -643.0,   471.2,  1748.8)
+  Sure.
+2022-10-07T06:40:02Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -643.0,   471.2,  1748.8)
+  On top of which building?
+2022-10-07T06:40:11Z: PLAYER CHATTED [ 1148505657] XxLivi_GymnastxX     ( -652.2,   563.0,  2090.5)
+  huh
+2022-10-07T06:40:25Z: PLAYER ADDED   [ 3900540187] HagarEbraham12
+2022-10-07T06:40:45Z: PLAYER REMOVED [ 3900540187] HagarEbraham12
+2022-10-07T06:40:49Z: PLAYER REMOVED [ 1148505657] XxLivi_GymnastxX
+2022-10-07T06:42:07Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -376.4,    75.4,   428.2)
+  No idea.
+2022-10-07T06:45:39Z: CHRCTER ADDED  [    1630228] VisualPlugin         ( 1062.5,   -11.2,  1639.1)
+2022-10-07T06:48:10Z: PLAYER ADDED   [  958431880] thundercoper98
+2022-10-07T06:48:49Z: PLAYER REMOVED [  958431880] thundercoper98
+2022-10-07T06:49:35Z: PLAYER REMOVED [    1630228] VisualPlugin

@@ -1,0 +1,793 @@
+[    1630228] : [ 6100863281] RoVille Party - 0990553a-3667-84f1-5413-f74364984d23
+2022-10-04T02:35:34Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-10-04T02:35:34Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-10-04T02:37:53Z: PLAYER ADDED   [ 3246739269] Sirpoutiv09
+2022-10-04T02:37:56Z: PLAYER ADDED   [ 3883610955] Mrkfksh
+2022-10-04T02:38:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (  971.1,   -15.8,  2098.5)
+  Welcome.
+2022-10-04T02:38:46Z: PLAYER CHATTED [    1630228] VisualPlugin         (  973.3,   -15.8,  2098.8)
+  You're at school now!
+2022-10-04T02:38:46Z: PLAYER REMOVED [ 3883610955] Mrkfksh
+2022-10-04T02:38:49Z: PLAYER CHATTED [ 3246739269] Sirpoutiv09          (  968.9,   -16.4,  2103.7)
+  Hi
+2022-10-04T02:38:52Z: PLAYER CHATTED [ 3246739269] Sirpoutiv09          (  968.9,   -16.4,  2103.7)
+  Ik
+2022-10-04T02:39:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (  974.8,   -15.8,  2100.1)
+  I have designed a fòólpròóf cirriculum.
+2022-10-04T02:39:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (  997.2,   -10.3,  2116.3)
+  *Curriculum.
+2022-10-04T02:39:33Z: PLAYER CHATTED [ 3246739269] Sirpoutiv09          (  977.5,    -4.7,  2072.2)
+  Ohhh ok
+2022-10-04T02:39:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (  986.5,    -4.2,  2073.6)
+  We're having our first class in the toilet.
+2022-10-04T02:39:56Z: PLAYER CHATTED [ 3246739269] Sirpoutiv09          (  993.8,    -4.7,  2077.2)
+  So what is it
+2022-10-04T02:40:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (  998.2,    -1.2,  2066.4)
+  * activeighting toilet mode *
+2022-10-04T02:40:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (  998.2,    -1.2,  2066.4)
+  Hullu!
+2022-10-04T02:40:12Z: PLAYER ADDED   [ 3694491333] nseiii638382
+2022-10-04T02:40:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (  998.2,    -1.2,  2066.4)
+  I em mistér toilet!
+2022-10-04T02:40:26Z: PLAYER CHATTED [ 3246739269] Sirpoutiv09          (  996.8,    -4.7,  2073.3)
+  Ohh k
+2022-10-04T02:40:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (  998.2,    -1.2,  2066.4)
+  I ouill be teaching how to hashtag!
+2022-10-04T02:40:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (  998.2,    -1.2,  2066.4)
+  Repoit after meh:
+2022-10-04T02:40:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (  998.2,    -1.2,  2066.4)
+  ##################
+2022-10-04T02:40:50Z: PLAYER CHATTED [ 3246739269] Sirpoutiv09          (  996.8,    -4.7,  2073.3)
+  ###################
+2022-10-04T02:40:55Z: PLAYER CHATTED [    1630228] VisualPlugin         (  998.2,    -1.2,  2066.4)
+  ####ÒÓ##########
+2022-10-04T02:41:09Z: PLAYER ADDED   [ 1647406569] rose24cake
+2022-10-04T02:41:14Z: PLAYER ADDED   [ 3731861318] CoxonusGirl
+2022-10-04T02:41:20Z: PLAYER ADDED   [ 3209600734] ihaveboba12
+2022-10-04T02:41:21Z: PLAYER ADDED   [ 2752968687] Sophia_bellahu
+2022-10-04T02:41:23Z: PLAYER CHATTED [ 3246739269] Sirpoutiv09          (  996.8,    -4.7,  2073.3)
+  ####òó###############
+2022-10-04T02:41:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (  996.1,    -1.6,  2067.1)
+  Gòód!
+2022-10-04T02:41:34Z: PLAYER CHATTED [    1630228] VisualPlugin         (  996.1,    -1.6,  2067.1)
+  ################
+2022-10-04T02:41:41Z: PLAYER CHATTED [ 3246739269] Sirpoutiv09          (  996.8,    -4.7,  2073.3)
+  ###############
+2022-10-04T02:41:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (  996.1,    -1.6,  2067.1)
+  HASH#######
+2022-10-04T02:41:52Z: PLAYER REMOVED [ 2752968687] Sophia_bellahu
+2022-10-04T02:41:53Z: PLAYER CHATTED [ 3694491333] nseiii638382         (  978.9,    -4.3,  2071.5)
+  oh my good
+2022-10-04T02:41:56Z: PLAYER REMOVED [ 3209600734] ihaveboba12
+2022-10-04T02:42:00Z: PLAYER CHATTED [ 3246739269] Sirpoutiv09          (  996.8,    -4.7,  2073.3)
+  ###########
+2022-10-04T02:42:00Z: CHRCTER ADDED  [ 3731861318] CoxonusGirl          ( 1005.4,   -13.2,  1622.3)
+2022-10-04T02:42:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (  996.1,    -1.6,  2067.1)
+  ####TO#LET####
+2022-10-04T02:42:10Z: PLAYER REMOVED [ 3246739269] Sirpoutiv09
+2022-10-04T02:42:21Z: PLAYER REMOVED [ 3731861318] CoxonusGirl
+2022-10-04T02:42:21Z: PLAYER REMOVED [ 1647406569] rose24cake
+2022-10-04T02:42:22Z: PLAYER ADDED   [ 3731861318] CoxonusGirl
+2022-10-04T02:42:27Z: PLAYER ADDED   [ 3482391608] Miacatgirl7747
+2022-10-04T02:42:28Z: PLAYER ADDED   [ 3869769656] Jamalbinkamaludin
+2022-10-04T02:42:32Z: PLAYER ADDED   [  302454721] yalikyai
+2022-10-04T02:42:45Z: PLAYER ADDED   [ 1429426874] bibby911
+2022-10-04T02:42:47Z: PLAYER CHATTED [ 3731861318] CoxonusGirl          ( 1002.7,   -20.3,  1626.4)
+  it took you 2week
+2022-10-04T02:42:56Z: PLAYER CHATTED [    1630228] VisualPlugin         (  977.6,    -4.2,  2121.7)
+  Welcome.
+2022-10-04T02:42:57Z: PLAYER ADDED   [ 2752968687] Sophia_bellahu
+2022-10-04T02:43:02Z: PLAYER REMOVED [  302454721] yalikyai
+2022-10-04T02:43:13Z: PLAYER ADDED   [ 1605354704] lilrenner7911
+2022-10-04T02:43:14Z: PLAYER REMOVED [ 3482391608] Miacatgirl7747
+2022-10-04T02:43:19Z: PLAYER CHATTED [    1630228] VisualPlugin         (  975.9,    -4.2,  2064.1)
+  Come to class!
+2022-10-04T02:43:24Z: PLAYER CHATTED [ 3869769656] Jamalbinkamaludin    (  975.9,    -4.9,  2058.1)
+  why dun
+2022-10-04T02:43:26Z: PLAYER CHATTED [ 3731861318] CoxonusGirl          ( 1036.9,   -18.8,  1623.9)
+  can someone tp me im somewhere not in school
+2022-10-04T02:43:30Z: PLAYER REMOVED [ 3869769656] Jamalbinkamaludin
+2022-10-04T02:43:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (  922.0,   -19.8,  2103.1)
+  How about just outside the school?
+2022-10-04T02:43:46Z: PLAYER REMOVED [ 3694491333] nseiii638382
+2022-10-04T02:44:07Z: PLAYER ADDED   [ 3482391608] Miacatgirl7747
+2022-10-04T02:44:17Z: PLAYER ADDED   [ 2516532509] Starval290
+2022-10-04T02:44:19Z: PLAYER ADDED   [ 1305113740] valerie3233
+2022-10-04T02:44:20Z: PLAYER ADDED   [ 2432215271] abc123faa
+2022-10-04T02:44:20Z: PLAYER REMOVED [ 1605354704] lilrenner7911
+2022-10-04T02:44:23Z: PLAYER CHATTED [ 3731861318] CoxonusGirl          ( 1023.6,   -15.0,  1674.7)
+  tp please@
+2022-10-04T02:44:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (  285.3,   156.1,  1361.7)
+  Where else?
+2022-10-04T02:44:44Z: PLAYER CHATTED [ 2432215271] abc123faa           
+  ROLE CALL
+2022-10-04T02:44:48Z: CHRCTER ADDED  [ 1305113740] valerie3233          ( 1008.0,   -18.3,  1639.4)
+2022-10-04T02:44:48Z: CHRCTER ADDED  [ 2752968687] Sophia_bellahu       ( 1047.4,   -18.2,  1707.5)
+2022-10-04T02:44:49Z: PLAYER CHATTED [ 2432215271] abc123faa            ( 1047.2,   -18.6,  1705.3)
+  WTH
+2022-10-04T02:44:58Z: PLAYER CHATTED [ 1305113740] valerie3233          ( 1056.1,   -14.8,  1666.9)
+  here
+2022-10-04T02:45:05Z: PLAYER CHATTED [ 3731861318] CoxonusGirl          ( 1044.3,    -8.2,  1663.8)
+  I SAID I WANT TP!
+2022-10-04T02:45:05Z: PLAYER CHATTED [ 2432215271] abc123faa            (  978.4,    -3.7,  2095.5)
+  wth
+2022-10-04T02:45:09Z: PLAYER ADDED   [  868332046] sofiaandrea1255
+2022-10-04T02:45:11Z: PLAYER CHATTED [ 1305113740] valerie3233          ( 1044.9,    -7.1,  1661.1)
+  tp
+2022-10-04T02:45:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (  964.7,    -4.2,  2097.8)
+  WHAT DO I DO?
+2022-10-04T02:45:17Z: PLAYER CHATTED [ 2516532509] Starval290           ( 1059.1,   -15.5,  1658.3)
+  Hi!
+2022-10-04T02:45:19Z: PLAYER CHATTED [    1630228] VisualPlugin         (  964.7,    -4.2,  2097.8)
+  I'M SUPPOSED TO BE RUNNING A CLASS!
+2022-10-04T02:45:19Z: PLAYER CHATTED [ 2432215271] abc123faa            (  966.1,    -7.3,  2099.6)
+  ##########
+2022-10-04T02:45:20Z: PLAYER CHATTED [ 1305113740] valerie3233          ( 1038.8,    -1.1,  1660.5)
+  tp us
+2022-10-04T02:45:22Z: CHRCTER ADDED  [ 2432215271] abc123faa            ( 1051.6,   -12.3,  1701.3)
+2022-10-04T02:45:22Z: PLAYER ADDED   [ 1605354704] lilrenner7911
+2022-10-04T02:45:26Z: PLAYER CHATTED [ 3731861318] CoxonusGirl          ( 1040.0,    -1.2,  1661.7)
+  YEAH TP US
+2022-10-04T02:45:27Z: PLAYER CHATTED [ 2432215271] abc123faa            ( 1051.6,   -18.4,  1701.3)
+  THERE AT SCHOOL
+2022-10-04T02:45:32Z: PLAYER CHATTED [ 2752968687] Sophia_bellahu       ( 1042.2,   -15.1,  1678.4)
+  Where is the school 
+2022-10-04T02:45:33Z: PLAYER CHATTED [ 2432215271] abc123faa            ( 1051.6,   -18.4,  1701.3)
+  TP TO THE SCHOOL
+2022-10-04T02:45:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (  966.2,    -4.2,  2096.2)
+  I'm doing that.
+2022-10-04T02:45:40Z: PLAYER CHATTED [ 1305113740] valerie3233          ( 1044.9,   -17.0,  1684.4)
+  where?
+2022-10-04T02:45:41Z: PLAYER CHATTED [ 2432215271] abc123faa            ( 1050.3,   -18.3,  1693.7)
+  TP TO SCHOOL
+2022-10-04T02:45:41Z: PLAYER CHATTED [ 3731861318] CoxonusGirl          ( 1063.4,   -18.8,  1696.9)
+  GURL
+2022-10-04T02:45:43Z: PLAYER CHATTED [ 1305113740] valerie3233          ( 1044.9,   -17.0,  1684.4)
+  ok
+2022-10-04T02:45:44Z: PLAYER CHATTED [ 3482391608] Miacatgirl7747       ( 1028.7,   -18.0,  1664.8)
+  HOW
+2022-10-04T02:45:51Z: PLAYER CHATTED [    1630228] VisualPlugin         (  966.2,    -4.2,  2096.2)
+  Like this.
+2022-10-04T02:45:51Z: PLAYER CHATTED [ 2432215271] abc123faa            (  967.0,    -4.3,  2095.6)
+  oh mm
+2022-10-04T02:45:54Z: PLAYER CHATTED [ 2432215271] abc123faa            (  967.0,    -4.3,  2095.6)
+  ok. 
+2022-10-04T02:45:58Z: PLAYER REMOVED [ 1605354704] lilrenner7911
+2022-10-04T02:46:00Z: PLAYER CHATTED [ 3731861318] CoxonusGirl          (  931.9,   -14.4,  2097.2)
+  FINE
+2022-10-04T02:46:04Z: PLAYER CHATTED [ 2432215271] abc123faa            (  968.4,    -4.3,  2101.5)
+  Valerie tp
+2022-10-04T02:46:11Z: PLAYER CHATTED [ 2432215271] abc123faa            (  968.4,    -4.3,  2101.5)
+  ACCEPT THE CARRY REQUESTS
+2022-10-04T02:46:18Z: PLAYER CHATTED [ 2432215271] abc123faa            (  972.9,    -4.3,  2108.4)
+  oh hi nay
+2022-10-04T02:46:19Z: PLAYER CHATTED [ 1305113740] valerie3233          (  971.4,    -3.7,  2098.8)
+  thx
+2022-10-04T02:46:21Z: PLAYER CHATTED [ 2432215271] abc123faa            (  972.7,    -4.3,  2106.4)
+  may
+2022-10-04T02:46:24Z: PLAYER CHATTED [    1630228] VisualPlugin         (  971.6,    -4.2,  2097.9)
+  No problem.
+2022-10-04T02:46:27Z: PLAYER CHATTED [ 3731861318] CoxonusGirl          (  971.4,    -4.5,  2110.6)
+  teacher me
+2022-10-04T02:46:33Z: PLAYER CHATTED [ 2432215271] abc123faa            (  970.9,    -4.3,  2106.3)
+  GUYS ACCEPT THE CARRY REQUESTS
+2022-10-04T02:46:38Z: PLAYER CHATTED [ 2752968687] Sophia_bellahu       ( 1025.9,   -14.8,  1653.7)
+  Where is the school 
+2022-10-04T02:46:41Z: PLAYER CHATTED [ 2432215271] abc123faa            (  971.1,    -4.3,  2107.6)
+  IT WILL BRING U TO SCHOOL
+2022-10-04T02:46:41Z: PLAYER REMOVED [ 2516532509] Starval290
+2022-10-04T02:46:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (  968.7,    -4.2,  2101.5)
+  Here.
+2022-10-04T02:46:42Z: PLAYER CHATTED [ 2752968687] Sophia_bellahu       (  967.9,    -3.9,  2102.0)
+  Oh
+2022-10-04T02:46:46Z: PLAYER CHATTED [ 2752968687] Sophia_bellahu       (  967.9,    -3.9,  2102.0)
+  Ok
+2022-10-04T02:46:48Z: PLAYER CHATTED [ 2432215271] abc123faa            (  970.0,    -4.3,  2112.4)
+  brb
+2022-10-04T02:46:54Z: PLAYER REMOVED [ 2752968687] Sophia_bellahu
+2022-10-04T02:46:55Z: PLAYER REMOVED [ 1429426874] bibby911
+2022-10-04T02:46:56Z: PLAYER CHATTED [ 2432215271] abc123faa            (  969.9,    -7.3,  2108.9)
+  ill get the others
+2022-10-04T02:46:57Z: CHRCTER ADDED  [ 2432215271] abc123faa            ( 1063.4,   -12.4,  1635.8)
+2022-10-04T02:46:59Z: PLAYER REMOVED [ 3731861318] CoxonusGirl
+2022-10-04T02:47:09Z: PLAYER CHATTED [ 2432215271] abc123faa            ( 1017.6,   -18.3,  1645.0)
+  sydney accept
+2022-10-04T02:47:25Z: PLAYER CHATTED [ 2432215271] abc123faa            (  931.9,   -14.4,  2097.2)
+  here
+2022-10-04T02:47:36Z: PLAYER CHATTED [ 2432215271] abc123faa            (  970.8,   -16.1,  2084.7)
+  what classs
+2022-10-04T02:47:38Z: PLAYER ADDED   [ 1605354704] lilrenner7911
+2022-10-04T02:47:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (  977.8,   -15.9,  2057.8)
+  GO TO MATHS!
+2022-10-04T02:47:56Z: PLAYER CHATTED [ 2432215271] abc123faa            (  957.1,   -16.1,  2033.6)
+  ima be a tiny peep
+2022-10-04T02:47:58Z: PLAYER CHATTED [ 1605354704] lilrenner7911        ( 1032.3,   -18.8,  1708.2)
+  I’m not at the school
+2022-10-04T02:47:59Z: PLAYER CHATTED [ 3482391608] Miacatgirl7747       (  968.0,   -16.2,  2044.9)
+  I’m a teacher
+2022-10-04T02:48:06Z: PLAYER CHATTED [ 1605354704] lilrenner7911        ( 1043.4,   -14.3,  1664.6)
+  Can someone to me
+2022-10-04T02:48:08Z: PLAYER REMOVED [  868332046] sofiaandrea1255
+2022-10-04T02:48:10Z: PLAYER CHATTED [ 1605354704] lilrenner7911        ( 1046.8,   -15.7,  1669.8)
+  Tp 
+2022-10-04T02:48:10Z: PLAYER CHATTED [ 1305113740] valerie3233          (  962.1,    -4.0,  2046.8)
+  i wanna be a teacher too
+2022-10-04T02:48:16Z: PLAYER CHATTED [ 3482391608] Miacatgirl7747       (  968.3,   -16.2,  2043.1)
+  I work here🩰
+2022-10-04T02:48:20Z: PLAYER ADDED   [ 3144602274] Nightgirl_Owldot
+2022-10-04T02:48:24Z: PLAYER CHATTED [    1630228] VisualPlugin         (  964.6,   -15.9,  2043.2)
+  I WILL BE THE STUDENT,
+2022-10-04T02:48:26Z: PLAYER CHATTED [ 2432215271] abc123faa            (  957.7,   -16.0,  2036.4)
+  teach me smth
+2022-10-04T02:48:27Z: PLAYER CHATTED [ 1605354704] lilrenner7911        ( 1051.5,   -15.7,  1674.5)
+  Can someone let me tp
+2022-10-04T02:48:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (  964.6,   -15.9,  2043.2)
+  YOU LOT WILL BE THE TEACHERS!
+2022-10-04T02:48:37Z: PLAYER CHATTED [ 1605354704] lilrenner7911        (  965.2,   -16.3,  2042.5)
+  Thanks ur the best
+2022-10-04T02:48:38Z: PLAYER CHATTED [ 3482391608] Miacatgirl7747       (  972.5,   -16.2,  2041.3)
+  Can I be the teacher
+2022-10-04T02:48:38Z: PLAYER CHATTED [ 2432215271] abc123faa            (  957.7,   -16.0,  2036.4)
+  #########
+2022-10-04T02:48:49Z: PLAYER CHATTED [ 3482391608] Miacatgirl7747       (  958.7,   -16.3,  2045.7)
+  K
+2022-10-04T02:48:51Z: PLAYER ADDED   [ 3935562078] Akkatada23
+2022-10-04T02:48:52Z: PLAYER CHATTED [ 2432215271] abc123faa            (  981.5,   -18.8,  2044.3)
+  #######
+2022-10-04T02:48:55Z: PLAYER CHATTED [ 2432215271] abc123faa            (  978.2,   -18.8,  2053.8)
+  ###
+2022-10-04T02:49:11Z: PLAYER CHATTED [ 2432215271] abc123faa            (  965.9,   -18.8,  2038.3)
+  ima tiny peep again
+2022-10-04T02:49:16Z: PLAYER CHATTED [ 1305113740] valerie3233          (  968.4,   -16.2,  2033.6)
+  ok
+2022-10-04T02:49:23Z: PLAYER REMOVED [ 3935562078] Akkatada23
+2022-10-04T02:49:23Z: PLAYER ADDED   [ 3935562078] Akkatada23
+2022-10-04T02:49:26Z: PLAYER CHATTED [ 2432215271] abc123faa            (  956.9,   -16.0,  2036.2)
+  TEACH US SMTH
+2022-10-04T02:49:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (  975.7,   -15.9,  2059.7)
+  Come on in!
+2022-10-04T02:49:28Z: PLAYER REMOVED [ 1605354704] lilrenner7911
+2022-10-04T02:49:31Z: PLAYER REMOVED [ 3144602274] Nightgirl_Owldot
+2022-10-04T02:49:39Z: PLAYER REMOVED [ 3935562078] Akkatada23
+2022-10-04T02:49:39Z: PLAYER ADDED   [ 3935562078] Akkatada23
+2022-10-04T02:49:43Z: PLAYER ADDED   [ 3130296281] kvlew
+2022-10-04T02:49:55Z: PLAYER CHATTED [ 3482391608] Miacatgirl7747       (  958.7,   -16.3,  2045.7)
+  What 76+19
+2022-10-04T02:50:03Z: PLAYER CHATTED [    1630228] VisualPlugin         (  962.8,   -15.9,  2034.6)
+  =77+2-=0
+2022-10-04T02:50:04Z: PLAYER CHATTED [ 1305113740] valerie3233          (  968.4,   -16.2,  2033.6)
+  90
+2022-10-04T02:50:05Z: PLAYER CHATTED [ 2432215271] abc123faa            (  969.7,   -15.8,  2034.5)
+  srry ####
+2022-10-04T02:50:09Z: PLAYER CHATTED [    1630228] VisualPlugin         (  962.8,   -15.9,  2034.6)
+  =92
+2022-10-04T02:50:09Z: PLAYER CHATTED [ 2432215271] abc123faa            (  969.7,   -15.8,  2034.5)
+  afk
+2022-10-04T02:50:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (  962.8,   -15.9,  2034.6)
+  *97
+2022-10-04T02:50:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (  962.8,   -15.9,  2034.6)
+  I mean 97!
+2022-10-04T02:50:16Z: CHRCTER ADDED  [ 3130296281] kvlew                ( 1065.8,   -12.7,  1641.2)
+2022-10-04T02:50:17Z: PLAYER CHATTED [ 1305113740] valerie3233          (  963.4,   -15.7,  2038.0)
+  92
+2022-10-04T02:50:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (  962.7,   -15.9,  2037.1)
+  Darn!
+2022-10-04T02:50:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (  962.7,   -15.9,  2037.1)
+  I was wrong,
+2022-10-04T02:50:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (  962.7,   -15.9,  2037.1)
+  And I can't say the right answer.
+2022-10-04T02:50:27Z: PLAYER CHATTED [ 1305113740] valerie3233          (  968.4,   -16.2,  2033.6)
+  90
+2022-10-04T02:50:27Z: PLAYER REMOVED [ 3935562078] Akkatada23
+2022-10-04T02:50:32Z: PLAYER CHATTED [    1630228] VisualPlugin         (  962.7,   -15.9,  2037.1)
+  90+7
+2022-10-04T02:50:33Z: PLAYER ADDED   [ 1490909210] windows_xpxpxpxpxp3
+2022-10-04T02:50:35Z: PLAYER CHATTED [ 3482391608] Miacatgirl7747       (  958.7,   -16.3,  2045.7)
+  90
+2022-10-04T02:50:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (  962.4,   -15.9,  2036.7)
+  97.0
+2022-10-04T02:50:51Z: PLAYER CHATTED [    1630228] VisualPlugin         (  962.4,   -15.9,  2036.7)
+  That's my final Now I'm wrong again.
+2022-10-04T02:50:57Z: PLAYER CHATTED [ 3482391608] Miacatgirl7747       (  958.7,   -16.3,  2045.7)
+  #######
+2022-10-04T02:50:57Z: PLAYER CHATTED [ 1305113740] valerie3233          (  964.3,   -15.7,  2038.9)
+  ###########
+2022-10-04T02:50:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (  963.0,   -15.9,  2037.6)
+  95.0 is my final answer.
+2022-10-04T02:51:02Z: PLAYER ADDED   [ 3897426701] adeelmughal638
+2022-10-04T02:51:07Z: PLAYER CHATTED [ 3482391608] Miacatgirl7747       (  958.7,   -16.3,  2045.7)
+  #######
+2022-10-04T02:51:12Z: PLAYER CHATTED [ 1305113740] valerie3233          (  964.3,   -15.7,  2038.3)
+  90 is my answer 
+2022-10-04T02:51:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (  961.6,   -15.9,  2040.9)
+  95
+2022-10-04T02:51:20Z: PLAYER CHATTED [ 2432215271] abc123faa            (  966.6,   -17.0,  2032.5)
+  7
+2022-10-04T02:51:23Z: PLAYER REMOVED [ 3130296281] kvlew
+2022-10-04T02:51:23Z: PLAYER CHATTED [ 3482391608] Miacatgirl7747       (  958.7,   -16.3,  2045.7)
+  #### + ####
+2022-10-04T02:51:24Z: PLAYER CHATTED [ 2432215271] abc123faa            (  957.3,   -17.0,  2043.1)
+  74
+2022-10-04T02:51:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (  963.6,   -15.9,  2040.5)
+  #### + ####
+2022-10-04T02:51:43Z: PLAYER CHATTED [ 1305113740] valerie3233          (  966.4,   -15.7,  2041.9)
+  OK IM DONE WITH YOU
+2022-10-04T02:51:44Z: PLAYER CHATTED [    1630228] VisualPlugin         (  963.6,   -15.9,  2040.5)
+  That equals eight hashes.
+2022-10-04T02:51:44Z: PLAYER CHATTED [ 3482391608] Miacatgirl7747       (  958.7,   -16.3,  2045.7)
+  2+1
+2022-10-04T02:51:54Z: PLAYER CHATTED [ 2432215271] abc123faa            (  957.5,   -13.8,  2045.1)
+  45!!! 
+2022-10-04T02:51:55Z: PLAYER CHATTED [ 1305113740] valerie3233          (  966.8,   -15.7,  2044.7)
+  S9
+2022-10-04T02:51:55Z: PLAYER ADDED   [ 3935562078] Akkatada23
+2022-10-04T02:51:58Z: PLAYER CHATTED [ 2432215271] abc123faa            (  957.5,   -13.8,  2045.1)
+  3
+2022-10-04T02:52:00Z: PLAYER CHATTED [ 1305113740] valerie3233          (  966.8,   -15.7,  2044.7)
+  SO
+2022-10-04T02:52:03Z: CHRCTER ADDED  [ 1490909210] windows_xpxpxpxpxp3  ( 1004.3,   -12.2,  1692.2)
+2022-10-04T02:52:09Z: PLAYER CHATTED [ 3482391608] Miacatgirl7747       (  958.7,   -16.3,  2045.7)
+  Good 3
+2022-10-04T02:52:14Z: PLAYER CHATTED [ 3935562078] Akkatada23           (  999.3,   -19.6,  1693.9)
+  Hi
+2022-10-04T02:52:15Z: PLAYER CHATTED [ 1305113740] valerie3233          (  965.8,   -15.7,  2042.8)
+  what is 34+11?
+2022-10-04T02:52:18Z: PLAYER CHATTED [ 3897426701] adeelmughal638       (  998.4,   -19.4,  1690.2)
+  where is the party
+2022-10-04T02:52:20Z: PLAYER CHATTED [ 3897426701] adeelmughal638       (  998.4,   -19.4,  1690.2)
+  hi
+2022-10-04T02:52:23Z: PLAYER CHATTED [ 3935562078] Akkatada23           (  999.3,   -19.6,  1693.9)
+  Idk
+2022-10-04T02:52:23Z: PLAYER CHATTED [ 2432215271] abc123faa            (  957.0,   -17.0,  2042.1)
+  45
+2022-10-04T02:52:29Z: PLAYER CHATTED [ 1305113740] valerie3233          (  968.1,   -15.7,  2043.3)
+  no
+2022-10-04T02:52:31Z: PLAYER CHATTED [ 3482391608] Miacatgirl7747       (  958.7,   -16.3,  2045.7)
+  20+709
+2022-10-04T02:52:32Z: PLAYER CHATTED [    1630228] VisualPlugin         (  963.3,   -15.9,  2039.9)
+  Here.
+2022-10-04T02:52:38Z: PLAYER CHATTED [ 2432215271] abc123faa            (  959.8,   -17.0,  2036.8)
+  729
+2022-10-04T02:52:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (  963.3,   -15.9,  2039.9)
+  Correct.
+2022-10-04T02:52:45Z: PLAYER REMOVED [ 3935562078] Akkatada23
+2022-10-04T02:52:45Z: PLAYER CHATTED [ 3897426701] adeelmughal638       (  962.6,   -16.1,  2038.2)
+  thanks
+2022-10-04T02:52:52Z: PLAYER CHATTED [ 1305113740] valerie3233          (  964.6,   -15.7,  2042.7)
+  GUYS IT'S HISTORY NOW
+2022-10-04T02:52:55Z: PLAYER ADDED   [ 1291085356] tgenevieve250
+2022-10-04T02:52:56Z: PLAYER REMOVED [ 1490909210] windows_xpxpxpxpxp3
+2022-10-04T02:53:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (  964.8,   -15.9,  2041.2)
+  666 + 1020?
+2022-10-04T02:53:13Z: PLAYER CHATTED [ 3897426701] adeelmughal638       (  957.1,   -16.1,  2033.6)
+  are you teavher here
+2022-10-04T02:53:14Z: PLAYER CHATTED [ 3482391608] Miacatgirl7747       (  962.8,   -12.9,  2045.0)
+  I’m done
+2022-10-04T02:53:28Z: CHRCTER ADDED  [ 1291085356] tgenevieve250        ( 1004.1,   -12.7,  1692.0)
+2022-10-04T02:53:31Z: PLAYER CHATTED [ 1305113740] valerie3233          (  966.8,   -15.7,  2147.7)
+  hello students
+2022-10-04T02:53:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (  969.8,   -16.1,  2158.3)
+  Hi.
+2022-10-04T02:53:40Z: PLAYER CHATTED [ 3482391608] Miacatgirl7747       (  974.2,   -16.2,  2151.1)
+  ## ##
+2022-10-04T02:53:41Z: PLAYER CHATTED [ 1305113740] valerie3233          (  969.5,   -15.7,  2149.3)
+  sit down
+2022-10-04T02:53:44Z: PLAYER CHATTED [ 1291085356] tgenevieve250        (  964.7,   -15.3,  2158.5)
+  Ah
+2022-10-04T02:53:47Z: PLAYER CHATTED [ 1291085356] tgenevieve250        (  964.7,   -15.3,  2158.5)
+  AAH
+2022-10-04T02:53:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (  964.5,   -15.9,  2159.3)
+  I'm unable to release you!
+2022-10-04T02:53:52Z: PLAYER CHATTED [ 1291085356] tgenevieve250        (  964.6,   -15.3,  2158.4)
+  uh
+2022-10-04T02:53:55Z: PLAYER CHATTED [ 3897426701] adeelmughal638       (  974.8,   -16.1,  2149.1)
+  sorry im late
+2022-10-04T02:53:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (  964.5,   -15.9,  2159.3)
+  Click on release.
+2022-10-04T02:54:02Z: PLAYER ADDED   [ 1510491359] BLALKTL
+2022-10-04T02:54:03Z: PLAYER CHATTED [ 1291085356] tgenevieve250        (  964.0,   -15.3,  2158.4)
+  i cant
+2022-10-04T02:54:10Z: PLAYER CHATTED [ 1305113740] valerie3233          (  970.5,   -15.7,  2149.5)
+  take a seat all of you
+2022-10-04T02:54:18Z: PLAYER CHATTED [ 1291085356] tgenevieve250        (  964.4,   -15.3,  2158.4)
+  one minute
+2022-10-04T02:54:22Z: PLAYER CHATTED [ 3482391608] Miacatgirl7747       (  969.8,   -16.1,  2158.3)
+  All ?
+2022-10-04T02:54:26Z: PLAYER REMOVED [ 1291085356] tgenevieve250
+2022-10-04T02:54:27Z: PLAYER CHATTED [ 3482391608] Miacatgirl7747       (  969.8,   -16.1,  2158.3)
+  I’m siting
+2022-10-04T02:54:29Z: PLAYER ADDED   [ 1291085356] tgenevieve250
+2022-10-04T02:54:32Z: PLAYER CHATTED [ 1305113740] valerie3233          (  970.2,   -15.7,  2149.4)
+  ok so
+2022-10-04T02:54:37Z: PLAYER CHATTED [ 3897426701] adeelmughal638       (  969.8,   -16.1,  2165.6)
+  im also sitting
+2022-10-04T02:54:44Z: PLAYER ADDED   [ 3831192300] Sattari20
+2022-10-04T02:54:48Z: PLAYER CHATTED [ 3897426701] adeelmughal638       (  969.8,   -16.1,  2165.6)
+  we cant sit again
+2022-10-04T02:54:48Z: PLAYER CHATTED [ 1305113740] valerie3233          (  970.2,   -15.7,  2149.4)
+  we will lean 
+2022-10-04T02:54:54Z: PLAYER CHATTED [ 1305113740] valerie3233          (  970.2,   -15.7,  2149.4)
+  what happened 
+2022-10-04T02:54:57Z: PLAYER CHATTED [ 1305113740] valerie3233          (  970.2,   -15.7,  2149.4)
+  with
+2022-10-04T02:55:01Z: PLAYER CHATTED [ 3897426701] adeelmughal638       (  969.8,   -16.1,  2165.6)
+  no dont lean
+2022-10-04T02:55:02Z: PLAYER CHATTED [ 1305113740] valerie3233          (  970.2,   -15.7,  2149.4)
+  ww2
+2022-10-04T02:55:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (  958.3,   -16.1,  2165.6)
+  I know!
+2022-10-04T02:55:08Z: PLAYER CHATTED [ 3482391608] Miacatgirl7747       (  969.8,   -16.1,  2158.3)
+  What
+2022-10-04T02:55:08Z: PLAYER CHATTED [ 1305113740] valerie3233          (  969.1,   -15.7,  2150.9)
+  ok?
+2022-10-04T02:55:12Z: CHRCTER ADDED  [ 1510491359] BLALKTL              (  997.8,   -12.7,  1625.5)
+2022-10-04T02:55:15Z: PLAYER CHATTED [ 1305113740] valerie3233          (  968.3,   -15.7,  2151.5)
+  yes you!
+2022-10-04T02:55:16Z: PLAYER CHATTED [ 3897426701] adeelmughal638       (  970.2,   -15.4,  2157.6)
+  thanks
+2022-10-04T02:55:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (  958.3,   -16.1,  2165.6)
+  The blitzkrieg,
+2022-10-04T02:55:29Z: PLAYER CHATTED [ 3897426701] adeelmughal638       (  970.2,   -15.4,  2157.5)
+  you are so kind
+2022-10-04T02:55:31Z: PLAYER CHATTED [    1630228] VisualPlugin         (  958.3,   -16.1,  2165.6)
+  And the other stuff.
+2022-10-04T02:55:32Z: PLAYER CHATTED [ 1305113740] valerie3233          (  963.4,   -15.7,  2160.6)
+  good
+2022-10-04T02:55:40Z: PLAYER CHATTED [ 1305113740] valerie3233          (  962.3,   -15.7,  2160.5)
+  amber?
+2022-10-04T02:55:40Z: PLAYER CHATTED [ 3482391608] Miacatgirl7747       (  969.8,   -16.1,  2158.3)
+  -_-
+2022-10-04T02:55:49Z: PLAYER CHATTED [ 1305113740] valerie3233          (  963.2,   -15.7,  2155.4)
+  wait no
+2022-10-04T02:55:49Z: PLAYER CHATTED [ 3897426701] adeelmughal638       (  970.2,   -15.4,  2157.5)
+  you can put me down now
+2022-10-04T02:55:54Z: PLAYER ADDED   [ 1613954951] redman13746
+2022-10-04T02:55:55Z: PLAYER CHATTED [ 1305113740] valerie3233          (  964.9,   -15.7,  2153.5)
+  adelante!
+2022-10-04T02:56:08Z: PLAYER CHATTED [ 3897426701] adeelmughal638       (  976.2,   -15.6,  2156.2)
+  help
+2022-10-04T02:56:10Z: PLAYER CHATTED [ 2432215271] abc123faa            (  958.3,   -16.9,  2158.3)
+  what did i miss i was afk
+2022-10-04T02:56:10Z: PLAYER CHATTED [ 3897426701] adeelmughal638       (  976.2,   -15.6,  2156.2)
+  help
+2022-10-04T02:56:14Z: PLAYER CHATTED [ 3897426701] adeelmughal638       (  975.7,   -15.6,  2157.5)
+  teacher
+2022-10-04T02:56:14Z: PLAYER CHATTED [ 1305113740] valerie3233          (  965.1,   -15.7,  2152.4)
+  adeel 
+2022-10-04T02:56:19Z: PLAYER CHATTED [ 2432215271] abc123faa            (  958.3,   -16.9,  2158.3)
+  GUYS THE DAYCARE IS BACK!! 
+2022-10-04T02:56:21Z: PLAYER CHATTED [ 1305113740] valerie3233          (  968.2,   -15.7,  2149.7)
+  re set
+2022-10-04T02:56:22Z: PLAYER CHATTED [ 3897426701] adeelmughal638       (  967.7,   -15.9,  2158.7)
+  #########
+2022-10-04T02:56:25Z: PLAYER CHATTED [ 2432215271] abc123faa            (  962.6,   -18.8,  2150.0)
+  JOIN IT
+2022-10-04T02:56:28Z: PLAYER CHATTED [ 1305113740] valerie3233          (  968.1,   -15.7,  2149.8)
+  ok
+2022-10-04T02:56:30Z: CHRCTER ADDED  [ 1613954951] redman13746          ( 1002.3,   -13.2,  1619.7)
+2022-10-04T02:56:30Z: PLAYER REMOVED [ 2432215271] abc123faa
+2022-10-04T02:56:32Z: PLAYER REMOVED [ 3482391608] Miacatgirl7747
+2022-10-04T02:56:33Z: PLAYER REMOVED [ 1305113740] valerie3233
+2022-10-04T02:56:38Z: PLAYER REMOVED [ 1510491359] BLALKTL
+2022-10-04T02:56:52Z: PLAYER CHATTED [ 3897426701] adeelmughal638       (  973.3,   -19.0,  2166.1)
+  o noo
+2022-10-04T02:57:03Z: PLAYER REMOVED [ 1613954951] redman13746
+2022-10-04T02:57:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (  960.6,   -19.9,  1992.5)
+  I have a better place to do school!
+2022-10-04T02:57:17Z: PLAYER REMOVED [ 3831192300] Sattari20
+2022-10-04T02:57:23Z: PLAYER CHATTED [ 3897426701] adeelmughal638       (  978.5,    -4.3,  2118.6)
+  thanks
+2022-10-04T02:57:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (  924.0,   -20.4,  2000.2)
+  I will carry all of you there!
+2022-10-04T02:57:25Z: PLAYER ADDED   [  478060209] crazydancer1001
+2022-10-04T02:57:36Z: PLAYER ADDED   [ 2662219715] ITZ_Melodycruz300
+2022-10-04T02:57:36Z: PLAYER ADDED   [ 1613954951] redman13746
+2022-10-04T02:57:49Z: PLAYER CHATTED [ 3897426701] adeelmughal638      
+  here
+2022-10-04T02:57:53Z: PLAYER CHATTED [ 3897426701] adeelmughal638      
+  NOk
+2022-10-04T02:57:53Z: PLAYER REMOVED [ 1291085356] tgenevieve250
+2022-10-04T02:58:00Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( -558.9,   105.5,   353.0)
+  thanks
+2022-10-04T02:58:11Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( -553.3,   105.5,   350.4)
+  where is everyone
+2022-10-04T02:58:17Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -560.6,   105.7,   353.9)
+  I'm bringing them.
+2022-10-04T02:58:23Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( -553.3,   105.5,   350.4)
+  ok
+2022-10-04T02:58:24Z: PLAYER CHATTED [  478060209] crazydancer1001     
+  where's the s hlchool
+2022-10-04T02:58:24Z: PLAYER CHATTED [ 1613954951] redman13746         
+  BRING ME
+2022-10-04T02:58:34Z: PLAYER REMOVED [ 2662219715] ITZ_Melodycruz300
+2022-10-04T02:58:35Z: CHRCTER ADDED  [  478060209] crazydancer1001      ( -559.9,   106.4,   353.4)
+2022-10-04T02:58:42Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -563.6,   105.7,   351.2)
+  The school is now here.
+2022-10-04T02:58:48Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( -553.3,   105.5,   350.4)
+  cool
+2022-10-04T02:58:52Z: PLAYER CHATTED [  478060209] crazydancer1001      ( -557.7,   105.3,   354.6)
+  bruhhhh
+2022-10-04T02:58:54Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -562.5,   105.7,   351.9)
+  We have a view,
+2022-10-04T02:58:59Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( -553.3,   105.5,   350.4)
+  nice
+2022-10-04T02:59:03Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -564.6,   105.7,   353.0)
+  And we will all be here!
+2022-10-04T02:59:09Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( -553.1,   105.5,   346.7)
+  cool
+2022-10-04T02:59:11Z: PLAYER REMOVED [ 1613954951] redman13746
+2022-10-04T02:59:12Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -565.9,   105.7,   347.2)
+  No escaping allowed!
+2022-10-04T02:59:16Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( -553.2,   105.5,   344.2)
+  ok
+2022-10-04T02:59:33Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -552.5,   105.7,   353.9)
+  Who's gonna be teacher?
+2022-10-04T02:59:40Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( -556.8,   105.5,   348.5)
+  why everyone is leaving
+2022-10-04T02:59:52Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -559.2,   105.7,   352.4)
+  Too crazy.
+2022-10-04T02:59:53Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( -549.3,   105.5,   353.2)
+  alexandera
+2022-10-04T03:00:02Z: PLAYER CHATTED [  478060209] crazydancer1001      ( -543.3,   105.3,   349.4)
+  what
+2022-10-04T03:00:08Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( -549.3,   105.5,   353.2)
+  become teacher
+2022-10-04T03:00:15Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( -549.3,   105.5,   353.2)
+  teach us
+2022-10-04T03:00:24Z: PLAYER CHATTED [  478060209] crazydancer1001      ( -545.5,   105.3,   346.2)
+  I'm finna jump
+2022-10-04T03:00:27Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -550.6,   105.7,   349.7)
+  You're the only one here with a number in her name.
+2022-10-04T03:00:29Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( -549.3,   105.5,   353.2)
+  nooo
+2022-10-04T03:00:31Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -550.6,   105.7,   349.7)
+  TEACH US!
+2022-10-04T03:00:36Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( -549.3,   105.5,   353.2)
+  yes
+2022-10-04T03:00:37Z: PLAYER CHATTED [  478060209] crazydancer1001      ( -546.2,   111.2,   343.8)
+  ok
+2022-10-04T03:00:42Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( -546.7,   105.5,   349.5)
+  dont #######
+2022-10-04T03:00:44Z: PLAYER CHATTED [  478060209] crazydancer1001      ( -546.2,   111.2,   343.8)
+  step here
+2022-10-04T03:00:53Z: PLAYER CHATTED [  478060209] crazydancer1001      ( -546.2,   111.2,   343.8)
+  I'm finna teach yall how to fly
+2022-10-04T03:00:59Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( -545.6,   105.5,   349.5)
+  lol
+2022-10-04T03:01:01Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( -545.6,   105.5,   349.5)
+  ok
+2022-10-04T03:01:07Z: PLAYER CHATTED [  478060209] crazydancer1001      ( -546.3,   111.2,   343.6)
+  heheh
+2022-10-04T03:01:13Z: PLAYER CHATTED [  478060209] crazydancer1001      ( -546.3,   111.2,   343.6)
+  now fly to heaven
+2022-10-04T03:01:18Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( -549.2,   111.5,   343.7)
+  ok teacher
+2022-10-04T03:01:27Z: PLAYER CHATTED [  478060209] crazydancer1001      ( -546.3,   111.2,   343.6)
+  weeee
+2022-10-04T03:01:38Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( -569.5,   -19.3,   289.0)
+  cool
+2022-10-04T03:01:58Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( -618.6,   -20.7,   173.4)
+  broo 
+2022-10-04T03:02:04Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( -630.6,   -20.7,   171.9)
+  you are superman
+2022-10-04T03:02:11Z: PLAYER REMOVED [  478060209] crazydancer1001
+2022-10-04T03:02:18Z: PLAYER ADDED   [ 3935562078] Akkatada23
+2022-10-04T03:02:19Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( -747.3,   -18.3,    73.1)
+  teacher is running
+2022-10-04T03:02:22Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -311.3,    75.4,   425.3)
+  I'm superplugin.
+2022-10-04T03:02:29Z: PLAYER ADDED   [ 2814250890] alessia_123uwuv
+2022-10-04T03:02:29Z: PLAYER ADDED   [ 2325939708] Ennard232323
+2022-10-04T03:02:40Z: PLAYER REMOVED [ 2325939708] Ennard232323
+2022-10-04T03:02:41Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( -827.3,   -12.3,    80.7)
+  she is gone
+2022-10-04T03:02:49Z: PLAYER REMOVED [ 3935562078] Akkatada23
+2022-10-04T03:02:49Z: PLAYER ADDED   [  899286006] TheSpaceKitty11
+2022-10-04T03:02:50Z: PLAYER ADDED   [ 1291085356] tgenevieve250
+2022-10-04T03:03:26Z: PLAYER CHATTED [  899286006] TheSpaceKitty11      ( -413.1,    74.9,   424.2)
+  ?
+2022-10-04T03:03:30Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -382.3,    75.4,   422.0)
+  WELCOME TO SCHOOL!
+2022-10-04T03:03:32Z: PLAYER REMOVED [ 2814250890] alessia_123uwuv
+2022-10-04T03:03:34Z: PLAYER CHATTED [  899286006] TheSpaceKitty11      ( -413.1,    74.9,   424.2)
+  Where’s the school 
+2022-10-04T03:03:42Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -373.0,    75.4,   428.3)
+  We're in the school.
+2022-10-04T03:03:53Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -373.0,    75.4,   428.3)
+  Unlike the other one, there is no escape.
+2022-10-04T03:03:57Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -359.8,    75.4,   433.9)
+  Only teaching.
+2022-10-04T03:04:02Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( -378.8,    75.2,   436.3)
+  lol
+2022-10-04T03:04:05Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( -378.8,    75.2,   436.3)
+  hahaha
+2022-10-04T03:04:09Z: PLAYER CHATTED [  899286006] TheSpaceKitty11      ( -382.9,    74.9,   431.6)
+  This is not a school thing p
+2022-10-04T03:04:12Z: PLAYER REMOVED [ 1291085356] tgenevieve250
+2022-10-04T03:04:12Z: PLAYER CHATTED [  899286006] TheSpaceKitty11      ( -382.9,    74.9,   431.6)
+  RP
+2022-10-04T03:04:24Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -379.4,    75.4,   424.9)
+  Yes it is.
+2022-10-04T03:04:24Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( -378.8,    75.2,   436.3)
+  ##########################
+2022-10-04T03:04:32Z: PLAYER REMOVED [  899286006] TheSpaceKitty11
+2022-10-04T03:04:33Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( -380.6,    75.2,   430.6)
+  lets go to real 
+2022-10-04T03:04:36Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( -380.7,    75.2,   430.6)
+  school
+2022-10-04T03:04:36Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -383.2,    75.4,   422.5)
+  Bloxy High School| Now without uniforms | Many classes | many ways to role
+2022-10-04T03:04:52Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -385.6,    75.4,   428.5)
+  Doesn't look like not a school RP to me.
+2022-10-04T03:05:23Z: PLAYER ADDED   [  371196533] VrrayMaster5004
+2022-10-04T03:05:25Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( -387.7,    75.2,   429.0)
+  .
+2022-10-04T03:05:26Z: PLAYER ADDED   [ 2573460590] Byerspisamelacara
+2022-10-04T03:05:44Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( -387.7,    75.2,   429.0)
+  no body comes here
+2022-10-04T03:05:51Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -385.6,    75.4,   422.9)
+  Not true.
+2022-10-04T03:05:53Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( -387.7,    75.2,   429.0)
+  no body likes it
+2022-10-04T03:05:55Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -385.6,    75.4,   422.9)
+  Nobody LEAVER here.
+2022-10-04T03:05:58Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -385.6,    75.4,   422.9)
+  *LEAVES.
+2022-10-04T03:06:06Z: PLAYER REMOVED [  371196533] VrrayMaster5004
+2022-10-04T03:06:16Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -381.1,    75.4,   425.2)
+  Welcome to school.
+2022-10-04T03:06:25Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -379.0,    75.4,   427.6)
+  Ther eis only teaching and no escape.
+2022-10-04T03:06:25Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( -386.0,    75.2,   429.3)
+  selena
+2022-10-04T03:06:39Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( -386.0,    75.2,   429.3)
+  teach us
+2022-10-04T03:06:44Z: PLAYER CHATTED [ 2573460590] Byerspisamelacara    ( -391.5,    76.0,   417.3)
+  ?
+2022-10-04T03:06:47Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -371.5,    84.8,   426.2)
+  Sure.
+2022-10-04T03:06:48Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( -387.1,    75.2,   428.4)
+  english
+2022-10-04T03:06:56Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -371.5,    84.8,   426.2)
+  Grammar?
+2022-10-04T03:06:58Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( -387.1,    75.2,   428.4)
+  you are our english teacher
+2022-10-04T03:06:59Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -371.5,    84.8,   426.2)
+  Comprehension?
+2022-10-04T03:07:10Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -371.5,    84.8,   426.2)
+  Etymology?
+2022-10-04T03:07:18Z: PLAYER CHATTED [ 2573460590] Byerspisamelacara    ( -383.3,    76.0,   423.0)
+  actually i wanted to be a student 
+2022-10-04T03:07:23Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( -385.8,    75.2,   427.4)
+  noo
+2022-10-04T03:07:27Z: PLAYER CHATTED [ 2573460590] Byerspisamelacara    ( -383.3,    76.0,   423.0)
+  ok
+2022-10-04T03:07:29Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -371.5,    84.8,   426.2)
+  I'm asking you what you want to learn.
+2022-10-04T03:07:35Z: PLAYER CHATTED [ 2573460590] Byerspisamelacara    ( -383.3,    76.0,   423.0)
+  ohhhhhhhhhhh
+2022-10-04T03:07:43Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( -385.8,    75.2,   427.4)
+  you graduated from oxford, now you are a teacher
+2022-10-04T03:07:52Z: PLAYER CHATTED [ 2573460590] Byerspisamelacara    ( -383.3,    76.0,   423.0)
+  ok
+2022-10-04T03:07:57Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -371.5,    84.8,   426.2)
+  Right.
+2022-10-04T03:08:12Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( -385.8,    75.2,   427.4)
+  teach us english grammer
+2022-10-04T03:08:14Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -371.5,    84.8,   426.2)
+  Let's practice avoiding dangling clauses.
+2022-10-04T03:08:30Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( -383.3,    75.2,   428.8)
+  let her teach
+2022-10-04T03:08:33Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -371.5,    84.8,   426.2)
+  The sentence 'as a Brit, things are going horribly' is not a good sentence.
+2022-10-04T03:08:36Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -371.5,    84.8,   426.2)
+  Why?
+2022-10-04T03:08:44Z: PLAYER REMOVED [ 2573460590] Byerspisamelacara
+2022-10-04T03:08:44Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -371.5,    84.8,   426.2)
+  Because you're saying that you're British,
+2022-10-04T03:08:52Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( -383.3,    75.2,   428.8)
+  nooooo
+2022-10-04T03:08:55Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -371.5,    84.8,   426.2)
+  But the second part of the sentence doesn't make that clear.
+2022-10-04T03:09:03Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -371.5,    84.8,   426.2)
+  I would say:
+2022-10-04T03:09:04Z: PLAYER REMOVED [ 3897426701] adeelmughal638
+2022-10-04T03:11:29Z: PLAYER ADDED   [ 3897426701] adeelmughal638
+2022-10-04T03:12:25Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( 2859.7,  3875.4, -21205.1)
+  ## ## #### ######
+2022-10-04T03:12:41Z: CHRCTER ADDED  [ 3897426701] adeelmughal638       ( 1060.5,   -12.7,  1636.9)
+2022-10-04T03:12:42Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  999.2,   -16.0,  1626.3)
+2022-10-04T03:12:44Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( 1060.5,   -18.6,  1636.9)
+  did you die
+2022-10-04T03:12:51Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( 1060.5,   -18.6,  1636.9)
+  ### killed us
+2022-10-04T03:13:06Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1028.3,   -18.4,  1625.7)
+  By accident.
+2022-10-04T03:13:19Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( 1013.0,   -17.2,  1632.3)
+  ## ## #### ######
+2022-10-04T03:13:28Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( 1014.0,   -17.7,  1634.7)
+  other wise no one will come
+2022-10-04T03:13:42Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1018.7,   -16.2,  1632.7)
+  People will continue coming.
+2022-10-04T03:13:58Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( 1016.1,   -16.7,  1634.5)
+  watch who is here other then me
+2022-10-04T03:14:00Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1018.7,   -16.2,  1632.7)
+  However, they will leave upon realising that something is off.
+2022-10-04T03:14:00Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( 1016.1,   -16.7,  1634.5)
+  no one
+2022-10-04T03:14:07Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1020.3,   -17.6,  1634.2)
+  That is true for now.
+2022-10-04T03:14:09Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( 1016.1,   -16.7,  1634.5)
+  yes
+2022-10-04T03:14:12Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1020.3,   -17.6,  1634.2)
+  Won't be true for too long.
+2022-10-04T03:14:23Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( 1016.1,   -16.7,  1634.5)
+  but they will leaave
+2022-10-04T03:14:38Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1025.4,   -18.1,  1637.9)
+  Make sure they stay.
+2022-10-04T03:14:53Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( 1030.1,   -18.3,  1635.4)
+  they will stay if you ## ## #### ######
+2022-10-04T03:14:59Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1024.7,   -18.1,  1636.9)
+  If I what?
+2022-10-04T03:15:11Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( 1030.1,   -18.3,  1635.4)
+  ###########
+2022-10-04T03:15:23Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( 1031.5,   -18.3,  1634.0)
+  if you do party at a school
+2022-10-04T03:15:32Z: PLAYER CHATTED [ 3897426701] adeelmughal638       ( 1031.5,   -18.3,  1634.0)
+  then they will stay
+2022-10-04T03:15:43Z: PLAYER CHATTED [ 3897426701] adeelmughal638       (  981.4,    -3.4,  2062.2)
+  nice
+2022-10-04T03:15:55Z: PLAYER CHATTED [ 3897426701] adeelmughal638       (  989.9,     2.6,  2102.4)
+  dont bully me
+2022-10-04T03:16:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (  997.9,   -15.9,  2097.1)
+  Perfect!
+2022-10-04T03:16:09Z: PLAYER CHATTED [    1630228] VisualPlugin         (  997.9,   -15.9,  2097.1)
+  No escape!
+2022-10-04T03:16:12Z: PLAYER CHATTED [ 3897426701] adeelmughal638       (  998.2,   -16.1,  2098.0)
+  nice
+2022-10-04T03:16:34Z: PLAYER CHATTED [ 3897426701] adeelmughal638       (  996.5,   -16.1,  2096.4)
+  but they can escape by leaving the party
+2022-10-04T03:16:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (  997.6,   -15.9,  2092.7)
+  Here's what'll happen.
+2022-10-04T03:16:52Z: PLAYER CHATTED [    1630228] VisualPlugin         (  997.6,   -15.9,  2092.7)
+  I will be on the other side.
+2022-10-04T03:17:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (  997.6,   -15.9,  2092.7)
+  Actually, no.
+2022-10-04T03:17:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (  997.6,   -15.9,  2092.7)
+  I will be on this side.
+2022-10-04T03:17:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (  997.6,   -15.9,  2092.7)
+  You'll be on the other side.
+2022-10-04T03:17:15Z: PLAYER CHATTED [ 3897426701] adeelmughal638       (  996.5,   -16.1,  2096.4)
+  ok
+2022-10-04T03:17:21Z: PLAYER CHATTED [    1630228] VisualPlugin         (  997.6,   -15.9,  2092.7)
+  I will take partygoers here.
+2022-10-04T03:17:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (  997.6,   -15.9,  2092.7)
+  And they will be trained to be receptionists.
+2022-10-04T03:17:33Z: PLAYER ADDED   [ 1167996842] shine8159
+2022-10-04T03:17:40Z: PLAYER CHATTED [ 3897426701] adeelmughal638       (  996.5,   -16.1,  2096.4)
+  cool
+2022-10-04T03:18:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (  997.5,   -15.9,  2094.3)
+  Hi.
+2022-10-04T03:18:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (  997.5,   -15.9,  2094.3)
+  We are in dire need of staffing.
+2022-10-04T03:18:27Z: PLAYER CHATTED [ 1167996842] shine8159            (  995.9,   -16.3,  2100.1)
+  hi
+2022-10-04T03:18:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (  997.5,   -15.9,  2094.3)
+  So I will be training you.
+2022-10-04T03:18:42Z: PLAYER CHATTED [ 1167996842] shine8159            (  995.9,   -16.3,  2100.1)
+  ok
+2022-10-04T03:18:46Z: PLAYER CHATTED [    1630228] VisualPlugin         (  996.6,   -15.9,  2095.8)
+  /w adeelmughal638  Go out and back in, then pretend to ask for a dead rat.
+2022-10-04T03:18:51Z: PLAYER REMOVED [ 3897426701] adeelmughal638
+2022-10-04T03:19:04Z: PLAYER CHATTED [    1630228] VisualPlugin         (  996.6,   -15.9,  2095.8)
+  We will be training to combat trollers.
+2022-10-04T03:19:18Z: PLAYER CHATTED [ 1167996842] shine8159            (  995.9,   -16.3,  2100.1)
+  ok
+2022-10-04T03:19:34Z: PLAYER CHATTED [    1630228] VisualPlugin         (  993.8,   -15.9,  2091.7)
+  Let's practise:
+2022-10-04T03:19:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (  992.7,   -15.9,  2092.1)
+  Le hellou!
+2022-10-04T03:19:46Z: PLAYER CHATTED [    1630228] VisualPlugin         (  996.3,   -15.9,  2093.3)
+  I ouill ask feur le toilet!
+2022-10-04T03:20:13Z: PLAYER REMOVED [ 1167996842] shine8159
+2022-10-04T03:22:04Z: PLAYER REMOVED [    1630228] VisualPlugin

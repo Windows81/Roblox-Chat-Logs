@@ -1,0 +1,1123 @@
+[    1630228] : [ 6100863281] RoVille Party - 73afe9d2-f24f-0443-6414-858a78a26518
+2022-10-03T21:36:27Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-10-03T21:36:27Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-10-03T21:37:25Z: PLAYER ADDED   [ 1950117784] kgw12390
+2022-10-03T21:38:07Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1041.9,   -19.3,  1619.9)
+  Welcome.
+2022-10-03T21:38:22Z: PLAYER CHATTED [ 1950117784] kgw12390             ( 1086.0,   -21.3,  1637.8)
+  thank u.
+2022-10-03T21:38:29Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1081.8,   -20.6,  1641.3)
+  No problem!
+2022-10-03T21:38:33Z: PLAYER ADDED   [ 3365871721] NonverbalASDBoy
+2022-10-03T21:38:35Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1081.9,   -20.6,  1641.3)
+  Are you able to get in?
+2022-10-03T21:38:40Z: PLAYER CHATTED [ 1950117784] kgw12390             ( 1081.4,   -20.3,  1644.0)
+  no
+2022-10-03T21:38:48Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1082.1,   -20.6,  1641.0)
+  Darn.
+2022-10-03T21:39:02Z: PLAYER CHATTED [ 3365871721] NonverbalASDBoy      ( 1067.9,   -18.9,  1639.5)
+  Hi I’m here to join rp?
+2022-10-03T21:39:09Z: PLAYER REMOVED [ 1950117784] kgw12390
+2022-10-03T21:39:09Z: PLAYER CHATTED [ 3365871721] NonverbalASDBoy      ( 1067.9,   -18.8,  1639.3)
+  I’m prisoner
+2022-10-03T21:39:10Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1071.2,   -19.1,  1636.8)
+  Yes.
+2022-10-03T21:39:12Z: PLAYER ADDED   [ 1950117784] kgw12390
+2022-10-03T21:39:17Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1071.2,   -19.1,  1636.8)
+  And I'm the Veriff.
+2022-10-03T21:39:25Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1067.6,   -18.7,  1636.1)
+  * requires ID for VC *
+2022-10-03T21:39:29Z: PLAYER CHATTED [ 3365871721] NonverbalASDBoy      ( 1063.1,   -17.7,  1635.4)
+  Ok
+2022-10-03T21:39:45Z: PLAYER CHATTED [ 3365871721] NonverbalASDBoy      ( 1063.1,   -17.7,  1635.4)
+  Doesn’t accept-
+2022-10-03T21:39:46Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1067.6,   -18.7,  1636.1)
+  Show me yer eye dea!
+2022-10-03T21:39:53Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1067.3,   -18.6,  1636.0)
+  No VC for you.
+2022-10-03T21:39:59Z: PLAYER CHATTED [ 3365871721] NonverbalASDBoy      ( 1063.1,   -17.7,  1635.4)
+  Ugh
+2022-10-03T21:40:06Z: PLAYER ADDED   [ 3871038100] ContaTemporaria02524
+2022-10-03T21:40:10Z: PLAYER ADDED   [ 3759693600] Duckie_starry
+2022-10-03T21:40:13Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1067.3,   -18.6,  1636.0)
+  Off to tha slammah you go!
+2022-10-03T21:40:22Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1065.5,   -18.5,  1636.0)
+  Follow me.
+2022-10-03T21:40:26Z: PLAYER CHATTED [ 1950117784] kgw12390             ( 1065.9,   -19.1,  1632.8)
+  we're is the ######
+2022-10-03T21:40:26Z: PLAYER CHATTED [ 3365871721] NonverbalASDBoy      ( 1063.1,   -17.7,  1635.4)
+  Ok fine I will accept it
+2022-10-03T21:40:32Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1065.5,   -18.5,  1636.0)
+  You're undah arrest for tree-son.
+2022-10-03T21:40:32Z: PLAYER CHATTED [ 3759693600] Duckie_starry        ( 1062.3,   -18.7,  1640.9)
+  I don't see map-
+2022-10-03T21:40:44Z: PLAYER CHATTED [ 3365871721] NonverbalASDBoy      ( 1062.7,   -18.6,  1634.3)
+  Uhmm I will fight u if u don’t 
+2022-10-03T21:40:45Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 ( 1048.0,   -18.8,  1627.2)
+  kkkkk
+2022-10-03T21:40:50Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 ( 1056.5,   -18.8,  1634.6)
+  the prison Rp?
+2022-10-03T21:40:54Z: PLAYER CHATTED [ 3759693600] Duckie_starry        ( 1060.1,   -18.7,  1639.1)
+  Ye-
+2022-10-03T21:40:54Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1067.4,   -18.7,  1634.9)
+  * fites anyway *
+2022-10-03T21:40:56Z: PLAYER ADDED   [ 1466566071] Cupcake_girl857
+2022-10-03T21:40:58Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1065.5,   -18.5,  1634.7)
+  Yes.
+2022-10-03T21:41:04Z: PLAYER ADDED   [ 1724605072] Mzmkmack
+2022-10-03T21:41:07Z: PLAYER CHATTED [ 3365871721] NonverbalASDBoy      ( 1069.6,   -19.1,  1633.1)
+  U know I fight ppl to the DEATH!
+2022-10-03T21:41:07Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1065.5,   -18.5,  1634.7)
+  You can join my security team.
+2022-10-03T21:41:13Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 ( 1061.7,   -19.1,  1634.1)
+  im am guard normal.
+2022-10-03T21:41:19Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 ( 1018.3,   -20.6,  1616.1)
+  spawn prison
+2022-10-03T21:41:22Z: PLAYER CHATTED [ 1950117784] kgw12390             ( 1012.1,   -20.3,  1620.6)
+  ur getting kidnaoled
+2022-10-03T21:41:28Z: PLAYER CHATTED [ 3759693600] Duckie_starry        ( 1016.2,   -16.2,  1632.6)
+  Prisoner.
+2022-10-03T21:41:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (  848.4,   -18.9,  1723.1)
+  Not for long.
+2022-10-03T21:41:49Z: CHRCTER ADDED  [ 1466566071] Cupcake_girl857      ( 1049.3,   -12.7,  1710.7)
+2022-10-03T21:41:55Z: PLAYER CHATTED [ 3759693600] Duckie_starry        (  851.6,   -19.2,  1725.3)
+  Host tp all
+2022-10-03T21:41:56Z: PLAYER ADDED   [ 2620097363] Godisgood12379
+2022-10-03T21:42:00Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 (  845.2,   -19.8,  1865.3)
+  send 
+2022-10-03T21:42:15Z: PLAYER CHATTED [ 2620097363] Godisgood12379       ( 1048.8,   -18.6,  1708.1)
+  Can I be security
+2022-10-03T21:42:18Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  838.8,   -19.6,  2171.1)
+  where the hell r we
+2022-10-03T21:42:22Z: PLAYER CHATTED [ 1950117784] kgw12390             (  783.7,   -19.5,  2051.4)
+  hold on I got to make a deal rq
+2022-10-03T21:42:30Z: PLAYER REMOVED [ 1724605072] Mzmkmack
+2022-10-03T21:42:30Z: PLAYER REMOVED [ 2620097363] Godisgood12379
+2022-10-03T21:42:53Z: PLAYER ADDED   [ 3934936976] creamyrlove11
+2022-10-03T21:42:56Z: PLAYER REMOVED [ 3759693600] Duckie_starry
+2022-10-03T21:42:57Z: PLAYER ADDED   [ 3759693600] Duckie_starry
+2022-10-03T21:43:03Z: PLAYER CHATTED [ 1950117784] kgw12390             ( 3845.7,   141.4,  3042.7)
+  wow
+2022-10-03T21:43:16Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 3812.4,   125.3,  3067.3)
+  I make the deal.
+2022-10-03T21:43:20Z: PLAYER REMOVED [ 3759693600] Duckie_starry
+2022-10-03T21:43:27Z: CHRCTER ADDED  [ 1950117784] kgw12390             ( 1001.0,   -17.1,  1690.4)
+2022-10-03T21:43:35Z: PLAYER CHATTED [ 1950117784] kgw12390             (  978.9,   -25.0,  1721.4)
+  I died
+2022-10-03T21:43:36Z: PLAYER REMOVED [ 1466566071] Cupcake_girl857
+2022-10-03T21:43:39Z: PLAYER ADDED   [ 1466566071] Cupcake_girl857
+2022-10-03T21:43:45Z: CHRCTER ADDED  [ 3871038100] ContaTemporaria02524 ( 1002.0,   -12.7,  1692.7)
+2022-10-03T21:43:46Z: CHRCTER ADDED  [ 1950117784] kgw12390             ( 1002.6,   -12.8,  1689.2)
+2022-10-03T21:43:55Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 (  994.1,   -20.6,  1689.7)
+  Send me Request for Teleport
+2022-10-03T21:44:02Z: PLAYER REMOVED [ 3365871721] NonverbalASDBoy
+2022-10-03T21:44:08Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 ( 1008.6,   -17.9,  1745.9)
+  send me teleport request
+2022-10-03T21:44:09Z: PLAYER ADDED   [ 3121023365] Tiemlo2
+2022-10-03T21:44:12Z: PLAYER CHATTED [ 3934936976] creamyrlove11        ( 1011.6,   -21.2,  1725.2)
+  Send meee
+2022-10-03T21:44:23Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      ( 1004.5,   -19.5,  1692.2)
+  host isnt even in the server
+2022-10-03T21:44:27Z: PLAYER ADDED   [ 2405590843] Sjjskskshhxjsj
+2022-10-03T21:44:29Z: PLAYER CHATTED [ 1950117784] kgw12390             (  939.8,   -21.5,  1756.9)
+  ik
+2022-10-03T21:44:32Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      ( 1004.5,   -19.5,  1692.2)
+  IM NOT HOST IM JUST PLAT
+2022-10-03T21:44:37Z: PLAYER CHATTED [    1630228] VisualPlugin         (  355.3,   -19.2,  2234.9)
+  ÒÓ
+2022-10-03T21:44:38Z: PLAYER CHATTED [ 1950117784] kgw12390             (  939.8,   -21.5,  1756.9)
+  like we're Is she
+2022-10-03T21:44:39Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      ( 1006.1,   -19.7,  1696.5)
+  leave the party host isnt here
+2022-10-03T21:44:44Z: PLAYER CHATTED [    1630228] VisualPlugin         (  355.3,   -19.2,  2234.9)
+  No.
+2022-10-03T21:44:46Z: PLAYER REMOVED [ 3871038100] ContaTemporaria02524
+2022-10-03T21:44:46Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      ( 1006.3,   -19.6,  1696.5)
+  idk its provbably a bug
+2022-10-03T21:44:55Z: PLAYER ADDED   [ 3365871721] NonverbalASDBoy
+2022-10-03T21:44:57Z: PLAYER REMOVED [ 1950117784] kgw12390
+2022-10-03T21:44:57Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      ( 1006.3,   -19.6,  1696.5)
+  well stay here then?
+2022-10-03T21:44:59Z: PLAYER REMOVED [ 3934936976] creamyrlove11
+2022-10-03T21:45:00Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      ( 1006.3,   -19.6,  1696.5)
+  idc im leaving
+2022-10-03T21:45:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (  355.3,   -19.2,  2234.9)
+  It's one I took advantage of.
+2022-10-03T21:45:07Z: PLAYER REMOVED [ 1466566071] Cupcake_girl857
+2022-10-03T21:45:13Z: PLAYER REMOVED [ 2405590843] Sjjskskshhxjsj
+2022-10-03T21:45:19Z: PLAYER REMOVED [ 3121023365] Tiemlo2
+2022-10-03T21:45:24Z: PLAYER ADDED   [  289176280] gigiplaz
+2022-10-03T21:45:49Z: CHRCTER ADDED  [  289176280] gigiplaz             ( 1001.9,   -12.9,  1690.3)
+2022-10-03T21:45:59Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1058.0,   -18.4,  1639.5)
+  Nah lissen critter:
+2022-10-03T21:46:11Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1041.4,   -18.1,  1637.2)
+  I'll carry you cos I'm a sherrif.
+2022-10-03T21:46:20Z: PLAYER CHATTED [ 3365871721] NonverbalASDBoy      ( 1034.0,   -18.4,  1640.5)
+  Put ur hands UP!
+2022-10-03T21:46:28Z: PLAYER REMOVED [  289176280] gigiplaz
+2022-10-03T21:46:33Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1039.5,   -18.1,  1637.4)
+  * puts hands further down *
+2022-10-03T21:46:49Z: PLAYER CHATTED [ 3365871721] NonverbalASDBoy      ( 1034.3,   -18.4,  1640.0)
+  Shoots-
+2022-10-03T21:46:58Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1039.5,   -18.1,  1637.4)
+  * bounces bullet *
+2022-10-03T21:47:03Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1039.5,   -18.1,  1637.4)
+  Oh well.
+2022-10-03T21:47:10Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1039.5,   -18.1,  1637.4)
+  Your bullet fell into the fountain!
+2022-10-03T21:47:15Z: PLAYER CHATTED [ 3365871721] NonverbalASDBoy      ( 1034.3,   -18.4,  1640.0)
+  Idc
+2022-10-03T21:47:23Z: PLAYER CHATTED [ 3365871721] NonverbalASDBoy      ( 1034.3,   -18.4,  1640.0)
+  ####
+2022-10-03T21:47:32Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1039.5,   -18.1,  1637.4)
+  H#SH to you too!
+2022-10-03T21:47:36Z: PLAYER CHATTED [ 3365871721] NonverbalASDBoy      ( 1034.3,   -18.4,  1640.0)
+  And I’m not accepting 
+2022-10-03T21:47:40Z: PLAYER CHATTED [ 3365871721] NonverbalASDBoy      ( 1034.3,   -18.4,  1640.0)
+  Request 
+2022-10-03T21:47:43Z: PLAYER ADDED   [ 1434903414] saysayloveyall_x
+2022-10-03T21:47:49Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1039.5,   -18.1,  1637.4)
+  I don't care either.
+2022-10-03T21:47:52Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1039.5,   -18.1,  1637.4)
+  ÒÓ
+2022-10-03T21:48:02Z: PLAYER CHATTED [ 3365871721] NonverbalASDBoy      ( 1034.3,   -18.4,  1640.0)
+  #########
+2022-10-03T21:48:03Z: PLAYER ADDED   [ 3781827799] Wensdayihh
+2022-10-03T21:48:05Z: PLAYER REMOVED [ 3365871721] NonverbalASDBoy
+2022-10-03T21:48:10Z: PLAYER REMOVED [ 1434903414] saysayloveyall_x
+2022-10-03T21:48:37Z: PLAYER REMOVED [ 3781827799] Wensdayihh
+2022-10-03T21:49:25Z: PLAYER ADDED   [ 3365871721] NonverbalASDBoy
+2022-10-03T21:49:34Z: PLAYER REMOVED [ 3365871721] NonverbalASDBoy
+2022-10-03T21:55:21Z: PLAYER ADDED   [ 3930309627] 8wiiwjsnsn
+2022-10-03T21:56:01Z: PLAYER REMOVED [ 3930309627] 8wiiwjsnsn
+2022-10-03T21:58:07Z: PLAYER ADDED   [ 3830085776] hi12343423143234
+2022-10-03T21:58:44Z: CHRCTER ADDED  [ 3830085776] hi12343423143234     ( 1059.0,   -12.6,  1637.6)
+2022-10-03T21:59:34Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1058.4,   -18.3,  1633.0)
+  Welcome in!
+2022-10-03T21:59:42Z: PLAYER CHATTED [ 3830085776] hi12343423143234     ( 1059.0,   -18.1,  1637.6)
+  hi
+2022-10-03T22:00:05Z: PLAYER CHATTED [ 3830085776] hi12343423143234     (-1509.4,   -15.2,  -634.1)
+  wow wth is going on
+2022-10-03T22:00:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1508.7,   -15.8,  -633.4)
+  Where to?
+2022-10-03T22:00:28Z: PLAYER CHATTED [ 3830085776] hi12343423143234     (-1509.4,   -15.2,  -634.1)
+  is this a rp or
+2022-10-03T22:00:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1508.7,   -15.8,  -633.4)
+  You're being arrested for not having joined the server sooner.
+2022-10-03T22:00:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1613.5,   -21.9,  -594.7)
+  It's more than just an RP.
+2022-10-03T22:00:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1613.5,   -21.9,  -594.7)
+  It's an R-rest-P.
+2022-10-03T22:00:56Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1613.5,   -21.9,  -594.7)
+  i.e., Arrest-P.
+2022-10-03T22:01:11Z: PLAYER CHATTED [ 3830085776] hi12343423143234     (-1876.7,   574.5,  -454.6)
+  how r you doing this
+2022-10-03T22:01:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1183.1,   150.5,   380.3)
+  Client-side scripts.
+2022-10-03T22:01:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1113.6,   150.5,   496.0)
+  Look JJSploit up.
+2022-10-03T22:01:42Z: PLAYER CHATTED [ 3830085776] hi12343423143234     ( -358.8,   613.6,   922.2)
+  ooo
+2022-10-03T22:01:44Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -359.5,   613.0,   921.5)
+  Same idea.
+2022-10-03T22:02:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1736.0,    41.7,   113.8)
+  I made the fly script myself.
+2022-10-03T22:02:49Z: PLAYER CHATTED [ 3830085776] hi12343423143234     (-1634.7,   320.5,  -508.5)
+  soo your a hacker
+2022-10-03T22:03:11Z: PLAYER ADDED   [ 2544637096] Rox_paulo
+2022-10-03T22:03:12Z: PLAYER CHATTED [ 3830085776] hi12343423143234     ( -925.2,   151.2,   492.0)
+  im ok with that but dont get me ban
+2022-10-03T22:03:21Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -925.7,   150.5,   491.2)
+  I like running my own code at the end of the day.
+2022-10-03T22:03:30Z: PLAYER CHATTED [ 3830085776] hi12343423143234     ( -925.2,   151.2,   492.0)
+  ok
+2022-10-03T22:03:31Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -925.7,   150.5,   491.2)
+  Hackers can't really ban other players.
+2022-10-03T22:03:47Z: PLAYER REMOVED [ 2544637096] Rox_paulo
+2022-10-03T22:03:49Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -888.4,   150.5,   496.2)
+  Last time they tried, the means got patched.
+2022-10-03T22:04:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.5,   106.4,   182.0)
+  Like the view?
+2022-10-03T22:05:32Z: PLAYER CHATTED [ 3830085776] hi12343423143234     (  849.4,   -18.5,  1634.1)
+  hackers can make the game think i sayed a bad word
+2022-10-03T22:05:46Z: PLAYER ADDED   [ 3587176834] Blurg0d
+2022-10-03T22:06:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (  966.5,    12.7,  2051.8)
+  You're good!
+2022-10-03T22:06:04Z: PLAYER CHATTED [ 3830085776] hi12343423143234     ( 1374.4,   -20.4,  1050.4)
+  and get me or any one ban
+2022-10-03T22:06:09Z: PLAYER CHATTED [ 3830085776] hi12343423143234     ( 1229.8,   -18.3,   916.0)
+  ok
+2022-10-03T22:06:17Z: CHRCTER ADDED  [ 3587176834] Blurg0d              ( 1064.7,   -12.6,  1644.4)
+2022-10-03T22:06:23Z: PLAYER CHATTED [ 3587176834] Blurg0d              ( 1064.7,   -18.7,  1644.4)
+  uh
+2022-10-03T22:06:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (  999.3,   -19.2,  1659.0)
+  Haxors are not known for banning people.
+2022-10-03T22:06:41Z: PLAYER CHATTED [ 3587176834] Blurg0d              ( 1013.6,   -18.6,  1645.9)
+  wsp
+2022-10-03T22:06:44Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1010.0,   -18.3,  1649.4)
+  Hiya.
+2022-10-03T22:06:53Z: PLAYER CHATTED [ 3587176834] Blurg0d              ( 1013.6,   -18.6,  1645.9)
+  wheres the host?
+2022-10-03T22:06:57Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1010.0,   -18.3,  1649.4)
+  Not in this server.
+2022-10-03T22:07:04Z: PLAYER CHATTED [ 3587176834] Blurg0d              ( 1013.6,   -18.6,  1645.9)
+  oop-
+2022-10-03T22:07:06Z: PLAYER CHATTED [ 3587176834] Blurg0d              ( 1013.6,   -18.6,  1645.9)
+  weird
+2022-10-03T22:07:13Z: PLAYER CHATTED [ 3830085776] hi12343423143234     ( 1010.8,   -17.7,  1649.1)
+  hes a hacker
+2022-10-03T22:07:20Z: PLAYER CHATTED [ 3587176834] Blurg0d              ( 1013.6,   -18.6,  1645.9)
+   noice
+2022-10-03T22:07:26Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1010.0,   -18.3,  1649.4)
+  I discovered a vulnerability that allows me to go to party servers without the host.
+2022-10-03T22:07:33Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1010.0,   -18.3,  1649.4)
+  The house isn't around however.
+2022-10-03T22:07:41Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1010.0,   -18.3,  1649.4)
+  Thanks!
+2022-10-03T22:07:41Z: PLAYER CHATTED [ 3587176834] Blurg0d              ( 1013.6,   -18.6,  1645.9)
+  cool
+2022-10-03T22:07:53Z: PLAYER CHATTED [ 3587176834] Blurg0d              ( 1013.6,   -18.6,  1645.9)
+  btw hope you dont get caught
+2022-10-03T22:08:00Z: PLAYER CHATTED [ 3587176834] Blurg0d              ( 1013.6,   -18.6,  1645.9)
+  :P
+2022-10-03T22:08:07Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1010.0,   -18.3,  1649.4)
+  I don't mind too much.
+2022-10-03T22:08:09Z: PLAYER CHATTED [ 3587176834] Blurg0d              ( 1013.6,   -18.6,  1645.9)
+  UR SO TALL
+2022-10-03T22:08:25Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1011.1,   -18.3,  1648.0)
+  May I carry you?
+2022-10-03T22:08:25Z: PLAYER CHATTED [ 3830085776] hi12343423143234     ( 1014.1,   -18.1,  1649.2)
+  and your lil
+2022-10-03T22:08:33Z: PLAYER CHATTED [ 3830085776] hi12343423143234     ( 1014.1,   -18.1,  1649.2)
+  i can get bigger
+2022-10-03T22:08:37Z: PLAYER CHATTED [ 3587176834] Blurg0d              ( 1306.0,   990.0,   513.1)
+  SHEEESH
+2022-10-03T22:08:54Z: PLAYER ADDED   [ 1559520847] XxJo_LynnxX
+2022-10-03T22:08:55Z: PLAYER CHATTED [ 3587176834] Blurg0d              ( 1246.9,    58.8,   358.5)
+  WOOOOOOOOOOOOOOOOOOO\
+2022-10-03T22:09:04Z: PLAYER REMOVED [ 3830085776] hi12343423143234
+2022-10-03T22:09:18Z: PLAYER REMOVED [ 1559520847] XxJo_LynnxX
+2022-10-03T22:09:29Z: PLAYER CHATTED [ 3587176834] Blurg0d              ( 3957.7,   -21.1,  2559.6)
+  THEY RUNNIN SO FAST
+2022-10-03T22:09:33Z: PLAYER CHATTED [ 3587176834] Blurg0d              ( 3655.0,    -6.0,  3076.2)
+  SHEEESH
+2022-10-03T22:10:29Z: PLAYER CHATTED [ 3587176834] Blurg0d              (  483.5,   -18.7,  1623.7)
+  O
+2022-10-03T22:10:50Z: PLAYER CHATTED [ 3587176834] Blurg0d              (  330.8,   177.0,   837.1)
+  isnt the rocade still being built or sth?
+2022-10-03T22:10:56Z: PLAYER CHATTED [    1630228] VisualPlugin         (  220.1,   372.3,   677.6)
+  No idea.
+2022-10-03T22:11:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (  220.1,   372.3,   677.6)
+  Wanna spin the whèél?
+2022-10-03T22:11:06Z: PLAYER CHATTED [ 3587176834] Blurg0d              (  485.5,    99.5,  1333.1)
+  Ye
+2022-10-03T22:11:19Z: PLAYER CHATTED [ 3587176834] Blurg0d              (  565.3,   -19.0,  1451.2)
+  Dang it
+2022-10-03T22:11:22Z: PLAYER CHATTED [ 3587176834] Blurg0d              (  565.3,   -19.0,  1451.2)
+  i cant
+2022-10-03T22:11:26Z: PLAYER CHATTED [ 3587176834] Blurg0d              (  561.1,   -19.0,  1451.7)
+  can u
+2022-10-03T22:11:33Z: PLAYER ADDED   [ 1913287317] MoonyXJazmin
+2022-10-03T22:11:34Z: PLAYER CHATTED [    1630228] VisualPlugin         (  559.4,   -18.7,  1447.2)
+  Might be because this is a party server.
+2022-10-03T22:11:40Z: PLAYER CHATTED [ 3587176834] Blurg0d              (  567.1,   -19.0,  1448.4)
+  ooo
+2022-10-03T22:11:43Z: PLAYER CHATTED [ 3587176834] Blurg0d              (  566.2,   -18.3,  1447.5)
+  true
+2022-10-03T22:12:06Z: PLAYER ADDED   [ 2389847994] Kaykayqueen04
+2022-10-03T22:12:07Z: PLAYER CHATTED [ 3587176834] Blurg0d              (  997.8,   -19.2,  1695.4)
+  can you kick people out of servers?
+2022-10-03T22:12:10Z: PLAYER CHATTED [ 3587176834] Blurg0d              (  997.8,   -19.3,  1695.4)
+  lol
+2022-10-03T22:12:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (  998.0,   -19.7,  1696.2)
+  I can't.
+2022-10-03T22:12:21Z: PLAYER CHATTED [ 3587176834] Blurg0d              (  998.0,   -19.3,  1695.4)
+  NOICE
+2022-10-03T22:12:26Z: PLAYER CHATTED [ 3587176834] Blurg0d              (  997.8,   -19.3,  1695.4)
+  atleast
+2022-10-03T22:12:31Z: PLAYER CHATTED [ 3587176834] Blurg0d              (  997.8,   -19.2,  1695.4)
+  i can't be kick
+2022-10-03T22:12:33Z: PLAYER CHATTED [ 3587176834] Blurg0d              (  997.8,   -19.3,  1695.4)
+  ed
+2022-10-03T22:12:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (  998.0,   -19.7,  1696.2)
+  * kicks in the torso *
+2022-10-03T22:12:43Z: PLAYER CHATTED [ 3587176834] Blurg0d              (  997.3,   -19.2,  1695.7)
+  AH
+2022-10-03T22:12:44Z: PLAYER REMOVED [ 1913287317] MoonyXJazmin
+2022-10-03T22:12:47Z: PLAYER CHATTED [ 3587176834] Blurg0d              (  997.2,   -19.2,  1695.8)
+  kk
+2022-10-03T22:12:51Z: PLAYER CHATTED [ 3587176834] Blurg0d              (  997.6,   -19.3,  1695.4)
+  one sec dude
+2022-10-03T22:12:56Z: PLAYER CHATTED [ 3587176834] Blurg0d              (  997.4,   -19.3,  1695.5)
+  i gotta do homework
+2022-10-03T22:13:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (  998.0,   -19.7,  1696.2)
+  No problem!
+2022-10-03T22:13:13Z: PLAYER CHATTED [ 3587176834] Blurg0d              (  999.4,   -19.3,  1689.4)
+  its ez tho
+2022-10-03T22:14:30Z: CHRCTER ADDED  [ 2389847994] Kaykayqueen04        ( 1063.1,   -12.8,  1645.1)
+2022-10-03T22:14:42Z: PLAYER CHATTED [ 2389847994] Kaykayqueen04        ( 1008.2,   -19.2,  1687.6)
+  Hi
+2022-10-03T22:14:54Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -458.3,   -20.6,  1549.5)
+  Hi.
+2022-10-03T22:15:23Z: PLAYER CHATTED [ 2389847994] Kaykayqueen04        ( 1038.1,    -7.9,  1668.1)
+  Hi
+2022-10-03T22:15:24Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1030.9,   -15.2,  1671.1)
+  Welcome to prison.
+2022-10-03T22:15:30Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1030.9,   -15.2,  1671.1)
+  I will be your Veriff.
+2022-10-03T22:15:44Z: PLAYER CHATTED [ 2389847994] Kaykayqueen04        ( 1022.8,   -15.2,  1664.1)
+  Ok
+2022-10-03T22:16:05Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -702.1,   471.3,  1795.1)
+  You are under arrest.
+2022-10-03T22:16:15Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -702.1,   471.3,  1795.1)
+  You failled to join the party sòóner.
+2022-10-03T22:16:38Z: PLAYER ADDED   [ 1950117784] kgw12390
+2022-10-03T22:16:41Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -702.1,   471.3,  1795.1)
+  I will proceed with a speedy trial.
+2022-10-03T22:16:47Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -690.9,   471.3,  1798.0)
+  Let me bring someone else up.
+2022-10-03T22:16:53Z: PLAYER CHATTED [ 2389847994] Kaykayqueen04        ( -679.4,   470.5,  1790.0)
+  Ok
+2022-10-03T22:17:09Z: PLAYER CHATTED [ 1950117784] kgw12390             ( 1006.8,   -20.2,  1625.4)
+  JOIN MISS UNIVERSE. WHO KNOWS YOU MIGHT BECOME MISS UNIVERSE 
+2022-10-03T22:17:13Z: PLAYER CHATTED [ 1950117784] kgw12390             ( 1006.8,   -20.2,  1625.4)
+  JOIN MISS UNIVERSE. WHO KNOWS YOU MIGHT BECOME MISS UNIVERSE 
+2022-10-03T22:17:16Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1005.5,   -20.1,  1621.5)
+  I know.
+2022-10-03T22:17:16Z: PLAYER CHATTED [ 1950117784] kgw12390             ( 1006.8,   -20.2,  1625.4)
+  Hi8
+2022-10-03T22:17:27Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1005.5,   -20.1,  1621.5)
+  I'm holding trial for Kay.
+2022-10-03T22:17:36Z: PLAYER CHATTED [ 1950117784] kgw12390             ( -617.1,   470.7,  1800.1)
+  JOIN MISS UNIVERSE. WHO KNOWS YOU MIGHT BECOME MISS UNIVERSE 
+2022-10-03T22:17:39Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -699.1,   471.3,  1833.5)
+  HAHAHA!
+2022-10-03T22:17:47Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -694.5,   471.3,  1831.8)
+  You are under arrest for not having joined sooner!
+2022-10-03T22:17:52Z: PLAYER CHATTED [ 1950117784] kgw12390             ( -673.6,   470.7,  1805.2)
+  JOIN MISS UNIVERSE. WHO KNOWS YOU MIGHT BECOME MISS UNIVERSE 
+2022-10-03T22:17:56Z: PLAYER CHATTED [ 1950117784] kgw12390             ( -673.6,   470.7,  1805.2)
+  JOIN MISS UNIVERSE. WHO KNOWS YOU MIGHT BECOME MISS UNIVERSE 
+2022-10-03T22:17:59Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -684.1,   471.3,  1811.5)
+  Now you lot will be in trial together!
+2022-10-03T22:18:01Z: PLAYER CHATTED [ 1950117784] kgw12390             ( -673.6,   470.7,  1805.2)
+  I did join ######
+2022-10-03T22:18:03Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -684.1,   471.3,  1811.5)
+  ÒÓ
+2022-10-03T22:18:12Z: PLAYER CHATTED [ 2389847994] Kaykayqueen04        ( -675.9,   470.5,  1803.4)
+  Nice name
+2022-10-03T22:18:15Z: PLAYER REMOVED [ 1950117784] kgw12390
+2022-10-03T22:18:16Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -676.1,   471.3,  1811.6)
+  Thanks!
+2022-10-03T22:18:26Z: PLAYER ADDED   [ 3680178187] Cookietiffiny
+2022-10-03T22:19:05Z: PLAYER REMOVED [ 3680178187] Cookietiffiny
+2022-10-03T22:19:29Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -718.0,   471.3,  1685.0)
+  WHY DO PEOPLE KÈÉP LEAVING>
+2022-10-03T22:19:36Z: PLAYER CHATTED [ 2389847994] Kaykayqueen04        ( -717.0,   470.5,  1675.7)
+  Idk
+2022-10-03T22:20:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (  960.0,   161.5,   330.8)
+  No escaping allowed!
+2022-10-03T22:20:29Z: PLAYER CHATTED [ 2389847994] Kaykayqueen04        (  958.0,   160.6,   322.3)
+  How do u fly
+2022-10-03T22:20:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (  958.7,   161.5,   329.7)
+  Client-side scripts.
+2022-10-03T22:20:40Z: PLAYER ADDED   [ 1466566071] Cupcake_girl857
+2022-10-03T22:20:45Z: PLAYER CHATTED [ 2389847994] Kaykayqueen04        (  959.3,   160.6,   324.0)
+  Oh
+2022-10-03T22:20:52Z: PLAYER CHATTED [    1630228] VisualPlugin         (  958.7,   161.5,   329.7)
+  /w Kaykayqueen04  Look up JJSploit.
+2022-10-03T22:21:00Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857     
+  people keep leaving v you need to tp them to you
+2022-10-03T22:21:06Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      ( 1045.4,   -19.4,  1703.5)
+  bc they spawn in a random place
+2022-10-03T22:21:12Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      ( 1045.4,   -19.4,  1703.5)
+  SO ?PLEASE TP US TO YOU
+2022-10-03T22:21:19Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1029.3,   -18.0,  1688.2)
+  How do I do that?
+2022-10-03T22:21:19Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      ( 1021.4,   -19.3,  1696.5)
+  ty <3
+2022-10-03T22:21:32Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      ( 1021.4,   -19.3,  1696.5)
+  i d k
+2022-10-03T22:21:39Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      ( 1012.8,   -19.2,  1682.0)
+  ####################
+2022-10-03T22:21:44Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      ( 1013.8,   348.4,   736.4)
+  BUT WERE NOT AT A
+2022-10-03T22:21:46Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  923.1,   236.7,   617.1)
+  wth
+2022-10-03T22:21:55Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  924.5,   161.6,   443.8)
+  what the
+2022-10-03T22:22:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (  925.2,   161.5,   429.8)
+  You are under arrest for not having joined sooner.
+2022-10-03T22:22:12Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  926.0,   161.9,   429.3)
+  i did join 
+2022-10-03T22:22:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (  925.2,   161.5,   429.8)
+  A speedy trial will take place.
+2022-10-03T22:22:15Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  926.0,   161.9,   429.3)
+  like before
+2022-10-03T22:22:25Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  925.7,   161.9,   429.0)
+  but i left bc the server was like weird
+2022-10-03T22:22:31Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  925.6,   161.9,   429.0)
+  and then like
+2022-10-03T22:22:37Z: PLAYER CHATTED [ 2389847994] Kaykayqueen04        (  929.8,   160.6,   424.5)
+  Hi
+2022-10-03T22:22:44Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  925.9,   160.3,   429.2)
+  we were all stuck somewhere
+2022-10-03T22:22:47Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  925.9,   160.3,   429.2)
+  hi
+2022-10-03T22:22:55Z: PLAYER CHATTED [ 2389847994] Kaykayqueen04        (  927.9,   160.6,   425.1)
+  Can we order food here
+2022-10-03T22:22:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (  922.3,   161.5,   424.9)
+  Sure.
+2022-10-03T22:23:04Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  999.8,   160.3,   456.0)
+  can i die?
+2022-10-03T22:23:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (  922.3,   161.5,   424.9)
+  * gives prison slop *
+2022-10-03T22:23:06Z: PLAYER CHATTED [ 2389847994] Kaykayqueen04        (  928.0,   160.6,   424.1)
+  Ok ty :)
+2022-10-03T22:23:11Z: PLAYER CHATTED [ 2389847994] Kaykayqueen04        (  935.0,   160.6,   424.2)
+  Eww
+2022-10-03T22:23:14Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  983.6,   160.3,   467.3)
+  ew
+2022-10-03T22:23:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (  990.3,   161.5,   461.5)
+  Dying is not allowed.
+2022-10-03T22:23:19Z: PLAYER CHATTED [ 2389847994] Kaykayqueen04        (  935.0,   160.6,   424.2)
+  I’m ordering something 
+2022-10-03T22:23:25Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  823.2,   -19.6,   447.1)
+  kshahbd
+2022-10-03T22:23:51Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  727.3,   -19.5,    -1.7)
+  i need food wait
+2022-10-03T22:23:51Z: PLAYER ADDED   [ 2710179311] Mortyslash
+2022-10-03T22:24:11Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  842.3,   -20.1,   382.1)
+  dbsakjhb
+2022-10-03T22:24:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (  833.0,   -19.0,   382.9)
+  No!
+2022-10-03T22:24:19Z: PLAYER CHATTED [    1630228] VisualPlugin         (  833.0,   -19.0,   382.9)
+  No escaping allowed!
+2022-10-03T22:24:28Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  340.4,   283.9,   832.6)
+  ok sorry ;(
+2022-10-03T22:24:30Z: CHRCTER ADDED  [ 2710179311] Mortyslash           ( 1061.4,   -12.6,  1636.4)
+2022-10-03T22:24:37Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      ( -324.1,   541.8,   932.2)
+  EXCUSE ME
+2022-10-03T22:24:42Z: PLAYER REMOVED [ 2710179311] Mortyslash
+2022-10-03T22:24:45Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      ( -321.0,   541.8,   929.2)
+  no.
+2022-10-03T22:24:58Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -319.2,   546.4,   932.6)
+  I have to admit this space is too tight!
+2022-10-03T22:25:06Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      ( -319.3,   542.4,   931.3)
+  thats so sus
+2022-10-03T22:25:11Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      ( -319.3,   542.4,   931.3)
+  WHERE THE HELL R WE THO
+2022-10-03T22:25:17Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -320.7,   543.0,   928.3)
+  Inside a building.
+2022-10-03T22:25:40Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      ( -319.0,   541.8,   931.0)
+  ur under arrest
+2022-10-03T22:25:43Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -322.4,   543.0,   929.8)
+  Is this a good prison?
+2022-10-03T22:25:43Z: PLAYER ADDED   [ 3201323338] Cool_Kitat105
+2022-10-03T22:25:47Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      ( -318.9,   541.8,   930.2)
+  for kidnapping
+2022-10-03T22:25:52Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      ( -318.9,   541.8,   930.2)
+  too small
+2022-10-03T22:25:59Z: PLAYER CHATTED [ 2389847994] Kaykayqueen04        ( -322.9,   542.1,   932.0)
+  I just wanted food
+2022-10-03T22:26:05Z: PLAYER CHATTED [ 3201323338] Cool_Kitat105       
+  ##
+2022-10-03T22:26:12Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      ( -324.1,   541.8,   927.4)
+  im trying to do cool video game jumps
+2022-10-03T22:26:15Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -321.1,   543.0,   929.7)
+  * gives rice and chicken breast.
+2022-10-03T22:26:18Z: PLAYER CHATTED [ 3201323338] Cool_Kitat105       
+  I'm at a park
+2022-10-03T22:26:19Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -321.1,   543.0,   929.7)
+  Darn.
+2022-10-03T22:26:22Z: CHRCTER ADDED  [ 3201323338] Cool_Kitat105        (  930.3,   -22.3,  1666.9)
+2022-10-03T22:26:27Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -321.1,   543.0,   929.7)
+  * gives alfredo pasta *
+2022-10-03T22:26:28Z: PLAYER ADDED   [ 3472855263] fgfhhidfhihid
+2022-10-03T22:26:38Z: PLAYER CHATTED [ 2389847994] Kaykayqueen04        ( -321.5,   542.1,   931.2)
+  Yay!!!! Ty
+2022-10-03T22:26:42Z: PLAYER REMOVED [ 3201323338] Cool_Kitat105
+2022-10-03T22:26:55Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -321.2,   543.0,   929.8)
+  No problem!
+2022-10-03T22:27:00Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -321.2,   543.0,   929.8)
+  Let's get you out of here?
+2022-10-03T22:27:05Z: PLAYER CHATTED [ 2389847994] Kaykayqueen04        ( -330.6,   543.4,   929.1)
+  Yes
+2022-10-03T22:27:09Z: PLAYER REMOVED [ 3472855263] fgfhhidfhihid
+2022-10-03T22:27:11Z: PLAYER ADDED   [ 3472855263] fgfhhidfhihid
+2022-10-03T22:27:15Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      ( -319.7,   539.9,   933.1)
+  so rude to me
+2022-10-03T22:27:19Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      ( -320.5,   539.9,   932.9)
+  im still stuck here
+2022-10-03T22:27:25Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      ( -478.4,   -18.7,   961.0)
+  ur holding a roach
+2022-10-03T22:27:35Z: PLAYER CHATTED [ 2389847994] Kaykayqueen04        ( -468.6,   -19.9,   958.9)
+  Ima go get food now 
+2022-10-03T22:27:36Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      ( -478.2,   -22.1,   961.2)
+  ;)
+2022-10-03T22:27:37Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -474.0,   -19.0,   964.3)
+  You're frèé.
+2022-10-03T22:27:43Z: PLAYER ADDED   [ 3310311099] Kwiabr1214
+2022-10-03T22:27:51Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      ( -474.4,   -20.2,   967.0)
+  thx bro
+2022-10-03T22:28:05Z: PLAYER CHATTED [ 2389847994] Kaykayqueen04        ( -529.8,   -19.9,   988.7)
+  Wanna get food with me
+2022-10-03T22:28:08Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      ( -525.2,   -20.2,   994.5)
+  sure
+2022-10-03T22:28:15Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      ( -527.6,   -20.2,  1004.7)
+  WAIT LETS GO TO THE CAFEE
+2022-10-03T22:28:19Z: PLAYER REMOVED [ 3310311099] Kwiabr1214
+2022-10-03T22:30:40Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  732.4,   -19.9,  2106.6)
+  cupcakesss
+2022-10-03T22:31:02Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  755.6,   -19.9,  2092.4)
+  i cant sit
+2022-10-03T22:31:15Z: CHRCTER ADDED  [ 3472855263] fgfhhidfhihid        ( 1058.2,   -23.0,  1873.5)
+2022-10-03T22:31:17Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  742.9,   -19.9,  2076.2)
+  nvm
+2022-10-03T22:31:25Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  742.9,   -19.9,  2076.2)
+  slay
+2022-10-03T22:31:25Z: PLAYER ADDED   [ 1605354704] lilrenner7911
+2022-10-03T22:31:35Z: PLAYER ADDED   [ 2814994453] guhefjvbusfghvyfsvbu
+2022-10-03T22:31:38Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  742.9,   -19.9,  2076.2)
+  WHO KEEPS ASKING TO TP TO ME
+2022-10-03T22:31:44Z: PLAYER CHATTED [ 2389847994] Kaykayqueen04        (  742.8,   -19.8,  2068.3)
+  Idk
+2022-10-03T22:31:53Z: PLAYER CHATTED [    1630228] VisualPlugin         (  405.9,    47.4,  1405.9)
+  I don't believe it's me.
+2022-10-03T22:32:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (  640.4,   -19.8,  1920.6)
+  I'm not sure however.
+2022-10-03T22:32:15Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  728.4,   -19.9,  2081.7)
+  yummyyyy
+2022-10-03T22:32:16Z: PLAYER REMOVED [ 2814994453] guhefjvbusfghvyfsvbu
+2022-10-03T22:32:30Z: PLAYER REMOVED [ 1605354704] lilrenner7911
+2022-10-03T22:32:48Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  728.4,   -19.9,  2081.7)
+  no its fgfhhidfhihid
+2022-10-03T22:33:18Z: PLAYER REMOVED [ 3587176834] Blurg0d
+2022-10-03T22:33:19Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857     
+  what is that
+2022-10-03T22:33:26Z: PLAYER CHATTED [ 2389847994] Kaykayqueen04       
+  It’s crying 
+2022-10-03T22:33:31Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857     
+  HEY HOST
+2022-10-03T22:33:32Z: PLAYER ADDED   [  289176280] gigiplaz
+2022-10-03T22:33:37Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  735.1,   -20.0,  2130.5)
+  CAN U TP US TO U
+2022-10-03T22:33:42Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  736.4,   -20.3,  2147.6)
+  i #### # #####
+2022-10-03T22:34:09Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  412.2,    46.2,  1274.5)
+  i #### # #####
+2022-10-03T22:34:09Z: PLAYER CHATTED [    1630228] VisualPlugin         (  417.7,    47.4,  1273.3)
+  I was here.
+2022-10-03T22:34:19Z: PLAYER CHATTED [ 3472855263] fgfhhidfhihid        (  412.7,    46.4,  1275.4)
+  mama
+2022-10-03T22:34:22Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  412.2,    46.2,  1274.5)
+  i dont know how
+2022-10-03T22:34:33Z: PLAYER CHATTED [ 3472855263] fgfhhidfhihid        (  412.8,    46.4,  1275.3)
+  mama
+2022-10-03T22:34:46Z: PLAYER REMOVED [  289176280] gigiplaz
+2022-10-03T22:34:46Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  415.0,    46.2,  1290.2)
+  its calling me mama
+2022-10-03T22:34:52Z: PLAYER CHATTED [ 3472855263] fgfhhidfhihid        (  417.0,    46.4,  1288.0)
+  mama
+2022-10-03T22:34:54Z: PLAYER CHATTED [ 2389847994] Kaykayqueen04        (  749.8,   -20.0,  2146.1)
+  Can u to me to
+2022-10-03T22:34:56Z: PLAYER ADDED   [ 2960611640] Jamarticama
+2022-10-03T22:34:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (  464.4,    47.4,  1371.1)
+  I'm trying.
+2022-10-03T22:35:15Z: PLAYER ADDED   [ 1678889690] J8N_JON
+2022-10-03T22:35:19Z: PLAYER CHATTED [ 2389847994] Kaykayqueen04        (  458.4,    46.5,  1407.1)
+  Hii
+2022-10-03T22:35:21Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  449.1,    46.2,  1398.6)
+  i wonder who the dad is
+2022-10-03T22:35:28Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  455.7,    46.2,  1399.4)
+  omg no i have to call andre
+2022-10-03T22:35:32Z: PLAYER ADDED   [ 3871038100] ContaTemporaria02524
+2022-10-03T22:35:34Z: PLAYER CHATTED [    1630228] VisualPlugin         (  458.2,    47.4,  1407.7)
+  He might accept my carry request.
+2022-10-03T22:35:40Z: PLAYER CHATTED [ 3472855263] fgfhhidfhihid        (  460.0,    46.4,  1399.4)
+  mama
+2022-10-03T22:35:46Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  459.2,    46.2,  1399.1)
+  ew no
+2022-10-03T22:35:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (  457.5,    47.4,  1407.2)
+  Here's the dad!
+2022-10-03T22:35:48Z: PLAYER CHATTED [ 2960611640] Jamarticama          (  465.5,    46.9,  1406.5)
+  Do you make a real
+2022-10-03T22:35:53Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  458.2,    46.2,  1398.8)
+  THATS NOT THE DAD
+2022-10-03T22:36:00Z: PLAYER CHATTED [ 2960611640] Jamarticama          (  465.5,    46.9,  1406.5)
+  Mucho sueño but I wanna ####### Argento show
+2022-10-03T22:36:03Z: PLAYER CHATTED [ 1678889690] J8N_JON              (  457.3,    46.8,  1402.4)
+   hello?
+2022-10-03T22:36:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (  457.5,    47.4,  1407.2)
+  Hi.
+2022-10-03T22:36:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (  458.3,    47.4,  1406.2)
+  Welcome home.
+2022-10-03T22:36:14Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  459.6,    46.2,  1398.2)
+  screaming
+2022-10-03T22:36:16Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  459.6,    46.2,  1398.2)
+  crying
+2022-10-03T22:36:16Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 (  459.1,    46.5,  1405.9)
+  god . -
+2022-10-03T22:36:17Z: PLAYER CHATTED [ 1678889690] J8N_JON              (  457.3,    46.8,  1402.4)
+  I from brazil?
+2022-10-03T22:36:18Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  459.6,    46.2,  1398.2)
+  shaking
+2022-10-03T22:36:21Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 (  459.2,    46.5,  1405.1)
+  im am brazil
+2022-10-03T22:36:26Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  459.6,    46.2,  1398.2)
+  ur brazil?
+2022-10-03T22:36:28Z: PLAYER CHATTED [ 3472855263] fgfhhidfhihid        (  460.1,    46.4,  1398.9)
+  zzzzzzz
+2022-10-03T22:36:32Z: PLAYER CHATTED [ 1678889690] J8N_JON              (  457.3,    46.8,  1402.4)
+  yes
+2022-10-03T22:36:32Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 (  459.7,    46.5,  1405.5)
+  yes im am brazil . -
+2022-10-03T22:36:33Z: PLAYER CHATTED [ 3472855263] fgfhhidfhihid        (  460.1,    46.4,  1398.9)
+  zzzzzzzzzzz
+2022-10-03T22:36:38Z: PLAYER CHATTED [ 2389847994] Kaykayqueen04        (  465.4,    46.5,  1400.8)
+  Oop what’s happening 
+2022-10-03T22:36:38Z: PLAYER CHATTED [ 3472855263] fgfhhidfhihid        (  460.1,    46.4,  1398.9)
+  zzzzzzzzz
+2022-10-03T22:36:40Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 (  459.1,    46.5,  1404.0)
+  you speak portugues?
+2022-10-03T22:36:42Z: PLAYER CHATTED [ 3472855263] fgfhhidfhihid        (  460.1,    46.4,  1398.9)
+  zzzzzzzzzz
+2022-10-03T22:36:44Z: PLAYER CHATTED [ 3472855263] fgfhhidfhihid        (  460.1,    46.4,  1398.9)
+  zzzzzzz
+2022-10-03T22:36:44Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  459.6,    46.2,  1398.2)
+  yeah im south afrika 
+2022-10-03T22:36:46Z: PLAYER CHATTED [ 3472855263] fgfhhidfhihid        (  460.1,    46.4,  1398.9)
+  zzzzzzzzzzzzzz
+2022-10-03T22:36:46Z: PLAYER CHATTED [ 1678889690] J8N_JON              (  457.3,    46.8,  1402.4)
+  Yes sr
+2022-10-03T22:36:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (  463.4,    47.4,  1405.6)
+  We're urbexing!
+2022-10-03T22:36:48Z: PLAYER CHATTED [ 3472855263] fgfhhidfhihid        (  460.1,    46.4,  1398.9)
+  zzzzzzz
+2022-10-03T22:36:49Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 (  459.1,    46.5,  1404.0)
+  CRIA DA FAVELA
+2022-10-03T22:36:50Z: PLAYER CHATTED [ 3472855263] fgfhhidfhihid        (  460.1,    46.4,  1398.9)
+  zzzzzzzzzzzzz
+2022-10-03T22:36:50Z: PLAYER CHATTED [ 1678889690] J8N_JON              (  457.3,    46.8,  1402.4)
+   Português po
+2022-10-03T22:36:51Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  459.6,    46.2,  1398.2)
+  and im also sweden
+2022-10-03T22:36:51Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 (  459.1,    46.5,  1404.0)
+  KKKKKKKKKKKKKK
+2022-10-03T22:36:55Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  459.6,    46.2,  1398.2)
+  and denmark
+2022-10-03T22:36:56Z: PLAYER CHATTED [ 1678889690] J8N_JON              (  457.3,    46.8,  1402.4)
+   KKKKKKKKKKKKKKK
+2022-10-03T22:36:57Z: PLAYER CHATTED [ 3472855263] fgfhhidfhihid        (  460.1,    46.4,  1398.9)
+  zzzzzzzzzzzzzzzzzzzzz
+2022-10-03T22:36:59Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 (  459.1,    46.5,  1404.0)
+  kkkkkkkkkk
+2022-10-03T22:37:03Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 (  459.1,    46.5,  1404.0)
+  eae fi
+2022-10-03T22:37:05Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  460.7,    46.2,  1397.9)
+  my little baby
+2022-10-03T22:37:06Z: PLAYER CHATTED [ 2960611640] Jamarticama          (  561.3,   -19.4,  1279.5)
+  🍩
+2022-10-03T22:37:08Z: PLAYER CHATTED [ 1678889690] J8N_JON              (  456.0,    46.8,  1400.5)
+   Valeu maloka KAKAKA
+2022-10-03T22:37:11Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  460.7,    46.2,  1397.9)
+  we sould do a dna test
+2022-10-03T22:37:12Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 (  458.4,    46.5,  1403.9)
+  kkkkkkkkkk
+2022-10-03T22:37:13Z: PLAYER CHATTED [ 1678889690] J8N_JON              (  456.0,    46.8,  1400.5)
+   SP?
+2022-10-03T22:37:16Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  460.7,    46.2,  1397.9)
+  to see who the dad is
+2022-10-03T22:37:20Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 (  458.4,    46.5,  1403.9)
+  camisa no ### da #######
+2022-10-03T22:37:22Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 (  458.4,    46.5,  1403.9)
+  kkkkk
+2022-10-03T22:37:27Z: PLAYER CHATTED [ 1678889690] J8N_JON              (  455.9,    46.8,  1400.6)
+  Tô ### AKKAKAKA
+2022-10-03T22:37:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (  462.1,    47.4,  1401.9)
+  * takes DNA *
+2022-10-03T22:37:35Z: PLAYER CHATTED [ 1678889690] J8N_JON              (  455.9,    46.8,  1400.6)
+  RJ aq pae
+2022-10-03T22:37:35Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 (  458.4,    46.5,  1403.9)
+  eu entrei aqui para fazer Rp com os gringo de prisão
+2022-10-03T22:37:41Z: PLAYER CHATTED [    1630228] VisualPlugin         (  458.6,    47.4,  1409.8)
+  * eats it *
+2022-10-03T22:37:43Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 (  458.4,    46.5,  1403.9)
+  mas paréce que eu tô em cima do této
+2022-10-03T22:37:48Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  460.7,    46.2,  1397.9)
+  .
+2022-10-03T22:37:50Z: PLAYER CHATTED [ 1678889690] J8N_JON              (  455.9,    46.8,  1400.6)
+   Daora mais nem flo inglês akakakak
+2022-10-03T22:37:54Z: PLAYER CHATTED [ 3472855263] fgfhhidfhihid        (  460.1,    46.4,  1398.7)
+  zzzzzzzzzzzzzzz
+2022-10-03T22:37:56Z: PLAYER CHATTED [    1630228] VisualPlugin         (  459.1,    47.4,  1408.1)
+  * uses plugin anatomy to determine origins *
+2022-10-03T22:37:57Z: PLAYER CHATTED [ 1678889690] J8N_JON              (  455.9,    46.8,  1400.6)
+  vir por vir msm
+2022-10-03T22:37:58Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 (  458.4,    46.5,  1403.9)
+  eu falo todas as linguas.
+2022-10-03T22:37:59Z: PLAYER CHATTED [ 3472855263] fgfhhidfhihid        (  460.1,    46.4,  1398.7)
+  zzzzzzzzzzzzzzzzzzz
+2022-10-03T22:38:01Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 (  458.4,    46.5,  1403.9)
+  sabe como
+2022-10-03T22:38:01Z: PLAYER CHATTED [ 3472855263] fgfhhidfhihid        (  460.1,    46.4,  1398.7)
+  zzzzzzzzzzzzzzzzz
+2022-10-03T22:38:03Z: PLAYER CHATTED [ 3472855263] fgfhhidfhihid        (  460.1,    46.4,  1398.7)
+  zzzzzzzzzzzzzz
+2022-10-03T22:38:05Z: PLAYER ADDED   [ 2757323812] Ellatray12
+2022-10-03T22:38:05Z: PLAYER CHATTED [ 1678889690] J8N_JON              (  455.9,    46.8,  1400.6)
+  cm?
+2022-10-03T22:38:06Z: PLAYER CHATTED [ 3472855263] fgfhhidfhihid        (  460.1,    46.4,  1398.7)
+  zzzzzzzzzzzzzzzz
+2022-10-03T22:38:06Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  460.7,    46.2,  1397.9)
+  i need to text andre jus to be sure
+2022-10-03T22:38:08Z: PLAYER CHATTED [ 3472855263] fgfhhidfhihid        (  461.7,    46.4,  1399.3)
+  zzzzzzzzzzzzz
+2022-10-03T22:38:09Z: PLAYER CHATTED [    1630228] VisualPlugin         (  462.2,    47.4,  1403.7)
+  I know who the dad is!
+2022-10-03T22:38:10Z: PLAYER CHATTED [ 1678889690] J8N_JON              (  455.9,    46.8,  1400.6)
+  cm?
+2022-10-03T22:38:10Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 (  458.4,    46.5,  1403.9)
+  tradutor
+2022-10-03T22:38:11Z: PLAYER CHATTED [ 3472855263] fgfhhidfhihid        (  464.0,    46.4,  1397.4)
+  zzzzzzzzzzzzzzzzzzzz
+2022-10-03T22:38:13Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  463.1,    46.2,  1397.2)
+  WHO
+2022-10-03T22:38:15Z: PLAYER CHATTED [ 3472855263] fgfhhidfhihid        (  462.1,    46.4,  1399.4)
+  zzzzzzzzzzzzzzzzzz
+2022-10-03T22:38:19Z: PLAYER CHATTED [    1630228] VisualPlugin         (  462.2,    47.4,  1403.7)
+  THE DAD'S NAME IS "tijsgiosjiogjsdiojhsdho".
+2022-10-03T22:38:19Z: PLAYER CHATTED [ 3472855263] fgfhhidfhihid        (  462.1,    46.4,  1399.4)
+  huh?
+2022-10-03T22:38:23Z: PLAYER CHATTED [ 1678889690] J8N_JON              (  455.9,    46.8,  1400.6)
+   ah sla mais demora
+2022-10-03T22:38:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (  461.3,    47.4,  1403.1)
+  I repeat:
+2022-10-03T22:38:27Z: PLAYER CHATTED [ 1678889690] J8N_JON              (  455.9,    46.8,  1400.6)
+  gst mt n
+2022-10-03T22:38:30Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 (  456.1,    46.5,  1404.5)
+  pc devagar demora mesmo kkkk
+2022-10-03T22:38:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (  461.3,    47.4,  1403.1)
+  The dad's name is 'HASH'.
+2022-10-03T22:38:37Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 (  456.1,    46.5,  1404.5)
+  o meu nem é gamer :'D
+2022-10-03T22:38:37Z: PLAYER ADDED   [ 1141057040] Aquacortesa
+2022-10-03T22:38:40Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  462.2,    46.2,  1398.5)
+  uh huh...
+2022-10-03T22:38:44Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  462.2,    46.2,  1398.5)
+  SHHH
+2022-10-03T22:38:45Z: PLAYER CHATTED [ 1678889690] J8N_JON              (  455.9,    46.8,  1400.6)
+  o meu é ####### kakaka
+2022-10-03T22:38:45Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 (  456.1,    46.5,  1404.5)
+  nem pisca pisca tem kkkkkkk
+2022-10-03T22:38:50Z: PLAYER CHATTED [ 3472855263] fgfhhidfhihid        (  461.2,    46.4,  1398.1)
+  zzzzzzzzzzzz
+2022-10-03T22:38:56Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  462.1,    46.2,  1397.7)
+  were tryna find yo #####
+2022-10-03T22:38:57Z: PLAYER CHATTED [ 1678889690] J8N_JON              (  455.9,    46.8,  1400.6)
+   sou pobre tbm po
+2022-10-03T22:38:58Z: PLAYER CHATTED [ 2757323812] Ellatray12           (  463.5,    46.7,  1400.1)
+  hello
+2022-10-03T22:39:03Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 (  453.6,    46.5,  1397.8)
+  tô ligado kkkk
+2022-10-03T22:39:06Z: PLAYER CHATTED [ 2389847994] Kaykayqueen04        (  466.4,    46.5,  1399.6)
+  Hi
+2022-10-03T22:39:07Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 (  453.6,    46.5,  1397.8)
+  melhor notebook do que nada.
+2022-10-03T22:39:09Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 (  452.9,    46.5,  1398.9)
+  concorda
+2022-10-03T22:39:09Z: PLAYER CHATTED [ 3472855263] fgfhhidfhihid        (  461.2,    46.4,  1398.1)
+  -falls asleep-
+2022-10-03T22:39:10Z: PLAYER ADDED   [ 1399360553] WolfBoyNathion9
+2022-10-03T22:39:10Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  462.1,    46.2,  1397.7)
+  hello
+2022-10-03T22:39:14Z: PLAYER CHATTED [ 1678889690] J8N_JON              (  455.9,    46.8,  1400.6)
+  claro claro
+2022-10-03T22:39:17Z: PLAYER CHATTED [ 1678889690] J8N_JON              (  455.9,    46.8,  1400.6)
+  smp
+2022-10-03T22:39:21Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 (  453.0,    46.5,  1398.8)
+  bora falar em ingles, por que os cara deve tá achando que nos tá falando grego.
+2022-10-03T22:39:22Z: PLAYER CHATTED [ 1141057040] Aquacortesa          (  185.5,    96.0,  1207.9)
+  Lol
+2022-10-03T22:39:24Z: PLAYER ADDED   [  887531448] Rare_Vin
+2022-10-03T22:39:26Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 (  454.5,    46.5,  1398.3)
+  but
+2022-10-03T22:39:28Z: PLAYER CHATTED [ 1678889690] J8N_JON              (  455.9,    46.8,  1400.6)
+  akakak
+2022-10-03T22:39:29Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 (  458.4,    46.5,  1398.5)
+  here a prison?
+2022-10-03T22:39:29Z: PLAYER CHATTED [ 1141057040] Aquacortesa          (  586.3,   120.7,  1334.7)
+  What in the glitch
+2022-10-03T22:39:32Z: PLAYER CHATTED [ 1678889690] J8N_JON              (  455.9,    46.8,  1400.6)
+  blz
+2022-10-03T22:39:38Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  462.1,    46.2,  1397.7)
+  no this dudes just having fun
+2022-10-03T22:39:40Z: PLAYER REMOVED [ 2757323812] Ellatray12
+2022-10-03T22:39:40Z: PLAYER ADDED   [ 3780402930] ICETIGER1561
+2022-10-03T22:39:42Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  462.1,    46.2,  1397.7)
+  and i #### # #####
+2022-10-03T22:39:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (  365.5,    47.4,  1301.4)
+  The glitch is mine.
+2022-10-03T22:39:44Z: PLAYER ADDED   [ 1766669866] MagicalTheSeal
+2022-10-03T22:39:46Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 (  459.8,    46.5,  1400.6)
+  small person . -
+2022-10-03T22:39:47Z: PLAYER ADDED   [ 3748482307] firecheetah130
+2022-10-03T22:39:50Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  462.1,    46.2,  1397.7)
+  HUH
+2022-10-03T22:39:53Z: PLAYER CHATTED [ 1678889690] J8N_JON              (  455.9,    46.8,  1400.6)
+  No speak inglish sorry 
+2022-10-03T22:39:56Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  462.1,    46.2,  1397.7)
+  #################
+2022-10-03T22:40:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (  454.5,    47.4,  1410.1)
+  ¿Hablan español?
+2022-10-03T22:40:00Z: CHRCTER ADDED  [ 1399360553] WolfBoyNathion9      ( 1004.0,   -12.9,  1626.0)
+2022-10-03T22:40:02Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  462.1,    46.2,  1397.7)
+  FIST FIGHT
+2022-10-03T22:40:04Z: PLAYER CHATTED [ 1141057040] Aquacortesa          (  453.6,    47.5,  1394.5)
+  Hablo español
+2022-10-03T22:40:05Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  462.1,    46.2,  1397.7)
+  BABY INVOLVED 
+2022-10-03T22:40:06Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 (  452.4,    46.5,  1398.9)
+  . - -
+2022-10-03T22:40:08Z: PLAYER REMOVED [  887531448] Rare_Vin
+2022-10-03T22:40:10Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 (  452.4,    46.5,  1398.9)
+  Hola como estas?
+2022-10-03T22:40:16Z: PLAYER CHATTED [ 1678889690] J8N_JON              (  458.8,    46.8,  1402.2)
+   Desisto akakaka
+2022-10-03T22:40:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (  424.8,    47.4,  1243.6)
+  Bien.
+2022-10-03T22:40:17Z: PLAYER REMOVED [ 1399360553] WolfBoyNathion9
+2022-10-03T22:40:17Z: PLAYER CHATTED [ 2389847994] Kaykayqueen04        (  462.7,    46.5,  1400.5)
+  I’ll take the baby
+2022-10-03T22:40:17Z: PLAYER CHATTED [ 1141057040] Aquacortesa          (  452.9,    47.5,  1394.6)
+  Bien y tu
+2022-10-03T22:40:18Z: PLAYER ADDED   [ 1399360553] WolfBoyNathion9
+2022-10-03T22:40:19Z: PLAYER CHATTED [ 1678889690] J8N_JON              (  458.8,    46.8,  1402.2)
+  vlw mn
+2022-10-03T22:40:21Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  461.2,    46.2,  1397.1)
+  #### wat in the spanish
+2022-10-03T22:40:21Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 (  453.3,    46.5,  1398.1)
+  estoy bien
+2022-10-03T22:40:27Z: PLAYER CHATTED [ 3748482307] firecheetah130       (  420.1,    47.0,  1294.4)
+  stop
+2022-10-03T22:40:29Z: PLAYER CHATTED [ 1141057040] Aquacortesa          (  454.6,    47.5,  1393.4)
+  K bueno
+2022-10-03T22:40:30Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  461.2,    46.2,  1397.1)
+  hola soy dora
+2022-10-03T22:40:31Z: PLAYER CHATTED [    1630228] VisualPlugin         (  409.6,    47.5,  1304.6)
+  Sigo volando y volando.
+2022-10-03T22:40:31Z: PLAYER REMOVED [ 1678889690] J8N_JON
+2022-10-03T22:40:33Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  461.2,    46.2,  1397.1)
+  thats all i know
+2022-10-03T22:40:34Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 (  453.3,    46.5,  1398.1)
+  ###### pelo mi amigo
+2022-10-03T22:40:37Z: PLAYER CHATTED [ 2389847994] Kaykayqueen04        (  460.9,    46.5,  1400.6)
+  I’m boots
+2022-10-03T22:40:45Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  461.2,    46.2,  1397.1)
+  oh i also know like amore
+2022-10-03T22:40:45Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 (  454.2,    46.5,  1398.5)
+  ele não sabe ###### espanol.
+2022-10-03T22:40:52Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  461.2,    46.2,  1397.1)
+  my old friend called me that
+2022-10-03T22:40:54Z: PLAYER CHATTED [ 1141057040] Aquacortesa          (  454.6,    47.5,  1393.4)
+  Ohh esta bien
+2022-10-03T22:40:56Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  461.2,    46.2,  1397.1)
+  he never told me what it meant
+2022-10-03T22:41:02Z: PLAYER CHATTED [ 1141057040] Aquacortesa          (  454.6,    47.5,  1393.4)
+  Portugués?
+2022-10-03T22:41:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (  447.3,    47.4,  1375.9)
+  Hay varias personas que hablan la brasiliera,
+2022-10-03T22:41:04Z: PLAYER CHATTED [ 2389847994] Kaykayqueen04        (  458.1,    46.5,  1399.7)
+  It means love
+2022-10-03T22:41:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (  447.3,    47.4,  1375.9)
+  Pero yo no.
+2022-10-03T22:41:11Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  461.2,    46.2,  1397.1)
+  oh
+2022-10-03T22:41:12Z: PLAYER CHATTED [ 3780402930] ICETIGER1561         (  447.3,    46.7,  1376.8)
+  stop
+2022-10-03T22:41:13Z: PLAYER REMOVED [ 1766669866] MagicalTheSeal
+2022-10-03T22:41:14Z: PLAYER ADDED   [ 1766669866] MagicalTheSeal
+2022-10-03T22:41:15Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 (  552.2,   -14.5,  1288.5)
+  . -
+2022-10-03T22:41:19Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  461.2,    46.2,  1397.1)
+  #### thats why he was so mad sabhahahshdsa
+2022-10-03T22:41:20Z: PLAYER CHATTED [ 1141057040] Aquacortesa          (  448.6,    47.5,  1386.0)
+  Yo entieno un poquito portugués 
+2022-10-03T22:41:25Z: PLAYER CHATTED [ 3871038100] ContaTemporaria02524 (  546.8,   -19.7,  1289.6)
+  eu sou daltônico caramba
+2022-10-03T22:41:29Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  456.2,    46.2,  1393.3)
+  #####
+2022-10-03T22:41:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (  446.3,    47.4,  1389.9)
+  Quizás que estoy de acuerdo.
+2022-10-03T22:41:42Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  456.2,    46.2,  1393.3)
+  aight imma go to another partty
+2022-10-03T22:41:48Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -153.1,   370.7,  2037.1)
+  Take care"
+2022-10-03T22:41:48Z: PLAYER CHATTED [ 2389847994] Kaykayqueen04        (  451.1,    46.5,  1394.0)
+  Ok bye
+2022-10-03T22:41:49Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  456.2,    46.2,  1393.3)
+  bc i cant live in this spanish mess
+2022-10-03T22:41:54Z: PLAYER REMOVED [ 3871038100] ContaTemporaria02524
+2022-10-03T22:41:54Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  455.4,    46.2,  1391.6)
+  bye child
+2022-10-03T22:42:06Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  455.4,    46.2,  1391.6)
+  BYE WEIRD BLUE CAT THING
+2022-10-03T22:42:07Z: PLAYER REMOVED [ 3780402930] ICETIGER1561
+2022-10-03T22:42:10Z: PLAYER CHATTED [    1630228] VisualPlugin         (  452.8,    47.4,  1383.8)
+  I'm a plugin.
+2022-10-03T22:42:10Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  455.4,    46.2,  1391.6)
+  bye bye landyn
+2022-10-03T22:42:16Z: PLAYER CHATTED [ 1466566071] Cupcake_girl857      (  455.4,    46.2,  1391.6)
+  yeah bye plugin
+2022-10-03T22:42:19Z: PLAYER REMOVED [ 1766669866] MagicalTheSeal
+2022-10-03T22:42:22Z: PLAYER CHATTED [ 3472855263] fgfhhidfhihid        (  451.1,    46.7,  1389.9)
+  #############
+2022-10-03T22:42:23Z: PLAYER REMOVED [ 1466566071] Cupcake_girl857
+2022-10-03T22:42:26Z: PLAYER REMOVED [ 3748482307] firecheetah130
+2022-10-03T22:42:27Z: PLAYER REMOVED [ 2960611640] Jamarticama
+2022-10-03T22:42:29Z: PLAYER REMOVED [ 1141057040] Aquacortesa
+2022-10-03T22:42:31Z: PLAYER ADDED   [ 1141057040] Aquacortesa
+2022-10-03T22:42:35Z: PLAYER REMOVED [ 1399360553] WolfBoyNathion9
+2022-10-03T22:42:56Z: PLAYER CHATTED [ 2389847994] Kaykayqueen04        (  621.3,   -19.9,  1446.0)
+  Oop
+2022-10-03T22:43:12Z: PLAYER CHATTED [ 1141057040] Aquacortesa          (-1343.1,   396.3,  1297.1)
+  Hola
+2022-10-03T22:43:34Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -377.1,   613.0,   956.0)
+  ¿Como piensas como vuelo?
+2022-10-03T22:43:46Z: PLAYER CHATTED [ 1141057040] Aquacortesa          ( -544.3,  1452.2,  1032.9)
+  Con un glitch
+2022-10-03T22:43:55Z: PLAYER CHATTED [ 2389847994] Kaykayqueen04       
+  ###
+2022-10-03T22:44:10Z: PLAYER ADDED   [ 3685773947] HypnagogicArch
+2022-10-03T22:44:16Z: CHRCTER ADDED  [ 3685773947] HypnagogicArch       ( 1050.1,   -12.6,  1702.2)
+2022-10-03T22:44:17Z: PLAYER REMOVED [ 3472855263] fgfhhidfhihid
+2022-10-03T22:44:19Z: PLAYER CHATTED [    1630228] VisualPlugin         (  236.0,   -20.0,   904.3)
+  Con mis propios scripts, sí.
+2022-10-03T22:44:26Z: PLAYER CHATTED [ 1141057040] Aquacortesa          (  279.8,   371.0,   978.3)
+  Ahh ya
+2022-10-03T22:44:32Z: CHRCTER ADDED  [ 2389847994] Kaykayqueen04        ( 1044.0,   -12.7,  1705.3)
+2022-10-03T22:44:38Z: CHRCTER ADDED  [ 3685773947] HypnagogicArch       (  997.3,   -12.7,  1695.8)
+2022-10-03T22:44:41Z: PLAYER CHATTED [ 2389847994] Kaykayqueen04        ( 1044.2,   -18.9,  1699.4)
+  Oop
+2022-10-03T22:44:41Z: PLAYER CHATTED [    1630228] VisualPlugin         (  279.9,   370.4,   977.4)
+  Comunmente se llaman hacks.
+2022-10-03T22:44:46Z: PLAYER CHATTED [ 2389847994] Kaykayqueen04        ( 1033.9,   -18.9,  1700.3)
+  Hi
+2022-10-03T22:44:52Z: PLAYER CHATTED [ 1141057040] Aquacortesa          (  339.4,   370.8,   999.1)
+  Yo se haha
+2022-10-03T22:44:57Z: PLAYER CHATTED [ 3685773947] HypnagogicArch       ( 1036.5,   -18.8,  1704.9)
+  Why was my corpse there
+2022-10-03T22:45:02Z: PLAYER CHATTED [ 2389847994] Kaykayqueen04        ( 1040.3,   -19.0,  1701.9)
+  Idk
+2022-10-03T22:45:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -90.0,   356.0,  1038.8)
+  ¿Dónda volamos?
+2022-10-03T22:45:05Z: PLAYER CHATTED [ 2389847994] Kaykayqueen04        ( 1040.3,   -19.0,  1701.9)
+  :)
+2022-10-03T22:45:10Z: PLAYER CHATTED [ 1141057040] Aquacortesa          ( -228.2,   -19.4,  1480.2)
+  Hmm
+2022-10-03T22:45:10Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -227.6,   -19.6,  1479.1)
+  *A dónda.
+2022-10-03T22:45:14Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -262.5,   -19.0,  1591.4)
+  *Dónde
+2022-10-03T22:45:28Z: PLAYER CHATTED [ 1141057040] Aquacortesa          (-1032.1,   403.0,   586.1)
+  A la isla privada?
+2022-10-03T22:45:35Z: PLAYER ADDED   [ 1700175728] keepupwithmaniqeen
+2022-10-03T22:45:42Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4234.6,     1.7,  5155.9)
+  ¿Aquí está?
+2022-10-03T22:45:42Z: PLAYER CHATTED [ 1141057040] Aquacortesa          ( 4220.1,     2.2,  5157.2)
+  Esta es?
+2022-10-03T22:45:46Z: PLAYER CHATTED [ 2389847994] Kaykayqueen04       
+  Hi
+2022-10-03T22:45:50Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4086.6,     1.7,  5229.3)
+  No sé.
+2022-10-03T22:46:03Z: PLAYER CHATTED [ 1141057040] Aquacortesa          ( 4085.8,     2.2,  5228.6)
+  Yo vi una isla cuando estabamos arriba
+2022-10-03T22:46:08Z: PLAYER REMOVED [ 3685773947] HypnagogicArch
+2022-10-03T22:46:08Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4086.6,     1.7,  5229.3)
+  No jueguía RoVille tanto.
+2022-10-03T22:46:11Z: PLAYER REMOVED [ 1700175728] keepupwithmaniqeen
+2022-10-03T22:46:29Z: PLAYER REMOVED [ 2389847994] Kaykayqueen04
+2022-10-03T22:46:40Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -183.7,   -12.7, -2245.2)
+  ¿Esta?
+2022-10-03T22:46:47Z: PLAYER CHATTED [ 1141057040] Aquacortesa          ( -133.7,   -10.5, -2254.9)
+  Noo 
+2022-10-03T22:47:01Z: PLAYER CHATTED [ 1141057040] Aquacortesa          ( 5170.4,   316.8,  4065.6)
+  Creeo que esta afuera del map entonces
+2022-10-03T22:47:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (-7316.0,   952.8,  3172.0)
+  No la veo.
+2022-10-03T22:47:24Z: PLAYER ADDED   [ 3705861434] AlexisTj2012
+2022-10-03T22:47:29Z: PLAYER CHATTED [ 1141057040] Aquacortesa          ( 6166.2,   997.8,  6467.0)
+  Estoy mirando la mapa ahor
+2022-10-03T22:47:32Z: PLAYER CHATTED [ 1141057040] Aquacortesa          ( 5130.5,   819.4,  6974.9)
+  Ahora
+2022-10-03T22:48:06Z: PLAYER CHATTED [ 3705861434] AlexisTj2012        
+  where am i
+2022-10-03T22:48:14Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -178.7,   -11.3, -2260.7)
+  Solamente encontré esta isla.
+2022-10-03T22:48:18Z: PLAYER CHATTED [ 1141057040] Aquacortesa          ( -177.9,   -10.6, -2260.4)
+  Se domde esta
+2022-10-03T22:48:24Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -178.7,   -11.3, -2260.7)
+  You're in a prison roleplay party.
+2022-10-03T22:48:33Z: PLAYER CHATTED [ 1141057040] Aquacortesa          ( -173.8,   -10.3, -2255.8)
+  Al lado del rocket 
+2022-10-03T22:48:33Z: PLAYER CHATTED [ 3705861434] AlexisTj2012        
+  ids whui #####
+2022-10-03T22:48:46Z: PLAYER CHATTED [ 3705861434] AlexisTj2012         (  957.3,   -21.0,  1746.8)
+  ids theu #####
+2022-10-03T22:49:02Z: PLAYER CHATTED [ 1141057040] Aquacortesa          ( 4485.2,    10.9,  3972.9)
+  A la derecha
+2022-10-03T22:49:08Z: PLAYER REMOVED [ 3705861434] AlexisTj2012
+2022-10-03T22:49:10Z: PLAYER CHATTED [ 1141057040] Aquacortesa          ( 4285.3,     2.1,  4909.7)
+  Aca
+2022-10-03T22:49:15Z: PLAYER CHATTED [ 1141057040] Aquacortesa          ( 5013.4,    63.9,  4601.9)
+  Pienso
+2022-10-03T22:49:31Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 5122.2,    46.4,  4572.7)
+  ¿Ya estamos?
+2022-10-03T22:49:38Z: PLAYER ADDED   [ 2996947824] Ajdahoodboi
+2022-10-03T22:49:39Z: PLAYER CHATTED [ 1141057040] Aquacortesa          ( 5121.4,    47.0,  4572.1)
+  Si fue esa izla
+2022-10-03T22:49:45Z: PLAYER CHATTED [ 1141057040] Aquacortesa          ( 5121.4,    47.0,  4572.1)
+  Al frente
+2022-10-03T22:50:06Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 3783.9,    -8.4,  4474.3)
+  Por este puente?
+2022-10-03T22:50:27Z: PLAYER CHATTED [ 1141057040] Aquacortesa          ( 4121.9,   -15.9,  4792.9)
+  Aca
+2022-10-03T22:50:35Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4162.6,     2.9,  5014.6)
+  Ah.
+2022-10-03T22:50:45Z: PLAYER REMOVED [ 2996947824] Ajdahoodboi
+2022-10-03T22:50:56Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4162.6,     2.9,  5014.6)
+  Creí que querrías volar a una isla más privada.
+2022-10-03T22:51:00Z: PLAYER CHATTED [ 1141057040] Aquacortesa          ( 4159.1,     1.8,  5034.3)
+  Es aca porque el map me enseña ### casas
+2022-10-03T22:51:14Z: PLAYER CHATTED [ 1141057040] Aquacortesa          ( 4154.1,     2.9,  5012.7)
+  Si queria pero no la encuentro
+2022-10-03T22:51:31Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4103.4,     9.3,  4968.9)
+  No hay ninguna casa en este servidor.
+2022-10-03T22:51:33Z: PLAYER CHATTED [ 1141057040] Aquacortesa          ( 4100.3,    14.9,  4971.6)
+  No se si es esta creo que si
+2022-10-03T22:51:37Z: PLAYER CHATTED [ 1141057040] Aquacortesa          ( 4100.3,    14.9,  4971.6)
+  Ah
+2022-10-03T22:51:42Z: PLAYER ADDED   [ 1625143051] Ede4meboto
+2022-10-03T22:52:01Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 3291.7,   -20.5,  4671.4)
+  El host nunca fue aquí, así que no la cargó la casa.
+2022-10-03T22:52:14Z: PLAYER ADDED   [ 3472855263] fgfhhidfhihid
+2022-10-03T22:52:15Z: PLAYER CHATTED [ 1141057040] Aquacortesa         
+  Okk
+2022-10-03T22:52:37Z: CHRCTER ADDED  [ 1625143051] Ede4meboto           ( 1047.6,   -18.1,  1706.7)
+2022-10-03T22:52:45Z: PLAYER REMOVED [ 1141057040] Aquacortesa
+2022-10-03T22:52:46Z: PLAYER ADDED   [ 1141057040] Aquacortesa
+2022-10-03T22:53:11Z: PLAYER ADDED   [ 2404904541] DarthNobody1
+2022-10-03T22:53:16Z: PLAYER ADDED   [ 1187574303] sasorrio2
+2022-10-03T22:53:39Z: PLAYER REMOVED [ 3472855263] fgfhhidfhihid
+2022-10-03T22:53:40Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -357.6,    -3.9,   160.1)
+  Tengo que ir.
+2022-10-03T22:53:47Z: PLAYER REMOVED [ 1187574303] sasorrio2
+2022-10-03T22:53:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1449.4,    14.7,   -95.3)
+  I'll have to go.
+2022-10-03T22:53:58Z: PLAYER CHATTED [ 1141057040] Aquacortesa          ( -379.4,    -3.7,   140.7)
+  Okk
+2022-10-03T22:54:01Z: PLAYER CHATTED [ 1141057040] Aquacortesa          ( -379.4,    -3.7,   140.7)
+  Bye
+2022-10-03T22:54:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1449.4,   -21.1,   -95.3)
+  Take care and cuidense!
+2022-10-03T22:54:06Z: PLAYER REMOVED [    1630228] VisualPlugin

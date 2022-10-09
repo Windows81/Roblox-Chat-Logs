@@ -1,0 +1,89 @@
+[    1630228] : [ 6100863281] RoVille Party - 2ea07dad-f456-265b-5723-0d80471c15a4
+2022-10-03T20:48:00Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-10-03T20:48:00Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-10-03T20:48:00Z: PLAYER ADDED   [ 3759693600] Duckie_starry
+2022-10-03T20:48:00Z: PLAYER ADDED   [ 2963675336] Bub_3492
+2022-10-03T20:48:00Z: PLAYER ADDED   [ 2480439499] Iris_moomlight
+2022-10-03T20:48:00Z: PLAYER ADDED   [ 2261412953] Puppydance_123
+2022-10-03T20:48:00Z: PLAYER ADDED   [ 3824733882] Kmpl201010
+2022-10-03T20:48:00Z: PLAYER ADDED   [ 3545112905] Thegymnastfleemaster
+2022-10-03T20:48:00Z: PLAYER ADDED   [ 3918592906] fofis_cre3tive
+2022-10-03T20:48:00Z: PLAYER ADDED   [ 3930375286] Andres10el9pro086
+2022-10-03T20:48:00Z: PLAYER ADDED   [ 1516351855] OpalSaphireBball
+2022-10-03T20:48:00Z: PLAYER ADDED   [ 1930431056] lul_baybeeh
+2022-10-03T20:48:00Z: PLAYER ADDED   [ 1950117784] kgw12390
+2022-10-03T20:48:00Z: PLAYER ADDED   [ 3565885998] suuiiiiiii12345
+2022-10-03T20:48:00Z: PLAYER ADDED   [ 3155681576] Chyhtyrrrrt
+2022-10-03T20:48:02Z: PLAYER CHATTED [ 3824733882] Kmpl201010           ( 1754.5,   -19.8,  3807.1)
+  i would like to be a worker
+2022-10-03T20:48:06Z: PLAYER CHATTED [ 2261412953] Puppydance_123       ( 1756.5,   -19.0,  3798.2)
+  Unfortunately we are not hiring at this moment because it is the nighttime 
+2022-10-03T20:48:07Z: PLAYER CHATTED [ 3930375286] Andres10el9pro086    ( 1706.5,   -19.5,  3760.5)
+  quieres estar conmigo
+2022-10-03T20:48:13Z: PLAYER CHATTED [ 2261412953] Puppydance_123       ( 1756.5,   -19.0,  3798.2)
+  Please come at 7am
+2022-10-03T20:48:15Z: PLAYER ADDED   [ 3906653098] grttdttt
+2022-10-03T20:48:17Z: PLAYER CHATTED [ 2963675336] Bub_3492             ( 1751.8,   -19.8,  3805.8)
+  Ok
+2022-10-03T20:48:21Z: PLAYER CHATTED [ 1930431056] lul_baybeeh          ( 1734.0,   -19.0,  3745.5)
+  is anyone awake
+2022-10-03T20:48:23Z: PLAYER REMOVED [ 3824733882] Kmpl201010
+2022-10-03T20:49:05Z: PLAYER REMOVED [ 3918592906] fofis_cre3tive
+2022-10-03T20:49:10Z: PLAYER CHATTED [ 1930431056] lul_baybeeh          ( 1737.3,   -18.8,  3745.4)
+  waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+2022-10-03T20:49:17Z: PLAYER CHATTED [ 2480439499] Iris_moomlight       ( 1751.1,    -7.8,  3810.5)
+  Ok everyone here?
+2022-10-03T20:49:21Z: PLAYER CHATTED [ 2963675336] Bub_3492             ( 1748.5,   -21.5,  3805.9)
+  Waaaaaaaaaaaaaaaaaa
+2022-10-03T20:49:22Z: PLAYER CHATTED [ 1930431056] lul_baybeeh          ( 1737.3,   -18.8,  3745.4)
+  waaaaaaaaaaaaaaaaaaaaaaaaaaaa
+2022-10-03T20:49:24Z: PLAYER CHATTED [ 2261412953] Puppydance_123       ( 1744.9,   -19.8,  3801.2)
+  We aren’t excepting anyone right now
+2022-10-03T20:49:26Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster ( 1750.1,    -8.5,  3800.3)
+  i think so...
+2022-10-03T20:49:33Z: PLAYER CHATTED [ 2261412953] Puppydance_123       ( 1745.6,   -19.8,  3802.6)
+  You can wait till 7 to be accepted
+2022-10-03T20:49:44Z: PLAYER CHATTED [ 2480439499] Iris_moomlight       ( 1752.5,    -7.8,  3810.5)
+  Group a and b leaders please put it in ur name 
+2022-10-03T20:49:50Z: PLAYER CHATTED [ 2963675336] Bub_3492             ( 1724.4,   -20.6,  3740.5)
+  Waaaaaaaaaaa
+2022-10-03T20:49:52Z: PLAYER REMOVED [ 1950117784] kgw12390
+2022-10-03T20:49:56Z: PLAYER ADDED   [ 3107258374] itsmenetdarragh20111
+2022-10-03T20:49:57Z: PLAYER CHATTED [ 2480439499] Iris_moomlight       ( 1752.5,    -7.8,  3810.5)
+  That ur that groups leader
+2022-10-03T20:50:04Z: PLAYER REMOVED [ 3565885998] suuiiiiiii12345
+2022-10-03T20:50:05Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster ( 1743.8,    -7.5,  3804.7)
+  im group B leader right?
+2022-10-03T20:50:10Z: PLAYER CHATTED [ 2480439499] Iris_moomlight       ( 1747.4,    -7.8,  3808.2)
+  Yes 
+2022-10-03T20:50:15Z: PLAYER REMOVED [ 3930375286] Andres10el9pro086
+2022-10-03T20:50:20Z: PLAYER CHATTED [ 2963675336] Bub_3492             ( 1748.8,    -9.5,  3808.0)
+  Waaaaaaaa
+2022-10-03T20:50:40Z: PLAYER CHATTED [ 2261412953] Puppydance_123       ( 1749.0,    -7.8,  3807.4)
+  Brooklyn please go to bed!
+2022-10-03T20:50:42Z: PLAYER CHATTED [ 1930431056] lul_baybeeh          ( 1739.2,    -8.8,  3803.2)
+  im hungry
+2022-10-03T20:50:50Z: PLAYER CHATTED [ 2261412953] Puppydance_123       ( 1742.9,    -7.8,  3802.5)
+  Is it an emergency?
+2022-10-03T20:51:02Z: PLAYER CHATTED [ 2963675336] Bub_3492             ( 1746.3,    -7.6,  3808.2)
+  Don't want bottle
+2022-10-03T20:51:08Z: PLAYER CHATTED [ 1930431056] lul_baybeeh          ( 1711.7,    -8.8,  3803.2)
+  im really hungry\
+2022-10-03T20:51:14Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster ( 1704.1,   -19.5,  3811.4)
+  get to bed little ones.
+2022-10-03T20:51:21Z: PLAYER CHATTED [ 2261412953] Puppydance_123       ( 1710.8,    -7.8,  3805.8)
+  Ok fine 
+2022-10-03T20:51:27Z: PLAYER CHATTED [ 2261412953] Puppydance_123       ( 1699.4,   -19.6,  3803.6)
+  Com with ke 
+2022-10-03T20:51:27Z: PLAYER CHATTED [ 2480439499] Iris_moomlight       ( 1704.0,   -19.8,  3812.6)
+  Whoosh
+2022-10-03T20:51:33Z: PLAYER CHATTED [ 2963675336] Bub_3492             ( 1700.4,   -19.6,  3825.6)
+  Giggles 
+2022-10-03T20:51:35Z: PLAYER CHATTED [ 2261412953] Puppydance_123       ( 1716.2,   -19.8,  3804.2)
+  Go ## #### ### I
+2022-10-03T20:51:41Z: PLAYER CHATTED [ 2480439499] Iris_moomlight       ( 1701.7,   -19.8,  3825.8)
+  :)
+2022-10-03T20:51:46Z: PLAYER CHATTED [ 2261412953] Puppydance_123       ( 1716.2,   -19.8,  3804.2)
+  Breakfast is in a little 
+2022-10-03T20:51:46Z: PLAYER ADDED   [ 3819177709] joshisjak3
+2022-10-03T20:51:49Z: PLAYER REMOVED [    1630228] VisualPlugin

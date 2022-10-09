@@ -1,0 +1,20 @@
+[    1630228] : [ 6100863281] RoVille Party - 011a9a7f-1d5c-0c8c-1760-fce2354f96c6
+2022-10-04T02:16:14Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-10-04T02:16:14Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-10-04T02:17:24Z: PLAYER ADDED   [ 3238115707] Thesusycrewmate
+2022-10-04T02:17:41Z: PLAYER CHATTED [ 3238115707] Thesusycrewmate     
+  hello
+2022-10-04T02:18:25Z: PLAYER CHATTED [ 3238115707] Thesusycrewmate      (  359.5,   -19.0,  1598.2)
+  im here
+2022-10-04T02:18:32Z: PLAYER CHATTED [    1630228] VisualPlugin         (  288.1,   -19.2,  1562.5)
+  I sèé you.
+2022-10-04T02:18:35Z: PLAYER CHATTED [ 3238115707] Thesusycrewmate      (  291.3,   -19.1,  1563.4)
+  hi
+2022-10-04T02:18:57Z: PLAYER CHATTED [ 3238115707] Thesusycrewmate      (  291.3,   -19.1,  1563.4)
+  where is the villige?
+2022-10-04T02:19:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (  288.1,   -19.2,  1562.5)
+  No idea.
+2022-10-04T02:19:13Z: PLAYER CHATTED [ 3238115707] Thesusycrewmate      (  291.3,   -19.1,  1563.4)
+  hmmmm
+2022-10-04T02:19:25Z: PLAYER CHATTED [ 3238115707] Thesusycrewmate      (  291.3,   -19.1,  1563.4)
+  i go get a car

@@ -1,0 +1,76 @@
+[    1630228] : [ 6100863281] RoVille Party - 9bedc0f9-7311-8fe0-b6ce-f08e852f898e
+2022-10-08T05:24:37Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-10-08T05:24:37Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-10-08T05:26:13Z: PLAYER ADDED   [ 2758783754] Princess_BummyOne
+2022-10-08T05:26:49Z: PLAYER REMOVED [ 2758783754] Princess_BummyOne
+2022-10-08T05:28:09Z: PLAYER ADDED   [ 1821215846] dixie091273
+2022-10-08T05:28:17Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2507.7,   -18.4,    44.2)
+  Welcome.
+2022-10-08T05:28:35Z: PLAYER CHATTED [ 1821215846] dixie091273          (-2505.6,   -19.7,    44.1)
+  o-o
+2022-10-08T05:28:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2509.2,   -19.2,    47.3)
+  ò.Ó
+2022-10-08T05:28:53Z: PLAYER REMOVED [ 1821215846] dixie091273
+2022-10-08T05:30:32Z: PLAYER ADDED   [ 1083611535] Hundenspelar33
+2022-10-08T05:31:17Z: PLAYER REMOVED [ 1083611535] Hundenspelar33
+2022-10-08T05:34:01Z: PLAYER ADDED   [ 3619292968] AMYLYN34
+2022-10-08T05:35:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2509.2,   -19.2,    47.3)
+  Hi.
+2022-10-08T05:35:19Z: PLAYER REMOVED [ 3619292968] AMYLYN34
+2022-10-08T05:49:39Z: PLAYER ADDED   [  125154721] Brazucareal
+2022-10-08T05:50:28Z: PLAYER CHATTED [  125154721] Brazucareal          (-2512.5,   -19.6,    44.4)
+  He;;p?
+2022-10-08T05:50:31Z: PLAYER CHATTED [  125154721] Brazucareal          (-2512.5,   -19.6,    44.4)
+  what's this
+2022-10-08T05:50:46Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2507.5,   -19.2,    44.7)
+  It's an advert for my showcase.
+2022-10-08T05:50:46Z: PLAYER CHATTED [  125154721] Brazucareal          (-2512.5,   -19.6,    47.3)
+  BRUH
+2022-10-08T05:51:02Z: PLAYER CHATTED [  125154721] Brazucareal          (-2524.9,   -19.6,    21.7)
+  alright
+2022-10-08T05:51:06Z: PLAYER CHATTED [  125154721] Brazucareal          (-2524.9,   -19.6,    21.7)
+  stop the spam
+2022-10-08T05:51:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2509.3,   -19.2,    41.8)
+  I'm sorry to say,
+2022-10-08T05:51:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2509.3,   -19.2,    41.8)
+  But is the spamming preventing you from doing anything important?
+2022-10-08T05:51:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2509.3,   -19.2,    41.8)
+  I'm on computer and am new to the game.
+2022-10-08T05:52:02Z: PLAYER CHATTED [  125154721] Brazucareal          (-2513.6,   -19.6,    44.0)
+  yesh dont spam
+2022-10-08T05:52:09Z: PLAYER REMOVED [  125154721] Brazucareal
+2022-10-08T06:01:53Z: PLAYER ADDED   [ 1920385799] bonitahere
+2022-10-08T06:02:24Z: PLAYER CHATTED [ 1920385799] bonitahere           (-2507.0,   -19.0,    42.1)
+  What is this
+2022-10-08T06:03:07Z: PLAYER REMOVED [ 1920385799] bonitahere
+2022-10-08T06:05:23Z: PLAYER ADDED   [ 3954357228] oak_ours
+2022-10-08T06:05:44Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2506.8,   -19.2,    42.8)
+  Hi.
+2022-10-08T06:05:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2507.7,   -19.2,    43.0)
+  I was AFK.
+2022-10-08T06:05:51Z: PLAYER CHATTED [ 3954357228] oak_ours             (-2509.1,   -21.4,    39.2)
+  hi
+2022-10-08T06:05:56Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2507.7,   -19.2,    43.0)
+  I'm advertising my hotel showcase.
+2022-10-08T06:06:03Z: PLAYER CHATTED [ 3954357228] oak_ours             (-2509.1,   -21.4,    39.2)
+  cool
+2022-10-08T06:06:38Z: PLAYER CHATTED [ 3954357228] oak_ours             (-2516.1,   -21.4,    43.8)
+  scary
+2022-10-08T06:06:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2511.1,   -19.2,    43.9)
+  Do you see the link by any chance?
+2022-10-08T06:06:53Z: PLAYER CHATTED [ 3954357228] oak_ours             (-2516.1,   -21.4,    43.8)
+  where
+2022-10-08T06:06:56Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2511.1,   -19.2,    43.9)
+  I think the way the room looks plays into my sense of humour.
+2022-10-08T06:07:04Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2513.2,   -19.2,    47.3)
+  On the wooden sign.
+2022-10-08T06:07:13Z: PLAYER CHATTED [ 3954357228] oak_ours             (-2516.5,   -21.3,    48.7)
+  yes
+2022-10-08T06:07:24Z: PLAYER ADDED   [ 3018926286] Roni_Kogon123
+2022-10-08T06:07:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2513.5,   -19.2,    47.8)
+  Welkhome in.
+2022-10-08T06:08:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2512.5,   -19.2,    46.9)
+  You khan do what you want in the Kubla Khan.
+2022-10-08T06:08:51Z: PLAYER REMOVED [ 3954357228] oak_ours
+2022-10-08T06:11:40Z: PLAYER REMOVED [ 3018926286] Roni_Kogon123
+2022-10-08T06:11:42Z: PLAYER REMOVED [    1630228] VisualPlugin

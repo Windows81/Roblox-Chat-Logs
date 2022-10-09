@@ -1,0 +1,56 @@
+[    1630228] : [ 9664467600] Craft-Blox 😀 😬 😁 😂 (Like Minecraft)  - 378ce770-94dc-4160-95f1-8ade93325196
+2022-10-04T07:07:30Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-10-04T07:07:30Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-10-04T07:07:30Z: PLAYER ADDED   [ 2224610982] Handsum_buggah808
+2022-10-04T07:07:30Z: PLAYER ADDED   [ 2866193254] kiaro220
+2022-10-04T07:07:30Z: PLAYER ADDED   [ 3883852990] jokez2131
+2022-10-04T07:07:41Z: PLAYER ADDED   [ 1842438511] beauqorr
+2022-10-04T07:08:40Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   180.0,     0.0)
+2022-10-04T07:09:27Z: CHRCTER ADDED  [ 2866193254] kiaro220             (    0.0,   103.0,     0.0)
+2022-10-04T07:10:38Z: PLAYER ADDED   [ 3182731885] erttttokgmbsdfkrio
+2022-10-04T07:11:00Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   180.0,     0.0)
+2022-10-04T07:11:26Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.0,     0.0)
+2022-10-04T07:12:24Z: CHRCTER ADDED  [ 1842438511] beauqorr             (    0.0,   103.0,     0.0)
+2022-10-04T07:12:24Z: PLAYER REMOVED [ 1842438511] beauqorr
+2022-10-04T07:17:39Z: PLAYER ADDED   [  530054368] ahyesyes
+2022-10-04T07:19:34Z: PLAYER ADDED   [ 1249292296] PumpkinChinaCat
+2022-10-04T07:19:52Z: PLAYER ADDED   [ 1705270099] JustHuman15
+2022-10-04T07:21:16Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   180.0,     0.0)
+2022-10-04T07:21:48Z: PLAYER CHATTED [ 2866193254] kiaro220             ( -279.1,   241.6,  -285.8)
+  ayudaaa
+2022-10-04T07:21:52Z: PLAYER CHATTED [ 2866193254] kiaro220             ( -279.1,   241.6,  -285.8)
+  me ########
+2022-10-04T07:21:55Z: PLAYER CHATTED [ 2866193254] kiaro220             ( -279.1,   241.6,  -285.8)
+  matan
+2022-10-04T07:21:59Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   180.0,     0.0)
+2022-10-04T07:22:53Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   180.0,     0.0)
+2022-10-04T07:22:59Z: PLAYER ADDED   [   40806466] coolrobloxian3434
+2022-10-04T07:23:16Z: CHRCTER ADDED  [  530054368] ahyesyes             (    0.0,   103.0,     0.0)
+2022-10-04T07:23:16Z: PLAYER CHATTED [ 2866193254] kiaro220             ( -302.3,   169.6,  -292.0)
+  vamoo
+2022-10-04T07:23:45Z: PLAYER REMOVED [   40806466] coolrobloxian3434
+2022-10-04T07:23:58Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   180.0,     0.0)
+2022-10-04T07:25:09Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   180.0,     0.0)
+2022-10-04T07:25:28Z: PLAYER REMOVED [ 3182731885] erttttokgmbsdfkrio
+2022-10-04T07:26:02Z: PLAYER ADDED   [ 3940013192] shohruzbec
+2022-10-04T07:27:25Z: CHRCTER ADDED  [ 2866193254] kiaro220             (    0.0,   103.0,     0.0)
+2022-10-04T07:27:49Z: PLAYER ADDED   [ 2621403701] PeppoMasho
+2022-10-04T07:27:51Z: PLAYER CHATTED [ 2866193254] kiaro220             ( -327.5,   166.6,  -317.3)
+  porfa basta
+2022-10-04T07:27:54Z: PLAYER CHATTED [ 2866193254] kiaro220             ( -327.5,   166.6,  -317.3)
+  ami me tardo mas que vos
+2022-10-04T07:27:58Z: PLAYER CHATTED [ 2866193254] kiaro220             ( -327.5,   166.6,  -317.3)
+  usar todo buscar
+2022-10-04T07:28:15Z: PLAYER CHATTED [ 2866193254] kiaro220             ( -327.5,   166.6,  -317.3)
+  a vos te gustaria que te roben y se rian de vos ?
+2022-10-04T07:28:28Z: PLAYER CHATTED [ 2866193254] kiaro220             ( -327.5,   166.6,  -317.3)
+  ami me tardo mas buscar las cosas
+2022-10-04T07:28:41Z: PLAYER CHATTED [ 2866193254] kiaro220             ( -327.5,   166.6,  -317.3)
+  me las devolves porfa?
+2022-10-04T07:29:08Z: PLAYER CHATTED [ 2866193254] kiaro220             ( -329.8,   166.6,  -307.7)
+  gracias :)
+2022-10-04T07:29:29Z: PLAYER CHATTED [ 2224610982] Handsum_buggah808    ( -309.5,   190.6,   -41.0)
+  i need ffood pleease
+2022-10-04T07:29:41Z: PLAYER CHATTED [ 2866193254] kiaro220             ( -329.7,   166.6,  -307.0)
+  muchas gracias
+2022-10-04T07:29:43Z: PLAYER REMOVED [    1630228] VisualPlugin

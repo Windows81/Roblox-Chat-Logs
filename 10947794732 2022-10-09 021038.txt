@@ -1,0 +1,104 @@
+[    1630228] : [10947794732] London Apartment Showcase - 9b9ae41e-f4fa-4a73-b010-7709face7cf2
+2022-10-09T02:10:38Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-10-09T02:10:38Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-10-09T02:10:38Z: PLAYER ADDED   [  177424228] CodedJimmy
+2022-10-09T02:10:38Z: PLAYER ADDED   [  271976081] DiscombobulatedJack
+2022-10-09T02:10:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     3.8,   -28.3)
+  Hiya.
+2022-10-09T02:10:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     3.8,   -28.3)
+  I came yesterdat.
+2022-10-09T02:10:49Z: PLAYER CHATTED [  177424228] CodedJimmy           (  -19.7,     2.4,     3.2)
+  howdy
+2022-10-09T02:10:55Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     3.8,   -28.3)
+  *Yesterday.
+2022-10-09T02:11:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (   34.7,     3.8,   -28.3)
+  I'm playing Roblox from a remote computer.
+2022-10-09T02:11:20Z: PLAYER CHATTED [  177424228] CodedJimmy           (    1.4,     2.3,   -42.3)
+  sounds fun
+2022-10-09T02:11:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (   28.3,     3.8,   -29.4)
+  I'm sat in the middle of an RV park!
+2022-10-09T02:11:49Z: PLAYER REMOVED [  177424228] CodedJimmy
+2022-10-09T02:13:31Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (   33.6,     2.9,   -21.2)
+  H
+2022-10-09T02:13:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (   17.5,     3.8,   -22.8)
+  Welcome to your game!
+2022-10-09T02:14:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (   17.5,     3.8,   -22.8)
+  I'm playing in Spanish and the UI boxes are truncating a lot of text.
+2022-10-09T02:14:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (    8.4,     3.8,   -22.6)
+  :cmds
+2022-10-09T02:15:36Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   42.8,     3.4,   -29.1)
+2022-10-09T02:16:21Z: PLAYER CHATTED [    1630228] VisualPlugin         (   31.1,     3.8,   -31.5)
+  I applied for Event Organiser.
+2022-10-09T02:16:37Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (   28.3,     2.9,   -26.0)
+  OUUU
+2022-10-09T02:16:38Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (   28.3,     2.9,   -26.0)
+  caps
+2022-10-09T02:16:40Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (   28.3,     2.9,   -26.0)
+  me too
+2022-10-09T02:16:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (    8.0,     3.8,   -27.7)
+  Did you record your video?
+2022-10-09T02:16:56Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (   12.9,     2.9,   -31.1)
+  interviewed
+2022-10-09T02:17:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (    8.0,     3.8,   -27.7)
+  My video was due on the 7th.
+2022-10-09T02:17:13Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (   12.2,     2.9,   -31.3)
+  yes
+2022-10-09T02:17:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (    8.0,     3.8,   -27.7)
+  Interviews are supposed to be in a few weeks for me
+2022-10-09T02:18:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (    8.0,     3.8,   -27.7)
+  When was the video due for you?
+2022-10-09T02:21:52Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (    8.1,     2.9,   -34.2)
+  i forgor
+2022-10-09T02:21:54Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (    8.1,     2.9,   -34.2)
+  few weeks aago tho
+2022-10-09T02:22:09Z: PLAYER CHATTED [    1630228] VisualPlugin         (    9.2,     3.8,   -27.9)
+  Makes sense.
+2022-10-09T02:22:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (    9.2,     3.8,   -27.9)
+  Did you receive an email after you sent the video?
+2022-10-09T02:23:11Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (    0.9,     2.9,   -23.0)
+  waiting next week
+2022-10-09T02:23:22Z: PLAYER CHATTED [    1630228] VisualPlugin         (   14.1,     3.8,   -20.1)
+  Nice!
+2022-10-09T02:23:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (    6.9,     3.8,   -26.0)
+  What do you hope to teach?
+2022-10-09T02:24:04Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (   -1.1,     2.9,   -23.6)
+  just some insights into
+2022-10-09T02:24:11Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (    8.6,     2.9,   -30.9)
+  some games
+2022-10-09T02:24:24Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (   -0.1,     2.5,   -54.7)
+  /communities
+2022-10-09T02:24:25Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (   -0.1,     2.5,   -54.7)
+  wbu?
+2022-10-09T02:24:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (    5.1,     3.5,   -27.0)
+  I'd like to know more.
+2022-10-09T02:24:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (    5.1,     3.5,   -27.0)
+  I said that I'd like to emphasise on teaching people to design core values for their games that reflect their personalities
+2022-10-09T02:24:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (    5.1,     3.5,   -27.0)
+  And their personal value sets.
+2022-10-09T02:25:15Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (   -2.0,     2.9,   -21.5)
+  thats pretty awesome
+2022-10-09T02:25:24Z: PLAYER CHATTED [    1630228] VisualPlugin         (    5.1,     3.5,   -27.0)
+  Thanks!
+2022-10-09T02:25:31Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (   -3.5,     2.9,   -21.8)
+  :D
+2022-10-09T02:25:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (    4.3,     3.8,   -23.9)
+  I'd like to discuss more about this!
+2022-10-09T02:25:52Z: PLAYER CHATTED [    1630228] VisualPlugin         (    4.3,     3.8,   -23.9)
+  Let's schedule a call!
+2022-10-09T02:26:38Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (   -4.4,     2.9,   -20.9)
+  oh that would be interesting! maybe sometime later :)
+2022-10-09T02:26:51Z: PLAYER CHATTED [    1630228] VisualPlugin         (    3.9,     3.2,   -28.5)
+  Any times that are good?
+2022-10-09T02:27:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (    3.9,     3.2,   -28.5)
+  It's only 19:26 for me.
+2022-10-09T02:27:07Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (   -1.8,     2.9,   -22.1)
+  not too sure, as im a bit busy atm
+2022-10-09T02:27:27Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (    3.7,     7.3,   -28.5)
+  in a call rn
+2022-10-09T02:27:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (    3.9,     3.2,   -28.5)
+  On ROblox?
+2022-10-09T02:27:31Z: PLAYER CHATTED [    1630228] VisualPlugin         (    3.9,     3.2,   -28.5)
+  Got it.
+2022-10-09T02:31:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (   15.7,     3.8,   -26.1)
+  I'll be òóf  for now.  Perhaps send me a message when you're off.!
+2022-10-09T02:31:59Z: PLAYER REMOVED [    1630228] VisualPlugin

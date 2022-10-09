@@ -1,0 +1,226 @@
+[    1630228] : [ 6100863281] RoVille Party - d809a35c-162e-45f6-6fbd-6a73852f898e
+2022-10-09T05:37:09Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-10-09T05:37:09Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-10-09T05:55:42Z: PLAYER ADDED   [ 1572535760] PuiYee2011
+2022-10-09T05:56:45Z: PLAYER REMOVED [ 1572535760] PuiYee2011
+2022-10-09T06:10:03Z: PLAYER ADDED   [ 2588741190] Dondurmanil
+2022-10-09T06:11:49Z: PLAYER REMOVED [ 2588741190] Dondurmanil
+2022-10-09T06:18:51Z: PLAYER ADDED   [ 1453231036] IsaBoosie
+2022-10-09T06:19:13Z: PLAYER ADDED   [ 1800475838] DivaSkai
+2022-10-09T06:19:16Z: PLAYER ADDED   [ 3528586714] Queenofthelibra
+2022-10-09T06:19:18Z: PLAYER ADDED   [ 3954357228] oak_ours
+2022-10-09T06:19:51Z: PLAYER REMOVED [ 1800475838] DivaSkai
+2022-10-09T06:19:52Z: PLAYER REMOVED [ 1453231036] IsaBoosie
+2022-10-09T06:20:06Z: PLAYER ADDED   [ 1474241035] alfunl
+2022-10-09T06:20:12Z: PLAYER REMOVED [ 3954357228] oak_ours
+2022-10-09T06:21:35Z: PLAYER REMOVED [ 1474241035] alfunl
+2022-10-09T06:26:06Z: PLAYER ADDED   [ 1887485304] shdcjnadvc
+2022-10-09T06:26:08Z: PLAYER ADDED   [ 1658324567] Gamer_maxyz
+2022-10-09T06:26:41Z: PLAYER ADDED   [ 1110745708] Lizzie_655
+2022-10-09T06:27:06Z: PLAYER CHATTED [ 1110745708] Lizzie_655           ( -150.7,   -19.8,  1484.5)
+  Uh
+2022-10-09T06:27:19Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -151.2,   -19.7,  1482.5)
+  Hi.
+2022-10-09T06:27:19Z: PLAYER CHATTED [ 1887485304] shdcjnadvc           ( -154.2,   -22.5,  1479.2)
+  momy
+2022-10-09T06:27:23Z: PLAYER CHATTED [ 1887485304] shdcjnadvc           ( -152.2,   -22.5,  1479.3)
+  i need milk
+2022-10-09T06:27:23Z: PLAYER CHATTED [ 1110745708] Lizzie_655           ( -149.6,   -19.8,  1478.6)
+  wha-
+2022-10-09T06:27:25Z: PLAYER CHATTED [ 1110745708] Lizzie_655           ( -149.8,   -19.8,  1478.4)
+  no
+2022-10-09T06:27:29Z: PLAYER CHATTED [ 1110745708] Lizzie_655           ( -148.9,   -19.8,  1478.7)
+  Hi
+2022-10-09T06:27:31Z: PLAYER CHATTED [ 1887485304] shdcjnadvc           ( -151.6,   -22.5,  1479.3)
+  gimme sum
+2022-10-09T06:27:32Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -151.2,   -19.7,  1482.5)
+  You khan come to the Kubla Khan.
+2022-10-09T06:27:36Z: PLAYER CHATTED [ 1887485304] shdcjnadvc           ( -150.4,   -22.5,  1479.5)
+  *slurpsssss
+2022-10-09T06:27:41Z: PLAYER CHATTED [ 1110745708] Lizzie_655           ( -148.7,   -19.8,  1479.8)
+  ################################
+2022-10-09T06:27:44Z: PLAYER CHATTED [ 1110745708] Lizzie_655           ( -148.1,   -19.8,  1479.1)
+  AA
+2022-10-09T06:27:46Z: PLAYER CHATTED [ 1110745708] Lizzie_655           ( -148.1,   -19.8,  1479.1)
+  the tags
+2022-10-09T06:27:47Z: PLAYER ADDED   [ 2290659778] AllenLover2015
+2022-10-09T06:27:48Z: PLAYER CHATTED [ 1110745708] Lizzie_655           ( -148.1,   -19.8,  1479.1)
+  I'm promoting-
+2022-10-09T06:27:50Z: PLAYER CHATTED [ 1658324567] Gamer_maxyz          ( -163.7,   -19.7,  1482.1)
+  ayo
+2022-10-09T06:27:53Z: PLAYER CHATTED [ 1110745708] Lizzie_655           ( -148.1,   -19.8,  1479.1)
+  Roviru japanese school
+2022-10-09T06:28:18Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -150.3,   -19.7,  1484.5)
+  Say 13 if you want to visit the Kubla Khan!
+2022-10-09T06:28:24Z: PLAYER CHATTED [ 1110745708] Lizzie_655           ( -146.2,   -19.8,  1478.1)
+  Ouch
+2022-10-09T06:28:30Z: PLAYER REMOVED [ 1110745708] Lizzie_655
+2022-10-09T06:28:33Z: PLAYER CHATTED [ 1887485304] shdcjnadvc           ( -153.6,   -22.5,  1483.4)
+  hey lilly
+2022-10-09T06:28:52Z: PLAYER CHATTED [ 2290659778] AllenLover2015       ( -146.7,   -20.3,  1480.0)
+  ##
+2022-10-09T06:28:53Z: PLAYER CHATTED [ 1887485304] shdcjnadvc           ( -148.5,   -22.5,  1479.3)
+  i need #### #####
+2022-10-09T06:28:59Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -149.5,   -19.7,  1486.2)
+  Good enough.
+2022-10-09T06:29:00Z: PLAYER CHATTED [ 2290659778] AllenLover2015       ( -147.7,   -20.3,  1483.6)
+  ##
+2022-10-09T06:29:01Z: PLAYER CHATTED [ 1887485304] shdcjnadvc           ( -148.5,   -22.5,  1479.9)
+  u tryna gimme sum
+2022-10-09T06:29:09Z: PLAYER CHATTED [ 1887485304] shdcjnadvc           ( -148.5,   -22.5,  1479.9)
+  i love organic milk
+2022-10-09T06:29:17Z: PLAYER CHATTED [ 1887485304] shdcjnadvc           ( -148.2,   -20.1,  1484.4)
+  *slurpsssss
+2022-10-09T06:29:19Z: PLAYER CHATTED [ 1887485304] shdcjnadvc           ( -148.2,   -20.1,  1484.4)
+  mhm
+2022-10-09T06:29:21Z: PLAYER CHATTED [ 1887485304] shdcjnadvc           ( -148.2,   -20.2,  1484.4)
+  wait no
+2022-10-09T06:29:30Z: PLAYER CHATTED [ 1887485304] shdcjnadvc           ( -148.2,   -20.1,  1484.4)
+  ##########################
+2022-10-09T06:29:37Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -153.8,   -19.7,  1484.6)
+  EVERYONE IS WELCOME IN THE KUBLA KHAN!
+2022-10-09T06:29:38Z: PLAYER REMOVED [ 2290659778] AllenLover2015
+2022-10-09T06:29:40Z: PLAYER CHATTED [ 1887485304] shdcjnadvc           ( -148.8,   -23.1,  1484.4)
+  i need milk from somewhere else
+2022-10-09T06:30:32Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -154.2,   -19.7,  1482.3)
+  QUIZ QUESTION:
+2022-10-09T06:30:43Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -154.2,   -19.7,  1482.3)
+  What khan you do in the Kubla Khan?
+2022-10-09T06:30:46Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -154.2,   -19.7,  1482.3)
+  A) Nothing.
+2022-10-09T06:30:49Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -154.2,   -19.7,  1482.3)
+  B) Something.
+2022-10-09T06:30:56Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -154.2,   -19.7,  1482.3)
+  C) Whatever you might xana do.
+2022-10-09T06:30:58Z: PLAYER CHATTED [ 1658324567] Gamer_maxyz          ( -151.3,   -19.6,  1481.7)
+  the ### were ### ###
+2022-10-09T06:31:08Z: PLAYER CHATTED [ 1658324567] Gamer_maxyz          ( -151.3,   -19.6,  1481.7)
+  ### be she
+2022-10-09T06:31:09Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -154.1,   -19.7,  1484.2)
+  D) Whatever you want.
+2022-10-09T06:31:16Z: PLAYER CHATTED [ 1658324567] Gamer_maxyz          ( -153.9,   -19.7,  1485.0)
+  give me some d
+2022-10-09T06:31:31Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -146.9,   -19.7,  1483.2)
+  Good answer.
+2022-10-09T06:31:31Z: PLAYER CHATTED [ 1658324567] Gamer_maxyz          ( -150.9,   -19.7,  1483.5)
+  #### ###
+2022-10-09T06:31:41Z: PLAYER CHATTED [ 1658324567] Gamer_maxyz          ( -149.2,   -19.7,  1482.3)
+  with the ck
+2022-10-09T06:31:48Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -146.9,   -19.7,  1483.2)
+  Join the Kubla Khan and you can be frèé from the hash.
+2022-10-09T06:31:49Z: PLAYER CHATTED [ 1658324567] Gamer_maxyz          ( -149.2,   -19.7,  1482.3)
+  gimme that
+2022-10-09T06:31:54Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -146.9,   -19.7,  1481.8)
+  No more hashtag!
+2022-10-09T06:31:55Z: PLAYER CHATTED [ 1658324567] Gamer_maxyz          ( -149.2,   -19.7,  1482.3)
+  gimme the d
+2022-10-09T06:31:56Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -146.9,   -19.7,  1481.8)
+  Only words!
+2022-10-09T06:31:58Z: PLAYER CHATTED [ 1658324567] Gamer_maxyz          ( -149.2,   -19.7,  1482.3)
+  and ck
+2022-10-09T06:32:03Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -146.9,   -19.7,  1481.8)
+  Join the Kubla Khan first!
+2022-10-09T06:32:16Z: PLAYER CHATTED [ 1658324567] Gamer_maxyz          ( -152.4,   -19.7,  1484.8)
+  ### #####
+2022-10-09T06:32:43Z: PLAYER CHATTED [ 1658324567] Gamer_maxyz          ( -154.3,   -19.7,  1483.6)
+  if you want me to join the kubla khan then ###
+2022-10-09T06:33:13Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -154.3,   -19.7,  1479.2)
+  I did ######## and hashtag.
+2022-10-09T06:33:17Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -151.8,   -19.7,  1481.3)
+  Also, #hashtag.
+2022-10-09T06:33:23Z: PLAYER CHATTED [ 1658324567] Gamer_maxyz          ( -155.5,   -19.6,  1484.1)
+  #####
+2022-10-09T06:33:27Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -155.3,   -19.7,  1478.8)
+  Now khan you come to the Kubla Khan?
+2022-10-09T06:33:41Z: PLAYER CHATTED [ 1658324567] Gamer_maxyz          ( -155.7,   -19.6,  1482.0)
+  you are
+2022-10-09T06:33:43Z: PLAYER CHATTED [ 1658324567] Gamer_maxyz          ( -153.6,   -19.7,  1483.4)
+  cute
+2022-10-09T06:33:48Z: PLAYER CHATTED [ 1658324567] Gamer_maxyz          ( -152.0,   -19.7,  1484.4)
+  are u gay
+2022-10-09T06:33:55Z: PLAYER CHATTED [ 1658324567] Gamer_maxyz          ( -149.2,   -19.7,  1483.2)
+  come here
+2022-10-09T06:33:59Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -146.8,   -19.7,  1483.1)
+  Only say that in the Kubla Khan.
+2022-10-09T06:34:29Z: PLAYER REMOVED [ 1887485304] shdcjnadvc
+2022-10-09T06:34:39Z: PLAYER REMOVED [ 1658324567] Gamer_maxyz
+2022-10-09T06:42:06Z: PLAYER REMOVED [ 3528586714] Queenofthelibra
+2022-10-09T06:52:05Z: PLAYER ADDED   [ 1398631612] Icekatqueen
+2022-10-09T06:52:26Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -154.4,   -19.7,  1482.6)
+  Welcome.
+2022-10-09T06:54:13Z: PLAYER REMOVED [ 1398631612] Icekatqueen
+2022-10-09T06:56:35Z: PLAYER ADDED   [ 3135652605] yay124hayley
+2022-10-09T06:57:56Z: PLAYER REMOVED [ 3135652605] yay124hayley
+2022-10-09T07:01:35Z: PLAYER ADDED   [ 2406557390] willwhale22
+2022-10-09T07:03:37Z: PLAYER REMOVED [ 2406557390] willwhale22
+2022-10-09T07:14:08Z: PLAYER ADDED   [ 2962215373] alicejonss
+2022-10-09T07:14:55Z: PLAYER CHATTED [ 2962215373] alicejonss           ( -149.3,   -20.4,  1484.1)
+  Hi
+2022-10-09T07:15:33Z: PLAYER REMOVED [ 2962215373] alicejonss
+2022-10-09T07:21:38Z: PLAYER ADDED   [ 3555548558] yuri_663321
+2022-10-09T07:21:47Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -151.0,   -19.9,  1482.8)
+  Hi.
+2022-10-09T07:22:21Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -155.2,   -19.8,  1481.3)
+  I was AFK.
+2022-10-09T07:22:50Z: PLAYER REMOVED [ 3555548558] yuri_663321
+2022-10-09T07:33:02Z: PLAYER ADDED   [ 3864508583] alexa_pinote123
+2022-10-09T07:34:48Z: PLAYER REMOVED [ 3864508583] alexa_pinote123
+2022-10-09T07:36:07Z: PLAYER ADDED   [ 3850786542] swagggggqueennnnn
+2022-10-09T07:36:13Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -155.9,   -19.9,  1481.5)
+  Welcome.
+2022-10-09T07:37:00Z: PLAYER CHATTED [ 3850786542] swagggggqueennnnn    ( -151.4,   -20.2,  1484.7)
+  bro
+2022-10-09T07:37:25Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -153.6,   -19.9,  1482.6)
+  What's up!
+2022-10-09T07:37:31Z: PLAYER CHATTED [ 3850786542] swagggggqueennnnn    ( -151.4,   -20.2,  1484.7)
+  hi
+2022-10-09T07:37:54Z: PLAYER CHATTED [ 3850786542] swagggggqueennnnn    ( -151.4,   -20.2,  1484.7)
+  ....
+2022-10-09T07:37:59Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -152.7,   -19.9,  1489.8)
+  Look behind you.
+2022-10-09T07:38:15Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -156.6,   -19.9,  1477.8)
+  You khan visit my Kubla Khan.
+2022-10-09T07:38:23Z: PLAYER ADDED   [ 1570930417] chickee128
+2022-10-09T07:38:26Z: PLAYER CHATTED [ 3850786542] swagggggqueennnnn    ( -151.0,   -20.2,  1482.3)
+  ok
+2022-10-09T07:39:13Z: PLAYER REMOVED [ 3850786542] swagggggqueennnnn
+2022-10-09T07:42:16Z: PLAYER REMOVED [ 1570930417] chickee128
+2022-10-09T07:44:42Z: PLAYER ADDED   [ 1570930417] chickee128
+2022-10-09T07:46:33Z: PLAYER REMOVED [ 1570930417] chickee128
+2022-10-09T07:53:16Z: PLAYER ADDED   [ 3199812735] abushrub
+2022-10-09T07:55:50Z: PLAYER REMOVED [ 3199812735] abushrub
+2022-10-09T08:03:30Z: PLAYER ADDED   [ 1941106115] ezylimy
+2022-10-09T08:03:48Z: PLAYER CHATTED [ 1941106115] ezylimy              ( -150.7,   -20.3,  1484.9)
+  bruh
+2022-10-09T08:04:26Z: PLAYER REMOVED [ 1941106115] ezylimy
+2022-10-09T08:09:43Z: PLAYER ADDED   [ 2998973209] newsamanta124366
+2022-10-09T08:10:10Z: PLAYER CHATTED [ 2998973209] newsamanta124366     ( -150.6,   -19.7,  1486.2)
+  hi
+2022-10-09T08:10:12Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -151.3,   -19.9,  1487.3)
+  Welcome.
+2022-10-09T08:10:24Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -151.3,   -19.9,  1487.3)
+  I'll be back in a bit.
+2022-10-09T08:10:28Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -151.3,   -19.9,  1487.3)
+  Visit the game.
+2022-10-09T08:10:40Z: PLAYER CHATTED [ 2998973209] newsamanta124366     ( -148.3,   -19.8,  1485.2)
+  Oh this a game you made?
+2022-10-09T08:11:01Z: PLAYER CHATTED [ 2998973209] newsamanta124366     ( -147.4,   -19.8,  1484.2)
+  cool
+2022-10-09T08:11:13Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -150.0,   -19.9,  1476.9)
+  I've worked on it for over 2 years!
+2022-10-09T08:11:21Z: PLAYER CHATTED [ 2998973209] newsamanta124366     ( -148.8,   -19.8,  1482.8)
+  ill join it later
+2022-10-09T08:11:41Z: PLAYER CHATTED [ 2998973209] newsamanta124366     ( -146.7,   -19.8,  1483.9)
+  cool!
+2022-10-09T08:12:11Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -150.0,   -19.9,  1476.9)
+  Thanks!
+2022-10-09T08:12:22Z: PLAYER REMOVED [ 2998973209] newsamanta124366
+2022-10-09T08:23:13Z: PLAYER ADDED   [ 3686558866] DanielHandsome_123
+2022-10-09T08:24:47Z: PLAYER CHATTED [ 3686558866] DanielHandsome_123   ( -150.0,   -19.2,  1484.4)
+  hi, wait i will change my clothe-
+2022-10-09T08:27:46Z: PLAYER REMOVED [ 3686558866] DanielHandsome_123
+2022-10-09T08:33:44Z: PLAYER ADDED   [ 1575042919] xXrosy_bushXx
+2022-10-09T08:34:24Z: PLAYER CHATTED [ 1575042919] xXrosy_bushXx        ( -152.6,   -19.9,  1485.9)
+  uh.. 
+2022-10-09T08:34:48Z: PLAYER REMOVED [ 1575042919] xXrosy_bushXx
+2022-10-09T08:37:59Z: PLAYER REMOVED [    1630228] VisualPlugin
