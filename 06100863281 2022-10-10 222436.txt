@@ -1,0 +1,2766 @@
+[    1630228] : [ 6100863281] RoVille Party - 1356e340-c4ce-bcab-efc3-0338b072b883
+2022-10-10T22:24:36Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-10-10T22:24:36Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-10-10T22:24:36Z: PLAYER ADDED   [ 2749025172] CoolcoolImbetter
+2022-10-10T22:24:36Z: PLAYER ADDED   [ 1948608825] may123slay
+2022-10-10T22:24:47Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2009.1,   -19.1,   345.7)
+  hi
+2022-10-10T22:24:51Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1995.8,   -19.3,   371.6)
+  oh wow
+2022-10-10T22:24:55Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1995.8,   -19.3,   371.6)
+  oh uhm
+2022-10-10T22:24:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1991.1,   -17.1,   376.1)
+  Hi.
+2022-10-10T22:24:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1991.1,   -17.1,   376.1)
+  I'm big.
+2022-10-10T22:25:03Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1995.8,   -19.3,   371.6)
+  book a room or work?
+2022-10-10T22:25:07Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1995.8,   -19.3,   371.6)
+  i can tell.
+2022-10-10T22:25:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1992.0,   -17.1,   375.5)
+  How much are the ròóms?
+2022-10-10T22:25:22Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1995.8,   -19.3,   371.6)
+  come check.
+2022-10-10T22:25:29Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2020.8,   -19.3,   350.6)
+  you might not wanna stay
+2022-10-10T22:25:35Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1994.8,   -18.7,   333.1)
+  ppl leave.
+2022-10-10T22:25:57Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  heres the rice of the rooms.
+2022-10-10T22:25:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1984.1,   -17.4,   304.4)
+  From what I heard, donations are floored a 20 thousand.
+2022-10-10T22:26:05Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  I know.
+2022-10-10T22:26:13Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  I need money tho.
+2022-10-10T22:26:20Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  I built this myself
+2022-10-10T22:26:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1989.6,   -16.1,   302.6)
+  Nice!
+2022-10-10T22:26:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1989.6,   -16.1,   302.6)
+  I built my own hotel in a separate place.
+2022-10-10T22:26:32Z: PLAYER ADDED   [  189651673] RareMatthewAnthony
+2022-10-10T22:26:34Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  AND ITS WORTH 1.7M
+2022-10-10T22:26:48Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  amazing
+2022-10-10T22:26:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1989.6,   -16.1,   302.6)
+  The hotel looks very nice!
+2022-10-10T22:26:55Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  so..
+2022-10-10T22:26:59Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  thanks
+2022-10-10T22:27:13Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  so would you ike to buy a room?
+2022-10-10T22:27:16Z: PLAYER REMOVED [  189651673] RareMatthewAnthony
+2022-10-10T22:27:22Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1989.6,   -16.1,   302.6)
+  I'll buy a room.
+2022-10-10T22:27:27Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  which one.
+2022-10-10T22:27:32Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1989.6,   -16.1,   302.6)
+  King bed.
+2022-10-10T22:27:36Z: PLAYER CHATTED [ 1948608825] may123slay           (-2009.1,   -19.3,   293.5)
+  AFK
+2022-10-10T22:27:36Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  ooh
+2022-10-10T22:27:39Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  ok .
+2022-10-10T22:27:42Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  pay first?
+2022-10-10T22:27:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1989.6,   -16.1,   302.6)
+  How do I pay?
+2022-10-10T22:27:48Z: PLAYER ADDED   [  833637137] Ysaraveeuh
+2022-10-10T22:27:54Z: PLAYER ADDED   [  763101389] aylinpereez
+2022-10-10T22:27:55Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1994.8,   -19.6,   299.9)
+  donate
+2022-10-10T22:27:59Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1994.8,   -19.6,   299.9)
+  pres doante
+2022-10-10T22:28:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1989.8,   -16.1,   303.3)
+  That worked out.
+2022-10-10T22:28:05Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1994.8,   -19.6,   299.9)
+  thank you!
+2022-10-10T22:28:10Z: PLAYER CHATTED [ 1948608825] may123slay           (-2009.1,   -19.3,   293.5)
+  Back
+2022-10-10T22:28:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1985.6,   -17.4,   302.2)
+  Why can I donate 80 to you?
+2022-10-10T22:28:20Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1982.6,   -18.7,   316.8)
+  why not?
+2022-10-10T22:28:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1986.3,   -16.5,   314.4)
+  I thought the min is 20,000.
+2022-10-10T22:28:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1984.8,   -16.5,   316.0)
+  I thought the miniumum is 20 thousand.
+2022-10-10T22:28:38Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1982.2,   -18.6,   321.3)
+  no its not
+2022-10-10T22:28:46Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1982.2,   -18.6,   321.3)
+  you need ## ####### to domate
+2022-10-10T22:28:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1985.5,   -16.5,   316.7)
+  Oh!
+2022-10-10T22:28:51Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1982.2,   -18.6,   321.3)
+  20 thousand to donate
+2022-10-10T22:28:51Z: PLAYER CHATTED [  763101389] aylinpereez          (-1997.4,   -19.7,   351.8)
+  someone teach me all this?
+2022-10-10T22:28:55Z: PLAYER ADDED   [ 2537375660] namitam23
+2022-10-10T22:28:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1979.2,   -17.2,   324.3)
+  My bad.
+2022-10-10T22:29:00Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1978.4,   -19.6,   329.5)
+  teach what
+2022-10-10T22:29:03Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1978.4,   -19.6,   329.5)
+  ?
+2022-10-10T22:29:26Z: PLAYER CHATTED [  763101389] aylinpereez          (-1980.7,   -19.7,   334.0)
+  is this a hotel?
+2022-10-10T22:29:29Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1977.7,   -19.6,   329.3)
+  motel*
+2022-10-10T22:29:41Z: PLAYER CHATTED [ 1948608825] may123slay           (-1983.8,   -18.4,   317.3)
+  I can take order for now
+2022-10-10T22:29:46Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1977.8,   -19.6,   327.2)
+  ok.
+2022-10-10T22:29:51Z: PLAYER CHATTED [ 1948608825] may123slay           (-1984.3,   -18.4,   316.8)
+  :)
+2022-10-10T22:29:55Z: PLAYER CHATTED [  763101389] aylinpereez          (-1980.7,   -19.7,   334.0)
+  yes or no?
+2022-10-10T22:29:59Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1978.8,   -19.6,   329.3)
+  no
+2022-10-10T22:30:02Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1978.8,   -19.6,   329.3)
+  its a motl.
+2022-10-10T22:30:05Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1978.8,   -19.6,   329.3)
+  MOTEL.
+2022-10-10T22:30:21Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1978.8,   -19.6,   329.3)
+  ok wuld you like a room or what
+2022-10-10T22:30:23Z: PLAYER CHATTED [ 1948608825] may123slay           (-1985.6,   -18.4,   317.4)
+  A hotel is bigger a motel is smaller and cheaper
+2022-10-10T22:30:38Z: PLAYER CHATTED [ 1948608825] may123slay           (-1977.7,   -19.3,   330.8)
+  and it’s not eh outside
+2022-10-10T22:30:39Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1979.0,   -19.5,   325.3)
+  but this motel is worth 1.7M
+2022-10-10T22:30:48Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1981.1,   -19.6,   331.2)
+  so get lost
+2022-10-10T22:30:49Z: PLAYER CHATTED [  763101389] aylinpereez          (-1980.7,   -19.7,   334.0)
+  I want a room
+2022-10-10T22:30:51Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1981.1,   -19.6,   331.2)
+  oh
+2022-10-10T22:30:53Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1981.1,   -19.6,   331.2)
+  ok
+2022-10-10T22:30:56Z: PLAYER REMOVED [ 2537375660] namitam23
+2022-10-10T22:31:07Z: PLAYER CHATTED [ 1948608825] may123slay           (-1989.0,   -18.4,   307.6)
+  Hi
+2022-10-10T22:31:11Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1981.1,   -19.6,   331.2)
+  rooms are 75$ for two beds and king bed / queen bedsare for 80$
+2022-10-10T22:31:18Z: PLAYER CHATTED [ 1948608825] may123slay           (-1995.7,   -19.3,   298.9)
+  Miss
+2022-10-10T22:31:26Z: PLAYER CHATTED [ 1948608825] may123slay           (-1995.7,   -19.3,   295.3)
+  I can take ur order
+2022-10-10T22:31:29Z: PLAYER CHATTED [  833637137] Ysaraveeuh           (-1988.0,   -19.6,   293.3)
+  Hi I would like a dollar 
+2022-10-10T22:31:33Z: PLAYER ADDED   [ 3164711443] Samira210655
+2022-10-10T22:31:34Z: PLAYER CHATTED [  833637137] Ysaraveeuh           (-1988.0,   -19.6,   293.3)
+  A room
+2022-10-10T22:31:41Z: PLAYER CHATTED [ 1948608825] may123slay           (-1995.6,   -19.3,   295.4)
+  Oh sorry wrong place
+2022-10-10T22:31:42Z: CHRCTER ADDED  [    1630228] VisualPlugin        
+2022-10-10T22:31:46Z: PLAYER CHATTED [  763101389] aylinpereez          (-1983.2,   -19.7,   337.1)
+  amm
+2022-10-10T22:31:46Z: PLAYER CHATTED [ 1948608825] may123slay           (-1997.8,   -19.3,   296.7)
+  Nvm
+2022-10-10T22:31:51Z: PLAYER CHATTED [ 1948608825] may123slay           (-1994.9,   -19.3,   295.0)
+  ask owner
+2022-10-10T22:31:51Z: PLAYER REMOVED [  763101389] aylinpereez
+2022-10-10T22:31:58Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1987.9,   -18.7,   307.4)
+  hello.
+2022-10-10T22:32:06Z: PLAYER ADDED   [  947911421] jaylaishome
+2022-10-10T22:32:14Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1987.2,   -18.8,   305.8)
+  can I help you
+2022-10-10T22:32:28Z: PLAYER ADDED   [  928805453] jaylalitt100
+2022-10-10T22:32:31Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1978.1,   -19.5,   324.9)
+  NO BABYS LS
+2022-10-10T22:32:32Z: PLAYER REMOVED [  833637137] Ysaraveeuh
+2022-10-10T22:32:32Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1978.1,   -19.5,   324.9)
+  PLS
+2022-10-10T22:32:39Z: PLAYER CHATTED [ 1948608825] may123slay           (-2012.4,   -19.1,   306.0)
+  Fr
+2022-10-10T22:32:56Z: PLAYER CHATTED [ 1948608825] may123slay           (-2006.4,   -19.1,   310.3)
+  I can take orders at the remastering
+2022-10-10T22:33:03Z: PLAYER CHATTED [ 1948608825] may123slay           (-2006.4,   -19.1,   310.3)
+  Reasturamt 
+2022-10-10T22:33:11Z: PLAYER CHATTED [ 1948608825] may123slay           (-2005.9,   -19.1,   310.9)
+  restaurant 
+2022-10-10T22:33:13Z: PLAYER REMOVED [ 3164711443] Samira210655
+2022-10-10T22:33:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1979.2,   -16.5,   314.9)
+  When everyone leaves, would you like to check mine out?
+2022-10-10T22:33:40Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1983.7,   -18.7,   316.2)
+  yeah
+2022-10-10T22:33:44Z: PLAYER ADDED   [ 3099847956] KindTween
+2022-10-10T22:33:57Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  make a line.
+2022-10-10T22:34:09Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  would you like a room or work here?
+2022-10-10T22:34:29Z: PLAYER CHATTED [  928805453] jaylalitt100         (-1990.2,   -18.6,   303.2)
+  hi i WAS wondering if there was any spots here i could work?
+2022-10-10T22:34:37Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  yeah!
+2022-10-10T22:34:42Z: PLAYER CHATTED [  928805453] jaylalitt100         (-1990.2,   -18.6,   303.2)
+  i wanted to be maintance
+2022-10-10T22:34:44Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  theres cahsier.
+2022-10-10T22:34:47Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  maintance?
+2022-10-10T22:34:49Z: PLAYER REMOVED [  947911421] jaylaishome
+2022-10-10T22:34:54Z: PLAYER CHATTED [  928805453] jaylalitt100         (-1990.2,   -18.6,   303.2)
+  yes sir
+2022-10-10T22:35:09Z: PLAYER CHATTED [ 3099847956] KindTween            (-1887.7,     4.7,   245.4)
+  hi. i just joined
+2022-10-10T22:35:10Z: PLAYER CHATTED [ 1948608825] may123slay           (-1878.4,    -7.3,   271.3)
+  Kncoks* (room 107)
+2022-10-10T22:35:23Z: PLAYER CHATTED [  928805453] jaylalitt100         (-1990.2,   -18.6,   303.2)
+  somebody who 
+2022-10-10T22:35:27Z: PLAYER CHATTED [ 1948608825] may123slay           (-1878.2,    -7.3,   271.3)
+  Nobody there
+2022-10-10T22:35:34Z: PLAYER CHATTED [  928805453] jaylalitt100         (-1990.2,   -18.6,   303.2)
+  checks rooms and cleans
+2022-10-10T22:35:38Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  mhm!
+2022-10-10T22:35:49Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  my room is secured with lsers
+2022-10-10T22:35:51Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  lsers
+2022-10-10T22:35:53Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  LASERS
+2022-10-10T22:35:53Z: PLAYER CHATTED [ 1948608825] may123slay           (-2006.8,   -19.3,   294.5)
+  *wahses dishes*
+2022-10-10T22:35:59Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  so Ill hitelist you
+2022-10-10T22:36:00Z: PLAYER CHATTED [ 3099847956] KindTween            (-1885.3,     4.7,   262.7)
+  *secretly lives in room 302*
+2022-10-10T22:36:03Z: PLAYER CHATTED [  928805453] jaylalitt100         (-1990.2,   -18.6,   303.2)
+  okay 
+2022-10-10T22:36:06Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  :)
+2022-10-10T22:36:09Z: PLAYER CHATTED [  928805453] jaylalitt100         (-1990.2,   -18.6,   303.2)
+  thank you
+2022-10-10T22:36:12Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  go check the rooms no.
+2022-10-10T22:36:14Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  now.
+2022-10-10T22:36:16Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1998.3,   -19.6,   299.5)
+  pls.
+2022-10-10T22:36:38Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.9,   -19.6,   298.0)
+  LAI
+2022-10-10T22:36:39Z: PLAYER CHATTED [ 3099847956] KindTween            (-1879.1,     7.1,   254.8)
+  do you get payed money to work?
+2022-10-10T22:36:46Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1938.0,   -18.7,   274.0)
+  maintance
+2022-10-10T22:36:50Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1921.8,   -18.7,   254.8)
+  no
+2022-10-10T22:36:52Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1921.8,   -18.7,   254.8)
+  sadly
+2022-10-10T22:36:54Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1923.9,   -18.7,   250.8)
+  waot
+2022-10-10T22:37:02Z: PLAYER CHATTED [  928805453] jaylalitt100         (-1923.3,   -19.0,   249.0)
+  yes
+2022-10-10T22:37:02Z: PLAYER CHATTED [ 3099847956] KindTween            (-1878.6,     6.7,   251.9)
+  k
+2022-10-10T22:37:04Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1923.9,   -18.7,   250.8)
+  put maintance in your bip
+2022-10-10T22:37:06Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1923.9,   -18.7,   250.8)
+  bio
+2022-10-10T22:37:12Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1919.6,   -18.7,   258.8)
+  MANAGER GETS ##### BTW
+2022-10-10T22:37:14Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1919.6,   -18.7,   258.8)
+  PAYED
+2022-10-10T22:37:31Z: PLAYER CHATTED [ 1948608825] may123slay           (-1919.2,   -18.4,   251.5)
+  Um..
+2022-10-10T22:37:40Z: PLAYER ADDED   [ 2575173735] Abigailr261
+2022-10-10T22:37:47Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1921.6,   -18.7,   255.6)
+  shes maintance
+2022-10-10T22:37:51Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1921.6,   -18.7,   256.8)
+  she checks the rooms.
+2022-10-10T22:37:51Z: PLAYER CHATTED [ 1948608825] may123slay           (-1920.5,   -18.4,   252.8)
+  ?
+2022-10-10T22:37:53Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1921.6,   -18.7,   256.8)
+  so its k
+2022-10-10T22:37:54Z: PLAYER CHATTED [ 1948608825] may123slay           (-1920.5,   -18.4,   252.8)
+  Oh
+2022-10-10T22:37:55Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1921.6,   -18.7,   256.8)
+  ok
+2022-10-10T22:38:01Z: PLAYER ADDED   [ 3585029278] Isabella_syll
+2022-10-10T22:38:05Z: PLAYER CHATTED [ 1948608825] may123slay           (-1919.8,   -18.4,   253.1)
+  Is there. A cashier
+2022-10-10T22:38:09Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1915.3,   -19.6,   263.1)
+  no
+2022-10-10T22:38:20Z: PLAYER ADDED   [ 3891479100] SophiaAbc1234560
+2022-10-10T22:38:22Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1994.9,   -19.3,   373.1)
+  hi
+2022-10-10T22:38:26Z: PLAYER CHATTED [ 1948608825] may123slay           (-2006.6,   -19.1,   312.2)
+  oh
+2022-10-10T22:38:28Z: PLAYER CHATTED [ 3585029278] Isabella_syll        (-1989.0,   -19.4,   378.0)
+  Hi
+2022-10-10T22:38:39Z: PLAYER CHATTED [ 1948608825] may123slay           (-2007.9,   -19.3,   295.0)
+  *wahses cups*
+2022-10-10T22:38:45Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  hello.
+2022-10-10T22:38:47Z: PLAYER CHATTED [ 1948608825] may123slay           (-2006.6,   -19.3,   295.3)
+  (Afk)
+2022-10-10T22:38:47Z: PLAYER CHATTED [ 3585029278] Isabella_syll        (-1990.3,   -18.8,   307.5)
+  Hi
+2022-10-10T22:38:51Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  may I help you?
+2022-10-10T22:39:06Z: PLAYER CHATTED [ 3585029278] Isabella_syll        (-1991.0,   -18.8,   306.7)
+  I will like to buy a room
+2022-10-10T22:39:20Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  double bed or king / queen bed?
+2022-10-10T22:39:36Z: PLAYER CHATTED [ 3585029278] Isabella_syll        (-1991.0,   -18.8,   306.7)
+  Dubble bed
+2022-10-10T22:39:41Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  ok 80$.
+2022-10-10T22:39:43Z: PLAYER CHATTED [ 1948608825] may123slay           (-2006.6,   -19.3,   295.3)
+  (Back)
+2022-10-10T22:39:44Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  if not its fine.
+2022-10-10T22:39:55Z: CHRCTER ADDED  [ 3891479100] SophiaAbc1234560    
+2022-10-10T22:39:58Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  people dont want to ### so they leave lol.
+2022-10-10T22:40:01Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  pay
+2022-10-10T22:40:13Z: PLAYER ADDED   [ 1830152569] Alexa095670
+2022-10-10T22:40:17Z: PLAYER CHATTED [ 3891479100] SophiaAbc1234560     (-1988.4,   -18.4,   309.1)
+  … :|
+2022-10-10T22:40:22Z: PLAYER CHATTED [ 3585029278] Isabella_syll        (-1991.4,   -18.8,   306.1)
+  There
+2022-10-10T22:40:22Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  ok.
+2022-10-10T22:40:26Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  thank you!
+2022-10-10T22:40:28Z: CHRCTER ADDED  [ 1948608825] may123slay          
+2022-10-10T22:40:34Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1997.8,   -19.6,   299.3)
+  MANTANCE
+2022-10-10T22:40:40Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1997.8,   -19.6,   299.3)
+  MANTAINCE
+2022-10-10T22:40:50Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1994.7,   -19.6,   300.2)
+  show max her room.
+2022-10-10T22:40:51Z: PLAYER CHATTED [  928805453] jaylalitt100         (-1989.5,   -19.3,   302.8)
+  yes sir'
+2022-10-10T22:40:57Z: PLAYER ADDED   [ 2222684529] Cutejay_jay2
+2022-10-10T22:40:57Z: CHRCTER ADDED  [ 1830152569] Alexa095670         
+2022-10-10T22:40:59Z: PLAYER CHATTED [  928805453] jaylalitt100         (-1989.5,   -19.3,   302.8)
+  follow
+2022-10-10T22:41:05Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  hi!
+2022-10-10T22:41:05Z: PLAYER CHATTED [ 2575173735] Abigailr261          (-1991.3,   -18.4,   305.4)
+  Hi can I have a job
+2022-10-10T22:41:21Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  yeah cashier or waiter
+2022-10-10T22:41:26Z: PLAYER CHATTED [  928805453] jaylalitt100         (-1955.8,    -7.9,   269.1)
+  is this good
+2022-10-10T22:41:29Z: PLAYER CHATTED [ 3585029278] Isabella_syll        (-1966.0,    -7.7,   260.1)
+  Ok
+2022-10-10T22:41:32Z: PLAYER CHATTED [ 2575173735] Abigailr261          (-1991.1,   -18.7,   305.8)
+  Cashier 
+2022-10-10T22:41:33Z: PLAYER CHATTED [ 3585029278] Isabella_syll        (-1966.0,    -7.7,   260.1)
+  Yes
+2022-10-10T22:41:33Z: PLAYER CHATTED [  928805453] jaylalitt100         (-1955.8,    -7.9,   269.1)
+  Great!
+2022-10-10T22:41:34Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  ok 
+2022-10-10T22:41:36Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  go
+2022-10-10T22:41:42Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1999.4,   -19.2,   315.4)
+  come
+2022-10-10T22:41:47Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2002.4,   -19.2,   317.3)
+  over her
+2022-10-10T22:41:51Z: PLAYER CHATTED [ 3099847956] KindTween            (-1936.7,   -19.3,   220.9)
+  *calls mainece to room 101*
+2022-10-10T22:41:56Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  next.
+2022-10-10T22:41:57Z: PLAYER CHATTED [ 3891479100] SophiaAbc1234560     (-1990.9,   -18.4,   305.5)
+  Hello
+2022-10-10T22:41:59Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  hi
+2022-10-10T22:42:06Z: PLAYER CHATTED [ 1948608825] may123slay           (-2014.5,   -19.1,   303.5)
+  Hello, there
+2022-10-10T22:42:09Z: PLAYER CHATTED [ 3891479100] SophiaAbc1234560     (-1990.9,   -18.4,   305.5)
+  Can I have a ###
+2022-10-10T22:42:13Z: PLAYER CHATTED [ 2575173735] Abigailr261          (-2007.5,   -19.5,   310.5)
+  Hi
+2022-10-10T22:42:17Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  Maintance
+2022-10-10T22:42:23Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  ##############
+2022-10-10T22:42:24Z: PLAYER REMOVED [ 3585029278] Isabella_syll
+2022-10-10T22:42:25Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  go to
+2022-10-10T22:42:27Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  room
+2022-10-10T22:42:28Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  302
+2022-10-10T22:42:30Z: PLAYER ADDED   [   39893836] coolcassia
+2022-10-10T22:42:41Z: PLAYER CHATTED [ 3891479100] SophiaAbc1234560     (-1990.9,   -18.4,   305.5)
+  I said ### :|
+2022-10-10T22:42:57Z: CHRCTER ADDED  [ 1948608825] may123slay          
+2022-10-10T22:43:11Z: PLAYER CHATTED [ 2222684529] Cutejay_jay2         (-1996.4,   -17.8,   373.7)
+  MARCH
+2022-10-10T22:43:19Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1998.6,   -19.3,   374.4)
+  EVERYONE
+2022-10-10T22:43:20Z: PLAYER CHATTED [ 2222684529] Cutejay_jay2         (-1996.4,   -17.8,   373.7)
+  MAKE WAY
+2022-10-10T22:43:22Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1998.6,   -19.3,   374.4)
+  MAKE A LINE
+2022-10-10T22:43:28Z: PLAYER CHATTED [ 2222684529] Cutejay_jay2         (-1996.4,   -17.8,   373.7)
+  lol
+2022-10-10T22:43:38Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1998.6,   -19.3,   373.0)
+  INFRONT OF ME
+2022-10-10T22:43:41Z: PLAYER CHATTED [ 2222684529] Cutejay_jay2         (-2004.0,   -19.8,   378.2)
+  ### refresh my character
+2022-10-10T22:43:46Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1997.1,   -18.6,   373.1)
+  OK
+2022-10-10T22:43:50Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1997.1,   -18.6,   373.1)
+  MAINTANCE
+2022-10-10T22:44:01Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1997.1,   -18.6,   373.1)
+  GO LOOK FOR AMYONE WHOS NOT HERE
+2022-10-10T22:44:05Z: PLAYER CHATTED [ 3099847956] KindTween            (-2006.7,    17.9,   332.5)
+  im using the tolet!
+2022-10-10T22:44:07Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1997.1,   -18.6,   373.1)
+  TELL M YOUR ROLES
+2022-10-10T22:44:16Z: PLAYER CHATTED [ 2575173735] Abigailr261          (-2000.0,   -19.6,   375.8)
+  Cashier 
+2022-10-10T22:44:16Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1997.1,   -18.6,   373.1)
+  IF YOU DONT HAVE ROLES STEP TO TH SIDE
+2022-10-10T22:44:17Z: PLAYER CHATTED [ 1948608825] may123slay           (-2010.2,   -19.3,   382.4)
+  CHEF
+2022-10-10T22:44:20Z: PLAYER CHATTED [ 2222684529] Cutejay_jay2         (-2002.4,   -19.8,   377.2)
+  do they get paid
+2022-10-10T22:44:22Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1997.1,   -18.6,   373.1)
+  NO
+2022-10-10T22:44:27Z: PLAYER CHATTED [ 2222684529] Cutejay_jay2         (-2000.3,   -19.7,   375.1)
+  sad
+2022-10-10T22:44:28Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1997.1,   -18.6,   373.1)
+  IM NO ATM
+2022-10-10T22:44:33Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1995.5,   -19.3,   371.4)
+  go
+2022-10-10T22:44:38Z: PLAYER CHATTED [ 3891479100] SophiaAbc1234560     (-2009.0,   -19.3,   370.0)
+  :|
+2022-10-10T22:44:44Z: PLAYER CHATTED [ 3099847956] KindTween            (-1885.1,     4.7,   254.3)
+  oh no....
+2022-10-10T22:44:45Z: PLAYER CHATTED [ 2222684529] Cutejay_jay2         (-2000.1,   -19.7,   377.3)
+  so we just work here for free?
+2022-10-10T22:44:52Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1994.6,   -19.3,   370.9)
+  Y3
+2022-10-10T22:44:53Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1994.6,   -19.3,   370.9)
+  YES
+2022-10-10T22:44:56Z: PLAYER CHATTED [ 1948608825] may123slay           (-2003.5,   -19.3,   378.3)
+  no point of getting paid
+2022-10-10T22:44:58Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1994.6,   -19.3,   370.9)
+  MANAGE GETS PAYED
+2022-10-10T22:45:01Z: PLAYER REMOVED [   39893836] coolcassia
+2022-10-10T22:45:02Z: PLAYER CHATTED [ 2222684529] Cutejay_jay2         (-2001.6,   -19.8,   376.4)
+  ok
+2022-10-10T22:45:05Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1994.6,   -19.3,   370.9)
+  I DONT HAVE PREMUIM
+2022-10-10T22:45:07Z: PLAYER CHATTED [ 1948608825] may123slay           (-2003.5,   -19.3,   378.3)
+  U won’t have it int eh actuall game
+2022-10-10T22:45:08Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1994.6,   -19.3,   370.9)
+  LIKE
+2022-10-10T22:45:14Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1994.6,   -19.3,   370.9)
+  go
+2022-10-10T22:45:16Z: PLAYER CHATTED [ 2222684529] Cutejay_jay2         (-2001.6,   -19.8,   376.4)
+  you will lol
+2022-10-10T22:45:24Z: PLAYER CHATTED [ 1948608825] may123slay           (-2003.5,   -19.3,   378.3)
+  No saved progress
+2022-10-10T22:45:24Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.0,   -18.2,   372.5)
+  #######
+2022-10-10T22:45:25Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.0,   -18.2,   372.5)
+  GO
+2022-10-10T22:45:27Z: PLAYER CHATTED [ 2222684529] Cutejay_jay2         (-2002.3,   -19.8,   376.1)
+  someone donated me 30k in a private server
+2022-10-10T22:45:30Z: PLAYER REMOVED [ 1830152569] Alexa095670
+2022-10-10T22:45:33Z: PLAYER CHATTED [ 2222684529] Cutejay_jay2         (-2002.3,   -19.8,   376.1)
+  and I used in buy a house
+2022-10-10T22:45:40Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1994.3,   -19.3,   372.3)
+  CAHSOER
+2022-10-10T22:45:41Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1994.3,   -19.3,   372.3)
+  GO
+2022-10-10T22:45:45Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.0,   -19.3,   371.0)
+  god
+2022-10-10T22:45:49Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.0,   -19.3,   371.0)
+  role
+2022-10-10T22:45:51Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.0,   -19.3,   371.0)
+  ?
+2022-10-10T22:45:56Z: PLAYER CHATTED [ 2222684529] Cutejay_jay2         (-1998.6,   -19.6,   374.3)
+  customer 
+2022-10-10T22:45:58Z: PLAYER ADDED   [  510234416] Meg270725
+2022-10-10T22:46:05Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.0,   -19.3,   371.0)
+  go to receptionist 
+2022-10-10T22:46:10Z: PLAYER CHATTED [ 3099847956] KindTween            (-1879.7,     6.3,   250.5)
+  *hides*
+2022-10-10T22:46:13Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.0,   -19.3,   371.0)
+  I will be there soon
+2022-10-10T22:46:17Z: PLAYER CHATTED [ 2222684529] Cutejay_jay2         (-1998.6,   -19.6,   374.3)
+  ok
+2022-10-10T22:46:25Z: PLAYER CHATTED [ 2222684529] Cutejay_jay2         (-1998.6,   -19.6,   374.3)
+  STOMP
+2022-10-10T22:46:26Z: PLAYER CHATTED [  510234416] Meg270725            (-1992.5,   -19.2,   379.6)
+  hi Dylan
+2022-10-10T22:46:28Z: PLAYER CHATTED [ 2222684529] Cutejay_jay2         (-1998.6,   -19.6,   374.3)
+  KICK
+2022-10-10T22:46:30Z: PLAYER CHATTED [ 2222684529] Cutejay_jay2         (-1998.6,   -19.6,   374.3)
+  MARCH
+2022-10-10T22:46:31Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.0,   -19.3,   371.0)
+  hi
+2022-10-10T22:46:37Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.3,   -19.3,   371.1)
+  role?
+2022-10-10T22:46:40Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.3,   -19.3,   371.1)
+  go
+2022-10-10T22:46:42Z: PLAYER CHATTED [ 1948608825] may123slay           (-1999.9,   -19.1,   374.5)
+  Chef
+2022-10-10T22:46:46Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1995.2,   -19.3,   371.5)
+  your maid riht
+2022-10-10T22:46:50Z: PLAYER CHATTED [ 1948608825] may123slay           (-1999.9,   -19.1,   374.5)
+  Room 101
+2022-10-10T22:46:50Z: PLAYER CHATTED [  510234416] Meg270725            (-1992.1,   -19.2,   377.2)
+  yeap, the maid role is free?
+2022-10-10T22:46:51Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1995.1,   -19.3,   372.0)
+  right
+2022-10-10T22:46:54Z: PLAYER CHATTED [  510234416] Meg270725            (-1992.1,   -19.2,   377.2)
+  yeap
+2022-10-10T22:46:54Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1995.1,   -19.3,   372.0)
+  mhm
+2022-10-10T22:46:56Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.0,   -19.1,   372.0)
+  go
+2022-10-10T22:47:00Z: PLAYER CHATTED [ 2575173735] Abigailr261          (-2001.6,   -19.3,   368.8)
+  ##
+2022-10-10T22:47:01Z: PLAYER CHATTED [  510234416] Meg270725            (-1992.1,   -19.2,   377.2)
+  thanks
+2022-10-10T22:47:09Z: PLAYER REMOVED [ 2575173735] Abigailr261
+2022-10-10T22:47:12Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1999.5,   -19.3,   373.6)
+  hi
+2022-10-10T22:47:20Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1999.5,   -19.3,   373.6)
+  so I was wndering.
+2022-10-10T22:47:26Z: PLAYER CHATTED [ 3099847956] KindTween            (-1880.5,     6.1,   250.7)
+  *calls maid to room 302*
+2022-10-10T22:47:27Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2001.5,   -19.4,   375.4)
+  If you could be my assistant 
+2022-10-10T22:47:40Z: PLAYER REMOVED [ 3891479100] SophiaAbc1234560
+2022-10-10T22:47:52Z: PLAYER ADDED   [ 1840621159] Meiswierd555
+2022-10-10T22:48:13Z: PLAYER ADDED   [ 2575173735] Abigailr261
+2022-10-10T22:48:26Z: PLAYER REMOVED [ 1948608825] may123slay
+2022-10-10T22:48:33Z: PLAYER CHATTED [ 2222684529] Cutejay_jay2         (-1843.9,     4.1,   284.3)
+  STEP AWAY FROM THE KINGS GUARD
+2022-10-10T22:48:34Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1956.2,   -18.7,   290.7)
+  maintance
+2022-10-10T22:48:40Z: PLAYER CHATTED [ 2222684529] Cutejay_jay2         (-1843.9,     4.1,   284.3)
+  GOD SAVE THE KING
+2022-10-10T22:48:42Z: PLAYER CHATTED [  510234416] Meg270725            (-1884.9,     4.5,   263.2)
+  hi
+2022-10-10T22:48:45Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  hi
+2022-10-10T22:48:45Z: PLAYER CHATTED [ 1840621159] Meiswierd555         (-1990.3,   -17.9,   307.0)
+  hello
+2022-10-10T22:48:53Z: PLAYER CHATTED [ 3099847956] KindTween            (-1882.0,     6.7,   254.4)
+  hi
+2022-10-10T22:48:56Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  wouldyou like a room?
+2022-10-10T22:49:01Z: PLAYER CHATTED [ 2222684529] Cutejay_jay2         (-1840.5,     4.1,   307.7)
+  I got room 306 btw
+2022-10-10T22:49:01Z: PLAYER CHATTED [  510234416] Meg270725            (-1880.0,     4.5,   259.8)
+  what do you need, lady?
+2022-10-10T22:49:02Z: PLAYER CHATTED [ 1840621159] Meiswierd555         (-1990.3,   -17.9,   307.0)
+  yep
+2022-10-10T22:49:09Z: PLAYER CHATTED [ 3099847956] KindTween            (-1877.3,     4.7,   251.0)
+  im hungy
+2022-10-10T22:49:10Z: PLAYER CHATTED [ 1840621159] Meiswierd555         (-1990.3,   -17.9,   307.0)
+  king bed room
+2022-10-10T22:49:13Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  ok
+2022-10-10T22:49:17Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  80$
+2022-10-10T22:49:19Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  pls.
+2022-10-10T22:49:32Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  alright?
+2022-10-10T22:49:33Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  !
+2022-10-10T22:49:33Z: PLAYER CHATTED [  510234416] Meg270725            (-1880.6,     4.5,   259.1)
+  ok, what mealt do you want?
+2022-10-10T22:49:39Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  MAINTANCE
+2022-10-10T22:49:39Z: PLAYER CHATTED [  510234416] Meg270725            (-1880.6,     4.5,   259.1)
+  meal*
+2022-10-10T22:49:41Z: PLAYER REMOVED [  928805453] jaylalitt100
+2022-10-10T22:49:43Z: PLAYER CHATTED [ 3099847956] KindTween            (-1881.3,     6.3,   251.6)
+  ....
+2022-10-10T22:49:46Z: PLAYER ADDED   [ 3913509334] mayarazo
+2022-10-10T22:49:48Z: PLAYER CHATTED [ 3099847956] KindTween            (-1881.3,     6.3,   251.6)
+  bye
+2022-10-10T22:50:00Z: PLAYER REMOVED [ 2575173735] Abigailr261
+2022-10-10T22:50:04Z: PLAYER CHATTED [  510234416] Meg270725            (-1880.6,     4.7,   258.1)
+  what?
+2022-10-10T22:50:07Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  HI well
+2022-10-10T22:50:08Z: PLAYER ADDED   [ 1948608825] may123slay
+2022-10-10T22:50:10Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1994.4,   -19.6,   300.2)
+  come
+2022-10-10T22:50:16Z: PLAYER REMOVED [ 2222684529] Cutejay_jay2
+2022-10-10T22:50:22Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1970.3,   -19.6,   319.0)
+  your room 305
+2022-10-10T22:50:27Z: PLAYER CHATTED [ 1840621159] Meiswierd555         (-1979.3,   -18.4,   323.2)
+  alright
+2022-10-10T22:50:29Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1972.7,   -19.6,   321.5)
+  go fod it,
+2022-10-10T22:50:32Z: PLAYER CHATTED [ 1840621159] Meiswierd555         (-1979.3,   -18.4,   323.2)
+  have a good one
+2022-10-10T22:50:32Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1972.7,   -19.6,   321.5)
+  find it,
+2022-10-10T22:50:35Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1972.7,   -19.6,   321.5)
+  you top
+2022-10-10T22:50:36Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1972.7,   -19.6,   321.5)
+  too
+2022-10-10T22:51:12Z: PLAYER ADDED   [  189651673] RareMatthewAnthony
+2022-10-10T22:51:40Z: PLAYER CHATTED [ 3099847956] KindTween            (-1989.4,   -18.4,   309.2)
+  hi
+2022-10-10T22:51:44Z: PLAYER CHATTED [  510234416] Meg270725            (-1990.4,   -18.6,   312.4)
+  hi
+2022-10-10T22:51:51Z: PLAYER CHATTED [ 3099847956] KindTween            (-2015.8,   -18.9,   322.5)
+  thx
+2022-10-10T22:52:02Z: PLAYER CHATTED [  510234416] Meg270725            (-1998.8,   -19.1,   316.8)
+  ok
+2022-10-10T22:52:17Z: PLAYER CHATTED [  189651673] RareMatthewAnthony   (-1926.5,   -19.1,   290.1)
+  !owner
+2022-10-10T22:52:24Z: PLAYER CHATTED [ 3099847956] KindTween            (-1980.5,   -18.3,   319.1)
+  can i work here?
+2022-10-10T22:52:25Z: PLAYER ADDED   [ 2061159967] noahmillzpeen
+2022-10-10T22:52:26Z: PLAYER ADDED   [ 3086278900] Babygirlday9
+2022-10-10T22:52:27Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1877.7,   -18.9,   231.0)
+  hi
+2022-10-10T22:52:30Z: PLAYER CHATTED [  189651673] RareMatthewAnthony   (-1875.6,   -13.4,   231.7)
+  i would like a room
+2022-10-10T22:52:36Z: PLAYER CHATTED [  189651673] RareMatthewAnthony   (-1875.1,   -13.3,   230.1)
+  the nicest one you got
+2022-10-10T22:52:38Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1878.7,   -13.9,   227.8)
+  king or double
+2022-10-10T22:52:39Z: PLAYER ADDED   [ 3303140089] ZedTheEgg01
+2022-10-10T22:52:45Z: PLAYER CHATTED [  510234416] Meg270725            (-1953.4,   -18.9,   294.0)
+  talk with the owner
+2022-10-10T22:52:48Z: PLAYER CHATTED [  189651673] RareMatthewAnthony   (-1875.1,   -13.3,   230.1)
+  whatever one is bigger
+2022-10-10T22:52:48Z: PLAYER ADDED   [ 2205967817] leenabeana0707
+2022-10-10T22:52:53Z: PLAYER CHATTED [  189651673] RareMatthewAnthony   (-1875.1,   -13.3,   230.1)
+  is that a king or a double
+2022-10-10T22:52:58Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1878.7,   -13.9,   227.8)
+  king
+2022-10-10T22:52:59Z: PLAYER CHATTED [ 3099847956] KindTween            (-1956.9,   -19.2,   310.2)
+  owner! i want to work here
+2022-10-10T22:53:05Z: PLAYER CHATTED [  189651673] RareMatthewAnthony   (-1873.7,   -19.2,   228.0)
+  ill havea 
+2022-10-10T22:53:07Z: PLAYER CHATTED [  189651673] RareMatthewAnthony   (-1875.2,   -13.3,   230.4)
+  king
+2022-10-10T22:53:11Z: PLAYER CHATTED [  189651673] RareMatthewAnthony   (-1874.6,   -13.4,   229.5)
+  how much
+2022-10-10T22:53:16Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1878.7,   -13.9,   227.8)
+  500$ btw
+2022-10-10T22:53:21Z: PLAYER CHATTED [ 2061159967] noahmillzpeen        (-1912.3,   -18.5,   323.9)
+  hi
+2022-10-10T22:53:32Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1878.7,   -13.9,   227.8)
+  jk 80$
+2022-10-10T22:53:32Z: CHRCTER ADDED  [ 2205967817] leenabeana0707      
+2022-10-10T22:53:35Z: PLAYER CHATTED [  189651673] RareMatthewAnthony   (-1874.6,   -13.4,   229.5)
+  there 
+2022-10-10T22:53:36Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1879.2,   -13.9,   227.7)
+  oh sh
+2022-10-10T22:53:46Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1879.2,   -13.9,   227.7)
+  ###
+2022-10-10T22:53:47Z: PLAYER CHATTED [  189651673] RareMatthewAnthony   (-1874.6,   -13.4,   229.5)
+  eh to late lg
+2022-10-10T22:53:48Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1879.2,   -13.9,   227.7)
+  thanks!
+2022-10-10T22:53:50Z: PLAYER CHATTED [  189651673] RareMatthewAnthony   (-1874.6,   -13.4,   229.5)
+  np
+2022-10-10T22:53:53Z: PLAYER ADDED   [ 1879728743] sonicthehachoggo1
+2022-10-10T22:53:56Z: PLAYER CHATTED [  189651673] RareMatthewAnthony   (-1874.6,   -13.4,   229.5)
+  may i see my room
+2022-10-10T22:53:59Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1878.9,   -13.9,   227.6)
+  yes
+2022-10-10T22:54:05Z: PLAYER REMOVED [ 1879728743] sonicthehachoggo1
+2022-10-10T22:54:09Z: PLAYER CHATTED [ 2061159967] noahmillzpeen        (-1850.9,   -18.9,   348.5)
+  bye too easy
+2022-10-10T22:54:10Z: PLAYER REMOVED [ 3086278900] Babygirlday9
+2022-10-10T22:54:14Z: CHRCTER ADDED  [ 2205967817] leenabeana0707      
+2022-10-10T22:54:23Z: PLAYER CHATTED [  189651673] RareMatthewAnthony   (-1959.8,   -19.1,   255.8)
+  ok ty
+2022-10-10T22:54:24Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1963.3,   -19.6,   249.3)
+  its not finished but
+2022-10-10T22:54:26Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1964.0,   -19.6,   252.0)
+  sorry
+2022-10-10T22:54:27Z: PLAYER ADDED   [ 3957617477] Rooski226
+2022-10-10T22:54:30Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1964.0,   -19.6,   252.0)
+  lemme finish it!
+2022-10-10T22:54:30Z: PLAYER CHATTED [  189651673] RareMatthewAnthony   (-1961.0,   -19.1,   255.7)
+  its ok
+2022-10-10T22:54:46Z: PLAYER CHATTED [ 1840621159] Meiswierd555         (-1907.7,    -6.8,   240.7)
+  excuse me-
+2022-10-10T22:54:47Z: PLAYER REMOVED [ 3913509334] mayarazo
+2022-10-10T22:54:49Z: PLAYER CHATTED [  510234416] Meg270725            (-1908.9,    -7.5,   246.2)
+  hi
+2022-10-10T22:54:54Z: CHRCTER ADDED  [ 2061159967] noahmillzpeen       
+2022-10-10T22:55:00Z: PLAYER CHATTED [ 1840621159] Meiswierd555         (-1907.3,    -6.8,   241.2)
+  the owner assigned room 305 but i cant find it-
+2022-10-10T22:55:01Z: PLAYER CHATTED [ 3099847956] KindTween            (-1936.2,    -7.3,   234.5)
+  can i work here
+2022-10-10T22:55:03Z: PLAYER ADDED   [ 1486548525] iisimply_axnnie
+2022-10-10T22:55:04Z: PLAYER CHATTED [ 2061159967] noahmillzpeen        (-1989.0,   -18.6,   378.0)
+  hi can i work here
+2022-10-10T22:55:14Z: PLAYER CHATTED [  510234416] Meg270725            (-1908.9,    -7.5,   246.2)
+  ooh is here, come with me please
+2022-10-10T22:55:40Z: PLAYER ADDED   [ 1846751276] Usernameee123456
+2022-10-10T22:55:42Z: PLAYER CHATTED [  510234416] Meg270725            (-1839.5,     4.5,   314.8)
+  hm that is strange
+2022-10-10T22:55:44Z: PLAYER CHATTED [ 1840621159] Meiswierd555         (-1834.9,     5.2,   316.9)
+  confusing right?
+2022-10-10T22:55:47Z: PLAYER CHATTED [ 1948608825] may123slay           (-1831.0,     4.7,   296.6)
+  Um..hi
+2022-10-10T22:55:48Z: PLAYER CHATTED [  510234416] Meg270725            (-1839.5,     4.5,   314.8)
+  come please
+2022-10-10T22:55:54Z: PLAYER REMOVED [ 1846751276] Usernameee123456
+2022-10-10T22:55:56Z: PLAYER REMOVED [ 1486548525] iisimply_axnnie
+2022-10-10T22:56:00Z: PLAYER REMOVED [  189651673] RareMatthewAnthony
+2022-10-10T22:56:15Z: PLAYER REMOVED [ 2061159967] noahmillzpeen
+2022-10-10T22:56:25Z: PLAYER REMOVED [ 2205967817] leenabeana0707
+2022-10-10T22:56:31Z: PLAYER CHATTED [  510234416] Meg270725            (-1989.8,   -18.6,   313.5)
+  DYLAAAN
+2022-10-10T22:56:31Z: PLAYER ADDED   [ 1581538614] lucia23r7
+2022-10-10T22:56:40Z: PLAYER CHATTED [ 1948608825] may123slay           (-2008.6,   -19.3,   293.7)
+  *prepares for tommoroow*
+2022-10-10T22:56:40Z: PLAYER CHATTED [ 3303140089] ZedTheEgg01          (-1987.3,   -17.9,   318.1)
+  poor dylan
+2022-10-10T22:56:45Z: PLAYER REMOVED [ 3099847956] KindTween
+2022-10-10T22:56:51Z: PLAYER CHATTED [ 1948608825] may123slay           (-2007.5,   -19.3,   294.3)
+  *cleans veggies and fruits*
+2022-10-10T22:56:56Z: PLAYER CHATTED [ 3303140089] ZedTheEgg01          (-1987.3,   -17.9,   318.1)
+  idk who he is but poor dylan
+2022-10-10T22:57:03Z: PLAYER CHATTED [ 1840621159] Meiswierd555         (-1987.8,   -17.9,   314.3)
+  the host
+2022-10-10T22:57:10Z: PLAYER CHATTED [ 3303140089] ZedTheEgg01          (-1987.3,   -17.9,   318.1)
+  ah i see
+2022-10-10T22:57:20Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1970.7,   -18.7,   305.2)
+  ?
+2022-10-10T22:57:26Z: PLAYER CHATTED [ 1840621159] Meiswierd555         (-1971.8,   -17.9,   308.7)
+  so-
+2022-10-10T22:57:31Z: PLAYER CHATTED [ 1840621159] Meiswierd555         (-1971.8,   -17.9,   308.7)
+  theres no room 305
+2022-10-10T22:57:32Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1970.3,   -18.7,   305.6)
+  WHO
+2022-10-10T22:57:35Z: PLAYER CHATTED [ 1948608825] may123slay           (-2008.2,   -19.3,   293.8)
+  **orders adult drinks*
+2022-10-10T22:57:39Z: PLAYER CHATTED [  510234416] Meg270725            (-1967.3,   -18.6,   303.3)
+  dylan, you give she the room 305, but this room doesnt exist
+2022-10-10T22:57:39Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1970.3,   -18.7,   305.6)
+  oh-
+2022-10-10T22:57:45Z: PLAYER REMOVED [ 1581538614] lucia23r7
+2022-10-10T22:57:46Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1970.3,   -18.7,   305.6)
+  my bad
+2022-10-10T22:57:54Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1970.3,   -18.7,   305.6)
+  BUT WHO SAID POOR DYLAN?
+2022-10-10T22:57:55Z: PLAYER ADDED   [  763101389] aylinpereez
+2022-10-10T22:58:03Z: PLAYER CHATTED [ 1840621159] Meiswierd555         (-1972.8,   -17.9,   311.6)
+  this-
+2022-10-10T22:58:05Z: PLAYER CHATTED [  510234416] Meg270725            (-1967.5,   -18.6,   306.0)
+  this girl
+2022-10-10T22:58:06Z: PLAYER CHATTED [ 1840621159] Meiswierd555         (-1979.6,   -17.7,   317.7)
+  person
+2022-10-10T22:58:07Z: CHRCTER ADDED  [ 3957617477] Rooski226           
+2022-10-10T22:58:07Z: PLAYER CHATTED [ 1948608825] may123slay           (-2008.2,   -19.3,   293.8)
+  * wipes down counters*
+2022-10-10T22:58:13Z: PLAYER REMOVED [ 3303140089] ZedTheEgg01
+2022-10-10T22:58:13Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2013.5,   -18.6,   343.0)
+  mtf
+2022-10-10T22:58:15Z: PLAYER CHATTED [  510234416] Meg270725            (-1978.9,   -18.6,   312.0)
+  oh, sorry
+2022-10-10T22:58:19Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1977.5,   -19.6,   328.5)
+  come
+2022-10-10T22:58:21Z: PLAYER CHATTED [ 1948608825] may123slay           (-2022.9,   -19.1,   305.7)
+  *cleams tables*
+2022-10-10T22:58:38Z: PLAYER CHATTED [ 1948608825] may123slay           (-2017.3,   -19.1,   315.1)
+  time to prepare breakfast menu
+2022-10-10T22:58:45Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1867.9,     4.4,   284.1)
+  heres your dorm
+2022-10-10T22:58:50Z: PLAYER CHATTED [ 1840621159] Meiswierd555         (-1866.4,     5.2,   289.1)
+  thanks-
+2022-10-10T22:58:52Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1864.5,     4.4,   286.8)
+  np
+2022-10-10T22:58:54Z: PLAYER CHATTED [ 1948608825] may123slay           (-2006.7,   -19.3,   295.8)
+  Hm… how about pancakes and..
+2022-10-10T22:58:59Z: PLAYER CHATTED [  510234416] Meg270725            (-1865.8,     4.5,   290.4)
+  thanks sir
+2022-10-10T22:59:04Z: PLAYER CHATTED [ 1948608825] may123slay           (-2006.7,   -19.3,   295.8)
+  Milk or cereal
+2022-10-10T22:59:05Z: PLAYER CHATTED [  510234416] Meg270725            (-1869.7,     4.5,   287.3)
+  good night
+2022-10-10T22:59:22Z: PLAYER REMOVED [  763101389] aylinpereez
+2022-10-10T22:59:30Z: PLAYER ADDED   [ 3297451599] firepop454
+2022-10-10T23:00:12Z: PLAYER CHATTED [ 1948608825] may123slay           (-2018.1,   -19.1,   301.1)
+  Hello
+2022-10-10T23:00:17Z: PLAYER CHATTED [  510234416] Meg270725            (-2023.9,   -19.3,   307.5)
+  hi
+2022-10-10T23:00:21Z: PLAYER CHATTED [ 1948608825] may123slay           (-2018.1,   -19.1,   301.1)
+  Can u clean upstairs tables please
+2022-10-10T23:00:43Z: PLAYER CHATTED [  510234416] Meg270725            (-2023.9,   -19.3,   307.5)
+  sure
+2022-10-10T23:00:46Z: PLAYER CHATTED [ 1948608825] may123slay           (-2018.1,   -19.1,   299.4)
+  Thansk
+2022-10-10T23:01:15Z: PLAYER REMOVED [ 3297451599] firepop454
+2022-10-10T23:01:16Z: PLAYER CHATTED [ 1948608825] may123slay           (-2005.3,   -19.1,   310.1)
+  brekafesst will be doen soon!
+2022-10-10T23:01:39Z: PLAYER CHATTED [ 1948608825] may123slay           (-2009.1,   -19.1,   308.5)
+  ok one more 
+2022-10-10T23:01:59Z: PLAYER CHATTED [ 1948608825] may123slay           (-2016.3,   -19.1,   303.1)
+  Nvm
+2022-10-10T23:02:00Z: PLAYER CHATTED [  510234416] Meg270725            (-2011.3,   -19.3,   320.3)
+  all is ready to the breakfast
+2022-10-10T23:02:06Z: PLAYER CHATTED [ 1948608825] may123slay           (-2018.3,   -19.1,   314.2)
+  yes
+2022-10-10T23:02:22Z: PLAYER ADDED   [ 3831336047] abbytheproo
+2022-10-10T23:02:23Z: PLAYER CHATTED [ 1948608825] may123slay           (-2018.3,   -19.1,   314.2)
+  U can ask Ty boss to tell the mantenice about breakfast
+2022-10-10T23:02:39Z: PLAYER CHATTED [  510234416] Meg270725            (-2010.8,   -19.1,   324.4)
+  ok
+2022-10-10T23:02:39Z: PLAYER CHATTED [ 1948608825] may123slay           (-2018.3,   -19.1,   314.2)
+  To ask the costumers
+2022-10-10T23:02:42Z: PLAYER CHATTED [ 1948608825] may123slay           (-2018.3,   -19.1,   314.2)
+  Alr
+2022-10-10T23:02:48Z: PLAYER CHATTED [  510234416] Meg270725            (-2003.3,   -19.1,   320.0)
+  Do you mind if I bring the boss some breakfast?
+2022-10-10T23:02:50Z: PLAYER CHATTED [ 1948608825] may123slay           (-2018.3,   -19.1,   314.2)
+  I need groceries
+2022-10-10T23:02:54Z: PLAYER CHATTED [ 1948608825] may123slay           (-2018.3,   -19.1,   314.2)
+  Sure
+2022-10-10T23:03:11Z: PLAYER CHATTED [  510234416] Meg270725            (-2007.1,   -19.1,   322.0)
+  thanks
+2022-10-10T23:03:14Z: PLAYER CHATTED [ 1948608825] may123slay           (-2016.2,   -19.1,   318.4)
+  Mhm!
+2022-10-10T23:03:22Z: CHRCTER ADDED  [ 3831336047] abbytheproo         
+2022-10-10T23:03:32Z: PLAYER CHATTED [  510234416] Meg270725            (-1964.9,   -18.6,   293.7)
+  sir, your breakfast is ready
+2022-10-10T23:03:35Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1968.4,   -19.6,   287.7)
+  thank you.
+2022-10-10T23:03:37Z: PLAYER CHATTED [ 1948608825] may123slay           (-1955.0,   -19.3,   300.9)
+  :)
+2022-10-10T23:03:40Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1968.4,   -19.6,   287.7)
+  Ill be there
+2022-10-10T23:03:48Z: PLAYER REMOVED [ 3831336047] abbytheproo
+2022-10-10T23:03:50Z: PLAYER CHATTED [  510234416] Meg270725            (-1964.9,   -18.6,   293.7)
+  take your time, dont worry
+2022-10-10T23:03:55Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1977.4,   -19.5,   278.7)
+  thank you.
+2022-10-10T23:04:00Z: PLAYER CHATTED [ 1948608825] may123slay           (-1906.7,   -19.9,   348.3)
+  I’m pumped
+2022-10-10T23:04:06Z: PLAYER CHATTED [ 1948608825] may123slay           (-1906.7,   -19.9,   348.3)
+  *yawns*
+2022-10-10T23:06:12Z: PLAYER CHATTED [  510234416] Meg270725            (-1867.5,     4.5,   288.8)
+  hii
+2022-10-10T23:06:38Z: PLAYER CHATTED [  510234416] Meg270725            (-1886.7,     4.5,   267.3)
+  the gest is in the cafe
+2022-10-10T23:06:43Z: PLAYER CHATTED [ 1948608825] may123slay           (-1977.9,   -18.4,   313.7)
+  Sorry to bother sir, but can u ask mantenice to tell true costumers breakfeast is starting..?!
+2022-10-10T23:06:53Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1986.6,   -19.6,   294.3)
+  yes.
+2022-10-10T23:06:53Z: PLAYER CHATTED [ 1948608825] may123slay           (-1983.8,   -19.3,   299.4)
+  The*
+2022-10-10T23:06:55Z: PLAYER CHATTED [ 1948608825] may123slay           (-1982.1,   -19.3,   302.0)
+  Ok
+2022-10-10T23:07:02Z: PLAYER ADDED   [  183537935] roxyiza
+2022-10-10T23:07:27Z: PLAYER CHATTED [ 1948608825] may123slay           (-2008.7,   -19.1,   309.8)
+  Hi
+2022-10-10T23:07:32Z: PLAYER CHATTED [ 1840621159] Meiswierd555         (-2011.8,   -18.6,   320.5)
+  hello
+2022-10-10T23:07:41Z: PLAYER CHATTED [ 1948608825] may123slay           (-2008.4,   -19.1,   310.0)
+  Pancakes or cereal
+2022-10-10T23:07:50Z: PLAYER CHATTED [ 1840621159] Meiswierd555         (-2014.1,   -18.5,   314.4)
+  pancakes
+2022-10-10T23:07:57Z: PLAYER CHATTED [ 1948608825] may123slay           (-2008.4,   -19.1,   310.0)
+  $5 to the owner
+2022-10-10T23:08:08Z: PLAYER CHATTED [ 1840621159] Meiswierd555         (-2014.1,   -18.5,   314.4)
+  oh-
+2022-10-10T23:08:11Z: PLAYER REMOVED [  183537935] roxyiza
+2022-10-10T23:08:11Z: PLAYER CHATTED [ 1948608825] may123slay           (-2008.6,   -19.1,   309.0)
+  Jk
+2022-10-10T23:08:21Z: PLAYER CHATTED [ 1840621159] Meiswierd555         (-2016.2,   -18.6,   314.4)
+  I have a 24 hr donate limit :^
+2022-10-10T23:08:30Z: PLAYER CHATTED [ 1840621159] Meiswierd555         (-2018.8,   -18.6,   315.8)
+  mkay
+2022-10-10T23:08:30Z: PLAYER CHATTED [ 1948608825] may123slay           (-2008.6,   -19.1,   309.0)
+  Oop jk
+2022-10-10T23:09:15Z: CHRCTER ADDED  [ 1948608825] may123slay          
+2022-10-10T23:09:40Z: PLAYER CHATTED [ 1948608825] may123slay           (-2007.0,   -19.3,   292.5)
+  Sushi or pasta or sushi
+2022-10-10T23:09:44Z: PLAYER CHATTED [ 1948608825] may123slay           (-2007.0,   -19.3,   292.5)
+  for lunch
+2022-10-10T23:09:54Z: PLAYER CHATTED [ 1948608825] may123slay           (-2007.1,   -19.3,   292.6)
+  No taco and pasta
+2022-10-10T23:10:24Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1960.2,   -18.7,   292.3)
+  *calls chef*
+2022-10-10T23:11:00Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2014.1,   -18.5,   314.4)
+  chef.
+2022-10-10T23:11:04Z: PLAYER CHATTED [ 1948608825] may123slay           (-2015.8,   -19.1,   299.3)
+  Yes sir
+2022-10-10T23:11:07Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2014.1,   -18.5,   314.4)
+  melli
+2022-10-10T23:11:21Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2014.1,   -18.5,   314.4)
+  get me...
+2022-10-10T23:11:23Z: PLAYER CHATTED [ 1948608825] may123slay           (-2010.7,   -19.1,   307.6)
+  afk but hurry
+2022-10-10T23:11:24Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2014.1,   -18.5,   314.4)
+  hmmm.
+2022-10-10T23:11:32Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2014.1,   -18.5,   314.4)
+  get me shushi
+2022-10-10T23:11:42Z: PLAYER CHATTED [ 1948608825] may123slay           (-2010.7,   -19.1,   307.6)
+  Ok
+2022-10-10T23:11:47Z: PLAYER CHATTED [ 1948608825] may123slay           (-2010.7,   -19.1,   307.6)
+  but that’s for dinner
+2022-10-10T23:11:57Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2014.1,   -18.5,   314.4)
+  ok.
+2022-10-10T23:12:03Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2014.1,   -18.5,   314.4)
+  get me Pasta
+2022-10-10T23:12:08Z: PLAYER CHATTED [ 1948608825] may123slay           (-2010.7,   -19.1,   307.6)
+  for lunch we have pasta or tacos
+2022-10-10T23:12:13Z: PLAYER CHATTED [ 1948608825] may123slay           (-2010.7,   -19.1,   307.6)
+  Ok!
+2022-10-10T23:12:14Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2014.1,   -18.5,   314.4)
+  pasta.
+2022-10-10T23:12:36Z: PLAYER CHATTED [ 1948608825] may123slay           (-2010.3,   -19.3,   294.0)
+  why we fry pasta
+2022-10-10T23:12:45Z: PLAYER CHATTED [ 1948608825] may123slay           (-2013.2,   -19.3,   294.4)
+  wrong person
+2022-10-10T23:12:53Z: PLAYER CHATTED [  510234416] Meg270725            (-1905.1,     4.5,   255.5)
+  why i have the pasta
+2022-10-10T23:12:59Z: PLAYER CHATTED [ 1948608825] may123slay           (-2010.1,   -18.9,   294.6)
+  wrong person
+2022-10-10T23:13:49Z: PLAYER ADDED   [ 3956583421] Khtbkd
+2022-10-10T23:13:55Z: PLAYER CHATTED [ 1948608825] may123slay           (-2014.9,   -19.1,   298.2)
+  Dinner will be served shortly
+2022-10-10T23:14:13Z: PLAYER ADDED   [ 2752968687] Sophia_bellahu
+2022-10-10T23:14:20Z: PLAYER ADDED   [ 1015038785] Genesis14387
+2022-10-10T23:14:34Z: PLAYER CHATTED [ 1948608825] may123slay           (-2010.1,   -19.3,   294.6)
+  not now
+2022-10-10T23:14:40Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1980.0,   -18.6,   318.6)
+  NOW!
+2022-10-10T23:14:46Z: PLAYER CHATTED [  510234416] Meg270725            (-1977.0,   -19.5,   325.5)
+  need somethnig sir?
+2022-10-10T23:14:49Z: PLAYER CHATTED [ 1948608825] may123slay           (-2008.8,   -19.3,   290.0)
+  I need time to cook
+2022-10-10T23:14:51Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1979.2,   -18.8,   320.3)
+  go tell the people dinner is starting.
+2022-10-10T23:15:05Z: PLAYER CHATTED [  510234416] Meg270725            (-1954.5,   -19.5,   298.0)
+  ok
+2022-10-10T23:15:20Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2014.3,   -18.4,   316.1)
+  may
+2022-10-10T23:15:23Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2022.1,   -19.4,   313.8)
+  melli
+2022-10-10T23:15:27Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2022.1,   -19.4,   313.8)
+  no steak for anyone
+2022-10-10T23:15:34Z: PLAYER CHATTED [  510234416] Meg270725            (-1944.5,   -18.6,   280.8)
+  all the guests please go to the dinner room
+2022-10-10T23:15:36Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2022.1,   -19.4,   313.8)
+  steak is off for today
+2022-10-10T23:16:07Z: PLAYER CHATTED [ 2752968687] Sophia_bellahu       (-1981.6,   -17.9,   319.7)
+  Hello
+2022-10-10T23:16:09Z: PLAYER CHATTED [  510234416] Meg270725            (-1940.4,    -7.5,   272.6)
+  all the guests go to the dinner room please
+2022-10-10T23:16:10Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1977.5,   -19.5,   325.1)
+  hi.
+2022-10-10T23:16:16Z: PLAYER REMOVED [ 2752968687] Sophia_bellahu
+2022-10-10T23:16:22Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2011.7,   -19.6,   293.1)
+  no steak for today
+2022-10-10T23:16:29Z: PLAYER CHATTED [ 1948608825] may123slay           (-2014.3,   -19.1,   301.1)
+  Oh ok,
+2022-10-10T23:16:30Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2014.0,   -19.4,   304.0)
+  only for me
+2022-10-10T23:16:35Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2015.2,   -19.4,   302.8)
+  but not yet.
+2022-10-10T23:16:46Z: PLAYER ADDED   [ 1671836826] starlingqueen99
+2022-10-10T23:16:47Z: PLAYER CHATTED [ 1948608825] may123slay           (-2008.8,   -19.3,   290.0)
+  Salmon then
+2022-10-10T23:16:52Z: PLAYER ADDED   [ 3587774388] belikeMari081
+2022-10-10T23:16:57Z: PLAYER ADDED   [ 1271147017] LovinCorgis
+2022-10-10T23:17:00Z: PLAYER CHATTED [  510234416] Meg270725            (-1980.6,   -18.4,   318.4)
+  all is ready sir
+2022-10-10T23:17:03Z: PLAYER CHATTED [ 1948608825] may123slay           (-2012.4,   -19.1,   305.6)
+  shush i or salmon
+2022-10-10T23:17:11Z: PLAYER ADDED   [ 2647016246] Pigeatscheese
+2022-10-10T23:17:40Z: PLAYER ADDED   [  302454721] yalikyai
+2022-10-10T23:18:01Z: PLAYER ADDED   [ 1962342073] ishan0255
+2022-10-10T23:18:01Z: PLAYER CHATTED [ 1948608825] may123slay           (-2012.1,   -16.5,   308.6)
+  RESTRAINT NOW CLSOED
+2022-10-10T23:18:12Z: PLAYER REMOVED [ 2647016246] Pigeatscheese
+2022-10-10T23:18:13Z: PLAYER REMOVED [  302454721] yalikyai
+2022-10-10T23:18:15Z: CHRCTER ADDED  [ 3587774388] belikeMari081       
+2022-10-10T23:18:28Z: PLAYER CHATTED [ 1948608825] may123slay           (-2007.3,   -19.3,   294.3)
+  *wahsees dishes*
+2022-10-10T23:18:33Z: CHRCTER ADDED  [ 1671836826] starlingqueen99     
+2022-10-10T23:18:51Z: PLAYER REMOVED [ 3956583421] Khtbkd
+2022-10-10T23:18:52Z: PLAYER CHATTED [ 1948608825] may123slay           (-1980.7,   -18.3,   317.9)
+  Hello, sir!?
+2022-10-10T23:18:54Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1983.8,   -18.5,   321.9)
+  ok.
+2022-10-10T23:19:04Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1983.8,   -18.5,   321.9)
+  get me a well cooked steal.
+2022-10-10T23:19:06Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1983.8,   -18.5,   321.9)
+  steak.
+2022-10-10T23:19:26Z: PLAYER CHATTED [ 1948608825] may123slay           (-1980.9,   -18.2,   318.5)
+  Btw this is a motel sir, I’m like a 3 star chef
+2022-10-10T23:19:30Z: PLAYER CHATTED [ 1948608825] may123slay           (-1980.9,   -18.2,   318.5)
+  But ok
+2022-10-10T23:19:32Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1983.8,   -18.5,   321.9)
+  and tell meghan to bring it to me when its done.
+2022-10-10T23:19:37Z: PLAYER CHATTED [ 1948608825] may123slay           (-1980.9,   -18.2,   318.5)
+  Alr
+2022-10-10T23:19:37Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1983.8,   -18.5,   321.9)
+  JUST DO IT!
+2022-10-10T23:19:40Z: PLAYER CHATTED [ 1948608825] may123slay           (-1980.9,   -18.2,   318.5)
+  Gee
+2022-10-10T23:19:44Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1963.9,   -18.6,   299.5)
+  AY
+2022-10-10T23:19:48Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1963.9,   -18.6,   299.5)
+  watch yo mouth
+2022-10-10T23:19:49Z: PLAYER CHATTED [ 1948608825] may123slay           (-2013.0,   -19.1,   317.8)
+  I jsut wahses dishes..
+2022-10-10T23:20:02Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2012.9,   -19.6,   294.2)
+  you know what
+2022-10-10T23:20:10Z: PLAYER CHATTED [ 1948608825] may123slay           (-2008.9,   -19.3,   294.0)
+  ..
+2022-10-10T23:20:10Z: PLAYER CHATTED [ 1271147017] LovinCorgis          (-1998.3,   -19.3,   369.0)
+  where is the host
+2022-10-10T23:20:17Z: PLAYER CHATTED [ 1948608825] may123slay           (-2008.9,   -19.3,   294.0)
+  Kitchen
+2022-10-10T23:20:27Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2014.8,   -19.4,   295.8)
+  there.
+2022-10-10T23:20:31Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2015.3,   -19.4,   295.8)
+  happy.
+2022-10-10T23:20:34Z: PLAYER CHATTED [ 1948608825] may123slay           (-2010.9,   -19.3,   293.5)
+  ##
+2022-10-10T23:20:36Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2015.3,   -19.4,   295.8)
+  :)
+2022-10-10T23:20:40Z: PLAYER CHATTED [ 1948608825] may123slay           (-2010.9,   -19.3,   293.5)
+  I guess
+2022-10-10T23:20:42Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2016.1,   -19.4,   297.4)
+  here
+2022-10-10T23:20:43Z: PLAYER CHATTED [ 1271147017] LovinCorgis          (-2018.7,   -19.0,   330.8)
+  excuse me? host?
+2022-10-10T23:20:44Z: PLAYER CHATTED [  510234416] Meg270725            (-2015.4,   -19.3,   303.5)
+  all its ok?
+2022-10-10T23:20:46Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2016.5,   -19.4,   297.9)
+  ?
+2022-10-10T23:20:48Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2016.5,   -19.4,   297.9)
+  yes.
+2022-10-10T23:20:48Z: PLAYER CHATTED [ 1948608825] may123slay           (-2010.9,   -19.3,   293.5)
+  Thansk
+2022-10-10T23:20:56Z: PLAYER CHATTED [ 1271147017] LovinCorgis          (-2005.8,   -18.7,   336.5)
+  can I work here?
+2022-10-10T23:20:58Z: PLAYER CHATTED [ 1948608825] may123slay           (-2007.2,   -19.3,   294.2)
+  *washe plates*
+2022-10-10T23:21:01Z: PLAYER CHATTED [ 3587774388] belikeMari081        (-2011.8,   -18.7,   322.7)
+  hi
+2022-10-10T23:21:09Z: PLAYER CHATTED [ 1948608825] may123slay           (-2009.1,   -19.3,   293.6)
+  Hey,
+2022-10-10T23:21:09Z: PLAYER CHATTED [ 1671836826] starlingqueen99      (-1998.8,   -19.5,   315.1)
+  host
+2022-10-10T23:21:13Z: PLAYER CHATTED [  510234416] Meg270725            (-2012.6,   -19.5,   294.8)
+  are you ok melli?
+2022-10-10T23:21:18Z: PLAYER CHATTED [ 1948608825] may123slay           (-2009.1,   -19.3,   293.6)
+  yeah 
+2022-10-10T23:21:18Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  hi
+2022-10-10T23:21:24Z: PLAYER CHATTED [ 3587774388] belikeMari081        (-2016.7,   -18.7,   315.5)
+  hi
+2022-10-10T23:21:30Z: PLAYER CHATTED [  510234416] Meg270725            (-2012.6,   -19.5,   294.8)
+  ok, if you need something only tell me
+2022-10-10T23:21:33Z: PLAYER CHATTED [ 1671836826] starlingqueen99      (-1990.5,   -19.0,   306.6)
+  can i geta room
+2022-10-10T23:21:36Z: PLAYER CHATTED [ 3587774388] belikeMari081        (-2016.7,   -18.7,   315.5)
+  hello cna i order??
+2022-10-10T23:21:37Z: PLAYER CHATTED [ 1948608825] may123slay           (-2009.1,   -19.3,   293.6)
+  Alr 
+2022-10-10T23:21:37Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  u
+2022-10-10T23:21:43Z: PLAYER ADDED   [ 1564129081] ashley_ansell
+2022-10-10T23:21:44Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  75$ or 80$
+2022-10-10T23:21:48Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  for room
+2022-10-10T23:21:51Z: PLAYER CHATTED [ 1671836826] starlingqueen99      (-1990.5,   -19.0,   306.6)
+  75
+2022-10-10T23:21:54Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  double is 75$
+2022-10-10T23:21:56Z: PLAYER CHATTED [ 3587774388] belikeMari081        (-2017.6,   -18.7,   311.2)
+  guys
+2022-10-10T23:21:57Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  ok
+2022-10-10T23:22:00Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  ########
+2022-10-10T23:22:01Z: PLAYER CHATTED [ 1948608825] may123slay           (-2009.1,   -19.3,   293.6)
+  The boss should be doen with his food ina. Couple of min brign his plate down so I can wahnit
+2022-10-10T23:22:03Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  room
+2022-10-10T23:22:04Z: PLAYER CHATTED [ 3587774388] belikeMari081        (-2017.6,   -18.7,   311.2)
+  hi
+2022-10-10T23:22:05Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  ###
+2022-10-10T23:22:06Z: PLAYER REMOVED [ 1564129081] ashley_ansell
+2022-10-10T23:22:07Z: PLAYER ADDED   [ 1564129081] ashley_ansell
+2022-10-10T23:22:07Z: PLAYER CHATTED [  510234416] Meg270725            (-2014.3,   -19.3,   304.0)
+  hi
+2022-10-10T23:22:07Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  #
+2022-10-10T23:22:08Z: PLAYER CHATTED [ 1948608825] may123slay           (-2017.0,   -19.1,   298.8)
+  later
+2022-10-10T23:22:09Z: PLAYER CHATTED [ 1671836826] starlingqueen99      (-1990.5,   -19.0,   306.6)
+  nvm 80
+2022-10-10T23:22:10Z: PLAYER CHATTED [ 3587774388] belikeMari081        (-2017.6,   -18.7,   311.2)
+  do u have burgers here
+2022-10-10T23:22:14Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  ok
+2022-10-10T23:22:18Z: PLAYER CHATTED [ 1948608825] may123slay           (-2011.6,   -19.1,   307.7)
+  yes but the kitchen is clsoed
+2022-10-10T23:22:19Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  room three
+2022-10-10T23:22:22Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  0
+2022-10-10T23:22:25Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  6
+2022-10-10T23:22:29Z: PLAYER CHATTED [ 3587774388] belikeMari081        (-2017.6,   -18.7,   311.2)
+  oh ok 
+2022-10-10T23:22:29Z: PLAYER CHATTED [ 1671836826] starlingqueen99      (-1990.5,   -19.0,   306.6)
+  kk
+2022-10-10T23:22:29Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  come
+2022-10-10T23:22:39Z: PLAYER CHATTED [ 3587774388] belikeMari081        (-2017.6,   -18.7,   311.2)
+  ty anyways
+2022-10-10T23:22:59Z: PLAYER CHATTED [  510234416] Meg270725            (-2015.5,   -19.3,   304.4)
+  well, maybe we need sleep
+2022-10-10T23:23:16Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1834.6,     4.9,   304.4)
+  oh
+2022-10-10T23:23:40Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1897.8,    -7.6,   256.4)
+  who r u
+2022-10-10T23:23:42Z: PLAYER ADDED   [ 3911454013] Chanel_swaggs
+2022-10-10T23:23:43Z: PLAYER REMOVED [ 1271147017] LovinCorgis
+2022-10-10T23:23:47Z: PLAYER ADDED   [  913390304] Rigby101510
+2022-10-10T23:23:53Z: PLAYER REMOVED [ 3587774388] belikeMari081
+2022-10-10T23:23:56Z: PLAYER ADDED   [ 3545112905] Thegymnastfleemaster
+2022-10-10T23:23:59Z: PLAYER ADDED   [  281098053] nechyymami
+2022-10-10T23:24:03Z: CHRCTER ADDED  [  913390304] Rigby101510         
+2022-10-10T23:24:16Z: CHRCTER ADDED  [ 3545112905] Thegymnastfleemaster
+2022-10-10T23:24:19Z: PLAYER CHATTED [  510234416] Meg270725            (-1990.5,   -18.6,   307.8)
+  hi?
+2022-10-10T23:24:21Z: CHRCTER ADDED  [  281098053] nechyymami          
+2022-10-10T23:24:24Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1899.9,    -7.6,   253.5)
+  WHI R U
+2022-10-10T23:24:27Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1899.9,    -7.6,   253.5)
+  WHO
+2022-10-10T23:24:27Z: PLAYER CHATTED [  913390304] Rigby101510          (-1987.6,   -19.1,   304.7)
+  Hi I’m here to check in
+2022-10-10T23:24:28Z: PLAYER REMOVED [ 1564129081] ashley_ansell
+2022-10-10T23:24:30Z: PLAYER CHATTED [ 1962342073] ishan0255            (-1900.6,    -7.2,   248.8)
+  I just your party 
+2022-10-10T23:24:34Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1899.9,    -7.6,   253.5)
+  oh
+2022-10-10T23:24:35Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        (-1989.0,   -19.2,   378.0)
+  Heyy Marley
+2022-10-10T23:24:43Z: PLAYER REMOVED [ 1962342073] ishan0255
+2022-10-10T23:24:43Z: PLAYER CHATTED [  281098053] nechyymami           (-1996.7,   -19.5,   301.1)
+  hello
+2022-10-10T23:24:56Z: PLAYER CHATTED [  510234416] Meg270725            (-1990.5,   -18.6,   307.8)
+  sorry, the reception is close but can say host to call the person
+2022-10-10T23:25:07Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  ok
+2022-10-10T23:25:13Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  WHAT DO YOU NEED?
+2022-10-10T23:25:14Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        (-1987.0,   -18.6,   315.0)
+  HOST
+2022-10-10T23:25:24Z: PLAYER CHATTED [  913390304] Rigby101510          (-1989.4,   -18.8,   305.5)
+  I’m here to check in
+2022-10-10T23:25:39Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  Ik.
+2022-10-10T23:25:40Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        (-1987.0,   -18.6,   311.4)
+  Oh Marley ur here hey
+2022-10-10T23:25:41Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  k*
+2022-10-10T23:25:45Z: PLAYER CHATTED [ 1671836826] starlingqueen99      (-1925.5,   -16.9,   237.6)
+  abc for me
+2022-10-10T23:25:47Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1988.1,   -18.0,   307.8)
+  oh hey
+2022-10-10T23:25:51Z: PLAYER REMOVED [  281098053] nechyymami
+2022-10-10T23:25:51Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  what type of room?
+2022-10-10T23:26:07Z: PLAYER REMOVED [ 3957617477] Rooski226
+2022-10-10T23:26:07Z: PLAYER ADDED   [ 3957617477] Rooski226
+2022-10-10T23:26:10Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        (-1986.9,   -18.6,   309.3)
+  Are u looking for a room or job?
+2022-10-10T23:26:18Z: PLAYER CHATTED [  913390304] Rigby101510          (-1990.3,   -18.8,   305.4)
+  Can I have king bed?
+2022-10-10T23:26:20Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1988.1,   -18.0,   307.8)
+  prob a job T-T
+2022-10-10T23:26:22Z: CHRCTER ADDED  [ 3957617477] Rooski226           
+2022-10-10T23:26:24Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  yeah
+2022-10-10T23:26:25Z: PLAYER CHATTED [ 3911454013] Chanel_swaggs        (-1986.9,   -18.6,   309.3)
+  Same lol 
+2022-10-10T23:26:36Z: PLAYER CHATTED [ 1671836826] starlingqueen99      (-2012.2,   -19.5,   327.0)
+  abc fir me
+2022-10-10T23:27:03Z: PLAYER ADDED   [ 3115864316] ryanfiona09
+2022-10-10T23:27:20Z: PLAYER CHATTED [ 1671836826] starlingqueen99      (-1993.2,   -18.3,   309.1)
+  abc for me
+2022-10-10T23:27:48Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  back
+2022-10-10T23:27:57Z: PLAYER CHATTED [  913390304] Rigby101510          (-1991.6,   -18.8,   305.6)
+  Uh?
+2022-10-10T23:27:59Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  so
+2022-10-10T23:28:02Z: PLAYER CHATTED [  913390304] Rigby101510          (-1991.6,   -18.8,   305.6)
+  Huh*
+2022-10-10T23:28:04Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  80$
+2022-10-10T23:28:07Z: PLAYER REMOVED [ 3911454013] Chanel_swaggs
+2022-10-10T23:28:09Z: PLAYER CHATTED [  913390304] Rigby101510          (-1991.6,   -18.8,   305.6)
+  Ok
+2022-10-10T23:28:34Z: PLAYER ADDED   [ 3922463635] Bllvibesguys
+2022-10-10T23:28:35Z: PLAYER CHATTED [  913390304] Rigby101510          (-1991.6,   -18.8,   305.6)
+  How do I pay?
+2022-10-10T23:28:36Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  Hey
+2022-10-10T23:28:43Z: PLAYER REMOVED [  913390304] Rigby101510
+2022-10-10T23:28:46Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  by
+2022-10-10T23:28:48Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  uh
+2022-10-10T23:28:50Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1990.8,   -18.0,   305.8)
+  Hello, could i get a job here? :)
+2022-10-10T23:28:53Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  yeah!
+2022-10-10T23:28:56Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  what role?
+2022-10-10T23:28:58Z: PLAYER ADDED   [ 2593451108] SUM2ERS
+2022-10-10T23:29:00Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1990.8,   -18.0,   305.8)
+  idk
+2022-10-10T23:29:01Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  theres receptionist 
+2022-10-10T23:29:13Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  but you gotta tell peole to pay me
+2022-10-10T23:29:21Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1990.8,   -18.0,   305.8)
+  alr
+2022-10-10T23:29:22Z: PLAYER CHATTED [ 3115864316] ryanfiona09          (-1988.4,   -18.3,   305.3)
+  Can I get room with king bed
+2022-10-10T23:29:23Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.7,   -19.4,   301.1)
+  ok
+2022-10-10T23:29:25Z: CHRCTER ADDED  [ 3957617477] Rooski226           
+2022-10-10T23:29:30Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1988.1,   -19.6,   302.8)
+  yeah
+2022-10-10T23:29:33Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1988.1,   -19.6,   302.8)
+  80$
+2022-10-10T23:29:36Z: PLAYER REMOVED [ 2593451108] SUM2ERS
+2022-10-10T23:29:38Z: PLAYER CHATTED [ 3115864316] ryanfiona09          (-1988.8,   -18.3,   304.0)
+  What room
+2022-10-10T23:29:40Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  how do ik what rooms to give ppl?
+2022-10-10T23:29:42Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1988.1,   -19.6,   302.8)
+  room
+2022-10-10T23:29:46Z: PLAYER ADDED   [ 1137576337] victoria_70028
+2022-10-10T23:29:47Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1988.8,   -16.8,   301.0)
+  you tel the,
+2022-10-10T23:29:48Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1988.8,   -16.8,   301.0)
+  them
+2022-10-10T23:29:59Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1988.8,   -19.4,   302.9)
+  theres room 206 i think
+2022-10-10T23:30:07Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1988.8,   -19.4,   302.9)
+  ima go check come blake
+2022-10-10T23:30:08Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  how do ik if their taken or not?
+2022-10-10T23:30:13Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1990.8,   -18.7,   308.1)
+  ill tell you
+2022-10-10T23:30:15Z: PLAYER CHATTED [ 3115864316] ryanfiona09          (-1987.3,   -19.2,   303.0)
+  Okay I’ll take it
+2022-10-10T23:30:18Z: PLAYER ADDED   [ 2891451229] JJman14405
+2022-10-10T23:30:18Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  alr
+2022-10-10T23:30:21Z: PLAYER CHATTED [  510234416] Meg270725            (-1981.4,   -18.5,   317.8)
+  come sir
+2022-10-10T23:30:26Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  Hello
+2022-10-10T23:30:30Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1926.6,   -18.7,   262.1)
+  you say a random room
+2022-10-10T23:30:30Z: PLAYER REMOVED [ 1137576337] victoria_70028
+2022-10-10T23:30:34Z: CHRCTER ADDED  [ 3957617477] Rooski226           
+2022-10-10T23:30:36Z: PLAYER REMOVED [ 3957617477] Rooski226
+2022-10-10T23:30:39Z: PLAYER CHATTED [ 3922463635] Bllvibesguys         (-1990.1,   -18.6,   303.8)
+  Hi
+2022-10-10T23:30:43Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1939.5,   -18.7,   275.7)
+  and Ill see if its open
+2022-10-10T23:30:44Z: PLAYER ADDED   [  913390304] Rigby101510
+2022-10-10T23:30:54Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  How can i help you today? :)
+2022-10-10T23:30:56Z: PLAYER ADDED   [  136239406] ChibiCuteGirl
+2022-10-10T23:31:06Z: PLAYER CHATTED [ 3922463635] Bllvibesguys         (-1990.1,   -18.6,   303.8)
+   Can I work here please 
+2022-10-10T23:31:14Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  uh
+2022-10-10T23:31:15Z: CHRCTER ADDED  [  913390304] Rigby101510         
+2022-10-10T23:31:17Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  sure
+2022-10-10T23:31:23Z: PLAYER REMOVED [ 3115864316] ryanfiona09
+2022-10-10T23:31:26Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1977.6,   -19.2,   301.6)
+  YOU GOTTA TELL HER WHAT ROLE
+2022-10-10T23:31:32Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  what role?
+2022-10-10T23:31:33Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1977.6,   -19.2,   301.6)
+  she can be cashier
+2022-10-10T23:31:42Z: PLAYER CHATTED [ 3922463635] Bllvibesguys         (-1990.9,   -18.3,   304.2)
+  Um what do you have
+2022-10-10T23:31:42Z: PLAYER ADDED   [  629357779] gqjjh_428
+2022-10-10T23:31:43Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1977.6,   -19.2,   301.6)
+  dor da diner
+2022-10-10T23:31:44Z: PLAYER ADDED   [ 3080245044] Thu_lokaaa077
+2022-10-10T23:31:45Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1977.6,   -19.2,   301.6)
+  for
+2022-10-10T23:32:01Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1987.9,   -17.9,   372.9)
+  oh wow...
+2022-10-10T23:32:02Z: PLAYER REMOVED [ 2891451229] JJman14405
+2022-10-10T23:32:02Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  you can be a cashier
+2022-10-10T23:32:04Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1987.9,   -17.9,   372.9)
+  wsp
+2022-10-10T23:32:07Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1991.5,   -18.8,   374.8)
+  yooo
+2022-10-10T23:32:12Z: PLAYER CHATTED [ 3922463635] Bllvibesguys         (-1990.9,   -18.3,   304.2)
+  And
+2022-10-10T23:32:13Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1995.2,   -18.3,   374.6)
+  bouta break ur body there imao
+2022-10-10T23:32:20Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1988.5,   -18.8,   376.4)
+  lol nah
+2022-10-10T23:32:24Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1988.5,   -18.8,   376.4)
+  I'll live
+2022-10-10T23:32:28Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  for dinner
+2022-10-10T23:32:29Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1995.5,   -18.3,   374.4)
+  alr
+2022-10-10T23:32:38Z: PLAYER REMOVED [  913390304] Rigby101510
+2022-10-10T23:32:38Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1993.6,   -18.3,   375.6)
+  so what r u doing here?w
+2022-10-10T23:32:39Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  a cashier for dinner
+2022-10-10T23:32:40Z: PLAYER ADDED   [ 3920290455] Kaiyan157d
+2022-10-10T23:32:47Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1986.6,   -18.8,   380.8)
+  I was just checking the place out
+2022-10-10T23:32:53Z: PLAYER ADDED   [ 2014587027] MomisBusiness
+2022-10-10T23:32:54Z: CHRCTER ADDED  [ 3920290455] Kaiyan157d          
+2022-10-10T23:32:57Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1986.6,   -18.8,   380.8)
+  Seeing if anything was interesting on this game
+2022-10-10T23:32:58Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1956.1,   -18.7,   290.8)
+  MELI
+2022-10-10T23:33:14Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1986.6,   -18.8,   380.8)
+  Not much is out there it seems
+2022-10-10T23:33:18Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1965.6,   -18.7,   303.4)
+  your room 101
+2022-10-10T23:33:19Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1992.8,   -18.3,   374.4)
+  fr
+2022-10-10T23:33:23Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1992.8,   -18.3,   374.4)
+  unless....
+2022-10-10T23:33:24Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1965.6,   -18.7,   303.4)
+  arent you
+2022-10-10T23:33:26Z: PLAYER CHATTED [ 3922463635] Bllvibesguys         (-1990.9,   -18.3,   304.2)
+  Am can I be the maid 
+2022-10-10T23:33:29Z: PLAYER CHATTED [  510234416] Meg270725            (-1890.9,    -7.5,   264.9)
+  AAAH
+2022-10-10T23:33:31Z: CHRCTER ADDED  [ 3080245044] Thu_lokaaa077       
+2022-10-10T23:33:34Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1998.7,   -18.8,   367.5)
+  (>_>)
+2022-10-10T23:33:35Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1968.9,   -18.7,   305.6)
+  lol
+2022-10-10T23:33:38Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1994.1,   -18.3,   373.6)
+  wot
+2022-10-10T23:33:40Z: PLAYER CHATTED [ 3922463635] Bllvibesguys         (-1990.9,   -18.3,   304.2)
+  Can
+2022-10-10T23:33:42Z: PLAYER CHATTED [  510234416] Meg270725            (-1856.2,     4.5,   299.1)
+  HELPP
+2022-10-10T23:33:45Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  let me see
+2022-10-10T23:33:49Z: PLAYER REMOVED [ 1671836826] starlingqueen99
+2022-10-10T23:33:52Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1998.7,   -18.8,   367.5)
+  I think that you rlly love that zombie plot bruh
+2022-10-10T23:33:57Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1994.1,   -18.3,   373.6)
+  oh nah nah
+2022-10-10T23:33:58Z: CHRCTER ADDED  [ 3080245044] Thu_lokaaa077       
+2022-10-10T23:33:58Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1975.6,   -18.7,   312.0)
+  yes
+2022-10-10T23:34:01Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1994.1,   -18.3,   373.6)
+  that wasnt even on my mind
+2022-10-10T23:34:03Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1994.1,   -18.3,   373.6)
+  imao
+2022-10-10T23:34:06Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.5,   -18.8,   368.5)
+  oh ##
+2022-10-10T23:34:07Z: CHRCTER ADDED  [  629357779] gqjjh_428           
+2022-10-10T23:34:08Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1994.1,   -18.3,   373.6)
+  all g
+2022-10-10T23:34:12Z: PLAYER CHATTED [ 2014587027] MomisBusiness        (-1981.4,   -18.4,   313.1)
+  Can i get a job?
+2022-10-10T23:34:13Z: CHRCTER ADDED  [  510234416] Meg270725           
+2022-10-10T23:34:18Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1979.7,   -18.7,   313.5)
+  ask receptionist 
+2022-10-10T23:34:21Z: CHRCTER ADDED  [ 3080245044] Thu_lokaaa077       
+2022-10-10T23:34:22Z: PLAYER REMOVED [ 3920290455] Kaiyan157d
+2022-10-10T23:34:23Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1994.1,   -18.3,   373.6)
+  i was thinking of a school plot or maybe building one of those underground research stuff yk??
+2022-10-10T23:34:24Z: PLAYER CHATTED [ 2014587027] MomisBusiness        (-1981.4,   -18.4,   313.1)
+  Oh ok
+2022-10-10T23:34:25Z: PLAYER ADDED   [ 3920290455] Kaiyan157d
+2022-10-10T23:34:25Z: CHRCTER ADDED  [  629357779] gqjjh_428           
+2022-10-10T23:34:30Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.5,   -18.8,   368.5)
+  oooo
+2022-10-10T23:34:33Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.5,   -18.8,   368.5)
+  that'd be cool
+2022-10-10T23:34:39Z: CHRCTER ADDED  [ 3920290455] Kaiyan157d          
+2022-10-10T23:34:40Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.5,   -18.8,   368.5)
+  There may be some plot codes for that too
+2022-10-10T23:34:43Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1994.0,   -19.4,   297.7)
+  ##
+2022-10-10T23:34:43Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  alr
+2022-10-10T23:34:45Z: PLAYER ADDED   [ 3398838130] Ziaplaysgacha_2012
+2022-10-10T23:34:48Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1994.1,   -18.3,   373.6)
+  there might...
+2022-10-10T23:34:49Z: CHRCTER ADDED  [ 3080245044] Thu_lokaaa077       
+2022-10-10T23:34:50Z: CHRCTER ADDED  [  629357779] gqjjh_428           
+2022-10-10T23:34:51Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1994.0,   -19.4,   297.7)
+  AFK NO ONE CALL FOR ME
+2022-10-10T23:34:51Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  you can be a maid
+2022-10-10T23:34:53Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1994.1,   -18.3,   373.6)
+  if not, i can build one
+2022-10-10T23:34:54Z: PLAYER REMOVED [ 2014587027] MomisBusiness
+2022-10-10T23:34:57Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.5,   -18.8,   368.5)
+  I remember seeing some undergroung stuff on the roville disco
+2022-10-10T23:34:59Z: PLAYER CHATTED [ 3922463635] Bllvibesguys         (-1989.9,   -18.6,   305.3)
+  Okay where is my room
+2022-10-10T23:34:59Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.5,   -18.8,   368.5)
+  fs
+2022-10-10T23:35:00Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1994.1,   -18.3,   373.6)
+  ill search it up
+2022-10-10T23:35:01Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1994.1,   -18.3,   373.6)
+  gimme a sec
+2022-10-10T23:35:03Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.5,   -18.8,   368.5)
+  if so then imma help
+2022-10-10T23:35:04Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  uh
+2022-10-10T23:35:11Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  im not sure about that
+2022-10-10T23:35:13Z: CHRCTER ADDED  [  629357779] gqjjh_428           
+2022-10-10T23:35:18Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  ask the host when he gets back
+2022-10-10T23:35:21Z: PLAYER CHATTED [ 3922463635] Bllvibesguys         (-1989.9,   -18.6,   305.3)
+  Oh
+2022-10-10T23:35:25Z: PLAYER CHATTED [ 3922463635] Bllvibesguys         (-1989.9,   -18.6,   305.3)
+  Ok
+2022-10-10T23:35:30Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  next
+2022-10-10T23:35:32Z: PLAYER CHATTED [ 3398838130] Ziaplaysgacha_2012   (-1988.2,   -19.3,   380.5)
+  hello
+2022-10-10T23:35:35Z: PLAYER CHATTED [ 3920290455] Kaiyan157d           (-1988.9,   -18.6,   305.7)
+  hi
+2022-10-10T23:35:35Z: PLAYER ADDED   [ 3887893632] Annieg786
+2022-10-10T23:35:39Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.9,   -18.8,   368.2)
+  yo
+2022-10-10T23:35:43Z: CHRCTER ADDED  [ 3080245044] Thu_lokaaa077       
+2022-10-10T23:35:46Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  Hello! welocme, how may i help you today? :)
+2022-10-10T23:35:53Z: PLAYER CHATTED [ 3398838130] Ziaplaysgacha_2012   (-1999.9,   -19.5,   375.4)
+  can i work here
+2022-10-10T23:35:54Z: CHRCTER ADDED  [  629357779] gqjjh_428           
+2022-10-10T23:36:04Z: PLAYER CHATTED [ 3920290455] Kaiyan157d           (-1988.9,   -18.6,   305.7)
+  can I have a room pls
+2022-10-10T23:36:07Z: PLAYER ADDED   [   22082865] tunawi
+2022-10-10T23:36:09Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.9,   -18.8,   368.2)
+  I'm not a worker, I'm just standing here
+2022-10-10T23:36:13Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.9,   -18.8,   368.2)
+  The host if afk
+2022-10-10T23:36:17Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  what kind?
+2022-10-10T23:36:18Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.9,   -18.8,   368.2)
+  So you gotta sk the staff
+2022-10-10T23:36:33Z: PLAYER CHATTED [ 3398838130] Ziaplaysgacha_2012   (-1999.9,   -19.5,   375.4)
+  ok be back in a ###
+2022-10-10T23:36:35Z: PLAYER CHATTED [ 3920290455] Kaiyan157d           (-1991.6,   -18.6,   305.2)
+  what kinds are there?
+2022-10-10T23:36:44Z: PLAYER ADDED   [ 3719228654] KatPlays_Twitch
+2022-10-10T23:36:52Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  theres, 2 beds, king bed, and family
+2022-10-10T23:37:01Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  the prices are behide me
+2022-10-10T23:37:08Z: PLAYER REMOVED [ 1948608825] may123slay
+2022-10-10T23:37:11Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.9,   -18.8,   368.2)
+  wait what did u ask me?
+2022-10-10T23:37:12Z: PLAYER CHATTED [  629357779] gqjjh_428            (-1857.1,    -7.2,   296.4)
+  What?
+2022-10-10T23:37:13Z: PLAYER ADDED   [ 3519821753] Animalwomen5
+2022-10-10T23:37:13Z: CHRCTER ADDED  [ 3887893632] Annieg786           
+2022-10-10T23:37:14Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.9,   -18.8,   368.2)
+  I was afk for a bit
+2022-10-10T23:37:14Z: PLAYER CHATTED [  510234416] Meg270725            (-1852.9,    -7.5,   296.4)
+  sorry, this room is busy
+2022-10-10T23:37:30Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.9,   -18.8,   368.2)
+  -
+2022-10-10T23:37:32Z: PLAYER CHATTED [  629357779] gqjjh_428            (-1863.9,    -7.2,   294.1)
+  Como cogo casa peia
+2022-10-10T23:37:33Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1994.0,   -19.4,   297.7)
+  .
+2022-10-10T23:37:33Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.9,   -18.8,   368.2)
+  nvrm
+2022-10-10T23:37:34Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1994.1,   -18.3,   373.6)
+  i saw nothing
+2022-10-10T23:37:34Z: PLAYER CHATTED [ 3920290455] Kaiyan157d           (-1991.6,   -18.6,   305.2)
+  I will take the k8ng bed
+2022-10-10T23:37:34Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  okay IMAO
+2022-10-10T23:37:36Z: CHRCTER ADDED  [ 3080245044] Thu_lokaaa077       
+2022-10-10T23:37:37Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  oop
+2022-10-10T23:37:39Z: PLAYER CHATTED [  629357779] gqjjh_428            (-1863.9,    -7.2,   294.1)
+  ###################
+2022-10-10T23:37:41Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  alr
+2022-10-10T23:37:43Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.9,   -18.8,   368.2)
+  Uhm-
+2022-10-10T23:37:44Z: PLAYER CHATTED [  510234416] Meg270725            (-1853.4,    -7.5,   297.9)
+  ya saquese vieja loca
+2022-10-10T23:37:45Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.9,   -18.8,   368.2)
+  wb 
+2022-10-10T23:37:49Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1992.6,   -18.3,   371.0)
+  ty
+2022-10-10T23:37:50Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1992.6,   -18.3,   371.0)
+  u 2
+2022-10-10T23:37:52Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1994.0,   -19.4,   297.7)
+  BACK
+2022-10-10T23:37:53Z: PLAYER CHATTED [  510234416] Meg270725            (-1840.8,    -7.5,   313.9)
+  bye
+2022-10-10T23:37:55Z: PLAYER CHATTED [  629357779] gqjjh_428            (-1859.0,    -7.2,   297.2)
+  Tu muela peia apestosa lavate
+2022-10-10T23:37:58Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  that will be $80
+2022-10-10T23:38:04Z: PLAYER REMOVED [ 3887893632] Annieg786
+2022-10-10T23:38:04Z: PLAYER CHATTED [ 3080245044] Thu_lokaaa077        (-1969.7,    -7.3,   300.8)
+  #########
+2022-10-10T23:38:05Z: PLAYER ADDED   [ 3887893632] Annieg786
+2022-10-10T23:38:06Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.9,   -18.8,   368.2)
+  Oh, you didn't see any underground plots?
+2022-10-10T23:38:09Z: PLAYER CHATTED [ 3080245044] Thu_lokaaa077        (-1969.7,    -7.3,   300.8)
+  TUS MUERTOS
+2022-10-10T23:38:14Z: PLAYER ADDED   [  138253251] ItsJeremy32
+2022-10-10T23:38:22Z: PLAYER CHATTED [ 3922463635] Bllvibesguys         (-1974.6,   -18.6,   309.7)
+  Where my room
+2022-10-10T23:38:23Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1992.6,   -18.3,   371.0)
+  typed underground in the roville market place and some random stuff popped up
+2022-10-10T23:38:28Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1992.6,   -18.3,   371.0)
+  ill try in the info too
+2022-10-10T23:38:29Z: PLAYER CHATTED [ 3920290455] Kaiyan157d           (-1991.6,   -18.6,   305.2)
+  *gives 80$*
+2022-10-10T23:38:32Z: PLAYER REMOVED [ 3887893632] Annieg786
+2022-10-10T23:38:32Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1992.6,   -18.3,   371.0)
+  holdup
+2022-10-10T23:38:35Z: PLAYER CHATTED [ 3922463635] Bllvibesguys         (-1958.5,   -19.5,   306.9)
+  What
+2022-10-10T23:38:36Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.9,   -18.8,   368.2)
+  alr
+2022-10-10T23:38:37Z: PLAYER CHATTED [ 3398838130] Ziaplaysgacha_2012   (-1999.9,   -19.5,   375.4)
+  back
+2022-10-10T23:38:38Z: PLAYER REMOVED [  629357779] gqjjh_428
+2022-10-10T23:38:39Z: PLAYER CHATTED [  510234416] Meg270725            (-1955.9,   -19.5,   300.0)
+  ask the receptionist
+2022-10-10T23:38:45Z: PLAYER REMOVED [ 3080245044] Thu_lokaaa077
+2022-10-10T23:38:48Z: PLAYER CHATTED [ 3922463635] Bllvibesguys         (-1958.6,   -19.5,   302.4)
+  Know I am a maid
+2022-10-10T23:38:50Z: PLAYER CHATTED [   22082865] tunawi               (-1973.5,   -17.9,   372.0)
+  #######
+2022-10-10T23:39:01Z: PLAYER CHATTED [   22082865] tunawi               (-1973.5,   -17.9,   372.0)
+  go shove a duck
+2022-10-10T23:39:02Z: PLAYER ADDED   [ 2752968687] Sophia_bellahu
+2022-10-10T23:39:09Z: PLAYER CHATTED [ 3922463635] Bllvibesguys         (-1958.6,   -19.5,   302.4)
+  But I. Ant find the maid fits
+2022-10-10T23:39:17Z: CHRCTER ADDED  [ 3519821753] Animalwomen5        
+2022-10-10T23:39:25Z: PLAYER ADDED   [ 1563862571] sydney2008s
+2022-10-10T23:39:27Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1984.0,   -19.6,   305.1)
+  pay me btw guys
+2022-10-10T23:39:37Z: PLAYER CHATTED [ 3920290455] Kaiyan157d           (-1991.6,   -18.6,   305.2)
+  what taking you so long to type
+2022-10-10T23:39:48Z: CHRCTER ADDED  [ 3519821753] Animalwomen5        
+2022-10-10T23:39:50Z: PLAYER ADDED   [ 3470380069] Lilyblossem78
+2022-10-10T23:39:51Z: PLAYER CHATTED [ 3398838130] Ziaplaysgacha_2012   (-1999.4,   -19.3,   374.3)
+  Luerella did ## come back?
+2022-10-10T23:40:11Z: PLAYER CHATTED [  510234416] Meg270725            (-1984.3,   -19.5,   306.5)
+  sir, your diner
+2022-10-10T23:40:12Z: PLAYER CHATTED [ 3920290455] Kaiyan157d           (-1991.7,   -18.4,   305.4)
+  I have 3 other people behind me
+2022-10-10T23:40:13Z: PLAYER CHATTED [ 1563862571] sydney2008s          (-1988.1,   -18.4,   307.6)
+  HURRY UP!!!
+2022-10-10T23:40:16Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1977.6,   -19.2,   301.6)
+  thank you.
+2022-10-10T23:40:18Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.9,   -18.8,   368.2)
+  huh?
+2022-10-10T23:40:19Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  .
+2022-10-10T23:40:21Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  k
+2022-10-10T23:40:24Z: CHRCTER ADDED  [ 3519821753] Animalwomen5        
+2022-10-10T23:40:26Z: PLAYER CHATTED [  510234416] Meg270725            (-1982.1,   -19.5,   304.2)
+  dont worry, want something more?
+2022-10-10T23:40:29Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  i was stuck in prive chat sorry
+2022-10-10T23:40:31Z: PLAYER CHATTED [ 3398838130] Ziaplaysgacha_2012   (-1999.0,   -19.3,   373.4)
+  did he- nvm
+2022-10-10T23:40:31Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1977.6,   -19.2,   301.6)
+  yes
+2022-10-10T23:40:33Z: PLAYER ADDED   [ 3887893632] Annieg786
+2022-10-10T23:40:35Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1977.6,   -19.2,   301.6)
+  a drin
+2022-10-10T23:40:35Z: PLAYER CHATTED [ 3920290455] Kaiyan157d           (-1993.0,   -17.8,   305.6)
+  ok
+2022-10-10T23:40:36Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  but you have to pay real money
+2022-10-10T23:40:38Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1977.6,   -19.2,   301.6)
+  drink.
+2022-10-10T23:40:39Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.9,   -18.8,   368.2)
+  Yeah he's afk
+2022-10-10T23:40:43Z: PLAYER CHATTED [  510234416] Meg270725            (-1982.1,   -19.5,   304.2)
+  sure, soda or juice?
+2022-10-10T23:40:48Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  to "Coolcoolimbetter
+2022-10-10T23:40:49Z: CHRCTER ADDED  [ 1563862571] sydney2008s         
+2022-10-10T23:40:50Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1977.6,   -19.2,   301.6)
+  soda
+2022-10-10T23:40:53Z: PLAYER CHATTED [  510234416] Meg270725            (-1982.1,   -19.5,   304.2)
+  ok
+2022-10-10T23:40:58Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  are you able to donate?
+2022-10-10T23:40:59Z: PLAYER CHATTED [  510234416] Meg270725            (-1982.1,   -19.5,   304.2)
+  one minute please
+2022-10-10T23:41:00Z: PLAYER CHATTED [ 3398838130] Ziaplaysgacha_2012   (-1998.2,   -19.3,   374.7)
+  mk
+2022-10-10T23:41:03Z: CHRCTER ADDED  [ 3887893632] Annieg786           
+2022-10-10T23:41:07Z: PLAYER CHATTED [ 3920290455] Kaiyan157d           (-1993.0,   -17.8,   305.6)
+  idk
+2022-10-10T23:41:14Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  how much money do you have?
+2022-10-10T23:41:25Z: PLAYER REMOVED [ 3719228654] KatPlays_Twitch
+2022-10-10T23:41:27Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1977.6,   -19.2,   301.6)
+  thank you
+2022-10-10T23:41:27Z: PLAYER CHATTED [ 3920290455] Kaiyan157d           (-1993.1,   -17.8,   305.6)
+  idk how to donate 
+2022-10-10T23:41:28Z: PLAYER ADDED   [ 3349097295] Nydollasign_8
+2022-10-10T23:41:33Z: PLAYER REMOVED [ 1840621159] Meiswierd555
+2022-10-10T23:41:37Z: PLAYER CHATTED [  510234416] Meg270725            (-1983.6,   -19.5,   305.5)
+  your wellcome
+2022-10-10T23:41:40Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  thats okay ill pay for you
+2022-10-10T23:41:50Z: PLAYER CHATTED [  510234416] Meg270725            (-1983.6,   -19.5,   305.5)
+  can i clean your room?
+2022-10-10T23:41:54Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1977.6,   -19.2,   301.6)
+  yes.
+2022-10-10T23:41:58Z: PLAYER CHATTED [  510234416] Meg270725            (-1983.6,   -19.5,   305.5)
+  i already clean all the other rooms
+2022-10-10T23:42:00Z: PLAYER CHATTED [  510234416] Meg270725            (-1983.6,   -19.5,   305.5)
+  ok
+2022-10-10T23:42:15Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.9,   -19.6,   296.6)
+  ,arley
+2022-10-10T23:42:18Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1996.9,   -19.6,   296.6)
+  marley
+2022-10-10T23:42:31Z: PLAYER CHATTED [   22082865] tunawi               (-1899.0,   -19.6,   306.8)
+  ##### ### room
+2022-10-10T23:42:36Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  yes?
+2022-10-10T23:42:36Z: PLAYER CHATTED [   22082865] tunawi               (-1899.0,   -19.6,   306.8)
+  ##### ### room
+2022-10-10T23:42:42Z: PLAYER CHATTED [ 3470380069] Lilyblossem78        (-1989.6,   -18.8,   294.2)
+  Hello
+2022-10-10T23:42:47Z: PLAYER CHATTED [ 1563862571] sydney2008s          (-1994.0,   -19.4,   297.7)
+  Ill take the next person
+2022-10-10T23:42:47Z: PLAYER REMOVED [ 3887893632] Annieg786
+2022-10-10T23:42:50Z: PLAYER CHATTED [ 3470380069] Lilyblossem78        (-1989.6,   -18.8,   294.2)
+  On room pls
+2022-10-10T23:42:54Z: CHRCTER ADDED  [   22082865] tunawi              
+2022-10-10T23:42:55Z: PLAYER CHATTED [ 3470380069] Lilyblossem78        (-1989.6,   -18.8,   294.2)
+  One*
+2022-10-10T23:42:59Z: PLAYER CHATTED [ 2752968687] Sophia_bellahu       (-1990.0,   -18.0,   306.9)
+  Hello 
+2022-10-10T23:43:04Z: PLAYER CHATTED [ 1563862571] sydney2008s          (-1994.0,   -19.4,   297.7)
+  Ok, which one
+2022-10-10T23:43:05Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1981.7,   -19.6,   300.4)
+  AFK
+2022-10-10T23:43:07Z: PLAYER CHATTED [ 3470380069] Lilyblossem78        (-1989.7,   -18.9,   294.2)
+  Any
+2022-10-10T23:43:10Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1985.6,   -19.6,   300.7)
+  blaire
+2022-10-10T23:43:17Z: CHRCTER ADDED  [   22082865] tunawi              
+2022-10-10T23:43:20Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  Hello, welcome! How may i help you today!? :)
+2022-10-10T23:43:22Z: PLAYER CHATTED [ 1563862571] sydney2008s          (-1994.0,   -19.4,   297.7)
+  ok, the 10k one?
+2022-10-10T23:43:25Z: PLAYER CHATTED [ 3470380069] Lilyblossem78        (-1990.3,   -18.8,   294.6)
+  No
+2022-10-10T23:43:29Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1986.0,   -19.6,   300.4)
+  who said your a receptiomist
+2022-10-10T23:43:33Z: PLAYER CHATTED [ 2752968687] Sophia_bellahu       (-1991.8,   -18.0,   305.5)
+  Are you guys still hiring staff
+2022-10-10T23:43:37Z: PLAYER REMOVED [ 3920290455] Kaiyan157d
+2022-10-10T23:43:37Z: PLAYER CHATTED [ 1563862571] sydney2008s          (-1994.0,   -19.4,   297.7)
+  30k?
+2022-10-10T23:43:43Z: PLAYER CHATTED [ 3470380069] Lilyblossem78        (-1990.4,   -18.8,   294.7)
+  Bro over price
+2022-10-10T23:43:45Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  let me check with the host
+2022-10-10T23:43:45Z: PLAYER CHATTED [ 1563862571] sydney2008s          (-1994.0,   -19.4,   297.7)
+  $1
+2022-10-10T23:43:52Z: PLAYER CHATTED [ 2752968687] Sophia_bellahu       (-1991.8,   -18.0,   305.5)
+  Ok
+2022-10-10T23:43:54Z: PLAYER CHATTED [   22082865] tunawi               (-1941.6,   -17.6,   249.1)
+  who wants a kith
+2022-10-10T23:43:56Z: PLAYER REMOVED [ 1563862571] sydney2008s
+2022-10-10T23:43:56Z: PLAYER ADDED   [ 1578423883] Draqgon_Player
+2022-10-10T23:43:57Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1992.6,   -18.3,   371.0)
+  good news
+2022-10-10T23:43:59Z: PLAYER CHATTED [ 3470380069] Lilyblossem78        (-1990.4,   -18.8,   294.9)
+  I’ll do 5k
+2022-10-10T23:43:59Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1992.6,   -18.3,   371.0)
+  i found a bunker
+2022-10-10T23:44:00Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1994.0,   -19.4,   297.7)
+  sorry.
+2022-10-10T23:44:07Z: PLAYER CHATTED [  510234416] Meg270725            (-1984.5,   -19.5,   300.3)
+  sir, your room is ready, is you need something more i be in the laudy room
+2022-10-10T23:44:10Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1994.0,   -19.4,   297.7)
+  no i dont think
+2022-10-10T23:44:10Z: PLAYER CHATTED [ 3398838130] Ziaplaysgacha_2012   (-1998.1,   -19.0,   372.2)
+  hi
+2022-10-10T23:44:13Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1992.6,   -18.3,   371.0)
+  wsp
+2022-10-10T23:44:21Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.9,   -18.8,   368.2)
+  wb
+2022-10-10T23:44:22Z: PLAYER CHATTED [ 1578423883] Draqgon_Player       (-1993.0,   -20.2,   376.4)
+  DAM
+2022-10-10T23:44:23Z: PLAYER CHATTED [ 3398838130] Ziaplaysgacha_2012   (-1998.2,   -19.0,   372.2)
+  can i work here
+2022-10-10T23:44:25Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1992.6,   -18.3,   371.0)
+  bro i sound so suspicious just saying "i found a bunker"
+2022-10-10T23:44:27Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.9,   -18.8,   368.2)
+  gurl-
+2022-10-10T23:44:27Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  alr
+2022-10-10T23:44:29Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1992.6,   -18.3,   371.0)
+  and tyty
+2022-10-10T23:44:30Z: PLAYER CHATTED [ 3470380069] Lilyblossem78        (-1990.7,   -18.8,   295.1)
+  Then the 1 $
+2022-10-10T23:44:30Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1992.6,   -18.3,   371.0)
+  uh-
+2022-10-10T23:44:31Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1994.0,   -19.4,   297.7)
+  what room?
+2022-10-10T23:44:32Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1992.6,   -18.3,   371.0)
+  im not the host
+2022-10-10T23:44:34Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  we are still hiring
+2022-10-10T23:44:36Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1994.0,   -19.4,   297.7)
+  there no 1$
+2022-10-10T23:44:37Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  what role?
+2022-10-10T23:44:37Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.9,   -18.8,   368.2)
+  I already told you that you need to find some workers.
+2022-10-10T23:44:46Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.9,   -18.8,   368.2)
+  WE are not workers.
+2022-10-10T23:44:49Z: PLAYER CHATTED [ 3398838130] Ziaplaysgacha_2012   (-1999.8,   -19.0,   371.2)
+  gurl you told me
+2022-10-10T23:44:51Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1994.0,   -19.4,   297.7)
+  thats the ground room
+2022-10-10T23:44:56Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.9,   -18.8,   368.2)
+  And you keep asking.
+2022-10-10T23:44:59Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1994.0,   -19.4,   297.7)
+  you sleep on the ground for $1
+2022-10-10T23:45:01Z: PLAYER CHATTED [ 3470380069] Lilyblossem78        (-1990.7,   -18.8,   295.1)
+  then wat is there
+2022-10-10T23:45:02Z: PLAYER CHATTED [   22082865] tunawi               (-1868.1,   -19.0,   320.6)
+  go ### yorself meghan the maid
+2022-10-10T23:45:06Z: PLAYER CHATTED [ 3398838130] Ziaplaysgacha_2012   (-1999.8,   -19.0,   371.2)
+  he was the host
+2022-10-10T23:45:09Z: PLAYER CHATTED [ 3470380069] Lilyblossem78        (-1990.7,   -18.8,   295.1)
+  I ain’t paying 10k
+2022-10-10T23:45:13Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.9,   -18.8,   368.2)
+  He is not the host.
+2022-10-10T23:45:15Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1992.6,   -18.3,   371.0)
+  huh, im not
+2022-10-10T23:45:20Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1992.6,   -18.3,   371.0)
+  the host is a female-
+2022-10-10T23:45:22Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1994.0,   -19.4,   297.7)
+  75$ for double and80$ for king
+2022-10-10T23:45:28Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1992.6,   -18.3,   371.0)
+  i think-
+2022-10-10T23:45:28Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  im sorry but your chat didnt show for me
+2022-10-10T23:45:33Z: PLAYER CHATTED [ 3470380069] Lilyblossem78        (-1990.7,   -18.8,   295.1)
+  Alr then
+2022-10-10T23:45:33Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.9,   -18.8,   368.2)
+  And there is no 'was' cause he wasn't one in the first place.
+2022-10-10T23:45:36Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1994.0,   -19.4,   297.7)
+  theres no 10k-
+2022-10-10T23:45:37Z: PLAYER CHATTED [ 2752968687] Sophia_bellahu       (-1991.8,   -18.0,   305.5)
+  Oh sorry 
+2022-10-10T23:45:37Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.9,   -18.8,   368.2)
+  So byyeeee
+2022-10-10T23:45:39Z: PLAYER CHATTED [ 3470380069] Lilyblossem78        (-1990.7,   -18.8,   295.1)
+  75
+2022-10-10T23:45:44Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1994.0,   -19.4,   297.7)
+  ##
+2022-10-10T23:45:45Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.9,   -18.8,   368.2)
+  -_-
+2022-10-10T23:45:48Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1994.0,   -19.4,   297.7)
+  go get a room.
+2022-10-10T23:45:49Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.9,   -18.8,   368.2)
+  My patience...
+2022-10-10T23:45:49Z: PLAYER CHATTED [ 2752968687] Sophia_bellahu       (-1991.8,   -18.0,   305.5)
+  Can I be a cook pls 
+2022-10-10T23:45:50Z: PLAYER ADDED   [ 1117447369] Ukwithyoporshe
+2022-10-10T23:45:54Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1992.6,   -18.3,   371.0)
+  nope ### host is a male
+2022-10-10T23:45:54Z: PLAYER ADDED   [ 2891451229] JJman14405
+2022-10-10T23:45:54Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.9,   -18.8,   368.2)
+  Is running very thin rn
+2022-10-10T23:45:56Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1992.6,   -18.3,   371.0)
+  welp
+2022-10-10T23:45:59Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1992.6,   -18.3,   371.0)
+  lol its okay bro
+2022-10-10T23:46:04Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1992.6,   -18.3,   371.0)
+  some ppl just dont understand
+2022-10-10T23:46:07Z: PLAYER REMOVED [ 3470380069] Lilyblossem78
+2022-10-10T23:46:07Z: PLAYER ADDED   [ 1649208407] creamqv
+2022-10-10T23:46:10Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1992.6,   -18.3,   371.0)
+  gotta say it a few times
+2022-10-10T23:46:14Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1988.5,   -16.8,   379.0)
+  wsp
+2022-10-10T23:46:15Z: PLAYER CHATTED [ 1117447369] Ukwithyoporshe       (-1991.5,   -19.4,   376.6)
+  Hello
+2022-10-10T23:46:18Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1988.7,   -18.3,   377.1)
+  gawd ####
+2022-10-10T23:46:19Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1983.3,   -18.3,   379.8)
+  can u jump
+2022-10-10T23:46:25Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  okay
+2022-10-10T23:46:26Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.9,   -18.8,   368.2)
+  Its not even that, I'm hungry too and got back from practice
+2022-10-10T23:46:28Z: PLAYER REMOVED [ 1578423883] Draqgon_Player
+2022-10-10T23:46:31Z: PLAYER REMOVED [   22082865] tunawi
+2022-10-10T23:46:32Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-2000.8,   -18.8,   367.8)
+  so ye kinda hangry rn
+2022-10-10T23:46:34Z: PLAYER ADDED   [ 2606867499] Elissabath2021
+2022-10-10T23:46:34Z: PLAYER CHATTED [ 1117447369] Ukwithyoporshe       (-1988.5,   -19.7,   293.6)
+  Dylan sir
+2022-10-10T23:46:34Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  uh yes you can be a cook
+2022-10-10T23:46:35Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-2000.7,   -18.3,   372.4)
+  go eat-
+2022-10-10T23:46:37Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1994.0,   -19.4,   297.7)
+  ?
+2022-10-10T23:46:43Z: PLAYER CHATTED [ 2752968687] Sophia_bellahu       (-1991.8,   -18.0,   305.5)
+  Alright then thanks
+2022-10-10T23:46:43Z: PLAYER CHATTED [ 1117447369] Ukwithyoporshe       (-1988.3,   -19.7,   294.0)
+  I would like a room
+2022-10-10T23:46:44Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.5,   -18.8,   367.1)
+  I'm waiting on foooodd TvT
+2022-10-10T23:46:48Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-2000.7,   -18.3,   372.4)
+  oh imao
+2022-10-10T23:46:49Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  mhm
+2022-10-10T23:46:49Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-2000.7,   -18.3,   372.4)
+  alr alr
+2022-10-10T23:46:51Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1994.0,   -19.4,   297.7)
+  what kind.
+2022-10-10T23:46:59Z: PLAYER CHATTED [ 1117447369] Ukwithyoporshe       (-1988.3,   -19.7,   294.0)
+  Which one is the best
+2022-10-10T23:47:00Z: PLAYER CHATTED [ 3922463635] Bllvibesguys         (-1990.6,   -18.6,   305.6)
+  ?
+2022-10-10T23:47:02Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1994.0,   -19.4,   297.7)
+  king
+2022-10-10T23:47:05Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  Hello, Welcome! How may i help you today!?! :)
+2022-10-10T23:47:10Z: PLAYER REMOVED [ 2891451229] JJman14405
+2022-10-10T23:47:11Z: PLAYER CHATTED [ 1117447369] Ukwithyoporshe       (-1987.6,   -19.7,   293.3)
+  Ok may I see it first 
+2022-10-10T23:47:11Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.5,   -18.8,   367.1)
+  plus I have to doapush hw that's do tomorrow
+2022-10-10T23:47:17Z: PLAYER ADDED   [  740796352] Yllarigenial09
+2022-10-10T23:47:19Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1994.0,   -19.4,   297.7)
+  sure?
+2022-10-10T23:47:20Z: PLAYER CHATTED [ 3922463635] Bllvibesguys         (-1991.5,   -18.2,   304.9)
+  Can I get the family room pls
+2022-10-10T23:47:26Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.5,   -18.8,   367.1)
+  bruh I only have 3 days of school this week and I already want to quit
+2022-10-10T23:47:37Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-2000.7,   -18.3,   372.4)
+  only 3 days?!
+2022-10-10T23:47:39Z: PLAYER ADDED   [ 3682040770] tryceres
+2022-10-10T23:47:39Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-2000.7,   -18.3,   372.4)
+  bruh lucky
+2022-10-10T23:47:39Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.5,   -18.8,   367.1)
+  yep
+2022-10-10T23:47:49Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.5,   -18.8,   367.1)
+  we have thursday, friday, and monda off
+2022-10-10T23:47:56Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-2000.7,   -18.3,   372.4)
+  sheeeshhh
+2022-10-10T23:47:59Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.5,   -18.8,   367.1)
+  ikrrr
+2022-10-10T23:48:03Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1906.3,     4.4,   252.4)
+  oof
+2022-10-10T23:48:03Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-2000.7,   -18.3,   372.4)
+  why tho?
+2022-10-10T23:48:05Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  im sorry but we dont have anymore
+2022-10-10T23:48:05Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.5,   -18.8,   367.1)
+  Boutta be sleep fr
+2022-10-10T23:48:10Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.5,   -18.8,   367.1)
+  Oh fall break
+2022-10-10T23:48:13Z: PLAYER CHATTED [ 1117447369] Ukwithyoporshe       (-1902.3,     4.3,   255.6)
+  Ok lemme check them
+2022-10-10T23:48:13Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-2000.7,   -18.3,   372.4)
+  OH
+2022-10-10T23:48:15Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-2000.7,   -18.3,   372.4)
+  that quick?!
+2022-10-10T23:48:20Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.5,   -18.8,   367.1)
+  This is the first one that have done since #####
+2022-10-10T23:48:23Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.5,   -18.8,   367.1)
+  #####
+2022-10-10T23:48:26Z: PLAYER REMOVED [ 3682040770] tryceres
+2022-10-10T23:48:26Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.5,   -18.8,   367.1)
+  corona
+2022-10-10T23:48:27Z: PLAYER CHATTED [ 3922463635] Bllvibesguys         (-1991.5,   -18.2,   304.9)
+  Then can I have the king room
+2022-10-10T23:48:29Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-2000.7,   -18.3,   372.4)
+  c19
+2022-10-10T23:48:30Z: PLAYER REMOVED [ 1649208407] creamqv
+2022-10-10T23:48:31Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.5,   -18.8,   367.1)
+  ## ## so
+2022-10-10T23:48:32Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-2000.7,   -18.3,   372.4)
+  im calling it c19 
+2022-10-10T23:48:34Z: PLAYER CHATTED [ 3922463635] Bllvibesguys         (-1991.5,   -18.2,   304.9)
+  Oop
+2022-10-10T23:48:39Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.5,   -18.8,   367.1)
+  imma call it that
+2022-10-10T23:48:42Z: PLAYER CHATTED [ 3922463635] Bllvibesguys         (-1991.5,   -18.2,   304.9)
+  Then. The 2 beds
+2022-10-10T23:48:44Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-2000.7,   -18.3,   372.4)
+  lol yep
+2022-10-10T23:48:47Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  alr
+2022-10-10T23:48:48Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.5,   -18.8,   367.1)
+  and roblox has been doubling on me bruh
+2022-10-10T23:48:50Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.5,   -18.8,   367.1)
+  like why
+2022-10-10T23:48:56Z: PLAYER ADDED   [  371196533] VrrayMaster5004
+2022-10-10T23:48:56Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.5,   -18.8,   367.1)
+  I'm not even saying anything bad
+2022-10-10T23:48:57Z: PLAYER CHATTED [ 1117447369] Ukwithyoporshe       (-1988.9,   -19.7,   292.3)
+  Are there any more queen beds
+2022-10-10T23:48:58Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  that would be $75
+2022-10-10T23:49:00Z: CHRCTER ADDED  [  740796352] Yllarigenial09      
+2022-10-10T23:49:02Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-2000.7,   -18.3,   372.4)
+  roblox just goofy these days
+2022-10-10T23:49:03Z: PLAYER CHATTED [ 3922463635] Bllvibesguys         (-1991.5,   -18.2,   304.9)
+  Ok
+2022-10-10T23:49:05Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.5,   -18.8,   367.0)
+  happened yesterday in ###
+2022-10-10T23:49:08Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1994.0,   -19.4,   297.7)
+  no
+2022-10-10T23:49:08Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.4,   -18.8,   366.1)
+  FR
+2022-10-10T23:49:10Z: PLAYER REMOVED [ 2606867499] Elissabath2021
+2022-10-10T23:49:12Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  you have to donate the host the money
+2022-10-10T23:49:16Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1994.0,   -19.4,   297.7)
+  only 2 beds
+2022-10-10T23:49:17Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.4,   -18.8,   366.1)
+  make it make sense please
+2022-10-10T23:49:23Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.4,   -18.8,   366.1)
+  Cause the common sense is not there 
+2022-10-10T23:49:33Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.4,   -18.8,   366.1)
+  ittsss giiivviinggg
+2022-10-10T23:49:35Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-2000.7,   -18.3,   372.4)
+  frfr
+2022-10-10T23:49:35Z: PLAYER CHATTED [ 1117447369] Ukwithyoporshe       (-1989.2,   -19.7,   292.8)
+  So what room do I have
+2022-10-10T23:49:35Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.4,   -18.8,   366.1)
+  goofy
+2022-10-10T23:49:39Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  are you able to donate?
+2022-10-10T23:49:39Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.4,   -18.8,   366.1)
+  Straight goofy
+2022-10-10T23:49:41Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1994.0,   -19.4,   297.7)
+  two rooms
+2022-10-10T23:49:46Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1994.0,   -19.4,   297.7)
+  two beds*
+2022-10-10T23:49:56Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.4,   -18.8,   366.1)
+  anyways, what do you want to do?
+2022-10-10T23:49:57Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1994.0,   -19.4,   297.7)
+  for 75*
+2022-10-10T23:50:00Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1994.0,   -19.4,   297.7)
+  75$
+2022-10-10T23:50:03Z: PLAYER CHATTED [ 1117447369] Ukwithyoporshe       (-1989.4,   -19.7,   293.1)
+  I
+2022-10-10T23:50:04Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-2000.7,   -18.3,   372.4)
+  was gonna go build...
+2022-10-10T23:50:10Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.4,   -18.8,   366.1)
+  oo alr
+2022-10-10T23:50:13Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1994.0,   -19.4,   297.7)
+  or leave
+2022-10-10T23:50:14Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  Hello?
+2022-10-10T23:50:14Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-2000.7,   -18.3,   372.4)
+  or maybe check out that bunker plot
+2022-10-10T23:50:21Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.4,   -18.8,   366.1)
+  bunker?
+2022-10-10T23:50:25Z: PLAYER CHATTED [ 1117447369] Ukwithyoporshe       (-1989.4,   -19.7,   293.1)
+  I’ll pay you an extra thousand for a maid
+2022-10-10T23:50:26Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-2000.7,   -18.3,   372.4)
+  mhm
+2022-10-10T23:50:27Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-2000.7,   -18.3,   372.4)
+  i found one
+2022-10-10T23:50:33Z: PLAYER REMOVED [  371196533] VrrayMaster5004
+2022-10-10T23:50:35Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2001.6,   -19.3,   371.3)
+  you guys stop
+2022-10-10T23:50:40Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.4,   -18.8,   366.1)
+  stop?
+2022-10-10T23:50:43Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1999.9,   -18.8,   365.2)
+  Stop what?
+2022-10-10T23:50:49Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1998.9,   -18.3,   373.3)
+  what she said
+2022-10-10T23:50:49Z: PLAYER REMOVED [ 3398838130] Ziaplaysgacha_2012
+2022-10-10T23:50:51Z: PLAYER ADDED   [ 1962342073] ishan0255
+2022-10-10T23:50:52Z: PLAYER ADDED   [ 1272195999] antiguanation268
+2022-10-10T23:50:54Z: PLAYER ADDED   [  302454721] yalikyai
+2022-10-10T23:50:55Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2003.9,   -19.3,   368.4)
+  I see in chat you guys are doing weird stuff like a bunker
+2022-10-10T23:50:58Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2003.9,   -19.3,   368.4)
+  idk why
+2022-10-10T23:50:59Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1998.9,   -18.3,   373.3)
+  huh?
+2022-10-10T23:51:00Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1998.2,   -18.8,   366.7)
+  bruh-
+2022-10-10T23:51:00Z: PLAYER CHATTED [  740796352] Yllarigenial09       (-1991.4,   -18.3,   306.9)
+  hi
+2022-10-10T23:51:02Z: PLAYER REMOVED [ 1117447369] Ukwithyoporshe
+2022-10-10T23:51:03Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1998.2,   -18.8,   366.7)
+  Please XD
+2022-10-10T23:51:04Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2003.9,   -19.3,   368.4)
+  like-
+2022-10-10T23:51:08Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1998.2,   -18.8,   366.7)
+  Is just a plot
+2022-10-10T23:51:12Z: PLAYER CHATTED [  138253251] ItsJeremy32          (-1996.7,   -19.4,   301.1)
+  hi :)
+2022-10-10T23:51:14Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2003.9,   -19.3,   368.4)
+  I actually have a bunker
+2022-10-10T23:51:18Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1998.2,   -18.8,   366.7)
+  nic
+2022-10-10T23:51:21Z: CHRCTER ADDED  [ 1272195999] antiguanation268    
+2022-10-10T23:51:21Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2003.9,   -19.3,   368.4)
+  how did you find it
+2022-10-10T23:51:22Z: PLAYER REMOVED [  302454721] yalikyai
+2022-10-10T23:51:22Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1998.9,   -18.3,   373.3)
+  bro i get it, bunkers have weird vibes bc ###### ####### use em
+2022-10-10T23:51:26Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1998.9,   -18.3,   373.3)
+  but like we're just tryna game-
+2022-10-10T23:51:26Z: PLAYER CHATTED [  740796352] Yllarigenial09       (-1992.6,   -17.8,   305.7)
+  i want a bed for a day and one night please
+2022-10-10T23:51:30Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1998.2,   -18.8,   366.7)
+  fr
+2022-10-10T23:51:33Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2003.9,   -19.3,   368.4)
+  like
+2022-10-10T23:51:35Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1998.9,   -18.3,   373.3)
+  uh through roville dc group
+2022-10-10T23:51:36Z: PLAYER CHATTED [  138253251] ItsJeremy32          (-1996.7,   -19.4,   301.1)
+  okay
+2022-10-10T23:51:37Z: CHRCTER ADDED  [ 3922463635] Bllvibesguys        
+2022-10-10T23:51:37Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2003.9,   -19.3,   368.4)
+  yall ####
+2022-10-10T23:51:40Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1998.2,   -18.8,   366.7)
+  we mindin our business chillin
+2022-10-10T23:51:40Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2003.9,   -19.3,   368.4)
+  soy
+2022-10-10T23:51:44Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2003.9,   -19.3,   368.4)
+  ok
+2022-10-10T23:51:45Z: PLAYER CHATTED [  740796352] Yllarigenial09       (-1992.6,   -17.8,   305.7)
+  two bed please
+2022-10-10T23:51:45Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1998.9,   -18.3,   373.3)
+  we're what?
+2022-10-10T23:51:49Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1998.9,   -18.3,   373.3)
+  soy?
+2022-10-10T23:51:49Z: PLAYER CHATTED [  138253251] ItsJeremy32          (-1996.7,   -19.4,   301.1)
+  okay
+2022-10-10T23:51:51Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2003.9,   -19.3,   368.4)
+  did yall get a room
+2022-10-10T23:51:53Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2003.9,   -19.3,   368.4)
+  no spy.
+2022-10-10T23:51:53Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1998.9,   -18.3,   373.3)
+  no.
+2022-10-10T23:51:55Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1998.2,   -18.8,   366.7)
+  no-
+2022-10-10T23:51:56Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2003.9,   -19.3,   368.4)
+  I said SOY
+2022-10-10T23:51:57Z: PLAYER CHATTED [  138253251] ItsJeremy32          (-1996.7,   -19.4,   301.1)
+  your room is 202
+2022-10-10T23:51:58Z: PLAYER ADDED   [  634295239] brunoh190
+2022-10-10T23:51:59Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2003.9,   -19.3,   368.4)
+  SPY*
+2022-10-10T23:52:03Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1998.9,   -18.3,   373.3)
+  soy-
+2022-10-10T23:52:09Z: PLAYER CHATTED [  740796352] Yllarigenial09       (-1992.6,   -17.8,   305.7)
+  thx :D
+2022-10-10T23:52:11Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1998.2,   -18.8,   366.7)
+  Why would we spy? On a MOTEL??
+2022-10-10T23:52:12Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1998.9,   -18.3,   373.3)
+  we're not #### or spies
+2022-10-10T23:52:13Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2003.9,   -19.3,   368.4)
+  we only have twobeds keft.
+2022-10-10T23:52:15Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1998.9,   -18.3,   373.3)
+  fr fr
+2022-10-10T23:52:19Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1998.9,   -18.3,   373.3)
+  uh we dont need it
+2022-10-10T23:52:20Z: CHRCTER ADDED  [ 1272195999] antiguanation268    
+2022-10-10T23:52:20Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1998.9,   -18.3,   373.3)
+  ty tho
+2022-10-10T23:52:20Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2003.9,   -19.3,   368.4)
+  s.
+2022-10-10T23:52:22Z: PLAYER CHATTED [  138253251] ItsJeremy32          (-1996.7,   -19.4,   301.1)
+  dont tell the host im here
+2022-10-10T23:52:25Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1998.2,   -18.8,   366.7)
+  yeah we good
+2022-10-10T23:52:26Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2003.9,   -19.3,   368.4)
+  ok lemme ban you
+2022-10-10T23:52:27Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1998.2,   -18.8,   366.7)
+  ty tho
+2022-10-10T23:52:29Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2003.9,   -19.3,   368.4)
+  jkkk
+2022-10-10T23:52:30Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1998.2,   -18.8,   366.7)
+  bruh-
+2022-10-10T23:52:32Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2017.8,   -19.3,   351.3)
+  bye
+2022-10-10T23:52:32Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1998.9,   -18.3,   373.3)
+  btw, someone is hiding from u
+2022-10-10T23:52:36Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1998.2,   -18.8,   366.7)
+  Not funny.
+2022-10-10T23:52:36Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1998.9,   -18.3,   373.3)
+  go find them-
+2022-10-10T23:52:39Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1998.2,   -18.8,   366.7)
+  Minus 1 point.
+2022-10-10T23:52:40Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2000.5,   -16.1,   359.8)
+  WHO
+2022-10-10T23:52:43Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1997.0,   -16.6,   373.7)
+  idk
+2022-10-10T23:52:45Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1997.0,   -16.6,   373.7)
+  user is
+2022-10-10T23:52:48Z: PLAYER ADDED   [ 3868888686] Duskchx
+2022-10-10T23:52:51Z: PLAYER CHATTED [ 2752968687] Sophia_bellahu       (-2011.4,   -18.8,   307.7)
+  Hello
+2022-10-10T23:52:51Z: PLAYER CHATTED [  510234416] Meg270725            (-2015.0,   -19.3,   319.3)
+  Hi Alex
+2022-10-10T23:52:51Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1997.0,   -16.6,   373.7)
+  itsjermey
+2022-10-10T23:52:56Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1999.6,   -19.3,   373.3)
+  kast strike
+2022-10-10T23:52:59Z: PLAYER CHATTED [ 2752968687] Sophia_bellahu       (-2011.4,   -18.8,   307.7)
+  What can I get you
+2022-10-10T23:52:59Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1993.9,   -19.3,   373.6)
+  last strike
+2022-10-10T23:53:00Z: PLAYER CHATTED [  138253251] ItsJeremy32          (-1997.1,   -19.6,   295.9)
+  huh?
+2022-10-10T23:53:02Z: PLAYER REMOVED [ 1272195999] antiguanation268
+2022-10-10T23:53:02Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1997.0,   -16.6,   373.7)
+  itsjermey32
+2022-10-10T23:53:04Z: PLAYER CHATTED [  510234416] Meg270725            (-2014.1,   -18.6,   314.4)
+  please a cofee
+2022-10-10T23:53:04Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1993.4,   -18.8,   375.8)
+  last strike???
+2022-10-10T23:53:08Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1993.4,   -18.8,   375.8)
+  What did I do?
+2022-10-10T23:53:09Z: PLAYER CHATTED [ 2752968687] Sophia_bellahu       (-2010.6,   -18.8,   309.1)
+  Alright 
+2022-10-10T23:53:15Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1997.0,   -16.6,   373.7)
+  omg no
+2022-10-10T23:53:16Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1997.0,   -16.6,   373.7)
+  you'
+2022-10-10T23:53:25Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1997.0,   -16.6,   373.7)
+  you're using one of those faces that moves!
+2022-10-10T23:53:26Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1893.8,   -18.9,   216.3)
+  what you doing here
+2022-10-10T23:53:27Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1997.0,   -16.6,   373.7)
+  AWH HELL NAH
+2022-10-10T23:53:33Z: PLAYER CHATTED [  510234416] Meg270725            (-2015.1,   -19.3,   301.6)
+  thanks
+2022-10-10T23:53:36Z: PLAYER CHATTED [ 2752968687] Sophia_bellahu       (-2011.6,   -18.8,   305.6)
+  Np
+2022-10-10T23:53:39Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1888.4,   -18.3,   225.2)
+   im looking for rooms that are open som ik
+2022-10-10T23:53:40Z: PLAYER CHATTED [  510234416] Meg270725            (-2015.1,   -19.3,   301.6)
+  have a nice day
+2022-10-10T23:53:44Z: PLAYER CHATTED [ 2752968687] Sophia_bellahu       (-2010.4,   -18.8,   306.7)
+  U to
+2022-10-10T23:53:45Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1888.4,   -18.3,   225.2)
+  so*
+2022-10-10T23:53:45Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1889.3,   -18.9,   221.4)
+  ok...
+2022-10-10T23:53:53Z: PLAYER ADDED   [ 3062468102] 2014aguil
+2022-10-10T23:54:02Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1992.1,   -18.7,   309.7)
+  jeremy
+2022-10-10T23:54:04Z: PLAYER ADDED   [ 2883830993] design_cupcake
+2022-10-10T23:54:06Z: PLAYER CHATTED [  138253251] ItsJeremy32          (-1996.2,   -19.6,   298.6)
+  hey host
+2022-10-10T23:54:07Z: PLAYER CHATTED [  510234416] Meg270725            (-1978.7,   -18.6,   312.4)
+  good morning
+2022-10-10T23:54:13Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1991.0,   -18.7,   306.1)
+  what r u doing
+2022-10-10T23:54:17Z: PLAYER ADDED   [   36610418] foreverswagger
+2022-10-10T23:54:22Z: PLAYER REMOVED [  634295239] brunoh190
+2022-10-10T23:54:22Z: PLAYER ADDED   [ 3760139495] Lunargirl413
+2022-10-10T23:54:24Z: PLAYER CHATTED [  138253251] ItsJeremy32          (-1996.2,   -19.6,   298.4)
+  i cant read what the words say on the sign
+2022-10-10T23:54:26Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1997.0,   -16.6,   373.7)
+  uh girl-
+2022-10-10T23:54:27Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1997.0,   -16.6,   373.7)
+  ur shirt
+2022-10-10T23:54:30Z: PLAYER REMOVED [ 3519821753] Animalwomen5
+2022-10-10T23:54:30Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1991.0,   -18.7,   306.1)
+  oh
+2022-10-10T23:54:35Z: PLAYER CHATTED [  510234416] Meg270725            (-1872.7,   -19.5,   307.1)
+  all the guests wake up and go to the dinner room
+2022-10-10T23:54:38Z: PLAYER CHATTED [  138253251] ItsJeremy32          (-1997.4,   -19.6,   298.7)
+  im blind
+2022-10-10T23:54:41Z: PLAYER CHATTED [ 3062468102] 2014aguil            (-1990.4,   -18.4,   306.0)
+  Hi
+2022-10-10T23:54:44Z: CHRCTER ADDED  [ 3868888686] Duskchx             
+2022-10-10T23:54:46Z: PLAYER CHATTED [ 3760139495] Lunargirl413         (-1989.2,   -20.7,   378.6)
+  Hi
+2022-10-10T23:54:46Z: PLAYER CHATTED [  138253251] ItsJeremy32          (-1995.4,   -19.6,   299.2)
+  hello :)
+2022-10-10T23:54:46Z: PLAYER CHATTED [ 2883830993] design_cupcake       (-2001.0,   -19.7,   374.0)
+  whose da host?
+2022-10-10T23:54:49Z: PLAYER ADDED   [ 2008574185] kellyp0809
+2022-10-10T23:54:50Z: PLAYER REMOVED [ 3868888686] Duskchx
+2022-10-10T23:54:52Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1993.4,   -18.8,   375.8)
+  idk I think she may be afk
+2022-10-10T23:54:56Z: PLAYER CHATTED [  510234416] Meg270725            (-1964.4,   -18.6,   299.3)
+  sir
+2022-10-10T23:54:58Z: PLAYER REMOVED [  138253251] ItsJeremy32
+2022-10-10T23:54:59Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1997.0,   -16.6,   373.7)
+  welp
+2022-10-10T23:54:59Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1993.4,   -18.8,   375.8)
+  He should be inside
+2022-10-10T23:55:01Z: PLAYER CHATTED [ 3062468102] 2014aguil            (-1990.4,   -18.4,   306.0)
+  Can I get something to eat
+2022-10-10T23:55:01Z: PLAYER CHATTED [ 2883830993] design_cupcake       (-1996.2,   -19.6,   377.1)
+  oh
+2022-10-10T23:55:02Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2001.2,   -19.3,   369.9)
+  me
+2022-10-10T23:55:02Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1992.8,   -18.8,   376.6)
+  nvrm
+2022-10-10T23:55:04Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1997.0,   -16.6,   373.7)
+  hes right here
+2022-10-10T23:55:08Z: CHRCTER ADDED  [ 3922463635] Bllvibesguys        
+2022-10-10T23:55:11Z: PLAYER CHATTED [ 2752968687] Sophia_bellahu       (-2009.5,   -18.8,   308.9)
+  Hello what can I get ya today 
+2022-10-10T23:55:14Z: PLAYER CHATTED [ 2883830993] design_cupcake       (-1999.7,   -19.6,   371.0)
+  wheres the reception?
+2022-10-10T23:55:18Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2001.0,   -19.3,   367.2)
+  over here
+2022-10-10T23:55:19Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1995.5,   -18.4,   375.0)
+  HIS EYES BLINK
+2022-10-10T23:55:29Z: PLAYER REMOVED [  740796352] Yllarigenial09
+2022-10-10T23:55:29Z: PLAYER CHATTED [  510234416] Meg270725            (-1979.3,   -18.5,   315.8)
+  sir
+2022-10-10T23:55:31Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1996.2,   -16.9,   374.3)
+  NAH NAH
+2022-10-10T23:55:33Z: PLAYER CHATTED [ 2883830993] design_cupcake       (-1989.1,   -19.0,   304.6)
+  ok
+2022-10-10T23:55:36Z: CHRCTER ADDED  [ 3062468102] 2014aguil           
+2022-10-10T23:55:37Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1997.9,   -19.1,   378.0)
+  Bruh those faces are super chiseled-
+2022-10-10T23:55:37Z: PLAYER ADDED   [  138253251] ItsJeremy32
+2022-10-10T23:55:39Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1998.1,   -19.1,   384.2)
+  XD
+2022-10-10T23:55:40Z: PLAYER CHATTED [ 2752968687] Sophia_bellahu       (-2007.1,   -18.8,   311.8)
+  Hello what can I get ya today 
+2022-10-10T23:55:40Z: PLAYER CHATTED [ 3760139495] Lunargirl413         (-1986.6,   -18.8,   311.6)
+  Hi
+2022-10-10T23:55:43Z: PLAYER CHATTED [ 2883830993] design_cupcake       (-1989.1,   -19.0,   304.6)
+  id like to get a room plss
+2022-10-10T23:55:45Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1917.2,   -12.9,   433.6)
+  mad creepy bruh
+2022-10-10T23:55:51Z: PLAYER REMOVED [ 3349097295] Nydollasign_8
+2022-10-10T23:55:53Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1917.2,   -12.9,   433.6)
+  no faces is better
+2022-10-10T23:55:54Z: PLAYER CHATTED [  510234416] Meg270725            (-2004.4,   -19.1,   322.7)
+  what do you wnat for breakfast?
+2022-10-10T23:55:56Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1915.1,   -13.4,   430.7)
+  honestlyyy thoo
+2022-10-10T23:56:02Z: PLAYER CHATTED [ 3760139495] Lunargirl413         (-1952.6,   -19.7,   295.1)
+  Where do I check in
+2022-10-10T23:56:08Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1917.2,   -12.9,   433.6)
+  50 players?!
+2022-10-10T23:56:11Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1915.1,   -13.4,   430.7)
+  No u only have 15
+2022-10-10T23:56:11Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1917.2,   -12.9,   433.6)
+  nah bro
+2022-10-10T23:56:13Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1917.2,   -12.9,   433.6)
+  u got 15-
+2022-10-10T23:56:13Z: PLAYER CHATTED [ 2883830993] design_cupcake       (-1985.4,   -19.9,   305.3)
+  its 15
+2022-10-10T23:56:19Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1915.1,   -13.4,   430.7)
+  lol
+2022-10-10T23:56:20Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-2008.0,   -19.5,   372.1)
+  receptionist 
+2022-10-10T23:56:25Z: PLAYER CHATTED [ 3062468102] 2014aguil            (-1996.7,   -19.4,   301.1)
+  Hi
+2022-10-10T23:56:25Z: PLAYER CHATTED [ 2883830993] design_cupcake       (-1991.8,   -18.5,   304.8)
+  can i pls have a room
+2022-10-10T23:56:26Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1943.2,   -19.6,   411.2)
+  ay
+2022-10-10T23:56:26Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1917.2,   -12.9,   433.6)
+  second-hand embarassment 
+2022-10-10T23:56:27Z: PLAYER ADDED   [ 3963395839] cristian102d
+2022-10-10T23:56:28Z: PLAYER REMOVED [ 3922463635] Bllvibesguys
+2022-10-10T23:56:28Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1917.2,   -12.9,   433.6)
+  but same
+2022-10-10T23:56:40Z: PLAYER CHATTED [ 2883830993] design_cupcake       (-1991.8,   -18.5,   304.8)
+  if possible i want a wide luxurious room
+2022-10-10T23:56:40Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1915.1,   -13.4,   430.7)
+  LOL
+2022-10-10T23:56:41Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1917.2,   -12.9,   433.6)
+  oh i didnt see u there-
+2022-10-10T23:56:45Z: PLAYER CHATTED [ 3062468102] 2014aguil            (-1996.7,   -19.4,   301.1)
+  How May I help you 
+2022-10-10T23:56:46Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1917.2,   -12.9,   433.6)
+  uhh
+2022-10-10T23:56:48Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1917.2,   -12.9,   433.6)
+  wsp
+2022-10-10T23:56:48Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1915.1,   -13.4,   430.7)
+  /yikes-
+2022-10-10T23:56:50Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1915.1,   -13.4,   430.7)
+  Uhm
+2022-10-10T23:56:53Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1915.1,   -13.4,   430.7)
+  hiiiii
+2022-10-10T23:56:57Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1932.1,   -19.6,   423.8)
+  1-2-3 ### stab back stab blue #### ### #### F4 STAB
+2022-10-10T23:57:00Z: PLAYER ADDED   [ 2710179311] Mortyslash
+2022-10-10T23:57:00Z: PLAYER CHATTED [  136239406] ChibiCuteGirl        (-1917.2,   -12.9,   433.6)
+  tags
+2022-10-10T23:57:01Z: PLAYER CHATTED [ 3062468102] 2014aguil            (-1985.7,   -19.3,   295.4)
+  Let’s me go see 
+2022-10-10T23:57:03Z: PLAYER ADDED   [ 1324330310] cloudthekitten11
+2022-10-10T23:57:04Z: PLAYER CHATTED [ 2883830993] design_cupcake       (-1989.0,   -19.0,   304.7)
+  ok
+2022-10-10T23:57:06Z: PLAYER REMOVED [  136239406] ChibiCuteGirl
+2022-10-10T23:57:09Z: PLAYER REMOVED [ 2752968687] Sophia_bellahu
+2022-10-10T23:57:09Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1932.1,   -19.6,   423.8)
+  uhm
+2022-10-10T23:57:14Z: PLAYER CHATTED [ 3760139495] Lunargirl413         (-2046.2,   -19.4,   325.8)
+  Hmmmmm
+2022-10-10T23:57:14Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1915.1,   -13.4,   430.7)
+  where-
+2022-10-10T23:57:18Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1932.1,   -19.6,   423.8)
+  totally did nothing...
+2022-10-10T23:57:22Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1916.9,   -19.1,   428.8)
+  Cap.
+2022-10-10T23:57:22Z: PLAYER CHATTED [ 3062468102] 2014aguil            (-1986.3,   -18.4,   310.8)
+  Yes come 
+2022-10-10T23:57:24Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1916.9,   -19.1,   428.8)
+  CAPPIN
+2022-10-10T23:57:27Z: PLAYER CHATTED [ 3760139495] Lunargirl413         (-2006.3,   -19.4,   364.5)
+  Where do I check in
+2022-10-10T23:57:28Z: PLAYER CHATTED [ 2883830993] design_cupcake       (-1987.5,   -19.0,   308.4)
+  ok
+2022-10-10T23:57:34Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1921.3,   -19.1,   428.0)
+  HOST IS MAD CAPPIN
+2022-10-10T23:57:37Z: CHRCTER ADDED  [ 3062468102] 2014aguil           
+2022-10-10T23:57:40Z: PLAYER CHATTED [ 2883830993] design_cupcake       (-1950.4,   -19.0,   278.6)
+  oof thgere are lasers
+2022-10-10T23:57:40Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1923.6,   -19.1,   422.8)
+  NAH BRO
+2022-10-10T23:57:45Z: CHRCTER ADDED  [   36610418] foreverswagger      
+2022-10-10T23:57:58Z: PLAYER CHATTED [ 2883830993] design_cupcake       (-1951.0,   -19.0,   290.8)
+  afk
+2022-10-10T23:58:05Z: PLAYER REMOVED [ 1962342073] ishan0255
+2022-10-10T23:58:08Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1947.9,   -17.7,   301.5)
+  WHY U HIDIN BRO
+2022-10-10T23:58:11Z: PLAYER REMOVED [ 2008574185] kellyp0809
+2022-10-10T23:58:13Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1947.9,   -17.7,   301.5)
+  RIGHT AFTER U KICKED HIM
+2022-10-10T23:58:18Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1947.9,   -17.7,   301.5)
+  U trippin frfr
+2022-10-10T23:58:19Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1952.5,   -25.6,   352.9)
+  AYO 
+2022-10-10T23:58:27Z: PLAYER CHATTED [ 2710179311] Mortyslash           (-1982.4,   -19.1,   338.5)
+  Where do I get a room
+2022-10-10T23:58:30Z: PLAYER ADDED   [ 3079081129] Euphoriajustice
+2022-10-10T23:58:32Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1979.8,   -18.9,   334.9)
+  HII :>
+2022-10-10T23:58:35Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1977.3,   -19.6,   336.5)
+  receptionist
+2022-10-10T23:58:37Z: PLAYER CHATTED [ 2710179311] Mortyslash           (-1982.4,   -19.1,   338.5)
+  OH HIII
+2022-10-10T23:58:39Z: PLAYER CHATTED [ 3760139495] Lunargirl413         (-1966.7,   -19.7,   372.7)
+  Where do I check in 
+2022-10-10T23:58:44Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1976.3,   -19.5,   338.5)
+  MARLEY
+2022-10-10T23:58:45Z: PLAYER CHATTED [ 2710179311] Mortyslash           (-1981.8,   -19.0,   338.9)
+  WSPP
+2022-10-10T23:58:46Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1976.3,   -19.5,   338.5)
+  GO DO YOUR JOB!
+2022-10-10T23:58:50Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1986.4,   -15.8,   329.0)
+  OOP
+2022-10-10T23:58:51Z: PLAYER CHATTED [ 2710179311] Mortyslash           (-1985.3,   -19.1,   338.8)
+  I-
+2022-10-10T23:58:52Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1986.4,   -15.8,   329.0)
+  SORRY
+2022-10-10T23:58:54Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1975.4,   -19.6,   336.9)
+  EOPLE NEED YOU,
+2022-10-10T23:59:04Z: PLAYER CHATTED [ 2883830993] design_cupcake       (-1943.0,    -7.9,   271.5)
+  what r these #####
+2022-10-10T23:59:07Z: PLAYER CHATTED [ 3760139495] Lunargirl413         (-1991.5,   -18.8,   306.8)
+  I’m dumb
+2022-10-10T23:59:07Z: PLAYER CHATTED [ 3062468102] 2014aguil            (-1944.4,    -7.3,   267.7)
+  This
+2022-10-10T23:59:09Z: PLAYER CHATTED [ 2883830993] design_cupcake       (-1943.0,    -7.9,   271.5)
+  rooms*
+2022-10-10T23:59:11Z: PLAYER CHATTED [ 3079081129] Euphoriajustice      (-1973.0,   -19.4,   337.3)
+  IMAOO 
+2022-10-10T23:59:12Z: PLAYER CHATTED [   36610418] foreverswagger       (-1969.8,   -19.4,   335.8)
+  girlll
+2022-10-10T23:59:15Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  Hello, Welcome! How may i help you today?
+2022-10-10T23:59:21Z: PLAYER CHATTED [ 3079081129] Euphoriajustice      (-1964.4,   -25.5,   337.8)
+  Yeah 
+2022-10-10T23:59:30Z: PLAYER CHATTED [   36610418] foreverswagger       (-1970.3,   -15.8,   331.3)
+  not me freaing out lol
+2022-10-10T23:59:30Z: PLAYER CHATTED [ 3760139495] Lunargirl413         (-1991.5,   -18.8,   306.8)
+  Can I get a room pls
+2022-10-10T23:59:34Z: PLAYER CHATTED [   36610418] foreverswagger       (-1967.5,   -18.0,   333.5)
+  freaking *
+2022-10-10T23:59:38Z: PLAYER CHATTED [ 3079081129] Euphoriajustice      (-1947.6,   -25.5,   344.7)
+  Why 
+2022-10-10T23:59:38Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  What kind?
+2022-10-10T23:59:41Z: PLAYER ADDED   [ 2318588302] Elcuh_isiah956
+2022-10-10T23:59:43Z: PLAYER CHATTED [ 2883830993] design_cupcake       (-1962.0,    -7.9,   264.2)
+  i dont like the style :|
+2022-10-10T23:59:44Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1983.3,   -18.3,   313.6)
+  afk
+2022-10-10T23:59:47Z: PLAYER CHATTED [ 3760139495] Lunargirl413         (-1991.5,   -18.8,   306.8)
+  Idk
+2022-10-10T23:59:48Z: PLAYER CHATTED [ 2883830993] design_cupcake       (-1962.0,    -7.9,   264.2)
+  and the solouyr
+2022-10-10T23:59:50Z: PLAYER ADDED   [ 3107716909] Art1salt20
+2022-10-10T23:59:54Z: PLAYER CHATTED [   36610418] foreverswagger       (-1967.5,   -18.0,   333.5)
+  water terrifies me lol
+2022-10-10T23:59:54Z: PLAYER CHATTED [ 3760139495] Lunargirl413         (-1991.5,   -18.8,   306.8)
+  AFK
+2022-10-10T23:59:57Z: PLAYER CHATTED [ 2883830993] design_cupcake       (-1962.0,    -7.9,   264.2)
+  im just gonna work here or smthng
+2022-10-11T00:00:05Z: PLAYER CHATTED [ 3079081129] Euphoriajustice      (-1962.1,   -25.5,   340.3)
+  IMAOOO girl 
+2022-10-11T00:00:11Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-2004.8,   -18.8,   368.5)
+  can't believe u did that and then LIE
+2022-10-11T00:00:20Z: PLAYER CHATTED [   36610418] foreverswagger       (-1965.5,   -19.2,   334.9)
+  i need floaties
+2022-10-11T00:00:39Z: PLAYER CHATTED [ 2710179311] Mortyslash           (-1988.6,   -18.2,   310.1)
+  k...
+2022-10-11T00:00:44Z: CHRCTER ADDED  [ 2318588302] Elcuh_isiah956      
+2022-10-11T00:00:49Z: CHRCTER ADDED  [ 3062468102] 2014aguil           
+2022-10-11T00:00:51Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1893.5,   -19.1,   300.7)
+  AYO HOST
+2022-10-11T00:00:57Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  bruh...
+2022-10-11T00:00:58Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1893.5,   -19.1,   300.7)
+  U FINNA EXPLAIN WHY U KICKED HIM?
+2022-10-11T00:01:16Z: CHRCTER ADDED  [ 3062468102] 2014aguil           
+2022-10-11T00:01:21Z: PLAYER CHATTED [ 2710179311] Mortyslash           (-1989.0,   -18.2,   308.7)
+  ;-;
+2022-10-11T00:01:22Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1977.7,   -19.3,   323.0)
+  mo
+2022-10-11T00:01:23Z: PLAYER REMOVED [ 2318588302] Elcuh_isiah956
+2022-10-11T00:01:23Z: PLAYER CHATTED [   36610418] foreverswagger       (-1890.0,   -18.7,   225.0)
+  hey
+2022-10-11T00:01:24Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1977.7,   -19.3,   323.0)
+  no
+2022-10-11T00:01:31Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1986.0,   -19.1,   371.9)
+  ofc not
+2022-10-11T00:01:31Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  ...
+2022-10-11T00:01:33Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-1986.0,   -19.1,   371.9)
+  cause u guilty
+2022-10-11T00:01:38Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  any time now T-T
+2022-10-11T00:01:47Z: PLAYER CHATTED [ 2710179311] Mortyslash           (-1990.3,   -18.2,   304.2)
+  Ill just skip :)
+2022-10-11T00:01:51Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  HI :>
+2022-10-11T00:01:52Z: PLAYER REMOVED [ 3062468102] 2014aguil
+2022-10-11T00:01:55Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  WELCOME
+2022-10-11T00:01:58Z: PLAYER CHATTED [ 2710179311] Mortyslash           (-1990.3,   -18.2,   304.2)
+  Hi :>
+2022-10-11T00:02:07Z: PLAYER ADDED   [  806931629] 1234puppyl
+2022-10-11T00:02:09Z: PLAYER CHATTED [ 2710179311] Mortyslash           (-1990.3,   -18.2,   304.2)
+  Ill pay 80$ for uhhh
+2022-10-11T00:02:14Z: PLAYER ADDED   [ 1196025576] nottodaySis2
+2022-10-11T00:02:15Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1973.5,   -19.5,   372.0)
+  can you hear the piano 
+2022-10-11T00:02:17Z: PLAYER CHATTED [ 2710179311] Mortyslash           (-1990.3,   -18.2,   304.2)
+  King bed i guess-
+2022-10-11T00:02:20Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-2038.2,   -19.1,   375.0)
+  nooe
+2022-10-11T00:02:25Z: PLAYER CHATTED [ 1015038785] Genesis14387         (-2038.2,   -19.1,   375.0)
+  got the game on mute
+2022-10-11T00:02:27Z: PLAYER ADDED   [ 2252308008] Yqoob533
+2022-10-11T00:02:32Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  you have to pay the host the $80
+2022-10-11T00:02:33Z: PLAYER REMOVED [ 2252308008] Yqoob533
+2022-10-11T00:02:40Z: PLAYER CHATTED [  806931629] 1234puppyl           (-1980.9,   -19.5,   371.5)
+  Hi can I work as a maid
+2022-10-11T00:02:46Z: PLAYER REMOVED [ 1324330310] cloudthekitten11
+2022-10-11T00:02:46Z: PLAYER REMOVED [ 3107716909] Art1salt20
+2022-10-11T00:02:50Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  and your room is 101
+2022-10-11T00:02:53Z: PLAYER CHATTED [ 2710179311] Mortyslash           (-1975.3,   -19.1,   325.8)
+  I paid
+2022-10-11T00:03:11Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1996.7,   -19.5,   301.1)
+  you still afk girl?
+2022-10-11T00:03:24Z: PLAYER CHATTED [  806931629] 1234puppyl           (-1983.0,   -18.6,   318.8)
+  Yo can I be a maid?
+2022-10-11T00:03:31Z: PLAYER ADDED   [ 3911378495] juanitanotthere
+2022-10-11T00:03:38Z: PLAYER CHATTED [ 3079081129] Euphoriajustice      (-1974.7,   -19.4,   329.7)
+  Lauren?
+2022-10-11T00:03:41Z: PLAYER ADDED   [ 3634951622] Blurbrxxy
+2022-10-11T00:03:46Z: PLAYER CHATTED [  806931629] 1234puppyl           (-1962.8,   -18.6,   301.3)
+  Bro u ignoring me or sim
+2022-10-11T00:03:46Z: PLAYER ADDED   [ 3914728322] Amiyah91234
+2022-10-11T00:03:47Z: PLAYER CHATTED [  510234416] Meg270725            (-1971.1,   -19.5,   326.5)
+  sorry?
+2022-10-11T00:03:51Z: PLAYER CHATTED [ 3079081129] Euphoriajustice      (-1974.7,   -19.4,   329.7)
+  Nvm 
+2022-10-11T00:03:52Z: PLAYER ADDED   [ 3517481194] island_boy86
+2022-10-11T00:03:53Z: PLAYER CHATTED [   36610418] foreverswagger       (-1974.8,   -19.4,   324.2)
+  lauren?
+2022-10-11T00:03:53Z: PLAYER CHATTED [  806931629] 1234puppyl           (-1967.6,   -22.1,   280.7)
+  Can I be a maid
+2022-10-11T00:03:54Z: CHRCTER ADDED  [  806931629] 1234puppyl          
+2022-10-11T00:03:55Z: PLAYER CHATTED [  510234416] Meg270725            (-1971.1,   -19.5,   326.5)
+  dont worry
+2022-10-11T00:04:15Z: PLAYER CHATTED [  806931629] 1234puppyl           (-1966.3,   -18.6,   292.3)
+  Yo?
+2022-10-11T00:04:16Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1968.9,   -19.6,   287.7)
+  ?
+2022-10-11T00:04:19Z: PLAYER REMOVED [ 3911378495] juanitanotthere
+2022-10-11T00:04:19Z: PLAYER CHATTED [  806931629] 1234puppyl           (-1966.3,   -18.6,   292.3)
+  Can I be a mid
+2022-10-11T00:04:21Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1968.9,   -19.6,   287.7)
+  dont yo me
+2022-10-11T00:04:24Z: PLAYER CHATTED [  806931629] 1234puppyl           (-1966.3,   -18.6,   292.3)
+  Maid*
+2022-10-11T00:04:25Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1968.9,   -19.6,   287.7)
+  sure
+2022-10-11T00:04:34Z: PLAYER CHATTED [ 3634951622] Blurbrxxy            (-1953.2,   -19.5,   304.7)
+  Hi
+2022-10-11T00:04:37Z: CHRCTER ADDED  [ 3914728322] Amiyah91234         
+2022-10-11T00:04:38Z: PLAYER REMOVED [ 1015038785] Genesis14387
+2022-10-11T00:04:42Z: PLAYER CHATTED [  806931629] 1234puppyl           (-1940.1,   -17.4,   316.1)
+  Bro took ## ## an insult
+2022-10-11T00:04:43Z: PLAYER CHATTED [ 3963395839] cristian102d         (-1989.2,   -19.4,   432.8)
+  como eu mudo a cor de pele
+2022-10-11T00:04:48Z: PLAYER REMOVED [ 2883830993] design_cupcake
+2022-10-11T00:04:48Z: PLAYER CHATTED [  806931629] 1234puppyl           (-1937.9,   -18.5,   319.2)
+  You as*
+2022-10-11T00:04:50Z: PLAYER CHATTED [ 3634951622] Blurbrxxy            (-1938.7,   -17.1,   311.2)
+  Can i have a job
+2022-10-11T00:04:51Z: PLAYER CHATTED [  806931629] 1234puppyl           (-1937.9,   -18.5,   319.2)
+  Yoo*
+2022-10-11T00:04:56Z: PLAYER ADDED   [ 3332950243] can3of3beans
+2022-10-11T00:04:59Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1919.8,   -19.6,   300.5)
+  n
+2022-10-11T00:04:59Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1919.8,   -19.6,   300.5)
+  no
+2022-10-11T00:05:01Z: PLAYER ADDED   [ 3583703087] queenleahy_21
+2022-10-11T00:05:05Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1919.8,   -19.6,   300.5)
+  theres no jobs left
+2022-10-11T00:05:10Z: PLAYER CHATTED [ 3634951622] Blurbrxxy            (-1923.8,   -19.9,   297.1)
+  Oh ok bye
+2022-10-11T00:05:23Z: PLAYER CHATTED [  510234416] Meg270725            (-1912.2,   -19.5,   311.9)
+  wow
+2022-10-11T00:05:29Z: PLAYER REMOVED [ 3634951622] Blurbrxxy
+2022-10-11T00:05:35Z: PLAYER ADDED   [ 3721911523] luvMeowi
+2022-10-11T00:05:38Z: PLAYER ADDED   [ 3787064978] ThatkidnNardo
+2022-10-11T00:05:40Z: PLAYER ADDED   [ 3107716909] Art1salt20
+2022-10-11T00:05:46Z: PLAYER ADDED   [ 2670560734] AvaBaskets
+2022-10-11T00:05:52Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1934.8,    -6.6,   325.4)
+  ####
+2022-10-11T00:05:57Z: PLAYER CHATTED [ 3079081129] Euphoriajustice      (-1967.2,   -15.2,   325.5)
+  Summer time sadness 
+2022-10-11T00:06:12Z: PLAYER REMOVED [ 3107716909] Art1salt20
+2022-10-11T00:06:14Z: PLAYER REMOVED [ 3583703087] queenleahy_21
+2022-10-11T00:06:19Z: PLAYER CHATTED [  806931629] 1234puppyl           (-1913.5,   -19.5,   306.3)
+  Do I have any thing to do?
+2022-10-11T00:06:19Z: PLAYER CHATTED [  510234416] Meg270725            (-1915.5,   -19.5,   307.6)
+  sir, do you need something for the party?
+2022-10-11T00:06:24Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1918.8,   -19.6,   301.6)
+  no.
+2022-10-11T00:06:28Z: CHRCTER ADDED  [ 3721911523] luvMeowi            
+2022-10-11T00:06:28Z: PLAYER CHATTED [  510234416] Meg270725            (-1916.7,   -19.5,   305.6)
+  ok
+2022-10-11T00:06:35Z: PLAYER CHATTED [   36610418] foreverswagger       (-1969.1,   -16.1,   330.6)
+  not summer time sadness lol
+2022-10-11T00:06:37Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1918.8,   -19.6,   301.6)
+  50K WORTH OF FIRE WORKS
+2022-10-11T00:06:43Z: PLAYER CHATTED [ 3545112905] Thegymnastfleemaster (-1934.8,    -6.6,   325.4)
+  ###
+2022-10-11T00:06:44Z: PLAYER ADDED   [  481327279] GalaxyTiger_1o1
+2022-10-11T00:06:46Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1942.1,   -14.3,   315.7)
+  god help
+2022-10-11T00:06:46Z: PLAYER CHATTED [ 3079081129] Euphoriajustice      (-1967.2,   -15.2,   325.5)
+  IMAOOO 
+2022-10-11T00:06:47Z: PLAYER ADDED   [  485557596] abdullah2883
+2022-10-11T00:06:48Z: PLAYER CHATTED [  806931629] 1234puppyl           (-1969.2,   -19.5,   323.8)
+  Y’all slaying that fits
+2022-10-11T00:06:50Z: PLAYER CHATTED [   36610418] foreverswagger       (-1969.1,   -16.1,   330.6)
+  listen to good music lol
+2022-10-11T00:06:55Z: CHRCTER ADDED  [ 3914728322] Amiyah91234         
+2022-10-11T00:07:00Z: PLAYER CHATTED [ 3079081129] Euphoriajustice      (-1967.2,   -15.2,   325.5)
+  Thanks Queen 
+2022-10-11T00:07:02Z: PLAYER REMOVED [ 2670560734] AvaBaskets
+2022-10-11T00:07:05Z: CHRCTER ADDED  [ 3787064978] ThatkidnNardo       
+2022-10-11T00:07:06Z: PLAYER ADDED   [ 3117250076] coygirl_sky
+2022-10-11T00:07:17Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1965.9,   -15.4,   321.0)
+  AYO
+2022-10-11T00:07:21Z: PLAYER CHATTED [   36610418] foreverswagger       (-1969.1,   -16.1,   330.7)
+  u need some nardo wick in ur life lol
+2022-10-11T00:07:21Z: PLAYER ADDED   [ 3686615437] na_jjaeminn
+2022-10-11T00:07:23Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1965.9,   -15.4,   321.0)
+  ITS A HELI
+2022-10-11T00:07:24Z: PLAYER REMOVED [ 3332950243] can3of3beans
+2022-10-11T00:07:30Z: PLAYER CHATTED [ 3079081129] Euphoriajustice      (-1967.2,   -15.2,   325.5)
+  Huh britt 
+2022-10-11T00:07:40Z: PLAYER ADDED   [ 3311412230] ssrreeeeeeeee665
+2022-10-11T00:07:42Z: PLAYER CHATTED [  806931629] 1234puppyl           (-1948.7,   -17.9,   303.1)
+  It’s a horse
+2022-10-11T00:07:50Z: PLAYER CHATTED [  481327279] GalaxyTiger_1o1      (-1951.0,   -19.2,   304.6)
+  #############
+2022-10-11T00:07:51Z: PLAYER CHATTED [   36610418] foreverswagger       (-1969.0,   -16.2,   330.8)
+  u dont know who nardo wick is?
+2022-10-11T00:07:52Z: CHRCTER ADDED  [ 3914728322] Amiyah91234         
+2022-10-11T00:07:55Z: PLAYER CHATTED [  481327279] GalaxyTiger_1o1      (-1951.0,   -19.2,   304.6)
+  im capybara
+2022-10-11T00:08:03Z: PLAYER CHATTED [  806931629] 1234puppyl           (-1949.2,   -17.2,   306.6)
+  Dam
+2022-10-11T00:08:04Z: PLAYER CHATTED [ 3079081129] Euphoriajustice      (-1967.2,   -15.2,   325.5)
+  I don’t watch anime 
+2022-10-11T00:08:06Z: PLAYER CHATTED [  481327279] GalaxyTiger_1o1      (-1951.0,   -19.2,   304.6)
+  ###################
+2022-10-11T00:08:07Z: PLAYER REMOVED [ 3311412230] ssrreeeeeeeee665
+2022-10-11T00:08:11Z: PLAYER REMOVED [ 3787064978] ThatkidnNardo
+2022-10-11T00:08:25Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1961.7,   -15.4,   320.5)
+  MORE FIRE WORKS.
+2022-10-11T00:08:26Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1961.7,   -15.4,   320.5)
+  ?
+2022-10-11T00:08:28Z: PLAYER CHATTED [  806931629] 1234puppyl           (-1947.1,   -16.3,   307.9)
+  How am I supposed to know u look like a short horse
+2022-10-11T00:08:30Z: CHRCTER ADDED  [ 3914728322] Amiyah91234         
+2022-10-11T00:08:37Z: PLAYER REMOVED [ 3517481194] island_boy86
+2022-10-11T00:08:37Z: PLAYER CHATTED [  481327279] GalaxyTiger_1o1      (-1951.2,   -19.2,   304.9)
+  bruh
+2022-10-11T00:08:42Z: PLAYER CHATTED [   36610418] foreverswagger       (-1970.1,   -14.7,   329.7)
+  its not anime lol
+2022-10-11T00:08:42Z: PLAYER REMOVED [  806931629] 1234puppyl
+2022-10-11T00:08:46Z: PLAYER CHATTED [   36610418] foreverswagger       (-1970.1,   -14.7,   329.7)
+  its music
+2022-10-11T00:08:51Z: PLAYER CHATTED [ 3079081129] Euphoriajustice      (-1967.2,   -15.2,   325.5)
+  A rapper 
+2022-10-11T00:08:56Z: PLAYER CHATTED [ 3079081129] Euphoriajustice      (-1967.2,   -15.2,   325.5)
+  ?
+2022-10-11T00:09:00Z: PLAYER CHATTED [   36610418] foreverswagger       (-1970.1,   -14.7,   329.7)
+  /ofc
+2022-10-11T00:09:14Z: PLAYER REMOVED [ 3721911523] luvMeowi
+2022-10-11T00:09:22Z: PLAYER REMOVED [ 3117250076] coygirl_sky
+2022-10-11T00:09:24Z: PLAYER REMOVED [  138253251] ItsJeremy32
+2022-10-11T00:09:26Z: PLAYER REMOVED [  485557596] abdullah2883
+2022-10-11T00:09:38Z: PLAYER CHATTED [   36610418] foreverswagger       (-1970.1,   -14.7,   329.7)
+  listen to me or sum
+2022-10-11T00:09:39Z: PLAYER REMOVED [  510234416] Meg270725
+2022-10-11T00:09:42Z: CHRCTER ADDED  [ 3914728322] Amiyah91234         
+2022-10-11T00:09:43Z: PLAYER CHATTED [   36610418] foreverswagger       (-1970.1,   -14.7,   329.7)
+  by nardo wick
+2022-10-11T00:09:48Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1928.0,   -19.6,   291.1)
+  70k worth of fireworks
+2022-10-11T00:09:50Z: PLAYER CHATTED [ 3079081129] Euphoriajustice      (-1967.2,   -15.2,   325.5)
+  Alright 
+2022-10-11T00:09:58Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1960.6,   -19.6,   322.3)
+  never gets ld
+2022-10-11T00:10:00Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1960.6,   -19.6,   322.3)
+  old
+2022-10-11T00:10:02Z: PLAYER CHATTED [   36610418] foreverswagger       (-1970.1,   -14.7,   329.7)
+  or smoke with me
+2022-10-11T00:10:07Z: PLAYER ADDED   [ 3207280495] babypug996
+2022-10-11T00:10:08Z: CHRCTER ADDED  [ 3914728322] Amiyah91234         
+2022-10-11T00:10:23Z: PLAYER ADDED   [  317702415] Crcsqent
+2022-10-11T00:10:28Z: PLAYER ADDED   [ 1259992727] chillbillHX
+2022-10-11T00:10:31Z: CHRCTER ADDED  [ 1259992727] chillbillHX         
+2022-10-11T00:10:33Z: PLAYER CHATTED [ 3079081129] Euphoriajustice      (-1967.2,   -15.2,   325.5)
+  Girl Ikk that song 
+2022-10-11T00:10:40Z: PLAYER CHATTED [ 3079081129] Euphoriajustice      (-1967.2,   -15.2,   325.5)
+  IMAOOO 
+2022-10-11T00:10:42Z: PLAYER ADDED   [ 2996947824] Ajdahoodboi
+2022-10-11T00:10:45Z: PLAYER ADDED   [ 1281167602] misslorelai789
+2022-10-11T00:10:45Z: PLAYER ADDED   [ 2471879065] lindseyfam_8
+2022-10-11T00:10:48Z: PLAYER CHATTED [ 3079081129] Euphoriajustice      (-1967.2,   -15.2,   325.5)
+  I’m so bad at James 
+2022-10-11T00:10:51Z: PLAYER CHATTED [   36610418] foreverswagger       (-1970.1,   -14.7,   329.7)
+  im sorry who want smoke
+2022-10-11T00:10:52Z: PLAYER CHATTED [ 3079081129] Euphoriajustice      (-1967.2,   -15.2,   325.5)
+  Namess*^
+2022-10-11T00:11:00Z: PLAYER REMOVED [  481327279] GalaxyTiger_1o1
+2022-10-11T00:11:06Z: CHRCTER ADDED  [ 2471879065] lindseyfam_8        
+2022-10-11T00:11:08Z: PLAYER CHATTED [   36610418] foreverswagger       (-1970.1,   -14.7,   329.7)
+  same tho 
+2022-10-11T00:11:21Z: PLAYER REMOVED [ 3207280495] babypug996
+2022-10-11T00:11:26Z: PLAYER CHATTED [ 2710179311] Mortyslash           (-1940.4,   -16.8,   315.3)
+  No
+2022-10-11T00:11:26Z: PLAYER CHATTED [   36610418] foreverswagger       (-1970.1,   -14.7,   329.7)
+  who want smoke is my life song i swear
+2022-10-11T00:11:26Z: PLAYER CHATTED [  317702415] Crcsqent             (-1990.9,   -19.4,   378.1)
+  oh hey agaib
+2022-10-11T00:11:30Z: PLAYER CHATTED [  317702415] Crcsqent             (-2007.3,   -19.4,   362.2)
+  again
+2022-10-11T00:11:31Z: PLAYER CHATTED [ 2996947824] Ajdahoodboi          (-1972.4,   -18.6,   334.9)
+  Hi
+2022-10-11T00:11:33Z: PLAYER REMOVED [ 2710179311] Mortyslash
+2022-10-11T00:11:36Z: PLAYER CHATTED [ 3079081129] Euphoriajustice      (-1967.2,   -15.2,   325.5)
+  I haven’t heard that song in a minute 
+2022-10-11T00:11:43Z: PLAYER CHATTED [   36610418] foreverswagger       (-1970.1,   -14.7,   329.7)
+  its a daily thing lol
+2022-10-11T00:11:43Z: PLAYER CHATTED [ 2996947824] Ajdahoodboi          (-1971.7,   -18.6,   334.4)
+  I see u guys before
+2022-10-11T00:11:45Z: PLAYER CHATTED [ 3079081129] Euphoriajustice      (-1967.2,   -15.2,   325.5)
+  What Phoucc is that 
+2022-10-11T00:11:51Z: PLAYER CHATTED [   36610418] foreverswagger       (-1970.1,   -14.7,   329.7)
+  probs
+2022-10-11T00:11:58Z: PLAYER REMOVED [ 3545112905] Thegymnastfleemaster
+2022-10-11T00:11:58Z: PLAYER CHATTED [ 3079081129] Euphoriajustice      (-1967.2,   -15.2,   325.5)
+  That’s how I step on !!!
+2022-10-11T00:11:58Z: CHRCTER ADDED  [ 1281167602] misslorelai789      
+2022-10-11T00:12:01Z: CHRCTER ADDED  [ 3914728322] Amiyah91234         
+2022-10-11T00:12:01Z: PLAYER CHATTED [ 3914728322] Amiyah91234         
+  Noo
+2022-10-11T00:12:02Z: PLAYER CHATTED [   36610418] foreverswagger       (-1970.1,   -14.7,   329.7)
+  YESSSSSSS
+2022-10-11T00:12:12Z: PLAYER REMOVED [  317702415] Crcsqent
+2022-10-11T00:12:19Z: PLAYER REMOVED [ 1281167602] misslorelai789
+2022-10-11T00:12:20Z: PLAYER REMOVED [ 2996947824] Ajdahoodboi
+2022-10-11T00:12:23Z: PLAYER CHATTED [ 2749025172] CoolcoolImbetter     (-1961.5,   -19.2,   322.0)
+  Abye yall
+2022-10-11T00:12:25Z: PLAYER CHATTED [   36610418] foreverswagger       (-1970.1,   -14.7,   329.7)
+  9 10 11 we dont say that bc we dont f) with jake
+2022-10-11T00:12:31Z: PLAYER CHATTED [ 3079081129] Euphoriajustice      (-1967.2,   -15.2,   325.5)
+  Byeee 
+2022-10-11T00:12:34Z: PLAYER REMOVED [ 1259992727] chillbillHX
+2022-10-11T00:12:35Z: PLAYER CHATTED [ 3079081129] Euphoriajustice      (-1967.2,   -15.2,   325.5)
+  IMAOOO bahahahah
+2022-10-11T00:12:35Z: PLAYER REMOVED [    1630228] VisualPlugin

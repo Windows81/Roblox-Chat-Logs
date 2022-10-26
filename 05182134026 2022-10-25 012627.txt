@@ -1,0 +1,466 @@
+[    1630228] : [ 5182134026] The White House [Protest][Riot][Halloween] - 12050bcc-9b64-43e9-ab7a-5f1a4edae89a
+2022-10-25T01:26:27Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-10-25T01:26:27Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-10-25T01:26:27Z: PLAYER ADDED   [ 1904158501] VincentInnocenzi
+2022-10-25T01:26:27Z: PLAYER ADDED   [  876771627] officernoob28
+2022-10-25T01:26:27Z: PLAYER ADDED   [ 2984783603] UndisclosedRavioli
+2022-10-25T01:26:27Z: PLAYER ADDED   [ 1710680539] exoticozz
+2022-10-25T01:26:27Z: PLAYER ADDED   [ 1480469003] gabrielito8911
+2022-10-25T01:26:31Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     ( 1008.1,   130.4, -1314.9)
+  ALL TO CONFERENCE ROOM
+2022-10-25T01:26:39Z: CHRCTER ADDED  [ 1480469003] gabrielito8911      
+2022-10-25T01:26:46Z: PLAYER ADDED   [  158338094] iMuppyy
+2022-10-25T01:26:49Z: CHRCTER ADDED  [  158338094] iMuppyy             
+2022-10-25T01:26:50Z: PLAYER ADDED   [  497473322] IC1OZ420
+2022-10-25T01:26:51Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  864.5,   131.0, -1066.9)
+  ##### TEAM ME
+2022-10-25T01:26:53Z: CHRCTER ADDED  [  497473322] IC1OZ420            
+2022-10-25T01:26:56Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  828.4,   130.6, -1032.4)
+  W
+2022-10-25T01:27:12Z: CHRCTER ADDED  [ 1904158501] VincentInnocenzi    
+2022-10-25T01:27:18Z: CHRCTER ADDED  [ 1480469003] gabrielito8911      
+2022-10-25T01:27:19Z: PLAYER CHATTED [  497473322] IC1OZ420             (  927.5,   130.4, -1353.9)
+  Welcome TO NATO
+2022-10-25T01:27:23Z: CHRCTER ADDED  [ 1710680539] exoticozz           
+2022-10-25T01:27:24Z: PLAYER CHATTED [  158338094] iMuppyy              (  929.6,   130.4, -1350.2)
+  Thanks!
+2022-10-25T01:27:37Z: PLAYER CHATTED [  497473322] IC1OZ420             (  921.7,   130.4, -1350.9)
+  Im Gonna Invite People Like UK And Other Stuff Soon
+2022-10-25T01:27:48Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  684.2,   120.3,  -480.8)
+  welcome to this emergency WH press briefing
+2022-10-25T01:28:00Z: PLAYER CHATTED [  158338094] iMuppyy              (  928.7,   130.4, -1352.0)
+  Oops
+2022-10-25T01:28:04Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  680.6,   120.2,  -477.7)
+  Do brign all
+2022-10-25T01:28:05Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  680.6,   120.2,  -477.7)
+  #####
+2022-10-25T01:28:05Z: PLAYER CHATTED [  497473322] IC1OZ420             (  921.7,   130.4, -1350.9)
+  10/10
+2022-10-25T01:28:07Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  685.6,   120.2,  -477.6)
+  bring
+2022-10-25T01:28:09Z: PLAYER CHATTED [  497473322] IC1OZ420             (  921.7,   130.4, -1350.9)
+  I Mean
+2022-10-25T01:28:10Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  685.0,   120.2,  -477.6)
+  10/10
+2022-10-25T01:28:12Z: PLAYER CHATTED [ 1480469003] gabrielito8911       (  515.2,   108.0,  -391.3)
+  New ranks
+2022-10-25T01:28:13Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  684.2,   120.3,  -480.8)
+  At 10 am EST
+2022-10-25T01:28:15Z: PLAYER CHATTED [  497473322] IC1OZ420             (  921.7,   130.4, -1350.9)
+  ######
+2022-10-25T01:28:15Z: PLAYER CHATTED [  158338094] iMuppyy              (  914.9,   130.4, -1346.0)
+  Wth
+2022-10-25T01:28:22Z: PLAYER CHATTED [    1630228] VisualPlugin         (  697.0,   119.2,  -483.4)
+  I'm still getting hash.
+2022-10-25T01:28:27Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  684.2,   120.3,  -480.8)
+  China attacked the world trade center
+2022-10-25T01:28:29Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  684.9,   120.2,  -477.3)
+  Pasty excuse me
+2022-10-25T01:28:32Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  684.1,   120.3,  -481.1)
+  oh sorry
+2022-10-25T01:28:35Z: PLAYER CHATTED [  876771627] officernoob28        (  697.0,   119.2,  -480.4)
+  Boring
+2022-10-25T01:28:40Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  690.7,   119.2,  -486.7)
+  pls listen
+2022-10-25T01:28:43Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  690.9,   119.2,  -486.3)
+  
+2022-10-25T01:28:44Z: PLAYER CHATTED [ 1710680539] exoticozz            (  682.0,   120.2,  -483.9)
+  dont start yet
+2022-10-25T01:28:45Z: PLAYER CHATTED [  497473322] IC1OZ420             (  911.6,   130.4, -1351.3)
+  Also
+2022-10-25T01:28:47Z: PLAYER CHATTED [ 1710680539] exoticozz            (  683.5,   120.2,  -482.3)
+  wait for ppl
+2022-10-25T01:28:49Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  684.7,   120.4,  -481.0)
+  yeah
+2022-10-25T01:28:55Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  684.7,   120.4,  -481.0)
+  we even want police
+2022-10-25T01:28:56Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  684.7,   120.4,  -481.0)
+  here
+2022-10-25T01:28:59Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  684.7,   120.4,  -481.0)
+  listening
+2022-10-25T01:29:02Z: PLAYER CHATTED [ 1710680539] exoticozz            (  680.5,   120.2,  -486.6)
+  concerning
+2022-10-25T01:29:04Z: PLAYER CHATTED [  497473322] IC1OZ420             (  912.9,   130.4, -1350.2)
+  Next Update Could You Add Like A NATO Flag Next To US Flag Or Something?
+2022-10-25T01:29:10Z: PLAYER CHATTED [  497473322] IC1OZ420             (  911.6,   130.4, -1350.1)
+  EPIC
+2022-10-25T01:29:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (  697.0,   119.2,  -483.4)
+  That's better!
+2022-10-25T01:29:15Z: PLAYER CHATTED [  158338094] iMuppyy              (  914.9,   130.4, -1346.0)
+  If I can remember XD
+2022-10-25T01:29:18Z: PLAYER CHATTED [  497473322] IC1OZ420             (  911.6,   130.4, -1350.1)
+  EVEN THO I MISSED IT
+2022-10-25T01:29:21Z: PLAYER CHATTED [  158338094] iMuppyy              (  914.9,   130.4, -1346.0)
+  We are very busy working on updates
+2022-10-25T01:29:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (  697.0,   119.2,  -483.4)
+  I missed it as well.
+2022-10-25T01:29:29Z: PLAYER CHATTED [  497473322] IC1OZ420             (  911.6,   130.4, -1350.1)
+  Ill dm You It
+2022-10-25T01:29:32Z: PLAYER CHATTED [  158338094] iMuppyy              (  914.9,   130.4, -1346.0)
+  Ok
+2022-10-25T01:29:32Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  684.7,   120.4,  -481.0)
+  pasty stay on stage btw
+2022-10-25T01:29:33Z: PLAYER CHATTED [  497473322] IC1OZ420             (  911.6,   130.4, -1350.1)
+  So You Can Remember
+2022-10-25T01:29:38Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  685.1,   120.2,  -475.8)
+  copy
+2022-10-25T01:29:44Z: PLAYER CHATTED [  497473322] IC1OZ420             (  911.6,   130.4, -1350.1)
+  Sent
+2022-10-25T01:29:46Z: PLAYER CHATTED [  876771627] officernoob28        (  698.1,   121.5,  -480.8)
+  Lemme get a good camera angle
+2022-10-25T01:29:48Z: PLAYER ADDED   [ 1931536107] Riv_alt
+2022-10-25T01:29:51Z: CHRCTER ADDED  [ 1931536107] Riv_alt             
+2022-10-25T01:29:53Z: PLAYER CHATTED [  158338094] iMuppyy              (  914.9,   130.4, -1346.0)
+  Ok
+2022-10-25T01:29:55Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  680.3,   120.2,  -475.0)
+  Director of the FBI here
+2022-10-25T01:29:55Z: PLAYER CHATTED [  158338094] iMuppyy              (  914.9,   130.4, -1346.0)
+  HAVE FUN RPING!
+2022-10-25T01:29:56Z: PLAYER CHATTED [  497473322] IC1OZ420             (  911.6,   130.4, -1350.1)
+  Idk Why I Talk So Fast
+2022-10-25T01:30:01Z: PLAYER REMOVED [  158338094] iMuppyy
+2022-10-25T01:30:03Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  684.7,   120.4,  -481.0)
+  make your introduction and intrduce Jlovatt as VP Jacob Lovatt
+2022-10-25T01:30:10Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  684.2,   119.1,  -468.9)
+  You do the introduction
+2022-10-25T01:30:17Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  684.2,   119.1,  -468.9)
+  pasty
+2022-10-25T01:30:32Z: PLAYER CHATTED [ 1710680539] exoticozz            (  687.0,   119.1,  -468.9)
+  not yet
+2022-10-25T01:30:35Z: PLAYER CHATTED [  876771627] officernoob28        (  698.0,   121.8,  -480.7)
+  (Recording)
+2022-10-25T01:30:40Z: PLAYER REMOVED [ 1931536107] Riv_alt
+2022-10-25T01:30:41Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  683.7,   120.3,  -480.6)
+  Welcome to this WH press briefing
+2022-10-25T01:31:01Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  683.7,   120.3,  -480.6)
+  Im Pasty, Director of the FBI
+2022-10-25T01:31:04Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  684.2,   119.1,  -468.9)
+  not yet pasty 
+2022-10-25T01:31:07Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  683.7,   120.3,  -480.6)
+  bruh
+2022-10-25T01:31:09Z: PLAYER CHATTED [  497473322] IC1OZ420             (  676.6,   130.8,  -865.5)
+  Hey
+2022-10-25T01:31:09Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  684.2,   119.1,  -468.9)
+  we want more ppl in here
+2022-10-25T01:31:11Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  684.5,   120.2,  -479.4)
+  he was recording
+2022-10-25T01:31:16Z: PLAYER CHATTED [  497473322] IC1OZ420             (  665.8,   130.8,  -872.7)
+  Nice Uniform
+2022-10-25T01:31:16Z: PLAYER CHATTED [ 1480469003] gabrielito8911       (  659.7,   130.4,  -865.1)
+  Yes?
+2022-10-25T01:31:17Z: PLAYER CHATTED [  876771627] officernoob28        (  698.0,   121.8,  -480.7)
+  .-.
+2022-10-25T01:31:19Z: PLAYER CHATTED [  876771627] officernoob28        (  698.0,   121.8,  -480.7)
+  (Cut)
+2022-10-25T01:31:21Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  684.2,   120.2,  -473.4)
+  whats the press briefing about anyway
+2022-10-25T01:31:22Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  688.4,   119.2,  -480.2)
+  yeah not yet
+2022-10-25T01:31:24Z: PLAYER CHATTED [ 1480469003] gabrielito8911       (  659.7,   130.4,  -865.1)
+  Uh thanks
+2022-10-25T01:31:29Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  682.8,   120.2,  -474.7)
+  i need context for my intro
+2022-10-25T01:31:32Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  683.8,   119.2,  -471.4)
+  the murder
+2022-10-25T01:31:33Z: PLAYER CHATTED [ 1710680539] exoticozz            (  687.0,   119.1,  -468.9)
+  starting at xx:40
+2022-10-25T01:31:41Z: PLAYER CHATTED [  497473322] IC1OZ420             (  659.3,   130.4,  -870.7)
+  Also I Somehow Convinced ##### To Join My NATO
+2022-10-25T01:31:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (  697.0,   119.2,  -483.4)
+  The incident at the World Trade Centre?
+2022-10-25T01:31:43Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  682.8,   120.2,  -474.7)
+  the murder of ### ## agent?
+2022-10-25T01:31:46Z: PLAYER CHATTED [  876771627] officernoob28        (  693.4,   119.2,  -480.3)
+  I be right back
+2022-10-25T01:31:48Z: PLAYER REMOVED [  876771627] officernoob28
+2022-10-25T01:31:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (  697.0,   119.2,  -483.4)
+  I was told that China blew it up.
+2022-10-25T01:31:50Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  683.8,   119.2,  -471.4)
+  the vp allgedelly did
+2022-10-25T01:31:53Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  684.9,   120.2,  -474.1)
+  yes
+2022-10-25T01:31:53Z: PLAYER CHATTED [  497473322] IC1OZ420             (  656.8,   130.4,  -870.3)
+  Idk how He Usually Denies My Stuff
+2022-10-25T01:31:55Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  682.8,   120.2,  -474.7)
+  got ti
+2022-10-25T01:31:57Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  682.8,   120.2,  -474.7)
+  got it
+2022-10-25T01:31:58Z: PLAYER CHATTED [  497473322] IC1OZ420             (  656.8,   130.4,  -870.3)
+  Okay Bye
+2022-10-25T01:32:02Z: PLAYER REMOVED [  497473322] IC1OZ420
+2022-10-25T01:32:12Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  684.2,   119.1,  -468.9)
+  EVERYBODY TO THE VP CONFERENCE ROOM
+2022-10-25T01:32:13Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  684.2,   120.3,  -481.0)
+  bruh the media gone
+2022-10-25T01:32:21Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  685.0,   120.2,  -475.7)
+  Nvm we gotta wait for noob
+2022-10-25T01:32:21Z: PLAYER CHATTED [    1630228] VisualPlugin         (  697.0,   119.2,  -477.5)
+  Why did the cameraman leave?
+2022-10-25T01:32:36Z: PLAYER ADDED   [  876771627] officernoob28
+2022-10-25T01:32:37Z: PLAYER CHATTED [    1630228] VisualPlugin         (  697.0,   119.2,  -477.5)
+  Officernoob left the server all of a sudden.
+2022-10-25T01:32:39Z: CHRCTER ADDED  [  876771627] officernoob28       
+2022-10-25T01:32:41Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  686.7,   120.2,  -476.4)
+  he aid he will be rb
+2022-10-25T01:32:43Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  686.7,   120.2,  -476.4)
+  brb
+2022-10-25T01:32:45Z: PLAYER CHATTED [  876771627] officernoob28        (  937.2,   130.4, -1351.6)
+  Back
+2022-10-25T01:32:46Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  686.7,   120.2,  -476.4)
+  there
+2022-10-25T01:32:51Z: PLAYER CHATTED [    1630228] VisualPlugin         (  697.0,   119.2,  -477.5)
+  I stand corrected.
+2022-10-25T01:33:43Z: PLAYER CHATTED [ 1710680539] exoticozz            (  687.0,   119.1,  -468.9)
+  starting at xx:35
+2022-10-25T01:33:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (  697.0,   119.2,  -477.5)
+  It will make sense to say 21:35.
+2022-10-25T01:34:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (  697.0,   119.2,  -477.5)
+  That's the time in DC now.
+2022-10-25T01:34:15Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  684.2,   119.1,  -468.9)
+  timezones its 2AM for us XD
+2022-10-25T01:34:16Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  684.7,   120.4,  -480.9)
+  pls tell me when you record
+2022-10-25T01:34:16Z: PLAYER CHATTED [  876771627] officernoob28        (  698.2,   121.8,  -480.7)
+  I think
+2022-10-25T01:34:27Z: PLAYER CHATTED [  876771627] officernoob28        (  698.2,   122.0,  -480.7)
+  No one going to come
+2022-10-25T01:34:32Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  684.2,   119.1,  -468.9)
+  ITS FINE LIKE THIS
+2022-10-25T01:34:35Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  684.7,   120.4,  -480.9)
+  its fie
+2022-10-25T01:34:44Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  684.7,   120.4,  -480.9)
+  itll be on the media channel anyway
+2022-10-25T01:34:48Z: PLAYER CHATTED [  876771627] officernoob28        (  698.2,   121.8,  -480.7)
+  (Recording)
+2022-10-25T01:35:03Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  684.7,   120.4,  -480.9)
+  Welcome to this emergency WH press briefing
+2022-10-25T01:35:12Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  684.7,   120.4,  -480.9)
+  As you may know...
+2022-10-25T01:35:29Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  684.7,   120.4,  -480.9)
+  A Secret Service agent tragically died today
+2022-10-25T01:35:43Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  684.7,   120.4,  -480.9)
+  the details are still a bit murky
+2022-10-25T01:35:49Z: PLAYER ADDED   [ 3992654703] girlbelike77
+2022-10-25T01:35:52Z: CHRCTER ADDED  [ 3992654703] girlbelike77        
+2022-10-25T01:36:02Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  684.7,   120.4,  -480.9)
+  with the context about his death
+2022-10-25T01:36:23Z: CHRCTER ADDED  [ 3992654703] girlbelike77        
+2022-10-25T01:36:26Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  684.7,   120.4,  -480.9)
+  still being disputed
+2022-10-25T01:36:52Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  684.7,   120.4,  -480.9)
+  now please welcome VP jlovatt
+2022-10-25T01:36:56Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  684.7,   120.4,  -480.9)
+  as he'll talk more about it
+2022-10-25T01:37:05Z: PLAYER CHATTED [ 1710680539] exoticozz            (  684.5,   120.4,  -480.9)
+  I, the vice president of the united states would like to talk about the murder I had committed outside the white house, I would like to formally say that I in no intention was to murder the male.
+2022-10-25T01:37:14Z: PLAYER CHATTED [ 1710680539] exoticozz            (  684.5,   120.4,  -480.9)
+  After receiving a lot of criticism was under a lot of pressure at that moment in time within the media approaching me when I was attempting to avoid it.
+2022-10-25T01:37:15Z: PLAYER REMOVED [ 3992654703] girlbelike77
+2022-10-25T01:37:21Z: PLAYER CHATTED [ 1710680539] exoticozz            (  684.5,   120.4,  -480.9)
+  I do not wish or intend to injure anyone as I was in a stressful situation to where I had to make the decision and that was to #### ####
+2022-10-25T01:37:29Z: PLAYER CHATTED [ 1710680539] exoticozz            (  684.5,   120.4,  -480.9)
+  I believe that it was one-hundred percent wrong to do what I had done.
+2022-10-25T01:37:35Z: PLAYER CHATTED [ 1710680539] exoticozz            (  684.5,   120.4,  -480.9)
+  As obviously many of you would of known already about the protests it has been a stressful situation for I and the president.
+2022-10-25T01:37:41Z: PLAYER CHATTED [ 1710680539] exoticozz            (  684.5,   120.4,  -480.9)
+  So in that conclusion I formally and deeply apologize for murdering the male.
+2022-10-25T01:37:45Z: PLAYER CHATTED [ 1710680539] exoticozz            (  684.5,   120.4,  -480.9)
+  Thank you,
+2022-10-25T01:37:58Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  684.6,   120.4,  -481.2)
+  I would also like to announce,
+2022-10-25T01:38:02Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  687.0,   119.1,  -468.9)
+  *receives orders via earpiece
+2022-10-25T01:38:05Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  687.0,   119.1,  -468.9)
+  mhm
+2022-10-25T01:38:08Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  687.0,   119.1,  -468.9)
+  got it
+2022-10-25T01:38:15Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  684.6,   120.4,  -481.2)
+  the formal discharge of Vice President Jlovatt
+2022-10-25T01:38:27Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  684.6,   120.4,  -481.2)
+  Murder cannot be justified in any situation,
+2022-10-25T01:38:52Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  684.6,   120.4,  -481.2)
+  The FBI and the Metro will look into the case 
+2022-10-25T01:39:01Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  684.5,   120.2,  -477.7)
+  actually
+2022-10-25T01:39:02Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  684.6,   120.4,  -481.2)
+  we will keep you updated
+2022-10-25T01:39:06Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  684.5,   120.2,  -477.7)
+  orders have came from the DOJ
+2022-10-25T01:39:36Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  684.2,   120.3,  -481.0)
+  the vp not only will be fired from his position
+2022-10-25T01:40:03Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  684.2,   120.3,  -481.0)
+  he is now charged with 1st degree murder
+2022-10-25T01:40:13Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  685.7,   120.2,  -474.1)
+  ###
+2022-10-25T01:40:14Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  687.0,   120.2,  -473.2)
+  get up
+2022-10-25T01:40:19Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  687.0,   120.2,  -473.2)
+  turn around
+2022-10-25T01:40:29Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  688.7,   119.2,  -473.3)
+  you under arrest
+2022-10-25T01:40:44Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  684.7,   120.4,  -480.8)
+  Thank you all for coming
+2022-10-25T01:40:48Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  684.7,   120.4,  -480.8)
+  Stay safe.
+2022-10-25T01:40:54Z: PLAYER CHATTED [  876771627] officernoob28        (  698.2,   121.8,  -480.7)
+  (Cut)
+2022-10-25T01:40:56Z: PLAYER CHATTED [ 1710680539] exoticozz            (  503.5,   110.7,  -482.6)
+  LOOOOOOOL
+2022-10-25T01:40:56Z: PLAYER CHATTED [    1630228] VisualPlugin         (  707.3,   118.9,  -538.4)
+  Sir!
+2022-10-25T01:41:01Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  676.9,   130.2,  -569.0)
+  mhm?
+2022-10-25T01:41:04Z: PLAYER CHATTED [    1630228] VisualPlugin         (  676.9,   129.8,  -566.0)
+  Why wasn't the Vice President arrested sooner?
+2022-10-25T01:41:12Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  672.4,   130.2,  -569.1)
+  It was a..
+2022-10-25T01:41:16Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  672.4,   130.2,  -569.1)
+  how do i say this
+2022-10-25T01:41:17Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  672.4,   130.2,  -569.1)
+  weird
+2022-10-25T01:41:20Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  672.4,   130.2,  -569.1)
+  Situation
+2022-10-25T01:41:24Z: PLAYER CHATTED [  876771627] officernoob28        (  647.6,   119.0,  -509.0)
+  Okay I will be leaving now
+2022-10-25T01:41:25Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  672.4,   130.2,  -569.1)
+  All evidence was cut
+2022-10-25T01:41:27Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  672.4,   130.2,  -569.1)
+  But
+2022-10-25T01:41:27Z: PLAYER CHATTED [  876771627] officernoob28        (  647.6,   119.0,  -509.0)
+  Bye
+2022-10-25T01:41:27Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  592.3,   106.6,  -333.8)
+  have fun now
+2022-10-25T01:41:29Z: PLAYER REMOVED [  876771627] officernoob28
+2022-10-25T01:41:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (  676.9,   129.8,  -566.0)
+  Everyone knew about the incident.
+2022-10-25T01:41:31Z: CHRCTER ADDED  [ 1710680539] exoticozz           
+2022-10-25T01:41:36Z: PLAYER CHATTED [ 1710680539] exoticozz            (  607.1,   106.6,  -319.7)
+  lol
+2022-10-25T01:41:37Z: PLAYER CHATTED [    1630228] VisualPlugin         (  676.9,   129.8,  -566.0)
+  How do you mean 'cut'?
+2022-10-25T01:41:40Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  594.2,   106.6,  -334.7)
+  you a disgrace to the office
+2022-10-25T01:41:40Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  672.4,   130.2,  -569.1)
+  The fbi director got contact from the DOJ they had it
+2022-10-25T01:41:54Z: PLAYER CHATTED [ 1710680539] exoticozz            (  600.4,   106.6,  -333.4)
+  i'd like to announce that i had no idea what to do in office!
+2022-10-25T01:41:58Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  672.4,   130.2,  -569.1)
+  The VP had managed to get it all taken down
+2022-10-25T01:42:01Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  672.4,   130.2,  -569.1)
+  with bribes
+2022-10-25T01:42:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (  676.7,   129.7,  -565.8)
+  That's something...
+2022-10-25T01:42:15Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  672.4,   130.2,  -569.1)
+  I cannot give out any further information
+2022-10-25T01:42:17Z: PLAYER CHATTED [    1630228] VisualPlugin         (  676.7,   129.7,  -565.8)
+  When did the FBI director know?
+2022-10-25T01:42:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (  676.7,   129.7,  -565.8)
+  Got it.
+2022-10-25T01:42:22Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  672.4,   130.2,  -569.1)
+  Just then
+2022-10-25T01:42:29Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  672.4,   130.2,  -569.1)
+  through his earpiece
+2022-10-25T01:42:35Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  672.9,   124.6,  -552.6)
+  i got this
+2022-10-25T01:42:43Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  670.1,   129.4,  -565.0)
+  please direct your questions to me
+2022-10-25T01:42:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (  676.3,   129.9,  -566.1)
+  No problem.
+2022-10-25T01:42:56Z: PLAYER CHATTED [ 1710680539] exoticozz            (  605.4,   106.6,  -321.7)
+  right olly lets go play some horror games
+2022-10-25T01:43:00Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  692.5,   130.4,  -578.1)
+  nah
+2022-10-25T01:43:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (  676.3,   129.9,  -566.1)
+  The VP said it as if he did manslaughter.
+2022-10-25T01:43:03Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  697.4,   130.2,  -621.5)
+  smth else
+2022-10-25T01:43:06Z: PLAYER CHATTED [ 1710680539] exoticozz            (  606.5,   106.6,  -325.3)
+  alr
+2022-10-25T01:43:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (  676.3,   129.9,  -566.1)
+  3rd degree.
+2022-10-25T01:43:07Z: PLAYER CHATTED [ 1710680539] exoticozz            (  606.0,   106.6,  -331.1)
+  idk which
+2022-10-25T01:43:13Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  672.3,   130.2,  -568.6)
+  mhm
+2022-10-25T01:43:21Z: PLAYER CHATTED [ 1710680539] exoticozz            (  603.6,   106.6,  -333.7)
+  wanna play that rp game
+2022-10-25T01:43:21Z: PLAYER CHATTED [    1630228] VisualPlugin         (  676.3,   129.9,  -566.1)
+  However, he's being arrested as if it were premeditated.
+2022-10-25T01:43:23Z: PLAYER CHATTED [ 1710680539] exoticozz            (  603.6,   106.6,  -333.7)
+  that apparently 
+2022-10-25T01:43:27Z: PLAYER CHATTED [ 1710680539] exoticozz            (  612.7,   106.6,  -326.9)
+  thingy has
+2022-10-25T01:43:29Z: PLAYER CHATTED [ 1710680539] exoticozz            (  612.7,   106.6,  -326.9)
+  i have admin
+2022-10-25T01:43:31Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  673.7,   130.4,  -571.6)
+  As I stated murder cannot be justified in any situation
+2022-10-25T01:43:31Z: PLAYER CHATTED [ 1710680539] exoticozz            (  612.7,   106.6,  -326.9)
+  so i can give u mod
+2022-10-25T01:43:37Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  674.7,   130.4,  -571.8)
+  1st, 2nd, or 3rd
+2022-10-25T01:43:41Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  676.0,   130.2,  -569.6)
+  alr
+2022-10-25T01:43:50Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  605.0,   130.2,  -649.3)
+  sure
+2022-10-25T01:43:50Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  672.3,   130.2,  -568.6)
+  well I cant speak on behalf of the DOJ 
+2022-10-25T01:43:57Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  672.3,   130.2,  -568.6)
+  on their charges for the VP
+2022-10-25T01:44:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (  676.3,   129.9,  -566.1)
+  Did or did not the VP premeditate the death of the Service agent?
+2022-10-25T01:44:11Z: PLAYER ADDED   [ 2779006607] srdibygaming4
+2022-10-25T01:44:14Z: CHRCTER ADDED  [ 2779006607] srdibygaming4       
+2022-10-25T01:44:14Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  672.3,   130.2,  -568.6)
+  allegedly
+2022-10-25T01:44:16Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  674.6,   130.4,  -572.1)
+  He was sent to a department
+2022-10-25T01:44:20Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  674.6,   130.4,  -572.1)
+  And was questioned
+2022-10-25T01:44:30Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  672.3,   130.2,  -568.6)
+  charges aren't final
+2022-10-25T01:44:35Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  672.3,   130.2,  -568.6)
+  charges can change
+2022-10-25T01:44:44Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  674.6,   130.4,  -572.1)
+  (btw my kill was occ XD
+2022-10-25T01:44:56Z: PLAYER CHATTED [    1630228] VisualPlugin         (  676.3,   129.9,  -566.1)
+  The American poeple will see this as a miscarriage of justice.
+2022-10-25T01:44:57Z: PLAYER CHATTED [ 1710680539] exoticozz            (  612.7,   106.6,  -321.6)
+  ur xd ur new thing
+2022-10-25T01:44:59Z: CHRCTER ADDED  [ 1710680539] exoticozz           
+2022-10-25T01:45:01Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  672.3,   130.2,  -568.6)
+  hm?
+2022-10-25T01:45:07Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  672.3,   130.2,  -568.6)
+  couldn't quite catch that
+2022-10-25T01:45:09Z: PLAYER CHATTED [    1630228] VisualPlugin         (  676.3,   129.9,  -566.1)
+  Trumped-up charges.
+2022-10-25T01:45:17Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  676.6,   130.4,  -571.7)
+  The DOJ is nothing to do with us
+2022-10-25T01:45:23Z: CHRCTER ADDED  [ 2779006607] srdibygaming4       
+2022-10-25T01:45:23Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  676.6,   130.4,  -571.7)
+  You must contact them
+2022-10-25T01:45:27Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  672.3,   130.2,  -568.6)
+  well if the VP cooperates
+2022-10-25T01:45:32Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  672.3,   130.2,  -568.6)
+  then maybe the charges can be reduced
+2022-10-25T01:45:45Z: PLAYER CHATTED [ 2984783603] UndisclosedRavioli   (  672.3,   130.2,  -568.6)
+  no further questions.
+2022-10-25T01:46:05Z: PLAYER CHATTED [ 1710680539] exoticozz            (  627.9,   130.2,  -584.2)
+  the mandem
+2022-10-25T01:46:08Z: PLAYER CHATTED [ 1710680539] exoticozz            (  627.7,   130.2,  -582.3)
+  returns
+2022-10-25T01:46:10Z: PLAYER CHATTED [ 1710680539] exoticozz            (  629.8,   130.4,  -577.9)
+  olly
+2022-10-25T01:46:12Z: PLAYER CHATTED [ 1710680539] exoticozz            (  629.3,   130.4,  -575.8)
+  lets go
+2022-10-25T01:46:25Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  629.6,   130.3,  -574.7)
+  alr ill join you
+2022-10-25T01:46:27Z: PLAYER CHATTED [ 1710680539] exoticozz            (  628.9,   130.4,  -577.3)
+  alr
+2022-10-25T01:46:29Z: PLAYER REMOVED [ 1710680539] exoticozz
+2022-10-25T01:46:30Z: PLAYER CHATTED [ 1904158501] VincentInnocenzi     (  628.7,   129.3,  -573.1)
+  Thanks a lot Pasty
+2022-10-25T01:46:33Z: PLAYER REMOVED [ 1904158501] VincentInnocenzi
+2022-10-25T01:46:45Z: PLAYER REMOVED [ 2984783603] UndisclosedRavioli
+2022-10-25T01:47:11Z: PLAYER REMOVED [ 2779006607] srdibygaming4
+2022-10-25T01:48:59Z: PLAYER REMOVED [ 1480469003] gabrielito8911
+2022-10-25T01:59:57Z: PLAYER REMOVED [    1630228] VisualPlugin

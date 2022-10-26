@@ -1,0 +1,283 @@
+[    1630228] : [ 1715716216] [FREE] UK:RC Redwood County - 24b4cdbc-8bc6-42bf-9f2c-5fe97390513d
+2022-10-25T00:40:04Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-10-25T00:40:04Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-10-25T00:40:04Z: PLAYER ADDED   [ 2772115152] 660fh6601
+2022-10-25T00:40:04Z: PLAYER ADDED   [ 3602557249] safaricheese22
+2022-10-25T00:40:04Z: PLAYER ADDED   [  116402301] Mcmattplayz
+2022-10-25T00:40:04Z: PLAYER ADDED   [ 2869300956] TTV_simon1373
+2022-10-25T00:40:04Z: PLAYER ADDED   [  126933445] ventalityy_op
+2022-10-25T00:40:04Z: PLAYER ADDED   [  425565061] Uanwar786
+2022-10-25T00:40:04Z: PLAYER ADDED   [ 3451430607] dcboston5986
+2022-10-25T00:40:04Z: PLAYER ADDED   [ 3876022614] hi_imlars1
+2022-10-25T00:40:04Z: PLAYER ADDED   [ 2423653330] smith_photography
+2022-10-25T00:40:04Z: PLAYER ADDED   [ 3923016216] TheForgivenDare
+2022-10-25T00:40:57Z: PLAYER ADDED   [  518431009] SuperFudge926
+2022-10-25T00:41:56Z: PLAYER ADDED   [  424667097] lizardking305
+2022-10-25T00:42:30Z: CHRCTER ADDED  [ 2772115152] 660fh6601           
+2022-10-25T00:42:44Z: CHRCTER ADDED  [ 3602557249] safaricheese22      
+2022-10-25T00:42:50Z: CHRCTER ADDED  [  424667097] lizardking305       
+2022-10-25T00:43:04Z: PLAYER ADDED   [ 2701540078] cheeesychesyboi
+2022-10-25T00:43:32Z: CHRCTER ADDED  [ 2701540078] cheeesychesyboi     
+2022-10-25T00:43:40Z: PLAYER REMOVED [  424667097] lizardking305
+2022-10-25T00:43:50Z: CHRCTER ADDED  [ 2701540078] cheeesychesyboi     
+2022-10-25T00:43:55Z: PLAYER ADDED   [ 1595597253] juangarcia122
+2022-10-25T00:43:59Z: PLAYER REMOVED [  518431009] SuperFudge926
+2022-10-25T00:43:59Z: PLAYER CHATTED [ 3602557249] safaricheese22       (  860.9,     3.8,  1200.3)
+  bro the police r so bad they crashed into me and made me respawn so i got awy
+2022-10-25T00:44:28Z: PLAYER CHATTED [  116402301] Mcmattplayz         
+  i got like 6 after me
+2022-10-25T00:44:28Z: PLAYER CHATTED [ 2423653330] smith_photography    ( 6691.1,     3.8, -11257.2)
+  can we have more unites on the hurry up to imperial road area, car made off
+2022-10-25T00:44:33Z: PLAYER CHATTED [ 2869300956] TTV_simon1373        ( 7496.0,     4.5, -10511.7)
+  lol
+2022-10-25T00:44:57Z: PLAYER CHATTED [ 3602557249] safaricheese22       (  820.2,     4.5,  1088.9)
+  wjere r u
+2022-10-25T00:44:58Z: PLAYER ADDED   [ 1759500065] truckya12345
+2022-10-25T00:45:14Z: CHRCTER ADDED  [ 1595597253] juangarcia122       
+2022-10-25T00:45:23Z: PLAYER CHATTED [ 3451430607] dcboston5986         ( 5828.6,     4.4, -8303.7)
+  where is imperial drive?
+2022-10-25T00:45:23Z: PLAYER CHATTED [  116402301] Mcmattplayz          ( 4852.5,     3.8, -9358.3)
+  hiding 
+2022-10-25T00:45:43Z: CHRCTER ADDED  [    1630228] VisualPlugin        
+2022-10-25T00:45:45Z: PLAYER REMOVED [  126933445] ventalityy_op
+2022-10-25T00:45:48Z: PLAYER ADDED   [ 2332908664] BenjaTwTxd
+2022-10-25T00:45:57Z: PLAYER CHATTED [ 2869300956] TTV_simon1373        ( 5676.8,     4.4, -11280.7)
+  running
+2022-10-25T00:45:59Z: PLAYER CHATTED [ 2423653330] smith_photography    ( 6200.9,     3.8, -8435.9)
+  near the recycaling area
+2022-10-25T00:46:14Z: CHRCTER ADDED  [ 1759500065] truckya12345        
+2022-10-25T00:46:16Z: PLAYER CHATTED [ 3451430607] dcboston5986         ( 4661.0,     4.4, -9196.8)
+  what ######### area?
+2022-10-25T00:46:38Z: PLAYER REMOVED [  425565061] Uanwar786
+2022-10-25T00:46:43Z: CHRCTER ADDED  [ 2332908664] BenjaTwTxd          
+2022-10-25T00:46:45Z: PLAYER CHATTED [ 2869300956] TTV_simon1373        ( 5950.5,     4.5, -9311.8)
+  lol 1 left
+2022-10-25T00:47:36Z: PLAYER CHATTED [ 2869300956] TTV_simon1373        ( 6242.1,     4.5, -9693.5)
+  wanna meet up?
+2022-10-25T00:47:39Z: PLAYER CHATTED [  116402301] Mcmattplayz          ( 4663.4,     3.8, -10866.9)
+  meet at teco get in mine, hes a quick boi
+2022-10-25T00:47:45Z: PLAYER CHATTED [ 3602557249] safaricheese22       ( 4377.6,     4.4, -8008.5)
+  sure
+2022-10-25T00:47:52Z: PLAYER CHATTED [ 3602557249] safaricheese22       ( 4932.6,     4.4, -8156.5)
+  tesco
+2022-10-25T00:47:56Z: PLAYER CHATTED [ 2869300956] TTV_simon1373        ( 5341.6,     4.5, -9989.6)
+  k
+2022-10-25T00:47:57Z: PLAYER CHATTED [  116402301] Mcmattplayz          ( 4663.4,     3.8, -10866.9)
+  yeah
+2022-10-25T00:48:19Z: PLAYER CHATTED [ 2869300956] TTV_simon1373        ( 4683.4,     4.3, -10846.5)
+  you call that fast?
+2022-10-25T00:48:23Z: PLAYER CHATTED [  116402301] Mcmattplayz          ( 4663.4,     3.8, -10866.9)
+  no
+2022-10-25T00:48:31Z: PLAYER CHATTED [  116402301] Mcmattplayz          ( 4663.4,     3.8, -10866.9)
+  i only got like 30000
+2022-10-25T00:48:38Z: PLAYER CHATTED [  116402301] Mcmattplayz          ( 4663.4,     3.8, -10866.9)
+  ####
+2022-10-25T00:48:38Z: PLAYER ADDED   [  495829082] Mrnatedog2018
+2022-10-25T00:48:38Z: PLAYER ADDED   [ 1780718575] cavinstolertt
+2022-10-25T00:48:38Z: PLAYER CHATTED [ 2869300956] TTV_simon1373        ( 4682.2,     4.3, -10855.5)
+  oh for god sake
+2022-10-25T00:49:37Z: CHRCTER ADDED  [ 2772115152] 660fh6601           
+2022-10-25T00:49:42Z: PLAYER CHATTED [ 2869300956] TTV_simon1373        ( 5423.0,     4.7, -9202.0)
+  well its faster than this thing
+2022-10-25T00:49:46Z: CHRCTER ADDED  [  495829082] Mrnatedog2018       
+2022-10-25T00:49:58Z: PLAYER CHATTED [  116402301] Mcmattplayz          ( 4792.5,     3.8, -9400.0)
+  the sprinter is op
+2022-10-25T00:50:00Z: PLAYER REMOVED [ 2772115152] 660fh6601
+2022-10-25T00:50:25Z: PLAYER CHATTED [ 2869300956] TTV_simon1373        ( 4672.5,     3.5, -10785.5)
+  yh
+2022-10-25T00:50:26Z: CHRCTER ADDED  [ 1780718575] cavinstolertt       
+2022-10-25T00:50:38Z: PLAYER CHATTED [ 2423653330] smith_photography    ( 6029.3,     4.3, -8381.4)
+  what the hell man
+2022-10-25T00:50:44Z: PLAYER CHATTED [ 3451430607] dcboston5986         ( 6031.6,     4.3, -8383.5)
+  mate
+2022-10-25T00:50:49Z: PLAYER CHATTED [ 2423653330] smith_photography    ( 6029.7,     4.3, -8381.9)
+  u hit me
+2022-10-25T00:51:00Z: PLAYER CHATTED [ 2423653330] smith_photography    ( 6029.0,     4.3, -8381.8)
+  you were on the wrong side of the road
+2022-10-25T00:51:00Z: PLAYER CHATTED [ 3451430607] dcboston5986         ( 6032.2,     4.3, -8384.2)
+  you were going the wrong way mate
+2022-10-25T00:51:09Z: PLAYER CHATTED [ 2423653330] smith_photography    ( 6029.0,     4.3, -8381.8)
+  no you were
+2022-10-25T00:51:18Z: PLAYER CHATTED [ 2701540078] cheeesychesyboi      ( 5938.8,     5.9, -9321.6)
+  help
+2022-10-25T00:51:18Z: PLAYER CHATTED [ 3451430607] dcboston5986         ( 6033.2,     4.3, -8384.1)
+  where are you going to mate
+2022-10-25T00:51:23Z: PLAYER CHATTED [ 2423653330] smith_photography    ( 6029.0,     4.3, -8381.8)
+  you drove into me
+2022-10-25T00:51:25Z: PLAYER REMOVED [ 1759500065] truckya12345
+2022-10-25T00:51:35Z: PLAYER CHATTED [ 2423653330] smith_photography    ( 6029.0,     4.3, -8381.8)
+  #####
+2022-10-25T00:51:38Z: PLAYER CHATTED [ 3451430607] dcboston5986         ( 6032.4,     4.3, -8386.2)
+  are you going to ivelone street
+2022-10-25T00:51:45Z: PLAYER CHATTED [ 2423653330] smith_photography    ( 6029.0,     4.3, -8381.8)
+  yh officer down
+2022-10-25T00:51:47Z: CHRCTER ADDED  [ 3876022614] hi_imlars1          
+2022-10-25T00:52:02Z: PLAYER CHATTED [ 3451430607] dcboston5986         ( 6032.8,     4.3, -8385.3)
+  get in my car and tell me where to go
+2022-10-25T00:52:20Z: CHRCTER ADDED  [ 2423653330] smith_photography   
+2022-10-25T00:52:48Z: PLAYER CHATTED [ 2869300956] TTV_simon1373        ( 4638.4,    -0.3, -10935.9)
+  safari come to tescos
+2022-10-25T00:53:07Z: PLAYER CHATTED [ 3602557249] safaricheese22       ( 5530.1,     4.8, -8811.0)
+  cop after me
+2022-10-25T00:53:32Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4577.9,     5.1, -10967.0)
+  That's one way to build a Tesco!
+2022-10-25T00:53:47Z: PLAYER CHATTED [ 2701540078] cheeesychesyboi      ( 5551.6,     4.3, -8700.0)
+  ### HIT MY CAR
+2022-10-25T00:54:33Z: PLAYER CHATTED [ 2869300956] TTV_simon1373        ( 4639.8,    -0.3, -10934.6)
+  holy 
+2022-10-25T00:54:39Z: PLAYER CHATTED [  116402301] Mcmattplayz          ( 4655.9,     0.0, -10941.6)
+  urm
+2022-10-25T00:54:41Z: PLAYER CHATTED [ 2869300956] TTV_simon1373        ( 4639.8,    -0.3, -10934.6)
+  what did you do
+2022-10-25T00:55:00Z: PLAYER CHATTED [ 2869300956] TTV_simon1373        ( 4639.8,    -0.3, -10934.6)
+  you got undercover and marked police after you
+2022-10-25T00:55:02Z: PLAYER CHATTED [ 2701540078] cheeesychesyboi      ( 5556.6,     4.3, -8720.4)
+  HIGH WAY IS CLOSD
+2022-10-25T00:55:09Z: PLAYER CHATTED [ 3451430607] dcboston5986         ( 4809.9,     4.4, -10121.2)
+  is backup still needed at imperial rd?
+2022-10-25T00:55:13Z: PLAYER CHATTED [  116402301] Mcmattplayz          ( 4655.9,     0.0, -10941.6)
+  i can cut the van off
+2022-10-25T00:55:18Z: PLAYER CHATTED [ 2423653330] smith_photography    ( 6189.6,     6.3, -9602.4)
+  d/r
+2022-10-25T00:55:25Z: PLAYER CHATTED [ 2869300956] TTV_simon1373        ( 4639.8,    -0.3, -10934.6)
+  same just ram in to them 
+2022-10-25T00:55:30Z: PLAYER CHATTED [ 3451430607] dcboston5986         ( 4819.4,     4.4, -9706.7)
+  is backup still needed at imperial rd?
+2022-10-25T00:55:31Z: PLAYER CHATTED [  116402301] Mcmattplayz          ( 4655.9,     0.0, -10941.6)
+  yeah 
+2022-10-25T00:55:36Z: PLAYER CHATTED [ 2423653330] smith_photography    ( 6189.6,     6.3, -9602.4)
+  no scene clear
+2022-10-25T00:55:37Z: PLAYER CHATTED [ 2869300956] TTV_simon1373        ( 4639.8,    -0.3, -10934.6)
+  easy as that 
+2022-10-25T00:55:53Z: PLAYER ADDED   [ 2892409789] Bluey052015
+2022-10-25T00:56:02Z: PLAYER REMOVED [  495829082] Mrnatedog2018
+2022-10-25T00:56:19Z: CHRCTER ADDED  [ 2423653330] smith_photography   
+2022-10-25T00:56:30Z: PLAYER CHATTED [ 2869300956] TTV_simon1373        ( 5128.0,     3.5, -10815.8)
+  lol
+2022-10-25T00:56:38Z: PLAYER REMOVED [ 3602557249] safaricheese22
+2022-10-25T00:56:40Z: PLAYER CHATTED [  116402301] Mcmattplayz          ( 5139.4,     3.8, -10824.9)
+  police these days
+2022-10-25T00:56:42Z: CHRCTER ADDED  [ 2423653330] smith_photography   
+2022-10-25T00:56:49Z: PLAYER REMOVED [ 3876022614] hi_imlars1
+2022-10-25T00:56:56Z: PLAYER CHATTED [ 2869300956] TTV_simon1373        ( 5157.2,     3.5, -10844.6)
+  lol
+2022-10-25T00:56:58Z: CHRCTER ADDED  [ 2892409789] Bluey052015         
+2022-10-25T00:57:02Z: PLAYER ADDED   [ 3602557249] safaricheese22
+2022-10-25T00:57:02Z: PLAYER CHATTED [ 2869300956] TTV_simon1373        ( 5188.3,     3.5, -10801.3)
+  holy
+2022-10-25T00:57:07Z: PLAYER REMOVED [ 2892409789] Bluey052015
+2022-10-25T00:57:12Z: PLAYER CHATTED [ 3451430607] dcboston5986         ( 5410.6,     4.3, -8220.3)
+  the suspect that is armed and wanted is driving a black bmw 118i
+2022-10-25T00:57:41Z: PLAYER CHATTED [ 2869300956] TTV_simon1373        ( 5187.4,     3.5, -10779.6)
+  what did i do?
+2022-10-25T00:58:07Z: PLAYER CHATTED [  116402301] Mcmattplayz          ( 5148.6,     3.8, -10783.1)
+  run and get in
+2022-10-25T00:58:28Z: PLAYER CHATTED [ 2869300956] TTV_simon1373        ( 5186.9,     3.5, -10779.7)
+  you run they can't arrest me 
+2022-10-25T00:58:38Z: PLAYER REMOVED [ 2423653330] smith_photography
+2022-10-25T00:59:06Z: PLAYER CHATTED [ 2701540078] cheeesychesyboi      ( 5187.0,     4.5, -10815.0)
+  hey
+2022-10-25T00:59:14Z: PLAYER CHATTED [ 2332908664] BenjaTwTxd           ( 5196.0,     5.9, -10799.5)
+  que
+2022-10-25T00:59:19Z: PLAYER CHATTED [ 2701540078] cheeesychesyboi      ( 5197.2,     4.3, -10790.7)
+  thats mine
+2022-10-25T00:59:23Z: PLAYER REMOVED [ 2869300956] TTV_simon1373
+2022-10-25T00:59:53Z: PLAYER ADDED   [ 2869300956] TTV_simon1373
+2022-10-25T01:00:34Z: PLAYER CHATTED [ 2869300956] TTV_simon1373        ( 6460.7,     4.7, -10540.3)
+  my game crashed
+2022-10-25T01:00:48Z: PLAYER CHATTED [ 3602557249] safaricheese22       (  877.7,   -24.4,   -27.4)
+  dw 
+2022-10-25T01:02:11Z: PLAYER CHATTED [ 2869300956] TTV_simon1373        ( 6493.8,     4.0, -10536.1)
+  should we all get in one car?
+2022-10-25T01:02:20Z: PLAYER CHATTED [ 3602557249] safaricheese22       ( 2981.7,    25.5, -5679.9)
+  ye lets do it
+2022-10-25T01:02:33Z: PLAYER CHATTED [ 3602557249] safaricheese22       ( 2682.1,    34.0, -6011.5)
+  get in urs
+2022-10-25T01:03:04Z: PLAYER REMOVED [ 3602557249] safaricheese22
+2022-10-25T01:03:22Z: PLAYER CHATTED [  116402301] Mcmattplayz          ( 5131.6,     3.9, -10807.7)
+  i got that jag on me
+2022-10-25T01:03:24Z: PLAYER ADDED   [ 3602557249] safaricheese22
+2022-10-25T01:03:26Z: PLAYER CHATTED [ 2869300956] TTV_simon1373        ( 4587.6,     4.0, -10837.2)
+  come to tescos when you're clear of police
+2022-10-25T01:03:38Z: PLAYER ADDED   [ 2423653330] smith_photography
+2022-10-25T01:03:40Z: PLAYER CHATTED [  116402301] Mcmattplayz          ( 4796.6,     3.8, -10158.3)
+  yup
+2022-10-25T01:04:06Z: PLAYER CHATTED [ 2869300956] TTV_simon1373        ( 4587.7,     4.0, -10837.2)
+  you got a gun?
+2022-10-25T01:04:24Z: CHRCTER ADDED  [ 2423653330] smith_photography   
+2022-10-25T01:04:30Z: PLAYER CHATTED [  116402301] Mcmattplayz          ( 6226.8,     3.9, -10403.0)
+  no
+2022-10-25T01:04:37Z: PLAYER REMOVED [ 1780718575] cavinstolertt
+2022-10-25T01:04:51Z: PLAYER CHATTED [ 3602557249] safaricheese22       (  820.5,     4.3,  1449.2)
+  game crashed
+2022-10-25T01:05:02Z: PLAYER CHATTED [ 3602557249] safaricheese22       (  820.5,     4.3,  1449.2)
+  can someone pick me up
+2022-10-25T01:05:13Z: PLAYER CHATTED [ 2869300956] TTV_simon1373        ( 6414.4,     4.0, -11176.4)
+  wanna meet at the gun guy when you're clear?
+2022-10-25T01:05:24Z: PLAYER CHATTED [ 2869300956] TTV_simon1373        ( 6182.2,     4.1, -11076.3)
+  sure where are you
+2022-10-25T01:05:25Z: PLAYER CHATTED [ 3602557249] safaricheese22       (  860.4,     4.9,  1325.5)
+  im at him rn but got no cash or guns
+2022-10-25T01:05:48Z: CHRCTER ADDED  [ 3451430607] dcboston5986        
+2022-10-25T01:05:50Z: CHRCTER ADDED  [ 2869300956] TTV_simon1373       
+2022-10-25T01:05:52Z: CHRCTER ADDED  [ 2869300956] TTV_simon1373       
+2022-10-25T01:06:08Z: PLAYER CHATTED [ 2869300956] TTV_simon1373        (  779.5,     4.3,  1307.4)
+  im here
+2022-10-25T01:06:36Z: PLAYER CHATTED [ 2423653330] smith_photography    ( 5775.2,     5.0, -11114.7)
+  ambulance on duty
+2022-10-25T01:08:11Z: PLAYER CHATTED [  116402301] Mcmattplayz          ( 5736.6,     3.9, -6877.2)
+  4 on me
+2022-10-25T01:09:12Z: PLAYER ADDED   [  723133496] starfish2105
+2022-10-25T01:09:13Z: PLAYER CHATTED [ 2869300956] TTV_simon1373        (  857.1,     4.1,  1370.8)
+  lead them to alvon high st
+2022-10-25T01:09:14Z: CHRCTER ADDED  [  723133496] starfish2105        
+2022-10-25T01:09:27Z: CHRCTER ADDED  [ 2332908664] BenjaTwTxd          
+2022-10-25T01:09:53Z: CHRCTER ADDED  [ 2423653330] smith_photography   
+2022-10-25T01:09:56Z: CHRCTER ADDED  [ 2701540078] cheeesychesyboi     
+2022-10-25T01:10:05Z: PLAYER ADDED   [ 3947418905] gffgsfgsffd
+2022-10-25T01:10:31Z: CHRCTER ADDED  [ 2423653330] smith_photography   
+2022-10-25T01:10:32Z: PLAYER CHATTED [  116402301] Mcmattplayz          ( 3811.3,   -48.3,  -346.1)
+  1 morwe
+2022-10-25T01:11:19Z: CHRCTER ADDED  [ 3947418905] gffgsfgsffd         
+2022-10-25T01:11:55Z: CHRCTER ADDED  [ 2423653330] smith_photography   
+2022-10-25T01:12:02Z: CHRCTER ADDED  [ 1595597253] juangarcia122       
+2022-10-25T01:12:11Z: PLAYER CHATTED [ 2869300956] TTV_simon1373        ( 6453.2,     4.1, -9420.6)
+  where you at?
+2022-10-25T01:12:39Z: CHRCTER ADDED  [ 1595597253] juangarcia122       
+2022-10-25T01:12:43Z: PLAYER CHATTED [  116402301] Mcmattplayz          (  844.9,     4.3,  1330.2)
+  getting a gun
+2022-10-25T01:12:48Z: PLAYER CHATTED [  116402301] Mcmattplayz          (  844.9,     4.3,  1330.2)
+  i lost them
+2022-10-25T01:12:50Z: PLAYER CHATTED [ 2869300956] TTV_simon1373        ( 5485.3,     4.0, -9285.0)
+  k
+2022-10-25T01:12:59Z: PLAYER CHATTED [  116402301] Mcmattplayz          (  842.8,     4.3,  1326.5)
+  he disappered 
+2022-10-25T01:13:08Z: PLAYER CHATTED [ 2869300956] TTV_simon1373        ( 5399.4,     4.2, -9636.4)
+  just reset till you get to alvon
+2022-10-25T01:13:09Z: PLAYER CHATTED [  116402301] Mcmattplayz          (  842.8,     4.3,  1326.5)
+  as soon as i got there
+2022-10-25T01:13:26Z: CHRCTER ADDED  [  116402301] Mcmattplayz         
+2022-10-25T01:13:31Z: CHRCTER ADDED  [  116402301] Mcmattplayz         
+2022-10-25T01:13:36Z: CHRCTER ADDED  [  116402301] Mcmattplayz         
+2022-10-25T01:13:51Z: CHRCTER ADDED  [  116402301] Mcmattplayz         
+2022-10-25T01:13:56Z: CHRCTER ADDED  [  116402301] Mcmattplayz         
+2022-10-25T01:14:00Z: PLAYER CHATTED [ 3602557249] safaricheese22       ( 4676.8,     4.3, -10744.8)
+  lets go find police and #### ####
+2022-10-25T01:14:02Z: CHRCTER ADDED  [  116402301] Mcmattplayz         
+2022-10-25T01:14:06Z: CHRCTER ADDED  [  116402301] Mcmattplayz         
+2022-10-25T01:14:22Z: CHRCTER ADDED  [  116402301] Mcmattplayz         
+2022-10-25T01:14:26Z: CHRCTER ADDED  [  116402301] Mcmattplayz         
+2022-10-25T01:14:27Z: PLAYER CHATTED [ 3602557249] safaricheese22       ( 5340.7,     4.3, -10231.9)
+  whoops wrong chat
+2022-10-25T01:14:30Z: CHRCTER ADDED  [  116402301] Mcmattplayz         
+2022-10-25T01:14:34Z: CHRCTER ADDED  [  116402301] Mcmattplayz         
+2022-10-25T01:14:37Z: PLAYER CHATTED [  723133496] starfish2105         ( 2434.6,    59.2, -6936.9)
+  bruh
+2022-10-25T01:14:40Z: PLAYER CHATTED [ 2869300956] TTV_simon1373        ( 5743.4,     4.0, -9308.8)
+  lol
+2022-10-25T01:14:48Z: PLAYER CHATTED [ 2423653330] smith_photography    ( 6190.0,     3.8, -9849.1)
+  woah
+2022-10-25T01:14:58Z: PLAYER REMOVED [ 2701540078] cheeesychesyboi
+2022-10-25T01:15:06Z: PLAYER CHATTED [ 2423653330] smith_photography    ( 6189.5,     3.8, -9851.6)
+  all units be aware there are people planning to kill officers
+2022-10-25T01:15:10Z: PLAYER REMOVED [    1630228] VisualPlugin

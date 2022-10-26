@@ -1,0 +1,48 @@
+[    1630228] : [ 7953149630] Complex Setup for UDMux - 7ebb3be0-5d31-4741-8d55-29b2fe9f182b
+2022-10-26T08:29:18Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-10-26T08:29:18Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-10-26T08:29:18Z: PLAYER ADDED   [ 3109050268] Avionlix
+2022-10-26T08:29:26Z: PLAYER CHATTED [ 3109050268] Avionlix             ( -222.0,     6.5,   -84.3)
+  and its between high level and low level
+2022-10-26T08:29:29Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -195.2,     5.9,  -116.4)
+  Valid analysis.
+2022-10-26T08:29:30Z: PLAYER CHATTED [ 3109050268] Avionlix             ( -217.2,     5.2,  -150.0)
+  can we make u one
+2022-10-26T08:29:53Z: PLAYER CHATTED [ 3109050268] Avionlix             (   38.3,     5.0,  -279.2)
+  We can call it VisualP
+2022-10-26T08:30:13Z: PLAYER CHATTED [ 3109050268] Avionlix             (    6.1,     9.7,  -278.0)
+  and it can be a procedural language
+2022-10-26T08:30:21Z: PLAYER CHATTED [    1630228] VisualPlugin         (   21.3,    20.6,  -307.9)
+  Why not OOP?
+2022-10-26T08:30:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (   21.3,    20.6,  -307.9)
+  Call the classes 'plugins'.
+2022-10-26T08:30:47Z: PLAYER CHATTED [ 3109050268] Avionlix             (   28.2,    20.6,  -311.3)
+  we canmake it object orientated for another language called
+2022-10-26T08:30:50Z: PLAYER CHATTED [ 3109050268] Avionlix             (   28.2,    20.6,  -311.3)
+  VisualP+
+2022-10-26T08:31:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (   45.4,    35.3,  -327.9)
+  Why not VisualPl+s?
+2022-10-26T08:31:09Z: PLAYER CHATTED [ 3109050268] Avionlix             (   65.9,    29.2,  -310.9)
+  ok
+2022-10-26T08:31:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (   45.4,    35.3,  -327.9)
+  Check my GitHub out.
+2022-10-26T08:31:19Z: PLAYER CHATTED [ 3109050268] Avionlix             (   50.3,    34.3,  -325.9)
+  this is how we can do it
+2022-10-26T08:31:30Z: PLAYER CHATTED [ 3109050268] Avionlix             (   50.3,    34.3,  -325.9)
+  !addin #Plugin
+2022-10-26T08:31:38Z: PLAYER CHATTED [ 3109050268] Avionlix             (   50.3,    34.3,  -325.9)
+  #Plugin.StartUp {
+2022-10-26T08:31:41Z: PLAYER CHATTED [    1630228] VisualPlugin         (   47.5,    36.8,  -328.5)
+  I already have a language of my own.
+2022-10-26T08:31:45Z: PLAYER CHATTED [ 3109050268] Avionlix             (   50.3,    34.3,  -325.9)
+  ########## world")
+2022-10-26T08:31:47Z: PLAYER CHATTED [ 3109050268] Avionlix             (   50.3,    34.3,  -325.9)
+  }
+2022-10-26T08:31:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (   47.5,    36.8,  -328.5)
+  'Roblox Sscript EXecutor'.
+2022-10-26T08:31:56Z: PLAYER CHATTED [ 3109050268] Avionlix             (   50.3,    34.3,  -325.9)
+  ill message u on #######
+2022-10-26T08:32:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (  105.3,    25.4,  -292.9)
+  S#re.
+2022-10-26T08:52:31Z: PLAYER REMOVED [ 3109050268] Avionlix
+2022-10-26T09:20:43Z: PLAYER REMOVED [    1630228] VisualPlugin

@@ -1,0 +1,20 @@
+[    1630228] : [ 7953149630] Complex Setup for UDMux - efa62bf3-2df7-4340-a212-2adcea620791
+2022-10-26T08:10:52Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-10-26T08:10:52Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-10-26T08:14:00Z: PLAYER ADDED   [ 3109050268] Avionlix
+2022-10-26T08:14:15Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -71.3,     4.9,   289.9)
+  My leader
+2022-10-26T08:14:20Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -72.5,     4.9,   266.5)
+  visualplugin
+2022-10-26T08:14:42Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -74.1,     4.9,   271.1)
+  respected leader visualplugin
+2022-10-26T08:14:55Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -71.1,     4.9,   260.2)
+  :)
+2022-10-26T08:16:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -46.5,    19.7,    46.1)
+  How're you jumping?
+2022-10-26T08:16:24Z: PLAYER CHATTED [ 3109050268] Avionlix             ( -134.7,    19.0,    45.3)
+  my leader
+2022-10-26T08:16:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (   27.1,     5.3,    41.2)
+  /help
+2022-10-26T08:16:59Z: PLAYER REMOVED [ 3109050268] Avionlix
+2022-10-26T08:22:54Z: PLAYER REMOVED [    1630228] VisualPlugin

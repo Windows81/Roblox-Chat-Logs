@@ -1,0 +1,431 @@
+[    1630228] : [ 6100863281] RoVille Party - f035e8d8-cd22-f63c-5c87-35d25a7bac71
+2022-10-10T03:39:29Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-10-10T03:39:29Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-10-10T03:39:29Z: PLAYER ADDED   [ 1948608825] may123slay
+2022-10-10T03:39:29Z: PLAYER ADDED   [ 1591711498] crystal39282
+2022-10-10T03:39:29Z: PLAYER ADDED   [ 1485416024] Princesf445
+2022-10-10T03:39:29Z: PLAYER ADDED   [ 1619566650] baileythepuppy2020
+2022-10-10T03:39:29Z: PLAYER ADDED   [ 3665605661] Longterm_Diamond
+2022-10-10T03:39:29Z: PLAYER ADDED   [  289176280] gigiplaz
+2022-10-10T03:39:29Z: PLAYER ADDED   [ 3336499229] Hdhdhngj1
+2022-10-10T03:39:32Z: PLAYER ADDED   [ 2619364256] DaunLimauPurut
+2022-10-10T03:39:34Z: PLAYER CHATTED [ 1619566650] baileythepuppy2020   ( 1016.9,   -20.7,  3966.2)
+  Can I join your role-play
+2022-10-10T03:39:39Z: PLAYER CHATTED [ 3665605661] Longterm_Diamond     ( 1016.6,   -19.6,  4152.4)
+  I'll eat it Maxx 😋 
+2022-10-10T03:39:43Z: PLAYER CHATTED [ 1948608825] may123slay           ( 1025.9,   -19.6,  4152.6)
+  Ok]
+2022-10-10T03:39:52Z: PLAYER CHATTED [ 1948608825] may123slay           ( 1031.0,   -19.8,  4159.2)
+  *yawns*
+2022-10-10T03:40:00Z: PLAYER CHATTED [ 1591711498] crystal39282         ( 1027.3,   -20.1,  4151.6)
+  Happy birthday to u happy birthday to u 
+2022-10-10T03:40:01Z: PLAYER CHATTED [ 1948608825] may123slay           ( 1031.0,   -19.8,  4159.2)
+  Time to hit tha ha”
+2022-10-10T03:40:03Z: PLAYER ADDED   [ 3438548954] sparklecookies120
+2022-10-10T03:40:12Z: PLAYER CHATTED [ 2619364256] DaunLimauPurut       ( 1025.4,   -19.8,  4073.8)
+  is it full?
+2022-10-10T03:40:17Z: PLAYER CHATTED [ 1591711498] crystal39282         ( 1026.6,   -20.1,  4151.8)
+  ######################
+2022-10-10T03:40:21Z: PLAYER CHATTED [ 1948608825] may123slay           ( 1020.7,   -19.8,  4097.3)
+  Idk]
+2022-10-10T03:40:26Z: PLAYER CHATTED [ 1948608825] may123slay           ( 1017.4,   -19.8,  4098.8)
+  SISSS
+2022-10-10T03:40:28Z: PLAYER CHATTED [ 1591711498] crystal39282         ( 1032.2,   -20.1,  4130.7)
+  What the ehlll is that 
+2022-10-10T03:40:29Z: PLAYER CHATTED [ 1619566650] baileythepuppy2020   ( 1021.2,   -20.8,  4100.3)
+  Can I join the role-play
+2022-10-10T03:40:29Z: PLAYER CHATTED [ 3665605661] Longterm_Diamond     ( 1033.6,   -19.8,  4123.4)
+  hi
+2022-10-10T03:40:34Z: PLAYER CHATTED [ 2619364256] DaunLimauPurut       ( 1019.1,   -19.1,  4088.6)
+  wheres the host>?
+2022-10-10T03:40:37Z: PLAYER CHATTED [ 1948608825] may123slay           ( 1033.1,   -19.4,  4116.0)
+  U git5 people
+2022-10-10T03:40:45Z: PLAYER CHATTED [ 1591711498] crystal39282         ( 1030.9,   -20.1,  4123.5)
+  Mom donation 
+2022-10-10T03:40:48Z: PLAYER CHATTED [ 1619566650] baileythepuppy2020   ( 1032.7,   -20.8,  4111.7)
+  Can I join the role-play
+2022-10-10T03:40:50Z: PLAYER CHATTED [ 3665605661] Longterm_Diamond     ( 1033.4,   -19.7,  4122.1)
+  (yes)
+2022-10-10T03:40:50Z: PLAYER CHATTED [ 2619364256] DaunLimauPurut       ( 1016.4,   -19.1,  4087.7)
+  ?
+2022-10-10T03:40:51Z: PLAYER ADDED   [ 3522034722] mini_cupcake5001
+2022-10-10T03:40:51Z: PLAYER ADDED   [ 1934796736] princessandreah15
+2022-10-10T03:40:54Z: PLAYER ADDED   [ 3757326628] FlowerMsmay
+2022-10-10T03:41:00Z: PLAYER CHATTED [ 1948608825] may123slay           ( 1077.3,   -19.6,  4061.2)
+  In there
+2022-10-10T03:41:11Z: PLAYER CHATTED [ 2619364256] DaunLimauPurut       ( 1020.8,   -20.0,  4094.7)
+  cani join?
+2022-10-10T03:41:13Z: PLAYER CHATTED [ 1591711498] crystal39282         ( 1021.0,   -20.1,  4097.5)
+  Hi 
+2022-10-10T03:41:14Z: PLAYER CHATTED [ 3336499229] Hdhdhngj1            ( 1014.6,   -20.5,  4102.1)
+  Mom can this be my room 
+2022-10-10T03:41:16Z: PLAYER CHATTED [ 1591711498] crystal39282         ( 1021.0,   -20.1,  4097.5)
+  Yessss
+2022-10-10T03:41:20Z: PLAYER CHATTED [ 2619364256] DaunLimauPurut       ( 1020.8,   -20.0,  4094.7)
+  thx
+2022-10-10T03:41:24Z: PLAYER CHATTED [ 1591711498] crystal39282         ( 1021.0,   -20.1,  4097.5)
+  Cute outfit 
+2022-10-10T03:41:26Z: PLAYER CHATTED [ 1934796736] princessandreah15    ( 1022.4,   -20.1,  4094.0)
+  can i join?
+2022-10-10T03:41:28Z: PLAYER CHATTED [ 2619364256] DaunLimauPurut       ( 1020.8,   -20.0,  4094.7)
+  wheres my room?
+2022-10-10T03:41:31Z: PLAYER CHATTED [ 1591711498] crystal39282         ( 1032.0,    -8.1,  4140.7)
+  Idk
+2022-10-10T03:41:33Z: PLAYER CHATTED [ 1485416024] Princesf445          ( 1017.6,    -7.9,  4153.9)
+  Hi mama
+2022-10-10T03:41:42Z: PLAYER CHATTED [ 3665605661] Longterm_Diamond     ( 1013.3,    -7.8,  4155.4)
+  two of yall are gonna share this room
+2022-10-10T03:41:42Z: PLAYER CHATTED [ 3336499229] Hdhdhngj1            ( 1013.2,    -9.5,  4149.2)
+  Can my bed be the pink one
+2022-10-10T03:41:44Z: PLAYER CHATTED [ 1591711498] crystal39282         ( 1063.3,    -8.1,  4157.5)
+  This mom 
+2022-10-10T03:41:44Z: PLAYER CHATTED [ 3757326628] FlowerMsmay          ( 1022.5,   -19.9,  4091.8)
+  Hello
+2022-10-10T03:41:49Z: PLAYER CHATTED [ 1619566650] baileythepuppy2020   ( 1015.3,    -8.8,  4158.7)
+  Can I join the family
+2022-10-10T03:41:51Z: PLAYER ADDED   [ 2062261821] catarinaaawws
+2022-10-10T03:41:53Z: PLAYER CHATTED [ 2619364256] DaunLimauPurut       ( 1059.2,    -8.0,  4152.4)
+  yea okay
+2022-10-10T03:41:55Z: PLAYER CHATTED [ 1591711498] crystal39282         ( 1062.9,    -8.1,  4155.2)
+  You can have my?
+2022-10-10T03:41:58Z: PLAYER CHATTED [ 3665605661] Longterm_Diamond     ( 1014.1,    -7.8,  4154.7)
+  yes
+2022-10-10T03:42:00Z: PLAYER CHATTED [ 1934796736] princessandreah15    ( 1022.4,   -19.5,  4091.1)
+  hello?
+2022-10-10T03:42:00Z: PLAYER CHATTED [ 1485416024] Princesf445          ( 1019.1,    -7.9,  4153.8)
+  I already live in this room
+2022-10-10T03:42:02Z: PLAYER CHATTED [ 3336499229] Hdhdhngj1            ( 1015.7,    -9.5,  4146.4)
+  This one 
+2022-10-10T03:42:02Z: PLAYER CHATTED [ 1619566650] baileythepuppy2020   ( 1012.4,    -8.8,  4152.4)
+  Kk
+2022-10-10T03:42:05Z: PLAYER CHATTED [ 2619364256] DaunLimauPurut       ( 1077.5,    -8.0,  4130.9)
+  no it's okay
+2022-10-10T03:42:08Z: PLAYER CHATTED [ 1591711498] crystal39282         ( 1074.5,    -8.1,  4129.3)
+  Ok
+2022-10-10T03:42:11Z: PLAYER CHATTED [ 3522034722] mini_cupcake5001     ( 1019.6,   -18.6,  4084.6)
+  hi
+2022-10-10T03:42:11Z: PLAYER CHATTED [ 1948608825] may123slay           ( 1122.3,    -7.0,  4069.7)
+  ZzzzzzZZZzzz
+2022-10-10T03:42:17Z: PLAYER CHATTED [ 3522034722] mini_cupcake5001     ( 1019.8,   -18.6,  4087.2)
+  u ok?
+2022-10-10T03:42:19Z: PLAYER CHATTED [ 3665605661] Longterm_Diamond     ( 1018.9,    -7.7,  4158.3)
+  Allison I'll move you to a single room 
+2022-10-10T03:42:20Z: PLAYER CHATTED [ 1948608825] may123slay           ( 1122.3,    -7.0,  4069.7)
+  (AFK)
+2022-10-10T03:42:24Z: PLAYER CHATTED [ 3757326628] FlowerMsmay          ( 1013.4,    -8.8,  4154.2)
+  Hi
+2022-10-10T03:42:26Z: PLAYER CHATTED [ 3336499229] Hdhdhngj1            ( 1004.0,    -9.5,  4130.6)
+  I already picked my room 
+2022-10-10T03:42:29Z: PLAYER CHATTED [ 1934796736] princessandreah15    ( 1020.6,   -20.4,  4095.3)
+  Owner?
+2022-10-10T03:42:31Z: PLAYER CHATTED [ 1485416024] Princesf445          ( 1019.1,    -7.9,  4153.8)
+  But I like this room
+2022-10-10T03:42:37Z: PLAYER CHATTED [ 3522034722] mini_cupcake5001     ( 1021.1,   -19.5,  4106.1)
+  mom I am home
+2022-10-10T03:42:38Z: PLAYER CHATTED [ 1485416024] Princesf445          ( 1019.1,    -7.9,  4153.8)
+  I can share
+2022-10-10T03:42:38Z: PLAYER CHATTED [ 2619364256] DaunLimauPurut       ( 1013.2,    -8.0,  4151.5)
+  mom wheres my rooM?
+2022-10-10T03:42:39Z: PLAYER CHATTED [ 3665605661] Longterm_Diamond     ( 1018.9,    -7.7,  4158.3)
+  your getting that ### anyway
+2022-10-10T03:42:43Z: PLAYER CHATTED [ 1934796736] princessandreah15    ( 1015.9,    -8.2,  4157.4)
+  Ms
+2022-10-10T03:42:46Z: PLAYER CHATTED [ 3665605661] Longterm_Diamond     ( 1018.9,    -7.7,  4158.3)
+  6ou need to upgrade 
+2022-10-10T03:42:48Z: PLAYER CHATTED [ 1591711498] crystal39282         ( 1018.0,    -8.1,  4160.4)
+  Mom my chores money 
+2022-10-10T03:42:51Z: PLAYER ADDED   [ 1238641894] katkitcat11
+2022-10-10T03:42:55Z: PLAYER ADDED   [ 3781827799] Wensdayihh
+2022-10-10T03:42:56Z: PLAYER CHATTED [ 3665605661] Longterm_Diamond     ( 1018.9,    -7.7,  4158.3)
+  yes
+2022-10-10T03:42:59Z: PLAYER CHATTED [ 1934796736] princessandreah15    ( 1016.9,    -8.4,  4156.2)
+  can i join the rp
+2022-10-10T03:43:05Z: PLAYER CHATTED [ 3757326628] FlowerMsmay          ( 1015.1,    -8.8,  4154.7)
+  Can I join
+2022-10-10T03:43:10Z: PLAYER CHATTED [ 3522034722] mini_cupcake5001     ( 1011.0,    -7.5,  4129.9)
+  mom where r u
+2022-10-10T03:43:11Z: PLAYER CHATTED [ 1238641894] katkitcat11          ( 1051.0,   -19.6,  3924.7)
+  Hi
+2022-10-10T03:43:12Z: PLAYER CHATTED [ 1934796736] princessandreah15    ( 1016.9,    -8.4,  4156.2)
+  ayy
+2022-10-10T03:43:14Z: PLAYER CHATTED [ 3665605661] Longterm_Diamond     ( 1018.9,    -7.7,  4158.3)
+  still won't le5 me
+2022-10-10T03:43:14Z: PLAYER CHATTED [ 1934796736] princessandreah15    ( 1016.9,    -8.4,  4156.2)
+  yayy
+2022-10-10T03:43:15Z: PLAYER CHATTED [ 3781827799] Wensdayihh           ( 1051.0,   -19.6,  3924.7)
+  Hi may I please join please 
+2022-10-10T03:43:17Z: PLAYER CHATTED [ 3665605661] Longterm_Diamond     ( 1018.9,    -7.7,  4158.3)
+  yes
+2022-10-10T03:43:20Z: PLAYER CHATTED [ 1934796736] princessandreah15    ( 1016.9,    -8.4,  4156.2)
+  ima pick room
+2022-10-10T03:43:22Z: PLAYER CHATTED [ 3757326628] FlowerMsmay          ( 1016.9,    -8.8,  4158.3)
+  Ok
+2022-10-10T03:43:23Z: PLAYER ADDED   [ 1537108127] kitty123coco
+2022-10-10T03:43:23Z: PLAYER CHATTED [ 3665605661] Longterm_Diamond     ( 1018.9,    -7.7,  4158.3)
+  okay
+2022-10-10T03:43:31Z: PLAYER CHATTED [ 1591711498] crystal39282         ( 1014.3,    -8.1,  4150.7)
+  Ok
+2022-10-10T03:43:33Z: PLAYER CHATTED [ 3336499229] Hdhdhngj1            (  981.9,    -9.5,  4136.0)
+  My room
+2022-10-10T03:43:33Z: PLAYER CHATTED [ 3757326628] FlowerMsmay          ( 1014.9,    -8.7,  4157.8)
+  We’re is my room
+2022-10-10T03:43:35Z: PLAYER CHATTED [ 3665605661] Longterm_Diamond     ( 1012.6,    -7.8,  4153.5)
+  ash and Olivia 
+2022-10-10T03:43:41Z: PLAYER CHATTED [ 3522034722] mini_cupcake5001     ( 1011.8,    -7.5,  4151.6)
+  mom where is my room
+2022-10-10T03:43:41Z: PLAYER CHATTED [ 3665605661] Longterm_Diamond     ( 1012.6,    -7.8,  4153.5)
+  share this room
+2022-10-10T03:43:42Z: PLAYER CHATTED [ 3757326628] FlowerMsmay          ( 1015.4,    -8.8,  4155.5)
+  Yea
+2022-10-10T03:43:43Z: PLAYER CHATTED [ 1591711498] crystal39282         ( 1018.1,    -8.1,  4139.4)
+  I’m going to bed
+2022-10-10T03:43:47Z: PLAYER CHATTED [ 2062261821] catarinaaawws        ( 1013.7,    -8.4,  4151.7)
+  hey
+2022-10-10T03:43:49Z: PLAYER CHATTED [ 3757326628] FlowerMsmay          ( 1014.8,    -8.8,  4160.2)
+  Ok
+2022-10-10T03:43:52Z: PLAYER ADDED   [ 3935562078] Akkatada23
+2022-10-10T03:43:53Z: PLAYER CHATTED [ 2062261821] catarinaaawws        ( 1013.7,    -8.4,  4151.7)
+  can i join
+2022-10-10T03:43:55Z: PLAYER CHATTED [ 3336499229] Hdhdhngj1            (  979.8,    -9.5,  4141.4)
+  This is mine 
+2022-10-10T03:43:59Z: PLAYER CHATTED [ 3757326628] FlowerMsmay          ( 1019.0,    -8.8,  4158.7)
+  Hi
+2022-10-10T03:44:00Z: PLAYER CHATTED [ 3665605661] Longterm_Diamond     (  977.8,    -7.8,  4119.4)
+  2 younger k8ds share this room 
+2022-10-10T03:44:05Z: PLAYER CHATTED [ 3336499229] Hdhdhngj1            (  974.8,    -7.0,  4150.8)
+  Zzzz
+2022-10-10T03:44:05Z: PLAYER CHATTED [ 3438548954] sparklecookies120    ( 1019.0,    -8.8,  4161.3)
+  Hello!
+2022-10-10T03:44:11Z: PLAYER CHATTED [ 3336499229] Hdhdhngj1            (  974.8,    -7.0,  4150.8)
+  😴😴😴😴
+2022-10-10T03:44:20Z: PLAYER CHATTED [ 3757326628] FlowerMsmay          ( 1019.0,    -8.8,  4158.7)
+  Do u want to play
+2022-10-10T03:44:25Z: PLAYER ADDED   [ 3914664028] Bathgatepj
+2022-10-10T03:44:28Z: PLAYER CHATTED [ 2619364256] DaunLimauPurut       (  985.4,    -7.8,  4124.2)
+  mom?
+2022-10-10T03:44:34Z: PLAYER CHATTED [ 3438548954] sparklecookies120    ( 1019.1,    -8.8,  4163.0)
+  Sure!!!
+2022-10-10T03:44:36Z: PLAYER CHATTED [ 1485416024] Princesf445          (  977.4,    -7.9,  4121.8)
+  Where do I go then
+2022-10-10T03:44:37Z: PLAYER CHATTED [ 2619364256] DaunLimauPurut       (  983.8,    -8.0,  4122.8)
+  wheres my room?
+2022-10-10T03:44:42Z: PLAYER CHATTED [ 3665605661] Longterm_Diamond     (  979.9,    -7.8,  4119.2)
+  I need 1 more young k8d
+2022-10-10T03:44:44Z: PLAYER ADDED   [ 3954875310] hdhshegdsf
+2022-10-10T03:44:44Z: PLAYER CHATTED [ 1948608825] may123slay           ( 1122.9,   -19.6,  4056.7)
+  *yawns*
+2022-10-10T03:44:45Z: PLAYER REMOVED [ 3781827799] Wensdayihh
+2022-10-10T03:44:46Z: PLAYER CHATTED [ 3757326628] FlowerMsmay          ( 1019.0,    -8.8,  4158.7)
+  Ok wait ill be back
+2022-10-10T03:44:48Z: PLAYER REMOVED [ 2062261821] catarinaaawws
+2022-10-10T03:44:49Z: PLAYER CHATTED [ 1948608825] may123slay           ( 1117.8,   -19.7,  4049.3)
+  Hm..
+2022-10-10T03:44:52Z: PLAYER CHATTED [ 3438548954] sparklecookies120    ( 1019.1,    -8.8,  4163.0)
+  Ok
+2022-10-10T03:44:56Z: PLAYER CHATTED [ 3522034722] mini_cupcake5001     (  992.1,    -7.5,  4130.3)
+  mom where is my room
+2022-10-10T03:44:56Z: PLAYER CHATTED [ 3665605661] Longterm_Diamond     (  980.2,    -7.8,  4120.0)
+  I'll get there in a second 
+2022-10-10T03:44:57Z: PLAYER CHATTED [ 1948608825] may123slay           ( 1114.5,   -19.8,  4037.9)
+  *pulls ######
+2022-10-10T03:44:59Z: PLAYER CHATTED [ 3757326628] FlowerMsmay          (  992.2,    -8.8,  4127.9)
+  Mom
+2022-10-10T03:45:02Z: PLAYER CHATTED [ 1948608825] may123slay           ( 1114.6,   -19.8,  4032.8)
+  ####
+2022-10-10T03:45:03Z: PLAYER CHATTED [ 1591711498] crystal39282         ( 1072.1,    -5.7,  4124.0)
+  Dreams about falling or skateboard 
+2022-10-10T03:45:03Z: PLAYER CHATTED [ 1537108127] kitty123coco         (  983.1,    -7.9,  4117.5)
+  hello can i join?
+2022-10-10T03:45:08Z: PLAYER CHATTED [ 1619566650] baileythepuppy2020   (  971.2,    -7.1,  4123.9)
+  Waaaaa
+2022-10-10T03:45:13Z: PLAYER CHATTED [ 1948608825] may123slay           ( 1115.4,   -19.8,  4034.3)
+  * pulls ##### from ground*
+2022-10-10T03:45:13Z: PLAYER CHATTED [ 3665605661] Longterm_Diamond     (  980.2,    -7.8,  4119.6)
+  yes
+2022-10-10T03:45:13Z: PLAYER CHATTED [ 3757326628] FlowerMsmay          (  981.3,    -8.8,  4116.3)
+  I need perms
+2022-10-10T03:45:14Z: PLAYER CHATTED [ 1238641894] katkitcat11          (  977.3,    -7.8,  4118.2)
+  Can I join?
+2022-10-10T03:45:17Z: PLAYER CHATTED [ 1591711498] crystal39282         ( 1072.1,    -5.7,  4124.0)
+  Ahhhhhhhhhhh
+2022-10-10T03:45:24Z: PLAYER CHATTED [ 1591711498] crystal39282         ( 1076.8,    -8.1,  4128.8)
+  Few I’m in my room
+2022-10-10T03:45:25Z: PLAYER CHATTED [ 3665605661] Longterm_Diamond     (  980.2,    -7.8,  4119.6)
+  one of yall become younger 
+2022-10-10T03:45:25Z: PLAYER CHATTED [ 1537108127] kitty123coco         (  983.1,    -7.9,  4117.5)
+  what roles are left?
+2022-10-10T03:45:28Z: PLAYER CHATTED [ 1619566650] baileythepuppy2020   (  975.5,    -9.5,  4117.8)
+  Waaaa
+2022-10-10T03:45:30Z: PLAYER CHATTED [ 2619364256] DaunLimauPurut       (  983.0,    -8.0,  4120.8)
+  mw
+2022-10-10T03:45:36Z: PLAYER CHATTED [ 1948608825] may123slay           ( 1111.9,   -19.4,  4021.0)
+  *cheacsk pumpkin*
+2022-10-10T03:45:39Z: CHRCTER ADDED  [ 3914664028] Bathgatepj          
+2022-10-10T03:45:40Z: PLAYER CHATTED [ 1619566650] baileythepuppy2020   (  971.8,    -6.2,  4123.2)
+  Crying 
+2022-10-10T03:45:40Z: PLAYER CHATTED [ 3757326628] FlowerMsmay          (  981.3,    -8.8,  4116.3)
+  Mom perms
+2022-10-10T03:45:42Z: PLAYER CHATTED [ 1238641894] katkitcat11          (  977.3,    -7.8,  4118.2)
+  what should I be
+2022-10-10T03:45:44Z: PLAYER CHATTED [ 1591711498] crystal39282         ( 1049.0,   -20.0,  4140.3)
+  Auntie 
+2022-10-10T03:45:50Z: PLAYER ADDED   [ 1581548857] RoadHeat10
+2022-10-10T03:45:50Z: PLAYER CHATTED [ 3665605661] Longterm_Diamond     (  979.6,    -7.8,  4119.4)
+  althea this is your 4oom with Allie 
+2022-10-10T03:46:04Z: PLAYER REMOVED [ 1485416024] Princesf445
+2022-10-10T03:46:04Z: PLAYER CHATTED [ 1591711498] crystal39282         (  980.3,    -8.1,  4139.9)
+  Mom
+2022-10-10T03:46:17Z: PLAYER REMOVED [ 3438548954] sparklecookies120
+2022-10-10T03:46:18Z: PLAYER CHATTED [ 1948608825] may123slay           ( 1015.7,    -7.8,  4117.1)
+  Gm!
+2022-10-10T03:46:20Z: PLAYER CHATTED [ 1591711498] crystal39282         ( 1059.5,    -8.1,  4135.4)
+  I wnat this room
+2022-10-10T03:46:28Z: PLAYER CHATTED [ 1238641894] katkitcat11          (  996.5,    -7.8,  4127.9)
+  Hi
+2022-10-10T03:46:29Z: PLAYER CHATTED [ 1591711498] crystal39282         ( 1063.8,    -8.1,  4135.1)
+  Mom
+2022-10-10T03:46:31Z: PLAYER CHATTED [ 3935562078] Akkatada23           (  992.8,    -7.8,  4129.6)
+  Oh hi
+2022-10-10T03:46:36Z: PLAYER CHATTED [ 3665605661] Longterm_Diamond     ( 1077.0,    -7.8,  4130.4)
+  5his is a lot of people
+2022-10-10T03:46:39Z: PLAYER CHATTED [ 1591711498] crystal39282         ( 1074.4,    -8.1,  4133.8)
+  Coke
+2022-10-10T03:46:40Z: PLAYER CHATTED [ 1238641894] katkitcat11          (  996.5,    -7.8,  4127.9)
+  remember me?
+2022-10-10T03:46:47Z: PLAYER CHATTED [ 3935562078] Akkatada23           (  992.8,    -7.8,  4129.6)
+  Haven’t talked to you in some time and yes 
+2022-10-10T03:46:48Z: PLAYER CHATTED [ 1591711498] crystal39282         ( 1074.4,    -8.1,  4133.8)
+  Come
+2022-10-10T03:46:50Z: PLAYER CHATTED [ 1948608825] may123slay           ( 1017.2,    -7.8,  4132.3)
+  No crying please)
+2022-10-10T03:46:51Z: PLAYER CHATTED [ 3665605661] Longterm_Diamond     ( 1077.0,    -7.8,  4130.4)
+  I might have to start doubling up on single rooms
+2022-10-10T03:46:56Z: PLAYER CHATTED [ 1238641894] katkitcat11          (  996.5,    -7.8,  4127.9)
+  I need to find host
+2022-10-10T03:47:02Z: PLAYER CHATTED [ 3935562078] Akkatada23           (  992.8,    -7.8,  4129.6)
+  Same
+2022-10-10T03:47:04Z: PLAYER CHATTED [ 1591711498] crystal39282         ( 1056.1,    -8.1,  4125.1)
+  I want this one 
+2022-10-10T03:47:10Z: PLAYER CHATTED [ 3665605661] Longterm_Diamond     ( 1053.4,    -7.8,  4125.6)
+  ok
+2022-10-10T03:47:11Z: PLAYER CHATTED [ 1934796736] princessandreah15    ( 1060.0,    -9.6,  4127.8)
+  wheres mine-
+2022-10-10T03:47:16Z: PLAYER CHATTED [ 3954875310] hdhshegdsf           ( 1027.3,   -20.1,  4133.0)
+  yes
+2022-10-10T03:47:16Z: PLAYER CHATTED [ 3665605661] Longterm_Diamond     ( 1053.4,    -7.8,  4125.6)
+  sha4e wi5h rose
+2022-10-10T03:47:22Z: PLAYER CHATTED [ 1591711498] crystal39282         ( 1050.5,    -8.1,  4121.0)
+  Ok
+2022-10-10T03:47:22Z: PLAYER CHATTED [ 3954875310] hdhshegdsf           ( 1002.7,   -20.2,  4148.6)
+  me to
+2022-10-10T03:47:23Z: PLAYER CHATTED [ 3665605661] Longterm_Diamond     ( 1053.4,    -7.8,  4125.6)
+  *share wi5h rose
+2022-10-10T03:47:28Z: PLAYER CHATTED [ 1934796736] princessandreah15    ( 1050.3,    -9.6,  4125.6)
+  kk
+2022-10-10T03:47:29Z: PLAYER CHATTED [ 1591711498] crystal39282         ( 1050.5,    -8.1,  4121.0)
+  I can share with her
+2022-10-10T03:47:32Z: CHRCTER ADDED  [ 2619364256] DaunLimauPurut      
+2022-10-10T03:47:34Z: PLAYER CHATTED [ 1581548857] RoadHeat10           ( 1064.3,   -20.3,  4127.3)
+  hELLO
+2022-10-10T03:47:35Z: PLAYER REMOVED [ 2619364256] DaunLimauPurut
+2022-10-10T03:47:47Z: PLAYER CHATTED [ 3665605661] Longterm_Diamond     ( 1065.9,    -7.8,  4160.9)
+  this was my 4ooom 
+2022-10-10T03:47:48Z: PLAYER CHATTED [ 1591711498] crystal39282         ( 1051.3,    -8.1,  4121.2)
+  Sleepy?
+2022-10-10T03:47:52Z: PLAYER CHATTED [ 1581548857] RoadHeat10           (  979.0,   -20.2,  3965.9)
+  hi
+2022-10-10T03:47:53Z: PLAYER CHATTED [ 1934796736] princessandreah15    ( 1052.0,    -7.7,  4122.7)
+  Hes yes!
+2022-10-10T03:47:54Z: PLAYER CHATTED [ 1948608825] may123slay           ( 1093.9,   -19.8,  3993.6)
+  *watters specific areas*
+2022-10-10T03:47:57Z: PLAYER CHATTED [ 1934796736] princessandreah15    ( 1046.1,    -7.7,  4119.4)
+  No no!
+2022-10-10T03:47:57Z: PLAYER CHATTED [ 3935562078] Akkatada23           (  976.8,   -19.6,  3972.9)
+  Hi
+2022-10-10T03:47:58Z: PLAYER CHATTED [ 3522034722] mini_cupcake5001     ( 1059.7,    -7.5,  4155.0)
+  where is mine can u show me
+2022-10-10T03:47:59Z: PLAYER CHATTED [ 3336499229] Hdhdhngj1            (  996.7,    -9.5,  4129.5)
+  Good morning 
+2022-10-10T03:48:01Z: PLAYER CHATTED [ 1581548857] RoadHeat10           (  975.6,   -20.2,  3973.8)
+  I am the new son
+2022-10-10T03:48:03Z: PLAYER CHATTED [ 1619566650] baileythepuppy2020   (  971.2,    -7.1,  4123.9)
+  Waaaaaaaaa
+2022-10-10T03:48:03Z: PLAYER CHATTED [ 1238641894] katkitcat11          ( 1061.8,    -7.8,  4157.6)
+  can I join?
+2022-10-10T03:48:03Z: PLAYER CHATTED [ 3665605661] Longterm_Diamond     ( 1065.9,    -7.8,  4160.9)
+  but I can fit some of yall in ere 
+2022-10-10T03:48:04Z: PLAYER CHATTED [ 3336499229] Hdhdhngj1            (  998.5,    -9.5,  4129.0)
+  Sis
+2022-10-10T03:48:08Z: PLAYER CHATTED [ 3665605661] Longterm_Diamond     ( 1065.9,    -7.8,  4160.9)
+  yew
+2022-10-10T03:48:09Z: PLAYER CHATTED [ 1581548857] RoadHeat10           (  975.6,   -20.2,  3973.8)
+  Where do i go?
+2022-10-10T03:48:10Z: PLAYER CHATTED [ 1537108127] kitty123coco         ( 1056.8,    -7.9,  4158.6)
+  which room do i have?
+2022-10-10T03:48:17Z: PLAYER CHATTED [ 3935562078] Akkatada23           (  976.3,   -19.6,  3976.6)
+  Idk I’m new to
+2022-10-10T03:48:19Z: PLAYER CHATTED [  289176280] gigiplaz             (  997.4,    -8.3,  4129.5)
+  ?
+2022-10-10T03:48:20Z: PLAYER CHATTED [ 1238641894] katkitcat11          ( 1061.8,    -7.8,  4157.6)
+  what role should I be
+2022-10-10T03:48:21Z: PLAYER CHATTED [ 3665605661] Longterm_Diamond     ( 1065.9,    -7.8,  4160.9)
+  ###########################
+2022-10-10T03:48:28Z: PLAYER CHATTED [ 3935562078] Akkatada23           (  976.3,   -19.6,  3976.6)
+  I’m trying to find host
+2022-10-10T03:48:28Z: PLAYER CHATTED [ 1934796736] princessandreah15    ( 1041.6,    -9.6,  4140.1)
+  school!
+2022-10-10T03:48:31Z: PLAYER CHATTED [ 3665605661] Longterm_Diamond     ( 1065.9,    -7.8,  4160.9)
+  who doesn't have a room
+2022-10-10T03:48:34Z: PLAYER CHATTED [ 1238641894] katkitcat11          ( 1061.8,    -7.8,  4157.6)
+  Me
+2022-10-10T03:48:35Z: PLAYER CHATTED [ 1591711498] crystal39282         ( 1061.3,    -7.9,  4155.5)
+  EVERYBODY SHUSH
+2022-10-10T03:48:37Z: PLAYER CHATTED [ 1581548857] RoadHeat10           (  951.8,   -20.3,  3983.0)
+  Uh hello aunti
+2022-10-10T03:48:37Z: PLAYER CHATTED [ 3336499229] Hdhdhngj1            (  991.6,    -9.5,  4133.6)
+  Puts sigh Mya room
+2022-10-10T03:48:44Z: PLAYER CHATTED [ 1581548857] RoadHeat10           (  951.8,   -20.3,  3983.0)
+  LOng i dont have a room
+2022-10-10T03:48:45Z: PLAYER CHATTED [ 1948608825] may123slay           (  955.6,   -19.8,  3980.8)
+  Hi
+2022-10-10T03:48:46Z: PLAYER CHATTED [ 1537108127] kitty123coco         ( 1056.8,    -7.9,  4158.6)
+  i dont
+2022-10-10T03:48:49Z: PLAYER CHATTED [ 3665605661] Longterm_Diamond     ( 1065.9,    -7.8,  4160.9)
+  rose yiur ro9ms across the hall
+2022-10-10T03:48:57Z: PLAYER CHATTED [ 1591711498] crystal39282         ( 1059.4,    -8.7,  4123.4)
+  Crys*
+2022-10-10T03:48:59Z: PLAYER CHATTED [ 3935562078] Akkatada23           (  956.4,   -20.1,  3975.9)
+  Me either 
+2022-10-10T03:49:00Z: PLAYER CHATTED [  289176280] gigiplaz             ( 1060.0,    -8.3,  4128.6)
+  moon why are you in my room?
+2022-10-10T03:49:02Z: PLAYER REMOVED [ 3522034722] mini_cupcake5001
+2022-10-10T03:49:03Z: PLAYER CHATTED [ 1948608825] may123slay           (  958.2,   -19.8,  3981.2)
+  I think my sis might be upstairs follow
+2022-10-10T03:49:04Z: PLAYER CHATTED [ 3665605661] Longterm_Diamond     ( 1065.9,    -7.8,  4160.9)
+  so just you two
+2022-10-10T03:49:06Z: PLAYER CHATTED [ 1591711498] crystal39282         ( 1059.4,    -8.7,  4123.4)
+  Idk
+2022-10-10T03:49:10Z: PLAYER CHATTED [ 1238641894] katkitcat11          ( 1061.8,    -7.8,  4157.6)
+  yeah
+2022-10-10T03:49:12Z: PLAYER CHATTED [  289176280] gigiplaz             ( 1058.7,    -8.3,  4127.0)
+  oh
+2022-10-10T03:49:13Z: PLAYER CHATTED [ 3665605661] Longterm_Diamond     ( 1065.9,    -7.8,  4160.9)
+  yall share this room 
+2022-10-10T03:49:14Z: PLAYER CHATTED [ 1581548857] RoadHeat10           ( 1020.2,   -19.5,  4093.0)
+  Yep
+2022-10-10T03:49:16Z: PLAYER CHATTED [ 3665605661] Longterm_Diamond     ( 1065.9,    -7.8,  4160.9)
+  ok
+2022-10-10T03:49:17Z: PLAYER REMOVED [ 1619566650] baileythepuppy2020
+2022-10-10T03:49:17Z: PLAYER CHATTED [ 1238641894] katkitcat11          ( 1061.8,    -7.8,  4157.6)
+  ok
+2022-10-10T03:49:19Z: PLAYER CHATTED [ 1581548857] RoadHeat10           ( 1023.4,   -19.2,  4092.9)
+  long
+2022-10-10T03:49:20Z: PLAYER CHATTED [ 1537108127] kitty123coco         ( 1056.8,    -7.9,  4158.6)
+  alright
+2022-10-10T03:49:21Z: PLAYER CHATTED [ 1591711498] crystal39282         ( 1059.4,    -8.7,  4123.4)
+  It just more white here
+2022-10-10T03:49:25Z: PLAYER CHATTED [ 1591711498] crystal39282         ( 1059.4,    -8.7,  4123.4)
+  Quite
+2022-10-10T03:49:28Z: PLAYER CHATTED [ 1581548857] RoadHeat10           ( 1015.5,    -8.3,  4121.6)
+  Long where are u
+2022-10-10T03:49:28Z: PLAYER REMOVED [    1630228] VisualPlugin

@@ -1,0 +1,1122 @@
+[    1630228] : [ 6100863281] RoVille Party - 0811a42d-3da1-c98c-8318-434dfeb9c91e
+2022-10-10T07:32:35Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-10-10T07:32:35Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-10-10T07:32:35Z: PLAYER ADDED   [  460979220] Flaming_Legendz
+2022-10-10T07:32:35Z: PLAYER ADDED   [ 3931207763] LEGEND_73309
+2022-10-10T07:32:35Z: PLAYER ADDED   [ 3936853790] helikopertrgg55
+2022-10-10T07:32:35Z: PLAYER ADDED   [ 3025513842] Hunny_funny133
+2022-10-10T07:32:35Z: PLAYER ADDED   [ 2654395637] 4LEX0xx
+2022-10-10T07:32:36Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       (-2213.1,   -19.3,   153.0)
+  hi
+2022-10-10T07:32:49Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       (-2212.0,   -19.3,   154.3)
+  please use the item i have
+2022-10-10T07:32:58Z: PLAYER REMOVED [ 3936853790] helikopertrgg55
+2022-10-10T07:33:38Z: PLAYER ADDED   [ 1948608825] may123slay
+2022-10-10T07:33:48Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       (-2155.7,   -19.6,   113.3)
+  helll
+2022-10-10T07:33:51Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       (-2155.7,   -19.6,   113.3)
+  *hello
+2022-10-10T07:34:03Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       (-2206.7,   -19.6,   151.6)
+  hi
+2022-10-10T07:34:15Z: PLAYER CHATTED [ 1948608825] may123slay           (-2209.3,   -19.0,   158.6)
+  Hi
+2022-10-10T07:34:30Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       (-2208.8,   -19.3,   153.9)
+  btw im giving u new roles since i added 4 new roles
+2022-10-10T07:34:37Z: PLAYER CHATTED [ 1948608825] may123slay           (-2204.4,   -19.0,   159.0)
+  Ok great
+2022-10-10T07:34:44Z: PLAYER CHATTED [ 1948608825] may123slay           (-2204.4,   -19.0,   159.0)
+  Great
+2022-10-10T07:35:18Z: PLAYER CHATTED [ 3931207763] LEGEND_73309         (-2199.7,   -19.6,   166.1)
+  +_+
+2022-10-10T07:38:11Z: PLAYER REMOVED [ 2654395637] 4LEX0xx
+2022-10-10T07:38:15Z: PLAYER REMOVED [ 3931207763] LEGEND_73309
+2022-10-10T07:38:21Z: PLAYER ADDED   [  152449559] Ingyolo101
+2022-10-10T07:38:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2202.8,   -18.9,   154.9)
+  Hülló.
+2022-10-10T07:39:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2203.8,   -17.4,   154.7)
+  My big-O notation is O(infini-tea)!
+2022-10-10T07:39:04Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       (-2208.8,   -19.3,   155.4)
+  hi
+2022-10-10T07:39:08Z: PLAYER CHATTED [  152449559] Ingyolo101           (-2210.3,   -19.0,   159.4)
+  hi
+2022-10-10T07:39:19Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2204.2,   -17.4,   155.0)
+  ÒÓ.
+2022-10-10T07:39:21Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       (-2208.1,   -19.3,   155.3)
+  pls use the item im using
+2022-10-10T07:39:23Z: PLAYER CHATTED [  152449559] Ingyolo101           (-2210.3,   -19.0,   159.4)
+  how does this work?
+2022-10-10T07:39:37Z: PLAYER CHATTED [ 1948608825] may123slay           (-2203.8,   -19.0,   160.5)
+  Ok cya
+2022-10-10T07:40:32Z: PLAYER CHATTED [  152449559] Ingyolo101           (-2210.3,   -19.0,   159.4)
+  whats next?
+2022-10-10T07:40:37Z: PLAYER ADDED   [ 2654395637] 4LEX0xx
+2022-10-10T07:40:46Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2204.2,   -17.4,   155.0)
+  I reckon we text each other til the night calls away.
+2022-10-10T07:40:46Z: PLAYER ADDED   [ 3905353063] Mashedpotato_234
+2022-10-10T07:40:54Z: PLAYER REMOVED [ 3905353063] Mashedpotato_234
+2022-10-10T07:40:57Z: PLAYER CHATTED [ 2654395637] 4LEX0xx              (-2211.9,   -19.0,   153.5)
+  a-
+2022-10-10T07:41:36Z: PLAYER CHATTED [ 1948608825] may123slay           (-2179.7,   -19.3,   130.1)
+  Should every person use a name from flicker game instead
+2022-10-10T07:41:52Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       (-2164.8,   -19.6,   113.1)
+  nah you can do any name
+2022-10-10T07:41:58Z: PLAYER CHATTED [ 2654395637] 4LEX0xx              (-2180.7,   -19.3,   126.6)
+  i played flicker once idk the names
+2022-10-10T07:42:07Z: PLAYER CHATTED [ 1948608825] may123slay           (-2162.9,   -19.3,   104.3)
+  Billie. Veronica 
+2022-10-10T07:42:07Z: PLAYER CHATTED [  152449559] Ingyolo101           (-2158.9,   -19.3,   102.5)
+  would it really matter that much tho
+2022-10-10T07:42:15Z: PLAYER CHATTED [ 1948608825] may123slay           (-2162.9,   -19.3,   104.3)
+  No its just fun e ###
+2022-10-10T07:42:19Z: PLAYER CHATTED [ 1948608825] may123slay           (-2161.7,   -19.3,   105.1)
+  Funnier
+2022-10-10T07:42:40Z: PLAYER CHATTED [ 2654395637] 4LEX0xx              (-2119.3,     8.9,   111.9)
+  its a horror party, whats gonna be funny
+2022-10-10T07:42:49Z: PLAYER CHATTED [  460979220] Flaming_Legendz      (-2156.2,   -19.3,   105.0)
+  i dont know any of the flicker names so im just Mia.
+2022-10-10T07:42:59Z: PLAYER CHATTED [ 1948608825] may123slay           (-2152.6,   -19.3,   109.9)
+  I think that’s a name
+2022-10-10T07:43:07Z: PLAYER CHATTED [ 2654395637] 4LEX0xx              (-2120.4,   -19.3,   109.5)
+  ah yes, getting stabbed is funny
+2022-10-10T07:43:09Z: PLAYER CHATTED [  460979220] Flaming_Legendz      (-2148.2,   -19.3,   102.8)
+  wait- it is?
+2022-10-10T07:43:18Z: PLAYER CHATTED [  460979220] Flaming_Legendz      (-2148.2,   -19.3,   102.8)
+  ok, Mia is officially canon and lore
+2022-10-10T07:43:45Z: PLAYER CHATTED [  460979220] Flaming_Legendz      (-2170.9,    -7.3,    98.3)
+  I call first dibs on this room btw
+2022-10-10T07:43:57Z: PLAYER CHATTED [  460979220] Flaming_Legendz      (-2179.0,    -6.5,    96.8)
+  and sleep
+2022-10-10T07:44:03Z: PLAYER CHATTED [ 1948608825] may123slay           (-2152.6,   -19.3,   109.9)
+  Elena ally ###### ###### bveronica
+2022-10-10T07:44:27Z: PLAYER REMOVED [ 1948608825] may123slay
+2022-10-10T07:44:35Z: PLAYER CHATTED [  152449559] Ingyolo101           (-2165.3,    -7.3,    96.2)
+  murderer get killing
+2022-10-10T07:44:44Z: PLAYER CHATTED [ 2654395637] 4LEX0xx              (-2138.3,    -7.3,   120.9)
+  it didnt start yet
+2022-10-10T07:44:48Z: PLAYER CHATTED [  152449559] Ingyolo101           (-2146.9,    -8.0,   118.1)
+  oh
+2022-10-10T07:44:55Z: PLAYER CHATTED [  152449559] Ingyolo101           (-2146.9,    -8.0,   118.1)
+  when does it start
+2022-10-10T07:45:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2173.9,   -17.2,   125.7)
+  IT STARTS NOW!
+2022-10-10T07:45:10Z: PLAYER CHATTED [ 2654395637] 4LEX0xx              (-2161.3,   -19.3,   111.5)
+  theres only 5 players what do u wnt 💀💀
+2022-10-10T07:45:18Z: PLAYER CHATTED [  152449559] Ingyolo101           (-2160.0,   -18.7,   120.4)
+  yooo
+2022-10-10T07:45:29Z: PLAYER ADDED   [ 1948608825] may123slay
+2022-10-10T07:45:42Z: PLAYER REMOVED [ 2654395637] 4LEX0xx
+2022-10-10T07:45:44Z: PLAYER ADDED   [ 2810464597] lonely_loser97
+2022-10-10T07:45:59Z: CHRCTER ADDED  [ 2810464597] lonely_loser97      
+2022-10-10T07:46:16Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       (-2199.1,   -19.3,   174.4)
+  hi
+2022-10-10T07:46:23Z: PLAYER REMOVED [ 2810464597] lonely_loser97
+2022-10-10T07:46:24Z: PLAYER ADDED   [ 2810464597] lonely_loser97
+2022-10-10T07:46:29Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       (-2216.6,   -19.5,   190.1)
+  oof
+2022-10-10T07:46:35Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       (-2210.9,   -19.3,   161.9)
+  hi again
+2022-10-10T07:46:39Z: PLAYER REMOVED [  152449559] Ingyolo101
+2022-10-10T07:46:49Z: PLAYER CHATTED [ 2810464597] lonely_loser97       (-2210.1,   -20.8,   157.0)
+  ..
+2022-10-10T07:47:03Z: PLAYER CHATTED [ 2810464597] lonely_loser97       (-2206.0,   -20.8,   158.4)
+  Where is all the people?
+2022-10-10T07:47:05Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       (-2209.9,   -19.3,   153.7)
+  please use the thing im holding rn
+2022-10-10T07:47:14Z: PLAYER ADDED   [ 2664405669] pinkispaw
+2022-10-10T07:47:20Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       (-2207.7,   -19.3,   156.2)
+  also there inside
+2022-10-10T07:47:43Z: PLAYER CHATTED [ 2664405669] pinkispaw            (-2206.3,   -19.3,   164.9)
+  hola
+2022-10-10T07:47:56Z: PLAYER CHATTED [ 2664405669] pinkispaw            (-2205.7,   -19.3,   161.8)
+  what roles are left?
+2022-10-10T07:48:05Z: PLAYER ADDED   [ 2240115632] czxvxe4
+2022-10-10T07:48:06Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       (-2207.8,   -19.3,   155.8)
+  idk
+2022-10-10T07:48:08Z: PLAYER CHATTED [  460979220] Flaming_Legendz      (-2132.0,   -19.3,    97.1)
+  good morning humans!
+2022-10-10T07:48:14Z: PLAYER ADDED   [  923863746] DJ24644
+2022-10-10T07:48:17Z: PLAYER REMOVED [ 2810464597] lonely_loser97
+2022-10-10T07:48:19Z: PLAYER CHATTED [ 2664405669] pinkispaw            (-2205.7,   -19.3,   161.8)
+  can i be human?
+2022-10-10T07:48:20Z: PLAYER ADDED   [ 1406531769] czxvxe
+2022-10-10T07:48:20Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       (-2206.4,   -19.3,   157.1)
+  but can i please use the item im holding?
+2022-10-10T07:48:29Z: PLAYER CHATTED [ 2664405669] pinkispaw            (-2205.1,   -19.3,   162.4)
+  ok
+2022-10-10T07:48:37Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2202.6,   -17.4,   154.0)
+  Gòód morning landbirds!
+2022-10-10T07:48:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2202.6,   -17.4,   154.0)
+  I am your flying plugin.
+2022-10-10T07:48:47Z: PLAYER REMOVED [  923863746] DJ24644
+2022-10-10T07:48:52Z: PLAYER CHATTED [ 2664405669] pinkispaw            (-2202.1,   -19.3,   162.7)
+  eee
+2022-10-10T07:48:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2202.6,   -17.4,   154.0)
+  I will be in charge for today.
+2022-10-10T07:48:59Z: PLAYER CHATTED [ 1948608825] may123slay           (-2205.5,   -20.0,   164.2)
+  Where is everyone at?
+2022-10-10T07:49:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2202.6,   -17.4,   153.8)
+  We're going to explore town!
+2022-10-10T07:49:15Z: PLAYER CHATTED [ 1406531769] czxvxe               (-2205.7,   -19.3,   156.3)
+  xd
+2022-10-10T07:49:15Z: PLAYER CHATTED [  460979220] Flaming_Legendz      (-2134.9,   -19.3,    96.3)
+  imma just be at the TV
+2022-10-10T07:49:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2201.4,   -17.4,   153.4)
+  Say 'aye' if interested"
+2022-10-10T07:49:32Z: PLAYER ADDED   [  317702415] Crcsqent
+2022-10-10T07:49:36Z: PLAYER CHATTED [  460979220] Flaming_Legendz      (-2180.0,   -19.3,   125.9)
+  PEEP THIS IS A MURDER MYSTERY NOT A FAILY RP
+2022-10-10T07:49:53Z: PLAYER CHATTED [  460979220] Flaming_Legendz      (-2192.6,   -19.3,   137.0)
+  NO EXPLORING
+2022-10-10T07:49:53Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       (-2186.8,   -19.6,   149.8)
+  hi
+2022-10-10T07:50:02Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       (-2196.4,   -19.6,   157.9)
+  hi again
+2022-10-10T07:50:06Z: PLAYER CHATTED [ 1948608825] may123slay           (-2185.9,   -20.3,   145.0)
+  8 ppl
+2022-10-10T07:50:06Z: PLAYER CHATTED [  460979220] Flaming_Legendz      (-2192.6,   -19.3,   137.0)
+  GET INSIDE AND BE BORED
+2022-10-10T07:50:07Z: PLAYER CHATTED [  317702415] Crcsqent             (-2208.7,   -19.4,   158.3)
+  oh hi
+2022-10-10T07:50:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2195.2,   -17.4,   145.9)
+  /w Flaming_Legendz  That's gonna make the mystery more exciting!
+2022-10-10T07:50:17Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       (-2213.1,   -19.3,   156.5)
+  please use the item im holding-
+2022-10-10T07:50:37Z: PLAYER CHATTED [ 1948608825] may123slay           (-2172.2,   -20.2,    95.4)
+  GAME: A. Watch tv B. Play in makeup?
+2022-10-10T07:50:37Z: PLAYER CHATTED [ 2664405669] pinkispaw            (-2169.0,   -20.3,    92.9)
+  hello
+2022-10-10T07:50:37Z: PLAYER ADDED   [ 2955528150] Tammy2674
+2022-10-10T07:50:39Z: PLAYER CHATTED [  317702415] Crcsqent             (-2210.7,   -19.6,   149.2)
+  oh they work now
+2022-10-10T07:50:54Z: PLAYER CHATTED [ 2664405669] pinkispaw            (-2169.0,   -20.3,    92.9)
+  wanna be friends?
+2022-10-10T07:50:56Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2203.8,   -17.3,   155.7)
+  /w Flaming_Legendz  Fine.
+2022-10-10T07:51:11Z: PLAYER REMOVED [ 2955528150] Tammy2674
+2022-10-10T07:51:11Z: PLAYER ADDED   [ 2955528150] Tammy2674
+2022-10-10T07:51:19Z: PLAYER CHATTED [ 1948608825] may123slay           (-2171.5,   -20.2,    95.0)
+  A.
+2022-10-10T07:51:26Z: PLAYER CHATTED [ 2664405669] pinkispaw            (-2169.1,   -20.3,    91.8)
+  what?
+2022-10-10T07:51:35Z: PLAYER CHATTED [  460979220] Flaming_Legendz      (-2166.6,   -20.2,    94.8)
+  I felt weird being tall so I turned short
+2022-10-10T07:51:54Z: PLAYER CHATTED [ 1948608825] may123slay           (-2164.8,   -19.9,    99.3)
+  GAME: A watch stranger things B. Watch my little pony
+2022-10-10T07:51:55Z: PLAYER CHATTED [  460979220] Flaming_Legendz      (-2171.6,   -20.2,    90.2)
+  What are we watching?
+2022-10-10T07:51:58Z: PLAYER REMOVED [ 2955528150] Tammy2674
+2022-10-10T07:52:00Z: PLAYER CHATTED [  460979220] Flaming_Legendz      (-2167.5,   -20.2,    92.2)
+  A
+2022-10-10T07:52:01Z: CHRCTER ADDED  [ 2240115632] czxvxe4             
+2022-10-10T07:52:09Z: PLAYER CHATTED [ 1948608825] may123slay           (-2164.8,   -19.9,    99.3)
+  B
+2022-10-10T07:52:12Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       (-2164.2,   -19.4,    94.7)
+  oof
+2022-10-10T07:52:14Z: PLAYER CHATTED [  317702415] Crcsqent             (-2169.3,   -19.9,    99.1)
+  theres 8 of us in here
+2022-10-10T07:52:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2174.5,   -17.3,    90.7)
+  We're watching me crawl around.
+2022-10-10T07:52:27Z: PLAYER CHATTED [  460979220] Flaming_Legendz      (-2165.2,   -20.2,    94.5)
+  uhm 7 players? we arent inculding you- right>
+2022-10-10T07:52:41Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       (-2188.3,   -19.6,   151.3)
+  hi
+2022-10-10T07:52:45Z: PLAYER CHATTED [ 1948608825] may123slay           (-2164.8,   -19.9,    99.3)
+  She narrator
+2022-10-10T07:52:48Z: PLAYER CHATTED [  317702415] Crcsqent             (-2169.3,   -19.9,    99.1)
+  yeah 7 excluding her
+2022-10-10T07:53:02Z: PLAYER CHATTED [ 2240115632] czxvxe4              (-2161.7,   -19.3,   114.7)
+  bye
+2022-10-10T07:53:04Z: PLAYER CHATTED [  460979220] Flaming_Legendz      (-2162.9,   -20.2,    91.4)
+  okie, we can start before 20 too. pretty sure 20 will take a while.
+2022-10-10T07:53:14Z: PLAYER CHATTED [  317702415] Crcsqent             (-2169.3,   -19.9,    99.1)
+  maybe
+2022-10-10T07:53:16Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       (-2162.8,   -19.6,   120.6)
+  please use the item im using
+2022-10-10T07:53:19Z: PLAYER CHATTED [ 1948608825] may123slay           (-2164.8,   -19.9,    99.3)
+  Game: A watch stranger things B. What’s my little pony C. Watch yt
+2022-10-10T07:53:31Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2173.7,   -17.3,    92.6)
+  A, B, and C at the same time.
+2022-10-10T07:53:32Z: PLAYER CHATTED [  460979220] Flaming_Legendz      (-2165.9,   -19.5,    86.2)
+  /I CHOOSE C
+2022-10-10T07:53:36Z: PLAYER CHATTED [ 1948608825] may123slay           (-2164.8,   -19.9,    99.3)
+  C
+2022-10-10T07:53:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2173.7,   -17.3,    92.6)
+  Picture-in-picture.
+2022-10-10T07:53:40Z: PLAYER CHATTED [  460979220] Flaming_Legendz      (-2165.8,   -19.5,    95.5)
+  LETS WATCH KREW
+2022-10-10T07:53:45Z: PLAYER CHATTED [ 1948608825] may123slay           (-2164.8,   -19.9,    99.3)
+  Yaassss
+2022-10-10T07:53:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2174.0,   -17.3,    90.3)
+  On YT,
+2022-10-10T07:53:51Z: PLAYER CHATTED [  460979220] Flaming_Legendz      (-2165.8,   -19.5,    95.5)
+  YASSSSSSSSSSSSSSSSSSSSSS
+2022-10-10T07:53:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2174.0,   -17.3,    90.3)
+  We will watch my channel.
+2022-10-10T07:53:58Z: PLAYER CHATTED [ 1948608825] may123slay           (-2164.8,   -19.9,    99.3)
+  A. Knew SELECTED!
+2022-10-10T07:53:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2174.0,   -17.3,    90.3)
+  Okey?
+2022-10-10T07:54:06Z: PLAYER CHATTED [  460979220] Flaming_Legendz      (-2162.2,   -19.9,    96.8)
+  KREW SELECTED
+2022-10-10T07:54:16Z: PLAYER CHATTED [  460979220] Flaming_Legendz      (-2162.2,   -19.9,    96.8)
+  brb my mothers calling ####
+2022-10-10T07:54:49Z: PLAYER CHATTED [ 1948608825] may123slay           (-2164.8,   -19.9,    99.3)
+  GAME: A. Skip add B. Watch ## of Alex form ########## master C wait for add to finish
+2022-10-10T07:54:55Z: PLAYER CHATTED [ 1948608825] may123slay           (-2164.8,   -19.9,    99.3)
+  A.
+2022-10-10T07:55:32Z: PLAYER CHATTED [ 1948608825] may123slay           (-2164.8,   -19.9,    99.3)
+  Stop with the taser
+2022-10-10T07:56:08Z: PLAYER CHATTED [ 2664405669] pinkispaw           
+  katy
+2022-10-10T07:56:20Z: PLAYER REMOVED [ 2240115632] czxvxe4
+2022-10-10T07:56:22Z: PLAYER CHATTED [ 1948608825] may123slay           (-2164.8,   -19.9,    99.3)
+  Im bored
+2022-10-10T07:56:27Z: PLAYER CHATTED [ 1948608825] may123slay           (-2164.8,   -19.9,    99.3)
+  T or d
+2022-10-10T07:56:35Z: PLAYER CHATTED [ 2664405669] pinkispaw           
+  d
+2022-10-10T07:56:37Z: PLAYER ADDED   [ 3880546911] Shlayko
+2022-10-10T07:56:38Z: PLAYER CHATTED [ 1948608825] may123slay           (-2164.8,   -19.9,    99.3)
+  Makes
+2022-10-10T07:56:43Z: PLAYER CHATTED [ 1948608825] may123slay           (-2164.8,   -19.9,    99.3)
+  ###
+2022-10-10T07:56:51Z: PLAYER CHATTED [ 1948608825] may123slay           (-2164.8,   -19.9,    99.3)
+  T or d maks 
+2022-10-10T07:56:52Z: PLAYER CHATTED [ 3880546911] Shlayko              (-2210.1,   -19.3,   157.0)
+  Wow
+2022-10-10T07:56:59Z: PLAYER CHATTED [  317702415] Crcsqent             (-2190.5,   -19.7,   194.6)
+  .'
+2022-10-10T07:56:59Z: PLAYER CHATTED [  460979220] Flaming_Legendz      (-2162.2,   -19.9,    96.8)
+  BACKKK
+2022-10-10T07:57:04Z: PLAYER CHATTED [ 1948608825] may123slay           (-2164.8,   -19.9,    99.3)
+  Bruh
+2022-10-10T07:57:04Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       (-2170.8,   -18.7,   122.9)
+  hi
+2022-10-10T07:57:09Z: PLAYER CHATTED [ 3880546911] Shlayko              (-2178.6,   -19.6,   128.2)
+  Hello!
+2022-10-10T07:57:11Z: PLAYER CHATTED [  460979220] Flaming_Legendz      (-2162.2,   -19.9,    96.8)
+  krew-
+2022-10-10T07:57:13Z: PLAYER CHATTED [ 1948608825] may123slay           (-2164.8,   -19.9,    99.3)
+  T or d Mia
+2022-10-10T07:57:16Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       (-2176.6,   -19.6,   125.6)
+  please use the item im using
+2022-10-10T07:57:20Z: PLAYER CHATTED [  460979220] Flaming_Legendz      (-2162.2,   -19.9,    96.8)
+  are we still watching krew?
+2022-10-10T07:57:22Z: PLAYER CHATTED [ 3880546911] Shlayko              (-2178.6,   -19.6,   128.2)
+  Ok
+2022-10-10T07:57:26Z: PLAYER CHATTED [  460979220] Flaming_Legendz      (-2162.2,   -19.9,    96.8)
+  oh T
+2022-10-10T07:57:26Z: PLAYER CHATTED [  317702415] Crcsqent             (-2227.7,   -19.7,   172.9)
+  bros exploiting
+2022-10-10T07:57:27Z: PLAYER CHATTED [ 1948608825] may123slay           (-2164.8,   -19.9,    99.3)
+  Yeah
+2022-10-10T07:57:28Z: PLAYER CHATTED [  317702415] Crcsqent             (-2227.7,   -19.7,   172.9)
+  crazy
+2022-10-10T07:57:34Z: PLAYER CHATTED [  460979220] Flaming_Legendz      (-2162.2,   -19.9,    96.8)
+  I pick T
+2022-10-10T07:57:38Z: PLAYER CHATTED [ 3880546911] Shlayko              (-2183.8,   -19.6,   129.1)
+  I did it
+2022-10-10T07:57:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2196.5,   -17.4,   157.2)
+  I can't say no.
+2022-10-10T07:57:39Z: PLAYER ADDED   [ 3615780267] menace61_10
+2022-10-10T07:57:40Z: PLAYER REMOVED [ 1406531769] czxvxe
+2022-10-10T07:57:43Z: PLAYER CHATTED [  317702415] Crcsqent             (-2207.6,   -19.7,   143.3)
+  lol
+2022-10-10T07:57:45Z: PLAYER CHATTED [  317702415] Crcsqent             (-2212.3,   -19.4,   162.5)
+  hold on
+2022-10-10T07:57:51Z: PLAYER CHATTED [  317702415] Crcsqent             (-2209.0,   -19.7,   148.9)
+  ur exploiting on mobile?
+2022-10-10T07:57:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2201.9,   -17.4,   150.7)
+  On PC.
+2022-10-10T07:58:00Z: PLAYER CHATTED [  317702415] Crcsqent             (-2211.7,   -19.7,   143.0)
+  on i was finna say
+2022-10-10T07:58:03Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2203.9,   -17.4,   148.7)
+  I make all my own scripts.
+2022-10-10T07:58:04Z: PLAYER REMOVED [ 3880546911] Shlayko
+2022-10-10T07:58:04Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       (-2205.5,   -19.3,   161.5)
+  hi
+2022-10-10T07:58:07Z: PLAYER CHATTED [  317702415] Crcsqent             (-2199.7,   -14.0,   134.9)
+  cool
+2022-10-10T07:58:09Z: PLAYER CHATTED [ 1948608825] may123slay           (-2164.8,   -19.9,    99.3)
+  Is it true u haven’t remembered at least one of flicker characters names?
+2022-10-10T07:58:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2198.7,   -11.8,   137.6)
+  Thanks!
+2022-10-10T07:58:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2199.0,   -11.8,   137.7)
+  What do you do?
+2022-10-10T07:58:23Z: PLAYER CHATTED [  317702415] Crcsqent             (-2199.8,   -14.0,   130.0)
+  uhh
+2022-10-10T07:58:27Z: PLAYER CHATTED [  317702415] Crcsqent             (-2199.8,   -14.0,   130.0)
+  i used to exploit
+2022-10-10T07:58:29Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       (-2211.0,   -19.3,   153.2)
+  hi
+2022-10-10T07:58:30Z: PLAYER CHATTED [  317702415] Crcsqent             (-2199.8,   -14.0,   130.0)
+  but i stopped
+2022-10-10T07:58:34Z: PLAYER CHATTED [ 3615780267] menace61_10          (-2209.5,   -19.5,   156.6)
+  hi
+2022-10-10T07:58:39Z: PLAYER CHATTED [  460979220] Flaming_Legendz      (-2162.2,   -19.9,    96.8)
+  Uhm- I remember Veronica.. I think? and flicker updated so theres no more random names.
+2022-10-10T07:58:41Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       (-2211.0,   -19.3,   153.2)
+  please use the item im using.
+2022-10-10T07:58:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2199.1,   -11.8,   136.8)
+  Hear that.
+2022-10-10T07:58:51Z: PLAYER CHATTED [  317702415] Crcsqent             (-2199.8,   -14.0,   130.0)
+  no
+2022-10-10T07:58:55Z: PLAYER CHATTED [ 1948608825] may123slay           (-2164.8,   -19.9,    99.3)
+  Okl’ in tor d
+2022-10-10T07:59:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2199.1,   -11.8,   136.8)
+  Yes.
+2022-10-10T07:59:06Z: PLAYER CHATTED [ 1948608825] may123slay           (-2164.8,   -19.9,    99.3)
+  Nin*
+2022-10-10T07:59:10Z: PLAYER CHATTED [ 2664405669] pinkispaw            (-2169.3,   -20.1,    99.1)
+  d
+2022-10-10T07:59:10Z: PLAYER CHATTED [ 3615780267] menace61_10          (-2209.5,   -19.5,   156.6)
+  y?
+2022-10-10T07:59:12Z: PLAYER CHATTED [  317702415] Crcsqent             (-2199.8,   -14.0,   130.0)
+  maybe its client sided
+2022-10-10T07:59:14Z: PLAYER CHATTED [  317702415] Crcsqent             (-2199.8,   -14.0,   130.0)
+  i cant hear it
+2022-10-10T07:59:19Z: PLAYER CHATTED [  317702415] Crcsqent             (-2199.8,   -14.0,   130.0)
+  shes telling u your role
+2022-10-10T07:59:28Z: PLAYER CHATTED [ 1948608825] may123slay           (-2164.8,   -19.9,    99.3)
+  I dare u to sit in the fire for 20 secs
+2022-10-10T07:59:29Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2199.1,   -11.8,   136.8)
+  'Hear that' is another way to say that I got it.
+2022-10-10T07:59:30Z: PLAYER CHATTED [ 3615780267] menace61_10          (-2209.5,   -19.5,   156.6)
+  o
+2022-10-10T07:59:35Z: PLAYER CHATTED [  317702415] Crcsqent             (-2199.8,   -14.0,   129.3)
+  ohhh.
+2022-10-10T07:59:35Z: PLAYER CHATTED [ 2664405669] pinkispaw            (-2169.3,   -20.1,    99.1)
+  ok
+2022-10-10T07:59:43Z: PLAYER CHATTED [  460979220] Flaming_Legendz      (-2162.2,   -19.9,    96.8)
+  uhm
+2022-10-10T07:59:49Z: PLAYER CHATTED [  460979220] Flaming_Legendz      (-2162.2,   -19.9,    96.8)
+  is this humanly ok?
+2022-10-10T07:59:50Z: PLAYER CHATTED [ 2664405669] pinkispaw           
+  I CAN"T GO IN-
+2022-10-10T07:59:58Z: PLAYER ADDED   [ 3797315926] toes4lifehehe
+2022-10-10T07:59:59Z: PLAYER CHATTED [ 2664405669] pinkispaw           
+  AHH
+2022-10-10T08:00:00Z: CHRCTER ADDED  [ 2664405669] pinkispaw           
+2022-10-10T08:00:13Z: PLAYER CHATTED [ 2664405669] pinkispaw            (-2169.8,   -20.5,   106.3)
+  some hackers-
+2022-10-10T08:00:17Z: PLAYER CHATTED [ 1948608825] may123slay           (-2164.8,   -19.9,    99.3)
+  7 including u
+2022-10-10T08:00:20Z: PLAYER CHATTED [  317702415] Crcsqent             (-2199.7,   -14.0,   133.2)
+  nah not hackers
+2022-10-10T08:00:22Z: PLAYER CHATTED [  317702415] Crcsqent             (-2199.7,   -14.0,   133.2)
+  exploiters
+2022-10-10T08:00:28Z: PLAYER CHATTED [  317702415] Crcsqent             (-2173.0,   -19.5,    96.4)
+  remember that
+2022-10-10T08:00:28Z: PLAYER CHATTED [ 2664405669] pinkispaw            (-2169.6,   -20.3,    89.9)
+  oh
+2022-10-10T08:00:29Z: PLAYER CHATTED [ 3797315926] toes4lifehehe        (-2176.6,   -19.9,   143.3)
+  hi!
+2022-10-10T08:00:31Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2158.9,   -17.4,   100.8)
+  Where's Pinki?
+2022-10-10T08:00:34Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       (-2172.0,   -19.6,   142.3)
+  hi
+2022-10-10T08:00:37Z: PLAYER CHATTED [ 1948608825] may123slay           (-2164.8,   -18.7,    99.3)
+  Near
+2022-10-10T08:00:38Z: PLAYER CHATTED [ 3797315926] toes4lifehehe        (-2174.7,   -19.9,   140.9)
+  can i join?
+2022-10-10T08:00:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2162.4,   -17.3,    90.4)
+  Mever mind.
+2022-10-10T08:00:47Z: PLAYER CHATTED [ 2664405669] pinkispaw            (-2155.1,   -20.5,   106.1)
+  DON'T #### ## ### PLS
+2022-10-10T08:00:48Z: PLAYER CHATTED [ 3615780267] menace61_10          (-2164.8,   -19.7,    99.3)
+  oh sorryyy
+2022-10-10T08:00:52Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       (-2173.3,   -19.6,   142.6)
+  please use the item im using so that u can join
+2022-10-10T08:00:52Z: PLAYER CHATTED [  317702415] Crcsqent             (-2165.9,   -19.3,    86.2)
+  hacking is like
+2022-10-10T08:00:56Z: PLAYER CHATTED [ 1948608825] may123slay           (-2165.9,   -19.0,    99.8)
+  Yeah
+2022-10-10T08:00:57Z: PLAYER CHATTED [ 3797315926] toes4lifehehe        (-2174.7,   -19.9,   140.9)
+  okkk
+2022-10-10T08:00:59Z: PLAYER CHATTED [  317702415] Crcsqent             (-2165.9,   -19.3,    86.2)
+  well
+2022-10-10T08:00:59Z: PLAYER CHATTED [ 3615780267] menace61_10          (-2164.8,   -19.7,    99.3)
+  accident 
+2022-10-10T08:01:05Z: PLAYER CHATTED [  317702415] Crcsqent             (-2165.9,   -19.3,    86.2)
+  its differe nt from exploiting
+2022-10-10T08:01:11Z: PLAYER CHATTED [  317702415] Crcsqent             (-2165.9,   -19.3,    86.2)
+  all i know really
+2022-10-10T08:01:22Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2160.5,   -17.4,    90.6)
+  Hacking and epxloiting are different yet the same.
+2022-10-10T08:01:23Z: PLAYER CHATTED [ 2664405669] pinkispaw            (-2167.8,   -20.3,    94.4)
+  HOW CAN YOU EXPLOITING?
+2022-10-10T08:01:35Z: PLAYER CHATTED [ 1948608825] may123slay           (-2164.8,   -19.9,    99.3)
+  Thanks 
+2022-10-10T08:01:40Z: PLAYER CHATTED [  317702415] Crcsqent             (-2165.9,   -19.3,    86.2)
+  yeah different and the same
+2022-10-10T08:01:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2160.5,   -17.4,    90.6)
+  Hacking means circumventing tech systems in creative ways.
+2022-10-10T08:01:52Z: PLAYER CHATTED [  317702415] Crcsqent             (-2165.9,   -19.3,    86.2)
+  NO HOST
+2022-10-10T08:01:56Z: PLAYER CHATTED [  317702415] Crcsqent             (-2165.9,   -19.3,    86.2)
+  THEIR NOT DOING ANYTHING BAD
+2022-10-10T08:02:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2160.5,   -17.4,    90.6)
+  But it also means breaking into people's accounts.
+2022-10-10T08:02:09Z: PLAYER CHATTED [ 2664405669] pinkispaw            (-2167.0,   -20.3,    89.9)
+  YUP
+2022-10-10T08:02:10Z: PLAYER CHATTED [  317702415] Crcsqent             (-2165.9,   -19.3,    86.2)
+  yeah
+2022-10-10T08:02:14Z: PLAYER CHATTED [ 1948608825] may123slay           (-2164.8,   -19.9,    99.3)
+  Is the hacker you. By any chance?
+2022-10-10T08:02:18Z: PLAYER CHATTED [  317702415] Crcsqent             (-2165.9,   -19.3,    86.2)
+  exploiting is like in a game and coding
+2022-10-10T08:02:21Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2160.5,   -17.4,    90.6)
+  Exploting is much the same as hacking in that you break a SYSTEM.
+2022-10-10T08:02:25Z: PLAYER CHATTED [  317702415] Crcsqent             (-2165.9,   -19.3,    86.2)
+  no i used to exploit though
+2022-10-10T08:02:38Z: PLAYER CHATTED [  317702415] Crcsqent             (-2165.9,   -19.3,    86.2)
+  and hacking is coding and stealing online info
+2022-10-10T08:02:38Z: PLAYER CHATTED [ 1948608825] may123slay           (-2165.4,   -20.2,    89.0)
+  Nah git trippin’
+2022-10-10T08:02:48Z: PLAYER CHATTED [  460979220] Flaming_Legendz      (-2167.0,   -19.5,    94.7)
+  uhm wuts happening? i was afk-
+2022-10-10T08:02:52Z: PLAYER CHATTED [ 1948608825] may123slay           (-2165.4,   -20.2,    89.0)
+  At least you changed ur wats!
+2022-10-10T08:02:55Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2160.5,   -17.4,    90.6)
+  In Roblox, exploting means flying, noclipping, etc.
+2022-10-10T08:03:00Z: PLAYER CHATTED [ 1948608825] may123slay           (-2165.4,   -20.2,    89.0)
+  #####
+2022-10-10T08:03:01Z: PLAYER CHATTED [  460979220] Flaming_Legendz      (-2166.4,   -19.5,    96.8)
+  uhmm
+2022-10-10T08:03:01Z: PLAYER CHATTED [  317702415] Crcsqent             (-2165.9,   -19.3,    86.2)
+  yeah
+2022-10-10T08:03:08Z: PLAYER CHATTED [ 1948608825] may123slay           (-2165.4,   -20.2,    89.0)
+  That’s good
+2022-10-10T08:03:12Z: PLAYER CHATTED [  460979220] Flaming_Legendz      (-2162.2,   -19.9,    96.8)
+  imma just watch the drama
+2022-10-10T08:03:25Z: PLAYER CHATTED [ 1948608825] may123slay           (-2164.8,   -19.9,    99.3)
+  So bored
+2022-10-10T08:03:32Z: PLAYER CHATTED [ 1948608825] may123slay           (-2164.8,   -19.9,    99.3)
+  Afk im watching ticks
+2022-10-10T08:03:49Z: PLAYER CHATTED [ 2664405669] pinkispaw            (-2158.7,   -20.5,    76.8)
+  same i am watching 
+2022-10-10T08:03:55Z: PLAYER ADDED   [ 3548288442] mayajanee65
+2022-10-10T08:04:10Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2900.0,   151.2, -1492.4)
+  /w may123slay  I AM THE MURDERER!
+2022-10-10T08:04:12Z: PLAYER CHATTED [ 3025513842] Hunny_funny133      
+  mae-
+2022-10-10T08:04:17Z: PLAYER CHATTED [ 3025513842] Hunny_funny133      
+  ur clothes-
+2022-10-10T08:04:39Z: PLAYER CHATTED [ 3025513842] Hunny_funny133      
+  omg
+2022-10-10T08:04:45Z: CHRCTER ADDED  [ 1948608825] may123slay          
+2022-10-10T08:04:45Z: CHRCTER ADDED  [    1630228] VisualPlugin        
+2022-10-10T08:04:56Z: PLAYER CHATTED [ 2664405669] pinkispaw            (-2193.1,   -20.5,   136.3)
+  AYO
+2022-10-10T08:05:02Z: PLAYER CHATTED [ 3797315926] toes4lifehehe        (-2201.4,   -19.9,   149.7)
+  BRO WHAT
+2022-10-10T08:05:03Z: PLAYER CHATTED [  317702415] Crcsqent             (-2164.4,   -19.7,   106.1)
+  with waht?
+2022-10-10T08:05:04Z: PLAYER CHATTED [  317702415] Crcsqent             (-2164.4,   -19.7,   106.1)
+  what
+2022-10-10T08:05:09Z: PLAYER CHATTED [  460979220] Flaming_Legendz      (-2145.5,    -7.7,   116.9)
+  wait i was watching YT what happened
+2022-10-10T08:05:10Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       (-2206.5,   -19.6,   145.9)
+  WHERES THERE CLOTHS
+2022-10-10T08:05:15Z: PLAYER CHATTED [ 3615780267] menace61_10          (-2222.1,   -19.8,   162.9)
+  WTH AHHH
+2022-10-10T08:05:21Z: PLAYER CHATTED [ 2664405669] pinkispaw            (-2217.0,   -20.4,   158.5)
+  THERE A BOY
+2022-10-10T08:05:22Z: CHRCTER ADDED  [  460979220] Flaming_Legendz     
+2022-10-10T08:05:25Z: PLAYER CHATTED [ 1948608825] may123slay           (-2220.1,   -20.2,   157.7)
+  Nope
+2022-10-10T08:05:25Z: PLAYER CHATTED [ 2664405669] pinkispaw            (-2215.5,   -20.5,   166.2)
+  get inside
+2022-10-10T08:05:26Z: PLAYER REMOVED [ 3548288442] mayajanee65
+2022-10-10T08:05:31Z: PLAYER CHATTED [  317702415] Crcsqent             (-2211.7,   -19.2,   168.4)
+  ?
+2022-10-10T08:05:33Z: PLAYER CHATTED [  317702415] Crcsqent             (-2211.7,   -19.2,   168.4)
+  nah
+2022-10-10T08:05:33Z: PLAYER CHATTED [  460979220] Flaming_Legendz      (-2214.2,   -19.6,   165.4)
+  BRO
+2022-10-10T08:05:33Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       (-2214.0,   -19.5,   166.3)
+  DONT SEE IT
+2022-10-10T08:05:34Z: PLAYER CHATTED [  317702415] Crcsqent             (-2211.7,   -19.2,   168.4)
+  im good
+2022-10-10T08:05:38Z: PLAYER CHATTED [ 2664405669] pinkispaw            (-2186.3,   -20.5,   157.7)
+  EWW
+2022-10-10T08:05:50Z: PLAYER ADDED   [  279343733] annxoreos
+2022-10-10T08:05:50Z: PLAYER CHATTED [  460979220] Flaming_Legendz      (-2162.2,   -19.9,    96.8)
+  cry in peaceeee
+2022-10-10T08:05:56Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       (-2164.9,   -19.6,   104.4)
+  omg
+2022-10-10T08:06:10Z: PLAYER CHATTED [ 2664405669] pinkispaw            (-2158.7,   -20.5,    76.8)
+  can we pls start now?
+2022-10-10T08:06:14Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       (-2206.6,   -19.6,   152.2)
+  hi
+2022-10-10T08:06:19Z: PLAYER CHATTED [  279343733] annxoreos            (-2210.1,   -19.0,   157.0)
+  hi
+2022-10-10T08:06:39Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       (-2208.2,   -19.3,   154.0)
+  then how much is the players?
+2022-10-10T08:06:47Z: PLAYER CHATTED [ 2664405669] pinkispaw            (-2195.6,   -20.5,   154.9)
+  9
+2022-10-10T08:06:52Z: PLAYER CHATTED [ 2664405669] pinkispaw           
+  plss
+2022-10-10T08:06:53Z: PLAYER CHATTED [ 3025513842] Hunny_funny133      
+  alos pls use the item im using
+2022-10-10T08:07:00Z: PLAYER CHATTED [ 3025513842] Hunny_funny133      
+  okay wait
+2022-10-10T08:07:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (   83.4,    22.0, -2061.9)
+  /w Hunny_funny133  MURDER MYSTERY!
+2022-10-10T08:07:18Z: CHRCTER ADDED  [ 3025513842] Hunny_funny133      
+2022-10-10T08:07:20Z: PLAYER ADDED   [ 3869769656] Jamalbinkamaludin
+2022-10-10T08:07:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2219.4,   -17.4,   193.2)
+  /w Hunny_funny133  I must be completely missing the idea!
+2022-10-10T08:07:46Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       (-2208.4,   -19.3,   161.6)
+  hi
+2022-10-10T08:07:59Z: PLAYER CHATTED [ 3869769656] Jamalbinkamaludin    (-2164.8,   -19.7,    91.3)
+  Nice house 
+2022-10-10T08:07:59Z: PLAYER CHATTED [  317702415] Crcsqent             (-2158.9,   -19.7,   103.5)
+  im banned on things like bloxburg and all that
+2022-10-10T08:08:05Z: PLAYER CHATTED [  317702415] Crcsqent             (-2151.7,   -19.7,    86.5)
+  from when i used to exploit
+2022-10-10T08:08:12Z: PLAYER CHATTED [  317702415] Crcsqent             (-2160.1,   -19.7,   103.4)
+  what do u use to execute?
+2022-10-10T08:08:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2164.9,   -17.4,   109.6)
+  I used to us JJ.
+2022-10-10T08:08:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2164.9,   -17.4,   109.6)
+  Now I made my own CLI executor.
+2022-10-10T08:08:36Z: PLAYER REMOVED [  279343733] annxoreos
+2022-10-10T08:08:40Z: PLAYER CHATTED [  317702415] Crcsqent             (-2160.9,   -19.7,   105.0)
+  #########
+2022-10-10T08:08:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2164.6,   -17.4,   110.2)
+  it uses the WRD API.
+2022-10-10T08:08:53Z: PLAYER CHATTED [ 3797315926] toes4lifehehe        (-2180.8,   -26.6,   129.1)
+  ok
+2022-10-10T08:08:56Z: CHRCTER ADDED  [ 3797315926] toes4lifehehe       
+2022-10-10T08:09:00Z: PLAYER CHATTED [  317702415] Crcsqent             (-2160.9,   -19.7,   105.0)
+  question
+2022-10-10T08:09:04Z: PLAYER CHATTED [  317702415] Crcsqent             (-2160.9,   -19.7,   105.0)
+  are u above the ### of ##
+2022-10-10T08:09:10Z: PLAYER ADDED   [ 1444070431] kirne112
+2022-10-10T08:09:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2205.0,   -17.3,   172.9)
+  22.1.
+2022-10-10T08:09:32Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 2500.3,   -39.2,  4121.5)
+  You?
+2022-10-10T08:09:37Z: PLAYER CHATTED [ 2664405669] pinkispaw           
+  it's 10 now
+2022-10-10T08:09:37Z: PLAYER CHATTED [  317702415] Crcsqent             ( 2544.2,   -90.0,  3501.2)
+  lagging
+2022-10-10T08:09:41Z: PLAYER CHATTED [  317702415] Crcsqent             ( 3247.3,   213.1,  1716.3)
+  im young lol
+2022-10-10T08:09:44Z: PLAYER CHATTED [  317702415] Crcsqent             ( 3430.4,   206.6,  -224.7)
+  only 14
+2022-10-10T08:09:54Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4261.0,    51.9,   711.1)
+  I'm old.
+2022-10-10T08:09:58Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4261.0,    51.9,   711.1)
+  I joined Roblox in 08.
+2022-10-10T08:10:05Z: PLAYER CHATTED [  317702415] Crcsqent             ( 1718.6,    51.4,  2518.3)
+  Ooo
+2022-10-10T08:10:08Z: PLAYER CHATTED [  317702415] Crcsqent             (  -71.0,    59.1,  2326.2)
+  i joined
+2022-10-10T08:10:15Z: PLAYER CHATTED [  317702415] Crcsqent             ( -385.9,   216.9,  2121.7)
+  when i was in kindergarten sooo
+2022-10-10T08:10:24Z: PLAYER CHATTED [  460979220] Flaming_Legendz      (-2162.2,   -19.9,    96.8)
+  why r we just sitting agan?
+2022-10-10T08:10:26Z: PLAYER CHATTED [ 3869769656] Jamalbinkamaludin   
+  is this act and start the horror oof
+2022-10-10T08:10:26Z: PLAYER CHATTED [  317702415] Crcsqent             (-1029.1,   812.7,   589.8)
+  uhh
+2022-10-10T08:10:33Z: PLAYER CHATTED [ 1948608825] may123slay          
+  Whe nm start
+2022-10-10T08:10:35Z: PLAYER CHATTED [  317702415] Crcsqent             ( -241.3,   612.3,  1031.3)
+  i suck at math fr
+2022-10-10T08:10:37Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -331.3,   614.5,   972.2)
+  What did you use?
+2022-10-10T08:10:37Z: PLAYER CHATTED [  460979220] Flaming_Legendz     
+  i forgot
+2022-10-10T08:10:50Z: PLAYER CHATTED [  317702415] Crcsqent             ( -287.8,   612.3,   968.2)
+  #### and synapse
+2022-10-10T08:10:52Z: PLAYER CHATTED [  460979220] Flaming_Legendz     
+  /oh breakfast- hopefully murd doesnt poison my food
+2022-10-10T08:11:02Z: PLAYER CHATTED [  317702415] Crcsqent             ( -288.7,   612.3,   968.9)
+  and i used sirhurt once
+2022-10-10T08:11:06Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -298.0,   614.6,   955.8)
+  I tried Synapse, but it wasn't much better than my solution.
+2022-10-10T08:11:08Z: PLAYER CHATTED [  317702415] Crcsqent             ( -288.7,   612.3,   968.9)
+  then gave it to my friend
+2022-10-10T08:11:11Z: PLAYER CHATTED [  460979220] Flaming_Legendz     
+  taco taco taco
+2022-10-10T08:11:13Z: PLAYER CHATTED [ 3869769656] Jamalbinkamaludin   
+  hi
+2022-10-10T08:11:20Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -289.0,   614.5,   963.9)
+  I received a copy of Synapse from a mate.
+2022-10-10T08:11:21Z: PLAYER CHATTED [  317702415] Crcsqent             ( -290.8,   612.3,   971.6)
+  so yours can basically run more things than synapse?
+2022-10-10T08:11:23Z: PLAYER CHATTED [ 2664405669] pinkispaw           
+  hello
+2022-10-10T08:11:24Z: PLAYER CHATTED [  460979220] Flaming_Legendz     
+  and i need milk
+2022-10-10T08:11:27Z: PLAYER CHATTED [ 3869769656] Jamalbinkamaludin   
+  can u be my friend?
+2022-10-10T08:11:33Z: PLAYER CHATTED [  317702415] Crcsqent             ( -293.0,   612.3,   973.4)
+  and less detectable?
+2022-10-10T08:11:33Z: PLAYER CHATTED [ 2664405669] pinkispaw           
+  ofc
+2022-10-10T08:11:35Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -289.0,   614.5,   963.9)
+  Everything JJ can run: mine can.
+2022-10-10T08:11:35Z: PLAYER CHATTED [  460979220] Flaming_Legendz     
+  NOBODY POICON OR TAKE ME TACO
+2022-10-10T08:11:41Z: PLAYER CHATTED [ 3869769656] Jamalbinkamaludin   
+  yay
+2022-10-10T08:11:42Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -289.0,   614.5,   963.9)
+  That means no fireclickdetector.
+2022-10-10T08:11:46Z: PLAYER CHATTED [  317702415] Crcsqent             ( -293.0,   612.3,   973.4)
+  what is JJ?
+2022-10-10T08:11:49Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -289.0,   614.5,   963.9)
+  No saveinstance.
+2022-10-10T08:11:52Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -288.3,   614.5,   967.3)
+  JJSploit.
+2022-10-10T08:11:55Z: PLAYER CHATTED [  317702415] Crcsqent             ( -285.0,   612.3,   974.2)
+  ah
+2022-10-10T08:11:58Z: PLAYER CHATTED [ 3869769656] Jamalbinkamaludin   
+  am I using a chlothe
+2022-10-10T08:12:03Z: PLAYER CHATTED [ 3869769656] Jamalbinkamaludin   
+  cloth
+2022-10-10T08:12:04Z: PLAYER CHATTED [ 2664405669] pinkispaw           
+  oh ok
+2022-10-10T08:12:05Z: PLAYER CHATTED [  460979220] Flaming_Legendz     
+  delicious taco
+2022-10-10T08:12:05Z: PLAYER CHATTED [  317702415] Crcsqent             ( -278.1,   612.3,   969.2)
+  thought it was a virus?
+2022-10-10T08:12:19Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -284.9,   614.5,   968.2)
+  I have looked through the available source.
+2022-10-10T08:12:26Z: PLAYER CHATTED [ 3869769656] Jamalbinkamaludin   
+  nin
+2022-10-10T08:12:27Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -279.7,   614.5,   966.0)
+  No evidence of crypto mining.
+2022-10-10T08:12:29Z: PLAYER CHATTED [ 3797315926] toes4lifehehe       
+  wait have we started?
+2022-10-10T08:12:32Z: PLAYER CHATTED [ 2664405669] pinkispaw           
+  ####
+2022-10-10T08:12:32Z: PLAYER CHATTED [ 3797315926] toes4lifehehe       
+  lol
+2022-10-10T08:12:36Z: PLAYER CHATTED [ 2664405669] pinkispaw           
+  yes?
+2022-10-10T08:12:37Z: PLAYER CHATTED [  317702415] Crcsqent             ( -279.1,   612.3,   959.9)
+  oh.
+2022-10-10T08:12:44Z: PLAYER CHATTED [ 1948608825] may123slay          
+  We start?
+2022-10-10T08:12:49Z: PLAYER CHATTED [  317702415] Crcsqent             ( -268.3,   612.3,   966.0)
+  ive been playing
+2022-10-10T08:12:52Z: PLAYER CHATTED [  317702415] Crcsqent             ( -268.3,   612.3,   966.0)
+  roblox for 11 years
+2022-10-10T08:12:55Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -279.7,   614.5,   966.0)
+  Synapse does not have an API to make third-party exploit tools.
+2022-10-10T08:12:55Z: PLAYER CHATTED [ 1948608825] may123slay          
+  Ok’
+2022-10-10T08:12:58Z: PLAYER CHATTED [ 3869769656] Jamalbinkamaludin   
+  am I using a clothes 
+2022-10-10T08:12:59Z: PLAYER CHATTED [  317702415] Crcsqent             ( -271.2,   612.3,   953.9)
+  so when i was 3
+2022-10-10T08:12:59Z: PLAYER CHATTED [ 3797315926] toes4lifehehe       
+  ok
+2022-10-10T08:13:00Z: PLAYER CHATTED [  317702415] Crcsqent             ( -271.2,   612.3,   953.9)
+  hold on
+2022-10-10T08:13:01Z: PLAYER CHATTED [  317702415] Crcsqent             ( -271.2,   612.3,   953.9)
+  nah
+2022-10-10T08:13:03Z: PLAYER CHATTED [  317702415] Crcsqent             ( -271.2,   612.3,   953.9)
+  im slow
+2022-10-10T08:13:04Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -272.9,   614.6,   960.3)
+  Ó.Ò
+2022-10-10T08:13:06Z: PLAYER CHATTED [  317702415] Crcsqent             ( -271.2,   612.3,   953.9)
+  i was 5 i remember
+2022-10-10T08:13:06Z: PLAYER CHATTED [  460979220] Flaming_Legendz     
+  LETS GO SWIMMINGGG
+2022-10-10T08:13:09Z: PLAYER CHATTED [  317702415] Crcsqent             ( -271.2,   612.3,   953.9)
+  soo
+2022-10-10T08:13:12Z: PLAYER ADDED   [  138253251] ItsJeremy32
+2022-10-10T08:13:12Z: PLAYER CHATTED [ 2664405669] pinkispaw           
+  ok
+2022-10-10T08:13:12Z: PLAYER CHATTED [  317702415] Crcsqent             ( -271.2,   612.3,   953.9)
+  i was in
+2022-10-10T08:13:14Z: PLAYER CHATTED [  460979220] Flaming_Legendz     
+  unless you cant swim
+2022-10-10T08:13:17Z: PLAYER CHATTED [  317702415] Crcsqent             ( -271.2,   612.3,   953.9)
+  kindergarten
+2022-10-10T08:13:19Z: PLAYER CHATTED [  317702415] Crcsqent             ( -271.2,   612.3,   953.9)
+  yeah
+2022-10-10T08:13:19Z: PLAYER CHATTED [ 3869769656] Jamalbinkamaludin   
+  wear,?
+2022-10-10T08:13:25Z: PLAYER CHATTED [  317702415] Crcsqent             ( -271.2,   612.3,   953.9)
+  am i really slow?
+2022-10-10T08:13:31Z: PLAYER CHATTED [  317702415] Crcsqent             ( -251.6,   612.3,   959.4)
+  idk 
+2022-10-10T08:13:32Z: PLAYER CHATTED [ 3869769656] Jamalbinkamaludin   
+  am I wear a clothes
+2022-10-10T08:13:33Z: PLAYER CHATTED [  460979220] Flaming_Legendz     
+  IM WEARINGMY BEST RAINBOW CARDIGON BUT I DONT CARE
+2022-10-10T08:13:35Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -246.8,   614.5,   964.2)
+  No.  You're not.
+2022-10-10T08:13:44Z: PLAYER CHATTED [  317702415] Crcsqent             ( -229.0,   -19.5,   961.4)
+  i fell
+2022-10-10T08:13:45Z: PLAYER CHATTED [ 3869769656] Jamalbinkamaludin   
+  huh?
+2022-10-10T08:14:01Z: PLAYER CHATTED [ 3025513842] Hunny_funny133      
+  oof
+2022-10-10T08:14:06Z: PLAYER CHATTED [ 3025513842] Hunny_funny133      
+  secret base
+2022-10-10T08:14:14Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -684.4,   472.9,  2047.0)
+  Difference between my executor and yours:
+2022-10-10T08:14:16Z: PLAYER CHATTED [  460979220] Flaming_Legendz     
+  oh gee- it connects to the entire houses sewage system too
+2022-10-10T08:14:17Z: PLAYER CHATTED [  317702415] Crcsqent             ( -685.0,   473.6,  2047.7)
+  so your executor cant be detected?
+2022-10-10T08:14:24Z: PLAYER REMOVED [ 1444070431] kirne112
+2022-10-10T08:14:33Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -684.4,   472.9,  2047.0)
+  That isn't as important of a question.
+2022-10-10T08:14:54Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -684.4,   472.9,  2047.0)
+  My real issue is usability.
+2022-10-10T08:15:04Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -684.4,   472.9,  2047.0)
+  If I want to fly, I type in 'fly' then enter.
+2022-10-10T08:15:07Z: PLAYER ADDED   [ 2239474910] iplaygameeessss
+2022-10-10T08:15:28Z: PLAYER CHATTED [  460979220] Flaming_Legendz     
+  AY LOOK EVERYBODY! IM ON THE ROOF
+2022-10-10T08:15:30Z: PLAYER REMOVED [ 2239474910] iplaygameeessss
+2022-10-10T08:15:34Z: PLAYER CHATTED [  460979220] Flaming_Legendz     
+  nvm they went inside.
+2022-10-10T08:15:37Z: PLAYER CHATTED [ 2664405669] pinkispaw           
+  i am sleeply i just go to bed
+2022-10-10T08:15:37Z: PLAYER CHATTED [ 3797315926] toes4lifehehe       
+  i’m on the tree
+2022-10-10T08:15:38Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -684.4,   472.9,  2047.0)
+  If I want to carry someone, I write a script then call "PLACE 'carry' "{NAME PREFIX}""
+2022-10-10T08:15:48Z: CHRCTER ADDED  [ 3615780267] menace61_10         
+2022-10-10T08:15:49Z: PLAYER CHATTED [  317702415] Crcsqent             ( -692.0,   473.6,  2125.9)
+  wait
+2022-10-10T08:15:53Z: PLAYER CHATTED [  317702415] Crcsqent             ( -692.0,   473.6,  2125.9)
+  like in coding?
+2022-10-10T08:15:56Z: PLAYER CHATTED [  317702415] Crcsqent             ( -691.9,   473.7,  2125.8)
+  u type in fly
+2022-10-10T08:15:57Z: PLAYER CHATTED [  317702415] Crcsqent             ( -691.9,   473.7,  2125.8)
+  ?
+2022-10-10T08:15:59Z: PLAYER CHATTED [  317702415] Crcsqent             ( -691.9,   473.7,  2125.8)
+  or in the chat
+2022-10-10T08:16:04Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -692.1,   472.9,  2126.8)
+  In my command terminal.
+2022-10-10T08:16:04Z: PLAYER CHATTED [ 2664405669] pinkispaw           
+  *sleepsw*
+2022-10-10T08:16:09Z: PLAYER CHATTED [  317702415] Crcsqent             ( -698.2,   473.7,  2113.9)
+  ah
+2022-10-10T08:16:12Z: PLAYER ADDED   [ 3548288442] mayajanee65
+2022-10-10T08:16:18Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -698.2,   472.9,  2114.9)
+  The chat is a honeypot.
+2022-10-10T08:16:31Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -681.4,   472.9,  2090.8)
+  People can get banned for saying ':fly'.
+2022-10-10T08:16:32Z: PLAYER CHATTED [ 3797315926] toes4lifehehe       
+  huh
+2022-10-10T08:16:37Z: PLAYER CHATTED [  460979220] Flaming_Legendz     
+  GIVE CUPCAKE
+2022-10-10T08:16:45Z: PLAYER CHATTED [ 1948608825] may123slay          
+  Oop-
+2022-10-10T08:16:47Z: PLAYER CHATTED [ 3797315926] toes4lifehehe       
+  i wanna eat it!
+2022-10-10T08:16:52Z: PLAYER CHATTED [  317702415] Crcsqent             ( -309.7,   615.4,   933.9)
+  yeah
+2022-10-10T08:16:55Z: PLAYER CHATTED [ 3797315926] toes4lifehehe       
+  wait what
+2022-10-10T08:16:55Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -310.1,   614.5,   933.1)
+  If I want to teleport to someone,
+2022-10-10T08:16:57Z: PLAYER CHATTED [  460979220] Flaming_Legendz     
+  WHERE
+2022-10-10T08:17:02Z: PLAYER REMOVED [ 3548288442] mayajanee65
+2022-10-10T08:17:05Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -310.1,   614.6,   933.1)
+  I type in "tele-plr "{PREFIX
+2022-10-10T08:17:13Z: PLAYER CHATTED [  460979220] Flaming_Legendz     
+  CUPCAKE OFFICIUALLY STOLEN
+2022-10-10T08:17:17Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -310.1,   614.6,   933.1)
+  "tele-plr %s"
+2022-10-10T08:17:18Z: PLAYER CHATTED [ 3797315926] toes4lifehehe       
+  NOO
+2022-10-10T08:17:19Z: PLAYER CHATTED [ 3615780267] menace61_10         
+  ':fly'.
+2022-10-10T08:17:22Z: PLAYER CHATTED [  317702415] Crcsqent             ( -309.7,   615.4,   933.9)
+  tp to me
+2022-10-10T08:17:23Z: PLAYER CHATTED [  460979220] Flaming_Legendz     
+  YASSSSSSSSSSS
+2022-10-10T08:17:39Z: PLAYER CHATTED [  317702415] Crcsqent             ( -299.5,   612.3,   990.1)
+  cool
+2022-10-10T08:17:39Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -304.6,   614.5,   988.1)
+  "tele-plr 'Crc'"
+2022-10-10T08:17:39Z: PLAYER CHATTED [ 3615780267] menace61_10         
+  *slaps*
+2022-10-10T08:17:39Z: PLAYER CHATTED [ 2664405669] pinkispaw           
+  *wakes up*
+2022-10-10T08:17:44Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -293.1,   614.5,   966.7)
+  tele-plr 'Crc'
+2022-10-10T08:17:50Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -296.4,   614.6,   968.7)
+  tele-plr '...'
+2022-10-10T08:17:54Z: PLAYER CHATTED [ 3615780267] menace61_10         
+  that was rude
+2022-10-10T08:17:54Z: PLAYER CHATTED [  317702415] Crcsqent             ( -302.0,   612.3,   969.8)
+  ngl idk if any of my pcs could run alot of things
+2022-10-10T08:17:56Z: PLAYER CHATTED [  460979220] Flaming_Legendz     
+  #IDontCareAndYoullNeverGetItBackUWU
+2022-10-10T08:17:59Z: PLAYER CHATTED [  317702415] Crcsqent             ( -304.9,   612.3,   981.0)
+  like that
+2022-10-10T08:18:00Z: PLAYER CHATTED [ 1948608825] may123slay          
+  Hey no fighting
+2022-10-10T08:18:03Z: PLAYER CHATTED [  460979220] Flaming_Legendz     
+  jk here
+2022-10-10T08:18:13Z: PLAYER CHATTED [  317702415] Crcsqent             ( -308.2,   612.3,   978.9)
+  my pc cant even run fortnite and my laptop cant run it either
+2022-10-10T08:18:15Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -306.3,   614.5,   970.2)
+  My teleport script goes through walls and ceilings.
+2022-10-10T08:18:22Z: PLAYER CHATTED [  317702415] Crcsqent             ( -305.1,   612.3,   977.7)
+  ah
+2022-10-10T08:18:27Z: PLAYER CHATTED [ 1948608825] may123slay          
+  Cans everyone go get a bored game of there choice from upstairs
+2022-10-10T08:18:41Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -303.4,   614.5,   971.9)
+  Most 'scripts' you get clutter the screen with GUIs.
+2022-10-10T08:18:41Z: PLAYER CHATTED [  460979220] Flaming_Legendz     
+  ILL GO GET CLUEDO
+2022-10-10T08:18:44Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -303.4,   614.5,   971.9)
+  Mine do not.
+2022-10-10T08:18:44Z: PLAYER CHATTED [ 3797315926] toes4lifehehe       
+  ok
+2022-10-10T08:18:52Z: PLAYER CHATTED [  317702415] Crcsqent             ( -303.8,   612.3,   980.2)
+  oh
+2022-10-10T08:18:53Z: PLAYER CHATTED [ 1948608825] may123slay          
+  Hakka go p[lease
+2022-10-10T08:18:58Z: PLAYER CHATTED [  317702415] Crcsqent             ( -303.8,   612.3,   980.2)
+  yeah they do get cluttered
+2022-10-10T08:18:59Z: PLAYER CHATTED [  317702415] Crcsqent             ( -303.8,   612.3,   980.2)
+  lol
+2022-10-10T08:19:02Z: PLAYER CHATTED [ 1948608825] may123slay          
+  ###############
+2022-10-10T08:19:11Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -303.4,   614.5,   971.9)
+  Instead of Dex,
+2022-10-10T08:19:18Z: PLAYER CHATTED [ 2664405669] pinkispaw           
+  what is that?
+2022-10-10T08:19:20Z: PLAYER CHATTED [  460979220] Flaming_Legendz     
+  this is a cluedo gameboard trust
+2022-10-10T08:19:23Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -303.4,   614.5,   971.9)
+  I run my 'tree' function multiple times.
+2022-10-10T08:19:28Z: PLAYER CHATTED [ 2664405669] pinkispaw           
+  lets play
+2022-10-10T08:19:29Z: PLAYER CHATTED [ 1948608825] may123slay          
+  Jeremery go
+2022-10-10T08:19:38Z: PLAYER CHATTED [  460979220] Flaming_Legendz      (-2133.4,    -7.5,   100.9)
+  IVE GOT A GAMEBOARD FOR CLUEDO
+2022-10-10T08:19:39Z: PLAYER CHATTED [  138253251] ItsJeremy32          (-2165.9,    -7.6,   100.5)
+  bruh
+2022-10-10T08:19:44Z: PLAYER CHATTED [  317702415] Crcsqent             (-2135.5,   -26.8,    98.1)
+  woah
+2022-10-10T08:19:48Z: PLAYER CHATTED [ 1948608825] may123slay           (-2164.5,   -20.3,   112.7)
+  Upstairs please
+2022-10-10T08:19:49Z: PLAYER CHATTED [  460979220] Flaming_Legendz      (-2130.9,    -7.7,    96.3)
+  WHO WANNA PLAY CLUEDO?!
+2022-10-10T08:19:53Z: PLAYER CHATTED [ 3797315926] toes4lifehehe        (-2132.8,    -7.7,    99.0)
+  I DO
+2022-10-10T08:19:59Z: PLAYER CHATTED [ 2664405669] pinkispaw            (-2135.2,    -7.7,    97.3)
+  how did you get that?
+2022-10-10T08:20:02Z: CHRCTER ADDED  [  317702415] Crcsqent            
+2022-10-10T08:20:10Z: PLAYER CHATTED [  460979220] Flaming_Legendz      (-2130.9,    -7.7,    96.3)
+  #### -sets down game and starts preparing it-
+2022-10-10T08:20:12Z: CHRCTER ADDED  [ 1948608825] may123slay          
+2022-10-10T08:20:14Z: PLAYER CHATTED [  317702415] Crcsqent             (-2194.8,   -19.7,   163.6)
+  lol theres someone glitched
+2022-10-10T08:20:24Z: PLAYER CHATTED [  460979220] Flaming_Legendz      (-2130.9,    -7.7,    96.3)
+  Cluedo~ cluedo~
+2022-10-10T08:20:27Z: PLAYER CHATTED [  460979220] Flaming_Legendz      (-2130.9,    -7.7,    96.3)
+  A
+2022-10-10T08:20:30Z: PLAYER CHATTED [ 3797315926] toes4lifehehe        (-2132.3,    -7.7,    99.4)
+  A
+2022-10-10T08:20:33Z: PLAYER CHATTED [ 2664405669] pinkispaw           
+  b
+2022-10-10T08:20:33Z: PLAYER CHATTED [ 1948608825] may123slay          
+  Everyone upstairs at this time
+2022-10-10T08:20:35Z: PLAYER CHATTED [  460979220] Flaming_Legendz     
+  Ive already set it up anyways
+2022-10-10T08:20:36Z: PLAYER CHATTED [ 3615780267] menace61_10          (-2133.4,    -7.2,   100.9)
+  B
+2022-10-10T08:20:38Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -783.1,   472.9,  2089.0)
+  I think I glitched as well.
+2022-10-10T08:20:41Z: PLAYER CHATTED [  460979220] Flaming_Legendz     
+  WHO SIAD B
+2022-10-10T08:20:43Z: PLAYER CHATTED [ 2664405669] pinkispaw           
+  me
+2022-10-10T08:20:45Z: PLAYER CHATTED [  317702415] Crcsqent             ( -774.3,   470.6,  2094.4)
+  my pc cant run alot of other games
+2022-10-10T08:20:48Z: PLAYER CHATTED [  317702415] Crcsqent             ( -772.6,   470.6,  2096.0)
+  on roblox
+2022-10-10T08:20:51Z: PLAYER CHATTED [ 3797315926] toes4lifehehe       
+  actually i’m sorry
+2022-10-10T08:20:55Z: PLAYER CHATTED [ 3797315926] toes4lifehehe       
+  i choose b
+2022-10-10T08:20:56Z: PLAYER CHATTED [  460979220] Flaming_Legendz     
+  NO
+2022-10-10T08:20:58Z: PLAYER CHATTED [ 3615780267] menace61_10          (-2145.3,    -7.8,   116.6)
+  B
+2022-10-10T08:20:59Z: PLAYER CHATTED [  460979220] Flaming_Legendz     
+  PLAY
+2022-10-10T08:21:01Z: PLAYER CHATTED [  317702415] Crcsqent             ( -769.6,   470.6,  2092.1)
+  plays atleast 20 fps on max graphics
+2022-10-10T08:21:02Z: PLAYER CHATTED [ 2664405669] pinkispaw           
+  then a
+2022-10-10T08:21:05Z: PLAYER CHATTED [  460979220] Flaming_Legendz     
+  AAAAAAA
+2022-10-10T08:21:06Z: PLAYER CHATTED [  317702415] Crcsqent             ( -769.6,   470.6,  2092.1)
+  20 or lower
+2022-10-10T08:21:13Z: PLAYER CHATTED [  317702415] Crcsqent             ( -777.4,   470.6,  2095.6)
+  oh some games
+2022-10-10T08:21:17Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -774.6,   472.9,  2092.0)
+  Got it.
+2022-10-10T08:21:25Z: PLAYER CHATTED [  460979220] Flaming_Legendz     
+  NOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+2022-10-10T08:21:25Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -775.2,   472.9,  2081.6)
+  My PC is relatively good.
+2022-10-10T08:21:28Z: PLAYER CHATTED [ 2664405669] pinkispaw           
+  ouch
+2022-10-10T08:21:35Z: PLAYER CHATTED [  460979220] Flaming_Legendz     
+  find ### ##### well sleep
+2022-10-10T08:21:39Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -777.0,   472.9,  2077.6)
+  Even 1080p and I still think the screen is already cluttered.
+2022-10-10T08:21:40Z: PLAYER CHATTED [ 3869769656] Jamalbinkamaludin   
+  what I'm afk
+2022-10-10T08:21:43Z: PLAYER CHATTED [  460979220] Flaming_Legendz     
+  ##############
+2022-10-10T08:21:47Z: PLAYER CHATTED [  460979220] Flaming_Legendz     
+  #####
+2022-10-10T08:21:49Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -777.0,   472.9,  2079.3)
+  For this reason, I may use my 'hide-all' function.
+2022-10-10T08:21:53Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -777.0,   472.9,  2079.3)
+  And hide all the GUIs.
+2022-10-10T08:21:56Z: PLAYER CHATTED [ 3869769656] Jamalbinkamaludin   
+  my room
+2022-10-10T08:21:57Z: PLAYER CHATTED [ 3615780267] menace61_10          (-2165.9,    -6.3,    83.6)
+  share??
+2022-10-10T08:21:58Z: PLAYER CHATTED [  317702415] Crcsqent             ( -779.8,   470.8,  2087.3)
+  ah
+2022-10-10T08:21:59Z: PLAYER CHATTED [ 3797315926] toes4lifehehe       
+  no
+2022-10-10T08:22:02Z: PLAYER CHATTED [  460979220] Flaming_Legendz     
+  EVEN ME ROOM IS STOLEN
+2022-10-10T08:22:03Z: PLAYER CHATTED [ 3797315926] toes4lifehehe       
+  sure
+2022-10-10T08:22:06Z: PLAYER CHATTED [ 3797315926] toes4lifehehe       
+  haulage
+2022-10-10T08:22:08Z: PLAYER CHATTED [  317702415] Crcsqent             ( -780.0,   470.6,  2092.6)
+  thats what i like about some scripts
+2022-10-10T08:22:11Z: PLAYER CHATTED [  317702415] Crcsqent             ( -780.0,   470.6,  2092.6)
+  u can hide it
+2022-10-10T08:22:12Z: PLAYER CHATTED [ 3797315926] toes4lifehehe       
+  sure jayla
+2022-10-10T08:22:13Z: PLAYER CHATTED [  317702415] Crcsqent             ( -780.0,   470.6,  2092.6)
+  off the screen
+2022-10-10T08:22:14Z: PLAYER CHATTED [ 3869769656] Jamalbinkamaludin   
+  nin!
+2022-10-10T08:22:18Z: PLAYER CHATTED [ 3615780267] menace61_10          (-2165.9,    -6.3,    83.6)
+  Ah
+2022-10-10T08:22:20Z: PLAYER CHATTED [ 3797315926] toes4lifehehe       
+  *changes*
+2022-10-10T08:22:20Z: PLAYER CHATTED [ 2664405669] pinkispaw           
+  ?
+2022-10-10T08:22:24Z: PLAYER CHATTED [  317702415] Crcsqent             ( -780.0,   470.6,  2092.6)
+  instead of having in that one part of your screen
+2022-10-10T08:22:28Z: PLAYER CHATTED [  317702415] Crcsqent             ( -780.0,   470.6,  2092.6)
+  like the bottom left
+2022-10-10T08:22:28Z: PLAYER CHATTED [ 3797315926] toes4lifehehe       
+  ##
+2022-10-10T08:22:31Z: PLAYER CHATTED [  460979220] Flaming_Legendz     
+  gn
+2022-10-10T08:22:32Z: PLAYER CHATTED [ 3869769656] Jamalbinkamaludin   
+  can I share bed with u?
+2022-10-10T08:22:39Z: PLAYER CHATTED [ 2664405669] pinkispaw           
+  sorry
+2022-10-10T08:22:40Z: PLAYER CHATTED [ 1948608825] may123slay          
+  Gn]
+2022-10-10T08:22:41Z: PLAYER CHATTED [ 3797315926] toes4lifehehe       
+  oh slay
+2022-10-10T08:22:57Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -773.5,   472.9,  2105.3)
+  Have you heard of Remote Spy?
+2022-10-10T08:23:02Z: PLAYER CHATTED [  317702415] Crcsqent             ( -776.8,   470.6,  2100.2)
+  no
+2022-10-10T08:23:05Z: PLAYER CHATTED [ 3797315926] toes4lifehehe       
+  *sleeps*
+2022-10-10T08:23:15Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -773.5,   472.9,  2105.3)
+  It's a program that monitors remote calls to the server.
+2022-10-10T08:23:24Z: PLAYER CHATTED [ 3797315926] toes4lifehehe       
+  cut the electricity so it’s scary lol
+2022-10-10T08:23:27Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -773.5,   472.9,  2105.3)
+  I modified to also receive calls to the client.
+2022-10-10T08:23:27Z: PLAYER CHATTED [ 3869769656] Jamalbinkamaludin   
+  ~wakes up~
+2022-10-10T08:23:43Z: PLAYER CHATTED [ 3869769656] Jamalbinkamaludin   
+  I'm gonna watch breaking news 
+2022-10-10T08:23:51Z: PLAYER CHATTED [ 3869769656] Jamalbinkamaludin   
+  watch
+2022-10-10T08:24:00Z: PLAYER CHATTED [ 3869769656] Jamalbinkamaludin   
+  what the
+2022-10-10T08:24:05Z: PLAYER CHATTED [ 3869769656] Jamalbinkamaludin   
+  nin!!
+2022-10-10T08:24:09Z: PLAYER CHATTED [  317702415] Crcsqent             ( -776.8,   470.6,  2100.2)
+  u studied all of this or you learn it in school?
+2022-10-10T08:24:13Z: PLAYER CHATTED [ 2664405669] pinkispaw           
+  yes?
+2022-10-10T08:24:16Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -773.5,   472.9,  2105.3)
+  A bit of both.
+2022-10-10T08:24:20Z: PLAYER CHATTED [ 3869769656] Jamalbinkamaludin   
+  is killer ## ## ######
+2022-10-10T08:24:21Z: PLAYER CHATTED [  317702415] Crcsqent             ( -776.8,   470.6,  2100.2)
+  ah
+2022-10-10T08:24:24Z: PLAYER CHATTED [ 3615780267] menace61_10          (-2165.9,    -6.3,    83.6)
+  😴😴😴
+2022-10-10T08:24:30Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -773.5,   472.9,  2105.3)
+  I've run scripts on the client since 2018.
+2022-10-10T08:24:30Z: PLAYER CHATTED [ 2664405669] pinkispaw           
+  oh no
+2022-10-10T08:24:30Z: PLAYER CHATTED [ 3869769656] Jamalbinkamaludin   
+  on breaking news 
+2022-10-10T08:24:38Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -773.5,   472.9,  2105.3)
+  I've been scripting since at latest 2013.
+2022-10-10T08:24:48Z: PLAYER CHATTED [ 3869769656] Jamalbinkamaludin   
+  she's looking!!
+2022-10-10T08:24:49Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -773.5,   472.9,  2105.3)
+  '''''''''''''''''''ÒÓ#############
+2022-10-10T08:24:58Z: PLAYER ADDED   [ 2494760657] yurvaii
+2022-10-10T08:25:04Z: PLAYER CHATTED [ 3869769656] Jamalbinkamaludin   
+  let's hide on us room
+2022-10-10T08:25:11Z: PLAYER CHATTED [  317702415] Crcsqent             ( -776.8,   470.6,  2100.2)
+  you could get money of ####### teaching people how to do all this
+2022-10-10T08:25:12Z: PLAYER CHATTED [  317702415] Crcsqent             ( -776.8,   470.6,  2100.2)
+  lol
+2022-10-10T08:25:13Z: PLAYER CHATTED [ 3869769656] Jamalbinkamaludin   
+  what that's sound?
+2022-10-10T08:25:13Z: PLAYER CHATTED [ 2664405669] pinkispaw           
+  did you hear that
+2022-10-10T08:25:13Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -773.5,   472.9,  2105.3)
+  I've known Lua for a long time.
+2022-10-10T08:25:17Z: PLAYER CHATTED [  460979220] Flaming_Legendz     
+  i needa afk- AFK ILL BE BACK SOON
+2022-10-10T08:25:19Z: PLAYER CHATTED [ 3869769656] Jamalbinkamaludin   
+  yea
+2022-10-10T08:25:20Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -773.1,   472.9,  2105.0)
+  I also build showcases.
+2022-10-10T08:25:26Z: PLAYER CHATTED [ 3869769656] Jamalbinkamaludin   
+  huh
+2022-10-10T08:25:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (-2144.9,   -28.0,   115.5)
+  And my executor is on GitHub.
+2022-10-10T08:25:33Z: PLAYER CHATTED [ 3797315926] toes4lifehehe        (-2150.4,    -7.9,    97.6)
+  same lol
+2022-10-10T08:25:36Z: PLAYER CHATTED [ 3797315926] toes4lifehehe        (-2150.4,    -7.9,    97.6)
+  wait nvm
+2022-10-10T08:25:41Z: PLAYER CHATTED [ 3869769656] Jamalbinkamaludin    (-2140.0,    -7.5,   108.4)
+  I think the killer opened the door
+2022-10-10T08:25:48Z: PLAYER CHATTED [ 3869769656] Jamalbinkamaludin    (-2142.0,    -7.5,   105.3)
+  hah
+2022-10-10T08:25:56Z: PLAYER CHATTED [ 2664405669] pinkispaw            (-2146.8,    -7.5,   103.7)
+  omg
+2022-10-10T08:26:17Z: PLAYER CHATTED [ 2494760657] yurvaii              (-2170.5,    -7.5,    98.3)
+  were is the party?
+2022-10-10T08:26:33Z: PLAYER CHATTED [ 3797315926] toes4lifehehe       
+  i have no where to sleep 😭😭 lol
+2022-10-10T08:26:41Z: CHRCTER ADDED  [ 3025513842] Hunny_funny133      
+2022-10-10T08:26:42Z: PLAYER CHATTED [ 3869769656] Jamalbinkamaludin   
+  I think the killer sound that
+2022-10-10T08:26:45Z: PLAYER REMOVED [    1630228] VisualPlugin

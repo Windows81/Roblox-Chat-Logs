@@ -1,0 +1,348 @@
+[    1630228] : [ 6100863281] RoVille Party - 982bf31e-29a5-59cc-8f59-bdf8b1371ae4
+2022-10-10T03:32:27Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-10-10T03:32:27Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-10-10T03:32:27Z: PLAYER ADDED   [ 2888813745] shiiyah1
+2022-10-10T03:32:27Z: PLAYER ADDED   [ 3684682196] Jadawada945
+2022-10-10T03:32:27Z: PLAYER ADDED   [ 1584919310] luckyquail68
+2022-10-10T03:32:27Z: PLAYER ADDED   [  711264563] JuliaPK210
+2022-10-10T03:32:27Z: PLAYER ADDED   [  349408885] SammyMargo
+2022-10-10T03:32:27Z: PLAYER ADDED   [ 1814798410] monsterslayers21e
+2022-10-10T03:32:27Z: PLAYER ADDED   [ 3890693801] Kelly_noble
+2022-10-10T03:32:27Z: PLAYER ADDED   [  833637137] Ysaraveeuh
+2022-10-10T03:32:27Z: PLAYER ADDED   [ 1500827338] princessmoonrays100
+2022-10-10T03:32:27Z: PLAYER ADDED   [ 1537108127] kitty123coco
+2022-10-10T03:32:27Z: PLAYER ADDED   [ 3592292855] Sh3luv_anime45
+2022-10-10T03:32:27Z: PLAYER ADDED   [ 2662219715] ITZ_Melodycruz300
+2022-10-10T03:32:27Z: PLAYER ADDED   [  325645802] outroflix
+2022-10-10T03:32:27Z: PLAYER ADDED   [  460979220] Flaming_Legendz
+2022-10-10T03:32:27Z: PLAYER ADDED   [ 3025513842] Hunny_funny133
+2022-10-10T03:32:27Z: PLAYER ADDED   [ 2455020796] yuehinh
+2022-10-10T03:32:27Z: PLAYER ADDED   [ 3051717342] xiimdsx
+2022-10-10T03:32:27Z: PLAYER ADDED   [ 3935562078] Akkatada23
+2022-10-10T03:32:27Z: PLAYER ADDED   [ 1013119869] mawesome94
+2022-10-10T03:32:30Z: PLAYER ADDED   [ 1462773538] BTSAIFAT
+2022-10-10T03:32:30Z: PLAYER CHATTED [ 3592292855] Sh3luv_anime45       ( 2461.1,     4.8,  4019.4)
+  📸🦶
+2022-10-10T03:32:30Z: PLAYER CHATTED [ 2888813745] shiiyah1             ( 2490.6,     4.0,  4015.1)
+  THAT ONE HAS NO TAIL
+2022-10-10T03:32:30Z: PLAYER ADDED   [ 1348622622] kreisikiwi
+2022-10-10T03:32:31Z: PLAYER CHATTED [  711264563] JuliaPK210           ( 2475.4,     3.1,  4011.4)
+  JOE MAMA?
+2022-10-10T03:32:33Z: CHRCTER ADDED  [ 1348622622] kreisikiwi          
+2022-10-10T03:32:34Z: PLAYER CHATTED [ 1500827338] princessmoonrays100  ( 2495.4,     6.7,  4006.1)
+   BARK
+2022-10-10T03:32:35Z: PLAYER CHATTED [  349408885] SammyMargo           ( 2475.4,     3.2,  4008.9)
+  im gonna start crying, what is this
+2022-10-10T03:32:36Z: PLAYER CHATTED [ 2888813745] shiiyah1             ( 2490.6,     4.0,  4015.1)
+  GET HER MIKEY
+2022-10-10T03:32:41Z: PLAYER CHATTED [  325645802] outroflix            ( 2485.7,     3.2,  4007.7)
+  not the mermaid barking
+2022-10-10T03:32:44Z: PLAYER CHATTED [  325645802] outroflix            ( 2485.7,     3.2,  4007.7)
+  woof woof
+2022-10-10T03:32:45Z: PLAYER CHATTED [ 1500827338] princessmoonrays100  ( 2495.3,     6.7,  4005.5)
+  Snatches wig•
+2022-10-10T03:32:46Z: PLAYER CHATTED [  460979220] Flaming_Legendz      ( 2475.4,     3.2,  4005.9)
+  funno
+2022-10-10T03:32:51Z: PLAYER REMOVED [ 3592292855] Sh3luv_anime45
+2022-10-10T03:32:58Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       ( 2490.6,     4.3,  4017.8)
+  *rickrolls cutely*
+2022-10-10T03:33:01Z: PLAYER CHATTED [ 1500827338] princessmoonrays100  ( 2494.9,     6.7,  4007.5)
+  Bark.
+2022-10-10T03:33:07Z: PLAYER REMOVED [ 1013119869] mawesome94
+2022-10-10T03:33:09Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       ( 2490.4,     3.9,  4017.8)
+  BAJAHAHA
+2022-10-10T03:33:10Z: PLAYER CHATTED [ 2662219715] ITZ_Melodycruz300    ( 2496.2,     6.8,  4015.2)
+  NOOOOOOOOOO
+2022-10-10T03:33:11Z: PLAYER CHATTED [ 2662219715] ITZ_Melodycruz300    ( 2496.2,     6.8,  4015.2)
+  BTC
+2022-10-10T03:33:12Z: PLAYER CHATTED [  325645802] outroflix            ( 2485.7,     3.2,  4007.7)
+  omg wig snatched
+2022-10-10T03:33:15Z: PLAYER CHATTED [ 2888813745] shiiyah1             ( 2489.8,     3.7,  4014.4)
+  ITS BALD AGAIN-
+2022-10-10T03:33:17Z: PLAYER CHATTED [ 1500827338] princessmoonrays100  ( 2495.3,     6.7,  4007.1)
+  BALD😭🫵🏽🫵🏽
+2022-10-10T03:33:19Z: PLAYER CHATTED [  325645802] outroflix            ( 2485.7,     3.2,  4007.7)
+  so shining
+2022-10-10T03:33:20Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       ( 2490.4,     3.9,  4017.8)
+  SHE BOUGHT THE WIG
+2022-10-10T03:33:25Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       ( 2490.4,     3.9,  4017.8)
+  CAUGHT IN 4K
+2022-10-10T03:33:26Z: PLAYER CHATTED [ 2662219715] ITZ_Melodycruz300    ( 2496.2,     6.8,  4015.2)
+  😡😡🧜‍♀️
+2022-10-10T03:33:36Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       ( 2490.4,     3.9,  4017.8)
+  SHE GOT IT IN AMAZON
+2022-10-10T03:33:39Z: PLAYER CHATTED [ 1500827338] princessmoonrays100  ( 2493.8,     6.7,  4006.9)
+  Where is my maddy😭😭😭😭….
+2022-10-10T03:33:42Z: PLAYER CHATTED [  711264563] JuliaPK210           ( 2475.4,     3.1,  4011.4)
+  👁️👄👁️
+2022-10-10T03:33:51Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       ( 2490.4,     3.9,  4017.8)
+  SHES RICKROLLING
+2022-10-10T03:33:56Z: PLAYER CHATTED [  460979220] Flaming_Legendz      ( 2475.4,     3.2,  4005.9)
+  du du du... du dudddwee
+2022-10-10T03:33:59Z: PLAYER CHATTED [ 1500827338] princessmoonrays100  ( 2493.8,     6.7,  4006.8)
+  🤯🤯🤯🤯
+2022-10-10T03:34:02Z: PLAYER REMOVED [ 3890693801] Kelly_noble
+2022-10-10T03:34:04Z: PLAYER CHATTED [  711264563] JuliaPK210           ( 2475.4,     3.1,  4011.4)
+  👁️ 👄 👁️
+2022-10-10T03:34:21Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       ( 2490.8,     3.9,  4023.9)
+  ######
+2022-10-10T03:34:24Z: PLAYER CHATTED [  711264563] JuliaPK210           ( 2475.4,     3.1,  4011.4)
+  NOO
+2022-10-10T03:34:28Z: PLAYER CHATTED [ 2888813745] shiiyah1             ( 2485.2,     7.1,  4012.1)
+  HI CHRUS
+2022-10-10T03:34:31Z: PLAYER CHATTED [  460979220] Flaming_Legendz      ( 2475.4,     3.2,  4005.9)
+  idk what to do...
+2022-10-10T03:34:32Z: PLAYER CHATTED [ 1814798410] monsterslayers21e    ( 2406.9,   -19.2,  4068.6)
+  👁👄👁
+2022-10-10T03:34:33Z: PLAYER CHATTED [  711264563] JuliaPK210           ( 2475.4,     3.1,  4011.4)
+  MADDY GOT MAD
+2022-10-10T03:34:35Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       ( 2485.7,     7.4,  4008.3)
+  i rather eat human flesh
+2022-10-10T03:34:36Z: PLAYER CHATTED [  460979220] Flaming_Legendz      ( 2475.4,     3.2,  4005.9)
+  i feel trapped.
+2022-10-10T03:34:38Z: PLAYER CHATTED [ 1500827338] princessmoonrays100  ( 2493.4,     6.7,  4006.7)
+  Gasp•
+2022-10-10T03:34:43Z: PLAYER CHATTED [  325645802] outroflix            ( 2480.4,     3.2,  4007.7)
+  wth
+2022-10-10T03:34:45Z: PLAYER CHATTED [ 2888813745] shiiyah1             ( 2482.1,     7.1,  4013.2)
+  MISS POLLY BRING CHRUS
+2022-10-10T03:34:49Z: PLAYER CHATTED [  349408885] SammyMargo           ( 2475.4,     3.2,  4008.9)
+  zzzzZZZ
+2022-10-10T03:34:50Z: PLAYER CHATTED [  711264563] JuliaPK210           ( 2475.4,     3.1,  4011.4)
+  👁️👁️👄👄👄👄👄👄👄
+2022-10-10T03:34:51Z: PLAYER CHATTED [  460979220] Flaming_Legendz      ( 2475.4,     3.2,  4005.9)
+  r yall understanding or processing this mkvie?.
+2022-10-10T03:34:58Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       ( 2485.8,     7.4,  4008.4)
+  LOL IM JOKING LOL
+2022-10-10T03:34:59Z: PLAYER CHATTED [  711264563] JuliaPK210           ( 2475.4,     3.1,  4011.4)
+  I THINK SO
+2022-10-10T03:35:02Z: PLAYER CHATTED [  349408885] SammyMargo           ( 2475.4,     3.2,  4008.9)
+  I'm tryin my best honestly
+2022-10-10T03:35:03Z: PLAYER CHATTED [  460979220] Flaming_Legendz      ( 2475.4,     3.2,  4005.9)
+  ok..
+2022-10-10T03:35:06Z: PLAYER CHATTED [ 1500827338] princessmoonrays100  ( 2494.2,     6.7,  4006.7)
+  #######
+2022-10-10T03:35:11Z: PLAYER CHATTED [ 1500827338] princessmoonrays100  ( 2494.2,     6.7,  4006.7)
+  ########
+2022-10-10T03:35:15Z: PLAYER CHATTED [ 1500827338] princessmoonrays100  ( 2494.2,     6.7,  4006.7)
+  Zzz
+2022-10-10T03:35:18Z: PLAYER CHATTED [ 1500827338] princessmoonrays100  ( 2494.2,     6.7,  4006.7)
+  Zzzz
+2022-10-10T03:35:21Z: PLAYER CHATTED [ 1500827338] princessmoonrays100  ( 2494.2,     6.7,  4006.7)
+  -
+2022-10-10T03:35:22Z: PLAYER CHATTED [  325645802] outroflix            ( 2480.4,     3.2,  4005.2)
+  yes the moment of frying the mermaid
+2022-10-10T03:35:22Z: PLAYER CHATTED [ 2888813745] shiiyah1             ( 2484.5,     7.1,  4005.1)
+  mikey get the belt
+2022-10-10T03:35:25Z: PLAYER CHATTED [ 1500827338] princessmoonrays100  ( 2496.8,     6.7,  4008.6)
+  ——
+2022-10-10T03:35:28Z: PLAYER CHATTED [  325645802] outroflix            ( 2480.4,     3.2,  4005.2)
+  fish and chips
+2022-10-10T03:35:28Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       ( 2501.7,    15.8,  4010.3)
+  hi
+2022-10-10T03:35:31Z: PLAYER CHATTED [ 3051717342] xiimdsx              ( 2466.1,     3.6,  4024.6)
+  okay back
+2022-10-10T03:35:35Z: PLAYER CHATTED [ 1500827338] princessmoonrays100  ( 2496.8,     6.7,  4008.6)
+  Holy sh
+2022-10-10T03:35:35Z: PLAYER CHATTED [  325645802] outroflix            ( 2480.4,     3.2,  4005.2)
+  yuh-
+2022-10-10T03:35:35Z: PLAYER CHATTED [  460979220] Flaming_Legendz      ( 2475.4,     3.2,  4005.9)
+  this is harder to pay ######## to than trying ot to fall asleep in morning assembly's.
+2022-10-10T03:35:40Z: PLAYER CHATTED [ 1500827338] princessmoonrays100  ( 2496.8,     6.7,  4008.6)
+  Scared me
+2022-10-10T03:35:43Z: PLAYER CHATTED [ 3051717342] xiimdsx              ( 2466.7,     3.6,  4003.5)
+  o hi chris
+2022-10-10T03:35:43Z: PLAYER CHATTED [ 2888813745] shiiyah1             ( 2484.5,     7.1,  4005.1)
+  MIKEY GET THE BELT
+2022-10-10T03:35:48Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       ( 2500.7,    15.8,  4009.7)
+  SLAY
+2022-10-10T03:35:52Z: PLAYER CHATTED [ 1814798410] monsterslayers21e    ( 2501.4,     7.6,  4000.4)
+  🤓
+2022-10-10T03:35:54Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       ( 2500.7,    15.8,  4009.7)
+  SLAY
+2022-10-10T03:35:56Z: PLAYER CHATTED [  460979220] Flaming_Legendz      ( 2475.4,     3.2,  4005.9)
+  and i fall asleep almost every time ;-;
+2022-10-10T03:35:57Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       ( 2500.7,    15.8,  4009.7)
+  SLAY
+2022-10-10T03:35:58Z: PLAYER ADDED   [  317702415] Crcsqent
+2022-10-10T03:35:59Z: PLAYER CHATTED [ 1500827338] princessmoonrays100  ( 2495.7,     6.7,  3985.7)
+  WhOOPING SOME AHH
+2022-10-10T03:35:59Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       ( 2500.7,    15.8,  4009.7)
+  SLAY
+2022-10-10T03:36:01Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       ( 2500.7,    15.8,  4009.7)
+  SLAY
+2022-10-10T03:36:05Z: PLAYER CHATTED [ 2888813745] shiiyah1             ( 2494.4,    10.5,  3996.1)
+  GET EM
+2022-10-10T03:36:06Z: PLAYER ADDED   [  982766739] JuanMiguelCortez
+2022-10-10T03:36:08Z: PLAYER CHATTED [ 1500827338] princessmoonrays100  ( 2499.2,     6.7,  3994.4)
+  TURN YO BODY
+2022-10-10T03:36:15Z: PLAYER CHATTED [ 3051717342] xiimdsx              ( 2475.4,     7.1,  3990.3)
+  help whats happening-
+2022-10-10T03:36:17Z: PLAYER CHATTED [  349408885] SammyMargo           ( 2475.4,     3.2,  4008.9)
+  not the fish :{{
+2022-10-10T03:36:18Z: PLAYER CHATTED [  711264563] JuliaPK210           ( 2475.4,     3.1,  4011.4)
+  WHAT JUST HAPPENED
+2022-10-10T03:36:20Z: PLAYER REMOVED [ 2662219715] ITZ_Melodycruz300
+2022-10-10T03:36:21Z: PLAYER CHATTED [ 1500827338] princessmoonrays100  ( 2499.0,     6.7,  3993.9)
+  Slaps with belt•
+2022-10-10T03:36:23Z: PLAYER CHATTED [ 2888813745] shiiyah1             ( 2494.4,     6.4,  4000.5)
+  LOL
+2022-10-10T03:36:24Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       ( 2500.7,     6.7,  3993.6)
+  *slaps cutley*
+2022-10-10T03:36:26Z: PLAYER CHATTED [  325645802] outroflix            ( 2480.4,     3.2,  4005.2)
+  LOL
+2022-10-10T03:36:28Z: PLAYER CHATTED [  349408885] SammyMargo           ( 2475.4,     3.2,  4008.9)
+  NAAAAAAA
+2022-10-10T03:36:31Z: PLAYER CHATTED [ 1814798410] monsterslayers21e    ( 2499.9,     7.6,  3996.1)
+  😃
+2022-10-10T03:36:32Z: PLAYER CHATTED [ 2888813745] shiiyah1             ( 2494.4,     6.4,  4000.5)
+   AHAAHAHAHA
+2022-10-10T03:36:36Z: PLAYER REMOVED [ 1348622622] kreisikiwi
+2022-10-10T03:36:37Z: PLAYER CHATTED [  317702415] Crcsqent             ( 2414.2,   -20.0,  3924.7)
+  hi maddy hi shy
+2022-10-10T03:36:37Z: PLAYER CHATTED [  325645802] outroflix            ( 2480.4,     3.2,  4005.2)
+  what a plot twist-
+2022-10-10T03:36:40Z: PLAYER ADDED   [  156546819] Krocks2005
+2022-10-10T03:36:41Z: PLAYER CHATTED [ 3051717342] xiimdsx              ( 2475.3,     7.1,  3990.3)
+  HI JJ
+2022-10-10T03:36:41Z: PLAYER CHATTED [  460979220] Flaming_Legendz      ( 2475.4,     3.2,  4005.9)
+  all fish
+2022-10-10T03:36:43Z: PLAYER CHATTED [ 2888813745] shiiyah1             ( 2494.4,     6.4,  4000.5)
+  hii jj
+2022-10-10T03:36:44Z: PLAYER CHATTED [ 1814798410] monsterslayers21e    ( 2499.9,     7.6,  3996.1)
+  OI YOUR SMELLING IT NOT SLAPPING
+2022-10-10T03:36:46Z: PLAYER CHATTED [ 1500827338] princessmoonrays100  ( 2498.8,     6.7,  3993.5)
+  WHY IS IT JIGG
+2022-10-10T03:36:46Z: PLAYER CHATTED [  460979220] Flaming_Legendz      ( 2475.4,     3.2,  4005.9)
+  i cry
+2022-10-10T03:36:47Z: PLAYER CHATTED [ 1814798410] monsterslayers21e    ( 2499.9,     7.6,  3996.1)
+  MOVE
+2022-10-10T03:36:48Z: PLAYER CHATTED [ 1500827338] princessmoonrays100  ( 2498.8,     6.7,  3993.5)
+  lING
+2022-10-10T03:36:50Z: PLAYER CHATTED [ 2455020796] yuehinh              ( 2480.4,     2.6,  3999.7)
+  WOOOOO 
+2022-10-10T03:36:53Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       ( 2500.8,     6.7,  3991.4)
+  LOL
+2022-10-10T03:36:54Z: PLAYER CHATTED [  349408885] SammyMargo           ( 2475.4,     3.2,  4008.9)
+  TEARS
+2022-10-10T03:36:55Z: PLAYER CHATTED [ 2455020796] yuehinh              ( 2480.4,     2.6,  3999.7)
+  😭 so EMO 
+2022-10-10T03:36:56Z: PLAYER REMOVED [  982766739] JuanMiguelCortez
+2022-10-10T03:36:56Z: PLAYER REMOVED [ 3935562078] Akkatada23
+2022-10-10T03:36:57Z: PLAYER CHATTED [  349408885] SammyMargo           ( 2475.4,     3.2,  4008.9)
+  NOOOOOOOO
+2022-10-10T03:37:01Z: PLAYER CHATTED [ 2888813745] shiiyah1             ( 2494.4,     6.4,  4000.5)
+  *RECORDS*
+2022-10-10T03:37:03Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       ( 2500.8,     6.7,  3992.4)
+  Im feeding my cat
+2022-10-10T03:37:06Z: PLAYER CHATTED [ 1500827338] princessmoonrays100  ( 2499.0,     6.7,  3994.2)
+  GAW ######
+2022-10-10T03:37:10Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       ( 2500.8,     6.7,  3992.4)
+  lol
+2022-10-10T03:37:11Z: PLAYER CHATTED [  349408885] SammyMargo           ( 2475.4,     3.2,  4008.9)
+  absolutely riveting, 10/10
+2022-10-10T03:37:11Z: PLAYER CHATTED [ 1814798410] monsterslayers21e    ( 2499.9,     7.6,  3996.1)
+  😏
+2022-10-10T03:37:12Z: PLAYER CHATTED [  711264563] JuliaPK210           ( 2475.4,     3.1,  4011.4)
+  🍥🍥🍥 FISH CAKE
+2022-10-10T03:37:15Z: PLAYER CHATTED [ 1500827338] princessmoonrays100  ( 2499.0,     6.7,  3994.2)
+  Slaps with wooden spoon
+2022-10-10T03:37:16Z: PLAYER CHATTED [  349408885] SammyMargo           ( 2475.4,     3.2,  4008.9)
+  still shaking
+2022-10-10T03:37:21Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       ( 2501.1,     6.7,  3993.8)
+  anyways
+2022-10-10T03:37:24Z: PLAYER CHATTED [ 3051717342] xiimdsx              ( 2475.3,     7.1,  3990.3)
+  IMAO
+2022-10-10T03:37:27Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       ( 2501.1,     6.7,  3993.8)
+  lets cook hime-
+2022-10-10T03:37:31Z: PLAYER CHATTED [ 3051717342] xiimdsx              ( 2478.8,     7.1,  3985.4)
+  hii
+2022-10-10T03:37:32Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       ( 2501.1,     6.7,  3993.8)
+  *him
+2022-10-10T03:37:33Z: PLAYER CHATTED [  349408885] SammyMargo           ( 2475.4,     3.2,  4008.9)
+  NOT THE CALIMARI
+2022-10-10T03:37:34Z: PLAYER CHATTED [  317702415] Crcsqent             ( 2476.3,     7.3,  3984.6)
+  hi
+2022-10-10T03:37:36Z: PLAYER CHATTED [ 1814798410] monsterslayers21e    ( 2499.9,     7.6,  3996.1)
+  WAT
+2022-10-10T03:37:38Z: PLAYER CHATTED [ 1500827338] princessmoonrays100  ( 2497.8,     6.7,  3991.5)
+  Yes
+2022-10-10T03:37:44Z: PLAYER CHATTED [ 2455020796] yuehinh              ( 2494.1,     5.0,  3993.8)
+  😟 
+2022-10-10T03:37:44Z: PLAYER CHATTED [ 2888813745] shiiyah1             ( 2496.6,     6.4,  4000.2)
+  COOK HIM
+2022-10-10T03:37:45Z: PLAYER CHATTED [  711264563] JuliaPK210           ( 2474.3,    -8.0,  4007.4)
+  GOOD JOB POLLY
+2022-10-10T03:37:45Z: PLAYER CHATTED [  156546819] Krocks2005           ( 2480.4,     3.1,  3996.7)
+  yo i’m stuck
+2022-10-10T03:37:46Z: PLAYER CHATTED [ 3051717342] xiimdsx              ( 2479.6,     7.1,  3983.0)
+  long time since u been on roville-
+2022-10-10T03:37:48Z: PLAYER ADDED   [ 3438548954] sparklecookies120
+2022-10-10T03:37:49Z: PLAYER CHATTED [  711264563] JuliaPK210           ( 2463.3,     4.0,  4019.8)
+  WOOOOO
+2022-10-10T03:37:51Z: PLAYER CHATTED [  317702415] Crcsqent             ( 2476.0,     7.3,  3987.9)
+  yup
+2022-10-10T03:37:55Z: PLAYER CHATTED [  317702415] Crcsqent             ( 2476.0,     7.3,  3987.9)
+  last time i think i was on
+2022-10-10T03:37:56Z: PLAYER CHATTED [  156546819] Krocks2005           ( 2491.8,     6.2,  3997.6)
+  ty
+2022-10-10T03:37:57Z: PLAYER CHATTED [  349408885] SammyMargo           ( 2473.4,    -7.8,  4005.9)
+  good job everyone
+2022-10-10T03:37:57Z: PLAYER REMOVED [ 1462773538] BTSAIFAT
+2022-10-10T03:37:58Z: PLAYER ADDED   [ 2662219715] ITZ_Melodycruz300
+2022-10-10T03:38:02Z: PLAYER CHATTED [  317702415] Crcsqent             ( 2479.1,     6.7,  3986.7)
+  was when i was dustin
+2022-10-10T03:38:03Z: PLAYER CHATTED [  349408885] SammyMargo           ( 2473.4,    -7.8,  4005.9)
+  I give big claps
+2022-10-10T03:38:07Z: PLAYER CHATTED [ 3051717342] xiimdsx              ( 2479.8,     7.1,  3994.7)
+  YES
+2022-10-10T03:38:30Z: PLAYER ADDED   [ 3522034722] mini_cupcake5001
+2022-10-10T03:38:31Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       ( 2476.9,     7.4,  3999.2)
+  where that guy
+2022-10-10T03:38:31Z: PLAYER CHATTED [ 2888813745] shiiyah1             ( 2429.3,   -20.3,  3999.6)
+  WHERE THEY GO-
+2022-10-10T03:38:32Z: CHRCTER ADDED  [ 2455020796] yuehinh             
+2022-10-10T03:38:32Z: PLAYER CHATTED [  460979220] Flaming_Legendz      ( 2459.5,   -19.8,  4012.3)
+  ok, im outta here now..
+2022-10-10T03:38:39Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       ( 2461.4,    -1.7,  3992.1)
+  I NEED TO COOK HIM-
+2022-10-10T03:38:44Z: PLAYER CHATTED [ 2455020796] yuehinh              ( 2379.2,   -21.6,  3973.7)
+  LUCI
+2022-10-10T03:38:47Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       ( 2461.4,    -1.7,  3992.1)
+  AND TURN HIM INTO A CHICKEN
+2022-10-10T03:38:48Z: PLAYER CHATTED [ 2455020796] yuehinh              ( 2379.2,   -21.6,  3973.7)
+  Is restaurant open
+2022-10-10T03:38:50Z: PLAYER CHATTED [ 3051717342] xiimdsx              ( 2425.4,   -20.4,  4002.2)
+  help whats that
+2022-10-10T03:38:51Z: PLAYER CHATTED [  711264563] JuliaPK210           ( 2375.7,   -20.0,  3973.4)
+  polly im crying and shaking
+2022-10-10T03:38:54Z: PLAYER CHATTED [ 1814798410] monsterslayers21e    ( 2430.3,   -19.8,  4129.3)
+  SH
+2022-10-10T03:38:56Z: PLAYER CHATTED [ 2455020796] yuehinh              ( 2379.2,   -21.6,  3973.7)
+  Why
+2022-10-10T03:38:56Z: PLAYER CHATTED [  349408885] SammyMargo           ( 2351.9,   -19.8,  3948.1)
+  I think I need to take two days off of work to process that
+2022-10-10T03:39:01Z: PLAYER CHATTED [ 3025513842] Hunny_funny133       ( 2380.8,   -19.9,  3973.9)
+  yo
+2022-10-10T03:39:01Z: PLAYER CHATTED [  349408885] SammyMargo           ( 2353.0,   -19.8,  3950.5)
+  payed days of course
+2022-10-10T03:39:03Z: PLAYER CHATTED [ 1500827338] princessmoonrays100  ( 2420.5,   -20.1,  4152.2)
+  Yummy
+2022-10-10T03:39:04Z: PLAYER CHATTED [ 3051717342] xiimdsx              ( 2391.8,   -20.4,  3986.2)
+  .
+2022-10-10T03:39:05Z: PLAYER CHATTED [  460979220] Flaming_Legendz      ( 2377.4,   -19.8,  3969.9)
+  im eating cake.
+2022-10-10T03:39:10Z: PLAYER REMOVED [ 2455020796] yuehinh
+2022-10-10T03:39:12Z: PLAYER CHATTED [ 3051717342] xiimdsx              ( 2396.1,   -20.4,  3962.8)
+  oof
+2022-10-10T03:39:13Z: PLAYER CHATTED [  325645802] outroflix            ( 2346.2,   -19.1,  3940.1)
+  e
+2022-10-10T03:39:15Z: PLAYER REMOVED [ 3438548954] sparklecookies120
+2022-10-10T03:39:15Z: PLAYER CHATTED [ 1500827338] princessmoonrays100  ( 2422.1,   -20.1,  4151.4)
+  .
+2022-10-10T03:39:15Z: PLAYER CHATTED [  711264563] JuliaPK210           ( 2375.7,   -20.0,  3973.4)
+  MC WIFI
+2022-10-10T03:39:15Z: PLAYER CHATTED [  460979220] Flaming_Legendz      ( 2376.7,   -19.8,  3970.9)
+  CRY
+2022-10-10T03:39:16Z: PLAYER REMOVED [ 1584919310] luckyquail68
+2022-10-10T03:39:16Z: PLAYER REMOVED [    1630228] VisualPlugin

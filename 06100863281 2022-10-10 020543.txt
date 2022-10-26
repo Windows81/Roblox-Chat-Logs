@@ -1,0 +1,176 @@
+[    1630228] : [ 6100863281] RoVille Party - 0b1f7a17-547c-ea39-8ad6-16c2ec2c3016
+2022-10-10T02:05:43Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-10-10T02:05:47Z: PLAYER CHATTED [ 3017350747] Batmarkosh           ( 1003.6,   -19.3,  1670.1)
+  idk
+2022-10-10T02:05:55Z: PLAYER CHATTED [ 2404904541] DarthNobody1         ( 1008.5,   -18.9,  1671.8)
+  hmm......
+2022-10-10T02:06:05Z: PLAYER CHATTED [ 3017350747] Batmarkosh           ( 1206.2,   145.6,  1174.5)
+  holyyyyyyyyyy
+2022-10-10T02:06:08Z: PLAYER CHATTED [ 2404904541] DarthNobody1         ( 1004.8,   -19.2,  1669.6)
+  weird...
+2022-10-10T02:06:13Z: PLAYER REMOVED [ 2404904541] DarthNobody1
+2022-10-10T02:06:24Z: PLAYER CHATTED [ 3017350747] Batmarkosh           (-2638.3,    83.7,   221.3)
+  ########################## im flying
+2022-10-10T02:07:02Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 5115.8,    47.3,  4563.1)
+  Welcome to the mansion.
+2022-10-10T02:07:05Z: PLAYER CHATTED [ 3017350747] Batmarkosh           ( 5113.5,    47.1,  4565.7)
+  where is this place
+2022-10-10T02:07:11Z: PLAYER CHATTED [ 3017350747] Batmarkosh           ( 5113.5,    47.1,  4565.7)
+  huh?
+2022-10-10T02:07:17Z: PLAYER ADDED   [ 2404904541] DarthNobody1
+2022-10-10T02:07:19Z: PLAYER CHATTED [ 3017350747] Batmarkosh           ( 5113.5,    47.1,  4565.7)
+  this is a rock
+2022-10-10T02:07:22Z: PLAYER CHATTED [ 3017350747] Batmarkosh           ( 5113.5,    47.1,  4565.7)
+  lol
+2022-10-10T02:07:34Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 5119.3,    48.0,  4564.7)
+  No mansion is complete without a view.
+2022-10-10T02:07:41Z: PLAYER CHATTED [ 3017350747] Batmarkosh           ( 5116.5,    47.0,  4566.2)
+  wha
+2022-10-10T02:07:46Z: PLAYER CHATTED [ 1128348029] Justalemon2          ( 5111.8,    48.6,  4569.9)
+  ##### #####
+2022-10-10T02:07:58Z: PLAYER CHATTED [ 1128348029] Justalemon2          ( 5120.8,    47.0,  4573.6)
+  #### is amazing
+2022-10-10T02:08:00Z: PLAYER CHATTED [ 2404904541] DarthNobody1        
+  a park again
+2022-10-10T02:08:04Z: PLAYER CHATTED [ 1128348029] Justalemon2          ( 5125.5,    45.8,  4566.9)
+  *#####
+2022-10-10T02:08:21Z: PLAYER CHATTED [ 2404904541] DarthNobody1         ( 5081.8,    28.8,  4593.8)
+  no
+2022-10-10T02:08:27Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 5083.4,    29.0,  4588.6)
+  Welcome to the mansion.
+2022-10-10T02:08:37Z: PLAYER CHATTED [ 2404904541] DarthNobody1         ( 5083.4,    29.0,  4593.7)
+  it is a rock
+2022-10-10T02:08:55Z: CHRCTER ADDED  [ 3017350747] Batmarkosh          
+2022-10-10T02:08:57Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 5086.6,    29.5,  4592.8)
+  The breathtaking views make this prime real estate.
+2022-10-10T02:09:03Z: PLAYER CHATTED [ 1128348029] Justalemon2          ( 5085.8,    27.9,  4589.3)
+  yes
+2022-10-10T02:09:09Z: PLAYER REMOVED [ 3017350747] Batmarkosh
+2022-10-10T02:09:14Z: PLAYER CHATTED [ 2404904541] DarthNobody1         ( 5083.6,    28.4,  4595.8)
+  a roc, *british accent*
+2022-10-10T02:09:20Z: PLAYER CHATTED [ 2404904541] DarthNobody1         ( 5083.6,    28.4,  4595.8)
+  rock
+2022-10-10T02:09:31Z: PLAYER CHATTED [ 1128348029] Justalemon2          ( 5087.7,    28.4,  4596.1)
+  rocks are great
+2022-10-10T02:09:38Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 5082.7,    29.7,  4591.5)
+  They rock!
+2022-10-10T02:09:54Z: PLAYER CHATTED [ 2404904541] DarthNobody1         ( 5079.7,    26.9,  4597.3)
+  *passes out*
+2022-10-10T02:10:00Z: PLAYER CHATTED [ 1128348029] Justalemon2          ( 5087.7,    28.4,  4596.1)
+  the mansion is very spacious
+2022-10-10T02:10:02Z: PLAYER ADDED   [ 1851206703] aarlyn79
+2022-10-10T02:10:13Z: PLAYER ADDED   [  551045921] michaelshe30
+2022-10-10T02:10:15Z: PLAYER ADDED   [  301494074] laylabutler
+2022-10-10T02:10:17Z: PLAYER CHATTED [ 2404904541] DarthNobody1         ( 5062.3,   -40.4,  4602.4)
+  *Falls in water
+2022-10-10T02:10:22Z: PLAYER CHATTED [ 1128348029] Justalemon2          ( 5071.8,    23.1,  4586.2)
+  :o
+2022-10-10T02:10:29Z: PLAYER CHATTED [ 2404904541] DarthNobody1         ( 5061.6,   -40.7,  4603.0)
+  wakes up
+2022-10-10T02:10:29Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 5083.5,    29.7,  4593.6)
+  ÒÓ
+2022-10-10T02:11:01Z: PLAYER REMOVED [  551045921] michaelshe30
+2022-10-10T02:11:20Z: PLAYER REMOVED [ 1851206703] aarlyn79
+2022-10-10T02:11:26Z: PLAYER CHATTED [  301494074] laylabutler          ( 5084.7,    27.8,  4588.4)
+  Umm hi
+2022-10-10T02:11:31Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 5084.7,    29.6,  4592.9)
+  Welcome to the mansion.
+2022-10-10T02:11:34Z: PLAYER CHATTED [ 1128348029] Justalemon2          ( 5080.1,    28.6,  4587.9)
+  hi
+2022-10-10T02:11:45Z: PLAYER ADDED   [  551045921] michaelshe30
+2022-10-10T02:11:49Z: PLAYER CHATTED [ 1128348029] Justalemon2          ( 5080.1,    28.6,  4587.9)
+  it's very open concept
+2022-10-10T02:12:13Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 5082.0,    29.6,  4592.0)
+  How have you heard of the open house?
+2022-10-10T02:13:01Z: PLAYER REMOVED [  551045921] michaelshe30
+2022-10-10T02:13:03Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 5119.3,    47.9,  4564.5)
+  Time for school!
+2022-10-10T02:13:13Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 5119.3,    47.9,  4564.5)
+  One of you will be the teacher.
+2022-10-10T02:13:35Z: PLAYER REMOVED [  301494074] laylabutler
+2022-10-10T02:13:39Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 5119.0,    47.6,  4563.4)
+  /w DarthNobody1  Keep hitting backspace.
+2022-10-10T02:13:45Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 5119.0,    47.6,  4563.4)
+  You're chatting privately.
+2022-10-10T02:13:58Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 5119.0,    47.6,  4563.4)
+  Or click [From VisualPlugin].
+2022-10-10T02:14:06Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 5118.7,    47.9,  4564.9)
+  It will go away.
+2022-10-10T02:14:12Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 5118.7,    47.9,  4564.9)
+  *To, not from.
+2022-10-10T02:14:23Z: PLAYER CHATTED [ 1128348029] Justalemon2         
+  what?
+2022-10-10T02:14:30Z: PLAYER REMOVED [ 2404904541] DarthNobody1
+2022-10-10T02:14:30Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 5118.6,    47.1,  4570.0)
+  I'm talking to someone else.
+2022-10-10T02:14:53Z: PLAYER ADDED   [ 1359706979] 2020goodgirl
+2022-10-10T02:15:05Z: PLAYER CHATTED [ 1128348029] Justalemon2          ( 5113.6,    48.5,  4569.1)
+  this house must get a lot of light
+2022-10-10T02:15:17Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 5118.3,    50.1,  4575.4)
+  Plays into the open concept.
+2022-10-10T02:15:20Z: PLAYER ADDED   [ 2404904541] DarthNobody1
+2022-10-10T02:15:24Z: PLAYER CHATTED [ 1128348029] Justalemon2          ( 5112.8,    47.2,  4575.0)
+  yes
+2022-10-10T02:15:28Z: PLAYER CHATTED [ 1359706979] 2020goodgirl        
+  Hi what could I be in the rp
+2022-10-10T02:15:50Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 5114.9,    49.0,  4569.8)
+  You could be the bouldler.
+2022-10-10T02:15:53Z: PLAYER CHATTED [ 2404904541] DarthNobody1        
+  I'm back
+2022-10-10T02:16:08Z: PLAYER CHATTED [ 2404904541] DarthNobody1         ( 5123.0,    46.1,  4575.2)
+  me
+2022-10-10T02:16:18Z: PLAYER CHATTED [ 2404904541] DarthNobody1         ( 5124.5,    44.8,  4569.7)
+  O_O
+2022-10-10T02:16:46Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 5116.0,    49.5,  4574.5)
+  Butler boulder!
+2022-10-10T02:16:53Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 5118.2,    48.5,  4572.1)
+  I nèéd my 'ea.
+2022-10-10T02:16:54Z: PLAYER CHATTED [ 2404904541] DarthNobody1         ( 5107.9,    46.6,  4566.5)
+  on purpose Falls down
+2022-10-10T02:16:57Z: PLAYER CHATTED [ 1359706979] 2020goodgirl         ( 5115.4,    47.3,  4564.8)
+  Yas?
+2022-10-10T02:17:03Z: PLAYER CHATTED [ 1359706979] 2020goodgirl         ( 5115.4,    47.3,  4564.8)
+  ##
+2022-10-10T02:17:06Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 5117.8,    47.5,  4569.8)
+  * sporks a midnight spanck *
+2022-10-10T02:17:21Z: PLAYER REMOVED [ 1359706979] 2020goodgirl
+2022-10-10T02:17:28Z: PLAYER CHATTED [ 2404904541] DarthNobody1        
+  breaks bone
+2022-10-10T02:17:29Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 5118.9,    47.2,  4570.7)
+  * veals a central leave *
+2022-10-10T02:17:31Z: CHRCTER ADDED  [ 2404904541] DarthNobody1        
+2022-10-10T02:17:52Z: PLAYER CHATTED [ 1128348029] Justalemon2          ( 5085.0,    22.9,  4580.8)
+  Josh are you alive
+2022-10-10T02:18:12Z: PLAYER ADDED   [ 2202684402] pia_1108
+2022-10-10T02:18:13Z: PLAYER CHATTED [ 2404904541] DarthNobody1         ( 5087.9,    26.1,  4599.8)
+  my bone is broken
+2022-10-10T02:18:19Z: PLAYER CHATTED [ 1128348029] Justalemon2          ( 5085.9,    27.4,  4598.7)
+  oh no!
+2022-10-10T02:18:24Z: PLAYER CHATTED [ 2404904541] DarthNobody1         ( 5090.9,    27.6,  4594.6)
+  from falling down
+2022-10-10T02:18:33Z: PLAYER CHATTED [ 2404904541] DarthNobody1         ( 5090.9,    27.6,  4594.6)
+  gtg
+2022-10-10T02:18:35Z: PLAYER REMOVED [ 2404904541] DarthNobody1
+2022-10-10T02:19:06Z: PLAYER REMOVED [ 2202684402] pia_1108
+2022-10-10T02:20:27Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 5083.1,    29.5,  4594.3)
+  Would you like to take a look at my hotel showcase?
+2022-10-10T02:20:32Z: PLAYER CHATTED [ 1128348029] Justalemon2          ( 5086.3,    27.7,  4598.1)
+  ok
+2022-10-10T02:20:51Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 5084.4,    29.3,  4595.4)
+  https://www.roblox.com/games/4794911592
+2022-10-10T02:22:26Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 5087.5,    25.7,  4586.0)
+  Have it down?
+2022-10-10T02:22:30Z: PLAYER CHATTED [ 1128348029] Justalemon2          ( 5086.2,    27.8,  4589.6)
+  yes
+2022-10-10T02:22:47Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 5088.3,    25.5,  4586.5)
+  Are you on mobile or PC?
+2022-10-10T02:22:54Z: PLAYER CHATTED [ 1128348029] Justalemon2          ( 5086.2,    27.8,  4589.6)
+  PC
+2022-10-10T02:22:57Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 5088.3,    25.5,  4586.5)
+  Good!
+2022-10-10T02:23:11Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 5088.3,    25.5,  4586.5)
+  Join ahead of me.
+2022-10-10T02:23:15Z: PLAYER CHATTED [ 1128348029] Justalemon2          ( 5086.2,    27.8,  4589.6)
+  ok
+2022-10-10T02:23:21Z: PLAYER REMOVED [ 1128348029] Justalemon2
+2022-10-10T02:24:16Z: PLAYER REMOVED [    1630228] VisualPlugin

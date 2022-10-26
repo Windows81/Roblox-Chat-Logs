@@ -1,0 +1,240 @@
+[    1630228] : [ 6100863281] RoVille Party - 0b1f7a17-547c-ea39-8ad6-16c2ec2c3016
+2022-10-10T01:50:46Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-10-10T01:50:46Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-10-10T01:51:30Z: PLAYER ADDED   [ 3540953783] sam_xdmiwi
+2022-10-10T01:51:32Z: PLAYER ADDED   [ 1587797069] g8gopl
+2022-10-10T01:51:33Z: CHRCTER ADDED  [ 3540953783] sam_xdmiwi          
+2022-10-10T01:52:10Z: PLAYER ADDED   [ 3763361418] grily23funk
+2022-10-10T01:52:19Z: PLAYER ADDED   [ 2061159967] noahmillzpeen
+2022-10-10T01:52:20Z: PLAYER ADDED   [  905913408] 730mumu10
+2022-10-10T01:52:33Z: PLAYER REMOVED [ 1587797069] g8gopl
+2022-10-10T01:52:39Z: PLAYER CHATTED [ 3540953783] sam_xdmiwi           ( 1050.9,   -18.7,  1701.8)
+  hii
+2022-10-10T01:52:45Z: PLAYER CHATTED [ 2061159967] noahmillzpeen        ( 1050.9,   -17.8,  1691.3)
+  hi
+2022-10-10T01:52:48Z: PLAYER CHATTED [ 3540953783] sam_xdmiwi           ( 1049.6,   -18.6,  1696.1)
+  donate me please
+2022-10-10T01:52:53Z: PLAYER CHATTED [ 2061159967] noahmillzpeen        ( 1045.8,   -17.8,  1692.7)
+  no...
+2022-10-10T01:52:56Z: PLAYER CHATTED [ 3540953783] sam_xdmiwi           ( 1048.4,   -18.6,  1695.6)
+  🙏 🙏 🙏 🙏 
+2022-10-10T01:52:58Z: PLAYER ADDED   [  289176280] gigiplaz
+2022-10-10T01:52:59Z: PLAYER ADDED   [ 3615780267] menace61_10
+2022-10-10T01:53:03Z: PLAYER CHATTED [ 2061159967] noahmillzpeen        ( 1045.8,   -17.8,  1692.7)
+  do a little dance for us
+2022-10-10T01:53:10Z: PLAYER CHATTED [ 2061159967] noahmillzpeen        ( 1047.5,   -17.8,  1692.8)
+  sing 
+2022-10-10T01:53:22Z: PLAYER ADDED   [ 1192275777] stephanyjin
+2022-10-10T01:53:27Z: CHRCTER ADDED  [  289176280] gigiplaz            
+2022-10-10T01:53:33Z: PLAYER CHATTED [ 2061159967] noahmillzpeen        ( 1047.5,   -17.8,  1692.8)
+  work for it
+2022-10-10T01:53:47Z: PLAYER REMOVED [  289176280] gigiplaz
+2022-10-10T01:53:51Z: PLAYER ADDED   [ 3280068015] Love_water12345
+2022-10-10T01:53:54Z: PLAYER REMOVED [ 3763361418] grily23funk
+2022-10-10T01:53:56Z: PLAYER ADDED   [ 3063302180] extransm
+2022-10-10T01:54:02Z: PLAYER CHATTED [ 2061159967] noahmillzpeen        ( 1047.5,   -17.8,  1692.8)
+  sing
+2022-10-10T01:54:04Z: PLAYER CHATTED [ 3540953783] sam_xdmiwi           ( 1048.5,   -18.6,  1695.3)
+  #### ## ## l os
+2022-10-10T01:54:09Z: PLAYER CHATTED [ 3540953783] sam_xdmiwi           ( 1048.5,   -18.6,  1695.3)
+  #### ## ## # ##
+2022-10-10T01:54:12Z: PLAYER CHATTED [ 3540953783] sam_xdmiwi           ( 1048.5,   -18.6,  1695.3)
+  cara 
+2022-10-10T01:54:13Z: PLAYER CHATTED [ 3540953783] sam_xdmiwi           ( 1048.5,   -18.6,  1695.3)
+  de
+2022-10-10T01:54:15Z: PLAYER CHATTED [ 3540953783] sam_xdmiwi           ( 1048.5,   -18.6,  1695.3)
+  cu l oooo
+2022-10-10T01:54:21Z: PLAYER CHATTED [ 3540953783] sam_xdmiwi           ( 1048.5,   -18.6,  1695.3)
+  #### de
+2022-10-10T01:54:23Z: PLAYER CHATTED [ 3540953783] sam_xdmiwi           ( 1048.5,   -18.6,  1695.3)
+  ####
+2022-10-10T01:54:24Z: PLAYER REMOVED [ 3615780267] menace61_10
+2022-10-10T01:54:24Z: PLAYER CHATTED [ 3540953783] sam_xdmiwi           ( 1048.5,   -18.6,  1695.3)
+  de
+2022-10-10T01:54:27Z: PLAYER ADDED   [ 3615780267] menace61_10
+2022-10-10T01:54:31Z: PLAYER CHATTED [ 3540953783] sam_xdmiwi           ( 1048.5,   -18.6,  1695.3)
+  cu uuuuuu loooo
+2022-10-10T01:54:41Z: CHRCTER ADDED  [  905913408] 730mumu10           
+2022-10-10T01:54:42Z: PLAYER CHATTED [ 3280068015] Love_water12345      ( 1038.9,   -18.8,  1696.8)
+  wheres host
+2022-10-10T01:54:51Z: CHRCTER ADDED  [ 3063302180] extransm            
+2022-10-10T01:54:51Z: PLAYER CHATTED [ 2061159967] noahmillzpeen        ( 1047.5,   -17.8,  1692.8)
+  ok werk
+2022-10-10T01:54:52Z: PLAYER CHATTED [ 3540953783] sam_xdmiwi           ( 1051.0,   -18.5,  1693.2)
+  hi
+2022-10-10T01:54:56Z: PLAYER CHATTED [  905913408] 730mumu10            ( 1054.9,   -18.7,  1689.2)
+  hi
+2022-10-10T01:54:57Z: PLAYER REMOVED [ 1192275777] stephanyjin
+2022-10-10T01:54:58Z: PLAYER CHATTED [ 2061159967] noahmillzpeen        ( 1047.5,   -17.8,  1692.8)
+  ur not done
+2022-10-10T01:55:03Z: PLAYER CHATTED [ 3540953783] sam_xdmiwi           ( 1053.4,   -18.5,  1692.1)
+  donate me please
+2022-10-10T01:55:04Z: PLAYER ADDED   [ 3890693801] Kelly_noble
+2022-10-10T01:55:05Z: PLAYER CHATTED [  905913408] 730mumu10            ( 1054.9,   -18.7,  1689.2)
+  no sorry 
+2022-10-10T01:55:11Z: PLAYER CHATTED [ 3540953783] sam_xdmiwi           ( 1053.4,   -18.5,  1692.1)
+  please 
+2022-10-10T01:55:15Z: PLAYER CHATTED [ 2061159967] noahmillzpeen        ( 1050.9,   -17.7,  1690.5)
+  dance
+2022-10-10T01:55:16Z: PLAYER CHATTED [  905913408] 730mumu10            ( 1055.0,   -18.7,  1689.3)
+  I'm saving cant
+2022-10-10T01:55:20Z: PLAYER REMOVED [ 3063302180] extransm
+2022-10-10T01:55:20Z: PLAYER CHATTED [ 3540953783] sam_xdmiwi           ( 1053.4,   -18.5,  1692.1)
+  ok
+2022-10-10T01:55:21Z: PLAYER ADDED   [ 3063302180] extransm
+2022-10-10T01:55:26Z: PLAYER CHATTED [ 3540953783] sam_xdmiwi           ( 1051.2,   -18.6,  1695.1)
+  you friend
+2022-10-10T01:55:28Z: PLAYER CHATTED [ 2061159967] noahmillzpeen        ( 1050.0,   -17.8,  1691.4)
+  do a new song
+2022-10-10T01:55:30Z: PLAYER CHATTED [ 3540953783] sam_xdmiwi           ( 1051.2,   -18.6,  1695.1)
+  you friend 
+2022-10-10T01:55:35Z: PLAYER CHATTED [  905913408] 730mumu10            ( 1055.0,   -18.7,  1689.3)
+  you heard rose dance 
+2022-10-10T01:55:36Z: PLAYER CHATTED [ 3540953783] sam_xdmiwi           ( 1051.2,   -18.6,  1695.1)
+  a mon you friwnd
+2022-10-10T01:55:39Z: PLAYER CHATTED [ 3615780267] menace61_10          ( 1060.9,   -19.3,  1644.8)
+  where's host and mansion 
+2022-10-10T01:55:49Z: PLAYER ADDED   [ 3627718962] Teshir_1
+2022-10-10T01:55:58Z: PLAYER CHATTED [ 3540953783] sam_xdmiwi           ( 1051.2,   -18.6,  1695.1)
+  ?
+2022-10-10T01:56:07Z: PLAYER REMOVED [ 3890693801] Kelly_noble
+2022-10-10T01:56:07Z: PLAYER CHATTED [ 2061159967] noahmillzpeen        ( 1050.0,   -17.8,  1691.4)
+  do u want the money?
+2022-10-10T01:56:14Z: PLAYER CHATTED [ 2061159967] noahmillzpeen        ( 1050.0,   -17.8,  1691.4)
+  entertain.
+2022-10-10T01:56:26Z: PLAYER REMOVED [  905913408] 730mumu10
+2022-10-10T01:56:26Z: PLAYER REMOVED [ 3063302180] extransm
+2022-10-10T01:56:34Z: PLAYER CHATTED [ 3540953783] sam_xdmiwi           ( 1054.4,   -18.6,  1694.2)
+  donate me!!
+2022-10-10T01:56:41Z: PLAYER CHATTED [ 2061159967] noahmillzpeen        ( 1049.7,   -17.8,  1692.0)
+  how much
+2022-10-10T01:56:43Z: PLAYER CHATTED [ 3540953783] sam_xdmiwi           ( 1052.6,   -18.6,  1690.5)
+  i need money
+2022-10-10T01:56:59Z: PLAYER CHATTED [ 3540953783] sam_xdmiwi           ( 1052.7,   -18.5,  1690.5)
+  whatever you like 
+2022-10-10T01:57:01Z: PLAYER REMOVED [ 3615780267] menace61_10
+2022-10-10T01:57:03Z: PLAYER CHATTED [ 2061159967] noahmillzpeen        ( 1049.7,   -17.8,  1692.0)
+  ok
+2022-10-10T01:57:15Z: PLAYER CHATTED [ 3540953783] sam_xdmiwi           ( 1052.7,   -18.5,  1690.5)
+  omg
+2022-10-10T01:57:22Z: PLAYER CHATTED [ 3540953783] sam_xdmiwi           ( 1052.2,   -18.5,  1694.1)
+  thank youuuu
+2022-10-10T01:57:22Z: PLAYER CHATTED [ 2061159967] noahmillzpeen        ( 1049.7,   -17.8,  1692.0)
+  lol
+2022-10-10T01:57:25Z: PLAYER CHATTED [ 2061159967] noahmillzpeen        ( 1049.7,   -17.8,  1692.0)
+  yw
+2022-10-10T01:57:34Z: PLAYER REMOVED [ 3540953783] sam_xdmiwi
+2022-10-10T01:57:40Z: PLAYER REMOVED [ 2061159967] noahmillzpeen
+2022-10-10T01:57:42Z: PLAYER CHATTED [ 3627718962] Teshir_1             ( 1049.8,   -17.8,  1684.8)
+  hii
+2022-10-10T01:57:42Z: PLAYER ADDED   [ 1377961734] 2v2le
+2022-10-10T01:58:03Z: PLAYER ADDED   [  763101389] aylinpereez
+2022-10-10T01:58:27Z: PLAYER REMOVED [ 1377961734] 2v2le
+2022-10-10T01:58:28Z: PLAYER REMOVED [ 3627718962] Teshir_1
+2022-10-10T01:58:59Z: PLAYER REMOVED [  763101389] aylinpereez
+2022-10-10T01:58:59Z: PLAYER ADDED   [ 1128348029] Justalemon2
+2022-10-10T01:59:00Z: PLAYER ADDED   [  763101389] aylinpereez
+2022-10-10T01:59:28Z: PLAYER ADDED   [ 3017350747] Batmarkosh
+2022-10-10T01:59:46Z: PLAYER CHATTED [ 3017350747] Batmarkosh           ( 1054.8,   -19.1,  1704.7)
+  idk
+2022-10-10T01:59:58Z: PLAYER CHATTED [ 3017350747] Batmarkosh           ( 1000.0,   -19.3,  1673.6)
+  where is the mansion lol
+2022-10-10T02:00:03Z: PLAYER CHATTED [    1630228] VisualPlugin         (  985.1,   -20.9,  1663.0)
+  I am the mansion.
+2022-10-10T02:00:10Z: PLAYER REMOVED [  763101389] aylinpereez
+2022-10-10T02:00:14Z: PLAYER CHATTED [ 3017350747] Batmarkosh           (  988.8,   -20.4,  1668.8)
+  huh
+2022-10-10T02:00:33Z: PLAYER ADDED   [ 3773633574] Phue_apple
+2022-10-10T02:00:36Z: PLAYER REMOVED [ 3280068015] Love_water12345
+2022-10-10T02:00:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (  983.5,   -21.0,  1665.2)
+  Just a sec.
+2022-10-10T02:00:51Z: PLAYER CHATTED [ 3017350747] Batmarkosh           (  987.9,   -21.2,  1663.5)
+  ok lol
+2022-10-10T02:01:34Z: PLAYER CHATTED [ 3773633574] Phue_apple           (  981.1,   -21.6,  1657.4)
+  what are we going to do?
+2022-10-10T02:01:39Z: PLAYER CHATTED [ 3017350747] Batmarkosh           (  987.6,   -21.2,  1663.6)
+  yo
+2022-10-10T02:01:40Z: PLAYER CHATTED [ 3773633574] Phue_apple           (  981.1,   -21.6,  1657.4)
+  There's nothing 
+2022-10-10T02:01:50Z: PLAYER CHATTED [ 3773633574] Phue_apple           (  981.5,   -21.6,  1659.4)
+  What
+2022-10-10T02:01:53Z: PLAYER CHATTED [ 3017350747] Batmarkosh           (  984.4,   -21.7,  1663.0)
+  i said your name like 17 times in a rp
+2022-10-10T02:01:58Z: PLAYER CHATTED [ 3773633574] Phue_apple           (  981.5,   -21.6,  1659.4)
+  huh?
+2022-10-10T02:01:59Z: PLAYER CHATTED [ 3017350747] Batmarkosh           (  984.4,   -21.7,  1663.0)
+  how you here lol
+2022-10-10T02:02:03Z: PLAYER CHATTED [ 3017350747] Batmarkosh           (  984.4,   -21.7,  1663.0)
+  i was in an rp
+2022-10-10T02:02:06Z: PLAYER CHATTED [ 3017350747] Batmarkosh           (  984.4,   -21.7,  1663.0)
+  and 
+2022-10-10T02:02:10Z: PLAYER CHATTED [ 3017350747] Batmarkosh           (  984.4,   -21.7,  1663.0)
+  i said your name
+2022-10-10T02:02:11Z: PLAYER CHATTED [ 3773633574] Phue_apple           (  981.5,   -21.6,  1659.4)
+  I don't even know you
+2022-10-10T02:02:15Z: PLAYER CHATTED [ 3017350747] Batmarkosh           (  984.4,   -21.7,  1663.0)
+  i know
+2022-10-10T02:02:17Z: PLAYER CHATTED [ 3773633574] Phue_apple           (  981.5,   -21.6,  1659.4)
+  wdym?
+2022-10-10T02:02:21Z: PLAYER CHATTED [ 3773633574] Phue_apple           (  981.5,   -21.6,  1659.4)
+  What sever?
+2022-10-10T02:02:28Z: PLAYER CHATTED [ 3017350747] Batmarkosh           (  984.4,   -21.7,  1663.0)
+  a fam rp 
+2022-10-10T02:02:38Z: PLAYER CHATTED [ 3773633574] Phue_apple           (  981.5,   -21.6,  1659.4)
+  huh.
+2022-10-10T02:02:39Z: PLAYER CHATTED [ 3017350747] Batmarkosh           (  983.7,   -21.7,  1662.1)
+  but i was trolling
+2022-10-10T02:02:53Z: PLAYER CHATTED [ 3773633574] Phue_apple           (  981.5,   -21.6,  1659.4)
+  are you sure it's me
+2022-10-10T02:02:54Z: PLAYER ADDED   [ 3628873044] Bruh_dude149
+2022-10-10T02:02:56Z: PLAYER CHATTED [ 3017350747] Batmarkosh           (  983.7,   -21.7,  1662.1)
+  idk
+2022-10-10T02:03:11Z: PLAYER CHATTED [ 3017350747] Batmarkosh           (  983.7,   -21.7,  1662.1)
+  but you wasnt ther bc i said it 
+2022-10-10T02:03:16Z: PLAYER CHATTED [ 3017350747] Batmarkosh           (  983.7,   -21.7,  1662.1)
+  randomly
+2022-10-10T02:03:21Z: PLAYER CHATTED [ 3773633574] Phue_apple           (  981.5,   -21.6,  1659.4)
+  Idk lol
+2022-10-10T02:03:23Z: PLAYER CHATTED [ 3017350747] Batmarkosh           (  983.7,   -21.7,  1662.1)
+  i didnt think somebody will
+2022-10-10T02:03:27Z: PLAYER CHATTED [ 3628873044] Bruh_dude149         (  995.1,   -19.4,  1667.0)
+  Hey guys!
+2022-10-10T02:03:30Z: PLAYER CHATTED [ 3017350747] Batmarkosh           (  983.7,   -21.7,  1662.1)
+  name amelia
+2022-10-10T02:03:34Z: PLAYER CHATTED [ 3017350747] Batmarkosh           (  983.7,   -21.7,  1662.1)
+  so 
+2022-10-10T02:03:37Z: PLAYER CHATTED [ 3017350747] Batmarkosh           (  983.7,   -21.7,  1662.1)
+  is random
+2022-10-10T02:03:40Z: PLAYER CHATTED [ 1128348029] Justalemon2          (  988.6,   -20.9,  1656.3)
+  hi
+2022-10-10T02:03:41Z: PLAYER CHATTED [ 3773633574] Phue_apple           (  981.5,   -21.6,  1659.4)
+  Everyone named Amelia not only me
+2022-10-10T02:03:42Z: PLAYER CHATTED [ 3017350747] Batmarkosh           (  985.2,   -21.6,  1659.1)
+  wsp
+2022-10-10T02:03:45Z: PLAYER CHATTED [ 3017350747] Batmarkosh           (  985.2,   -21.6,  1659.1)
+  lol
+2022-10-10T02:03:49Z: PLAYER CHATTED [ 3628873044] Bruh_dude149         (  987.2,   -21.0,  1660.9)
+  Wsp man
+2022-10-10T02:03:57Z: PLAYER CHATTED [ 3017350747] Batmarkosh           (  984.2,   -21.7,  1661.0)
+  where is the mansion
+2022-10-10T02:04:06Z: PLAYER CHATTED [ 3017350747] Batmarkosh           (  984.2,   -21.7,  1661.0)
+  lol
+2022-10-10T02:04:10Z: PLAYER REMOVED [ 3773633574] Phue_apple
+2022-10-10T02:04:18Z: PLAYER REMOVED [ 3628873044] Bruh_dude149
+2022-10-10T02:04:28Z: PLAYER ADDED   [ 2404904541] DarthNobody1
+2022-10-10T02:05:05Z: PLAYER CHATTED [ 3017350747] Batmarkosh           ( 1003.6,   -19.3,  1670.1)
+  hmmmmmmmmmmm
+2022-10-10T02:05:10Z: PLAYER CHATTED [ 3017350747] Batmarkosh           ( 1003.6,   -19.3,  1670.1)
+  why you here
+2022-10-10T02:05:12Z: PLAYER ADDED   [ 1948608825] may123slay
+2022-10-10T02:05:12Z: PLAYER CHATTED [ 3017350747] Batmarkosh           ( 1003.6,   -19.3,  1670.1)
+  lol
+2022-10-10T02:05:13Z: PLAYER CHATTED [ 2404904541] DarthNobody1         ( 1014.1,   -18.9,  1672.7)
+  oh no
+2022-10-10T02:05:21Z: PLAYER CHATTED [ 3017350747] Batmarkosh           ( 1003.6,   -19.3,  1670.1)
+  lol
+2022-10-10T02:05:37Z: PLAYER REMOVED [ 1948608825] may123slay
+2022-10-10T02:05:43Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-10-10T02:05:43Z: PLAYER ADDED   [ 1128348029] Justalemon2
+2022-10-10T02:05:43Z: PLAYER ADDED   [ 3017350747] Batmarkosh
+2022-10-10T02:05:43Z: PLAYER ADDED   [ 2404904541] DarthNobody1

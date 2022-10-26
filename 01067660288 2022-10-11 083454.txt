@@ -1,0 +1,524 @@
+[    1630228] : [ 1067660288] Fantasia Getaway Resort Hotel - 5d8a60c1-e325-4b22-952f-24f979a4864b
+2022-10-11T08:34:54Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-10-11T08:34:54Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-10-11T08:34:54Z: PLAYER ADDED   [  663557844] S0ci4l_Anxiety
+2022-10-11T08:34:54Z: PLAYER ADDED   [ 3738078527] jdyoni
+2022-10-11T08:34:54Z: PLAYER ADDED   [ 1205257311] Ewolfawsome
+2022-10-11T08:34:54Z: PLAYER ADDED   [ 3235845564] catbabysky
+2022-10-11T08:34:54Z: PLAYER ADDED   [ 1795379013] Snow_Boy223
+2022-10-11T08:34:54Z: PLAYER ADDED   [ 1700796782] CottonCandyHeart3456
+2022-10-11T08:34:54Z: PLAYER ADDED   [  768252020] DRAGONUNIMAID1001
+2022-10-11T08:34:54Z: PLAYER ADDED   [ 1260287380] sahcareuwu
+2022-10-11T08:34:54Z: PLAYER ADDED   [ 3939339180] Blue425675
+2022-10-11T08:34:54Z: PLAYER ADDED   [ 1718841106] xOrekiix
+2022-10-11T08:34:54Z: PLAYER ADDED   [ 1987297924] Ak1o_Me
+2022-10-11T08:34:54Z: PLAYER ADDED   [ 2202597914] GodgamerPiggy
+2022-10-11T08:34:54Z: PLAYER ADDED   [  278967307] softkinkss
+2022-10-11T08:34:54Z: PLAYER ADDED   [ 1676907263] Rbox2346764fan
+2022-10-11T08:34:54Z: PLAYER ADDED   [  216219963] littlebunnyvaj101
+2022-10-11T08:34:54Z: PLAYER ADDED   [ 3778009901] Mirabelskencanto
+2022-10-11T08:35:00Z: PLAYER CHATTED [ 1205257311] Ewolfawsome          ( -183.4,   107.5,  -434.9)
+  breakfast is ready x-x
+2022-10-11T08:35:02Z: PLAYER CHATTED [ 1795379013] Snow_Boy223          ( -193.3,   104.9,  -433.6)
+  Heheh
+2022-10-11T08:35:06Z: PLAYER CHATTED [  663557844] S0ci4l_Anxiety       ( -189.4,   106.8,  -435.3)
+  WOO FOOD
+2022-10-11T08:35:07Z: PLAYER CHATTED [ 1205257311] Ewolfawsome          ( -183.4,   107.5,  -434.9)
+  it's on the counter 
+2022-10-11T08:35:16Z: PLAYER CHATTED [ 1795379013] Snow_Boy223          ( -193.3,   104.9,  -433.6)
+  #### funna leave me here
+2022-10-11T08:35:17Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -185.5,   107.3,  -431.6)
+  why is she.stuck in the-
+2022-10-11T08:35:23Z: PLAYER REMOVED [ 3778009901] Mirabelskencanto
+2022-10-11T08:35:25Z: PLAYER CHATTED [ 1987297924] Ak1o_Me              (  -70.6,    35.8,   -58.6)
+  names-
+2022-10-11T08:35:26Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -185.5,   107.3,  -431.6)
+  you know what
+2022-10-11T08:35:28Z: PLAYER REMOVED [  216219963] littlebunnyvaj101
+2022-10-11T08:35:35Z: PLAYER CHATTED [ 1205257311] Ewolfawsome          ( -183.7,   107.5,  -432.5)
+  *shrugs* don't ask me I never had chaotic children 
+2022-10-11T08:35:35Z: PLAYER CHATTED [  768252020] DRAGONUNIMAID1001    (  -67.5,    37.3,   -65.0)
+  ?
+2022-10-11T08:35:38Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -185.5,   107.3,  -431.6)
+  I am not gonna even ask
+2022-10-11T08:35:42Z: PLAYER CHATTED [ 1795379013] Snow_Boy223          ( -193.3,   104.9,  -433.6)
+  Lol
+2022-10-11T08:35:52Z: PLAYER CHATTED [ 1987297924] Ak1o_Me              (  -70.4,    35.8,   -58.5)
+  #########
+2022-10-11T08:35:56Z: PLAYER ADDED   [ 3961713296] Strawberry_Silky
+2022-10-11T08:35:56Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -130.1,   109.6,  -377.9)
+  man I need tea
+2022-10-11T08:35:56Z: PLAYER CHATTED [ 1205257311] Ewolfawsome          ( -187.6,   107.5,  -433.6)
+  come on let's go eat
+2022-10-11T08:35:59Z: PLAYER ADDED   [ 3898210830] Susan13377
+2022-10-11T08:36:00Z: PLAYER CHATTED [ 1795379013] Snow_Boy223          ( -193.3,   104.9,  -433.6)
+  Nah
+2022-10-11T08:36:02Z: PLAYER CHATTED [ 1987297924] Ak1o_Me              (  -70.4,    35.8,   -58.5)
+  nvmm
+2022-10-11T08:36:04Z: PLAYER CHATTED [ 1795379013] Snow_Boy223          ( -193.3,   104.9,  -433.6)
+  Lol
+2022-10-11T08:36:05Z: PLAYER CHATTED [ 1205257311] Ewolfawsome          ( -187.6,   107.5,  -433.6)
+  alr no food
+2022-10-11T08:36:09Z: PLAYER ADDED   [ 2697850332] Aikocookielover
+2022-10-11T08:36:18Z: PLAYER CHATTED [  768252020] DRAGONUNIMAID1001    (  -67.5,    37.3,   -65.0)
+  wym?
+2022-10-11T08:36:28Z: PLAYER CHATTED [ 1987297924] Ak1o_Me              (  -70.9,    35.8,   -51.7)
+  ###########
+2022-10-11T08:36:30Z: PLAYER CHATTED [ 1205257311] Ewolfawsome          ( -150.2,   109.7,  -422.5)
+  *smiles softly *
+2022-10-11T08:36:39Z: PLAYER CHATTED [ 1987297924] Ak1o_Me              (  -70.9,    35.8,   -51.7)
+  iT kEepS tAggInG sO
+2022-10-11T08:36:45Z: PLAYER REMOVED [ 3961713296] Strawberry_Silky
+2022-10-11T08:36:56Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -156.9,   109.8,  -403.9)
+  awwww
+2022-10-11T08:36:56Z: PLAYER ADDED   [ 3474501967] Prishaaa006
+2022-10-11T08:37:10Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -156.9,   109.8,  -403.9)
+  you guys are Matching
+2022-10-11T08:37:13Z: PLAYER CHATTED [ 1795379013] Snow_Boy223          ( -143.1,   108.6,  -398.6)
+  Look for brekfest
+2022-10-11T08:37:20Z: CHRCTER ADDED  [ 1676907263] Rbox2346764fan      
+2022-10-11T08:37:20Z: PLAYER CHATTED [ 1987297924] Ak1o_Me              (  -47.0,    37.3,  -143.1)
+  afkk
+2022-10-11T08:37:20Z: PLAYER CHATTED [  663557844] S0ci4l_Anxiety       ( -143.1,   110.1,  -403.0)
+  hsdm,s
+2022-10-11T08:37:25Z: PLAYER REMOVED [ 3474501967] Prishaaa006
+2022-10-11T08:37:25Z: PLAYER CHATTED [  663557844] S0ci4l_Anxiety       ( -143.1,   110.1,  -403.0)
+  oops
+2022-10-11T08:37:32Z: PLAYER ADDED   [ 2818237971] cherry_Myanmar
+2022-10-11T08:37:39Z: PLAYER REMOVED [ 3898210830] Susan13377
+2022-10-11T08:37:40Z: PLAYER CHATTED [ 1795379013] Snow_Boy223          ( -143.1,   108.6,  -394.4)
+  Idk
+2022-10-11T08:37:48Z: PLAYER CHATTED [  663557844] S0ci4l_Anxiety       ( -143.1,   110.1,  -403.0)
+  it was on accident lol
+2022-10-11T08:37:53Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -156.8,   109.8,  -403.3)
+  anyway
+2022-10-11T08:37:57Z: PLAYER ADDED   [ 2430000414] najeibbkwkkb
+2022-10-11T08:38:07Z: PLAYER ADDED   [ 2216509266] ItzAshleyOMGEYYYYY
+2022-10-11T08:38:07Z: PLAYER REMOVED [ 2818237971] cherry_Myanmar
+2022-10-11T08:38:15Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -156.8,   109.8,  -403.3)
+  I need to do my Normal routine
+2022-10-11T08:38:19Z: PLAYER CHATTED [  663557844] S0ci4l_Anxiety       ( -143.1,   110.1,  -403.0)
+  okay
+2022-10-11T08:38:21Z: PLAYER CHATTED [ 1795379013] Snow_Boy223          ( -143.1,   108.6,  -394.4)
+  Uh ok
+2022-10-11T08:38:27Z: PLAYER CHATTED [ 1205257311] Ewolfawsome          ( -158.4,   109.9,  -399.5)
+  alright 
+2022-10-11T08:38:35Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -156.8,   109.8,  -403.3)
+  time to Drown
+2022-10-11T08:38:40Z: PLAYER REMOVED [ 1700796782] CottonCandyHeart3456
+2022-10-11T08:38:40Z: PLAYER CHATTED [ 1205257311] Ewolfawsome          ( -158.4,   109.9,  -399.5)
+  i-
+2022-10-11T08:38:42Z: PLAYER CHATTED [ 1795379013] Snow_Boy223          ( -143.1,   108.6,  -394.4)
+  What
+2022-10-11T08:38:50Z: PLAYER ADDED   [ 1441747730] jada_squishysquad
+2022-10-11T08:39:05Z: PLAYER REMOVED [  278967307] softkinkss
+2022-10-11T08:39:13Z: PLAYER ADDED   [ 3918181642] XxBlEsSyxX9
+2022-10-11T08:39:26Z: PLAYER CHATTED [ 1795379013] Snow_Boy223          ( -300.4,  -306.5,  -813.8)
+  Blue
+2022-10-11T08:39:39Z: PLAYER REMOVED [ 1441747730] jada_squishysquad
+2022-10-11T08:39:42Z: PLAYER CHATTED [ 2216509266] ItzAshleyOMGEYYYYY   (  -42.2,    36.0,   -69.0)
+  rip my life ayyyy
+2022-10-11T08:39:44Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -291.2,  -147.5,  -853.5)
+  well what's next
+2022-10-11T08:40:00Z: PLAYER CHATTED [ 2216509266] ItzAshleyOMGEYYYYY   (  -42.2,    36.0,   -69.0)
+  I forgot to save my dom oc-
+2022-10-11T08:40:12Z: PLAYER REMOVED [ 2697850332] Aikocookielover
+2022-10-11T08:40:17Z: PLAYER ADDED   [ 1023354868] HelloMonk3y
+2022-10-11T08:40:19Z: PLAYER CHATTED [ 1795379013] Snow_Boy223          ( -236.3,  -101.7,  -509.8)
+  Not drowning
+2022-10-11T08:40:25Z: PLAYER ADDED   [ 3920703586] rdycyfe
+2022-10-11T08:40:30Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -296.2,  -114.0,  -719.1)
+  I need to fall off a Balcony
+2022-10-11T08:40:58Z: PLAYER REMOVED [ 1023354868] HelloMonk3y
+2022-10-11T08:41:00Z: PLAYER ADDED   [ 1023354868] HelloMonk3y
+2022-10-11T08:41:05Z: PLAYER CHATTED [ 1205257311] Ewolfawsome          ( -258.6,   -98.3,  -507.6)
+  <>-<> great I'm cold and wet
+2022-10-11T08:41:26Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -124.3,    13.1,  -517.2)
+  weeee
+2022-10-11T08:41:26Z: PLAYER CHATTED [ 1205257311] Ewolfawsome          ( -219.6,    72.7,  -217.1)
+  and in my pajamas 
+2022-10-11T08:41:33Z: CHRCTER ADDED  [ 1260287380] sahcareuwu          
+2022-10-11T08:41:55Z: PLAYER REMOVED [ 3939339180] Blue425675
+2022-10-11T08:42:17Z: PLAYER ADDED   [  108300181] notsopeopleperson
+2022-10-11T08:42:17Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -125.3,   107.3,  -468.1)
+  hello kids
+2022-10-11T08:42:20Z: PLAYER CHATTED [  663557844] S0ci4l_Anxiety       ( -119.4,   104.8,  -474.5)
+  hi
+2022-10-11T08:42:33Z: PLAYER CHATTED [ 1205257311] Ewolfawsome          ( -124.1,   107.6,  -453.2)
+  *smiles softly *
+2022-10-11T08:42:33Z: PLAYER CHATTED [ 1795379013] Snow_Boy223          ( -130.2,   103.7,  -476.0)
+  Hii
+2022-10-11T08:42:38Z: PLAYER CHATTED [ 3738078527] jdyoni               (   94.1,    72.8,  -383.1)
+  hilo
+2022-10-11T08:42:45Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (   96.1,    74.0,  -378.8)
+  hi
+2022-10-11T08:42:48Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -124.6,   107.3,  -468.6)
+  3
+2022-10-11T08:42:50Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -124.6,   107.3,  -468.6)
+  2
+2022-10-11T08:42:53Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -124.6,   107.3,  -468.6)
+  1
+2022-10-11T08:42:53Z: PLAYER CHATTED [ 3738078527] jdyoni               (   94.1,    72.8,  -383.1)
+  ### god
+2022-10-11T08:42:59Z: PLAYER CHATTED [  663557844] S0ci4l_Anxiety       ( -125.8,   106.7,  -470.7)
+  aw man
+2022-10-11T08:43:01Z: PLAYER CHATTED [ 1205257311] Ewolfawsome          ( -148.5,   109.7,  -365.9)
+  *gets blanket *
+2022-10-11T08:43:02Z: PLAYER CHATTED [ 3738078527] jdyoni               (   94.1,    72.8,  -383.1)
+  ok
+2022-10-11T08:43:04Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (   96.1,    74.0,  -378.8)
+  hah
+2022-10-11T08:43:05Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (   96.1,    74.0,  -378.8)
+  huh
+2022-10-11T08:43:23Z: PLAYER REMOVED [ 1023354868] HelloMonk3y
+2022-10-11T08:43:25Z: PLAYER CHATTED [ 3738078527] jdyoni               (   94.1,    72.8,  -383.1)
+  wait a minut pls
+2022-10-11T08:43:27Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (   96.1,    74.0,  -378.8)
+  im so bad at making outfits now..
+2022-10-11T08:43:29Z: PLAYER ADDED   [ 2412656061] Xxfluffy_ladybugxX
+2022-10-11T08:43:38Z: PLAYER REMOVED [  108300181] notsopeopleperson
+2022-10-11T08:43:45Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -123.0,   107.3,  -433.8)
+  weee
+2022-10-11T08:43:55Z: PLAYER ADDED   [  178285886] Bunnyzub
+2022-10-11T08:43:58Z: PLAYER CHATTED [ 3738078527] jdyoni               (   94.1,    72.8,  -383.1)
+  so just do like me that avatar
+2022-10-11T08:44:08Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (   96.9,    74.0,  -379.9)
+  hah
+2022-10-11T08:44:09Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (   96.9,    74.0,  -379.9)
+  huh
+2022-10-11T08:44:17Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (   96.5,    74.0,  -379.1)
+  what do you mean
+2022-10-11T08:44:19Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -205.2,  -100.2,  -450.7)
+  now it's time to Light me on fire!!!
+2022-10-11T08:44:20Z: PLAYER CHATTED [ 3738078527] jdyoni               (   94.1,    72.8,  -383.1)
+  or like just that
+2022-10-11T08:44:24Z: PLAYER CHATTED [ 2216509266] ItzAshleyOMGEYYYYY   (    7.4,    36.8,   -43.1)
+  When the ghost head came- There's so many people people using it- INCLUDING ME :sobs:
+2022-10-11T08:44:30Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (   96.5,    74.0,  -379.1)
+  i dont understand
+2022-10-11T08:44:34Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (   96.5,    74.0,  -379.1)
+  you want me to match you?
+2022-10-11T08:44:40Z: PLAYER REMOVED [ 1260287380] sahcareuwu
+2022-10-11T08:44:43Z: PLAYER ADDED   [ 3204396826] Livigamer222333
+2022-10-11T08:44:45Z: PLAYER CHATTED [ 3738078527] jdyoni               (   94.6,    72.8,  -382.0)
+  thats your avatar dont make one
+2022-10-11T08:44:51Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (   96.5,    74.0,  -379.1)
+  okay
+2022-10-11T08:44:54Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -288.2,  -102.8,  -119.2)
+  fireeeee
+2022-10-11T08:44:58Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (  107.1,    73.6,  -371.3)
+  ...
+2022-10-11T08:45:06Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (  101.6,    74.7,  -387.9)
+  whats happening
+2022-10-11T08:45:07Z: PLAYER CHATTED [ 1795379013] Snow_Boy223          ( -134.9,   109.9,  -384.5)
+  Uh blue lobster you ok
+2022-10-11T08:45:14Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -259.0,  -103.0,  -177.9)
+  yep
+2022-10-11T08:45:18Z: PLAYER CHATTED [ 3738078527] jdyoni               (  102.0,    72.8,  -388.4)
+  haahaahahahahaahahahahaaa
+2022-10-11T08:45:20Z: PLAYER REMOVED [ 1987297924] Ak1o_Me
+2022-10-11T08:45:20Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (  102.6,    71.6,  -389.1)
+  why am i sticked to you
+2022-10-11T08:45:21Z: PLAYER ADDED   [ 1260287380] sahcareuwu
+2022-10-11T08:45:27Z: CHRCTER ADDED  [ 2202597914] GodgamerPiggy       
+2022-10-11T08:45:34Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -259.0,  -103.0,  -177.9)
+  like I said my Normal routine
+2022-10-11T08:45:35Z: PLAYER REMOVED [ 2412656061] Xxfluffy_ladybugxX
+2022-10-11T08:45:44Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -260.4,  -103.0,  -176.5)
+  anyway
+2022-10-11T08:45:49Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -260.4,  -103.0,  -176.5)
+  am done
+2022-10-11T08:45:50Z: PLAYER CHATTED [ 1795379013] Snow_Boy223          ( -193.3,   105.8,  -433.6)
+  I’m in the toilet again
+2022-10-11T08:45:59Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -223.7,    72.6,  -260.0)
+  HOWW
+2022-10-11T08:46:00Z: PLAYER CHATTED [ 1795379013] Snow_Boy223          ( -193.3,   105.8,  -433.6)
+  Hehehehhee
+2022-10-11T08:46:04Z: PLAYER CHATTED [  663557844] S0ci4l_Anxiety       ( -131.3,   111.6,  -403.4)
+  stay there 🥺
+2022-10-11T08:46:06Z: PLAYER CHATTED [ 1795379013] Snow_Boy223          ( -193.3,   105.8,  -433.6)
+  Don’t ask
+2022-10-11T08:46:11Z: PLAYER CHATTED [  663557844] S0ci4l_Anxiety       ( -131.3,   111.6,  -403.4)
+  hi
+2022-10-11T08:46:15Z: PLAYER CHATTED [ 1205257311] Ewolfawsome          ( -125.2,   109.7,  -396.5)
+  ello kiddo
+2022-10-11T08:46:17Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -243.0,    72.6,  -224.4)
+  you say I do weird stuff 
+2022-10-11T08:46:17Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (  105.3,    74.0,  -359.2)
+  hi
+2022-10-11T08:46:20Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (  105.3,    74.0,  -359.2)
+  wanna roleplay
+2022-10-11T08:46:24Z: PLAYER CHATTED [ 1205257311] Ewolfawsome          ( -125.2,   109.7,  -396.5)
+  be careful don't fall
+2022-10-11T08:46:27Z: PLAYER CHATTED [ 1795379013] Snow_Boy223          ( -193.3,   105.8,  -433.6)
+  Lol
+2022-10-11T08:46:29Z: CHRCTER ADDED  [ 2430000414] najeibbkwkkb        
+2022-10-11T08:46:29Z: PLAYER CHATTED [  663557844] S0ci4l_Anxiety       ( -131.3,   111.6,  -403.4)
+  i won't
+2022-10-11T08:46:30Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (  105.3,    74.0,  -359.2)
+  like family family thing
+2022-10-11T08:46:31Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -243.0,    72.6,  -224.4)
+  but that's not weird
+2022-10-11T08:46:34Z: PLAYER CHATTED [ 1205257311] Ewolfawsome          ( -172.4,   107.5,  -441.5)
+  how
+2022-10-11T08:46:37Z: PLAYER CHATTED [ 1795379013] Snow_Boy223          ( -193.3,   105.8,  -433.6)
+  It’s weird
+2022-10-11T08:46:39Z: PLAYER CHATTED [ 1205257311] Ewolfawsome          ( -186.9,   107.5,  -434.5)
+  absolutely how
+2022-10-11T08:46:42Z: PLAYER ADDED   [  409136049] eshesh121405
+2022-10-11T08:46:43Z: PLAYER CHATTED [ 1795379013] Snow_Boy223          ( -193.3,   105.8,  -433.6)
+  Hehehe
+2022-10-11T08:46:48Z: PLAYER CHATTED [  663557844] S0ci4l_Anxiety       ( -132.4,   111.9,  -403.1)
+  zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+2022-10-11T08:46:49Z: PLAYER CHATTED [ 1205257311] Ewolfawsome          ( -186.9,   107.5,  -434.5)
+  *slaps forehead *
+2022-10-11T08:46:51Z: PLAYER CHATTED [ 3738078527] jdyoni               (   97.6,    72.8,  -361.1)
+  ok
+2022-10-11T08:46:54Z: PLAYER CHATTED [ 2216509266] ItzAshleyOMGEYYYYY   (   10.2,    36.8,   -50.7)
+  I 4ever love the ww corset-
+2022-10-11T08:46:56Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (   99.5,    74.0,  -360.3)
+  lets find people
+2022-10-11T08:46:59Z: PLAYER CHATTED [ 1795379013] Snow_Boy223          ( -193.3,   105.8,  -433.6)
+  You’ll never know hahahaha
+2022-10-11T08:47:01Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (   93.7,    73.8,  -346.2)
+  lets go
+2022-10-11T08:47:01Z: PLAYER CHATTED [ 3738078527] jdyoni               (   97.6,    72.8,  -361.1)
+  ok
+2022-10-11T08:47:06Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -124.2,   109.6,  -406.5)
+  son
+2022-10-11T08:47:12Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -124.2,   109.6,  -406.5)
+  =-=
+2022-10-11T08:47:20Z: PLAYER CHATTED [ 1205257311] Ewolfawsome          ( -126.4,   109.7,  -415.6)
+  *signs *
+2022-10-11T08:47:29Z: PLAYER CHATTED [ 1205257311] Ewolfawsome          ( -128.9,   109.7,  -404.5)
+  *picks him up*
+2022-10-11T08:47:38Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (  -73.4,    36.5,  -175.9)
+  anyone wanna rp
+2022-10-11T08:47:41Z: PLAYER CHATTED [ 1795379013] Snow_Boy223          ( -128.7,   109.7,  -424.8)
+  I’m back
+2022-10-11T08:47:43Z: PLAYER CHATTED [ 1205257311] Ewolfawsome          ( -101.9,   111.6,  -398.9)
+  *places on bed*
+2022-10-11T08:47:55Z: PLAYER CHATTED [ 2216509266] ItzAshleyOMGEYYYYY   (  -49.1,    39.2,  -140.7)
+  me- 0v0
+2022-10-11T08:47:58Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (  -62.5,    36.4,  -167.8)
+  okay
+2022-10-11T08:48:03Z: PLAYER CHATTED [ 1795379013] Snow_Boy223          (  -97.8,   109.3,  -375.8)
+  Stranger d aged
+2022-10-11T08:48:06Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -121.9,   109.6,  -411.2)
+  welll
+2022-10-11T08:48:11Z: PLAYER CHATTED [ 1205257311] Ewolfawsome          ( -126.3,   109.7,  -407.8)
+  ####
+2022-10-11T08:48:14Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (  -62.5,    36.4,  -167.8)
+  what do you wanna roleplay
+2022-10-11T08:48:14Z: PLAYER CHATTED [ 1205257311] Ewolfawsome          ( -126.3,   109.7,  -407.8)
+  <>-<>
+2022-10-11T08:48:17Z: PLAYER CHATTED [  663557844] S0ci4l_Anxiety       (  -96.0,   109.6,  -404.9)
+  why's a computer virus in our room
+2022-10-11T08:48:21Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (  -62.5,    36.4,  -167.8)
+  ri### ## with us
+2022-10-11T08:48:22Z: PLAYER CHATTED [ 1795379013] Snow_Boy223          ( -104.3,   111.6,  -382.5)
+  Back to the tolit
+2022-10-11T08:48:23Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -122.2,   109.3,  -377.3)
+  I'ma  plugin.
+2022-10-11T08:48:27Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -122.2,   109.3,  -377.3)
+  *I'm a.
+2022-10-11T08:48:27Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (  -62.5,    36.4,  -167.8)
+  what roleplay
+2022-10-11T08:48:29Z: PLAYER CHATTED [ 1205257311] Ewolfawsome          ( -126.3,   109.7,  -407.8)
+  absolutely no clue
+2022-10-11T08:48:32Z: CHRCTER ADDED  [ 3920703586] rdycyfe             
+2022-10-11T08:48:37Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -121.0,   109.3,  -405.2)
+  * infects with propaganda *
+2022-10-11T08:48:39Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -121.9,   109.6,  -411.2)
+  o-o
+2022-10-11T08:48:44Z: PLAYER CHATTED [ 1795379013] Snow_Boy223          ( -193.3,   105.8,  -433.6)
+  Hehehe
+2022-10-11T08:48:50Z: PLAYER CHATTED [ 1205257311] Ewolfawsome          ( -126.3,   109.7,  -407.8)
+  0-0
+2022-10-11T08:48:55Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -121.5,   109.3,  -405.5)
+  ÒÓ
+2022-10-11T08:48:55Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (  -62.5,    36.4,  -167.8)
+  okay
+2022-10-11T08:48:57Z: PLAYER CHATTED [ 1795379013] Snow_Boy223          ( -193.3,   105.8,  -433.6)
+  I’m a tolit
+2022-10-11T08:49:06Z: PLAYER CHATTED [ 1205257311] Ewolfawsome          ( -126.3,   109.7,  -407.8)
+  lovely -
+2022-10-11T08:49:08Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -121.9,   109.6,  -411.2)
+  I like their Outfit-
+2022-10-11T08:49:09Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (  -62.5,    36.4,  -167.8)
+  i cant think of anything else
+2022-10-11T08:49:13Z: PLAYER CHATTED [ 1205257311] Ewolfawsome          ( -128.8,   111.1,  -367.1)
+  mhm
+2022-10-11T08:49:14Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (  -62.5,    36.4,  -167.8)
+  can someone talk
+2022-10-11T08:49:22Z: PLAYER CHATTED [ 2216509266] ItzAshleyOMGEYYYYY   (  -55.2,    36.8,  -162.1)
+  uh-
+2022-10-11T08:49:22Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -122.0,   109.3,  -387.0)
+  Thanks!
+2022-10-11T08:49:25Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (  -62.5,    36.4,  -167.8)
+  anyone wanna roleplay
+2022-10-11T08:49:26Z: PLAYER CHATTED [ 1718841106] xOrekiix             (  -13.8,    34.4,  -137.2)
+  Talking 
+2022-10-11T08:49:26Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -122.0,   109.3,  -387.0)
+  I'm a ma by the way.
+2022-10-11T08:49:28Z: PLAYER CHATTED [ 2216509266] ItzAshleyOMGEYYYYY   (  -54.1,    36.9,  -160.9)
+  hmm
+2022-10-11T08:49:29Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -123.5,   109.3,  -386.9)
+  *Man.
+2022-10-11T08:49:29Z: PLAYER CHATTED [ 1795379013] Snow_Boy223          ( -193.3,   105.8,  -433.6)
+  Someon wanna see me pop out the toilet
+2022-10-11T08:49:38Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -121.9,   109.6,  -411.2)
+  oh ok
+2022-10-11T08:49:38Z: PLAYER CHATTED [ 3738078527] jdyoni               (  -58.9,    35.2,  -168.5)
+  um-
+2022-10-11T08:49:46Z: PLAYER CHATTED [ 1795379013] Snow_Boy223          ( -193.3,   105.8,  -433.6)
+  Lol
+2022-10-11T08:49:49Z: PLAYER CHATTED [ 1205257311] Ewolfawsome          ( -169.4,   107.5,  -441.8)
+  Clara 
+2022-10-11T08:49:50Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (  -62.5,    36.4,  -167.8)
+  i guess three of us
+2022-10-11T08:49:53Z: PLAYER CHATTED [ 1795379013] Snow_Boy223          ( -193.3,   105.8,  -433.6)
+  Heheheh
+2022-10-11T08:49:57Z: PLAYER CHATTED [ 1205257311] Ewolfawsome          ( -169.4,   107.5,  -441.8)
+  out of the toilet <>-<>
+2022-10-11T08:49:57Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (  -62.5,    36.4,  -167.8)
+  waht roleplay 
+2022-10-11T08:50:00Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -122.2,   109.6,  -411.5)
+  am going to Check on My kid
+2022-10-11T08:50:01Z: PLAYER CHATTED [ 3738078527] jdyoni               (  -58.9,    35.2,  -168.5)
+  ok
+2022-10-11T08:50:02Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (  -62.5,    36.4,  -167.8)
+  cmon
+2022-10-11T08:50:03Z: PLAYER CHATTED [ 2216509266] ItzAshleyOMGEYYYYY   (  -54.3,    36.8,  -167.9)
+  Perhaps a friend group on a vacation?
+2022-10-11T08:50:05Z: PLAYER CHATTED [ 1795379013] Snow_Boy223          ( -193.3,   105.8,  -433.6)
+  No
+2022-10-11T08:50:06Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (  -62.5,    36.4,  -167.8)
+  okay
+2022-10-11T08:50:09Z: PLAYER REMOVED [ 2430000414] najeibbkwkkb
+2022-10-11T08:50:09Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (  -62.5,    36.4,  -167.8)
+  name
+2022-10-11T08:50:11Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -171.9,   107.3,  -444.6)
+  =-=
+2022-10-11T08:50:13Z: PLAYER CHATTED [ 1795379013] Snow_Boy223          ( -193.3,   105.8,  -433.6)
+  Wanna see somthing
+2022-10-11T08:50:14Z: PLAYER ADDED   [ 2488615434] ingdao4568
+2022-10-11T08:50:15Z: PLAYER CHATTED [ 1795379013] Snow_Boy223          ( -193.3,   105.8,  -433.6)
+  Lol
+2022-10-11T08:50:16Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (  -62.5,    36.4,  -167.8)
+  Im ######
+2022-10-11T08:50:17Z: PLAYER CHATTED [ 1205257311] Ewolfawsome          ( -169.4,   107.5,  -441.8)
+  hm?-
+2022-10-11T08:50:19Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (  -62.5,    36.4,  -167.8)
+  Axelle
+2022-10-11T08:50:23Z: PLAYER CHATTED [ 1718841106] xOrekiix             (  -13.8,    34.4,  -137.2)
+  My cats r fighting 
+2022-10-11T08:50:26Z: PLAYER CHATTED [ 3738078527] jdyoni               (  -58.9,    35.2,  -168.5)
+  me riana
+2022-10-11T08:50:34Z: PLAYER CHATTED [ 1795379013] Snow_Boy223          ( -193.3,   105.8,  -433.6)
+  My new home 
+2022-10-11T08:50:35Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -181.0,   107.3,  -440.2)
+  From now on we're gonna put a lock on the toilet
+2022-10-11T08:50:35Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (  -62.5,    36.4,  -167.8)
+  okay
+2022-10-11T08:50:37Z: PLAYER CHATTED [ 2216509266] ItzAshleyOMGEYYYYY   (  -55.5,    36.8,  -163.9)
+  Leon -v-
+2022-10-11T08:50:38Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (  -62.5,    36.4,  -167.8)
+  you are leon
+2022-10-11T08:50:40Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (  -62.5,    36.4,  -167.8)
+  okay
+2022-10-11T08:50:43Z: PLAYER CHATTED [ 1205257311] Ewolfawsome          ( -179.9,   107.5,  -433.8)
+  agreed 
+2022-10-11T08:50:46Z: PLAYER CHATTED [ 1795379013] Snow_Boy223          ( -193.3,   105.8,  -433.6)
+  Nooo
+2022-10-11T08:50:51Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -181.0,   107.3,  -439.9)
+  yessss
+2022-10-11T08:50:52Z: PLAYER REMOVED [ 2488615434] ingdao4568
+2022-10-11T08:50:58Z: PLAYER ADDED   [  717429822] PrincessRachel1114
+2022-10-11T08:50:59Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (  -65.0,    36.5,  -172.6)
+  what are we doing again
+2022-10-11T08:50:59Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -181.0,   107.3,  -439.9)
+  plus
+2022-10-11T08:51:03Z: PLAYER CHATTED [ 3918181642] XxBlEsSyxX9          (  117.5,    37.5,  -370.6)
+  :) zzzzzzzzzzzzzzz 😴🧸
+2022-10-11T08:51:03Z: PLAYER CHATTED [ 3738078527] jdyoni               (  -66.2,    35.3,  -189.7)
+  im sceard
+2022-10-11T08:51:04Z: PLAYER CHATTED [ 1795379013] Snow_Boy223          ( -193.3,   105.8,  -433.6)
+  I’m marrying this toleit
+2022-10-11T08:51:08Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (  -65.0,    36.5,  -172.6)
+  oh right
+2022-10-11T08:51:12Z: PLAYER CHATTED [ 1205257311] Ewolfawsome          ( -179.8,   107.5,  -433.8)
+  0-0
+2022-10-11T08:51:17Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -181.0,   107.3,  -439.9)
+  I think your Brother kind of went
+2022-10-11T08:51:19Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (  -64.2,    36.5,  -176.3)
+  why
+2022-10-11T08:51:25Z: PLAYER CHATTED [ 1205257311] Ewolfawsome          ( -179.8,   107.5,  -433.8)
+  *sign* 
+2022-10-11T08:51:31Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -181.0,   107.3,  -439.9)
+  and didn't flush the toilet
+2022-10-11T08:51:31Z: PLAYER CHATTED [ 3738078527] jdyoni               (  -73.0,    35.3,  -178.4)
+  oh just nothing
+2022-10-11T08:51:34Z: PLAYER CHATTED [ 1205257311] Ewolfawsome          ( -179.8,   107.5,  -433.8)
+  *rubs temples *
+2022-10-11T08:51:38Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (  -65.6,    36.5,  -177.6)
+  okay
+2022-10-11T08:51:40Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -181.0,   107.3,  -439.9)
+  but eh
+2022-10-11T08:51:47Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (  -65.6,    36.5,  -177.6)
+  lets go start im bored
+2022-10-11T08:52:07Z: PLAYER CHATTED [ 1205257311] Ewolfawsome          ( -179.8,   107.5,  -433.8)
+  oh well I think he went on the 3rd around anyway
+2022-10-11T08:52:38Z: PLAYER CHATTED [ 3738078527] jdyoni               (   96.2,   115.2,  -159.0)
+  good
+2022-10-11T08:52:46Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (   89.7,   118.3,  -167.3)
+  was it friend group on a vacation
+2022-10-11T08:52:47Z: PLAYER REMOVED [  717429822] PrincessRachel1114
+2022-10-11T08:52:51Z: PLAYER REMOVED [ 3204396826] Livigamer222333
+2022-10-11T08:52:51Z: PLAYER CHATTED [ 1795379013] Snow_Boy223          ( -171.6,   108.1,  -430.9)
+  I became the seat
+2022-10-11T08:52:55Z: PLAYER CHATTED [ 3738078527] jdyoni               (   78.7,   115.2,  -158.1)
+  im just tha only kid in here
+2022-10-11T08:52:59Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (   89.7,   118.3,  -167.3)
+  what
+2022-10-11T08:53:04Z: PLAYER REMOVED [  178285886] Bunnyzub
+2022-10-11T08:53:06Z: PLAYER CHATTED [ 1795379013] Snow_Boy223          ( -171.6,   108.1,  -430.9)
+  Hehehe
+2022-10-11T08:53:08Z: PLAYER CHATTED [ 1205257311] Ewolfawsome          ( -176.5,   107.5,  -440.4)
+  x-x
+2022-10-11T08:53:12Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (   89.7,   118.3,  -167.3)
+  should we start?
+2022-10-11T08:53:16Z: PLAYER ADDED   [ 1028010447] chiqui_bloom
+2022-10-11T08:53:24Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -181.0,   107.3,  -439.9)
+  yaaaa
+2022-10-11T08:53:24Z: PLAYER ADDED   [  417035313] PingPing925
+2022-10-11T08:53:29Z: PLAYER ADDED   [ 3412105682] 0nly_Niya23
+2022-10-11T08:53:30Z: PLAYER CHATTED [ 3738078527] jdyoni               (   83.7,   115.2,  -159.7)
+  if you want\
+2022-10-11T08:53:40Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (   89.7,   118.8,  -167.3)
+  i gotta go
+2022-10-11T08:53:40Z: PLAYER ADDED   [ 2453596379] lashawnahinzey
+2022-10-11T08:53:45Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (   89.7,   118.8,  -167.3)
+  i have an exam
+2022-10-11T08:53:46Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (   89.7,   118.8,  -167.3)
+  math
+2022-10-11T08:53:49Z: PLAYER CHATTED [ 2202597914] GodgamerPiggy        (   89.7,   118.8,  -167.3)
+  bye
+2022-10-11T08:53:50Z: CHRCTER ADDED  [ 3920703586] rdycyfe             
+2022-10-11T08:53:50Z: PLAYER CHATTED [ 3235845564] catbabysky           ( -176.8,   107.3,  -443.1)
+  I'm gonna go to do my normal routine now
+2022-10-11T08:53:51Z: PLAYER REMOVED [ 2202597914] GodgamerPiggy
+2022-10-11T08:53:54Z: PLAYER CHATTED [ 1205257311] Ewolfawsome          ( -176.5,   107.5,  -440.4)
+  i-
+2022-10-11T08:54:04Z: PLAYER CHATTED [ 3738078527] jdyoni               (   78.8,   115.2,  -174.0)
+  ok bye
+2022-10-11T08:54:06Z: PLAYER CHATTED [ 1205257311] Ewolfawsome          ( -129.8,   107.4,  -468.7)
+  <>-<>
+2022-10-11T08:54:13Z: PLAYER REMOVED [ 3738078527] jdyoni
+2022-10-11T08:54:13Z: PLAYER CHATTED [ 1795379013] Snow_Boy223          ( -124.9,   107.4,  -460.1)
+   Duh
+2022-10-11T08:54:17Z: PLAYER CHATTED [ 1795379013] Snow_Boy223          ( -124.3,   107.6,  -451.7)
+  Bruh 
+2022-10-11T08:54:23Z: PLAYER CHATTED [ 1205257311] Ewolfawsome          ( -126.1,   107.4,  -466.4)
+  that's where you got it from
+2022-10-11T08:54:24Z: PLAYER REMOVED [    1630228] VisualPlugin

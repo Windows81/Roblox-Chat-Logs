@@ -1,0 +1,219 @@
+[    1630228] : [ 6100863281] RoVille Party - d8fdbb4d-c99d-736a-355f-f064319b2a69
+2022-10-10T01:21:36Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-10-10T01:21:36Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-10-10T01:21:36Z: PLAYER ADDED   [ 1668189691] ClaireBearPlays_YTT
+2022-10-10T01:21:36Z: PLAYER ADDED   [  272468702] xvryze
+2022-10-10T01:21:36Z: PLAYER ADDED   [   36610418] foreverswagger
+2022-10-10T01:21:36Z: PLAYER ADDED   [ 1764549240] UnicrnKittn
+2022-10-10T01:21:36Z: PLAYER ADDED   [ 2928778348] jakes_slippers
+2022-10-10T01:22:02Z: PLAYER REMOVED [ 2928778348] jakes_slippers
+2022-10-10T01:22:22Z: PLAYER CHATTED [ 1668189691] ClaireBearPlays_YTT  ( 1717.3,    -4.3,  4215.1)
+  BRITT
+2022-10-10T01:22:26Z: PLAYER CHATTED [ 1668189691] ClaireBearPlays_YTT  ( 1717.3,    -4.3,  4215.1)
+  HURRY
+2022-10-10T01:22:34Z: PLAYER CHATTED [ 1668189691] ClaireBearPlays_YTT  ( 1717.3,    -4.3,  4215.1)
+  HE SOUNDS LIKE A 40 YR OLD MAN
+2022-10-10T01:22:37Z: PLAYER CHATTED [ 1668189691] ClaireBearPlays_YTT  ( 1717.3,    -4.3,  4215.1)
+  ITS SCARY
+2022-10-10T01:22:46Z: PLAYER CHATTED [ 1764549240] UnicrnKittn          ( 1700.4,   -20.3,  4185.8)
+  Oop
+2022-10-10T01:22:56Z: PLAYER CHATTED [ 1764549240] UnicrnKittn          ( 1700.4,   -20.3,  4185.8)
+  i dont hear anything
+2022-10-10T01:22:59Z: PLAYER CHATTED [ 1764549240] UnicrnKittn          ( 1700.4,   -20.3,  4185.8)
+  ._.
+2022-10-10T01:23:05Z: PLAYER CHATTED [   36610418] foreverswagger       ( 1702.4,   -16.5,  4197.3)
+  i have 15mins lol
+2022-10-10T01:23:14Z: PLAYER CHATTED [ 1764549240] UnicrnKittn          ( 1700.4,   -20.3,  4185.8)
+  Nice
+2022-10-10T01:24:04Z: PLAYER ADDED   [ 3692241798] lalalalaalallmo
+2022-10-10T01:24:32Z: PLAYER ADDED   [ 2061159967] noahmillzpeen
+2022-10-10T01:24:39Z: CHRCTER ADDED  [ 3692241798] lalalalaalallmo     
+2022-10-10T01:24:48Z: CHRCTER ADDED  [ 3692241798] lalalalaalallmo     
+2022-10-10T01:25:47Z: PLAYER REMOVED [ 3692241798] lalalalaalallmo
+2022-10-10T01:26:05Z: PLAYER ADDED   [ 2635746831] GIFLLGUI
+2022-10-10T01:26:14Z: PLAYER CHATTED [   36610418] foreverswagger       ( 1701.2,   -16.4,  4198.0)
+  were at 55%
+2022-10-10T01:26:43Z: CHRCTER ADDED  [ 2635746831] GIFLLGUI            
+2022-10-10T01:26:52Z: CHRCTER ADDED  [ 2635746831] GIFLLGUI            
+2022-10-10T01:27:22Z: PLAYER ADDED   [ 3079081129] Euphoriajustice
+2022-10-10T01:27:22Z: PLAYER CHATTED [ 1668189691] ClaireBearPlays_YTT  ( 1717.3,    -4.3,  4215.1)
+  i feel bad for dylan
+2022-10-10T01:27:27Z: CHRCTER ADDED  [ 2635746831] GIFLLGUI            
+2022-10-10T01:27:27Z: PLAYER CHATTED [   36610418] foreverswagger       ( 1701.2,   -16.4,  4198.0)
+  why lol
+2022-10-10T01:27:27Z: PLAYER CHATTED [ 1764549240] UnicrnKittn          ( 1700.4,   -20.3,  4185.8)
+  oop
+2022-10-10T01:27:32Z: PLAYER CHATTED [ 1668189691] ClaireBearPlays_YTT  ( 1717.3,    -4.3,  4215.1)
+  he met my brother and heard my goofy laugh
+2022-10-10T01:27:39Z: PLAYER CHATTED [ 1764549240] UnicrnKittn          ( 1700.4,   -20.3,  4185.8)
+  💀
+2022-10-10T01:27:41Z: PLAYER CHATTED [   36610418] foreverswagger       ( 1701.2,   -16.4,  4198.0)
+  dang i missed it
+2022-10-10T01:27:47Z: PLAYER CHATTED [  272468702] xvryze               ( 1734.5,    -8.9,  4201.3)
+  #################
+2022-10-10T01:27:55Z: CHRCTER ADDED  [ 2635746831] GIFLLGUI            
+2022-10-10T01:28:05Z: CHRCTER ADDED  [ 3079081129] Euphoriajustice     
+2022-10-10T01:28:05Z: PLAYER CHATTED [ 3079081129] Euphoriajustice     
+  Omg 
+2022-10-10T01:28:05Z: PLAYER CHATTED [ 1764549240] UnicrnKittn          ( 1700.4,   -20.3,  4185.8)
+  i cant hear anything. I think I’m deaf
+2022-10-10T01:28:14Z: PLAYER CHATTED [ 1764549240] UnicrnKittn          ( 1700.4,   -20.3,  4185.8)
+  huh
+2022-10-10T01:28:14Z: PLAYER CHATTED [   36610418] foreverswagger       ( 1701.2,   -16.4,  4198.0)
+  what justice
+2022-10-10T01:28:18Z: PLAYER REMOVED [ 2635746831] GIFLLGUI
+2022-10-10T01:28:23Z: PLAYER CHATTED [ 3079081129] Euphoriajustice      ( 1726.1,   -19.9,  4200.9)
+  Alright I gotta wait until it downloads 
+2022-10-10T01:28:32Z: PLAYER CHATTED [ 1668189691] ClaireBearPlays_YTT  ( 1717.3,    -4.3,  4215.1)
+  MY MOM IS TRYNA GET ME TO #### # ###### AFTER MY BROTHER AND MY BROTHER TAKES # MIN TO SHOWER
+2022-10-10T01:28:32Z: PLAYER CHATTED [ 3079081129] Euphoriajustice      ( 1701.9,   -20.2,  4193.6)
+  So 
+2022-10-10T01:28:34Z: PLAYER CHATTED [   36610418] foreverswagger       ( 1701.2,   -16.4,  4198.0)
+  join the club lol
+2022-10-10T01:28:41Z: PLAYER CHATTED [ 1764549240] UnicrnKittn          ( 1700.4,   -20.3,  4185.8)
+  ####
+2022-10-10T01:28:43Z: PLAYER ADDED   [ 3508725115] LalaQueen_92
+2022-10-10T01:28:44Z: PLAYER CHATTED [   36610418] foreverswagger       ( 1701.2,   -16.4,  4198.0)
+  u have time cal
+2022-10-10T01:29:28Z: PLAYER ADDED   [ 1831920112] czcasen121
+2022-10-10T01:29:37Z: PLAYER REMOVED [ 2061159967] noahmillzpeen
+2022-10-10T01:29:59Z: CHRCTER ADDED  [ 3508725115] LalaQueen_92        
+2022-10-10T01:30:10Z: PLAYER CHATTED [ 1668189691] ClaireBearPlays_YTT  ( 1718.4,   -20.3,  4205.4)
+  i have to ####
+2022-10-10T01:30:17Z: PLAYER CHATTED [ 1668189691] ClaireBearPlays_YTT  ( 1718.4,   -20.3,  4205.4)
+  PEE
+2022-10-10T01:30:21Z: PLAYER CHATTED [ 1764549240] UnicrnKittn          ( 1700.4,   -20.3,  4185.8)
+  I-
+2022-10-10T01:30:36Z: CHRCTER ADDED  [    1630228] VisualPlugin        
+2022-10-10T01:30:37Z: PLAYER CHATTED [   36610418] foreverswagger       ( 1701.2,   -16.4,  4198.0)
+  go pee
+2022-10-10T01:30:44Z: CHRCTER ADDED  [    1630228] VisualPlugin        
+2022-10-10T01:30:59Z: CHRCTER ADDED  [    1630228] VisualPlugin        
+2022-10-10T01:31:00Z: PLAYER CHATTED [ 1668189691] ClaireBearPlays_YTT  ( 1779.3,   -20.3,  4066.0)
+  ##
+2022-10-10T01:31:02Z: PLAYER CHATTED [ 3079081129] Euphoriajustice      ( 1701.9,   -20.2,  4193.6)
+  I gotta wait an hour for it can download 
+2022-10-10T01:31:10Z: PLAYER CHATTED [   36610418] foreverswagger       ( 1701.2,   -16.4,  4198.0)
+  dang i thought mine was bad
+2022-10-10T01:31:18Z: PLAYER CHATTED [ 3079081129] Euphoriajustice      ( 1708.4,   -19.3,  4197.2)
+  IMAOOOO 
+2022-10-10T01:31:25Z: PLAYER CHATTED [   36610418] foreverswagger       ( 1701.2,   -16.4,  4198.0)
+  i have 7 mins
+2022-10-10T01:31:26Z: CHRCTER ADDED  [ 3508725115] LalaQueen_92        
+2022-10-10T01:31:34Z: PLAYER ADDED   [ 3368052239] munchmunchl
+2022-10-10T01:31:34Z: PLAYER CHATTED [ 1668189691] ClaireBearPlays_YTT  ( 1810.0,    -8.3,  4110.1)
+  ill take a super quick shower for yall 
+2022-10-10T01:31:40Z: PLAYER CHATTED [ 1764549240] UnicrnKittn          ( 1700.4,   -20.3,  4185.8)
+  Kk
+2022-10-10T01:31:48Z: PLAYER CHATTED [   36610418] foreverswagger       ( 1701.1,   -16.4,  4197.7)
+  take ur time we waiting on justice lol
+2022-10-10T01:31:59Z: PLAYER CHATTED [ 3079081129] Euphoriajustice      ( 1708.4,   -19.3,  4197.2)
+  IMAOO yeah wait for me 
+2022-10-10T01:31:59Z: PLAYER CHATTED [  272468702] xvryze               ( 1717.2,   -19.5,  4199.0)
+  dont run now
+2022-10-10T01:32:07Z: CHRCTER ADDED  [   36610418] foreverswagger      
+2022-10-10T01:32:11Z: PLAYER CHATTED [ 1831920112] czcasen121           ( 1705.3,   -19.3,  4201.0)
+  ?
+2022-10-10T01:32:17Z: PLAYER REMOVED [ 1831920112] czcasen121
+2022-10-10T01:32:43Z: PLAYER CHATTED [ 3079081129] Euphoriajustice      ( 1708.4,   -19.3,  4197.2)
+  Dylan ice spice isn’t here 
+2022-10-10T01:32:45Z: PLAYER CHATTED [   36610418] foreverswagger       ( 1702.2,   -16.8,  4197.6)
+  he leave or did he get kicked?
+2022-10-10T01:32:53Z: PLAYER CHATTED [  272468702] xvryze               ( 1713.4,   -19.5,  4201.1)
+  BRO
+2022-10-10T01:32:53Z: PLAYER CHATTED [  272468702] xvryze               ( 1713.4,   -19.5,  4201.1)
+  caps
+2022-10-10T01:32:57Z: PLAYER CHATTED [  272468702] xvryze               ( 1713.4,   -19.5,  4201.1)
+  ive had tech on for a few hours now
+2022-10-10T01:33:11Z: PLAYER CHATTED [ 3079081129] Euphoriajustice      ( 1708.4,   -19.3,  4197.2)
+  IMAOOO 
+2022-10-10T01:33:12Z: PLAYER CHATTED [ 1668189691] ClaireBearPlays_YTT  ( 1707.8,   -17.4,  4211.2)
+  man ur laugh is goofier than mine.
+2022-10-10T01:33:25Z: PLAYER CHATTED [   36610418] foreverswagger       ( 1702.2,   -16.8,  4197.6)
+  his laugh kills me
+2022-10-10T01:33:35Z: PLAYER CHATTED [ 3079081129] Euphoriajustice      ( 1708.4,   -19.3,  4197.2)
+  Who’s laugh 
+2022-10-10T01:33:39Z: PLAYER CHATTED [   36610418] foreverswagger       ( 1702.2,   -16.8,  4197.6)
+  dylans
+2022-10-10T01:33:40Z: PLAYER CHATTED [  272468702] xvryze               ( 1713.4,   -19.5,  4201.1)
+  she laugh like she dyin
+2022-10-10T01:33:44Z: PLAYER CHATTED [  272468702] xvryze               ( 1713.4,   -19.5,  4201.1)
+  #### # ### ### tbh
+2022-10-10T01:33:44Z: PLAYER CHATTED [ 1764549240] UnicrnKittn          ( 1700.4,   -20.3,  4185.8)
+  brb
+2022-10-10T01:33:49Z: PLAYER CHATTED [  272468702] xvryze               ( 1713.4,   -19.5,  4201.1)
+  like a little
+2022-10-10T01:33:49Z: PLAYER CHATTED [  272468702] xvryze               ( 1713.4,   -19.5,  4201.1)
+  ###
+2022-10-10T01:33:58Z: PLAYER CHATTED [  272468702] xvryze               ( 1713.4,   -19.5,  4201.1)
+  #####
+2022-10-10T01:34:08Z: PLAYER CHATTED [ 3079081129] Euphoriajustice      ( 1708.4,   -19.3,  4197.2)
+  IMAOO 
+2022-10-10T01:34:08Z: PLAYER REMOVED [ 3368052239] munchmunchl
+2022-10-10T01:34:16Z: PLAYER CHATTED [   36610418] foreverswagger       ( 1702.2,   -16.8,  4197.6)
+  or when someone pops up outta no where thats sh) funny ash
+2022-10-10T01:34:30Z: PLAYER CHATTED [  272468702] xvryze               ( 1713.4,   -19.5,  4201.1)
+  ohhh
+2022-10-10T01:34:35Z: PLAYER REMOVED [ 3508725115] LalaQueen_92
+2022-10-10T01:34:35Z: PLAYER CHATTED [  272468702] xvryze               ( 1713.4,   -19.5,  4201.1)
+  thats not me laughing
+2022-10-10T01:34:44Z: PLAYER CHATTED [  272468702] xvryze               ( 1713.4,   -19.5,  4201.1)
+  Im getting startled
+2022-10-10T01:34:47Z: PLAYER REMOVED [ 1764549240] UnicrnKittn
+2022-10-10T01:34:53Z: PLAYER CHATTED [   36610418] foreverswagger       ( 1702.2,   -16.8,  4197.6)
+  ik its not its still funny tho
+2022-10-10T01:35:03Z: PLAYER CHATTED [   36610418] foreverswagger       ( 1702.2,   -16.8,  4197.6)
+  3 mins!!! lets goooo
+2022-10-10T01:35:16Z: PLAYER CHATTED [ 3079081129] Euphoriajustice      ( 1708.4,   -19.3,  4197.2)
+  48 minutes let’s gooo
+2022-10-10T01:35:23Z: PLAYER CHATTED [  272468702] xvryze               ( 1713.4,   -19.5,  4201.1)
+  my god
+2022-10-10T01:35:23Z: PLAYER CHATTED [   36610418] foreverswagger       ( 1702.2,   -16.8,  4197.6)
+  and i swear i wont delete it again
+2022-10-10T01:35:29Z: PLAYER CHATTED [  272468702] xvryze               ( 1713.4,   -19.5,  4201.1)
+  justice got that trash wifi
+2022-10-10T01:35:35Z: PLAYER CHATTED [ 3079081129] Euphoriajustice      ( 1708.4,   -19.3,  4197.2)
+  No I don’t 
+2022-10-10T01:35:35Z: PLAYER ADDED   [ 1955129839] lovercute22236
+2022-10-10T01:35:46Z: PLAYER CHATTED [ 3079081129] Euphoriajustice      ( 1708.4,   -19.3,  4197.2)
+  It cause my brother has mad game 
+2022-10-10T01:35:47Z: PLAYER CHATTED [  272468702] xvryze               ( 1713.4,   -19.5,  4201.1)
+  i blasted munch
+2022-10-10T01:35:53Z: PLAYER CHATTED [ 1668189691] ClaireBearPlays_YTT  ( 1733.0,   -10.3,  4201.1)
+  i cant play! lets gooo
+2022-10-10T01:35:53Z: PLAYER CHATTED [  272468702] xvryze               ( 1713.4,   -19.5,  4201.1)
+  and cal left
+2022-10-10T01:36:02Z: PLAYER CHATTED [   36610418] foreverswagger       ( 1702.2,   -16.8,  4197.6)
+  what why?!
+2022-10-10T01:36:26Z: PLAYER CHATTED [ 1668189691] ClaireBearPlays_YTT  ( 1768.3,   -20.3,  4132.1)
+  my dad
+2022-10-10T01:36:29Z: PLAYER CHATTED [ 1668189691] ClaireBearPlays_YTT  ( 1768.3,   -20.3,  4132.1)
+  was like
+2022-10-10T01:36:34Z: PLAYER CHATTED [ 1668189691] ClaireBearPlays_YTT  ( 1768.3,   -20.3,  4132.1)
+  WHO ARE U TALKING TO
+2022-10-10T01:36:41Z: PLAYER CHATTED [ 3079081129] Euphoriajustice      ( 1708.4,   -19.3,  4197.2)
+  IMAOO 
+2022-10-10T01:36:41Z: PLAYER CHATTED [ 1668189691] ClaireBearPlays_YTT  ( 1768.3,   -20.3,  4132.1)
+  and i said a random person
+2022-10-10T01:36:43Z: PLAYER CHATTED [   36610418] foreverswagger       ( 1702.2,   -16.8,  4197.6)
+  but i feel that justice this is taking the last of my free storage
+2022-10-10T01:36:53Z: PLAYER CHATTED [   36610418] foreverswagger       ( 1702.2,   -16.8,  4197.6)
+  girlll
+2022-10-10T01:36:59Z: CHRCTER ADDED  [ 1955129839] lovercute22236      
+2022-10-10T01:36:59Z: PLAYER CHATTED [ 3079081129] Euphoriajustice      ( 1708.4,   -19.3,  4197.2)
+  Thank god my dad don’t live with me 
+2022-10-10T01:36:59Z: PLAYER CHATTED [  272468702] xvryze               ( 1713.4,   -19.5,  4201.1)
+  he brother hoooorn
+2022-10-10T01:37:00Z: PLAYER CHATTED [  272468702] xvryze               ( 1713.4,   -19.5,  4201.1)
+  ey
+2022-10-10T01:37:05Z: PLAYER CHATTED [ 1668189691] ClaireBearPlays_YTT  ( 1701.2,   -17.1,  4181.1)
+  STOP
+2022-10-10T01:37:09Z: PLAYER CHATTED [   36610418] foreverswagger       ( 1702.2,   -16.8,  4197.6)
+  oop-
+2022-10-10T01:37:14Z: PLAYER CHATTED [ 1668189691] ClaireBearPlays_YTT  ( 1701.2,   -17.0,  4181.1)
+  justice i wish
+2022-10-10T01:37:27Z: PLAYER CHATTED [ 3079081129] Euphoriajustice      ( 1708.4,   -19.3,  4197.2)
+  But my dad isn’t strict so even if he did 
+2022-10-10T01:37:35Z: PLAYER CHATTED [ 1668189691] ClaireBearPlays_YTT  ( 1701.2,   -17.0,  4181.1)
+  DYLAN HEARD MY DAD WAS LIKE "wyd."
+2022-10-10T01:37:44Z: PLAYER REMOVED [    1630228] VisualPlugin

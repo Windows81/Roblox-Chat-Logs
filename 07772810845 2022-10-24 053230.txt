@@ -1,0 +1,238 @@
+[    1630228] : [ 7772810845] The Presentation Experience - 1c83410a-558c-4631-9b5e-079b261d670f
+2022-10-24T05:32:30Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-10-24T05:32:30Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-10-24T05:32:30Z: PLAYER ADDED   [ 2661117504] Thit0u
+2022-10-24T05:32:30Z: PLAYER ADDED   [ 3905472638] onceyaz
+2022-10-24T05:32:30Z: PLAYER ADDED   [ 3463116559] LaNiMaadjnd
+2022-10-24T05:32:30Z: PLAYER ADDED   [ 1647748715] Aries_Lyla02
+2022-10-24T05:32:30Z: PLAYER ADDED   [ 3883336338] goku1208sajajin
+2022-10-24T05:32:30Z: PLAYER ADDED   [ 3972379418] Jmen339
+2022-10-24T05:32:30Z: PLAYER ADDED   [ 3493419459] TheDani2blea
+2022-10-24T05:32:30Z: PLAYER ADDED   [ 1574128170] hugojog39
+2022-10-24T05:32:30Z: PLAYER ADDED   [ 3016977830] MarkusRetro_8
+2022-10-24T05:32:30Z: PLAYER ADDED   [ 1836447806] Hammer_1983
+2022-10-24T05:32:30Z: PLAYER ADDED   [ 2514688076] AXELXD3837
+2022-10-24T05:32:31Z: PLAYER CHATTED [ 2514688076] AXELXD3837           (   31.5,    21.0,   -12.1)
+  se ##### ####
+2022-10-24T05:32:34Z: PLAYER CHATTED [ 2514688076] AXELXD3837           (   31.5,    21.0,   -12.1)
+  #####
+2022-10-24T05:32:37Z: PLAYER CHATTED [ 2514688076] AXELXD3837           (   31.5,    21.0,   -12.1)
+  luis
+2022-10-24T05:32:44Z: PLAYER CHATTED [ 1647748715] Aries_Lyla02         (    9.2,    21.2,     5.4)
+  me
+2022-10-24T05:32:53Z: PLAYER REMOVED [ 3883336338] goku1208sajajin
+2022-10-24T05:32:56Z: PLAYER ADDED   [ 2227487485] superlopez6666
+2022-10-24T05:32:58Z: PLAYER CHATTED [ 1647748715] Aries_Lyla02         (    9.2,    21.2,     5.4)
+  me
+2022-10-24T05:33:00Z: PLAYER REMOVED [ 1836447806] Hammer_1983
+2022-10-24T05:33:10Z: PLAYER ADDED   [ 1836447806] Hammer_1983
+2022-10-24T05:33:25Z: PLAYER CHATTED [ 1647748715] Aries_Lyla02         (   31.5,    21.2,   -12.1)
+  hoy les vengo hablar sobre un tema que me gusta mucho
+2022-10-24T05:33:27Z: PLAYER CHATTED [ 2514688076] AXELXD3837           (   17.2,    21.0,     5.4)
+  que
+2022-10-24T05:33:29Z: PLAYER CHATTED [ 2514688076] AXELXD3837           (   17.2,    21.0,     5.4)
+  so
+2022-10-24T05:33:30Z: PLAYER CHATTED [ 2514688076] AXELXD3837           (   17.2,    21.0,     5.4)
+  rra
+2022-10-24T05:33:32Z: PLAYER CHATTED [ 2514688076] AXELXD3837           (   17.2,    21.0,     5.4)
+  eres
+2022-10-24T05:33:34Z: PLAYER CHATTED [ 2514688076] AXELXD3837           (   17.2,    21.0,     5.4)
+  tu
+2022-10-24T05:33:36Z: PLAYER CHATTED [ 1647748715] Aries_Lyla02         (   31.5,    21.2,   -12.1)
+  el queso es una fuente de proteínas y grasas muy buena
+2022-10-24T05:33:37Z: PLAYER ADDED   [ 3402567676] rr_igor13
+2022-10-24T05:33:43Z: PLAYER CHATTED [ 1647748715] Aries_Lyla02         (   31.5,    21.2,   -12.1)
+  nos da mucho en qué pensar
+2022-10-24T05:33:53Z: PLAYER CHATTED [ 2514688076] AXELXD3837           (   17.2,    21.0,     5.4)
+  me vale vr si el queso tiene #####
+2022-10-24T05:33:55Z: PLAYER CHATTED [ 1647748715] Aries_Lyla02         (   31.5,    21.2,   -12.1)
+  las vacas se sacrifican haciendo queso son explotados ############
+2022-10-24T05:34:03Z: PLAYER REMOVED [ 2227487485] superlopez6666
+2022-10-24T05:34:11Z: PLAYER ADDED   [ 1935733157] jadilla00p
+2022-10-24T05:34:24Z: PLAYER CHATTED [ 2514688076] AXELXD3837           (   17.2,    21.0,     5.4)
+  me
+2022-10-24T05:34:28Z: PLAYER CHATTED [ 2514688076] AXELXD3837           (   17.2,    21.0,     5.4)
+  yes
+2022-10-24T05:34:38Z: PLAYER CHATTED [ 1935733157] jadilla00p           (    9.2,    21.1,   -18.6)
+  #####
+2022-10-24T05:34:40Z: PLAYER CHATTED [ 2514688076] AXELXD3837           (   31.5,    21.0,   -12.1)
+  el chocolate es kk que sabe rico
+2022-10-24T05:34:43Z: PLAYER CHATTED [ 1574128170] hugojog39            (    1.1,    21.0,    -2.5)
+  me
+2022-10-24T05:34:43Z: PLAYER CHATTED [ 2514688076] AXELXD3837           (   31.5,    21.0,   -12.1)
+  xe
+2022-10-24T05:34:44Z: PLAYER CHATTED [ 3463116559] LaNiMaadjnd          (   17.2,    21.2,   -10.6)
+  #########
+2022-10-24T05:34:46Z: PLAYER CHATTED [ 1935733157] jadilla00p           (    9.2,    21.1,   -18.6)
+  64
+2022-10-24T05:34:48Z: PLAYER CHATTED [ 1574128170] hugojog39            (    1.1,    21.0,    -2.5)
+  me
+2022-10-24T05:34:49Z: PLAYER CHATTED [ 1647748715] Aries_Lyla02         (    9.2,    21.2,     5.4)
+  Come caca Axel
+2022-10-24T05:34:49Z: PLAYER CHATTED [ 1574128170] hugojog39            (    1.1,    21.0,    -2.5)
+  me
+2022-10-24T05:34:50Z: PLAYER CHATTED [ 3463116559] LaNiMaadjnd          (   17.2,    21.2,   -10.6)
+  Idusissoi
+2022-10-24T05:34:51Z: PLAYER CHATTED [ 1574128170] hugojog39            (    1.1,    21.0,    -2.5)
+  me
+2022-10-24T05:34:55Z: PLAYER CHATTED [ 3463116559] LaNiMaadjnd          (   17.2,    21.2,   -10.6)
+  ########
+2022-10-24T05:34:58Z: PLAYER CHATTED [ 3463116559] LaNiMaadjnd          (   17.2,    21.2,   -10.6)
+  ####
+2022-10-24T05:34:58Z: PLAYER CHATTED [ 2514688076] AXELXD3837           (   31.5,    21.0,   -12.1)
+  🧐💪🏻
+2022-10-24T05:35:06Z: PLAYER CHATTED [ 1574128170] hugojog39            (    1.1,    21.0,    -2.5)
+  me
+2022-10-24T05:35:10Z: PLAYER REMOVED [ 1935733157] jadilla00p
+2022-10-24T05:35:14Z: PLAYER ADDED   [ 3363642451] surperpropi
+2022-10-24T05:35:14Z: PLAYER CHATTED [ 2514688076] AXELXD3837           (   31.5,    21.0,   -12.1)
+  aver si van a estar diciendo buuuu mejor ve a espantar viejas
+2022-10-24T05:35:23Z: PLAYER CHATTED [ 1574128170] hugojog39            (    1.1,    21.0,    -2.5)
+  me
+2022-10-24T05:35:27Z: PLAYER CHATTED [ 3402567676] rr_igor13            (    1.0,    21.0,     5.5)
+  I'm sorry teacher
+2022-10-24T05:35:28Z: PLAYER CHATTED [ 1647748715] Aries_Lyla02         (    9.2,    21.2,     5.4)
+  come kk axel
+2022-10-24T05:35:29Z: PLAYER CHATTED [ 1574128170] hugojog39            (    1.1,    21.0,    -2.5)
+  me
+2022-10-24T05:35:30Z: PLAYER CHATTED [ 1574128170] hugojog39            (    1.1,    21.0,    -2.5)
+  me
+2022-10-24T05:35:40Z: PLAYER CHATTED [ 1574128170] hugojog39            (    1.1,    21.0,    -2.5)
+  me
+2022-10-24T05:35:43Z: PLAYER CHATTED [ 1647748715] Aries_Lyla02         (    9.2,    21.2,     5.4)
+  😚
+2022-10-24T05:35:44Z: PLAYER CHATTED [ 2514688076] AXELXD3837           (   17.2,    21.0,     5.4)
+  me vale vr tu opinión 
+2022-10-24T05:35:47Z: PLAYER CHATTED [ 1574128170] hugojog39            (    1.1,    21.0,    -2.5)
+  me
+2022-10-24T05:35:59Z: PLAYER CHATTED [ 3463116559] LaNiMaadjnd          (   17.2,    21.2,   -10.6)
+  ##############
+2022-10-24T05:36:00Z: PLAYER CHATTED [ 1647748715] Aries_Lyla02         (    9.2,    21.2,     5.4)
+  qn te preguntó 
+2022-10-24T05:36:00Z: PLAYER CHATTED [ 1574128170] hugojog39            (    1.1,    21.0,    -2.5)
+  
+2022-10-24T05:36:01Z: PLAYER CHATTED [ 3402567676] rr_igor13            (    1.0,    21.0,     5.5)
+  I'm sorry teacher by ### ##### ####
+2022-10-24T05:36:05Z: PLAYER CHATTED [ 3463116559] LaNiMaadjnd          (   17.2,    21.2,   -10.6)
+  #########
+2022-10-24T05:36:10Z: PLAYER CHATTED [ 3463116559] LaNiMaadjnd          (   17.2,    21.2,   -10.6)
+  Los,d
+2022-10-24T05:36:13Z: PLAYER CHATTED [ 3463116559] LaNiMaadjnd          (   17.2,    21.2,   -10.6)
+  Le,sple
+2022-10-24T05:36:17Z: PLAYER CHATTED [ 3463116559] LaNiMaadjnd          (   17.2,    21.2,   -10.6)
+  Lol.red.e
+2022-10-24T05:36:18Z: PLAYER CHATTED [ 2514688076] AXELXD3837           (   17.2,    21.0,     5.4)
+  la tonta que me respondió 
+2022-10-24T05:36:19Z: PLAYER CHATTED [ 3463116559] LaNiMaadjnd          (   17.2,    21.2,   -10.6)
+  Elle.ls
+2022-10-24T05:36:25Z: PLAYER CHATTED [ 3463116559] LaNiMaadjnd          (   17.2,    21.2,   -10.6)
+  ###
+2022-10-24T05:36:26Z: PLAYER CHATTED [ 1647748715] Aries_Lyla02         (    9.2,    21.2,     5.4)
+  Tu ###
+2022-10-24T05:36:30Z: PLAYER CHATTED [ 1647748715] Aries_Lyla02         (    9.2,    21.2,     5.4)
+  XD
+2022-10-24T05:36:31Z: PLAYER CHATTED [ 2514688076] AXELXD3837           (   17.2,    21.0,     5.4)
+  zzz
+2022-10-24T05:36:33Z: PLAYER CHATTED [ 2514688076] AXELXD3837           (   17.2,    21.0,     5.4)
+  eres
+2022-10-24T05:36:39Z: PLAYER CHATTED [ 1574128170] hugojog39            (    1.1,    21.0,    -2.5)
+  cachetes
+2022-10-24T05:36:46Z: PLAYER CHATTED [ 2514688076] AXELXD3837           (   17.2,    21.0,     5.4)
+  mande
+2022-10-24T05:36:48Z: PLAYER CHATTED [ 2514688076] AXELXD3837           (   17.2,    21.0,     5.4)
+  we
+2022-10-24T05:36:51Z: PLAYER CHATTED [ 3402567676] rr_igor13            (   31.5,    21.0,   -12.1)
+  shut pie holes you all!!
+2022-10-24T05:36:52Z: PLAYER REMOVED [ 3905472638] onceyaz
+2022-10-24T05:36:59Z: PLAYER ADDED   [ 3905472638] onceyaz
+2022-10-24T05:37:01Z: PLAYER CHATTED [ 1574128170] hugojog39            (    1.1,    21.0,    -2.5)
+  como le aces para que te escojan
+2022-10-24T05:37:07Z: PLAYER CHATTED [ 2514688076] AXELXD3837           (   17.2,    21.0,     5.4)
+  dicendo
+2022-10-24T05:37:09Z: PLAYER CHATTED [ 2514688076] AXELXD3837           (   17.2,    21.0,     5.4)
+  me
+2022-10-24T05:37:13Z: PLAYER CHATTED [ 1574128170] hugojog39            (    1.1,    21.0,    -2.5)
+  a
+2022-10-24T05:37:18Z: PLAYER CHATTED [ 1574128170] hugojog39            (    1.1,    21.0,    -2.5)
+  grasias
+2022-10-24T05:37:18Z: PLAYER CHATTED [ 3402567676] rr_igor13            (    1.2,    21.0,     5.4)
+  siendo yo o le
+2022-10-24T05:37:21Z: PLAYER CHATTED [ 2514688076] AXELXD3837           (   17.2,    21.0,     5.4)
+  mira orita vas a ver
+2022-10-24T05:37:22Z: PLAYER CHATTED [ 1574128170] hugojog39            (    1.1,    21.0,    -2.5)
+  me
+2022-10-24T05:37:24Z: PLAYER CHATTED [ 3402567676] rr_igor13            (    1.2,    21.0,     5.4)
+  o me
+2022-10-24T05:37:26Z: PLAYER ADDED   [ 1896316932] sSunnyBee
+2022-10-24T05:37:39Z: PLAYER CHATTED [ 3402567676] rr_igor13            (    1.2,    21.0,     5.4)
+  ajá pero aveces no xd
+2022-10-24T05:37:40Z: PLAYER CHATTED [ 2514688076] AXELXD3837           (   17.2,    21.0,     5.4)
+  si digo me me elijen
+2022-10-24T05:37:53Z: PLAYER CHATTED [ 3402567676] rr_igor13            (    1.2,    21.0,     5.4)
+  losiento profe
+2022-10-24T05:38:04Z: PLAYER CHATTED [ 1647748715] Aries_Lyla02         (    9.2,    21.2,     5.4)
+  XD
+2022-10-24T05:38:08Z: PLAYER REMOVED [ 3905472638] onceyaz
+2022-10-24T05:38:14Z: PLAYER CHATTED [ 3402567676] rr_igor13            (    1.2,    21.0,     5.4)
+  por ## ###### ### ###
+2022-10-24T05:38:32Z: PLAYER CHATTED [ 1574128170] hugojog39            (    1.1,    21.0,    -2.5)
+  /me elijen
+2022-10-24T05:38:33Z: PLAYER CHATTED [ 2514688076] AXELXD3837           (   17.2,    21.0,     5.4)
+  me
+2022-10-24T05:38:37Z: PLAYER CHATTED [    1630228] VisualPlugin         (    9.1,    21.4,    -2.5)
+  4
+2022-10-24T05:38:38Z: PLAYER CHATTED [ 2514688076] AXELXD3837           (   17.2,    21.0,     5.4)
+  4
+2022-10-24T05:38:40Z: PLAYER CHATTED [ 1574128170] hugojog39            (    1.1,    21.0,    -2.5)
+  4
+2022-10-24T05:38:50Z: PLAYER CHATTED [ 3402567676] rr_igor13            (    1.2,    21.0,     5.4)
+  4
+2022-10-24T05:38:56Z: PLAYER REMOVED [ 3972379418] Jmen339
+2022-10-24T05:38:56Z: PLAYER CHATTED [ 1574128170] hugojog39            (    1.1,    21.0,    -2.5)
+  hi
+2022-10-24T05:39:04Z: PLAYER CHATTED [ 2514688076] AXELXD3837           (   17.2,    21.0,     5.4)
+  ya me voy ########## como el cachetes xd
+2022-10-24T05:39:06Z: PLAYER CHATTED [ 3402567676] rr_igor13            (    1.2,    21.0,     5.4)
+  teacher ### ####
+2022-10-24T05:39:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (   36.9,    30.1,   -19.7)
+  ÒÓ
+2022-10-24T05:39:18Z: PLAYER CHATTED [ 2514688076] AXELXD3837           (   17.2,    21.0,     5.4)
+  *se va*
+2022-10-24T05:39:25Z: PLAYER CHATTED [ 2514688076] AXELXD3837           (   17.2,    21.0,     5.4)
+  pero antes un siuuuuu
+2022-10-24T05:39:32Z: PLAYER ADDED   [ 3777484998] princesahermosa01234
+2022-10-24T05:39:32Z: PLAYER CHATTED [ 3402567676] rr_igor13            (    1.2,    21.0,     5.4)
+  me pls
+2022-10-24T05:39:43Z: PLAYER CHATTED [ 2514688076] AXELXD3837           (   20.2,    24.0,     5.4)
+  Macarena mejor
+2022-10-24T05:39:50Z: PLAYER CHATTED [ 2514688076] AXELXD3837           (   17.2,    21.0,     5.4)
+  *se va*
+2022-10-24T05:39:55Z: PLAYER CHATTED [ 2514688076] AXELXD3837           (   17.2,    21.0,     5.4)
+  #### #####
+2022-10-24T05:40:09Z: PLAYER REMOVED [ 2514688076] AXELXD3837
+2022-10-24T05:40:09Z: PLAYER REMOVED [ 3493419459] TheDani2blea
+2022-10-24T05:40:23Z: PLAYER ADDED   [ 3443672025] robloxino1384
+2022-10-24T05:40:39Z: PLAYER ADDED   [ 3997945124] calleta64743
+2022-10-24T05:40:46Z: PLAYER CHATTED [ 3777484998] princesahermosa01234 (   17.2,    21.1,    -2.6)
+  yooo
+2022-10-24T05:40:56Z: PLAYER CHATTED [ 3363642451] surperpropi          (    9.2,    21.0,   -18.6)
+  para volar tienes que ser un súper #######
+2022-10-24T05:41:07Z: PLAYER CHATTED [ 3402567676] rr_igor13            (    1.2,    21.0,     5.4)
+  mee
+2022-10-24T05:41:12Z: PLAYER CHATTED [ 1574128170] hugojog39            (    1.1,    21.0,    -2.5)
+  meeee
+2022-10-24T05:41:15Z: PLAYER CHATTED [ 1896316932] sSunnyBee            (   -7.1,    20.7,   -10.5)
+  me
+2022-10-24T05:41:19Z: PLAYER CHATTED [ 3402567676] rr_igor13            (    1.2,    21.0,     5.4)
+  pls teacher
+2022-10-24T05:41:26Z: PLAYER CHATTED [ 1647748715] Aries_Lyla02         (    9.2,    21.2,     5.4)
+  casup
+2022-10-24T05:41:34Z: PLAYER CHATTED [ 1896316932] sSunnyBee            (   30.2,    20.7,   -16.9)
+  la catsup es roja
+2022-10-24T05:41:36Z: PLAYER CHATTED [ 3402567676] rr_igor13            (    1.2,    21.0,     5.4)
+  can I be next teacher
+2022-10-24T05:41:38Z: PLAYER CHATTED [ 1574128170] hugojog39            (   31.5,    21.0,   -12.1)
+  buenas noches
+2022-10-24T05:41:44Z: PLAYER CHATTED [ 3777484998] princesahermosa01234 (   17.2,    21.1,    -2.6)
+  teachre
+2022-10-24T05:41:45Z: PLAYER REMOVED [    1630228] VisualPlugin
