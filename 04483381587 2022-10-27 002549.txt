@@ -1,0 +1,503 @@
+[    1630228] : [ 4483381587] a literal baseplate.  - fb079614-005d-49da-8064-bcfa1a7f8015
+2022-10-27T00:25:49Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-10-27T00:25:49Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-10-27T00:25:49Z: PLAYER ADDED   [ 3666556637] TeamDoomsday3
+2022-10-27T00:25:49Z: PLAYER ADDED   [ 3666555734] TeamDoomsday2
+2022-10-27T00:25:49Z: PLAYER ADDED   [ 3666554815] TeamDoomsday1
+2022-10-27T00:25:49Z: PLAYER ADDED   [ 2593121580] Leakyourscript
+2022-10-27T00:25:49Z: PLAYER ADDED   [ 4004421695] trgegeryj
+2022-10-27T00:25:49Z: PLAYER ADDED   [  144847268] xASTRO_D3MON
+2022-10-27T00:25:49Z: PLAYER ADDED   [ 2909692763] evilthemself
+2022-10-27T00:25:49Z: PLAYER ADDED   [ 2306204753] PhantomOfAnimals22
+2022-10-27T00:25:49Z: PLAYER ADDED   [  737496090] Brobasket480
+2022-10-27T00:25:49Z: PLAYER ADDED   [  722070046] ROstBLOudioXo
+2022-10-27T00:25:49Z: PLAYER ADDED   [ 1322489634] liamksouthwest
+2022-10-27T00:26:02Z: PLAYER CHATTED [ 2909692763] evilthemself         (    2.8,    13.0,   -67.4)
+  no there is a separate game with free admin
+2022-10-27T00:26:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (    5.3,    13.7,   -72.4)
+  I'm curious as to how you got these bots to show up serverside.
+2022-10-27T00:26:21Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (   -0.3,    13.2,   -77.4)
+  there just games running in the background
+2022-10-27T00:26:22Z: PLAYER ADDED   [ 1192831521] With_You09
+2022-10-27T00:26:23Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (    0.2,    13.0,   -72.4)
+  LOOL
+2022-10-27T00:26:26Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (   -0.7,    13.0,   -71.7)
+  for real?
+2022-10-27T00:26:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (    5.4,    13.7,   -76.2)
+  Makes sense.
+2022-10-27T00:26:30Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (    0.4,    13.2,   -77.5)
+  mult instance
+2022-10-27T00:26:31Z: PLAYER ADDED   [ 1915796552] Beamtrain
+2022-10-27T00:26:33Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (   -0.1,    13.0,   -72.2)
+  woow
+2022-10-27T00:26:40Z: PLAYER ADDED   [ 2515065511] Rashad12986
+2022-10-27T00:26:42Z: PLAYER CHATTED [ 1322489634] liamksouthwest       (    6.3,    13.0,   -69.4)
+  This ghost
+2022-10-27T00:26:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (    5.3,    13.7,   -74.3)
+  Gi_nu looks like a gnu.
+2022-10-27T00:26:49Z: PLAYER CHATTED [ 1322489634] liamksouthwest       (    6.3,    13.0,   -69.4)
+  Has a epic aura
+2022-10-27T00:26:52Z: PLAYER REMOVED [ 2515065511] Rashad12986
+2022-10-27T00:26:54Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (   -0.1,    13.0,   -72.2)
+  you should learn how metatables work
+2022-10-27T00:26:54Z: PLAYER ADDED   [ 3816108729] dasjiudhiusadu
+2022-10-27T00:26:55Z: PLAYER CHATTED [ 1192831521] With_You09           (   -0.9,    13.0,   -70.3)
+  true.
+2022-10-27T00:26:58Z: PLAYER ADDED   [ 3413905317] pittaplxg
+2022-10-27T00:27:07Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (    7.3,    13.0,   -70.4)
+  you can do heaps with metatables
+2022-10-27T00:27:10Z: PLAYER REMOVED [ 1322489634] liamksouthwest
+2022-10-27T00:27:18Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (    7.3,    13.0,   -70.4)
+  run functions when a table is indexed
+2022-10-27T00:27:19Z: PLAYER REMOVED [ 4004421695] trgegeryj
+2022-10-27T00:27:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (    5.3,    13.7,   -74.3)
+  I'm familiar with metatables, but I don't like working with them very much.
+2022-10-27T00:27:28Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (    8.1,    13.0,   -70.7)
+  i love metatables
+2022-10-27T00:27:42Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (    7.1,    13.0,   -70.4)
+  ooh nice
+2022-10-27T00:27:43Z: PLAYER REMOVED [ 1915796552] Beamtrain
+2022-10-27T00:27:44Z: PLAYER CHATTED [ 1192831521] With_You09           (   -0.9,    13.0,   -70.3)
+  average metatables enjoyer
+2022-10-27T00:27:44Z: PLAYER CHATTED [ 3413905317] pittaplxg            (   -8.5,    13.0,     7.8)
+  ################
+2022-10-27T00:27:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (    5.3,    13.7,   -74.3)
+  My executor uses a custom metatable to retrieve args,
+2022-10-27T00:27:55Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (    7.4,    13.0,   -69.9)
+  LOL
+2022-10-27T00:27:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (    5.3,    13.7,   -74.3)
+  Parameter for moduless.
+2022-10-27T00:27:57Z: PLAYER CHATTED [ 3413905317] pittaplxg            (    2.2,    13.0,   -68.5)
+  be a chad bro
+2022-10-27T00:28:00Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (    0.6,    13.2,   -74.3)
+  I dont make executors
+2022-10-27T00:28:00Z: PLAYER CHATTED [ 3413905317] pittaplxg            (    2.6,    13.0,   -69.1)
+  dont be a furry
+2022-10-27T00:28:03Z: PLAYER CHATTED [ 3413905317] pittaplxg            (    1.4,    13.0,   -69.2)
+  :/
+2022-10-27T00:28:06Z: PLAYER CHATTED [ 1192831521] With_You09           (   -0.9,    13.0,   -69.7)
+  nah no thanks
+2022-10-27T00:28:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (    5.3,    13.7,   -74.3)
+  But I don't like using them to represent OOP.
+2022-10-27T00:28:17Z: PLAYER CHATTED [ 2306204753] PhantomOfAnimals22   (   32.1,    13.0,    37.5)
+  i took a woooooOoCK
+2022-10-27T00:28:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (    5.3,    13.7,   -74.3)
+  Many devs do that,
+2022-10-27T00:28:19Z: PLAYER CHATTED [ 2306204753] PhantomOfAnimals22   (   32.1,    13.0,    37.5)
+  to poland
+2022-10-27T00:28:20Z: PLAYER CHATTED [ 3413905317] pittaplxg            (    1.4,    13.0,   -69.2)
+  You are an horrible person bro
+2022-10-27T00:28:20Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (    3.6,    13.2,   -72.4)
+  sounds to hard
+2022-10-27T00:28:24Z: PLAYER ADDED   [ 3811299826] bMhlXdbXcR3qn9d_17
+2022-10-27T00:28:24Z: PLAYER CHATTED [ 1192831521] With_You09           (   -0.9,    13.0,   -69.7)
+  you are too!
+2022-10-27T00:28:25Z: PLAYER REMOVED [ 3811299826] bMhlXdbXcR3qn9d_17
+2022-10-27T00:28:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (    5.3,    13.7,   -74.3)
+  But I use a singleton approach.
+2022-10-27T00:28:26Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (    8.3,    13.0,   -70.4)
+  OOP is op
+2022-10-27T00:28:28Z: PLAYER CHATTED [ 3413905317] pittaplxg            (    1.6,    13.0,   -69.6)
+  #################################
+2022-10-27T00:28:31Z: PLAYER CHATTED [ 1192831521] With_You09           (   -0.9,    13.0,   -69.7)
+  no one asked for your opinion!
+2022-10-27T00:28:33Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (    7.3,    13.0,   -70.0)
+  wait so you travel heaps?
+2022-10-27T00:28:34Z: PLAYER ADDED   [  404026155] Cleakie
+2022-10-27T00:28:39Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (    7.2,    13.0,   -69.5)
+  oh 
+2022-10-27T00:28:39Z: PLAYER CHATTED [ 1192831521] With_You09           (   -0.9,    13.0,   -69.7)
+  also "a horrible person"
+2022-10-27T00:28:48Z: PLAYER CHATTED [ 1192831521] With_You09           (   -0.9,    13.0,   -69.7)
+  not "an horrible person"
+2022-10-27T00:28:49Z: PLAYER CHATTED [ 3413905317] pittaplxg            (   -0.3,    13.0,   -66.8)
+  I gave a opinion
+2022-10-27T00:28:52Z: PLAYER CHATTED [ 1192831521] With_You09           (   -0.9,    13.0,   -69.7)
+  :)
+2022-10-27T00:28:56Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (   -4.3,    13.2,   -66.9)
+  why does it matter what his roblox avatar is
+2022-10-27T00:28:56Z: PLAYER CHATTED [    1630228] VisualPlugin         (    4.3,    13.7,   -75.2)
+  Check my GitHub out.
+2022-10-27T00:29:03Z: PLAYER CHATTED [    1630228] VisualPlugin         (    4.3,    13.7,   -75.2)
+  And go check my GH out.
+2022-10-27T00:29:06Z: PLAYER CHATTED [ 3413905317] pittaplxg            (    0.5,    13.0,   -67.3)
+  Yeah bcs i dont speak so much english
+2022-10-27T00:29:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (    4.3,    13.7,   -75.2)
+  /Windows81
+2022-10-27T00:29:10Z: PLAYER ADDED   [ 3975290142] achaopietro07
+2022-10-27T00:29:11Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (    7.5,    13.0,   -70.2)
+  alright
+2022-10-27T00:29:15Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (    8.1,    13.0,   -70.9)
+  ill go check that out right now
+2022-10-27T00:29:16Z: PLAYER CHATTED [ 3413905317] pittaplxg            (   -0.8,    13.0,   -65.0)
+  Bro if u see the culture
+2022-10-27T00:29:20Z: PLAYER CHATTED [ 3413905317] pittaplxg            (   -1.6,    13.0,   -64.4)
+  Of the ''furries''
+2022-10-27T00:29:22Z: PLAYER ADDED   [ 1352249503] Kur_VR
+2022-10-27T00:29:24Z: PLAYER CHATTED [ 3413905317] pittaplxg            (   -2.4,    13.0,   -63.8)
+  Is horrible bro
+2022-10-27T00:29:25Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (   -6.1,    13.2,   -66.1)
+  doesn't mean anything
+2022-10-27T00:29:31Z: PLAYER CHATTED [    1630228] VisualPlugin         (    4.3,    13.7,   -75.2)
+  I made my own CLI executor.
+2022-10-27T00:29:37Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (   -6.1,    13.2,   -66.1)
+  you cant base an entire community on one person
+2022-10-27T00:29:40Z: PLAYER CHATTED [ 3413905317] pittaplxg            (   -3.0,    13.0,   -63.3)
+  If you search what is furry
+2022-10-27T00:29:41Z: PLAYER CHATTED [ 1192831521] With_You09           (   -0.9,    13.0,   -69.7)
+  holy
+2022-10-27T00:29:45Z: PLAYER CHATTED [ 3413905317] pittaplxg            (   -3.6,    13.0,   -64.0)
+  OOOOOOOOOOO
+2022-10-27T00:29:47Z: PLAYER CHATTED [ 1192831521] With_You09           (   -3.4,    13.0,   -66.5)
+  someone based?
+2022-10-27T00:29:48Z: PLAYER CHATTED [ 3413905317] pittaplxg            (   -3.6,    13.0,   -64.0)
+  is the community
+2022-10-27T00:29:58Z: PLAYER REMOVED [ 3975290142] achaopietro07
+2022-10-27T00:29:59Z: PLAYER CHATTED [ 3413905317] pittaplxg            (   -3.3,    13.0,   -64.3)
+  Not the person right?
+2022-10-27T00:30:01Z: PLAYER CHATTED [ 1192831521] With_You09           (   -4.3,    13.0,   -67.2)
+  i agree with cali
+2022-10-27T00:30:07Z: PLAYER CHATTED [ 3413905317] pittaplxg            (   -3.1,    13.0,   -64.5)
+  You are from the community of furry?
+2022-10-27T00:30:10Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (    8.1,    13.0,   -70.9)
+  ###
+2022-10-27T00:30:10Z: PLAYER ADDED   [ 2535024571] t0ny_strk8759
+2022-10-27T00:30:13Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (    8.1,    13.0,   -71.9)
+  ur stuff is cool
+2022-10-27T00:30:16Z: PLAYER ADDED   [ 1293743009] jmg2r
+2022-10-27T00:30:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (    4.3,    13.7,   -75.2)
+  Thanks!
+2022-10-27T00:30:23Z: PLAYER CHATTED [ 3413905317] pittaplxg            (   -2.4,    13.0,   -65.1)
+  ?
+2022-10-27T00:30:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (    4.3,    13.7,   -75.2)
+  What executor do you use?
+2022-10-27T00:30:23Z: PLAYER CHATTED [ 1352249503] Kur_VR               (   -2.5,    13.0,    -1.1)
+  say
+2022-10-27T00:30:25Z: PLAYER CHATTED [ 1352249503] Kur_VR               (   -2.5,    13.0,    -1.1)
+  the
+2022-10-27T00:30:26Z: PLAYER CHATTED [ 1192831521] With_You09           (   -4.3,    13.0,   -67.2)
+  i am, doesnt make me related to those stuff
+2022-10-27T00:30:26Z: PLAYER CHATTED [ 1352249503] Kur_VR               (   -2.5,    13.0,    -1.1)
+  line
+2022-10-27T00:30:28Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (    6.4,    13.0,   -72.7)
+  synapse
+2022-10-27T00:30:31Z: PLAYER CHATTED [ 1192831521] With_You09           (   -4.3,    13.0,   -67.2)
+  learn the difference kiddo
+2022-10-27T00:30:40Z: PLAYER CHATTED [ 2535024571] t0ny_strk8759        (    9.1,    13.4,    -4.8)
+  what?
+2022-10-27T00:30:40Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (    6.4,    13.0,   -72.7)
+  ## made all those scripts?
+2022-10-27T00:30:42Z: PLAYER CHATTED [ 3413905317] pittaplxg            (   -2.2,    13.0,   -63.0)
+  The furry's community is toxic bro
+2022-10-27T00:30:44Z: PLAYER CHATTED [ 3413905317] pittaplxg            (   -2.2,    13.0,   -63.0)
+  A lot
+2022-10-27T00:30:44Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (   -5.7,    13.2,   -65.5)
+  theres a bunch of history of bad devs being ##### and stuff but does that make everyone a ##### bc there in that community
+2022-10-27T00:30:46Z: PLAYER CHATTED [    1630228] VisualPlugin         (    4.3,    13.7,   -75.2)
+  I heard they're switching payment schemes.
+2022-10-27T00:30:46Z: PLAYER ADDED   [ 3559772957] coolguy2053Goody
+2022-10-27T00:30:49Z: PLAYER ADDED   [ 1603920264] Derangedman_i
+2022-10-27T00:30:50Z: CHRCTER ADDED  [ 1352249503] Kur_VR              
+2022-10-27T00:30:50Z: PLAYER CHATTED [ 1192831521] With_You09           (   -3.5,    13.0,   -70.6)
+  you are being toxic right now
+2022-10-27T00:30:52Z: PLAYER REMOVED [ 1293743009] jmg2r
+2022-10-27T00:30:54Z: PLAYER CHATTED [ 3413905317] pittaplxg            (   -2.2,    13.0,   -65.7)
+  No bro
+2022-10-27T00:30:56Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (    5.9,    13.0,   -71.4)
+  alright cya
+2022-10-27T00:30:57Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (   -7.2,    13.2,   -65.4)
+  ####
+2022-10-27T00:30:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (    4.3,    13.7,   -75.2)
+  I made all my code, unless otherwise mentions.
+2022-10-27T00:30:58Z: PLAYER CHATTED [ 2535024571] t0ny_strk8759        (   -0.2,    13.4,   -79.4)
+  imma film a vid rn
+2022-10-27T00:30:59Z: PLAYER CHATTED [ 3413905317] pittaplxg            (   -1.8,    13.0,   -67.2)
+  IIm saying fax
+2022-10-27T00:31:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (    4.3,    13.7,   -75.2)
+  *Mentioned.
+2022-10-27T00:31:01Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (    5.4,    13.0,   -70.0)
+  LOL
+2022-10-27T00:31:03Z: PLAYER CHATTED [ 3559772957] coolguy2053Goody     (   -4.3,    13.0,   -97.2)
+  OMG OMG OIMG
+2022-10-27T00:31:04Z: PLAYER CHATTED [ 1192831521] With_You09           (   -3.5,    13.0,   -70.6)
+  "you are an horrible person"
+2022-10-27T00:31:07Z: PLAYER CHATTED [ 3559772957] coolguy2053Goody     (   -2.2,    13.0,  -104.1)
+  dr livesy
+2022-10-27T00:31:07Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (    5.4,    13.0,   -70.0)
+  alright cya 
+2022-10-27T00:31:08Z: PLAYER CHATTED [ 2535024571] t0ny_strk8759        (   -0.5,    13.4,  -111.2)
+  what
+2022-10-27T00:31:08Z: PLAYER CHATTED [ 1192831521] With_You09           (   -3.5,    13.0,   -70.6)
+  lel
+2022-10-27T00:31:10Z: PLAYER CHATTED [ 3559772957] coolguy2053Goody     (   -1.8,    13.0,  -106.7)
+  #######
+2022-10-27T00:31:10Z: PLAYER REMOVED [ 2909692763] evilthemself
+2022-10-27T00:31:11Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (   -6.9,    13.2,   -66.3)
+  it shouldn't matter
+2022-10-27T00:31:12Z: CHRCTER ADDED  [  722070046] ROstBLOudioXo       
+2022-10-27T00:31:13Z: PLAYER CHATTED [ 1352249503] Kur_VR               (   -1.3,    13.0,   -76.4)
+  does this game not have dynamic faces enabled
+2022-10-27T00:31:13Z: PLAYER CHATTED [ 2535024571] t0ny_strk8759        (   -0.5,    13.4,  -111.2)
+  heheh
+2022-10-27T00:31:14Z: PLAYER CHATTED [ 3413905317] pittaplxg            (   -1.8,    13.0,   -67.2)
+  If you dont agree i dont have any problem
+2022-10-27T00:31:16Z: PLAYER REMOVED [ 3816108729] dasjiudhiusadu
+2022-10-27T00:31:20Z: PLAYER ADDED   [ 3814687515] cripBWCvlhxOlKn_10
+2022-10-27T00:31:21Z: PLAYER REMOVED [ 3814687515] cripBWCvlhxOlKn_10
+2022-10-27T00:31:22Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (   -5.7,    13.2,   -66.8)
+  its just an in-game avatar
+2022-10-27T00:31:24Z: PLAYER CHATTED [  722070046] ROstBLOudioXo        (   -4.9,    13.2,  -109.5)
+  dr livesey
+2022-10-27T00:31:25Z: PLAYER CHATTED [ 3559772957] coolguy2053Goody     (   -2.1,    13.0,  -106.2)
+  OMG!!11!
+2022-10-27T00:31:34Z: PLAYER ADDED   [ 3811300630] bMhlXdbXcR3qn9d_19
+2022-10-27T00:31:35Z: PLAYER REMOVED [ 3811300630] bMhlXdbXcR3qn9d_19
+2022-10-27T00:31:36Z: PLAYER CHATTED [ 2535024571] t0ny_strk8759        (   -3.4,    13.4,  -117.7)
+  rom or death
+2022-10-27T00:31:38Z: PLAYER CHATTED [ 3559772957] coolguy2053Goody     (   -5.9,    13.0,  -117.4)
+  ## ############
+2022-10-27T00:31:40Z: PLAYER CHATTED [ 3559772957] coolguy2053Goody     (   -6.7,    13.0,  -119.7)
+  rom
+2022-10-27T00:31:41Z: PLAYER CHATTED [  722070046] ROstBLOudioXo        (   -1.5,    13.2,  -122.3)
+  rom
+2022-10-27T00:31:42Z: PLAYER CHATTED [ 3559772957] coolguy2053Goody     (   -6.1,    13.0,  -117.8)
+  and death
+2022-10-27T00:31:44Z: PLAYER CHATTED [ 2535024571] t0ny_strk8759        (   -0.6,    13.4,  -115.9)
+  good
+2022-10-27T00:31:44Z: PLAYER ADDED   [  675792429] GlitterRiley707
+2022-10-27T00:31:46Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (   -5.7,    13.2,   -66.8)
+  like I could say you an average da hood player considering your otufit
+2022-10-27T00:31:55Z: PLAYER CHATTED [ 3413905317] pittaplxg            (   -1.7,    13.0,   -67.8)
+  You search
+2022-10-27T00:32:01Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (   -5.1,    13.2,   -67.3)
+  or average dollhouse enjoyer
+2022-10-27T00:32:01Z: PLAYER CHATTED [  675792429] GlitterRiley707      (   -0.8,    13.0,   -55.5)
+  hello
+2022-10-27T00:32:04Z: PLAYER CHATTED [ 3559772957] coolguy2053Goody     (   -5.5,    13.0,   -52.0)
+  can i drink u milk
+2022-10-27T00:32:08Z: PLAYER CHATTED [ 3559772957] coolguy2053Goody     (   -5.5,    13.0,   -52.0)
+  :)
+2022-10-27T00:32:09Z: PLAYER CHATTED [ 3413905317] pittaplxg            (   -1.7,    13.0,   -67.8)
+  How horrible the furries community ###
+2022-10-27T00:32:09Z: PLAYER CHATTED [ 1192831521] With_You09           (   -3.3,    13.0,   -70.1)
+  average da hood 24/7 player
+2022-10-27T00:32:12Z: PLAYER CHATTED [  675792429] GlitterRiley707      (   -0.8,    13.0,   -55.5)
+  yez?
+2022-10-27T00:32:17Z: PLAYER CHATTED [ 3413905317] pittaplxg            (   -1.9,    13.0,   -66.9)
+  Yeah i play da hood
+2022-10-27T00:32:21Z: PLAYER ADDED   [ 3993879876] AsslsVeryGood
+2022-10-27T00:32:21Z: PLAYER CHATTED [ 3413905317] pittaplxg            (   -1.9,    13.0,   -66.9)
+  Im a pro player
+2022-10-27T00:32:23Z: PLAYER CHATTED [ 1603920264] Derangedman_i        (   -6.3,    13.2,   -69.0)
+  💀
+2022-10-27T00:32:27Z: PLAYER CHATTED [ 2535024571] t0ny_strk8759        (    1.2,    13.4,  -105.5)
+  imma start filming a vid in a sec
+2022-10-27T00:32:32Z: PLAYER REMOVED [ 3559772957] coolguy2053Goody
+2022-10-27T00:32:35Z: PLAYER CHATTED [ 1192831521] With_You09           (   -3.3,    13.0,   -70.2)
+  explains how you act
+2022-10-27T00:32:36Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (   -5.0,    13.2,   -66.2)
+  how old are you
+2022-10-27T00:32:37Z: PLAYER CHATTED [  675792429] GlitterRiley707      (    8.0,    13.0,   -63.1)
+  WHAT THE
+2022-10-27T00:32:39Z: PLAYER CHATTED [ 3413905317] pittaplxg            (   -1.8,    13.0,   -67.4)
+  Only say me
+2022-10-27T00:32:41Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -13.8,    13.7,   -56.5)
+  Dr_: make sure to disable Core GUIs first.
+2022-10-27T00:32:51Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -2.6,    13.7,   -42.7)
+  If you have an executor handy, it's easy.
+2022-10-27T00:32:52Z: PLAYER CHATTED [ 3413905317] pittaplxg            (   -1.6,    13.0,   -68.3)
+  You are toxic?
+2022-10-27T00:32:58Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (   -3.6,    13.0,   -35.3)
+  yo your scripts are op
+2022-10-27T00:32:59Z: PLAYER CHATTED [  675792429] GlitterRiley707      (   -5.4,    13.0,   -69.1)
+  ngl
+2022-10-27T00:33:05Z: PLAYER CHATTED [ 1192831521] With_You09           (   -4.9,    13.0,   -72.5)
+  if the situation requires it
+2022-10-27T00:33:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -4.5,    13.7,   -37.6)
+  Any ones in particular?
+2022-10-27T00:33:06Z: PLAYER CHATTED [  675792429] GlitterRiley707      (   -5.4,    13.0,   -69.1)
+  i could tell
+2022-10-27T00:33:09Z: CHRCTER ADDED  [ 2535024571] t0ny_strk8759       
+2022-10-27T00:33:10Z: CHRCTER ADDED  [ 1352249503] Kur_VR              
+2022-10-27T00:33:10Z: PLAYER CHATTED [ 3413905317] pittaplxg            (   -2.0,    13.0,   -68.2)
+  ?
+2022-10-27T00:33:11Z: PLAYER CHATTED [  675792429] GlitterRiley707      (   -5.4,    13.0,   -69.1)
+  if oyu play da hood or not
+2022-10-27T00:33:17Z: PLAYER CHATTED [ 2535024571] t0ny_strk8759        (    8.1,    13.4,   -21.0)
+  hi
+2022-10-27T00:33:18Z: PLAYER CHATTED [  675792429] GlitterRiley707      (   -5.4,    13.0,   -69.1)
+  even tho you said yo did
+2022-10-27T00:33:20Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (   -1.1,    13.0,   -38.3)
+  i just finish reading plr one
+2022-10-27T00:33:21Z: PLAYER CHATTED [  675792429] GlitterRiley707      (   -5.4,    13.0,   -69.1)
+  even before that
+2022-10-27T00:33:23Z: PLAYER CHATTED [ 2535024571] t0ny_strk8759        (   12.9,    13.4,   -21.2)
+  do you know who i am
+2022-10-27T00:33:23Z: PLAYER CHATTED [ 3413905317] pittaplxg            (   -3.1,    13.0,   -67.5)
+  W### ### you bro?
+2022-10-27T00:33:25Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (   -4.4,    13.2,   -66.2)
+  average dahood player are toxic
+2022-10-27T00:33:26Z: PLAYER ADDED   [ 3552687183] LeukemiaChemotherapy
+2022-10-27T00:33:29Z: PLAYER CHATTED [ 3413905317] pittaplxg            (   -2.9,    13.0,   -68.1)
+  Who are you bro?
+2022-10-27T00:33:29Z: PLAYER CHATTED [ 1352249503] Kur_VR               (   15.0,    13.0,   -17.5)
+  yeah
+2022-10-27T00:33:29Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (   -1.1,    13.0,   -38.3)
+  its very different
+2022-10-27T00:33:30Z: PLAYER CHATTED [  675792429] GlitterRiley707      (   -5.4,    13.0,   -69.1)
+  i had a feeling that oyu played it
+2022-10-27T00:33:32Z: PLAYER CHATTED [ 2535024571] t0ny_strk8759        (   12.5,    13.4,   -21.0)
+  who
+2022-10-27T00:33:33Z: PLAYER CHATTED [ 3413905317] pittaplxg            (   -2.4,    13.0,   -66.3)
+  Nah bro
+2022-10-27T00:33:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -4.5,    13.7,   -37.6)
+  Doesn't do much.
+2022-10-27T00:33:33Z: PLAYER CHATTED [ 1352249503] Kur_VR               (   15.0,    13.0,   -17.5)
+  you were js in the server
+2022-10-27T00:33:37Z: PLAYER CHATTED [ 1352249503] Kur_VR               (   15.0,    13.0,   -17.5)
+  a couple seconds ago
+2022-10-27T00:33:42Z: PLAYER CHATTED [  675792429] GlitterRiley707      (   -5.4,    13.0,   -69.1)
+  im a little toxic
+2022-10-27T00:33:42Z: PLAYER CHATTED [ 2535024571] t0ny_strk8759        (   12.5,    13.4,   -21.0)
+  no on ######
+2022-10-27T00:33:42Z: PLAYER CHATTED [ 1352249503] Kur_VR               (   15.0,    13.0,   -17.5)
+  you had the dr livesy drip
+2022-10-27T00:33:43Z: PLAYER CHATTED [ 3413905317] pittaplxg            (   -2.4,    13.0,   -66.3)
+  The da hood is a game for #### ######
+2022-10-27T00:33:46Z: PLAYER CHATTED [  675792429] GlitterRiley707      (   -5.4,    13.0,   -69.1)
+  i dont play da hood
+2022-10-27T00:33:47Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (   -1.1,    13.0,   -38.3)
+  these scripst are insane
+2022-10-27T00:33:47Z: PLAYER CHATTED [ 2535024571] t0ny_strk8759        (   12.5,    13.4,   -21.0)
+  yeah
+2022-10-27T00:33:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -4.5,    13.7,   -37.6)
+  How would you say it's different?
+2022-10-27T00:33:50Z: PLAYER CHATTED [ 2535024571] t0ny_strk8759        (   12.5,    13.4,   -21.0)
+  but
+2022-10-27T00:33:51Z: PLAYER CHATTED [ 3413905317] pittaplxg            (   -2.4,    13.0,   -66.3)
+  Not an ''Adopt me funny to kids''
+2022-10-27T00:33:51Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (   -5.3,    13.2,   -64.8)
+  wdym who am I
+2022-10-27T00:33:57Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (   -1.1,    13.0,   -38.3)
+  mine are simple LOL
+2022-10-27T00:33:58Z: PLAYER CHATTED [ 1192831521] With_You09           (   -1.5,    13.0,   -69.4)
+  is the word "bro" the only thing you say
+2022-10-27T00:33:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -4.5,    13.7,   -37.6)
+  I'm interested in the opinion!
+2022-10-27T00:34:00Z: PLAYER REMOVED [ 1603920264] Derangedman_i
+2022-10-27T00:34:01Z: CHRCTER ADDED  [ 1352249503] Kur_VR              
+2022-10-27T00:34:01Z: PLAYER CHATTED [ 2535024571] t0ny_strk8759        (    9.5,    13.4,   -22.8)
+  im a ########
+2022-10-27T00:34:01Z: PLAYER REMOVED [  675792429] GlitterRiley707
+2022-10-27T00:34:01Z: PLAYER CHATTED [ 3413905317] pittaplxg            (   -2.6,    13.0,   -65.3)
+  An simple guy.
+2022-10-27T00:34:08Z: PLAYER CHATTED [ 2535024571] t0ny_strk8759        (    8.4,    13.4,   -23.8)
+  i hate tags bruh
+2022-10-27T00:34:10Z: PLAYER ADDED   [  105689208] WyvLich
+2022-10-27T00:34:11Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (   -5.3,    13.2,   -64.8)
+  yea whats wrong with that
+2022-10-27T00:34:11Z: PLAYER CHATTED [ 1192831521] With_You09           (   -1.5,    13.0,   -69.4)
+  just asking
+2022-10-27T00:34:11Z: CHRCTER ADDED  [  722070046] ROstBLOudioXo       
+2022-10-27T00:34:11Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (   -1.1,    13.0,   -38.3)
+  mine are simple
+2022-10-27T00:34:12Z: PLAYER CHATTED [ 3413905317] pittaplxg            (   -1.8,    13.0,   -66.7)
+  U have any problem with this?
+2022-10-27T00:34:15Z: PLAYER ADDED   [ 1003646964] EdisonD316_Jake
+2022-10-27T00:34:19Z: PLAYER CHATTED [ 3413905317] pittaplxg            (   -2.4,    13.0,   -65.3)
+  No bro
+2022-10-27T00:34:19Z: PLAYER CHATTED [ 2535024571] t0ny_strk8759        (    2.1,    13.4,   -90.0)
+  imma start filming
+2022-10-27T00:34:20Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (   -1.1,    13.0,   -38.3)
+  like they dont use much stuff like yours
+2022-10-27T00:34:22Z: PLAYER CHATTED [ 1352249503] Kur_VR               (   -2.3,    13.0,   -62.3)
+  cali I have a quick question
+2022-10-27T00:34:23Z: PLAYER CHATTED [ 3413905317] pittaplxg            (   -2.4,    13.0,   -65.3)
+  U have my respect bro
+2022-10-27T00:34:25Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (   -5.3,    13.2,   -65.7)
+  ?
+2022-10-27T00:34:27Z: PLAYER CHATTED [ 1352249503] Kur_VR               (   -2.3,    13.0,   -62.3)
+  do you need r15 to make dynamic faces work?
+2022-10-27T00:34:29Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (   -1.1,    13.0,   -38.3)
+  you use heaps of local values
+2022-10-27T00:34:29Z: PLAYER CHATTED [ 3413905317] pittaplxg            (   -2.4,    13.0,   -65.3)
+  Only bcs u are an simple guy
+2022-10-27T00:34:29Z: PLAYER ADDED   [  111544116] specdo
+2022-10-27T00:34:32Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (   -5.3,    13.2,   -65.7)
+  yea
+2022-10-27T00:34:35Z: PLAYER CHATTED [ 1352249503] Kur_VR               (   -2.3,    13.0,   -62.3)
+  ofc
+2022-10-27T00:34:36Z: PLAYER CHATTED [ 2535024571] t0ny_strk8759        (    0.2,    13.4,   -96.6)
+  a vid
+2022-10-27T00:34:39Z: PLAYER CHATTED [ 2535024571] t0ny_strk8759        (    0.2,    13.4,   -96.6)
+  for tik
+2022-10-27T00:34:40Z: PLAYER CHATTED [ 2535024571] t0ny_strk8759        (    0.2,    13.4,   -96.6)
+  ###
+2022-10-27T00:34:41Z: PLAYER CHATTED [ 1352249503] Kur_VR               (   -2.3,    13.0,   -62.3)
+  L roblox choice
+2022-10-27T00:34:41Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -4.5,    13.7,   -37.6)
+  Local variables are said to be faster to load.
+2022-10-27T00:34:41Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (   -1.1,    13.0,   -38.3)
+  and _G
+2022-10-27T00:34:48Z: PLAYER CHATTED [ 2535024571] t0ny_strk8759        (    0.2,    13.4,   -96.6)
+  do you wana be in my vid
+2022-10-27T00:34:51Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (   -6.7,    13.2,   -66.8)
+  simple life = easy
+2022-10-27T00:34:53Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -4.5,    13.7,   -37.6)
+  _G is used to persist event loops.
+2022-10-27T00:34:53Z: PLAYER CHATTED [ 1192831521] With_You09           (   -1.5,    13.0,   -69.4)
+  reject r15, embrace r6
+2022-10-27T00:34:54Z: PLAYER CHATTED [  722070046] ROstBLOudioXo        (    1.3,    13.2,   -88.8)
+  yeah
+2022-10-27T00:34:58Z: PLAYER CHATTED [ 3413905317] pittaplxg            (   -2.9,    13.0,   -65.3)
+  yeah
+2022-10-27T00:35:00Z: PLAYER CHATTED [ 2535024571] t0ny_strk8759        (    0.7,    13.4,   -96.4)
+  if anyone wants to be in a vid get behind me
+2022-10-27T00:35:00Z: CHRCTER ADDED  [ 1352249503] Kur_VR              
+2022-10-27T00:35:01Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (   -1.1,    13.0,   -38.3)
+  oh
+2022-10-27T00:35:03Z: CHRCTER ADDED  [ 1003646964] EdisonD316_Jake     
+2022-10-27T00:35:03Z: PLAYER ADDED   [ 4004458523] Smile_Bot02
+2022-10-27T00:35:07Z: PLAYER CHATTED [  105689208] WyvLich              (   -0.4,    13.2,   -34.5)
+  no
+2022-10-27T00:35:09Z: PLAYER CHATTED [ 3552687183] LeukemiaChemotherapy (    1.9,    13.0,   -99.9)
+  yo
+2022-10-27T00:35:10Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (   -6.2,    13.2,   -66.4)
+  i use r6 on my main
+2022-10-27T00:35:11Z: PLAYER ADDED   [ 4004421695] trgegeryj
+2022-10-27T00:35:11Z: PLAYER CHATTED [ 1352249503] Kur_VR               (   -4.7,    13.0,   -36.5)
+  bro
+2022-10-27T00:35:12Z: PLAYER CHATTED [  722070046] ROstBLOudioXo        (   -1.7,    13.2,   -98.8)
+  boring time
+2022-10-27T00:35:13Z: CHRCTER ADDED  [  404026155] Cleakie             
+2022-10-27T00:35:13Z: PLAYER CHATTED [ 1352249503] Kur_VR               (   -4.7,    13.0,   -36.5)
+  ROBLOXX
+2022-10-27T00:35:14Z: PLAYER CHATTED [ 3552687183] LeukemiaChemotherapy (    1.9,    13.0,   -99.9)
+  this dude using ####
+2022-10-27T00:35:15Z: PLAYER CHATTED [ 3552687183] LeukemiaChemotherapy (    2.8,    13.0,   -99.4)
+  fr
+2022-10-27T00:35:16Z: PLAYER CHATTED [ 1352249503] Kur_VR               (   -4.7,    13.0,   -36.5)
+  it looks so bad
+2022-10-27T00:35:16Z: PLAYER CHATTED [ 3413905317] pittaplxg            (   -5.8,    13.0,   -38.8)
+  Alguém br?
+2022-10-27T00:35:18Z: PLAYER CHATTED [ 1352249503] Kur_VR               (   -4.7,    13.0,   -36.5)
+  on r15
+2022-10-27T00:35:18Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (    8.1,    13.2,   -90.3)
+  but banned rn
+2022-10-27T00:35:21Z: PLAYER CHATTED [ 1192831521] With_You09           (    5.5,    13.0,   -98.4)
+  hey
+2022-10-27T00:35:21Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (   -2.4,    13.0,   -93.2)
+  yo visual
+2022-10-27T00:35:23Z: PLAYER CHATTED [ 1352249503] Kur_VR               (   -4.7,    13.0,   -36.5)
+  but in r6 it looks goated
+2022-10-27T00:35:24Z: PLAYER CHATTED [ 1192831521] With_You09           (    5.5,    13.0,   -98.4)
+  i appreciate you
+2022-10-27T00:35:24Z: PLAYER ADDED   [ 1182592382] MostHatedDev
+2022-10-27T00:35:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -1.0,    13.7,   -97.7)
+  Hi.
+2022-10-27T00:35:30Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (   -1.7,    13.0,   -94.0)
+  you made the ####
+2022-10-27T00:35:33Z: PLAYER CHATTED [ 1192831521] With_You09           (    5.5,    13.0,   -98.4)
+  you are the first person that actually says my executor
+2022-10-27T00:35:34Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -1.0,    13.7,   -97.7)
+  Chipotle?

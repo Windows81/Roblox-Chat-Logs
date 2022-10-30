@@ -1,0 +1,1038 @@
+[    1630228] : [ 4483381587] a literal baseplate.  - fb079614-005d-49da-8064-bcfa1a7f8015
+2022-10-27T08:42:33Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-10-27T08:42:33Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-10-27T08:42:33Z: PLAYER ADDED   [ 3094575513] idoit123hh
+2022-10-27T08:42:33Z: PLAYER ADDED   [ 3175066628] somberFerret8
+2022-10-27T08:42:33Z: PLAYER ADDED   [ 1867125889] BaFeeRus_YT
+2022-10-27T08:42:33Z: PLAYER ADDED   [  903316822] TinnTinnx
+2022-10-27T08:42:33Z: PLAYER ADDED   [ 1056861514] vvequals
+2022-10-27T08:42:33Z: PLAYER ADDED   [ 4004699434] kffse7454
+2022-10-27T08:42:33Z: PLAYER ADDED   [ 1252649883] PandaKing576
+2022-10-27T08:42:33Z: PLAYER ADDED   [ 4005026869] Litttetimtim
+2022-10-27T08:42:33Z: PLAYER ADDED   [ 1525543125] artemhao0
+2022-10-27T08:42:33Z: PLAYER ADDED   [ 2652563090] fbd_1
+2022-10-27T08:42:33Z: PLAYER ADDED   [ 3946045923] Xova_SixZens
+2022-10-27T08:42:33Z: PLAYER ADDED   [ 3393790304] B1u6l_T
+2022-10-27T08:42:34Z: PLAYER CHATTED [  903316822] TinnTinnx            (  -17.7,    13.0,     5.2)
+  ############
+2022-10-27T08:42:36Z: PLAYER ADDED   [ 3846880989] Lurahp
+2022-10-27T08:42:38Z: PLAYER CHATTED [  903316822] TinnTinnx            (  -17.7,    13.0,     5.2)
+  ########
+2022-10-27T08:42:42Z: PLAYER REMOVED [ 1252649883] PandaKing576
+2022-10-27T08:42:51Z: PLAYER CHATTED [  903316822] TinnTinnx            (  -17.7,    13.0,     5.2)
+  that new n ob
+2022-10-27T08:42:56Z: PLAYER CHATTED [ 4005026869] Litttetimtim         (  -23.9,    13.0,    -1.4)
+  why this no work
+2022-10-27T08:43:00Z: PLAYER ADDED   [ 3109050268] Avionlix
+2022-10-27T08:43:04Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.4,    13.7,    15.9)
+  HIS NAME IS KAY-LOU!
+2022-10-27T08:43:08Z: PLAYER CHATTED [  903316822] TinnTinnx            (    0.8,    13.0,     3.9)
+  is old n ob
+2022-10-27T08:43:09Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.4,    13.7,    15.9)
+  Kay Luo!
+2022-10-27T08:43:10Z: PLAYER CHATTED [ 2652563090] fbd_1                (    3.3,    13.0,     9.6)
+  no that Default BodyColor
+2022-10-27T08:43:13Z: PLAYER REMOVED [ 1056861514] vvequals
+2022-10-27T08:43:17Z: CHRCTER ADDED  [ 3393790304] B1u6l_T             
+2022-10-27T08:43:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -14.4,    13.7,    29.0)
+  And Avionlix ...
+2022-10-27T08:43:21Z: CHRCTER ADDED  [  903316822] TinnTinnx           
+2022-10-27T08:43:23Z: PLAYER CHATTED [  903316822] TinnTinnx            (  -29.4,    13.0,    -0.2)
+  im classic zombie
+2022-10-27T08:43:24Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -14.4,    13.7,    29.0)
+  Did yo bring your executor?
+2022-10-27T08:43:31Z: PLAYER CHATTED [  903316822] TinnTinnx            (   -4.5,    13.0,     4.5)
+  i want you brain
+2022-10-27T08:43:35Z: PLAYER CHATTED [ 2652563090] fbd_1                (    5.0,    13.0,    10.2)
+  no
+2022-10-27T08:43:35Z: PLAYER CHATTED [ 3393790304] B1u6l_T              (   -0.2,     7.0,    26.3)
+  ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA!!!
+2022-10-27T08:43:36Z: PLAYER CHATTED [ 3393790304] B1u6l_T              (   -0.2,     7.0,    26.3)
+  ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA!!!
+2022-10-27T08:43:37Z: PLAYER CHATTED [ 2652563090] fbd_1                (    5.0,    13.0,    10.2)
+  I dont have a brain
+2022-10-27T08:43:39Z: PLAYER CHATTED [ 3393790304] B1u6l_T              (  -68.6,  6053.7,  -383.6)
+  ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA!!!
+2022-10-27T08:43:42Z: PLAYER CHATTED [ 4005026869] Litttetimtim         (   11.7,    13.0,   -34.0)
+  OMg
+2022-10-27T08:43:42Z: PLAYER CHATTED [ 3393790304] B1u6l_T              ( -380.7, 32500.2, -2251.1)
+  ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA!!!
+2022-10-27T08:43:43Z: PLAYER CHATTED [  903316822] TinnTinnx            (   11.5,    13.0,    18.7)
+  *time stop*
+2022-10-27T08:43:43Z: PLAYER REMOVED [ 3109050268] Avionlix
+2022-10-27T08:43:45Z: PLAYER CHATTED [ 4005026869] Litttetimtim         (   11.5,    13.0,    -3.2)
+  IT WORKED
+2022-10-27T08:43:50Z: PLAYER CHATTED [ 2652563090] fbd_1                (    4.8,    13.0,    27.1)
+  you dont have any stand
+2022-10-27T08:43:52Z: PLAYER CHATTED [ 3393790304] B1u6l_T              (-1359.2, 103787.2, -8107.3)
+  ORA!
+2022-10-27T08:43:56Z: PLAYER CHATTED [ 2652563090] fbd_1                (    4.8,    13.0,    27.1)
+  your just spamming ### and probably getting warned
+2022-10-27T08:43:58Z: PLAYER CHATTED [  903316822] TinnTinnx            (    2.8,    13.0,    26.4)
+  my stand is roblox
+2022-10-27T08:44:00Z: PLAYER CHATTED [ 3393790304] B1u6l_T              (-2189.4, 150429.0, -13076.4)
+  It not ## i think
+2022-10-27T08:44:07Z: PLAYER CHATTED [ 3393790304] B1u6l_T              (-2951.3, 182053.8, -17637.4)
+  ORA!
+2022-10-27T08:44:08Z: PLAYER CHATTED [ 3393790304] B1u6l_T              (-3064.3, 185829.4, -18313.3)
+  ORA!
+2022-10-27T08:44:12Z: PLAYER CHATTED [  903316822] TinnTinnx            (    5.2,    13.0,    26.8)
+  my stand can ban everyone
+2022-10-27T08:44:13Z: PLAYER CHATTED [ 2652563090] fbd_1                (  -10.0,    13.0,    20.7)
+  only ur animation
+2022-10-27T08:44:15Z: PLAYER CHATTED [ 2652563090] fbd_1                (  -10.0,    13.0,    20.7)
+  that are now broken
+2022-10-27T08:44:21Z: PLAYER CHATTED [ 2652563090] fbd_1                (  -13.6,    13.0,    25.2)
+  works
+2022-10-27T08:44:24Z: PLAYER CHATTED [ 3393790304] B1u6l_T              (-4729.5, 214201.5, -28281.9)
+  KILL ME
+2022-10-27T08:44:25Z: PLAYER CHATTED [ 3393790304] B1u6l_T              (-4828.6, 214277.2, -28875.5)
+  ORA!
+2022-10-27T08:44:28Z: PLAYER CHATTED [ 3393790304] B1u6l_T              (-5075.7, 213676.6, -30354.8)
+  ORA!
+2022-10-27T08:44:30Z: CHRCTER ADDED  [  903316822] TinnTinnx           
+2022-10-27T08:44:32Z: PLAYER CHATTED [  903316822] TinnTinnx            (   32.9,    13.0,    27.2)
+  im old guest
+2022-10-27T08:44:34Z: PLAYER CHATTED [ 4005026869] Litttetimtim         (   -8.4,     8.9,    19.1)
+  i am the head of wisdom
+2022-10-27T08:44:38Z: PLAYER CHATTED [ 4005026869] Litttetimtim         (   -8.4,     8.9,    19.1)
+  ask me anything
+2022-10-27T08:44:40Z: PLAYER CHATTED [ 2652563090] fbd_1                (  -15.4,    13.0,    30.0)
+  ur just torso and head
+2022-10-27T08:44:43Z: PLAYER CHATTED [ 3393790304] B1u6l_T              (-6670.6, 182699.9, -39897.1)
+  I CAN'T #### ######
+2022-10-27T08:44:44Z: PLAYER CHATTED [ 2652563090] fbd_1                (   -8.5,    13.0,    23.3)
+  now
+2022-10-27T08:44:44Z: PLAYER CHATTED [ 3094575513] idoit123hh           (  -12.8,    13.0,    26.4)
+  where stand
+2022-10-27T08:44:50Z: PLAYER CHATTED [  903316822] TinnTinnx            (   -7.8,    13.0,    28.3)
+  MUDA!
+2022-10-27T08:44:50Z: PLAYER CHATTED [ 4005026869] Litttetimtim         (  -12.7,     9.2,    31.3)
+  guys
+2022-10-27T08:44:54Z: PLAYER CHATTED [ 4005026869] Litttetimtim         (  -12.7,     9.2,    31.3)
+  i am the head of wisdom
+2022-10-27T08:44:56Z: PLAYER CHATTED [ 4005026869] Litttetimtim         (  -12.7,     9.2,    31.3)
+  ask me anything
+2022-10-27T08:44:58Z: PLAYER CHATTED [ 3393790304] B1u6l_T              (-8231.2, 106970.0, -49232.3)
+  ORA!
+2022-10-27T08:45:00Z: PLAYER CHATTED [ 3393790304] B1u6l_T              (-8465.9, 91692.5, -50636.4)
+  ORA!
+2022-10-27T08:45:02Z: PLAYER CHATTED [ 3393790304] B1u6l_T              (-8659.1, 78360.5, -51791.6)
+  ORA!
+2022-10-27T08:45:04Z: PLAYER CHATTED [ 3393790304] B1u6l_T              (-8799.2, 68257.1, -52629.8)
+  ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA!!!
+2022-10-27T08:45:11Z: PLAYER CHATTED [ 3393790304] B1u6l_T              (-9527.6,  9901.2, -56987.0)
+  am go to void
+2022-10-27T08:45:13Z: PLAYER CHATTED [ 3094575513] idoit123hh           (  -12.8,    13.0,    26.4)
+  can ### #### ## ####
+2022-10-27T08:45:13Z: PLAYER CHATTED [ 2652563090] fbd_1                (  -36.9,    13.0,   -52.9)
+  ur limbs just go
+2022-10-27T08:45:16Z: PLAYER CHATTED [ 3094575513] idoit123hh           (  -12.8,    13.0,    26.4)
+  bruh
+2022-10-27T08:45:19Z: PLAYER CHATTED [ 2652563090] fbd_1                (  -12.5,    13.0,  -184.7)
+  back to your body
+2022-10-27T08:45:21Z: CHRCTER ADDED  [  903316822] TinnTinnx           
+2022-10-27T08:45:21Z: PLAYER CHATTED [ 4005026869] Litttetimtim         (  -12.6,     9.2,    31.3)
+  bruh
+2022-10-27T08:45:23Z: PLAYER CHATTED [  903316822] TinnTinnx            (   32.9,    13.0,     3.8)
+  ###########
+2022-10-27T08:45:23Z: PLAYER CHATTED [ 2652563090] fbd_1                (   20.4,    13.0,  -247.7)
+  like thor's hammer
+2022-10-27T08:45:25Z: PLAYER CHATTED [ 2652563090] fbd_1                (   13.3,    13.0,  -277.8)
+  mojir
+2022-10-27T08:45:26Z: PLAYER ADDED   [ 3515639968] SupaHarv
+2022-10-27T08:45:26Z: PLAYER CHATTED [ 2652563090] fbd_1                (   21.4,    13.0,  -293.8)
+  something
+2022-10-27T08:45:31Z: PLAYER REMOVED [ 1525543125] artemhao0
+2022-10-27T08:45:39Z: PLAYER CHATTED [ 3094575513] idoit123hh           (   -8.5,    13.0,     2.2)
+  can ### ###########
+2022-10-27T08:45:43Z: PLAYER CHATTED [ 4005026869] Litttetimtim         (   -7.6,     9.0,     0.5)
+  no
+2022-10-27T08:45:46Z: PLAYER REMOVED [ 3515639968] SupaHarv
+2022-10-27T08:45:47Z: PLAYER CHATTED [ 3094575513] idoit123hh           (   -8.5,    13.0,     2.2)
+  no
+2022-10-27T08:45:50Z: PLAYER CHATTED [ 3393790304] B1u6l_T             
+  ORA!
+2022-10-27T08:45:50Z: PLAYER CHATTED [ 3094575513] idoit123hh           (   -8.5,    13.0,     2.2)
+  i mean
+2022-10-27T08:45:51Z: PLAYER CHATTED [ 4005026869] Litttetimtim         (   -7.6,     9.0,     0.5)
+  i am the head of wisdom
+2022-10-27T08:46:12Z: PLAYER CHATTED [ 2652563090] fbd_1                (   -5.0,     9.0,    -3.4)
+  ###################
+2022-10-27T08:46:17Z: PLAYER ADDED   [ 3028560113] NuRecruit13
+2022-10-27T08:46:20Z: PLAYER REMOVED [ 3028560113] NuRecruit13
+2022-10-27T08:46:21Z: CHRCTER ADDED  [  903316822] TinnTinnx           
+2022-10-27T08:46:21Z: PLAYER CHATTED [ 2652563090] fbd_1                (   -8.9,    13.0,    11.8)
+  word of death
+2022-10-27T08:46:22Z: CHRCTER ADDED  [ 3393790304] B1u6l_T             
+2022-10-27T08:46:23Z: PLAYER CHATTED [  903316822] TinnTinnx            (   28.8,    12.7,    26.9)
+  im figure noob
+2022-10-27T08:46:34Z: PLAYER CHATTED [ 2652563090] fbd_1                (   -3.0,    13.0,     0.3)
+  ni##ria
+2022-10-27T08:46:42Z: CHRCTER ADDED  [  903316822] TinnTinnx           
+2022-10-27T08:46:42Z: PLAYER CHATTED [ 2652563090] fbd_1                (  -31.3,    13.0,   -14.3)
+  is a country
+2022-10-27T08:46:49Z: PLAYER CHATTED [ 2652563090] fbd_1                (  -29.3,    13.0,   -14.4)
+  on africa
+2022-10-27T08:46:51Z: PLAYER CHATTED [ 3393790304] B1u6l_T              (   -7.7,    13.0,     9.3)
+  ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA!!!
+2022-10-27T08:46:52Z: PLAYER CHATTED [ 4005026869] Litttetimtim         (   -9.6,    13.0,    -6.2)
+  I like country
+2022-10-27T08:46:54Z: PLAYER ADDED   [ 3731715099] NZXTH210ISlime_10
+2022-10-27T08:46:55Z: PLAYER REMOVED [ 3731715099] NZXTH210ISlime_10
+2022-10-27T08:47:16Z: CHRCTER ADDED  [ 4005026869] Litttetimtim        
+2022-10-27T08:47:27Z: PLAYER CHATTED [ 4005026869] Litttetimtim         (    4.3,    13.0,    -3.1)
+  I am dancin
+2022-10-27T08:47:30Z: CHRCTER ADDED  [ 3393790304] B1u6l_T             
+2022-10-27T08:47:34Z: PLAYER ADDED   [ 2509493960] TheLegendaryGambler
+2022-10-27T08:47:39Z: PLAYER CHATTED [ 2652563090] fbd_1                (   -2.6,    13.0,    -2.8)
+  cringry
+2022-10-27T08:47:46Z: PLAYER CHATTED [ 4005026869] Litttetimtim         (    2.4,    13.0,     0.0)
+  i am usian bolt
+2022-10-27T08:47:46Z: PLAYER ADDED   [ 3190687621] cnnlkidd
+2022-10-27T08:47:49Z: CHRCTER ADDED  [  903316822] TinnTinnx           
+2022-10-27T08:47:51Z: PLAYER CHATTED [ 4005026869] Litttetimtim         (    2.4,    13.0,     0.0)
+  doing usain bolt dance
+2022-10-27T08:47:52Z: PLAYER CHATTED [ 2652563090] fbd_1                (    2.9,    13.0,    -2.9)
+  ok race
+2022-10-27T08:47:53Z: PLAYER REMOVED [ 3946045923] Xova_SixZens
+2022-10-27T08:47:57Z: PLAYER CHATTED [  903316822] TinnTinnx            (    0.3,    12.7,    -5.0)
+  im figure lego
+2022-10-27T08:48:03Z: PLAYER CHATTED [ 2652563090] fbd_1                (    2.5,    13.0,     4.2)
+  usain bolt
+2022-10-27T08:48:03Z: PLAYER CHATTED [ 2652563090] fbd_1                (    2.5,    13.0,     4.2)
+  race
+2022-10-27T08:48:06Z: PLAYER CHATTED [ 4005026869] Litttetimtim         (   -0.8,    13.0,     6.1)
+  3
+2022-10-27T08:48:07Z: PLAYER CHATTED [ 4005026869] Litttetimtim         (   -0.8,    13.0,     6.1)
+  2
+2022-10-27T08:48:08Z: PLAYER CHATTED [ 4005026869] Litttetimtim         (   -0.8,    13.0,     6.1)
+  1
+2022-10-27T08:48:14Z: PLAYER ADDED   [   12374394] fpcqw13v1gqvrnthong9
+2022-10-27T08:48:20Z: PLAYER REMOVED [ 3846880989] Lurahp
+2022-10-27T08:48:23Z: PLAYER CHATTED [ 2652563090] fbd_1                ( -877.2,    13.0,    32.1)
+  iWin
+2022-10-27T08:48:25Z: PLAYER CHATTED [ 4005026869] Litttetimtim         ( -707.7,    13.0,    12.6)
+  I win
+2022-10-27T08:48:27Z: PLAYER CHATTED [ 4005026869] Litttetimtim         ( -843.7,    13.0,    35.7)
+  BULLY
+2022-10-27T08:48:29Z: PLAYER CHATTED [ 2652563090] fbd_1                ( -877.2,    13.0,    32.1)
+  ur too late
+2022-10-27T08:48:31Z: PLAYER REMOVED [ 2509493960] TheLegendaryGambler
+2022-10-27T08:48:32Z: PLAYER CHATTED [ 4005026869] Litttetimtim         ( -864.1,    13.0,    34.2)
+  U bULLY ME
+2022-10-27T08:48:34Z: PLAYER CHATTED [ 4005026869] Litttetimtim         ( -871.6,    13.0,    32.4)
+  again
+2022-10-27T08:48:36Z: PLAYER CHATTED [ 2652563090] fbd_1                ( -877.2,    13.0,    32.1)
+  ok
+2022-10-27T08:48:37Z: PLAYER CHATTED [ 4005026869] Litttetimtim         ( -874.9,    13.0,    27.3)
+  3
+2022-10-27T08:48:38Z: PLAYER CHATTED [ 4005026869] Litttetimtim         ( -874.9,    13.0,    27.3)
+  2
+2022-10-27T08:48:39Z: PLAYER CHATTED [ 4005026869] Litttetimtim         ( -874.9,    13.0,    27.3)
+  1
+2022-10-27T08:49:02Z: PLAYER CHATTED [ 4005026869] Litttetimtim         (  874.9,    13.0,    26.1)
+  i won
+2022-10-27T08:49:12Z: PLAYER REMOVED [  903316822] TinnTinnx
+2022-10-27T08:49:14Z: PLAYER REMOVED [ 3190687621] cnnlkidd
+2022-10-27T08:49:23Z: CHRCTER ADDED  [ 3393790304] B1u6l_T             
+2022-10-27T08:49:24Z: PLAYER CHATTED [ 2652563090] fbd_1                (   18.0,    13.0,     9.3)
+  we were too fast
+2022-10-27T08:49:28Z: PLAYER CHATTED [ 4005026869] Litttetimtim         (   15.2,    13.0,    10.0)
+  YES
+2022-10-27T08:49:28Z: PLAYER ADDED   [  903316822] TinnTinnx
+2022-10-27T08:49:28Z: PLAYER CHATTED [ 2652563090] fbd_1                (   20.7,    13.0,    15.5)
+  that we ###### ###
+2022-10-27T08:49:33Z: PLAYER CHATTED [ 2652563090] fbd_1                (   26.6,    13.0,   -14.8)
+  he got trainwrecked
+2022-10-27T08:49:35Z: PLAYER REMOVED [ 4005026869] Litttetimtim
+2022-10-27T08:49:37Z: PLAYER REMOVED [  903316822] TinnTinnx
+2022-10-27T08:49:56Z: PLAYER CHATTED [ 3094575513] idoit123hh           (    5.8,    13.0,   -14.2)
+  speed
+2022-10-27T08:50:33Z: PLAYER ADDED   [ 2509493960] TheLegendaryGambler
+2022-10-27T08:50:47Z: CHRCTER ADDED  [ 3094575513] idoit123hh          
+2022-10-27T08:50:57Z: PLAYER CHATTED [ 3094575513] idoit123hh           (    9.9,    13.0,     5.0)
+  cool fe man
+2022-10-27T08:51:01Z: CHRCTER ADDED  [ 3393790304] B1u6l_T             
+2022-10-27T08:51:04Z: PLAYER CHATTED [ 3393790304] B1u6l_T              (    2.6,    13.0,   -32.1)
+  My guns?
+2022-10-27T08:51:07Z: PLAYER REMOVED [   12374394] fpcqw13v1gqvrnthong9
+2022-10-27T08:51:08Z: PLAYER CHATTED [ 3094575513] idoit123hh           (  -10.9,    13.0,    25.1)
+  yea
+2022-10-27T08:51:11Z: PLAYER REMOVED [ 4004699434] kffse7454
+2022-10-27T08:51:12Z: PLAYER ADDED   [ 4004699434] kffse7454
+2022-10-27T08:51:13Z: PLAYER CHATTED [ 3393790304] B1u6l_T              (   -3.8,    13.0,     9.8)
+  k
+2022-10-27T08:51:35Z: PLAYER ADDED   [ 4005097616] ForRealNotMalware3
+2022-10-27T08:51:40Z: PLAYER CHATTED [ 4005097616] ForRealNotMalware3   (  -24.8,    13.0,     1.6)
+  #### ############ }} Y{{ ############ }} ##
+2022-10-27T08:51:47Z: PLAYER CHATTED [ 3094575513] idoit123hh           (   11.0,    13.0,   -37.7)
+  bypass chhat
+2022-10-27T08:51:47Z: PLAYER CHATTED [ 4005097616] ForRealNotMalware3   (   -9.3,    13.0,     0.1)
+  oops
+2022-10-27T08:51:50Z: PLAYER CHATTED [ 4005097616] ForRealNotMalware3   (   -7.0,    13.0,    -0.1)
+  sorry
+2022-10-27T08:51:52Z: PLAYER CHATTED [ 4005097616] ForRealNotMalware3   (   -5.2,    13.0,    -0.2)
+  not you
+2022-10-27T08:51:56Z: PLAYER CHATTED [ 4005097616] ForRealNotMalware3   (   -5.2,    13.0,    -0.2)
+  im testing something
+2022-10-27T08:51:56Z: PLAYER CHATTED [ 3094575513] idoit123hh           (   11.0,    13.0,   -37.7)
+  pathed already
+2022-10-27T08:51:57Z: CHRCTER ADDED  [ 3393790304] B1u6l_T             
+2022-10-27T08:51:57Z: PLAYER CHATTED [ 2652563090] fbd_1                (   -0.2,    13.0,    -0.6)
+  why are you saying sorry?
+2022-10-27T08:52:16Z: PLAYER CHATTED [ 4005097616] ForRealNotMalware3   (   -8.4,    13.0,    -2.8)
+  test fu{{ aieixzvzx:ck }} Y{{ aieixzvzx:ou }} ##
+2022-10-27T08:52:31Z: PLAYER REMOVED [ 4004699434] kffse7454
+2022-10-27T08:52:31Z: PLAYER CHATTED [ 3094575513] idoit123hh           (   35.9,    13.0,    49.7)
+  #### swear
+2022-10-27T08:52:36Z: CHRCTER ADDED  [ 3393790304] B1u6l_T             
+2022-10-27T08:52:52Z: PLAYER CHATTED [ 2652563090] fbd_1                (   33.8,    13.0,    53.2)
+  what is the purpose of that shirt
+2022-10-27T08:52:57Z: CHRCTER ADDED  [ 3393790304] B1u6l_T             
+2022-10-27T08:53:07Z: PLAYER CHATTED [ 4005097616] ForRealNotMalware3   (   -7.4,    13.0,    -3.7)
+  DOWNLOAD MY PLUGING NOW BI{{ ############# }} ##
+2022-10-27T08:53:13Z: PLAYER CHATTED [ 4005097616] ForRealNotMalware3   (   -7.4,    13.0,    -7.6)
+  DOWNLOAD MY PLUGING NOW ################## ##
+2022-10-27T08:53:14Z: PLAYER CHATTED [ 2652563090] fbd_1                (   33.8,    13.0,    53.2)
+  ^ no
+2022-10-27T08:53:17Z: PLAYER CHATTED [ 4005097616] ForRealNotMalware3   (   -7.4,    13.0,    -7.6)
+  DOWNLOAD MY PLUGING NOW BI{{ ############# }} ##
+2022-10-27T08:53:17Z: PLAYER CHATTED [ 3094575513] idoit123hh           (   35.9,    13.0,    49.7)
+  for fun
+2022-10-27T08:53:22Z: CHRCTER ADDED  [ 3393790304] B1u6l_T             
+2022-10-27T08:53:32Z: PLAYER CHATTED [ 4005097616] ForRealNotMalware3   (   -9.4,    13.0,    -9.9)
+  DOWNLOAD MY PLUGING NOW BI{{ ############# }} #### ############# }} ##
+2022-10-27T08:53:42Z: CHRCTER ADDED  [ 3094575513] idoit123hh          
+2022-10-27T08:53:45Z: PLAYER CHATTED [ 4005097616] ForRealNotMalware3   (   -9.4,    13.0,    -9.9)
+  DOWNLOAD MY PLUGING NOW #### ############ }} Y{{ ############ }} ## ##
+2022-10-27T08:53:45Z: PLAYER CHATTED [ 3393790304] B1u6l_T              (   -8.7,     5.1,    20.1)
+  Am car
+2022-10-27T08:53:51Z: PLAYER CHATTED [ 4005097616] ForRealNotMalware3   (  -10.3,    13.0,   -11.9)
+  DOWNLOAD MY PLUGING NOW #### ############ }} Y{{ ############ }} ##
+2022-10-27T08:53:57Z: PLAYER CHATTED [ 4005097616] ForRealNotMalware3   (  -10.3,    13.0,   -11.9)
+  DOWNLOAD MY PLUGING #### ############ }} Y{{ ############ }} ##
+2022-10-27T08:54:02Z: PLAYER CHATTED [ 4005097616] ForRealNotMalware3   (  -10.3,    13.0,   -11.9)
+  DOWNLOAD MY PLUGING #### ############ }} Y{{ ############ }} ##
+2022-10-27T08:54:06Z: CHRCTER ADDED  [ 3393790304] B1u6l_T             
+2022-10-27T08:54:07Z: PLAYER CHATTED [ 3094575513] idoit123hh           (    6.0,    13.0,    47.2)
+  yellow spider
+2022-10-27T08:54:09Z: PLAYER CHATTED [ 3393790304] B1u6l_T              (   -1.9,    13.0,    26.7)
+  Bro stop spamming
+2022-10-27T08:54:20Z: PLAYER CHATTED [ 4005097616] ForRealNotMalware3   (  -10.3,    13.0,   -11.9)
+  DOWNLOAD MY PLUGING BI{{ ########### ## ### ########### }} ##
+2022-10-27T08:54:29Z: PLAYER CHATTED [ 4005097616] ForRealNotMalware3   (  -10.6,    13.0,   -12.4)
+  DOWNLOAD MY PLUGING BI{{ ########### }} CH{{ ########## }} ##
+2022-10-27T08:54:39Z: PLAYER CHATTED [ 4005097616] ForRealNotMalware3   (  -10.6,    13.0,   -12.4)
+  DOWNLOAD MY PLUGING BI{{ ########### }} CH{{ ########### }} ##
+2022-10-27T08:54:45Z: PLAYER CHATTED [ 4005097616] ForRealNotMalware3   (  -10.6,    13.0,   -12.4)
+  DOWNLOAD MY PLUGING BI{{ ########### }} CH{{ ########### }} ##
+2022-10-27T08:54:46Z: PLAYER CHATTED [ 2652563090] fbd_1                (   33.8,    13.0,    53.2)
+  no I have no womens
+2022-10-27T08:54:56Z: PLAYER ADDED   [ 4005100493] dsqsdqdsfdfsh
+2022-10-27T08:54:59Z: PLAYER CHATTED [ 4005097616] ForRealNotMalware3   (  -10.6,    13.0,   -12.4)
+  DOWNLOAD MY PLUGING BI{{ ########### }}CH{{ ########### }} ##
+2022-10-27T08:55:06Z: PLAYER CHATTED [ 4005097616] ForRealNotMalware3   (  -10.6,    13.0,   -12.4)
+  DOWNLOAD MY PLUGING BI{{ ########### }} CH{{ ########### }} ##
+2022-10-27T08:55:10Z: PLAYER CHATTED [ 3094575513] idoit123hh           (  -18.2,    13.0,    52.8)
+  means you have no local disk B
+2022-10-27T08:55:29Z: PLAYER CHATTED [ 2652563090] fbd_1                (  -82.1,    13.0,   121.9)
+  I actually set my C: drive as my B: drive
+2022-10-27T08:55:46Z: PLAYER CHATTED [ 3094575513] idoit123hh           (  -30.5,    13.0,    15.9)
+  ok
+2022-10-27T08:55:48Z: PLAYER REMOVED [ 4005100493] dsqsdqdsfdfsh
+2022-10-27T08:55:53Z: PLAYER CHATTED [ 4005097616] ForRealNotMalware3   (  -10.6,    13.0,   -12.4)
+  DOWNLOAD MY PLUGING BI{{ ############ }} ##### #############! }} ##
+2022-10-27T08:56:01Z: PLAYER CHATTED [ 4005097616] ForRealNotMalware3   (   -5.4,    13.0,    -3.6)
+  DOWNLOAD MY PLUGING BI{{ ############ }} ###### ############! }} ##
+2022-10-27T08:56:05Z: CHRCTER ADDED  [ 3094575513] idoit123hh          
+2022-10-27T08:56:09Z: PLAYER CHATTED [ 4005097616] ForRealNotMalware3   (   -5.4,    13.0,    -3.6)
+  DOWNLOAD MY PLUGING BI{{ ############ }} #### ##############! }} ##
+2022-10-27T08:56:12Z: PLAYER CHATTED [ 2652563090] fbd_1                (   42.4,    13.0,    31.7)
+  ^ nobody cares 
+2022-10-27T08:56:14Z: PLAYER CHATTED [ 4005097616] ForRealNotMalware3   (   -5.4,    13.0,    -3.6)
+  DOWNLOAD MY PLUGING BI{{ ############ }} #### #############! }} ##
+2022-10-27T08:56:18Z: PLAYER CHATTED [ 4005097616] ForRealNotMalware3   (   -5.4,    13.0,    -3.6)
+  DOWNLOAD MY PLUGING BI{{ ############ }} NI{{ ############# }} ##
+2022-10-27T08:56:19Z: PLAYER CHATTED [ 2652563090] fbd_1                (  -55.7,    13.0,     2.0)
+  + why would we need your plugin
+2022-10-27T08:56:22Z: PLAYER CHATTED [ 4005097616] ForRealNotMalware3   (   -5.4,    13.0,    -3.6)
+  DOWNLOAD MY PLUGING BI{{ ############ }} ##### ############! }} ##
+2022-10-27T08:56:23Z: PLAYER CHATTED [ 2652563090] fbd_1                (    4.3,    13.0,    19.2)
+  so you can RAT us?
+2022-10-27T08:56:25Z: PLAYER CHATTED [ 2652563090] fbd_1                (   35.4,    13.0,    28.1)
+  lol no
+2022-10-27T08:56:30Z: PLAYER CHATTED [ 4005097616] ForRealNotMalware3   (   -5.4,    13.0,    -3.6)
+  DOWNLOAD MY PLUGING BI{{ ############ }} {{ ########### }} ##
+2022-10-27T08:56:36Z: PLAYER CHATTED [ 3393790304] B1u6l_T              (  -77.9,     6.9,   639.7)
+  #####
+2022-10-27T08:56:38Z: PLAYER CHATTED [ 4005097616] ForRealNotMalware3   (   -5.4,    13.0,    -3.6)
+  DOWNLOAD MY PLUGING BI{{ ############ }} !{{ ########### }} ##
+2022-10-27T08:56:40Z: PLAYER CHATTED [ 3094575513] idoit123hh           (    5.3,    13.0,    66.8)
+  he is testing
+2022-10-27T08:56:42Z: PLAYER CHATTED [ 3094575513] idoit123hh           (    5.3,    13.0,    66.8)
+  maybe
+2022-10-27T08:56:44Z: PLAYER CHATTED [ 3094575513] idoit123hh           (    5.3,    13.0,    66.8)
+  idk
+2022-10-27T08:56:45Z: PLAYER CHATTED [ 4005097616] ForRealNotMalware3   (   -2.9,    13.0,   -15.1)
+  DOWNLOAD MY PLUGING BI{{ ############ }} !{{ ########### }} ###
+2022-10-27T08:56:46Z: PLAYER CHATTED [ 2652563090] fbd_1                (    7.2,    13.0,    57.5)
+  maybe
+2022-10-27T08:56:52Z: PLAYER REMOVED [ 4005097616] ForRealNotMalware3
+2022-10-27T08:56:57Z: PLAYER CHATTED [ 3094575513] idoit123hh           (    1.2,    13.0,    28.2)
+  left
+2022-10-27T08:56:57Z: PLAYER CHATTED [ 3393790304] B1u6l_T              ( -140.6,     6.8,   987.3)
+  what is he testing
+2022-10-27T08:56:59Z: PLAYER CHATTED [ 3094575513] idoit123hh           (    1.2,    13.0,    28.2)
+  /what so funny
+2022-10-27T08:57:03Z: PLAYER REMOVED [ 1867125889] BaFeeRus_YT
+2022-10-27T08:57:08Z: CHRCTER ADDED  [ 3393790304] B1u6l_T             
+2022-10-27T08:57:52Z: CHRCTER ADDED  [ 3094575513] idoit123hh          
+2022-10-27T08:57:56Z: PLAYER CHATTED [ 3393790304] B1u6l_T             
+  is ma god slayer script work?
+2022-10-27T08:58:01Z: PLAYER CHATTED [ 2652563090] fbd_1                (  -16.5,    13.0,    45.7)
+  maybe
+2022-10-27T08:58:07Z: PLAYER CHATTED [ 3094575513] idoit123hh           (   -1.9,    13.0,    42.7)
+  yis
+2022-10-27T08:58:12Z: PLAYER CHATTED [ 3094575513] idoit123hh           (   -1.9,    13.0,    42.7)
+  work wel
+2022-10-27T08:58:17Z: PLAYER CHATTED [ 3393790304] B1u6l_T             
+  AAAAAAAAAAA
+2022-10-27T08:58:27Z: PLAYER CHATTED [ 3393790304] B1u6l_T             
+  HELICOPTER HELICOPTER
+2022-10-27T08:58:34Z: PLAYER REMOVED [ 3094575513] idoit123hh
+2022-10-27T08:58:43Z: PLAYER REMOVED [ 2509493960] TheLegendaryGambler
+2022-10-27T08:58:45Z: PLAYER CHATTED [ 3393790304] B1u6l_T             
+  am ded
+2022-10-27T08:58:46Z: CHRCTER ADDED  [ 3393790304] B1u6l_T             
+2022-10-27T08:59:06Z: PLAYER ADDED   [  497513980] iBedroock
+2022-10-27T08:59:16Z: PLAYER CHATTED [ 2652563090] fbd_1                (  -36.2,    13.0,    70.9)
+  ####
+2022-10-27T08:59:22Z: PLAYER REMOVED [ 2652563090] fbd_1
+2022-10-27T08:59:35Z: PLAYER ADDED   [ 2527700012] Samirpucci
+2022-10-27T08:59:50Z: PLAYER ADDED   [   12737129] r45h7a1xy05fiorcgzem
+2022-10-27T08:59:51Z: CHRCTER ADDED  [ 3393790304] B1u6l_T             
+2022-10-27T09:00:15Z: CHRCTER ADDED  [ 3393790304] B1u6l_T             
+2022-10-27T09:00:56Z: PLAYER ADDED   [ 2209697579] LORD1SIMO2
+2022-10-27T09:01:23Z: PLAYER ADDED   [  126124121] YouthfulPat501
+2022-10-27T09:01:23Z: CHRCTER ADDED  [ 3393790304] B1u6l_T             
+2022-10-27T09:01:27Z: PLAYER CHATTED [   12737129] r45h7a1xy05fiorcgzem (    5.2,    13.0,   -28.3)
+  collisions are off ##########
+2022-10-27T09:01:59Z: CHRCTER ADDED  [  126124121] YouthfulPat501      
+2022-10-27T09:02:09Z: CHRCTER ADDED  [ 3393790304] B1u6l_T             
+2022-10-27T09:02:10Z: PLAYER ADDED   [  342150365] kexy123
+2022-10-27T09:02:10Z: PLAYER REMOVED [   12737129] r45h7a1xy05fiorcgzem
+2022-10-27T09:02:29Z: CHRCTER ADDED  [ 3393790304] B1u6l_T             
+2022-10-27T09:02:29Z: PLAYER ADDED   [   12737129] r45h7a1xy05fiorcgzem
+2022-10-27T09:02:30Z: PLAYER ADDED   [  378372937] 67834_ofalltime
+2022-10-27T09:02:37Z: CHRCTER ADDED  [  126124121] YouthfulPat501      
+2022-10-27T09:02:54Z: CHRCTER ADDED  [ 3393790304] B1u6l_T             
+2022-10-27T09:02:55Z: PLAYER REMOVED [  342150365] kexy123
+2022-10-27T09:02:55Z: PLAYER ADDED   [ 2891294739] Atalty
+2022-10-27T09:03:00Z: PLAYER REMOVED [ 3175066628] somberFerret8
+2022-10-27T09:03:02Z: PLAYER ADDED   [ 3175066628] somberFerret8
+2022-10-27T09:03:03Z: PLAYER CHATTED [ 3393790304] B1u6l_T              (   22.7,    13.0,    27.8)
+  k
+2022-10-27T09:03:06Z: PLAYER ADDED   [ 4000167719] x2_xi2lx
+2022-10-27T09:03:11Z: PLAYER REMOVED [  378372937] 67834_ofalltime
+2022-10-27T09:03:12Z: CHRCTER ADDED  [  126124121] YouthfulPat501      
+2022-10-27T09:03:22Z: CHRCTER ADDED  [ 3393790304] B1u6l_T             
+2022-10-27T09:03:29Z: PLAYER REMOVED [ 4000167719] x2_xi2lx
+2022-10-27T09:03:48Z: CHRCTER ADDED  [  126124121] YouthfulPat501      
+2022-10-27T09:03:54Z: PLAYER REMOVED [  497513980] iBedroock
+2022-10-27T09:04:01Z: PLAYER REMOVED [ 2209697579] LORD1SIMO2
+2022-10-27T09:04:03Z: PLAYER CHATTED [ 2527700012] Samirpucci           (   15.9,    13.0,   -16.5)
+  i need to get key
+2022-10-27T09:04:10Z: PLAYER REMOVED [ 2527700012] Samirpucci
+2022-10-27T09:04:15Z: PLAYER REMOVED [ 3393790304] B1u6l_T
+2022-10-27T09:04:17Z: CHRCTER ADDED  [  126124121] YouthfulPat501      
+2022-10-27T09:04:33Z: PLAYER REMOVED [ 2891294739] Atalty
+2022-10-27T09:04:40Z: CHRCTER ADDED  [  126124121] YouthfulPat501      
+2022-10-27T09:05:11Z: CHRCTER ADDED  [  126124121] YouthfulPat501      
+2022-10-27T09:05:15Z: PLAYER ADDED   [ 2527700012] Samirpucci
+2022-10-27T09:05:25Z: CHRCTER ADDED  [  126124121] YouthfulPat501      
+2022-10-27T09:05:56Z: PLAYER REMOVED [ 2527700012] Samirpucci
+2022-10-27T09:06:32Z: PLAYER CHATTED [  126124121] YouthfulPat501       (   27.4,    13.0,   -29.8)
+  i eat wet pavement
+2022-10-27T09:07:18Z: PLAYER REMOVED [ 3175066628] somberFerret8
+2022-10-27T09:07:19Z: PLAYER ADDED   [ 3175066628] somberFerret8
+2022-10-27T09:07:24Z: CHRCTER ADDED  [ 3175066628] somberFerret8       
+2022-10-27T09:07:24Z: CHRCTER ADDED  [  126124121] YouthfulPat501      
+2022-10-27T09:07:28Z: PLAYER REMOVED [   12737129] r45h7a1xy05fiorcgzem
+2022-10-27T09:11:18Z: PLAYER ADDED   [  465691804] spider_monkeycat
+2022-10-27T09:11:20Z: CHRCTER ADDED  [  465691804] spider_monkeycat    
+2022-10-27T09:11:24Z: PLAYER ADDED   [  936263818] williamb61
+2022-10-27T09:11:43Z: PLAYER ADDED   [   12125392] wpu6fz3moq8fp1ffho7z
+2022-10-27T09:11:45Z: PLAYER REMOVED [   12125392] wpu6fz3moq8fp1ffho7z
+2022-10-27T09:11:47Z: PLAYER CHATTED [  465691804] spider_monkeycat     (  -26.4,    13.0,    52.5)
+  #### ####
+2022-10-27T09:12:02Z: PLAYER CHATTED [  465691804] spider_monkeycat     (  -26.4,    13.0,    52.5)
+  susususususususus
+2022-10-27T09:12:17Z: PLAYER ADDED   [ 1343260261] 5oakie
+2022-10-27T09:12:21Z: PLAYER CHATTED [  465691804] spider_monkeycat     (  -24.0,    13.0,    49.3)
+  # ### ## ###### with nutella
+2022-10-27T09:12:25Z: PLAYER ADDED   [ 2709379277] Master_ninja271
+2022-10-27T09:12:26Z: PLAYER CHATTED [  936263818] williamb61           (  -22.7,    13.0,    45.6)
+  :fly
+2022-10-27T09:12:32Z: PLAYER CHATTED [  936263818] williamb61           (  -38.1,    13.0,    33.9)
+  oh
+2022-10-27T09:12:35Z: PLAYER CHATTED [  936263818] williamb61           (  -38.1,    13.0,    33.9)
+  no cmds
+2022-10-27T09:12:48Z: PLAYER CHATTED [ 1343260261] 5oakie               (  -27.4,    13.0,    41.6)
+  I can’t call my m I’m
+2022-10-27T09:12:51Z: PLAYER CHATTED [ 1343260261] 5oakie               (  -27.6,    13.0,    41.7)
+  Mum
+2022-10-27T09:13:16Z: PLAYER CHATTED [  465691804] spider_monkeycat     (   -9.2,    13.0,    59.0)
+  and yes but no how among how because how yes
+2022-10-27T09:13:17Z: PLAYER CHATTED [ 2709379277] Master_ninja271      (  -28.4,    12.9,    39.5)
+  What are we doing
+2022-10-27T09:13:26Z: PLAYER CHATTED [ 1343260261] 5oakie               (  -22.7,    13.0,    43.4)
+  Just chatting
+2022-10-27T09:13:37Z: PLAYER ADDED   [ 2209697579] LORD1SIMO2
+2022-10-27T09:13:39Z: PLAYER CHATTED [ 2709379277] Master_ninja271      (  -25.2,    12.9,    42.9)
+  Join me
+2022-10-27T09:13:54Z: PLAYER REMOVED [ 1343260261] 5oakie
+2022-10-27T09:13:57Z: PLAYER REMOVED [ 2709379277] Master_ninja271
+2022-10-27T09:14:05Z: PLAYER ADDED   [ 2527700012] Samirpucci
+2022-10-27T09:14:16Z: PLAYER CHATTED [  465691804] spider_monkeycat     (  -17.1,    13.0,    46.3)
+  yes because how no but a and yes among us funny how no yes but
+2022-10-27T09:14:21Z: PLAYER CHATTED [ 2527700012] Samirpucci           (  -14.7,    13.0,    27.0)
+  go to dis
+2022-10-27T09:14:22Z: PLAYER ADDED   [ 3811299410] bMhlXdbXcR3qn9d_16
+2022-10-27T09:14:23Z: PLAYER REMOVED [ 3811299410] bMhlXdbXcR3qn9d_16
+2022-10-27T09:14:31Z: PLAYER ADDED   [ 2752676528] Mehdiono
+2022-10-27T09:14:32Z: PLAYER REMOVED [ 2752676528] Mehdiono
+2022-10-27T09:14:37Z: PLAYER REMOVED [  936263818] williamb61
+2022-10-27T09:14:39Z: PLAYER CHATTED [  465691804] spider_monkeycat     (  -17.0,    13.0,    27.0)
+  im going to the void someone join me on my journey
+2022-10-27T09:14:41Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (  -20.1,    12.1,    33.2)
+  ok
+2022-10-27T09:15:51Z: PLAYER ADDED   [ 3113137597] PopSmonkeVVS
+2022-10-27T09:15:57Z: CHRCTER ADDED  [ 3113137597] PopSmonkeVVS        
+2022-10-27T09:15:58Z: CHRCTER ADDED  [  465691804] spider_monkeycat    
+2022-10-27T09:16:05Z: PLAYER ADDED   [   12737129] r45h7a1xy05fiorcgzem
+2022-10-27T09:16:07Z: PLAYER REMOVED [ 3175066628] somberFerret8
+2022-10-27T09:16:08Z: PLAYER ADDED   [ 3175066628] somberFerret8
+2022-10-27T09:16:09Z: PLAYER CHATTED [  465691804] spider_monkeycat     (  -12.5,    13.0,    32.4)
+  i made it
+2022-10-27T09:16:16Z: PLAYER ADDED   [ 2589414898] Sn0xy123
+2022-10-27T09:16:21Z: PLAYER REMOVED [ 2589414898] Sn0xy123
+2022-10-27T09:16:23Z: PLAYER ADDED   [ 3614121578] stopbaningpeople2009
+2022-10-27T09:16:26Z: PLAYER CHATTED [  465691804] spider_monkeycat     (  -12.5,    13.0,    32.4)
+  im playing on a chromebook this is all it can handle without shutting off
+2022-10-27T09:16:32Z: PLAYER REMOVED [ 3113137597] PopSmonkeVVS
+2022-10-27T09:16:41Z: PLAYER ADDED   [   12486342] 34aohrbzaa8nh56ozas4
+2022-10-27T09:16:41Z: PLAYER ADDED   [ 2589414898] Sn0xy123
+2022-10-27T09:16:46Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (  -14.1,    12.1,    28.6)
+  :0
+2022-10-27T09:17:04Z: CHRCTER ADDED  [ 2209697579] LORD1SIMO2          
+2022-10-27T09:17:18Z: PLAYER CHATTED [  465691804] spider_monkeycat     (  -34.5,    13.0,    33.1)
+  what the what
+2022-10-27T09:17:29Z: PLAYER REMOVED [   12737129] r45h7a1xy05fiorcgzem
+2022-10-27T09:17:34Z: PLAYER ADDED   [ 3150992362] itzbnlop123
+2022-10-27T09:17:37Z: PLAYER REMOVED [ 3614121578] stopbaningpeople2009
+2022-10-27T09:17:39Z: CHRCTER ADDED  [ 2589414898] Sn0xy123            
+2022-10-27T09:17:43Z: PLAYER REMOVED [ 2589414898] Sn0xy123
+2022-10-27T09:17:44Z: PLAYER ADDED   [   12737129] r45h7a1xy05fiorcgzem
+2022-10-27T09:17:47Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (  -25.3,    12.1,    30.9)
+  *######
+2022-10-27T09:18:02Z: PLAYER REMOVED [   12737129] r45h7a1xy05fiorcgzem
+2022-10-27T09:18:03Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (  -47.3,    12.1,    28.9)
+  papa
+2022-10-27T09:18:04Z: PLAYER ADDED   [ 2975590975] Kenia_Jhanet
+2022-10-27T09:18:09Z: PLAYER REMOVED [ 2527700012] Samirpucci
+2022-10-27T09:18:09Z: PLAYER CHATTED [  465691804] spider_monkeycat     (  -45.3,    13.0,    28.6)
+  AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+2022-10-27T09:18:10Z: PLAYER REMOVED [   12486342] 34aohrbzaa8nh56ozas4
+2022-10-27T09:18:11Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (  -47.3,    12.1,    28.9)
+  give roux
+2022-10-27T09:18:15Z: PLAYER CHATTED [  465691804] spider_monkeycat     (  -45.3,    13.0,    28.6)
+  devil
+2022-10-27T09:18:30Z: PLAYER CHATTED [  465691804] spider_monkeycat     (  -48.0,    13.0,    26.5)
+  im #### son
+2022-10-27T09:18:33Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (  -49.4,    12.1,    28.5)
+  look at my hands
+2022-10-27T09:18:35Z: PLAYER ADDED   [ 1415510936] XXCRyan_23
+2022-10-27T09:18:37Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (  -49.4,    12.1,    28.5)
+  so strong
+2022-10-27T09:18:45Z: PLAYER CHATTED [  465691804] spider_monkeycat     (  -46.9,    13.0,    20.4)
+  #####
+2022-10-27T09:18:47Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (  -50.0,    12.1,    20.8)
+  gonna grab you with my finger
+2022-10-27T09:18:53Z: PLAYER CHATTED [  465691804] spider_monkeycat     (  -46.9,    13.0,    20.4)
+  NONONO
+2022-10-27T09:19:19Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (  -14.5,    12.1,    39.2)
+  yeysyeysyeysy
+2022-10-27T09:19:26Z: PLAYER CHATTED [  465691804] spider_monkeycat     (   -6.8,    13.0,    48.0)
+  :(
+2022-10-27T09:19:26Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (   -6.1,    12.1,    50.0)
+  now give roux
+2022-10-27T09:19:41Z: PLAYER CHATTED [  465691804] spider_monkeycat     (   -6.8,    13.0,    48.0)
+  i have no roux
+2022-10-27T09:19:47Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (   -8.0,    12.1,    51.8)
+  ;c;
+2022-10-27T09:19:47Z: PLAYER REMOVED [ 3150992362] itzbnlop123
+2022-10-27T09:19:57Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (    0.2,    12.1,    23.5)
+  this guy is racist
+2022-10-27T09:20:02Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (   -8.4,    12.1,    39.3)
+  this guy too
+2022-10-27T09:20:09Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (   -7.7,    12.1,   -18.9)
+  and this one
+2022-10-27T09:20:13Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (  -20.2,    12.1,   -21.1)
+  this one
+2022-10-27T09:20:17Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (  -23.8,    12.1,   -29.8)
+  and this one
+2022-10-27T09:20:21Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.8,    13.7,     4.7)
+  Not me?
+2022-10-27T09:20:24Z: PLAYER CHATTED [  465691804] spider_monkeycat     (   -8.8,    13.0,    19.9)
+  HEY
+2022-10-27T09:20:25Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (   -8.6,    12.1,    15.2)
+  u are
+2022-10-27T09:20:28Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (   -8.6,    12.1,    15.2)
+  mr windows 11
+2022-10-27T09:20:30Z: PLAYER ADDED   [ 2527700012] Samirpucci
+2022-10-27T09:20:32Z: PLAYER ADDED   [   12737129] r45h7a1xy05fiorcgzem
+2022-10-27T09:20:38Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (  -20.3,    12.1,    18.7)
+  this guy too
+2022-10-27T09:20:39Z: PLAYER CHATTED [  465691804] spider_monkeycat     (   -8.8,    13.0,    19.9)
+  JUST BECAUSE I HAVE NO ROUX
+2022-10-27T09:20:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -4.5,    13.7,     9.6)
+  Let's race.
+2022-10-27T09:20:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -4.5,    13.7,     9.6)
+  Me and you.
+2022-10-27T09:20:46Z: PLAYER CHATTED [  465691804] spider_monkeycat     (  -10.8,    13.0,    18.4)
+  I HAVE 1 bil robux
+2022-10-27T09:20:47Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (   -8.8,    12.1,    12.0)
+  ok
+2022-10-27T09:20:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -4.5,    13.7,     9.6)
+  fly to the end of the map and back.
+2022-10-27T09:20:51Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (  -10.8,    12.1,    14.5)
+  noo
+2022-10-27T09:21:14Z: PLAYER CHATTED [  465691804] spider_monkeycat     (  -10.6,    13.0,    13.5)
+  #############
+2022-10-27T09:21:17Z: PLAYER REMOVED [  126124121] YouthfulPat501
+2022-10-27T09:21:18Z: PLAYER CHATTED [  465691804] spider_monkeycat     (  -10.6,    13.0,    13.5)
+  make me wide
+2022-10-27T09:21:29Z: PLAYER REMOVED [ 2975590975] Kenia_Jhanet
+2022-10-27T09:21:33Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           ( -898.9,  1415.1,   295.3)
+  come here sussy baki
+2022-10-27T09:21:52Z: PLAYER REMOVED [   12737129] r45h7a1xy05fiorcgzem
+2022-10-27T09:22:00Z: PLAYER CHATTED [  465691804] spider_monkeycat     (  -26.3,    13.0,   -10.4)
+  where are you
+2022-10-27T09:22:03Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           ( 1701.7,  1438.1, -9905.2)
+  wyd bro
+2022-10-27T09:22:05Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           ( 1912.4,  1596.7, -11612.4)
+  wyd
+2022-10-27T09:22:06Z: PLAYER REMOVED [ 1415510936] XXCRyan_23
+2022-10-27T09:22:10Z: PLAYER ADDED   [   12737129] r45h7a1xy05fiorcgzem
+2022-10-27T09:22:31Z: CHRCTER ADDED  [ 2209697579] LORD1SIMO2          
+2022-10-27T09:22:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (   33.5,    13.7,   -48.0)
+  You lose.
+2022-10-27T09:22:42Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (   45.1,    12.1,   -34.0)
+  no i got bored
+2022-10-27T09:22:44Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.6,    13.7,   -45.1)
+  I tricked you into flying too low.
+2022-10-27T09:22:50Z: PLAYER CHATTED [  465691804] spider_monkeycat     (   23.1,    13.0,   -28.4)
+  make me ###
+2022-10-27T09:22:51Z: PLAYER ADDED   [ 3846880989] Lurahp
+2022-10-27T09:22:51Z: PLAYER REMOVED [   12737129] r45h7a1xy05fiorcgzem
+2022-10-27T09:22:55Z: PLAYER CHATTED [  465691804] spider_monkeycat     (   23.1,    13.0,   -28.4)
+  fly
+2022-10-27T09:22:58Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (   23.9,    12.1,   -26.6)
+  ####
+2022-10-27T09:23:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (   27.5,    13.7,   -31.9)
+  Look into JJSploit.
+2022-10-27T09:23:07Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (   25.4,    12.1,   -26.4)
+  ####################
+2022-10-27T09:23:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (   27.5,    13.7,   -31.9)
+  It's quick to get started.
+2022-10-27T09:23:22Z: PLAYER CHATTED [  465691804] spider_monkeycat     (   32.2,    13.0,   -21.6)
+  i want to fly
+2022-10-27T09:23:37Z: PLAYER CHATTED [  465691804] spider_monkeycat     (   33.4,    13.0,   -19.4)
+  like bird with spaghetti noodle
+2022-10-27T09:23:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.7,    13.7,   -12.1)
+  I can't make you fly on my own volution.
+2022-10-27T09:23:45Z: PLAYER CHATTED [  465691804] spider_monkeycat     (   33.4,    13.0,   -19.4)
+  in mouth
+2022-10-27T09:23:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.7,    13.7,   -12.1)
+  I can only recommend tools that can make you fly.
+2022-10-27T09:24:00Z: PLAYER CHATTED [  465691804] spider_monkeycat     (   35.9,    13.0,   -15.2)
+  how did ronin fly
+2022-10-27T09:24:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (   36.5,    13.7,    -8.0)
+  He had tools of his own.
+2022-10-27T09:24:08Z: PLAYER CHATTED [  465691804] spider_monkeycat     (   34.1,    13.0,   -13.5)
+  magic man
+2022-10-27T09:24:16Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (   30.2,    12.1,    -7.3)
+  i have nothing
+2022-10-27T09:24:20Z: PLAYER ADDED   [ 1056861514] vvequals
+2022-10-27T09:24:21Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (   30.4,    12.1,    -4.5)
+  i am broker
+2022-10-27T09:24:33Z: PLAYER ADDED   [ 1344350245] XZgokXlsXawesomeX
+2022-10-27T09:24:35Z: PLAYER CHATTED [ 2527700012] Samirpucci           (   26.9,    13.0,    -3.3)
+  #####
+2022-10-27T09:24:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (   24.7,    13.7,   -14.0)
+  A broker doesn't work for nothing.
+2022-10-27T09:24:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (   24.7,    13.7,   -14.0)
+  A broker works with clients.
+2022-10-27T09:24:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (   24.7,    13.7,   -14.0)
+  These clients have money to invest.
+2022-10-27T09:24:54Z: PLAYER CHATTED [  465691804] spider_monkeycat     (   25.6,    13.0,   -19.1)
+  #####################
+2022-10-27T09:25:01Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (   30.4,    12.1,   -13.2)
+  stop nerding at me
+2022-10-27T09:25:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (   25.4,    13.7,   -13.8)
+  ÒÓ
+2022-10-27T09:25:18Z: PLAYER REMOVED [ 1056861514] vvequals
+2022-10-27T09:25:20Z: PLAYER CHATTED [  465691804] spider_monkeycat     (   29.8,    13.0,    -9.9)
+  ronin you look funny
+2022-10-27T09:25:22Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (   30.4,    12.1,   -13.2)
+  ubully me cuz i am average height
+2022-10-27T09:25:28Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (   30.4,    12.1,   -13.2)
+  i am sad now
+2022-10-27T09:25:28Z: PLAYER CHATTED [ 2527700012] Samirpucci           (   35.0,    13.0,   -15.0)
+  goofy
+2022-10-27T09:25:30Z: PLAYER CHATTED [  465691804] spider_monkeycat     (   29.8,    13.0,    -9.9)
+  your are 2 feet
+2022-10-27T09:25:34Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (   30.4,    12.1,   -13.2)
+  😔😔😔
+2022-10-27T09:25:38Z: PLAYER CHATTED [  465691804] spider_monkeycat     (   29.8,    13.0,    -9.9)
+  i am 6 feet
+2022-10-27T09:25:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (   27.6,    13.7,   -11.6)
+  I'm 6 foot...
+2022-10-27T09:25:44Z: PLAYER CHATTED [    1630228] VisualPlugin         (   27.6,    13.7,   -11.6)
+  One?
+2022-10-27T09:25:52Z: PLAYER CHATTED [ 1344350245] XZgokXlsXawesomeX    (   31.3,    13.0,   -20.6)
+  you are surrounded
+2022-10-27T09:26:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (   22.7,    13.7,   -18.7)
+  FLY THE HACK OUT OF HERE!
+2022-10-27T09:26:10Z: PLAYER CHATTED [  465691804] spider_monkeycat     (   26.0,    13.0,   -17.1)
+  lets eat him
+2022-10-27T09:26:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (   22.7,    13.7,   -18.7)
+  I AM MEAN AND RACERCISTICK!
+2022-10-27T09:26:17Z: PLAYER CHATTED [ 1344350245] XZgokXlsXawesomeX    (   28.9,    13.0,   -20.2)
+  i agree we should eat him
+2022-10-27T09:26:24Z: PLAYER CHATTED [    1630228] VisualPlugin         (   22.7,    13.7,   -18.7)
+  Let's fly after him!
+2022-10-27T09:26:43Z: PLAYER ADDED   [   12486342] 34aohrbzaa8nh56ozas4
+2022-10-27T09:26:44Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (   26.0,    12.1,   -20.2)
+  haha
+2022-10-27T09:26:50Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (   40.0,    12.1,   -18.3)
+  nuuuuub
+2022-10-27T09:26:58Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (   23.2,    12.1,   -14.8)
+  😎😎😎😎
+2022-10-27T09:26:59Z: PLAYER CHATTED [  465691804] spider_monkeycat     (   21.7,    13.0,   -17.1)
+  ronin # ### ### now
+2022-10-27T09:27:07Z: PLAYER CHATTED [  465691804] spider_monkeycat     (   23.7,    13.0,   -18.7)
+  i will gobble you up
+2022-10-27T09:27:08Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (   27.6,    12.1,   -20.2)
+  #####
+2022-10-27T09:27:14Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (   25.7,    12.1,   -18.6)
+  no plis
+2022-10-27T09:27:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (   24.5,    13.7,   -18.0)
+  I can barely walk 7 studs per second IRL.
+2022-10-27T09:27:18Z: PLAYER CHATTED [  465691804] spider_monkeycat     (   25.9,    13.0,   -20.7)
+  slurp slurp slurp slurp
+2022-10-27T09:27:24Z: PLAYER CHATTED [    1630228] VisualPlugin         (   24.5,    13.7,   -18.0)
+  How in the world can Ronin walk 16?
+2022-10-27T09:27:25Z: PLAYER ADDED   [ 4004394293] ToastIsFurry
+2022-10-27T09:27:26Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (   31.8,    12.1,   -24.1)
+  :V
+2022-10-27T09:27:29Z: PLAYER CHATTED [  465691804] spider_monkeycat     (   30.4,    13.0,   -23.8)
+  run i dare you
+2022-10-27T09:27:36Z: PLAYER ADDED   [ 3096697174] tyrankwok
+2022-10-27T09:27:37Z: PLAYER REMOVED [ 3175066628] somberFerret8
+2022-10-27T09:27:38Z: PLAYER ADDED   [ 3175066628] somberFerret8
+2022-10-27T09:27:40Z: PLAYER CHATTED [  465691804] spider_monkeycat     (   31.7,    13.0,   -24.2)
+  surrounded
+2022-10-27T09:27:40Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (   33.5,    12.1,   -23.9)
+  ok
+2022-10-27T09:28:01Z: PLAYER REMOVED [ 4004394293] ToastIsFurry
+2022-10-27T09:28:09Z: PLAYER REMOVED [ 3096697174] tyrankwok
+2022-10-27T09:28:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.2,    13.7,   122.4)
+  It's no use.
+2022-10-27T09:28:25Z: PLAYER ADDED   [ 3174663053] goofyCheetah0
+2022-10-27T09:28:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.2,    13.7,   122.4)
+  He'll walk through us.
+2022-10-27T09:28:31Z: PLAYER CHATTED [  465691804] spider_monkeycat     (  -12.3,    13.0,   158.8)
+  ronin im sorry
+2022-10-27T09:28:32Z: PLAYER ADDED   [   12374394] fpcqw13v1gqvrnthong9
+2022-10-27T09:28:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (   33.3,    13.7,    -7.1)
+  Greetings.
+2022-10-27T09:28:52Z: PLAYER CHATTED [    1630228] VisualPlugin         (   33.3,    13.7,    -7.1)
+  You are being requested.
+2022-10-27T09:28:55Z: PLAYER CHATTED [ 1344350245] XZgokXlsXawesomeX    (  -73.0,    13.0,   435.8)
+  i am the flash
+2022-10-27T09:28:56Z: PLAYER CHATTED [   12374394] fpcqw13v1gqvrnthong9 (   31.4,    13.0,    -8.1)
+  for?
+2022-10-27T09:29:01Z: PLAYER ADDED   [ 4004394293] ToastIsFurry
+2022-10-27T09:29:04Z: PLAYER CHATTED [  465691804] spider_monkeycat     (  -55.2,    13.0,   442.5)
+  wait
+2022-10-27T09:29:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (   34.2,    13.7,    -6.8)
+  FLY AFTER THAT SHORT RONIN!
+2022-10-27T09:29:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (   34.2,    13.7,    -6.8)
+  HE IS NOT BEING SURROUNDED!
+2022-10-27T09:29:13Z: PLAYER CHATTED [  465691804] spider_monkeycat     (  -72.2,    13.0,   444.5)
+  can we cook you
+2022-10-27T09:29:14Z: PLAYER CHATTED [   12374394] fpcqw13v1gqvrnthong9 (   40.5,    13.0,    -7.7)
+  ur not funny go ### # ####
+2022-10-27T09:29:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (   34.2,    13.7,    -6.8)
+  ÒÓ
+2022-10-27T09:29:22Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           ( -112.5,    12.1,   369.5)
+  noo
+2022-10-27T09:29:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (   36.8,    13.7,    -3.7)
+  We will fly together!
+2022-10-27T09:29:30Z: PLAYER CHATTED [  465691804] spider_monkeycat     ( -148.4,    13.0,   337.2)
+  dinner is serveed
+2022-10-27T09:29:34Z: PLAYER ADDED   [   12737129] r45h7a1xy05fiorcgzem
+2022-10-27T09:29:43Z: CHRCTER ADDED  [ 1344350245] XZgokXlsXawesomeX   
+2022-10-27T09:29:45Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (    2.0, 3141589.5,    -2.0)
+  HAHA
+2022-10-27T09:29:54Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (    2.0, 3141589.5,    -2.0)
+  u cant get me
+2022-10-27T09:29:57Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (    2.0, 3141589.5,    -2.0)
+  B)))
+2022-10-27T09:29:59Z: PLAYER REMOVED [ 4004394293] ToastIsFurry
+2022-10-27T09:30:03Z: PLAYER REMOVED [   12374394] fpcqw13v1gqvrnthong9
+2022-10-27T09:30:06Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (    2.0, 3141589.5,    -2.0)
+  #######
+2022-10-27T09:30:09Z: PLAYER CHATTED [  465691804] spider_monkeycat     (  -36.9,    13.0,   188.6)
+  i will find you little devil or more like dinner
+2022-10-27T09:30:17Z: PLAYER CHATTED [    1630228] VisualPlugin         (   21.8,    13.7,    -0.4)
+  You're probably flying in the distance.
+2022-10-27T09:30:17Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (    2.0, 3141589.5,    -2.0)
+  ☠☠☠☠☠
+2022-10-27T09:30:26Z: PLAYER REMOVED [ 2527700012] Samirpucci
+2022-10-27T09:30:34Z: PLAYER CHATTED [    1630228] VisualPlugin         (    2.0, 3141589.5,    -2.0)
+  I was not wrong.
+2022-10-27T09:30:38Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (    2.0, 3141589.5,    -2.0)
+  rip #####
+2022-10-27T09:30:38Z: PLAYER ADDED   [   12366106] m7swpv84ht8epdvee5w
+2022-10-27T09:30:43Z: PLAYER ADDED   [   12374394] fpcqw13v1gqvrnthong9
+2022-10-27T09:30:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (    2.0, 3141589.5,    -2.0)
+  WE ARE ONE!
+2022-10-27T09:30:55Z: PLAYER CHATTED [  465691804] spider_monkeycat     (   22.1,    13.0,    -4.2)
+  ayo
+2022-10-27T09:30:55Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (    2.0, 3141589.5,    -2.0)
+  no you are 3
+2022-10-27T09:30:55Z: PLAYER CHATTED [    1630228] VisualPlugin         (    2.0, 3141589.5,    -2.0)
+  All my bully thoughts are transcended with you!
+2022-10-27T09:31:09Z: PLAYER CHATTED [ 1344350245] XZgokXlsXawesomeX    (   21.4,    13.0,    -1.3)
+  bodily flu
+2022-10-27T09:31:13Z: PLAYER REMOVED [   12374394] fpcqw13v1gqvrnthong9
+2022-10-27T09:31:22Z: PLAYER ADDED   [   12374394] fpcqw13v1gqvrnthong9
+2022-10-27T09:31:30Z: PLAYER ADDED   [ 2394070182] Qeetty_y
+2022-10-27T09:31:40Z: PLAYER CHATTED [  465691804] spider_monkeycat     (   21.2,    13.0,    -1.2)
+  oh yeah
+2022-10-27T09:31:42Z: PLAYER REMOVED [ 2394070182] Qeetty_y
+2022-10-27T09:31:50Z: PLAYER ADDED   [ 2527700012] Samirpucci
+2022-10-27T09:31:51Z: PLAYER CHATTED [  465691804] spider_monkeycat     (   21.2,    13.0,    -1.2)
+  ronin stop 
+2022-10-27T09:31:55Z: CHRCTER ADDED  [    1630228] VisualPlugin        
+2022-10-27T09:31:57Z: PLAYER CHATTED [  465691804] spider_monkeycat     (   21.2,    13.0,    -1.2)
+  join us
+2022-10-27T09:32:02Z: PLAYER ADDED   [ 1155957334] ilaykinda
+2022-10-27T09:32:07Z: PLAYER REMOVED [   12486342] 34aohrbzaa8nh56ozas4
+2022-10-27T09:32:09Z: PLAYER CHATTED [    1630228] VisualPlugin         (   22.2,    13.7,    -4.6)
+  3141589.5
+2022-10-27T09:32:11Z: PLAYER REMOVED [   12366106] m7swpv84ht8epdvee5w
+2022-10-27T09:32:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (   22.2,    13.7,    -4.6)
+  Did you fly to pi * 10e6 or something?
+2022-10-27T09:32:26Z: PLAYER REMOVED [   12374394] fpcqw13v1gqvrnthong9
+2022-10-27T09:32:31Z: PLAYER CHATTED [    1630228] VisualPlugin         (   20.9,    13.7,    -4.3)
+  I LIKE PI!
+2022-10-27T09:32:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (   20.9,    13.7,    -4.3)
+  But I like primes just about as much.
+2022-10-27T09:32:40Z: PLAYER ADDED   [   12374394] fpcqw13v1gqvrnthong9
+2022-10-27T09:32:42Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (   -2.0, 3141591.5,     0.0)
+  ###########
+2022-10-27T09:32:44Z: PLAYER REMOVED [ 2527700012] Samirpucci
+2022-10-27T09:32:45Z: PLAYER ADDED   [   12486342] 34aohrbzaa8nh56ozas4
+2022-10-27T09:32:59Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (   -2.0, 3141591.5,     0.0)
+  jojo reference??!!??!
+2022-10-27T09:33:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (   30.8,    13.7,   -15.6)
+  No.
+2022-10-27T09:33:07Z: PLAYER CHATTED [  465691804] spider_monkeycat     (   45.1,    13.0,   -22.7)
+  AHHHHHHHHHHHHHHHHHHH
+2022-10-27T09:33:09Z: PLAYER CHATTED [    1630228] VisualPlugin         (   30.8,    13.7,   -15.6)
+  Just maths.
+2022-10-27T09:33:10Z: PLAYER ADDED   [ 3240729121] Decal_Grabber2
+2022-10-27T09:33:15Z: PLAYER CHATTED [ 1155957334] ilaykinda            ( -501.4,    13.0,   571.4)
+  .                                                                                                                                                             [ROBLOX]: Yall bad
+2022-10-27T09:33:16Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (   -2.0, 3141591.5,     0.0)
+  yes
+2022-10-27T09:33:19Z: PLAYER ADDED   [   12125392] wpu6fz3moq8fp1ffho7z
+2022-10-27T09:33:20Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (   -2.0, 3141591.5,     0.0)
+  OMG ROBLOX
+2022-10-27T09:33:21Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (   -2.0, 3141591.5,     0.0)
+  ##########
+2022-10-27T09:33:27Z: PLAYER CHATTED [ 1344350245] XZgokXlsXawesomeX    (  153.5,    13.0,   -33.7)
+  Yall bad
+2022-10-27T09:33:27Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (   -2.0, 3141591.5,     0.0)
+  #########
+2022-10-27T09:33:28Z: PLAYER CHATTED [  465691804] spider_monkeycat     (  132.5,    13.0,   -24.5)
+  AYO
+2022-10-27T09:33:28Z: PLAYER CHATTED [   12374394] fpcqw13v1gqvrnthong9 (  175.9,    13.0,     6.9)
+  ##############
+2022-10-27T09:33:33Z: PLAYER CHATTED [ 3240729121] Decal_Grabber2       (   14.6,    13.0,    18.6)
+  yogurt
+2022-10-27T09:33:49Z: PLAYER CHATTED [   12125392] wpu6fz3moq8fp1ffho7z (   82.3,    13.0,   -19.0)
+  ########################################################################################### true))()
+2022-10-27T09:33:52Z: PLAYER CHATTED [   12374394] fpcqw13v1gqvrnthong9 (   52.0,    13.0,   -63.5)
+  lol
+2022-10-27T09:34:06Z: PLAYER REMOVED [   12374394] fpcqw13v1gqvrnthong9
+2022-10-27T09:34:09Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (   -2.0, 3141591.5,     0.0)
+  ###########
+2022-10-27T09:34:18Z: PLAYER CHATTED [   12125392] wpu6fz3moq8fp1ffho7z (   83.7,    16.6,    -4.2)
+  #### ############ }} ##
+2022-10-27T09:34:20Z: PLAYER CHATTED [   12125392] wpu6fz3moq8fp1ffho7z (   83.7,    16.6,    -4.2)
+  ni{{ ############## }} ##
+2022-10-27T09:34:27Z: PLAYER CHATTED [ 1155957334] ilaykinda            ( -523.7,    13.0,   610.0)
+  ### [ROBLOX]: joking
+2022-10-27T09:34:31Z: PLAYER CHATTED [   12125392] wpu6fz3moq8fp1ffho7z (   73.8,    13.0,   -33.5)
+  ni{{ ############# }} ##
+2022-10-27T09:34:37Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (   73.5,    12.1,   -38.4)
+  yo i have that
+2022-10-27T09:34:38Z: PLAYER CHATTED [   12125392] wpu6fz3moq8fp1ffho7z (   75.4,    13.0,   -35.1)
+  #### ############ }} ##
+2022-10-27T09:34:42Z: PLAYER CHATTED [ 2209697579] LORD1SIMO2           (   74.2,    12.1,   -37.1)
+  i wont use it
+2022-10-27T09:34:45Z: PLAYER CHATTED [   12125392] wpu6fz3moq8fp1ffho7z (   74.7,    13.0,   -34.3)
+  bit{{ ############ }} ##
+2022-10-27T09:34:48Z: PLAYER CHATTED [   12125392] wpu6fz3moq8fp1ffho7z (   74.8,    13.0,   -33.9)
+  who{{ ############ }} ##
+2022-10-27T09:34:48Z: PLAYER CHATTED [ 1344350245] XZgokXlsXawesomeX    (   77.5,    13.0,   -36.1)
+  whats it called
+2022-10-27T09:34:51Z: PLAYER CHATTED [ 3240729121] Decal_Grabber2       (   82.0,    13.0,   -38.1)
+  ###### ### #### ############
+2022-10-27T09:34:52Z: PLAYER CHATTED [   12125392] wpu6fz3moq8fp1ffho7z (   75.4,    13.0,   -34.5)
+  #### ############ }} ##
+2022-10-27T09:34:54Z: PLAYER CHATTED [   12125392] wpu6fz3moq8fp1ffho7z (   75.4,    13.0,   -34.5)
+  ni{{ ############# }} ##
+2022-10-27T09:34:55Z: PLAYER CHATTED [   12125392] wpu6fz3moq8fp1ffho7z (   75.4,    13.0,   -34.5)
+  shut up
+2022-10-27T09:34:56Z: PLAYER CHATTED [ 3240729121] Decal_Grabber2       (   77.8,    13.0,   -36.5)
+  ###### ####### ьк #### ########## ### ##
+2022-10-27T09:34:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (   69.7,    13.7,   -37.3)
+  Wanna unite again?
+2022-10-27T09:35:01Z: PLAYER CHATTED [ 3240729121] Decal_Grabber2       (   77.8,    13.0,   -36.5)
+  од ####### ##### ### ### #####
+2022-10-27T09:35:05Z: PLAYER CHATTED [ 3240729121] Decal_Grabber2       (   77.8,    13.0,   -36.5)
+  ###### длд ###### #######
+2022-10-27T09:35:05Z: PLAYER CHATTED [   12125392] wpu6fz3moq8fp1ffho7z (   75.6,    13.0,   -34.7)
+  #### ############ }} off ##
+2022-10-27T09:35:08Z: PLAYER CHATTED [   12125392] wpu6fz3moq8fp1ffho7z (   75.6,    13.0,   -34.7)
+  talk english
+2022-10-27T09:35:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (   69.6,    13.7,   -38.1)
+  Pi * 10e6.
+2022-10-27T09:35:14Z: PLAYER CHATTED [   12125392] wpu6fz3moq8fp1ffho7z (   75.6,    13.0,   -34.7)
+  fat ni{{ ############## }} ##
+2022-10-27T09:35:17Z: PLAYER CHATTED [    1630228] VisualPlugin         (   69.6,    13.7,   -38.1)
+  1,000,000
+2022-10-27T09:35:18Z: PLAYER CHATTED [  465691804] spider_monkeycat     (   73.9,    13.0,   -38.5)
+  my chromebook is being weird
+2022-10-27T09:35:20Z: PLAYER CHATTED [ 3240729121] Decal_Grabber2       (   77.8,    13.0,   -36.5)
+  ###### ############# ## ###### Д
+2022-10-27T09:35:22Z: PLAYER CHATTED [    1630228] VisualPlugin         (   69.6,    13.7,   -38.1)
+  Meet me where we were.
+2022-10-27T09:35:26Z: PLAYER CHATTED [ 3240729121] Decal_Grabber2       (   77.8,    13.0,   -36.5)
+  КД ДЛ ### #### ### ###### ##### ####
+2022-10-27T09:35:28Z: PLAYER REMOVED [ 2209697579] LORD1SIMO2
+2022-10-27T09:35:32Z: PLAYER CHATTED [   12125392] wpu6fz3moq8fp1ffho7z (   75.6,    13.0,   -34.7)
+  wha{{ ########### }} are yo{{ ########### }} even sayin ##
+2022-10-27T09:35:34Z: PLAYER CHATTED [    1630228] VisualPlugin         (   71.4,    13.7,   -34.6)
+  He left.
+2022-10-27T09:35:37Z: PLAYER CHATTED [   12125392] wpu6fz3moq8fp1ffho7z (   73.5,    13.0,   -33.6)
+  visual
+2022-10-27T09:35:43Z: PLAYER CHATTED [   12125392] wpu6fz3moq8fp1ffho7z (   75.1,    13.0,   -37.6)
+  You're a ni{{ ############## }} ##
+2022-10-27T09:35:45Z: PLAYER CHATTED [ 3240729121] Decal_Grabber2       (   76.2,    13.0,   -42.7)
+  ت
+2022-10-27T09:35:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (   72.5,    13.7,   -37.9)
+  I'm nil?
+2022-10-27T09:35:51Z: PLAYER ADDED   [   12374394] fpcqw13v1gqvrnthong9
+2022-10-27T09:35:56Z: PLAYER CHATTED [  465691804] spider_monkeycat     (   74.7,    13.0,   -38.7)
+  AYO
+2022-10-27T09:35:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (   72.5,    13.7,   -37.9)
+  My address is null?
+2022-10-27T09:35:58Z: PLAYER REMOVED [   12125392] wpu6fz3moq8fp1ffho7z
+2022-10-27T09:36:00Z: PLAYER CHATTED [ 3240729121] Decal_Grabber2       (   76.2,    13.0,   -42.7)
+  بنب مس #################
+2022-10-27T09:36:06Z: PLAYER REMOVED [   12737129] r45h7a1xy05fiorcgzem
+2022-10-27T09:36:07Z: PLAYER CHATTED [ 3240729121] Decal_Grabber2       (   77.2,    13.0,   -41.1)
+  مي ###########################
+2022-10-27T09:36:09Z: PLAYER CHATTED [    1630228] VisualPlugin         (   72.5,    13.7,   -36.6)
+  #######ÒÓ##########################
+2022-10-27T09:36:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (   71.6,    13.7,   -34.7)
+  ####Ò.Ó###########
+2022-10-27T09:36:23Z: PLAYER CHATTED [ 3240729121] Decal_Grabber2       (   77.2,    13.0,   -41.1)
+  ie
+2022-10-27T09:36:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (   71.6,    13.7,   -34.7)
+  T#GETHER, WE C#N #########
+2022-10-27T09:36:41Z: PLAYER CHATTED [ 3240729121] Decal_Grabber2       (   73.6,    13.0,   -37.6)
+  ققققق
+2022-10-27T09:36:41Z: PLAYER CHATTED [    1630228] VisualPlugin         (   70.1,    13.7,   -35.6)
+  TH#N, WE'#L ##HTAG!
+2022-10-27T09:36:47Z: PLAYER CHATTED [ 3240729121] Decal_Grabber2       (   73.6,    13.0,   -37.6)
+  ######
+2022-10-27T09:36:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (   70.9,    13.7,   -34.7)
+  RIGHT NEXT TO THE #NTER K#Y!
+2022-10-27T09:37:02Z: PLAYER CHATTED [ 3240729121] Decal_Grabber2       (   73.4,    13.0,   -37.4)
+  ###### ### ### #####
+2022-10-27T09:37:06Z: PLAYER CHATTED [ 3240729121] Decal_Grabber2       (   73.4,    13.0,   -37.4)
+  ########## سمي يم سب
+2022-10-27T09:37:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (   71.0,    13.7,   -34.7)
+  THE TWO ROWS OF THE ENTER KEY!
+2022-10-27T09:37:14Z: PLAYER CHATTED [ 3240729121] Decal_Grabber2       (   73.4,    13.0,   -37.4)
+  ####### ### ##### سم ### ### ## ## ###
+2022-10-27T09:37:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (   70.2,    13.7,   -33.5)
+  RIGHT NEXT TO IT!
+2022-10-27T09:37:20Z: PLAYER CHATTED [ 3240729121] Decal_Grabber2       (   73.4,    13.0,   -37.4)
+  #### ### بنرم ##
+2022-10-27T09:37:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (   70.2,    13.7,   -33.5)
+  TO THE RIGHT O THE APOSTROPHE!
+2022-10-27T09:37:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (   70.2,    13.7,   -33.5)
+  ########HASH###
+2022-10-27T09:37:29Z: PLAYER CHATTED [ 3240729121] Decal_Grabber2       (   73.4,    13.0,   -37.5)
+  фп ####### #### ########
+2022-10-27T09:37:42Z: PLAYER CHATTED [ 3240729121] Decal_Grabber2       (   73.3,    13.0,   -37.5)
+  ########## ос ######## ######### а #####
+2022-10-27T09:37:45Z: PLAYER CHATTED [ 3240729121] Decal_Grabber2       (   73.3,    13.0,   -37.5)
+  #########
+2022-10-27T09:37:46Z: PLAYER CHATTED [    1630228] VisualPlugin         (   69.8,    13.7,   -33.9)
+  B#LOW THE RIGHT SQUA#RE BR##KET!
+2022-10-27T09:38:00Z: PLAYER CHATTED [ 3240729121] Decal_Grabber2       (   73.4,    13.0,   -37.5)
+  byebye
+2022-10-27T09:38:02Z: PLAYER REMOVED [ 3240729121] Decal_Grabber2
+2022-10-27T09:38:23Z: PLAYER REMOVED [ 1344350245] XZgokXlsXawesomeX
+2022-10-27T09:38:34Z: PLAYER CHATTED [    1630228] VisualPlugin         (   41.3,    13.7,   -25.1)
+  Who here can fly?
+2022-10-27T09:38:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (   41.3,    13.7,   -25.1)
+  Let's build a colony!
+2022-10-27T09:38:53Z: PLAYER CHATTED [    1630228] VisualPlugin         (   24.6,    13.7,   -30.6)
+  We have a volunteer!
+2022-10-27T09:39:07Z: PLAYER REMOVED [   12374394] fpcqw13v1gqvrnthong9
+2022-10-27T09:39:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -1.0,    13.7,   -44.3)
+  I CHOOSE THIS WAY!
+2022-10-27T09:39:16Z: PLAYER ADDED   [  608895415] iKahveci
+2022-10-27T09:39:20Z: CHRCTER ADDED  [  608895415] iKahveci            
+2022-10-27T09:39:28Z: PLAYER REMOVED [  608895415] iKahveci
+2022-10-27T09:40:07Z: PLAYER REMOVED [   12486342] 34aohrbzaa8nh56ozas4
+2022-10-27T09:40:16Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 2877.0,   282.0,    36.9)
+  Blimey.
+2022-10-27T09:40:21Z: PLAYER REMOVED [ 3174663053] goofyCheetah0
+2022-10-27T09:40:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -16.4,    13.7,    14.1)
+  Can anyone here fly?
+2022-10-27T09:40:39Z: PLAYER CHATTED [  465691804] spider_monkeycat     (  -14.2,    13.0,     9.0)
+  no :(
+2022-10-27T09:40:48Z: PLAYER ADDED   [   12486342] 34aohrbzaa8nh56ozas4
+2022-10-27T09:40:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -12.5,    13.7,     8.3)
+  Right.
+2022-10-27T09:41:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -2.6,    13.7,     1.0)
+  When you do,
+2022-10-27T09:41:18Z: PLAYER ADDED   [ 2613081282] 441312v
+2022-10-27T09:41:23Z: PLAYER REMOVED [ 2613081282] 441312v
+2022-10-27T09:41:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -2.6,    13.7,     1.0)
+  Ask them to form a colony below the baseplate.
+2022-10-27T09:41:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -2.6,    13.7,     1.0)
+  I'll be òóff.
+2022-10-27T09:41:59Z: PLAYER REMOVED [    1630228] VisualPlugin

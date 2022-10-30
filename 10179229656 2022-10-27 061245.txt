@@ -1,0 +1,237 @@
+[    1630228] : [10179229656] [🎃HALLOWEEN🎃] Make a Wish! 🌈 - e9b223e3-fc85-4b86-9ac9-3d6eff72f9e7
+2022-10-27T06:12:45Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-10-27T06:12:45Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-10-27T06:12:45Z: PLAYER ADDED   [  545653898] belivethat559
+2022-10-27T06:12:45Z: PLAYER ADDED   [ 1758929963] Hotdogman7475
+2022-10-27T06:12:45Z: PLAYER ADDED   [ 3018416817] Tapewash1998
+2022-10-27T06:12:45Z: PLAYER ADDED   [ 3800003045] bluexgreenship
+2022-10-27T06:12:45Z: PLAYER ADDED   [ 3966012972] Monsta_Alex4197
+2022-10-27T06:12:45Z: PLAYER ADDED   [ 2655212357] gamerdog13426
+2022-10-27T06:12:45Z: PLAYER ADDED   [  346596649] heaxks
+2022-10-27T06:12:45Z: PLAYER ADDED   [ 3120395705] LeviCHunter
+2022-10-27T06:12:45Z: PLAYER ADDED   [ 1138198693] lexie1496
+2022-10-27T06:12:46Z: PLAYER CHATTED [ 3800003045] bluexgreenship       (  104.3,     4.5,   -90.2)
+  small earth
+2022-10-27T06:12:49Z: PLAYER CHATTED [  346596649] heaxks               ( -129.7,     5.7,   -14.8)
+  Super car
+2022-10-27T06:12:49Z: PLAYER CHATTED [ 2655212357] gamerdog13426        ( -257.9,     4.6,   146.8)
+  speed
+2022-10-27T06:12:50Z: PLAYER CHATTED [ 3966012972] Monsta_Alex4197      (   83.2,     4.4,  -217.9)
+  Speed
+2022-10-27T06:12:52Z: PLAYER CHATTED [  346596649] heaxks               ( -155.2,     4.4,    90.8)
+  Big car
+2022-10-27T06:12:52Z: PLAYER CHATTED [ 3966012972] Monsta_Alex4197      (   83.2,     4.4,  -217.9)
+  Speed
+2022-10-27T06:12:53Z: PLAYER CHATTED [ 2655212357] gamerdog13426        ( -233.1,     4.6,   236.8)
+  spped
+2022-10-27T06:12:54Z: PLAYER CHATTED [ 3966012972] Monsta_Alex4197      (   83.2,     4.4,  -217.9)
+  Speed
+2022-10-27T06:12:56Z: PLAYER CHATTED [ 3966012972] Monsta_Alex4197      (   83.2,     4.4,  -217.9)
+  Speed
+2022-10-27T06:12:57Z: PLAYER CHATTED [ 2655212357] gamerdog13426        ( -233.1,     4.6,   236.8)
+  speed
+2022-10-27T06:12:59Z: PLAYER CHATTED [ 3966012972] Monsta_Alex4197      (   83.2,     4.4,  -217.9)
+  Speed
+2022-10-27T06:12:59Z: PLAYER CHATTED [  346596649] heaxks               ( -192.4,     4.4,   101.0)
+  Ishowspeed
+2022-10-27T06:13:00Z: PLAYER CHATTED [ 2655212357] gamerdog13426        ( -233.1,     4.6,   236.8)
+  speed
+2022-10-27T06:13:01Z: PLAYER CHATTED [ 3966012972] Monsta_Alex4197      (   83.2,     4.4,  -217.9)
+  Speed
+2022-10-27T06:13:02Z: PLAYER CHATTED [  346596649] heaxks               ( -188.9,     4.4,    70.4)
+  Speed
+2022-10-27T06:13:02Z: PLAYER CHATTED [ 2655212357] gamerdog13426        ( -233.1,     4.6,   236.8)
+  speed
+2022-10-27T06:13:03Z: PLAYER CHATTED [ 3800003045] bluexgreenship       (  112.3,     4.5,   -92.9)
+  earth
+2022-10-27T06:13:04Z: PLAYER CHATTED [  346596649] heaxks               ( -170.8,     4.4,    18.7)
+  Speed
+2022-10-27T06:13:06Z: PLAYER CHATTED [  346596649] heaxks               ( -145.8,     4.4,   -26.0)
+  Speed
+2022-10-27T06:13:07Z: PLAYER CHATTED [  346596649] heaxks               ( -138.2,     4.4,   -44.9)
+  Speed
+2022-10-27T06:13:08Z: PLAYER CHATTED [  346596649] heaxks               ( -138.2,     4.4,   -44.9)
+  Speed
+2022-10-27T06:13:10Z: PLAYER CHATTED [  346596649] heaxks               ( -138.2,     4.4,   -44.9)
+  Speed
+2022-10-27T06:13:11Z: PLAYER CHATTED [ 3018416817] Tapewash1998         (  -13.8,     6.1,   -18.0)
+  Speed
+2022-10-27T06:13:14Z: PLAYER CHATTED [  346596649] heaxks               (  -48.9,     4.4,  -131.3)
+  Speed
+2022-10-27T06:13:15Z: PLAYER CHATTED [ 2655212357] gamerdog13426        (   52.5,     4.6,   320.9)
+  speed
+2022-10-27T06:13:18Z: PLAYER CHATTED [ 3018416817] Tapewash1998         (    4.4,     4.1,   -36.1)
+  Speed
+2022-10-27T06:13:18Z: PLAYER CHATTED [ 3800003045] bluexgreenship       (  124.9,     4.5,   -98.2)
+  big earth
+2022-10-27T06:13:19Z: PLAYER CHATTED [ 2655212357] gamerdog13426        (   52.5,     4.6,   320.9)
+  speed
+2022-10-27T06:13:21Z: PLAYER CHATTED [ 2655212357] gamerdog13426        (   52.5,     4.6,   320.9)
+  speed
+2022-10-27T06:13:22Z: PLAYER CHATTED [  346596649] heaxks               (  133.5,     4.4,    75.0)
+  Speed
+2022-10-27T06:13:24Z: PLAYER CHATTED [  346596649] heaxks               (  133.5,     4.4,    75.0)
+  Speed
+2022-10-27T06:13:24Z: PLAYER CHATTED [ 2655212357] gamerdog13426        (   52.5,     4.6,   320.9)
+  speed
+2022-10-27T06:13:25Z: PLAYER CHATTED [  346596649] heaxks               (  133.5,     4.4,    75.0)
+  Speed
+2022-10-27T06:13:27Z: PLAYER CHATTED [ 3018416817] Tapewash1998         (   68.1,     4.1,   -26.1)
+  Speed speed
+2022-10-27T06:13:29Z: PLAYER CHATTED [ 3800003045] bluexgreenship       (  124.9,     4.5,   -98.2)
+  big earth
+2022-10-27T06:13:30Z: PLAYER CHATTED [  346596649] heaxks               (  133.5,     4.4,    75.0)
+  Speed
+2022-10-27T06:13:30Z: PLAYER CHATTED [ 2655212357] gamerdog13426        (   52.5,     4.6,   320.9)
+  speed
+2022-10-27T06:13:33Z: PLAYER CHATTED [ 2655212357] gamerdog13426        (   52.5,     4.6,   320.9)
+  speed
+2022-10-27T06:13:33Z: PLAYER CHATTED [ 3966012972] Monsta_Alex4197      (  178.1,     4.4,  -117.5)
+  Speed
+2022-10-27T06:13:36Z: PLAYER CHATTED [ 2655212357] gamerdog13426        (   52.5,     4.6,   320.9)
+  speed
+2022-10-27T06:13:38Z: PLAYER CHATTED [  346596649] heaxks               (  131.7,     4.4,  -164.8)
+  Speed
+2022-10-27T06:13:38Z: PLAYER CHATTED [ 3120395705] LeviCHunter          (   13.1,     5.4,   128.4)
+  Bomb
+2022-10-27T06:13:38Z: PLAYER CHATTED [ 3018416817] Tapewash1998         (  117.0,     4.1,   -70.1)
+  Speed
+2022-10-27T06:13:39Z: PLAYER CHATTED [ 2655212357] gamerdog13426        (   52.5,     4.6,   320.9)
+  speed
+2022-10-27T06:13:40Z: PLAYER CHATTED [ 1758929963] Hotdogman7475        (  -31.6,     4.4,  -124.6)
+  bolloo
+2022-10-27T06:13:42Z: PLAYER CHATTED [ 3018416817] Tapewash1998         (  117.0,     4.1,   -70.1)
+  Speed
+2022-10-27T06:13:42Z: PLAYER CHATTED [ 2655212357] gamerdog13426        (   52.5,     4.6,   320.9)
+  speed
+2022-10-27T06:13:43Z: PLAYER CHATTED [ 3120395705] LeviCHunter          (   74.0,     5.4,   332.1)
+  Bomb
+2022-10-27T06:13:43Z: PLAYER CHATTED [  346596649] heaxks               (  170.7,     4.4,   199.5)
+  Speed
+2022-10-27T06:13:45Z: PLAYER CHATTED [ 2655212357] gamerdog13426        (   52.5,     4.6,   320.9)
+  speed
+2022-10-27T06:13:45Z: PLAYER CHATTED [  346596649] heaxks               (  170.7,     4.4,   199.5)
+  Baloon
+2022-10-27T06:13:47Z: PLAYER REMOVED [ 1758929963] Hotdogman7475
+2022-10-27T06:13:47Z: PLAYER CHATTED [  346596649] heaxks               (  170.7,     4.4,   199.5)
+  Balloon
+2022-10-27T06:13:49Z: PLAYER CHATTED [ 3018416817] Tapewash1998         (  117.0,     4.1,   -70.1)
+  Speedspeed
+2022-10-27T06:13:53Z: PLAYER CHATTED [ 3120395705] LeviCHunter          (   70.7,     5.4,   421.7)
+  Big tree
+2022-10-27T06:13:53Z: PLAYER CHATTED [ 2655212357] gamerdog13426        (  378.8,     4.6,   -14.4)
+  speed 
+2022-10-27T06:13:54Z: PLAYER CHATTED [  346596649] heaxks               (   96.8,     4.4,    56.4)
+  Hot air balloon
+2022-10-27T06:13:54Z: PLAYER CHATTED [ 3018416817] Tapewash1998         (  117.0,     4.1,   -70.1)
+  Speed
+2022-10-27T06:13:54Z: PLAYER ADDED   [ 1758929963] Hotdogman7475
+2022-10-27T06:13:55Z: PLAYER CHATTED [ 2655212357] gamerdog13426        (  378.8,     4.6,   -14.4)
+  speed
+2022-10-27T06:13:57Z: PLAYER CHATTED [ 3018416817] Tapewash1998         (  117.0,     4.1,   -70.1)
+  Speed
+2022-10-27T06:13:58Z: PLAYER CHATTED [  346596649] heaxks               (  281.5,     4.4,  -125.7)
+  Ball
+2022-10-27T06:13:58Z: PLAYER CHATTED [ 2655212357] gamerdog13426        (  378.8,     4.6,   -14.4)
+  speed
+2022-10-27T06:14:00Z: PLAYER CHATTED [ 3120395705] LeviCHunter          (   25.5,     5.4,   385.3)
+  Pine tree
+2022-10-27T06:14:01Z: PLAYER CHATTED [  346596649] heaxks               (  215.1,     4.4,  -173.8)
+  Soccer
+2022-10-27T06:14:04Z: PLAYER CHATTED [  346596649] heaxks               (  215.1,     4.4,  -173.8)
+  Soccer ball
+2022-10-27T06:14:07Z: PLAYER CHATTED [ 3120395705] LeviCHunter          (    8.4,     5.4,   388.2)
+  Pine tree
+2022-10-27T06:14:10Z: PLAYER CHATTED [  346596649] heaxks               (  108.5,     4.4,   129.4)
+  Lightsaber
+2022-10-27T06:14:15Z: PLAYER CHATTED [  346596649] heaxks               (   -0.7,     4.4,   271.8)
+  Pine tree
+2022-10-27T06:14:16Z: PLAYER CHATTED [ 3018416817] Tapewash1998         (  108.7,     4.1,   -17.1)
+  100 speed
+2022-10-27T06:14:18Z: PLAYER CHATTED [  346596649] heaxks               ( -199.2,     4.4,   295.9)
+  Tree
+2022-10-27T06:14:18Z: PLAYER CHATTED [  545653898] belivethat559        (  -68.1,     4.5,  -348.3)
+  Robux
+2022-10-27T06:14:19Z: PLAYER CHATTED [  346596649] heaxks               ( -348.1,     4.4,    97.9)
+  Tree
+2022-10-27T06:14:22Z: PLAYER CHATTED [ 3120395705] LeviCHunter          (   -4.9,    11.1,   225.7)
+  Big pine tree
+2022-10-27T06:14:22Z: CHRCTER ADDED  [ 3800003045] bluexgreenship      
+2022-10-27T06:14:23Z: PLAYER CHATTED [  346596649] heaxks               ( -326.6,     4.4,   -33.6)
+  Tree
+2022-10-27T06:14:23Z: PLAYER CHATTED [  545653898] belivethat559        (  -81.6,     4.5,  -392.3)
+  Pine tree
+2022-10-27T06:14:24Z: PLAYER CHATTED [  346596649] heaxks               ( -190.3,     4.4,   -73.8)
+  Tree
+2022-10-27T06:14:25Z: PLAYER CHATTED [  346596649] heaxks               (   10.8,     5.1,   -79.6)
+  Tree
+2022-10-27T06:14:26Z: PLAYER CHATTED [  346596649] heaxks               (  161.6,     4.4,    67.6)
+  Tree
+2022-10-27T06:14:31Z: PLAYER CHATTED [ 2655212357] gamerdog13426        (  195.2,     4.6,   314.6)
+  pine tree
+2022-10-27T06:14:31Z: PLAYER CHATTED [ 3018416817] Tapewash1998         (   81.0,     4.1,   -16.7)
+  Speed
+2022-10-27T06:14:32Z: PLAYER CHATTED [  346596649] heaxks               (   67.9,     4.4,  -178.1)
+  Tree
+2022-10-27T06:14:34Z: PLAYER CHATTED [  346596649] heaxks               (  342.9,     4.4,   -11.8)
+  Tree
+2022-10-27T06:14:36Z: PLAYER CHATTED [  346596649] heaxks               (  220.9,     4.4,   184.1)
+  Bush
+2022-10-27T06:14:36Z: PLAYER CHATTED [ 2655212357] gamerdog13426        (  195.2,     4.6,   314.6)
+  ghost
+2022-10-27T06:14:38Z: PLAYER CHATTED [ 1138198693] lexie1496            (   55.2,     4.3,   -36.4)
+  Speed
+2022-10-27T06:14:39Z: PLAYER CHATTED [ 3018416817] Tapewash1998         (   81.0,     4.1,   -16.7)
+  Speed
+2022-10-27T06:14:42Z: PLAYER REMOVED [  346596649] heaxks
+2022-10-27T06:14:43Z: PLAYER CHATTED [ 3966012972] Monsta_Alex4197      (   -7.1,     6.4,   -10.7)
+  Speed
+2022-10-27T06:14:46Z: PLAYER CHATTED [ 3018416817] Tapewash1998         (   81.0,     4.1,   -16.7)
+  Speed
+2022-10-27T06:14:47Z: PLAYER CHATTED [ 3966012972] Monsta_Alex4197      (   51.1,     4.4,     0.3)
+  Speed
+2022-10-27T06:14:48Z: PLAYER CHATTED [  545653898] belivethat559        ( -276.1,     4.5,   111.1)
+  Sigh on
+2022-10-27T06:14:48Z: PLAYER CHATTED [ 3120395705] LeviCHunter          (  -21.9,     5.4,   218.3)
+  Big pine tree
+2022-10-27T06:14:49Z: PLAYER CHATTED [ 3018416817] Tapewash1998         (   81.0,     4.1,   -16.7)
+  Speed
+2022-10-27T06:14:50Z: PLAYER CHATTED [ 3120395705] LeviCHunter          (  -21.9,     5.4,   218.3)
+  Big pine tree
+2022-10-27T06:14:51Z: PLAYER CHATTED [ 3120395705] LeviCHunter          (  -21.6,     5.2,   219.0)
+  Big pine tree
+2022-10-27T06:14:51Z: PLAYER CHATTED [ 2655212357] gamerdog13426        (  375.9,     4.6,   423.0)
+  jump
+2022-10-27T06:14:52Z: PLAYER CHATTED [ 3018416817] Tapewash1998         (   81.0,     4.1,   -16.7)
+  Speed
+2022-10-27T06:14:53Z: PLAYER CHATTED [ 3120395705] LeviCHunter          (  -21.6,     5.4,   219.3)
+  Big pine tree
+2022-10-27T06:14:54Z: PLAYER CHATTED [ 3966012972] Monsta_Alex4197      ( -301.3,     4.4,  -172.7)
+  Speed
+2022-10-27T06:14:54Z: PLAYER CHATTED [ 1758929963] Hotdogman7475        (   31.5,     4.4,  -246.9)
+  big muffin
+2022-10-27T06:14:54Z: PLAYER CHATTED [ 3120395705] LeviCHunter          (  -21.6,     5.4,   219.3)
+  Big pine tree
+2022-10-27T06:14:55Z: PLAYER CHATTED [ 2655212357] gamerdog13426        (  375.9,     4.6,   423.0)
+  jump
+2022-10-27T06:14:55Z: PLAYER CHATTED [ 3018416817] Tapewash1998         (   81.0,     4.1,   -16.7)
+  Speed
+2022-10-27T06:14:56Z: PLAYER CHATTED [ 3966012972] Monsta_Alex4197      ( -301.3,     4.4,  -172.7)
+  Speed
+2022-10-27T06:14:58Z: PLAYER CHATTED [ 3120395705] LeviCHunter          (  -21.6,     5.4,   219.3)
+  Big pine tree
+2022-10-27T06:14:58Z: PLAYER CHATTED [ 1138198693] lexie1496            (  -69.5,     4.3,    75.2)
+  Love
+2022-10-27T06:14:58Z: PLAYER CHATTED [ 3018416817] Tapewash1998         (   81.0,     4.1,   -16.7)
+  Speeed
+2022-10-27T06:14:58Z: PLAYER CHATTED [  545653898] belivethat559        ( -276.1,     4.5,   111.1)
+  Sign 
+2022-10-27T06:15:00Z: PLAYER CHATTED [ 3120395705] LeviCHunter          (  -21.6,     5.4,   219.3)
+  Big pine tree
+2022-10-27T06:15:03Z: PLAYER CHATTED [ 3018416817] Tapewash1998         (   81.0,     4.1,   -16.7)
+  Speed
+2022-10-27T06:15:07Z: PLAYER CHATTED [ 3018416817] Tapewash1998         (   81.0,     4.1,   -16.7)
+  Jump
+2022-10-27T06:15:09Z: PLAYER CHATTED [ 3966012972] Monsta_Alex4197      (  248.0,     4.4,   368.2)
+  Zombie
+2022-10-27T06:15:14Z: PLAYER REMOVED [    1630228] VisualPlugin

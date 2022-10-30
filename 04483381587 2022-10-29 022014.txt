@@ -1,0 +1,266 @@
+[    1630228] : [ 4483381587] a literal baseplate.  - c85291ce-1248-496e-a822-911bf7f874c2
+2022-10-29T02:20:14Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-10-29T02:20:14Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-10-29T02:20:14Z: PLAYER ADDED   [ 3175953635] joyfulDoughnut9
+2022-10-29T02:20:14Z: PLAYER ADDED   [ 1991136392] Zuclz
+2022-10-29T02:20:14Z: PLAYER ADDED   [ 1267504628] carykioon
+2022-10-29T02:20:14Z: PLAYER ADDED   [ 3387159578] synapse_95
+2022-10-29T02:20:14Z: PLAYER ADDED   [ 3250284796] Corwin43440
+2022-10-29T02:20:14Z: PLAYER ADDED   [ 3247439880] Kirlin35468
+2022-10-29T02:20:14Z: PLAYER ADDED   [ 3247790885] Paucek91933
+2022-10-29T02:20:14Z: PLAYER ADDED   [ 4009349352] qwerfghjgrfgh
+2022-10-29T02:20:14Z: PLAYER ADDED   [ 1455626488] MV_Gamer25
+2022-10-29T02:20:14Z: PLAYER ADDED   [ 2338291497] IWANNASTOMPACOP
+2022-10-29T02:20:14Z: PLAYER ADDED   [ 1934065700] GenioMiguel2803
+2022-10-29T02:20:14Z: PLAYER ADDED   [ 3594381269] AccountForBaseplate
+2022-10-29T02:20:14Z: PLAYER ADDED   [ 3238990448] BRUH_MANSO
+2022-10-29T02:20:14Z: PLAYER ADDED   [ 3714957941] Kai_isPretty1234
+2022-10-29T02:20:14Z: PLAYER ADDED   [  408405054] ImmuneLion318
+2022-10-29T02:20:17Z: PLAYER CHATTED [ 3250284796] Corwin43440          (   68.7,    13.0,   -59.1)
+  Websocket was closed.
+2022-10-29T02:20:17Z: PLAYER CHATTED [ 3387159578] synapse_95           (   66.7,    13.0,   -60.1)
+  Websocket was closed.
+2022-10-29T02:20:17Z: PLAYER CHATTED [ 3247439880] Kirlin35468          (   64.3,    13.0,   -60.5)
+  Websocket was closed.
+2022-10-29T02:20:17Z: PLAYER CHATTED [ 3247790885] Paucek91933          (   68.2,    13.0,   -59.4)
+  Websocket was closed.
+2022-10-29T02:20:20Z: PLAYER ADDED   [ 3269341513] Urmuzlealt
+2022-10-29T02:20:22Z: PLAYER REMOVED [ 3247790885] Paucek91933
+2022-10-29T02:20:24Z: PLAYER ADDED   [ 3247790885] Paucek91933
+2022-10-29T02:20:26Z: PLAYER REMOVED [ 3247439880] Kirlin35468
+2022-10-29T02:20:28Z: PLAYER ADDED   [ 3247439880] Kirlin35468
+2022-10-29T02:20:29Z: PLAYER REMOVED [ 3387159578] synapse_95
+2022-10-29T02:20:31Z: PLAYER ADDED   [ 3387159578] synapse_95
+2022-10-29T02:20:33Z: PLAYER REMOVED [ 3250284796] Corwin43440
+2022-10-29T02:20:36Z: PLAYER ADDED   [ 3250284796] Corwin43440
+2022-10-29T02:20:38Z: PLAYER REMOVED [ 3714957941] Kai_isPretty1234
+2022-10-29T02:20:42Z: PLAYER CHATTED [ 1267504628] carykioon            (   63.8,    13.0,   -47.1)
+  why do you keep closing the websocket
+2022-10-29T02:20:53Z: PLAYER ADDED   [ 3799118215] TheLadyOfDrama
+2022-10-29T02:21:06Z: PLAYER CHATTED [ 3238990448] BRUH_MANSO           (   65.4,    13.0,   -56.4)
+  bye.
+2022-10-29T02:21:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (   59.2,    13.7,   -44.4)
+  Because they let in flie
+2022-10-29T02:21:10Z: PLAYER CHATTED [ 1267504628] carykioon            (  -46.5,    10.5,  -534.6)
+  fishy
+2022-10-29T02:21:14Z: PLAYER REMOVED [ 3238990448] BRUH_MANSO
+2022-10-29T02:21:18Z: PLAYER CHATTED [ 1267504628] carykioon            (  -46.5,    10.5,  -534.6)
+  gimme fish
+2022-10-29T02:21:21Z: PLAYER CHATTED [ 3799118215] TheLadyOfDrama       (   24.9,    13.0,   -12.9)
+  NO
+2022-10-29T02:21:26Z: PLAYER CHATTED [ 1267504628] carykioon            (  -46.5,    10.5,  -534.6)
+  gimme fish
+2022-10-29T02:21:35Z: PLAYER CHATTED [ 3594381269] AccountForBaseplate  (   45.7,    13.0,   -43.8)
+  !contest
+2022-10-29T02:21:37Z: PLAYER CHATTED [ 3594381269] AccountForBaseplate  (   44.6,    13.0,   -46.2)
+  oh right
+2022-10-29T02:21:38Z: PLAYER CHATTED [ 1267504628] carykioon            (  -46.5,    10.5,  -534.6)
+  NOW
+2022-10-29T02:21:41Z: PLAYER CHATTED [ 3594381269] AccountForBaseplate  (   40.2,    13.0,   -48.9)
+  !contest
+2022-10-29T02:21:41Z: PLAYER CHATTED [ 3247439880] Kirlin35468          (  -28.9,    13.1,   -26.7)
+  Connection test. Please ignore this message.
+2022-10-29T02:21:41Z: PLAYER CHATTED [ 3387159578] synapse_95           (   31.7,    13.0,    30.3)
+  Connection test. Please ignore this message.
+2022-10-29T02:21:41Z: PLAYER CHATTED [ 3247790885] Paucek91933          (  -26.1,    13.1,     2.5)
+  Connection test. Please ignore this message.
+2022-10-29T02:21:45Z: PLAYER CHATTED [ 3799118215] TheLadyOfDrama       (   50.5,    13.0,   -54.0)
+  WHY WOULD I
+2022-10-29T02:21:47Z: PLAYER REMOVED [ 1455626488] MV_Gamer25
+2022-10-29T02:21:48Z: PLAYER CHATTED [ 3387159578] synapse_95           (   43.2,    13.0,   -48.9)
+  Websocket was closed.
+2022-10-29T02:21:48Z: PLAYER CHATTED [ 3247439880] Kirlin35468          (   43.2,    13.1,   -48.9)
+  Websocket was closed.
+2022-10-29T02:21:48Z: PLAYER CHATTED [ 3247790885] Paucek91933          (   43.2,    13.1,   -48.9)
+  Websocket was closed.
+2022-10-29T02:21:50Z: PLAYER CHATTED [ 1267504628] carykioon            (  -46.5,    10.5,  -534.6)
+  cause
+2022-10-29T02:21:52Z: PLAYER ADDED   [   12056287] eqzlshfbzna2dovwr75k
+2022-10-29T02:21:52Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -26.1,    13.7,     2.5)
+  I will ignore your connection test message.
+2022-10-29T02:21:52Z: PLAYER CHATTED [ 1267504628] carykioon            (  -46.5,    10.5,  -534.6)
+  i want it
+2022-10-29T02:21:54Z: PLAYER REMOVED [ 3247790885] Paucek91933
+2022-10-29T02:21:55Z: PLAYER REMOVED [ 3247439880] Kirlin35468
+2022-10-29T02:21:55Z: PLAYER REMOVED [ 3387159578] synapse_95
+2022-10-29T02:21:56Z: PLAYER CHATTED [ 3250284796] Corwin43440          (   -4.8,    13.1,    -1.5)
+  Websocket was closed.
+2022-10-29T02:21:57Z: PLAYER CHATTED [ 3799118215] TheLadyOfDrama       (   46.8,    13.0,   -54.5)
+  fine
+2022-10-29T02:21:57Z: PLAYER ADDED   [ 3387159578] synapse_95
+2022-10-29T02:21:57Z: PLAYER ADDED   [ 3247790885] Paucek91933
+2022-10-29T02:21:57Z: PLAYER ADDED   [ 3247439880] Kirlin35468
+2022-10-29T02:21:59Z: PLAYER CHATTED [ 1267504628] carykioon            (  -46.5,    10.5,  -534.6)
+  gimme the fish in your pocket
+2022-10-29T02:22:02Z: PLAYER CHATTED [ 1267504628] carykioon            (  -46.5,    10.5,  -534.6)
+  i smell it
+2022-10-29T02:22:03Z: PLAYER REMOVED [ 3250284796] Corwin43440
+2022-10-29T02:22:05Z: PLAYER ADDED   [ 3250284796] Corwin43440
+2022-10-29T02:22:07Z: PLAYER CHATTED [ 3594381269] AccountForBaseplate  (   36.5,    13.0,   -53.0)
+  !contest
+2022-10-29T02:22:12Z: PLAYER CHATTED [ 1267504628] carykioon            (  -46.5,    10.5,  -534.6)
+  yum!
+2022-10-29T02:22:17Z: PLAYER CHATTED [ 3594381269] AccountForBaseplate  (   36.5,    13.0,   -53.0)
+  !contest
+2022-10-29T02:22:19Z: PLAYER CHATTED [ 3799118215] TheLadyOfDrama       (   43.6,    13.0,   -54.2)
+  eh
+2022-10-29T02:22:35Z: PLAYER CHATTED [ 1267504628] carykioon            (  -46.5,    10.5,  -534.6)
+  ima fling now
+2022-10-29T02:22:41Z: PLAYER CHATTED [ 1267504628] carykioon            (  -46.5,    10.5,  -534.6)
+  WHEEEEEEE!
+2022-10-29T02:22:42Z: PLAYER CHATTED [ 3799118215] TheLadyOfDrama       (   47.2,    13.0,   -48.4)
+  do it
+2022-10-29T02:22:44Z: PLAYER CHATTED [ 3594381269] AccountForBaseplate  (   30.8,    13.0,   -61.4)
+  !contest
+2022-10-29T02:22:45Z: PLAYER CHATTED [ 3250284796] Corwin43440          (  -21.8,    13.1,    -0.5)
+  Connection test. Please ignore this message.
+2022-10-29T02:22:45Z: PLAYER CHATTED [ 3247790885] Paucek91933          (   -5.2,    13.1,   -31.6)
+  Connection test. Please ignore this message.
+2022-10-29T02:22:45Z: PLAYER CHATTED [ 3247439880] Kirlin35468          (    3.1,    13.1,   -27.2)
+  Connection test. Please ignore this message.
+2022-10-29T02:22:45Z: PLAYER CHATTED [ 3387159578] synapse_95           (    1.8,    13.0,    24.0)
+  Connection test. Please ignore this message.
+2022-10-29T02:22:48Z: PLAYER CHATTED [ 3799118215] TheLadyOfDrama       (   47.2,    13.0,   -48.4)
+  OH LOL
+2022-10-29T02:22:50Z: PLAYER CHATTED [ 3594381269] AccountForBaseplate  (   43.0,    13.0,   -58.1)
+  #### orbit literal
+2022-10-29T02:22:50Z: PLAYER ADDED   [ 1444272294] bigoofingjimmy
+2022-10-29T02:22:59Z: PLAYER REMOVED [ 2338291497] IWANNASTOMPACOP
+2022-10-29T02:23:06Z: CHRCTER ADDED  [ 1267504628] carykioon           
+2022-10-29T02:23:15Z: PLAYER CHATTED [ 3269341513] Urmuzlealt           (    0.0,    -2.0,     0.0)
+  good day
+2022-10-29T02:23:34Z: PLAYER CHATTED [ 3799118215] TheLadyOfDrama       (   25.8,    13.0,   -33.6)
+  ima change my avatar cuz people here will humiliate me
+2022-10-29T02:23:35Z: PLAYER ADDED   [ 4006951395] 14lss
+2022-10-29T02:23:40Z: PLAYER ADDED   [ 3039439293] Nottakenlolyes
+2022-10-29T02:23:41Z: PLAYER CHATTED [ 1267504628] carykioon            (   31.7,    13.0,   -38.0)
+  no they wont
+2022-10-29T02:23:42Z: PLAYER REMOVED [ 3039439293] Nottakenlolyes
+2022-10-29T02:23:43Z: PLAYER ADDED   [ 3997427812] Darin_Renhart
+2022-10-29T02:23:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (   13.6,    13.7,    -2.9)
+  Can I play with your bots?
+2022-10-29T02:23:48Z: PLAYER REMOVED [ 4009349352] qwerfghjgrfgh
+2022-10-29T02:23:51Z: PLAYER CHATTED [ 3799118215] TheLadyOfDrama       (   25.8,    13.0,   -33.6)
+  yes they will
+2022-10-29T02:23:53Z: PLAYER CHATTED [    1630228] VisualPlugin         (   10.2,    13.7,   -14.9)
+  Let's play SImon Says!
+2022-10-29T02:23:54Z: PLAYER REMOVED [ 3799118215] TheLadyOfDrama
+2022-10-29T02:23:56Z: PLAYER CHATTED [ 1267504628] carykioon            (   19.3,    13.0,   -18.7)
+  !iy spin
+2022-10-29T02:24:05Z: PLAYER CHATTED [ 1267504628] carykioon            (   30.9,    11.0,   -63.4)
+  i love when they spin
+2022-10-29T02:24:12Z: PLAYER CHATTED [ 1267504628] carykioon            (   30.9,    11.0,   -63.4)
+  plus its the only command i know
+2022-10-29T02:24:16Z: PLAYER CHATTED [ 1267504628] carykioon            (   30.9,    11.0,   -63.4)
+  so e
+2022-10-29T02:24:19Z: PLAYER CHATTED [ 1267504628] carykioon            (   30.9,    11.0,   -63.4)
+  !cmds
+2022-10-29T02:24:22Z: PLAYER CHATTED [ 3247790885] Paucek91933          (   33.8,    13.1,   -61.4)
+  Commands are:
+2022-10-29T02:24:23Z: PLAYER CHATTED [ 3247790885] Paucek91933          (   33.8,    13.1,   -61.4)
+  !say <string>
+2022-10-29T02:24:24Z: PLAYER CHATTED [ 3247790885] Paucek91933          (   33.8,    13.1,   -61.4)
+  !iy <iy_cmd> <arguments>
+2022-10-29T02:24:25Z: PLAYER CHATTED [ 3247790885] Paucek91933          (   33.8,    13.1,   -61.4)
+  #### <fates_cmd> <arguments>
+2022-10-29T02:24:26Z: PLAYER CHATTED [ 3247790885] Paucek91933          (   33.8,    13.1,   -61.4)
+  !cmds (displays this message)
+2022-10-29T02:24:27Z: PLAYER CHATTED [ 3247790885] Paucek91933          (   33.8,    13.1,   -61.4)
+  !lineup <player>
+2022-10-29T02:24:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (   16.4,    13.7,   -30.5)
+  I fixed cframefly yesterday.
+2022-10-29T02:24:30Z: PLAYER CHATTED [ 3247790885] Paucek91933          (   33.8,    13.1,   -61.4)
+  !stack <player>
+2022-10-29T02:24:31Z: PLAYER ADDED   [ 3997382323] Jacob_Renhart
+2022-10-29T02:24:34Z: PLAYER CHATTED [ 1267504628] carykioon            (   30.9,    11.0,   -63.4)
+  !line up carykioon
+2022-10-29T02:24:39Z: PLAYER ADDED   [ 3951918959] wOhAMINITIKILETMYCON
+2022-10-29T02:24:43Z: PLAYER CHATTED [ 1267504628] carykioon            (   30.9,    11.0,   -63.4)
+  !lineup carykioon
+2022-10-29T02:24:45Z: PLAYER REMOVED [ 1444272294] bigoofingjimmy
+2022-10-29T02:24:46Z: PLAYER CHATTED [ 3997427812] Darin_Renhart        (   25.3,    13.0,    15.6)
+  Should be here any moment!
+2022-10-29T02:24:46Z: PLAYER REMOVED [ 3997382323] Jacob_Renhart
+2022-10-29T02:24:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (   16.4,    13.7,   -30.5)
+  Now everyone who uses IY won't be flying after saying 'uncfly'.
+2022-10-29T02:24:54Z: PLAYER CHATTED [ 3594381269] AccountForBaseplate  (   42.5,    13.0,   -63.0)
+  oh rgiht
+2022-10-29T02:24:54Z: PLAYER ADDED   [ 1523703128] Elijahbda1
+2022-10-29T02:24:57Z: PLAYER CHATTED [ 3594381269] AccountForBaseplate  (   42.5,    13.0,   -63.0)
+  i added a new arg to lineup
+2022-10-29T02:24:57Z: PLAYER CHATTED [ 1267504628] carykioon            (   30.9,    11.0,   -63.4)
+  how do you lineup?
+2022-10-29T02:25:00Z: PLAYER CHATTED [ 3594381269] AccountForBaseplate  (   42.5,    13.0,   -63.0)
+  !lineup left literal
+2022-10-29T02:25:02Z: PLAYER ADDED   [ 3799118215] TheLadyOfDrama
+2022-10-29T02:25:02Z: PLAYER ADDED   [ 3997382323] Jacob_Renhart
+2022-10-29T02:25:05Z: PLAYER CHATTED [ 1267504628] carykioon            (   34.8,    13.0,   -67.2)
+  oh
+2022-10-29T02:25:06Z: PLAYER REMOVED [   12056287] eqzlshfbzna2dovwr75k
+2022-10-29T02:25:08Z: PLAYER CHATTED [ 3594381269] AccountForBaseplate  (   42.6,    13.0,   -59.9)
+  #### unorbit
+2022-10-29T02:25:11Z: PLAYER CHATTED [ 3799118215] TheLadyOfDrama       (    3.9,    13.0,    28.4)
+  o
+2022-10-29T02:25:12Z: PLAYER CHATTED [ 3594381269] AccountForBaseplate  (   40.3,    13.0,   -59.1)
+  !lineup right literal
+2022-10-29T02:25:12Z: PLAYER CHATTED [ 1523703128] Elijahbda1           (   13.4,    12.7,    21.3)
+  Z
+2022-10-29T02:25:15Z: PLAYER REMOVED [ 3997382323] Jacob_Renhart
+2022-10-29T02:25:17Z: PLAYER CHATTED [ 3594381269] AccountForBaseplate  (   38.8,    13.0,   -69.9)
+  !iy unspin
+2022-10-29T02:25:18Z: PLAYER CHATTED [ 1267504628] carykioon            (   27.8,    13.0,   -44.3)
+  !lineu right literal
+2022-10-29T02:25:21Z: PLAYER ADDED   [ 3997382323] Jacob_Renhart
+2022-10-29T02:25:22Z: PLAYER CHATTED [ 3594381269] AccountForBaseplate  (   35.7,    13.0,   -73.5)
+  !lineup left literal
+2022-10-29T02:25:25Z: PLAYER CHATTED [ 3594381269] AccountForBaseplate  (   35.7,    13.0,   -73.5)
+  why is it that far
+2022-10-29T02:25:25Z: PLAYER REMOVED [ 1523703128] Elijahbda1
+2022-10-29T02:25:30Z: PLAYER REMOVED [ 3997427812] Darin_Renhart
+2022-10-29T02:25:32Z: PLAYER REMOVED [  408405054] ImmuneLion318
+2022-10-29T02:25:32Z: PLAYER REMOVED [ 3997382323] Jacob_Renhart
+2022-10-29T02:25:39Z: PLAYER CHATTED [ 3247439880] Kirlin35468          (   17.3,    13.1,   -46.1)
+  Websocket was closed.
+2022-10-29T02:25:39Z: PLAYER CHATTED [ 3250284796] Corwin43440          (   15.6,    13.1,   -43.6)
+  Websocket was closed.
+2022-10-29T02:25:39Z: PLAYER CHATTED [ 3387159578] synapse_95           (   19.0,    13.0,   -48.6)
+  Websocket was closed.
+2022-10-29T02:25:39Z: PLAYER CHATTED [ 3247790885] Paucek91933          (   20.7,    13.1,   -51.1)
+  Websocket was closed.
+2022-10-29T02:25:40Z: PLAYER REMOVED [ 3247439880] Kirlin35468
+2022-10-29T02:25:40Z: PLAYER REMOVED [ 3387159578] synapse_95
+2022-10-29T02:25:40Z: PLAYER REMOVED [ 3247790885] Paucek91933
+2022-10-29T02:25:41Z: PLAYER REMOVED [ 3250284796] Corwin43440
+2022-10-29T02:25:41Z: PLAYER CHATTED [ 1267504628] carykioon            (   22.6,    13.0,   -62.9)
+  !line up right literal
+2022-10-29T02:25:43Z: PLAYER ADDED   [ 3387159578] synapse_95
+2022-10-29T02:25:43Z: PLAYER ADDED   [ 3250284796] Corwin43440
+2022-10-29T02:25:43Z: PLAYER ADDED   [ 3247790885] Paucek91933
+2022-10-29T02:25:43Z: PLAYER ADDED   [ 3247439880] Kirlin35468
+2022-10-29T02:25:45Z: PLAYER CHATTED [ 3594381269] AccountForBaseplate  (   34.1,    13.0,   -71.6)
+  ok anyways lemme jsut uh
+2022-10-29T02:25:46Z: PLAYER CHATTED [ 3594381269] AccountForBaseplate  (   33.7,    13.0,   -68.9)
+  reload
+2022-10-29T02:25:47Z: PLAYER ADDED   [  408405054] ImmuneLion318
+2022-10-29T02:25:48Z: PLAYER CHATTED [ 1934065700] GenioMiguel2803      (   18.7,    13.0,   -63.2)
+  wait
+2022-10-29T02:25:54Z: PLAYER CHATTED [ 3594381269] AccountForBaseplate  (   33.7,    13.0,   -68.9)
+  !contest
+2022-10-29T02:25:57Z: PLAYER CHATTED [ 3269341513] Urmuzlealt           (    0.0,    -2.0,     0.0)
+  i have the power of le blade
+2022-10-29T02:25:57Z: PLAYER CHATTED [ 3594381269] AccountForBaseplate  (   36.9,    13.0,   -72.5)
+  !contest
+2022-10-29T02:26:01Z: PLAYER CHATTED [ 3594381269] AccountForBaseplate  (   36.9,    13.0,   -72.5)
+  !contest
+2022-10-29T02:26:05Z: PLAYER CHATTED [ 3594381269] AccountForBaseplate  (   36.9,    13.0,   -72.5)
+  !contest
+2022-10-29T02:26:07Z: PLAYER CHATTED [ 3594381269] AccountForBaseplate  (   36.9,    13.0,   -72.5)
+  br
+2022-10-29T02:26:10Z: PLAYER CHATTED [ 1934065700] GenioMiguel2803      (   29.4,    13.0,   -66.7)
+  how did they get these animations and stuff
+2022-10-29T02:26:12Z: PLAYER CHATTED [ 1267504628] carykioon            (   36.7,    13.0,   -64.7)
+  but it isnt ##
+2022-10-29T02:26:14Z: PLAYER REMOVED [  408405054] ImmuneLion318
+2022-10-29T02:26:16Z: PLAYER CHATTED [ 1267504628] carykioon            (   35.1,    13.0,   -67.7)
+  FE!
+2022-10-29T02:26:17Z: PLAYER REMOVED [    1630228] VisualPlugin

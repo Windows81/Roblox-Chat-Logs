@@ -1,0 +1,129 @@
+[    1630228] : [ 4794911592] The Kubla Khan Las Vegas • Hotel Showcase, W.I.P. - 3937244a-c2ce-4960-9a24-f35fbbb11fd1
+2022-10-27T01:24:57Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-10-27T01:24:57Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-10-27T01:24:57Z: PLAYER ADDED   [  737496090] Brobasket480
+2022-10-27T01:24:57Z: PLAYER ADDED   [ 3666555734] TeamDoomsday2
+2022-10-27T01:24:57Z: PLAYER ADDED   [ 3666554815] TeamDoomsday1
+2022-10-27T01:24:57Z: PLAYER ADDED   [ 3666556637] TeamDoomsday3
+2022-10-27T01:24:57Z: PLAYER ADDED   [  144847268] xASTRO_D3MON
+2022-10-27T01:24:57Z: PLAYER ADDED   [ 1581340012] basenjilover5
+2022-10-27T01:25:24Z: PLAYER CHATTED [ 3666555734] TeamDoomsday2        ( -249.4,   172.3,   131.3)
+   1.4142135623730951
+2022-10-27T01:25:25Z: PLAYER CHATTED [ 3666556637] TeamDoomsday3        ( -247.4,   172.3,   131.3)
+   1.4142135623730951
+2022-10-27T01:25:25Z: PLAYER CHATTED [  737496090] Brobasket480         ( -251.4,   171.7,   137.6)
+   1.4142135623730951
+2022-10-27T01:25:25Z: PLAYER CHATTED [ 3666554815] TeamDoomsday1        ( -249.1,   171.8,   140.2)
+   1.4142135623730951
+2022-10-27T01:25:26Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         ( -240.0,   173.5,   132.1)
+  :update
+2022-10-27T01:25:27Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         ( -240.0,   173.5,   132.1)
+  :cmds
+2022-10-27T01:26:15Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -244.6,   172.7,   133.8)
+  > chat ':chat '..tostring(math.sqrt(2))
+2022-10-27T01:26:17Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         ( -240.0,   173.5,   132.1)
+  :update
+2022-10-27T01:26:18Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         ( -240.0,   173.5,   132.1)
+  :cmds
+2022-10-27T01:26:20Z: PLAYER CHATTED [ 3666554815] TeamDoomsday1        ( -249.1,   171.8,   140.2)
+   setprefix update setadmin checkadmins checkscriptowner rj cmds respawn trashtalk
+2022-10-27T01:26:21Z: PLAYER CHATTED [  737496090] Brobasket480         ( -251.4,   171.7,   137.6)
+   setprefix update setadmin checkadmins checkscriptowner rj cmds respawn trashtalk
+2022-10-27T01:26:21Z: PLAYER CHATTED [ 3666555734] TeamDoomsday2        ( -249.4,   172.3,   131.3)
+   setprefix update setadmin checkadmins checkscriptowner rj cmds respawn trashtalk
+2022-10-27T01:26:21Z: PLAYER CHATTED [ 3666556637] TeamDoomsday3        ( -247.4,   172.3,   131.3)
+   setprefix update setadmin checkadmins checkscriptowner rj cmds respawn trashtalk
+2022-10-27T01:26:23Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -244.6,   172.7,   133.8)
+  My executor can do that.
+2022-10-27T01:26:28Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -244.6,   172.7,   133.8)
+  :trashtalk
+2022-10-27T01:26:53Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         ( -240.0,   173.5,   132.1)
+  do trashtalk plrname
+2022-10-27T01:27:21Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         ( -240.0,   173.5,   132.1)
+  :trashtalk bozo
+2022-10-27T01:27:22Z: PLAYER CHATTED [ 3666555734] TeamDoomsday2        ( -249.4,   172.3,   131.3)
+  trashtalk1
+2022-10-27T01:27:22Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -243.6,   172.7,   135.5)
+  :trashtalk TeamDoomsday2
+2022-10-27T01:27:22Z: PLAYER CHATTED [ 3666554815] TeamDoomsday1        ( -249.1,   171.8,   140.2)
+  trashtalk2
+2022-10-27T01:27:22Z: PLAYER CHATTED [ 3666556637] TeamDoomsday3        ( -247.4,   172.3,   131.3)
+  trashtalk1
+2022-10-27T01:27:22Z: PLAYER CHATTED [  737496090] Brobasket480         ( -251.4,   171.7,   137.6)
+  trashtalk2
+2022-10-27T01:27:30Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         ( -240.3,   173.5,   132.0)
+  LOL its broken
+2022-10-27T01:27:53Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -243.6,   172.7,   135.5)
+  The bots' chat are not appearing in my logs.
+2022-10-27T01:28:10Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -243.6,   172.7,   135.5)
+  Well, not my remote logs.
+2022-10-27T01:28:19Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         ( -247.0,   172.1,   134.8)
+  wait ill be back
+2022-10-27T01:28:20Z: PLAYER REMOVED [  144847268] xASTRO_D3MON
+2022-10-27T01:28:36Z: PLAYER REMOVED [ 3666556637] TeamDoomsday3
+2022-10-27T01:28:36Z: PLAYER REMOVED [ 3666554815] TeamDoomsday1
+2022-10-27T01:28:36Z: PLAYER REMOVED [  737496090] Brobasket480
+2022-10-27T01:28:36Z: PLAYER REMOVED [ 3666555734] TeamDoomsday2
+2022-10-27T01:28:47Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -243.6,   172.7,   135.5)
+  Come to 11-052.
+2022-10-27T01:28:55Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -243.6,   172.7,   135.5)
+  Tell Bozo that I'll be AFK.
+2022-10-27T01:38:22Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -243.6,   172.7,   135.5)
+  Why is your torso red?
+2022-10-27T01:39:22Z: PLAYER CHATTED [ 1581340012] basenjilover5        ( -251.4,   171.9,   137.6)
+  imitation headless
+2022-10-27T01:41:19Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -243.6,   172.7,   135.5)
+  Okey.
+2022-10-27T01:41:30Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -243.6,   172.7,   135.5)
+  You're also missing your left shoe.
+2022-10-27T01:42:04Z: PLAYER CHATTED [ 1581340012] basenjilover5        ( -251.4,   171.9,   137.6)
+  ahh the pants isued
+2022-10-27T01:42:08Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -243.6,   172.7,   135.5)
+  And your skin it too greyish.
+2022-10-27T01:42:26Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -243.6,   172.7,   135.5)
+  Like any good human, I have two shoes on.
+2022-10-27T01:42:32Z: PLAYER CHATTED [ 1581340012] basenjilover5        ( -251.4,   171.9,   137.6)
+  hmm
+2022-10-27T01:42:32Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -243.6,   172.7,   135.5)
+  One is a size 40-something.
+2022-10-27T01:42:43Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -243.6,   172.7,   135.5)
+  The other is a pancake.
+2022-10-27T01:46:12Z: PLAYER CHATTED [ 1581340012] basenjilover5        ( -251.4,   171.9,   137.6)
+  8got kicked from a game f
+2022-10-27T01:46:24Z: PLAYER CHATTED [ 1581340012] basenjilover5        ( -251.4,   171.9,   137.6)
+  tw
+2022-10-27T01:46:29Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -243.6,   172.7,   135.5)
+  Which?
+2022-10-27T01:47:08Z: PLAYER CHATTED [ 1581340012] basenjilover5        ( -251.4,   171.9,   137.6)
+  gotki ked from a game twice looking like this
+2022-10-27T01:47:50Z: PLAYER CHATTED [ 1581340012] basenjilover5        ( -251.4,   171.9,   137.6)
+  so maybe something happened between you and them
+2022-10-27T01:48:56Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -243.6,   172.7,   135.5)
+  No idea.
+2022-10-27T01:49:03Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -243.6,   172.7,   135.5)
+  Which games were they?
+2022-10-27T01:49:19Z: PLAYER CHATTED [ 1581340012] basenjilover5        ( -251.4,   171.9,   137.6)
+  universal Roblox
+2022-10-27T01:49:35Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -243.6,   172.7,   135.5)
+  Weird,
+2022-10-27T01:49:42Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -243.6,   172.7,   135.5)
+  I've been there a month ago and nothing.
+2022-10-27T01:49:50Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -243.6,   172.7,   135.5)
+  What was the kick message?
+2022-10-27T01:50:41Z: PLAYER CHATTED [ 1581340012] basenjilover5        ( -251.4,   171.9,   137.6)
+  brb think I took apic
+2022-10-27T01:50:50Z: PLAYER REMOVED [ 1581340012] basenjilover5
+2022-10-27T01:55:18Z: PLAYER ADDED   [ 1581340012] basenjilover5
+2022-10-27T01:55:21Z: CHRCTER ADDED  [ 1581340012] basenjilover5       
+2022-10-27T01:55:53Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -214.0,   172.7,   118.2)
+  Any result
+2022-10-27T01:56:35Z: PLAYER ADDED   [  997136891] giannisthemvp
+2022-10-27T01:56:37Z: CHRCTER ADDED  [  997136891] giannisthemvp       
+2022-10-27T01:57:16Z: PLAYER CHATTED [ 1581340012] basenjilover5        (   35.0,    93.6,    -2.7)
+  no but it was something like client kicked player from server then not being able to access game for about half hour
+2022-10-27T01:57:52Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -229.9,   172.7,   140.7)
+  It probably had nothing to do with me.
+2022-10-27T01:59:58Z: CHRCTER ADDED  [  997136891] giannisthemvp       
+2022-10-27T02:00:16Z: PLAYER REMOVED [ 1581340012] basenjilover5
+2022-10-27T02:02:33Z: PLAYER REMOVED [  997136891] giannisthemvp
+2022-10-27T02:08:04Z: PLAYER REMOVED [    1630228] VisualPlugin

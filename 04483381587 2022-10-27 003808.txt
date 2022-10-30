@@ -1,0 +1,646 @@
+[    1630228] : [ 4483381587] a literal baseplate.  - fb079614-005d-49da-8064-bcfa1a7f8015
+2022-10-27T00:38:08Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-10-27T00:38:08Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-10-27T00:38:08Z: PLAYER ADDED   [ 2593121580] Leakyourscript
+2022-10-27T00:38:08Z: PLAYER ADDED   [ 3666555734] TeamDoomsday2
+2022-10-27T00:38:08Z: PLAYER ADDED   [ 3666556637] TeamDoomsday3
+2022-10-27T00:38:08Z: PLAYER ADDED   [ 3552687183] LeukemiaChemotherapy
+2022-10-27T00:38:08Z: PLAYER ADDED   [  737496090] Brobasket480
+2022-10-27T00:38:08Z: PLAYER ADDED   [ 3666554815] TeamDoomsday1
+2022-10-27T00:38:08Z: PLAYER ADDED   [  111544116] specdo
+2022-10-27T00:38:08Z: PLAYER ADDED   [ 1352249503] Kur_VR
+2022-10-27T00:38:08Z: PLAYER ADDED   [ 4004421695] trgegeryj
+2022-10-27T00:38:08Z: PLAYER ADDED   [ 3993879876] AsslsVeryGood
+2022-10-27T00:38:08Z: PLAYER ADDED   [ 1182592382] MostHatedDev
+2022-10-27T00:38:08Z: PLAYER ADDED   [ 2363188698] luau_Ioad
+2022-10-27T00:38:08Z: PLAYER ADDED   [  749186539] Alpha_Guardians
+2022-10-27T00:38:08Z: PLAYER ADDED   [  404026155] Cleakie
+2022-10-27T00:38:08Z: PLAYER ADDED   [  144847268] xASTRO_D3MON
+2022-10-27T00:38:08Z: PLAYER ADDED   [ 2306204753] PhantomOfAnimals22
+2022-10-27T00:38:08Z: PLAYER ADDED   [ 1003646964] EdisonD316_Jake
+2022-10-27T00:38:08Z: PLAYER ADDED   [ 1192831521] With_You09
+2022-10-27T00:38:08Z: PLAYER ADDED   [ 2535024571] t0ny_strk8759
+2022-10-27T00:38:08Z: PLAYER ADDED   [  105689208] WyvLich
+2022-10-27T00:38:08Z: PLAYER ADDED   [  722070046] ROstBLOudioXo
+2022-10-27T00:38:12Z: PLAYER CHATTED [ 1192831521] With_You09           (   12.2,    11.0,   -76.9)
+  ### x is more for the people that script
+2022-10-27T00:38:13Z: PLAYER ADDED   [  102559604] saxonbryce123
+2022-10-27T00:38:17Z: CHRCTER ADDED  [ 1352249503] Kur_VR              
+2022-10-27T00:38:17Z: PLAYER CHATTED [  105689208] WyvLich              (   20.3,    13.2,   -61.6)
+  yeah
+2022-10-27T00:38:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -4.1,    13.7,   -76.8)
+  I crashed.
+2022-10-27T00:38:20Z: PLAYER CHATTED [ 1192831521] With_You09           (   12.2,    11.0,   -76.9)
+  other executors are good for the ones that just inject
+2022-10-27T00:38:21Z: PLAYER CHATTED [ 1352249503] Kur_VR               (  -16.9,    13.0,   -33.7)
+  oh
+2022-10-27T00:38:22Z: PLAYER CHATTED [  105689208] WyvLich              (   20.3,    13.2,   -61.6)
+  #########################################
+2022-10-27T00:38:22Z: PLAYER CHATTED [ 1352249503] Kur_VR               (  -16.9,    13.0,   -33.7)
+  my
+2022-10-27T00:38:22Z: PLAYER CHATTED [ 1352249503] Kur_VR               (  -16.9,    13.0,   -33.7)
+  god
+2022-10-27T00:38:23Z: PLAYER CHATTED [ 1352249503] Kur_VR               (  -16.9,    13.0,   -33.7)
+  YES
+2022-10-27T00:38:24Z: PLAYER CHATTED [  105689208] WyvLich              (   20.3,    13.2,   -61.6)
+  i made
+2022-10-27T00:38:26Z: PLAYER CHATTED [  105689208] WyvLich              (   20.3,    13.2,   -61.6)
+  10.8K
+2022-10-27T00:38:29Z: PLAYER CHATTED [  105689208] WyvLich              (   20.3,    13.2,   -61.6)
+  in like
+2022-10-27T00:38:30Z: PLAYER REMOVED [ 3552687183] LeukemiaChemotherapy
+2022-10-27T00:38:31Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -4.1,    13.7,   -76.8)
+  what was it you said?
+2022-10-27T00:38:32Z: PLAYER CHATTED [  105689208] WyvLich              (   20.3,    13.2,   -61.6)
+  4 months from
+2022-10-27T00:38:33Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (   -8.2,    13.0,   -75.1)
+  your scripts are insane
+2022-10-27T00:38:34Z: PLAYER CHATTED [  105689208] WyvLich              (   20.3,    13.2,   -61.6)
+  my hub
+2022-10-27T00:38:35Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (   12.1,    13.2,   -61.6)
+  its useful for scripting
+2022-10-27T00:38:36Z: PLAYER ADDED   [ 3997671349] kfi2j3iorj23oifjm
+2022-10-27T00:38:36Z: PLAYER CHATTED [  722070046] ROstBLOudioXo        (   -4.6,    13.2,   -96.4)
+  uhh do you gonna record or no?
+2022-10-27T00:38:39Z: PLAYER CHATTED [  722070046] ROstBLOudioXo        (   -4.6,    13.2,   -96.4)
+  i need exit
+2022-10-27T00:38:39Z: PLAYER CHATTED [ 1192831521] With_You09           (   15.9,    13.0,   -66.0)
+  nice
+2022-10-27T00:38:41Z: PLAYER CHATTED [  105689208] WyvLich              (   20.3,    13.2,   -61.6)
+  #################################
+2022-10-27T00:38:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -4.1,    13.7,   -76.8)
+  Did you see the Chipotle one?
+2022-10-27T00:38:45Z: PLAYER CHATTED [ 1352249503] Kur_VR               (   13.7,    13.0,   -57.5)
+  I think I like this avatar
+2022-10-27T00:38:51Z: PLAYER CHATTED [  105689208] WyvLich              (   20.3,    13.2,   -60.8)
+  mid
+2022-10-27T00:38:51Z: PLAYER CHATTED [ 2535024571] t0ny_strk8759        (   -6.3,    13.4,   -89.3)
+  i already did and ur in it
+2022-10-27T00:38:52Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (   -8.2,    13.0,   -75.1)
+  ill have a look
+2022-10-27T00:38:55Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (   13.1,    13.2,   -61.5)
+  10K?
+2022-10-27T00:38:56Z: PLAYER CHATTED [  722070046] ROstBLOudioXo        (   -8.5,    13.2,   -96.2)
+  ohh
+2022-10-27T00:38:58Z: PLAYER CHATTED [  722070046] ROstBLOudioXo        (   -8.5,    13.2,   -96.2)
+  so nice
+2022-10-27T00:39:03Z: PLAYER CHATTED [ 2535024571] t0ny_strk8759        (   -7.2,    13.4,   -91.1)
+  yep
+2022-10-27T00:39:04Z: PLAYER CHATTED [  722070046] ROstBLOudioXo        (   -8.5,    13.2,   -96.2)
+  tysm bro
+2022-10-27T00:39:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -4.1,    13.7,   -76.8)
+  You said something right after I crashed.
+2022-10-27T00:39:05Z: PLAYER ADDED   [ 3987674734] Novazlll5792
+2022-10-27T00:39:07Z: PLAYER CHATTED [  105689208] WyvLich              (  -36.1,    13.2,     8.6)
+  huh
+2022-10-27T00:39:08Z: PLAYER CHATTED [  105689208] WyvLich              (  -36.1,    13.2,     8.6)
+  yeah
+2022-10-27T00:39:09Z: PLAYER REMOVED [ 3993879876] AsslsVeryGood
+2022-10-27T00:39:09Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -4.1,    13.7,   -76.8)
+  What was it?
+2022-10-27T00:39:10Z: PLAYER CHATTED [  105689208] WyvLich              (  -37.5,    13.2,     9.6)
+  10.8
+2022-10-27T00:39:10Z: PLAYER CHATTED [ 2535024571] t0ny_strk8759        (   -7.2,    13.4,   -91.1)
+  the edit will be up later
+2022-10-27T00:39:11Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (  -33.4,    13.2,    10.0)
+  crazy
+2022-10-27T00:39:13Z: PLAYER CHATTED [  105689208] WyvLich              (  -37.5,    13.2,     9.6)
+  let me check my sellix wait
+2022-10-27T00:39:13Z: PLAYER ADDED   [ 3987679749] Novazllllllll5792
+2022-10-27T00:39:15Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (   -8.2,    13.0,   -75.1)
+  oh the lib-build.lua
+2022-10-27T00:39:15Z: PLAYER CHATTED [ 2535024571] t0ny_strk8759        (   -6.6,    13.4,   -91.6)
+  ur welcome
+2022-10-27T00:39:16Z: PLAYER CHATTED [  722070046] ROstBLOudioXo        (   -8.5,    13.2,   -96.2)
+  okay
+2022-10-27T00:39:21Z: PLAYER CHATTED [  722070046] ROstBLOudioXo        (   -8.5,    13.2,   -96.2)
+  i will watch it
+2022-10-27T00:39:22Z: PLAYER ADDED   [ 3987673835] Novazll5792
+2022-10-27T00:39:22Z: PLAYER CHATTED [  105689208] WyvLich              (  -37.5,    13.2,     9.6)
+  10.9K now
+2022-10-27T00:39:26Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (  -32.8,    13.2,    12.8)
+  I only have made 1k
+2022-10-27T00:39:28Z: PLAYER CHATTED [  105689208] WyvLich              (  -37.2,    13.2,    10.6)
+  usd, not robux
+2022-10-27T00:39:30Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (   -8.5,    13.0,   -74.8)
+  the function cfinv
+2022-10-27T00:39:31Z: PLAYER ADDED   [ 3987673154] Novazl5792
+2022-10-27T00:39:34Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (  -32.8,    13.2,    12.8)
+  same
+2022-10-27T00:39:35Z: PLAYER CHATTED [ 2535024571] t0ny_strk8759        (   -5.9,    13.4,   -92.0)
+  ya in like a hour or like 45 minutes
+2022-10-27T00:39:36Z: PLAYER CHATTED [  105689208] WyvLich              (  -37.2,    13.2,    10.6)
+  ye
+2022-10-27T00:39:36Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (  -32.8,    13.2,    12.8)
+  usd
+2022-10-27T00:39:37Z: CHRCTER ADDED  [ 1352249503] Kur_VR              
+2022-10-27T00:39:38Z: PLAYER CHATTED [ 2535024571] t0ny_strk8759        (   -5.9,    13.4,   -92.0)
+  it will be up
+2022-10-27T00:39:39Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (   -8.5,    13.0,   -74.8)
+  did u make all those functions?
+2022-10-27T00:39:41Z: PLAYER ADDED   [ 3987672171] Novaz5792
+2022-10-27T00:39:41Z: CHRCTER ADDED  [ 1003646964] EdisonD316_Jake     
+2022-10-27T00:39:41Z: PLAYER CHATTED [  722070046] ROstBLOudioXo        (   -8.5,    13.2,   -96.2)
+  okay
+2022-10-27T00:39:41Z: PLAYER CHATTED [  105689208] WyvLich              (  -37.2,    13.2,    10.6)
+  ### its a pain using ######
+2022-10-27T00:39:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -4.1,    13.7,   -76.8)
+  I did.
+2022-10-27T00:39:44Z: PLAYER CHATTED [  105689208] WyvLich              (  -37.2,    13.2,    10.6)
+  ##
+2022-10-27T00:39:45Z: PLAYER CHATTED [  722070046] ROstBLOudioXo        (   -8.5,    13.2,   -96.2)
+  goodbye bro :)
+2022-10-27T00:39:46Z: PLAYER CHATTED [  105689208] WyvLich              (  -37.2,    13.2,    10.6)
+  payp
+2022-10-27T00:39:46Z: PLAYER CHATTED [  105689208] WyvLich              (  -37.2,    13.2,    10.6)
+  ##
+2022-10-27T00:39:49Z: PLAYER CHATTED [  105689208] WyvLich              (  -37.2,    13.2,    10.6)
+  u get it
+2022-10-27T00:39:49Z: PLAYER CHATTED [ 2535024571] t0ny_strk8759        (   -8.1,    13.4,   -91.0)
+  bye :)
+2022-10-27T00:39:50Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (   -8.5,    13.0,   -74.8)
+  wow
+2022-10-27T00:39:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -4.1,    13.7,   -76.8)
+  They're a framework for block-building games.
+2022-10-27T00:39:51Z: PLAYER ADDED   [ 3987675500] Novazllll5792
+2022-10-27T00:39:52Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (  -32.8,    13.2,    12.8)
+  my parents were like where did you get this money
+2022-10-27T00:39:56Z: PLAYER CHATTED [  105689208] WyvLich              (  -37.2,    13.2,    10.6)
+  kek
+2022-10-27T00:39:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -4.1,    13.7,   -76.8)
+  Useful for Blockate and the likes.
+2022-10-27T00:39:57Z: PLAYER CHATTED [ 1192831521] With_You09           (  -33.5,    13.0,     7.8)
+  i wish i knew how to script more
+2022-10-27T00:39:59Z: PLAYER REMOVED [  722070046] ROstBLOudioXo
+2022-10-27T00:39:59Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (   -8.5,    13.0,   -74.8)
+  ohh
+2022-10-27T00:40:00Z: PLAYER CHATTED [  105689208] WyvLich              (  -37.2,    13.2,    10.6)
+  i bought like
+2022-10-27T00:40:01Z: PLAYER ADDED   [ 3987677290] Novazlllll5792
+2022-10-27T00:40:06Z: PLAYER REMOVED [ 2535024571] t0ny_strk8759
+2022-10-27T00:40:06Z: PLAYER CHATTED [  105689208] WyvLich              (  -37.2,    13.2,    10.6)
+  a really small apartment 
+2022-10-27T00:40:07Z: CHRCTER ADDED  [ 1352249503] Kur_VR              
+2022-10-27T00:40:11Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (  -32.8,    13.2,    12.8)
+  Im still learning
+2022-10-27T00:40:11Z: PLAYER CHATTED [  105689208] WyvLich              (  -37.2,    13.2,    10.6)
+  with that 10k + another 10k i made from bming
+2022-10-27T00:40:18Z: PLAYER ADDED   [ 3987679001] Novazlllllll5792
+2022-10-27T00:40:18Z: PLAYER CHATTED [  105689208] WyvLich              (  -37.2,    13.2,    10.6)
+  cuz apartments are cheap here
+2022-10-27T00:40:22Z: PLAYER CHATTED [ 1192831521] With_You09           (  -33.5,    13.0,     7.8)
+  ohio?
+2022-10-27T00:40:25Z: PLAYER CHATTED [ 1192831521] With_You09           (  -33.5,    13.0,     7.8)
+  :troll:
+2022-10-27T00:40:26Z: PLAYER CHATTED [  105689208] WyvLich              (  -37.2,    13.2,    10.6)
+  no lol
+2022-10-27T00:40:28Z: PLAYER CHATTED [  105689208] WyvLich              (  -37.2,    13.2,    10.6)
+  iran
+2022-10-27T00:40:31Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (   -8.5,    13.0,   -74.8)
+  why dont u use metatables
+2022-10-27T00:40:31Z: PLAYER CHATTED [  105689208] WyvLich              (  -37.2,    13.2,    10.6)
+  and well
+2022-10-27T00:40:32Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (  -32.8,    13.2,    12.8)
+  just make simple hubs
+2022-10-27T00:40:32Z: PLAYER CHATTED [  749186539] Alpha_Guardians      (  -18.2,    13.0,   -43.4)
+  d
+2022-10-27T00:40:32Z: PLAYER CHATTED [ 1192831521] With_You09           (  -33.5,    13.0,     7.8)
+  ah i see
+2022-10-27T00:40:36Z: PLAYER CHATTED [  102559604] saxonbryce123        (   -5.2,    13.0,   -68.7)
+  mid
+2022-10-27T00:40:37Z: CHRCTER ADDED  [ 1352249503] Kur_VR              
+2022-10-27T00:40:37Z: PLAYER CHATTED [  102559604] saxonbryce123        (   -7.3,    13.0,   -72.5)
+  mid tables
+2022-10-27T00:40:39Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (  -32.8,    13.2,    12.8)
+  use ui libs
+2022-10-27T00:40:41Z: PLAYER CHATTED [  102559604] saxonbryce123        (   -7.3,    13.0,   -72.5)
+  get it right
+2022-10-27T00:40:44Z: PLAYER CHATTED [  105689208] WyvLich              (  -37.2,    13.2,    10.6)
+  i moved out at 15
+2022-10-27T00:40:46Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (  -10.0,    13.0,   -77.7)
+  the owner is banning bots
+2022-10-27T00:40:49Z: PLAYER CHATTED [  105689208] WyvLich              (  -37.2,    13.2,    10.6)
+  paying my own bills n stuff
+2022-10-27T00:40:51Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -4.1,    13.7,   -76.8)
+  Well...
+2022-10-27T00:40:53Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (  -10.0,    13.0,   -77.7)
+  he was here 10 minutes ago
+2022-10-27T00:40:54Z: PLAYER CHATTED [  102559604] saxonbryce123        (   -7.3,    13.0,   -72.5)
+  dont care didnt ask
+2022-10-27T00:40:54Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (  -32.8,    13.2,    12.8)
+  ## ## rn
+2022-10-27T00:40:56Z: PLAYER REMOVED [ 2363188698] luau_Ioad
+2022-10-27T00:40:57Z: PLAYER CHATTED [  105689208] WyvLich              (  -37.2,    13.2,    10.6)
+  ye same
+2022-10-27T00:41:02Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (  -10.0,    13.0,   -77.7)
+  i added other stuff
+2022-10-27T00:41:02Z: PLAYER CHATTED [  105689208] WyvLich              (  -37.2,    13.2,    10.6)
+  brb my spaghettis almost done
+2022-10-27T00:41:05Z: PLAYER CHATTED [  102559604] saxonbryce123        (   -7.3,    13.0,   -72.5)
+  i think he means the spamming bots
+2022-10-27T00:41:05Z: PLAYER CHATTED [ 1192831521] With_You09           (  -33.2,    13.0,     9.1)
+  21 and im struggling with life
+2022-10-27T00:41:10Z: CHRCTER ADDED  [ 1003646964] EdisonD316_Jake     
+2022-10-27T00:41:11Z: PLAYER CHATTED [  102559604] saxonbryce123        (   -7.3,    13.0,   -72.5)
+  not command bots
+2022-10-27T00:41:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -4.1,    13.7,   -76.8)
+  Metatables are useful for making dynamic objects.
+2022-10-27T00:41:12Z: PLAYER CHATTED [ 1352249503] Kur_VR               (  -28.0,    13.0,     8.7)
+  bros 15 and is moved out
+2022-10-27T00:41:21Z: PLAYER CHATTED [ 1352249503] Kur_VR               (  -28.0,    13.0,     8.7)
+  im 14 and still doing nothing with it
+2022-10-27T00:41:21Z: PLAYER CHATTED [ 1192831521] With_You09           (  -33.2,    13.0,     9.1)
+  livin the life
+2022-10-27T00:41:23Z: PLAYER CHATTED [  102559604] saxonbryce123        (   -7.3,    13.0,   -72.5)
+  u can do anything a metatable can
+2022-10-27T00:41:24Z: PLAYER CHATTED [  102559604] saxonbryce123        (   -7.3,    13.0,   -72.5)
+  without them
+2022-10-27T00:41:25Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (  -10.0,    13.0,   -77.7)
+  i turned the bots into metatables
+2022-10-27T00:41:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -4.1,    13.7,   -76.8)
+  However, they take up a lot of boilerplate.
+2022-10-27T00:41:25Z: PLAYER CHATTED [ 1003646964] EdisonD316_Jake      (   30.0,    12.7,     8.1)
+  ;speed me 50
+2022-10-27T00:41:27Z: PLAYER REMOVED [ 3997671349] kfi2j3iorj23oifjm
+2022-10-27T00:41:32Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (  -32.0,    13.2,    13.5)
+  then do something
+2022-10-27T00:41:37Z: PLAYER CHATTED [  105689208] WyvLich              (  -37.2,    13.2,    10.6)
+  alright
+2022-10-27T00:41:39Z: PLAYER CHATTED [  105689208] WyvLich              (  -36.4,    13.2,    12.1)
+  not done yet
+2022-10-27T00:41:40Z: PLAYER CHATTED [  102559604] saxonbryce123        (   -7.3,    13.0,   -72.5)
+  only good for stuff like newindex and index
+2022-10-27T00:41:40Z: PLAYER CHATTED [ 1352249503] Kur_VR               (  -27.4,    13.0,     9.2)
+  hmm I would but I feel like i have nothing TO do
+2022-10-27T00:41:41Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (   -9.5,    13.0,   -77.3)
+  bot[1].function
+2022-10-27T00:41:43Z: PLAYER CHATTED [  105689208] WyvLich              (  -36.4,    13.2,    12.1)
+  needs another 5 mins prolly
+2022-10-27T00:41:46Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -6.4,    13.7,   -78.0)
+  I can also turn a bot into a dictionary of functions.
+2022-10-27T00:41:47Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (   -9.5,    13.0,   -77.3)
+  ###############
+2022-10-27T00:41:47Z: PLAYER CHATTED [ 1352249503] Kur_VR               (  -28.0,    13.0,    10.0)
+  still trying to find that thing to do
+2022-10-27T00:41:51Z: PLAYER CHATTED [  105689208] WyvLich              (  -36.5,    13.2,    12.3)
+  yall wanna make a gc
+2022-10-27T00:41:55Z: PLAYER CHATTED [  102559604] saxonbryce123        (   -8.5,    13.0,   -71.7)
+  why would u make ur bots a metatable
+2022-10-27T00:42:02Z: PLAYER CHATTED [ 1352249503] Kur_VR               (  -28.0,    13.0,    10.0)
+  I do love basketball but my parents are short so I cant go anywhere with it
+2022-10-27T00:42:02Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (  -12.3,    13.0,   -79.1)
+  so i can execute stuff on my client
+2022-10-27T00:42:03Z: PLAYER CHATTED [  749186539] Alpha_Guardians      (  -21.7,    13.0,   -32.6)
+  d
+2022-10-27T00:42:05Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (  -32.2,    13.2,    13.9)
+  #########
+2022-10-27T00:42:07Z: PLAYER CHATTED [ 1192831521] With_You09           (  -33.2,    13.0,     9.1)
+  i tried making my own hub
+2022-10-27T00:42:09Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (  -32.2,    13.2,    13.9)
+  Cali 4844
+2022-10-27T00:42:09Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (  -12.3,    13.0,   -79.1)
+  im never using bot commands
+2022-10-27T00:42:11Z: PLAYER CHATTED [  105689208] WyvLich              (  -36.5,    13.2,    12.3)
+  add me up
+2022-10-27T00:42:12Z: PLAYER CHATTED [ 1003646964] EdisonD316_Jake      (   11.3,    12.7,   -60.3)
+  ####
+2022-10-27T00:42:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -6.4,    13.7,   -78.0)
+  Or I can use them as Python instances.
+2022-10-27T00:42:13Z: PLAYER CHATTED [  105689208] WyvLich              (  -36.5,    13.2,    12.3)
+  Wyv 0001
+2022-10-27T00:42:14Z: PLAYER REMOVED [ 1003646964] EdisonD316_Jake
+2022-10-27T00:42:17Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (  -32.2,    13.2,    13.9)
+  did it fail?
+2022-10-27T00:42:24Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (  -11.4,    13.0,   -79.5)
+  Python Instances?
+2022-10-27T00:42:25Z: PLAYER CHATTED [ 1192831521] With_You09           (  -33.2,    13.0,     9.1)
+  somehow
+2022-10-27T00:42:26Z: PLAYER CHATTED [ 1192831521] With_You09           (  -32.1,    13.0,     8.8)
+  no
+2022-10-27T00:42:27Z: PLAYER CHATTED [  749186539] Alpha_Guardians      (  -21.7,    13.0,   -32.6)
+  sd
+2022-10-27T00:42:31Z: PLAYER CHATTED [  105689208] WyvLich              (  -36.5,    13.2,    12.3)
+  wait have u guys heard of my hub
+2022-10-27T00:42:33Z: PLAYER CHATTED [  105689208] WyvLich              (  -36.5,    13.2,    12.3)
+  by any chance
+2022-10-27T00:42:36Z: PLAYER CHATTED [  105689208] WyvLich              (  -36.5,    13.2,    12.3)
+  #########
+2022-10-27T00:42:37Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -6.4,    13.7,   -78.0)
+  I run the bots from a remote Python program.
+2022-10-27T00:42:38Z: PLAYER CHATTED [ 1192831521] With_You09           (  -33.2,    13.0,     9.1)
+  whats the name?
+2022-10-27T00:42:38Z: PLAYER CHATTED [  105689208] WyvLich              (  -36.5,    13.2,    12.3)
+  Hydra
+2022-10-27T00:42:39Z: PLAYER CHATTED [  105689208] WyvLich              (  -36.5,    13.2,    12.3)
+  Hub
+2022-10-27T00:42:41Z: PLAYER CHATTED [ 1192831521] With_You09           (  -34.2,    13.0,     9.4)
+  oh yea
+2022-10-27T00:42:43Z: PLAYER CHATTED [ 1192831521] With_You09           (  -34.2,    13.0,     9.4)
+  hydra
+2022-10-27T00:42:45Z: PLAYER CHATTED [  105689208] WyvLich              (  -36.5,    13.2,    12.3)
+  you have?
+2022-10-27T00:42:46Z: PLAYER CHATTED [ 1192831521] With_You09           (  -34.2,    13.0,     9.4)
+  i used it once
+2022-10-27T00:42:47Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (  -11.4,    13.0,   -79.5)
+  oh i can to
+2022-10-27T00:42:48Z: PLAYER ADDED   [ 3987678178] Novazllllll5792
+2022-10-27T00:42:49Z: PLAYER CHATTED [  102559604] saxonbryce123        (   -8.5,    13.0,   -71.7)
+  why would u use websockets
+2022-10-27T00:42:51Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -6.4,    13.7,   -78.0)
+  So all the logic is organised there.
+2022-10-27T00:42:51Z: PLAYER CHATTED [  105689208] WyvLich              (  -36.5,    13.2,    12.3)
+  oh shoot
+2022-10-27T00:42:52Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (  -10.5,    13.0,   -80.5)
+  thats what im doing right now
+2022-10-27T00:42:53Z: PLAYER CHATTED [  105689208] WyvLich              (  -36.5,    13.2,    12.3)
+  which game
+2022-10-27T00:42:55Z: PLAYER CHATTED [ 1192831521] With_You09           (  -34.2,    13.0,     9.4)
+  it was pretty good not gonna lie
+2022-10-27T00:42:56Z: CHRCTER ADDED  [ 1352249503] Kur_VR              
+2022-10-27T00:42:57Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (  -10.8,    13.0,   -79.6)
+  nova
+2022-10-27T00:43:00Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (  -10.8,    13.0,   -79.6)
+  this guy is insane scripter
+2022-10-27T00:43:00Z: PLAYER CHATTED [ 1192831521] With_You09           (  -34.2,    13.0,     9.4)
+  i forgot the game
+2022-10-27T00:43:02Z: PLAYER REMOVED [ 1352249503] Kur_VR
+2022-10-27T00:43:03Z: PLAYER CHATTED [  105689208] WyvLich              (  -36.6,    13.2,    12.3)
+  deepwoken?
+2022-10-27T00:43:04Z: PLAYER CHATTED [ 1192831521] With_You09           (  -34.2,    13.0,     9.4)
+  i just remember that i used it
+2022-10-27T00:43:04Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -6.4,    13.7,   -78.0)
+  Why not?
+2022-10-27T00:43:05Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (  -10.3,    13.0,   -80.2)
+  hes 100 times better than me
+2022-10-27T00:43:05Z: PLAYER CHATTED [  105689208] WyvLich              (  -36.6,    13.2,    12.3)
+  ####
+2022-10-27T00:43:09Z: PLAYER CHATTED [  105689208] WyvLich              (  -36.6,    13.2,    12.3)
+  criminality?
+2022-10-27T00:43:11Z: PLAYER CHATTED [ 1192831521] With_You09           (  -34.0,    13.0,     9.3)
+  yea crim
+2022-10-27T00:43:15Z: PLAYER CHATTED [  105689208] WyvLich              (  -36.6,    13.2,    12.3)
+  yeah
+2022-10-27T00:43:15Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (  -10.9,    13.0,   -78.2)
+  if this guy had bots
+2022-10-27T00:43:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -6.4,    13.7,   -78.0)
+  I'm 100 times older than him.
+2022-10-27T00:43:18Z: PLAYER CHATTED [  102559604] saxonbryce123        (   -8.5,    13.0,   -71.7)
+  because then u are limitted
+2022-10-27T00:43:18Z: PLAYER CHATTED [  105689208] WyvLich              (  -36.6,    13.2,    12.3)
+  it was the best out there
+2022-10-27T00:43:22Z: PLAYER CHATTED [  105689208] WyvLich              (  -36.6,    13.2,    12.3)
+  but i lost motivation n energy
+2022-10-27T00:43:24Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (  -10.8,    13.0,   -76.6)
+  bro
+2022-10-27T00:43:24Z: PLAYER CHATTED [  105689208] WyvLich              (  -36.6,    13.2,    12.3)
+  so i dipped
+2022-10-27T00:43:24Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -6.4,    13.7,   -78.0)
+  I'm 22.2.
+2022-10-27T00:43:27Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (  -10.8,    13.0,   -76.6)
+  this guy is insane
+2022-10-27T00:43:30Z: PLAYER CHATTED [ 1192831521] With_You09           (  -34.0,    13.0,     9.3)
+  it took me 4 months to actually get banned on crim for exploits
+2022-10-27T00:43:31Z: PLAYER CHATTED [ 1192831521] With_You09           (  -34.0,    13.0,     9.3)
+  :troll:
+2022-10-27T00:43:33Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (  -10.9,    13.0,   -74.3)
+  if he had bots
+2022-10-27T00:43:36Z: PLAYER CHATTED [  102559604] saxonbryce123        (   -8.5,    13.0,   -71.7)
+  /sayindex
+2022-10-27T00:43:37Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (  -10.9,    13.0,   -74.3)
+  they would be the best bots in roblox
+2022-10-27T00:43:40Z: PLAYER CHATTED [  102559604] saxonbryce123        (   -8.5,    13.0,   -71.7)
+  oops
+2022-10-27T00:43:41Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (  -32.2,    13.2,    13.9)
+  I got banned just for injecting
+2022-10-27T00:43:45Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (   -9.5,    13.0,   -75.4)
+  :index
+2022-10-27T00:43:46Z: PLAYER CHATTED [ 3666556637] TeamDoomsday3        (    2.6,    13.0,   -45.4)
+  3
+2022-10-27T00:43:46Z: PLAYER CHATTED [ 3666555734] TeamDoomsday2        (    3.0,    13.0,   -67.0)
+  1
+2022-10-27T00:43:46Z: PLAYER CHATTED [  737496090] Brobasket480         (    3.1,    12.9,   -67.5)
+  4
+2022-10-27T00:43:46Z: PLAYER CHATTED [ 3666554815] TeamDoomsday1        (    2.7,    13.0,   -45.4)
+  2
+2022-10-27T00:43:46Z: PLAYER CHATTED [  105689208] WyvLich              (  -37.1,    13.2,    12.3)
+  what executor do u use
+2022-10-27T00:43:52Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (  -32.2,    13.2,    13.9)
+  synapse x
+2022-10-27T00:43:53Z: PLAYER CHATTED [  102559604] saxonbryce123        (   -8.5,    13.0,   -71.7)
+  bruh
+2022-10-27T00:43:58Z: PLAYER CHATTED [  105689208] WyvLich              (  -38.0,    13.2,    12.6)
+  u injected on crim and got banned?
+2022-10-27T00:43:59Z: PLAYER CHATTED [  102559604] saxonbryce123        (   -8.5,    13.0,   -71.7)
+  why arent u using table.sort
+2022-10-27T00:44:00Z: PLAYER CHATTED [  105689208] WyvLich              (  -38.0,    13.2,    12.6)
+  what
+2022-10-27T00:44:02Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (  -32.2,    13.2,    13.9)
+  yea
+2022-10-27T00:44:05Z: PLAYER CHATTED [  105689208] WyvLich              (  -38.0,    13.2,    12.6)
+  weird
+2022-10-27T00:44:06Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (  -32.2,    13.2,    13.9)
+  idk how
+2022-10-27T00:44:06Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (  -11.9,    13.0,   -78.5)
+  i dont need to
+2022-10-27T00:44:08Z: PLAYER CHATTED [ 1192831521] With_You09           (  -34.0,    13.0,     9.3)
+  i was planning on buying ### x but as i said
+2022-10-27T00:44:09Z: PLAYER CHATTED [  105689208] WyvLich              (  -36.5,    13.2,    12.3)
+  btw 
+2022-10-27T00:44:11Z: PLAYER CHATTED [  105689208] WyvLich              (  -36.5,    13.2,    12.3)
+  #############
+2022-10-27T00:44:13Z: PLAYER CHATTED [  105689208] WyvLich              (  -36.5,    13.2,    12.3)
+  ###############
+2022-10-27T00:44:15Z: PLAYER CHATTED [  105689208] WyvLich              (  -36.5,    13.2,    12.3)
+  add me
+2022-10-27T00:44:16Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (  -11.9,    13.0,   -78.5)
+  they have there own index functions
+2022-10-27T00:44:17Z: PLAYER CHATTED [ 1192831521] With_You09           (  -34.0,    13.0,     9.3)
+  i have already enough patreon subscriptions
+2022-10-27T00:44:19Z: PLAYER CHATTED [  105689208] WyvLich              (  -36.5,    13.2,    12.3)
+  Wyv 0001
+2022-10-27T00:44:22Z: PLAYER CHATTED [  102559604] saxonbryce123        (  -10.2,    13.0,   -73.6)
+  also use fluxus
+2022-10-27T00:44:23Z: PLAYER CHATTED [ 1192831521] With_You09           (  -34.0,    13.0,     9.3)
+  alright
+2022-10-27T00:44:25Z: PLAYER CHATTED [  105689208] WyvLich              (  -37.0,    13.2,    12.5)
+  brb spaghetti might be done now
+2022-10-27T00:44:26Z: PLAYER CHATTED [  102559604] saxonbryce123        (  -10.2,    13.0,   -73.6)
+  its better for bots
+2022-10-27T00:44:33Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (  -11.9,    13.0,   -78.5)
+  i only need a auto execute
+2022-10-27T00:44:38Z: PLAYER CHATTED [  102559604] saxonbryce123        (  -13.3,    13.0,   -71.4)
+  ### fps unlocker
+2022-10-27T00:44:41Z: PLAYER CHATTED [  102559604] saxonbryce123        (  -13.3,    13.0,   -71.4)
+  doesnt work all the time
+2022-10-27T00:44:45Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (  -11.9,    13.0,   -78.5)
+  it does
+2022-10-27T00:44:45Z: PLAYER CHATTED [  102559604] saxonbryce123        (  -13.3,    13.0,   -71.4)
+  /sayindex
+2022-10-27T00:44:45Z: PLAYER CHATTED [ 3987673154] Novazl5792           (   -5.0,    13.0,   -23.4)
+  2
+2022-10-27T00:44:46Z: PLAYER CHATTED [ 3987679001] Novazlllllll5792     (   31.3,    13.0,    24.0)
+  8
+2022-10-27T00:44:46Z: PLAYER CHATTED [ 3987674734] Novazlll5792         (  -27.2,    13.0,     4.7)
+  4
+2022-10-27T00:44:46Z: PLAYER CHATTED [ 3987675500] Novazllll5792        (  -32.5,    13.0,   -24.3)
+  5
+2022-10-27T00:44:46Z: PLAYER CHATTED [ 3987672171] Novaz5792            (   29.2,    13.0,    -1.2)
+  1
+2022-10-27T00:44:46Z: PLAYER CHATTED [ 3987677290] Novazlllll5792       (   -3.3,    13.0,    -3.8)
+  6
+2022-10-27T00:44:46Z: PLAYER CHATTED [ 3987673835] Novazll5792          (   -5.3,    13.0,   -27.1)
+  3
+2022-10-27T00:44:46Z: PLAYER CHATTED [ 3987679749] Novazllllllll5792    (  -28.3,    13.0,    -4.4)
+  9
+2022-10-27T00:44:46Z: PLAYER CHATTED [ 3987678178] Novazllllll5792      (    2.8,    13.0,     4.0)
+  7
+2022-10-27T00:44:48Z: PLAYER CHATTED [  102559604] saxonbryce123        (  -13.3,    13.0,   -71.4)
+  it doesnt
+2022-10-27T00:44:50Z: PLAYER CHATTED [ 1192831521] With_You09           (  -34.0,    13.0,     9.3)
+  the bots
+2022-10-27T00:44:53Z: PLAYER CHATTED [  105689208] WyvLich              (  -37.0,    13.2,    12.5)
+  its like
+2022-10-27T00:44:53Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (  -32.2,    13.2,    13.9)
+  ?
+2022-10-27T00:44:54Z: PLAYER CHATTED [ 1192831521] With_You09           (  -34.0,    13.0,     9.3)
+  they are real!!!
+2022-10-27T00:44:55Z: PLAYER CHATTED [  105689208] WyvLich              (  -37.0,    13.2,    12.5)
+  done ISH
+2022-10-27T00:44:55Z: PLAYER CHATTED [  102559604] saxonbryce123        (  -13.3,    13.0,   -71.4)
+  use it with 9
+2022-10-27T00:44:57Z: PLAYER CHATTED [  105689208] WyvLich              (  -37.0,    13.2,    12.5)
+  but
+2022-10-27T00:45:00Z: PLAYER CHATTED [  102559604] saxonbryce123        (  -13.3,    13.0,   -71.4)
+  and multiple will stay on 60 fps
+2022-10-27T00:45:02Z: PLAYER CHATTED [  102559604] saxonbryce123        (  -13.3,    13.0,   -71.4)
+  and eat ur cpu
+2022-10-27T00:45:05Z: PLAYER CHATTED [  102559604] saxonbryce123        (  -13.3,    13.0,   -71.4)
+  /bring
+2022-10-27T00:45:06Z: PLAYER CHATTED [  105689208] WyvLich              (  -36.7,    13.2,    13.3)
+  i feel like i want my pasta a lil more juicier
+2022-10-27T00:45:14Z: PLAYER CHATTED [ 1192831521] With_You09           (  -34.0,    13.0,    10.6)
+  good choice
+2022-10-27T00:45:15Z: PLAYER CHATTED [  102559604] saxonbryce123        (  -13.3,    13.0,   -71.4)
+  ############################
+2022-10-27T00:45:17Z: PLAYER CHATTED [  105689208] WyvLich              (  -36.7,    13.2,    13.3)
+  u didnt add me btw
+2022-10-27T00:45:24Z: PLAYER CHATTED [  105689208] WyvLich              (  -35.8,    13.2,    14.2)
+  got it
+2022-10-27T00:45:25Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (  -32.2,    13.2,    13.9)
+  my friend is making me a custom ui lib
+2022-10-27T00:45:27Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (  -13.8,    13.0,   -80.4)
+  im checking them right now
+2022-10-27T00:45:32Z: PLAYER REMOVED [ 2306204753] PhantomOfAnimals22
+2022-10-27T00:45:35Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (  -13.8,    13.0,   -80.4)
+  fps is 15 on all bots
+2022-10-27T00:45:41Z: PLAYER CHATTED [ 1192831521] With_You09           (  -33.1,    13.0,    10.2)
+  what a nice fried
+2022-10-27T00:45:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -9.4,    13.7,   -78.3)
+  Graphics level?
+2022-10-27T00:45:45Z: PLAYER CHATTED [ 2593121580] Leakyourscript       (  -31.5,    13.2,    14.9)
+  yea
+2022-10-27T00:45:47Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (  -13.8,    13.0,   -80.4)
+  lowest
+2022-10-27T00:45:50Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (  -13.8,    13.0,   -80.4)
+  no rendering
+2022-10-27T00:45:51Z: PLAYER CHATTED [  102559604] saxonbryce123        (  -13.3,    13.0,   -71.4)
+  u only have 3 bots
+2022-10-27T00:45:54Z: PLAYER CHATTED [ 1192831521] With_You09           (  -30.4,    10.5,    11.7)
+  friend
+2022-10-27T00:45:55Z: PLAYER CHATTED [  102559604] saxonbryce123        (  -13.3,    13.0,   -71.4)
+  obviously all will work
+2022-10-27T00:45:57Z: PLAYER CHATTED [ 1192831521] With_You09           (  -30.4,    10.5,    11.7)
+  misspell
+2022-10-27T00:46:06Z: PLAYER CHATTED [  105689208] WyvLich              (  -35.3,    13.2,    14.7)
+  having friends is overrated
+2022-10-27T00:46:07Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (  -13.8,    13.0,   -80.4)
+  visual bro you should load bots
+2022-10-27T00:46:13Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (  -12.8,    13.0,   -81.4)
+  your insane scripter
+2022-10-27T00:46:29Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.2,    13.7,   -78.0)
+  What bots do I load in/
+2022-10-27T00:46:42Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (  -13.2,    13.0,   -80.4)
+  how do you open multiple #########
+2022-10-27T00:46:44Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (  -13.2,    13.0,   -80.4)
+  rblx?
+2022-10-27T00:46:51Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.2,    13.7,   -78.0)
+  I don't yet.
+2022-10-27T00:46:52Z: PLAYER CHATTED [  102559604] saxonbryce123        (  -13.3,    13.0,   -71.4)
+  ##########################################
+2022-10-27T00:46:52Z: PLAYER CHATTED [ 3987673835] Novazll5792          (  -13.3,    13.0,   -71.4)
+  ##### attempt to perform arithmetic ##### on number and ###
+2022-10-27T00:46:53Z: PLAYER CHATTED [ 3987672171] Novaz5792            (  -13.3,    13.0,   -71.4)
+  ##### attempt to perform arithmetic ##### on number and ###
+2022-10-27T00:46:53Z: PLAYER CHATTED [ 3987673154] Novazl5792           (  -13.3,    13.0,   -71.4)
+  ##### attempt to perform arithmetic ##### on number and ###
+2022-10-27T00:46:53Z: PLAYER CHATTED [ 3987675500] Novazllll5792        (  -13.3,    13.0,   -71.4)
+  ##### attempt to perform arithmetic ##### on number and ###
+2022-10-27T00:46:53Z: PLAYER CHATTED [ 3987674734] Novazlll5792         (  -13.3,    13.0,   -71.4)
+  ##### attempt to perform arithmetic ##### on number and ###
+2022-10-27T00:46:56Z: PLAYER CHATTED [  102559604] saxonbryce123        (  -20.9,    13.0,   -66.6)
+  bro
+2022-10-27T00:46:58Z: PLAYER CHATTED [  102559604] saxonbryce123        (  -20.9,    13.0,   -66.6)
+  tags
+2022-10-27T00:47:00Z: PLAYER CHATTED [  749186539] Alpha_Guardians      (  -23.6,    13.0,     2.8)
+  skill issue
+2022-10-27T00:47:01Z: PLAYER CHATTED [  102559604] saxonbryce123        (  -20.9,    13.0,   -66.6)
+  are ######## ## over
+2022-10-27T00:47:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.2,    13.7,   -78.0)
+  Arithmetic.
+2022-10-27T00:47:05Z: PLAYER CHATTED [  102559604] saxonbryce123        (  -19.6,    13.0,   -67.9)
+  /e
+2022-10-27T00:47:06Z: PLAYER CHATTED [  102559604] saxonbryce123        (  -19.6,    13.0,   -67.9)
+  ###########################################
+2022-10-27T00:47:07Z: PLAYER CHATTED [ 3987673835] Novazll5792          (  -13.3,    13.0,   -71.4)
+  ##### attempt to perform arithmetic ##### on number and ###
+2022-10-27T00:47:08Z: PLAYER CHATTED [ 3987673154] Novazl5792           (  -13.3,    13.0,   -71.4)
+  ##### attempt to perform arithmetic ##### on number and ###
+2022-10-27T00:47:08Z: PLAYER CHATTED [ 3987672171] Novaz5792            (  -13.3,    13.0,   -71.4)
+  ##### attempt to perform arithmetic ##### on number and ###
+2022-10-27T00:47:08Z: PLAYER CHATTED [ 3987675500] Novazllll5792        (  -13.3,    13.0,   -71.4)
+  ##### attempt to perform arithmetic ##### on number and ###
+2022-10-27T00:47:08Z: PLAYER CHATTED [ 3987674734] Novazlll5792         (  -13.3,    13.0,   -71.4)
+  ##### attempt to perform arithmetic ##### on number and ###
+2022-10-27T00:47:12Z: PLAYER CHATTED [  102559604] saxonbryce123        (  -19.6,    13.0,   -67.9)
+  i hate
+2022-10-27T00:47:13Z: PLAYER CHATTED [  102559604] saxonbryce123        (  -19.6,    13.0,   -67.9)
+  these tags
+2022-10-27T00:47:16Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (  -15.9,    13.0,   -81.9)
+  oh
+2022-10-27T00:47:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.2,    13.7,   -78.0)
+  Can your bots surround you and count to 1-?
+2022-10-27T00:47:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.2,    13.7,   -78.0)
+  *13?
+2022-10-27T00:47:22Z: PLAYER CHATTED [ 3987673835] Novazll5792          (  -13.3,    13.0,   -71.4)
+  ###########################################################
+2022-10-27T00:47:23Z: PLAYER CHATTED [ 3987673154] Novazl5792           (  -13.3,    13.0,   -71.4)
+  ###########################################################
+2022-10-27T00:47:23Z: PLAYER CHATTED [ 3987672171] Novaz5792            (  -13.3,    13.0,   -71.4)
+  ###########################################################
+2022-10-27T00:47:23Z: PLAYER CHATTED [  102559604] saxonbryce123        (  -19.6,    13.0,   -67.9)
+  ##########################################
+2022-10-27T00:47:23Z: PLAYER CHATTED [ 3987674734] Novazlll5792         (  -13.3,    13.0,   -71.4)
+  ###########################################################
+2022-10-27T00:47:23Z: PLAYER CHATTED [ 3987675500] Novazllll5792        (  -13.3,    13.0,   -71.4)
+  ###########################################################
+2022-10-27T00:47:27Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (  -14.8,    13.0,   -82.7)
+  yea
+2022-10-27T00:47:27Z: PLAYER CHATTED [  102559604] saxonbryce123        (  -19.6,    13.0,   -67.9)
+  im removing this error thing
+2022-10-27T00:47:30Z: PLAYER CHATTED [  144847268] xASTRO_D3MON         (  -14.8,    13.0,   -82.7)
+  i can load up more bots
+2022-10-27T00:47:38Z: PLAYER CHATTED [ 3987673835] Novazll5792          (  -13.3,    13.0,   -71.4)
+  ###########################################################
+2022-10-27T00:47:38Z: PLAYER CHATTED [ 3987674734] Novazlll5792         (  -13.3,    13.0,   -71.4)
+  ###########################################################
+2022-10-27T00:47:38Z: PLAYER CHATTED [ 3987673154] Novazl5792           (  -13.3,    13.0,   -71.4)
+  ###########################################################
+2022-10-27T00:47:38Z: PLAYER CHATTED [ 3987675500] Novazllll5792        (  -13.3,    13.0,   -71.4)
+  ###########################################################
+2022-10-27T00:47:38Z: PLAYER CHATTED [ 3987672171] Novaz5792            (  -13.3,    13.0,   -71.4)
+  ###########################################################
+2022-10-27T00:47:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.2,    13.7,   -78.0)
+  I'll rejoin a few times.
+2022-10-27T00:47:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.2,    13.7,   -78.0)
+  Just a moment.
+2022-10-27T00:47:44Z: PLAYER REMOVED [    1630228] VisualPlugin
