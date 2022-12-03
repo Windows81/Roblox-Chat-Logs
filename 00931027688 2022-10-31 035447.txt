@@ -1,0 +1,132 @@
+[    1630228] : [  931027688] Blythe, California [BETA] - c0205d36-68be-4792-b083-dc2f2a8a3d25
+2022-10-31T03:54:47Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-10-31T03:54:47Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-10-31T03:54:47Z: PLAYER ADDED   [ 1795623682] itsme_Tony012
+2022-10-31T03:54:47Z: PLAYER ADDED   [  837807639] armymanjame2
+2022-10-31T03:54:47Z: PLAYER ADDED   [ 2491717704] XD_xander3649
+2022-10-31T03:55:07Z: PLAYER CHATTED [  837807639] armymanjame2         ( 4637.1,    13.9, -5516.1)
+  HI
+2022-10-31T03:55:13Z: PLAYER CHATTED [ 1795623682] itsme_Tony012        ( 4639.7,    13.9, -5521.6)
+  Hello
+2022-10-31T03:55:27Z: PLAYER CHATTED [  837807639] armymanjame2         ( 4639.8,    13.9, -5517.3)
+  im a firefighter
+2022-10-31T03:55:35Z: PLAYER CHATTED [ 1795623682] itsme_Tony012        ( 4639.7,    13.9, -5521.6)
+  I'm a Volly
+2022-10-31T03:55:37Z: PLAYER CHATTED [  837807639] armymanjame2         ( 4639.8,    13.9, -5517.5)
+  For the keystone fire commision
+2022-10-31T03:55:46Z: PLAYER CHATTED [ 2491717704] XD_xander3649        ( 4647.7,    14.7, -5516.9)
+  Tony
+2022-10-31T03:55:50Z: PLAYER CHATTED [ 2491717704] XD_xander3649        ( 4647.1,    14.7, -5516.8)
+  Im stuck
+2022-10-31T03:55:53Z: PLAYER CHATTED [  837807639] armymanjame2         ( 4639.8,    13.9, -5517.5)
+  Whats that
+2022-10-31T03:56:18Z: PLAYER CHATTED [ 1795623682] itsme_Tony012        ( 4640.7,    13.9, -5519.3)
+  Volly = Volunteer
+2022-10-31T03:56:36Z: PLAYER CHATTED [  837807639] armymanjame2         ( 4579.7,    13.9, -5521.1)
+  Ah
+2022-10-31T03:56:54Z: PLAYER CHATTED [ 2491717704] XD_xander3649        ( 4578.8,    14.3, -5537.1)
+  What the hell
+2022-10-31T03:56:59Z: PLAYER CHATTED [  837807639] armymanjame2         ( 4579.7,    13.9, -5521.1)
+  Im talking about in a roblox group just so you know
+2022-10-31T03:56:59Z: PLAYER CHATTED [ 1795623682] itsme_Tony012        ( 4586.0,    13.9, -5520.0)
+  Well I'ma go on Patrol
+2022-10-31T03:57:02Z: PLAYER CHATTED [ 2491717704] XD_xander3649        ( 4579.7,    13.9, -5537.0)
+  Why are these stove tops so dirty
+2022-10-31T03:57:02Z: PLAYER CHATTED [  837807639] armymanjame2         ( 4580.6,    13.9, -5522.0)
+  Ok
+2022-10-31T03:58:11Z: PLAYER CHATTED [  837807639] armymanjame2         ( 4773.2,    17.4, -5508.4)
+  K
+2022-10-31T03:58:13Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4776.3,    18.0, -5509.5)
+  I'll help you escape.
+2022-10-31T03:58:14Z: PLAYER CHATTED [  837807639] armymanjame2         ( 4773.2,    17.4, -5508.4)
+  K
+2022-10-31T03:58:17Z: PLAYER CHATTED [  837807639] armymanjame2         ( 4773.2,    17.4, -5508.4)
+  #
+2022-10-31T03:58:24Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4776.3,    17.9, -5509.3)
+  Let's hide!
+2022-10-31T03:58:27Z: PLAYER CHATTED [  837807639] armymanjame2         ( 4773.2,    17.4, -5508.3)
+  # #
+2022-10-31T03:58:28Z: PLAYER CHATTED [  837807639] armymanjame2         ( 4773.2,    17.4, -5508.3)
+  ##
+2022-10-31T03:58:40Z: PLAYER CHATTED [  837807639] armymanjame2         ( 4784.9,    13.3, -5496.4)
+  i have acive warrents
+2022-10-31T03:58:48Z: PLAYER CHATTED [  837807639] armymanjame2         ( 4792.1,    13.3, -5459.5)
+  For my arrest
+2022-10-31T03:58:49Z: PLAYER CHATTED [ 1795623682] itsme_Tony012        ( 4796.4,    14.4, -5455.1)
+  Ok?
+2022-10-31T03:58:52Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4793.5,    13.3, -5462.9)
+  And I'm a flying plugin.
+2022-10-31T03:58:58Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4793.5,    13.3, -5462.9)
+  We have things in common.
+2022-10-31T03:59:14Z: PLAYER CHATTED [  837807639] armymanjame2         ( 4772.1,    13.6, -5484.5)
+  yeah
+2022-10-31T03:59:14Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4770.6,    13.6, -5487.7)
+  I have a good spot.
+2022-10-31T04:00:07Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4594.0,    16.7, -5537.2)
+  No police officer will suspect fried chicken.
+2022-10-31T04:00:32Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4595.5,    16.5, -5540.4)
+  I worked at Cane's before.
+2022-10-31T04:00:40Z: PLAYER CHATTED [  837807639] armymanjame2         ( 4597.9,    16.5, -5540.4)
+  Nice
+2022-10-31T04:00:42Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4595.5,    16.5, -5540.4)
+  Fried chicken tends t take a few minutes to fry.
+2022-10-31T04:00:45Z: PLAYER CHATTED [  837807639] armymanjame2         ( 4597.9,    16.5, -5540.4)
+  Im G@y
+2022-10-31T04:00:51Z: PLAYER CHATTED [  837807639] armymanjame2         ( 4597.9,    16.5, -5540.4)
+  How are you
+2022-10-31T04:00:59Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4593.6,    16.5, -5540.4)
+  Not too clone.
+2022-10-31T04:01:01Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4593.6,    16.5, -5540.4)
+  *Close.
+2022-10-31T04:01:07Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4593.6,    16.5, -5540.4)
+  The chicken can clump.
+2022-10-31T04:01:17Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4593.6,    16.5, -5540.4)
+  Clumpy bloxian looks sus.
+2022-10-31T04:01:42Z: PLAYER CHATTED [ 1795623682] itsme_Tony012        ( -350.5,    14.5, -5852.1)
+  you have cuffs?
+2022-10-31T04:01:53Z: PLAYER CHATTED [ 2491717704] XD_xander3649        ( -335.1,    15.0, -5866.3)
+  No
+2022-10-31T04:01:53Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4596.4,    13.9, -5534.8)
+  I'm ready.
+2022-10-31T04:01:56Z: PLAYER CHATTED [ 2491717704] XD_xander3649        ( -335.1,    15.0, -5866.3)
+  Im only an officer
+2022-10-31T04:01:57Z: PLAYER CHATTED [ 1795623682] itsme_Tony012        ( -333.1,    14.4, -5852.8)
+  ####
+2022-10-31T04:02:00Z: PLAYER CHATTED [ 2491717704] XD_xander3649        ( -335.1,    15.0, -5866.3)
+  Not a senior
+2022-10-31T04:02:01Z: PLAYER CHATTED [ 1795623682] itsme_Tony012        ( -333.1,    14.4, -5852.8)
+  Same
+2022-10-31T04:02:03Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4598.7,    13.9, -5536.3)
+  A few in-game minutes must've passed.
+2022-10-31T04:03:29Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4599.1,    16.5, -5540.4)
+  Any plans?
+2022-10-31T04:05:28Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4656.6,    13.3, -5557.9)
+  I can't fly right now.
+2022-10-31T04:05:42Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4659.1,    13.3, -5557.2)
+  But I'm working on getting ESP™ radar working.
+2022-10-31T04:06:35Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4658.5,    13.3, -5557.0)
+  Got it!
+2022-10-31T04:06:38Z: PLAYER REMOVED [ 2491717704] XD_xander3649
+2022-10-31T04:06:43Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4659.9,    13.3, -5556.3)
+  The coppers are nowhere near us.
+2022-10-31T04:06:55Z: PLAYER ADDED   [  400809279] ICSO_Law
+2022-10-31T04:06:58Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4659.9,    13.3, -5556.3)
+  B_Adrian is the only one online.
+2022-10-31T04:07:10Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4654.1,    13.6, -5552.6)
+  He's gaining on us!
+2022-10-31T04:07:13Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4653.3,    13.6, -5552.2)
+  Get in!
+2022-10-31T04:07:41Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4662.4,    13.3, -5555.0)
+  You're so AFK!
+2022-10-31T04:07:55Z: PLAYER CHATTED [  837807639] armymanjame2         ( 4658.7,    13.4, -5552.6)
+  Yeah
+2022-10-31T04:08:07Z: PLAYER CHATTED [  837807639] armymanjame2         ( 4658.7,    13.4, -5552.6)
+  Im Doing firefighter ####
+2022-10-31T04:08:12Z: PLAYER REMOVED [  400809279] ICSO_Law
+2022-10-31T04:08:18Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4662.4,    13.3, -5555.0)
+  Training?
+2022-10-31T04:11:15Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4664.9,    13.3, -5555.9)
+  The sun is rising.
+2022-10-31T04:13:54Z: PLAYER ADDED   [ 1053986438] NYSPofficer
+2022-10-31T04:15:09Z: PLAYER ADDED   [  400809279] ICSO_Law
+2022-10-31T04:15:34Z: PLAYER REMOVED [    1630228] VisualPlugin

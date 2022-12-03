@@ -1,0 +1,35 @@
+[    1630228] : [  931027688] Blythe, California [BETA] - c0205d36-68be-4792-b083-dc2f2a8a3d25
+2022-10-31T03:45:20Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-10-31T03:45:21Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-10-31T03:45:21Z: PLAYER ADDED   [  837807639] armymanjame2
+2022-10-31T03:45:21Z: PLAYER ADDED   [ 2491717704] XD_xander3649
+2022-10-31T03:45:22Z: PLAYER CHATTED [ 2491717704] XD_xander3649        ( 4872.4,    12.5,   610.1)
+  -takes knife out of pocket-
+2022-10-31T03:45:43Z: PLAYER CHATTED [ 2491717704] XD_xander3649        ( 4872.4,    12.5,   610.1)
+  -pats down-
+2022-10-31T03:45:57Z: PLAYER CHATTED [ 2491717704] XD_xander3649        ( 4871.9,    12.5,   612.1)
+  -puts in
+2022-10-31T03:46:13Z: PLAYER CHATTED [  837807639] armymanjame2         ( 4867.6,    13.7,   611.9)
+  Help
+2022-10-31T03:46:18Z: PLAYER CHATTED [  837807639] armymanjame2         ( 4869.3,    13.8,   619.5)
+  Im being arrested 
+2022-10-31T03:46:40Z: PLAYER CHATTED [ 2491717704] XD_xander3649        ( 4874.2,    12.5,   674.2)
+  Step away
+2022-10-31T03:47:45Z: PLAYER ADDED   [ 1795623682] itsme_Tony012
+2022-10-31T03:48:37Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 2139.0,    13.6, -1787.3)
+  Welcome.
+2022-10-31T03:51:40Z: CHRCTER ADDED  [ 1795623682] itsme_Tony012       
+2022-10-31T03:52:26Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4632.4,    13.9, -5518.7)
+  Hi.
+2022-10-31T03:52:30Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4632.4,    13.9, -5518.7)
+  I jsut got on my shift.
+2022-10-31T03:52:41Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4632.4,    13.9, -5518.7)
+  How can I get you started today?
+2022-10-31T03:52:44Z: PLAYER CHATTED [ 2491717704] XD_xander3649        ( 4637.3,    13.9, -5518.8)
+  Can I get a 5 dollar biggy bag
+2022-10-31T03:53:05Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 4632.4,    13.9, -5518.7)
+  The Wendyburger one of the taco Paco one?
+2022-10-31T03:53:16Z: PLAYER CHATTED [  837807639] armymanjame2         ( 4637.1,    13.9, -5516.1)
+  Yes
+2022-10-31T03:53:22Z: PLAYER CHATTED [  837807639] armymanjame2         ( 4637.1,    13.9, -5516.1)
+  taco paco
