@@ -1,0 +1,62 @@
+[    1630228] : [ 4795251564] 🛠️Blocks! - f8bba753-e51a-417e-95ea-9737c503d05a
+2022-12-23T03:52:52Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-12-23T03:52:52Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-23T03:52:52Z: PLAYER ADDED   [ 1240097546] cjacks612           
+2022-12-23T03:52:52Z: PLAYER ADDED   [ 1749220054] Alaina0271          
+2022-12-23T03:52:52Z: PLAYER ADDED   [ 1743221170] angelace214         
+2022-12-23T03:52:52Z: PLAYER ADDED   [ 3496581479] Bigsmokex81         
+2022-12-23T03:52:52Z: PLAYER ADDED   [  249646109] Bonnie_Bunny81       a.k.a. Bonster             
+2022-12-23T03:52:52Z: PLAYER ADDED   [ 3547359625] frankieleeHi         a.k.a. Jake200             
+2022-12-23T03:52:52Z: PLAYER ADDED   [ 4079143109] sky12gog            
+2022-12-23T03:52:52Z: PLAYER ADDED   [ 1988903090] DaShawnnia          
+2022-12-23T03:55:33Z: PLAYER REMOVED [ 1988903090] DaShawnnia          
+2022-12-23T03:56:02Z: PLAYER ADDED   [ 3787916482] Jnualart            
+2022-12-23T03:56:36Z: PLAYER REMOVED [ 1749220054] Alaina0271          
+2022-12-23T03:56:39Z: PLAYER ADDED   [ 1353636005] Karie1209           
+2022-12-23T03:57:12Z: PLAYER REMOVED [ 3787916482] Jnualart            
+2022-12-23T03:57:26Z: PLAYER REMOVED [ 3496581479] Bigsmokex81         
+2022-12-23T03:57:28Z: PLAYER REMOVED [ 1353636005] Karie1209           
+2022-12-23T03:57:34Z: PLAYER ADDED   [ 2945495626] coffeee1214         
+2022-12-23T03:58:00Z: PLAYER REMOVED [ 1743221170] angelace214         
+2022-12-23T03:58:50Z: PLAYER CHATTED [  249646109] Bonnie_Bunny81       ( -472.9,    81.2,  -191.2)
+  almost done :)
+2022-12-23T03:59:26Z: PLAYER CHATTED [  249646109] Bonnie_Bunny81       ( -494.7,    87.2,  -194.5)
+  now just the head
+2022-12-23T03:59:29Z: PLAYER CHATTED [ 1240097546] cjacks612            ( -489.7,    87.3,  -191.4)
+  oK
+2022-12-23T03:59:53Z: PLAYER CHATTED [  249646109] Bonnie_Bunny81       ( -485.9,    87.2,  -187.4)
+  can you remove these 2 blocks please
+2022-12-23T04:00:16Z: PLAYER CHATTED [ 4079143109] sky12gog             ( -215.7,   154.4,   343.8)
+  stopp
+2022-12-23T04:00:30Z: PLAYER CHATTED [ 1240097546] cjacks612            ( -494.7,    87.3,  -189.5)
+  what blocks
+2022-12-23T04:00:35Z: PLAYER CHATTED [  249646109] Bonnie_Bunny81       ( -487.8,    87.2,  -186.6)
+  these
+2022-12-23T04:00:43Z: PLAYER CHATTED [  249646109] Bonnie_Bunny81       ( -491.6,    87.2,  -186.9)
+  thanks
+2022-12-23T04:00:50Z: PLAYER CHATTED [ 1240097546] cjacks612            ( -496.7,    87.3,  -189.4)
+  welcome
+2022-12-23T04:01:24Z: PLAYER REMOVED [ 4079143109] sky12gog            
+2022-12-23T04:01:48Z: PLAYER CHATTED [ 1240097546] cjacks612            ( -512.3,    87.3,  -191.3)
+  can i add something?
+2022-12-23T04:01:51Z: PLAYER CHATTED [  249646109] Bonnie_Bunny81       ( -501.3,    90.2,  -189.1)
+  ok
+2022-12-23T04:04:25Z: PLAYER ADDED   [ 1549146618] EllaBeans2015       
+2022-12-23T04:04:29Z: PLAYER ADDED   [ 3201490397] Avabell2022          a.k.a. IdkkYT              
+2022-12-23T04:04:31Z: PLAYER ADDED   [  148934143] win548               a.k.a. Emiko               
+2022-12-23T04:04:42Z: PLAYER ADDED   [ 1129734272] Robloxian312596134   a.k.a. Pretty_preepy       
+2022-12-23T04:04:47Z: PLAYER REMOVED [ 1549146618] EllaBeans2015       
+2022-12-23T04:04:52Z: PLAYER ADDED   [ 2956617244] Holleemae           
+2022-12-23T04:04:55Z: PLAYER ADDED   [ 3153775741] audreelp            
+2022-12-23T04:05:03Z: PLAYER REMOVED [ 3153775741] audreelp            
+2022-12-23T04:05:07Z: PLAYER ADDED   [ 3153775741] audreelp            
+2022-12-23T04:05:13Z: PLAYER REMOVED [ 3153775741] audreelp            
+2022-12-23T04:05:26Z: PLAYER ADDED   [ 3153775741] audreelp            
+2022-12-23T04:05:56Z: PLAYER CHATTED [  249646109] Bonnie_Bunny81       ( -494.8,    99.2,  -199.3)
+  woahh
+2022-12-23T04:06:04Z: PLAYER CHATTED [  249646109] Bonnie_Bunny81       ( -485.8,    99.2,  -192.5)
+  thats cool
+2022-12-23T04:07:32Z: PLAYER REMOVED [ 3153775741] audreelp            
+2022-12-23T04:08:49Z: PLAYER REMOVED [ 2956617244] Holleemae           
+2022-12-23T04:08:59Z: PLAYER ADDED   [ 2956617244] Holleemae           
+2022-12-23T04:10:51Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

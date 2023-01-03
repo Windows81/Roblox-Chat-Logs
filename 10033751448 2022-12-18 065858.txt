@@ -1,0 +1,36 @@
+[    1630228] : [10033751448] [☢NUKE!] 🔨 Build and Battle! - 0891a194-71ab-4894-a63e-afab9c93a001
+2022-12-18T06:58:58Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-12-18T06:58:58Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-18T06:58:58Z: PLAYER ADDED   [ 2753229286] JojoKemo1234         a.k.a. JojoRoblox          
+2022-12-18T06:58:58Z: PLAYER ADDED   [ 2576578283] noe202019           
+2022-12-18T06:58:58Z: PLAYER ADDED   [ 4079671832] matius0418          
+2022-12-18T06:58:58Z: PLAYER ADDED   [ 2010599278] DANIEL_KINGZ320      a.k.a. nvbcx               
+2022-12-18T06:58:58Z: PLAYER ADDED   [ 2330937732] obnario             
+2022-12-18T06:58:58Z: PLAYER ADDED   [ 4019008695] santamarta720       
+2022-12-18T06:58:58Z: PLAYER ADDED   [ 2987163653] oscarinM17           a.k.a. Oscarin             
+2022-12-18T06:59:04Z: CHRCTER ADDED  [ 4079671832] matius0418          
+2022-12-18T06:59:39Z: CHRCTER ADDED  [ 2987163653] oscarinM17           a.k.a. Oscarin             
+2022-12-18T07:00:10Z: CHRCTER ADDED  [ 2753229286] JojoKemo1234         a.k.a. JojoRoblox          
+2022-12-18T07:00:34Z: PLAYER REMOVED [ 4019008695] santamarta720       
+2022-12-18T07:01:05Z: CHRCTER ADDED  [ 2987163653] oscarinM17           a.k.a. Oscarin             
+2022-12-18T07:01:23Z: CHRCTER ADDED  [ 2987163653] oscarinM17           a.k.a. Oscarin             
+2022-12-18T07:01:43Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-18T07:01:49Z: CHRCTER ADDED  [ 2987163653] oscarinM17           a.k.a. Oscarin             
+2022-12-18T07:02:03Z: CHRCTER ADDED  [ 2753229286] JojoKemo1234         a.k.a. JojoRoblox          
+2022-12-18T07:02:15Z: CHRCTER ADDED  [ 2987163653] oscarinM17           a.k.a. Oscarin             
+2022-12-18T07:02:24Z: CHRCTER ADDED  [ 4079671832] matius0418          
+2022-12-18T07:02:34Z: CHRCTER ADDED  [ 2987163653] oscarinM17           a.k.a. Oscarin             
+2022-12-18T07:02:43Z: CHRCTER ADDED  [ 4079671832] matius0418          
+2022-12-18T07:02:49Z: CHRCTER ADDED  [ 2987163653] oscarinM17           a.k.a. Oscarin             
+2022-12-18T07:02:57Z: PLAYER ADDED   [ 3475373665] BubbaRandy2         
+2022-12-18T07:02:59Z: CHRCTER ADDED  [ 4079671832] matius0418          
+2022-12-18T07:03:10Z: CHRCTER ADDED  [ 2987163653] oscarinM17           a.k.a. Oscarin             
+2022-12-18T07:03:12Z: CHRCTER ADDED  [ 4079671832] matius0418          
+2022-12-18T07:03:27Z: CHRCTER ADDED  [ 2987163653] oscarinM17           a.k.a. Oscarin             
+2022-12-18T07:03:39Z: CHRCTER ADDED  [ 4079671832] matius0418          
+2022-12-18T07:03:54Z: CHRCTER ADDED  [ 2987163653] oscarinM17           a.k.a. Oscarin             
+2022-12-18T07:03:55Z: CHRCTER ADDED  [ 2753229286] JojoKemo1234         a.k.a. JojoRoblox          
+2022-12-18T07:04:12Z: CHRCTER ADDED  [ 2010599278] DANIEL_KINGZ320      a.k.a. nvbcx               
+2022-12-18T07:04:17Z: CHRCTER ADDED  [ 2987163653] oscarinM17           a.k.a. Oscarin             
+2022-12-18T07:04:24Z: CHRCTER ADDED  [ 2010599278] DANIEL_KINGZ320      a.k.a. nvbcx               
+2022-12-18T07:04:24Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

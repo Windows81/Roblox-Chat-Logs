@@ -1,0 +1,15 @@
+[    1630228] : [ 8818917558] [4 PLAYER] Encanto but Abuela has had enough - 90c899a5-5dd1-4ad8-a2b1-d5401ef87a03
+2022-12-16T04:55:47Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-12-16T04:55:47Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-16T04:55:47Z: PLAYER ADDED   [ 2645185658] serranv2            
+2022-12-16T04:56:27Z: PLAYER REMOVED [ 2645185658] serranv2            
+2022-12-16T04:56:29Z: PLAYER ADDED   [ 2645185658] serranv2            
+2022-12-16T04:57:25Z: PLAYER ADDED   [ 4131311161] Z03av1              
+2022-12-16T04:57:26Z: PLAYER ADDED   [ 2021378815] FunTimePuppet82011   a.k.a. Sussyboinumber2     
+2022-12-16T04:57:32Z: PLAYER REMOVED [ 2021378815] FunTimePuppet82011   a.k.a. Sussyboinumber2     
+2022-12-16T04:57:34Z: PLAYER ADDED   [ 2021378815] FunTimePuppet82011   a.k.a. Sussyboinumber2     
+2022-12-16T04:57:37Z: PLAYER REMOVED [ 2645185658] serranv2            
+2022-12-16T04:57:39Z: PLAYER ADDED   [ 2645185658] serranv2            
+2022-12-16T04:57:40Z: PLAYER REMOVED [ 2021378815] FunTimePuppet82011   a.k.a. Sussyboinumber2     
+2022-12-16T04:58:00Z: PLAYER ADDED   [ 2021378815] FunTimePuppet82011   a.k.a. Sussyboinumber2     
+2022-12-16T04:58:52Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

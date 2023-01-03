@@ -1,0 +1,6 @@
+[    1630228] : [ 5378401056] Bronx, NY - a0a5ad90-bcbb-4721-90df-31aadacb56ac
+2022-12-31T06:45:25Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-12-31T06:45:25Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-31T06:45:25Z: PLAYER ADDED   [ 3922912147] Tuxedocat3001       
+2022-12-31T06:51:29Z: CHRCTER ADDED  [ 3922912147] Tuxedocat3001       
+2022-12-31T06:51:29Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

@@ -1,0 +1,22 @@
+[    1630228] : [  891741349] Little Islands Building - b1987375-e960-461d-8600-6fca7ab53e91
+2022-12-11T03:19:14Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-12-11T03:19:14Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-11T03:19:14Z: PLAYER ADDED   [  533239600] DragonessWing       
+2022-12-11T03:19:14Z: PLAYER ADDED   [  173468337] BadMineTurtle453     a.k.a. Mineturtle          
+2022-12-11T03:19:14Z: PLAYER ADDED   [   91121284] bofors2             
+2022-12-11T03:19:14Z: PLAYER ADDED   [   76074612] DulchTheBulch       
+2022-12-11T03:19:14Z: PLAYER ADDED   [ 2029197578] 1pirateboy345       
+2022-12-11T03:19:14Z: PLAYER ADDED   [   99229741] LeeBigBear           a.k.a. Critik              
+2022-12-11T03:19:14Z: PLAYER ADDED   [ 3399783362] Chyve_SS             a.k.a. Chaibe              
+2022-12-11T03:19:16Z: PLAYER CHATTED [ 3399783362] Chyve_SS             (-7744.6,   139.6, -7273.0)
+  ok i absolutely adore this simplistic style
+2022-12-11T03:19:25Z: PLAYER CHATTED [   91121284] bofors2              ( -457.1,   126.1,  1125.0)
+  where ###
+2022-12-11T03:19:27Z: PLAYER CHATTED [   76074612] DulchTheBulch        (-8034.0,   140.0, -7272.9)
+  i have to do it for the scale of the build
+2022-12-11T03:19:30Z: PLAYER REMOVED [  533239600] DragonessWing       
+2022-12-11T03:19:39Z: PLAYER CHATTED [ 3399783362] Chyve_SS             (-8078.6,   140.1, -7362.6)
+  its cool tho
+2022-12-11T03:19:54Z: PLAYER CHATTED [ 3399783362] Chyve_SS             (-8073.9,   140.1, -7377.5)
+  it kinda matches with the game style
+2022-12-11T03:20:11Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

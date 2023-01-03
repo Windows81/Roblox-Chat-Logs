@@ -1,0 +1,156 @@
+[    1630228] : [ 8369888266] APARTMENT! 🏢 Redcliff City RP - 3504aaad-d6ef-4074-9658-e5b9090cd574
+2022-12-10T09:10:25Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-12-10T09:10:25Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-10T09:10:25Z: PLAYER ADDED   [ 2763152259] Jose_CDN83           a.k.a. JOSE                
+2022-12-10T09:10:25Z: PLAYER ADDED   [ 3912835544] Tema_nagibator12     a.k.a. temoxa              
+2022-12-10T09:10:25Z: PLAYER ADDED   [ 3197433383] Klotar_2013         
+2022-12-10T09:10:25Z: PLAYER ADDED   [ 3949726151] colegiojw           
+2022-12-10T09:10:25Z: PLAYER ADDED   [ 3641000500] mljeuwn             
+2022-12-10T09:10:25Z: PLAYER ADDED   [ 4029946634] yeimi_1642          
+2022-12-10T09:10:25Z: PLAYER ADDED   [ 3024229712] linda17sofia        
+2022-12-10T09:10:25Z: PLAYER ADDED   [ 4077385313] mr5512408           
+2022-12-10T09:10:25Z: PLAYER ADDED   [ 3854936291] nargiza_28          
+2022-12-10T09:10:25Z: PLAYER ADDED   [ 3996979541] Matwey25jjjn        
+2022-12-10T09:10:25Z: PLAYER ADDED   [ 3894860712] akanekim_jisoo      
+2022-12-10T09:10:25Z: PLAYER ADDED   [ 1341415046] Camex272            
+2022-12-10T09:10:25Z: PLAYER ADDED   [ 3825924551] Fridha_4578         
+2022-12-10T09:10:25Z: PLAYER ADDED   [ 4010153391] 1loid2              
+2022-12-10T09:10:25Z: PLAYER ADDED   [ 4094357717] jes34hua            
+2022-12-10T09:10:25Z: PLAYER ADDED   [ 3550731187] SuperDamian1040     
+2022-12-10T09:10:25Z: PLAYER ADDED   [ 2812599033] allysonzoe2021      
+2022-12-10T09:10:25Z: PLAYER ADDED   [ 4083068493] ale6882              a.k.a. Ari                 
+2022-12-10T09:10:25Z: PLAYER ADDED   [ 4125178163] Bvdvfjzjd           
+2022-12-10T09:10:25Z: PLAYER ADDED   [ 4125203808] imsadand_lonelyplsno
+2022-12-10T09:10:25Z: PLAYER ADDED   [ 1810772507] AngelGZ121           a.k.a. M1LA                
+2022-12-10T09:10:25Z: PLAYER ADDED   [ 2961235625] egoralesenko        
+2022-12-10T09:10:25Z: PLAYER ADDED   [ 3802251961] Bryan_iscool79      
+2022-12-10T09:10:25Z: PLAYER ADDED   [ 4112617929] estrellalulu2345    
+2022-12-10T09:10:25Z: PLAYER ADDED   [ 4111791746] txx_honey112        
+2022-12-10T09:10:31Z: PLAYER CHATTED [ 4094357717] jes34hua             ( -344.5,    33.6,    24.0)
+  se fue
+2022-12-10T09:10:37Z: PLAYER REMOVED [ 4112617929] estrellalulu2345    
+2022-12-10T09:10:41Z: PLAYER CHATTED [ 4125203808] imsadand_lonelyplsno ( -214.4,     6.0,   670.5)
+  hi
+2022-12-10T09:10:41Z: PLAYER CHATTED [ 3024229712] linda17sofia         ( -471.1,     6.6,   423.7)
+  oh 
+2022-12-10T09:10:43Z: PLAYER CHATTED [ 4125203808] imsadand_lonelyplsno ( -214.4,     6.0,   670.5)
+  hi
+2022-12-10T09:10:45Z: PLAYER CHATTED [ 3024229712] linda17sofia         ( -471.1,     6.6,   423.7)
+  oh 
+2022-12-10T09:10:46Z: PLAYER CHATTED [ 2812599033] allysonzoe2021       (  250.0,    35.6,   984.1)
+  ni desayune
+2022-12-10T09:10:49Z: PLAYER CHATTED [ 3550731187] SuperDamian1040      ( -491.6,     5.6,   499.9)
+  faltan soldados
+2022-12-10T09:10:49Z: PLAYER CHATTED [ 2812599033] allysonzoe2021       (  250.0,    35.6,   984.2)
+  ni desayune
+2022-12-10T09:10:50Z: PLAYER CHATTED [ 4077385313] mr5512408            ( -217.0,     5.8,   666.3)
+  hola
+2022-12-10T09:10:52Z: PLAYER CHATTED [ 3550731187] SuperDamian1040      ( -491.6,     5.6,   499.9)
+  faltan soldados
+2022-12-10T09:10:52Z: PLAYER ADDED   [ 3934117218] hjmigbjgghbvggggss  
+2022-12-10T09:10:52Z: PLAYER CHATTED [ 4077385313] mr5512408            ( -217.0,     5.8,   666.3)
+  hola
+2022-12-10T09:10:58Z: PLAYER CHATTED [ 4125203808] imsadand_lonelyplsno ( -217.0,     6.0,   668.2)
+  hola
+2022-12-10T09:11:00Z: PLAYER CHATTED [ 3894860712] akanekim_jisoo       ( -474.8,     7.1,   505.1)
+  si :/
+2022-12-10T09:11:00Z: PLAYER ADDED   [ 4112617929] estrellalulu2345    
+2022-12-10T09:11:02Z: PLAYER CHATTED [ 4083068493] ale6882              (  222.9,    12.8,   837.3)
+  te compras algo y ya
+2022-12-10T09:11:03Z: PLAYER REMOVED [ 1810772507] AngelGZ121           a.k.a. M1LA                
+2022-12-10T09:11:03Z: CHRCTER ADDED  [ 3934117218] hjmigbjgghbvggggss  
+2022-12-10T09:11:08Z: PLAYER CHATTED [ 3550731187] SuperDamian1040      ( -340.6,     7.3,   775.7)
+  XD
+2022-12-10T09:11:09Z: PLAYER CHATTED [ 2812599033] allysonzoe2021       (  167.4,     5.7,   631.2)
+  :/
+2022-12-10T09:11:12Z: CHRCTER ADDED  [ 4112617929] estrellalulu2345    
+2022-12-10T09:11:14Z: PLAYER CHATTED [ 2812599033] allysonzoe2021       (   18.5,     5.7,   505.5)
+  weno
+2022-12-10T09:11:14Z: PLAYER CHATTED [ 4125203808] imsadand_lonelyplsno ( -217.0,     6.0,   668.2)
+  hola senorita
+2022-12-10T09:11:15Z: PLAYER CHATTED [ 4077385313] mr5512408            ( -217.5,     5.8,   666.1)
+  hola?
+2022-12-10T09:11:19Z: PLAYER CHATTED [ 3024229712] linda17sofia         ( -360.0,    39.6,   -25.8)
+  tal vez yo me vaya 
+2022-12-10T09:11:23Z: PLAYER CHATTED [ 4083068493] ale6882              ( -185.5,     6.1,   384.8)
+  adios niña
+2022-12-10T09:11:29Z: PLAYER CHATTED [ 2812599033] allysonzoe2021       ( -190.2,     5.7,   352.0)
+  bye pa
+2022-12-10T09:11:37Z: PLAYER CHATTED [ 4125203808] imsadand_lonelyplsno ( -214.1,     6.0,   670.3)
+  you speak Spanish
+2022-12-10T09:11:43Z: PLAYER CHATTED [ 3024229712] linda17sofia         ( -360.2,    39.6,   -26.4)
+  bye 
+2022-12-10T09:11:49Z: PLAYER CHATTED [ 4094357717] jes34hua             ( -365.0,    37.1,   -30.6)
+  bye
+2022-12-10T09:11:49Z: PLAYER CHATTED [ 3024229712] linda17sofia         ( -360.2,    39.6,   -26.4)
+  me iré a otro server 
+2022-12-10T09:11:54Z: PLAYER CHATTED [ 4094357717] jes34hua             ( -365.0,    37.1,   -30.6)
+  ok
+2022-12-10T09:12:00Z: PLAYER CHATTED [ 3024229712] linda17sofia         ( -360.2,    39.6,   -26.4)
+  si quieres venir 
+2022-12-10T09:12:03Z: PLAYER CHATTED [ 4094357717] jes34hua             ( -365.0,    37.1,   -30.6)
+  bye
+2022-12-10T09:12:05Z: PLAYER REMOVED [ 3024229712] linda17sofia        
+2022-12-10T09:12:06Z: PLAYER ADDED   [ 4118176801] Mila_327882         
+2022-12-10T09:12:07Z: PLAYER CHATTED [ 4083068493] ale6882              (  242.7,     9.2,   819.9)
+  no quiero q te vallas de la escuela e niña
+2022-12-10T09:12:08Z: PLAYER CHATTED [ 4077385313] mr5512408            ( -548.9,    66.0,   -58.3)
+  si?
+2022-12-10T09:12:15Z: PLAYER REMOVED [ 4112617929] estrellalulu2345    
+2022-12-10T09:12:15Z: PLAYER CHATTED [ 3949726151] colegiojw            ( -548.4,    66.4,   -54.0)
+  yo no te conozco?
+2022-12-10T09:12:17Z: PLAYER ADDED   [ 4083224265] asdsfgjk23          
+2022-12-10T09:12:28Z: PLAYER CHATTED [ 4077385313] mr5512408            ( -548.9,    66.0,   -58.3)
+  no lose tu dime
+2022-12-10T09:12:28Z: CHRCTER ADDED  [ 4118176801] Mila_327882         
+2022-12-10T09:12:30Z: PLAYER CHATTED [ 3641000500] mljeuwn              ( -195.3,    37.6,   -78.7)
+  bebeeee
+2022-12-10T09:12:33Z: CHRCTER ADDED  [ 4083224265] asdsfgjk23          
+2022-12-10T09:12:33Z: PLAYER CHATTED [ 4010153391] 1loid2               ( -158.1,     5.6,   779.5)
+  ####
+2022-12-10T09:12:36Z: PLAYER CHATTED [ 3550731187] SuperDamian1040      ( -163.4,     5.6,   788.2)
+  xd
+2022-12-10T09:12:38Z: PLAYER CHATTED [ 3641000500] mljeuwn              ( -193.2,    37.6,   -76.4)
+  ya está el desayuno
+2022-12-10T09:12:41Z: PLAYER CHATTED [ 4010153391] 1loid2               ( -102.6,     5.6,   783.2)
+  hola
+2022-12-10T09:12:46Z: PLAYER CHATTED [ 3949726151] colegiojw            ( -548.4,    66.4,   -54.0)
+  yo creo que sí?
+2022-12-10T09:12:53Z: PLAYER REMOVED [ 4118176801] Mila_327882         
+2022-12-10T09:13:05Z: PLAYER ADDED   [ 3506090535] Galleta123737        a.k.a. Bianca_11           
+2022-12-10T09:13:08Z: PLAYER CHATTED [ 4077385313] mr5512408            ( -548.9,    66.0,   -58.3)
+  mmm genial
+2022-12-10T09:13:14Z: CHRCTER ADDED  [ 3506090535] Galleta123737        a.k.a. Bianca_11           
+2022-12-10T09:13:16Z: PLAYER CHATTED [ 3894860712] akanekim_jisoo       (   22.7,     5.4,   772.6)
+  te unes?
+2022-12-10T09:13:17Z: PLAYER CHATTED [ 3894860712] akanekim_jisoo       (   22.7,     5.4,   772.6)
+  te unes?
+2022-12-10T09:13:21Z: PLAYER CHATTED [ 3641000500] mljeuwn              ( -184.0,    37.5,   -83.1)
+  ######
+2022-12-10T09:13:24Z: PLAYER CHATTED [ 3641000500] mljeuwn              ( -184.0,    37.5,   -83.1)
+  oye
+2022-12-10T09:13:24Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-10T09:13:24Z: PLAYER REMOVED [ 2763152259] Jose_CDN83           a.k.a. JOSE                
+2022-12-10T09:13:24Z: PLAYER REMOVED [ 3912835544] Tema_nagibator12     a.k.a. temoxa              
+2022-12-10T09:13:24Z: PLAYER REMOVED [ 3197433383] Klotar_2013         
+2022-12-10T09:13:24Z: PLAYER REMOVED [ 3949726151] colegiojw           
+2022-12-10T09:13:24Z: PLAYER REMOVED [ 3641000500] mljeuwn             
+2022-12-10T09:13:24Z: PLAYER REMOVED [ 4029946634] yeimi_1642          
+2022-12-10T09:13:24Z: PLAYER REMOVED [ 4077385313] mr5512408           
+2022-12-10T09:13:24Z: PLAYER REMOVED [ 3854936291] nargiza_28          
+2022-12-10T09:13:24Z: PLAYER REMOVED [ 3996979541] Matwey25jjjn        
+2022-12-10T09:13:24Z: PLAYER REMOVED [ 3894860712] akanekim_jisoo      
+2022-12-10T09:13:24Z: PLAYER REMOVED [ 1341415046] Camex272            
+2022-12-10T09:13:24Z: PLAYER REMOVED [ 3825924551] Fridha_4578         
+2022-12-10T09:13:24Z: PLAYER REMOVED [ 4010153391] 1loid2              
+2022-12-10T09:13:24Z: PLAYER REMOVED [ 4094357717] jes34hua            
+2022-12-10T09:13:24Z: PLAYER REMOVED [ 3550731187] SuperDamian1040     
+2022-12-10T09:13:24Z: PLAYER REMOVED [ 2812599033] allysonzoe2021      
+2022-12-10T09:13:24Z: PLAYER REMOVED [ 4083068493] ale6882              a.k.a. Ari                 
+2022-12-10T09:13:24Z: PLAYER REMOVED [ 4125178163] Bvdvfjzjd           
+2022-12-10T09:13:24Z: PLAYER REMOVED [ 4125203808] imsadand_lonelyplsno
+2022-12-10T09:13:24Z: PLAYER REMOVED [ 2961235625] egoralesenko        
+2022-12-10T09:13:24Z: PLAYER REMOVED [ 3802251961] Bryan_iscool79      
+2022-12-10T09:13:24Z: PLAYER REMOVED [ 4111791746] txx_honey112        
+2022-12-10T09:13:24Z: PLAYER REMOVED [ 3934117218] hjmigbjgghbvggggss  
+2022-12-10T09:13:24Z: PLAYER REMOVED [ 4083224265] asdsfgjk23          

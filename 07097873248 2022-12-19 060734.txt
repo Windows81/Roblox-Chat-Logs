@@ -1,0 +1,15 @@
+[    1630228] : [ 7097873248] [🎄] Building Simulator X - b2b6b1e3-f6a0-4825-99fd-4e3f47ba3da6
+2022-12-19T06:07:34Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-12-19T06:07:34Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-19T06:07:34Z: PLAYER ADDED   [ 3931008147] Muhimin9999         
+2022-12-19T06:07:34Z: PLAYER ADDED   [ 3826625327] CaiCai201724        
+2022-12-19T06:07:34Z: PLAYER ADDED   [ 3790749455] Janyscuizon         
+2022-12-19T06:07:34Z: PLAYER ADDED   [ 3615753814] OppaAniq            
+2022-12-19T06:07:34Z: PLAYER ADDED   [ 2889036622] GazanianAster       
+2022-12-19T06:07:34Z: PLAYER ADDED   [ 3812267632] Kendrellzac         
+2022-12-19T06:07:34Z: PLAYER ADDED   [ 3366978348] GemartNathan        
+2022-12-19T06:07:34Z: PLAYER ADDED   [ 3506130426] Aquamedas            a.k.a. Aquasquat           
+2022-12-19T06:08:25Z: PLAYER REMOVED [ 3506130426] Aquamedas            a.k.a. Aquasquat           
+2022-12-19T06:08:43Z: PLAYER REMOVED [ 3615753814] OppaAniq            
+2022-12-19T06:09:25Z: PLAYER REMOVED [ 3366978348] GemartNathan        
+2022-12-19T06:09:30Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

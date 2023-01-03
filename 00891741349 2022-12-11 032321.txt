@@ -1,0 +1,104 @@
+[    1630228] : [  891741349] Little Islands Building - b1987375-e960-461d-8600-6fca7ab53e91
+2022-12-11T03:23:21Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-12-11T03:23:21Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-11T03:23:21Z: PLAYER ADDED   [  173468337] BadMineTurtle453     a.k.a. Mineturtle          
+2022-12-11T03:23:21Z: PLAYER ADDED   [  150893875] dragon_kirby1       
+2022-12-11T03:23:21Z: PLAYER ADDED   [   91121284] bofors2             
+2022-12-11T03:23:21Z: PLAYER ADDED   [   76074612] DulchTheBulch       
+2022-12-11T03:23:21Z: PLAYER ADDED   [ 2029197578] 1pirateboy345       
+2022-12-11T03:23:21Z: PLAYER ADDED   [   99229741] LeeBigBear           a.k.a. Critik              
+2022-12-11T03:23:21Z: PLAYER ADDED   [ 3399783362] Chyve_SS             a.k.a. Chaibe              
+2022-12-11T03:23:24Z: PLAYER CHATTED [ 3399783362] Chyve_SS             (-6337.5,   275.1, -5719.7)
+  wish there was a water block
+2022-12-11T03:23:28Z: PLAYER CHATTED [   76074612] DulchTheBulch        (-6321.4,   222.0, -5627.5)
+  fr
+2022-12-11T03:23:28Z: PLAYER CHATTED [   91121284] bofors2              (-7182.9,   138.0, -6505.8)
+  same
+2022-12-11T03:23:38Z: PLAYER CHATTED [   91121284] bofors2              (-7059.9,   107.6, -6356.0)
+  ########## onto city
+2022-12-11T03:23:39Z: PLAYER ADDED   [ 2630042953] 2DVisual             a.k.a. Dev                 
+2022-12-11T03:23:41Z: PLAYER CHATTED [   91121284] bofors2              (-7038.8,   114.0, -6356.6)
+  canal
+2022-12-11T03:23:41Z: CHRCTER ADDED  [ 2630042953] 2DVisual             a.k.a. Dev                 
+2022-12-11T03:23:50Z: PLAYER CHATTED [   91121284] bofors2              (-6962.1,   116.3, -6309.0)
+  or even inland shipyards
+2022-12-11T03:23:53Z: PLAYER CHATTED [ 3399783362] Chyve_SS             (-6065.2,   273.1, -5228.0)
+  yeah
+2022-12-11T03:24:05Z: PLAYER CHATTED [ 2630042953] 2DVisual             (58401.3,   148.8,  2147.7)
+  /e wave
+2022-12-11T03:24:09Z: PLAYER CHATTED [ 2630042953] 2DVisual             (58402.8,   148.8,  2144.9)
+  yo visual
+2022-12-11T03:24:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (58450.1,   148.6,  2125.8)
+  Hi.
+2022-12-11T03:24:19Z: PLAYER CHATTED [ 2630042953] 2DVisual             (58402.8,   148.8,  2144.9)
+  sup man how you been
+2022-12-11T03:24:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (58416.9,   149.5,  2127.1)
+  I took a final exam yesterday.
+2022-12-11T03:24:37Z: PLAYER CHATTED [ 2630042953] 2DVisual             (58413.5,   149.0,  2132.8)
+  oh cool man what year are you on
+2022-12-11T03:24:43Z: PLAYER CHATTED [ 2630042953] 2DVisual             (58415.7,   149.0,  2134.5)
+  i hope you passed
+2022-12-11T03:24:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (58424.8,   149.4,  2123.0)
+  Fifth.
+2022-12-11T03:24:57Z: PLAYER CHATTED [ 2630042953] 2DVisual             (58430.1,   148.9,  2128.4)
+  cool
+2022-12-11T03:24:58Z: PLAYER CHATTED [ 3399783362] Chyve_SS             (-6560.1,   530.1, -4233.8)
+  hhhhhhhhhhhhhhhhhh
+2022-12-11T03:25:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (58426.3,   149.5,  2125.5)
+  Thanks.
+2022-12-11T03:25:07Z: PLAYER CHATTED [ 2630042953] 2DVisual             (58430.1,   148.9,  2128.4)
+  np bro
+2022-12-11T03:25:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (58423.0,   149.5,  2126.9)
+  I'm unable to pick a team.
+2022-12-11T03:25:17Z: PLAYER CHATTED [ 2630042953] 2DVisual             (58430.1,   148.9,  2128.4)
+  why
+2022-12-11T03:25:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (58435.6,   149.5,  2125.5)
+  Must be my FFlags.
+2022-12-11T03:25:27Z: PLAYER CHATTED [ 2630042953] 2DVisual             (58429.8,   148.9,  2130.8)
+  weird
+2022-12-11T03:25:31Z: PLAYER ADDED   [  150802865] katieg849            a.k.a. Pumpkin_Latte       
+2022-12-11T03:25:33Z: CHRCTER ADDED  [  150802865] katieg849            a.k.a. Pumpkin_Latte       
+2022-12-11T03:25:34Z: CHRCTER ADDED  [  150802865] katieg849            a.k.a. Pumpkin_Latte       
+2022-12-11T03:25:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (58428.3,   149.5,  2127.2)
+  You as well?
+2022-12-11T03:25:41Z: PLAYER CHATTED [ 2630042953] 2DVisual             (58429.8,   148.9,  2130.8)
+  no
+2022-12-11T03:25:47Z: CHRCTER ADDED  [ 2630042953] 2DVisual             a.k.a. Dev                 
+2022-12-11T03:25:49Z: CHRCTER ADDED  [   91121284] bofors2             
+2022-12-11T03:26:14Z: CHRCTER ADDED  [  150802865] katieg849            a.k.a. Pumpkin_Latte       
+2022-12-11T03:26:34Z: PLAYER CHATTED [ 3399783362] Chyve_SS             (-7098.4,  1557.1, -3514.1)
+  is the view gonna be bussin?
+2022-12-11T03:26:42Z: PLAYER CHATTED [ 3399783362] Chyve_SS             (-7152.9,  1659.1, -3554.9)
+  oh hell yeah
+2022-12-11T03:26:50Z: PLAYER ADDED   [ 1071456106] Triminster           a.k.a. Trimimi             
+2022-12-11T03:26:52Z: CHRCTER ADDED  [ 1071456106] Triminster           a.k.a. Trimimi             
+2022-12-11T03:26:59Z: PLAYER CHATTED [ 3399783362] Chyve_SS             (-7223.0,  1719.1, -3564.0)
+  the view is absolutely bussin
+2022-12-11T03:27:00Z: PLAYER CHATTED [   76074612] DulchTheBulch        (-7212.5,  1719.0, -3551.6)
+  would be better if half the land was done
+2022-12-11T03:27:12Z: CHRCTER ADDED  [ 1071456106] Triminster           a.k.a. Trimimi             
+2022-12-11T03:27:18Z: PLAYER CHATTED [ 3399783362] Chyve_SS             (-7228.4,  1719.1, -3558.5)
+  whats that
+2022-12-11T03:27:24Z: PLAYER CHATTED [   76074612] DulchTheBulch        (-7217.4,  1719.0, -3544.8)
+  salt creek
+2022-12-11T03:27:33Z: PLAYER CHATTED [   76074612] DulchTheBulch        (-7216.5,  1719.0, -3546.8)
+  small town
+2022-12-11T03:27:37Z: PLAYER CHATTED [ 3399783362] Chyve_SS             (-7227.4,  1719.1, -3550.5)
+  what is this nation called
+2022-12-11T03:27:40Z: PLAYER CHATTED [   91121284] bofors2              ( -322.9,   129.0,  1081.2)
+  DULCH
+2022-12-11T03:27:41Z: PLAYER CHATTED [   91121284] bofors2              ( -322.9,   129.0,  1081.2)
+  btw
+2022-12-11T03:27:46Z: PLAYER CHATTED [   91121284] bofors2              ( -322.9,   129.0,  1081.2)
+  maybe small mountain railway?
+2022-12-11T03:27:50Z: PLAYER CHATTED [   76074612] DulchTheBulch        (-7215.6,  1719.0, -3557.7)
+  i will
+2022-12-11T03:27:51Z: PLAYER CHATTED [   91121284] bofors2              ( -322.9,   129.0,  1081.2)
+  that follows a road
+2022-12-11T03:27:54Z: PLAYER CHATTED [   76074612] DulchTheBulch        (-7211.3,  1719.0, -3554.6)
+  eventually
+2022-12-11T03:28:03Z: PLAYER CHATTED [    1630228] VisualPlugin         (58407.3,   163.2,  2149.8)
+  I'll rejoin.
+2022-12-11T03:28:07Z: PLAYER CHATTED [   91121284] bofors2              ( -405.7,   133.8,  1115.8)
+  how is tractive effort of cars in your island
+2022-12-11T03:28:10Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

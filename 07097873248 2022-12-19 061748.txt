@@ -1,0 +1,13 @@
+[    1630228] : [ 7097873248] [🎄] Building Simulator X - 2944fe62-db31-4e2a-a36f-7da564845ca1
+2022-12-19T06:17:48Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-12-19T06:17:48Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-19T06:17:48Z: PLAYER ADDED   [ 4104948150] hdhshajajajyfjdbsh  
+2022-12-19T06:17:48Z: PLAYER ADDED   [ 3803328704] dxno_rowan          
+2022-12-19T06:17:48Z: PLAYER ADDED   [ 3518773904] ChrisTurbo16        
+2022-12-19T06:17:48Z: PLAYER ADDED   [ 4075225222] Mox5076             
+2022-12-19T06:17:48Z: PLAYER ADDED   [ 4109795165] elizaveta062017     
+2022-12-19T06:17:48Z: PLAYER ADDED   [ 3891503720] Finnxfischbach      
+2022-12-19T06:17:48Z: PLAYER ADDED   [ 1717704025] Amirnoar             a.k.a. GalaxyNoar          
+2022-12-19T06:17:48Z: PLAYER ADDED   [ 2955538547] Art_cringe           a.k.a. Joe_brother         
+2022-12-19T06:18:40Z: PLAYER REMOVED [ 3803328704] dxno_rowan          
+2022-12-19T06:19:11Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

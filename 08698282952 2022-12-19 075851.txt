@@ -1,0 +1,6 @@
+[    1630228] : [ 8698282952] My Plot - 9f9b72d2-bbe2-173e-4fb1-cbe6159bf206
+2022-12-19T07:58:51Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-12-19T07:58:51Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-19T08:33:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -9.5,    25.7,     1.2)
+  :clear
+2022-12-19T08:33:20Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

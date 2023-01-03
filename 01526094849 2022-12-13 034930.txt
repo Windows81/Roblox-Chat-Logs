@@ -1,0 +1,1148 @@
+[    1630228] : [ 1526094849] Build an Obby  - 56f63841-7441-487b-ab49-db3b8bfa5499
+2022-12-13T03:49:30Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-12-13T03:49:30Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-13T03:49:30Z: PLAYER ADDED   [ 3650859661] Lettie_rat          
+2022-12-13T03:49:30Z: PLAYER ADDED   [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:49:30Z: PLAYER ADDED   [ 1178793636] qt_silly             a.k.a. xRiley              
+2022-12-13T03:49:30Z: PLAYER ADDED   [ 2065118478] duckybidy           
+2022-12-13T03:49:30Z: PLAYER ADDED   [ 3769908488] RbJNEM7928          
+2022-12-13T03:49:30Z: PLAYER ADDED   [ 3098219176] Jellybox0314        
+2022-12-13T03:49:33Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T03:49:40Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T03:50:07Z: CHRCTER ADDED  [ 3769908488] RbJNEM7928          
+2022-12-13T03:50:11Z: CHRCTER ADDED  [ 2065118478] duckybidy           
+2022-12-13T03:50:16Z: CHRCTER ADDED  [ 3098219176] Jellybox0314        
+2022-12-13T03:50:19Z: CHRCTER ADDED  [ 3769908488] RbJNEM7928          
+2022-12-13T03:50:21Z: CHRCTER ADDED  [ 3098219176] Jellybox0314        
+2022-12-13T03:50:24Z: PLAYER REMOVED [ 1178793636] qt_silly             a.k.a. xRiley              
+2022-12-13T03:50:28Z: PLAYER ADDED   [ 4055859498] lolaloves0392       
+2022-12-13T03:50:29Z: CHRCTER ADDED  [ 3769908488] RbJNEM7928          
+2022-12-13T03:50:37Z: CHRCTER ADDED  [ 3769908488] RbJNEM7928          
+2022-12-13T03:50:48Z: CHRCTER ADDED  [ 3769908488] RbJNEM7928          
+2022-12-13T03:50:55Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T03:50:55Z: CHRCTER ADDED  [ 3769908488] RbJNEM7928          
+2022-12-13T03:51:07Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T03:51:19Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:51:19Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T03:51:22Z: PLAYER REMOVED [ 2065118478] duckybidy           
+2022-12-13T03:51:28Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:51:32Z: CHRCTER ADDED  [ 3769908488] RbJNEM7928          
+2022-12-13T03:51:41Z: CHRCTER ADDED  [ 3098219176] Jellybox0314        
+2022-12-13T03:51:43Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T03:52:00Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:52:04Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:52:04Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:52:14Z: CHRCTER ADDED  [ 3769908488] RbJNEM7928          
+2022-12-13T03:52:14Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T03:52:18Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:52:30Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:52:37Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T03:52:38Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:52:58Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:53:03Z: CHRCTER ADDED  [ 3098219176] Jellybox0314        
+2022-12-13T03:53:08Z: PLAYER ADDED   [ 3886020425] Pink_starszs        
+2022-12-13T03:53:24Z: CHRCTER ADDED  [ 4055859498] lolaloves0392       
+2022-12-13T03:53:34Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T03:53:41Z: CHRCTER ADDED  [ 4055859498] lolaloves0392       
+2022-12-13T03:53:49Z: CHRCTER ADDED  [ 4055859498] lolaloves0392       
+2022-12-13T03:53:58Z: CHRCTER ADDED  [ 3769908488] RbJNEM7928          
+2022-12-13T03:54:03Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T03:54:06Z: CHRCTER ADDED  [ 4055859498] lolaloves0392       
+2022-12-13T03:54:13Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T03:54:25Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T03:54:27Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:54:28Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T03:54:29Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T03:55:17Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:55:18Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T03:55:19Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T03:55:21Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:55:21Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T03:55:21Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:55:26Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T03:55:27Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T03:55:28Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:55:30Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T03:55:31Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T03:55:32Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:55:33Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T03:55:33Z: CHRCTER ADDED  [ 3769908488] RbJNEM7928          
+2022-12-13T03:55:38Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:55:38Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T03:55:42Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:55:43Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:55:45Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T03:55:46Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:55:48Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T03:55:49Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T03:55:49Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T03:55:50Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:55:52Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T03:55:54Z: CHRCTER ADDED  [ 3769908488] RbJNEM7928          
+2022-12-13T03:55:55Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:55:55Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T03:55:58Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T03:55:58Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:56:01Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T03:56:02Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:56:02Z: CHRCTER ADDED  [ 3769908488] RbJNEM7928          
+2022-12-13T03:56:05Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T03:56:05Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:56:11Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T03:56:12Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:56:15Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T03:56:16Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:56:16Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T03:56:16Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:56:20Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:56:20Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T03:56:26Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T03:56:27Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:56:27Z: CHRCTER ADDED  [ 3769908488] RbJNEM7928          
+2022-12-13T03:56:31Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:56:32Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:56:32Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T03:56:35Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T03:56:39Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T03:56:40Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:56:47Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T03:56:48Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:56:50Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T03:56:50Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:56:54Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T03:57:02Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:57:04Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T03:57:05Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:57:14Z: CHRCTER ADDED  [ 3769908488] RbJNEM7928          
+2022-12-13T03:57:19Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T03:57:23Z: CHRCTER ADDED  [ 3769908488] RbJNEM7928          
+2022-12-13T03:57:24Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:57:26Z: CHRCTER ADDED  [ 3098219176] Jellybox0314        
+2022-12-13T03:57:29Z: CHRCTER ADDED  [ 3769908488] RbJNEM7928          
+2022-12-13T03:57:30Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T03:57:32Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:57:35Z: CHRCTER ADDED  [ 3769908488] RbJNEM7928          
+2022-12-13T03:57:43Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:57:55Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T03:58:03Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T03:58:14Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T03:58:19Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T03:58:20Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T03:58:27Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T03:58:49Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T03:59:21Z: PLAYER ADDED   [ 1977395763] raffylols            a.k.a. Raffy               
+2022-12-13T03:59:27Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T03:59:37Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T03:59:45Z: CHRCTER ADDED  [ 4055859498] lolaloves0392       
+2022-12-13T03:59:46Z: PLAYER CHATTED [ 3206716206] Stevepg1313          (   48.6,    23.5,   212.5)
+  Can I go in
+2022-12-13T03:59:54Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T04:00:05Z: CHRCTER ADDED  [ 3769908488] RbJNEM7928          
+2022-12-13T04:00:19Z: CHRCTER ADDED  [ 1977395763] raffylols            a.k.a. Raffy               
+2022-12-13T04:00:19Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:00:19Z: CHRCTER ADDED  [ 3769908488] RbJNEM7928          
+2022-12-13T04:00:21Z: CHRCTER ADDED  [ 3098219176] Jellybox0314        
+2022-12-13T04:00:26Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:00:33Z: CHRCTER ADDED  [ 3769908488] RbJNEM7928          
+2022-12-13T04:00:37Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:00:38Z: CHRCTER ADDED  [ 1977395763] raffylols            a.k.a. Raffy               
+2022-12-13T04:00:46Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:00:47Z: CHRCTER ADDED  [ 3769908488] RbJNEM7928          
+2022-12-13T04:00:58Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:01:14Z: PLAYER REMOVED [ 3769908488] RbJNEM7928          
+2022-12-13T04:01:15Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:01:15Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T04:01:21Z: CHRCTER ADDED  [ 1977395763] raffylols            a.k.a. Raffy               
+2022-12-13T04:01:40Z: CHRCTER ADDED  [ 1977395763] raffylols            a.k.a. Raffy               
+2022-12-13T04:01:41Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T04:01:49Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T04:01:56Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T04:01:57Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T04:01:57Z: CHRCTER ADDED  [ 1977395763] raffylols            a.k.a. Raffy               
+2022-12-13T04:02:09Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T04:02:13Z: CHRCTER ADDED  [ 4055859498] lolaloves0392       
+2022-12-13T04:02:20Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:02:20Z: CHRCTER ADDED  [ 3098219176] Jellybox0314        
+2022-12-13T04:02:30Z: CHRCTER ADDED  [ 3098219176] Jellybox0314        
+2022-12-13T04:02:33Z: CHRCTER ADDED  [ 4055859498] lolaloves0392       
+2022-12-13T04:02:36Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T04:02:37Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:02:41Z: CHRCTER ADDED  [ 1977395763] raffylols            a.k.a. Raffy               
+2022-12-13T04:02:44Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T04:02:48Z: CHRCTER ADDED  [ 1977395763] raffylols            a.k.a. Raffy               
+2022-12-13T04:02:55Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T04:03:05Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T04:03:15Z: CHRCTER ADDED  [ 1977395763] raffylols            a.k.a. Raffy               
+2022-12-13T04:03:34Z: CHRCTER ADDED  [ 3098219176] Jellybox0314        
+2022-12-13T04:03:35Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T04:03:43Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T04:03:50Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T04:03:52Z: CHRCTER ADDED  [ 1977395763] raffylols            a.k.a. Raffy               
+2022-12-13T04:04:01Z: CHRCTER ADDED  [ 1977395763] raffylols            a.k.a. Raffy               
+2022-12-13T04:04:01Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T04:04:11Z: CHRCTER ADDED  [ 1977395763] raffylols            a.k.a. Raffy               
+2022-12-13T04:04:16Z: CHRCTER ADDED  [ 4055859498] lolaloves0392       
+2022-12-13T04:04:20Z: CHRCTER ADDED  [ 4055859498] lolaloves0392       
+2022-12-13T04:04:20Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:04:21Z: CHRCTER ADDED  [ 4055859498] lolaloves0392       
+2022-12-13T04:04:35Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:04:36Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T04:04:38Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:04:41Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T04:04:48Z: CHRCTER ADDED  [ 4055859498] lolaloves0392       
+2022-12-13T04:04:52Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T04:04:52Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:04:54Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T04:04:55Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:04:59Z: CHRCTER ADDED  [ 4055859498] lolaloves0392       
+2022-12-13T04:05:15Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T04:05:17Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T04:05:22Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:05:30Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:05:43Z: CHRCTER ADDED  [ 1977395763] raffylols            a.k.a. Raffy               
+2022-12-13T04:05:46Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T04:05:56Z: CHRCTER ADDED  [ 1977395763] raffylols            a.k.a. Raffy               
+2022-12-13T04:06:00Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T04:06:01Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:06:10Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T04:06:14Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:06:18Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T04:06:23Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:06:27Z: PLAYER REMOVED [ 1977395763] raffylols            a.k.a. Raffy               
+2022-12-13T04:06:28Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T04:06:32Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:06:38Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T04:06:40Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T04:06:42Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:06:51Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:06:52Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T04:06:54Z: CHRCTER ADDED  [ 4055859498] lolaloves0392       
+2022-12-13T04:06:58Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T04:07:04Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T04:07:05Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:07:13Z: CHRCTER ADDED  [ 3886020425] Pink_starszs        
+2022-12-13T04:07:15Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:07:26Z: PLAYER REMOVED [ 3886020425] Pink_starszs        
+2022-12-13T04:07:28Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T04:07:28Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:07:36Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:07:40Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T04:07:49Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T04:07:57Z: CHRCTER ADDED  [ 4055859498] lolaloves0392       
+2022-12-13T04:08:07Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:08:11Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T04:08:28Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:08:41Z: CHRCTER ADDED  [ 4055859498] lolaloves0392       
+2022-12-13T04:08:48Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:08:50Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T04:09:10Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:09:12Z: PLAYER ADDED   [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:09:14Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T04:09:38Z: CHRCTER ADDED  [ 4055859498] lolaloves0392       
+2022-12-13T04:09:47Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:09:56Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T04:09:57Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:10:07Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T04:10:19Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:10:27Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:10:31Z: PLAYER ADDED   [ 4108116120] SnoopDogyaya        
+2022-12-13T04:10:34Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T04:10:35Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:10:41Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-13T04:10:41Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:10:49Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:10:50Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-13T04:10:52Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:11:06Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:11:08Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:11:18Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T04:11:21Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:11:23Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:11:27Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T04:11:31Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:11:33Z: CHRCTER ADDED  [ 4108116120] SnoopDogyaya        
+2022-12-13T04:11:44Z: CHRCTER ADDED  [ 4108116120] SnoopDogyaya        
+2022-12-13T04:11:57Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:12:12Z: CHRCTER ADDED  [ 4108116120] SnoopDogyaya        
+2022-12-13T04:12:15Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-13T04:12:19Z: CHRCTER ADDED  [ 4108116120] SnoopDogyaya        
+2022-12-13T04:12:20Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T04:12:21Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:12:32Z: CHRCTER ADDED  [ 4108116120] SnoopDogyaya        
+2022-12-13T04:12:32Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:12:54Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T04:12:57Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:13:01Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:13:01Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:13:05Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:13:13Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:13:15Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T04:13:21Z: CHRCTER ADDED  [ 3098219176] Jellybox0314        
+2022-12-13T04:13:23Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:13:29Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:13:33Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:13:33Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:13:35Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:13:36Z: CHRCTER ADDED  [ 3098219176] Jellybox0314        
+2022-12-13T04:13:38Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T04:13:38Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:13:39Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:13:42Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:13:50Z: CHRCTER ADDED  [ 4055859498] lolaloves0392       
+2022-12-13T04:14:07Z: PLAYER REMOVED [ 4108116120] SnoopDogyaya        
+2022-12-13T04:14:21Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:14:29Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:14:29Z: CHRCTER ADDED  [ 3098219176] Jellybox0314        
+2022-12-13T04:14:37Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:14:43Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:14:50Z: CHRCTER ADDED  [ 3098219176] Jellybox0314        
+2022-12-13T04:14:51Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T04:15:16Z: CHRCTER ADDED  [ 4055859498] lolaloves0392       
+2022-12-13T04:15:17Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:15:28Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T04:15:31Z: CHRCTER ADDED  [ 4055859498] lolaloves0392       
+2022-12-13T04:15:46Z: PLAYER CHATTED [ 3650859661] Lettie_rat           (  -12.4,    23.7,   198.0)
+  Put checkmarks
+2022-12-13T04:16:06Z: PLAYER CHATTED [ 3206716206] Stevepg1313          (  -17.6,    26.8,   171.6)
+  Ez
+2022-12-13T04:16:10Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T04:16:15Z: CHRCTER ADDED  [ 3098219176] Jellybox0314        
+2022-12-13T04:16:21Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:16:25Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:16:33Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:16:41Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T04:16:55Z: CHRCTER ADDED  [ 3098219176] Jellybox0314        
+2022-12-13T04:17:15Z: PLAYER ADDED   [ 3429889690] ewwwvivi             a.k.a. curts               
+2022-12-13T04:17:20Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T04:17:31Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:17:47Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T04:17:55Z: CHRCTER ADDED  [ 3429889690] ewwwvivi             a.k.a. curts               
+2022-12-13T04:17:59Z: CHRCTER ADDED  [ 3429889690] ewwwvivi             a.k.a. curts               
+2022-12-13T04:17:59Z: CHRCTER ADDED  [ 3429889690] ewwwvivi             a.k.a. curts               
+2022-12-13T04:18:03Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:18:04Z: CHRCTER ADDED  [ 3429889690] ewwwvivi             a.k.a. curts               
+2022-12-13T04:18:12Z: CHRCTER ADDED  [ 4055859498] lolaloves0392       
+2022-12-13T04:18:14Z: CHRCTER ADDED  [ 3098219176] Jellybox0314        
+2022-12-13T04:18:29Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:18:41Z: CHRCTER ADDED  [ 3429889690] ewwwvivi             a.k.a. curts               
+2022-12-13T04:18:50Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:18:53Z: CHRCTER ADDED  [ 3098219176] Jellybox0314        
+2022-12-13T04:18:56Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:18:56Z: CHRCTER ADDED  [ 3429889690] ewwwvivi             a.k.a. curts               
+2022-12-13T04:19:02Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:19:12Z: CHRCTER ADDED  [ 3650859661] Lettie_rat          
+2022-12-13T04:19:13Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:19:15Z: CHRCTER ADDED  [ 3098219176] Jellybox0314        
+2022-12-13T04:19:23Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:19:27Z: CHRCTER ADDED  [ 4055859498] lolaloves0392       
+2022-12-13T04:19:42Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:19:50Z: CHRCTER ADDED  [ 3098219176] Jellybox0314        
+2022-12-13T04:19:56Z: CHRCTER ADDED  [ 3098219176] Jellybox0314        
+2022-12-13T04:19:58Z: PLAYER REMOVED [ 3650859661] Lettie_rat          
+2022-12-13T04:20:03Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:20:05Z: CHRCTER ADDED  [ 3098219176] Jellybox0314        
+2022-12-13T04:20:12Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:20:15Z: CHRCTER ADDED  [ 3098219176] Jellybox0314        
+2022-12-13T04:20:21Z: PLAYER REMOVED [ 3098219176] Jellybox0314        
+2022-12-13T04:20:22Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:20:25Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:20:27Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:20:29Z: CHRCTER ADDED  [ 3429889690] ewwwvivi             a.k.a. curts               
+2022-12-13T04:20:32Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:20:43Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:20:45Z: CHRCTER ADDED  [ 4055859498] lolaloves0392       
+2022-12-13T04:20:49Z: CHRCTER ADDED  [ 4055859498] lolaloves0392       
+2022-12-13T04:20:50Z: CHRCTER ADDED  [ 4055859498] lolaloves0392       
+2022-12-13T04:21:07Z: CHRCTER ADDED  [ 4055859498] lolaloves0392       
+2022-12-13T04:21:07Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:21:13Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:21:14Z: CHRCTER ADDED  [ 4055859498] lolaloves0392       
+2022-12-13T04:21:18Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:21:25Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:21:32Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-13T04:21:35Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:21:46Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:21:53Z: CHRCTER ADDED  [ 4055859498] lolaloves0392       
+2022-12-13T04:22:00Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:22:05Z: CHRCTER ADDED  [ 3429889690] ewwwvivi             a.k.a. curts               
+2022-12-13T04:22:11Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:22:16Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:22:31Z: CHRCTER ADDED  [ 3429889690] ewwwvivi             a.k.a. curts               
+2022-12-13T04:22:40Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:22:45Z: PLAYER ADDED   [ 2288725462] Aleenyr              a.k.a. Strangerthings      
+2022-12-13T04:22:49Z: PLAYER ADDED   [ 3177014320] Brat_tanyla1         a.k.a. Patrickmahomes      
+2022-12-13T04:22:57Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:23:02Z: PLAYER ADDED   [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:23:06Z: PLAYER REMOVED [ 4055859498] lolaloves0392       
+2022-12-13T04:23:10Z: CHRCTER ADDED  [ 3429889690] ewwwvivi             a.k.a. curts               
+2022-12-13T04:23:14Z: CHRCTER ADDED  [ 3177014320] Brat_tanyla1         a.k.a. Patrickmahomes      
+2022-12-13T04:23:20Z: CHRCTER ADDED  [ 3177014320] Brat_tanyla1         a.k.a. Patrickmahomes      
+2022-12-13T04:23:31Z: CHRCTER ADDED  [ 3429889690] ewwwvivi             a.k.a. curts               
+2022-12-13T04:23:34Z: CHRCTER ADDED  [ 3177014320] Brat_tanyla1         a.k.a. Patrickmahomes      
+2022-12-13T04:23:37Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:23:39Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:23:53Z: CHRCTER ADDED  [ 3177014320] Brat_tanyla1         a.k.a. Patrickmahomes      
+2022-12-13T04:23:56Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:24:00Z: CHRCTER ADDED  [ 2288725462] Aleenyr              a.k.a. Strangerthings      
+2022-12-13T04:24:01Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:24:03Z: CHRCTER ADDED  [ 2288725462] Aleenyr              a.k.a. Strangerthings      
+2022-12-13T04:24:03Z: CHRCTER ADDED  [ 2288725462] Aleenyr              a.k.a. Strangerthings      
+2022-12-13T04:24:19Z: CHRCTER ADDED  [ 3429889690] ewwwvivi             a.k.a. curts               
+2022-12-13T04:24:20Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:24:21Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:24:22Z: CHRCTER ADDED  [ 3177014320] Brat_tanyla1         a.k.a. Patrickmahomes      
+2022-12-13T04:24:23Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:24:24Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:24:25Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:24:27Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:24:27Z: CHRCTER ADDED  [ 3177014320] Brat_tanyla1         a.k.a. Patrickmahomes      
+2022-12-13T04:24:28Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:24:31Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:24:32Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:24:34Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:24:36Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:24:39Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:24:40Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:24:40Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:24:43Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:24:46Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:24:46Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:24:47Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:24:49Z: CHRCTER ADDED  [ 3177014320] Brat_tanyla1         a.k.a. Patrickmahomes      
+2022-12-13T04:24:54Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:24:57Z: CHRCTER ADDED  [ 3177014320] Brat_tanyla1         a.k.a. Patrickmahomes      
+2022-12-13T04:25:03Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:25:05Z: CHRCTER ADDED  [ 3177014320] Brat_tanyla1         a.k.a. Patrickmahomes      
+2022-12-13T04:25:06Z: CHRCTER ADDED  [ 2288725462] Aleenyr              a.k.a. Strangerthings      
+2022-12-13T04:25:10Z: CHRCTER ADDED  [ 3429889690] ewwwvivi             a.k.a. curts               
+2022-12-13T04:25:13Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:25:13Z: CHRCTER ADDED  [ 3177014320] Brat_tanyla1         a.k.a. Patrickmahomes      
+2022-12-13T04:25:23Z: CHRCTER ADDED  [ 2288725462] Aleenyr              a.k.a. Strangerthings      
+2022-12-13T04:25:26Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:25:31Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:25:32Z: CHRCTER ADDED  [ 3177014320] Brat_tanyla1         a.k.a. Patrickmahomes      
+2022-12-13T04:25:55Z: PLAYER CHATTED [ 3206716206] Stevepg1313          (  -56.0,    23.5,   215.5)
+  That’s all me!!! Yo
+2022-12-13T04:26:05Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:26:13Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:26:17Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:26:26Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:26:28Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:26:35Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:26:39Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:26:42Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:26:42Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:26:49Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:26:51Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:26:53Z: CHRCTER ADDED  [ 2288725462] Aleenyr              a.k.a. Strangerthings      
+2022-12-13T04:27:07Z: PLAYER REMOVED [ 3429889690] ewwwvivi             a.k.a. curts               
+2022-12-13T04:27:07Z: PLAYER ADDED   [ 2893700918] BREADPANVENOM        a.k.a. PBX_GOD             
+2022-12-13T04:27:19Z: PLAYER ADDED   [ 4123022382] Ezequelpogi123      
+2022-12-13T04:27:20Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:27:32Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:27:40Z: CHRCTER ADDED  [ 3177014320] Brat_tanyla1         a.k.a. Patrickmahomes      
+2022-12-13T04:27:48Z: CHRCTER ADDED  [ 4123022382] Ezequelpogi123      
+2022-12-13T04:27:55Z: CHRCTER ADDED  [ 4123022382] Ezequelpogi123      
+2022-12-13T04:28:01Z: PLAYER CHATTED [ 3206716206] Stevepg1313          ( -103.0,    23.5,   216.6)
+  Billionaire
+2022-12-13T04:28:06Z: CHRCTER ADDED  [ 4123022382] Ezequelpogi123      
+2022-12-13T04:28:11Z: CHRCTER ADDED  [ 2893700918] BREADPANVENOM        a.k.a. PBX_GOD             
+2022-12-13T04:28:20Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:28:23Z: CHRCTER ADDED  [ 2893700918] BREADPANVENOM        a.k.a. PBX_GOD             
+2022-12-13T04:28:24Z: CHRCTER ADDED  [ 2288725462] Aleenyr              a.k.a. Strangerthings      
+2022-12-13T04:28:30Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:28:32Z: CHRCTER ADDED  [ 2288725462] Aleenyr              a.k.a. Strangerthings      
+2022-12-13T04:28:36Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:28:37Z: CHRCTER ADDED  [ 3177014320] Brat_tanyla1         a.k.a. Patrickmahomes      
+2022-12-13T04:28:38Z: CHRCTER ADDED  [ 4123022382] Ezequelpogi123      
+2022-12-13T04:28:42Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:28:42Z: PLAYER REMOVED [ 4123022382] Ezequelpogi123      
+2022-12-13T04:28:47Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:28:52Z: CHRCTER ADDED  [ 3177014320] Brat_tanyla1         a.k.a. Patrickmahomes      
+2022-12-13T04:28:53Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:28:55Z: CHRCTER ADDED  [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:28:58Z: PLAYER REMOVED [ 3206716206] Stevepg1313          a.k.a. Peaches             
+2022-12-13T04:28:58Z: CHRCTER ADDED  [ 2893700918] BREADPANVENOM        a.k.a. PBX_GOD             
+2022-12-13T04:29:09Z: CHRCTER ADDED  [ 3177014320] Brat_tanyla1         a.k.a. Patrickmahomes      
+2022-12-13T04:29:10Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:29:28Z: CHRCTER ADDED  [ 2288725462] Aleenyr              a.k.a. Strangerthings      
+2022-12-13T04:29:32Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:29:33Z: CHRCTER ADDED  [ 2893700918] BREADPANVENOM        a.k.a. PBX_GOD             
+2022-12-13T04:29:38Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:29:43Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:29:50Z: CHRCTER ADDED  [ 3177014320] Brat_tanyla1         a.k.a. Patrickmahomes      
+2022-12-13T04:29:52Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:29:54Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:29:59Z: PLAYER ADDED   [ 1137436538] xxXheartbr0kenXxx    a.k.a. her                 
+2022-12-13T04:29:59Z: CHRCTER ADDED  [ 2288725462] Aleenyr              a.k.a. Strangerthings      
+2022-12-13T04:30:00Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:30:10Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:30:12Z: CHRCTER ADDED  [ 2893700918] BREADPANVENOM        a.k.a. PBX_GOD             
+2022-12-13T04:30:18Z: CHRCTER ADDED  [ 2288725462] Aleenyr              a.k.a. Strangerthings      
+2022-12-13T04:30:19Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:30:29Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:30:30Z: CHRCTER ADDED  [ 3177014320] Brat_tanyla1         a.k.a. Patrickmahomes      
+2022-12-13T04:30:38Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:30:55Z: CHRCTER ADDED  [ 1137436538] xxXheartbr0kenXxx    a.k.a. her                 
+2022-12-13T04:30:56Z: CHRCTER ADDED  [ 3177014320] Brat_tanyla1         a.k.a. Patrickmahomes      
+2022-12-13T04:30:58Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:30:58Z: CHRCTER ADDED  [ 2288725462] Aleenyr              a.k.a. Strangerthings      
+2022-12-13T04:31:01Z: CHRCTER ADDED  [ 1137436538] xxXheartbr0kenXxx    a.k.a. her                 
+2022-12-13T04:31:02Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:31:02Z: CHRCTER ADDED  [ 3177014320] Brat_tanyla1         a.k.a. Patrickmahomes      
+2022-12-13T04:31:05Z: CHRCTER ADDED  [ 1137436538] xxXheartbr0kenXxx    a.k.a. her                 
+2022-12-13T04:31:05Z: CHRCTER ADDED  [ 1137436538] xxXheartbr0kenXxx    a.k.a. her                 
+2022-12-13T04:31:06Z: CHRCTER ADDED  [ 3177014320] Brat_tanyla1         a.k.a. Patrickmahomes      
+2022-12-13T04:31:07Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:31:10Z: CHRCTER ADDED  [ 1137436538] xxXheartbr0kenXxx    a.k.a. her                 
+2022-12-13T04:31:11Z: CHRCTER ADDED  [ 3177014320] Brat_tanyla1         a.k.a. Patrickmahomes      
+2022-12-13T04:31:13Z: CHRCTER ADDED  [ 1137436538] xxXheartbr0kenXxx    a.k.a. her                 
+2022-12-13T04:31:13Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:31:13Z: CHRCTER ADDED  [ 2288725462] Aleenyr              a.k.a. Strangerthings      
+2022-12-13T04:31:16Z: CHRCTER ADDED  [ 1137436538] xxXheartbr0kenXxx    a.k.a. her                 
+2022-12-13T04:31:24Z: CHRCTER ADDED  [ 1137436538] xxXheartbr0kenXxx    a.k.a. her                 
+2022-12-13T04:31:26Z: CHRCTER ADDED  [ 3177014320] Brat_tanyla1         a.k.a. Patrickmahomes      
+2022-12-13T04:31:30Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:31:30Z: CHRCTER ADDED  [ 3177014320] Brat_tanyla1         a.k.a. Patrickmahomes      
+2022-12-13T04:31:30Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:31:30Z: CHRCTER ADDED  [ 3177014320] Brat_tanyla1         a.k.a. Patrickmahomes      
+2022-12-13T04:31:38Z: CHRCTER ADDED  [ 2288725462] Aleenyr              a.k.a. Strangerthings      
+2022-12-13T04:31:38Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:31:42Z: CHRCTER ADDED  [ 3177014320] Brat_tanyla1         a.k.a. Patrickmahomes      
+2022-12-13T04:31:47Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:31:49Z: CHRCTER ADDED  [ 2893700918] BREADPANVENOM        a.k.a. PBX_GOD             
+2022-12-13T04:31:51Z: CHRCTER ADDED  [ 2288725462] Aleenyr              a.k.a. Strangerthings      
+2022-12-13T04:31:55Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:31:57Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:31:58Z: CHRCTER ADDED  [ 2893700918] BREADPANVENOM        a.k.a. PBX_GOD             
+2022-12-13T04:32:08Z: CHRCTER ADDED  [ 2288725462] Aleenyr              a.k.a. Strangerthings      
+2022-12-13T04:32:20Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:32:21Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:32:22Z: CHRCTER ADDED  [ 3177014320] Brat_tanyla1         a.k.a. Patrickmahomes      
+2022-12-13T04:32:22Z: CHRCTER ADDED  [ 2893700918] BREADPANVENOM        a.k.a. PBX_GOD             
+2022-12-13T04:32:29Z: CHRCTER ADDED  [ 1137436538] xxXheartbr0kenXxx    a.k.a. her                 
+2022-12-13T04:32:30Z: CHRCTER ADDED  [ 3177014320] Brat_tanyla1         a.k.a. Patrickmahomes      
+2022-12-13T04:32:30Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:32:33Z: CHRCTER ADDED  [ 1137436538] xxXheartbr0kenXxx    a.k.a. her                 
+2022-12-13T04:32:33Z: CHRCTER ADDED  [ 1137436538] xxXheartbr0kenXxx    a.k.a. her                 
+2022-12-13T04:32:35Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:32:37Z: CHRCTER ADDED  [ 1137436538] xxXheartbr0kenXxx    a.k.a. her                 
+2022-12-13T04:32:38Z: CHRCTER ADDED  [ 2288725462] Aleenyr              a.k.a. Strangerthings      
+2022-12-13T04:32:49Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:33:01Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:33:04Z: CHRCTER ADDED  [ 2288725462] Aleenyr              a.k.a. Strangerthings      
+2022-12-13T04:33:09Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:33:19Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:33:23Z: CHRCTER ADDED  [ 2893700918] BREADPANVENOM        a.k.a. PBX_GOD             
+2022-12-13T04:33:28Z: PLAYER REMOVED [ 2893700918] BREADPANVENOM        a.k.a. PBX_GOD             
+2022-12-13T04:33:28Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:33:29Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:33:34Z: CHRCTER ADDED  [ 3177014320] Brat_tanyla1         a.k.a. Patrickmahomes      
+2022-12-13T04:33:41Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:33:46Z: CHRCTER ADDED  [ 3177014320] Brat_tanyla1         a.k.a. Patrickmahomes      
+2022-12-13T04:33:46Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:33:48Z: CHRCTER ADDED  [ 2288725462] Aleenyr              a.k.a. Strangerthings      
+2022-12-13T04:33:54Z: CHRCTER ADDED  [ 3177014320] Brat_tanyla1         a.k.a. Patrickmahomes      
+2022-12-13T04:33:55Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:33:56Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-13T04:34:03Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:34:05Z: CHRCTER ADDED  [ 3177014320] Brat_tanyla1         a.k.a. Patrickmahomes      
+2022-12-13T04:34:18Z: CHRCTER ADDED  [ 3177014320] Brat_tanyla1         a.k.a. Patrickmahomes      
+2022-12-13T04:34:20Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-13T04:34:21Z: CHRCTER ADDED  [ 3177014320] Brat_tanyla1         a.k.a. Patrickmahomes      
+2022-12-13T04:34:22Z: CHRCTER ADDED  [ 3177014320] Brat_tanyla1         a.k.a. Patrickmahomes      
+2022-12-13T04:34:24Z: PLAYER REMOVED [ 1137436538] xxXheartbr0kenXxx    a.k.a. her                 
+2022-12-13T04:34:30Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:34:31Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:34:44Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:35:01Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:35:03Z: CHRCTER ADDED  [ 2288725462] Aleenyr              a.k.a. Strangerthings      
+2022-12-13T04:35:09Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:35:17Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:35:21Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:35:25Z: CHRCTER ADDED  [ 2288725462] Aleenyr              a.k.a. Strangerthings      
+2022-12-13T04:35:29Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:35:37Z: CHRCTER ADDED  [ 3177014320] Brat_tanyla1         a.k.a. Patrickmahomes      
+2022-12-13T04:35:43Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:35:50Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:35:54Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:36:02Z: CHRCTER ADDED  [ 3177014320] Brat_tanyla1         a.k.a. Patrickmahomes      
+2022-12-13T04:36:07Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:36:23Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:36:29Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:36:35Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:36:41Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:36:43Z: CHRCTER ADDED  [ 2288725462] Aleenyr              a.k.a. Strangerthings      
+2022-12-13T04:37:05Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:37:05Z: CHRCTER ADDED  [ 3177014320] Brat_tanyla1         a.k.a. Patrickmahomes      
+2022-12-13T04:37:09Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:37:13Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:37:14Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:37:16Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:37:17Z: CHRCTER ADDED  [ 2288725462] Aleenyr              a.k.a. Strangerthings      
+2022-12-13T04:37:22Z: PLAYER ADDED   [ 3560949462] icelolo716           a.k.a. Icelolo716          
+2022-12-13T04:37:28Z: PLAYER ADDED   [ 3245308700] onlyjayme            a.k.a. jayme               
+2022-12-13T04:37:29Z: PLAYER REMOVED [ 3177014320] Brat_tanyla1         a.k.a. Patrickmahomes      
+2022-12-13T04:37:32Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:37:35Z: PLAYER ADDED   [ 3580438782] Katey_cutegirl       a.k.a. Kimmy               
+2022-12-13T04:38:04Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:38:18Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:38:32Z: PLAYER REMOVED [ 3580438782] Katey_cutegirl       a.k.a. Kimmy               
+2022-12-13T04:38:32Z: CHRCTER ADDED  [ 2288725462] Aleenyr              a.k.a. Strangerthings      
+2022-12-13T04:38:44Z: CHRCTER ADDED  [ 3245308700] onlyjayme            a.k.a. jayme               
+2022-12-13T04:38:57Z: PLAYER ADDED   [ 3967254136] TheBlueEyedPerson    a.k.a. Obama               
+2022-12-13T04:39:04Z: CHRCTER ADDED  [ 3245308700] onlyjayme            a.k.a. jayme               
+2022-12-13T04:39:17Z: CHRCTER ADDED  [ 3245308700] onlyjayme            a.k.a. jayme               
+2022-12-13T04:39:25Z: CHRCTER ADDED  [ 3245308700] onlyjayme            a.k.a. jayme               
+2022-12-13T04:39:35Z: CHRCTER ADDED  [ 2288725462] Aleenyr              a.k.a. Strangerthings      
+2022-12-13T04:39:45Z: CHRCTER ADDED  [ 3560949462] icelolo716           a.k.a. Icelolo716          
+2022-12-13T04:39:48Z: CHRCTER ADDED  [ 2288725462] Aleenyr              a.k.a. Strangerthings      
+2022-12-13T04:39:48Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:39:51Z: CHRCTER ADDED  [ 3560949462] icelolo716           a.k.a. Icelolo716          
+2022-12-13T04:39:56Z: CHRCTER ADDED  [ 3560949462] icelolo716           a.k.a. Icelolo716          
+2022-12-13T04:40:00Z: CHRCTER ADDED  [ 3560949462] icelolo716           a.k.a. Icelolo716          
+2022-12-13T04:40:03Z: CHRCTER ADDED  [ 3245308700] onlyjayme            a.k.a. jayme               
+2022-12-13T04:40:12Z: CHRCTER ADDED  [ 3245308700] onlyjayme            a.k.a. jayme               
+2022-12-13T04:40:16Z: CHRCTER ADDED  [ 3245308700] onlyjayme            a.k.a. jayme               
+2022-12-13T04:40:16Z: CHRCTER ADDED  [ 3245308700] onlyjayme            a.k.a. jayme               
+2022-12-13T04:40:20Z: CHRCTER ADDED  [ 3245308700] onlyjayme            a.k.a. jayme               
+2022-12-13T04:40:26Z: CHRCTER ADDED  [ 3245308700] onlyjayme            a.k.a. jayme               
+2022-12-13T04:40:26Z: CHRCTER ADDED  [ 3245308700] onlyjayme            a.k.a. jayme               
+2022-12-13T04:40:29Z: CHRCTER ADDED  [ 3245308700] onlyjayme            a.k.a. jayme               
+2022-12-13T04:40:30Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:40:31Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:40:34Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:40:34Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:40:40Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:40:41Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:40:51Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:40:51Z: CHRCTER ADDED  [ 3245308700] onlyjayme            a.k.a. jayme               
+2022-12-13T04:40:55Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:40:59Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:41:03Z: CHRCTER ADDED  [ 3967254136] TheBlueEyedPerson    a.k.a. Obama               
+2022-12-13T04:41:05Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:41:07Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:41:11Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:41:11Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:41:11Z: CHRCTER ADDED  [ 3967254136] TheBlueEyedPerson    a.k.a. Obama               
+2022-12-13T04:41:15Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:41:15Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:41:16Z: CHRCTER ADDED  [ 3245308700] onlyjayme            a.k.a. jayme               
+2022-12-13T04:41:25Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:41:27Z: CHRCTER ADDED  [ 3967254136] TheBlueEyedPerson    a.k.a. Obama               
+2022-12-13T04:41:29Z: CHRCTER ADDED  [ 3245308700] onlyjayme            a.k.a. jayme               
+2022-12-13T04:41:34Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:41:40Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:41:44Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:41:45Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:41:49Z: CHRCTER ADDED  [ 2288725462] Aleenyr              a.k.a. Strangerthings      
+2022-12-13T04:41:53Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:41:57Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:41:57Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:42:01Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:42:02Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:42:03Z: CHRCTER ADDED  [ 3245308700] onlyjayme            a.k.a. jayme               
+2022-12-13T04:42:04Z: CHRCTER ADDED  [ 3560949462] icelolo716           a.k.a. Icelolo716          
+2022-12-13T04:42:04Z: CHRCTER ADDED  [ 2288725462] Aleenyr              a.k.a. Strangerthings      
+2022-12-13T04:42:08Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:42:09Z: PLAYER REMOVED [ 3560949462] icelolo716           a.k.a. Icelolo716          
+2022-12-13T04:42:11Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:42:13Z: CHRCTER ADDED  [ 2288725462] Aleenyr              a.k.a. Strangerthings      
+2022-12-13T04:42:14Z: PLAYER ADDED   [ 3324012075] Kimberly_jukilop22   a.k.a. Iheartmyself        
+2022-12-13T04:42:32Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:42:38Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:42:39Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:42:46Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:42:47Z: CHRCTER ADDED  [ 3324012075] Kimberly_jukilop22   a.k.a. Iheartmyself        
+2022-12-13T04:42:48Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:42:51Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:43:10Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:43:15Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:43:22Z: CHRCTER ADDED  [ 3245308700] onlyjayme            a.k.a. jayme               
+2022-12-13T04:43:46Z: CHRCTER ADDED  [ 3967254136] TheBlueEyedPerson    a.k.a. Obama               
+2022-12-13T04:43:49Z: CHRCTER ADDED  [ 3967254136] TheBlueEyedPerson    a.k.a. Obama               
+2022-12-13T04:43:53Z: CHRCTER ADDED  [ 3967254136] TheBlueEyedPerson    a.k.a. Obama               
+2022-12-13T04:43:55Z: CHRCTER ADDED  [ 3245308700] onlyjayme            a.k.a. jayme               
+2022-12-13T04:43:57Z: CHRCTER ADDED  [ 2288725462] Aleenyr              a.k.a. Strangerthings      
+2022-12-13T04:43:59Z: CHRCTER ADDED  [ 3967254136] TheBlueEyedPerson    a.k.a. Obama               
+2022-12-13T04:43:59Z: PLAYER REMOVED [ 2288725462] Aleenyr              a.k.a. Strangerthings      
+2022-12-13T04:43:59Z: CHRCTER ADDED  [ 3245308700] onlyjayme            a.k.a. jayme               
+2022-12-13T04:43:59Z: CHRCTER ADDED  [ 3245308700] onlyjayme            a.k.a. jayme               
+2022-12-13T04:44:04Z: CHRCTER ADDED  [ 3245308700] onlyjayme            a.k.a. jayme               
+2022-12-13T04:44:06Z: CHRCTER ADDED  [ 3245308700] onlyjayme            a.k.a. jayme               
+2022-12-13T04:44:10Z: CHRCTER ADDED  [ 3967254136] TheBlueEyedPerson    a.k.a. Obama               
+2022-12-13T04:44:12Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:44:13Z: CHRCTER ADDED  [ 3245308700] onlyjayme            a.k.a. jayme               
+2022-12-13T04:44:17Z: CHRCTER ADDED  [ 3245308700] onlyjayme            a.k.a. jayme               
+2022-12-13T04:44:17Z: CHRCTER ADDED  [ 3245308700] onlyjayme            a.k.a. jayme               
+2022-12-13T04:44:22Z: CHRCTER ADDED  [ 3245308700] onlyjayme            a.k.a. jayme               
+2022-12-13T04:44:26Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:44:30Z: CHRCTER ADDED  [ 3324012075] Kimberly_jukilop22   a.k.a. Iheartmyself        
+2022-12-13T04:44:38Z: CHRCTER ADDED  [ 3324012075] Kimberly_jukilop22   a.k.a. Iheartmyself        
+2022-12-13T04:44:41Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:44:45Z: CHRCTER ADDED  [ 3324012075] Kimberly_jukilop22   a.k.a. Iheartmyself        
+2022-12-13T04:44:49Z: CHRCTER ADDED  [ 3324012075] Kimberly_jukilop22   a.k.a. Iheartmyself        
+2022-12-13T04:44:50Z: CHRCTER ADDED  [ 3324012075] Kimberly_jukilop22   a.k.a. Iheartmyself        
+2022-12-13T04:44:55Z: CHRCTER ADDED  [ 3324012075] Kimberly_jukilop22   a.k.a. Iheartmyself        
+2022-12-13T04:44:59Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:45:01Z: CHRCTER ADDED  [ 3324012075] Kimberly_jukilop22   a.k.a. Iheartmyself        
+2022-12-13T04:45:10Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:45:16Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:45:20Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:45:20Z: CHRCTER ADDED  [ 3324012075] Kimberly_jukilop22   a.k.a. Iheartmyself        
+2022-12-13T04:45:20Z: CHRCTER ADDED  [ 3245308700] onlyjayme            a.k.a. jayme               
+2022-12-13T04:45:23Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:45:24Z: PLAYER ADDED   [ 1470186681] lovemom_kok         
+2022-12-13T04:45:37Z: CHRCTER ADDED  [ 3324012075] Kimberly_jukilop22   a.k.a. Iheartmyself        
+2022-12-13T04:45:43Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:45:47Z: CHRCTER ADDED  [ 3245308700] onlyjayme            a.k.a. jayme               
+2022-12-13T04:45:50Z: CHRCTER ADDED  [ 3324012075] Kimberly_jukilop22   a.k.a. Iheartmyself        
+2022-12-13T04:45:56Z: CHRCTER ADDED  [ 1470186681] lovemom_kok         
+2022-12-13T04:46:03Z: CHRCTER ADDED  [ 3967254136] TheBlueEyedPerson    a.k.a. Obama               
+2022-12-13T04:46:21Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:46:28Z: CHRCTER ADDED  [ 3967254136] TheBlueEyedPerson    a.k.a. Obama               
+2022-12-13T04:46:30Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:46:34Z: CHRCTER ADDED  [ 3245308700] onlyjayme            a.k.a. jayme               
+2022-12-13T04:46:35Z: CHRCTER ADDED  [ 1470186681] lovemom_kok         
+2022-12-13T04:46:36Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:46:43Z: CHRCTER ADDED  [ 3967254136] TheBlueEyedPerson    a.k.a. Obama               
+2022-12-13T04:46:44Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:46:48Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:46:48Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:46:53Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:46:58Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:47:03Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:47:03Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:47:07Z: PLAYER REMOVED [ 3324012075] Kimberly_jukilop22   a.k.a. Iheartmyself        
+2022-12-13T04:47:16Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:47:16Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:47:17Z: CHRCTER ADDED  [ 1470186681] lovemom_kok         
+2022-12-13T04:47:22Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:47:27Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:47:37Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:47:41Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:47:42Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:47:46Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:47:52Z: CHRCTER ADDED  [ 3245308700] onlyjayme            a.k.a. jayme               
+2022-12-13T04:47:53Z: CHRCTER ADDED  [ 3967254136] TheBlueEyedPerson    a.k.a. Obama               
+2022-12-13T04:47:53Z: PLAYER REMOVED [ 3245308700] onlyjayme            a.k.a. jayme               
+2022-12-13T04:47:54Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:47:56Z: CHRCTER ADDED  [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:47:58Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:47:58Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:48:02Z: CHRCTER ADDED  [ 1470186681] lovemom_kok         
+2022-12-13T04:48:03Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:48:08Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:48:13Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:48:42Z: CHRCTER ADDED  [ 3967254136] TheBlueEyedPerson    a.k.a. Obama               
+2022-12-13T04:48:52Z: CHRCTER ADDED  [ 1470186681] lovemom_kok         
+2022-12-13T04:48:55Z: CHRCTER ADDED  [ 3967254136] TheBlueEyedPerson    a.k.a. Obama               
+2022-12-13T04:48:58Z: CHRCTER ADDED  [ 1470186681] lovemom_kok         
+2022-12-13T04:49:01Z: CHRCTER ADDED  [ 3967254136] TheBlueEyedPerson    a.k.a. Obama               
+2022-12-13T04:49:08Z: CHRCTER ADDED  [ 1470186681] lovemom_kok         
+2022-12-13T04:49:09Z: PLAYER ADDED   [ 3909723844] saraqueenprincess12 
+2022-12-13T04:49:15Z: CHRCTER ADDED  [ 3967254136] TheBlueEyedPerson    a.k.a. Obama               
+2022-12-13T04:49:22Z: PLAYER ADDED   [ 3501558599] random_person11511  
+2022-12-13T04:49:29Z: CHRCTER ADDED  [ 3967254136] TheBlueEyedPerson    a.k.a. Obama               
+2022-12-13T04:49:30Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:49:33Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T04:49:35Z: CHRCTER ADDED  [ 3967254136] TheBlueEyedPerson    a.k.a. Obama               
+2022-12-13T04:49:37Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:49:44Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:49:55Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T04:50:03Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T04:50:04Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:50:08Z: PLAYER REMOVED [ 2382576663] Charlie1235567890    a.k.a. HEY                 
+2022-12-13T04:50:14Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:50:17Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T04:50:23Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:50:30Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:50:36Z: PLAYER REMOVED [ 1470186681] lovemom_kok         
+2022-12-13T04:50:45Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:50:52Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:50:54Z: CHRCTER ADDED  [ 3967254136] TheBlueEyedPerson    a.k.a. Obama               
+2022-12-13T04:50:56Z: CHRCTER ADDED  [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:50:57Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:50:58Z: PLAYER REMOVED [ 4098104633] ooeoeieieieiei       a.k.a. Jayden              
+2022-12-13T04:50:58Z: CHRCTER ADDED  [ 3967254136] TheBlueEyedPerson    a.k.a. Obama               
+2022-12-13T04:50:59Z: CHRCTER ADDED  [ 3967254136] TheBlueEyedPerson    a.k.a. Obama               
+2022-12-13T04:51:01Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T04:51:03Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:51:06Z: CHRCTER ADDED  [ 3967254136] TheBlueEyedPerson    a.k.a. Obama               
+2022-12-13T04:51:07Z: PLAYER ADDED   [ 4111451154] TheGreenHuman23      a.k.a. BaconHair           
+2022-12-13T04:51:10Z: CHRCTER ADDED  [ 3967254136] TheBlueEyedPerson    a.k.a. Obama               
+2022-12-13T04:51:10Z: CHRCTER ADDED  [ 3967254136] TheBlueEyedPerson    a.k.a. Obama               
+2022-12-13T04:51:13Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:51:14Z: CHRCTER ADDED  [ 3967254136] TheBlueEyedPerson    a.k.a. Obama               
+2022-12-13T04:51:20Z: CHRCTER ADDED  [ 3967254136] TheBlueEyedPerson    a.k.a. Obama               
+2022-12-13T04:51:20Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:51:24Z: CHRCTER ADDED  [ 3967254136] TheBlueEyedPerson    a.k.a. Obama               
+2022-12-13T04:51:26Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:51:27Z: CHRCTER ADDED  [ 3967254136] TheBlueEyedPerson    a.k.a. Obama               
+2022-12-13T04:51:29Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:51:33Z: CHRCTER ADDED  [ 3967254136] TheBlueEyedPerson    a.k.a. Obama               
+2022-12-13T04:51:35Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:51:50Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:51:53Z: PLAYER REMOVED [ 4111451154] TheGreenHuman23      a.k.a. BaconHair           
+2022-12-13T04:51:53Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:52:06Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:52:16Z: PLAYER ADDED   [ 4111451154] TheGreenHuman23      a.k.a. BaconHair           
+2022-12-13T04:52:56Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T04:53:15Z: PLAYER REMOVED [ 3967254136] TheBlueEyedPerson    a.k.a. Obama               
+2022-12-13T04:53:32Z: CHRCTER ADDED  [ 4111451154] TheGreenHuman23      a.k.a. BaconHair           
+2022-12-13T04:53:35Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:53:44Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:53:49Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:54:00Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:54:51Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:55:13Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:55:17Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:55:17Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:55:22Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:55:32Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T04:55:35Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:55:40Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:55:47Z: PLAYER REMOVED [ 4111451154] TheGreenHuman23      a.k.a. BaconHair           
+2022-12-13T04:55:56Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T04:55:58Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:56:08Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T04:56:17Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:56:18Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T04:56:24Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:56:28Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:56:29Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:56:30Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T04:56:39Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T04:56:40Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:56:44Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:56:45Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:56:56Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T04:57:05Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:57:26Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:57:28Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T04:57:29Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:57:30Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:57:36Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T04:57:42Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T04:57:46Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T04:57:56Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T04:58:00Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:58:07Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T04:58:25Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:58:25Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T04:58:36Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:58:43Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:58:53Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T04:59:08Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T04:59:10Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:59:11Z: PLAYER ADDED   [ 2866594700] toothbrusher6789    
+2022-12-13T04:59:20Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:59:21Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T04:59:24Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:59:24Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:59:28Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T04:59:30Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T04:59:52Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:00:06Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:00:07Z: PLAYER ADDED   [ 3320747275] sophielovesflaming  
+2022-12-13T05:00:17Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:00:21Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T05:00:31Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:00:44Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:00:57Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:00:59Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T05:01:06Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:01:27Z: CHRCTER ADDED  [ 3320747275] sophielovesflaming  
+2022-12-13T05:01:39Z: CHRCTER ADDED  [ 3320747275] sophielovesflaming  
+2022-12-13T05:01:40Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:01:46Z: CHRCTER ADDED  [ 3320747275] sophielovesflaming  
+2022-12-13T05:01:51Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:01:56Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T05:02:01Z: CHRCTER ADDED  [ 3320747275] sophielovesflaming  
+2022-12-13T05:02:06Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:02:10Z: CHRCTER ADDED  [ 2866594700] toothbrusher6789    
+2022-12-13T05:02:11Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:02:16Z: PLAYER ADDED   [ 2715664332] Henrythebest36       a.k.a. Unicornthebest22    
+2022-12-13T05:02:35Z: CHRCTER ADDED  [ 2866594700] toothbrusher6789    
+2022-12-13T05:02:43Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T05:02:49Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:02:52Z: CHRCTER ADDED  [ 2866594700] toothbrusher6789    
+2022-12-13T05:03:00Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:03:08Z: CHRCTER ADDED  [ 2715664332] Henrythebest36       a.k.a. Unicornthebest22    
+2022-12-13T05:03:17Z: CHRCTER ADDED  [ 2715664332] Henrythebest36       a.k.a. Unicornthebest22    
+2022-12-13T05:03:23Z: PLAYER ADDED   [ 3760534179] hyeseoi             
+2022-12-13T05:03:28Z: CHRCTER ADDED  [ 2715664332] Henrythebest36       a.k.a. Unicornthebest22    
+2022-12-13T05:03:35Z: CHRCTER ADDED  [ 2866594700] toothbrusher6789    
+2022-12-13T05:03:37Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:03:39Z: CHRCTER ADDED  [ 3320747275] sophielovesflaming  
+2022-12-13T05:03:43Z: CHRCTER ADDED  [ 2715664332] Henrythebest36       a.k.a. Unicornthebest22    
+2022-12-13T05:03:47Z: PLAYER REMOVED [ 2715664332] Henrythebest36       a.k.a. Unicornthebest22    
+2022-12-13T05:03:48Z: CHRCTER ADDED  [ 3320747275] sophielovesflaming  
+2022-12-13T05:03:49Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:03:52Z: CHRCTER ADDED  [ 3320747275] sophielovesflaming  
+2022-12-13T05:03:58Z: CHRCTER ADDED  [ 3320747275] sophielovesflaming  
+2022-12-13T05:04:01Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T05:04:03Z: CHRCTER ADDED  [ 3320747275] sophielovesflaming  
+2022-12-13T05:04:07Z: CHRCTER ADDED  [ 3320747275] sophielovesflaming  
+2022-12-13T05:04:08Z: CHRCTER ADDED  [ 3320747275] sophielovesflaming  
+2022-12-13T05:04:09Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T05:04:12Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T05:04:17Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:04:24Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T05:04:28Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T05:04:29Z: CHRCTER ADDED  [ 2866594700] toothbrusher6789    
+2022-12-13T05:04:30Z: PLAYER ADDED   [ 3751400621] Kaydence8363         a.k.a. Lovecapybaras       
+2022-12-13T05:04:37Z: CHRCTER ADDED  [ 3760534179] hyeseoi             
+2022-12-13T05:04:51Z: CHRCTER ADDED  [ 3320747275] sophielovesflaming  
+2022-12-13T05:04:56Z: CHRCTER ADDED  [ 3320747275] sophielovesflaming  
+2022-12-13T05:04:56Z: CHRCTER ADDED  [ 3751400621] Kaydence8363         a.k.a. Lovecapybaras       
+2022-12-13T05:05:02Z: CHRCTER ADDED  [ 3320747275] sophielovesflaming  
+2022-12-13T05:05:08Z: CHRCTER ADDED  [ 3320747275] sophielovesflaming  
+2022-12-13T05:05:14Z: CHRCTER ADDED  [ 3320747275] sophielovesflaming  
+2022-12-13T05:05:17Z: CHRCTER ADDED  [ 2866594700] toothbrusher6789    
+2022-12-13T05:05:19Z: CHRCTER ADDED  [ 3320747275] sophielovesflaming  
+2022-12-13T05:05:23Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T05:05:25Z: CHRCTER ADDED  [ 3320747275] sophielovesflaming  
+2022-12-13T05:05:27Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:05:39Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:05:46Z: CHRCTER ADDED  [ 3320747275] sophielovesflaming  
+2022-12-13T05:06:01Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T05:06:06Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T05:06:12Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:06:20Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:06:36Z: CHRCTER ADDED  [ 3760534179] hyeseoi             
+2022-12-13T05:06:42Z: CHRCTER ADDED  [ 3751400621] Kaydence8363         a.k.a. Lovecapybaras       
+2022-12-13T05:06:49Z: CHRCTER ADDED  [ 3751400621] Kaydence8363         a.k.a. Lovecapybaras       
+2022-12-13T05:06:51Z: CHRCTER ADDED  [ 2866594700] toothbrusher6789    
+2022-12-13T05:06:58Z: CHRCTER ADDED  [ 3760534179] hyeseoi             
+2022-12-13T05:07:13Z: CHRCTER ADDED  [ 3320747275] sophielovesflaming  
+2022-12-13T05:07:13Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:07:15Z: PLAYER CHATTED [ 3751400621] Kaydence8363         (  -83.7,    23.9,   198.1)
+  Go
+2022-12-13T05:07:22Z: CHRCTER ADDED  [ 2866594700] toothbrusher6789    
+2022-12-13T05:07:25Z: CHRCTER ADDED  [ 3751400621] Kaydence8363         a.k.a. Lovecapybaras       
+2022-12-13T05:07:34Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T05:07:49Z: CHRCTER ADDED  [ 3751400621] Kaydence8363         a.k.a. Lovecapybaras       
+2022-12-13T05:07:57Z: CHRCTER ADDED  [ 3751400621] Kaydence8363         a.k.a. Lovecapybaras       
+2022-12-13T05:08:00Z: CHRCTER ADDED  [ 3760534179] hyeseoi             
+2022-12-13T05:08:15Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:08:17Z: CHRCTER ADDED  [ 2866594700] toothbrusher6789    
+2022-12-13T05:08:29Z: CHRCTER ADDED  [ 2866594700] toothbrusher6789    
+2022-12-13T05:08:39Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:08:41Z: CHRCTER ADDED  [ 3751400621] Kaydence8363         a.k.a. Lovecapybaras       
+2022-12-13T05:08:52Z: CHRCTER ADDED  [ 3760534179] hyeseoi             
+2022-12-13T05:08:58Z: CHRCTER ADDED  [ 3751400621] Kaydence8363         a.k.a. Lovecapybaras       
+2022-12-13T05:09:01Z: CHRCTER ADDED  [ 3320747275] sophielovesflaming  
+2022-12-13T05:09:01Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T05:09:06Z: CHRCTER ADDED  [ 2866594700] toothbrusher6789    
+2022-12-13T05:09:06Z: CHRCTER ADDED  [ 3760534179] hyeseoi             
+2022-12-13T05:09:07Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T05:09:07Z: CHRCTER ADDED  [ 3320747275] sophielovesflaming  
+2022-12-13T05:09:11Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T05:09:11Z: CHRCTER ADDED  [ 3501558599] random_person11511  
+2022-12-13T05:09:12Z: CHRCTER ADDED  [ 3751400621] Kaydence8363         a.k.a. Lovecapybaras       
+2022-12-13T05:09:26Z: CHRCTER ADDED  [ 3751400621] Kaydence8363         a.k.a. Lovecapybaras       
+2022-12-13T05:09:28Z: CHRCTER ADDED  [ 2866594700] toothbrusher6789    
+2022-12-13T05:09:34Z: CHRCTER ADDED  [ 3760534179] hyeseoi             
+2022-12-13T05:09:44Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:09:49Z: CHRCTER ADDED  [ 3760534179] hyeseoi             
+2022-12-13T05:09:49Z: CHRCTER ADDED  [ 3320747275] sophielovesflaming  
+2022-12-13T05:09:50Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:09:53Z: CHRCTER ADDED  [ 3320747275] sophielovesflaming  
+2022-12-13T05:09:54Z: CHRCTER ADDED  [ 3320747275] sophielovesflaming  
+2022-12-13T05:09:57Z: CHRCTER ADDED  [ 3760534179] hyeseoi             
+2022-12-13T05:09:58Z: CHRCTER ADDED  [ 2866594700] toothbrusher6789    
+2022-12-13T05:10:00Z: CHRCTER ADDED  [ 3760534179] hyeseoi             
+2022-12-13T05:10:02Z: CHRCTER ADDED  [ 2866594700] toothbrusher6789    
+2022-12-13T05:10:02Z: CHRCTER ADDED  [ 2866594700] toothbrusher6789    
+2022-12-13T05:10:04Z: CHRCTER ADDED  [ 3760534179] hyeseoi             
+2022-12-13T05:10:05Z: CHRCTER ADDED  [ 2866594700] toothbrusher6789    
+2022-12-13T05:10:07Z: CHRCTER ADDED  [ 3760534179] hyeseoi             
+2022-12-13T05:10:10Z: CHRCTER ADDED  [ 2866594700] toothbrusher6789    
+2022-12-13T05:10:11Z: CHRCTER ADDED  [ 3760534179] hyeseoi             
+2022-12-13T05:10:14Z: CHRCTER ADDED  [ 2866594700] toothbrusher6789    
+2022-12-13T05:10:14Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:10:15Z: CHRCTER ADDED  [ 3760534179] hyeseoi             
+2022-12-13T05:10:15Z: CHRCTER ADDED  [ 3760534179] hyeseoi             
+2022-12-13T05:10:15Z: PLAYER CHATTED [ 3751400621] Kaydence8363         (  -82.5,    25.1,   143.7)
+  Go
+2022-12-13T05:10:18Z: CHRCTER ADDED  [ 3760534179] hyeseoi             
+2022-12-13T05:10:18Z: CHRCTER ADDED  [ 2866594700] toothbrusher6789    
+2022-12-13T05:10:22Z: CHRCTER ADDED  [ 3760534179] hyeseoi             
+2022-12-13T05:10:22Z: CHRCTER ADDED  [ 2866594700] toothbrusher6789    
+2022-12-13T05:10:22Z: CHRCTER ADDED  [ 2866594700] toothbrusher6789    
+2022-12-13T05:10:23Z: CHRCTER ADDED  [ 3760534179] hyeseoi             
+2022-12-13T05:10:23Z: PLAYER REMOVED [ 3501558599] random_person11511  
+2022-12-13T05:10:25Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:10:26Z: CHRCTER ADDED  [ 3760534179] hyeseoi             
+2022-12-13T05:10:26Z: CHRCTER ADDED  [ 2866594700] toothbrusher6789    
+2022-12-13T05:10:29Z: CHRCTER ADDED  [ 3760534179] hyeseoi             
+2022-12-13T05:10:30Z: CHRCTER ADDED  [ 2866594700] toothbrusher6789    
+2022-12-13T05:10:30Z: CHRCTER ADDED  [ 2866594700] toothbrusher6789    
+2022-12-13T05:10:31Z: CHRCTER ADDED  [ 3320747275] sophielovesflaming  
+2022-12-13T05:10:31Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:10:33Z: CHRCTER ADDED  [ 3760534179] hyeseoi             
+2022-12-13T05:10:34Z: CHRCTER ADDED  [ 2866594700] toothbrusher6789    
+2022-12-13T05:10:37Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:10:38Z: CHRCTER ADDED  [ 3320747275] sophielovesflaming  
+2022-12-13T05:10:38Z: CHRCTER ADDED  [ 2866594700] toothbrusher6789    
+2022-12-13T05:10:42Z: CHRCTER ADDED  [ 2866594700] toothbrusher6789    
+2022-12-13T05:10:46Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:10:46Z: CHRCTER ADDED  [ 3760534179] hyeseoi             
+2022-12-13T05:10:49Z: CHRCTER ADDED  [ 2866594700] toothbrusher6789    
+2022-12-13T05:10:50Z: CHRCTER ADDED  [ 3760534179] hyeseoi             
+2022-12-13T05:10:51Z: CHRCTER ADDED  [ 3760534179] hyeseoi             
+2022-12-13T05:10:52Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:10:52Z: CHRCTER ADDED  [ 2866594700] toothbrusher6789    
+2022-12-13T05:10:56Z: CHRCTER ADDED  [ 2866594700] toothbrusher6789    
+2022-12-13T05:10:57Z: PLAYER REMOVED [ 3760534179] hyeseoi             
+2022-12-13T05:11:08Z: CHRCTER ADDED  [ 3320747275] sophielovesflaming  
+2022-12-13T05:11:10Z: CHRCTER ADDED  [ 3751400621] Kaydence8363         a.k.a. Lovecapybaras       
+2022-12-13T05:11:18Z: CHRCTER ADDED  [ 3320747275] sophielovesflaming  
+2022-12-13T05:11:24Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:11:25Z: CHRCTER ADDED  [ 3320747275] sophielovesflaming  
+2022-12-13T05:11:30Z: CHRCTER ADDED  [ 2866594700] toothbrusher6789    
+2022-12-13T05:11:34Z: CHRCTER ADDED  [ 2866594700] toothbrusher6789    
+2022-12-13T05:11:41Z: CHRCTER ADDED  [ 3751400621] Kaydence8363         a.k.a. Lovecapybaras       
+2022-12-13T05:11:47Z: CHRCTER ADDED  [ 2866594700] toothbrusher6789    
+2022-12-13T05:11:51Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:12:37Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:12:54Z: CHRCTER ADDED  [ 3751400621] Kaydence8363         a.k.a. Lovecapybaras       
+2022-12-13T05:12:56Z: CHRCTER ADDED  [ 2866594700] toothbrusher6789    
+2022-12-13T05:12:59Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:13:01Z: CHRCTER ADDED  [ 3320747275] sophielovesflaming  
+2022-12-13T05:13:09Z: CHRCTER ADDED  [ 3320747275] sophielovesflaming  
+2022-12-13T05:13:10Z: CHRCTER ADDED  [ 2866594700] toothbrusher6789    
+2022-12-13T05:13:12Z: CHRCTER ADDED  [ 3751400621] Kaydence8363         a.k.a. Lovecapybaras       
+2022-12-13T05:13:16Z: PLAYER REMOVED [ 3320747275] sophielovesflaming  
+2022-12-13T05:13:19Z: CHRCTER ADDED  [ 2866594700] toothbrusher6789    
+2022-12-13T05:13:44Z: CHRCTER ADDED  [ 3751400621] Kaydence8363         a.k.a. Lovecapybaras       
+2022-12-13T05:13:49Z: CHRCTER ADDED  [ 3751400621] Kaydence8363         a.k.a. Lovecapybaras       
+2022-12-13T05:13:50Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:13:51Z: PLAYER REMOVED [ 3751400621] Kaydence8363         a.k.a. Lovecapybaras       
+2022-12-13T05:13:56Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:14:03Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:14:19Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:14:25Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:14:34Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:14:42Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:14:52Z: CHRCTER ADDED  [ 3909723844] saraqueenprincess12 
+2022-12-13T05:15:10Z: PLAYER REMOVED [ 2866594700] toothbrusher6789    
+2022-12-13T05:16:58Z: PLAYER REMOVED [ 3909723844] saraqueenprincess12 
+2022-12-13T05:19:23Z: PLAYER ADDED   [ 4010585038] lahtinen12          
+2022-12-13T05:20:38Z: PLAYER ADDED   [ 4115971707] Sarah18_87          
+2022-12-13T05:21:11Z: CHRCTER ADDED  [ 4115971707] Sarah18_87          
+2022-12-13T05:21:22Z: CHRCTER ADDED  [ 4010585038] lahtinen12          
+2022-12-13T05:21:26Z: CHRCTER ADDED  [ 4010585038] lahtinen12          
+2022-12-13T05:21:33Z: CHRCTER ADDED  [ 4115971707] Sarah18_87          
+2022-12-13T05:21:54Z: CHRCTER ADDED  [ 4115971707] Sarah18_87          
+2022-12-13T05:21:59Z: PLAYER ADDED   [ 3635731644] my_loveis10          a.k.a. Hinny               
+2022-12-13T05:22:06Z: CHRCTER ADDED  [ 4010585038] lahtinen12          
+2022-12-13T05:22:06Z: CHRCTER ADDED  [ 4115971707] Sarah18_87          
+2022-12-13T05:22:09Z: CHRCTER ADDED  [ 4010585038] lahtinen12          
+2022-12-13T05:22:15Z: PLAYER ADDED   [ 3661799549] vvoirh              
+2022-12-13T05:23:09Z: CHRCTER ADDED  [ 3635731644] my_loveis10          a.k.a. Hinny               
+2022-12-13T05:23:26Z: CHRCTER ADDED  [ 4010585038] lahtinen12          
+2022-12-13T05:23:51Z: CHRCTER ADDED  [ 3635731644] my_loveis10          a.k.a. Hinny               
+2022-12-13T05:24:02Z: CHRCTER ADDED  [ 3661799549] vvoirh              
+2022-12-13T05:24:06Z: PLAYER ADDED   [ 1628450905] katielove1102       
+2022-12-13T05:24:08Z: CHRCTER ADDED  [ 4010585038] lahtinen12          
+2022-12-13T05:24:11Z: CHRCTER ADDED  [ 4010585038] lahtinen12          
+2022-12-13T05:24:15Z: CHRCTER ADDED  [ 3635731644] my_loveis10          a.k.a. Hinny               
+2022-12-13T05:24:16Z: CHRCTER ADDED  [ 3661799549] vvoirh              
+2022-12-13T05:24:26Z: CHRCTER ADDED  [ 3635731644] my_loveis10          a.k.a. Hinny               
+2022-12-13T05:24:27Z: PLAYER ADDED   [ 2629300791] rifygfyr            
+2022-12-13T05:24:29Z: CHRCTER ADDED  [ 4010585038] lahtinen12          
+2022-12-13T05:24:45Z: CHRCTER ADDED  [ 1628450905] katielove1102       
+2022-12-13T05:24:56Z: CHRCTER ADDED  [ 3661799549] vvoirh              
+2022-12-13T05:25:02Z: CHRCTER ADDED  [ 4115971707] Sarah18_87          
+2022-12-13T05:25:12Z: PLAYER REMOVED [ 3661799549] vvoirh              
+2022-12-13T05:25:14Z: CHRCTER ADDED  [ 2629300791] rifygfyr            
+2022-12-13T05:25:22Z: CHRCTER ADDED  [ 4115971707] Sarah18_87          
+2022-12-13T05:25:22Z: CHRCTER ADDED  [ 4010585038] lahtinen12          
+2022-12-13T05:25:25Z: CHRCTER ADDED  [ 3635731644] my_loveis10          a.k.a. Hinny               
+2022-12-13T05:25:44Z: PLAYER ADDED   [ 3265925317] JannahFatihahh      
+2022-12-13T05:25:59Z: CHRCTER ADDED  [ 4010585038] lahtinen12          
+2022-12-13T05:26:01Z: CHRCTER ADDED  [ 3635731644] my_loveis10          a.k.a. Hinny               
+2022-12-13T05:26:02Z: CHRCTER ADDED  [ 4010585038] lahtinen12          
+2022-12-13T05:26:09Z: CHRCTER ADDED  [ 4010585038] lahtinen12          
+2022-12-13T05:26:15Z: CHRCTER ADDED  [ 4010585038] lahtinen12          
+2022-12-13T05:26:17Z: CHRCTER ADDED  [ 4115971707] Sarah18_87          
+2022-12-13T05:26:20Z: CHRCTER ADDED  [ 3635731644] my_loveis10          a.k.a. Hinny               
+2022-12-13T05:26:22Z: CHRCTER ADDED  [ 3265925317] JannahFatihahh      
+2022-12-13T05:26:27Z: CHRCTER ADDED  [ 3635731644] my_loveis10          a.k.a. Hinny               
+2022-12-13T05:26:30Z: CHRCTER ADDED  [ 4010585038] lahtinen12          
+2022-12-13T05:26:36Z: CHRCTER ADDED  [ 4115971707] Sarah18_87          
+2022-12-13T05:26:38Z: CHRCTER ADDED  [ 4010585038] lahtinen12          
+2022-12-13T05:26:44Z: CHRCTER ADDED  [ 4115971707] Sarah18_87          
+2022-12-13T05:26:46Z: CHRCTER ADDED  [ 4010585038] lahtinen12          
+2022-12-13T05:26:49Z: CHRCTER ADDED  [ 1628450905] katielove1102       
+2022-12-13T05:26:49Z: CHRCTER ADDED  [ 3265925317] JannahFatihahh      
+2022-12-13T05:26:52Z: CHRCTER ADDED  [ 3635731644] my_loveis10          a.k.a. Hinny               
+2022-12-13T05:26:53Z: CHRCTER ADDED  [ 4115971707] Sarah18_87          
+2022-12-13T05:26:57Z: CHRCTER ADDED  [ 4115971707] Sarah18_87          
+2022-12-13T05:26:57Z: CHRCTER ADDED  [ 4010585038] lahtinen12          
+2022-12-13T05:26:58Z: CHRCTER ADDED  [ 4115971707] Sarah18_87          
+2022-12-13T05:26:58Z: CHRCTER ADDED  [ 3265925317] JannahFatihahh      
+2022-12-13T05:26:58Z: CHRCTER ADDED  [ 1628450905] katielove1102       
+2022-12-13T05:27:01Z: CHRCTER ADDED  [ 4010585038] lahtinen12          
+2022-12-13T05:27:02Z: CHRCTER ADDED  [ 1628450905] katielove1102       
+2022-12-13T05:27:02Z: CHRCTER ADDED  [ 1628450905] katielove1102       
+2022-12-13T05:27:08Z: CHRCTER ADDED  [ 1628450905] katielove1102       
+2022-12-13T05:27:08Z: CHRCTER ADDED  [ 4115971707] Sarah18_87          
+2022-12-13T05:27:14Z: CHRCTER ADDED  [ 4115971707] Sarah18_87          
+2022-12-13T05:27:17Z: CHRCTER ADDED  [ 3265925317] JannahFatihahh      
+2022-12-13T05:27:19Z: CHRCTER ADDED  [ 4010585038] lahtinen12          
+2022-12-13T05:27:20Z: CHRCTER ADDED  [ 4115971707] Sarah18_87          
+2022-12-13T05:27:24Z: CHRCTER ADDED  [ 4115971707] Sarah18_87          
+2022-12-13T05:27:24Z: CHRCTER ADDED  [ 4115971707] Sarah18_87          
+2022-12-13T05:27:33Z: CHRCTER ADDED  [ 1628450905] katielove1102       
+2022-12-13T05:27:34Z: CHRCTER ADDED  [ 4115971707] Sarah18_87          
+2022-12-13T05:27:36Z: PLAYER REMOVED [ 4010585038] lahtinen12          
+2022-12-13T05:27:36Z: CHRCTER ADDED  [ 4115971707] Sarah18_87          
+2022-12-13T05:27:38Z: CHRCTER ADDED  [ 1628450905] katielove1102       
+2022-12-13T05:27:41Z: CHRCTER ADDED  [ 4115971707] Sarah18_87          
+2022-12-13T05:27:47Z: CHRCTER ADDED  [ 4115971707] Sarah18_87          
+2022-12-13T05:27:50Z: CHRCTER ADDED  [ 1628450905] katielove1102       
+2022-12-13T05:27:51Z: CHRCTER ADDED  [ 3265925317] JannahFatihahh      
+2022-12-13T05:27:54Z: CHRCTER ADDED  [ 1628450905] katielove1102       
+2022-12-13T05:27:55Z: CHRCTER ADDED  [ 1628450905] katielove1102       
+2022-12-13T05:27:56Z: CHRCTER ADDED  [ 4115971707] Sarah18_87          
+2022-12-13T05:27:58Z: CHRCTER ADDED  [ 1628450905] katielove1102       
+2022-12-13T05:27:59Z: PLAYER REMOVED [ 4115971707] Sarah18_87          
+2022-12-13T05:28:06Z: CHRCTER ADDED  [ 3635731644] my_loveis10          a.k.a. Hinny               
+2022-12-13T05:28:12Z: CHRCTER ADDED  [ 3635731644] my_loveis10          a.k.a. Hinny               
+2022-12-13T05:28:23Z: CHRCTER ADDED  [ 3265925317] JannahFatihahh      
+2022-12-13T05:28:29Z: CHRCTER ADDED  [ 3265925317] JannahFatihahh      
+2022-12-13T05:28:37Z: CHRCTER ADDED  [ 2629300791] rifygfyr            
+2022-12-13T05:28:44Z: CHRCTER ADDED  [ 3265925317] JannahFatihahh      
+2022-12-13T05:28:45Z: CHRCTER ADDED  [ 1628450905] katielove1102       
+2022-12-13T05:28:48Z: CHRCTER ADDED  [ 2629300791] rifygfyr            
+2022-12-13T05:28:48Z: CHRCTER ADDED  [ 3635731644] my_loveis10          a.k.a. Hinny               
+2022-12-13T05:28:56Z: CHRCTER ADDED  [ 3635731644] my_loveis10          a.k.a. Hinny               
+2022-12-13T05:28:57Z: CHRCTER ADDED  [ 3265925317] JannahFatihahh      
+2022-12-13T05:29:15Z: CHRCTER ADDED  [ 3635731644] my_loveis10          a.k.a. Hinny               
+2022-12-13T05:29:34Z: CHRCTER ADDED  [ 3265925317] JannahFatihahh      
+2022-12-13T05:29:44Z: PLAYER ADDED   [ 3520563916] syaiful3004         
+2022-12-13T05:29:53Z: CHRCTER ADDED  [ 3265925317] JannahFatihahh      
+2022-12-13T05:29:55Z: CHRCTER ADDED  [ 3635731644] my_loveis10          a.k.a. Hinny               
+2022-12-13T05:30:04Z: CHRCTER ADDED  [ 3265925317] JannahFatihahh      
+2022-12-13T05:30:15Z: CHRCTER ADDED  [ 3635731644] my_loveis10          a.k.a. Hinny               
+2022-12-13T05:30:26Z: CHRCTER ADDED  [ 3520563916] syaiful3004         
+2022-12-13T05:30:38Z: CHRCTER ADDED  [ 3635731644] my_loveis10          a.k.a. Hinny               
+2022-12-13T05:30:43Z: CHRCTER ADDED  [ 2629300791] rifygfyr            
+2022-12-13T05:30:44Z: CHRCTER ADDED  [ 3265925317] JannahFatihahh      
+2022-12-13T05:30:51Z: PLAYER REMOVED [ 1628450905] katielove1102       
+2022-12-13T05:30:51Z: CHRCTER ADDED  [ 2629300791] rifygfyr            
+2022-12-13T05:30:58Z: CHRCTER ADDED  [ 3635731644] my_loveis10          a.k.a. Hinny               
+2022-12-13T05:31:00Z: CHRCTER ADDED  [ 3520563916] syaiful3004         
+2022-12-13T05:31:41Z: CHRCTER ADDED  [ 2629300791] rifygfyr            
+2022-12-13T05:31:51Z: CHRCTER ADDED  [ 3520563916] syaiful3004         
+2022-12-13T05:32:01Z: CHRCTER ADDED  [ 3520563916] syaiful3004         
+2022-12-13T05:32:23Z: CHRCTER ADDED  [ 3635731644] my_loveis10          a.k.a. Hinny               
+2022-12-13T05:32:41Z: CHRCTER ADDED  [ 3265925317] JannahFatihahh      
+2022-12-13T05:32:45Z: CHRCTER ADDED  [ 2629300791] rifygfyr            
+2022-12-13T05:32:53Z: CHRCTER ADDED  [ 3520563916] syaiful3004         
+2022-12-13T05:33:11Z: CHRCTER ADDED  [ 3520563916] syaiful3004         
+2022-12-13T05:33:17Z: CHRCTER ADDED  [ 3520563916] syaiful3004         
+2022-12-13T05:33:51Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

@@ -1,0 +1,81 @@
+[    1630228] : [10033751448] [☢NUKE!] 🔨 Build and Battle! - 0891a194-71ab-4894-a63e-afab9c93a001
+2022-12-18T08:49:00Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-12-18T08:49:00Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-18T08:49:00Z: PLAYER ADDED   [ 3091487154] kiarilupe1           a.k.a. TEVITANUMBER1       
+2022-12-18T08:49:00Z: PLAYER ADDED   [ 3167240501] BrayBray2814         a.k.a. Isabella            
+2022-12-18T08:50:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (   27.4,    24.5,    35.2)
+  :clear
+2022-12-18T08:51:15Z: PLAYER REMOVED [ 3167240501] BrayBray2814         a.k.a. Isabella            
+2022-12-18T08:51:18Z: CHRCTER ADDED  [ 3091487154] kiarilupe1           a.k.a. TEVITANUMBER1       
+2022-12-18T08:51:44Z: CHRCTER ADDED  [ 3091487154] kiarilupe1           a.k.a. TEVITANUMBER1       
+2022-12-18T08:52:23Z: CHRCTER ADDED  [ 3091487154] kiarilupe1           a.k.a. TEVITANUMBER1       
+2022-12-18T08:52:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (    7.9,    52.5,    17.6)
+  Next time,
+2022-12-18T08:52:29Z: PLAYER CHATTED [    1630228] VisualPlugin         (    7.9,    52.5,    17.6)
+  Attack me as I'm flying.
+2022-12-18T08:52:43Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-18T08:52:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (   42.0,    24.9,   -42.0)
+  Congrats!
+2022-12-18T08:53:02Z: CHRCTER ADDED  [ 3091487154] kiarilupe1           a.k.a. TEVITANUMBER1       
+2022-12-18T08:54:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -61.2,    24.5,   105.6)
+  Sorry!
+2022-12-18T08:54:46Z: CHRCTER ADDED  [ 3091487154] kiarilupe1           a.k.a. TEVITANUMBER1       
+2022-12-18T08:55:19Z: CHRCTER ADDED  [ 3091487154] kiarilupe1           a.k.a. TEVITANUMBER1       
+2022-12-18T08:55:39Z: PLAYER ADDED   [ 2964619343] windy8102            a.k.a. Alejandro           
+2022-12-18T08:55:45Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-18T08:55:45Z: CHRCTER ADDED  [ 3091487154] kiarilupe1           a.k.a. TEVITANUMBER1       
+2022-12-18T08:56:00Z: PLAYER ADDED   [ 2216483290] caxarok_radmir       a.k.a. Panzer              
+2022-12-18T08:56:17Z: CHRCTER ADDED  [ 3091487154] kiarilupe1           a.k.a. TEVITANUMBER1       
+2022-12-18T08:56:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -37.0,    24.5,     3.4)
+  The trick is to attack the left.
+2022-12-18T08:56:31Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-18T08:56:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (   42.0,    24.9,   -42.0)
+  And to strike when I'm typing, too.
+2022-12-18T08:56:50Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-18T08:57:17Z: CHRCTER ADDED  [ 3091487154] kiarilupe1           a.k.a. TEVITANUMBER1       
+2022-12-18T08:57:17Z: CHRCTER ADDED  [ 2964619343] windy8102            a.k.a. Alejandro           
+2022-12-18T08:57:29Z: CHRCTER ADDED  [ 2216483290] caxarok_radmir       a.k.a. Panzer              
+2022-12-18T08:57:31Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-18T08:57:42Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-18T08:58:04Z: CHRCTER ADDED  [ 2216483290] caxarok_radmir       a.k.a. Panzer              
+2022-12-18T08:58:10Z: PLAYER CHATTED [ 2216483290] caxarok_radmir       (  -42.0,    24.9,   -82.0)
+  cheater moment 
+2022-12-18T08:58:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -58.8,    24.5,   -46.2)
+  You did well.
+2022-12-18T08:58:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -53.4,    24.5,   -40.8)
+  I'm deliberately limiting my strategy.
+2022-12-18T08:59:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -75.1,    24.5,   -23.3)
+  The trick is to strike when I'm about to come.
+2022-12-18T08:59:13Z: CHRCTER ADDED  [ 2216483290] caxarok_radmir       a.k.a. Panzer              
+2022-12-18T08:59:18Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-18T08:59:29Z: CHRCTER ADDED  [ 2216483290] caxarok_radmir       a.k.a. Panzer              
+2022-12-18T08:59:31Z: CHRCTER ADDED  [ 3091487154] kiarilupe1           a.k.a. TEVITANUMBER1       
+2022-12-18T08:59:46Z: CHRCTER ADDED  [ 3091487154] kiarilupe1           a.k.a. TEVITANUMBER1       
+2022-12-18T08:59:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -49.1,    49.2,    38.3)
+  Even TEV is killing me some of the time.
+2022-12-18T09:00:01Z: CHRCTER ADDED  [ 2964619343] windy8102            a.k.a. Alejandro           
+2022-12-18T09:00:01Z: CHRCTER ADDED  [ 3091487154] kiarilupe1           a.k.a. TEVITANUMBER1       
+2022-12-18T09:00:23Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -188.4,    56.0,   -57.1)
+  I'm also avoiding people who don't have swords up.
+2022-12-18T09:00:53Z: CHRCTER ADDED  [ 3091487154] kiarilupe1           a.k.a. TEVITANUMBER1       
+2022-12-18T09:01:32Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-18T09:01:48Z: CHRCTER ADDED  [ 3091487154] kiarilupe1           a.k.a. TEVITANUMBER1       
+2022-12-18T09:02:32Z: CHRCTER ADDED  [ 3091487154] kiarilupe1           a.k.a. TEVITANUMBER1       
+2022-12-18T09:02:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -70.1,    24.5,   -10.7)
+  I have a gift.
+2022-12-18T09:03:12Z: PLAYER CHATTED [ 2216483290] caxarok_radmir       (  -90.5,    24.5,   -16.8)
+  Yes we are building
+2022-12-18T09:03:19Z: CHRCTER ADDED  [ 3091487154] kiarilupe1           a.k.a. TEVITANUMBER1       
+2022-12-18T09:03:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -47.5,    52.5,   -17.4)
+  :cmear
+2022-12-18T09:03:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -47.5,    52.5,   -17.4)
+  :clear
+2022-12-18T09:04:00Z: CHRCTER ADDED  [ 3091487154] kiarilupe1           a.k.a. TEVITANUMBER1       
+2022-12-18T09:04:15Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-18T09:06:04Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -8.6,   166.4,   -60.4)
+  I'll be off.
+2022-12-18T09:06:10Z: PLAYER ADDED   [ 3616993893] Random_Test567      
+2022-12-18T09:06:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -8.6,   166.4,   -60.4)
+  I apologise if I caused any inconvenience.
+2022-12-18T09:06:17Z: CHRCTER ADDED  [ 2216483290] caxarok_radmir       a.k.a. Panzer              
+2022-12-18T09:06:36Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

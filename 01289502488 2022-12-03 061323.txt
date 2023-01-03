@@ -1,0 +1,478 @@
+[    1630228] : [ 1289502488] Whimsical Building [F3X] - 92d4416f-5489-42d3-b907-e3bec485be40
+2022-12-03T06:13:23Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-12-03T06:13:23Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-12-03T06:13:23Z: PLAYER ADDED   [ 1923750013] Ryanplays30329
+2022-12-03T06:13:23Z: PLAYER ADDED   [ 1663936408] bookshelfdust
+2022-12-03T06:13:23Z: PLAYER ADDED   [   79738166] windmillguy123565
+2022-12-03T06:13:23Z: PLAYER ADDED   [  480751980] darrellT2014
+2022-12-03T06:13:23Z: PLAYER ADDED   [  477178496] hashtagerboi
+2022-12-03T06:13:23Z: PLAYER ADDED   [ 3143733100] Clintzy123MainAlt
+2022-12-03T06:13:23Z: PLAYER ADDED   [   49889474] Qualliez
+2022-12-03T06:13:23Z: PLAYER ADDED   [ 3127567617] SussyHD_Thailand
+2022-12-03T06:13:23Z: PLAYER ADDED   [    4651062] Jackbgbg
+2022-12-03T06:13:23Z: PLAYER ADDED   [ 2257779631] m_phosis
+2022-12-03T06:13:23Z: PLAYER ADDED   [ 2386847135] PerkzNinety
+2022-12-03T06:13:23Z: PLAYER ADDED   [ 3795831620] AntonLorenzo5
+2022-12-03T06:13:23Z: PLAYER ADDED   [  711507936] Egehan2009TR
+2022-12-03T06:13:23Z: PLAYER ADDED   [   30536868] trailerguy10
+2022-12-03T06:13:23Z: PLAYER ADDED   [   69488845] MaelysNath
+2022-12-03T06:13:31Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -490.7,     5.2,  -127.7)
+  me
+2022-12-03T06:13:35Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  Sure pilot
+2022-12-03T06:13:37Z: PLAYER CHATTED [ 3143733100] Clintzy123MainAlt    ( -490.7,     5.2,  -122.2)
+  he google
+2022-12-03T06:13:40Z: PLAYER CHATTED [ 3143733100] Clintzy123MainAlt    ( -490.7,     5.2,  -122.2)
+  or calucator
+2022-12-03T06:13:41Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -503.9,     4.9,  -132.1)
+  so the question was
+2022-12-03T06:13:44Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -503.9,     4.9,  -132.1)
+  2x + 3
+2022-12-03T06:13:49Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -503.9,     4.9,  -132.1)
+  and the x was 3
+2022-12-03T06:13:50Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -503.9,     4.9,  -132.1)
+  so
+2022-12-03T06:13:54Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -503.9,     4.9,  -132.1)
+  its # and #
+2022-12-03T06:14:00Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -503.9,     4.9,  -132.1)
+  and because there are no symbols between them
+2022-12-03T06:14:03Z: PLAYER CHATTED [   69488845] MaelysNath           (-2095.2,    48.9,  -465.0)
+  ;re
+2022-12-03T06:14:05Z: CHRCTER ADDED  [   69488845] MaelysNath          
+2022-12-03T06:14:05Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -503.9,     4.9,  -132.1)
+  its multiplication
+2022-12-03T06:14:09Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -503.9,     4.9,  -132.1)
+  so
+2022-12-03T06:14:11Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -503.9,     4.9,  -132.1)
+  #########
+2022-12-03T06:14:12Z: PLAYER REMOVED [  477178496] hashtagerboi
+2022-12-03T06:14:12Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -503.9,     4.9,  -132.1)
+  #
+2022-12-03T06:14:15Z: PLAYER CHATTED [ 2257779631] m_phosis             ( -490.7,     5.2,  -137.2)
+  this fire as hecc
+2022-12-03T06:14:15Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -503.9,     4.9,  -132.1)
+  ###################
+2022-12-03T06:14:15Z: PLAYER REMOVED [   69488845] MaelysNath
+2022-12-03T06:14:16Z: PLAYER ADDED   [   69488845] MaelysNath
+2022-12-03T06:14:16Z: PLAYER CHATTED [ 3143733100] Clintzy123MainAlt    ( -490.7,     5.2,  -122.2)
+  - sees the game boy -
+2022-12-03T06:14:18Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -503.9,     4.9,  -132.1)
+  #
+2022-12-03T06:14:24Z: PLAYER CHATTED [ 3143733100] Clintzy123MainAlt    ( -490.7,     5.2,  -122.2)
+  - raises hand -
+2022-12-03T06:14:24Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  Good work pilot
+2022-12-03T06:14:26Z: PLAYER CHATTED [ 3143733100] Clintzy123MainAlt    ( -490.7,     5.2,  -122.2)
+  teacher
+2022-12-03T06:14:27Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -490.7,     5.2,  -127.7)
+  thx
+2022-12-03T06:14:30Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  Yes clint?
+2022-12-03T06:14:33Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -490.7,     5.2,  -127.7)
+  its mr zeek clint
+2022-12-03T06:14:35Z: PLAYER CHATTED [ 3143733100] Clintzy123MainAlt    ( -490.7,     5.2,  -122.2)
+  i see pilot using game boy
+2022-12-03T06:14:40Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -490.7,     5.2,  -127.7)
+  no
+2022-12-03T06:14:41Z: PLAYER CHATTED [ 3143733100] Clintzy123MainAlt    ( -490.7,     5.2,  -122.2)
+  remove his note book
+2022-12-03T06:14:43Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -490.7,     5.2,  -127.7)
+  hes lying
+2022-12-03T06:14:48Z: PLAYER CHATTED [ 3143733100] Clintzy123MainAlt    ( -490.7,     5.2,  -122.2)
+  he hid it 
+2022-12-03T06:14:51Z: PLAYER CHATTED [ 3143733100] Clintzy123MainAlt    ( -490.7,     5.2,  -122.2)
+  i see him
+2022-12-03T06:14:54Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -490.7,     5.2,  -127.7)
+  i didnt
+2022-12-03T06:14:58Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  Hmm okay pilot
+2022-12-03T06:15:01Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -490.7,     5.2,  -127.7)
+  hes framing me
+2022-12-03T06:15:04Z: PLAYER CHATTED [    1630228] VisualPlugin         (-3129.8,    74.2,  2694.8)
+  You have MORE than two tail!
+2022-12-03T06:15:05Z: PLAYER CHATTED [ 3143733100] Clintzy123MainAlt    ( -490.7,     5.2,  -122.2)
+  what about we should try checking our bags
+2022-12-03T06:15:05Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -490.7,     5.2,  -127.7)
+  i have no gameboy on me
+2022-12-03T06:15:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (-3129.8,    74.2,  2694.8)
+  *Tails.
+2022-12-03T06:15:09Z: PLAYER CHATTED [ 3143733100] Clintzy123MainAlt    ( -490.7,     5.2,  -122.2)
+  and check on the seat
+2022-12-03T06:15:11Z: PLAYER CHATTED [  480751980] darrellT2014         (-3123.2,    73.5,  2695.1)
+  yes
+2022-12-03T06:15:13Z: PLAYER CHATTED [ 3143733100] Clintzy123MainAlt    ( -490.7,     5.2,  -122.2)
+  or celling
+2022-12-03T06:15:20Z: PLAYER CHATTED [ 3143733100] Clintzy123MainAlt    ( -490.7,     5.2,  -122.2)
+  because i know alot of hiding spot
+2022-12-03T06:15:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (-3129.5,    74.2,  2695.0)
+  And I'm the two-faced one!
+2022-12-03T06:15:24Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  Can we stop for now and continue the lesson
+2022-12-03T06:15:27Z: PLAYER ADDED   [  686606985] BijuuMikeYTofficial
+2022-12-03T06:15:29Z: PLAYER CHATTED [ 3143733100] Clintzy123MainAlt    ( -490.7,     5.2,  -122.2)
+  ok
+2022-12-03T06:15:34Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  But for now everybody put theyre devices in my drawer
+2022-12-03T06:15:38Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -490.7,     5.2,  -127.7)
+  yeah clint
+2022-12-03T06:15:39Z: PLAYER CHATTED [  480751980] darrellT2014         (-3128.6,    73.5,  2700.6)
+  one is smaller and different than the other
+2022-12-03T06:15:42Z: PLAYER CHATTED [ 3795831620] AntonLorenzo5        ( -481.2,     5.2,  -127.7)
+  i didnt bring one
+2022-12-03T06:15:52Z: PLAYER CHATTED [    4651062] Jackbgbg             (-1849.3,    21.2,  1022.0)
+  hi
+2022-12-03T06:15:55Z: PLAYER CHATTED [ 3143733100] Clintzy123MainAlt    ( -498.1,     4.5,  -122.8)
+  i knew it
+2022-12-03T06:15:55Z: PLAYER CHATTED [ 2257779631] m_phosis             ( -499.0,     4.5,  -130.1)
+  *puts ####
+2022-12-03T06:15:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (-3129.8,    74.2,  2695.2)
+  And the other is slightly less different to the first.
+2022-12-03T06:15:57Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -503.7,     4.5,  -129.6)
+  Put all devices in my drawer
+2022-12-03T06:15:59Z: PLAYER CHATTED [ 3143733100] Clintzy123MainAlt    ( -498.1,     4.5,  -122.8)
+  he used it
+2022-12-03T06:15:59Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -498.8,     4.9,  -126.2)
+  shush
+2022-12-03T06:15:59Z: PLAYER CHATTED [ 3795831620] AntonLorenzo5        ( -500.2,     4.5,  -133.8)
+  sir
+2022-12-03T06:16:00Z: PLAYER CHATTED [ 2257779631] m_phosis             ( -499.7,     4.5,  -129.5)
+  puts #####
+2022-12-03T06:16:05Z: PLAYER CHATTED [ 2257779631] m_phosis             ( -498.7,     4.5,  -129.5)
+  puts laptop
+2022-12-03T06:16:06Z: PLAYER CHATTED [ 3795831620] AntonLorenzo5        ( -501.7,     4.5,  -133.1)
+  i dont have device
+2022-12-03T06:16:07Z: PLAYER ADDED   [  815447482] Derpsion_Thesaurus
+2022-12-03T06:16:08Z: PLAYER CHATTED [ 2257779631] m_phosis             ( -499.1,     4.5,  -128.0)
+  puts car
+2022-12-03T06:16:16Z: PLAYER CHATTED [ 3143733100] Clintzy123MainAlt    ( -490.7,     5.2,  -122.2)
+  teacher may i go into back seat
+2022-12-03T06:16:16Z: PLAYER CHATTED [ 2257779631] m_phosis             ( -499.1,     4.5,  -128.0)
+  puts ###### ## #####
+2022-12-03T06:16:17Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  Thats fine solar
+2022-12-03T06:16:18Z: PLAYER CHATTED [ 3795831620] AntonLorenzo5        ( -502.2,     4.5,  -130.7)
+  instead
+2022-12-03T06:16:22Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  Return to your seat
+2022-12-03T06:16:26Z: PLAYER CHATTED [ 3795831620] AntonLorenzo5        ( -502.2,     4.5,  -130.7)
+  i have this
+2022-12-03T06:16:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (-3130.3,    74.2,  2695.6)
+  Did you know that VisualPlugin can fly?
+2022-12-03T06:16:29Z: PLAYER ADDED   [ 1644288487] hank1111134
+2022-12-03T06:16:35Z: PLAYER CHATTED [  480751980] darrellT2014         (-3128.6,    73.5,  2699.8)
+  no
+2022-12-03T06:16:37Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  Thats a nerf gun
+2022-12-03T06:16:43Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  Maybe just keep it next to your bag
+2022-12-03T06:16:48Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  Lets continue
+2022-12-03T06:16:57Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  So algebra is simple
+2022-12-03T06:16:58Z: PLAYER CHATTED [ 2257779631] m_phosis             ( -490.7,     5.2,  -137.2)
+  sussy
+2022-12-03T06:17:02Z: PLAYER ADDED   [  121872026] ITZTHE_BLU
+2022-12-03T06:17:08Z: CHRCTER ADDED  [  121872026] ITZTHE_BLU          
+2022-12-03T06:17:08Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  If X equals something
+2022-12-03T06:17:09Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  Like x = 3
+2022-12-03T06:17:15Z: PLAYER CHATTED [ 3127567617] SussyHD_Thailand     (-2110.9,     3.5,  -472.2)
+  Good ### maely
+2022-12-03T06:17:15Z: PLAYER CHATTED [  480751980] darrellT2014         (-3127.9,    73.5,  2697.4)
+  nice
+2022-12-03T06:17:17Z: PLAYER CHATTED [    1630228] VisualPlugin         (-3137.1,    74.2,  2691.9)
+  I'll be going to Ryan's school.
+2022-12-03T06:17:17Z: PLAYER CHATTED [ 2257779631] m_phosis             ( -490.7,     5.2,  -137.2)
+  wut da hell
+2022-12-03T06:17:22Z: PLAYER REMOVED [ 1923750013] Ryanplays30329
+2022-12-03T06:17:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (-3136.8,    74.2,  2693.1)
+  Care to ###tag?
+2022-12-03T06:17:29Z: PLAYER CHATTED [   69488845] MaelysNath           (-2055.3,    49.7,  -472.8)
+  "good boy" ?
+2022-12-03T06:17:31Z: PLAYER REMOVED [    4651062] Jackbgbg
+2022-12-03T06:17:35Z: PLAYER CHATTED [ 3127567617] SussyHD_Thailand     (-2051.0,    51.5,  -481.1)
+  bye
+2022-12-03T06:17:35Z: PLAYER CHATTED [ 2257779631] m_phosis             ( -490.7,     5.2,  -137.2)
+  where teacher
+2022-12-03T06:17:38Z: PLAYER ADDED   [ 1923750013] Ryanplays30329
+2022-12-03T06:17:41Z: CHRCTER ADDED  [ 1923750013] Ryanplays30329      
+2022-12-03T06:17:41Z: PLAYER CHATTED [   69488845] MaelysNath           (-2055.3,    49.7,  -472.8)
+  oh bye
+2022-12-03T06:17:41Z: PLAYER CHATTED [ 2257779631] m_phosis             ( -490.7,     5.2,  -137.2)
+  woo lets go 
+2022-12-03T06:17:41Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -490.7,     5.2,  -127.7)
+  idk
+2022-12-03T06:17:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (-3144.1,    74.2,  2691.8)
+  I'll meet up with the class.
+2022-12-03T06:17:49Z: PLAYER CHATTED [ 3127567617] SussyHD_Thailand     (-2053.8,    50.9,  -480.2)
+  I speed type
+2022-12-03T06:17:50Z: PLAYER CHATTED [ 1644288487] hank1111134          ( -666.9,    16.4,  -145.6)
+  !tp vis
+2022-12-03T06:17:51Z: PLAYER CHATTED [  480751980] darrellT2014         (-3138.1,    73.5,  2688.9)
+  mk
+2022-12-03T06:17:51Z: PLAYER CHATTED [ 3143733100] Clintzy123MainAlt    ( -471.7,     5.2,  -122.2)
+  guys
+2022-12-03T06:17:51Z: PLAYER CHATTED [ 3127567617] SussyHD_Thailand     (-2053.8,    50.9,  -480.2)
+  sorry
+2022-12-03T06:17:52Z: PLAYER CHATTED [ 2257779631] m_phosis             ( -497.8,     4.5,  -123.4)
+  *takes back all devices*
+2022-12-03T06:17:53Z: PLAYER CHATTED [ 3143733100] Clintzy123MainAlt    ( -471.7,     5.2,  -122.2)
+  we should eat fast
+2022-12-03T06:17:54Z: PLAYER CHATTED [ 3127567617] SussyHD_Thailand     (-2044.9,    50.9,  -478.3)
+  bye
+2022-12-03T06:17:54Z: PLAYER CHATTED [ 3143733100] Clintzy123MainAlt    ( -471.7,     5.2,  -122.2)
+  FAST
+2022-12-03T06:17:56Z: PLAYER CHATTED [ 3143733100] Clintzy123MainAlt    ( -471.7,     5.2,  -122.2)
+  nvm
+2022-12-03T06:17:57Z: PLAYER CHATTED [   69488845] MaelysNath           (-2055.3,    49.7,  -472.8)
+  its okay
+2022-12-03T06:17:59Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -496.6,     4.5,  -131.6)
+  i disconnected hard
+2022-12-03T06:17:59Z: PLAYER CHATTED [ 2257779631] m_phosis             ( -497.1,     4.5,  -126.2)
+  Uhhh...
+2022-12-03T06:18:02Z: PLAYER CHATTED [ 2257779631] m_phosis             ( -498.0,     4.5,  -125.3)
+  *puts back*
+2022-12-03T06:18:03Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -490.7,     5.2,  -127.7)
+  O_O
+2022-12-03T06:18:05Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  Please return the devices
+2022-12-03T06:18:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (-3139.6,    74.2,  2684.5)
+  Care to come?
+2022-12-03T06:18:14Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  alright
+2022-12-03T06:18:18Z: PLAYER CHATTED [ 3795831620] AntonLorenzo5        ( -499.3,     4.5,  -130.6)
+  teacher
+2022-12-03T06:18:18Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  Algebra is simple
+2022-12-03T06:18:19Z: PLAYER CHATTED [ 3143733100] Clintzy123MainAlt    ( -471.7,     5.2,  -122.2)
+  teacher
+2022-12-03T06:18:20Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  ?
+2022-12-03T06:18:20Z: PLAYER CHATTED [  480751980] darrellT2014         (-3138.1,    73.5,  2688.9)
+  no sorry
+2022-12-03T06:18:23Z: PLAYER CHATTED [ 3143733100] Clintzy123MainAlt    ( -477.6,     4.5,  -121.7)
+  may i go to bathroom
+2022-12-03T06:18:24Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  Yes solar
+2022-12-03T06:18:26Z: PLAYER CHATTED [ 3795831620] AntonLorenzo5        ( -499.3,     4.5,  -130.1)
+  my nerf gun's paint uhh
+2022-12-03T06:18:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (-3143.3,    74.2,  2696.6)
+  You're good.
+2022-12-03T06:18:28Z: PLAYER CHATTED [ 3795831620] AntonLorenzo5        ( -499.3,     4.5,  -130.1)
+  worn off
+2022-12-03T06:18:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (-3143.3,    74.2,  2696.6)
+  Take care!
+2022-12-03T06:18:34Z: PLAYER CHATTED [  480751980] darrellT2014         (-3138.1,    73.5,  2688.9)
+  you too
+2022-12-03T06:18:36Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  what...
+2022-12-03T06:18:41Z: PLAYER CHATTED [ 3143733100] Clintzy123MainAlt    ( -496.9,     4.5,  -125.5)
+  may i go to bathroom teacher
+2022-12-03T06:18:45Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  Please put it down that is intimidating
+2022-12-03T06:18:47Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  Yes clint
+2022-12-03T06:18:48Z: PLAYER CHATTED [  121872026] ITZTHE_BLU           ( -526.7,     6.4,    39.0)
+  ;noclip
+2022-12-03T06:18:52Z: PLAYER REMOVED [ 3127567617] SussyHD_Thailand
+2022-12-03T06:18:56Z: PLAYER CHATTED [ 3143733100] Clintzy123MainAlt    ( -499.4,     4.5,  -125.0)
+  where bathroom pass
+2022-12-03T06:19:03Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  *gives bathroom pass*
+2022-12-03T06:19:06Z: PLAYER CHATTED [ 3143733100] Clintzy123MainAlt    ( -498.7,     4.5,  -126.9)
+  ty
+2022-12-03T06:19:08Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  You may go
+2022-12-03T06:19:11Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  Now
+2022-12-03T06:19:15Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  Algebra is simple
+2022-12-03T06:19:24Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  If X equals something like 3
+2022-12-03T06:19:30Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -490.7,     5.2,  -127.7)
+  *takes water battle from backpack*
+2022-12-03T06:19:31Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  x is actually 3
+2022-12-03T06:19:35Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -490.7,     5.2,  -122.2)
+  Sure.
+2022-12-03T06:19:39Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  so you change x to 3
+2022-12-03T06:19:46Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -490.7,     5.2,  -127.7)
+  *gulps it down as if its water straight from #####
+2022-12-03T06:19:50Z: PLAYER ADDED   [  704275274] PenguinDude235
+2022-12-03T06:19:56Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  Then in a situation like 2x - 1
+2022-12-03T06:19:57Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -490.7,     5.2,  -122.2)
+  That's more in line with basic variable assignment.
+2022-12-03T06:19:58Z: PLAYER ADDED   [  884304192] axel_kane
+2022-12-03T06:19:58Z: PLAYER REMOVED [   79738166] windmillguy123565
+2022-12-03T06:20:01Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -490.7,     5.2,  -122.2)
+  Oh.
+2022-12-03T06:20:04Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  change the x to 3
+2022-12-03T06:20:05Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -490.7,     5.2,  -122.2)
+  4 - 3
+2022-12-03T06:20:05Z: PLAYER CHATTED [ 3143733100] Clintzy123MainAlt    ( -499.6,     4.5,  -130.8)
+  - gives back bathroom passs -
+2022-12-03T06:20:11Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -490.7,     5.2,  -122.2)
+  Wait.
+2022-12-03T06:20:12Z: PLAYER REMOVED [  884304192] axel_kane
+2022-12-03T06:20:13Z: PLAYER CHATTED [ 3795831620] AntonLorenzo5        ( -481.2,     5.2,  -122.2)
+  -accidentally drops the scar-
+2022-12-03T06:20:13Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -490.7,     5.2,  -122.2)
+  6 - 3
+2022-12-03T06:20:14Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  Thanks clint
+2022-12-03T06:20:20Z: PLAYER CHATTED [ 2257779631] m_phosis             ( -490.7,     5.2,  -137.2)
+  oopsies
+2022-12-03T06:20:25Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  now you change the x to 3
+2022-12-03T06:20:26Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -490.7,     5.2,  -122.2)
+  x = 2x - 3
+2022-12-03T06:20:30Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -487.3,     4.9,  -126.4)
+  uh
+2022-12-03T06:20:34Z: PLAYER CHATTED [ 3795831620] AntonLorenzo5        ( -481.2,     5.2,  -122.2)
+  SHHH
+2022-12-03T06:20:35Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  and since theres ## simbol between # and #
+2022-12-03T06:20:37Z: PLAYER CHATTED [ 3795831620] AntonLorenzo5        ( -481.2,     5.2,  -122.2)
+  THATS A NERF GUN
+2022-12-03T06:20:38Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  you multiply
+2022-12-03T06:20:42Z: PLAYER CHATTED [ 3795831620] AntonLorenzo5        ( -481.2,     5.2,  -122.2)
+  ITS JUST PAINTED REAL
+2022-12-03T06:20:43Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -486.8,     4.9,  -125.5)
+  right right...
+2022-12-03T06:20:46Z: PLAYER ADDED   [ 2827153969] Mynewaccount1102
+2022-12-03T06:20:46Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  so 2 times 3 is 6
+2022-12-03T06:20:51Z: PLAYER CHATTED [  480751980] darrellT2014         (-2653.7,     3.0,  2670.1)
+  ;rbase
+2022-12-03T06:20:54Z: PLAYER CHATTED [ 2257779631] m_phosis             ( -491.0,     4.5,  -133.9)
+  *picks up water bottle*
+2022-12-03T06:20:54Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  ###################
+2022-12-03T06:21:01Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  ################
+2022-12-03T06:21:06Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  You got it class?
+2022-12-03T06:21:10Z: PLAYER CHATTED [ 2257779631] m_phosis             ( -491.0,     4.5,  -133.9)
+  *splashes water at pilot*
+2022-12-03T06:21:10Z: PLAYER CHATTED [  704275274] PenguinDude235       ( -497.4,     4.5,  -139.8)
+  !tp der
+2022-12-03T06:21:13Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -490.7,     5.2,  -127.7)
+  hey
+2022-12-03T06:21:15Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  Alright
+2022-12-03T06:21:15Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -490.7,     5.2,  -127.7)
+  >:(
+2022-12-03T06:21:18Z: PLAYER CHATTED [ 3795831620] AntonLorenzo5        ( -481.2,     5.2,  -122.2)
+  teacher??
+2022-12-03T06:21:22Z: PLAYER CHATTED [ 2257779631] m_phosis             ( -490.7,     5.2,  -137.2)
+  nothin 
+2022-12-03T06:21:24Z: PLAYER CHATTED [ 2257779631] m_phosis             ( -490.7,     5.2,  -137.2)
+  what i do?
+2022-12-03T06:21:24Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  You may attend reces and eat in the classroom
+2022-12-03T06:21:28Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  Yes solar?
+2022-12-03T06:21:29Z: PLAYER CHATTED [ 3795831620] AntonLorenzo5        ( -494.4,     4.5,  -125.8)
+  clint is using the microwave
+2022-12-03T06:21:30Z: PLAYER REMOVED [ 2827153969] Mynewaccount1102
+2022-12-03T06:21:31Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -491.2,     4.9,  -130.8)
+  >:)
+2022-12-03T06:21:38Z: PLAYER CHATTED [ 3143733100] Clintzy123MainAlt    ( -471.7,     5.2,  -122.2)
+  shush
+2022-12-03T06:21:38Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  Its recess
+2022-12-03T06:21:40Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  its alright
+2022-12-03T06:21:41Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -490.1,     4.9,  -133.9)
+  *dunks water bottle*
+2022-12-03T06:21:41Z: PLAYER CHATTED [ 3795831620] AntonLorenzo5        ( -494.6,     4.5,  -124.9)
+  oh
+2022-12-03T06:21:44Z: PLAYER CHATTED [ 3795831620] AntonLorenzo5        ( -483.2,     4.5,  -124.5)
+  alright
+2022-12-03T06:21:46Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -491.5,     4.9,  -132.5)
+  *hits griddy*
+2022-12-03T06:21:47Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  Go eat your food
+2022-12-03T06:21:48Z: PLAYER CHATTED [  704275274] PenguinDude235       ( -498.0,     4.5,  -131.1)
+  exuse me
+2022-12-03T06:21:52Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  Yes cursed?
+2022-12-03T06:21:53Z: PLAYER CHATTED [ 2257779631] m_phosis             ( -490.5,     4.5,  -133.3)
+  *slaps*
+2022-12-03T06:21:56Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -493.9,     4.9,  -133.5)
+  hey!
+2022-12-03T06:21:56Z: PLAYER CHATTED [ 2257779631] m_phosis             ( -491.8,     4.5,  -133.2)
+  *hits the griddy*
+2022-12-03T06:21:58Z: PLAYER ADDED   [ 2827153969] Mynewaccount1102
+2022-12-03T06:22:02Z: PLAYER CHATTED [  704275274] PenguinDude235       ( -499.2,     4.5,  -130.2)
+  please move this seat and the move it back
+2022-12-03T06:22:09Z: PLAYER CHATTED [  704275274] PenguinDude235       ( -494.6,     4.5,  -141.7)
+  its doing the glitch where
+2022-12-03T06:22:09Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -492.0,     4.9,  -132.8)
+  *kicks down leg like sergio ramos*
+2022-12-03T06:22:10Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -489.3,     4.5,  -140.0)
+  Ok?
+2022-12-03T06:22:14Z: PLAYER CHATTED [  704275274] PenguinDude235       ( -494.6,     4.5,  -141.7)
+  he is somewhere else
+2022-12-03T06:22:20Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -488.6,     4.9,  -132.0)
+  ####
+2022-12-03T06:22:20Z: PLAYER CHATTED [  704275274] PenguinDude235       ( -494.6,     4.5,  -141.7)
+  for him
+2022-12-03T06:22:30Z: PLAYER CHATTED [ 2257779631] m_phosis             ( -485.1,     4.5,  -132.1)
+  *slaps harder than ur dad left you*
+2022-12-03T06:22:32Z: PLAYER CHATTED [ 3143733100] Clintzy123MainAlt    ( -471.7,     5.2,  -122.2)
+  popcorn
+2022-12-03T06:22:39Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -488.6,     4.9,  -132.0)
+  *dodges*
+2022-12-03T06:22:40Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -488.6,     4.9,  -132.0)
+  ####
+2022-12-03T06:22:41Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  Eat your food
+2022-12-03T06:22:43Z: PLAYER CHATTED [  704275274] PenguinDude235       ( -489.2,     4.5,  -141.1)
+  but for everyone else he is in the seat
+2022-12-03T06:22:43Z: PLAYER CHATTED [ 3795831620] AntonLorenzo5        ( -481.2,     5.2,  -122.2)
+  -accidentally drops a minigun-
+2022-12-03T06:22:44Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -488.6,     4.9,  -131.2)
+  wiat
+2022-12-03T06:22:45Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -488.6,     4.9,  -131.2)
+  u hear that
+2022-12-03T06:22:49Z: PLAYER CHATTED [ 1923750013] Ryanplays30329       ( -504.3,     4.9,  -126.1)
+  Its recess
+2022-12-03T06:22:49Z: PLAYER CHATTED [ 3143733100] Clintzy123MainAlt    ( -471.7,     5.2,  -122.2)
+  ok
+2022-12-03T06:23:00Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -476.3,     4.9,  -127.0)
+  popcorn!!!!!!
+2022-12-03T06:23:04Z: PLAYER CHATTED [ 3795831620] AntonLorenzo5        ( -477.0,     4.5,  -122.4)
+  what are you cooking there clint..
+2022-12-03T06:23:10Z: PLAYER CHATTED [ 2257779631] m_phosis             ( -473.2,     4.5,  -124.5)
+  yamate sound
+2022-12-03T06:23:11Z: PLAYER CHATTED [ 3143733100] Clintzy123MainAlt    ( -471.7,     5.2,  -122.2)
+  popcorn
+2022-12-03T06:23:19Z: PLAYER CHATTED [ 3795831620] AntonLorenzo5        ( -477.0,     4.5,  -122.4)
+  ayo give me some
+2022-12-03T06:23:21Z: PLAYER CHATTED [ 3143733100] Clintzy123MainAlt    ( -471.7,     5.2,  -122.2)
+  im watching you guys do drama
+2022-12-03T06:23:26Z: PLAYER CHATTED [ 2257779631] m_phosis             ( -473.2,     4.5,  -124.5)
+  GIVE ME SOME
+2022-12-03T06:23:29Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -472.7,     4.9,  -124.1)
+  ME TOO
+2022-12-03T06:23:37Z: CHRCTER ADDED  [ 2386847135] PerkzNinety         
+2022-12-03T06:23:43Z: PLAYER CHATTED [ 3795831620] AntonLorenzo5        ( -476.6,     4.5,  -123.7)
+  pilot
+2022-12-03T06:23:47Z: PLAYER REMOVED [ 2386847135] PerkzNinety
+2022-12-03T06:23:48Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -474.9,     4.9,  -125.2)
+  ye
+2022-12-03T06:23:50Z: PLAYER CHATTED [ 3143733100] Clintzy123MainAlt    ( -471.7,     7.2,  -122.1)
+  !tp m
+2022-12-03T06:23:53Z: PLAYER CHATTED [ 3795831620] AntonLorenzo5        ( -476.6,     4.5,  -123.7)
+  dont ask the teacher that i dropped a real minigun..
+2022-12-03T06:24:08Z: PLAYER CHATTED [  711507936] Egehan2009TR         ( -474.9,     4.9,  -125.2)
+  ok....
+2022-12-03T06:24:08Z: PLAYER CHATTED [ 3143733100] Clintzy123MainAlt    ( -471.7,     5.2,  -122.2)
+  pls put down the fire
+2022-12-03T06:24:13Z: PLAYER REMOVED [    1630228] VisualPlugin

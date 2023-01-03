@@ -1,0 +1,30 @@
+[    1630228] : [10033751448] [☢NUKE!] 🔨 Build and Battle! - 6227fb50-3bf9-4526-b7eb-87710bc9f65d
+2022-12-18T07:07:51Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-12-18T07:07:51Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-18T07:07:51Z: PLAYER ADDED   [ 3739330265] NRK1000             
+2022-12-18T07:07:51Z: PLAYER ADDED   [ 3348654709] 44pamir44           
+2022-12-18T07:07:51Z: PLAYER ADDED   [  915796275] llllllllrs8          a.k.a. BATIXA              
+2022-12-18T07:07:51Z: PLAYER ADDED   [ 3978963867] artemmalinov6449    
+2022-12-18T07:07:51Z: PLAYER ADDED   [ 2667359898] antogameruwuxd777    a.k.a. MonoElegante1       
+2022-12-18T07:07:51Z: PLAYER ADDED   [ 3913990149] lusilva107           a.k.a. Gamesandro          
+2022-12-18T07:07:51Z: PLAYER ADDED   [ 3713921611] Lelyan020           
+2022-12-18T07:08:04Z: CHRCTER ADDED  [ 3913990149] lusilva107           a.k.a. Gamesandro          
+2022-12-18T07:08:17Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-18T07:08:56Z: CHRCTER ADDED  [ 3913990149] lusilva107           a.k.a. Gamesandro          
+2022-12-18T07:08:56Z: CHRCTER ADDED  [  915796275] llllllllrs8          a.k.a. BATIXA              
+2022-12-18T07:09:08Z: CHRCTER ADDED  [ 3978963867] artemmalinov6449    
+2022-12-18T07:09:19Z: CHRCTER ADDED  [  915796275] llllllllrs8          a.k.a. BATIXA              
+2022-12-18T07:09:19Z: CHRCTER ADDED  [ 3913990149] lusilva107           a.k.a. Gamesandro          
+2022-12-18T07:09:54Z: CHRCTER ADDED  [  915796275] llllllllrs8          a.k.a. BATIXA              
+2022-12-18T07:10:10Z: CHRCTER ADDED  [ 3913990149] lusilva107           a.k.a. Gamesandro          
+2022-12-18T07:10:46Z: CHRCTER ADDED  [ 3913990149] lusilva107           a.k.a. Gamesandro          
+2022-12-18T07:11:04Z: CHRCTER ADDED  [  915796275] llllllllrs8          a.k.a. BATIXA              
+2022-12-18T07:11:04Z: CHRCTER ADDED  [ 3913990149] lusilva107           a.k.a. Gamesandro          
+2022-12-18T07:11:20Z: CHRCTER ADDED  [ 3978963867] artemmalinov6449    
+2022-12-18T07:11:22Z: CHRCTER ADDED  [  915796275] llllllllrs8          a.k.a. BATIXA              
+2022-12-18T07:11:36Z: CHRCTER ADDED  [ 3978963867] artemmalinov6449    
+2022-12-18T07:11:53Z: CHRCTER ADDED  [  915796275] llllllllrs8          a.k.a. BATIXA              
+2022-12-18T07:11:53Z: CHRCTER ADDED  [ 3913990149] lusilva107           a.k.a. Gamesandro          
+2022-12-18T07:12:11Z: CHRCTER ADDED  [  915796275] llllllllrs8          a.k.a. BATIXA              
+2022-12-18T07:12:37Z: CHRCTER ADDED  [  915796275] llllllllrs8          a.k.a. BATIXA              
+2022-12-18T07:13:10Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

@@ -1,0 +1,42 @@
+[    1630228] : [10033751448] [☢NUKE!] 🔨 Build and Battle! - 3b5b3e58-85d3-482b-9664-4d41d27f331e
+2022-12-20T07:12:45Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-12-20T07:12:45Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-20T07:12:45Z: PLAYER ADDED   [ 3040861188] roseangelineBut     
+2022-12-20T07:12:45Z: PLAYER ADDED   [ 4144082455] 8frx68zd6           
+2022-12-20T07:12:45Z: PLAYER ADDED   [ 2909207995] ainulmardhiah2016   
+2022-12-20T07:12:45Z: PLAYER ADDED   [ 4068635507] seactnkz            
+2022-12-20T07:12:45Z: PLAYER ADDED   [ 3347868141] AimanHarithBoy      
+2022-12-20T07:12:45Z: PLAYER ADDED   [ 4143120580] f_nflyilove         
+2022-12-20T07:12:51Z: PLAYER ADDED   [ 1884848578] fir3fozw0lf          a.k.a. Fire_foz            
+2022-12-20T07:13:03Z: PLAYER CHATTED [ 3040861188] roseangelineBut      (  -55.5,    24.5,   -28.4)
+  😭😭😭
+2022-12-20T07:13:35Z: PLAYER CHATTED [ 4144082455] 8frx68zd6            ( -162.8,    24.5,   -13.5)
+  hillo
+2022-12-20T07:13:42Z: PLAYER CHATTED [ 2909207995] ainulmardhiah2016    ( -131.7,    24.5,    -7.8)
+  my little brother is better than more friend 
+2022-12-20T07:13:47Z: CHRCTER ADDED  [ 4144082455] 8frx68zd6           
+2022-12-20T07:13:48Z: CHRCTER ADDED  [ 3347868141] AimanHarithBoy      
+2022-12-20T07:14:13Z: PLAYER CHATTED [ 2909207995] ainulmardhiah2016    ( -138.6,    24.5,    -9.0)
+  my little brother is AimanHarith boy
+2022-12-20T07:14:35Z: CHRCTER ADDED  [ 3347868141] AimanHarithBoy      
+2022-12-20T07:14:40Z: CHRCTER ADDED  [ 4144082455] 8frx68zd6           
+2022-12-20T07:14:51Z: CHRCTER ADDED  [ 2909207995] ainulmardhiah2016   
+2022-12-20T07:14:58Z: CHRCTER ADDED  [ 3040861188] roseangelineBut     
+2022-12-20T07:15:11Z: PLAYER REMOVED [ 2909207995] ainulmardhiah2016   
+2022-12-20T07:15:14Z: CHRCTER ADDED  [ 3040861188] roseangelineBut     
+2022-12-20T07:15:21Z: PLAYER ADDED   [ 2996533552] ctecah90            
+2022-12-20T07:15:37Z: CHRCTER ADDED  [ 3040861188] roseangelineBut     
+2022-12-20T07:15:58Z: PLAYER CHATTED [ 3040861188] roseangelineBut      (   90.4,    36.5,    46.0)
+  😭
+2022-12-20T07:16:03Z: CHRCTER ADDED  [ 3347868141] AimanHarithBoy      
+2022-12-20T07:16:08Z: CHRCTER ADDED  [ 2996533552] ctecah90            
+2022-12-20T07:16:27Z: PLAYER CHATTED [ 3040861188] roseangelineBut      (  -25.5,    22.6,   -64.2)
+  😭
+2022-12-20T07:16:31Z: CHRCTER ADDED  [ 3040861188] roseangelineBut     
+2022-12-20T07:16:39Z: PLAYER CHATTED [ 4144082455] 8frx68zd6            (  -28.7,    24.5,   -66.9)
+  what
+2022-12-20T07:16:50Z: PLAYER CHATTED [ 4144082455] 8frx68zd6            (   -1.7,    24.5,   -63.1)
+  you died
+2022-12-20T07:17:13Z: PLAYER CHATTED [ 3040861188] roseangelineBut      (   39.3,    18.8,  -266.2)
+  😭😭😭
+2022-12-20T07:17:19Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

@@ -1,0 +1,129 @@
+[    1630228] : [ 1289502488] Whimsical Building [F3X] - 0d99da5e-abc3-46ef-a432-1d5ee766e57a
+2022-12-03T09:49:23Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-12-03T09:49:23Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-03T09:49:23Z: PLAYER ADDED   [ 1492471094] indie1321            a.k.a. Decal               
+2022-12-03T09:49:23Z: PLAYER ADDED   [ 2030173072] jocammatic          
+2022-12-03T09:49:23Z: PLAYER ADDED   [ 2777004599] CraftedNine          a.k.a. PrestonPlayzz       
+2022-12-03T09:49:23Z: PLAYER ADDED   [  422884141] lim0204              a.k.a. Militant            
+2022-12-03T09:49:23Z: PLAYER ADDED   [ 1404920055] Khian3011            a.k.a. CaptainNoob         
+2022-12-03T09:49:23Z: PLAYER ADDED   [  424156406] martyna1888          a.k.a. MartyCuteKirby      
+2022-12-03T09:49:23Z: PLAYER ADDED   [  131620996] wyna007              a.k.a. Paranoid            
+2022-12-03T09:49:23Z: PLAYER ADDED   [ 3466227230] aminesnl2            a.k.a. Hazem               
+2022-12-03T09:49:23Z: PLAYER ADDED   [ 1316901735] shansation           a.k.a. Commando            
+2022-12-03T09:49:23Z: PLAYER ADDED   [ 1293705499] KamSensys            a.k.a. TheEpicBaco         
+2022-12-03T09:49:23Z: PLAYER ADDED   [ 2067212213] hellomepoyrazwol     a.k.a. levprob             
+2022-12-03T09:49:23Z: PLAYER ADDED   [ 1406285953] suyiwong            
+2022-12-03T09:50:16Z: PLAYER CHATTED [ 1316901735] shansation           ( -478.6,     3.6,    -0.0)
+  im dead
+2022-12-03T09:50:19Z: PLAYER CHATTED [ 1316901735] shansation           ( -478.4,     3.6,    -0.4)
+  XD
+2022-12-03T09:50:21Z: PLAYER CHATTED [ 1316901735] shansation           ( -478.4,     3.6,    -0.6)
+  :re
+2022-12-03T09:50:22Z: PLAYER CHATTED [ 1404920055] Khian3011            ( -738.0,     7.5,  -156.4)
+  cool
+2022-12-03T09:50:23Z: PLAYER CHATTED [ 1316901735] shansation           ( -478.6,     3.6,    -0.9)
+  ;re
+2022-12-03T09:50:25Z: PLAYER CHATTED [ 1316901735] shansation           ( -481.8,     3.6,    -3.3)
+  welp
+2022-12-03T09:50:27Z: CHRCTER ADDED  [ 1316901735] shansation           a.k.a. Commando            
+2022-12-03T09:50:28Z: PLAYER CHATTED [  424156406] martyna1888          ( -728.1,    11.1,  -165.0)
+  ty
+2022-12-03T09:50:29Z: PLAYER CHATTED [ 1404920055] Khian3011            ( -735.5,    10.7,  -163.0)
+  thats busted
+2022-12-03T09:50:45Z: PLAYER CHATTED [ 1404920055] Khian3011            ( -742.8,     3.9,  -150.9)
+  boiler is dieing
+2022-12-03T09:50:58Z: PLAYER CHATTED [ 1404920055] Khian3011            ( -741.7,     3.9,  -150.8)
+  OH NO
+2022-12-03T09:51:02Z: PLAYER ADDED   [ 3513942254] bibi_2012unicorn     a.k.a. unicorn             
+2022-12-03T09:51:05Z: CHRCTER ADDED  [ 3513942254] bibi_2012unicorn     a.k.a. unicorn             
+2022-12-03T09:51:09Z: PLAYER CHATTED [ 1404920055] Khian3011            ( -741.7,     3.9,  -150.8)
+  BOILER IS HEATING BAD
+2022-12-03T09:51:18Z: PLAYER CHATTED [  424156406] martyna1888          ( -740.4,     5.1,  -153.5)
+  ...
+2022-12-03T09:51:18Z: PLAYER CHATTED [ 1404920055] Khian3011            ( -741.2,    10.7,  -171.3)
+  rip percy
+2022-12-03T09:51:22Z: PLAYER CHATTED [  424156406] martyna1888          ( -740.4,     5.1,  -153.5)
+  IM BUILDING HERE
+2022-12-03T09:51:27Z: PLAYER CHATTED [  424156406] martyna1888          ( -750.9,     4.3,  -148.7)
+  TAKE TAHT!
+2022-12-03T09:51:29Z: PLAYER CHATTED [  424156406] martyna1888          ( -750.9,     4.3,  -148.7)
+  thank you
+2022-12-03T09:51:31Z: PLAYER REMOVED [ 3513942254] bibi_2012unicorn     a.k.a. unicorn             
+2022-12-03T09:51:37Z: PLAYER CHATTED [ 1316901735] shansation           ( -746.7,     2.0,  -152.3)
+  im deadang it-
+2022-12-03T09:51:41Z: PLAYER CHATTED [ 1404920055] Khian3011            (-1387.4,     3.5,  -144.8)
+  percy was dieng but ok
+2022-12-03T09:51:45Z: PLAYER CHATTED [ 1316901735] shansation           ( -746.7,     2.0,  -152.3)
+  i cant walk no more
+2022-12-03T09:51:45Z: PLAYER CHATTED [ 1293705499] KamSensys            ( -558.5,     3.5,  -177.1)
+  c a t
+2022-12-03T09:51:54Z: PLAYER CHATTED [ 1316901735] shansation           ( -731.0,     2.0,  -160.7)
+  uhh-
+2022-12-03T09:51:56Z: PLAYER ADDED   [ 3513942254] bibi_2012unicorn     a.k.a. unicorn             
+2022-12-03T09:51:56Z: PLAYER CHATTED [ 1316901735] shansation           ( -731.0,     9.1,  -160.7)
+  miss
+2022-12-03T09:51:59Z: CHRCTER ADDED  [ 3513942254] bibi_2012unicorn     a.k.a. unicorn             
+2022-12-03T09:52:14Z: PLAYER CHATTED [  424156406] martyna1888          ( -743.5,    11.1,  -169.2)
+  ?
+2022-12-03T09:52:19Z: PLAYER CHATTED [ 1316901735] shansation           ( -743.1,     8.8,  -163.8)
+  please make a ramp-
+2022-12-03T09:52:21Z: PLAYER CHATTED [ 3513942254] bibi_2012unicorn     ( -497.8,     3.6,    28.3)
+  Mart
+2022-12-03T09:52:26Z: PLAYER CHATTED [  424156406] martyna1888          ( -743.5,    11.1,  -169.2)
+  No
+2022-12-03T09:52:27Z: PLAYER ADDED   [ 3446884920] Shrnk07             
+2022-12-03T09:52:30Z: CHRCTER ADDED  [ 3446884920] Shrnk07             
+2022-12-03T09:52:31Z: PLAYER CHATTED [ 3513942254] bibi_2012unicorn     ( -490.4,     5.3,    28.2)
+  ?
+2022-12-03T09:53:07Z: PLAYER CHATTED [ 3513942254] bibi_2012unicorn     ( -461.9,     3.5,  -122.7)
+  Uhhh
+2022-12-03T09:53:09Z: PLAYER CHATTED [ 1316901735] shansation           ( -623.4,     1.6,  -137.3)
+  what happend to you today-
+2022-12-03T09:53:15Z: PLAYER CHATTED [ 2777004599] CraftedNine          ( -632.5,     1.5,  -153.5)
+  MEH
+2022-12-03T09:53:18Z: PLAYER CHATTED [ 2777004599] CraftedNine          ( -632.5,     1.5,  -153.5)
+  idk
+2022-12-03T09:53:27Z: PLAYER CHATTED [ 1404920055] Khian3011            ( -814.5,     7.5,   142.9)
+  I CANT STOP
+2022-12-03T09:53:28Z: PLAYER CHATTED [ 1404920055] Khian3011            ( -814.5,     7.5,   142.9)
+  HELP
+2022-12-03T09:53:30Z: PLAYER CHATTED [ 1316901735] shansation           ( -630.1,     1.6,  -149.5)
+  i gots no legs but no arms nor legs, thats insane!
+2022-12-03T09:53:34Z: PLAYER CHATTED [ 1404920055] Khian3011            ( -814.5,     7.5,   142.9)
+  TRAIN IS GOING BY ITS SELF
+2022-12-03T09:53:45Z: PLAYER CHATTED [ 2777004599] CraftedNine          ( -632.5,     1.5,  -153.5)
+  yeah
+2022-12-03T09:53:54Z: PLAYER CHATTED [ 1316901735] shansation           ( -630.1,     1.6,  -149.5)
+  how did you even get in ythat type of situation?
+2022-12-03T09:54:07Z: PLAYER CHATTED [ 3513942254] bibi_2012unicorn     ( -721.2,     3.5,  -220.9)
+  Mart I got a question
+2022-12-03T09:54:07Z: PLAYER CHATTED [ 1316901735] shansation           ( -630.1,     1.6,  -149.5)
+  I was looking for more elements then i fell in the lava
+2022-12-03T09:54:08Z: PLAYER CHATTED [ 2777004599] CraftedNine          ( -632.5,     1.5,  -153.5)
+  idk
+2022-12-03T09:54:13Z: PLAYER CHATTED [  424156406] martyna1888          ( -746.3,    11.1,  -200.7)
+  ?
+2022-12-03T09:54:23Z: PLAYER CHATTED [ 3513942254] bibi_2012unicorn     ( -738.7,    10.7,  -198.3)
+  Are you got at making skirts..?
+2022-12-03T09:54:25Z: PLAYER CHATTED [ 1404920055] Khian3011            (-1817.5,    -3.3, -2996.3)
+  AAA
+2022-12-03T09:54:28Z: PLAYER CHATTED [ 1404920055] Khian3011            (-1817.5,    -3.3, -2996.3)
+  HELP
+2022-12-03T09:54:39Z: PLAYER CHATTED [ 3513942254] bibi_2012unicorn     ( -738.7,    10.7,  -198.3)
+  Cause I made one
+2022-12-03T09:54:44Z: PLAYER REMOVED [ 1316901735] shansation           a.k.a. Commando            
+2022-12-03T09:54:54Z: PLAYER CHATTED [ 3513942254] bibi_2012unicorn     ( -738.7,    10.7,  -198.3)
+  Female body only 😔 
+2022-12-03T09:55:01Z: PLAYER CHATTED [  424156406] martyna1888          ( -743.4,    11.1,  -198.9)
+  oh
+2022-12-03T09:55:04Z: PLAYER CHATTED [  424156406] martyna1888          ( -743.4,    11.1,  -198.9)
+  im not making skirts
+2022-12-03T09:55:07Z: PLAYER REMOVED [ 3446884920] Shrnk07             
+2022-12-03T09:55:11Z: PLAYER CHATTED [ 1404920055] Khian3011            ( -741.8,    10.7,  -190.5)
+  bo
+2022-12-03T09:55:13Z: PLAYER CHATTED [ 3513942254] bibi_2012unicorn     ( -737.8,    10.7,  -198.3)
+  It’s alright
+2022-12-03T09:55:14Z: PLAYER CHATTED [  424156406] martyna1888          ( -743.4,    11.1,  -198.9)
+  sr :(
+2022-12-03T09:55:33Z: PLAYER REMOVED [ 3513942254] bibi_2012unicorn     a.k.a. unicorn             
+2022-12-03T09:55:37Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

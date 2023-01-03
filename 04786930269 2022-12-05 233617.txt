@@ -1,0 +1,1959 @@
+[    1630228] : [ 4786930269] [📜🎃 Update] Eden Orphan Home - d667508b-7f0a-4455-982c-cea6c361ba6f
+2022-12-05T23:36:17Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-12-05T23:36:17Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 1600113328] kitten_lover85490    a.k.a. Elfy                
+2022-12-05T23:36:17Z: PLAYER ADDED   [  330767536] Itz_Emily427         a.k.a. emily               
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 1212129557] belinda221101       
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 2279486585] iiKqitlin            a.k.a. angel               
+2022-12-05T23:36:17Z: PLAYER ADDED   [  550280295] BIush_Roses          a.k.a. antiquity           
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 1001559668] bubblesWOW           a.k.a. Mop                 
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 2664356597] happyfacepalestine   a.k.a. Thedarkabyss        
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 4033369081] crankysalty         
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 3643059145] IXCerberusIX00      
+2022-12-05T23:36:17Z: PLAYER ADDED   [  366442022] cpie13               a.k.a. Huntress            
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 2295446024] 0reomil              a.k.a. Killer_Queen        
+2022-12-05T23:36:17Z: PLAYER ADDED   [  523486253] alishaPHONE1         a.k.a. Alisha              
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 1891099232] UnicornKatt2012      a.k.a. Kai                 
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 3998200292] savvy_xx123         
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 3963731296] myboyseven2         
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 1636755163] GlitchGirl3232       a.k.a. Tessa               
+2022-12-05T23:36:17Z: PLAYER ADDED   [  691635668] VicDeth              a.k.a. C_plusplus          
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 1220318642] dksdksanf            a.k.a. uryummymother       
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 3089191361] shyxbread            a.k.a. Tbhk_Obsessed       
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 2318261056] Ariana030914         a.k.a. TheLoLgirl          
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 3317250465] JordynBestie123      a.k.a. Jamie               
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 3485182641] mima9427            
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 2031493495] AaryaDior            a.k.a. WISH_Kayla          
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 1655699749] vTrustedUgh          a.k.a. skelly              
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 2487613860] Myagirl20201         a.k.a. SMILEYXMYA          
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 1752262374] coolpanda5112        a.k.a. Johnnyappleseed     
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 1167000741] Eve_MM               a.k.a. eve                 
+2022-12-05T23:36:17Z: PLAYER ADDED   [  820719330] lovirrs              a.k.a. lye                 
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 2553613541] cupcakequeenandmia13 a.k.a. Mille               
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 1370512716] cookswilc1           a.k.a. Idk                 
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 1022417498] bammbulka101         a.k.a. Kaj1nta             
+2022-12-05T23:36:17Z: PLAYER ADDED   [  678482363] Quackistic           a.k.a. james               
+2022-12-05T23:36:17Z: PLAYER ADDED   [  524141998] tuengek              a.k.a. funny               
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 3384369284] sebin_85             a.k.a. Mario               
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 2421609933] ParisRose_313        a.k.a. sLaY                
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 1731675193] Avagsmiles           a.k.a. Luvzangelz          
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 3511750726] Sarah357427         
+2022-12-05T23:36:17Z: PLAYER ADDED   [  746514775] mileymce            
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 4016481678] logicIS_me           a.k.a. logic               
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 1944406398] justbe11aa           a.k.a. what                
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 1644754481] izzygotgum12         a.k.a. LUCKYlady           
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 2405048469] macize12             a.k.a. Idk                 
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 3517843554] Xxaliyahplayz1234xX 
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 1228208348] cottoncandys_mum     a.k.a. IsAS1MP             
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 1524957517] richgirlRZ           a.k.a. FBI                 
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 1514079414] yoyoyoyoyoyo323232   a.k.a. FryingPan           
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 3314042078] Gabmatblox          
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 1237188498] SarahKawwiCat        a.k.a. Snowy               
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 1451904814] mylrv                a.k.a. Indecisive          
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 1509424158] kaydenceluna5       
+2022-12-05T23:36:17Z: PLAYER ADDED   [ 3911527105] Roke123346          
+2022-12-05T23:36:20Z: PLAYER CHATTED [ 4033369081] crankysalty          (   -4.1,    12.9,   376.6)
+  OH MY GOD IM CREAMING SO MUCH HELP
+2022-12-05T23:36:21Z: PLAYER CHATTED [ 2487613860] Myagirl20201         (   -3.7,    11.9,   371.8)
+  Why
+2022-12-05T23:36:27Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   -6.4,    12.8,   397.7)
+  She a psycho orphan 
+2022-12-05T23:36:28Z: PLAYER CHATTED [ 2405048469] macize12             (  -12.7,    12.9,   396.0)
+  ...
+2022-12-05T23:36:28Z: PLAYER CHATTED [ 3517843554] Xxaliyahplayz1234xX  (   -7.4,    13.0,   401.0)
+  I haven't gotten any breakfast.. 
+2022-12-05T23:36:28Z: PLAYER CHATTED [ 1600113328] kitten_lover85490    (   -4.5,    13.0,   365.2)
+  *raises hand*
+2022-12-05T23:36:28Z: PLAYER CHATTED [ 2295446024] 0reomil              (   -6.3,    13.0,   372.0)
+  can i have?
+2022-12-05T23:36:33Z: PLAYER CHATTED [ 2553613541] cupcakequeenandmia13 (    0.9,    13.0,   370.3)
+  can i havr food pls
+2022-12-05T23:36:34Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   -6.4,    12.8,   397.7)
+  Oof
+2022-12-05T23:36:35Z: PLAYER REMOVED [ 3089191361] shyxbread            a.k.a. Tbhk_Obsessed       
+2022-12-05T23:36:43Z: PLAYER REMOVED [  523486253] alishaPHONE1         a.k.a. Alisha              
+2022-12-05T23:36:44Z: PLAYER CHATTED [ 3643059145] IXCerberusIX00       (  -36.8,    13.0,   360.2)
+  so do you constantly switch?
+2022-12-05T23:36:48Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   -5.5,    13.0,   394.3)
+  I like takis
+2022-12-05T23:36:50Z: PLAYER CHATTED [ 2295446024] 0reomil              (   -6.3,    13.0,   372.0)
+  pls
+2022-12-05T23:36:50Z: PLAYER CHATTED [ 2487613860] Myagirl20201         (   -3.7,    11.9,   371.8)
+  It says I can’t give spoiled milk
+2022-12-05T23:36:52Z: PLAYER CHATTED [ 2031493495] AaryaDior            (   -0.0,    12.8,   373.6)
+  May I have food?
+2022-12-05T23:36:53Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   -5.5,    13.0,   394.3)
+  And hot cheetos
+2022-12-05T23:36:54Z: PLAYER CHATTED [ 1600113328] kitten_lover85490    (    0.9,    13.0,   370.3)
+  Excuse me?
+2022-12-05T23:36:58Z: PLAYER CHATTED [ 2405048469] macize12             (  -12.7,    12.9,   396.0)
+  takis isnt spicy 
+2022-12-05T23:36:58Z: PLAYER CHATTED [ 2295446024] 0reomil              (   -6.3,    13.0,   372.0)
+  oh its ok
+2022-12-05T23:36:59Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   -6.4,    12.8,   397.7)
+  YAS
+2022-12-05T23:36:59Z: PLAYER CHATTED [ 2318261056] Ariana030914         ( -100.7,    56.6,   227.7)
+  How to return a book?
+2022-12-05T23:37:01Z: PLAYER CHATTED [  678482363] Quackistic           (    3.0,    12.8,   383.8)
+  You already have food.
+2022-12-05T23:37:04Z: PLAYER CHATTED [ 1731675193] Avagsmiles           (  -11.8,    12.8,   392.6)
+  Yess
+2022-12-05T23:37:07Z: PLAYER CHATTED [ 1731675193] Avagsmiles           (  -11.8,    12.8,   392.6)
+  Slayed
+2022-12-05T23:37:07Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   -6.4,    12.8,   397.7)
+  I LOVE THEM
+2022-12-05T23:37:08Z: PLAYER REMOVED [ 3911527105] Roke123346          
+2022-12-05T23:37:08Z: PLAYER CHATTED [ 2553613541] cupcakequeenandmia13 (    0.9,    12.2,   380.0)
+  oh
+2022-12-05T23:37:11Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   -5.5,    13.0,   394.3)
+  SAMEEE
+2022-12-05T23:37:13Z: PLAYER CHATTED [ 1600113328] kitten_lover85490    (    0.9,    13.0,   370.3)
+  Sir?
+2022-12-05T23:37:16Z: PLAYER CHATTED [ 3517843554] Xxaliyahplayz1234xX  (   -7.4,    13.0,   401.0)
+  Miss?
+2022-12-05T23:37:16Z: PLAYER CHATTED [ 1636755163] GlitchGirl3232       (   -0.0,    12.9,   373.6)
+  May I have some food 
+2022-12-05T23:37:18Z: PLAYER CHATTED [ 1524957517] richgirlRZ           (    9.4,    15.7,   385.7)
+  Greetings my dear children! Today we will be doing an outdoor activity, guess what it is!
+2022-12-05T23:37:19Z: PLAYER CHATTED [ 1731675193] Avagsmiles           (  -11.8,    12.8,   392.6)
+  Hot chips are good
+2022-12-05T23:37:19Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   -6.4,    12.8,   397.7)
+  sLaY
+2022-12-05T23:37:22Z: PLAYER CHATTED [ 3643059145] IXCerberusIX00       (   -4.4,    12.0,   376.6)
+  how much to you weigh?
+2022-12-05T23:37:25Z: PLAYER CHATTED [ 1636755163] GlitchGirl3232       (   -0.0,    12.9,   373.6)
+  I’m going to die
+2022-12-05T23:37:27Z: PLAYER CHATTED [ 1220318642] dksdksanf            (    1.3,    12.7,   381.8)
+  idcidcidc
+2022-12-05T23:37:29Z: PLAYER CHATTED [ 1220318642] dksdksanf            (    1.3,    12.7,   381.8)
+  idcidcidc
+2022-12-05T23:37:29Z: PLAYER CHATTED [ 1644754481] izzygotgum12         (   -0.4,    12.1,   386.8)
+  watering hole!
+2022-12-05T23:37:30Z: PLAYER CHATTED [ 4033369081] crankysalty          (   -1.6,    13.0,   377.9)
+  OHHHHHH MY GOD IM CREAMING SO HARD
+2022-12-05T23:37:30Z: PLAYER CHATTED [ 1220318642] dksdksanf            (    1.3,    12.7,   381.8)
+  idcidcidc
+2022-12-05T23:37:31Z: PLAYER CHATTED [ 1220318642] dksdksanf            (    1.3,    12.7,   381.8)
+  idcidcidc
+2022-12-05T23:37:34Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   -5.5,    13.0,   394.3)
+  Slackyalayckyaya
+2022-12-05T23:37:34Z: PLAYER CHATTED [ 2487613860] Myagirl20201         (  -11.7,    13.1,   366.9)
+  Soccer?
+2022-12-05T23:37:34Z: PLAYER CHATTED [ 1600113328] kitten_lover85490    (    0.9,    13.0,   370.3)
+  *raises hand
+2022-12-05T23:37:36Z: PLAYER CHATTED [ 3517843554] Xxaliyahplayz1234xX  (   -7.4,    13.0,   401.0)
+  Berry picking or camping!!
+2022-12-05T23:37:36Z: PLAYER CHATTED [ 1524957517] richgirlRZ           (    9.4,    15.7,   385.7)
+  Warning 1.
+2022-12-05T23:37:40Z: PLAYER CHATTED [ 1022417498] bammbulka101         (   -4.6,    13.0,   390.9)
+  i dont know
+2022-12-05T23:37:42Z: PLAYER CHATTED [ 2664356597] happyfacepalestine   (    1.0,    12.2,   383.1)
+  What does insanity mean in my thing?
+2022-12-05T23:37:42Z: PLAYER REMOVED [ 1752262374] coolpanda5112        a.k.a. Johnnyappleseed     
+2022-12-05T23:37:42Z: PLAYER CHATTED [ 1220318642] dksdksanf            (   -0.0,    12.7,   381.2)
+  idcidcidc
+2022-12-05T23:37:44Z: PLAYER CHATTED [ 1891099232] UnicornKatt2012      (  -10.9,    13.0,   389.2)
+  this no outdoor area
+2022-12-05T23:37:44Z: PLAYER CHATTED [ 1370512716] cookswilc1           (   -2.8,    13.0,   234.2)
+  some open please
+2022-12-05T23:37:48Z: PLAYER CHATTED [ 1524957517] richgirlRZ           (    1.4,    12.5,   382.0)
+  Warning 2.
+2022-12-05T23:37:48Z: PLAYER CHATTED [ 1220318642] dksdksanf            (   -0.0,    12.7,   381.2)
+  idcidcidcidcidcidcidcidcidc
+2022-12-05T23:37:49Z: PLAYER REMOVED [  524141998] tuengek              a.k.a. funny               
+2022-12-05T23:37:50Z: PLAYER CHATTED [ 1731675193] Avagsmiles           (  -11.8,    12.8,   392.6)
+  There nasty if takis have no powder on them
+2022-12-05T23:37:55Z: PLAYER CHATTED [ 1524957517] richgirlRZ           (    1.4,    12.5,   382.0)
+  Warning 3.
+2022-12-05T23:37:57Z: PLAYER CHATTED [ 3384369284] sebin_85             (    3.1,    11.9,   373.3)
+  help me
+2022-12-05T23:37:58Z: PLAYER CHATTED [ 1220318642] dksdksanf           
+  ebebebebebebebebebebe
+2022-12-05T23:37:59Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   -6.4,    12.8,   397.7)
+  I’m hungry…
+2022-12-05T23:38:01Z: PLAYER CHATTED [ 1644754481] izzygotgum12         (  -12.7,    13.1,   396.0)
+  " watering hole!! "
+2022-12-05T23:38:02Z: PLAYER CHATTED [ 1731675193] Avagsmiles           (  -11.8,    12.8,   392.6)
+  Like?
+2022-12-05T23:38:04Z: PLAYER CHATTED [ 1600113328] kitten_lover85490    (    0.9,    13.0,   370.3)
+  Miss?
+2022-12-05T23:38:06Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   -5.5,    13.0,   394.3)
+  I like takis
+2022-12-05T23:38:08Z: CHRCTER ADDED  [ 3384369284] sebin_85             a.k.a. Mario               
+2022-12-05T23:38:18Z: PLAYER CHATTED [ 3643059145] IXCerberusIX00      
+  d head
+2022-12-05T23:38:24Z: PLAYER CHATTED [ 3643059145] IXCerberusIX00      
+  rude
+2022-12-05T23:38:24Z: PLAYER CHATTED [ 1944406398] justbe11aa           (  -23.5,    12.8,   385.9)
+  wait my uncles mom
+2022-12-05T23:38:28Z: PLAYER CHATTED [ 4033369081] crankysalty          (   -1.9,    13.0,   377.9)
+  #################
+2022-12-05T23:38:28Z: PLAYER CHATTED [ 1220318642] dksdksanf           
+  mad cuz bad
+2022-12-05T23:38:33Z: PLAYER ADDED   [ 1573964032] TRIXEGAMERGIRL       a.k.a. Star                
+2022-12-05T23:38:33Z: PLAYER CHATTED [ 4033369081] crankysalty          (    2.9,    12.9,   374.6)
+  MR EMILY
+2022-12-05T23:38:35Z: PLAYER CHATTED [ 1944406398] justbe11aa           (  -23.5,    12.8,   385.9)
+  my back hurts
+2022-12-05T23:38:42Z: PLAYER CHATTED [  678482363] Quackistic           (    7.9,    15.2,   389.3)
+  Ich bin Aufregend fur das Activity!
+2022-12-05T23:38:45Z: PLAYER CHATTED [ 2664356597] happyfacepalestine   (   -1.4,    11.9,   392.1)
+  Ummm
+2022-12-05T23:38:47Z: PLAYER CHATTED [ 1600113328] kitten_lover85490    (    0.9,    13.0,   370.3)
+  Miss?
+2022-12-05T23:38:48Z: PLAYER CHATTED [ 1944406398] justbe11aa           (  -23.5,    12.8,   385.9)
+  and yes in do
+2022-12-05T23:38:49Z: PLAYER CHATTED [ 1220318642] dksdksanf           
+  mad cuz bad
+2022-12-05T23:38:49Z: PLAYER CHATTED [ 2318261056] Ariana030914         ( -114.5,    34.4,   299.0)
+  HOW TO REURN A BOOK
+2022-12-05T23:38:51Z: PLAYER CHATTED [ 4033369081] crankysalty          (    2.8,    12.9,   375.2)
+  HEY MR EMILY LISTEN
+2022-12-05T23:38:53Z: PLAYER CHATTED [ 1636755163] GlitchGirl3232       (    1.1,    11.8,   382.6)
+  May I have some food 
+2022-12-05T23:38:53Z: PLAYER CHATTED [ 1944406398] justbe11aa           (  -23.5,    12.8,   385.9)
+  i
+2022-12-05T23:38:55Z: PLAYER CHATTED [ 2405048469] macize12             (  -11.8,    12.9,   392.6)
+  no german.
+2022-12-05T23:38:55Z: PLAYER CHATTED [ 2664356597] happyfacepalestine   (   -2.4,    11.9,   395.3)
+  I have a question 
+2022-12-05T23:38:56Z: PLAYER CHATTED [ 1600113328] kitten_lover85490    (    0.9,    13.0,   370.3)
+  Sir
+2022-12-05T23:38:57Z: PLAYER CHATTED [ 1636755163] GlitchGirl3232       (    1.1,    11.8,   382.6)
+  Pls
+2022-12-05T23:38:57Z: PLAYER CHATTED [  330767536] Itz_Emily427         (   11.5,    16.3,   378.8)
+  Yes?
+2022-12-05T23:38:57Z: PLAYER CHATTED [ 3643059145] IXCerberusIX00       (  -22.0,    12.0,   278.9)
+  hi
+2022-12-05T23:39:05Z: PLAYER CHATTED [ 1644754481] izzygotgum12         (  -12.7,    13.1,   396.0)
+  " could we og to the watering hole? "
+2022-12-05T23:39:05Z: PLAYER CHATTED [ 3485182641] mima9427             (  -91.1,    34.4,   296.6)
+  can i return this book?
+2022-12-05T23:39:05Z: PLAYER CHATTED [  678482363] Quackistic           (    5.7,    14.3,   385.1)
+  Hier ist das Essen.
+2022-12-05T23:39:09Z: PLAYER CHATTED [ 1451904814] mylrv                (  -20.8,    11.9,   275.6)
+  Hello!
+2022-12-05T23:39:09Z: PLAYER CHATTED [ 1600113328] kitten_lover85490    (    0.9,    13.0,   370.3)
+  I don’t feel well
+2022-12-05T23:39:16Z: PLAYER CHATTED [ 1636755163] GlitchGirl3232       (    1.0,    11.9,   383.5)
+  Thanks
+2022-12-05T23:39:16Z: PLAYER CHATTED [  678482363] Quackistic           (    3.9,    13.3,   384.2)
+  Ja, Deutsch
+2022-12-05T23:39:16Z: PLAYER CHATTED [ 3643059145] IXCerberusIX00       (  -22.0,    12.0,   278.9)
+  #############
+2022-12-05T23:39:16Z: PLAYER CHATTED [ 1944406398] justbe11aa           (  -23.5,    12.8,   385.9)
+  she wont leave
+2022-12-05T23:39:16Z: PLAYER CHATTED [ 1655699749] vTrustedUgh          (    0.2,    12.1,   386.5)
+  i need food
+2022-12-05T23:39:19Z: PLAYER CHATTED [ 1220318642] dksdksanf            (  -22.7,    35.0,   361.4)
+  hi
+2022-12-05T23:39:20Z: PLAYER CHATTED [  678482363] Quackistic           (    2.5,    12.9,   387.1)
+  Hier.
+2022-12-05T23:39:22Z: PLAYER CHATTED [  550280295] BIush_Roses          (   23.3,    34.3,   350.0)
+  'ello
+2022-12-05T23:39:22Z: PLAYER CHATTED [ 4033369081] crankysalty          (    3.5,    12.9,   373.3)
+  I NEED FOOD RN OR ITS YOUR HEAD GETTING EATEN OFF
+2022-12-05T23:39:23Z: PLAYER CHATTED [ 3643059145] IXCerberusIX00       (  -22.0,    12.0,   278.9)
+  ugh
+2022-12-05T23:39:24Z: PLAYER CHATTED [ 1731675193] Avagsmiles           (  -24.4,    11.9,   273.3)
+  Maid
+2022-12-05T23:39:24Z: PLAYER CHATTED [ 1600113328] kitten_lover85490    (    0.9,    13.0,   370.3)
+  Everything is red
+2022-12-05T23:39:26Z: PLAYER CHATTED [ 3998200292] savvy_xx123          (  -27.1,    34.6,   371.7)
+  hi
+2022-12-05T23:39:29Z: PLAYER ADDED   [  150638212] Estorrra             a.k.a. George              
+2022-12-05T23:39:32Z: PLAYER CHATTED [ 1451904814] mylrv                (  -20.7,    11.9,   273.5)
+  Yes?
+2022-12-05T23:39:33Z: PLAYER CHATTED [  330767536] Itz_Emily427         (   11.5,    16.3,   378.8)
+  Put on a uniform please!
+2022-12-05T23:39:33Z: PLAYER CHATTED [ 1731675193] Avagsmiles           (  -23.0,    11.9,   273.4)
+  Why are the doors locked?
+2022-12-05T23:39:38Z: PLAYER CHATTED [ 2664356597] happyfacepalestine   (   -2.8,    11.9,   396.6)
+  I have a question 
+2022-12-05T23:39:38Z: PLAYER CHATTED [ 1451904814] mylrv                (  -21.6,    11.9,   274.8)
+  You will see.
+2022-12-05T23:39:38Z: PLAYER CHATTED [ 1944406398] justbe11aa           (  -23.5,    14.7,   385.9)
+  i need fod
+2022-12-05T23:39:39Z: PLAYER CHATTED [ 1731675193] Avagsmiles           (  -23.0,    11.9,   273.4)
+  Its morning.
+2022-12-05T23:39:39Z: PLAYER CHATTED [ 1220318642] dksdksanf            (  -22.7,    35.0,   361.4)
+  omg that girl put me in this room for sayuing idc
+2022-12-05T23:39:40Z: PLAYER CHATTED [ 3998200292] savvy_xx123          (  -27.5,    34.6,   369.8)
+  What are you doing in there
+2022-12-05T23:39:42Z: PLAYER CHATTED [ 1220318642] dksdksanf            (  -22.7,    35.0,   361.4)
+  shes mad
+2022-12-05T23:39:43Z: PLAYER REMOVED [ 1573964032] TRIXEGAMERGIRL       a.k.a. Star                
+2022-12-05T23:39:43Z: PLAYER CHATTED [  330767536] Itz_Emily427         (   11.3,    16.3,   378.4)
+  They are located in the restrooms.
+2022-12-05T23:39:44Z: PLAYER CHATTED [ 1644754481] izzygotgum12         (    1.3,    12.0,   379.0)
+  " mrs . emily? "
+2022-12-05T23:39:44Z: PLAYER CHATTED [ 1944406398] justbe11aa           (  -23.5,    14.7,   385.9)
+  who
+2022-12-05T23:39:46Z: PLAYER CHATTED [ 3317250465] JordynBestie123      (    2.7,    13.1,   363.5)
+  same
+2022-12-05T23:39:47Z: PLAYER CHATTED [ 4033369081] crankysalty          (    2.9,    12.9,   375.2)
+  I HAVE A UNIFORM
+2022-12-05T23:39:49Z: PLAYER CHATTED [  678482363] Quackistic           (    4.1,    15.2,   399.1)
+  Was ist es?
+2022-12-05T23:39:51Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   -5.5,    13.0,   394.3)
+  I need a new uniform
+2022-12-05T23:39:52Z: PLAYER REMOVED [ 2318261056] Ariana030914         a.k.a. TheLoLgirl          
+2022-12-05T23:39:53Z: PLAYER CHATTED [  366442022] cpie13               (    0.9,    12.0,   383.1)
+  Miss I need food
+2022-12-05T23:39:54Z: PLAYER CHATTED [ 1220318642] dksdksanf            (  -22.7,    35.0,   361.4)
+  idk
+2022-12-05T23:39:56Z: PLAYER CHATTED [ 4033369081] crankysalty          (    2.9,    12.9,   375.2)
+  IT WONT SHOW
+2022-12-05T23:39:56Z: PLAYER CHATTED [  678482363] Quackistic           (    4.1,    15.2,   399.5)
+  (What is it?)
+2022-12-05T23:39:56Z: PLAYER CHATTED [ 3998200292] savvy_xx123          (  -27.5,    34.6,   369.8)
+  ohh
+2022-12-05T23:39:56Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (  -15.0,    11.9,   277.6)
+  Huh
+2022-12-05T23:39:59Z: PLAYER CHATTED [  330767536] Itz_Emily427         (   11.1,    16.3,   378.6)
+  Yes?
+2022-12-05T23:39:59Z: PLAYER REMOVED [ 1370512716] cookswilc1           a.k.a. Idk                 
+2022-12-05T23:39:59Z: PLAYER CHATTED [ 1944406398] justbe11aa           (   -1.7,    11.9,   389.1)
+  can i have food pls
+2022-12-05T23:40:03Z: PLAYER CHATTED [ 2664356597] happyfacepalestine   (   -6.4,    13.2,   397.7)
+  What does insanity mean
+2022-12-05T23:40:03Z: PLAYER CHATTED [ 1644754481] izzygotgum12         (    1.9,    11.9,   378.7)
+  " are we going to the watering hole? "
+2022-12-05T23:40:05Z: PLAYER CHATTED [ 1891099232] UnicornKatt2012      (  -10.0,    12.2,   270.6)
+  why the doors closed?
+2022-12-05T23:40:10Z: PLAYER REMOVED [ 3384369284] sebin_85             a.k.a. Mario               
+2022-12-05T23:40:11Z: PLAYER CHATTED [ 1600113328] kitten_lover85490    (    0.9,    13.0,   370.3)
+  Ooh
+2022-12-05T23:40:13Z: PLAYER CHATTED [ 4033369081] crankysalty          (    2.9,    12.9,   375.2)
+  FOOD OR I WILL BIT YOUR HAIR OFF AND EAT IT LIKE SPAGHETTI
+2022-12-05T23:40:15Z: PLAYER CHATTED [ 1220318642] dksdksanf            (  -22.7,    35.0,   361.4)
+  im lack of hygiene soooo i think im going to get insane soon
+2022-12-05T23:40:17Z: PLAYER CHATTED [  678482363] Quackistic           (    4.1,    15.2,   399.5)
+  The opposite of Sane.
+2022-12-05T23:40:17Z: PLAYER CHATTED [ 1220318642] dksdksanf            (  -22.7,    35.0,   361.4)
+  oof
+2022-12-05T23:40:17Z: PLAYER CHATTED [ 3998200292] savvy_xx123          (  -27.5,    34.6,   369.8)
+  I will try my hardest to get you out
+2022-12-05T23:40:21Z: PLAYER REMOVED [ 3511750726] Sarah357427         
+2022-12-05T23:40:21Z: PLAYER CHATTED [ 1600113328] kitten_lover85490    (    0.9,    13.0,   370.3)
+  I love that place
+2022-12-05T23:40:24Z: PLAYER CHATTED [ 1451904814] mylrv                (  -18.0,    11.9,   274.8)
+  Wait patiently.
+2022-12-05T23:40:27Z: PLAYER CHATTED [ 1944406398] justbe11aa           (   -1.5,    11.9,   391.2)
+  can i have food pls
+2022-12-05T23:40:27Z: PLAYER CHATTED [  330767536] Itz_Emily427         (   11.0,    16.3,   378.7)
+  You’ll see what were doing in a bit!
+2022-12-05T23:40:27Z: PLAYER CHATTED [ 1220318642] dksdksanf            (  -22.7,    35.0,   361.4)
+  aww ty
+2022-12-05T23:40:30Z: PLAYER REMOVED [  820719330] lovirrs              a.k.a. lye                 
+2022-12-05T23:40:31Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (  -15.7,    11.9,   278.0)
+  Ok
+2022-12-05T23:40:32Z: PLAYER CHATTED [ 2487613860] Myagirl20201         (    1.5,    12.2,   381.0)
+  Soccer?
+2022-12-05T23:40:36Z: PLAYER CHATTED [ 2553613541] cupcakequeenandmia13 (  -19.3,    12.1,   264.2)
+  open door pls ma'ma
+2022-12-05T23:40:37Z: PLAYER CHATTED [ 3998200292] savvy_xx123          (  -27.1,    35.0,   369.5)
+  np
+2022-12-05T23:40:37Z: PLAYER CHATTED [ 4033369081] crankysalty          (    0.8,    13.0,   383.1)
+  IM REPORTING YOU
+2022-12-05T23:40:38Z: PLAYER CHATTED [  366442022] cpie13               (   -0.5,    11.9,   389.0)
+  I rlly need food
+2022-12-05T23:40:43Z: PLAYER CHATTED [ 1451904814] mylrv                (  -18.0,    11.9,   274.8)
+  No.
+2022-12-05T23:40:43Z: PLAYER CHATTED [ 1600113328] kitten_lover85490    (   -0.0,    13.0,   373.6)
+  -raises hand-
+2022-12-05T23:40:44Z: PLAYER CHATTED [ 2664356597] happyfacepalestine   (   -4.2,    11.9,   397.6)
+  That was my seat
+2022-12-05T23:40:45Z: PLAYER CHATTED [ 1514079414] yoyoyoyoyoyo323232   (    1.8,    13.0,   366.9)
+  Anyone wanna sleep 
+2022-12-05T23:40:46Z: PLAYER ADDED   [ 3888446013] INGRIDfeia1234       a.k.a. Paula_noku          
+2022-12-05T23:40:46Z: PLAYER REMOVED [ 2031493495] AaryaDior            a.k.a. WISH_Kayla          
+2022-12-05T23:40:50Z: PLAYER CHATTED [ 1220318642] dksdksanf            (  -22.7,    35.0,   361.4)
+  :FD
+2022-12-05T23:40:50Z: PLAYER CHATTED [ 2553613541] cupcakequeenandmia13 (  -15.2,    12.1,   271.9)
+  why?
+2022-12-05T23:40:50Z: PLAYER CHATTED [ 1644754481] izzygotgum12         (   -6.4,    13.1,   397.7)
+  " idc "
+2022-12-05T23:40:51Z: PLAYER CHATTED [ 1220318642] dksdksanf            (  -22.7,    35.0,   361.4)
+  D
+2022-12-05T23:40:52Z: PLAYER CHATTED [ 3998200292] savvy_xx123          (  -27.1,    35.0,   369.5)
+  WAIT HERE
+2022-12-05T23:40:54Z: PLAYER CHATTED [ 1220318642] dksdksanf            (  -22.7,    35.0,   361.4)
+  :D
+2022-12-05T23:40:58Z: PLAYER CHATTED [ 1220318642] dksdksanf            (  -22.7,    35.0,   361.4)
+  okayy
+2022-12-05T23:41:00Z: PLAYER CHATTED [ 1451904814] mylrv                (  -25.7,    11.9,   281.0)
+  I've answered that.
+2022-12-05T23:41:00Z: PLAYER CHATTED [ 1731675193] Avagsmiles           (   -2.8,    12.0,   384.4)
+  Miss ! Please unlock the doors!
+2022-12-05T23:41:00Z: PLAYER CHATTED [ 2405048469] macize12             (   -5.5,    12.9,   394.3)
+  s5op being rude
+2022-12-05T23:41:01Z: PLAYER ADDED   [ 1126908395] kittenbabyzz         a.k.a. Deli                
+2022-12-05T23:41:04Z: PLAYER ADDED   [ 1519630540] 41_Sunset            a.k.a. Reindeer            
+2022-12-05T23:41:04Z: PLAYER REMOVED [ 4033369081] crankysalty         
+2022-12-05T23:41:04Z: PLAYER CHATTED [ 2553613541] cupcakequeenandmia13 (  -16.1,    12.1,   272.6)
+  i need food
+2022-12-05T23:41:04Z: PLAYER CHATTED [ 1451904814] mylrv                (  -21.7,    11.9,   277.5)
+  3 times.
+2022-12-05T23:41:06Z: PLAYER CHATTED [ 2487613860] Myagirl20201         (    2.5,    11.9,   377.3)
+  Mrs. Emily I need food…
+2022-12-05T23:41:06Z: PLAYER CHATTED [ 1944406398] justbe11aa           (    1.0,    12.0,   382.5)
+  may i have food pls
+2022-12-05T23:41:09Z: PLAYER ADDED   [ 1025257208] EdensWorldCupcake    a.k.a. hola                
+2022-12-05T23:41:11Z: PLAYER ADDED   [ 4033369081] crankysalty         
+2022-12-05T23:41:11Z: CHRCTER ADDED  [ 1025257208] EdensWorldCupcake    a.k.a. hola                
+2022-12-05T23:41:11Z: PLAYER CHATTED [ 2553613541] cupcakequeenandmia13 (  -16.1,    12.1,   272.6)
+  i did not see
+2022-12-05T23:41:13Z: PLAYER CHATTED [ 1731675193] Avagsmiles           (   -2.8,    12.0,   384.4)
+  Im hungry and i wont to pick berries
+2022-12-05T23:41:18Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (    3.9,    11.9,   372.5)
+  Same
+2022-12-05T23:41:26Z: PLAYER REMOVED [ 1237188498] SarahKawwiCat        a.k.a. Snowy               
+2022-12-05T23:41:28Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (    2.0,    11.9,   378.8)
+  We are starving!
+2022-12-05T23:41:31Z: PLAYER CHATTED [ 1600113328] kitten_lover85490    (   -0.0,    13.0,   373.6)
+  Mrs. Emily I don’t feel very good..
+2022-12-05T23:41:33Z: PLAYER CHATTED [ 1731675193] Avagsmiles           (    0.2,    12.1,   386.4)
+  Dinner is a while away.
+2022-12-05T23:41:38Z: PLAYER CHATTED [  366442022] cpie13               (    1.8,    12.9,   366.9)
+  Do you see red to…
+2022-12-05T23:41:42Z: PLAYER CHATTED [ 2405048469] macize12             (   -5.5,    12.9,   394.3)
+  u already
+2022-12-05T23:41:42Z: PLAYER CHATTED [ 1731675193] Avagsmiles           (    0.2,    12.1,   386.4)
+  And i skipped breakfast 
+2022-12-05T23:41:44Z: PLAYER CHATTED [ 2295446024] 0reomil              (   -6.3,    13.0,   372.0)
+  im hungry
+2022-12-05T23:41:52Z: PLAYER ADDED   [ 4032369363] theyluvkeiraxo      
+2022-12-05T23:41:56Z: PLAYER CHATTED [ 1524957517] richgirlRZ           (  -13.7,    12.2,   252.3)
+  Single file line!
+2022-12-05T23:41:57Z: PLAYER CHATTED [ 1509424158] kaydenceluna5        (    0.1,    12.0,   381.1)
+  Someone is stuck in a ceil
+2022-12-05T23:41:57Z: PLAYER CHATTED [ 1944406398] justbe11aa           (  -25.8,    12.1,   244.4)
+  may i have food pls
+2022-12-05T23:42:02Z: PLAYER CHATTED [  330767536] Itz_Emily427         (  -16.6,    12.8,   257.6)
+  Neat line please!
+2022-12-05T23:42:03Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   -6.0,    12.2,   258.4)
+  I need food!!!
+2022-12-05T23:42:03Z: PLAYER CHATTED [ 1600113328] kitten_lover85490    (   -6.0,    12.2,   255.9)
+  Miss
+2022-12-05T23:42:10Z: CHRCTER ADDED  [ 1519630540] 41_Sunset            a.k.a. Reindeer            
+2022-12-05T23:42:12Z: PLAYER CHATTED [ 1644754481] izzygotgum12         (   -5.7,    11.9,   259.1)
+  BRO STOP BEGGING ITS PATHEIC
+2022-12-05T23:42:13Z: PLAYER CHATTED [ 1600113328] kitten_lover85490    (  -10.7,    12.4,   250.9)
+  I don’t feel good..
+2022-12-05T23:42:15Z: PLAYER CHATTED [  330767536] Itz_Emily427         (  -17.9,    12.8,   252.1)
+  Where?
+2022-12-05T23:42:18Z: PLAYER REMOVED [ 4032369363] theyluvkeiraxo      
+2022-12-05T23:42:20Z: PLAYER CHATTED [ 3998200292] savvy_xx123          (  -21.2,    12.2,   251.1)
+  HELP PLEASE
+2022-12-05T23:42:20Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   -5.7,    12.2,   257.2)
+  ?
+2022-12-05T23:42:25Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   -9.3,    11.9,   267.6)
+  I’m hungry
+2022-12-05T23:42:25Z: PLAYER CHATTED [  330767536] Itz_Emily427         (  -18.3,    12.8,   254.2)
+  You may go and rest!
+2022-12-05T23:42:25Z: PLAYER REMOVED [ 1636755163] GlitchGirl3232       a.k.a. Tessa               
+2022-12-05T23:42:26Z: PLAYER CHATTED [ 1509424158] kaydenceluna5        (  -15.3,    11.9,   258.4)
+  Come
+2022-12-05T23:42:29Z: PLAYER CHATTED [ 3485182641] mima9427             (  -92.5,    34.4,   296.5)
+  can i return this
+2022-12-05T23:42:32Z: PLAYER CHATTED [ 1600113328] kitten_lover85490    (  -16.5,    12.2,   252.1)
+  Where?
+2022-12-05T23:42:34Z: PLAYER CHATTED [ 1212129557] belinda221101        (  -12.0,    12.2,   272.4)
+  im gonna die
+2022-12-05T23:42:35Z: PLAYER ADDED   [  670093039] Lxvely_Crimsxn       a.k.a. Grim                
+2022-12-05T23:42:36Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   -5.7,    12.2,   257.2)
+  I am tireddd
+2022-12-05T23:42:38Z: PLAYER CHATTED [ 3998200292] savvy_xx123          (  -10.9,    12.4,   251.2)
+  HELP
+2022-12-05T23:42:40Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   -5.7,    12.2,   257.2)
+  I need foodddddd
+2022-12-05T23:42:41Z: PLAYER CHATTED [ 1524957517] richgirlRZ           (  -13.0,    12.4,   251.0)
+  Hats the matter?
+2022-12-05T23:42:41Z: PLAYER CHATTED [  550280295] BIush_Roses          (   -4.8,    11.9,   255.3)
+  what happens if we don't get food in time....
+2022-12-05T23:42:44Z: PLAYER CHATTED [ 1524957517] richgirlRZ           (  -13.0,    12.4,   251.0)
+  Whats*
+2022-12-05T23:42:45Z: PLAYER CHATTED [  366442022] cpie13               (  -16.7,    11.9,   253.1)
+  Miss
+2022-12-05T23:42:45Z: CHRCTER ADDED  [ 1025257208] EdensWorldCupcake    a.k.a. hola                
+2022-12-05T23:42:46Z: PLAYER CHATTED [  678482363] Quackistic           (   -7.1,    11.9,   250.3)
+  Kommst du aus Amerika oder Frankreich?
+2022-12-05T23:42:46Z: PLAYER CHATTED [ 1891099232] UnicornKatt2012      (   -7.0,    12.2,   261.9)
+  whats food I haven't had that in a while
+2022-12-05T23:42:49Z: PLAYER CHATTED [ 2295446024] 0reomil              (   -8.2,    11.6,   265.4)
+  fooooooooooooooooooooooooddddddddddddd
+2022-12-05T23:42:50Z: PLAYER CHATTED [ 1644754481] izzygotgum12         (   -5.7,    11.9,   259.1)
+  NOTHING WILL GO WRONG
+2022-12-05T23:42:51Z: PLAYER CHATTED [ 3998200292] savvy_xx123          (  -10.9,    12.4,   251.2)
+  COME WITH ME
+2022-12-05T23:42:54Z: PLAYER CHATTED [ 2279486585] iiKqitlin            (  -14.1,    12.6,   245.9)
+  Yes?
+2022-12-05T23:42:56Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   -5.7,    12.2,   257.2)
+  I need foodddddddd
+2022-12-05T23:42:56Z: PLAYER CHATTED [ 1644754481] izzygotgum12         (   -5.7,    11.9,   259.1)
+  ###############
+2022-12-05T23:42:57Z: PLAYER CHATTED [  330767536] Itz_Emily427         (  -18.3,    35.3,   362.5)
+  Out please!
+2022-12-05T23:42:59Z: PLAYER CHATTED [ 1600113328] kitten_lover85490    (   34.5,    34.4,   308.1)
+  Bleh
+2022-12-05T23:43:01Z: PLAYER CHATTED [ 1220318642] dksdksanf            (  -13.8,    35.0,   358.8)
+  merci
+2022-12-05T23:43:01Z: PLAYER CHATTED [ 1644754481] izzygotgum12         (   -5.7,    11.9,   259.1)
+  SO JUST BE QUIET
+2022-12-05T23:43:02Z: PLAYER CHATTED [  366442022] cpie13               (  -15.0,    12.1,   248.2)
+  For some reason I’m seeing red
+2022-12-05T23:43:04Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   -9.3,    11.9,   267.6)
+  U R GOING TO KILL US ALLL
+2022-12-05T23:43:05Z: PLAYER REMOVED [ 3314042078] Gabmatblox          
+2022-12-05T23:43:05Z: PLAYER CHATTED [  678482363] Quackistic           (   -7.1,    11.9,   250.3)
+  Oh, aber, Ich liebe Frankreich, ##########
+2022-12-05T23:43:07Z: PLAYER CHATTED [ 3517843554] Xxaliyahplayz1234xX  (  -19.8,    12.4,   247.7)
+  Miss? I'm sorry if this is irritating you but I haven't got breakfast..
+2022-12-05T23:43:10Z: PLAYER CHATTED [ 1644754481] izzygotgum12         (   -5.7,    11.9,   259.1)
+  ######################
+2022-12-05T23:43:12Z: PLAYER CHATTED [  366442022] cpie13               (  -15.0,    12.1,   248.2)
+  And my arm is just stuck shaking…
+2022-12-05T23:43:18Z: PLAYER CHATTED [ 2279486585] iiKqitlin            (  -14.0,    12.6,   246.1)
+  It's probably because of your imagination!
+2022-12-05T23:43:18Z: PLAYER REMOVED [ 1514079414] yoyoyoyoyoyo323232   a.k.a. FryingPan           
+2022-12-05T23:43:19Z: PLAYER CHATTED [ 3517843554] Xxaliyahplayz1234xX  (  -19.8,    12.4,   247.7)
+  haven't got breakfast.
+2022-12-05T23:43:20Z: PLAYER CHATTED [ 1220318642] dksdksanf            (  -41.8,    35.0,   361.5)
+  tyty
+2022-12-05T23:43:23Z: PLAYER CHATTED [ 1451904814] mylrv                (  -17.2,    12.1,   242.2)
+  You will be getting food, just wait patiently.
+2022-12-05T23:43:26Z: PLAYER CHATTED [  330767536] Itz_Emily427         (  -47.4,    35.4,   364.2)
+  No problem! 
+2022-12-05T23:43:26Z: PLAYER CHATTED [ 1644754481] izzygotgum12         (   -5.7,    11.9,   259.1)
+  I WILL K!LL EVERYONE OF YOU TONIGHT IF YOU DONNOT HUSH UP
+2022-12-05T23:43:26Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   -5.7,    12.2,   257.2)
+  YOU DON'T GIVE THE ORDERS AROUND HEREEEEE
+2022-12-05T23:43:27Z: PLAYER CHATTED [ 3998200292] savvy_xx123          (  -44.7,    34.8,   367.0)
+  YOUR OUT
+2022-12-05T23:43:28Z: PLAYER CHATTED [  366442022] cpie13               (  -15.0,    12.1,   248.2)
+  Ok
+2022-12-05T23:43:30Z: PLAYER CHATTED [ 1524957517] richgirlRZ           (  -46.7,    34.9,   366.9)
+  What’s wrong here Savy?
+2022-12-05T23:43:33Z: PLAYER CHATTED [ 3517843554] Xxaliyahplayz1234xX  (  -19.8,    12.4,   247.7)
+  Thank you!
+2022-12-05T23:43:33Z: PLAYER CHATTED [ 1220318642] dksdksanf            (  -41.8,    35.0,   361.5)
+  yayay
+2022-12-05T23:43:35Z: PLAYER CHATTED [  330767536] Itz_Emily427         (  -47.4,    35.4,   364.2)
+  Let’s get in line for the picnic now!
+2022-12-05T23:43:36Z: PLAYER CHATTED [ 1212129557] belinda221101        (  -12.3,    12.4,   250.8)
+  im gonna die
+2022-12-05T23:43:36Z: PLAYER CHATTED [ 1126908395] kittenbabyzz         (    1.8,    12.4,   242.2)
+  Help
+2022-12-05T23:43:38Z: PLAYER CHATTED [ 1524957517] richgirlRZ           (  -48.1,    34.9,   367.1)
+  Emily.
+2022-12-05T23:43:38Z: PLAYER CHATTED [ 1022417498] bammbulka101         (   -6.6,    12.4,   260.5)
+  im hungryy
+2022-12-05T23:43:41Z: PLAYER CHATTED [ 1644754481] izzygotgum12         (   -5.7,    11.9,   259.1)
+  yeah, but i will k!ll you
+2022-12-05T23:43:47Z: PLAYER CHATTED [  330767536] Itz_Emily427         (  -46.5,    35.4,   364.1)
+  Someone was locked in the cell!
+2022-12-05T23:43:48Z: PLAYER CHATTED [ 2279486585] iiKqitlin            (  -14.0,    12.6,   246.1)
+  Why so?
+2022-12-05T23:43:50Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   -4.9,    12.2,   256.7)
+  I am dying
+2022-12-05T23:43:52Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   -9.3,    11.9,   267.6)
+  I need food 
+2022-12-05T23:43:54Z: PLAYER REMOVED [ 1731675193] Avagsmiles           a.k.a. Luvzangelz          
+2022-12-05T23:43:56Z: PLAYER CHATTED [ 1524957517] richgirlRZ           (  -48.8,    34.9,   366.4)
+  Because he was misbehaving 
+2022-12-05T23:43:57Z: PLAYER CHATTED [ 1212129557] belinda221101        (  -12.8,    12.4,   248.6)
+  im starveing
+2022-12-05T23:44:01Z: PLAYER CHATTED [  150638212] Estorrra             (   -9.3,    12.1,   216.5)
+  Doors should be open by now right?
+2022-12-05T23:44:02Z: PLAYER CHATTED [ 3998200292] savvy_xx123          (  -46.3,    34.8,   367.6)
+  Someone is locking everyone is cages
+2022-12-05T23:44:03Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   -9.3,    11.9,   267.6)
+  Please
+2022-12-05T23:44:06Z: PLAYER CHATTED [  550280295] BIush_Roses          (   -3.7,    12.0,   253.4)
+  may we please go to the picnic?
+2022-12-05T23:44:06Z: PLAYER REMOVED [ 1600113328] kitten_lover85490    a.k.a. Elfy                
+2022-12-05T23:44:10Z: PLAYER CHATTED [ 2405048469] macize12             (   -0.1,    12.1,   246.4)
+  im ######
+2022-12-05T23:44:14Z: PLAYER CHATTED [ 1644754481] izzygotgum12         (   -5.7,    11.9,   259.1)
+  i am about to kick yalls #####
+2022-12-05T23:44:16Z: PLAYER CHATTED [  330767536] Itz_Emily427         (  -46.9,    35.4,   363.7)
+  Oh! I’m sorry I didn’t know that!
+2022-12-05T23:44:18Z: PLAYER REMOVED [ 2664356597] happyfacepalestine   a.k.a. Thedarkabyss        
+2022-12-05T23:44:24Z: PLAYER CHATTED [ 1644754481] izzygotgum12         (   -5.4,    12.2,   252.3)
+  a s ^ e ^
+2022-12-05T23:44:25Z: PLAYER CHATTED [ 2405048469] macize12             (   -1.7,    11.8,   240.3)
+  8 wanna eat the food at the picnic
+2022-12-05T23:44:27Z: PLAYER CHATTED [ 1891099232] UnicornKatt2012      (   -7.0,    12.2,   261.9)
+  ARE WE GOING OUT OR WHAT
+2022-12-05T23:44:27Z: PLAYER REMOVED [ 4033369081] crankysalty         
+2022-12-05T23:44:33Z: PLAYER ADDED   [ 4033369081] crankysalty         
+2022-12-05T23:44:33Z: PLAYER ADDED   [ 1125745806] Angel_Fl0r           a.k.a. horse               
+2022-12-05T23:44:34Z: PLAYER ADDED   [ 4105238669] Amika_122344        
+2022-12-05T23:44:36Z: PLAYER REMOVED [ 4105238669] Amika_122344        
+2022-12-05T23:44:38Z: PLAYER CHATTED [ 1891099232] UnicornKatt2012      (   22.6,     7.9,   164.0)
+  FINALLY
+2022-12-05T23:44:42Z: PLAYER REMOVED [ 1001559668] bubblesWOW           a.k.a. Mop                 
+2022-12-05T23:44:43Z: PLAYER REMOVED [ 1644754481] izzygotgum12         a.k.a. LUCKYlady           
+2022-12-05T23:44:46Z: PLAYER REMOVED [ 3643059145] IXCerberusIX00      
+2022-12-05T23:44:47Z: PLAYER REMOVED [ 1125745806] Angel_Fl0r           a.k.a. horse               
+2022-12-05T23:44:48Z: PLAYER ADDED   [ 1125745806] Angel_Fl0r           a.k.a. horse               
+2022-12-05T23:45:01Z: PLAYER ADDED   [ 1377220223] ellafuntime3         a.k.a. Ava                 
+2022-12-05T23:45:01Z: PLAYER ADDED   [  179218499] HeartRoseKitty       a.k.a. candycorn           
+2022-12-05T23:45:05Z: PLAYER CHATTED [ 1022417498] bammbulka101         (  418.3,    20.2,  -143.0)
+  tyy
+2022-12-05T23:45:12Z: CHRCTER ADDED  [ 1125745806] Angel_Fl0r           a.k.a. horse               
+2022-12-05T23:45:12Z: PLAYER REMOVED [ 2553613541] cupcakequeenandmia13 a.k.a. Mille               
+2022-12-05T23:45:12Z: PLAYER CHATTED [  678482363] Quackistic           (  429.8,     7.6,  -192.5)
+  -hides-
+2022-12-05T23:45:13Z: PLAYER REMOVED [ 4033369081] crankysalty         
+2022-12-05T23:45:14Z: PLAYER REMOVED [ 1377220223] ellafuntime3         a.k.a. Ava                 
+2022-12-05T23:45:15Z: PLAYER CHATTED [ 1891099232] UnicornKatt2012      (  429.6,    19.1,  -159.7)
+  this is nice
+2022-12-05T23:45:19Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (  411.2,    20.1,  -145.6)
+  Food please!!!!!!!!!!!!
+2022-12-05T23:45:21Z: PLAYER ADDED   [ 3789709910] Mavi66294            a.k.a. dalasa              
+2022-12-05T23:45:22Z: PLAYER REMOVED [ 4016481678] logicIS_me           a.k.a. logic               
+2022-12-05T23:45:23Z: PLAYER CHATTED [  678482363] Quackistic           (  431.4,     4.6,  -188.1)
+  BOO!
+2022-12-05T23:45:23Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (  411.2,    20.1,  -145.6)
+  Thank you!
+2022-12-05T23:45:25Z: PLAYER CHATTED [ 2405048469] macize12             (  411.8,    20.0,  -141.9)
+  more food please
+2022-12-05T23:45:26Z: PLAYER CHATTED [ 2295446024] 0reomil              (  418.0,    20.2,  -144.8)
+  foooddd
+2022-12-05T23:45:27Z: PLAYER CHATTED [ 3317250465] JordynBestie123      (  410.9,    20.1,  -147.4)
+  ty i was starving
+2022-12-05T23:45:27Z: PLAYER ADDED   [ 2241625141] doghria              a.k.a. slimeblob           
+2022-12-05T23:45:30Z: PLAYER REMOVED [ 1519630540] 41_Sunset            a.k.a. Reindeer            
+2022-12-05T23:45:30Z: PLAYER CHATTED [ 1022417498] bammbulka101         (  418.3,    20.2,  -143.0)
+  tyy
+2022-12-05T23:45:32Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (  421.9,    18.8,  -150.7)
+  Milk?
+2022-12-05T23:45:34Z: PLAYER CHATTED [ 1212129557] belinda221101        (  432.5,    20.0,  -127.6)
+  i nnned more
+2022-12-05T23:45:34Z: PLAYER CHATTED [  678482363] Quackistic           (  427.8,    18.7,  -154.1)
+  Sehr nett.
+2022-12-05T23:45:34Z: PLAYER CHATTED [  550280295] BIush_Roses          (  433.1,    19.9,  -134.2)
+  thansk!
+2022-12-05T23:45:40Z: PLAYER CHATTED [  678482363] Quackistic           (  430.1,    18.7,  -156.2)
+  Nein Milch.
+2022-12-05T23:45:44Z: PLAYER CHATTED [ 2487613860] Myagirl20201         (  430.3,    18.9,  -140.6)
+  Food
+2022-12-05T23:45:48Z: PLAYER CHATTED [ 2295446024] 0reomil              (  418.0,    20.2,  -144.8)
+  more food
+2022-12-05T23:45:50Z: PLAYER ADDED   [ 2541892160] Navy9omg2            a.k.a. GoddesS             
+2022-12-05T23:45:50Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (  411.2,    20.1,  -145.6)
+  Thank you!!
+2022-12-05T23:45:51Z: PLAYER CHATTED [  330767536] Itz_Emily427         (  433.6,    19.6,  -155.9)
+  Sorry, I didn’t know they were misbehaving and that’s why they were in the cell!
+2022-12-05T23:45:54Z: PLAYER REMOVED [ 3789709910] Mavi66294            a.k.a. dalasa              
+2022-12-05T23:45:56Z: PLAYER CHATTED [ 2405048469] macize12             (  411.8,    20.0,  -141.9)
+  4hank you
+2022-12-05T23:45:57Z: PLAYER ADDED   [ 2056316625] pfkesmxdld           a.k.a. sour                
+2022-12-05T23:45:59Z: PLAYER CHATTED [ 1212129557] belinda221101        (  432.5,    20.0,  -127.6)
+  thx
+2022-12-05T23:45:59Z: PLAYER ADDED   [   67983035] GWOMPIE              a.k.a. DSBM                
+2022-12-05T23:45:59Z: PLAYER CHATTED [ 1524957517] richgirlRZ           (  440.4,    18.6,  -152.5)
+  No worries!
+2022-12-05T23:46:00Z: PLAYER CHATTED [ 2295446024] 0reomil              (  418.0,    20.2,  -144.8)
+  and i need milk
+2022-12-05T23:46:02Z: PLAYER CHATTED [ 2405048469] macize12             (  411.8,    20.0,  -141.9)
+  thqnk u
+2022-12-05T23:46:02Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (  433.1,    18.7,  -150.0)
+  TYSM
+2022-12-05T23:46:03Z: PLAYER ADDED   [ 1752262374] coolpanda5112        a.k.a. Johnnyappleseed     
+2022-12-05T23:46:05Z: PLAYER CHATTED [ 1655699749] vTrustedUgh          (  438.1,    20.1,  -127.1)
+  more pls
+2022-12-05T23:46:06Z: PLAYER ADDED   [ 3402126354] nikolVakhra          a.k.a. Nirka               
+2022-12-05T23:46:07Z: PLAYER REMOVED [  179218499] HeartRoseKitty       a.k.a. candycorn           
+2022-12-05T23:46:09Z: PLAYER CHATTED [ 2405048469] macize12             (  411.8,    20.0,  -141.9)
+  5o go insane
+2022-12-05T23:46:12Z: PLAYER ADDED   [ 1358377762] lilkaiwee            a.k.a. Tay                 
+2022-12-05T23:46:12Z: PLAYER CHATTED [ 2487613860] Myagirl20201         (  430.6,    19.0,  -150.9)
+  Food
+2022-12-05T23:46:14Z: PLAYER CHATTED [ 1524957517] richgirlRZ           (  440.7,    18.6,  -152.2)
+  Let’s head back!
+2022-12-05T23:46:18Z: PLAYER ADDED   [  190289846] ImWillowTho          a.k.a. 0MG_CHRISTMAS       
+2022-12-05T23:46:19Z: PLAYER CHATTED [ 2405048469] macize12             (  411.8,    20.0,  -141.9)
+  to*
+2022-12-05T23:46:21Z: PLAYER CHATTED [ 2487613860] Myagirl20201         (  430.3,    19.0,  -151.7)
+  Pls
+2022-12-05T23:46:22Z: PLAYER REMOVED [  670093039] Lxvely_Crimsxn       a.k.a. Grim                
+2022-12-05T23:46:23Z: PLAYER CHATTED [ 1524957517] richgirlRZ           (  428.7,    19.2,  -132.0)
+  Ere late
+2022-12-05T23:46:24Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (  434.8,    18.5,  -150.9)
+  More please
+2022-12-05T23:46:26Z: CHRCTER ADDED  [ 1125745806] Angel_Fl0r           a.k.a. horse               
+2022-12-05T23:46:29Z: PLAYER CHATTED [ 1524957517] richgirlRZ           (  428.7,    19.2,  -132.0)
+  Were*
+2022-12-05T23:46:29Z: PLAYER CHATTED [  330767536] Itz_Emily427         (  435.5,    19.4,  -155.8)
+  It’s almost dinner!
+2022-12-05T23:46:32Z: PLAYER CHATTED [ 1891099232] UnicornKatt2012      (  418.7,    18.7,  -164.3)
+  its so peaceful
+2022-12-05T23:46:32Z: PLAYER REMOVED [  150638212] Estorrra             a.k.a. George              
+2022-12-05T23:46:32Z: PLAYER CHATTED [ 2487613860] Myagirl20201         (  429.7,    19.0,  -151.7)
+  Ty!
+2022-12-05T23:46:33Z: PLAYER ADDED   [ 1187893895] oofgirl_yeet2        a.k.a. Kirk                
+2022-12-05T23:46:33Z: PLAYER CHATTED [  550280295] BIush_Roses          (  425.6,    18.7,  -129.6)
+  (really random, I love your skirt)
+2022-12-05T23:46:34Z: PLAYER CHATTED [ 3517843554] Xxaliyahplayz1234xX  (  428.0,    19.2,  -145.3)
+  I'm so hungry..
+2022-12-05T23:46:36Z: PLAYER CHATTED [ 1944406398] justbe11aa           (  436.3,    19.9,  -127.3)
+  food pls i didnt get any
+2022-12-05T23:46:37Z: PLAYER ADDED   [ 1185271331] oofgirl_yeet1        a.k.a. p4rkr               
+2022-12-05T23:46:38Z: PLAYER CHATTED [ 2295446024] 0reomil              (  430.4,    18.7,  -152.6)
+  more
+2022-12-05T23:46:42Z: PLAYER CHATTED [ 2295446024] 0reomil              (  430.4,    18.7,  -152.6)
+  pls
+2022-12-05T23:46:43Z: PLAYER ADDED   [ 3749164016] Elisafoxed_try0     
+2022-12-05T23:46:44Z: PLAYER ADDED   [  670093039] Lxvely_Crimsxn       a.k.a. Grim                
+2022-12-05T23:46:44Z: PLAYER ADDED   [ 3915719017] Dan742ee            
+2022-12-05T23:46:45Z: PLAYER CHATTED [ 1891099232] UnicornKatt2012      (  308.7,     5.3,    -3.1)
+  now back
+2022-12-05T23:46:45Z: PLAYER CHATTED [ 3517843554] Xxaliyahplayz1234xX  (  428.0,    19.2,  -145.3)
+  Does anyone have food pleasez
+2022-12-05T23:46:49Z: PLAYER CHATTED [ 3485182641] mima9427             (  435.7,    18.6,  -150.9)
+  im really hungry
+2022-12-05T23:46:49Z: PLAYER REMOVED [  691635668] VicDeth              a.k.a. C_plusplus          
+2022-12-05T23:46:51Z: PLAYER REMOVED [ 3888446013] INGRIDfeia1234       a.k.a. Paula_noku          
+2022-12-05T23:46:54Z: PLAYER REMOVED [ 2056316625] pfkesmxdld           a.k.a. sour                
+2022-12-05T23:46:56Z: PLAYER ADDED   [ 1377380687] iialexina            a.k.a. CamiCane            
+2022-12-05T23:46:58Z: PLAYER ADDED   [ 2056316625] pfkesmxdld           a.k.a. sour                
+2022-12-05T23:47:03Z: CHRCTER ADDED  [ 2541892160] Navy9omg2            a.k.a. GoddesS             
+2022-12-05T23:47:09Z: PLAYER REMOVED [ 1185271331] oofgirl_yeet1        a.k.a. p4rkr               
+2022-12-05T23:47:20Z: PLAYER ADDED   [ 3514296293] NOTBXLLAXMEL         a.k.a. AlyWoods            
+2022-12-05T23:47:20Z: PLAYER REMOVED [ 3749164016] Elisafoxed_try0     
+2022-12-05T23:47:20Z: PLAYER CHATTED [ 1187893895] oofgirl_yeet2        (  768.6,   -44.3,   706.3)
+  GROUPIE
+2022-12-05T23:47:23Z: PLAYER ADDED   [ 3894740933] gjd3702             
+2022-12-05T23:47:29Z: PLAYER REMOVED [  190289846] ImWillowTho          a.k.a. 0MG_CHRISTMAS       
+2022-12-05T23:47:39Z: PLAYER REMOVED [  678482363] Quackistic           a.k.a. james               
+2022-12-05T23:47:41Z: PLAYER CHATTED [ 2405048469] macize12             (  -78.6,     8.0,   254.9)
+  bro im so stinkyy
+2022-12-05T23:47:42Z: PLAYER ADDED   [ 1381013595] Jamalia_23           a.k.a. Noe                 
+2022-12-05T23:47:50Z: PLAYER REMOVED [ 1187893895] oofgirl_yeet2        a.k.a. Kirk                
+2022-12-05T23:48:01Z: PLAYER ADDED   [ 1110345510] Chanelvc            
+2022-12-05T23:48:05Z: PLAYER ADDED   [ 2651714814] alegranth           
+2022-12-05T23:48:10Z: PLAYER ADDED   [  234015977] bradeliz7800         a.k.a. ellie               
+2022-12-05T23:48:11Z: PLAYER ADDED   [ 1891414649] PitaManzo           
+2022-12-05T23:48:12Z: PLAYER REMOVED [ 1358377762] lilkaiwee            a.k.a. Tay                 
+2022-12-05T23:48:17Z: PLAYER REMOVED [ 3915719017] Dan742ee            
+2022-12-05T23:48:19Z: PLAYER ADDED   [ 1569601749] Sxmply_Cl0udy        a.k.a. Lucas               
+2022-12-05T23:48:19Z: PLAYER ADDED   [ 3353206379] Fa1ryl0v3xx          a.k.a. auxiqlx             
+2022-12-05T23:48:20Z: PLAYER ADDED   [  964132464] Unicornparty7891     a.k.a. Baby_Milky          
+2022-12-05T23:48:26Z: PLAYER CHATTED [ 1126908395] kittenbabyzz         (   39.6,     8.1,   245.1)
+  Hi!
+2022-12-05T23:48:29Z: PLAYER ADDED   [  130978923] delquinn             a.k.a. mushr00m            
+2022-12-05T23:48:30Z: PLAYER REMOVED [ 1891414649] PitaManzo           
+2022-12-05T23:48:30Z: PLAYER ADDED   [ 1211860958] Axquiaaa             a.k.a. ari                 
+2022-12-05T23:48:33Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   37.0,     8.2,   244.5)
+  Good afternoon!!!!!
+2022-12-05T23:48:33Z: PLAYER CHATTED [ 3485182641] mima9427             (   42.7,     7.9,   235.6)
+  food 
+2022-12-05T23:48:35Z: PLAYER ADDED   [ 3150864602] Soph172010           a.k.a. Ducky               
+2022-12-05T23:48:42Z: PLAYER CHATTED [ 1509424158] kaydenceluna5        (   25.1,     8.9,   221.9)
+  Milk please 
+2022-12-05T23:48:46Z: PLAYER REMOVED [ 1451904814] mylrv                a.k.a. Indecisive          
+2022-12-05T23:48:52Z: PLAYER CHATTED [ 1944406398] justbe11aa           (   30.3,     7.8,   233.1)
+  i cant enter
+2022-12-05T23:48:54Z: CHRCTER ADDED  [ 1569601749] Sxmply_Cl0udy        a.k.a. Lucas               
+2022-12-05T23:48:56Z: PLAYER CHATTED [ 1891099232] UnicornKatt2012      (   34.8,     8.1,   239.1)
+  ty
+2022-12-05T23:48:59Z: CHRCTER ADDED  [ 1381013595] Jamalia_23           a.k.a. Noe                 
+2022-12-05T23:48:59Z: PLAYER ADDED   [ 1593509020] LittleCharlieee      a.k.a. Gregory             
+2022-12-05T23:49:00Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   39.4,     8.2,   245.1)
+  Thanksssss!!!
+2022-12-05T23:49:03Z: PLAYER CHATTED [ 1509424158] kaydenceluna5        (   25.1,     8.9,   221.9)
+  Milk please 
+2022-12-05T23:49:06Z: PLAYER REMOVED [ 3514296293] NOTBXLLAXMEL         a.k.a. AlyWoods            
+2022-12-05T23:49:06Z: PLAYER REMOVED [ 3150864602] Soph172010           a.k.a. Ducky               
+2022-12-05T23:49:06Z: PLAYER ADDED   [  417592610] rainbowbrielle       a.k.a. Evan                
+2022-12-05T23:49:08Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   38.5,     7.8,   240.2)
+  Milk please
+2022-12-05T23:49:08Z: PLAYER CHATTED [ 1022417498] bammbulka101         (   28.0,     8.4,   237.2)
+  thanks!!
+2022-12-05T23:49:13Z: PLAYER REMOVED [ 1211860958] Axquiaaa             a.k.a. ari                 
+2022-12-05T23:49:13Z: PLAYER CHATTED [ 1167000741] Eve_MM               (   45.7,     8.8,   203.2)
+  milkkkk
+2022-12-05T23:49:15Z: PLAYER CHATTED [  746514775] mileymce             (   53.5,     8.9,   205.3)
+  Milk pls
+2022-12-05T23:49:17Z: PLAYER CHATTED [ 1944406398] justbe11aa           (   26.6,     7.8,   247.3)
+  i cant get in
+2022-12-05T23:49:21Z: PLAYER CHATTED [  746514775] mileymce             (   53.5,     8.9,   205.3)
+  Milk ######
+2022-12-05T23:49:21Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   46.4,     7.8,   233.8)
+  Milk pls
+2022-12-05T23:49:27Z: PLAYER CHATTED [ 1377380687] iialexina            (   24.0,     8.9,   225.9)
+  Milk please
+2022-12-05T23:49:29Z: PLAYER CHATTED [ 3485182641] mima9427             (   45.2,     7.9,   230.5)
+  milk please
+2022-12-05T23:49:31Z: PLAYER CHATTED [ 1509424158] kaydenceluna5        (   25.1,     8.9,   221.9)
+  May I have milk
+2022-12-05T23:49:36Z: PLAYER CHATTED [ 1167000741] Eve_MM               (   45.7,     8.8,   203.2)
+  milk
+2022-12-05T23:49:38Z: PLAYER CHATTED [ 1944406398] justbe11aa           (   30.1,     7.8,   233.7)
+  can someone give food from right here
+2022-12-05T23:49:38Z: PLAYER CHATTED [ 1167000741] Eve_MM               (   45.7,     8.8,   203.2)
+  pls
+2022-12-05T23:49:38Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   46.7,     8.8,   199.6)
+  Can I have some
+2022-12-05T23:49:39Z: PLAYER REMOVED [ 3353206379] Fa1ryl0v3xx          a.k.a. auxiqlx             
+2022-12-05T23:49:42Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   46.7,     8.8,   199.6)
+  Milk
+2022-12-05T23:49:45Z: PLAYER CHATTED [  746514775] mileymce             (   53.5,     8.9,   205.3)
+  Milk
+2022-12-05T23:49:46Z: PLAYER CHATTED [ 2405048469] macize12             (   54.5,     8.9,   201.6)
+  ##########
+2022-12-05T23:49:48Z: PLAYER CHATTED [ 1944406398] justbe11aa           (   43.9,     7.8,   233.1)
+  pls im gonna die\
+2022-12-05T23:49:48Z: PLAYER REMOVED [  417592610] rainbowbrielle       a.k.a. Evan                
+2022-12-05T23:49:52Z: PLAYER REMOVED [ 1593509020] LittleCharlieee      a.k.a. Gregory             
+2022-12-05T23:49:52Z: PLAYER REMOVED [ 1125745806] Angel_Fl0r           a.k.a. horse               
+2022-12-05T23:49:52Z: PLAYER CHATTED [ 2405048469] macize12             (   54.5,     8.9,   201.6)
+  no
+2022-12-05T23:49:54Z: PLAYER CHATTED [ 1509424158] kaydenceluna5        (   25.1,     8.9,   221.9)
+  Milk please 
+2022-12-05T23:49:55Z: PLAYER REMOVED [ 3998200292] savvy_xx123         
+2022-12-05T23:49:55Z: CHRCTER ADDED  [  234015977] bradeliz7800         a.k.a. ellie               
+2022-12-05T23:49:57Z: PLAYER CHATTED [ 3485182641] mima9427             (   47.9,     7.9,   227.5)
+  milk please?
+2022-12-05T23:49:58Z: PLAYER CHATTED [ 1167000741] Eve_MM               (   45.7,     8.8,   203.2)
+  milkkk
+2022-12-05T23:50:02Z: PLAYER CHATTED [ 1167000741] Eve_MM               (   45.7,     8.8,   203.2)
+  plsss
+2022-12-05T23:50:04Z: PLAYER CHATTED [ 1025257208] EdensWorldCupcake    (   62.0,     7.6,   194.1)
+  Stop.
+2022-12-05T23:50:06Z: PLAYER ADDED   [ 1961456415] Muda872              a.k.a. Kae                 
+2022-12-05T23:50:06Z: PLAYER CHATTED [  746514775] mileymce             (   53.5,     8.9,   205.3)
+  Milk
+2022-12-05T23:50:07Z: PLAYER CHATTED [ 2295446024] 0reomil              (   38.4,     7.6,   250.2)
+  milk
+2022-12-05T23:50:08Z: PLAYER ADDED   [ 3895223557] BBG_MrMans           a.k.a. felipesBBG          
+2022-12-05T23:50:14Z: PLAYER CHATTED [ 1167000741] Eve_MM               (   45.7,     8.8,   203.2)
+  milkkkk
+2022-12-05T23:50:15Z: PLAYER CHATTED [ 1025257208] EdensWorldCupcake    (   50.1,     7.6,   230.9)
+  Sit down1
+2022-12-05T23:50:18Z: PLAYER CHATTED [  746514775] mileymce             (   53.5,     8.9,   205.3)
+  Milk
+2022-12-05T23:50:18Z: PLAYER CHATTED [ 1509424158] kaydenceluna5        (   25.1,     8.9,   221.9)
+  Milk please 
+2022-12-05T23:50:20Z: PLAYER CHATTED [ 2405048469] macize12             (   26.4,     7.8,   240.0)
+  so blurry and red
+2022-12-05T23:50:21Z: PLAYER ADDED   [  542856145] Elephanthearts      
+2022-12-05T23:50:23Z: PLAYER ADDED   [ 2903052613] Mimimalian          
+2022-12-05T23:50:24Z: PLAYER CHATTED [ 2295446024] 0reomil              (   38.0,     9.1,   201.2)
+  milk pls
+2022-12-05T23:50:25Z: PLAYER CHATTED [ 3517843554] Xxaliyahplayz1234xX  (   44.0,     8.1,   229.3)
+  Miss?
+2022-12-05T23:50:29Z: PLAYER CHATTED [ 3963731296] myboyseven2          (   26.1,     8.4,   246.0)
+  Milk milk
+2022-12-05T23:50:34Z: PLAYER REMOVED [ 2405048469] macize12             a.k.a. Idk                 
+2022-12-05T23:50:35Z: PLAYER CHATTED [ 1509424158] kaydenceluna5        (   25.1,     8.9,   221.9)
+  Milk please 
+2022-12-05T23:50:35Z: PLAYER ADDED   [ 1593509020] LittleCharlieee      a.k.a. Gregory             
+2022-12-05T23:50:36Z: PLAYER REMOVED [   67983035] GWOMPIE              a.k.a. DSBM                
+2022-12-05T23:50:37Z: PLAYER ADDED   [   67983035] GWOMPIE              a.k.a. DSBM                
+2022-12-05T23:50:38Z: CHRCTER ADDED  [ 1569601749] Sxmply_Cl0udy        a.k.a. Lucas               
+2022-12-05T23:50:38Z: PLAYER ADDED   [ 3676736073] Cloudy_fluff102      a.k.a. Dis                 
+2022-12-05T23:50:40Z: PLAYER ADDED   [  210556845] KittyKatRoses       
+2022-12-05T23:50:42Z: PLAYER CHATTED [ 3517843554] Xxaliyahplayz1234xX  (   46.0,     8.1,   233.9)
+  I know I cant get more but I'm starving..
+2022-12-05T23:50:45Z: PLAYER CHATTED [ 2295446024] 0reomil              (   38.0,     9.1,   201.2)
+  milk
+2022-12-05T23:50:46Z: PLAYER ADDED   [  417592610] rainbowbrielle       a.k.a. Evan                
+2022-12-05T23:50:49Z: PLAYER CHATTED [ 2295446024] 0reomil              (   38.0,     9.1,   201.2)
+  milk pls
+2022-12-05T23:50:51Z: PLAYER CHATTED [  550280295] BIush_Roses          (   32.5,    34.3,   351.0)
+  hi
+2022-12-05T23:50:52Z: PLAYER CHATTED [  746514775] mileymce             (   41.4,     8.2,   232.4)
+  Milk pls
+2022-12-05T23:50:55Z: PLAYER CHATTED [ 2295446024] 0reomil              (   38.0,     9.1,   201.2)
+  milk milk milk
+2022-12-05T23:50:56Z: PLAYER CHATTED [ 1509424158] kaydenceluna5        (   25.1,     8.9,   221.9)
+  Please milk
+2022-12-05T23:50:58Z: PLAYER ADDED   [ 1148235674] PrincessGamerKitty28 a.k.a. Fox                 
+2022-12-05T23:50:59Z: PLAYER CHATTED [ 3517843554] Xxaliyahplayz1234xX  (   46.4,     8.1,   234.0)
+  I'm sorry
+2022-12-05T23:51:03Z: PLAYER CHATTED [ 1167000741] Eve_MM               (   45.7,     8.8,   203.2)
+  milk
+2022-12-05T23:51:03Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   47.4,    34.3,   356.7)
+  No matter what pls dont open the door
+2022-12-05T23:51:06Z: PLAYER REMOVED [ 3676736073] Cloudy_fluff102      a.k.a. Dis                 
+2022-12-05T23:51:08Z: PLAYER CHATTED [  550280295] BIush_Roses          (   32.5,    34.3,   351.0)
+  okay
+2022-12-05T23:51:10Z: PLAYER ADDED   [ 3859594267] Flylfdgd            
+2022-12-05T23:51:11Z: PLAYER CHATTED [ 3517843554] Xxaliyahplayz1234xX  (   46.4,     8.1,   234.0)
+  But can I have 1 more plate?
+2022-12-05T23:51:13Z: PLAYER CHATTED [ 2295446024] 0reomil              (   46.1,     7.6,   233.5)
+  milk
+2022-12-05T23:51:16Z: PLAYER CHATTED [ 2541892160] Navy9omg2            (   25.2,     8.0,   246.1)
+  milk peasse
+2022-12-05T23:51:21Z: PLAYER REMOVED [ 2903052613] Mimimalian          
+2022-12-05T23:51:25Z: PLAYER ADDED   [  921357431] UnicornCookiesCA     a.k.a. BlackWidow          
+2022-12-05T23:51:25Z: CHRCTER ADDED  [ 3895223557] BBG_MrMans           a.k.a. felipesBBG          
+2022-12-05T23:51:27Z: PLAYER REMOVED [ 1524957517] richgirlRZ           a.k.a. FBI                 
+2022-12-05T23:51:28Z: PLAYER ADDED   [ 1456846771] ImBellaTheCow        a.k.a. CreativeName        
+2022-12-05T23:51:29Z: PLAYER ADDED   [ 1594735330] JennyferLuz          a.k.a. Ephemera            
+2022-12-05T23:51:29Z: PLAYER REMOVED [ 1022417498] bammbulka101         a.k.a. Kaj1nta             
+2022-12-05T23:51:31Z: PLAYER ADDED   [ 1691145168] niropi_x            
+2022-12-05T23:51:33Z: PLAYER ADDED   [  922970988] rinakarinax          a.k.a. serenity            
+2022-12-05T23:51:34Z: PLAYER CHATTED [  550280295] BIush_Roses          (   42.3,    34.4,   347.2)
+  hello!
+2022-12-05T23:51:39Z: PLAYER CHATTED [ 1126908395] kittenbabyzz         (   44.7,    35.1,   337.9)
+  Uh
+2022-12-05T23:51:43Z: PLAYER CHATTED [ 2241625141] doghria              (   42.1,    34.9,   344.2)
+  hi
+2022-12-05T23:51:45Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   43.7,    34.4,   340.6)
+  DONT OPEN THE DOOR
+2022-12-05T23:51:48Z: PLAYER REMOVED [ 1593509020] LittleCharlieee      a.k.a. Gregory             
+2022-12-05T23:51:52Z: PLAYER CHATTED [ 1126908395] kittenbabyzz         (   44.4,    34.6,   337.1)
+  Can I come in?
+2022-12-05T23:51:54Z: PLAYER CHATTED [ 2241625141] doghria              (   43.5,    34.9,   349.1)
+  kk
+2022-12-05T23:51:54Z: PLAYER CHATTED [  550280295] BIush_Roses          (   44.6,    34.4,   346.0)
+  okay
+2022-12-05T23:52:00Z: CHRCTER ADDED  [  922970988] rinakarinax          a.k.a. serenity            
+2022-12-05T23:52:03Z: CHRCTER ADDED  [   67983035] GWOMPIE              a.k.a. DSBM                
+2022-12-05T23:52:09Z: PLAYER CHATTED [ 1126908395] kittenbabyzz         (   44.1,    35.0,   337.8)
+  Sorry I was checking the door
+2022-12-05T23:52:17Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   23.3,    34.5,   350.0)
+  Why is everyone leaving mee???
+2022-12-05T23:52:18Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   46.2,    34.4,   345.1)
+  She could be a murder
+2022-12-05T23:52:23Z: PLAYER CHATTED [ 1110345510] Chanelvc             (  -10.1,    32.7,   315.6)
+  Can I be ########## as a orpahn?
+2022-12-05T23:52:34Z: PLAYER CHATTED [ 1110345510] Chanelvc             (    9.6,    34.3,   319.7)
+  regristered
+2022-12-05T23:52:40Z: PLAYER CHATTED [ 2279486585] iiKqitlin            (    5.0,    34.8,   325.2)
+  Go to your dorms.
+2022-12-05T23:52:41Z: PLAYER CHATTED [ 1126908395] kittenbabyzz         (   44.7,    35.1,   338.0)
+  Can come in?
+2022-12-05T23:52:43Z: PLAYER CHATTED [ 1220318642] dksdksanf            (   25.7,    35.0,   309.5)
+  get the hell out of here
+2022-12-05T23:52:44Z: PLAYER CHATTED [ 3517843554] Xxaliyahplayz1234xX  (   -2.9,    12.5,   240.9)
+  HELLLPPPPP!!!
+2022-12-05T23:52:44Z: PLAYER CHATTED [ 2241625141] doghria              (   41.9,    34.9,   340.6)
+  shes not
+2022-12-05T23:52:49Z: PLAYER REMOVED [  130978923] delquinn             a.k.a. mushr00m            
+2022-12-05T23:52:53Z: PLAYER CHATTED [  550280295] BIush_Roses          (   45.6,    34.4,   341.7)
+  fine, let her in
+2022-12-05T23:52:53Z: PLAYER CHATTED [ 1110345510] Chanelvc             (   43.9,    34.3,   335.3)
+  Can I be ############
+2022-12-05T23:52:57Z: PLAYER CHATTED [ 1110345510] Chanelvc             (   43.9,    34.3,   335.3)
+  regristred
+2022-12-05T23:52:59Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   42.5,    34.4,   342.1)
+  NO
+2022-12-05T23:53:00Z: PLAYER CHATTED [ 3517843554] Xxaliyahplayz1234xX  (   -2.9,    12.5,   240.9)
+  HELLO??
+2022-12-05T23:53:04Z: PLAYER CHATTED [ 1220318642] dksdksanf            (   29.1,    35.0,   312.4)
+  get out
+2022-12-05T23:53:04Z: PLAYER CHATTED [ 1126908395] kittenbabyzz         (   44.7,    35.1,   338.0)
+  Join the group
+2022-12-05T23:53:05Z: PLAYER ADDED   [ 2414409124] karma15313           a.k.a. Yuna                
+2022-12-05T23:53:08Z: CHRCTER ADDED  [ 1961456415] Muda872              a.k.a. Kae                 
+2022-12-05T23:53:09Z: PLAYER CHATTED [ 1655699749] vTrustedUgh          (   25.3,    34.8,   316.9)
+  i need sleep
+2022-12-05T23:53:09Z: PLAYER CHATTED [ 3485182641] mima9427             (   16.9,    34.5,   345.5)
+  ummm hi
+2022-12-05T23:53:10Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   11.5,    34.8,   341.8)
+  Good luck!
+2022-12-05T23:53:11Z: PLAYER CHATTED [ 1212129557] belinda221101        (   18.4,    34.4,   303.7)
+  i cant
+2022-12-05T23:53:13Z: PLAYER ADDED   [  130978923] delquinn             a.k.a. mushr00m            
+2022-12-05T23:53:14Z: PLAYER CHATTED [ 1220318642] dksdksanf            (   29.1,    35.0,   312.4)
+  get outget outget outget outget outget outget outget outget outget outget outget outget outget outget outget outget outvget outget outget outget outget outget outget outget outget outget outget out
+2022-12-05T23:53:14Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   11.5,    34.8,   341.8)
+  Go to bed!
+2022-12-05T23:53:14Z: PLAYER CHATTED [ 1126908395] kittenbabyzz         (   44.8,    34.6,   337.6)
+  I would appreciate
+2022-12-05T23:53:18Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   42.8,    34.4,   342.2)
+  A murder 
+2022-12-05T23:53:18Z: PLAYER ADDED   [ 3676736073] Cloudy_fluff102      a.k.a. Dis                 
+2022-12-05T23:53:21Z: PLAYER CHATTED [ 1212129557] belinda221101        (   18.4,    34.4,   303.7)
+  im gonna get in trouled
+2022-12-05T23:53:25Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   42.9,    34.4,   341.2)
+  Is out there
+2022-12-05T23:53:27Z: PLAYER REMOVED [  234015977] bradeliz7800         a.k.a. ellie               
+2022-12-05T23:53:34Z: PLAYER CHATTED [  550280295] BIush_Roses          (   45.6,    34.4,   344.7)
+  mhm
+2022-12-05T23:53:35Z: PLAYER REMOVED [  130978923] delquinn             a.k.a. mushr00m            
+2022-12-05T23:53:35Z: PLAYER CHATTED [ 2241625141] doghria              (   41.9,    34.9,   347.4)
+  kk
+2022-12-05T23:53:35Z: PLAYER CHATTED [ 1126908395] kittenbabyzz         (   30.9,    34.6,   319.1)
+  Hey man
+2022-12-05T23:53:39Z: CHRCTER ADDED  [ 1752262374] coolpanda5112        a.k.a. Johnnyappleseed     
+2022-12-05T23:53:41Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   42.6,    34.4,   343.6)
+  If they come in we’re done
+2022-12-05T23:53:42Z: PLAYER REMOVED [ 1691145168] niropi_x            
+2022-12-05T23:53:44Z: PLAYER CHATTED [ 2241625141] doghria              (   41.9,    34.9,   347.4)
+  lets just sleep ok
+2022-12-05T23:53:44Z: PLAYER REMOVED [ 3676736073] Cloudy_fluff102      a.k.a. Dis                 
+2022-12-05T23:53:44Z: PLAYER CHATTED [ 1126908395] kittenbabyzz        
+  That's not nice
+2022-12-05T23:53:45Z: PLAYER CHATTED [ 2541892160] Navy9omg2            (   20.5,    34.3,   360.4)
+  do you have i knife, if so please dont kill me
+2022-12-05T23:53:46Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -24.7,    35.1,   361.7)
+  You're punishing me?
+2022-12-05T23:53:46Z: PLAYER CHATTED [ 1212129557] belinda221101        (   18.7,    35.9,   302.2)
+  im leaveimg'
+2022-12-05T23:53:49Z: PLAYER REMOVED [ 2414409124] karma15313           a.k.a. Yuna                
+2022-12-05T23:53:49Z: PLAYER ADDED   [  130978923] delquinn             a.k.a. mushr00m            
+2022-12-05T23:53:50Z: PLAYER CHATTED [ 1126908395] kittenbabyzz        
+  You should apologize
+2022-12-05T23:53:56Z: PLAYER ADDED   [ 1593509020] LittleCharlieee      a.k.a. Gregory             
+2022-12-05T23:53:58Z: PLAYER CHATTED [ 1126908395] kittenbabyzz        
+  It isn't very nice
+2022-12-05T23:54:03Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   12.8,    34.8,   348.9)
+  ?
+2022-12-05T23:54:03Z: PLAYER CHATTED [ 3894740933] gjd3702              (  -18.5,    34.6,   365.9)
+  n9ooo
+2022-12-05T23:54:07Z: CHRCTER ADDED  [ 1944406398] justbe11aa           a.k.a. what                
+2022-12-05T23:54:09Z: PLAYER CHATTED [ 1126908395] kittenbabyzz        
+  Not,nice man
+2022-12-05T23:54:10Z: PLAYER CHATTED [  550280295] BIush_Roses          (   35.1,    34.3,   341.3)
+  Out of curiousity, what does the milk everyone's talking about do?
+2022-12-05T23:54:10Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   13.3,    34.8,   345.5)
+  I didn't see the message
+2022-12-05T23:54:13Z: PLAYER REMOVED [ 1944406398] justbe11aa           a.k.a. what                
+2022-12-05T23:54:13Z: PLAYER CHATTED [ 3894740933] gjd3702              (  -18.5,    34.6,   365.9)
+  noooooooo
+2022-12-05T23:54:13Z: PLAYER ADDED   [ 1524957517] richgirlRZ           a.k.a. FBI                 
+2022-12-05T23:54:17Z: PLAYER ADDED   [ 2414409124] karma15313           a.k.a. Yuna                
+2022-12-05T23:54:17Z: PLAYER CHATTED [ 1126908395] kittenbabyzz         (   33.7,    35.5,   326.6)
+  Very not nice
+2022-12-05T23:54:17Z: PLAYER CHATTED [ 3859594267] Flylfdgd             (   -8.3,    12.7,   217.8)
+  How do I become an orphan
+2022-12-05T23:54:19Z: PLAYER REMOVED [  366442022] cpie13               a.k.a. Huntress            
+2022-12-05T23:54:24Z: PLAYER CHATTED [ 2541892160] Navy9omg2            (   13.5,    34.6,   350.2)
+  your pyscho i might have a kife
+2022-12-05T23:54:25Z: PLAYER REMOVED [ 1593509020] LittleCharlieee      a.k.a. Gregory             
+2022-12-05T23:54:27Z: PLAYER CHATTED [ 2241625141] doghria              (   44.7,    34.4,   366.6)
+  i took a sip and everything turned red for a second
+2022-12-05T23:54:29Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   12.6,    34.8,   346.8)
+  I do 
+2022-12-05T23:54:30Z: PLAYER CHATTED [ 1126908395] kittenbabyzz         (   20.4,    34.6,   329.0)
+  Can you help me?
+2022-12-05T23:54:31Z: PLAYER ADDED   [  722636061] mynameisBOOTUFUL     a.k.a. Dadslimmy           
+2022-12-05T23:54:33Z: CHRCTER ADDED  [ 3963731296] myboyseven2         
+2022-12-05T23:54:34Z: PLAYER ADDED   [  880730809] swagxscarr           a.k.a. 0MGSCAR             
+2022-12-05T23:54:34Z: PLAYER CHATTED [  550280295] BIush_Roses          (   35.1,    36.0,   341.3)
+  same
+2022-12-05T23:54:34Z: PLAYER REMOVED [ 1655699749] vTrustedUgh          a.k.a. skelly              
+2022-12-05T23:54:38Z: PLAYER CHATTED [ 1509424158] kaydenceluna5        (  -21.4,    34.3,   366.7)
+  What are you doing in here
+2022-12-05T23:54:38Z: PLAYER ADDED   [ 1593509020] LittleCharlieee      a.k.a. Gregory             
+2022-12-05T23:54:40Z: PLAYER CHATTED [ 1110345510] Chanelvc             (   36.5,    34.7,   270.8)
+  help
+2022-12-05T23:54:44Z: PLAYER CHATTED [ 1126908395] kittenbabyzz         (   40.9,    34.6,   332.5)
+  Not nice
+2022-12-05T23:54:44Z: CHRCTER ADDED  [ 1220318642] dksdksanf            a.k.a. uryummymother       
+2022-12-05T23:54:45Z: PLAYER CHATTED [ 2541892160] Navy9omg2            (   13.5,    34.6,   350.2)
+  please dont kill me
+2022-12-05T23:54:46Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   16.1,    34.8,   343.1)
+  Stay safe!
+2022-12-05T23:54:49Z: PLAYER CHATTED [ 2279486585] iiKqitlin            (  -14.9,    34.8,   366.2)
+  I have gotten stuck.
+2022-12-05T23:54:49Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   16.1,    34.8,   343.1)
+  I won't?
+2022-12-05T23:54:49Z: CHRCTER ADDED  [ 1524957517] richgirlRZ           a.k.a. FBI                 
+2022-12-05T23:54:51Z: PLAYER CHATTED [ 1110345510] Chanelvc             (   36.5,    34.7,   270.8)
+  ###
+2022-12-05T23:54:52Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   37.4,    34.4,   346.6)
+  It will make you pysco and it will let you #### ########
+2022-12-05T23:54:52Z: PLAYER REMOVED [ 3859594267] Flylfdgd            
+2022-12-05T23:54:53Z: PLAYER CHATTED [ 1110345510] Chanelvc             (   36.5,    34.7,   270.8)
+  :(
+2022-12-05T23:54:55Z: PLAYER CHATTED [ 2241625141] doghria              (   37.5,    34.9,   348.2)
+  and now my vision is blury
+2022-12-05T23:54:55Z: PLAYER ADDED   [  557692810] ApplePie10203        a.k.a. Jay                 
+2022-12-05T23:54:56Z: PLAYER CHATTED [ 2295446024] 0reomil              (   21.5,    56.3,   319.7)
+  im scared
+2022-12-05T23:54:56Z: PLAYER REMOVED [  722636061] mynameisBOOTUFUL     a.k.a. Dadslimmy           
+2022-12-05T23:54:57Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   36.3,    34.4,   346.2)
+  Kill
+2022-12-05T23:54:59Z: PLAYER ADDED   [ 3859594267] Flylfdgd            
+2022-12-05T23:55:00Z: PLAYER CHATTED [ 1509424158] kaydenceluna5        (  -17.5,    34.3,   367.5)
+  Can’t you leave?
+2022-12-05T23:55:03Z: PLAYER ADDED   [  171929556] 1000kokis            a.k.a. Emmy                
+2022-12-05T23:55:04Z: PLAYER CHATTED [  550280295] BIush_Roses          (   35.1,    36.0,   341.3)
+  so...how do we do that...?
+2022-12-05T23:55:06Z: PLAYER CHATTED [ 2241625141] doghria              (   37.5,    34.9,   348.2)
+  it tastes good though
+2022-12-05T23:55:06Z: CHRCTER ADDED  [ 2414409124] karma15313           a.k.a. Yuna                
+2022-12-05T23:55:08Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-05T23:55:08Z: PLAYER CHATTED [ 1212129557] belinda221101       
+  help were being actted
+2022-12-05T23:55:10Z: PLAYER REMOVED [ 1220318642] dksdksanf            a.k.a. uryummymother       
+2022-12-05T23:55:14Z: PLAYER REMOVED [ 1025257208] EdensWorldCupcake    a.k.a. hola                
+2022-12-05T23:55:14Z: PLAYER CHATTED [ 1110345510] Chanelvc             (   35.9,    34.7,   270.6)
+  pls
+2022-12-05T23:55:15Z: PLAYER ADDED   [  548590644] beauty651            a.k.a. Duck                
+2022-12-05T23:55:15Z: CHRCTER ADDED  [  670093039] Lxvely_Crimsxn       a.k.a. Grim                
+2022-12-05T23:55:17Z: CHRCTER ADDED  [ 3963731296] myboyseven2         
+2022-12-05T23:55:20Z: PLAYER CHATTED [ 2295446024] 0reomil              (   25.0,    56.3,   330.0)
+  help
+2022-12-05T23:55:24Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   39.4,    34.4,   345.3)
+  If your insanity goes up all the way
+2022-12-05T23:55:27Z: PLAYER CHATTED [ 2241625141] doghria              (   32.5,    34.4,   351.0)
+  I heard it was spoiled
+2022-12-05T23:55:29Z: PLAYER CHATTED [  550280295] BIush_Roses          (   35.1,    36.0,   341.3)
+  ohhh
+2022-12-05T23:55:30Z: PLAYER REMOVED [ 3859594267] Flylfdgd            
+2022-12-05T23:55:31Z: PLAYER CHATTED [ 1110345510] Chanelvc             (   35.9,    34.7,   270.6)
+  im not a [physco orphan
+2022-12-05T23:55:31Z: PLAYER REMOVED [  417592610] rainbowbrielle       a.k.a. Evan                
+2022-12-05T23:55:36Z: PLAYER REMOVED [  550280295] BIush_Roses          a.k.a. antiquity           
+2022-12-05T23:55:36Z: CHRCTER ADDED  [  880730809] swagxscarr           a.k.a. 0MGSCAR             
+2022-12-05T23:55:41Z: PLAYER ADDED   [  417592610] rainbowbrielle       a.k.a. Evan                
+2022-12-05T23:55:42Z: PLAYER ADDED   [ 1296096233] Soldierpanda11       a.k.a. Possum              
+2022-12-05T23:55:42Z: PLAYER ADDED   [ 3014196994] CharWood091010       a.k.a. Charlotte           
+2022-12-05T23:55:43Z: PLAYER CHATTED [ 2241625141] doghria              (   32.5,    34.4,   351.0)
+  oop
+2022-12-05T23:55:44Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   16.9,    34.8,   347.8)
+  I can try to kill psycho?
+2022-12-05T23:55:44Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   47.4,    34.3,   356.7)
+  Same
+2022-12-05T23:55:45Z: PLAYER ADDED   [ 2423828517] LollyCat2021         a.k.a. Queen               
+2022-12-05T23:55:52Z: PLAYER ADDED   [ 2986008778] AyJayPayn14          a.k.a. AJW                 
+2022-12-05T23:55:59Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   38.6,    34.4,   355.6)
+  She’s gone
+2022-12-05T23:55:59Z: PLAYER CHATTED [ 2241625141] doghria              (   32.5,    34.4,   351.0)
+  the milk is so good though
+2022-12-05T23:56:01Z: PLAYER ADDED   [  424268110] kittyheart74        
+2022-12-05T23:56:02Z: PLAYER REMOVED [ 1593509020] LittleCharlieee      a.k.a. Gregory             
+2022-12-05T23:56:02Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   16.6,    34.8,   350.8)
+  Should I?
+2022-12-05T23:56:06Z: PLAYER CHATTED [ 1509424158] kaydenceluna5        (  -17.6,    34.3,   361.3)
+   Worth a shot
+2022-12-05T23:56:06Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   39.4,    34.4,   350.8)
+  I know
+2022-12-05T23:56:08Z: PLAYER ADDED   [ 1593509020] LittleCharlieee      a.k.a. Gregory             
+2022-12-05T23:56:10Z: PLAYER CHATTED [ 2541892160] Navy9omg2            (   16.1,    34.6,   345.5)
+  no
+2022-12-05T23:56:10Z: PLAYER REMOVED [  417592610] rainbowbrielle       a.k.a. Evan                
+2022-12-05T23:56:13Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   17.4,    34.8,   344.0)
+  Stay here
+2022-12-05T23:56:13Z: PLAYER REMOVED [ 1126908395] kittenbabyzz         a.k.a. Deli                
+2022-12-05T23:56:18Z: CHRCTER ADDED  [ 3963731296] myboyseven2         
+2022-12-05T23:56:18Z: PLAYER REMOVED [ 3402126354] nikolVakhra          a.k.a. Nirka               
+2022-12-05T23:56:20Z: PLAYER CHATTED [ 2295446024] 0reomil              (   36.8,    34.5,   270.9)
+  pls help
+2022-12-05T23:56:21Z: PLAYER CHATTED [ 1212129557] belinda221101        (   44.9,    35.1,   338.0)
+  help
+2022-12-05T23:56:24Z: PLAYER CHATTED [ 1167000741] Eve_MM               (   37.6,    34.4,   259.1)
+  go awayyyyy
+2022-12-05T23:56:27Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   39.6,    34.4,   347.1)
+  Truth is, I want to become a psycho
+2022-12-05T23:56:28Z: PLAYER REMOVED [  330767536] Itz_Emily427         a.k.a. emily               
+2022-12-05T23:56:29Z: PLAYER REMOVED [ 2423828517] LollyCat2021         a.k.a. Queen               
+2022-12-05T23:56:31Z: PLAYER CHATTED [ 1167000741] Eve_MM               (   37.6,    34.4,   259.1)
+  😭
+2022-12-05T23:56:32Z: PLAYER CHATTED [ 2241625141] doghria              (   32.5,    34.4,   351.0)
+  same
+2022-12-05T23:56:36Z: PLAYER ADDED   [ 2423828517] LollyCat2021         a.k.a. Queen               
+2022-12-05T23:56:39Z: PLAYER REMOVED [ 3895223557] BBG_MrMans           a.k.a. felipesBBG          
+2022-12-05T23:56:41Z: PLAYER CHATTED [ 2241625141] doghria              (   32.5,    34.4,   351.0)
+  but i dont want to kill
+2022-12-05T23:56:44Z: PLAYER REMOVED [ 1593509020] LittleCharlieee      a.k.a. Gregory             
+2022-12-05T23:56:45Z: PLAYER CHATTED [ 1167000741] Eve_MM               (   37.6,    34.4,   259.1)
+  i’m sorry we cantttt
+2022-12-05T23:56:47Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   47.4,    34.3,   356.7)
+  Ya
+2022-12-05T23:56:50Z: PLAYER CHATTED [ 2241625141] doghria              (   32.5,    34.4,   351.0)
+  honestly just for the fun of it
+2022-12-05T23:56:53Z: PLAYER REMOVED [ 2414409124] karma15313           a.k.a. Yuna                
+2022-12-05T23:56:58Z: PLAYER CHATTED [ 2295446024] 0reomil              (   37.5,    34.3,   271.0)
+  pls opennn
+2022-12-05T23:56:58Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   47.4,    34.3,   356.7)
+  Same
+2022-12-05T23:56:59Z: PLAYER CHATTED [ 2241625141] doghria              (   32.5,    34.4,   351.0)
+  imi not gonna be selfish and kill
+2022-12-05T23:57:01Z: PLAYER ADDED   [ 1858723674] nichster120827       a.k.a. Sagittarius         
+2022-12-05T23:57:07Z: PLAYER CHATTED [ 1110345510] Chanelvc             (   35.6,    34.7,   270.5)
+  Help please
+2022-12-05T23:57:08Z: PLAYER CHATTED [ 3517843554] Xxaliyahplayz1234xX  (   -4.5,    12.1,   217.4)
+  Miss, I'm scared..
+2022-12-05T23:57:14Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   47.4,    34.3,   356.7)
+  I’m so stinky
+2022-12-05T23:57:16Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum    
+  lol
+2022-12-05T23:57:18Z: PLAYER CHATTED [ 2241625141] doghria              (   32.5,    34.4,   351.0)
+  honestly i just wanna see what happens
+2022-12-05T23:57:19Z: PLAYER CHATTED [ 2295446024] 0reomil              (   37.8,    34.3,   271.1)
+  theres a killer here
+2022-12-05T23:57:21Z: PLAYER ADDED   [  514553958] avocadosgrave        a.k.a. BananaOne           
+2022-12-05T23:57:25Z: PLAYER CHATTED [ 2295446024] 0reomil              (   37.8,    34.3,   271.1)
+  its so close
+2022-12-05T23:57:26Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum    
+  ...
+2022-12-05T23:57:32Z: PLAYER REMOVED [ 1858723674] nichster120827       a.k.a. Sagittarius         
+2022-12-05T23:57:32Z: PLAYER CHATTED [ 1167000741] Eve_MM               (   48.6,    34.3,   256.6)
+  miley you laggyyyy
+2022-12-05T23:57:36Z: PLAYER CHATTED [  922970988] rinakarinax          (    1.0,    12.4,   215.5)
+  Oh dear, what are you scared of, exactly?
+2022-12-05T23:57:40Z: PLAYER CHATTED [ 1110345510] Chanelvc             (  109.9,    34.3,   291.8)
+  jump off
+2022-12-05T23:57:41Z: PLAYER ADDED   [ 1266819504] GracieGRD            a.k.a. Aussie              
+2022-12-05T23:57:42Z: PLAYER REMOVED [ 3894740933] gjd3702             
+2022-12-05T23:57:45Z: PLAYER CHATTED [ 1110345510] Chanelvc             (  116.6,    34.3,   267.4)
+  and run
+2022-12-05T23:57:47Z: PLAYER ADDED   [ 2620940149] emily_092014         a.k.a. Slaycapybara3       
+2022-12-05T23:57:47Z: PLAYER ADDED   [ 3894740933] gjd3702             
+2022-12-05T23:57:48Z: PLAYER CHATTED [ 2295446024] 0reomil              (  116.8,    34.1,   266.9)
+  why
+2022-12-05T23:57:50Z: PLAYER CHATTED [ 2541892160] Navy9omg2            (   44.5,    56.7,   334.5)
+  omg what is standing in front of me
+2022-12-05T23:57:53Z: CHRCTER ADDED  [ 3317250465] JordynBestie123      a.k.a. Jamie               
+2022-12-05T23:57:53Z: PLAYER CHATTED [ 1110345510] Chanelvc             (  112.9,    34.3,   266.7)
+  its not safe 
+2022-12-05T23:57:54Z: PLAYER REMOVED [ 1456846771] ImBellaTheCow        a.k.a. CreativeName        
+2022-12-05T23:57:54Z: PLAYER CHATTED [  746514775] mileymce             (   38.9,    34.8,   258.7)
+  U too
+2022-12-05T23:57:55Z: PLAYER ADDED   [ 1224392780] VSCO1015             a.k.a. Nesus               
+2022-12-05T23:57:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (   42.7,    57.3,   330.5)
+  I'm who.
+2022-12-05T23:57:58Z: PLAYER CHATTED [ 1110345510] Chanelvc             (  112.9,    34.3,   266.7)
+  im not new to this game
+2022-12-05T23:58:01Z: PLAYER REMOVED [ 3317250465] JordynBestie123      a.k.a. Jamie               
+2022-12-05T23:58:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (   42.7,    57.3,   330.5)
+  Not what.
+2022-12-05T23:58:01Z: PLAYER ADDED   [ 3859594267] Flylfdgd            
+2022-12-05T23:58:01Z: PLAYER ADDED   [ 1238236965] lemon_skyx           a.k.a. nika                
+2022-12-05T23:58:02Z: PLAYER ADDED   [ 2217359470] Dreamcatcher28130   
+2022-12-05T23:58:06Z: PLAYER ADDED   [ 3460570421] Purplecatcat08       a.k.a. Wolf1115            
+2022-12-05T23:58:06Z: PLAYER CHATTED [ 1110345510] Chanelvc             (  110.9,    34.3,   264.3)
+  ive played multiple times
+2022-12-05T23:58:11Z: PLAYER ADDED   [  532320947] lennonolivia         a.k.a. bubbles             
+2022-12-05T23:58:12Z: PLAYER REMOVED [  210556845] KittyKatRoses       
+2022-12-05T23:58:13Z: PLAYER REMOVED [ 1524957517] richgirlRZ           a.k.a. FBI                 
+2022-12-05T23:58:13Z: PLAYER CHATTED [ 2295446024] 0reomil              (  113.7,    34.1,   267.6)
+  im gonna die
+2022-12-05T23:58:17Z: PLAYER CHATTED [ 2541892160] Navy9omg2            (   46.9,    56.7,   336.2)
+  ahhhhh
+2022-12-05T23:58:19Z: PLAYER ADDED   [ 2915338268] lilioi655           
+2022-12-05T23:58:21Z: PLAYER REMOVED [  921357431] UnicornCookiesCA     a.k.a. BlackWidow          
+2022-12-05T23:58:21Z: PLAYER CHATTED [ 2241625141] doghria              (   32.5,    34.4,   351.0)
+  ima scared
+2022-12-05T23:58:23Z: PLAYER CHATTED [ 1110345510] Chanelvc             (  110.9,    34.3,   264.3)
+  you will take fall damage but you wolnt
+2022-12-05T23:58:23Z: PLAYER REMOVED [ 3460570421] Purplecatcat08       a.k.a. Wolf1115            
+2022-12-05T23:58:26Z: PLAYER ADDED   [ 1795286338] SoccerGirl4PIG      
+2022-12-05T23:58:26Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   60.4,    34.7,   336.2)
+  I killed psycho
+2022-12-05T23:58:31Z: PLAYER CHATTED [ 1110345510] Chanelvc             (  110.9,    34.3,   264.3)
+  theres also starnger red berrys like these
+2022-12-05T23:58:35Z: PLAYER CHATTED [ 1752262374] coolpanda5112        (   43.2,     6.3,   100.9)
+  Bbl faculty
+2022-12-05T23:58:35Z: PLAYER CHATTED [  171929556] 1000kokis            (  -17.7,    12.2,   211.8)
+  -She would patiently wait for the day, for the door to open-
+2022-12-05T23:58:37Z: PLAYER CHATTED [ 2241625141] doghria              (   38.5,    34.9,   345.2)
+  i dont like this T^T
+2022-12-05T23:58:39Z: PLAYER ADDED   [ 4032369363] theyluvkeiraxo      
+2022-12-05T23:58:39Z: PLAYER CHATTED [ 1110345510] Chanelvc             (  110.9,    34.3,   264.3)
+  eat them they wolnt #### ####
+2022-12-05T23:58:40Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   41.3,    34.4,   343.3)
+  Don’t be, we’re safe
+2022-12-05T23:58:42Z: PLAYER CHATTED [ 2295446024] 0reomil              (  113.7,    34.1,   267.6)
+  oh
+2022-12-05T23:58:43Z: PLAYER REMOVED [ 2217359470] Dreamcatcher28130   
+2022-12-05T23:58:47Z: PLAYER CHATTED [ 1752262374] coolpanda5112        (   43.8,     6.6,   101.6)
+  African
+2022-12-05T23:58:48Z: PLAYER CHATTED [ 1110345510] Chanelvc             (  110.9,    34.3,   264.3)
+  in the morning come bacl
+2022-12-05T23:58:48Z: PLAYER CHATTED [ 1110345510] Chanelvc             (  110.9,    34.3,   264.3)
+  back*
+2022-12-05T23:58:49Z: PLAYER ADDED   [ 2852748013] Shark_Rider1239      a.k.a. Eamonn              
+2022-12-05T23:58:55Z: PLAYER CHATTED [ 2295446024] 0reomil              (  113.7,    34.1,   267.6)
+  ok
+2022-12-05T23:58:56Z: PLAYER CHATTED [ 1594735330] JennyferLuz          (   -1.3,    12.1,   209.0)
+  omg
+2022-12-05T23:58:57Z: PLAYER CHATTED [ 1752262374] coolpanda5112        (   43.8,     6.6,   101.6)
+  Dam u
+2022-12-05T23:58:58Z: PLAYER CHATTED [ 2241625141] doghria              (   38.5,    34.9,   345.2)
+  we're so gross
+2022-12-05T23:59:01Z: PLAYER ADDED   [ 2468365385] 1cequeena            a.k.a. arixnna             
+2022-12-05T23:59:01Z: PLAYER CHATTED [ 1110345510] Chanelvc             (  111.1,    34.3,   265.1)
+  gl
+2022-12-05T23:59:06Z: PLAYER ADDED   [   45388890] twinz2013            a.k.a. teriyakichicken     
+2022-12-05T23:59:08Z: CHRCTER ADDED  [ 3859594267] Flylfdgd            
+2022-12-05T23:59:08Z: PLAYER CHATTED [ 2295446024] 0reomil              (  114.2,    34.1,   267.1)
+  ok
+2022-12-05T23:59:12Z: PLAYER CHATTED [  746514775] mileymce             (   37.0,    34.8,   259.5)
+  GO AWAY
+2022-12-05T23:59:13Z: PLAYER ADDED   [ 1858723674] nichster120827       a.k.a. Sagittarius         
+2022-12-05T23:59:13Z: PLAYER CHATTED [ 1167000741] Eve_MM               (   40.7,    34.4,   258.5)
+  YOURE CRAZYYYY
+2022-12-05T23:59:13Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   40.2,    34.4,   346.9)
+  I might die
+2022-12-05T23:59:17Z: CHRCTER ADDED  [ 1238236965] lemon_skyx           a.k.a. nika                
+2022-12-05T23:59:18Z: CHRCTER ADDED  [  532320947] lennonolivia         a.k.a. bubbles             
+2022-12-05T23:59:19Z: PLAYER CHATTED [ 1752262374] coolpanda5112        (   43.8,     6.6,   101.6)
+  U must be scalped and burned at the stake
+2022-12-05T23:59:19Z: PLAYER CHATTED [ 1110345510] Chanelvc             (  114.9,    34.3,   264.9)
+  can I be regristered
+2022-12-05T23:59:20Z: PLAYER CHATTED [ 2241625141] doghria              (   43.8,    34.9,   347.3)
+  dang
+2022-12-05T23:59:22Z: PLAYER CHATTED [  746514775] mileymce             (   38.0,    34.8,   259.7)
+  Stay out there
+2022-12-05T23:59:24Z: PLAYER REMOVED [ 1238236965] lemon_skyx           a.k.a. nika                
+2022-12-05T23:59:28Z: CHRCTER ADDED  [  424268110] kittyheart74        
+2022-12-05T23:59:29Z: CHRCTER ADDED  [ 2915338268] lilioi655           
+2022-12-05T23:59:36Z: PLAYER CHATTED [ 2241625141] doghria              (   43.8,    34.9,   347.3)
+  i wish there was like soap that you could carry around
+2022-12-05T23:59:37Z: PLAYER CHATTED [ 1381013595] Jamalia_23           (  -15.5,     7.6,   197.2)
+  🙁
+2022-12-05T23:59:43Z: PLAYER CHATTED [ 1381013595] Jamalia_23           (  -15.6,     7.7,   197.3)
+  ###### #####
+2022-12-05T23:59:46Z: PLAYER CHATTED [ 2541892160] Navy9omg2            (  117.6,    34.6,   265.3)
+  join the silliconnes group then u are
+2022-12-05T23:59:47Z: PLAYER CHATTED [ 2241625141] doghria              (   43.8,    34.9,   347.3)
+  that got up your hygiene
+2022-12-05T23:59:51Z: PLAYER ADDED   [  641614492] SparkleMoonWitch     a.k.a. GLUE                
+2022-12-05T23:59:52Z: PLAYER CHATTED [ 1752262374] coolpanda5112        (  -13.0,     8.2,   197.0)
+  Stay sad u African
+2022-12-05T23:59:55Z: PLAYER ADDED   [ 1084174870] Maddie_M0o0o         a.k.a. BOO                 
+2022-12-05T23:59:56Z: PLAYER CHATTED [ 2241625141] doghria              (   43.8,    34.9,   347.3)
+  thatwould be so useful
+2022-12-05T23:59:59Z: PLAYER ADDED   [  270715226] metroLANDROID        a.k.a. Alone               
+2022-12-06T00:00:01Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   44.5,    34.4,   343.2)
+  Same
+2022-12-06T00:00:01Z: PLAYER CHATTED [ 1110345510] Chanelvc             (   45.0,    34.3,   334.6)
+  ayo help
+2022-12-06T00:00:07Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   46.4,    34.7,   330.7)
+  ?
+2022-12-06T00:00:07Z: PLAYER ADDED   [ 1597264306] mommaicecream        a.k.a. Kennedy             
+2022-12-06T00:00:08Z: PLAYER REMOVED [ 2468365385] 1cequeena            a.k.a. arixnna             
+2022-12-06T00:00:11Z: PLAYER CHATTED [ 1594735330] JennyferLuz          (  -19.4,    12.3,   229.1)
+  :0
+2022-12-06T00:00:14Z: PLAYER REMOVED [ 2620940149] emily_092014         a.k.a. Slaycapybara3       
+2022-12-06T00:00:15Z: PLAYER ADDED   [ 2468365385] 1cequeena            a.k.a. arixnna             
+2022-12-06T00:00:17Z: PLAYER ADDED   [  501852410] Artistikwolf         a.k.a. Mystical_Luna       
+2022-12-06T00:00:18Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   28.6,    34.7,   326.2)
+  You need help?
+2022-12-06T00:00:18Z: PLAYER CHATTED [ 4032369363] theyluvkeiraxo       (  -21.8,    12.1,   231.7)
+  :)
+2022-12-06T00:00:20Z: PLAYER CHATTED [ 1752262374] coolpanda5112        (  -22.6,    12.2,   222.2)
+  #############
+2022-12-06T00:00:21Z: PLAYER CHATTED [ 1594735330] JennyferLuz          (  -18.5,    12.3,   231.9)
+  a ps orphan 
+2022-12-06T00:00:21Z: PLAYER ADDED   [ 2053777110] katieann016         
+2022-12-06T00:00:26Z: PLAYER CHATTED [ 1594735330] JennyferLuz          (  -18.5,    12.3,   231.9)
+  nice
+2022-12-06T00:00:27Z: PLAYER REMOVED [ 2852748013] Shark_Rider1239      a.k.a. Eamonn              
+2022-12-06T00:00:27Z: PLAYER CHATTED [ 2241625141] doghria              (   42.5,    34.9,   347.2)
+  im starting to be stanky T^T
+2022-12-06T00:00:30Z: PLAYER CHATTED [ 3894740933] gjd3702              (  -25.9,    13.5,   233.9)
+  hum
+2022-12-06T00:00:36Z: PLAYER CHATTED [ 1752262374] coolpanda5112        (  -15.3,    12.2,   230.5)
+  Stinky
+2022-12-06T00:00:36Z: PLAYER REMOVED [ 4032369363] theyluvkeiraxo      
+2022-12-06T00:00:37Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   43.4,    34.4,   349.2)
+  Lol
+2022-12-06T00:00:39Z: PLAYER ADDED   [ 3946483909] lua_67541wu         
+2022-12-06T00:00:40Z: PLAYER REMOVED [ 1858723674] nichster120827       a.k.a. Sagittarius         
+2022-12-06T00:00:41Z: PLAYER ADDED   [ 1781154633] LLamacam1920         a.k.a. K1Y0                
+2022-12-06T00:00:42Z: PLAYER CHATTED [ 1212129557] belinda221101        (   16.4,    34.7,   349.3)
+  keep it shut
+2022-12-06T00:00:42Z: PLAYER REMOVED [ 2541892160] Navy9omg2            a.k.a. GoddesS             
+2022-12-06T00:00:45Z: PLAYER ADDED   [ 1234381681] AkianaOwO            a.k.a. Akielle             
+2022-12-06T00:00:45Z: CHRCTER ADDED  [ 1224392780] VSCO1015             a.k.a. Nesus               
+2022-12-06T00:00:48Z: PLAYER CHATTED [ 2241625141] doghria              (   42.4,    34.9,   351.0)
+  stankkkkkk
+2022-12-06T00:00:56Z: PLAYER REMOVED [ 1597264306] mommaicecream        a.k.a. Kennedy             
+2022-12-06T00:00:56Z: PLAYER CHATTED [  964132464] Unicornparty7891     (    7.0,    45.3,   359.7)
+  kk
+2022-12-06T00:00:58Z: PLAYER ADDED   [ 1969214214] terletzkaya          a.k.a. TamaraCastilska     
+2022-12-06T00:00:59Z: PLAYER REMOVED [ 1084174870] Maddie_M0o0o         a.k.a. BOO                 
+2022-12-06T00:00:59Z: PLAYER CHATTED [ 2241625141] doghria              (   42.4,    34.9,   351.0)
+  i think we will get out at 5 or 6 right
+2022-12-06T00:01:00Z: CHRCTER ADDED  [ 1969214214] terletzkaya          a.k.a. TamaraCastilska     
+2022-12-06T00:01:00Z: CHRCTER ADDED  [  270715226] metroLANDROID        a.k.a. Alone               
+2022-12-06T00:01:00Z: PLAYER CHATTED [ 3894740933] gjd3702              (  -25.2,    12.1,   229.5)
+  :l
+2022-12-06T00:01:01Z: PLAYER CHATTED [ 1212129557] belinda221101        (   13.1,    34.7,   351.8)
+  killers on the loose
+2022-12-06T00:01:11Z: PLAYER ADDED   [ 1540724354] chiquiris13          a.k.a. chikibaby           
+2022-12-06T00:01:19Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   44.8,    34.7,   333.7)
+  ?
+2022-12-06T00:01:19Z: CHRCTER ADDED  [ 1969214214] terletzkaya          a.k.a. TamaraCastilska     
+2022-12-06T00:01:23Z: PLAYER ADDED   [  436405714] deydeydey80          a.k.a. BDDezi              
+2022-12-06T00:01:34Z: PLAYER CHATTED [ 2241625141] doghria              (   42.8,    34.9,   339.6)
+  wassup #### path
+2022-12-06T00:01:38Z: PLAYER REMOVED [ 2279486585] iiKqitlin            a.k.a. angel               
+2022-12-06T00:01:43Z: CHRCTER ADDED  [ 2053777110] katieann016         
+2022-12-06T00:01:43Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   44.7,    34.4,   341.1)
+  Ur done
+2022-12-06T00:01:44Z: PLAYER CHATTED [ 1594735330] JennyferLuz          (   -1.7,    12.3,   238.2)
+  with the ps orphan this will be fun
+2022-12-06T00:01:44Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   44.8,    34.7,   333.7)
+  What to do with old soul?
+2022-12-06T00:01:49Z: PLAYER ADDED   [ 3552416511] Gogreen3000         
+2022-12-06T00:01:54Z: PLAYER CHATTED [ 2241625141] doghria              (   42.8,    34.9,   339.6)
+  how ya do'in
+2022-12-06T00:01:56Z: CHRCTER ADDED  [ 3946483909] lua_67541wu         
+2022-12-06T00:01:57Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   43.4,    34.4,   342.2)
+  Back away
+2022-12-06T00:02:05Z: PLAYER CHATTED [  171929556] 1000kokis            (   10.2,    12.2,   231.1)
+  Yeeee it fun being psycho
+2022-12-06T00:02:06Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   44.0,    34.7,   339.6)
+  ?
+2022-12-06T00:02:12Z: CHRCTER ADDED  [  501852410] Artistikwolf         a.k.a. Mystical_Luna       
+2022-12-06T00:02:13Z: PLAYER CHATTED [ 3859594267] Flylfdgd             (    0.3,    12.2,   241.1)
+  How do you become an orphan 
+2022-12-06T00:02:13Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   43.6,    34.8,   351.2)
+  What to do with soul
+2022-12-06T00:02:15Z: PLAYER CHATTED [ 1594735330] JennyferLuz          (   -1.7,    12.3,   238.2)
+  fr 
+2022-12-06T00:02:15Z: PLAYER CHATTED [  880730809] swagxscarr           (    3.9,    11.8,   230.9)
+  For
+2022-12-06T00:02:19Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   43.6,    34.8,   351.2)
+  I killed pyscho lollll
+2022-12-06T00:02:20Z: PLAYER CHATTED [  880730809] swagxscarr           (    3.9,    11.8,   230.9)
+  Frrr*
+2022-12-06T00:02:21Z: PLAYER CHATTED [ 2241625141] doghria              (   38.6,    34.9,   360.6)
+  plz dont kill us
+2022-12-06T00:02:23Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   38.8,    34.8,   350.2)
+  ...
+2022-12-06T00:02:24Z: PLAYER CHATTED [ 2651714814] alegranth            (    6.4,    11.6,   229.6)
+  #### #######
+2022-12-06T00:02:26Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   43.2,    34.8,   351.1)
+  I won't?
+2022-12-06T00:02:27Z: PLAYER CHATTED [  171929556] 1000kokis            (   10.2,    12.2,   231.1)
+  yes
+2022-12-06T00:02:29Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   39.4,    34.8,   350.2)
+  ##
+2022-12-06T00:02:33Z: PLAYER CHATTED [ 2241625141] doghria              (   40.8,    34.9,   359.7)
+  tysm
+2022-12-06T00:02:34Z: PLAYER CHATTED [  171929556] 1000kokis            (   11.2,    12.2,   233.1)
+  at night
+2022-12-06T00:02:34Z: PLAYER CHATTED [ 1266819504] GracieGRD            (   -3.3,    11.8,   228.2)
+  abc if ur a ##### ###### and want to team up!
+2022-12-06T00:02:36Z: PLAYER CHATTED [ 2651714814] alegranth            (    6.4,    11.6,   229.6)
+  why your evil
+2022-12-06T00:02:36Z: PLAYER CHATTED [ 3859594267] Flylfdgd             (   -3.3,    12.6,   240.9)
+  LET ME INNNNN
+2022-12-06T00:02:38Z: PLAYER ADDED   [  677891697] VasLegas             a.k.a. Archills            
+2022-12-06T00:02:41Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   40.1,    34.8,   352.1)
+  No problem!
+2022-12-06T00:02:45Z: PLAYER CHATTED [  171929556] 1000kokis            (   11.2,    12.2,   233.1)
+  bc i like it =)
+2022-12-06T00:02:45Z: PLAYER CHATTED [ 2241625141] doghria              (   42.4,    34.9,   352.8)
+  :D
+2022-12-06T00:02:47Z: PLAYER CHATTED [ 1266819504] GracieGRD            (   -3.3,    11.8,   228.2)
+  #####
+2022-12-06T00:02:50Z: PLAYER CHATTED [  964132464] Unicornparty7891     (   19.6,    34.4,   337.3)
+  were locked
+2022-12-06T00:02:52Z: PLAYER CHATTED [ 2651714814] alegranth            (    5.0,    11.6,   227.2)
+  im staying away from you
+2022-12-06T00:02:55Z: PLAYER REMOVED [ 2295446024] 0reomil              a.k.a. Killer_Queen        
+2022-12-06T00:03:02Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   12.8,    34.3,   322.0)
+  Dang
+2022-12-06T00:03:10Z: PLAYER REMOVED [  514553958] avocadosgrave        a.k.a. BananaOne           
+2022-12-06T00:03:10Z: PLAYER CHATTED [ 1381013595] Jamalia_23           (  -85.6,     7.9,   252.9)
+  😋
+2022-12-06T00:03:10Z: PLAYER REMOVED [  436405714] deydeydey80          a.k.a. BDDezi              
+2022-12-06T00:03:14Z: PLAYER CHATTED [ 1891099232] UnicornKatt2012      (   13.5,    34.6,   321.3)
+  good morning
+2022-12-06T00:03:16Z: PLAYER REMOVED [  548590644] beauty651            a.k.a. Duck                
+2022-12-06T00:03:18Z: PLAYER CHATTED [ 1891099232] UnicornKatt2012      (   13.5,    34.6,   321.3)
+  everyone
+2022-12-06T00:03:20Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   18.0,    34.3,   320.9)
+  LET US OUT
+2022-12-06T00:03:22Z: PLAYER ADDED   [ 1587017920] rubyredunicorn20     a.k.a. Olivia              
+2022-12-06T00:03:23Z: PLAYER CHATTED [ 1212129557] belinda221101        (   12.6,    34.6,   320.5)
+  weew stuck
+2022-12-06T00:03:23Z: PLAYER ADDED   [ 3407391917] himekiew            
+2022-12-06T00:03:25Z: PLAYER ADDED   [ 2256799685] Iuvzo                a.k.a. staz                
+2022-12-06T00:03:25Z: CHRCTER ADDED  [ 3407391917] himekiew            
+2022-12-06T00:03:27Z: PLAYER CHATTED [  746514775] mileymce             (   14.3,    34.7,   323.6)
+  Let us out
+2022-12-06T00:03:27Z: PLAYER CHATTED [ 2241625141] doghria              (   13.2,    34.8,   317.9)
+  IM STANKY
+2022-12-06T00:03:32Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   17.9,    34.7,   320.6)
+  A
+2022-12-06T00:03:39Z: PLAYER CHATTED [ 1381013595] Jamalia_23           (  -84.8,     7.9,   253.3)
+  🥰🗿
+2022-12-06T00:03:46Z: PLAYER ADDED   [ 1649070625] LiLyBaNaNaZ08        a.k.a. Lilylol564          
+2022-12-06T00:03:48Z: PLAYER CHATTED [  964132464] Unicornparty7891     (   13.1,    34.3,   318.2)
+  omg
+2022-12-06T00:03:49Z: PLAYER REMOVED [ 1587017920] rubyredunicorn20     a.k.a. Olivia              
+2022-12-06T00:03:51Z: PLAYER REMOVED [ 3552416511] Gogreen3000         
+2022-12-06T00:03:54Z: PLAYER CHATTED [  964132464] Unicornparty7891     (   12.8,    34.3,   319.4)
+  let us out
+2022-12-06T00:03:57Z: PLAYER CHATTED [  746514775] mileymce             (   17.5,    34.7,   324.5)
+  Helpppp
+2022-12-06T00:03:59Z: PLAYER CHATTED [ 1167000741] Eve_MM               (   12.5,    34.3,   323.8)
+  brooooo
+2022-12-06T00:04:06Z: PLAYER CHATTED [ 1110345510] Chanelvc             (   47.0,    34.3,   329.6)
+  guys jump off the balcony and go to the front
+2022-12-06T00:04:10Z: PLAYER ADDED   [  548590644] beauty651            a.k.a. Duck                
+2022-12-06T00:04:25Z: PLAYER CHATTED [ 2241625141] doghria              (   12.7,    34.8,   320.7)
+  AY
+2022-12-06T00:04:36Z: PLAYER CHATTED [ 1212129557] belinda221101        (   20.8,    34.7,   334.3)
+  were stuck
+2022-12-06T00:04:42Z: PLAYER REMOVED [ 2256799685] Iuvzo                a.k.a. staz                
+2022-12-06T00:04:45Z: PLAYER CHATTED [  880730809] swagxscarr           (   42.2,     7.8,   235.4)
+  Ty!!
+2022-12-06T00:04:45Z: PLAYER CHATTED [ 2241625141] doghria              (   13.7,    34.8,   324.8)
+  HALP
+2022-12-06T00:04:47Z: PLAYER CHATTED [ 1594735330] JennyferLuz          (   25.1,     9.1,   221.9)
+  team ps orphann
+2022-12-06T00:04:47Z: PLAYER CHATTED [ 3485182641] mima9427             (   12.2,    34.4,   324.7)
+  LET US OUT
+2022-12-06T00:04:50Z: PLAYER CHATTED [ 1594735330] JennyferLuz          (   25.1,     9.1,   221.9)
+  yeaa 
+2022-12-06T00:04:52Z: PLAYER ADDED   [ 1383278479] LuIuPlays15          a.k.a. HanzJr              
+2022-12-06T00:04:56Z: PLAYER CHATTED [  270715226] metroLANDROID        (   34.9,     8.3,   239.1)
+  Serving milk? 
+2022-12-06T00:04:56Z: PLAYER CHATTED [ 1377380687] iialexina            (   13.4,    34.1,   320.4)
+  HELP US
+2022-12-06T00:04:56Z: PLAYER CHATTED [ 3485182641] mima9427             (   12.1,    34.4,   324.9)
+  IM GONNA DIE
+2022-12-06T00:04:58Z: PLAYER CHATTED [ 3946483909] lua_67541wu          (   37.6,     8.1,   244.7)
+  milk please 
+2022-12-06T00:05:01Z: PLAYER CHATTED [  964132464] Unicornparty7891     (   17.8,    34.3,   318.8)
+  im dieing
+2022-12-06T00:05:08Z: PLAYER CHATTED [  880730809] swagxscarr           (   42.2,     7.8,   235.4)
+  Uh
+2022-12-06T00:05:11Z: PLAYER CHATTED [  171929556] 1000kokis            (   46.5,     8.3,   212.4)
+  -she would sat alone in the corner-
+2022-12-06T00:05:14Z: PLAYER CHATTED [ 1891099232] UnicornKatt2012      (   43.5,    34.6,   326.4)
+  omg
+2022-12-06T00:05:14Z: PLAYER CHATTED [ 1110345510] Chanelvc            
+  bro chill
+2022-12-06T00:05:17Z: PLAYER CHATTED [ 2053777110] katieann016          (   32.2,     8.8,   238.7)
+  Milk
+2022-12-06T00:05:26Z: PLAYER CHATTED [ 3946483909] lua_67541wu          (   37.6,     8.1,   244.7)
+  milk please 
+2022-12-06T00:05:29Z: PLAYER CHATTED [   45388890] twinz2013            (   38.0,     9.1,   201.2)
+  thank you
+2022-12-06T00:05:29Z: PLAYER CHATTED [ 1148235674] PrincessGamerKitty28 (   38.6,     8.5,   250.2)
+  IM GONNA STARVE
+2022-12-06T00:05:32Z: PLAYER CHATTED [ 1212129557] belinda221101        (   19.3,    34.7,   335.7)
+  HELP
+2022-12-06T00:05:33Z: PLAYER CHATTED [ 1296096233] Soldierpanda11       (   34.2,     7.9,   238.9)
+  Ty
+2022-12-06T00:05:36Z: PLAYER CHATTED [  270715226] metroLANDROID        (   53.5,     9.1,   205.3)
+  Thank you 
+2022-12-06T00:05:38Z: PLAYER CHATTED [ 1266819504] GracieGRD            (   25.1,     7.9,   246.1)
+  ty
+2022-12-06T00:05:39Z: PLAYER CHATTED [ 1148235674] PrincessGamerKitty28 (   38.6,     8.5,   250.2)
+  millnplease
+2022-12-06T00:05:40Z: PLAYER CHATTED [  171929556] 1000kokis            (   90.7,     9.1,   189.9)
+  thanks you,
+2022-12-06T00:05:43Z: PLAYER ADDED   [  907357425] ssoffiiaa5           a.k.a. soso                
+2022-12-06T00:05:43Z: PLAYER CHATTED [  270715226] metroLANDROID        (   53.5,     9.1,   205.3)
+  Milk 
+2022-12-06T00:05:45Z: PLAYER CHATTED [ 2651714814] alegranth            (   25.5,     7.6,   246.2)
+  STOP ASKING FOR MILK
+2022-12-06T00:05:49Z: PLAYER CHATTED [ 3946483909] lua_67541wu          (   46.7,     8.1,   232.0)
+  milk 
+2022-12-06T00:05:52Z: PLAYER CHATTED [ 2651714814] alegranth            (   25.5,     7.6,   246.2)
+  ITS ANNYING
+2022-12-06T00:05:53Z: PLAYER CHATTED [  641614492] SparkleMoonWitch     (   40.5,     7.8,   235.0)
+  Milk
+2022-12-06T00:05:56Z: PLAYER CHATTED [ 1891099232] UnicornKatt2012      (   24.3,    34.6,   276.6)
+  out please
+2022-12-06T00:05:56Z: PLAYER CHATTED [ 1148235674] PrincessGamerKitty28 (   38.6,     8.5,   250.2)
+  milk please
+2022-12-06T00:05:57Z: PLAYER CHATTED [ 1234381681] AkianaOwO            (   40.0,     8.6,   245.3)
+  I believe I'm glitched.
+2022-12-06T00:05:58Z: PLAYER CHATTED [ 1961456415] Muda872              (   27.2,     8.1,   236.9)
+  thanks 
+2022-12-06T00:06:02Z: PLAYER CHATTED [  641614492] SparkleMoonWitch     (   42.9,     7.8,   235.6)
+  Milk
+2022-12-06T00:06:03Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   47.6,     8.8,   196.0)
+  Milk please
+2022-12-06T00:06:03Z: PLAYER CHATTED [  270715226] metroLANDROID        (   53.5,     9.1,   205.3)
+  Milk plz 
+2022-12-06T00:06:03Z: PLAYER CHATTED [  964132464] Unicornparty7891     (   29.7,    34.3,   276.6)
+  ima die
+2022-12-06T00:06:03Z: PLAYER CHATTED [ 2651714814] alegranth            (   40.6,     7.6,   230.2)
+  ANNOYING
+2022-12-06T00:06:05Z: PLAYER CHATTED [  964132464] Unicornparty7891     (   29.7,    34.3,   276.6)
+  help
+2022-12-06T00:06:07Z: PLAYER CHATTED [   67983035] GWOMPIE              (   47.6,     8.5,   218.4)
+  still for milk
+2022-12-06T00:06:10Z: PLAYER REMOVED [  501852410] Artistikwolf         a.k.a. Mystical_Luna       
+2022-12-06T00:06:11Z: PLAYER CHATTED [  964132464] Unicornparty7891     (   29.7,    34.3,   276.6)
+  guys
+2022-12-06T00:06:12Z: PLAYER CHATTED [  922970988] rinakarinax          (   46.8,     8.4,   250.6)
+  Oh dear! It seems you are stuck! Please change your movement mode to tap/click to move to exit the line.
+2022-12-06T00:06:14Z: PLAYER CHATTED [  270715226] metroLANDROID        (   53.5,     9.1,   205.3)
+  Milk plz 
+2022-12-06T00:06:14Z: PLAYER CHATTED [ 2053777110] katieann016          (   68.9,     9.1,   209.5)
+  Milk please 
+2022-12-06T00:06:14Z: PLAYER CHATTED [  964132464] Unicornparty7891     (   27.8,    34.3,   276.3)
+  ima die
+2022-12-06T00:06:18Z: PLAYER CHATTED [ 3946483909] lua_67541wu          (   62.6,     9.0,   220.8)
+  thanks
+2022-12-06T00:06:19Z: PLAYER CHATTED [ 2651714814] alegranth            (   54.5,     9.4,   201.6)
+  pls stop
+2022-12-06T00:06:22Z: PLAYER CHATTED [  964132464] Unicornparty7891     (   27.9,    34.3,   276.6)
+  my health
+2022-12-06T00:06:25Z: PLAYER CHATTED [ 2651714814] alegranth            (   54.5,     9.4,   201.6)
+  its annoying
+2022-12-06T00:06:27Z: PLAYER CHATTED [  964132464] Unicornparty7891     (   28.8,    34.3,   278.0)
+  is going down
+2022-12-06T00:06:31Z: PLAYER CHATTED [  171929556] 1000kokis            (   17.4,     9.5,   248.5)
+  i need to go to the bed, but it looked
+2022-12-06T00:06:31Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   45.7,     8.8,   203.2)
+  Milk please
+2022-12-06T00:06:32Z: PLAYER CHATTED [ 1296096233] Soldierpanda11       (   55.4,     8.9,   198.1)
+  Milk please
+2022-12-06T00:06:33Z: PLAYER CHATTED [ 1594735330] JennyferLuz          (   61.2,     9.0,   207.4)
+  bunny
+2022-12-06T00:06:34Z: PLAYER CHATTED [ 1212129557] belinda221101        (   18.7,    34.7,   333.2)
+  everone got out
+2022-12-06T00:06:36Z: PLAYER CHATTED [  270715226] metroLANDROID        (   53.5,     9.1,   205.3)
+  Milk plz 
+2022-12-06T00:06:38Z: PLAYER REMOVED [ 2986008778] AyJayPayn14          a.k.a. AJW                 
+2022-12-06T00:06:39Z: PLAYER CHATTED [ 1148235674] PrincessGamerKitty28 (   23.0,     8.9,   229.8)
+  mil l
+2022-12-06T00:06:39Z: PLAYER CHATTED [ 1377380687] iialexina            (   18.2,    34.1,   323.0)
+  LET US OUTTT
+2022-12-06T00:06:39Z: PLAYER CHATTED [  677891697] VasLegas             (   27.9,     7.9,   237.0)
+  ty
+2022-12-06T00:06:39Z: PLAYER CHATTED [ 2651714814] alegranth            (   54.5,     9.4,   201.6)
+  ##################### NO
+2022-12-06T00:06:40Z: PLAYER CHATTED [ 2053777110] katieann016          (   68.9,     9.1,   209.5)
+  Milk please 
+2022-12-06T00:06:46Z: PLAYER CHATTED [ 2651714814] alegranth            (   54.5,     9.4,   201.6)
+  PLS STOP
+2022-12-06T00:06:46Z: PLAYER CHATTED [ 1594735330] JennyferLuz          (   61.2,     9.0,   207.4)
+  hehe
+2022-12-06T00:06:47Z: PLAYER CHATTED [ 1891099232] UnicornKatt2012      (   12.6,    34.6,   320.5)
+  help
+2022-12-06T00:06:47Z: PLAYER CHATTED [ 2423828517] LollyCat2021         (   43.9,     9.0,   221.9)
+   The crtens
+2022-12-06T00:06:53Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   45.7,     8.8,   203.2)
+  Milk please
+2022-12-06T00:06:53Z: PLAYER CHATTED [ 1540724354] chiquiris13          (   40.0,     7.6,   245.3)
+  Food please 
+2022-12-06T00:06:53Z: PLAYER CHATTED [  964132464] Unicornparty7891     (   18.6,    34.3,   320.9)
+  HELPPPPPPPPPPPPPPPPP
+2022-12-06T00:06:53Z: PLAYER CHATTED [ 1110345510] Chanelvc             (   46.5,     7.8,   232.5)
+  I need food
+2022-12-06T00:06:57Z: PLAYER CHATTED [ 1110345510] Chanelvc             (   46.5,     7.8,   232.5)
+  i didnt get any
+2022-12-06T00:06:57Z: PLAYER CHATTED [ 1234381681] AkianaOwO            (   25.5,     8.6,   246.2)
+  Thanks!
+2022-12-06T00:06:58Z: PLAYER CHATTED [  548590644] beauty651            (    6.3,    34.3,   315.0)
+  What group do you join
+2022-12-06T00:07:00Z: PLAYER CHATTED [  270715226] metroLANDROID        (   53.5,     9.1,   205.3)
+  Milk please 
+2022-12-06T00:07:00Z: PLAYER CHATTED [ 2053777110] katieann016          (   68.9,     9.1,   209.5)
+  Milk
+2022-12-06T00:07:02Z: PLAYER CHATTED [ 1969214214] terletzkaya          (   48.9,     8.3,   242.8)
+  ### glitched honey!
+2022-12-06T00:07:07Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-06T00:07:08Z: PLAYER CHATTED [ 3014196994] CharWood091010       (   65.6,     8.9,   191.0)
+  Milk please
+2022-12-06T00:07:08Z: PLAYER CHATTED [ 1969214214] terletzkaya          (   48.6,     8.3,   243.8)
+  dont worry!
+2022-12-06T00:07:09Z: PLAYER CHATTED [  922970988] rinakarinax          (   47.4,     8.4,   248.8)
+  Please exit the line using tap/click to move. You’re sticks
+2022-12-06T00:07:10Z: PLAYER CHATTED [ 1212129557] belinda221101        (   23.5,    34.6,   322.1)
+  were gonnna die
+2022-12-06T00:07:12Z: PLAYER CHATTED [ 2651714814] alegranth            (   54.5,     9.4,   201.6)
+  AHHHHHHHH *PUSHES*
+2022-12-06T00:07:14Z: PLAYER CHATTED [ 2053777110] katieann016          (   46.2,     8.8,   226.0)
+  Milk please 
+2022-12-06T00:07:14Z: PLAYER CHATTED [  922970988] rinakarinax          (   47.4,     8.4,   248.8)
+  Stuck*
+2022-12-06T00:07:16Z: PLAYER CHATTED [ 1148235674] PrincessGamerKitty28 (   47.7,     8.5,   229.2)
+  how do i work here????? 
+2022-12-06T00:07:16Z: PLAYER CHATTED [ 3894740933] gjd3702              (   47.6,     8.1,   230.3)
+  mẹ to
+2022-12-06T00:07:17Z: PLAYER CHATTED [  270715226] metroLANDROID        (   42.9,     8.3,   227.5)
+  Milk 
+2022-12-06T00:07:17Z: PLAYER ADDED   [ 2226911216] aNiTa_RuLeS24       
+2022-12-06T00:07:21Z: PLAYER CHATTED [ 1212129557] belinda221101        (   20.1,    34.6,   325.4)
+  with no fooodddddd
+2022-12-06T00:07:21Z: PLAYER CHATTED [  670093039] Lxvely_Crimsxn       (    2.7,    34.8,   323.0)
+  wdym?
+2022-12-06T00:07:22Z: PLAYER CHATTED [ 1594735330] JennyferLuz          (   61.2,     9.0,   207.4)
+  uh oh
+2022-12-06T00:07:24Z: PLAYER CHATTED [ 3485182641] mima9427             (   12.5,    34.4,   323.1)
+  IVE GOT A LITTLE BIT OF LIFE LEFT
+2022-12-06T00:07:26Z: PLAYER CHATTED [ 2053777110] katieann016          (   46.2,     8.8,   226.0)
+  Milk now
+2022-12-06T00:07:27Z: PLAYER CHATTED [ 1110345510] Chanelvc             (   46.6,     7.8,   231.8)
+  can u register me?
+2022-12-06T00:07:27Z: PLAYER REMOVED [ 1540724354] chiquiris13          a.k.a. chikibaby           
+2022-12-06T00:07:32Z: PLAYER ADDED   [ 2986008778] AyJayPayn14          a.k.a. AJW                 
+2022-12-06T00:07:32Z: PLAYER CHATTED [ 3014196994] CharWood091010       (   65.6,     8.9,   191.0)
+  *falls over*
+2022-12-06T00:07:32Z: PLAYER CHATTED [  746514775] mileymce             (   65.5,     8.2,   211.3)
+  Milk
+2022-12-06T00:07:34Z: PLAYER CHATTED [  270715226] metroLANDROID        (   48.4,     8.3,   213.9)
+  Milk plz 
+2022-12-06T00:07:34Z: PLAYER CHATTED [  880730809] swagxscarr           (   29.6,     7.8,   235.4)
+  Miss?
+2022-12-06T00:07:34Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   46.7,     8.8,   199.6)
+  Milk please
+2022-12-06T00:07:35Z: PLAYER CHATTED [ 3894740933] gjd3702              (   47.6,     8.1,   230.0)
+  me to
+2022-12-06T00:07:35Z: PLAYER CHATTED [ 1891099232] UnicornKatt2012      (   12.6,    34.6,   320.5)
+  MY GOD IF I WORKED HERE I WOULD'VE OPEN THE CURTAINS LIKE I'M SUPPOSE TO
+2022-12-06T00:07:36Z: PLAYER CHATTED [ 1234381681] AkianaOwO            (   45.7,     8.9,   203.2)
+  Thanks!
+2022-12-06T00:07:38Z: PLAYER CHATTED [ 1377380687] iialexina            (   12.1,    34.1,   323.2)
+  PLEASE HELP
+2022-12-06T00:07:38Z: PLAYER CHATTED [  641614492] SparkleMoonWitch     (   47.3,     7.8,   231.4)
+  Milk
+2022-12-06T00:07:41Z: PLAYER CHATTED [ 1110345510] Chanelvc             (   46.5,     7.8,   233.6)
+  FOOOOOD
+2022-12-06T00:07:42Z: PLAYER CHATTED [ 1296096233] Soldierpanda11       (   55.4,     8.9,   198.1)
+  Milk please
+2022-12-06T00:07:44Z: PLAYER CHATTED [ 2053777110] katieann016          (   47.1,     8.8,   227.5)
+  Milkkkkk
+2022-12-06T00:07:46Z: PLAYER CHATTED [ 2651714814] alegranth            (   48.6,     7.6,   219.4)
+  YOU NEED TO BE SEATED FOR MILK
+2022-12-06T00:07:49Z: PLAYER CHATTED [ 3485182641] mima9427             (   12.8,    34.4,   322.3)
+  ########################
+2022-12-06T00:07:51Z: PLAYER CHATTED [ 1110345510] Chanelvc             (   30.4,     7.8,   231.0)
+  BRO
+2022-12-06T00:07:55Z: PLAYER REMOVED [ 2226911216] aNiTa_RuLeS24       
+2022-12-06T00:07:55Z: PLAYER CHATTED [ 1110345510] Chanelvc             (   30.4,     7.8,   231.0)
+  I NEED FOOD
+2022-12-06T00:08:00Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   19.7,    34.7,   318.7)
+  It's okay!
+2022-12-06T00:08:00Z: PLAYER REMOVED [ 3946483909] lua_67541wu         
+2022-12-06T00:08:00Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   18.1,    34.7,   317.9)
+  Wait
+2022-12-06T00:08:00Z: PLAYER CHATTED [  270715226] metroLANDROID        (   53.5,     9.1,   205.3)
+  #### ##
+2022-12-06T00:08:01Z: PLAYER CHATTED [ 2053777110] katieann016          (   47.5,     8.8,   229.8)
+  Milk
+2022-12-06T00:08:02Z: PLAYER ADDED   [ 1748376215] seebunnygirl         a.k.a. SlMP                
+2022-12-06T00:08:07Z: PLAYER CHATTED [  270715226] metroLANDROID        (   53.5,     9.1,   205.3)
+  Milk plz 
+2022-12-06T00:08:08Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   18.1,    34.7,   317.9)
+  Just wait
+2022-12-06T00:08:09Z: PLAYER CHATTED [  880730809] swagxscarr           (    1.1,    12.1,   383.3)
+  Excuse me
+2022-12-06T00:08:10Z: PLAYER CHATTED [ 2651714814] alegranth            (   28.5,     7.6,   233.7)
+  here
+2022-12-06T00:08:12Z: PLAYER CHATTED [ 1891099232] UnicornKatt2012      (   12.3,    34.6,   321.3)
+  FOOD IS NOT HELPING BRO
+2022-12-06T00:08:13Z: PLAYER REMOVED [ 1649070625] LiLyBaNaNaZ08        a.k.a. Lilylol564          
+2022-12-06T00:08:15Z: PLAYER CHATTED [ 1296096233] Soldierpanda11       (   55.4,     8.9,   198.1)
+  Milk please
+2022-12-06T00:08:18Z: PLAYER CHATTED [  880730809] swagxscarr           (    1.1,    12.1,   383.3)
+  Theres people stuck in the dorm area
+2022-12-06T00:08:20Z: PLAYER ADDED   [ 1869499541] jjj99kk              a.k.a. Iloverats           
+2022-12-06T00:08:20Z: PLAYER ADDED   [ 2226911216] aNiTa_RuLeS24       
+2022-12-06T00:08:23Z: PLAYER CHATTED [ 2056316625] pfkesmxdld           (   10.3,    34.3,   318.7)
+  JUMP OFF THE BALCONY THEN COME TO THE FROMT
+2022-12-06T00:08:26Z: PLAYER CHATTED [  880730809] swagxscarr           (    1.1,    12.1,   383.3)
+  The curtain isnt up
+2022-12-06T00:08:27Z: PLAYER CHATTED [  922970988] rinakarinax          (    4.9,    14.7,   384.7)
+  Oh dear!
+2022-12-06T00:08:31Z: PLAYER CHATTED [ 2241625141] doghria              (    0.9,    13.0,   370.3)
+  yeah
+2022-12-06T00:08:34Z: PLAYER CHATTED [ 1212129557] belinda221101        (   13.1,    34.6,   321.3)
+  they locked us herre on purison
+2022-12-06T00:08:36Z: PLAYER REMOVED [ 2226911216] aNiTa_RuLeS24       
+2022-12-06T00:08:37Z: PLAYER CHATTED [  964132464] Unicornparty7891     (   16.7,    34.3,   324.2)
+  bye guys
+2022-12-06T00:08:38Z: PLAYER CHATTED [   67983035] GWOMPIE              (   12.2,    16.1,   377.8)
+  oh my..
+2022-12-06T00:08:43Z: PLAYER ADDED   [ 3314751968] Luckyy2936xx         a.k.a. Anna                
+2022-12-06T00:08:47Z: PLAYER CHATTED [ 1891099232] UnicornKatt2012      (   -0.4,    34.9,   314.2)
+  WE'RE FREE
+2022-12-06T00:08:48Z: CHRCTER ADDED  [ 3485182641] mima9427            
+2022-12-06T00:08:50Z: PLAYER CHATTED [ 1377380687] iialexina            (  -22.4,    11.6,   278.7)
+  Pls food
+2022-12-06T00:08:51Z: PLAYER CHATTED [ 2241625141] doghria              (    0.9,    13.0,   370.3)
+  i had to jump off the balcony to get out
+2022-12-06T00:08:57Z: PLAYER CHATTED [ 1377380687] iialexina            (  -27.8,    11.6,   294.8)
+  We got locked up in the bedroom
+2022-12-06T00:08:58Z: PLAYER CHATTED [ 1961456415] Muda872              (   18.4,    34.5,   303.7)
+  zzz
+2022-12-06T00:09:03Z: PLAYER CHATTED [ 1377380687] iialexina            (  -27.8,    11.6,   294.8)
+  Thank you
+2022-12-06T00:09:04Z: PLAYER REMOVED [ 3485182641] mima9427            
+2022-12-06T00:09:04Z: PLAYER CHATTED [  922970988] rinakarinax          (  -31.8,    12.5,   304.3)
+  We are so sorry!
+2022-12-06T00:09:07Z: PLAYER CHATTED [ 1891099232] UnicornKatt2012      (  -30.8,    12.2,   308.0)
+  FOOD
+2022-12-06T00:09:09Z: PLAYER CHATTED [ 3014196994] CharWood091010       (  304.3,    -0.9,   199.4)
+  Lets go
+2022-12-06T00:09:10Z: PLAYER CHATTED [   67983035] GWOMPIE              (   12.2,    16.1,   377.8)
+  I hope you didnt get hurt! Thats a long fall!..
+2022-12-06T00:09:11Z: PLAYER CHATTED [ 2241625141] doghria              (    0.9,    13.0,   370.3)
+  it hurt my ankles T^T
+2022-12-06T00:09:18Z: PLAYER CHATTED [ 1891099232] UnicornKatt2012      (  -30.2,    12.2,   301.3)
+  thank you
+2022-12-06T00:09:46Z: PLAYER REMOVED [ 1869499541] jjj99kk              a.k.a. Iloverats           
+2022-12-06T00:09:50Z: PLAYER CHATTED [ 1212129557] belinda221101        (  -44.2,    12.7,   275.9)
+  i need fooood 
+2022-12-06T00:09:50Z: PLAYER ADDED   [ 1884880279] XxxCedes09xxX        a.k.a. Mercedes            
+2022-12-06T00:09:53Z: PLAYER ADDED   [ 3172771226] AlexAKendall2        a.k.a. Komi                
+2022-12-06T00:10:01Z: CHRCTER ADDED  [  964132464] Unicornparty7891     a.k.a. Baby_Milky          
+2022-12-06T00:10:08Z: PLAYER CHATTED [ 1148235674] PrincessGamerKitty28 (  -92.4,    35.2,   294.5)
+  hello? 
+2022-12-06T00:10:09Z: CHRCTER ADDED  [ 1381013595] Jamalia_23           a.k.a. Noe                 
+2022-12-06T00:10:11Z: PLAYER CHATTED [ 1594735330] JennyferLuz          (   -6.4,    13.0,   397.7)
+  hi girls
+2022-12-06T00:10:14Z: PLAYER REMOVED [  964132464] Unicornparty7891     a.k.a. Baby_Milky          
+2022-12-06T00:10:22Z: PLAYER CHATTED [  171929556] 1000kokis            (   -7.4,    13.1,   401.0)
+  .. hi
+2022-12-06T00:10:23Z: PLAYER CHATTED [ 1110345510] Chanelvc             (  -38.1,    11.9,   267.2)
+  FREE FOOD
+2022-12-06T00:10:26Z: PLAYER REMOVED [ 1381013595] Jamalia_23           a.k.a. Noe                 
+2022-12-06T00:10:28Z: PLAYER REMOVED [ 1884880279] XxxCedes09xxX        a.k.a. Mercedes            
+2022-12-06T00:10:29Z: PLAYER CHATTED [   45388890] twinz2013            (   -4.6,    13.1,   390.9)
+  hello.
+2022-12-06T00:10:29Z: PLAYER REMOVED [ 3172771226] AlexAKendall2        a.k.a. Komi                
+2022-12-06T00:10:36Z: PLAYER CHATTED [ 1110345510] Chanelvc             (  -40.5,    11.9,   265.4)
+  ANYONE WANT FREE FOOD
+2022-12-06T00:10:40Z: PLAYER CHATTED [ 3859594267] Flylfdgd             (  -96.3,    34.9,   294.3)
+  How do I level up
+2022-12-06T00:10:46Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   -5.4,    12.8,   368.6)
+  Hi
+2022-12-06T00:10:47Z: PLAYER CHATTED [ 1748376215] seebunnygirl         (  -36.6,    11.8,   261.8)
+  Me
+2022-12-06T00:10:47Z: PLAYER CHATTED [ 2487613860] Myagirl20201         (   -6.3,    13.1,   372.0)
+  What is our activity going to be today?
+2022-12-06T00:10:50Z: PLAYER CHATTED [ 1110345510] Chanelvc             (  -38.5,    11.9,   265.5)
+  k
+2022-12-06T00:10:50Z: PLAYER CHATTED [ 3894740933] gjd3702              (    2.7,    13.0,   363.5)
+  1234 nooooo
+2022-12-06T00:10:53Z: PLAYER CHATTED [ 1110345510] Chanelvc             (  -38.5,    11.9,   265.5)
+  byeeeeeeee
+2022-12-06T00:10:54Z: PLAYER CHATTED [ 2487613860] Myagirl20201         (   -6.3,    13.1,   372.0)
+  Hello!
+2022-12-06T00:10:58Z: CHRCTER ADDED  [ 1212129557] belinda221101       
+2022-12-06T00:11:00Z: PLAYER REMOVED [ 1110345510] Chanelvc            
+2022-12-06T00:11:12Z: PLAYER REMOVED [ 1377380687] iialexina            a.k.a. CamiCane            
+2022-12-06T00:11:15Z: PLAYER ADDED   [ 1377380687] iialexina            a.k.a. CamiCane            
+2022-12-06T00:11:16Z: PLAYER ADDED   [ 2525950023] Do_wnie              a.k.a. Debdeck             
+2022-12-06T00:11:16Z: PLAYER REMOVED [  907357425] ssoffiiaa5           a.k.a. soso                
+2022-12-06T00:11:18Z: PLAYER ADDED   [ 1110345510] Chanelvc            
+2022-12-06T00:11:18Z: PLAYER REMOVED [ 1383278479] LuIuPlays15          a.k.a. HanzJr              
+2022-12-06T00:11:25Z: PLAYER REMOVED [ 1377380687] iialexina            a.k.a. CamiCane            
+2022-12-06T00:11:25Z: PLAYER REMOVED [  548590644] beauty651            a.k.a. Duck                
+2022-12-06T00:11:26Z: PLAYER ADDED   [ 2672464596] Flowersstems         a.k.a. Eli                 
+2022-12-06T00:11:29Z: PLAYER ADDED   [ 1448103484] plushe12_gamer       a.k.a. andrea              
+2022-12-06T00:11:32Z: CHRCTER ADDED  [ 1448103484] plushe12_gamer       a.k.a. andrea              
+2022-12-06T00:11:32Z: PLAYER ADDED   [  331858126] PL3XO               
+2022-12-06T00:11:41Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (  -16.5,    25.4,   307.5)
+  I NEED 11 SOULSSSSSS
+2022-12-06T00:11:42Z: PLAYER REMOVED [ 2525950023] Do_wnie              a.k.a. Debdeck             
+2022-12-06T00:11:45Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (  -16.5,    25.4,   307.5)
+  NO
+2022-12-06T00:11:47Z: PLAYER CHATTED [  880730809] swagxscarr           (   44.1,    25.8,   401.5)
+  SLAYY
+2022-12-06T00:11:47Z: PLAYER CHATTED [ 1266819504] GracieGRD            (   46.9,    25.9,   395.1)
+  aye #### o o rphans do yall want to team up?
+2022-12-06T00:11:54Z: PLAYER REMOVED [ 3314751968] Luckyy2936xx         a.k.a. Anna                
+2022-12-06T00:11:57Z: PLAYER CHATTED [  880730809] swagxscarr           (   44.1,    25.8,   401.5)
+  Sure
+2022-12-06T00:12:01Z: PLAYER REMOVED [  331858126] PL3XO               
+2022-12-06T00:12:02Z: PLAYER CHATTED [ 1266819504] GracieGRD            (   48.8,    25.9,   394.4)
+  yasss
+2022-12-06T00:12:15Z: PLAYER ADDED   [ 1405782874] 7520t                a.k.a. skullgirl           
+2022-12-06T00:12:19Z: PLAYER ADDED   [  348698434] BeastyCake4          a.k.a. Beasty              
+2022-12-06T00:12:21Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   62.9,    34.7,   381.5)
+  .
+2022-12-06T00:12:24Z: PLAYER CHATTED [ 1266819504] GracieGRD            (   48.8,    25.9,   394.4)
+  if i attack u i dont mean it
+2022-12-06T00:12:24Z: PLAYER REMOVED [ 2468365385] 1cequeena            a.k.a. arixnna             
+2022-12-06T00:12:26Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   60.0,    34.7,   378.7)
+  Hi!
+2022-12-06T00:12:31Z: PLAYER CHATTED [  424268110] kittyheart74         (   -4.1,    12.2,   386.9)
+  i need food and it wouldent let me put on a uniform because i think im a untrained maid
+2022-12-06T00:12:45Z: PLAYER CHATTED [  880730809] swagxscarr           (   60.8,    34.2,   374.6)
+  Oh hii
+2022-12-06T00:12:47Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   61.3,    34.7,   367.3)
+  What does painting quest do
+2022-12-06T00:12:47Z: PLAYER CHATTED [ 2651714814] alegranth            ( -417.5,    22.3,  -703.5)
+  yes
+2022-12-06T00:12:50Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   60.3,    34.7,   376.3)
+  Come
+2022-12-06T00:12:53Z: PLAYER CHATTED [  171929556] 1000kokis            (   -7.4,    13.1,   401.0)
+  it taking so much time...
+2022-12-06T00:12:55Z: PLAYER CHATTED [ 3517843554] Xxaliyahplayz1234xX  (   -0.0,    13.0,   373.6)
+  What are we gonna do today?
+2022-12-06T00:12:55Z: PLAYER CHATTED [  424268110] kittyheart74         (   -0.6,    12.3,   385.4)
+  thanks
+2022-12-06T00:12:55Z: PLAYER CHATTED [ 1594735330] JennyferLuz          (   -6.4,    13.0,   397.7)
+  nvm
+2022-12-06T00:12:56Z: PLAYER CHATTED [  880730809] swagxscarr           (   74.1,    34.3,   330.0)
+  Oh idrk
+2022-12-06T00:13:05Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   74.2,    34.7,   312.7)
+  I need 11 souls
+2022-12-06T00:13:25Z: PLAYER REMOVED [ 1405782874] 7520t                a.k.a. skullgirl           
+2022-12-06T00:13:29Z: PLAYER ADDED   [ 3727593963] MoonPrincess2717    
+2022-12-06T00:13:30Z: PLAYER REMOVED [ 3894740933] gjd3702             
+2022-12-06T00:13:31Z: PLAYER REMOVED [  542856145] Elephanthearts      
+2022-12-06T00:13:33Z: PLAYER CHATTED [ 2241625141] doghria              (  -96.2,     8.5,   250.5)
+  oooh yay I love the playground
+2022-12-06T00:13:33Z: PLAYER ADDED   [  219793241] AgtRomanoff          a.k.a. Elliot              
+2022-12-06T00:13:41Z: PLAYER ADDED   [  505279171] justiceforall101     a.k.a. charlo              
+2022-12-06T00:13:43Z: CHRCTER ADDED  [  505279171] justiceforall101     a.k.a. charlo              
+2022-12-06T00:14:15Z: PLAYER CHATTED [  171929556] 1000kokis            ( -128.0,     5.4,   339.5)
+  miss, im getting hungry, could i have food please ?
+2022-12-06T00:14:15Z: PLAYER ADDED   [ 2615704570] Cutewolf12ae         a.k.a. Sunflower           
+2022-12-06T00:14:19Z: PLAYER REMOVED [ 1224392780] VSCO1015             a.k.a. Nesus               
+2022-12-06T00:14:24Z: PLAYER CHATTED [ 2421609933] ParisRose_313        (   -7.2,    11.9,   261.1)
+  I’m seeing things…
+2022-12-06T00:14:29Z: PLAYER CHATTED [ 3517843554] Xxaliyahplayz1234xX  ( -170.5,     5.3,   299.8)
+  Who wants to play jump rope?
+2022-12-06T00:14:30Z: PLAYER CHATTED [  171929556] 1000kokis            ( -119.6,     5.4,   343.2)
+  thanks you.
+2022-12-06T00:14:31Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   -9.7,    12.2,   257.7)
+  Same
+2022-12-06T00:14:34Z: PLAYER CHATTED [ 1110345510] Chanelvc             (   20.6,     8.0,   273.2)
+  how do u become an oprhan
+2022-12-06T00:14:35Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   -9.7,    12.2,   257.7)
+  I see stairs
+2022-12-06T00:14:37Z: PLAYER CHATTED [ 1228208348] cottoncandys_mum     (   -9.7,    12.2,   257.7)
+  I see you
+2022-12-06T00:14:37Z: CHRCTER ADDED  [  505279171] justiceforall101     a.k.a. charlo              
+2022-12-06T00:14:38Z: PLAYER CHATTED [ 2241625141] doghria              ( -179.4,     5.4,   299.3)
+  me
+2022-12-06T00:14:38Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-06T00:14:39Z: PLAYER REMOVED [ 1212129557] belinda221101       
+2022-12-06T00:14:39Z: PLAYER REMOVED [ 1891099232] UnicornKatt2012      a.k.a. Kai                 
+2022-12-06T00:14:39Z: PLAYER REMOVED [ 3963731296] myboyseven2         
+2022-12-06T00:14:39Z: PLAYER REMOVED [ 2487613860] Myagirl20201         a.k.a. SMILEYXMYA          
+2022-12-06T00:14:39Z: PLAYER REMOVED [ 1167000741] Eve_MM               a.k.a. eve                 
+2022-12-06T00:14:39Z: PLAYER REMOVED [ 2421609933] ParisRose_313        a.k.a. sLaY                
+2022-12-06T00:14:39Z: PLAYER REMOVED [  746514775] mileymce            
+2022-12-06T00:14:39Z: PLAYER REMOVED [ 3517843554] Xxaliyahplayz1234xX 
+2022-12-06T00:14:39Z: PLAYER REMOVED [ 1228208348] cottoncandys_mum     a.k.a. IsAS1MP             
+2022-12-06T00:14:39Z: PLAYER REMOVED [ 1509424158] kaydenceluna5       
+2022-12-06T00:14:39Z: PLAYER REMOVED [ 2241625141] doghria              a.k.a. slimeblob           
+2022-12-06T00:14:39Z: PLAYER REMOVED [ 1752262374] coolpanda5112        a.k.a. Johnnyappleseed     
+2022-12-06T00:14:39Z: PLAYER REMOVED [  670093039] Lxvely_Crimsxn       a.k.a. Grim                
+2022-12-06T00:14:39Z: PLAYER REMOVED [ 2056316625] pfkesmxdld           a.k.a. sour                
+2022-12-06T00:14:39Z: PLAYER REMOVED [ 2651714814] alegranth           
+2022-12-06T00:14:39Z: PLAYER REMOVED [ 1569601749] Sxmply_Cl0udy        a.k.a. Lucas               
+2022-12-06T00:14:39Z: PLAYER REMOVED [ 1961456415] Muda872              a.k.a. Kae                 
+2022-12-06T00:14:39Z: PLAYER REMOVED [   67983035] GWOMPIE              a.k.a. DSBM                
+2022-12-06T00:14:39Z: PLAYER REMOVED [ 1148235674] PrincessGamerKitty28 a.k.a. Fox                 
+2022-12-06T00:14:39Z: PLAYER REMOVED [ 1594735330] JennyferLuz          a.k.a. Ephemera            
+2022-12-06T00:14:39Z: PLAYER REMOVED [  922970988] rinakarinax          a.k.a. serenity            
+2022-12-06T00:14:39Z: PLAYER REMOVED [  130978923] delquinn             a.k.a. mushr00m            
+2022-12-06T00:14:39Z: PLAYER REMOVED [  880730809] swagxscarr           a.k.a. 0MGSCAR             
+2022-12-06T00:14:39Z: PLAYER REMOVED [  557692810] ApplePie10203        a.k.a. Jay                 
+2022-12-06T00:14:39Z: PLAYER REMOVED [  171929556] 1000kokis            a.k.a. Emmy                
+2022-12-06T00:14:39Z: PLAYER REMOVED [ 1296096233] Soldierpanda11       a.k.a. Possum              
+2022-12-06T00:14:39Z: PLAYER REMOVED [ 3014196994] CharWood091010       a.k.a. Charlotte           
+2022-12-06T00:14:39Z: PLAYER REMOVED [  424268110] kittyheart74        
+2022-12-06T00:14:39Z: PLAYER REMOVED [ 2423828517] LollyCat2021         a.k.a. Queen               
+2022-12-06T00:14:39Z: PLAYER REMOVED [ 1266819504] GracieGRD            a.k.a. Aussie              
+2022-12-06T00:14:39Z: PLAYER REMOVED [ 3859594267] Flylfdgd            
+2022-12-06T00:14:39Z: PLAYER REMOVED [  532320947] lennonolivia         a.k.a. bubbles             
+2022-12-06T00:14:39Z: PLAYER REMOVED [ 2915338268] lilioi655           
+2022-12-06T00:14:39Z: PLAYER REMOVED [ 1795286338] SoccerGirl4PIG      
+2022-12-06T00:14:39Z: PLAYER REMOVED [   45388890] twinz2013            a.k.a. teriyakichicken     
+2022-12-06T00:14:39Z: PLAYER REMOVED [  641614492] SparkleMoonWitch     a.k.a. GLUE                
+2022-12-06T00:14:39Z: PLAYER REMOVED [  270715226] metroLANDROID        a.k.a. Alone               
+2022-12-06T00:14:39Z: PLAYER REMOVED [ 2053777110] katieann016         
+2022-12-06T00:14:39Z: PLAYER REMOVED [ 1781154633] LLamacam1920         a.k.a. K1Y0                
+2022-12-06T00:14:39Z: PLAYER REMOVED [ 1234381681] AkianaOwO            a.k.a. Akielle             

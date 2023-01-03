@@ -1,0 +1,641 @@
+[    1630228] : [10916198365] 💠 Club illuzion - 63eeb9c7-d3c8-49fd-9304-747a9d3e5c2d
+2022-12-16T05:11:30Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-12-16T05:11:30Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-16T05:11:30Z: PLAYER ADDED   [ 2487611747] mxmmywearsprada      a.k.a. LillianKZA          
+2022-12-16T05:11:30Z: PLAYER ADDED   [ 1153202191] xXTwiZted_LillyXx   
+2022-12-16T05:11:30Z: PLAYER ADDED   [ 2347550266] diamondxhearttt      a.k.a. H3ARTL3SS_DES       
+2022-12-16T05:13:49Z: PLAYER REMOVED [ 2487611747] mxmmywearsprada      a.k.a. LillianKZA          
+2022-12-16T05:15:44Z: PLAYER ADDED   [   62657671] bellavisi            a.k.a. Bri                 
+2022-12-16T05:16:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (   23.3,    61.4,   244.4)
+  Welcome in!
+2022-12-16T05:17:21Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -23.1,    61.4,   343.4)
+  Discord?
+2022-12-16T05:17:33Z: PLAYER REMOVED [   62657671] bellavisi            a.k.a. Bri                 
+2022-12-16T05:25:15Z: PLAYER ADDED   [   52039966] xxMrzanekingxx       a.k.a. Mrzanelionsking     
+2022-12-16T05:25:47Z: PLAYER CHATTED [   52039966] xxMrzanekingxx       (  -33.8,    61.8,   278.2)
+  /w VisualPlugin  Hi
+2022-12-16T05:25:47Z: PLAYER CHATTED [   52039966] xxMrzanekingxx       (  -33.8,    61.8,   278.2)
+  Hi
+2022-12-16T05:35:15Z: PLAYER REMOVED [   52039966] xxMrzanekingxx       a.k.a. Mrzanelionsking     
+2022-12-16T05:36:30Z: PLAYER ADDED   [ 1964547997] xDisneyCorax0        a.k.a. EnchantedDisneyCora 
+2022-12-16T05:37:03Z: PLAYER CHATTED [ 1964547997] xDisneyCorax0        (   -9.6,    81.9,   427.8)
+  where is everyone?
+2022-12-16T05:37:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -21.7,    76.0,   395.1)
+  In the comms server.
+2022-12-16T05:37:26Z: PLAYER CHATTED [ 1964547997] xDisneyCorax0        (  -18.0,    75.7,   418.5)
+  /headless
+2022-12-16T05:37:33Z: PLAYER REMOVED [ 1964547997] xDisneyCorax0        a.k.a. EnchantedDisneyCora 
+2022-12-16T05:40:47Z: PLAYER ADDED   [   69564116] jaysvalore           a.k.a. jay                 
+2022-12-16T05:41:28Z: PLAYER REMOVED [   69564116] jaysvalore           a.k.a. jay                 
+2022-12-16T05:42:03Z: PLAYER ADDED   [  676034674] cnday1               a.k.a. Cnday1              
+2022-12-16T05:42:20Z: PLAYER ADDED   [  356867148] fayrelinquack       
+2022-12-16T05:44:01Z: PLAYER REMOVED [  676034674] cnday1               a.k.a. Cnday1              
+2022-12-16T05:44:28Z: PLAYER ADDED   [ 1577700760] 01TheQueenSnowFlake  a.k.a. Isa                 
+2022-12-16T05:44:29Z: PLAYER ADDED   [  931694255] Queenie1503         
+2022-12-16T05:44:43Z: PLAYER REMOVED [  356867148] fayrelinquack       
+2022-12-16T05:45:22Z: PLAYER REMOVED [ 1577700760] 01TheQueenSnowFlake  a.k.a. Isa                 
+2022-12-16T05:46:25Z: PLAYER ADDED   [ 2289271058] 1nvidiouss           a.k.a. Sigma               
+2022-12-16T05:47:48Z: PLAYER CHATTED [  931694255] Queenie1503          (    8.8,    82.4,   425.8)
+  What’s happening?
+2022-12-16T05:50:39Z: PLAYER REMOVED [ 2289271058] 1nvidiouss           a.k.a. Sigma               
+2022-12-16T05:50:55Z: PLAYER ADDED   [  542537040] Bonnyfiv             a.k.a. Demon               
+2022-12-16T05:52:30Z: PLAYER REMOVED [  542537040] Bonnyfiv             a.k.a. Demon               
+2022-12-16T05:52:46Z: PLAYER ADDED   [   41086907] PaIaeo              
+2022-12-16T05:53:07Z: PLAYER REMOVED [   41086907] PaIaeo              
+2022-12-16T05:53:37Z: PLAYER ADDED   [ 1765726045] Drakujunior2094      a.k.a. Awa_deAwacate       
+2022-12-16T05:53:38Z: PLAYER ADDED   [  542537040] Bonnyfiv             a.k.a. Demon               
+2022-12-16T05:53:53Z: PLAYER CHATTED [  542537040] Bonnyfiv             (   -3.8,    81.5,   453.9)
+  xD
+2022-12-16T05:53:59Z: PLAYER CHATTED [ 1765726045] Drakujunior2094      (   -9.5,    81.5,   453.9)
+  uwu
+2022-12-16T05:54:08Z: PLAYER CHATTED [  542537040] Bonnyfiv             (   -3.8,    81.5,   453.9)
+  porque se demora en cargar las texturas la #####
+2022-12-16T05:54:13Z: PLAYER CHATTED [  542537040] Bonnyfiv             (   -4.1,    81.5,   453.6)
+  a no ya xd
+2022-12-16T05:54:16Z: PLAYER CHATTED [ 1765726045] Drakujunior2094      (   -6.2,    80.9,   446.7)
+  jaja
+2022-12-16T05:54:25Z: PLAYER CHATTED [ 1765726045] Drakujunior2094      (   -6.2,    80.9,   446.7)
+  va venir fifi? 
+2022-12-16T05:54:34Z: PLAYER CHATTED [  542537040] Bonnyfiv             (   -1.2,    80.9,   444.3)
+  te ves bonita
+2022-12-16T05:54:41Z: PLAYER CHATTED [ 1765726045] Drakujunior2094      (   -5.4,    80.9,   446.1)
+  gracias uwu
+2022-12-16T05:55:03Z: PLAYER CHATTED [  542537040] Bonnyfiv             (   -1.2,    80.9,   444.5)
+  te pareces a la mina de Akame GA kill 😿
+2022-12-16T05:55:18Z: PLAYER CHATTED [ 1765726045] Drakujunior2094      (   -5.4,    80.9,   446.1)
+  eso es bueno o malo? 😿
+2022-12-16T05:55:19Z: PLAYER CHATTED [    1630228] VisualPlugin         (    5.4,    63.1,   342.1)
+  Queenie: this place got struck down for an unspecified reason.
+2022-12-16T05:55:32Z: PLAYER CHATTED [    1630228] VisualPlugin         (   36.6,    61.4,   324.9)
+  I'm in to keep players coming.
+2022-12-16T05:55:33Z: PLAYER CHATTED [  542537040] Bonnyfiv             (   -1.2,    80.9,   444.5)
+  bueno pero triste 😿
+2022-12-16T05:55:43Z: PLAYER CHATTED [ 1765726045] Drakujunior2094      (   -4.2,    80.9,   444.7)
+  ono😿
+2022-12-16T05:55:57Z: PLAYER CHATTED [ 1765726045] Drakujunior2094      (   -4.2,    80.9,   444.7)
+  me lo cambio? 😿
+2022-12-16T05:56:00Z: PLAYER CHATTED [  542537040] Bonnyfiv             (   -1.1,    80.9,   444.3)
+  todos los buenos de ese anime mueren
+2022-12-16T05:56:03Z: PLAYER CHATTED [  542537040] Bonnyfiv             (   -1.1,    80.9,   444.3)
+  nono
+2022-12-16T05:56:11Z: PLAYER CHATTED [  542537040] Bonnyfiv             (   -1.1,    80.9,   444.3)
+  así estás bellisim
+2022-12-16T05:56:20Z: PLAYER CHATTED [  542537040] Bonnyfiv             (   -1.1,    80.9,   444.3)
+  bellísima*
+2022-12-16T05:56:23Z: PLAYER CHATTED [ 1765726045] Drakujunior2094      (   -4.2,    80.9,   444.7)
+  que lindo sos 🥺
+2022-12-16T05:56:35Z: PLAYER CHATTED [  542537040] Bonnyfiv             (   -1.1,    80.9,   444.3)
+  No hay de que ☺️
+2022-12-16T05:56:43Z: PLAYER CHATTED [ 1765726045] Drakujunior2094      (   -3.9,    80.9,   443.1)
+  uwu
+2022-12-16T05:56:45Z: PLAYER CHATTED [  542537040] Bonnyfiv             (    0.3,    80.9,   443.5)
+  será que el fir no va a entrar?
+2022-12-16T05:56:54Z: PLAYER CHATTED [ 1765726045] Drakujunior2094      (   -1.2,    80.9,   443.0)
+  no se
+2022-12-16T05:57:17Z: PLAYER CHATTED [  542537040] Bonnyfiv             (   -0.4,    80.9,   442.9)
+  es muy ramdon xD
+2022-12-16T05:57:24Z: PLAYER CHATTED [ 1765726045] Drakujunior2094      (   -3.7,    80.9,   443.1)
+  fifi? 
+2022-12-16T05:57:29Z: PLAYER CHATTED [  542537040] Bonnyfiv             (   -0.4,    80.9,   442.9)
+  ajam
+2022-12-16T05:57:45Z: PLAYER CHATTED [ 1765726045] Drakujunior2094      (   -3.7,    80.9,   443.1)
+  si pero me cae bn uwu
+2022-12-16T05:57:56Z: PLAYER CHATTED [  542537040] Bonnyfiv             (   -0.4,    80.9,   442.9)
+  si es chevere xd
+2022-12-16T05:58:00Z: PLAYER CHATTED [ 1765726045] Drakujunior2094      (   -5.3,    80.9,   443.8)
+  jaja
+2022-12-16T05:58:09Z: PLAYER CHATTED [ 1765726045] Drakujunior2094      (   -4.1,    80.9,   443.9)
+  lo invito? 
+2022-12-16T05:58:14Z: PLAYER CHATTED [  542537040] Bonnyfiv             (   -0.4,    80.9,   442.9)
+  a veces no le entiendo su humor
+2022-12-16T05:58:21Z: PLAYER CHATTED [  542537040] Bonnyfiv             (   -0.4,    80.9,   442.9)
+  ahí lo invite 
+2022-12-16T05:58:23Z: PLAYER CHATTED [ 1765726045] Drakujunior2094      (   -4.4,    80.9,   442.5)
+  ni yo😿
+2022-12-16T05:58:30Z: PLAYER CHATTED [ 1765726045] Drakujunior2094      (   -4.4,    80.9,   442.5)
+  ta weno
+2022-12-16T05:58:31Z: PLAYER CHATTED [  542537040] Bonnyfiv             (   -0.4,    80.9,   442.9)
+  vamos a ver se une
+2022-12-16T05:58:40Z: PLAYER CHATTED [ 1765726045] Drakujunior2094      (   -3.9,    80.9,   442.5)
+  pera
+2022-12-16T05:58:42Z: PLAYER REMOVED [ 1765726045] Drakujunior2094      a.k.a. Awa_deAwacate       
+2022-12-16T06:03:15Z: PLAYER CHATTED [  931694255] Queenie1503          (    8.8,    82.4,   425.8)
+  ;sparkles
+2022-12-16T06:03:30Z: PLAYER REMOVED [  542537040] Bonnyfiv             a.k.a. Demon               
+2022-12-16T06:04:13Z: PLAYER ADDED   [ 2964188510] KingJohnVersion55    a.k.a. Chriskinglegands    
+2022-12-16T06:07:42Z: PLAYER CHATTED [ 2964188510] KingJohnVersion55    (   -5.4,    76.4,   404.4)
+  hola love 
+2022-12-16T06:09:07Z: PLAYER CHATTED [  931694255] Queenie1503          (    8.8,    82.4,   425.8)
+  Hi ♥️ 
+2022-12-16T06:09:31Z: PLAYER CHATTED [ 2964188510] KingJohnVersion55    (    9.0,    82.5,   425.7)
+  hola ❤️
+2022-12-16T06:12:43Z: PLAYER CHATTED [ 2964188510] KingJohnVersion55    (   11.0,    82.6,   426.8)
+  nice dance love ☺️ 
+2022-12-16T06:12:59Z: PLAYER CHATTED [ 2964188510] KingJohnVersion55    (   11.0,    82.6,   426.8)
+  good day  love ❤️❤️❤️❤️❤️❤️❤️
+2022-12-16T06:12:59Z: PLAYER CHATTED [ 2964188510] KingJohnVersion55    (   11.0,    82.6,   426.8)
+  good day love ❤️❤️❤️❤️❤️❤️❤️
+2022-12-16T06:13:25Z: PLAYER CHATTED [  931694255] Queenie1503          (   10.6,    82.4,   425.6)
+  Aww hope ur having a great day too
+2022-12-16T06:13:29Z: PLAYER CHATTED [ 2964188510] KingJohnVersion55    (   11.0,    82.6,   426.8)
+  exam Monday Tuesday Wednesday Thursday Friday last week play love ☺️
+2022-12-16T06:13:47Z: PLAYER CHATTED [  931694255] Queenie1503          (   10.6,    82.4,   425.6)
+  Aww goodluck with exams
+2022-12-16T06:14:02Z: PLAYER CHATTED [ 2964188510] KingJohnVersion55    (   11.0,    82.6,   426.8)
+  nice day best girl forever ❤️ love
+2022-12-16T06:14:11Z: PLAYER CHATTED [ 2964188510] KingJohnVersion55    (   11.0,    82.6,   426.8)
+  yay 
+2022-12-16T06:14:17Z: PLAYER CHATTED [ 2964188510] KingJohnVersion55    (   11.0,    82.6,   426.8)
+  love
+2022-12-16T06:14:26Z: PLAYER CHATTED [  931694255] Queenie1503          (   10.6,    82.4,   425.6)
+  Awww ur so kind ♥️ 
+2022-12-16T06:14:41Z: PLAYER CHATTED [  931694255] Queenie1503          (   10.6,    82.4,   425.6)
+  U r also a pleasure ♥️ 
+2022-12-16T06:15:11Z: PLAYER CHATTED [  931694255] Queenie1503          (   10.6,    82.4,   425.6)
+  Where u from? Spanish?
+2022-12-16T06:16:09Z: PLAYER CHATTED [ 2964188510] KingJohnVersion55    (   11.0,    82.6,   426.8)
+  good club. dance love ❤️❤️❤️❤️💖💖👑👑💐💐💗💗👍👍😍😍😍😍😍💍💍💍🎄
+2022-12-16T06:16:19Z: PLAYER CHATTED [ 2964188510] KingJohnVersion55    (   11.0,    82.6,   426.8)
+  good love 
+2022-12-16T06:16:31Z: PLAYER CHATTED [  931694255] Queenie1503          (   10.6,    82.4,   425.6)
+  Yeah it’s my favourite 😍 it’s really nice here 
+2022-12-16T06:16:38Z: PLAYER CHATTED [ 2964188510] KingJohnVersion55    (   11.0,    82.6,   426.8)
+  good girl you nice 
+2022-12-16T06:16:38Z: PLAYER CHATTED [  931694255] Queenie1503          (   10.6,    82.4,   425.6)
+  Great people 
+2022-12-16T06:16:54Z: PLAYER CHATTED [  931694255] Queenie1503          (   10.6,    82.4,   425.6)
+  ♥️ 
+2022-12-16T06:17:02Z: PLAYER CHATTED [ 2964188510] KingJohnVersion55    (   11.0,    82.6,   426.8)
+  yay sow pretty girl you. love 
+2022-12-16T06:17:12Z: PLAYER CHATTED [ 2964188510] KingJohnVersion55    (   11.0,    82.6,   426.8)
+  ❤️
+2022-12-16T06:17:25Z: PLAYER CHATTED [  931694255] Queenie1503          (   10.6,    82.4,   425.6)
+  Aww 🥰 
+2022-12-16T06:18:23Z: PLAYER CHATTED [ 2964188510] KingJohnVersion55    (   11.0,    82.6,   426.8)
+  mwa ❤️ 
+2022-12-16T06:18:37Z: PLAYER CHATTED [ 2964188510] KingJohnVersion55    (   11.0,    82.6,   426.8)
+  love ❤️😍☺️😊😁
+2022-12-16T06:18:46Z: PLAYER CHATTED [  931694255] Queenie1503          (   11.1,    82.4,   424.7)
+  Mwa 💋 
+2022-12-16T06:19:40Z: PLAYER CHATTED [ 2964188510] KingJohnVersion55    (    9.9,    82.5,   425.6)
+  nice to good nice good love 💖💖💖 mwa lv 💖💖❤️❤️❤️
+2022-12-16T06:24:54Z: PLAYER CHATTED [ 2964188510] KingJohnVersion55    (   10.8,    82.6,   426.1)
+  love good dance ☺️❤️💖
+2022-12-16T06:25:40Z: PLAYER CHATTED [  931694255] Queenie1503          (   11.1,    82.4,   424.7)
+  It’s. Cute 🥰 
+2022-12-16T06:26:14Z: PLAYER CHATTED [ 2964188510] KingJohnVersion55    (   12.6,    82.5,   426.0)
+  ###########################################
+2022-12-16T06:26:21Z: PLAYER CHATTED [ 2964188510] KingJohnVersion55    (   12.6,    82.5,   426.0)
+  you to 
+2022-12-16T06:26:23Z: PLAYER CHATTED [  931694255] Queenie1503          (   11.1,    82.4,   424.7)
+  I hope your exams go well
+2022-12-16T06:26:28Z: PLAYER CHATTED [ 2964188510] KingJohnVersion55    (   12.6,    82.5,   426.0)
+  love 💗❤️💖
+2022-12-16T06:26:39Z: PLAYER CHATTED [ 2964188510] KingJohnVersion55    (   12.6,    82.5,   426.0)
+  yay love 
+2022-12-16T06:26:40Z: PLAYER CHATTED [  931694255] Queenie1503          (   11.1,    82.4,   424.7)
+  ♥️ ♥️ ♥️ 
+2022-12-16T06:26:46Z: PLAYER CHATTED [ 2964188510] KingJohnVersion55    (   12.6,    82.5,   426.0)
+  ❤️❤️❤️❤️
+2022-12-16T06:27:51Z: PLAYER CHATTED [ 2964188510] KingJohnVersion55    (   12.2,    82.5,   424.4)
+  nice dance love good dance bebe 
+2022-12-16T06:27:57Z: PLAYER CHATTED [ 2964188510] KingJohnVersion55    (   12.2,    82.5,   424.4)
+  ❤️💗💐
+2022-12-16T06:28:01Z: PLAYER CHATTED [ 2964188510] KingJohnVersion55    (   12.2,    82.5,   424.4)
+  mwa ❤️ 
+2022-12-16T06:28:14Z: PLAYER CHATTED [ 2964188510] KingJohnVersion55    (   12.2,    82.5,   424.4)
+  mwa ❤️❤️❤️❤️
+2022-12-16T06:28:27Z: PLAYER CHATTED [  931694255] Queenie1503          (   11.1,    82.4,   424.7)
+  💋 💋 💋 
+2022-12-16T06:28:31Z: PLAYER CHATTED [ 2964188510] KingJohnVersion55    (   12.2,    82.5,   424.4)
+  ##############
+2022-12-16T06:28:38Z: PLAYER CHATTED [ 2964188510] KingJohnVersion55    (   12.2,    82.5,   424.4)
+  ###########
+2022-12-16T06:28:45Z: PLAYER CHATTED [ 2964188510] KingJohnVersion55    (   12.2,    82.5,   424.4)
+  you to ☺️
+2022-12-16T06:28:50Z: PLAYER CHATTED [ 2964188510] KingJohnVersion55    (   12.2,    82.5,   424.4)
+  love 
+2022-12-16T06:28:56Z: PLAYER CHATTED [ 2964188510] KingJohnVersion55    (   12.2,    82.5,   424.4)
+  mwa ❤️💗
+2022-12-16T06:29:18Z: PLAYER CHATTED [  931694255] Queenie1503          (   11.1,    82.4,   424.7)
+  I have to go see u soon mwa
+2022-12-16T06:29:29Z: PLAYER CHATTED [  931694255] Queenie1503          (   11.1,    82.4,   424.7)
+  💋 💋 ♥️ 
+2022-12-16T06:29:33Z: PLAYER CHATTED [ 2964188510] KingJohnVersion55    (   12.2,    82.5,   424.4)
+  ok love 
+2022-12-16T06:29:47Z: PLAYER CHATTED [  931694255] Queenie1503          (   11.1,    82.4,   424.7)
+  See u in mocap or club central 
+2022-12-16T06:29:50Z: PLAYER CHATTED [ 2964188510] KingJohnVersion55    (   12.2,    82.5,   424.4)
+  see you soon love bye 💖
+2022-12-16T06:29:53Z: PLAYER CHATTED [  931694255] Queenie1503          (   11.1,    82.4,   424.7)
+  Or here 
+2022-12-16T06:29:56Z: PLAYER CHATTED [ 2964188510] KingJohnVersion55    (   12.2,    82.5,   424.4)
+  ok love ❤️
+2022-12-16T06:29:59Z: PLAYER CHATTED [  931694255] Queenie1503          (   11.1,    82.4,   424.7)
+  ♥️ 
+2022-12-16T06:30:13Z: PLAYER CHATTED [ 2964188510] KingJohnVersion55    (   12.2,    82.5,   424.4)
+  have to go. love 
+2022-12-16T06:30:20Z: PLAYER CHATTED [  931694255] Queenie1503          (   11.1,    82.4,   424.7)
+  Bye sweetheart 
+2022-12-16T06:30:25Z: PLAYER CHATTED [  931694255] Queenie1503          (   11.1,    82.4,   424.7)
+  💋 
+2022-12-16T06:30:25Z: PLAYER CHATTED [ 2964188510] KingJohnVersion55    (   12.2,    82.5,   424.4)
+  by 
+2022-12-16T06:30:31Z: PLAYER REMOVED [  931694255] Queenie1503         
+2022-12-16T06:30:38Z: PLAYER CHATTED [ 2964188510] KingJohnVersion55    (   12.2,    82.5,   424.4)
+  bye good  to love mwa 
+2022-12-16T06:30:38Z: PLAYER CHATTED [ 2964188510] KingJohnVersion55    (   12.2,    82.5,   424.4)
+  bye good to love mwa 
+2022-12-16T06:30:44Z: PLAYER CHATTED [ 2964188510] KingJohnVersion55    (   12.2,    82.5,   424.4)
+  ❤️
+2022-12-16T06:30:54Z: PLAYER REMOVED [ 2964188510] KingJohnVersion55    a.k.a. Chriskinglegands    
+2022-12-16T06:32:31Z: PLAYER ADDED   [ 2449542177] Caliente_Wolf        a.k.a. XxWoLfxX            
+2022-12-16T06:33:38Z: PLAYER CHATTED [ 2449542177] Caliente_Wolf        (  -48.8,    82.4,   280.9)
+  /korblox 
+2022-12-16T06:33:45Z: PLAYER CHATTED [ 2449542177] Caliente_Wolf        (  -48.8,    82.5,   280.9)
+  ;fire me
+2022-12-16T06:36:53Z: PLAYER CHATTED [ 2449542177] Caliente_Wolf        (  -48.8,    82.5,   280.9)
+  ;re
+2022-12-16T06:36:54Z: CHRCTER ADDED  [ 2449542177] Caliente_Wolf        a.k.a. XxWoLfxX            
+2022-12-16T06:37:01Z: PLAYER CHATTED [ 2449542177] Caliente_Wolf        (  -48.2,    82.4,   279.8)
+  /korblox 
+2022-12-16T06:37:07Z: PLAYER CHATTED [ 2449542177] Caliente_Wolf        (  -48.2,    82.5,   279.8)
+  ;fire me
+2022-12-16T06:39:06Z: PLAYER CHATTED [ 2449542177] Caliente_Wolf        (   -6.6,    72.8,   271.8)
+  /Premium 
+2022-12-16T07:06:30Z: PLAYER ADDED   [ 3693756833] OrbitronStarStriker 
+2022-12-16T07:06:50Z: PLAYER REMOVED [ 3693756833] OrbitronStarStriker 
+2022-12-16T07:07:03Z: PLAYER ADDED   [  375226765] tameratherobloxlover a.k.a. TammyBelongsToVox   
+2022-12-16T07:15:47Z: PLAYER REMOVED [  375226765] tameratherobloxlover a.k.a. TammyBelongsToVox   
+2022-12-16T07:16:30Z: PLAYER ADDED   [ 1447563995] XxThyxX2             a.k.a. XxPitBullxX         
+2022-12-16T07:16:48Z: PLAYER CHATTED [ 2449542177] Caliente_Wolf        (   -8.2,    72.8,   272.5)
+  Gm Liebes 
+2022-12-16T07:16:54Z: PLAYER CHATTED [ 1447563995] XxThyxX2             (   -5.0,    81.0,   431.0)
+  Gm liebes 
+2022-12-16T07:17:05Z: PLAYER CHATTED [ 1447563995] XxThyxX2             (   -5.0,    81.0,   431.0)
+  Kam Stunden net drauf 
+2022-12-16T07:17:30Z: PLAYER CHATTED [ 2449542177] Caliente_Wolf        (   -8.2,    72.8,   272.5)
+  Ich hatte auch Probleme 
+2022-12-16T07:17:36Z: PLAYER CHATTED [ 1447563995] XxThyxX2             (   21.8,    81.6,   419.8)
+  Nervt 
+2022-12-16T07:18:18Z: PLAYER CHATTED [ 1447563995] XxThyxX2             (  -10.1,    72.6,   279.4)
+  Spring mal
+2022-12-16T07:19:13Z: PLAYER CHATTED [ 1447563995] XxThyxX2             (  -12.1,    72.6,   273.0)
+  Bin so müde 
+2022-12-16T07:19:50Z: PLAYER CHATTED [ 1447563995] XxThyxX2             (  -12.1,    72.6,   273.0)
+  Hab trouble wieder gelöscht 
+2022-12-16T07:19:59Z: PLAYER CHATTED [ 1447563995] XxThyxX2             (  -12.1,    72.6,   273.0)
+  Will nicht wissen was der will 
+2022-12-16T07:20:05Z: PLAYER CHATTED [ 1447563995] XxThyxX2             (  -12.1,    72.6,   273.0)
+  Und Tim ##### ###
+2022-12-16T07:20:07Z: PLAYER CHATTED [ 2449542177] Caliente_Wolf        (   -8.1,    72.8,   273.0)
+  ok besser vielleicht 
+2022-12-16T07:20:11Z: PLAYER CHATTED [ 1447563995] XxThyxX2             (  -12.1,    72.6,   273.0)
+  Hate 
+2022-12-16T07:20:15Z: PLAYER CHATTED [ 1447563995] XxThyxX2             (  -12.1,    72.6,   273.0)
+  Ihm 
+2022-12-16T07:20:40Z: PLAYER CHATTED [ 1447563995] XxThyxX2             (  -12.1,    72.6,   273.0)
+  Der ist mir in Rücken gefallen so was will der jetzt 
+2022-12-16T07:21:09Z: PLAYER CHATTED [ 2449542177] Caliente_Wolf        (   -8.1,    72.8,   273.0)
+  ka ist nur komisch 
+2022-12-16T07:21:20Z: PLAYER CHATTED [ 1447563995] XxThyxX2             (  -12.1,    72.6,   273.0)
+  Er hat die eklige nicht mehr 
+2022-12-16T07:21:31Z: PLAYER CHATTED [ 1447563995] XxThyxX2             (  -12.1,    72.6,   273.0)
+  Hatte ihn jetzt # days drin
+2022-12-16T07:21:35Z: PLAYER CHATTED [ 1447563995] XxThyxX2             (  -12.1,    72.6,   273.0)
+  2
+2022-12-16T07:21:35Z: PLAYER CHATTED [ 2449542177] Caliente_Wolf        (   -8.1,    72.8,   273.0)
+  🤣
+2022-12-16T07:21:41Z: PLAYER CHATTED [ 1447563995] XxThyxX2             (  -12.1,    72.6,   273.0)
+  Er kam nicht 
+2022-12-16T07:21:45Z: PLAYER CHATTED [ 1447563995] XxThyxX2             (  -12.1,    72.6,   273.0)
+  So Pech 
+2022-12-16T07:21:59Z: PLAYER CHATTED [ 1447563995] XxThyxX2             (  -12.1,    72.6,   273.0)
+  Will nichts mit ihm zu tun haben 
+2022-12-16T07:22:38Z: PLAYER CHATTED [ 1447563995] XxThyxX2             (  -12.1,    72.6,   273.0)
+  Nur weil Tim und ich nicht mehr zsm sind heißt das nicht das ich ####### das jemand über ihn redet
+2022-12-16T07:22:47Z: PLAYER CHATTED [ 1447563995] XxThyxX2             (  -12.1,    72.6,   273.0)
+  Zulassen *
+2022-12-16T07:23:23Z: PLAYER CHATTED [ 2449542177] Caliente_Wolf        (   -8.1,    72.8,   273.0)
+  Den braucht kein Mensch 
+2022-12-16T07:23:27Z: PLAYER CHATTED [ 1447563995] XxThyxX2             (  -12.1,    72.6,   273.0)
+  /pwhite 
+2022-12-16T07:23:39Z: PLAYER REMOVED [ 2347550266] diamondxhearttt      a.k.a. H3ARTL3SS_DES       
+2022-12-16T07:23:43Z: PLAYER CHATTED [ 1447563995] XxThyxX2             (  -12.1,    72.6,   273.0)
+  Eben und sein Gelaber brauch ich auch net
+2022-12-16T07:23:52Z: PLAYER CHATTED [ 2449542177] Caliente_Wolf        (   -8.1,    72.8,   273.0)
+  Genau 
+2022-12-16T07:23:59Z: PLAYER CHATTED [ 1447563995] XxThyxX2             (  -12.1,    72.6,   273.0)
+  Hab ihn gewarnt vor ihr 
+2022-12-16T07:24:09Z: PLAYER CHATTED [ 1447563995] XxThyxX2             (  -12.1,    72.6,   273.0)
+  Bevor alles das passierte
+2022-12-16T07:24:15Z: PLAYER CHATTED [ 1447563995] XxThyxX2             (  -12.1,    72.6,   273.0)
+  Wo die zsm gekommen sind 
+2022-12-16T07:24:25Z: PLAYER CHATTED [ 1447563995] XxThyxX2             (  -12.1,    72.6,   273.0)
+  Er wollte nicht hören 🙆🏽‍♀️
+2022-12-16T07:24:31Z: PLAYER CHATTED [ 1447563995] XxThyxX2             (  -12.1,    72.6,   273.0)
+  So Pech 
+2022-12-16T07:24:43Z: PLAYER CHATTED [ 2449542177] Caliente_Wolf        (   -8.1,    72.8,   273.0)
+  Selbst schuld 
+2022-12-16T07:24:58Z: PLAYER ADDED   [ 2347550266] diamondxhearttt      a.k.a. H3ARTL3SS_DES       
+2022-12-16T07:25:10Z: PLAYER CHATTED [ 1447563995] XxThyxX2             (  -12.1,    72.6,   273.0)
+  Gm and wb des ❤️
+2022-12-16T07:25:14Z: PLAYER CHATTED [ 2449542177] Caliente_Wolf        (   -8.1,    72.8,   273.0)
+  wb Ellie 💓
+2022-12-16T07:25:29Z: PLAYER CHATTED [ 2347550266] diamondxhearttt      (    2.2,    81.1,   459.9)
+  Thank you ladies <3
+2022-12-16T07:25:32Z: PLAYER CHATTED [ 2347550266] diamondxhearttt      (    2.2,    81.1,   459.9)
+  /headless
+2022-12-16T07:25:36Z: PLAYER CHATTED [ 2347550266] diamondxhearttt      (    2.2,    81.1,   459.9)
+  /korblox
+2022-12-16T07:25:52Z: PLAYER CHATTED [ 1447563995] XxThyxX2             (  -12.1,    72.6,   273.0)
+  /frozenhorns 
+2022-12-16T07:28:05Z: PLAYER CHATTED [ 2347550266] diamondxhearttt      (  -22.3,    81.2,   422.9)
+  /red
+2022-12-16T07:28:55Z: PLAYER CHATTED [ 1447563995] XxThyxX2             (  -12.1,    72.6,   273.0)
+  Hast du keine Arbeit ?
+2022-12-16T07:30:19Z: PLAYER CHATTED [ 2449542177] Caliente_Wolf        (   -8.1,    72.8,   273.0)
+  Doch 
+2022-12-16T07:30:24Z: PLAYER CHATTED [ 1447563995] XxThyxX2             (  -12.1,    72.6,   273.0)
+  Wann 
+2022-12-16T07:30:25Z: PLAYER CHATTED [ 2449542177] Caliente_Wolf        (   -8.1,    72.8,   273.0)
+  gleich 
+2022-12-16T07:30:30Z: PLAYER CHATTED [ 1447563995] XxThyxX2             (  -12.1,    72.6,   273.0)
+  Ah ok 
+2022-12-16T07:30:42Z: PLAYER CHATTED [ 1447563995] XxThyxX2             (  -12.1,    72.6,   273.0)
+  /club 
+2022-12-16T07:36:22Z: PLAYER CHATTED [ 1447563995] XxThyxX2             (  -12.1,    72.6,   273.0)
+  Ich lege mich nochmal hin 
+2022-12-16T07:36:32Z: PLAYER CHATTED [ 1447563995] XxThyxX2             (  -12.1,    72.6,   273.0)
+  Bis nachher liebes 
+2022-12-16T07:36:50Z: PLAYER CHATTED [ 2449542177] Caliente_Wolf        (   -8.1,    72.8,   273.0)
+  ok tc
+2022-12-16T07:36:53Z: PLAYER CHATTED [ 2449542177] Caliente_Wolf        (   -8.1,    72.8,   273.0)
+  ok  tc
+2022-12-16T07:37:00Z: PLAYER CHATTED [ 1447563995] XxThyxX2             (  -12.1,    72.6,   273.0)
+  Tc viel Spaß auf Arbeit 
+2022-12-16T07:37:00Z: PLAYER CHATTED [ 2449542177] Caliente_Wolf        (   -8.1,    72.8,   273.0)
+  bisSpäter
+2022-12-16T07:37:03Z: PLAYER CHATTED [ 1447563995] XxThyxX2             (  -12.1,    72.6,   273.0)
+  ❤️💋
+2022-12-16T07:37:11Z: PLAYER CHATTED [ 2449542177] Caliente_Wolf        (   -8.1,    72.8,   273.0)
+  🤣❤️
+2022-12-16T07:37:16Z: PLAYER CHATTED [ 1447563995] XxThyxX2             (  -12.1,    72.6,   273.0)
+  😂
+2022-12-16T07:37:19Z: PLAYER REMOVED [ 1447563995] XxThyxX2             a.k.a. XxPitBullxX         
+2022-12-16T07:37:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -61.0,    61.4,   243.3)
+  Everyone!
+2022-12-16T07:37:44Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -20.3,    69.6,   263.9)
+  Come to centre ring!
+2022-12-16T07:37:52Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -15.2,    73.2,   266.7)
+  I have a quest!
+2022-12-16T07:37:58Z: PLAYER CHATTED [ 2449542177] Caliente_Wolf        (   -8.1,    72.8,   273.0)
+  ok
+2022-12-16T07:38:07Z: PLAYER CHATTED [ 2449542177] Caliente_Wolf        (   -9.7,    72.8,   273.2)
+  ask
+2022-12-16T07:38:17Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -4.6,    73.2,   270.7)
+  We are the last survivors in this stronghold.
+2022-12-16T07:38:24Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -4.6,    73.2,   270.7)
+  The gates are locked in.
+2022-12-16T07:38:35Z: PLAYER CHATTED [ 2449542177] Caliente_Wolf        (   -5.3,    72.8,   275.2)
+  yea right 
+2022-12-16T07:38:35Z: PLAYER ADDED   [ 2644040948] GeosFather          
+2022-12-16T07:38:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -4.6,    73.2,   270.7)
+  It is our duty to NOT leave.
+2022-12-16T07:38:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -6.3,    73.2,   270.1)
+  ¿HOW WAS GEO ABLE TO SLIDE IN IF THE MODER88!?
+2022-12-16T07:39:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -6.3,    73.2,   270.1)
+  Never mind.
+2022-12-16T07:39:37Z: PLAYER CHATTED [ 2449542177] Caliente_Wolf        (   -5.3,    72.8,   275.2)
+  it works but they are working on it..the server got lag
+2022-12-16T07:39:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -6.5,    73.2,   273.2)
+  Lag in what way?
+2022-12-16T07:40:24Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -5.3,    73.2,   269.5)
+  There were only at most 6 people since I joined.
+2022-12-16T07:40:40Z: PLAYER CHATTED [ 2449542177] Caliente_Wolf        (   -5.0,    72.8,   275.3)
+  yea right.
+2022-12-16T07:41:14Z: PLAYER CHATTED [ 2449542177] Caliente_Wolf        (   -5.0,    72.8,   275.3)
+  later everything is back to normal
+2022-12-16T07:41:55Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -6.9,    73.2,   270.5)
+  We shall do a fireside survival chat and stuff!
+2022-12-16T07:42:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -9.8,    73.2,   274.3)
+  *ignites a fire*
+2022-12-16T07:42:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -8.6,    73.2,   272.2)
+  Everyone!  Gather around Wolf!
+2022-12-16T07:42:27Z: PLAYER CHATTED [ 2449542177] Caliente_Wolf        (   -5.0,    72.8,   275.3)
+  is cmds
+2022-12-16T07:42:31Z: PLAYER CHATTED [ 2449542177] Caliente_Wolf        (   -5.0,    72.8,   275.3)
+  u need vip
+2022-12-16T07:42:46Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -8.2,    73.2,   271.2)
+  I am VI-sual-P-lugin.
+2022-12-16T07:43:14Z: PLAYER CHATTED [ 2449542177] Caliente_Wolf        (   -5.0,    72.8,   275.3)
+  ah 😁kk
+2022-12-16T07:43:20Z: PLAYER CHATTED [ 2449542177] Caliente_Wolf        (   -5.0,    72.8,   275.3)
+  i gtg now..bye
+2022-12-16T07:43:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -49.3,    70.1,   389.1)
+  Take care!
+2022-12-16T07:43:31Z: PLAYER CHATTED [ 2449542177] Caliente_Wolf        (   -4.9,    72.8,   272.1)
+  tc too
+2022-12-16T07:43:38Z: PLAYER REMOVED [ 2449542177] Caliente_Wolf        a.k.a. XxWoLfxX            
+2022-12-16T07:44:34Z: PLAYER CHATTED [    1630228] VisualPlugin         (    3.1,    81.4,   446.6)
+  Welcome in!
+2022-12-16T07:44:35Z: PLAYER CHATTED [ 2644040948] GeosFather           (    2.2,    82.6,   453.9)
+  hello
+2022-12-16T07:44:43Z: PLAYER CHATTED [ 2644040948] GeosFather           (    2.2,    82.6,   453.9)
+  sorry just doing a few things
+2022-12-16T07:44:44Z: PLAYER CHATTED [    1630228] VisualPlugin         (    2.8,    81.4,   448.3)
+  You are given a presidential 'pardon'.
+2022-12-16T07:44:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (    2.8,    81.4,   448.3)
+  Pardon?
+2022-12-16T07:44:58Z: PLAYER CHATTED [ 2644040948] GeosFather           (    2.2,    82.6,   453.9)
+  why thank you lol
+2022-12-16T07:45:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (    2.8,    81.4,   448.3)
+  Pardon?
+2022-12-16T07:45:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (    5.2,    81.4,   448.7)
+  Sorry.  I was being generous.
+2022-12-16T07:46:58Z: PLAYER ADDED   [ 3310806035] mohamedthesupersj    a.k.a. Pro_MO              
+2022-12-16T07:47:22Z: PLAYER REMOVED [ 2644040948] GeosFather          
+2022-12-16T07:47:38Z: PLAYER REMOVED [ 3310806035] mohamedthesupersj    a.k.a. Pro_MO              
+2022-12-16T07:48:12Z: PLAYER ADDED   [ 2284300074] NiftyQs              a.k.a. Nif                 
+2022-12-16T07:48:18Z: PLAYER ADDED   [  215628530] xxatokadxx           a.k.a. LadyChiyo           
+2022-12-16T07:48:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (   17.3,    73.5,   371.3)
+  Welcome in!
+2022-12-16T07:48:21Z: PLAYER CHATTED [ 2284300074] NiftyQs              (   -3.8,    81.6,   453.9)
+  OMG
+2022-12-16T07:48:23Z: PLAYER CHATTED [ 2284300074] NiftyQs              (   -3.8,    81.6,   453.9)
+  i b
+2022-12-16T07:48:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (   14.6,    76.1,   386.1)
+  A crowd!
+2022-12-16T07:48:26Z: PLAYER CHATTED [ 2284300074] NiftyQs              (   -3.3,    81.6,   454.6)
+  i made it
+2022-12-16T07:48:31Z: PLAYER CHATTED [ 2284300074] NiftyQs              (   -0.4,    80.9,   443.2)
+  FINALLY
+2022-12-16T07:48:37Z: PLAYER CHATTED [ 2347550266] diamondxhearttt      (  -22.3,    81.2,   422.9)
+  Welcomeeee
+2022-12-16T07:48:42Z: PLAYER REMOVED [  215628530] xxatokadxx           a.k.a. LadyChiyo           
+2022-12-16T07:49:12Z: PLAYER CHATTED [ 2284300074] NiftyQs              (   -2.9,    80.9,   432.4)
+  Tyyyy Des!
+2022-12-16T07:49:31Z: PLAYER ADDED   [ 4034506862] PhilloAu            
+2022-12-16T07:49:41Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -13.3,    82.2,   428.4)
+  The dark ages are over!
+2022-12-16T07:49:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -11.4,    81.4,   431.7)
+  Now it's time for the light ones!
+2022-12-16T07:50:09Z: PLAYER CHATTED [ 4034506862] PhilloAu             (    2.2,    82.6,   459.9)
+  /steel
+2022-12-16T07:50:12Z: PLAYER CHATTED [ 2347550266] diamondxhearttt      (  -22.3,    81.2,   422.9)
+  too early for that 😂
+2022-12-16T07:50:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -12.0,    81.9,   430.0)
+  We're still technically in a game which breaks the rules.
+2022-12-16T07:50:41Z: PLAYER CHATTED [    1630228] VisualPlugin         (    6.3,    81.3,   426.4)
+  The server isn't updated yet.
+2022-12-16T07:52:22Z: PLAYER CHATTED [ 2347550266] diamondxhearttt      (  -22.3,    81.2,   422.9)
+  ;re
+2022-12-16T07:52:23Z: CHRCTER ADDED  [ 2347550266] diamondxhearttt      a.k.a. H3ARTL3SS_DES       
+2022-12-16T07:52:34Z: PLAYER CHATTED [ 2347550266] diamondxhearttt      (  -22.4,    81.2,   422.3)
+  /headless
+2022-12-16T07:52:40Z: PLAYER CHATTED [ 2347550266] diamondxhearttt      (  -22.4,    81.2,   422.3)
+  /korblox
+2022-12-16T07:53:15Z: PLAYER CHATTED [ 2284300074] NiftyQs              (  -26.9,    81.7,   421.4)
+  might as well dance as im waiting lol
+2022-12-16T07:54:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -29.2,    76.1,   401.4)
+  The lighting really shows the brown in my trousers.
+2022-12-16T07:54:13Z: PLAYER CHATTED [ 2347550266] diamondxhearttt      (  -22.4,    81.2,   422.3)
+  pls the game is so dead rn, it creeps me out 
+2022-12-16T07:54:19Z: PLAYER CHATTED [ 2347550266] diamondxhearttt      (  -22.4,    81.2,   422.3)
+  /red
+2022-12-16T07:54:21Z: PLAYER CHATTED [ 2284300074] NiftyQs              (  -26.9,    81.7,   421.4)
+  HAHAH
+2022-12-16T07:54:22Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -23.1,    76.1,   418.4)
+  We will revitalise it!
+2022-12-16T07:54:26Z: PLAYER CHATTED [ 2347550266] diamondxhearttt      (  -22.4,    81.2,   422.3)
+  /illuzion
+2022-12-16T07:54:29Z: PLAYER CHATTED [ 2284300074] NiftyQs              (  -26.9,    81.7,   421.4)
+  it feels creepy ngl
+2022-12-16T07:54:32Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -23.9,    82.2,   421.0)
+  *does C.P.R.*
+2022-12-16T07:54:34Z: PLAYER CHATTED [ 2347550266] diamondxhearttt      (  -22.4,    81.2,   422.3)
+  right??
+2022-12-16T07:54:37Z: PLAYER CHATTED [ 2284300074] NiftyQs              (  -26.9,    81.7,   421.4)
+  like a ghost town
+2022-12-16T07:54:50Z: PLAYER CHATTED [ 2284300074] NiftyQs              (  -26.9,    81.7,   421.4)
+  i miss all the goofies
+2022-12-16T07:54:52Z: PLAYER CHATTED [ 2284300074] NiftyQs              (  -26.9,    81.7,   421.4)
+  LOL
+2022-12-16T07:55:06Z: PLAYER CHATTED [ 2347550266] diamondxhearttt      (  -22.4,    81.2,   422.3)
+  literally
+2022-12-16T07:55:10Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -24.6,    82.2,   420.5)
+  What's usually up at 08:00 UTC?
+2022-12-16T07:55:22Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -8.0,    80.0,   425.4)
+  Late night in New York.
+2022-12-16T07:55:26Z: PLAYER REMOVED [ 4034506862] PhilloAu            
+2022-12-16T07:55:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -7.5,    78.7,   423.2)
+  Midnight in L.A.
+2022-12-16T07:55:30Z: PLAYER CHATTED [ 2284300074] NiftyQs              (  -26.9,    81.7,   421.4)
+  rn feels like entertaining self not realizing i would get into here
+2022-12-16T07:55:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -20.7,    82.2,   422.8)
+  Early morning in London.
+2022-12-16T07:56:04Z: PLAYER ADDED   [ 1399287408] Just_TeeTeeXP        a.k.a. xXMs_TeeXx          
+2022-12-16T07:56:09Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -19.1,    78.1,   422.2)
+  Welcome in!
+2022-12-16T07:56:16Z: PLAYER CHATTED [ 1399287408] Just_TeeTeeXP        (   -9.5,    81.4,   459.9)
+  ohh wow it worked
+2022-12-16T07:56:28Z: PLAYER CHATTED [ 1399287408] Just_TeeTeeXP        (   -9.5,    81.4,   459.9)
+  I was spamming it
+2022-12-16T07:56:31Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.8,    81.4,   445.3)
+  It's hit-and-miss.
+2022-12-16T07:56:40Z: PLAYER CHATTED [ 1399287408] Just_TeeTeeXP        (   -7.0,    80.7,   439.8)
+  ;re
+2022-12-16T07:56:41Z: CHRCTER ADDED  [ 1399287408] Just_TeeTeeXP        a.k.a. xXMs_TeeXx          
+2022-12-16T07:56:45Z: PLAYER CHATTED [ 2284300074] NiftyQs              (  -26.9,    81.7,   421.4)
+  YAAAAY
+2022-12-16T07:56:57Z: PLAYER CHATTED [ 2284300074] NiftyQs              (  -28.6,    81.7,   424.8)
+  she spammed it
+2022-12-16T07:57:03Z: PLAYER CHATTED [ 2284300074] NiftyQs              (  -28.6,    81.7,   424.8)
+  breaking screen i bet
+2022-12-16T07:57:04Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -2.2,    81.4,   435.9)
+  What usually happens at this time of day?
+2022-12-16T07:57:09Z: PLAYER CHATTED [ 2347550266] diamondxhearttt      (  -22.4,    81.2,   422.3)
+  its so annoying tho lol
+2022-12-16T07:57:20Z: PLAYER CHATTED [ 1399287408] Just_TeeTeeXP        (  -34.5,    81.4,   422.5)
+  Tell everyone to spam the joins lol
+2022-12-16T07:57:23Z: PLAYER CHATTED [ 2284300074] NiftyQs              (  -29.2,    81.7,   422.8)
+  yaay i have you two
+2022-12-16T07:57:28Z: PLAYER CHATTED [ 2284300074] NiftyQs              (  -29.2,    81.7,   422.8)
+  and some cat
+2022-12-16T07:57:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -31.7,    83.3,   422.3)
+  I told everyone in #general.
+2022-12-16T07:57:50Z: PLAYER CHATTED [ 2347550266] diamondxhearttt      (  -22.4,    81.2,   422.3)
+  sir if you don't move out of my face, imma rage, i promise you that
+2022-12-16T07:57:53Z: PLAYER CHATTED [ 2284300074] NiftyQs              (  -29.6,    81.7,   422.6)
+  Wait your in gen
+2022-12-16T07:57:57Z: PLAYER CHATTED [ 2284300074] NiftyQs              (  -29.6,    81.7,   422.6)
+  LOL me slow
+2022-12-16T07:58:04Z: PLAYER CHATTED [ 2347550266] diamondxhearttt      (  -22.4,    81.2,   422.3)
+  LOL
+2022-12-16T07:58:09Z: PLAYER CHATTED [ 1399287408] Just_TeeTeeXP        (  -34.5,    81.4,   422.5)
+  He post a pic silly
+2022-12-16T07:58:31Z: PLAYER CHATTED [    1630228] VisualPlugin         (   15.1,    75.8,   389.7)
+  I can take the picture for you.
+2022-12-16T07:58:33Z: PLAYER CHATTED [ 2284300074] NiftyQs              (  -29.6,    81.7,   422.6)
+  Think everyone been stuck there and ahh i didn’t recognize tail my bad
+2022-12-16T07:58:45Z: PLAYER CHATTED [ 1399287408] Just_TeeTeeXP        (  -34.5,    81.4,   422.5)
+  lol
+2022-12-16T07:58:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (   15.1,    75.8,   389.7)
+  I have ReShade and script execution tools.
+2022-12-16T07:58:50Z: PLAYER CHATTED [ 2284300074] NiftyQs              (  -29.6,    81.7,   422.6)
+  yeah post us up 😎
+2022-12-16T07:59:11Z: PLAYER CHATTED [ 1399287408] Just_TeeTeeXP        (  -34.5,    81.4,   422.5)
+  🤓🤓
+2022-12-16T07:59:21Z: PLAYER CHATTED [ 2347550266] diamondxhearttt      (  -22.4,    81.2,   422.3)
+  i feel sooo sleepy 
+2022-12-16T07:59:46Z: PLAYER CHATTED [ 2284300074] NiftyQs              (  -29.6,    81.7,   422.6)
+  did you have to just mention that shhhh dess
+2022-12-16T07:59:54Z: PLAYER CHATTED [ 2347550266] diamondxhearttt      (  -22.4,    81.2,   422.3)
+  😂
+2022-12-16T08:00:00Z: PLAYER CHATTED [ 2347550266] diamondxhearttt      (  -22.4,    81.2,   422.3)
+  ill have my coffee soon as well
+2022-12-16T08:00:03Z: PLAYER CHATTED [ 2284300074] NiftyQs              (  -29.6,    81.7,   422.6)
+  she will tell me same thing
+2022-12-16T08:00:13Z: PLAYER CHATTED [ 1399287408] Just_TeeTeeXP        (  -34.5,    81.4,   422.5)
+  Ohh ####
+2022-12-16T08:00:18Z: PLAYER CHATTED [ 1399287408] Just_TeeTeeXP        (  -34.5,    81.4,   422.5)
+  yes
+2022-12-16T08:00:21Z: PLAYER CHATTED [ 2284300074] NiftyQs              (  -29.6,    81.7,   422.6)
+  😅 then i have to find sheets
+2022-12-16T08:00:27Z: PLAYER CHATTED [ 2347550266] diamondxhearttt      (  -22.4,    81.2,   422.3)
+  Good let her sleep 
+2022-12-16T08:00:28Z: PLAYER CHATTED [ 2347550266] diamondxhearttt      (  -22.4,    81.2,   422.3)
+  LOL
+2022-12-16T08:00:35Z: PLAYER CHATTED [ 1399287408] Just_TeeTeeXP        (  -34.5,    81.4,   422.5)
+  XD
+2022-12-16T08:00:56Z: PLAYER CHATTED [ 2284300074] NiftyQs              (  -29.6,    81.7,   422.6)
+  Kinda she let me go sleep in server
+2022-12-16T08:01:04Z: PLAYER CHATTED [ 2284300074] NiftyQs              (  -29.6,    81.7,   422.6)
+  😂😭
+2022-12-16T08:01:35Z: PLAYER CHATTED [ 1399287408] Just_TeeTeeXP        (  -34.5,    81.4,   422.5)
+  That's a positive 
+2022-12-16T08:01:46Z: PLAYER CHATTED [ 2347550266] diamondxhearttt      (  -22.4,    81.2,   422.3)
+  im sleeping? im here. im awake? still here 😂
+2022-12-16T08:02:17Z: PLAYER CHATTED [ 2284300074] NiftyQs              (  -30.7,    82.0,   422.8)
+  Yes most positive was waking to see me still in game
+2022-12-16T08:02:27Z: PLAYER CHATTED [ 2284300074] NiftyQs              (  -30.7,    82.0,   422.8)
+  Yeah dess here for how long LOL
+2022-12-16T08:03:00Z: PLAYER CHATTED [ 1399287408] Just_TeeTeeXP        (  -35.0,    81.4,   422.3)
+  HAHA Try not to leave so you dont have join problems
+2022-12-16T08:03:04Z: PLAYER CHATTED [ 2347550266] diamondxhearttt      (  -22.4,    81.2,   422.3)
+  i never leave unless i have to visit friend checker or reset roblox 😂
+2022-12-16T08:03:27Z: PLAYER CHATTED [ 1399287408] Just_TeeTeeXP        (  -35.0,    81.4,   422.3)
+  xd
+2022-12-16T08:03:31Z: PLAYER CHATTED [ 2284300074] NiftyQs              (  -30.7,    82.0,   422.8)
+  Just had to go view that tonight -.- people not slick 
+2022-12-16T08:04:08Z: PLAYER CHATTED [ 2284300074] NiftyQs              (  -30.7,    82.0,   422.8)
+  i rather not dc would be a bum 
+2022-12-16T08:04:27Z: PLAYER CHATTED [ 2347550266] diamondxhearttt      (  -22.4,    81.2,   422.3)
+  people not slick at all LOL
+2022-12-16T08:04:45Z: PLAYER CHATTED [ 1399287408] Just_TeeTeeXP        (  -35.0,    81.4,   422.3)
+  Yeah rue lol
+2022-12-16T08:04:56Z: PLAYER CHATTED [ 2284300074] NiftyQs              (  -30.7,    82.0,   422.8)
+  That game gives anyone up who trick to remove no saying
+2022-12-16T08:04:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -6.8,    78.0,   421.3)
+  I'll be òóf.
+2022-12-16T08:05:05Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

@@ -1,0 +1,285 @@
+[    1630228] : [ 4474859677] CITY-17 - 744ec8c5-7d50-4ef5-842d-38165f9e9a86
+2022-12-10T08:28:31Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-12-10T08:28:31Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-10T08:28:31Z: PLAYER ADDED   [   12305866] InsomniaticTV        a.k.a. Bert                
+2022-12-10T08:28:31Z: PLAYER ADDED   [ 2375399733] vitalityW           
+2022-12-10T08:28:31Z: PLAYER ADDED   [ 3154720107] Z_NR0X               a.k.a. Zonny               
+2022-12-10T08:28:31Z: PLAYER ADDED   [ 3590423016] basedasparagus      
+2022-12-10T08:28:31Z: PLAYER ADDED   [ 2957111815] awawawafesd298       a.k.a. Baller              
+2022-12-10T08:28:31Z: PLAYER ADDED   [ 1879444812] imnewatroblox_help   a.k.a. ColeRoblox          
+2022-12-10T08:28:31Z: PLAYER ADDED   [ 1773131390] jfhejfhkfejfkhf      a.k.a. hell                
+2022-12-10T08:28:31Z: PLAYER ADDED   [ 3344762808] bestguy20324        
+2022-12-10T08:28:31Z: PLAYER ADDED   [   38644349] manlik               a.k.a. heybreezy           
+2022-12-10T08:28:31Z: PLAYER ADDED   [ 1787263776] foolerencan          a.k.a. Local_Benefactor    
+2022-12-10T08:28:31Z: PLAYER ADDED   [  899625751] arnoldking2895      
+2022-12-10T08:28:31Z: PLAYER ADDED   [ 2823708320] Sicwkxw777          
+2022-12-10T08:28:31Z: PLAYER ADDED   [  652143709] BlueShapeTrader      a.k.a. Trout               
+2022-12-10T08:28:31Z: PLAYER ADDED   [ 2309539273] robiox94872          a.k.a. biox                
+2022-12-10T08:28:31Z: PLAYER ADDED   [  454882558] obanwarrior          a.k.a. rustybread          
+2022-12-10T08:28:31Z: PLAYER ADDED   [ 2354301929] PatrikmdTheSecond    a.k.a. patrikmd            
+2022-12-10T08:28:31Z: PLAYER ADDED   [ 1217831969] Ieodmk687924         a.k.a. Egwithshades        
+2022-12-10T08:28:31Z: PLAYER ADDED   [ 1058326160] NINJA_MEMES99        a.k.a. Defended            
+2022-12-10T08:28:31Z: PLAYER ADDED   [  496354461] djs4158              a.k.a. SHY                 
+2022-12-10T08:28:31Z: PLAYER ADDED   [ 3426418619] andreyka_chebupelka 
+2022-12-10T08:28:31Z: PLAYER ADDED   [ 2462859068] the1master212       
+2022-12-10T08:28:31Z: PLAYER ADDED   [ 2974650676] Bighouseser         
+2022-12-10T08:28:31Z: PLAYER ADDED   [ 1003035229] Police_officer891   
+2022-12-10T08:28:31Z: PLAYER ADDED   [   87069773] STAFIST              a.k.a. ETA                 
+2022-12-10T08:28:31Z: PLAYER ADDED   [ 3299819967] Bonniehater670       a.k.a. Bonnie              
+2022-12-10T08:28:31Z: PLAYER ADDED   [  245067238] KeyMiguel            a.k.a. System              
+2022-12-10T08:28:31Z: PLAYER ADDED   [  416275172] boiledpeanutbutter  
+2022-12-10T08:28:33Z: PLAYER CHATTED [ 2354301929] PatrikmdTheSecond    (  316.6,   243.1, -1583.3)
+  HEY.
+2022-12-10T08:28:36Z: PLAYER CHATTED [ 2354301929] PatrikmdTheSecond    (  316.5,   243.1, -1578.7)
+  BAD.
+2022-12-10T08:28:36Z: PLAYER ADDED   [ 1490305755] mrlazybread          a.k.a. Hucklebery          
+2022-12-10T08:28:37Z: CHRCTER ADDED  [ 1058326160] NINJA_MEMES99        a.k.a. Defended            
+2022-12-10T08:28:37Z: PLAYER CHATTED [ 3299819967] Bonniehater670       (   33.8,   243.1, -1291.7)
+  <:: Yes. ::>
+2022-12-10T08:28:38Z: PLAYER CHATTED [ 2462859068] the1master212        (   14.3,   243.1, -1361.2)
+  You got TV.
+2022-12-10T08:28:39Z: PLAYER CHATTED [ 1003035229] Police_officer891    (   20.3,   243.1, -1361.5)
+  Pls.
+2022-12-10T08:28:39Z: CHRCTER ADDED  [ 1490305755] mrlazybread          a.k.a. Hucklebery          
+2022-12-10T08:28:40Z: PLAYER CHATTED [ 2957111815] awawawafesd298       (   28.8,   243.3, -1279.7)
+  But for me him red guy.
+2022-12-10T08:28:43Z: PLAYER CHATTED [ 3590423016] basedasparagus       (   24.4,   253.1, -1356.3)
+  AHHHHHHHH.
+2022-12-10T08:28:43Z: PLAYER CHATTED [ 2354301929] PatrikmdTheSecond    (  342.2,   243.1, -1590.8)
+  AHHHHH.
+2022-12-10T08:28:46Z: PLAYER CHATTED [ 2462859068] the1master212        (   14.3,   243.1, -1361.2)
+  This not shop.
+2022-12-10T08:28:46Z: PLAYER CHATTED [ 2957111815] awawawafesd298       (   28.8,   243.3, -1279.7)
+  Guy*
+2022-12-10T08:28:46Z: PLAYER CHATTED [ 1787263776] foolerencan          (   32.4,   243.1, -1284.6)
+  <:: They specialize in offensive situations. ::>
+2022-12-10T08:28:46Z: PLAYER CHATTED [ 1003035229] Police_officer891    (   21.5,   243.1, -1358.6)
+  2.
+2022-12-10T08:28:46Z: PLAYER CHATTED [ 3299819967] Bonniehater670       (   33.8,   243.1, -1291.7)
+  <:: Very high trained combine. ::>
+2022-12-10T08:28:47Z: PLAYER CHATTED [ 1787263776] foolerencan          (   32.4,   243.1, -1284.6)
+  <:: Or something. ::>
+2022-12-10T08:28:49Z: PLAYER CHATTED [ 2354301929] PatrikmdTheSecond    (  436.5,   242.7, -1592.2)
+  MEN NO PLS.
+2022-12-10T08:28:50Z: CHRCTER ADDED  [ 3590423016] basedasparagus      
+2022-12-10T08:28:50Z: PLAYER REMOVED [ 1490305755] mrlazybread          a.k.a. Hucklebery          
+2022-12-10T08:28:53Z: PLAYER ADDED   [ 2686906046] travison2009        
+2022-12-10T08:28:53Z: PLAYER CHATTED [ 2462859068] the1master212        (   14.3,   243.1, -1361.2)
+  This is apartment.
+2022-12-10T08:28:55Z: PLAYER CHATTED [ 2957111815] awawawafesd298       (   31.1,   243.1, -1289.5)
+  I too trained.
+2022-12-10T08:28:56Z: CHRCTER ADDED  [ 2686906046] travison2009        
+2022-12-10T08:28:56Z: PLAYER CHATTED [ 2354301929] PatrikmdTheSecond    (  559.4,   237.7, -1583.3)
+  HELP.
+2022-12-10T08:28:58Z: PLAYER ADDED   [ 1919292437] XIANTHEDOPE         
+2022-12-10T08:28:58Z: PLAYER CHATTED [ 1003035229] Police_officer891    (   20.7,   243.1, -1362.2)
+  I will.
+2022-12-10T08:29:00Z: PLAYER CHATTED [  652143709] BlueShapeTrader      (   26.6,   243.1, -1294.3)
+  <:: CEASE. ::>
+2022-12-10T08:29:01Z: CHRCTER ADDED  [ 1919292437] XIANTHEDOPE         
+2022-12-10T08:29:02Z: PLAYER CHATTED [ 3344762808] bestguy20324         (   33.4,   243.1, -1281.2)
+  <:: You should stop speaking with teh citizen. ::>
+2022-12-10T08:29:02Z: PLAYER CHATTED [   38644349] manlik               (  652.2,   237.7, -1559.0)
+  Run for your life.
+2022-12-10T08:29:04Z: PLAYER CHATTED [ 1003035229] Police_officer891    (   20.7,   243.7, -1362.2)
+  Be back.
+2022-12-10T08:29:05Z: PLAYER CHATTED [ 2354301929] PatrikmdTheSecond    (  660.8,   237.8, -1478.2)
+  NOOOOOOOOO.
+2022-12-10T08:29:09Z: PLAYER CHATTED [  454882558] obanwarrior          (   28.3,   254.6, -1353.0)
+  *lies down*
+2022-12-10T08:29:09Z: PLAYER REMOVED [ 1773131390] jfhejfhkfejfkhf      a.k.a. hell                
+2022-12-10T08:29:09Z: PLAYER CHATTED [ 2957111815] awawawafesd298       (   45.0,   242.8, -1279.4)
+  You too.
+2022-12-10T08:29:10Z: PLAYER CHATTED [ 2462859068] the1master212        (   14.5,   243.1, -1361.9)
+  Hey.
+2022-12-10T08:29:12Z: PLAYER CHATTED [ 2375399733] vitalityW            (   35.8,   242.8, -1308.9)
+  <:: There are rebels at gate. ::>
+2022-12-10T08:29:13Z: PLAYER CHATTED [   12305866] InsomniaticTV        (  663.9,   237.8, -1414.0)
+  RUN FOR YOUR LIFE.
+2022-12-10T08:29:13Z: PLAYER CHATTED [ 3344762808] bestguy20324         (   29.9,   243.1, -1287.0)
+  <:: Wall. ::>
+2022-12-10T08:29:15Z: PLAYER CHATTED [ 2462859068] the1master212        (   14.5,   243.1, -1361.8)
+  My TV.
+2022-12-10T08:29:16Z: PLAYER CHATTED [ 2354301929] PatrikmdTheSecond    (  658.5,   238.1, -1301.3)
+  I AM GREEN CITIZEN.
+2022-12-10T08:29:16Z: PLAYER CHATTED [ 2354301929] PatrikmdTheSecond    (  658.4,   238.1, -1301.3)
+  I AM GREEN  CITIZEN.
+2022-12-10T08:29:20Z: PLAYER CHATTED [ 2354301929] PatrikmdTheSecond    (  642.9,   238.1, -1285.9)
+  NO EXECUTE.
+2022-12-10T08:29:20Z: PLAYER CHATTED [ 2375399733] vitalityW            (   35.8,   242.8, -1308.9)
+  <:: Garage. ::>
+2022-12-10T08:29:20Z: PLAYER REMOVED [ 2974650676] Bighouseser         
+2022-12-10T08:29:23Z: CHRCTER ADDED  [ 3590423016] basedasparagus      
+2022-12-10T08:29:26Z: PLAYER CHATTED [ 2354301929] PatrikmdTheSecond    (  662.0,   238.1, -1227.8)
+  OW THAT HURTS.
+2022-12-10T08:29:27Z: PLAYER CHATTED [ 2957111815] awawawafesd298       (   18.4,   243.1, -1286.8)
+  Ok i need home.
+2022-12-10T08:29:28Z: PLAYER CHATTED [ 3344762808] bestguy20324         (   18.0,   243.1, -1284.2)
+  <:: CITIZEN YOU ARE ACCUSED OF 1.5 . ::>
+2022-12-10T08:29:30Z: PLAYER CHATTED [ 2354301929] PatrikmdTheSecond    (  680.9,   259.3, -1217.5)
+  AHHHHH.
+2022-12-10T08:29:31Z: PLAYER CHATTED [ 1879444812] imnewatroblox_help   (   23.4,   243.1, -1295.7)
+  <:: EVADING. ::>
+2022-12-10T08:29:33Z: PLAYER CHATTED [ 3344762808] bestguy20324         (   18.1,   243.1, -1294.8)
+  <:: Thanks. ::>
+2022-12-10T08:29:34Z: PLAYER REMOVED [  416275172] boiledpeanutbutter  
+2022-12-10T08:29:35Z: CHRCTER ADDED  [ 2957111815] awawawafesd298       a.k.a. Baller              
+2022-12-10T08:29:37Z: CHRCTER ADDED  [ 2375399733] vitalityW           
+2022-12-10T08:29:41Z: CHRCTER ADDED  [ 3426418619] andreyka_chebupelka 
+2022-12-10T08:29:44Z: CHRCTER ADDED  [ 3299819967] Bonniehater670       a.k.a. Bonnie              
+2022-12-10T08:29:45Z: PLAYER CHATTED [ 1787263776] foolerencan          (   45.6,   243.1, -1347.3)
+  <:: I think 2 violations. ::>
+2022-12-10T08:29:46Z: PLAYER CHATTED [ 2354301929] PatrikmdTheSecond    (  685.6,   270.6, -1185.0)
+  I GIVE SPAS.
+2022-12-10T08:29:47Z: CHRCTER ADDED  [  496354461] djs4158              a.k.a. SHY                 
+2022-12-10T08:29:48Z: PLAYER CHATTED [ 2354301929] PatrikmdTheSecond    (  685.6,   270.6, -1185.0)
+  PLS NO HURT ME.
+2022-12-10T08:29:50Z: CHRCTER ADDED  [ 3154720107] Z_NR0X               a.k.a. Zonny               
+2022-12-10T08:29:51Z: PLAYER CHATTED [ 2957111815] awawawafesd298       (  289.1,   240.6, -1175.7)
+  ## #####
+2022-12-10T08:29:52Z: PLAYER CHATTED [ 1787263776] foolerencan          (   88.1,   242.8, -1418.8)
+  <:: Unit harassment and evading. ::>
+2022-12-10T08:29:54Z: PLAYER CHATTED [ 1217831969] Ieodmk687924         (   36.0,   243.2, -1329.8)
+  <:: Would stealing props be considered theft? ::>
+2022-12-10T08:29:54Z: PLAYER CHATTED [   12305866] InsomniaticTV        (  681.7,   270.6, -1184.0)
+  Thanks.
+2022-12-10T08:29:56Z: CHRCTER ADDED  [  245067238] KeyMiguel            a.k.a. System              
+2022-12-10T08:30:01Z: PLAYER CHATTED [ 3344762808] bestguy20324         (   17.8,   243.1, -1536.0)
+  <:: Sterilized. ::>
+2022-12-10T08:30:01Z: CHRCTER ADDED  [ 3299819967] Bonniehater670       a.k.a. Bonnie              
+2022-12-10T08:30:10Z: PLAYER ADDED   [ 2819689500] dotertw             
+2022-12-10T08:30:11Z: PLAYER CHATTED [ 2823708320] Sicwkxw777           (  677.6,   270.6, -1194.3)
+  Go.
+2022-12-10T08:30:13Z: CHRCTER ADDED  [ 2819689500] dotertw             
+2022-12-10T08:30:14Z: PLAYER CHATTED [ 3344762808] bestguy20324         (    8.9,   242.8, -1520.2)
+  <:: Check for miscount. ::>
+2022-12-10T08:30:17Z: CHRCTER ADDED  [  496354461] djs4158              a.k.a. SHY                 
+2022-12-10T08:30:20Z: CHRCTER ADDED  [ 3299819967] Bonniehater670       a.k.a. Bonnie              
+2022-12-10T08:30:22Z: PLAYER CHATTED [  454882558] obanwarrior          (   40.4,   253.1, -1368.0)
+  *changes clothes*
+2022-12-10T08:30:28Z: PLAYER CHATTED [  454882558] obanwarrior          (   37.2,   253.1, -1364.8)
+  Woah~
+2022-12-10T08:30:29Z: PLAYER CHATTED [ 1217831969] Ieodmk687924         (   31.6,   243.1, -1291.4)
+  <:: CEASE 1.5. ::>
+2022-12-10T08:30:31Z: CHRCTER ADDED  [ 2375399733] vitalityW           
+2022-12-10T08:30:32Z: PLAYER REMOVED [ 2819689500] dotertw             
+2022-12-10T08:30:39Z: PLAYER CHATTED [ 3344762808] bestguy20324         (   23.4,   243.1, -1295.7)
+  <:: Situation stable code 100. ::>
+2022-12-10T08:30:44Z: PLAYER CHATTED [ 2354301929] PatrikmdTheSecond    (  606.9,   237.7, -1570.6)
+  Make hell boys.
+2022-12-10T08:30:46Z: PLAYER CHATTED [ 1217831969] Ieodmk687924         (   19.9,   248.3, -1382.6)
+  ### #########
+2022-12-10T08:30:46Z: PLAYER CHATTED [ 3590423016] basedasparagus       (   11.3,   253.1, -1381.1)
+  MY STUFF.
+2022-12-10T08:30:50Z: PLAYER CHATTED [ 1919292437] XIANTHEDOPE          (  279.0,   240.6, -1187.0)
+  <:: Clear. ::>
+2022-12-10T08:30:50Z: PLAYER CHATTED [ 1217831969] Ieodmk687924         (   17.5,   250.1, -1382.5)
+  <:: FACE THE WALL. ::>
+2022-12-10T08:30:52Z: PLAYER CHATTED [  454882558] obanwarrior          (   35.9,   253.1, -1372.7)
+  ;i can't =afford another door.
+2022-12-10T08:31:02Z: PLAYER CHATTED [ 3344762808] bestguy20324         (   16.9,   253.1, -1374.7)
+  <:: 3.1? ::>
+2022-12-10T08:31:02Z: PLAYER CHATTED [ 1217831969] Ieodmk687924         (   17.0,   253.1, -1365.5)
+  <:: FIRST WARNING. ::>
+2022-12-10T08:31:04Z: PLAYER CHATTED [ 1879444812] imnewatroblox_help   (   32.1,   243.1, -1295.2)
+  <:: FINAL WARNING, MOVE AWAY. ::>
+2022-12-10T08:31:11Z: PLAYER CHATTED [ 1217831969] Ieodmk687924         (   10.1,   253.1, -1363.2)
+  <:: CITIZEN, YOU ARE CHARGED WITH 1.5. ::>
+2022-12-10T08:31:14Z: PLAYER CHATTED [ 3590423016] basedasparagus       (    6.8,   253.1, -1364.0)
+  Dont let them take my stuff.
+2022-12-10T08:31:16Z: PLAYER CHATTED [ 1217831969] Ieodmk687924         (   10.1,   253.1, -1363.2)
+  <:: PREPARE FOR REEDUCATION. ::>
+2022-12-10T08:31:21Z: PLAYER CHATTED [ 2462859068] the1master212        (   14.0,   243.1, -1358.7)
+  Hello.
+2022-12-10T08:31:21Z: PLAYER CHATTED [ 2957111815] awawawafesd298       (   25.4,   243.1, -1357.4)
+  Need that?
+2022-12-10T08:31:23Z: PLAYER CHATTED [ 1217831969] Ieodmk687924         (    9.6,   253.1, -1363.3)
+  <:: MOVE ALONG. ::>
+2022-12-10T08:31:26Z: PLAYER CHATTED [ 1879444812] imnewatroblox_help   (   31.9,   243.1, -1296.6)
+  <:: W. ::>
+2022-12-10T08:31:26Z: PLAYER CHATTED [ 1058326160] NINJA_MEMES99        (   38.7,   242.8, -1295.0)
+  Leave this country.
+2022-12-10T08:31:27Z: PLAYER CHATTED [ 1879444812] imnewatroblox_help   (   31.9,   243.1, -1296.6)
+  <:: FINAL WARNING, MOVE AWAY. ::>
+2022-12-10T08:31:27Z: PLAYER CHATTED [ 2462859068] the1master212        (   14.0,   243.1, -1358.7)
+  Welcome to apartment.
+2022-12-10T08:31:31Z: PLAYER CHATTED [ 1058326160] NINJA_MEMES99        (   38.7,   242.8, -1295.0)
+  You guys are aliens.
+2022-12-10T08:31:32Z: PLAYER CHATTED [ 2462859068] the1master212        (   14.0,   243.1, -1358.7)
+  Nope.
+2022-12-10T08:31:38Z: CHRCTER ADDED  [ 1058326160] NINJA_MEMES99        a.k.a. Defended            
+2022-12-10T08:31:38Z: PLAYER CHATTED [ 1058326160] NINJA_MEMES99        (  345.5,   243.9, -1262.9)
+  Invading us.
+2022-12-10T08:31:40Z: CHRCTER ADDED  [ 2686906046] travison2009        
+2022-12-10T08:31:43Z: CHRCTER ADDED  [ 1879444812] imnewatroblox_help   a.k.a. ColeRoblox          
+2022-12-10T08:31:44Z: CHRCTER ADDED  [   38644349] manlik               a.k.a. heybreezy           
+2022-12-10T08:31:44Z: CHRCTER ADDED  [   12305866] InsomniaticTV        a.k.a. Bert                
+2022-12-10T08:31:45Z: PLAYER CHATTED [ 2957111815] awawawafesd298       (   20.8,   243.8, -1359.7)
+  Can i get my room?
+2022-12-10T08:31:46Z: CHRCTER ADDED  [ 2309539273] robiox94872          a.k.a. biox                
+2022-12-10T08:31:50Z: CHRCTER ADDED  [  245067238] KeyMiguel            a.k.a. System              
+2022-12-10T08:31:50Z: PLAYER REMOVED [   12305866] InsomniaticTV        a.k.a. Bert                
+2022-12-10T08:31:50Z: PLAYER REMOVED [   38644349] manlik               a.k.a. heybreezy           
+2022-12-10T08:31:51Z: PLAYER CHATTED [ 1787263776] foolerencan          (  298.4,   265.9, -1404.5)
+  <:: Not again. ::>
+2022-12-10T08:31:54Z: PLAYER CHATTED [ 2462859068] the1master212        (   13.7,   243.1, -1358.0)
+  Sure.
+2022-12-10T08:31:54Z: CHRCTER ADDED  [ 1787263776] foolerencan          a.k.a. Local_Benefactor    
+2022-12-10T08:31:57Z: PLAYER CHATTED [ 2957111815] awawawafesd298       (   21.5,   243.1, -1358.2)
+  Tnx.
+2022-12-10T08:31:57Z: PLAYER CHATTED [ 2462859068] the1master212        (   13.7,   243.1, -1358.0)
+  Choose any.
+2022-12-10T08:31:59Z: PLAYER CHATTED [ 3344762808] bestguy20324         (   16.2,   242.8, -1523.6)
+  <:: V-49. ::>
+2022-12-10T08:31:59Z: CHRCTER ADDED  [ 2823708320] Sicwkxw777          
+2022-12-10T08:32:01Z: PLAYER CHATTED [ 2375399733] vitalityW            (  162.5,   148.1, -1472.7)
+  Yo.
+2022-12-10T08:32:01Z: PLAYER CHATTED [ 1919292437] XIANTHEDOPE          (   81.6,   242.8, -1422.7)
+  <:: Apply. ::>
+2022-12-10T08:32:03Z: PLAYER REMOVED [ 2686906046] travison2009        
+2022-12-10T08:32:08Z: PLAYER CHATTED [ 2375399733] vitalityW            (  167.9,   155.3, -1461.6)
+  Hehehe..
+2022-12-10T08:32:09Z: PLAYER CHATTED [ 3344762808] bestguy20324         (   31.7,   243.0, -1525.8)
+  <:: Cover me. ::>
+2022-12-10T08:32:11Z: PLAYER CHATTED [  245067238] KeyMiguel            (  167.8,   155.3, -1457.2)
+  Hack?
+2022-12-10T08:32:12Z: PLAYER CHATTED [ 3299819967] Bonniehater670       (   30.6,   243.0, -1523.7)
+  <:: Copy. ::>
+2022-12-10T08:32:14Z: PLAYER CHATTED [ 2375399733] vitalityW            (  167.9,   155.3, -1461.6)
+  No.
+2022-12-10T08:32:19Z: PLAYER CHATTED [ 1217831969] Ieodmk687924         (   15.5,   242.8, -1522.5)
+  <:: CEASE 1.5. ::>
+2022-12-10T08:32:19Z: PLAYER CHATTED [  245067238] KeyMiguel            (  167.8,   155.3, -1457.2)
+  Hmm.
+2022-12-10T08:32:23Z: PLAYER CHATTED [ 2375399733] vitalityW            (  167.9,   155.3, -1461.6)
+  I was there the whole time.
+2022-12-10T08:32:24Z: PLAYER CHATTED [ 1217831969] Ieodmk687924         (   20.9,   243.1, -1531.4)
+  <:: FIRST AND FINAL WARNING. ::>
+2022-12-10T08:32:25Z: PLAYER ADDED   [ 2819689500] dotertw             
+2022-12-10T08:32:28Z: CHRCTER ADDED  [ 2819689500] dotertw             
+2022-12-10T08:32:30Z: PLAYER CHATTED [ 2957111815] awawawafesd298       (   19.5,   243.1, -1370.9)
+  Your.
+2022-12-10T08:32:33Z: PLAYER CHATTED [ 1058326160] NINJA_MEMES99        (  287.7,   240.6, -1187.5)
+  Bruh we gonan be here for a while.
+2022-12-10T08:32:50Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-10T08:32:50Z: PLAYER REMOVED [ 2375399733] vitalityW           
+2022-12-10T08:32:50Z: PLAYER REMOVED [ 3154720107] Z_NR0X               a.k.a. Zonny               
+2022-12-10T08:32:50Z: PLAYER REMOVED [ 3590423016] basedasparagus      
+2022-12-10T08:32:50Z: PLAYER REMOVED [ 2957111815] awawawafesd298       a.k.a. Baller              
+2022-12-10T08:32:50Z: PLAYER REMOVED [ 1879444812] imnewatroblox_help   a.k.a. ColeRoblox          
+2022-12-10T08:32:50Z: PLAYER REMOVED [ 3344762808] bestguy20324        
+2022-12-10T08:32:50Z: PLAYER REMOVED [ 1787263776] foolerencan          a.k.a. Local_Benefactor    
+2022-12-10T08:32:50Z: PLAYER REMOVED [  899625751] arnoldking2895      
+2022-12-10T08:32:50Z: PLAYER REMOVED [ 2823708320] Sicwkxw777          
+2022-12-10T08:32:50Z: PLAYER REMOVED [  652143709] BlueShapeTrader      a.k.a. Trout               
+2022-12-10T08:32:50Z: PLAYER REMOVED [ 2309539273] robiox94872          a.k.a. biox                
+2022-12-10T08:32:50Z: PLAYER REMOVED [  454882558] obanwarrior          a.k.a. rustybread          
+2022-12-10T08:32:50Z: PLAYER REMOVED [ 2354301929] PatrikmdTheSecond    a.k.a. patrikmd            
+2022-12-10T08:32:50Z: PLAYER REMOVED [ 1217831969] Ieodmk687924         a.k.a. Egwithshades        
+2022-12-10T08:32:50Z: PLAYER REMOVED [ 1058326160] NINJA_MEMES99        a.k.a. Defended            
+2022-12-10T08:32:50Z: PLAYER REMOVED [  496354461] djs4158              a.k.a. SHY                 
+2022-12-10T08:32:50Z: PLAYER REMOVED [ 3426418619] andreyka_chebupelka 
+2022-12-10T08:32:50Z: PLAYER REMOVED [ 2462859068] the1master212       
+2022-12-10T08:32:50Z: PLAYER REMOVED [ 1003035229] Police_officer891   
+2022-12-10T08:32:50Z: PLAYER REMOVED [   87069773] STAFIST              a.k.a. ETA                 
+2022-12-10T08:32:50Z: PLAYER REMOVED [ 3299819967] Bonniehater670       a.k.a. Bonnie              

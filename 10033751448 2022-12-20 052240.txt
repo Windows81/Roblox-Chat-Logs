@@ -1,0 +1,27 @@
+[    1630228] : [10033751448] [☢NUKE!] 🔨 Build and Battle! - 3b5b3e58-85d3-482b-9664-4d41d27f331e
+2022-12-20T05:22:40Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-12-20T05:22:40Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-20T05:22:40Z: PLAYER ADDED   [ 3145619385] alyaccomey          
+2022-12-20T05:22:40Z: PLAYER ADDED   [ 3898171204] tealivesedappppppppp
+2022-12-20T05:22:40Z: PLAYER ADDED   [ 3018965760] Carlie_Elise        
+2022-12-20T05:22:40Z: PLAYER ADDED   [ 4089927350] Kyan161129          
+2022-12-20T05:22:40Z: PLAYER ADDED   [ 3537435588] S4ms4mu3L           
+2022-12-20T05:22:40Z: PLAYER ADDED   [ 3136274584] oki_oktara           a.k.a. Sarvente            
+2022-12-20T05:22:40Z: PLAYER ADDED   [ 3066417716] Bita_Mia            
+2022-12-20T05:22:43Z: PLAYER ADDED   [ 3398059496] Daniel3rnest         a.k.a. Daniel3Cool         
+2022-12-20T05:22:47Z: CHRCTER ADDED  [ 3066417716] Bita_Mia            
+2022-12-20T05:22:49Z: CHRCTER ADDED  [ 3537435588] S4ms4mu3L           
+2022-12-20T05:23:02Z: CHRCTER ADDED  [ 3898171204] tealivesedappppppppp
+2022-12-20T05:23:05Z: CHRCTER ADDED  [ 3066417716] Bita_Mia            
+2022-12-20T05:23:10Z: PLAYER CHATTED [ 4089927350] Kyan161129           (   72.3,    24.5,    49.6)
+  I need to rejoin please wait
+2022-12-20T05:23:15Z: PLAYER CHATTED [ 3398059496] Daniel3rnest         (   97.4,    24.5,    87.7)
+  ok
+2022-12-20T05:23:17Z: PLAYER REMOVED [ 4089927350] Kyan161129          
+2022-12-20T05:23:38Z: PLAYER ADDED   [ 4089927350] Kyan161129          
+2022-12-20T05:23:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (    8.7,    24.5,   136.6)
+  :clear
+2022-12-20T05:24:54Z: CHRCTER ADDED  [ 3898171204] tealivesedappppppppp
+2022-12-20T05:24:58Z: PLAYER CHATTED [ 4089927350] Kyan161129           (   78.4,    24.5,    65.4)
+  Join me I need to find a server because people’s thing are on my plot
+2022-12-20T05:25:02Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

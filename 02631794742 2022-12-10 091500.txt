@@ -1,0 +1,79 @@
+[    1630228] : [ 2631794742] City of Ottawa - 90e02361-910e-43ce-9d42-aac1f823be2b
+2022-12-10T09:15:00Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-12-10T09:15:00Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-10T09:15:00Z: PLAYER ADDED   [  779108263] Norsken2010          a.k.a. ronyScrawny_Back    
+2022-12-10T09:15:00Z: PLAYER ADDED   [  606816091] Maka_peka666        
+2022-12-10T09:15:00Z: PLAYER ADDED   [ 1179298206] zantoro101           a.k.a. zan                 
+2022-12-10T09:15:00Z: PLAYER ADDED   [  442732794] sonnnau              a.k.a. JamesOSully         
+2022-12-10T09:15:00Z: PLAYER ADDED   [ 1739999147] warrapone10          a.k.a. war                 
+2022-12-10T09:15:00Z: PLAYER ADDED   [ 3207343086] PrimoValachi         a.k.a. Rimo                
+2022-12-10T09:15:00Z: PLAYER ADDED   [ 3205228095] FrancoRossetti       a.k.a. Frank               
+2022-12-10T09:15:00Z: PLAYER ADDED   [ 3207209254] RicoMasimo          
+2022-12-10T09:15:00Z: PLAYER ADDED   [  556423001] RitmaJaskule         a.k.a. FlavioBrusco        
+2022-12-10T09:15:23Z: PLAYER CHATTED [ 1179298206] zantoro101           ( -721.2,   369.5,   593.2)
+  Down
+2022-12-10T09:15:42Z: PLAYER CHATTED [ 1179298206] zantoro101           ( -863.2,   370.1,   558.7)
+  Suspect on the roof of RBC
+2022-12-10T09:15:58Z: PLAYER CHATTED [  779108263] Norsken2010          ( -700.5,   370.1,   490.6)
+  rodger
+2022-12-10T09:16:07Z: PLAYER CHATTED [ 1179298206] zantoro101           ( -865.0,   370.1,   546.3)
+  He's holding a ak
+2022-12-10T09:16:08Z: CHRCTER ADDED  [  779108263] Norsken2010          a.k.a. ronyScrawny_Back    
+2022-12-10T09:16:11Z: PLAYER CHATTED [ 1179298206] zantoro101           ( -864.5,   370.1,   546.3)
+  Carefull
+2022-12-10T09:16:13Z: CHRCTER ADDED  [ 1179298206] zantoro101           a.k.a. zan                 
+2022-12-10T09:16:22Z: PLAYER CHATTED [ 3207209254] RicoMasimo           ( -829.4,   393.8,   544.5)
+  LOOL
+2022-12-10T09:16:23Z: PLAYER REMOVED [  556423001] RitmaJaskule         a.k.a. FlavioBrusco        
+2022-12-10T09:16:23Z: PLAYER CHATTED [ 3205228095] FrancoRossetti       ( -798.1,   393.8,   547.5)
+  LOL
+2022-12-10T09:16:27Z: PLAYER CHATTED [ 3207209254] RicoMasimo           ( -825.1,   393.8,   543.4)
+  THEY NEED TO RESET IT
+2022-12-10T09:16:29Z: PLAYER CHATTED [ 3207209254] RicoMasimo           ( -849.5,   394.2,   555.5)
+  SIP
+2022-12-10T09:17:14Z: PLAYER ADDED   [ 3207740073] user17444            a.k.a. nofaithinhumanity   
+2022-12-10T09:17:22Z: CHRCTER ADDED  [ 3207740073] user17444            a.k.a. nofaithinhumanity   
+2022-12-10T09:18:05Z: PLAYER ADDED   [  556423001] RitmaJaskule         a.k.a. FlavioBrusco        
+2022-12-10T09:18:06Z: PLAYER CHATTED [ 3207343086] PrimoValachi         ( -808.4,   369.2,   788.8)
+  frankie wants to join but hes busy rn
+2022-12-10T09:18:07Z: CHRCTER ADDED  [  442732794] sonnnau              a.k.a. JamesOSully         
+2022-12-10T09:18:16Z: PLAYER CHATTED [ 3205228095] FrancoRossetti       ( -791.1,   369.5,   774.6)
+  Np
+2022-12-10T09:18:35Z: PLAYER CHATTED [ 3207209254] RicoMasimo           ( -796.2,   369.5,   778.7)
+  dm #####
+2022-12-10T09:18:39Z: PLAYER CHATTED [ 3207343086] PrimoValachi         ( -804.6,   369.2,   756.7)
+  i c
+2022-12-10T09:18:41Z: CHRCTER ADDED  [ 1179298206] zantoro101           a.k.a. zan                 
+2022-12-10T09:18:55Z: PLAYER REMOVED [ 1739999147] warrapone10          a.k.a. war                 
+2022-12-10T09:19:00Z: PLAYER CHATTED [ 3205228095] FrancoRossetti       ( -797.8,   369.5,   753.8)
+  dumb ####
+2022-12-10T09:19:02Z: PLAYER ADDED   [ 1739999147] warrapone10          a.k.a. war                 
+2022-12-10T09:19:04Z: PLAYER CHATTED [ 3205228095] FrancoRossetti       ( -797.8,   369.5,   753.8)
+  made all the rcmp switch up
+2022-12-10T09:19:05Z: CHRCTER ADDED  [  779108263] Norsken2010          a.k.a. ronyScrawny_Back    
+2022-12-10T09:19:08Z: PLAYER CHATTED [ 3205228095] FrancoRossetti       ( -797.3,   369.5,   752.3)
+  look at this kid
+2022-12-10T09:19:11Z: PLAYER CHATTED [ 3205228095] FrancoRossetti       ( -797.3,   369.5,   752.3)
+  ###### ########
+2022-12-10T09:19:28Z: PLAYER CHATTED [ 3205228095] FrancoRossetti       ( -786.3,   369.5,   757.7)
+  chill
+2022-12-10T09:19:33Z: PLAYER CHATTED [ 3205228095] FrancoRossetti       ( -787.0,   369.5,   763.8)
+  you made them rq
+2022-12-10T09:19:35Z: PLAYER CHATTED [ 3205228095] FrancoRossetti       ( -787.0,   369.5,   763.8)
+  to civi
+2022-12-10T09:19:38Z: PLAYER CHATTED [ 3207209254] RicoMasimo           ( -791.1,   373.8,   769.5)
+  nah 
+2022-12-10T09:19:41Z: PLAYER CHATTED [ 3207209254] RicoMasimo           ( -791.1,   373.8,   769.6)
+  they chose to leave 
+2022-12-10T09:19:43Z: CHRCTER ADDED  [ 3207740073] user17444            a.k.a. nofaithinhumanity   
+2022-12-10T09:19:45Z: PLAYER CHATTED [ 3205228095] FrancoRossetti       ( -786.5,   369.5,   765.7)
+  mhmmm
+2022-12-10T09:19:45Z: PLAYER CHATTED [ 3207209254] RicoMasimo           ( -791.1,   373.8,   769.6)
+  i killed the only guy on the team 
+2022-12-10T09:19:49Z: PLAYER CHATTED [ 3205228095] FrancoRossetti       ( -787.3,   369.5,   766.1)
+  well watch my 6
+2022-12-10T09:19:52Z: PLAYER CHATTED [ 3205228095] FrancoRossetti       ( -787.3,   369.5,   766.1)
+  I gotta take a log dump
+2022-12-10T09:19:56Z: PLAYER CHATTED [ 3205228095] FrancoRossetti       ( -790.9,   369.8,   762.2)
+  brb
+2022-12-10T09:19:58Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

@@ -1,0 +1,95 @@
+[    1630228] : [ 5149673492] Build to survive the Bombs! - d85a42ac-b8fe-4471-9710-0d1b74a64eba
+2022-12-10T06:58:10Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-12-10T06:58:10Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-10T06:58:10Z: PLAYER ADDED   [ 1719095719] KSIX2009            
+2022-12-10T06:58:10Z: PLAYER ADDED   [ 3349167853] hgfsfij863          
+2022-12-10T06:58:10Z: PLAYER ADDED   [ 4082264420] embanthit11         
+2022-12-10T06:58:10Z: PLAYER ADDED   [ 1618359856] DekRafa16           
+2022-12-10T06:58:10Z: PLAYER ADDED   [ 3725228774] vinhley              a.k.a. 2lmLinh_cute        
+2022-12-10T06:58:10Z: PLAYER ADDED   [ 2385847436] ggffg72j            
+2022-12-10T06:58:10Z: PLAYER ADDED   [ 1439484251] Whiter_M             a.k.a. Mazapan             
+2022-12-10T06:58:10Z: PLAYER ADDED   [ 1686882133] NijelleGeronimo     
+2022-12-10T06:58:10Z: PLAYER ADDED   [ 3758040488] embanacc11           a.k.a. DAL_CAUBEBISAD      
+2022-12-10T06:58:10Z: PLAYER ADDED   [ 3704143786] EzkieVi             
+2022-12-10T06:58:10Z: PLAYER ADDED   [ 2457609990] EVE_QwQ10            a.k.a. Yuli                
+2022-12-10T06:58:10Z: PLAYER ADDED   [ 1593485967] Nooby_Ellie         
+2022-12-10T06:58:10Z: PLAYER ADDED   [ 3635070333] sliksong123         
+2022-12-10T06:58:10Z: PLAYER ADDED   [ 1262105022] JCc00l              
+2022-12-10T06:58:10Z: PLAYER ADDED   [ 4074886680] 02_mazen             a.k.a. sir                 
+2022-12-10T06:58:10Z: PLAYER ADDED   [ 2024127253] jez011              
+2022-12-10T06:58:12Z: PLAYER CHATTED [ 3725228774] vinhley              ( -247.3,    19.6,   111.5)
+  chet di
+2022-12-10T06:58:13Z: PLAYER REMOVED [ 3758040488] embanacc11           a.k.a. DAL_CAUBEBISAD      
+2022-12-10T06:58:16Z: CHRCTER ADDED  [ 3704143786] EzkieVi             
+2022-12-10T06:58:17Z: CHRCTER ADDED  [ 2457609990] EVE_QwQ10            a.k.a. Yuli                
+2022-12-10T06:58:18Z: CHRCTER ADDED  [ 3725228774] vinhley              a.k.a. 2lmLinh_cute        
+2022-12-10T06:58:20Z: PLAYER CHATTED [ 1719095719] KSIX2009             ( -231.8,     6.9,    79.1)
+  Did
+2022-12-10T06:58:20Z: PLAYER ADDED   [ 3758040488] embanacc11           a.k.a. DAL_CAUBEBISAD      
+2022-12-10T06:58:20Z: CHRCTER ADDED  [ 1686882133] NijelleGeronimo     
+2022-12-10T06:58:23Z: PLAYER CHATTED [ 1439484251] Whiter_M             ( -460.8,    11.1,   108.1)
+  COOMO
+2022-12-10T06:58:25Z: CHRCTER ADDED  [ 3725228774] vinhley              a.k.a. 2lmLinh_cute        
+2022-12-10T06:58:25Z: CHRCTER ADDED  [ 3704143786] EzkieVi             
+2022-12-10T06:58:25Z: CHRCTER ADDED  [ 2024127253] jez011              
+2022-12-10T06:58:27Z: CHRCTER ADDED  [ 2385847436] ggffg72j            
+2022-12-10T06:58:28Z: PLAYER CHATTED [ 1719095719] KSIX2009             ( -231.8,     6.9,    79.1)
+  XD
+2022-12-10T06:58:30Z: PLAYER CHATTED [ 1686882133] NijelleGeronimo      ( -214.4,    12.2,   -47.0)
+  That's amongus
+2022-12-10T06:58:31Z: CHRCTER ADDED  [ 2024127253] jez011              
+2022-12-10T06:58:31Z: CHRCTER ADDED  [ 2385847436] ggffg72j            
+2022-12-10T06:58:31Z: CHRCTER ADDED  [ 1439484251] Whiter_M             a.k.a. Mazapan             
+2022-12-10T06:58:31Z: CHRCTER ADDED  [ 4082264420] embanthit11         
+2022-12-10T06:58:31Z: CHRCTER ADDED  [ 1618359856] DekRafa16           
+2022-12-10T06:58:31Z: CHRCTER ADDED  [ 1262105022] JCc00l              
+2022-12-10T06:58:31Z: CHRCTER ADDED  [ 4074886680] 02_mazen             a.k.a. sir                 
+2022-12-10T06:58:31Z: CHRCTER ADDED  [ 1719095719] KSIX2009            
+2022-12-10T06:58:31Z: CHRCTER ADDED  [ 3635070333] sliksong123         
+2022-12-10T06:58:31Z: CHRCTER ADDED  [ 3704143786] EzkieVi             
+2022-12-10T06:58:31Z: CHRCTER ADDED  [ 4082264420] embanthit11         
+2022-12-10T06:58:31Z: CHRCTER ADDED  [ 3349167853] hgfsfij863          
+2022-12-10T06:58:31Z: CHRCTER ADDED  [ 2457609990] EVE_QwQ10            a.k.a. Yuli                
+2022-12-10T06:58:31Z: CHRCTER ADDED  [ 1686882133] NijelleGeronimo     
+2022-12-10T06:58:31Z: CHRCTER ADDED  [ 1593485967] Nooby_Ellie         
+2022-12-10T06:58:31Z: CHRCTER ADDED  [ 3758040488] embanacc11           a.k.a. DAL_CAUBEBISAD      
+2022-12-10T06:58:31Z: CHRCTER ADDED  [ 3725228774] vinhley              a.k.a. 2lmLinh_cute        
+2022-12-10T06:58:31Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-10T06:58:32Z: PLAYER CHATTED [ 3725228774] vinhley              ( -888.2,    -0.2,   283.9)
+  hehe
+2022-12-10T06:58:35Z: CHRCTER ADDED  [ 1593485967] Nooby_Ellie         
+2022-12-10T06:58:35Z: CHRCTER ADDED  [ 1262105022] JCc00l              
+2022-12-10T06:58:36Z: PLAYER CHATTED [ 1439484251] Whiter_M             ( -628.5,  -139.2,   297.5)
+  XD
+2022-12-10T06:58:37Z: CHRCTER ADDED  [ 2457609990] EVE_QwQ10            a.k.a. Yuli                
+2022-12-10T06:58:44Z: PLAYER REMOVED [ 2024127253] jez011              
+2022-12-10T06:58:44Z: PLAYER CHATTED [ 2457609990] EVE_QwQ10            ( -656.7,   -30.5,  -135.5)
+  ven
+2022-12-10T06:58:46Z: PLAYER CHATTED [ 1686882133] NijelleGeronimo      ( -719.8,   -28.5,   -92.3)
+  Let's guys team work
+2022-12-10T06:58:47Z: PLAYER ADDED   [  669161875] CaTEyeSzz            a.k.a. Jinnie              
+2022-12-10T06:58:47Z: CHRCTER ADDED  [ 1439484251] Whiter_M             a.k.a. Mazapan             
+2022-12-10T06:58:50Z: PLAYER CHATTED [ 2457609990] EVE_QwQ10            ( -656.7,   -30.5,  -135.5)
+  maza
+2022-12-10T06:58:51Z: PLAYER CHATTED [ 2457609990] EVE_QwQ10            ( -656.7,   -30.5,  -135.5)
+  maza
+2022-12-10T06:58:53Z: PLAYER REMOVED [ 3349167853] hgfsfij863          
+2022-12-10T06:59:00Z: PLAYER CHATTED [ 1439484251] Whiter_M             ( -486.3,   -33.1,   126.5)
+  MANDE
+2022-12-10T06:59:09Z: PLAYER REMOVED [ 2385847436] ggffg72j            
+2022-12-10T06:59:11Z: PLAYER CHATTED [ 2457609990] EVE_QwQ10            ( -603.6,   -24.1,    57.2)
+  veen
+2022-12-10T06:59:16Z: CHRCTER ADDED  [ 1439484251] Whiter_M             a.k.a. Mazapan             
+2022-12-10T06:59:19Z: CHRCTER ADDED  [ 1439484251] Whiter_M             a.k.a. Mazapan             
+2022-12-10T06:59:27Z: CHRCTER ADDED  [ 3704143786] EzkieVi             
+2022-12-10T06:59:31Z: PLAYER CHATTED [ 1439484251] Whiter_M             ( -407.8,   -28.4,    56.0)
+  aonde
+2022-12-10T06:59:38Z: PLAYER CHATTED [ 2457609990] EVE_QwQ10            ( -390.5,   -40.8,   191.4)
+  aquii
+2022-12-10T06:59:43Z: PLAYER CHATTED [ 1439484251] Whiter_M             ( -499.0,   -36.4,    83.3)
+  No te veo
+2022-12-10T06:59:47Z: CHRCTER ADDED  [ 1719095719] KSIX2009            
+2022-12-10T06:59:50Z: PLAYER CHATTED [ 3725228774] vinhley              (-1019.0,    39.5,   452.9)
+  ?
+2022-12-10T06:59:52Z: PLAYER CHATTED [ 1439484251] Whiter_M             ( -507.2,   -36.4,    80.7)
+  eres la de rosa?

@@ -1,0 +1,787 @@
+[    1630228] : [10033751448] [☢NUKE!] 🔨 Build and Battle! - 3b5b3e58-85d3-482b-9664-4d41d27f331e
+2022-12-20T07:17:28Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-12-20T07:17:28Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-20T07:17:28Z: PLAYER ADDED   [ 4143120580] f_nflyilove         
+2022-12-20T07:17:28Z: PLAYER ADDED   [ 4144082455] 8frx68zd6           
+2022-12-20T07:17:28Z: PLAYER ADDED   [ 2996533552] ctecah90            
+2022-12-20T07:17:28Z: PLAYER ADDED   [ 4068635507] seactnkz            
+2022-12-20T07:17:28Z: PLAYER ADDED   [ 3040861188] roseangelineBut     
+2022-12-20T07:17:28Z: PLAYER ADDED   [ 3347868141] AimanHarithBoy      
+2022-12-20T07:17:28Z: PLAYER ADDED   [ 1884848578] fir3fozw0lf          a.k.a. Fire_foz            
+2022-12-20T07:18:35Z: PLAYER CHATTED [ 3040861188] roseangelineBut      ( -132.9,    24.5,  -102.0)
+  🙁
+2022-12-20T07:18:41Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -5.9,    28.5,  -127.9)
+  :clear
+2022-12-20T07:18:51Z: PLAYER CHATTED [ 4143120580] f_nflyilove          ( -125.6,    24.5,   -92.6)
+  come
+2022-12-20T07:19:03Z: PLAYER CHATTED [    1630228] VisualPlugin         (    4.8,    24.5,  -135.0)
+  :clear
+2022-12-20T07:19:14Z: PLAYER CHATTED [ 3040861188] roseangelineBut      ( -126.0,    25.0,  -126.0)
+  wow
+2022-12-20T07:20:02Z: CHRCTER ADDED  [ 4143120580] f_nflyilove         
+2022-12-20T07:20:26Z: CHRCTER ADDED  [ 4144082455] 8frx68zd6           
+2022-12-20T07:20:35Z: PLAYER ADDED   [ 3991365501] RickRollSiuu1234     a.k.a. Superman            
+2022-12-20T07:20:43Z: CHRCTER ADDED  [ 1884848578] fir3fozw0lf          a.k.a. Fire_foz            
+2022-12-20T07:20:59Z: PLAYER CHATTED [ 1884848578] fir3fozw0lf          (  -17.5,    24.5,   114.0)
+  bruh
+2022-12-20T07:21:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.6,    24.5,  -115.3)
+  :clear
+2022-12-20T07:21:19Z: CHRCTER ADDED  [ 4144082455] 8frx68zd6           
+2022-12-20T07:21:20Z: CHRCTER ADDED  [ 3991365501] RickRollSiuu1234     a.k.a. Superman            
+2022-12-20T07:21:21Z: CHRCTER ADDED  [ 3040861188] roseangelineBut     
+2022-12-20T07:21:45Z: CHRCTER ADDED  [ 1884848578] fir3fozw0lf          a.k.a. Fire_foz            
+2022-12-20T07:22:13Z: PLAYER REMOVED [ 4144082455] 8frx68zd6           
+2022-12-20T07:22:29Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.6,    48.5,  -113.8)
+  :clear
+2022-12-20T07:22:35Z: PLAYER REMOVED [ 3991365501] RickRollSiuu1234     a.k.a. Superman            
+2022-12-20T07:23:06Z: PLAYER ADDED   [ 3688719019] farhangantenf       
+2022-12-20T07:23:09Z: PLAYER ADDED   [ 3991365501] RickRollSiuu1234     a.k.a. Superman            
+2022-12-20T07:23:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (    3.4,    28.5,  -128.5)
+  :clear
+2022-12-20T07:23:25Z: CHRCTER ADDED  [ 2996533552] ctecah90            
+2022-12-20T07:23:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (    4.9,    24.5,  -122.3)
+  :clear
+2022-12-20T07:23:49Z: CHRCTER ADDED  [ 3347868141] AimanHarithBoy      
+2022-12-20T07:23:54Z: CHRCTER ADDED  [ 1884848578] fir3fozw0lf          a.k.a. Fire_foz            
+2022-12-20T07:23:59Z: CHRCTER ADDED  [ 3991365501] RickRollSiuu1234     a.k.a. Superman            
+2022-12-20T07:24:00Z: CHRCTER ADDED  [ 3688719019] farhangantenf       
+2022-12-20T07:24:25Z: CHRCTER ADDED  [ 1884848578] fir3fozw0lf          a.k.a. Fire_foz            
+2022-12-20T07:24:27Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-20T07:24:35Z: CHRCTER ADDED  [ 3991365501] RickRollSiuu1234     a.k.a. Superman            
+2022-12-20T07:25:09Z: CHRCTER ADDED  [ 3347868141] AimanHarithBoy      
+2022-12-20T07:25:09Z: CHRCTER ADDED  [ 3688719019] farhangantenf       
+2022-12-20T07:25:10Z: CHRCTER ADDED  [ 3991365501] RickRollSiuu1234     a.k.a. Superman            
+2022-12-20T07:25:28Z: CHRCTER ADDED  [ 2996533552] ctecah90            
+2022-12-20T07:25:31Z: CHRCTER ADDED  [ 3991365501] RickRollSiuu1234     a.k.a. Superman            
+2022-12-20T07:25:34Z: CHRCTER ADDED  [ 1884848578] fir3fozw0lf          a.k.a. Fire_foz            
+2022-12-20T07:25:56Z: PLAYER REMOVED [ 3991365501] RickRollSiuu1234     a.k.a. Superman            
+2022-12-20T07:26:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (   11.5,    48.5,  -125.9)
+  :clear
+2022-12-20T07:26:08Z: CHRCTER ADDED  [ 2996533552] ctecah90            
+2022-12-20T07:26:21Z: PLAYER REMOVED [ 3688719019] farhangantenf       
+2022-12-20T07:27:11Z: CHRCTER ADDED  [ 1884848578] fir3fozw0lf          a.k.a. Fire_foz            
+2022-12-20T07:27:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.1,    24.5,  -229.9)
+  :clear
+2022-12-20T07:27:29Z: PLAYER REMOVED [ 1884848578] fir3fozw0lf          a.k.a. Fire_foz            
+2022-12-20T07:28:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.1,    24.5,  -229.9)
+  :clear
+2022-12-20T07:28:31Z: PLAYER ADDED   [ 3334961698] huggywuggy25500      a.k.a. Player404           
+2022-12-20T07:28:35Z: PLAYER ADDED   [ 3786164056] arrobnnslllppq      
+2022-12-20T07:28:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (   12.1,    48.5,  -130.0)
+  :clear
+2022-12-20T07:30:04Z: PLAYER CHATTED [    1630228] VisualPlugin         (    3.1,    27.0,  -122.3)
+  :clear
+2022-12-20T07:30:46Z: CHRCTER ADDED  [ 2996533552] ctecah90            
+2022-12-20T07:30:55Z: PLAYER CHATTED [ 3334961698] huggywuggy25500      (   13.9,    28.5,   -45.3)
+  wow
+2022-12-20T07:31:00Z: PLAYER CHATTED [ 3334961698] huggywuggy25500      (   32.2,    24.5,   -59.1)
+  how you do that
+2022-12-20T07:31:02Z: PLAYER CHATTED [ 3786164056] arrobnnslllppq       (   41.3,    24.5,   -64.5)
+  ok
+2022-12-20T07:31:07Z: PLAYER CHATTED [ 3334961698] huggywuggy25500      (   35.8,    24.5,   -64.8)
+  teach me
+2022-12-20T07:31:13Z: PLAYER CHATTED [ 3334961698] huggywuggy25500      (   35.8,    24.5,   -64.8)
+  how you do that
+2022-12-20T07:31:34Z: PLAYER CHATTED [ 3786164056] arrobnnslllppq       (   25.8,    24.5,   -68.1)
+  ok
+2022-12-20T07:31:53Z: PLAYER CHATTED [ 3334961698] huggywuggy25500      (   23.5,    24.5,   -69.3)
+  what
+2022-12-20T07:32:01Z: CHRCTER ADDED  [ 2996533552] ctecah90            
+2022-12-20T07:32:01Z: CHRCTER ADDED  [ 3786164056] arrobnnslllppq      
+2022-12-20T07:32:01Z: PLAYER CHATTED [ 3334961698] huggywuggy25500      (   65.3,    24.5,   -56.6)
+  .
+2022-12-20T07:32:23Z: PLAYER CHATTED [ 3786164056] arrobnnslllppq       (   23.3,    24.5,    67.7)
+  ok
+2022-12-20T07:32:29Z: PLAYER CHATTED [ 3334961698] huggywuggy25500      (   25.7,    24.5,    73.0)
+  ok
+2022-12-20T07:32:52Z: PLAYER CHATTED [ 3786164056] arrobnnslllppq       (   11.1,    24.5,    52.5)
+  👋
+2022-12-20T07:33:02Z: PLAYER REMOVED [ 3786164056] arrobnnslllppq      
+2022-12-20T07:33:14Z: PLAYER ADDED   [ 2009767056] hellohilol555        a.k.a. MommyLongLegs       
+2022-12-20T07:33:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.5,    48.5,  -130.8)
+  :clear
+2022-12-20T07:33:48Z: PLAYER CHATTED [ 2009767056] hellohilol555        (   42.0,    24.9,    82.0)
+  😒
+2022-12-20T07:33:48Z: PLAYER ADDED   [ 3518374873] AshlynRarady        
+2022-12-20T07:34:18Z: PLAYER CHATTED [ 3518374873] AshlynRarady         (   40.9,    24.5,    77.8)
+  Hi ### y r u
+2022-12-20T07:34:20Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-20T07:34:29Z: PLAYER CHATTED [ 2009767056] hellohilol555        (   41.9,    24.9,    81.9)
+  Hi bestie 
+2022-12-20T07:34:32Z: PLAYER CHATTED [ 3518374873] AshlynRarady         (   43.6,    24.8,    82.9)
+  Hi 
+2022-12-20T07:34:42Z: PLAYER CHATTED [ 3518374873] AshlynRarady         (   43.5,    24.8,    82.9)
+  R u ok
+2022-12-20T07:34:59Z: PLAYER CHATTED [ 2009767056] hellohilol555        (   41.9,    24.9,    81.9)
+  I'm mad is bc someone killed me 
+2022-12-20T07:35:09Z: PLAYER CHATTED [ 3518374873] AshlynRarady         (   43.5,    24.8,    82.9)
+  Who
+2022-12-20T07:35:19Z: CHRCTER ADDED  [ 3334961698] huggywuggy25500      a.k.a. Player404           
+2022-12-20T07:35:27Z: PLAYER CHATTED [ 3518374873] AshlynRarady         (   43.5,    24.8,    82.9)
+  I will kill 
+2022-12-20T07:35:34Z: PLAYER CHATTED [ 2009767056] hellohilol555        (   41.9,    24.9,    81.9)
+  Ctecah90
+2022-12-20T07:35:39Z: PLAYER CHATTED [ 3518374873] AshlynRarady         (   43.5,    24.8,    82.9)
+  Ok
+2022-12-20T07:35:59Z: PLAYER REMOVED [ 3334961698] huggywuggy25500      a.k.a. Player404           
+2022-12-20T07:36:11Z: PLAYER CHATTED [ 2009767056] hellohilol555        (   41.3,    24.9,    81.9)
+  Can you kill him for me
+2022-12-20T07:36:37Z: PLAYER CHATTED [ 3518374873] AshlynRarady         (   43.2,    24.9,    82.8)
+  Ok were 
+2022-12-20T07:36:39Z: PLAYER REMOVED [ 2996533552] ctecah90            
+2022-12-20T07:36:40Z: PLAYER CHATTED [ 2009767056] hellohilol555        (   41.3,    24.9,    81.9)
+  After you build
+2022-12-20T07:36:45Z: PLAYER CHATTED [ 3518374873] AshlynRarady         (   43.2,    24.9,    82.8)
+  Ok
+2022-12-20T07:36:45Z: PLAYER CHATTED [ 2009767056] hellohilol555        (   41.3,    24.9,    81.9)
+  Come
+2022-12-20T07:36:57Z: PLAYER ADDED   [ 2374384837] Stilldream321        a.k.a. Dreambu             
+2022-12-20T07:37:13Z: PLAYER CHATTED [ 2009767056] hellohilol555        (  -10.0,    24.5,   -10.2)
+  It idk where he is
+2022-12-20T07:37:17Z: PLAYER REMOVED [ 4068635507] seactnkz            
+2022-12-20T07:37:18Z: CHRCTER ADDED  [ 3518374873] AshlynRarady        
+2022-12-20T07:37:19Z: CHRCTER ADDED  [ 2009767056] hellohilol555        a.k.a. MommyLongLegs       
+2022-12-20T07:37:34Z: PLAYER CHATTED [ 2374384837] Stilldream321        (  -32.1,    22.5,   -36.3)
+  stop
+2022-12-20T07:37:34Z: CHRCTER ADDED  [ 2374384837] Stilldream321        a.k.a. Dreambu             
+2022-12-20T07:37:37Z: PLAYER CHATTED [ 3518374873] AshlynRarady         (   46.2,    24.5,     3.6)
+  Ok
+2022-12-20T07:37:39Z: PLAYER ADDED   [ 3832737080] imabooss321         
+2022-12-20T07:37:40Z: PLAYER CHATTED [ 2374384837] Stilldream321        (   42.0,    24.9,   -42.0)
+  im not ready
+2022-12-20T07:37:40Z: PLAYER CHATTED [ 2009767056] hellohilol555        (   42.0,    24.9,    82.0)
+  Join me
+2022-12-20T07:37:45Z: PLAYER REMOVED [ 2009767056] hellohilol555        a.k.a. MommyLongLegs       
+2022-12-20T07:37:48Z: PLAYER REMOVED [ 3518374873] AshlynRarady        
+2022-12-20T07:37:49Z: PLAYER ADDED   [ 3939442394] Cuuulaaaarrrrk      
+2022-12-20T07:37:49Z: PLAYER ADDED   [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T07:38:02Z: PLAYER REMOVED [ 3832737080] imabooss321         
+2022-12-20T07:38:28Z: PLAYER ADDED   [ 4144353647] ceewfewewef         
+2022-12-20T07:38:31Z: CHRCTER ADDED  [ 4144353647] ceewfewewef         
+2022-12-20T07:39:32Z: PLAYER CHATTED [    1630228] VisualPlugin         (   35.6,    28.3,  -104.6)
+  COME VISIT MY TOWN!
+2022-12-20T07:39:51Z: PLAYER REMOVED [ 4144353647] ceewfewewef         
+2022-12-20T07:40:00Z: PLAYER ADDED   [ 1275314467] geraldocul          
+2022-12-20T07:40:06Z: CHRCTER ADDED  [ 3040861188] roseangelineBut     
+2022-12-20T07:40:19Z: PLAYER REMOVED [ 3939442394] Cuuulaaaarrrrk      
+2022-12-20T07:40:25Z: PLAYER ADDED   [ 4109987809] ie9nd9sks           
+2022-12-20T07:42:32Z: CHRCTER ADDED  [ 3347868141] AimanHarithBoy      
+2022-12-20T07:44:11Z: CHRCTER ADDED  [ 3347868141] AimanHarithBoy      
+2022-12-20T07:45:56Z: CHRCTER ADDED  [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T07:46:06Z: CHRCTER ADDED  [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T07:46:07Z: PLAYER CHATTED [ 3040861188] roseangelineBut      ( -117.0,   111.6,   -90.5)
+  bye
+2022-12-20T07:46:14Z: PLAYER REMOVED [ 3040861188] roseangelineBut     
+2022-12-20T07:46:16Z: PLAYER ADDED   [ 2385553297] Adleyabc            
+2022-12-20T07:46:18Z: PLAYER CHATTED [ 4143120580] f_nflyilove          ( -121.8,   111.6,   -90.8)
+  ####
+2022-12-20T07:46:20Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-20T07:46:25Z: PLAYER ADDED   [ 2512144465] Sisantino0601       
+2022-12-20T07:46:44Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-20T07:47:07Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-20T07:47:49Z: PLAYER REMOVED [ 2385553297] Adleyabc            
+2022-12-20T07:47:50Z: PLAYER REMOVED [ 1275314467] geraldocul          
+2022-12-20T07:47:55Z: CHRCTER ADDED  [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T07:47:57Z: PLAYER ADDED   [ 3719652946] LiamTheVoid092      
+2022-12-20T07:47:59Z: PLAYER REMOVED [ 2512144465] Sisantino0601       
+2022-12-20T07:48:07Z: PLAYER REMOVED [ 3347868141] AimanHarithBoy      
+2022-12-20T07:48:22Z: PLAYER CHATTED [ 2374384837] Stilldream321        (  -17.0,    24.5,    10.5)
+  finish
+2022-12-20T07:48:28Z: CHRCTER ADDED  [ 3719652946] LiamTheVoid092      
+2022-12-20T07:48:50Z: PLAYER ADDED   [ 3951883703] charlstonjr2017     
+2022-12-20T07:49:09Z: PLAYER ADDED   [ 3463305529] kunxzb              
+2022-12-20T07:49:19Z: CHRCTER ADDED  [ 3719652946] LiamTheVoid092      
+2022-12-20T07:49:47Z: CHRCTER ADDED  [ 3719652946] LiamTheVoid092      
+2022-12-20T07:49:53Z: CHRCTER ADDED  [ 3951883703] charlstonjr2017     
+2022-12-20T07:50:17Z: CHRCTER ADDED  [ 3463305529] kunxzb              
+2022-12-20T07:51:30Z: CHRCTER ADDED  [ 3463305529] kunxzb              
+2022-12-20T07:52:01Z: PLAYER CHATTED [ 4143120580] f_nflyilove          (    5.6,    24.5,    94.2)
+  hi
+2022-12-20T07:52:17Z: PLAYER CHATTED [ 4143120580] f_nflyilove          (    5.6,    24.5,    94.2)
+  can i sleep over tonight for a while
+2022-12-20T07:52:39Z: CHRCTER ADDED  [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T07:52:46Z: PLAYER REMOVED [ 3719652946] LiamTheVoid092      
+2022-12-20T07:53:03Z: PLAYER REMOVED [ 4143120580] f_nflyilove         
+2022-12-20T07:53:05Z: PLAYER ADDED   [ 3569854636] paweena_112         
+2022-12-20T07:53:11Z: PLAYER ADDED   [ 1252454682] zakiraygan2         
+2022-12-20T07:54:13Z: CHRCTER ADDED  [ 3463305529] kunxzb              
+2022-12-20T07:54:57Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-20T07:55:23Z: CHRCTER ADDED  [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T07:56:00Z: CHRCTER ADDED  [ 3951883703] charlstonjr2017     
+2022-12-20T07:57:33Z: CHRCTER ADDED  [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T07:57:51Z: CHRCTER ADDED  [ 1252454682] zakiraygan2         
+2022-12-20T07:59:36Z: CHRCTER ADDED  [ 1252454682] zakiraygan2         
+2022-12-20T08:00:49Z: CHRCTER ADDED  [ 3569854636] paweena_112         
+2022-12-20T08:01:01Z: CHRCTER ADDED  [ 3951883703] charlstonjr2017     
+2022-12-20T08:01:40Z: CHRCTER ADDED  [ 3951883703] charlstonjr2017     
+2022-12-20T08:01:58Z: CHRCTER ADDED  [ 3569854636] paweena_112         
+2022-12-20T08:02:29Z: PLAYER CHATTED [ 1252454682] zakiraygan2          (  -97.7,    41.4,  -108.0)
+  💤💤💤💤💤🥺🥺
+2022-12-20T08:02:52Z: CHRCTER ADDED  [ 3951883703] charlstonjr2017     
+2022-12-20T08:03:01Z: CHRCTER ADDED  [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T08:03:10Z: CHRCTER ADDED  [ 3569854636] paweena_112         
+2022-12-20T08:03:10Z: CHRCTER ADDED  [ 3951883703] charlstonjr2017     
+2022-12-20T08:03:21Z: CHRCTER ADDED  [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T08:03:35Z: CHRCTER ADDED  [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T08:03:46Z: PLAYER CHATTED [ 1252454682] zakiraygan2          (  -97.7,    41.4,  -100.0)
+  🥺🥺🥺🥺🥺🥺🥺💤💤💤💤
+2022-12-20T08:04:00Z: PLAYER CHATTED [ 1252454682] zakiraygan2          (  -97.7,    41.4,  -100.0)
+  😭😭😭😭😭😭😭😭
+2022-12-20T08:04:02Z: CHRCTER ADDED  [ 4109987809] ie9nd9sks           
+2022-12-20T08:04:29Z: CHRCTER ADDED  [ 3569854636] paweena_112         
+2022-12-20T08:04:39Z: CHRCTER ADDED  [ 1252454682] zakiraygan2         
+2022-12-20T08:04:41Z: CHRCTER ADDED  [ 4109987809] ie9nd9sks           
+2022-12-20T08:04:48Z: PLAYER CHATTED [ 3569854636] paweena_112          (  -82.0,    24.9,   -82.0)
+  fhnbgjm👗
+2022-12-20T08:05:03Z: CHRCTER ADDED  [ 3951883703] charlstonjr2017     
+2022-12-20T08:05:31Z: CHRCTER ADDED  [ 4109987809] ie9nd9sks           
+2022-12-20T08:05:40Z: CHRCTER ADDED  [ 3951883703] charlstonjr2017     
+2022-12-20T08:05:43Z: PLAYER CHATTED [ 1252454682] zakiraygan2          (  -88.5,    44.5,  -103.2)
+  /w Stilldream321  lssjs
+2022-12-20T08:05:50Z: PLAYER CHATTED [ 1252454682] zakiraygan2          (  -88.5,    44.1,  -103.2)
+  ok
+2022-12-20T08:06:18Z: CHRCTER ADDED  [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T08:06:22Z: CHRCTER ADDED  [ 4109987809] ie9nd9sks           
+2022-12-20T08:06:32Z: CHRCTER ADDED  [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T08:06:47Z: CHRCTER ADDED  [ 3951883703] charlstonjr2017     
+2022-12-20T08:06:53Z: CHRCTER ADDED  [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T08:07:13Z: CHRCTER ADDED  [ 1252454682] zakiraygan2         
+2022-12-20T08:07:13Z: CHRCTER ADDED  [ 3951883703] charlstonjr2017     
+2022-12-20T08:07:34Z: CHRCTER ADDED  [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T08:07:44Z: CHRCTER ADDED  [ 1252454682] zakiraygan2         
+2022-12-20T08:07:45Z: CHRCTER ADDED  [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T08:08:09Z: PLAYER CHATTED [ 4109987809] ie9nd9sks            (  -94.3,    24.5,  -108.7)
+  hey you need me
+2022-12-20T08:08:28Z: PLAYER CHATTED [ 3569854636] paweena_112          (  -98.0,    40.5,  -111.3)
+  ok
+2022-12-20T08:08:38Z: CHRCTER ADDED  [ 3951883703] charlstonjr2017     
+2022-12-20T08:08:44Z: PLAYER CHATTED [ 4109987809] ie9nd9sks            (  -98.7,    40.5,   -92.3)
+  but first you need to follow me
+2022-12-20T08:08:50Z: CHRCTER ADDED  [ 4109987809] ie9nd9sks           
+2022-12-20T08:08:56Z: CHRCTER ADDED  [ 1252454682] zakiraygan2         
+2022-12-20T08:08:56Z: PLAYER REMOVED [ 4109987809] ie9nd9sks           
+2022-12-20T08:09:04Z: CHRCTER ADDED  [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T08:09:20Z: CHRCTER ADDED  [ 3463305529] kunxzb              
+2022-12-20T08:09:20Z: PLAYER ADDED   [ 3603825016] eijazwaldan16       
+2022-12-20T08:09:33Z: PLAYER CHATTED [ 3569854636] paweena_112          ( -104.1,    47.5,   -84.2)
+  ghnkkhn🛀
+2022-12-20T08:09:44Z: CHRCTER ADDED  [ 3463305529] kunxzb              
+2022-12-20T08:10:11Z: CHRCTER ADDED  [ 3463305529] kunxzb              
+2022-12-20T08:10:14Z: CHRCTER ADDED  [ 3603825016] eijazwaldan16       
+2022-12-20T08:10:16Z: CHRCTER ADDED  [ 1252454682] zakiraygan2         
+2022-12-20T08:10:20Z: CHRCTER ADDED  [ 3569854636] paweena_112         
+2022-12-20T08:10:31Z: CHRCTER ADDED  [ 1252454682] zakiraygan2         
+2022-12-20T08:10:32Z: CHRCTER ADDED  [ 3463305529] kunxzb              
+2022-12-20T08:10:47Z: CHRCTER ADDED  [ 3569854636] paweena_112         
+2022-12-20T08:10:58Z: CHRCTER ADDED  [ 3463305529] kunxzb              
+2022-12-20T08:11:22Z: CHRCTER ADDED  [ 3603825016] eijazwaldan16       
+2022-12-20T08:11:27Z: CHRCTER ADDED  [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T08:11:31Z: CHRCTER ADDED  [ 3463305529] kunxzb              
+2022-12-20T08:11:36Z: CHRCTER ADDED  [ 3603825016] eijazwaldan16       
+2022-12-20T08:11:37Z: CHRCTER ADDED  [ 3569854636] paweena_112         
+2022-12-20T08:11:45Z: CHRCTER ADDED  [ 3463305529] kunxzb              
+2022-12-20T08:12:06Z: PLAYER REMOVED [ 3569854636] paweena_112         
+2022-12-20T08:12:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (    1.3,   106.6,  -163.4)
+  Come over to my town!
+2022-12-20T08:12:20Z: PLAYER CHATTED [ 1252454682] zakiraygan2          (   39.8,    24.5,    85.8)
+  ok
+2022-12-20T08:12:41Z: PLAYER CHATTED [ 3603825016] eijazwaldan16        (   38.1,    24.5,    81.5)
+  nak
+2022-12-20T08:12:49Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-20T08:13:11Z: CHRCTER ADDED  [ 3463305529] kunxzb              
+2022-12-20T08:13:24Z: PLAYER ADDED   [ 4020074380] jazi_opz            
+2022-12-20T08:13:27Z: CHRCTER ADDED  [ 3463305529] kunxzb              
+2022-12-20T08:13:41Z: PLAYER CHATTED [ 1252454682] zakiraygan2          (   30.0,    24.5,   102.8)
+  /w eijazwaldan16  ossjlw
+2022-12-20T08:13:55Z: CHRCTER ADDED  [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T08:14:07Z: CHRCTER ADDED  [ 4020074380] jazi_opz            
+2022-12-20T08:14:16Z: CHRCTER ADDED  [ 3463305529] kunxzb              
+2022-12-20T08:14:38Z: CHRCTER ADDED  [ 1252454682] zakiraygan2         
+2022-12-20T08:14:44Z: CHRCTER ADDED  [ 4020074380] jazi_opz            
+2022-12-20T08:14:50Z: CHRCTER ADDED  [ 3463305529] kunxzb              
+2022-12-20T08:14:58Z: PLAYER CHATTED [ 1252454682] zakiraygan2          (   40.7,    24.9,    80.8)
+  ok
+2022-12-20T08:15:06Z: CHRCTER ADDED  [ 4020074380] jazi_opz            
+2022-12-20T08:15:40Z: PLAYER CHATTED [ 1252454682] zakiraygan2          (   36.4,    24.5,    75.2)
+  lsod
+2022-12-20T08:15:47Z: CHRCTER ADDED  [ 3603825016] eijazwaldan16       
+2022-12-20T08:15:59Z: CHRCTER ADDED  [ 3951883703] charlstonjr2017     
+2022-12-20T08:16:16Z: CHRCTER ADDED  [ 4020074380] jazi_opz            
+2022-12-20T08:16:26Z: CHRCTER ADDED  [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T08:16:41Z: CHRCTER ADDED  [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T08:16:57Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-20T08:17:24Z: CHRCTER ADDED  [ 4020074380] jazi_opz            
+2022-12-20T08:17:44Z: CHRCTER ADDED  [ 1252454682] zakiraygan2         
+2022-12-20T08:18:30Z: PLAYER CHATTED [ 2374384837] Stilldream321        (   29.2,    24.5,   -58.5)
+  can someone follow me
+2022-12-20T08:18:45Z: CHRCTER ADDED  [ 3603825016] eijazwaldan16       
+2022-12-20T08:18:46Z: CHRCTER ADDED  [ 2374384837] Stilldream321        a.k.a. Dreambu             
+2022-12-20T08:18:54Z: CHRCTER ADDED  [ 4020074380] jazi_opz            
+2022-12-20T08:19:03Z: PLAYER CHATTED [ 2374384837] Stilldream321        (   26.5,    24.5,   -59.4)
+  you
+2022-12-20T08:19:05Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-20T08:19:08Z: CHRCTER ADDED  [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T08:19:14Z: CHRCTER ADDED  [ 1252454682] zakiraygan2         
+2022-12-20T08:19:19Z: PLAYER REMOVED [ 4020074380] jazi_opz            
+2022-12-20T08:19:22Z: CHRCTER ADDED  [ 3951883703] charlstonjr2017     
+2022-12-20T08:19:28Z: CHRCTER ADDED  [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T08:19:49Z: CHRCTER ADDED  [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T08:20:52Z: CHRCTER ADDED  [ 3603825016] eijazwaldan16       
+2022-12-20T08:21:06Z: CHRCTER ADDED  [ 2374384837] Stilldream321        a.k.a. Dreambu             
+2022-12-20T08:21:07Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-20T08:21:10Z: CHRCTER ADDED  [ 3951883703] charlstonjr2017     
+2022-12-20T08:21:39Z: PLAYER ADDED   [ 3569853969] unicorngirlchloe1104 a.k.a. November            
+2022-12-20T08:22:21Z: CHRCTER ADDED  [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T08:22:51Z: CHRCTER ADDED  [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T08:23:07Z: CHRCTER ADDED  [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T08:23:59Z: CHRCTER ADDED  [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T08:24:14Z: CHRCTER ADDED  [ 3463305529] kunxzb              
+2022-12-20T08:24:14Z: CHRCTER ADDED  [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T08:24:56Z: PLAYER REMOVED [ 1252454682] zakiraygan2         
+2022-12-20T08:24:57Z: PLAYER ADDED   [ 1081692205] princessfroigel      a.k.a. Chloe               
+2022-12-20T08:25:15Z: CHRCTER ADDED  [ 3463305529] kunxzb              
+2022-12-20T08:25:30Z: CHRCTER ADDED  [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T08:25:31Z: CHRCTER ADDED  [ 3463305529] kunxzb              
+2022-12-20T08:25:46Z: CHRCTER ADDED  [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T08:26:00Z: CHRCTER ADDED  [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T08:26:42Z: CHRCTER ADDED  [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T08:26:46Z: PLAYER REMOVED [ 3569853969] unicorngirlchloe1104 a.k.a. November            
+2022-12-20T08:26:52Z: PLAYER ADDED   [ 4114851616] balqisaleyya        
+2022-12-20T08:27:10Z: CHRCTER ADDED  [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T08:27:43Z: CHRCTER ADDED  [ 3603825016] eijazwaldan16       
+2022-12-20T08:27:49Z: CHRCTER ADDED  [ 4114851616] balqisaleyya        
+2022-12-20T08:27:55Z: CHRCTER ADDED  [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T08:28:04Z: CHRCTER ADDED  [ 4114851616] balqisaleyya        
+2022-12-20T08:28:48Z: CHRCTER ADDED  [ 3603825016] eijazwaldan16       
+2022-12-20T08:29:03Z: CHRCTER ADDED  [ 3951883703] charlstonjr2017     
+2022-12-20T08:29:09Z: CHRCTER ADDED  [ 4114851616] balqisaleyya        
+2022-12-20T08:29:28Z: CHRCTER ADDED  [ 1081692205] princessfroigel      a.k.a. Chloe               
+2022-12-20T08:29:41Z: CHRCTER ADDED  [ 2374384837] Stilldream321        a.k.a. Dreambu             
+2022-12-20T08:30:07Z: PLAYER REMOVED [ 4114851616] balqisaleyya        
+2022-12-20T08:30:10Z: PLAYER ADDED   [ 3569853969] unicorngirlchloe1104 a.k.a. November            
+2022-12-20T08:30:28Z: PLAYER REMOVED [ 3951883703] charlstonjr2017     
+2022-12-20T08:30:51Z: CHRCTER ADDED  [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T08:30:52Z: PLAYER ADDED   [ 3308048540] xXHana_Chan         
+2022-12-20T08:31:00Z: CHRCTER ADDED  [ 3603825016] eijazwaldan16       
+2022-12-20T08:31:16Z: PLAYER REMOVED [ 2374384837] Stilldream321        a.k.a. Dreambu             
+2022-12-20T08:31:20Z: CHRCTER ADDED  [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T08:31:49Z: CHRCTER ADDED  [ 3603825016] eijazwaldan16       
+2022-12-20T08:32:27Z: PLAYER ADDED   [ 3995012470] ValerieUWU11        
+2022-12-20T08:33:34Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (   16.7,   108.5,  -101.3)
+  Hi
+2022-12-20T08:33:49Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-20T08:33:59Z: PLAYER REMOVED [ 3569853969] unicorngirlchloe1104 a.k.a. November            
+2022-12-20T08:34:05Z: CHRCTER ADDED  [ 1081692205] princessfroigel      a.k.a. Chloe               
+2022-12-20T08:34:10Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (   47.3,    24.5,    34.1)
+  Hi
+2022-12-20T08:34:20Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (   37.7,    22.5,    56.7)
+  i like poop guys
+2022-12-20T08:34:21Z: CHRCTER ADDED  [ 3995012470] ValerieUWU11        
+2022-12-20T08:34:24Z: CHRCTER ADDED  [ 1081692205] princessfroigel      a.k.a. Chloe               
+2022-12-20T08:34:43Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (   40.5,    24.5,    50.2)
+  I like poor guys
+2022-12-20T08:35:01Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (   40.6,    24.5,    67.3)
+  i cant go in
+2022-12-20T08:35:08Z: PLAYER CHATTED [ 3603825016] eijazwaldan16        (   41.1,    25.3,    78.6)
+  tuliskan
+2022-12-20T08:35:11Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (   40.6,    24.5,    67.3)
+  I’m not your friend yet
+2022-12-20T08:35:12Z: PLAYER ADDED   [ 3887257737] ihs4n_Slebew13      
+2022-12-20T08:35:25Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (   40.6,    24.5,    67.3)
+  Thanks or ty
+2022-12-20T08:35:25Z: PLAYER CHATTED [ 3603825016] eijazwaldan16        (   41.1,    25.3,    78.6)
+  Jupiter Z
+2022-12-20T08:35:43Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (   40.6,    24.5,    67.3)
+  That is your true name
+2022-12-20T08:35:48Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (   40.6,    24.5,    67.3)
+  From earth
+2022-12-20T08:36:09Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (   40.6,    24.5,    67.3)
+  ############################
+2022-12-20T08:36:15Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (   40.6,    24.5,    67.3)
+  Bye
+2022-12-20T08:36:19Z: PLAYER CHATTED [ 3603825016] eijazwaldan16        (   40.1,    24.5,    72.5)
+  ###########
+2022-12-20T08:36:37Z: CHRCTER ADDED  [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T08:37:11Z: CHRCTER ADDED  [ 1081692205] princessfroigel      a.k.a. Chloe               
+2022-12-20T08:37:20Z: CHRCTER ADDED  [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T08:37:39Z: CHRCTER ADDED  [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T08:38:14Z: CHRCTER ADDED  [ 3887257737] ihs4n_Slebew13      
+2022-12-20T08:38:29Z: CHRCTER ADDED  [ 1081692205] princessfroigel      a.k.a. Chloe               
+2022-12-20T08:38:36Z: CHRCTER ADDED  [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T08:38:44Z: CHRCTER ADDED  [ 3603825016] eijazwaldan16       
+2022-12-20T08:38:48Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (   71.9,    22.0,    17.8)
+  Hahah
+2022-12-20T08:38:49Z: CHRCTER ADDED  [ 1081692205] princessfroigel      a.k.a. Chloe               
+2022-12-20T08:38:49Z: CHRCTER ADDED  [ 3995012470] ValerieUWU11        
+2022-12-20T08:39:14Z: PLAYER CHATTED [ 1081692205] princessfroigel      (   84.7,    36.5,   -43.4)
+  just stop killing me
+2022-12-20T08:39:14Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (   86.6,    36.5,   -42.9)
+  Hahaha
+2022-12-20T08:39:15Z: CHRCTER ADDED  [ 1081692205] princessfroigel      a.k.a. Chloe               
+2022-12-20T08:39:20Z: CHRCTER ADDED  [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T08:39:21Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (   78.9,    36.4,   -38.8)
+  Ok ok
+2022-12-20T08:39:22Z: PLAYER CHATTED [ 1081692205] princessfroigel      (   82.0,    23.1,   -42.0)
+  i didnt even do anything
+2022-12-20T08:39:27Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (   80.3,    36.5,   -39.0)
+  Ok
+2022-12-20T08:39:32Z: PLAYER CHATTED [ 1081692205] princessfroigel      (   83.2,    36.5,   -38.7)
+  go away
+2022-12-20T08:39:33Z: CHRCTER ADDED  [ 3995012470] ValerieUWU11        
+2022-12-20T08:39:36Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (   42.0,    24.9,   -42.0)
+  No
+2022-12-20T08:39:58Z: CHRCTER ADDED  [ 1081692205] princessfroigel      a.k.a. Chloe               
+2022-12-20T08:40:02Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (   79.6,    36.5,   -42.6)
+  You kill me now
+2022-12-20T08:40:09Z: PLAYER CHATTED [ 1081692205] princessfroigel      (   82.0,    40.8,   -42.0)
+  let me build in peace im begging you 😡😡😡😭😭😭
+2022-12-20T08:40:30Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (  122.7,    24.5,    15.5)
+  Okey bye
+2022-12-20T08:42:37Z: PLAYER REMOVED [  966400356] lunaskyval           a.k.a. Lunazuko            
+2022-12-20T08:43:11Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (  -37.8,    24.5,    13.2)
+  Hey  princessfroigel
+2022-12-20T08:43:11Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (  -37.8,    24.5,    13.2)
+  Hey princessfroigel
+2022-12-20T08:43:35Z: PLAYER CHATTED [ 1081692205] princessfroigel      (  120.7,    28.5,     1.2)
+  Chloe
+2022-12-20T08:43:40Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (  112.4,    25.1,     0.9)
+  Can i call you chloe
+2022-12-20T08:43:46Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (  112.4,    25.1,     0.9)
+  Ok
+2022-12-20T08:44:01Z: PLAYER CHATTED [ 1081692205] princessfroigel      (  120.7,    28.5,     1.2)
+  and you spelled my user wrong
+2022-12-20T08:44:08Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (  112.4,    25.1,     0.9)
+  i haab a krush his playing the game
+2022-12-20T08:44:20Z: PLAYER CHATTED [ 3308048540] xXHana_Chan          (  -89.6,   184.5,   -48.2)
+  jadi🥶🤥😩😩🤧🤒🤕jj
+2022-12-20T08:44:33Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (  112.4,    25.1,     0.9)
+  He is rich
+2022-12-20T08:44:39Z: PLAYER CHATTED [ 1081692205] princessfroigel      (  121.6,    28.5,    -0.7)
+  you know that everyone can see our chat
+2022-12-20T08:44:41Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (  112.4,    25.1,     0.9)
+  He haab robux to
+2022-12-20T08:44:52Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (  112.4,    25.1,     0.9)
+  Yaya
+2022-12-20T08:44:59Z: PLAYER REMOVED [ 3887257737] ihs4n_Slebew13      
+2022-12-20T08:45:22Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (  112.4,    25.1,     0.9)
+  He gove me robux its 1k its cool
+2022-12-20T08:45:22Z: PLAYER CHATTED [ 1081692205] princessfroigel      (  121.6,    28.5,    -0.7)
+  ######################################
+2022-12-20T08:45:25Z: CHRCTER ADDED  [ 3463305529] kunxzb              
+2022-12-20T08:45:37Z: PLAYER CHATTED [ 1081692205] princessfroigel      (  121.6,    28.5,    -0.7)
+  he might be a ######### ###
+2022-12-20T08:45:45Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (  112.4,    25.1,     0.9)
+  i all whays keep my 1k to save
+2022-12-20T08:46:04Z: PLAYER CHATTED [ 1081692205] princessfroigel      (  121.6,    28.5,    -0.7)
+  did u #### ### ## ####
+2022-12-20T08:46:08Z: PLAYER CHATTED [ 1081692205] princessfroigel      (  121.6,    28.5,    -0.7)
+  meet
+2022-12-20T08:46:08Z: PLAYER ADDED   [ 4005566331] vorpalhakdog        
+2022-12-20T08:46:10Z: PLAYER CHATTED [ 1081692205] princessfroigel      (  121.6,    28.5,    -0.7)
+  him
+2022-12-20T08:46:13Z: PLAYER ADDED   [ 2884497804] salmon_vkook         a.k.a. mike_strangerthings 
+2022-12-20T08:46:15Z: PLAYER CHATTED [ 1081692205] princessfroigel      (  121.6,    28.5,    -0.7)
+  #######
+2022-12-20T08:46:17Z: PLAYER CHATTED [ 1081692205] princessfroigel      (  121.6,    28.5,    -0.7)
+  in
+2022-12-20T08:46:20Z: PLAYER CHATTED [ 1081692205] princessfroigel      (  121.6,    28.5,    -0.7)
+  ####
+2022-12-20T08:46:33Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (  112.4,    24.5,     0.9)
+  What are you saing
+2022-12-20T08:46:39Z: PLAYER CHATTED [ 1081692205] princessfroigel      (  124.8,    28.5,     1.1)
+  nvm
+2022-12-20T08:46:50Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (  121.5,    24.5,     5.2)
+  What is nvm
+2022-12-20T08:46:52Z: PLAYER CHATTED [ 1081692205] princessfroigel      (  124.8,    28.5,     1.1)
+  :rejoine
+2022-12-20T08:46:55Z: CHRCTER ADDED  [ 2884497804] salmon_vkook         a.k.a. mike_strangerthings 
+2022-12-20T08:46:57Z: PLAYER CHATTED [ 1081692205] princessfroigel      (  124.8,    28.5,     1.1)
+  :rejoin
+2022-12-20T08:46:58Z: PLAYER REMOVED [ 1081692205] princessfroigel      a.k.a. Chloe               
+2022-12-20T08:47:01Z: CHRCTER ADDED  [ 3463305529] kunxzb              
+2022-12-20T08:47:03Z: PLAYER ADDED   [ 1081692205] princessfroigel      a.k.a. Chloe               
+2022-12-20T08:47:06Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (  121.5,    24.5,     5.2)
+  Bruhh!
+2022-12-20T08:47:23Z: PLAYER CHATTED [ 1081692205] princessfroigel      (   82.0,    24.9,   -42.0)
+  bro u have so many questions
+2022-12-20T08:47:39Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (  117.8,    24.5,    -1.4)
+  You to
+2022-12-20T08:47:52Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (  118.5,    24.5,     2.0)
+  My mom is a rich hirl
+2022-12-20T08:47:52Z: PLAYER CHATTED [ 1081692205] princessfroigel      (  146.0,    24.5,    31.5)
+  ##
+2022-12-20T08:47:58Z: PLAYER CHATTED [ 1081692205] princessfroigel      (  146.0,    24.5,    31.5)
+  😐
+2022-12-20T08:48:05Z: PLAYER CHATTED [ 3603825016] eijazwaldan16        (  145.5,    24.5,    27.8)
+  ####### s.
+2022-12-20T08:48:07Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (  120.8,    24.5,     4.1)
+  My mom is a rich girl not a hirl girl
+2022-12-20T08:48:12Z: PLAYER CHATTED [ 1081692205] princessfroigel      (  146.0,    24.5,    31.5)
+  no one asked 😐
+2022-12-20T08:48:12Z: CHRCTER ADDED  [ 2884497804] salmon_vkook         a.k.a. mike_strangerthings 
+2022-12-20T08:48:19Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (  139.4,    24.5,    26.2)
+  You to bobo
+2022-12-20T08:48:25Z: PLAYER CHATTED [ 3603825016] eijazwaldan16        (  146.7,    24.5,    26.9)
+  🇷🇺😵‍💫
+2022-12-20T08:48:27Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (  139.4,    24.5,    26.2)
+  ###### ina mo
+2022-12-20T08:48:31Z: PLAYER CHATTED [ 2884497804] salmon_vkook         (  139.9,    24.5,    30.1)
+  hi
+2022-12-20T08:48:32Z: PLAYER CHATTED [ 1081692205] princessfroigel      (  145.4,    24.5,    31.1)
+  gago ka
+2022-12-20T08:48:39Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (  139.4,    24.5,    26.2)
+  I’m from Phillipins
+2022-12-20T08:48:40Z: PLAYER CHATTED [ 1081692205] princessfroigel      (  145.4,    24.5,    31.1)
+  ###### ### pake sayo
+2022-12-20T08:48:45Z: PLAYER CHATTED [ 3603825016] eijazwaldan16        (  144.6,    24.5,    28.1)
+  ♂️🇲🇷😡
+2022-12-20T08:48:47Z: PLAYER CHATTED [ 1081692205] princessfroigel      (  145.4,    24.5,    31.1)
+  wala ako pake
+2022-12-20T08:48:51Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (  139.4,    24.5,    26.2)
+  ###### pake ako bobo ka
+2022-12-20T08:48:55Z: CHRCTER ADDED  [ 3463305529] kunxzb              
+2022-12-20T08:49:00Z: PLAYER CHATTED [ 1081692205] princessfroigel      (  145.2,    24.5,    31.1)
+  quit ka na
+2022-12-20T08:49:01Z: CHRCTER ADDED  [ 2884497804] salmon_vkook         a.k.a. mike_strangerthings 
+2022-12-20T08:49:04Z: CHRCTER ADDED  [ 3603825016] eijazwaldan16       
+2022-12-20T08:49:04Z: CHRCTER ADDED  [ 1081692205] princessfroigel      a.k.a. Chloe               
+2022-12-20T08:49:09Z: PLAYER CHATTED [ 1081692205] princessfroigel      (   82.0,    24.9,   -42.0)
+  iyak
+2022-12-20T08:49:11Z: CHRCTER ADDED  [ 3995012470] ValerieUWU11        
+2022-12-20T08:49:24Z: CHRCTER ADDED  [ 3995012470] ValerieUWU11        
+2022-12-20T08:49:25Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (   42.0,    24.9,   -42.0)
+  Bobo la
+2022-12-20T08:49:25Z: PLAYER CHATTED [ 1081692205] princessfroigel      (   92.5,    24.5,    15.7)
+  iyak
+2022-12-20T08:49:46Z: CHRCTER ADDED  [ 1081692205] princessfroigel      a.k.a. Chloe               
+2022-12-20T08:49:52Z: PLAYER CHATTED [ 1081692205] princessfroigel      (   82.0,    24.9,   -42.0)
+  wow takot ako
+2022-12-20T08:50:06Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (   46.4,    40.5,    32.8)
+  Wala akong pake
+2022-12-20T08:50:12Z: PLAYER CHATTED [ 1081692205] princessfroigel      (   83.3,    24.5,   -38.9)
+  7yo ka lang
+2022-12-20T08:50:14Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (   47.4,    40.5,    24.8)
+  Wala wala
+2022-12-20T08:50:15Z: PLAYER CHATTED [ 1081692205] princessfroigel      (   81.2,    24.5,   -36.6)
+  ####
+2022-12-20T08:50:19Z: PLAYER CHATTED [ 1081692205] princessfroigel      (   81.2,    24.5,   -36.6)
+  iyak
+2022-12-20T08:50:36Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (   47.4,    40.5,    24.8)
+  Hindi 12 na ako
+2022-12-20T08:50:36Z: PLAYER CHATTED [ 1081692205] princessfroigel      (   81.2,    24.5,   -36.6)
+  dun ka sa cocomelon
+2022-12-20T08:50:43Z: PLAYER CHATTED [ 1081692205] princessfroigel      (   81.2,    24.5,   -36.6)
+  edi wow
+2022-12-20T08:50:50Z: PLAYER CHATTED [ 1081692205] princessfroigel      (   81.2,    24.5,   -36.6)
+  ###### #########
+2022-12-20T08:50:51Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (   47.4,    40.5,    24.8)
+  Wow kadin
+2022-12-20T08:50:56Z: CHRCTER ADDED  [ 3463305529] kunxzb              
+2022-12-20T08:51:01Z: CHRCTER ADDED  [ 1081692205] princessfroigel      a.k.a. Chloe               
+2022-12-20T08:51:03Z: CHRCTER ADDED  [ 3995012470] ValerieUWU11        
+2022-12-20T08:51:03Z: CHRCTER ADDED  [ 2884497804] salmon_vkook         a.k.a. mike_strangerthings 
+2022-12-20T08:51:05Z: PLAYER CHATTED [ 1081692205] princessfroigel      (   82.0,    24.9,   -42.0)
+  ### deserve
+2022-12-20T08:51:31Z: PLAYER REMOVED [ 1081692205] princessfroigel      a.k.a. Chloe               
+2022-12-20T08:51:33Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (  251.3,    23.7,   -91.9)
+  Haah diserb
+2022-12-20T08:51:53Z: CHRCTER ADDED  [ 3995012470] ValerieUWU11        
+2022-12-20T08:51:56Z: PLAYER ADDED   [ 3212913704] hezly16             
+2022-12-20T08:52:10Z: PLAYER REMOVED [ 3212913704] hezly16             
+2022-12-20T08:52:53Z: CHRCTER ADDED  [ 3463305529] kunxzb              
+2022-12-20T08:53:06Z: CHRCTER ADDED  [ 2884497804] salmon_vkook         a.k.a. mike_strangerthings 
+2022-12-20T08:53:20Z: CHRCTER ADDED  [ 3603825016] eijazwaldan16       
+2022-12-20T08:53:36Z: CHRCTER ADDED  [ 2884497804] salmon_vkook         a.k.a. mike_strangerthings 
+2022-12-20T08:53:57Z: CHRCTER ADDED  [ 2884497804] salmon_vkook         a.k.a. mike_strangerthings 
+2022-12-20T08:54:28Z: CHRCTER ADDED  [ 2884497804] salmon_vkook         a.k.a. mike_strangerthings 
+2022-12-20T08:54:41Z: CHRCTER ADDED  [ 3603825016] eijazwaldan16       
+2022-12-20T08:54:55Z: CHRCTER ADDED  [ 2884497804] salmon_vkook         a.k.a. mike_strangerthings 
+2022-12-20T08:55:08Z: CHRCTER ADDED  [ 3603825016] eijazwaldan16       
+2022-12-20T08:55:32Z: CHRCTER ADDED  [ 3603825016] eijazwaldan16       
+2022-12-20T08:55:39Z: PLAYER ADDED   [ 3092721390] ali0alil            
+2022-12-20T08:55:46Z: CHRCTER ADDED  [ 3603825016] eijazwaldan16       
+2022-12-20T08:55:52Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-20T08:56:03Z: PLAYER CHATTED [ 3603825016] eijazwaldan16        (   51.7,    24.5,    35.6)
+  ####
+2022-12-20T08:56:05Z: CHRCTER ADDED  [ 3092721390] ali0alil            
+2022-12-20T08:56:11Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (  -35.0,    24.5,    16.2)
+  Ok
+2022-12-20T08:56:21Z: CHRCTER ADDED  [ 3092721390] ali0alil            
+2022-12-20T08:56:34Z: CHRCTER ADDED  [ 3092721390] ali0alil            
+2022-12-20T08:56:36Z: CHRCTER ADDED  [ 2884497804] salmon_vkook         a.k.a. mike_strangerthings 
+2022-12-20T08:56:47Z: CHRCTER ADDED  [ 3092721390] ali0alil            
+2022-12-20T08:56:47Z: CHRCTER ADDED  [ 2884497804] salmon_vkook         a.k.a. mike_strangerthings 
+2022-12-20T08:57:24Z: CHRCTER ADDED  [ 3092721390] ali0alil            
+2022-12-20T08:57:34Z: CHRCTER ADDED  [ 3092721390] ali0alil            
+2022-12-20T08:57:34Z: PLAYER REMOVED [ 3092721390] ali0alil            
+2022-12-20T08:57:44Z: PLAYER ADDED   [ 3533069838] opun53631           
+2022-12-20T08:58:05Z: CHRCTER ADDED  [ 3995012470] ValerieUWU11        
+2022-12-20T08:58:07Z: CHRCTER ADDED  [ 3603825016] eijazwaldan16       
+2022-12-20T08:58:26Z: CHRCTER ADDED  [ 3603825016] eijazwaldan16       
+2022-12-20T08:58:56Z: CHRCTER ADDED  [ 2884497804] salmon_vkook         a.k.a. mike_strangerthings 
+2022-12-20T08:59:29Z: CHRCTER ADDED  [ 3603825016] eijazwaldan16       
+2022-12-20T08:59:31Z: CHRCTER ADDED  [ 2884497804] salmon_vkook         a.k.a. mike_strangerthings 
+2022-12-20T08:59:58Z: CHRCTER ADDED  [ 3533069838] opun53631           
+2022-12-20T09:00:08Z: CHRCTER ADDED  [ 3603825016] eijazwaldan16       
+2022-12-20T09:00:12Z: CHRCTER ADDED  [ 2884497804] salmon_vkook         a.k.a. mike_strangerthings 
+2022-12-20T09:00:25Z: CHRCTER ADDED  [ 3995012470] ValerieUWU11        
+2022-12-20T09:00:32Z: CHRCTER ADDED  [ 3463305529] kunxzb              
+2022-12-20T09:00:36Z: CHRCTER ADDED  [ 2884497804] salmon_vkook         a.k.a. mike_strangerthings 
+2022-12-20T09:00:50Z: CHRCTER ADDED  [ 3533069838] opun53631           
+2022-12-20T09:02:10Z: CHRCTER ADDED  [ 2884497804] salmon_vkook         a.k.a. mike_strangerthings 
+2022-12-20T09:02:40Z: CHRCTER ADDED  [ 2884497804] salmon_vkook         a.k.a. mike_strangerthings 
+2022-12-20T09:02:40Z: CHRCTER ADDED  [ 3995012470] ValerieUWU11        
+2022-12-20T09:02:44Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (   42.0,    24.9,   -42.0)
+   :rejoin
+2022-12-20T09:02:56Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (   53.1,    24.5,    -5.9)
+  :rejoin
+2022-12-20T09:02:58Z: PLAYER REMOVED [ 3995012470] ValerieUWU11        
+2022-12-20T09:03:04Z: PLAYER ADDED   [ 3311822175] beeejaaayy           a.k.a. VINARURUTH          
+2022-12-20T09:03:07Z: PLAYER ADDED   [ 3995012470] ValerieUWU11        
+2022-12-20T09:03:12Z: CHRCTER ADDED  [ 3463305529] kunxzb              
+2022-12-20T09:03:13Z: PLAYER REMOVED [ 3463305529] kunxzb              
+2022-12-20T09:03:29Z: CHRCTER ADDED  [ 2884497804] salmon_vkook         a.k.a. mike_strangerthings 
+2022-12-20T09:03:47Z: CHRCTER ADDED  [ 3603825016] eijazwaldan16       
+2022-12-20T09:03:48Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (   66.6,    22.0,    76.9)
+  Hahahahaha
+2022-12-20T09:03:49Z: CHRCTER ADDED  [ 3995012470] ValerieUWU11        
+2022-12-20T09:03:49Z: CHRCTER ADDED  [ 2884497804] salmon_vkook         a.k.a. mike_strangerthings 
+2022-12-20T09:04:01Z: PLAYER REMOVED [ 3603825016] eijazwaldan16       
+2022-12-20T09:04:08Z: CHRCTER ADDED  [ 3308048540] xXHana_Chan         
+2022-12-20T09:04:15Z: CHRCTER ADDED  [ 4005566331] vorpalhakdog        
+2022-12-20T09:04:18Z: CHRCTER ADDED  [ 2884497804] salmon_vkook         a.k.a. mike_strangerthings 
+2022-12-20T09:04:27Z: CHRCTER ADDED  [ 4005566331] vorpalhakdog        
+2022-12-20T09:04:27Z: CHRCTER ADDED  [ 3311822175] beeejaaayy           a.k.a. VINARURUTH          
+2022-12-20T09:05:09Z: CHRCTER ADDED  [ 4005566331] vorpalhakdog        
+2022-12-20T09:05:26Z: PLAYER ADDED   [ 2770314312] Zense999            
+2022-12-20T09:05:31Z: CHRCTER ADDED  [ 3995012470] ValerieUWU11        
+2022-12-20T09:05:33Z: CHRCTER ADDED  [ 4005566331] vorpalhakdog        
+2022-12-20T09:05:45Z: CHRCTER ADDED  [ 4005566331] vorpalhakdog        
+2022-12-20T09:05:50Z: PLAYER CHATTED [ 2770314312] Zense999             (   71.6,    24.5,   -90.5)
+  ayo what the 
+2022-12-20T09:05:51Z: PLAYER CHATTED [ 2884497804] salmon_vkook         (  103.7,    24.5,    37.1)
+  ;lfy
+2022-12-20T09:05:55Z: CHRCTER ADDED  [ 3995012470] ValerieUWU11        
+2022-12-20T09:05:55Z: PLAYER CHATTED [ 2770314312] Zense999             (   71.6,    24.5,   -90.5)
+  im saw some fly🤓
+2022-12-20T09:06:07Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-20T09:06:12Z: CHRCTER ADDED  [ 3311822175] beeejaaayy           a.k.a. VINARURUTH          
+2022-12-20T09:06:21Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -44.3,    91.2,   -89.0)
+  I'm not a fly.
+2022-12-20T09:06:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -44.3,    91.2,   -89.0)
+  I'ma  plugin.
+2022-12-20T09:06:25Z: CHRCTER ADDED  [ 3995012470] ValerieUWU11        
+2022-12-20T09:06:28Z: PLAYER CHATTED [ 2770314312] Zense999             (   97.8,    24.5,  -103.4)
+  who
+2022-12-20T09:06:29Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -44.3,    91.2,   -89.0)
+  *I'm a.
+2022-12-20T09:06:31Z: PLAYER CHATTED [ 4005566331] vorpalhakdog         ( -102.6,    24.5,  -103.4)
+  fight me
+2022-12-20T09:06:57Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-20T09:07:07Z: CHRCTER ADDED  [ 3533069838] opun53631           
+2022-12-20T09:07:07Z: CHRCTER ADDED  [ 2884497804] salmon_vkook         a.k.a. mike_strangerthings 
+2022-12-20T09:07:29Z: PLAYER CHATTED [ 4005566331] vorpalhakdog         (   61.5,    24.5,  -115.2)
+  sus
+2022-12-20T09:07:40Z: PLAYER CHATTED [ 2884497804] salmon_vkook         (   82.0,    24.9,    82.0)
+  
+2022-12-20T09:07:46Z: PLAYER CHATTED [ 4005566331] vorpalhakdog         (   65.0,    24.5,  -115.8)
+  amoungus
+2022-12-20T09:07:48Z: PLAYER REMOVED [ 3311822175] beeejaaayy           a.k.a. VINARURUTH          
+2022-12-20T09:07:51Z: CHRCTER ADDED  [ 3533069838] opun53631           
+2022-12-20T09:08:06Z: CHRCTER ADDED  [ 2884497804] salmon_vkook         a.k.a. mike_strangerthings 
+2022-12-20T09:08:13Z: CHRCTER ADDED  [ 3533069838] opun53631           
+2022-12-20T09:08:14Z: PLAYER CHATTED [ 4005566331] vorpalhakdog         (   69.0,    24.5,  -121.1)
+  don't zense
+2022-12-20T09:08:17Z: PLAYER CHATTED [ 4005566331] vorpalhakdog         (   79.8,    24.5,  -120.6)
+  I mean
+2022-12-20T09:08:19Z: PLAYER ADDED   [ 3880450010] Amina15_p           
+2022-12-20T09:08:20Z: PLAYER CHATTED [ 4005566331] vorpalhakdog         (   79.8,    24.5,  -120.6)
+  voit
+2022-12-20T09:08:27Z: PLAYER CHATTED [ 4005566331] vorpalhakdog         (   79.8,    24.5,  -120.6)
+  vote
+2022-12-20T09:08:48Z: CHRCTER ADDED  [ 2884497804] salmon_vkook         a.k.a. mike_strangerthings 
+2022-12-20T09:08:49Z: CHRCTER ADDED  [ 3995012470] ValerieUWU11        
+2022-12-20T09:09:00Z: PLAYER CHATTED [ 4005566331] vorpalhakdog         (   80.3,    24.5,  -121.0)
+  vote zense
+2022-12-20T09:09:09Z: PLAYER CHATTED [ 2770314312] Zense999             (  105.6,    24.5,  -112.2)
+  no one
+2022-12-20T09:09:13Z: PLAYER CHATTED [ 2770314312] Zense999             (  105.6,    24.5,  -112.2)
+  vor is #### ###
+2022-12-20T09:09:20Z: PLAYER CHATTED [ 2770314312] Zense999             (  105.6,    24.5,  -112.2)
+  i see he kill it
+2022-12-20T09:09:20Z: PLAYER CHATTED [ 4005566331] vorpalhakdog         (   82.7,    24.5,  -121.7)
+  you killed amoungus
+2022-12-20T09:09:25Z: PLAYER CHATTED [ 2770314312] Zense999             (  120.2,    24.5,  -112.4)
+  nah vote em
+2022-12-20T09:09:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (   12.7,   108.5,  -103.3)
+  Fight me.
+2022-12-20T09:09:40Z: PLAYER CHATTED [ 4005566331] vorpalhakdog         (   89.2,    24.5,  -125.7)
+  sense is the imposter
+2022-12-20T09:09:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (   12.7,   108.5,  -103.3)
+  Come to my town and show you're up to it!
+2022-12-20T09:09:54Z: PLAYER CHATTED [ 2770314312] Zense999             (  120.2,    24.5,  -112.4)
+  nah vor is
+2022-12-20T09:10:20Z: PLAYER CHATTED [ 4005566331] vorpalhakdog         (  104.6,    24.5,  -116.6)
+  zense its the imposter
+2022-12-20T09:10:31Z: CHRCTER ADDED  [ 4005566331] vorpalhakdog        
+2022-12-20T09:10:35Z: PLAYER CHATTED [ 4005566331] vorpalhakdog         (  -82.0,    24.9,   -82.0)
+  doors floor 2
+2022-12-20T09:10:43Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-20T09:10:51Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (  -94.5,    24.5,    53.9)
+  /w VisualPlugin  I’m sorry
+2022-12-20T09:10:51Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         (  -94.5,    24.5,    53.9)
+  I’m sorry
+2022-12-20T09:11:01Z: PLAYER CHATTED [ 4005566331] vorpalhakdog         (  -73.0,    24.5,   -84.1)
+  everyone attack zense
+2022-12-20T09:11:09Z: PLAYER CHATTED [ 2770314312] Zense999             (  126.0,    32.6,  -109.5)
+  why
+2022-12-20T09:11:24Z: CHRCTER ADDED  [ 2770314312] Zense999            
+2022-12-20T09:11:35Z: CHRCTER ADDED  [ 3995012470] ValerieUWU11        
+2022-12-20T09:11:38Z: CHRCTER ADDED  [ 4005566331] vorpalhakdog        
+2022-12-20T09:11:49Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -160.4,   116.3,    66.8)
+  /w ValerieUWU11  You're good.
+2022-12-20T09:12:25Z: CHRCTER ADDED  [ 3995012470] ValerieUWU11        
+2022-12-20T09:12:40Z: CHRCTER ADDED  [ 3880450010] Amina15_p           
+2022-12-20T09:13:25Z: PLAYER REMOVED [ 3308048540] xXHana_Chan         
+2022-12-20T09:13:28Z: CHRCTER ADDED  [ 4005566331] vorpalhakdog        
+2022-12-20T09:13:30Z: PLAYER ADDED   [ 3430880681] kaptan2561          
+2022-12-20T09:13:47Z: PLAYER CHATTED [ 4005566331] vorpalhakdog         (    1.3,    24.5,   -67.9)
+  reporting zense
+2022-12-20T09:13:52Z: PLAYER CHATTED [ 2770314312] Zense999             (  127.7,    24.1,   -69.5)
+  dude
+2022-12-20T09:13:58Z: PLAYER CHATTED [ 2770314312] Zense999             (  127.7,    24.1,   -69.5)
+  are u mad
+2022-12-20T09:14:05Z: PLAYER CHATTED [ 2770314312] Zense999             (  127.7,    24.1,   -69.5)
+  more like toxlc
+2022-12-20T09:14:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -20.4,    32.5,  -100.2)
+  I won't report Zense.
+2022-12-20T09:14:18Z: PLAYER CHATTED [ 2770314312] Zense999             (  128.7,    24.5,   -77.8)
+  im didnt noting lol
+2022-12-20T09:14:32Z: PLAYER CHATTED [ 4005566331] vorpalhakdog         (   -2.0,    24.5,   -66.8)
+  he killed amoungus
+2022-12-20T09:14:51Z: PLAYER CHATTED [ 2770314312] Zense999             (  136.9,    24.5,   -78.4)
+  bro im just remove it
+2022-12-20T09:15:07Z: PLAYER CHATTED [ 4005566331] vorpalhakdog         (  -58.5,    24.5,   -50.1)
+  you didn't
+2022-12-20T09:15:40Z: PLAYER CHATTED [ 4005566331] vorpalhakdog         (  -98.6,    24.5,   -99.6)
+  #### #########
+2022-12-20T09:15:42Z: PLAYER REMOVED [ 4005566331] vorpalhakdog        
+2022-12-20T09:17:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (  109.5,    24.5,     2.2)
+  I like!
+2022-12-20T09:17:08Z: PLAYER CHATTED [ 3533069838] opun53631            (  103.8,    24.5,    -4.8)
+  /นกนกส
+2022-12-20T09:17:15Z: PLAYER CHATTED [ 3533069838] opun53631            (  104.0,    24.5,    -4.9)
+  ?
+2022-12-20T09:17:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (  111.8,    24.5,    -6.0)
+  I like the way the place looks.
+2022-12-20T09:17:30Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         ( -148.0,    24.5,    -4.3)
+  Hi
+2022-12-20T09:17:32Z: PLAYER CHATTED [ 3533069838] opun53631            (  104.0,    24.5,    -4.9)
+  Hahahahaha
+2022-12-20T09:17:45Z: PLAYER CHATTED [ 3995012470] ValerieUWU11         ( -143.7,    24.5,   -26.1)
+  Nays to meet you can i add you
+2022-12-20T09:18:11Z: PLAYER CHATTED [ 3533069838] opun53631            (  103.4,    24.5,    -4.6)
+  AOTJMTDS
+2022-12-20T09:19:17Z: PLAYER ADDED   [ 1256539507] Sham_p              
+2022-12-20T09:19:47Z: PLAYER REMOVED [ 3880450010] Amina15_p           
+2022-12-20T09:20:43Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

@@ -1,0 +1,47 @@
+[    1630228] : [ 2631794742] City of Ottawa - 90e02361-910e-43ce-9d42-aac1f823be2b
+2022-12-10T09:20:29Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-12-10T09:20:29Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-10T09:20:29Z: PLAYER ADDED   [  606816091] Maka_peka666        
+2022-12-10T09:20:29Z: PLAYER ADDED   [ 3207209254] RicoMasimo          
+2022-12-10T09:20:29Z: PLAYER ADDED   [  442732794] sonnnau              a.k.a. JamesOSully         
+2022-12-10T09:20:29Z: PLAYER ADDED   [ 1179298206] zantoro101           a.k.a. zan                 
+2022-12-10T09:20:29Z: PLAYER ADDED   [ 3205228095] FrancoRossetti       a.k.a. Frank               
+2022-12-10T09:20:29Z: PLAYER ADDED   [  779108263] Norsken2010          a.k.a. ronyScrawny_Back    
+2022-12-10T09:20:29Z: PLAYER ADDED   [ 3207740073] user17444            a.k.a. nofaithinhumanity   
+2022-12-10T09:20:29Z: PLAYER ADDED   [ 3207343086] PrimoValachi         a.k.a. Rimo                
+2022-12-10T09:20:29Z: PLAYER ADDED   [  556423001] RitmaJaskule         a.k.a. FlavioBrusco        
+2022-12-10T09:20:29Z: PLAYER ADDED   [  604738827] JackDesires          a.k.a. FPS_Jack            
+2022-12-10T09:20:37Z: PLAYER CHATTED [ 3207343086] PrimoValachi         ( -782.9,   369.5,   763.6)
+  ###### MASSIMO
+2022-12-10T09:21:13Z: PLAYER ADDED   [  724895973] Alvinthebest123456   a.k.a. Alvin               
+2022-12-10T09:22:19Z: PLAYER ADDED   [ 1890573460] auvraia              a.k.a. spidey              
+2022-12-10T09:22:33Z: PLAYER CHATTED [ 3207343086] PrimoValachi         ( -781.7,   369.5,   763.4)
+  c a s a n o v a
+2022-12-10T09:22:44Z: PLAYER CHATTED [ 3207740073] user17444            (   55.2,   372.1,    77.6)
+  /w Norsken2010  help
+2022-12-10T09:22:51Z: PLAYER CHATTED [  779108263] Norsken2010          (   51.8,   372.1,    78.0)
+  whit what
+2022-12-10T09:22:54Z: PLAYER CHATTED [ 3207740073] user17444            (   55.5,   372.0,    78.8)
+  i am being followed
+2022-12-10T09:24:04Z: PLAYER REMOVED [ 1890573460] auvraia              a.k.a. spidey              
+2022-12-10T09:24:08Z: PLAYER CHATTED [ 1179298206] zantoro101           (  179.2,   381.6,  -258.4)
+  Need help mate?
+2022-12-10T09:24:17Z: PLAYER REMOVED [  442732794] sonnnau              a.k.a. JamesOSully         
+2022-12-10T09:25:09Z: PLAYER CHATTED [  604738827] JackDesires          (-1052.6,   370.0,   782.6)
+  yo
+2022-12-10T09:25:10Z: PLAYER CHATTED [ 3207740073] user17444            (-1808.4,   369.8, -1793.6)
+  brrrr
+2022-12-10T09:25:27Z: PLAYER CHATTED [ 3207343086] PrimoValachi         ( -987.2,   370.0,   779.9)
+  sup
+2022-12-10T09:25:31Z: PLAYER CHATTED [  604738827] JackDesires          ( -994.3,   370.0,   777.5)
+  whats going on here
+2022-12-10T09:25:33Z: PLAYER CHATTED [ 1179298206] zantoro101           ( -585.7,   369.5,   231.8)
+  Oi, mate
+2022-12-10T09:25:36Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -907.5,   369.5,   772.7)
+  Aye.
+2022-12-10T09:25:40Z: PLAYER CHATTED [ 1179298206] zantoro101           ( -585.7,   369.5,   231.8)
+  ### arresting me yeah?
+2022-12-10T09:25:47Z: PLAYER CHATTED [ 1179298206] zantoro101           ( -585.7,   369.5,   231.8)
+  I did nothing
+2022-12-10T09:26:01Z: CHRCTER ADDED  [  604738827] JackDesires          a.k.a. FPS_Jack            
+2022-12-10T09:26:10Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

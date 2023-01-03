@@ -1,0 +1,4 @@
+[    1630228] : [11503835590] Admin Simulator: F3X Server - 1e57f285-5015-424a-adc5-79c9be7fde42
+2022-12-06T05:17:02Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-12-06T05:17:02Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-06T05:17:17Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

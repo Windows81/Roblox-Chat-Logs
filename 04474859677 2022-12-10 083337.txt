@@ -1,0 +1,49 @@
+[    1630228] : [ 4474859677] CITY-17 - 9d9f67c2-34cb-4e56-96d5-ae81ce3cd658
+2022-12-10T08:33:37Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-12-10T08:33:37Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-10T08:33:37Z: PLAYER ADDED   [ 3613288691] kral412132           a.k.a. kral_412132         
+2022-12-10T08:33:37Z: PLAYER ADDED   [   92657593] Low_QualityGamer     a.k.a. robloxsonicfanfun14 
+2022-12-10T08:33:37Z: PLAYER ADDED   [ 3733001995] Theprototypesystem   a.k.a. Trending_1259       
+2022-12-10T08:35:13Z: PLAYER REMOVED [ 3733001995] Theprototypesystem   a.k.a. Trending_1259       
+2022-12-10T08:37:30Z: PLAYER ADDED   [ 2375399733] vitalityW           
+2022-12-10T08:37:40Z: PLAYER REMOVED [ 2375399733] vitalityW           
+2022-12-10T08:37:42Z: PLAYER ADDED   [  295813316] SonicFunYT           a.k.a. CoffuTheFennec      
+2022-12-10T08:38:02Z: PLAYER ADDED   [  723630487] XDGamer5487          a.k.a. ProBeeNoob          
+2022-12-10T08:38:21Z: PLAYER ADDED   [  485217327] ashtoastar           a.k.a. Resonance           
+2022-12-10T08:39:19Z: PLAYER ADDED   [ 2897297094] can_bee123           a.k.a. mercifall           
+2022-12-10T08:40:49Z: PLAYER CHATTED [ 3613288691] kral412132           (  284.6,   240.6, -1188.0)
+  Nooooooooooooooooooooooo.
+2022-12-10T08:40:51Z: PLAYER REMOVED [  723630487] XDGamer5487          a.k.a. ProBeeNoob          
+2022-12-10T08:41:00Z: PLAYER CHATTED [ 3613288691] kral412132           (  277.7,   240.6, -1183.8)
+  Yeahhhhhhhhhh.
+2022-12-10T08:41:05Z: PLAYER CHATTED [ 3613288691] kral412132           (  277.7,   240.6, -1183.8)
+  Yeah.
+2022-12-10T08:41:20Z: PLAYER REMOVED [ 3613288691] kral412132           a.k.a. kral_412132         
+2022-12-10T08:41:48Z: PLAYER ADDED   [ 1947050150] szymaerx1234        
+2022-12-10T08:43:23Z: PLAYER ADDED   [ 1101443183] King_Fogs            a.k.a. Fogs                
+2022-12-10T08:43:55Z: PLAYER CHATTED [  295813316] SonicFunYT           (   47.9,   242.8, -1298.5)
+  Never seen plaza so empty.
+2022-12-10T08:43:59Z: PLAYER CHATTED [ 1947050150] szymaerx1234         (   25.9,   242.8, -1303.0)
+  <:: Apply. ::>
+2022-12-10T08:44:10Z: PLAYER CHATTED [ 1947050150] szymaerx1234         (   59.3,   242.8, -1301.0)
+  <:: Apply. ::>
+2022-12-10T08:44:13Z: PLAYER CHATTED [ 2897297094] can_bee123           ( -107.5,   242.8,  -936.7)
+  /e dance.
+2022-12-10T08:44:16Z: PLAYER CHATTED [ 1947050150] szymaerx1234         (   59.3,   242.8, -1301.0)
+  <:: First warning. ::>
+2022-12-10T08:44:17Z: PLAYER CHATTED [  295813316] SonicFunYT           (   41.0,   242.8, -1289.4)
+  I think you need help.
+2022-12-10T08:44:21Z: PLAYER CHATTED [  295813316] SonicFunYT           (   48.2,   242.8, -1299.1)
+  Help.
+2022-12-10T08:44:22Z: PLAYER CHATTED [ 1947050150] szymaerx1234         (   59.3,   242.8, -1301.0)
+  <:: Second warning. ::>
+2022-12-10T08:44:25Z: CHRCTER ADDED  [ 2897297094] can_bee123           a.k.a. mercifall           
+2022-12-10T08:44:27Z: PLAYER CHATTED [ 1947050150] szymaerx1234         (   59.3,   242.8, -1301.0)
+  <:: Final warning. ::>
+2022-12-10T08:44:32Z: CHRCTER ADDED  [  295813316] SonicFunYT           a.k.a. CoffuTheFennec      
+2022-12-10T08:44:39Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-10T08:44:40Z: PLAYER REMOVED [ 1947050150] szymaerx1234        
+2022-12-10T08:46:22Z: PLAYER REMOVED [ 1101443183] King_Fogs            a.k.a. Fogs                
+2022-12-10T08:47:11Z: PLAYER REMOVED [  485217327] ashtoastar           a.k.a. Resonance           
+2022-12-10T08:48:29Z: CHRCTER ADDED  [ 2897297094] can_bee123           a.k.a. mercifall           
+2022-12-10T08:48:48Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

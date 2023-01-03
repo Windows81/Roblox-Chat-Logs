@@ -1,0 +1,26 @@
+[    1630228] : [ 7097873248] [🎄] Building Simulator X - 2944fe62-db31-4e2a-a36f-7da564845ca1
+2022-12-19T06:19:20Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-12-19T06:19:20Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-19T06:19:20Z: PLAYER ADDED   [ 4104948150] hdhshajajajyfjdbsh  
+2022-12-19T06:19:20Z: PLAYER ADDED   [ 4109795165] elizaveta062017     
+2022-12-19T06:19:20Z: PLAYER ADDED   [ 3891503720] Finnxfischbach      
+2022-12-19T06:19:20Z: PLAYER ADDED   [ 1717704025] Amirnoar             a.k.a. GalaxyNoar          
+2022-12-19T06:19:20Z: PLAYER ADDED   [ 2955538547] Art_cringe           a.k.a. Joe_brother         
+2022-12-19T06:19:20Z: PLAYER ADDED   [ 3518773904] ChrisTurbo16        
+2022-12-19T06:19:20Z: PLAYER ADDED   [ 4075225222] Mox5076             
+2022-12-19T06:19:35Z: CHRCTER ADDED  [ 2955538547] Art_cringe           a.k.a. Joe_brother         
+2022-12-19T06:20:21Z: PLAYER REMOVED [ 3518773904] ChrisTurbo16        
+2022-12-19T06:20:27Z: PLAYER ADDED   [ 1899144785] codreanujoker       
+2022-12-19T06:21:13Z: PLAYER REMOVED [ 4109795165] elizaveta062017     
+2022-12-19T06:21:24Z: CHRCTER ADDED  [ 3891503720] Finnxfischbach      
+2022-12-19T06:21:51Z: PLAYER ADDED   [ 4107586155] MonsterK_01         
+2022-12-19T06:22:21Z: PLAYER REMOVED [ 3891503720] Finnxfischbach      
+2022-12-19T06:23:00Z: PLAYER REMOVED [ 4075225222] Mox5076             
+2022-12-19T06:25:08Z: PLAYER REMOVED [ 1717704025] Amirnoar             a.k.a. GalaxyNoar          
+2022-12-19T06:25:10Z: CHRCTER ADDED  [ 2955538547] Art_cringe           a.k.a. Joe_brother         
+2022-12-19T06:25:38Z: PLAYER REMOVED [ 2955538547] Art_cringe           a.k.a. Joe_brother         
+2022-12-19T06:25:43Z: PLAYER REMOVED [ 4104948150] hdhshajajajyfjdbsh  
+2022-12-19T06:28:44Z: PLAYER REMOVED [ 1899144785] codreanujoker       
+2022-12-19T06:33:51Z: PLAYER ADDED   [ 3794541665] Arthurbielsy        
+2022-12-19T06:39:02Z: PLAYER REMOVED [ 3794541665] Arthurbielsy        
+2022-12-19T06:39:11Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

@@ -1,0 +1,13 @@
+[    1630228] : [10033751448] [☢NUKE!] 🔨 Build and Battle! - 0891a194-71ab-4894-a63e-afab9c93a001
+2022-12-18T07:04:33Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-12-18T07:04:33Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-18T07:04:33Z: PLAYER ADDED   [ 2576578283] noe202019           
+2022-12-18T07:04:33Z: PLAYER ADDED   [ 3475373665] BubbaRandy2         
+2022-12-18T07:04:33Z: PLAYER ADDED   [ 2753229286] JojoKemo1234         a.k.a. JojoRoblox          
+2022-12-18T07:04:33Z: PLAYER ADDED   [ 4079671832] matius0418          
+2022-12-18T07:04:33Z: PLAYER ADDED   [ 2010599278] DANIEL_KINGZ320      a.k.a. nvbcx               
+2022-12-18T07:04:33Z: PLAYER ADDED   [ 2330937732] obnario             
+2022-12-18T07:04:33Z: PLAYER ADDED   [ 2987163653] oscarinM17           a.k.a. Oscarin             
+2022-12-18T07:04:33Z: PLAYER ADDED   [ 3278463264] molisa_29m           a.k.a. Molisa_29m          
+2022-12-18T07:04:35Z: CHRCTER ADDED  [ 2987163653] oscarinM17           a.k.a. Oscarin             
+2022-12-18T07:04:37Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

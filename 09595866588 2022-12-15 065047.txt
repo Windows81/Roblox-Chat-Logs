@@ -1,0 +1,4 @@
+[    1630228] : [ 9595866588] TC Test Server - c1dc366c-b1c2-4bd9-8cf4-8eaa6fc421e1
+2022-12-15T06:50:47Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-12-15T06:50:47Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-15T06:52:10Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

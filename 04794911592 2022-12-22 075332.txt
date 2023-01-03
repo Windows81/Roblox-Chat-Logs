@@ -1,0 +1,64 @@
+[    1630228] : [ 4794911592] The Kubla Khan Las Vegas • Hotel Showcase, W.I.P. - da20bf9f-62f6-438a-a248-84c442bba396
+2022-12-22T07:53:32Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-12-22T07:53:32Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-22T07:53:32Z: PLAYER ADDED   [   38973091] jordonh23           
+2022-12-22T07:53:52Z: PLAYER ADDED   [ 2249425565] heiheiwu            
+2022-12-22T07:54:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (   82.8,    90.5,    65.0)
+  Welcome in!
+2022-12-22T07:54:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -16.8,    91.7,   201.0)
+  The lifts work.
+2022-12-22T07:55:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (  112.6,    91.7,   137.2)
+  Where to?
+2022-12-22T07:56:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (   33.5,   127.7,    61.5)
+  Signs seemed confusing?
+2022-12-22T07:56:48Z: PLAYER CHATTED [   38973091] jordonh23            ( -173.9,   127.4,    64.7)
+  A little
+2022-12-22T07:56:56Z: PLAYER CHATTED [   38973091] jordonh23            ( -173.9,   127.4,    64.7)
+  But not much
+2022-12-22T07:57:05Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -162.6,   127.7,    65.2)
+  How so?
+2022-12-22T07:57:24Z: PLAYER CHATTED [   38973091] jordonh23            ( -171.3,   127.4,    65.6)
+  Are u meaning for the doors
+2022-12-22T07:57:34Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -191.8,   127.7,    63.1)
+  I mean the sign by the lifts.
+2022-12-22T07:58:33Z: PLAYER CHATTED [   38973091] jordonh23            ( -170.6,   127.4,    65.3)
+  I was confused because it was pointing downwards
+2022-12-22T07:59:02Z: PLAYER CHATTED [   38973091] jordonh23            ( -170.9,   127.4,    64.9)
+  thought that mint the next floor
+2022-12-22T07:59:05Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -179.1,   127.7,    64.4)
+  How so exactly?  Each corridor branches out into both directions.
+2022-12-22T07:59:06Z: PLAYER CHATTED [   38973091] jordonh23            ( -169.8,   127.4,    63.8)
+  down
+2022-12-22T07:59:17Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -179.1,   127.7,    64.4)
+  Got it.
+2022-12-22T07:59:42Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -193.8,   127.7,    63.0)
+  Check this out.
+2022-12-22T07:59:46Z: PLAYER CHATTED [   38973091] jordonh23            ( -169.8,   127.4,    63.8)
+  It isnt a big issue though 
+2022-12-22T07:59:50Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -193.8,   127.7,    63.0)
+  I opened the doors.
+2022-12-22T08:00:00Z: PLAYER CHATTED [   38973091] jordonh23            ( -175.8,   127.4,    63.6)
+  I just had to look at it properly 
+2022-12-22T08:00:18Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -194.1,   127.7,    56.4)
+  Keycards are confusing.
+2022-12-22T08:00:27Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -194.1,   127.7,    56.4)
+  You're not supposed to have it equipped.
+2022-12-22T08:00:34Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -194.8,   127.7,    56.9)
+  You click it.
+2022-12-22T08:00:39Z: PLAYER CHATTED [   38973091] jordonh23            ( -193.4,   127.4,    54.1)
+  ahh
+2022-12-22T08:01:16Z: PLAYER CHATTED [   38973091] jordonh23            ( -197.6,   126.8,    25.5)
+  You've done some incredible work man
+2022-12-22T08:01:19Z: PLAYER CHATTED [   38973091] jordonh23            ( -197.6,   126.8,    25.5)
+  nicely done.
+2022-12-22T08:01:21Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -199.6,   127.7,    32.7)
+  Thanks!
+2022-12-22T08:01:30Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -199.6,   127.7,    32.7)
+  I am workng on something in floor 13.
+2022-12-22T08:01:37Z: PLAYER CHATTED [   38973091] jordonh23            ( -197.6,   126.8,    25.5)
+  :o
+2022-12-22T08:01:39Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -199.6,   127.7,    32.7)
+  I'll push the last save.
+2022-12-22T08:01:58Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -199.6,   127.7,    32.7)
+  Rejoin once I shut the server down.
+2022-12-22T08:02:31Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

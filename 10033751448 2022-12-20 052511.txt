@@ -1,0 +1,320 @@
+[    1630228] : [10033751448] [☢NUKE!] 🔨 Build and Battle! - 3b5b3e58-85d3-482b-9664-4d41d27f331e
+2022-12-20T05:25:11Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-12-20T05:25:11Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-20T05:25:11Z: PLAYER ADDED   [ 3145619385] alyaccomey          
+2022-12-20T05:25:11Z: PLAYER ADDED   [ 4089927350] Kyan161129          
+2022-12-20T05:25:11Z: PLAYER ADDED   [ 3537435588] S4ms4mu3L           
+2022-12-20T05:25:11Z: PLAYER ADDED   [ 3136274584] oki_oktara           a.k.a. Sarvente            
+2022-12-20T05:25:11Z: PLAYER ADDED   [ 3066417716] Bita_Mia            
+2022-12-20T05:25:11Z: PLAYER ADDED   [ 3398059496] Daniel3rnest         a.k.a. Daniel3Cool         
+2022-12-20T05:25:11Z: PLAYER ADDED   [ 3898171204] tealivesedappppppppp
+2022-12-20T05:25:11Z: PLAYER ADDED   [ 3018965760] Carlie_Elise        
+2022-12-20T05:25:18Z: PLAYER REMOVED [ 4089927350] Kyan161129          
+2022-12-20T05:25:23Z: PLAYER REMOVED [ 3398059496] Daniel3rnest         a.k.a. Daniel3Cool         
+2022-12-20T05:25:31Z: CHRCTER ADDED  [ 3537435588] S4ms4mu3L           
+2022-12-20T05:25:53Z: PLAYER ADDED   [ 4122471034] ihateinnocent_2022  
+2022-12-20T05:26:36Z: CHRCTER ADDED  [ 3537435588] S4ms4mu3L           
+2022-12-20T05:26:40Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-20T05:26:44Z: PLAYER CHATTED [    1630228] VisualPlugin         (   36.2,    24.5,    73.2)
+  Sorry
+2022-12-20T05:26:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (   36.2,    24.5,    73.2)
+  *!
+2022-12-20T05:26:48Z: CHRCTER ADDED  [ 3537435588] S4ms4mu3L           
+2022-12-20T05:27:10Z: CHRCTER ADDED  [ 3537435588] S4ms4mu3L           
+2022-12-20T05:28:02Z: CHRCTER ADDED  [ 3537435588] S4ms4mu3L           
+2022-12-20T05:28:55Z: CHRCTER ADDED  [ 3537435588] S4ms4mu3L           
+2022-12-20T05:29:07Z: CHRCTER ADDED  [ 3066417716] Bita_Mia            
+2022-12-20T05:30:11Z: CHRCTER ADDED  [ 3898171204] tealivesedappppppppp
+2022-12-20T05:30:57Z: CHRCTER ADDED  [ 3066417716] Bita_Mia            
+2022-12-20T05:32:53Z: PLAYER CHATTED [ 3066417716] Bita_Mia             (   11.2,    24.5,    89.2)
+  2 ✈️
+2022-12-20T05:33:11Z: CHRCTER ADDED  [ 3145619385] alyaccomey          
+2022-12-20T05:33:45Z: PLAYER CHATTED [ 3066417716] Bita_Mia             (    2.4,    24.5,    89.2)
+  2✈️
+2022-12-20T05:33:46Z: PLAYER CHATTED [    1630228] VisualPlugin         (   18.4,    29.0,    80.3)
+  Come on in!
+2022-12-20T05:33:52Z: PLAYER CHATTED [    1630228] VisualPlugin         (   18.4,    29.0,    80.3)
+  I was A.F.K.
+2022-12-20T05:33:57Z: CHRCTER ADDED  [ 3537435588] S4ms4mu3L           
+2022-12-20T05:34:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (   18.4,    29.0,    80.3)
+  The seat is available behind me.
+2022-12-20T05:34:09Z: PLAYER REMOVED [ 3537435588] S4ms4mu3L           
+2022-12-20T05:34:28Z: PLAYER ADDED   [ 4017121071] ridho17099          
+2022-12-20T05:35:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (   12.3,     4.9, -5541.0)
+  Get off and back on.
+2022-12-20T05:35:29Z: PLAYER CHATTED [ 3066417716] Bita_Mia             (   10.5,     4.9, -5537.4)
+  AAA
+2022-12-20T05:36:20Z: CHRCTER ADDED  [ 4017121071] ridho17099          
+2022-12-20T05:36:33Z: CHRCTER ADDED  [ 4122471034] ihateinnocent_2022  
+2022-12-20T05:36:38Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-20T05:36:39Z: CHRCTER ADDED  [ 3066417716] Bita_Mia            
+2022-12-20T05:37:18Z: PLAYER REMOVED [ 4122471034] ihateinnocent_2022  
+2022-12-20T05:37:23Z: PLAYER ADDED   [ 4122471034] ihateinnocent_2022  
+2022-12-20T05:38:03Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -6.4,    24.5,    86.3)
+  :clear
+2022-12-20T05:38:22Z: PLAYER CHATTED [    1630228] VisualPlugin         (   17.2,    24.5,    69.8)
+  My craft is gone!
+2022-12-20T05:38:54Z: PLAYER REMOVED [ 3018965760] Carlie_Elise        
+2022-12-20T05:39:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -8.1,    24.5,   124.5)
+  :clear
+2022-12-20T05:39:18Z: PLAYER ADDED   [ 3965925941] eiwoow99w           
+2022-12-20T05:39:21Z: CHRCTER ADDED  [ 4017121071] ridho17099          
+2022-12-20T05:39:33Z: CHRCTER ADDED  [ 4017121071] ridho17099          
+2022-12-20T05:39:42Z: PLAYER CHATTED [ 3066417716] Bita_Mia             (   -7.1,    24.5,   120.7)
+  ✈️ 2
+2022-12-20T05:40:11Z: CHRCTER ADDED  [ 4017121071] ridho17099          
+2022-12-20T05:40:13Z: CHRCTER ADDED  [ 3965925941] eiwoow99w           
+2022-12-20T05:42:19Z: PLAYER CHATTED [ 3066417716] Bita_Mia             (   98.4,    29.0,   -86.0)
+  GO ✈️
+2022-12-20T05:42:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (   94.4,    29.0,   -86.0)
+  Get off and on.
+2022-12-20T05:42:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (   94.4,    29.0,   -86.0)
+  I was A.F.K.
+2022-12-20T05:42:43Z: CHRCTER ADDED  [ 3136274584] oki_oktara           a.k.a. Sarvente            
+2022-12-20T05:42:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (   94.4,    29.0,   -86.0)
+  I can't fly until that happens.
+2022-12-20T05:42:52Z: PLAYER REMOVED [ 3136274584] oki_oktara           a.k.a. Sarvente            
+2022-12-20T05:42:59Z: PLAYER ADDED   [ 3136274584] oki_oktara           a.k.a. Sarvente            
+2022-12-20T05:43:22Z: PLAYER CHATTED [ 3066417716] Bita_Mia             (   98.4,    29.0,   -86.0)
+  Get off and no.
+2022-12-20T05:43:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (   94.4,    29.0,   -86.0)
+  The vehicle's network ownership is yours.
+2022-12-20T05:43:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (   94.4,    29.0,   -86.0)
+  I need it to have my ownership so I can fly it.
+2022-12-20T05:44:04Z: CHRCTER ADDED  [ 3898171204] tealivesedappppppppp
+2022-12-20T05:44:24Z: PLAYER CHATTED [ 3066417716] Bita_Mia             (   98.4,    29.0,   -86.0)
+  l was  A.F.K.
+2022-12-20T05:44:24Z: PLAYER CHATTED [ 3066417716] Bita_Mia             (   98.4,    29.0,   -86.0)
+  l was A.F.K.
+2022-12-20T05:45:10Z: PLAYER CHATTED [    1630228] VisualPlugin         (  103.0,    24.5,   -94.8)
+  Try stacking two wood blocks.
+2022-12-20T05:45:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (  103.0,    24.5,   -94.8)
+  Then delete the lower row.
+2022-12-20T05:45:20Z: PLAYER ADDED   [ 4081436775] userdrakedave       
+2022-12-20T05:46:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (   28.0,    24.5,   119.1)
+  Get off please.
+2022-12-20T05:46:10Z: CHRCTER ADDED  [ 3136274584] oki_oktara           a.k.a. Sarvente            
+2022-12-20T05:46:21Z: PLAYER CHATTED [ 4122471034] ihateinnocent_2022   (  -10.0,    24.5,    31.1)
+  J
+2022-12-20T05:46:26Z: CHRCTER ADDED  [ 4122471034] ihateinnocent_2022  
+2022-12-20T05:46:40Z: CHRCTER ADDED  [ 3066417716] Bita_Mia            
+2022-12-20T05:46:49Z: CHRCTER ADDED  [ 4081436775] userdrakedave       
+2022-12-20T05:46:56Z: PLAYER CHATTED [ 3066417716] Bita_Mia             (   65.0,    24.5,    30.1)
+  Gefo
+2022-12-20T05:47:47Z: CHRCTER ADDED  [ 3965925941] eiwoow99w           
+2022-12-20T05:48:20Z: CHRCTER ADDED  [ 3145619385] alyaccomey          
+2022-12-20T05:48:34Z: CHRCTER ADDED  [ 3898171204] tealivesedappppppppp
+2022-12-20T05:48:56Z: PLAYER CHATTED [ 3898171204] tealivesedappppppppp (  115.2,    24.5,   -10.0)
+  LO
+2022-12-20T05:48:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (  121.9,    29.0,    -6.4)
+  Get off and on.
+2022-12-20T05:49:00Z: CHRCTER ADDED  [ 4017121071] ridho17099          
+2022-12-20T05:49:03Z: PLAYER CHATTED [ 3066417716] Bita_Mia             (  119.1,    29.0,    -3.7)
+  Gef off .A.F.K.
+2022-12-20T05:49:04Z: PLAYER CHATTED [    1630228] VisualPlugin         (  121.9,    29.0,    -6.4)
+  ÒÓ
+2022-12-20T05:49:07Z: PLAYER REMOVED [ 3136274584] oki_oktara           a.k.a. Sarvente            
+2022-12-20T05:49:12Z: CHRCTER ADDED  [ 4017121071] ridho17099          
+2022-12-20T05:49:19Z: PLAYER CHATTED [    1630228] VisualPlugin         (  121.9,    29.0,    -6.4)
+  A.F.K. = away from keyboard.
+2022-12-20T05:49:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (  121.9,    29.0,    -6.4)
+  Fuera de teclado.
+2022-12-20T05:49:31Z: CHRCTER ADDED  [ 4017121071] ridho17099          
+2022-12-20T05:49:54Z: PLAYER CHATTED [ 3066417716] Bita_Mia             (  119.1,    29.0,    -3.7)
+  Go ✈️
+2022-12-20T05:50:48Z: PLAYER ADDED   [ 3384818023] jhayjhayqtqt        
+2022-12-20T05:50:51Z: CHRCTER ADDED  [ 4017121071] ridho17099          
+2022-12-20T05:51:12Z: CHRCTER ADDED  [ 3384818023] jhayjhayqtqt        
+2022-12-20T05:51:38Z: CHRCTER ADDED  [ 3066417716] Bita_Mia            
+2022-12-20T05:51:51Z: PLAYER REMOVED [ 3066417716] Bita_Mia            
+2022-12-20T05:51:57Z: CHRCTER ADDED  [ 4017121071] ridho17099          
+2022-12-20T05:52:02Z: CHRCTER ADDED  [ 3384818023] jhayjhayqtqt        
+2022-12-20T05:52:10Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -34.3,   100.5,  -103.0)
+  :clear
+2022-12-20T05:52:30Z: CHRCTER ADDED  [ 3898171204] tealivesedappppppppp
+2022-12-20T05:52:39Z: CHRCTER ADDED  [ 4017121071] ridho17099          
+2022-12-20T05:53:37Z: CHRCTER ADDED  [ 4122471034] ihateinnocent_2022  
+2022-12-20T05:53:41Z: CHRCTER ADDED  [ 4017121071] ridho17099          
+2022-12-20T05:53:48Z: CHRCTER ADDED  [ 4122471034] ihateinnocent_2022  
+2022-12-20T05:54:04Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -1.4,    26.1,   128.4)
+  :clear
+2022-12-20T05:54:36Z: CHRCTER ADDED  [ 4081436775] userdrakedave       
+2022-12-20T05:54:49Z: PLAYER REMOVED [ 4081436775] userdrakedave       
+2022-12-20T05:55:24Z: CHRCTER ADDED  [ 3384818023] jhayjhayqtqt        
+2022-12-20T05:55:27Z: PLAYER ADDED   [ 1820687717] zkktan               a.k.a. Edamame             
+2022-12-20T05:56:33Z: CHRCTER ADDED  [ 3898171204] tealivesedappppppppp
+2022-12-20T05:56:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (    2.7,    24.5,   129.0)
+  :clear
+2022-12-20T05:57:07Z: CHRCTER ADDED  [ 3898171204] tealivesedappppppppp
+2022-12-20T05:57:28Z: CHRCTER ADDED  [ 4017121071] ridho17099          
+2022-12-20T05:57:44Z: CHRCTER ADDED  [ 3145619385] alyaccomey          
+2022-12-20T05:57:45Z: CHRCTER ADDED  [ 4017121071] ridho17099          
+2022-12-20T05:57:57Z: CHRCTER ADDED  [ 4122471034] ihateinnocent_2022  
+2022-12-20T05:57:59Z: CHRCTER ADDED  [ 4017121071] ridho17099          
+2022-12-20T05:58:11Z: CHRCTER ADDED  [ 4122471034] ihateinnocent_2022  
+2022-12-20T05:58:16Z: PLAYER CHATTED [ 4122471034] ihateinnocent_2022   (   42.0,    24.9,   -42.0)
+  :rejoin
+2022-12-20T05:58:17Z: PLAYER REMOVED [ 4122471034] ihateinnocent_2022  
+2022-12-20T05:58:20Z: PLAYER ADDED   [ 4122471034] ihateinnocent_2022  
+2022-12-20T05:58:56Z: CHRCTER ADDED  [ 3898171204] tealivesedappppppppp
+2022-12-20T05:59:06Z: CHRCTER ADDED  [ 3384818023] jhayjhayqtqt        
+2022-12-20T05:59:14Z: CHRCTER ADDED  [ 3898171204] tealivesedappppppppp
+2022-12-20T05:59:48Z: CHRCTER ADDED  [ 3898171204] tealivesedappppppppp
+2022-12-20T05:59:58Z: CHRCTER ADDED  [ 1820687717] zkktan               a.k.a. Edamame             
+2022-12-20T06:00:16Z: CHRCTER ADDED  [ 4122471034] ihateinnocent_2022  
+2022-12-20T06:00:26Z: CHRCTER ADDED  [ 1820687717] zkktan               a.k.a. Edamame             
+2022-12-20T06:00:37Z: CHRCTER ADDED  [ 4017121071] ridho17099          
+2022-12-20T06:00:49Z: CHRCTER ADDED  [ 3384818023] jhayjhayqtqt        
+2022-12-20T06:00:56Z: CHRCTER ADDED  [ 4017121071] ridho17099          
+2022-12-20T06:02:14Z: CHRCTER ADDED  [ 4017121071] ridho17099          
+2022-12-20T06:02:14Z: PLAYER REMOVED [ 4017121071] ridho17099          
+2022-12-20T06:02:23Z: CHRCTER ADDED  [ 3898171204] tealivesedappppppppp
+2022-12-20T06:02:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (   16.9,    78.5,   127.6)
+  :clear
+2022-12-20T06:02:43Z: CHRCTER ADDED  [ 3384818023] jhayjhayqtqt        
+2022-12-20T06:03:00Z: CHRCTER ADDED  [ 3965925941] eiwoow99w           
+2022-12-20T06:03:03Z: PLAYER ADDED   [ 4017121071] ridho17099          
+2022-12-20T06:03:15Z: CHRCTER ADDED  [ 3898171204] tealivesedappppppppp
+2022-12-20T06:03:18Z: PLAYER REMOVED [ 4017121071] ridho17099          
+2022-12-20T06:04:08Z: CHRCTER ADDED  [ 3384818023] jhayjhayqtqt        
+2022-12-20T06:04:23Z: PLAYER ADDED   [ 4143046684] nami_canzv           a.k.a. Megan977            
+2022-12-20T06:04:33Z: CHRCTER ADDED  [ 4122471034] ihateinnocent_2022  
+2022-12-20T06:04:36Z: PLAYER REMOVED [ 3898171204] tealivesedappppppppp
+2022-12-20T06:04:40Z: PLAYER ADDED   [ 2367243676] saifhlo17           
+2022-12-20T06:04:42Z: PLAYER REMOVED [ 3145619385] alyaccomey          
+2022-12-20T06:04:44Z: PLAYER REMOVED [ 4122471034] ihateinnocent_2022  
+2022-12-20T06:04:47Z: PLAYER ADDED   [ 3633238884] athaa_1011          
+2022-12-20T06:05:07Z: PLAYER ADDED   [ 2022988853] zachjul123          
+2022-12-20T06:05:21Z: CHRCTER ADDED  [ 2367243676] saifhlo17           
+2022-12-20T06:05:24Z: CHRCTER ADDED  [ 3384818023] jhayjhayqtqt        
+2022-12-20T06:05:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (   16.9,    78.5,   127.6)
+  :clear
+2022-12-20T06:06:02Z: CHRCTER ADDED  [ 4143046684] nami_canzv           a.k.a. Megan977            
+2022-12-20T06:06:15Z: CHRCTER ADDED  [ 1820687717] zkktan               a.k.a. Edamame             
+2022-12-20T06:06:25Z: PLAYER REMOVED [ 2367243676] saifhlo17           
+2022-12-20T06:06:29Z: PLAYER ADDED   [ 3040861188] roseangelineBut     
+2022-12-20T06:07:00Z: CHRCTER ADDED  [ 3040861188] roseangelineBut     
+2022-12-20T06:07:10Z: CHRCTER ADDED  [ 2022988853] zachjul123          
+2022-12-20T06:07:21Z: CHRCTER ADDED  [ 1820687717] zkktan               a.k.a. Edamame             
+2022-12-20T06:07:22Z: CHRCTER ADDED  [ 3040861188] roseangelineBut     
+2022-12-20T06:07:46Z: CHRCTER ADDED  [ 3384818023] jhayjhayqtqt        
+2022-12-20T06:07:52Z: CHRCTER ADDED  [ 3040861188] roseangelineBut     
+2022-12-20T06:08:30Z: CHRCTER ADDED  [ 3633238884] athaa_1011          
+2022-12-20T06:09:34Z: CHRCTER ADDED  [ 3965925941] eiwoow99w           
+2022-12-20T06:10:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -9.8,    24.5,   153.1)
+  :clear
+2022-12-20T06:10:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -9.8,    24.5,   153.1)
+  :clear
+2022-12-20T06:10:32Z: CHRCTER ADDED  [ 3040861188] roseangelineBut     
+2022-12-20T06:10:47Z: CHRCTER ADDED  [ 4143046684] nami_canzv           a.k.a. Megan977            
+2022-12-20T06:10:49Z: CHRCTER ADDED  [ 3384818023] jhayjhayqtqt        
+2022-12-20T06:11:08Z: CHRCTER ADDED  [ 3384818023] jhayjhayqtqt        
+2022-12-20T06:11:18Z: CHRCTER ADDED  [ 3965925941] eiwoow99w           
+2022-12-20T06:11:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -2.1,    24.8,   127.0)
+  :clear
+2022-12-20T06:11:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -4.1,    24.5,   125.3)
+  :clear
+2022-12-20T06:12:23Z: CHRCTER ADDED  [ 3965925941] eiwoow99w           
+2022-12-20T06:12:34Z: CHRCTER ADDED  [ 3040861188] roseangelineBut     
+2022-12-20T06:12:42Z: CHRCTER ADDED  [ 3384818023] jhayjhayqtqt        
+2022-12-20T06:12:43Z: CHRCTER ADDED  [ 2022988853] zachjul123          
+2022-12-20T06:12:47Z: PLAYER CHATTED [ 3040861188] roseangelineBut      (   82.0,    27.7,   -42.0)
+  😭
+2022-12-20T06:12:53Z: CHRCTER ADDED  [ 3384818023] jhayjhayqtqt        
+2022-12-20T06:13:11Z: CHRCTER ADDED  [ 2022988853] zachjul123          
+2022-12-20T06:13:25Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-20T06:13:31Z: CHRCTER ADDED  [ 1820687717] zkktan               a.k.a. Edamame             
+2022-12-20T06:15:04Z: CHRCTER ADDED  [ 1820687717] zkktan               a.k.a. Edamame             
+2022-12-20T06:15:28Z: CHRCTER ADDED  [ 2022988853] zachjul123          
+2022-12-20T06:16:17Z: CHRCTER ADDED  [ 3965925941] eiwoow99w           
+2022-12-20T06:16:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (    5.5,    28.5,   129.4)
+  :clear
+2022-12-20T06:16:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (    3.7,    24.5,   130.3)
+  :clear
+2022-12-20T06:16:50Z: CHRCTER ADDED  [ 3384818023] jhayjhayqtqt        
+2022-12-20T06:16:51Z: CHRCTER ADDED  [ 3965925941] eiwoow99w           
+2022-12-20T06:17:15Z: CHRCTER ADDED  [ 3384818023] jhayjhayqtqt        
+2022-12-20T06:17:15Z: CHRCTER ADDED  [ 2022988853] zachjul123          
+2022-12-20T06:17:28Z: CHRCTER ADDED  [ 1820687717] zkktan               a.k.a. Edamame             
+2022-12-20T06:17:41Z: CHRCTER ADDED  [ 1820687717] zkktan               a.k.a. Edamame             
+2022-12-20T06:17:49Z: CHRCTER ADDED  [ 3040861188] roseangelineBut     
+2022-12-20T06:17:50Z: CHRCTER ADDED  [ 4143046684] nami_canzv           a.k.a. Megan977            
+2022-12-20T06:17:53Z: CHRCTER ADDED  [ 2022988853] zachjul123          
+2022-12-20T06:18:01Z: CHRCTER ADDED  [ 1820687717] zkktan               a.k.a. Edamame             
+2022-12-20T06:18:16Z: CHRCTER ADDED  [ 3040861188] roseangelineBut     
+2022-12-20T06:18:23Z: CHRCTER ADDED  [ 1820687717] zkktan               a.k.a. Edamame             
+2022-12-20T06:18:40Z: PLAYER REMOVED [ 3633238884] athaa_1011          
+2022-12-20T06:19:09Z: PLAYER CHATTED [    1630228] VisualPlugin         (    4.7,    28.5,   127.7)
+  :clear
+2022-12-20T06:19:09Z: PLAYER ADDED   [ 4058522832] syjfwvswhvaq        
+2022-12-20T06:19:10Z: CHRCTER ADDED  [ 3040861188] roseangelineBut     
+2022-12-20T06:19:34Z: CHRCTER ADDED  [ 4058522832] syjfwvswhvaq        
+2022-12-20T06:19:39Z: CHRCTER ADDED  [ 1820687717] zkktan               a.k.a. Edamame             
+2022-12-20T06:19:52Z: CHRCTER ADDED  [ 3040861188] roseangelineBut     
+2022-12-20T06:19:53Z: CHRCTER ADDED  [ 1820687717] zkktan               a.k.a. Edamame             
+2022-12-20T06:20:18Z: CHRCTER ADDED  [ 4058522832] syjfwvswhvaq        
+2022-12-20T06:20:25Z: CHRCTER ADDED  [ 3384818023] jhayjhayqtqt        
+2022-12-20T06:20:28Z: CHRCTER ADDED  [ 3040861188] roseangelineBut     
+2022-12-20T06:20:36Z: CHRCTER ADDED  [ 4143046684] nami_canzv           a.k.a. Megan977            
+2022-12-20T06:20:38Z: CHRCTER ADDED  [ 4058522832] syjfwvswhvaq        
+2022-12-20T06:20:45Z: CHRCTER ADDED  [ 1820687717] zkktan               a.k.a. Edamame             
+2022-12-20T06:21:06Z: CHRCTER ADDED  [ 1820687717] zkktan               a.k.a. Edamame             
+2022-12-20T06:21:12Z: CHRCTER ADDED  [ 4143046684] nami_canzv           a.k.a. Megan977            
+2022-12-20T06:21:26Z: CHRCTER ADDED  [ 4058522832] syjfwvswhvaq        
+2022-12-20T06:21:57Z: CHRCTER ADDED  [ 1820687717] zkktan               a.k.a. Edamame             
+2022-12-20T06:22:15Z: CHRCTER ADDED  [ 3040861188] roseangelineBut     
+2022-12-20T06:22:43Z: PLAYER REMOVED [ 4058522832] syjfwvswhvaq        
+2022-12-20T06:23:15Z: CHRCTER ADDED  [ 1820687717] zkktan               a.k.a. Edamame             
+2022-12-20T06:23:16Z: CHRCTER ADDED  [ 3040861188] roseangelineBut     
+2022-12-20T06:23:21Z: PLAYER CHATTED [    1630228] VisualPlugin         (    3.1,    28.5,   128.3)
+  :clear
+2022-12-20T06:23:38Z: CHRCTER ADDED  [ 3040861188] roseangelineBut     
+2022-12-20T06:23:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (    6.6,    28.5,   129.9)
+  :clear
+2022-12-20T06:23:54Z: CHRCTER ADDED  [ 3040861188] roseangelineBut     
+2022-12-20T06:24:16Z: PLAYER ADDED   [ 4138555021] wererererereseses   
+2022-12-20T06:24:17Z: CHRCTER ADDED  [ 1820687717] zkktan               a.k.a. Edamame             
+2022-12-20T06:24:28Z: CHRCTER ADDED  [ 3040861188] roseangelineBut     
+2022-12-20T06:24:35Z: CHRCTER ADDED  [ 3384818023] jhayjhayqtqt        
+2022-12-20T06:24:35Z: CHRCTER ADDED  [ 4138555021] wererererereseses   
+2022-12-20T06:24:43Z: PLAYER REMOVED [ 4138555021] wererererereseses   
+2022-12-20T06:24:44Z: CHRCTER ADDED  [ 3040861188] roseangelineBut     
+2022-12-20T06:24:53Z: PLAYER ADDED   [ 3621841631] vonsergie           
+2022-12-20T06:24:53Z: PLAYER CHATTED [    1630228] VisualPlugin         (    3.5,    60.5,   127.6)
+  :clear
+2022-12-20T06:24:54Z: CHRCTER ADDED  [ 3040861188] roseangelineBut     
+2022-12-20T06:25:08Z: CHRCTER ADDED  [ 1820687717] zkktan               a.k.a. Edamame             
+2022-12-20T06:25:14Z: CHRCTER ADDED  [ 3384818023] jhayjhayqtqt        
+2022-12-20T06:25:15Z: CHRCTER ADDED  [ 3621841631] vonsergie           
+2022-12-20T06:25:24Z: CHRCTER ADDED  [ 3621841631] vonsergie           
+2022-12-20T06:25:35Z: CHRCTER ADDED  [ 3384818023] jhayjhayqtqt        
+2022-12-20T06:25:36Z: CHRCTER ADDED  [ 3040861188] roseangelineBut     
+2022-12-20T06:25:48Z: CHRCTER ADDED  [ 3040861188] roseangelineBut     
+2022-12-20T06:26:02Z: CHRCTER ADDED  [ 4143046684] nami_canzv           a.k.a. Megan977            
+2022-12-20T06:26:15Z: CHRCTER ADDED  [ 3384818023] jhayjhayqtqt        
+2022-12-20T06:26:23Z: CHRCTER ADDED  [ 2022988853] zachjul123          
+2022-12-20T06:26:23Z: CHRCTER ADDED  [ 3621841631] vonsergie           
+2022-12-20T06:26:39Z: CHRCTER ADDED  [ 2022988853] zachjul123          
+2022-12-20T06:26:40Z: CHRCTER ADDED  [ 3621841631] vonsergie           
+2022-12-20T06:26:52Z: CHRCTER ADDED  [ 3384818023] jhayjhayqtqt        
+2022-12-20T06:26:53Z: CHRCTER ADDED  [ 4143046684] nami_canzv           a.k.a. Megan977            
+2022-12-20T06:27:01Z: PLAYER CHATTED [ 3040861188] roseangelineBut      (   83.1,    28.3,    33.2)
+  😨
+2022-12-20T06:27:11Z: PLAYER CHATTED [ 3040861188] roseangelineBut      (   83.1,    28.3,    33.2)
+  😭😭😭😭😭
+2022-12-20T06:27:14Z: CHRCTER ADDED  [ 3965925941] eiwoow99w           
+2022-12-20T06:27:31Z: PLAYER CHATTED [ 3040861188] roseangelineBut      (   80.3,    26.9,    28.3)
+  #####
+2022-12-20T06:28:14Z: CHRCTER ADDED  [ 3040861188] roseangelineBut     
+2022-12-20T06:28:15Z: CHRCTER ADDED  [ 3621841631] vonsergie           
+2022-12-20T06:28:16Z: CHRCTER ADDED  [ 1820687717] zkktan               a.k.a. Edamame             
+2022-12-20T06:28:18Z: CHRCTER ADDED  [ 3384818023] jhayjhayqtqt        
+2022-12-20T06:28:26Z: CHRCTER ADDED  [ 1820687717] zkktan               a.k.a. Edamame             
+2022-12-20T06:28:27Z: CHRCTER ADDED  [ 3040861188] roseangelineBut     
+2022-12-20T06:28:27Z: CHRCTER ADDED  [ 3621841631] vonsergie           
+2022-12-20T06:28:29Z: CHRCTER ADDED  [ 3384818023] jhayjhayqtqt        
+2022-12-20T06:28:39Z: CHRCTER ADDED  [ 2022988853] zachjul123          
+2022-12-20T06:28:46Z: CHRCTER ADDED  [ 3621841631] vonsergie           
+2022-12-20T06:28:58Z: CHRCTER ADDED  [ 1820687717] zkktan               a.k.a. Edamame             
+2022-12-20T06:28:58Z: CHRCTER ADDED  [ 3621841631] vonsergie           
+2022-12-20T06:29:31Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

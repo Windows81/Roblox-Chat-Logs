@@ -1,0 +1,111 @@
+[    1630228] : [ 9746160797] Sunsilk City - c5eca333-f2cc-4a13-936d-ca767b25330c
+2022-12-10T23:41:32Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-12-10T23:41:32Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-10T23:41:32Z: PLAYER ADDED   [ 1236477431] Emily25520           a.k.a. Maddie              
+2022-12-10T23:41:32Z: PLAYER ADDED   [  602913320] lunar_nightime       a.k.a. Lunar_nightime      
+2022-12-10T23:41:32Z: PLAYER ADDED   [ 4070833481] mkyombwa1256        
+2022-12-10T23:41:32Z: PLAYER ADDED   [ 4114308254] Lostmyallaccount    
+2022-12-10T23:41:32Z: PLAYER ADDED   [ 4113969658] IMhotKIDD4          
+2022-12-10T23:41:32Z: PLAYER ADDED   [ 3972326015] Muradisthecoolest   
+2022-12-10T23:41:32Z: PLAYER ADDED   [  208450078] Pixelstarjamesfan123 a.k.a. Miriam              
+2022-12-10T23:41:32Z: PLAYER ADDED   [  716446469] oolgirl3o            a.k.a. ThatSmoothCriminal  
+2022-12-10T23:41:32Z: PLAYER ADDED   [ 3955781578] Cookie_dayakie123   
+2022-12-10T23:41:32Z: PLAYER ADDED   [ 4033151412] Starboy20223         a.k.a. Hiuwu               
+2022-12-10T23:41:32Z: PLAYER ADDED   [ 3925100021] gaellle1212         
+2022-12-10T23:41:32Z: PLAYER ADDED   [ 4127659168] becisni             
+2022-12-10T23:41:32Z: PLAYER ADDED   [ 4124816015] Sheluvs456          
+2022-12-10T23:41:32Z: PLAYER ADDED   [ 3367918630] Savythefrogispog     a.k.a. Expireddonuts       
+2022-12-10T23:41:32Z: PLAYER ADDED   [ 1639851834] orangeblurvalentino  a.k.a. Dora                
+2022-12-10T23:41:32Z: PLAYER ADDED   [ 4121639489] missmessyh          
+2022-12-10T23:41:32Z: PLAYER ADDED   [ 4124086489] Iheartfur37          a.k.a. London              
+2022-12-10T23:41:32Z: PLAYER ADDED   [ 4013203030] Elizabe123_ps       
+2022-12-10T23:41:32Z: PLAYER ADDED   [ 2755600173] smokyeyes2012       
+2022-12-10T23:41:32Z: PLAYER ADDED   [ 4108439655] GothicStarLyxx      
+2022-12-10T23:41:32Z: PLAYER ADDED   [ 4127327655] An1m3_4l1f33         a.k.a. WaTeRmElOn          
+2022-12-10T23:41:32Z: PLAYER ADDED   [ 4127662681] lola56218           
+2022-12-10T23:41:32Z: PLAYER ADDED   [ 1724612915] Urarakamhah         
+2022-12-10T23:41:32Z: PLAYER ADDED   [ 4127509711] Lilly117829         
+2022-12-10T23:41:32Z: PLAYER ADDED   [ 4104755760] QwERtkopi           
+2022-12-10T23:41:32Z: PLAYER ADDED   [ 3735955302] Chloe682406         
+2022-12-10T23:41:49Z: PLAYER REMOVED [ 4070833481] mkyombwa1256        
+2022-12-10T23:41:49Z: PLAYER REMOVED [ 3972326015] Muradisthecoolest   
+2022-12-10T23:41:49Z: PLAYER ADDED   [ 4071039981] Kawaiikitten4578    
+2022-12-10T23:41:49Z: PLAYER REMOVED [ 4108439655] GothicStarLyxx      
+2022-12-10T23:41:49Z: PLAYER REMOVED [ 1639851834] orangeblurvalentino  a.k.a. Dora                
+2022-12-10T23:41:49Z: PLAYER ADDED   [ 4004850764] Leyabeannnn         
+2022-12-10T23:41:49Z: PLAYER ADDED   [ 3485707420] k3rgcfgrh           
+2022-12-10T23:41:51Z: PLAYER REMOVED [ 3955781578] Cookie_dayakie123   
+2022-12-10T23:41:59Z: PLAYER ADDED   [ 3443809337] Dulce39456           a.k.a. Ashley2463          
+2022-12-10T23:42:00Z: PLAYER ADDED   [ 2475355102] Mudasers5            a.k.a. Ronaldo             
+2022-12-10T23:42:05Z: PLAYER REMOVED [ 3443809337] Dulce39456           a.k.a. Ashley2463          
+2022-12-10T23:42:10Z: PLAYER REMOVED [ 4124816015] Sheluvs456          
+2022-12-10T23:42:10Z: PLAYER REMOVED [ 3925100021] gaellle1212         
+2022-12-10T23:42:16Z: PLAYER REMOVED [ 4127659168] becisni             
+2022-12-10T23:42:17Z: PLAYER REMOVED [ 4013203030] Elizabe123_ps       
+2022-12-10T23:42:19Z: PLAYER ADDED   [ 2274226001] Marely3678           a.k.a. Marley              
+2022-12-10T23:42:25Z: PLAYER REMOVED [  716446469] oolgirl3o            a.k.a. ThatSmoothCriminal  
+2022-12-10T23:42:33Z: PLAYER ADDED   [ 3152738733] B3nnji_FURRY2        a.k.a. wahhh               
+2022-12-10T23:42:33Z: PLAYER ADDED   [ 4117175499] sky278297           
+2022-12-10T23:42:36Z: PLAYER REMOVED [ 4127327655] An1m3_4l1f33         a.k.a. WaTeRmElOn          
+2022-12-10T23:42:37Z: PLAYER ADDED   [ 4066106803] 8ixcsn              
+2022-12-10T23:42:45Z: PLAYER REMOVED [ 3485707420] k3rgcfgrh           
+2022-12-10T23:42:54Z: PLAYER REMOVED [ 4033151412] Starboy20223         a.k.a. Hiuwu               
+2022-12-10T23:42:57Z: PLAYER REMOVED [ 3152738733] B3nnji_FURRY2        a.k.a. wahhh               
+2022-12-10T23:43:02Z: PLAYER ADDED   [ 3840202024] XxTAKISARExX        
+2022-12-10T23:43:07Z: PLAYER ADDED   [ 4033151412] Starboy20223         a.k.a. Hiuwu               
+2022-12-10T23:43:18Z: PLAYER REMOVED [ 4071039981] Kawaiikitten4578    
+2022-12-10T23:43:19Z: PLAYER ADDED   [ 4071039981] Kawaiikitten4578    
+2022-12-10T23:43:21Z: PLAYER ADDED   [ 4127508593] Fhfjdjfhgy          
+2022-12-10T23:43:31Z: PLAYER REMOVED [ 2274226001] Marely3678           a.k.a. Marley              
+2022-12-10T23:43:35Z: PLAYER REMOVED [ 4114308254] Lostmyallaccount    
+2022-12-10T23:43:36Z: PLAYER ADDED   [ 3399064249] Liv_rooney64        
+2022-12-10T23:43:38Z: PLAYER ADDED   [  118068616] unicornia1226        a.k.a. Insanities          
+2022-12-10T23:43:42Z: PLAYER ADDED   [ 2274226001] Marely3678           a.k.a. Marley              
+2022-12-10T23:43:47Z: PLAYER ADDED   [ 4124603573] Rerereeernd         
+2022-12-10T23:43:58Z: PLAYER REMOVED [ 4033151412] Starboy20223         a.k.a. Hiuwu               
+2022-12-10T23:44:03Z: PLAYER ADDED   [ 4080638118] aglow_unicorn57     
+2022-12-10T23:44:12Z: PLAYER REMOVED [ 4071039981] Kawaiikitten4578    
+2022-12-10T23:44:13Z: PLAYER ADDED   [  716446469] oolgirl3o            a.k.a. ThatSmoothCriminal  
+2022-12-10T23:44:20Z: PLAYER ADDED   [ 4114308254] Lostmyallaccount    
+2022-12-10T23:44:21Z: PLAYER ADDED   [ 4044217286] Natalyaloves07       a.k.a. Natalya             
+2022-12-10T23:44:28Z: PLAYER REMOVED [ 4113969658] IMhotKIDD4          
+2022-12-10T23:44:29Z: PLAYER ADDED   [ 3928411046] Kaydence_th          a.k.a. Moon                
+2022-12-10T23:45:12Z: PLAYER REMOVED [ 1724612915] Urarakamhah         
+2022-12-10T23:45:25Z: PLAYER REMOVED [  602913320] lunar_nightime       a.k.a. Lunar_nightime      
+2022-12-10T23:45:42Z: PLAYER ADDED   [ 4083100483] lovesunoo11         
+2022-12-10T23:46:02Z: PLAYER ADDED   [ 3600541975] Vampi_Cookie         a.k.a. Pretty_Princess     
+2022-12-10T23:46:05Z: PLAYER REMOVED [ 2475355102] Mudasers5            a.k.a. Ronaldo             
+2022-12-10T23:46:08Z: PLAYER ADDED   [ 4036695479] XxFlashBabyYodaXOX   a.k.a. MindOverMatter      
+2022-12-10T23:46:11Z: PLAYER REMOVED [ 4080638118] aglow_unicorn57     
+2022-12-10T23:46:12Z: PLAYER REMOVED [ 3735955302] Chloe682406         
+2022-12-10T23:46:16Z: PLAYER REMOVED [ 4036695479] XxFlashBabyYodaXOX   a.k.a. MindOverMatter      
+2022-12-10T23:46:23Z: PLAYER ADDED   [ 4127674170] cookiemonsterz87    
+2022-12-10T23:46:50Z: PLAYER REMOVED [ 3928411046] Kaydence_th          a.k.a. Moon                
+2022-12-10T23:46:53Z: PLAYER REMOVED [ 4117175499] sky278297           
+2022-12-10T23:46:56Z: PLAYER ADDED   [ 3803382771] Daisy_RobIox12      
+2022-12-10T23:47:03Z: PLAYER REMOVED [  118068616] unicornia1226        a.k.a. Insanities          
+2022-12-10T23:47:14Z: PLAYER REMOVED [ 4066106803] 8ixcsn              
+2022-12-10T23:47:22Z: PLAYER REMOVED [  208450078] Pixelstarjamesfan123 a.k.a. Miriam              
+2022-12-10T23:47:23Z: PLAYER ADDED   [ 3735955302] Chloe682406         
+2022-12-10T23:47:28Z: PLAYER REMOVED [ 3600541975] Vampi_Cookie         a.k.a. Pretty_Princess     
+2022-12-10T23:47:36Z: PLAYER ADDED   [ 4079031393] MIA12309STICH        a.k.a. Ana_Nathalia        
+2022-12-10T23:47:46Z: PLAYER ADDED   [ 2546768730] fontainelle          a.k.a. Lueur               
+2022-12-10T23:47:51Z: PLAYER ADDED   [ 4098067863] LatteArt8            a.k.a. Tsunami             
+2022-12-10T23:47:59Z: PLAYER REMOVED [ 4098067863] LatteArt8            a.k.a. Tsunami             
+2022-12-10T23:48:00Z: PLAYER ADDED   [ 4071039981] Kawaiikitten4578    
+2022-12-10T23:48:01Z: PLAYER REMOVED [ 3399064249] Liv_rooney64        
+2022-12-10T23:48:02Z: PLAYER ADDED   [ 1493338635] daisy113890         
+2022-12-10T23:48:11Z: PLAYER REMOVED [  716446469] oolgirl3o            a.k.a. ThatSmoothCriminal  
+2022-12-10T23:48:14Z: PLAYER ADDED   [ 2954365241] ourqlv               a.k.a. star                
+2022-12-10T23:48:15Z: PLAYER REMOVED [ 1236477431] Emily25520           a.k.a. Maddie              
+2022-12-10T23:48:18Z: PLAYER ADDED   [ 3942310684] Triannsin           
+2022-12-10T23:48:28Z: PLAYER REMOVED [ 4071039981] Kawaiikitten4578    
+2022-12-10T23:48:38Z: PLAYER ADDED   [  716446469] oolgirl3o            a.k.a. ThatSmoothCriminal  
+2022-12-10T23:48:40Z: PLAYER REMOVED [ 4114308254] Lostmyallaccount    
+2022-12-10T23:48:43Z: PLAYER REMOVED [ 3735955302] Chloe682406         
+2022-12-10T23:48:45Z: PLAYER REMOVED [ 2755600173] smokyeyes2012       
+2022-12-10T23:48:50Z: PLAYER REMOVED [ 4127508593] Fhfjdjfhgy          
+2022-12-10T23:48:50Z: PLAYER ADDED   [ 3865326722] Icecreamformeplease 
+2022-12-10T23:49:04Z: PLAYER REMOVED [ 3840202024] XxTAKISARExX        
+2022-12-10T23:49:06Z: PLAYER ADDED   [ 1830164076] chloej0212          
+2022-12-10T23:49:09Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

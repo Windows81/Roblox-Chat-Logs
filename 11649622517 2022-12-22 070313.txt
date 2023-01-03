@@ -1,0 +1,2455 @@
+[    1630228] : [11649622517] RoIiday 2022 - de0b865c-d9ae-4b74-96d7-29b294a14c86
+2022-12-22T07:03:13Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-12-22T07:03:13Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-22T07:03:13Z: PLAYER ADDED   [  101037578] FrilledLace          a.k.a. Isa                 
+2022-12-22T07:03:13Z: PLAYER ADDED   [  147608312] k4fra                a.k.a. kafra               
+2022-12-22T07:03:13Z: PLAYER ADDED   [  116838501] LukeeFarted          a.k.a. Luke                
+2022-12-22T07:03:13Z: PLAYER ADDED   [   37739692] TechnicallyRora      a.k.a. rora                
+2022-12-22T07:03:13Z: PLAYER ADDED   [    7559912] cy1ia                a.k.a. cylia               
+2022-12-22T07:03:13Z: PLAYER ADDED   [ 1337500016] weindeer            
+2022-12-22T07:03:13Z: PLAYER ADDED   [  259773550] Starnamics           a.k.a. star                
+2022-12-22T07:03:13Z: PLAYER ADDED   [ 3436218611] GuessASuperCoolGuy   a.k.a. Scapter             
+2022-12-22T07:03:13Z: PLAYER ADDED   [   83851334] TaxFaberge           a.k.a. Tax                 
+2022-12-22T07:03:13Z: PLAYER ADDED   [   31822522] FileSaved           
+2022-12-22T07:03:13Z: PLAYER ADDED   [   38973091] jordonh23           
+2022-12-22T07:03:13Z: PLAYER ADDED   [  925872199] Sergeant_Roach       a.k.a. gamer               
+2022-12-22T07:03:13Z: PLAYER ADDED   [   66798175] kahgo                a.k.a. akira               
+2022-12-22T07:03:13Z: PLAYER ADDED   [    5649499] kenami              
+2022-12-22T07:03:13Z: PLAYER ADDED   [   35681709] 404N1KO              a.k.a. N1KO                
+2022-12-22T07:03:13Z: PLAYER ADDED   [ 2320578300] YZduder              a.k.a. AwesomeAvocado      
+2022-12-22T07:03:13Z: PLAYER ADDED   [  127492959] pancakuuu            a.k.a. pancake             
+2022-12-22T07:03:13Z: PLAYER ADDED   [  720597463] f1zxyy              
+2022-12-22T07:03:13Z: PLAYER ADDED   [    2032622] maximum_adhd         a.k.a. MaximumADHD         
+2022-12-22T07:03:13Z: PLAYER ADDED   [   66607594] iluvrabbitz          a.k.a. grace               
+2022-12-22T07:03:13Z: PLAYER ADDED   [   30336519] GalacticLemons       a.k.a. Lemons              
+2022-12-22T07:03:13Z: PLAYER ADDED   [   32051097] uwutitanic           a.k.a. Matcha              
+2022-12-22T07:03:13Z: PLAYER ADDED   [   42230734] miny_mashx           a.k.a. Miny_Mash           
+2022-12-22T07:03:13Z: PLAYER ADDED   [ 1094724477] ReconnectRyn         a.k.a. Ryan                
+2022-12-22T07:03:13Z: PLAYER ADDED   [  154054216] cazgamez             a.k.a. caz                 
+2022-12-22T07:03:13Z: PLAYER ADDED   [  117026661] tetrispiece         
+2022-12-22T07:03:13Z: PLAYER ADDED   [   30701890] Kariu               
+2022-12-22T07:03:13Z: PLAYER ADDED   [   47432825] Iguy_I               a.k.a. Iguy                
+2022-12-22T07:03:13Z: PLAYER ADDED   [   90102267] SpaceOblivion        a.k.a. oblivion            
+2022-12-22T07:03:13Z: PLAYER ADDED   [ 4112164679] icydrizzles          a.k.a. drizzy              
+2022-12-22T07:03:13Z: PLAYER ADDED   [   23647958] GE5AFF               a.k.a. gesaff              
+2022-12-22T07:03:13Z: PLAYER ADDED   [     111185] ManicPichu          
+2022-12-22T07:03:13Z: PLAYER ADDED   [   11437160] mathep              
+2022-12-22T07:03:13Z: PLAYER ADDED   [   28621340] flatstream          
+2022-12-22T07:03:13Z: PLAYER ADDED   [   73880389] monvallaria          a.k.a. mon                 
+2022-12-22T07:03:13Z: PLAYER ADDED   [   86676491] general_milk         a.k.a. Milk                
+2022-12-22T07:03:13Z: PLAYER ADDED   [   31446979] 2involved            a.k.a. adam                
+2022-12-22T07:03:13Z: PLAYER ADDED   [  138256853] doodies13            a.k.a. kingofbacon         
+2022-12-22T07:03:13Z: PLAYER ADDED   [   19205319] BjornenFryst         a.k.a. Plebendos           
+2022-12-22T07:03:13Z: PLAYER ADDED   [  210519936] SakGFX               a.k.a. Sak                 
+2022-12-22T07:03:13Z: PLAYER ADDED   [   32898551] seldruin             a.k.a. bear                
+2022-12-22T07:03:13Z: PLAYER ADDED   [ 1594236966] Midnightific        
+2022-12-22T07:03:13Z: PLAYER ADDED   [   15872318] DanielH253           a.k.a. Dan                 
+2022-12-22T07:03:13Z: PLAYER ADDED   [   42622411] rankydoodle         
+2022-12-22T07:03:13Z: PLAYER ADDED   [   99206495] frvgments           
+2022-12-22T07:03:13Z: PLAYER CHATTED [ 2320578300] YZduder              (  159.4,   191.7,    15.2)
+  Its a pokemon that can evolve into different types
+2022-12-22T07:03:14Z: PLAYER CHATTED [ 1337500016] weindeer             (  162.6,   193.8,    38.3)
+  Coodbye
+2022-12-22T07:03:16Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  i love roblox filter
+2022-12-22T07:03:18Z: PLAYER CHATTED [    7559912] cy1ia                (  156.4,   191.4,    31.5)
+  Dont check your attic in 8 months
+2022-12-22T07:03:19Z: PLAYER CHATTED [ 1094724477] ReconnectRyn         (  203.8,   193.4,   -31.5)
+  this guy failed my epal
+2022-12-22T07:03:20Z: PLAYER CHATTED [  154054216] cazgamez             ( 1361.0,  -102.0,   122.9)
+  just forgot how spell its name sadly
+2022-12-22T07:03:20Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  its by far the best in any game
+2022-12-22T07:03:22Z: PLAYER CHATTED [ 2320578300] YZduder              (  159.4,   191.7,    15.2)
+  Hint: It starts with an E
+2022-12-22T07:03:22Z: PLAYER CHATTED [ 1337500016] weindeer             (  162.6,   193.8,    38.3)
+  000bye
+2022-12-22T07:03:23Z: PLAYER CHATTED [   19205319] BjornenFryst         (  164.5,   191.7,    46.0)
+  I #### ### in Football
+2022-12-22T07:03:26Z: PLAYER ADDED   [    6544457] superbroggy         
+2022-12-22T07:03:26Z: PLAYER CHATTED [   19205319] BjornenFryst         (  164.5,   191.7,    46.0)
+  I will remember you
+2022-12-22T07:03:27Z: PLAYER CHATTED [   37739692] TechnicallyRora      ( 1377.1,   -96.1,   127.4)
+  pochita
+2022-12-22T07:03:28Z: PLAYER CHATTED [  720597463] f1zxyy               ( 1356.2,  -102.5,   119.0)
+  me too
+2022-12-22T07:03:29Z: PLAYER CHATTED [ 1094724477] ReconnectRyn         (  204.9,   193.4,   -30.5)
+  he couldnt find one for my birthday
+2022-12-22T07:03:30Z: PLAYER CHATTED [   19205319] BjornenFryst         (  164.5,   191.7,    46.0)
+  As an inferior individual
+2022-12-22T07:03:32Z: PLAYER CHATTED [ 1337500016] weindeer             (  162.6,   193.8,    38.3)
+  i aprprecicahte taht\
+2022-12-22T07:03:36Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  yeah
+2022-12-22T07:03:38Z: PLAYER CHATTED [   19205319] BjornenFryst         (  164.5,   191.7,    45.9)
+  mouse
+2022-12-22T07:03:40Z: PLAYER CHATTED [  154054216] cazgamez             ( 1372.6,  -110.0,   174.9)
+  files still ded
+2022-12-22T07:03:41Z: PLAYER ADDED   [ 3947252473] antYTlikes           a.k.a. unicorn             
+2022-12-22T07:03:43Z: PLAYER CHATTED [  720597463] f1zxyy               ( 1377.0,  -110.5,   173.1)
+  file is still dead
+2022-12-22T07:03:43Z: CHRCTER ADDED  [   19205319] BjornenFryst         a.k.a. Plebendos           
+2022-12-22T07:03:44Z: PLAYER REMOVED [   19205319] BjornenFryst         a.k.a. Plebendos           
+2022-12-22T07:03:47Z: PLAYER CHATTED [  720597463] f1zxyy               ( 1378.6,  -110.5,   172.8)
+  sabe braincell
+2022-12-22T07:03:50Z: PLAYER CHATTED [  720597463] f1zxyy               ( 1378.6,  -110.5,   172.8)
+  same*
+2022-12-22T07:03:54Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  why is Disco filtered for 13+ users 
+2022-12-22T07:03:55Z: PLAYER CHATTED [  720597463] f1zxyy               ( 1382.4,  -101.6,   176.3)
+  wake up
+2022-12-22T07:03:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (  194.5,   194.0,   -25.5)
+  Do pardon me.
+2022-12-22T07:03:59Z: PLAYER REMOVED [ 1094724477] ReconnectRyn         a.k.a. Ryan                
+2022-12-22T07:04:00Z: PLAYER CHATTED [  720597463] f1zxyy               ( 1383.0,  -101.6,   176.5)
+  /e point
+2022-12-22T07:04:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (  194.5,   194.0,   -25.5)
+  I don't have V.C. yet.
+2022-12-22T07:04:08Z: PLAYER CHATTED [   83851334] TaxFaberge           (  237.0,   195.8,  -103.2)
+  car crasj
+2022-12-22T07:04:09Z: PLAYER CHATTED [  720597463] f1zxyy               ( 1377.6,  -110.5,   174.7)
+  onward?
+2022-12-22T07:04:11Z: PLAYER CHATTED [  154054216] cazgamez             ( 1365.9,  -110.0,   178.3)
+  Oh well we continue
+2022-12-22T07:04:14Z: PLAYER CHATTED [   35681709] 404N1KO              (  196.4,   193.0,   -28.0)
+  F
+2022-12-22T07:04:19Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  216.4,   195.1,   327.3)
+  hey guy
+2022-12-22T07:04:19Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  a month ago you could say the full word but now you cant which is weird
+2022-12-22T07:04:20Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  #######
+2022-12-22T07:04:30Z: PLAYER REMOVED [   28621340] flatstream          
+2022-12-22T07:04:30Z: PLAYER REMOVED [  138256853] doodies13            a.k.a. kingofbacon         
+2022-12-22T07:04:31Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  is maximum twerking
+2022-12-22T07:04:31Z: PLAYER ADDED   [  235226577] Xenocomm             a.k.a. syc                 
+2022-12-22T07:04:33Z: PLAYER CHATTED [  154054216] cazgamez             (  185.3,   193.4,   -37.8)
+  where have we not been
+2022-12-22T07:04:33Z: PLAYER CHATTED [    2032622] maximum_adhd         (  209.5,   206.7,   -29.7)
+  it was unfiltered for a sec.
+2022-12-22T07:04:33Z: PLAYER CHATTED [   47432825] Iguy_I               (  216.0,   196.0,   317.5)
+  hey
+2022-12-22T07:04:37Z: PLAYER CHATTED [  720597463] f1zxyy               (  183.9,   193.0,   -34.8)
+  hmm
+2022-12-22T07:04:40Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  interesting
+2022-12-22T07:04:42Z: PLAYER CHATTED [    2032622] maximum_adhd         (  209.5,   206.7,   -29.7)
+  slow motion break dance lol
+2022-12-22T07:04:49Z: PLAYER CHATTED [   83851334] TaxFaberge           (  211.3,   193.3,   -22.1)
+  /e point
+2022-12-22T07:04:54Z: PLAYER CHATTED [    2032622] maximum_adhd         (  209.5,   206.7,   -29.7)
+  can y'all fix this emote not looping pls
+2022-12-22T07:04:58Z: PLAYER CHATTED [  154054216] cazgamez             (  278.9,   195.5,    32.5)
+  the tiny fella
+2022-12-22T07:05:03Z: PLAYER CHATTED [ 4112164679] icydrizzles          (  211.2,   206.4,   -26.1)
+  feedback button
+2022-12-22T07:05:05Z: PLAYER CHATTED [ 4112164679] icydrizzles          (  211.2,   206.4,   -26.1)
+  top right corner
+2022-12-22T07:05:08Z: PLAYER CHATTED [  720597463] f1zxyy               (  284.8,   195.0,    29.3)
+  tiny fella
+2022-12-22T07:05:10Z: PLAYER CHATTED [    2032622] maximum_adhd         (  209.5,   206.7,   -29.7)
+  nah it's a roblox thing
+2022-12-22T07:05:10Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  do you play any games outside of roblox?
+2022-12-22T07:05:14Z: PLAYER CHATTED [    2032622] maximum_adhd         (  209.5,   206.7,   -29.7)
+  not this game specifically.
+2022-12-22T07:05:18Z: PLAYER CHATTED [  154054216] cazgamez             (  277.7,   195.5,    36.8)
+  haha
+2022-12-22T07:05:19Z: PLAYER CHATTED [ 4112164679] icydrizzles          (  211.2,   206.6,   -26.0)
+  ah
+2022-12-22T07:05:24Z: PLAYER REMOVED [   99206495] frvgments           
+2022-12-22T07:05:24Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  216.4,   195.1,   327.3)
+  gamer where are you
+2022-12-22T07:05:27Z: PLAYER CHATTED [  154054216] cazgamez             (  279.0,   195.5,    33.1)
+  i see these hats all the time
+2022-12-22T07:05:33Z: PLAYER CHATTED [  720597463] f1zxyy               (  285.8,   195.0,    29.9)
+  yeah theyre pretty popular
+2022-12-22T07:05:39Z: PLAYER CHATTED [   15872318] DanielH253           (  199.5,   193.5,   -25.3)
+  obx land
+2022-12-22T07:05:41Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  oo valheim looks great, once i get a better pc im gonna get it
+2022-12-22T07:05:42Z: PLAYER CHATTED [  154054216] cazgamez             (  279.0,   195.5,    33.1)
+  purple and green one is maybe my favourite one
+2022-12-22T07:05:44Z: PLAYER CHATTED [  720597463] f1zxyy               (  285.8,   195.0,    29.9)
+  hes wearing a different one
+2022-12-22T07:05:47Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  interesting
+2022-12-22T07:05:50Z: PLAYER CHATTED [   35681709] 404N1KO              (  195.3,   193.0,   -26.5)
+  😭
+2022-12-22T07:05:54Z: PLAYER ADDED   [  138256853] doodies13            a.k.a. kingofbacon         
+2022-12-22T07:05:55Z: PLAYER CHATTED [   30336519] GalacticLemons       (  197.3,   193.0,   -31.2)
+  /e point
+2022-12-22T07:05:56Z: PLAYER REMOVED [  116838501] LukeeFarted          a.k.a. Luke                
+2022-12-22T07:06:01Z: PLAYER CHATTED [   30336519] GalacticLemons       (  197.4,   193.0,   -32.1)
+  /e dance2
+2022-12-22T07:06:11Z: PLAYER REMOVED [   86676491] general_milk         a.k.a. Milk                
+2022-12-22T07:06:14Z: PLAYER CHATTED [  154054216] cazgamez             (  342.8,   195.5,    96.4)
+  swag
+2022-12-22T07:06:14Z: PLAYER CHATTED [   35681709] 404N1KO              (  130.5,   193.0,   -42.3)
+  LOL
+2022-12-22T07:06:18Z: PLAYER CHATTED [  154054216] cazgamez             (  342.8,   195.5,    96.4)
+  why is it so evil
+2022-12-22T07:06:19Z: PLAYER CHATTED [  720597463] f1zxyy               (  336.3,   195.0,    94.4)
+  true
+2022-12-22T07:06:23Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  damnnn
+2022-12-22T07:06:23Z: PLAYER CHATTED [   15872318] DanielH253           (  122.3,   193.5,   -45.6)
+  /w FrilledLace  hi
+2022-12-22T07:06:25Z: PLAYER CHATTED [   47432825] Iguy_I               (  217.8,   196.0,   316.6)
+  /e t
+2022-12-22T07:06:25Z: PLAYER CHATTED [  720597463] f1zxyy               (  336.3,   195.0,    94.4)
+  file is alive!!
+2022-12-22T07:06:26Z: PLAYER CHATTED [  154054216] cazgamez             (  342.8,   195.5,    96.4)
+  welcome back file
+2022-12-22T07:06:28Z: PLAYER CHATTED [   31822522] FileSaved            (  333.3,   195.5,   103.5)
+  this is the coolest shop
+2022-12-22T07:06:28Z: PLAYER REMOVED [   90102267] SpaceOblivion        a.k.a. oblivion            
+2022-12-22T07:06:28Z: PLAYER CHATTED [   15872318] DanielH253           (  122.3,   193.5,   -45.6)
+  do u know callmehbob
+2022-12-22T07:06:29Z: PLAYER CHATTED [   31822522] FileSaved            (  333.3,   195.5,   103.5)
+  thank u
+2022-12-22T07:06:33Z: PLAYER CHATTED [  720597463] f1zxyy               (  334.9,   195.1,    94.9)
+  this is the coolest shop
+2022-12-22T07:06:37Z: PLAYER CHATTED [   15872318] DanielH253           (  122.3,   193.5,   -45.6)
+  can u get her to chat me
+2022-12-22T07:06:37Z: PLAYER CHATTED [   31822522] FileSaved            (  333.3,   195.5,   103.5)
+  my teeth are so clean now
+2022-12-22T07:06:40Z: PLAYER CHATTED [  235226577] Xenocomm             (  222.5,   194.8,   321.2)
+  si
+2022-12-22T07:06:41Z: PLAYER CHATTED [  720597463] f1zxyy               (  334.9,   195.1,    94.9)
+  yayy
+2022-12-22T07:06:41Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  217.6,   195.1,   325.5)
+  add me guys
+2022-12-22T07:06:42Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  oo
+2022-12-22T07:06:44Z: PLAYER CHATTED [   15872318] DanielH253           (  122.3,   193.5,   -45.5)
+  rip
+2022-12-22T07:06:47Z: PLAYER CHATTED [   15872318] DanielH253           (  122.3,   193.5,   -45.5)
+  shes my friend on roblox
+2022-12-22T07:06:48Z: PLAYER CHATTED [  154054216] cazgamez             (  340.0,   195.5,    96.7)
+  is it a cursed hat
+2022-12-22T07:06:49Z: PLAYER CHATTED [   15872318] DanielH253           (  122.3,   193.5,   -45.5)
+  but wont
+2022-12-22T07:06:51Z: PLAYER CHATTED [   15872318] DanielH253           (  122.3,   193.5,   -45.5)
+  chat me
+2022-12-22T07:06:55Z: PLAYER CHATTED [   31822522] FileSaved            (  333.3,   195.5,   103.5)
+  it's blessed
+2022-12-22T07:06:58Z: CHRCTER ADDED  [  210519936] SakGFX               a.k.a. Sak                 
+2022-12-22T07:07:02Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  ah i see
+2022-12-22T07:07:11Z: PLAYER CHATTED [  154054216] cazgamez             (  340.0,   195.5,    96.7)
+  does it make you rich?
+2022-12-22T07:07:15Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  yeah 
+2022-12-22T07:07:18Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  225.3,   195.1,   316.5)
+  hey
+2022-12-22T07:07:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (  117.5,   195.5,   -48.1)
+  Hi.  Would someone send me a live audio stream for the call?
+2022-12-22T07:07:21Z: PLAYER CHATTED [  720597463] f1zxyy               (  335.7,   195.0,    95.3)
+  all who wear it either die or get 10 dollars within 20 minutes
+2022-12-22T07:07:29Z: PLAYER CHATTED [    1630228] VisualPlugin         (  117.5,   195.5,   -48.1)
+  I wasn't able to verifry last time.
+2022-12-22T07:07:35Z: PLAYER CHATTED [  720597463] f1zxyy               (  335.7,   195.0,    95.3)
+  who wants to take the risk
+2022-12-22T07:07:37Z: PLAYER CHATTED [    1630228] VisualPlugin         (  117.3,   195.5,   -48.5)
+  (Spacial voice)?
+2022-12-22T07:07:45Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  i wanna start playing valorant or overwatch 2 some time
+2022-12-22T07:07:45Z: PLAYER CHATTED [  154054216] cazgamez             (  340.0,   195.5,    96.7)
+  could die in like pls donate and still earn 10 dollars 
+2022-12-22T07:07:46Z: PLAYER CHATTED [   73880389] monvallaria          (  221.6,   194.8,   319.2)
+  purposely not moving
+2022-12-22T07:07:48Z: PLAYER CHATTED [   15872318] DanielH253           (  122.7,   193.8,   -49.0)
+  how u do that lemons
+2022-12-22T07:07:55Z: PLAYER CHATTED [  720597463] f1zxyy               (  335.7,   195.0,    95.3)
+  TRUE
+2022-12-22T07:07:56Z: PLAYER CHATTED [  154054216] cazgamez             (  340.0,   195.5,    96.7)
+  while wearing it
+2022-12-22T07:07:58Z: PLAYER CHATTED [   30336519] GalacticLemons       (  123.5,   194.9,   -53.3)
+  /w DanielH253  exploits
+2022-12-22T07:08:03Z: PLAYER ADDED   [  106492189] SSSpencer413         a.k.a. SSS                 
+2022-12-22T07:08:05Z: PLAYER CHATTED [   73880389] monvallaria          (  221.6,   194.8,   319.2)
+  nuh uh
+2022-12-22T07:08:06Z: PLAYER CHATTED [   15872318] DanielH253           (  123.0,   193.5,   -44.9)
+  /w GalacticLemons  wonderful
+2022-12-22T07:08:08Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  yeah
+2022-12-22T07:08:09Z: PLAYER CHATTED [ 4112164679] icydrizzles          (  110.6,   198.5,   -49.4)
+  clonetrooper 1019
+2022-12-22T07:08:10Z: PLAYER CHATTED [  720597463] f1zxyy               (  335.7,   195.0,    95.3)
+  hello spencer 
+2022-12-22T07:08:10Z: PLAYER CHATTED [   15872318] DanielH253           (  123.0,   193.5,   -44.9)
+  winter wonderland
+2022-12-22T07:08:17Z: PLAYER CHATTED [   15872318] DanielH253           (  123.5,   193.5,   -44.7)
+  noooo
+2022-12-22T07:08:22Z: PLAYER CHATTED [   15872318] DanielH253           (  121.8,   193.5,   -44.4)
+  its only 2 am
+2022-12-22T07:08:24Z: PLAYER CHATTED [  235226577] Xenocomm             (  214.7,   194.8,   319.2)
+  potato monitor
+2022-12-22T07:08:26Z: PLAYER REMOVED [  101037578] FrilledLace          a.k.a. Isa                 
+2022-12-22T07:08:26Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  223.3,   195.1,   316.4)
+  who got robux
+2022-12-22T07:08:30Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  222.5,   195.1,   316.4)
+  who got robux
+2022-12-22T07:08:30Z: PLAYER CHATTED [  235226577] Xenocomm             (  214.7,   194.8,   319.2)
+  its going to be bricked any second
+2022-12-22T07:08:33Z: PLAYER CHATTED [   73880389] monvallaria          (  221.5,   194.8,   319.0)
+  :3
+2022-12-22T07:08:41Z: PLAYER CHATTED [   73880389] monvallaria          (  221.5,   194.8,   318.3)
+  STOP MOVING MEEE
+2022-12-22T07:08:45Z: PLAYER CHATTED [  154054216] cazgamez             (  311.9,   195.2,   120.3)
+  mans a chonk
+2022-12-22T07:08:46Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  222.3,   195.0,   315.8)
+  i only hav 3 left
+2022-12-22T07:08:47Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  yeah
+2022-12-22T07:08:48Z: PLAYER CHATTED [  720597463] f1zxyy               (  315.2,   194.8,   117.7)
+  true
+2022-12-22T07:08:50Z: PLAYER CHATTED [ 2320578300] YZduder              (  136.7,   193.8,   -64.0)
+  GOT YOU NOW!
+2022-12-22T07:08:52Z: PLAYER CHATTED [   73880389] monvallaria          (  217.5,   194.8,   315.9)
+  #############
+2022-12-22T07:08:53Z: PLAYER CHATTED [  720597463] f1zxyy               (  315.2,   194.8,   117.7)
+  file's friends
+2022-12-22T07:08:56Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  222.7,   195.1,   315.4)
+  who got robux
+2022-12-22T07:08:59Z: PLAYER CHATTED [  154054216] cazgamez             (  313.9,   195.3,   127.7)
+  hahaha
+2022-12-22T07:09:09Z: PLAYER REMOVED [ 2320578300] YZduder              a.k.a. AwesomeAvocado      
+2022-12-22T07:09:12Z: PLAYER CHATTED [   73880389] monvallaria          (  220.1,   195.3,   297.1)
+  i hate you guys
+2022-12-22T07:09:13Z: PLAYER CHATTED [  154054216] cazgamez             (  313.9,   195.3,   127.7)
+  just appears so squishy
+2022-12-22T07:09:15Z: PLAYER REMOVED [     111185] ManicPichu          
+2022-12-22T07:09:16Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  yea
+2022-12-22T07:09:16Z: PLAYER CHATTED [   15872318] DanielH253           (  126.5,   193.5,   -48.9)
+  i am guilty of both of those this atm
+2022-12-22T07:09:22Z: PLAYER CHATTED [  720597463] f1zxyy               (  315.7,   194.8,   118.3)
+  i kinda just
+2022-12-22T07:09:24Z: PLAYER CHATTED [   73880389] monvallaria          (  228.4,   194.7,   283.1)
+  MY FRAME RATE
+2022-12-22T07:09:25Z: PLAYER CHATTED [  720597463] f1zxyy               (  315.7,   194.8,   118.3)
+  ######### it
+2022-12-22T07:09:30Z: PLAYER CHATTED [  720597463] f1zxyy               (  315.7,   194.8,   118.3)
+  squished it*
+2022-12-22T07:09:30Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  how about halo? 
+2022-12-22T07:09:34Z: PLAYER CHATTED [  154054216] cazgamez             (  312.2,   195.4,   124.4)
+  haha
+2022-12-22T07:09:37Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  altho halo is kinda dead lately
+2022-12-22T07:09:38Z: PLAYER CHATTED [  154054216] cazgamez             (  312.2,   195.4,   124.4)
+  it works
+2022-12-22T07:09:40Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  yea
+2022-12-22T07:09:40Z: PLAYER CHATTED [  720597463] f1zxyy               (  315.7,   194.8,   118.3)
+  ya
+2022-12-22T07:09:43Z: PLAYER CHATTED [  154054216] cazgamez             (  312.2,   195.4,   124.4)
+  the family
+2022-12-22T07:09:43Z: PLAYER CHATTED [  154054216] cazgamez             (  312.2,   195.4,   124.4)
+  the family
+2022-12-22T07:09:43Z: PLAYER CHATTED [   73880389] monvallaria          (  211.6,   193.3,   251.5)
+  AKJHFJKWEHGFEWJFH
+2022-12-22T07:09:44Z: PLAYER CHATTED [  117026661] tetrispiece          (  155.3,   191.7,    13.4)
+  hey guys mrbeast is back 
+2022-12-22T07:09:48Z: PLAYER CHATTED [  720597463] f1zxyy               (  315.7,   194.8,   118.3)
+  hehe
+2022-12-22T07:09:50Z: PLAYER CHATTED [  117026661] tetrispiece          (   56.7,   193.9,   -41.1)
+  i had to take a call from my sponsor
+2022-12-22T07:09:59Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  infinite was quite a let down for the hype it had
+2022-12-22T07:10:00Z: PLAYER CHATTED [  117026661] tetrispiece          (  132.6,   191.7,     6.4)
+  honey! download honey today to save money on every purchase
+2022-12-22T07:10:04Z: PLAYER CHATTED [  154054216] cazgamez             (  266.5,   195.1,    53.9)
+  did file die again?
+2022-12-22T07:10:07Z: PLAYER CHATTED [   73880389] monvallaria          (  208.4,   193.3,   226.9)
+  titanic they are bullying me
+2022-12-22T07:10:08Z: PLAYER CHATTED [  720597463] f1zxyy               (  266.1,   195.2,    64.3)
+  idkk
+2022-12-22T07:10:11Z: PLAYER REMOVED [    2032622] maximum_adhd         a.k.a. MaximumADHD         
+2022-12-22T07:10:12Z: PLAYER CHATTED [  235226577] Xenocomm             (  197.4,   193.3,   217.3)
+  we know
+2022-12-22T07:10:13Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  the first few halos were great
+2022-12-22T07:10:14Z: PLAYER CHATTED [ 1594236966] Midnightific         (  164.0,   191.7,    11.1)
+  you guys ever played edward the man eating train?
+2022-12-22T07:10:21Z: PLAYER CHATTED [ 1594236966] Midnightific         (  164.0,   191.7,    11.1)
+  or choo choo charles
+2022-12-22T07:10:21Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  i liked warzone in halo guardians
+2022-12-22T07:10:22Z: PLAYER CHATTED [  720597463] f1zxyy               (  324.6,   195.5,    92.5)
+  hes in a trance
+2022-12-22T07:10:24Z: PLAYER CHATTED [  154054216] cazgamez             (  320.8,   195.8,    85.8)
+  the hat got him i think
+2022-12-22T07:10:26Z: PLAYER CHATTED [  154054216] cazgamez             (  320.8,   195.8,    85.8)
+  yea
+2022-12-22T07:10:29Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  roblox horror games are weird as hell
+2022-12-22T07:10:36Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  o damn
+2022-12-22T07:10:46Z: PLAYER CHATTED [  154054216] cazgamez             (  320.8,   195.8,    85.8)
+  cant resist the swag drip
+2022-12-22T07:10:49Z: PLAYER CHATTED [   73880389] monvallaria          (  202.0,   193.3,   204.4)
+  im like supposed to go somewhere in a few minutes LOL
+2022-12-22T07:10:49Z: PLAYER CHATTED [  720597463] f1zxyy               (  322.4,   195.4,    89.6)
+  true
+2022-12-22T07:10:56Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  169.6,   193.2,    79.8)
+  who got robux
+2022-12-22T07:11:00Z: PLAYER CHATTED [   15872318] DanielH253           (  126.4,   194.1,   -52.2)
+  st8 up manslaughter
+2022-12-22T07:11:01Z: PLAYER CHATTED [   73880389] monvallaria          (  200.9,   193.3,   199.7)
+  ###############
+2022-12-22T07:11:09Z: PLAYER ADDED   [  334352372] MushNowa_v2          a.k.a. MushNowa            
+2022-12-22T07:11:09Z: PLAYER CHATTED [   73880389] monvallaria          (  199.3,   193.3,   197.2)
+  no!
+2022-12-22T07:11:12Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  dead by daylight looks great
+2022-12-22T07:11:15Z: PLAYER CHATTED [   15872318] DanielH253           (  126.9,   194.1,   -54.2)
+  gn guys
+2022-12-22T07:11:16Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  146.5,   191.9,    33.0)
+  who got robux
+2022-12-22T07:11:17Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  ive never really gotten into horror games
+2022-12-22T07:11:19Z: PLAYER CHATTED [   15872318] DanielH253           (  126.9,   194.1,   -54.2)
+  ima go over ther ethen leave
+2022-12-22T07:11:22Z: PLAYER CHATTED [  720597463] f1zxyy               (   84.3,   204.2,    35.0)
+  onwardddd
+2022-12-22T07:11:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.8,   191.4,    -4.7)
+  Pardon my lack of V.C.
+2022-12-22T07:11:28Z: PLAYER CHATTED [   15872318] DanielH253           (  127.7,   194.1,   -54.4)
+  dont remind me
+2022-12-22T07:11:29Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  tarkov looks funny with the proximity chat
+2022-12-22T07:11:31Z: PLAYER CHATTED [   15872318] DanielH253           (  127.7,   194.1,   -54.4)
+  its 13 degrees
+2022-12-22T07:11:34Z: PLAYER CHATTED [   15872318] DanielH253           (  127.7,   194.1,   -54.4)
+  and i gotta drive
+2022-12-22T07:11:38Z: PLAYER CHATTED [  334352372] MushNowa_v2          (  223.7,   194.8,   320.0)
+  hi everyone!!!
+2022-12-22T07:11:42Z: PLAYER CHATTED [  154054216] cazgamez             (  131.4,   245.5,   210.6)
+  does it take us to somewhere new?
+2022-12-22T07:11:43Z: PLAYER CHATTED [   15872318] DanielH253           (  128.4,   194.1,   -53.2)
+  but its never this cold in seattle
+2022-12-22T07:11:44Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.8,   191.4,    -4.7)
+  Nice seeing Jordon!
+2022-12-22T07:11:45Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  rip
+2022-12-22T07:11:45Z: PLAYER CHATTED [   73880389] monvallaria          (  199.4,   193.3,   194.3)
+  ##################
+2022-12-22T07:11:50Z: PLAYER CHATTED [  720597463] f1zxyy               (  -24.3,   258.0,   100.5)
+  to our demise
+2022-12-22T07:11:55Z: PLAYER CHATTED [   38973091] jordonh23            (  137.7,   191.4,    -1.0)
+  Same to u
+2022-12-22T07:11:57Z: PLAYER CHATTED [   73880389] monvallaria          (  199.9,   193.3,   189.0)
+  i need to go ALREADY
+2022-12-22T07:11:59Z: PLAYER CHATTED [  154054216] cazgamez             (  -40.6,   236.3,  -207.0)
+  OH
+2022-12-22T07:12:00Z: PLAYER CHATTED [   73880389] monvallaria          (  199.9,   193.3,   189.0)
+  bye bye :3
+2022-12-22T07:12:02Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  yeah
+2022-12-22T07:12:05Z: PLAYER CHATTED [   38973091] jordonh23            (  137.7,   191.4,    -1.0)
+  How u been lately 
+2022-12-22T07:12:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.8,   191.4,    -4.7)
+  I never got to see you around R.D.C.
+2022-12-22T07:12:08Z: PLAYER CHATTED [  154054216] cazgamez             (  107.7,   191.6,    49.9)
+  ded
+2022-12-22T07:12:08Z: PLAYER REMOVED [    5649499] kenami              
+2022-12-22T07:12:10Z: PLAYER CHATTED [  720597463] f1zxyy               (  111.5,   191.4,    40.0)
+  hahaha
+2022-12-22T07:12:15Z: PLAYER REMOVED [   83851334] TaxFaberge           a.k.a. Tax                 
+2022-12-22T07:12:18Z: PLAYER CHATTED [  720597463] f1zxyy               (  126.8,   191.4,    53.0)
+  hi mushhh
+2022-12-22T07:12:18Z: PLAYER CHATTED [   38973091] jordonh23            (  137.7,   191.4,    -1.0)
+  never went to rdc 
+2022-12-22T07:12:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.8,   191.4,    -4.7)
+  I've been doing well at school though.
+2022-12-22T07:12:24Z: PLAYER CHATTED [  334352372] MushNowa_v2          (  134.4,   191.7,    61.6)
+  hiiiiiiiiiiiii
+2022-12-22T07:12:31Z: PLAYER ADDED   [   26274159] Jirachi1002         
+2022-12-22T07:12:32Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.8,   191.4,    -4.7)
+  I never got invited either.
+2022-12-22T07:12:32Z: PLAYER CHATTED [   38973091] jordonh23            (  137.7,   191.4,    -1.0)
+  good to hear 
+2022-12-22T07:12:40Z: PLAYER CHATTED [  154054216] cazgamez             (  129.5,   191.9,    51.4)
+  did we see it all?
+2022-12-22T07:12:41Z: PLAYER CHATTED [  720597463] f1zxyy               (  136.4,   191.4,    53.1)
+  onward?
+2022-12-22T07:12:43Z: PLAYER CHATTED [  720597463] f1zxyy               (  136.4,   191.4,    53.0)
+  uhh
+2022-12-22T07:12:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.8,   191.4,    -4.7)
+  Are you still making music?
+2022-12-22T07:12:45Z: PLAYER CHATTED [  720597463] f1zxyy               (  136.4,   191.4,    53.0)
+  i think
+2022-12-22T07:12:46Z: PLAYER CHATTED [  334352372] MushNowa_v2          (  136.7,   191.7,    60.2)
+  pancake also says hi
+2022-12-22T07:12:47Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  206.9,   195.4,  -241.7)
+  who got robux
+2022-12-22T07:12:47Z: PLAYER CHATTED [   38973091] jordonh23            (  137.7,   191.4,    -1.0)
+  Nope
+2022-12-22T07:12:50Z: PLAYER CHATTED [  720597463] f1zxyy               (  136.4,   191.4,    53.0)
+  theres the perimeter skate road
+2022-12-22T07:12:51Z: PLAYER CHATTED [   31822522] FileSaved            (  208.4,   195.3,  -254.9)
+  jumpscare
+2022-12-22T07:12:52Z: PLAYER CHATTED [   66607594] iluvrabbitz          (  210.7,   194.9,  -246.5)
+  Im poor
+2022-12-22T07:12:52Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  call of duty community is toxic as hell 
+2022-12-22T07:12:54Z: PLAYER ADDED   [ 2702639875] ForgetAboutNewYork  
+2022-12-22T07:12:54Z: PLAYER CHATTED [   38973091] jordonh23            (  137.7,   191.4,    -1.0)
+  quite 3 years ago
+2022-12-22T07:12:56Z: PLAYER CHATTED [  334352372] MushNowa_v2          (  136.2,   191.7,    58.6)
+  pancake needs a translator 
+2022-12-22T07:12:56Z: PLAYER CHATTED [  154054216] cazgamez             (  129.5,   191.9,    51.4)
+  where at?
+2022-12-22T07:12:58Z: PLAYER CHATTED [   38973091] jordonh23            (  137.7,   191.4,    -1.0)
+  quit
+2022-12-22T07:12:59Z: PLAYER CHATTED [  720597463] f1zxyy               (  134.1,   191.4,    51.5)
+  yeah pancake cant talk LOL
+2022-12-22T07:12:59Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  i miss black ops 1
+2022-12-22T07:13:00Z: PLAYER CHATTED [   35681709] 404N1KO              (  131.9,   193.5,   -57.9)
+  bye!
+2022-12-22T07:13:02Z: PLAYER CHATTED [   31822522] FileSaved            (  210.0,   195.4,  -253.6)
+  friend joined, gonna say hi
+2022-12-22T07:13:03Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  yeah lol
+2022-12-22T07:13:04Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  207.0,   195.4,  -241.8)
+  im afk guys i only hav 3 ;left
+2022-12-22T07:13:04Z: PLAYER CHATTED [   15872318] DanielH253           (  129.6,   193.8,   -50.7)
+  adios
+2022-12-22T07:13:05Z: PLAYER CHATTED [  720597463] f1zxyy               (  134.1,   191.4,    51.5)
+  uhh over here
+2022-12-22T07:13:13Z: PLAYER CHATTED [   38973091] jordonh23            (  137.7,   191.4,    -1.0)
+  gn dan
+2022-12-22T07:13:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.8,   191.4,    -4.7)
+  I'm not one to stop doing things.  I became xenharmonic last year.
+2022-12-22T07:13:15Z: PLAYER REMOVED [ 2702639875] ForgetAboutNewYork  
+2022-12-22T07:13:15Z: PLAYER CHATTED [  334352372] MushNowa_v2          (  136.2,   191.7,    58.6)
+  pancake also says he wants his car battery fixed
+2022-12-22T07:13:17Z: PLAYER CHATTED [   15872318] DanielH253           (  153.9,   192.0,     8.7)
+  hola
+2022-12-22T07:13:24Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  modern warfare was good but now mw2 has taken all the players
+2022-12-22T07:13:34Z: PLAYER CHATTED [   38973091] jordonh23            (  137.7,   191.4,    -1.0)
+  your still making music nowadays 
+2022-12-22T07:13:34Z: PLAYER CHATTED [   38973091] jordonh23            (  137.7,   191.4,    -1.0)
+  your still making  music nowadays 
+2022-12-22T07:13:38Z: PLAYER REMOVED [   73880389] monvallaria          a.k.a. mon                 
+2022-12-22T07:13:44Z: PLAYER CHATTED [  235226577] Xenocomm             (  202.4,   193.3,   182.9)
+  /e laugh
+2022-12-22T07:13:47Z: PLAYER CHATTED [ 1594236966] Midnightific         (  164.0,   191.7,    11.1)
+  morning
+2022-12-22T07:13:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.8,   191.4,    -4.7)
+  On and òóf.
+2022-12-22T07:13:54Z: PLAYER CHATTED [   38973091] jordonh23            (  137.7,   191.4,    -1.0)
+  that's god
+2022-12-22T07:13:58Z: PLAYER CHATTED [   38973091] jordonh23            (  137.7,   191.4,    -1.0)
+  good
+2022-12-22T07:13:58Z: PLAYER CHATTED [ 1594236966] Midnightific         (  164.0,   191.7,    11.1)
+  buenos dias is good morning
+2022-12-22T07:14:05Z: PLAYER CHATTED [ 1594236966] Midnightific         (  164.0,   191.7,    11.1)
+  buenos noches is gn
+2022-12-22T07:14:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.8,   191.4,    -4.7)
+  *Días.
+2022-12-22T07:14:08Z: PLAYER CHATTED [  154054216] cazgamez             ( -112.8,   197.4,   339.0)
+  halp
+2022-12-22T07:14:12Z: PLAYER CHATTED [  720597463] f1zxyy               ( -114.0,   197.4,   335.7)
+  halp
+2022-12-22T07:14:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.8,   191.4,    -4.7)
+  "Buenas días".
+2022-12-22T07:14:27Z: PLAYER CHATTED [  154054216] cazgamez             ( -112.1,   197.6,   336.9)
+  im missing one of the secret parts
+2022-12-22T07:14:29Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  big burger
+2022-12-22T07:14:35Z: PLAYER CHATTED [  106492189] SSSpencer413         (  125.6,   195.5,  -246.0)
+  big burger
+2022-12-22T07:14:36Z: PLAYER CHATTED [  720597463] f1zxyy               ( -129.2,   226.7,   356.4)
+  which one
+2022-12-22T07:14:37Z: PLAYER REMOVED [   32898551] seldruin             a.k.a. bear                
+2022-12-22T07:14:38Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  interesting announcement
+2022-12-22T07:14:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.8,   191.4,    -4.7)
+  What have you been up to on Roblox?
+2022-12-22T07:14:45Z: PLAYER CHATTED [  154054216] cazgamez             ( -139.8,   238.7,   333.7)
+  not sure, 5th one technically
+2022-12-22T07:14:49Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  -37.8,   197.5,  -240.3)
+  guys let see what is secret on this town
+2022-12-22T07:14:51Z: PLAYER CHATTED [   38973091] jordonh23            (  137.7,   191.4,    -1.0)
+  nothing really
+2022-12-22T07:14:51Z: PLAYER CHATTED [  235226577] Xenocomm             (  179.5,   193.3,   140.4)
+  hamburger
+2022-12-22T07:14:52Z: PLAYER CHATTED [  720597463] f1zxyy               ( -138.6,   231.3,   337.0)
+  for the raccoon or the shards
+2022-12-22T07:14:52Z: PLAYER CHATTED [  138256853] doodies13            (  419.5,   197.2,  -123.8)
+  biggest burger
+2022-12-22T07:14:54Z: PLAYER ADDED   [ 1642472738] ZedTronicc           a.k.a. Zed                 
+2022-12-22T07:14:54Z: PLAYER CHATTED [   38973091] jordonh23            (  137.7,   191.4,    -1.0)
+  just bored 
+2022-12-22T07:15:00Z: PLAYER CHATTED [  154054216] cazgamez             ( -139.0,   239.9,   333.6)
+  uhhhhh
+2022-12-22T07:15:04Z: PLAYER CHATTED [  154054216] cazgamez             ( -139.0,   239.9,   333.6)
+  those shards
+2022-12-22T07:15:05Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  ####### feels a bit laggy whenever i use it on phone and pc
+2022-12-22T07:15:08Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  -29.8,   195.1,  -151.0)
+  add me guys
+2022-12-22T07:15:09Z: PLAYER CHATTED [  720597463] f1zxyy               ( -138.6,   231.3,   337.0)
+  lets seeee
+2022-12-22T07:15:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.8,   191.4,    -4.7)
+  Care to check my showcase out sometime?
+2022-12-22T07:15:14Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  damn roblox be censoring their own company
+2022-12-22T07:15:25Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  yeah
+2022-12-22T07:15:25Z: PLAYER CHATTED [   38973091] jordonh23            (  137.7,   191.4,    -1.0)
+  just been catching up on news about Roblox
+2022-12-22T07:15:29Z: PLAYER CHATTED [   38973091] jordonh23            (  137.7,   191.4,    -1.0)
+  Sure
+2022-12-22T07:15:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.8,   191.4,    -4.7)
+  Super is also welcome to join.
+2022-12-22T07:15:39Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  majority of ####### users are most likely just on it because of roblox
+2022-12-22T07:15:50Z: PLAYER CHATTED [   38973091] jordonh23            (  137.7,   191.4,    -1.0)
+  super is afk
+2022-12-22T07:15:51Z: PLAYER CHATTED [  720597463] f1zxyy               (  400.4,   197.4,   128.6)
+  theres one heere
+2022-12-22T07:15:52Z: PLAYER CHATTED [  154054216] cazgamez             (  391.4,   197.9,   133.1)
+  i got this one
+2022-12-22T07:15:54Z: CHRCTER ADDED  [  334352372] MushNowa_v2          a.k.a. MushNowa            
+2022-12-22T07:15:54Z: PLAYER CHATTED [  106492189] SSSpencer413         (   65.5,   196.3,    85.3)
+  L
+2022-12-22T07:15:56Z: PLAYER CHATTED [  720597463] f1zxyy               (  399.4,   197.4,   128.0)
+  oke
+2022-12-22T07:15:56Z: PLAYER CHATTED [   38973091] jordonh23            (  137.7,   191.4,    -1.0)
+  I wasn't talking to him 
+2022-12-22T07:15:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.8,   191.4,    -4.7)
+  I see.
+2022-12-22T07:15:59Z: PLAYER CHATTED [   38973091] jordonh23            (  137.7,   191.4,    -1.0)
+  through vc
+2022-12-22T07:15:59Z: PLAYER ADDED   [  139029731] TNTtrina            
+2022-12-22T07:16:06Z: PLAYER CHATTED [  720597463] f1zxyy               (  262.4,   194.7,    93.0)
+  got this one
+2022-12-22T07:16:09Z: PLAYER CHATTED [  154054216] cazgamez             (  256.4,   195.8,    94.7)
+  got that 
+2022-12-22T07:16:14Z: PLAYER CHATTED [  334352372] MushNowa_v2          (  153.6,   191.7,    41.9)
+  hi spencer
+2022-12-22T07:16:18Z: PLAYER CHATTED [  720597463] f1zxyy               (  254.7,   195.4,   102.6)
+  got the developer one in the museum yeah?
+2022-12-22T07:16:18Z: PLAYER CHATTED [  334352372] MushNowa_v2          (  144.0,   191.7,    51.3)
+  hru doin
+2022-12-22T07:16:23Z: PLAYER CHATTED [  106492189] SSSpencer413         (  139.6,   192.2,    51.1)
+  what are you wearing...
+2022-12-22T07:16:24Z: PLAYER CHATTED [  154054216] cazgamez             (  254.4,   195.8,    96.0)
+  i uh think so
+2022-12-22T07:16:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.8,   191.4,    -4.7)
+  I used to have access to V.C.,
+2022-12-22T07:16:28Z: PLAYER CHATTED [  720597463] f1zxyy               (  254.9,   195.4,   102.2)
+  okays
+2022-12-22T07:16:35Z: PLAYER CHATTED [   38973091] jordonh23            (  137.7,   191.4,    -1.0)
+  what happened
+2022-12-22T07:16:38Z: PLAYER CHATTED [  334352372] MushNowa_v2          (  144.4,   191.7,    52.8)
+  holiday outfit
+2022-12-22T07:16:38Z: PLAYER CHATTED [   38973091] jordonh23            (  137.7,   191.4,    -1.0)
+  got revoked
+2022-12-22T07:16:38Z: PLAYER ADDED   [ 1395682190] WareTex              a.k.a. Tex                 
+2022-12-22T07:16:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.8,   191.4,    -4.7)
+  But I allowed my account to be cracked into.
+2022-12-22T07:16:43Z: PLAYER CHATTED [  235226577] Xenocomm             (  182.3,   193.3,   139.7)
+  thats jsut you iguy
+2022-12-22T07:16:45Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  i also feel like Disco is a bit easier to get setup and grow a community on, just because of the larger user base on it and because its more established
+2022-12-22T07:16:45Z: PLAYER REMOVED [ 1642472738] ZedTronicc           a.k.a. Zed                 
+2022-12-22T07:16:46Z: PLAYER CHATTED [  720597463] f1zxyy               (  305.5,   197.5,   -73.1)
+  this?
+2022-12-22T07:16:50Z: PLAYER CHATTED [  154054216] cazgamez             (  300.6,   197.9,   -70.0)
+  nice all 5 
+2022-12-22T07:16:50Z: PLAYER CHATTED [  106492189] SSSpencer413         (  139.6,   192.2,    51.1)
+  hmmm i suppose i should make a holiday outfit
+2022-12-22T07:16:52Z: PLAYER CHATTED [  720597463] f1zxyy               (  305.5,   197.5,   -73.1)
+  yayy
+2022-12-22T07:16:56Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.8,   191.4,    -4.7)
+  No explicit revocation though.
+2022-12-22T07:17:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.8,   191.4,    -4.7)
+  When I tried again,
+2022-12-22T07:17:07Z: PLAYER CHATTED [  334352372] MushNowa_v2          (  144.3,   191.7,    52.7)
+  it would be cool to see
+2022-12-22T07:17:11Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  whats considered a high impact creator? would that be like front page developers?
+2022-12-22T07:17:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.8,   191.4,    -4.7)
+  I was denied because I used the same I.D.
+2022-12-22T07:17:12Z: PLAYER CHATTED [   38973091] jordonh23            (  137.7,   191.4,    -1.0)
+  ahh
+2022-12-22T07:17:19Z: PLAYER CHATTED [  235226577] Xenocomm             (  198.7,   193.3,   184.2)
+  raccoon
+2022-12-22T07:17:20Z: PLAYER CHATTED [   38973091] jordonh23            (  137.7,   191.4,    -1.0)
+  on both accounts 
+2022-12-22T07:17:24Z: PLAYER CHATTED [  106492189] SSSpencer413         (  139.6,   192.2,    51.1)
+  alr i shall attempt a holiday outfit
+2022-12-22T07:17:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.8,   191.4,    -4.7)
+  'Velocity/duplicate error'.
+2022-12-22T07:17:28Z: PLAYER ADDED   [  189246891] justicefink          a.k.a. Lolo                
+2022-12-22T07:17:29Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  i see
+2022-12-22T07:17:30Z: PLAYER CHATTED [  154054216] cazgamez             (  340.2,   197.7,   -65.3)
+  tree
+2022-12-22T07:17:33Z: PLAYER CHATTED [  720597463] f1zxyy               (  338.2,   197.2,   -60.8)
+  true
+2022-12-22T07:17:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.8,   191.4,    -4.7)
+  Veriff to my knowledge don't know who's who.
+2022-12-22T07:17:42Z: PLAYER ADDED   [   56481088] Okekomi              a.k.a. melody              
+2022-12-22T07:17:43Z: PLAYER CHATTED [  154054216] cazgamez             (  342.9,   197.7,   -64.6)
+  i made some nice pillars in blender
+2022-12-22T07:17:49Z: PLAYER CHATTED [  720597463] f1zxyy               (  338.1,   197.2,   -62.5)
+  ooo
+2022-12-22T07:17:52Z: PLAYER CHATTED [  720597463] f1zxyy               (  338.1,   197.2,   -62.5)
+  show me sometime
+2022-12-22T07:17:53Z: PLAYER CHATTED [ 3947252473] antYTlikes           (   45.2,   194.2,   -34.3)
+  guys im so loggy what is happening to my computer
+2022-12-22T07:18:03Z: PLAYER CHATTED [  154054216] cazgamez             (  342.9,   197.7,   -64.6)
+  it was more of like a door frame but i rushed it a bit since it was for an obby i was creating quickly
+2022-12-22T07:18:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.8,   191.4,    -4.7)
+  They know that the same face and name were used multiple times.
+2022-12-22T07:18:10Z: PLAYER CHATTED [  720597463] f1zxyy               (  338.2,   197.2,   -61.5)
+  ahh okays
+2022-12-22T07:18:10Z: PLAYER REMOVED [  139029731] TNTtrina            
+2022-12-22T07:18:10Z: PLAYER CHATTED [  154054216] cazgamez             (  342.9,   197.7,   -64.6)
+  but they are nice
+2022-12-22T07:18:12Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  how do games typically manage to get to the front page as like there is a lot of really good games that dont reach the front page and then there is a lot of really bad games that do reach the front pa
+2022-12-22T07:18:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.8,   191.4,    -4.7)
+  I have my workarounds,
+2022-12-22T07:18:30Z: PLAYER CHATTED [   38973091] jordonh23            (  137.7,   191.4,    -1.0)
+  lol 
+2022-12-22T07:18:35Z: PLAYER CHATTED [   35681709] 404N1KO              (  129.2,   193.5,   -53.4)
+  0_)
+2022-12-22T07:18:37Z: PLAYER CHATTED [   38973091] jordonh23            (  137.7,   191.4,    -1.0)
+  d9nt go overboard 
+2022-12-22T07:18:37Z: PLAYER CHATTED [   35681709] 404N1KO              (  129.2,   193.5,   -53.4)
+  bwuh
+2022-12-22T07:18:38Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  i see
+2022-12-22T07:18:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.8,   191.4,    -4.7)
+  But I don't want to risk getting bannded.
+2022-12-22T07:18:39Z: PLAYER CHATTED [  154054216] cazgamez             (  201.3,   211.0,   -89.9)
+  sheeesh
+2022-12-22T07:18:46Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  132.6,   191.5,     6.4)
+  roblox is my the nest game to make me happy and experiese the roblox game 
+2022-12-22T07:18:50Z: PLAYER CHATTED [  154054216] cazgamez             (  201.3,   211.0,   -89.9)
+  like a cult or smth 
+2022-12-22T07:18:53Z: PLAYER CHATTED [  720597463] f1zxyy               (  202.4,   210.5,   -84.5)
+  hahaha
+2022-12-22T07:19:01Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  132.6,   191.5,     6.4)
+  best game\
+2022-12-22T07:19:03Z: PLAYER CHATTED [  154054216] cazgamez             (  201.3,   211.0,   -89.9)
+  got the spoopy masks and everything
+2022-12-22T07:19:07Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  yea
+2022-12-22T07:19:07Z: PLAYER CHATTED [  720597463] f1zxyy               (  202.4,   210.5,   -84.5)
+  trueee
+2022-12-22T07:19:07Z: PLAYER CHATTED [  235226577] Xenocomm             (  181.2,   193.3,   138.4)
+  i am incredibly hungry im going to go eat
+2022-12-22T07:19:11Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  132.6,   191.5,     6.4)
+  ijust top up for roblox
+2022-12-22T07:19:11Z: PLAYER CHATTED [  235226577] Xenocomm             (  181.2,   193.3,   138.4)
+  /e wave
+2022-12-22T07:19:17Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  132.6,   191.5,     6.4)
+  for this game
+2022-12-22T07:19:21Z: PLAYER REMOVED [  235226577] Xenocomm             a.k.a. syc                 
+2022-12-22T07:19:24Z: PLAYER CHATTED [  720597463] f1zxyy               (  222.6,   197.5,   -65.4)
+  oh yeah theres one more badge
+2022-12-22T07:19:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.8,   191.4,    -4.7)
+  I don't trust Veriff to keep my personal info.
+2022-12-22T07:19:26Z: PLAYER CHATTED [  154054216] cazgamez             (  222.0,   197.9,   -75.3)
+  im not a fan of like wearing wings and stuff
+2022-12-22T07:19:32Z: PLAYER CHATTED [  154054216] cazgamez             (  226.7,   197.9,   -68.3)
+  which ones that?
+2022-12-22T07:19:32Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  does advertising make a large impact on the popularity of a game or are other factors more important
+2022-12-22T07:19:33Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  132.6,   191.5,     6.4)
+  what
+2022-12-22T07:19:35Z: PLAYER ADDED   [ 3638649244] ExpiredBreaad        a.k.a. Toast               
+2022-12-22T07:19:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.8,   191.4,    -4.7)
+  They don't need to know who I am.
+2022-12-22T07:19:36Z: PLAYER CHATTED [  720597463] f1zxyy               (  222.6,   197.5,   -65.4)
+  folloooow
+2022-12-22T07:19:45Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  132.6,   191.5,     6.4)
+  trust me beacuse before im sfk
+2022-12-22T07:19:49Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  132.6,   191.5,     6.4)
+  im so noob
+2022-12-22T07:19:51Z: PLAYER CHATTED [   38973091] jordonh23            (  137.7,   191.4,    -1.0)
+  Yea
+2022-12-22T07:19:51Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  132.6,   191.5,     6.4)
+  player
+2022-12-22T07:19:53Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.8,   191.4,    -4.7)
+  Well,
+2022-12-22T07:20:03Z: PLAYER CHATTED [   35681709] 404N1KO              (  130.1,   193.5,   -53.3)
+  😭
+2022-12-22T07:20:04Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  132.6,   191.5,     6.4)
+  i hav 2 account this is my new account
+2022-12-22T07:20:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.8,   191.4,    -4.7)
+  I mean it differently.
+2022-12-22T07:20:11Z: PLAYER CHATTED [  154054216] cazgamez             (   24.3,   196.2,   198.6)
+  what in the gods green earth
+2022-12-22T07:20:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.8,   191.4,    -4.7)
+  They should know what I do in my life,
+2022-12-22T07:20:16Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        (  164.1,   191.7,     4.4)
+  i am back star
+2022-12-22T07:20:16Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  132.6,   191.5,     6.4)
+  beacuse my preston ####### ## ####
+2022-12-22T07:20:18Z: PLAYER CHATTED [  154054216] cazgamez             (   24.3,   196.2,   198.6)
+  dog
+2022-12-22T07:20:21Z: PLAYER CHATTED [  720597463] f1zxyy               (   14.3,   197.6,   200.1)
+  dog
+2022-12-22T07:20:23Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  143.9,   191.9,     6.8)
+  is gone
+2022-12-22T07:20:24Z: PLAYER CHATTED [ 1594236966] Midnightific         (  164.0,   191.7,    11.1)
+  the return of toas
+2022-12-22T07:20:25Z: PLAYER CHATTED [ 1594236966] Midnightific         (  164.0,   191.7,    11.1)
+  t
+2022-12-22T07:20:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.8,   191.4,    -4.7)
+  But not be able to trace me to my driving licence.
+2022-12-22T07:20:27Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        (  164.2,   191.7,     4.9)
+  wait brb
+2022-12-22T07:20:27Z: PLAYER CHATTED [  154054216] cazgamez             (   24.3,   196.2,   198.6)
+  mans like on fire 
+2022-12-22T07:20:31Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  143.9,   191.9,     6.8)
+  beacuse i need code
+2022-12-22T07:20:35Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  time to make free private servers in my game
+2022-12-22T07:20:36Z: PLAYER CHATTED [  720597463] f1zxyy               (   15.2,   197.5,   200.1)
+  true
+2022-12-22T07:20:38Z: PLAYER CHATTED [  154054216] cazgamez             (   24.3,   196.2,   198.6)
+  he smokin
+2022-12-22T07:20:39Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  143.5,   194.6,     0.7)
+  how
+2022-12-22T07:20:40Z: PLAYER CHATTED [  720597463] f1zxyy               (   15.2,   197.5,   200.1)
+  hes pretty lit i think
+2022-12-22T07:20:42Z: PLAYER CHATTED [  117026661] tetrispiece          (   54.8,   216.3,  -151.2)
+  young money clan
+2022-12-22T07:20:46Z: PLAYER CHATTED [   38973091] jordonh23            (  137.7,   191.4,    -1.0)
+  I'm sure they don't even care
+2022-12-22T07:20:48Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  bribe the people that review it 
+2022-12-22T07:20:51Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  ez
+2022-12-22T07:20:52Z: PLAYER REMOVED [  189246891] justicefink          a.k.a. Lolo                
+2022-12-22T07:20:53Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  143.5,   194.6,     0.7)
+  i trace your driving license
+2022-12-22T07:20:54Z: PLAYER CHATTED [  154054216] cazgamez             (   24.3,   196.2,   198.6)
+  got burgers on his feet?
+2022-12-22T07:20:58Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  143.5,   194.6,     0.7)
+  where you live in
+2022-12-22T07:21:00Z: PLAYER CHATTED [  210519936] SakGFX               (  126.9,   194.0,   -51.1)
+  wh-
+2022-12-22T07:21:00Z: PLAYER CHATTED [  720597463] f1zxyy               (   17.7,   197.2,   199.6)
+  i think
+2022-12-22T07:21:01Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  i see
+2022-12-22T07:21:05Z: PLAYER CHATTED [  154054216] cazgamez             (   24.3,   196.2,   198.6)
+  borgor
+2022-12-22T07:21:06Z: PLAYER ADDED   [   18659509] hlelo_wolrd         
+2022-12-22T07:21:09Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  143.5,   194.6,     0.7)
+  can i add you
+2022-12-22T07:21:10Z: PLAYER REMOVED [    7559912] cy1ia                a.k.a. cylia               
+2022-12-22T07:21:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.8,   191.4,    -4.7)
+  Sure.
+2022-12-22T07:21:16Z: PLAYER CHATTED [  720597463] f1zxyy               (   17.7,   197.2,   199.6)
+  dude prob has the burger king foot lettuce
+2022-12-22T07:21:18Z: PLAYER REMOVED [  117026661] tetrispiece         
+2022-12-22T07:21:20Z: PLAYER REMOVED [   18659509] hlelo_wolrd         
+2022-12-22T07:21:20Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  143.5,   194.6,     0.7)
+  jordon and visual
+2022-12-22T07:21:23Z: PLAYER REMOVED [   47432825] Iguy_I               a.k.a. Iguy                
+2022-12-22T07:21:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (  139.8,   192.8,    -0.3)
+  My name is Sir Priffel Iqporf.
+2022-12-22T07:21:25Z: PLAYER CHATTED [  154054216] cazgamez             (   24.3,   196.2,   198.6)
+  legit
+2022-12-22T07:21:31Z: PLAYER CHATTED [    1630228] VisualPlugin         (  139.8,   192.8,    -0.3)
+  Sir Iqporf.
+2022-12-22T07:21:33Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  143.5,   194.6,     0.7)
+  accept me
+2022-12-22T07:21:33Z: PLAYER CHATTED [  720597463] f1zxyy               (   17.7,   197.2,   199.6)
+  welp thats it in this map
+2022-12-22T07:21:34Z: PLAYER CHATTED [  154054216] cazgamez             (   24.3,   196.2,   198.6)
+  just realised hes not all there
+2022-12-22T07:21:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (  139.8,   192.8,    -0.3)
+  That's my name.
+2022-12-22T07:21:42Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  143.5,   194.6,     0.7)
+  oh ok
+2022-12-22T07:21:43Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  i forgot what i was gonna ask
+2022-12-22T07:21:46Z: PLAYER CHATTED [  720597463] f1zxyy               (   17.7,   197.2,   199.6)
+  yeah he has a really weird mesh 
+2022-12-22T07:21:46Z: PLAYER REMOVED [   23647958] GE5AFF               a.k.a. gesaff              
+2022-12-22T07:21:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (  139.8,   192.8,    -0.3)
+  Add me:
+2022-12-22T07:21:48Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  143.5,   194.6,     0.7)
+  #################
+2022-12-22T07:21:50Z: PLAYER CHATTED [  334352372] MushNowa_v2          (  311.4,   195.3,   123.8)
+  THE PENGUINS
+2022-12-22T07:21:51Z: PLAYER CHATTED [    1630228] VisualPlugin         (  139.8,   192.8,    -0.3)
+  ! (30 spaces) !
+2022-12-22T07:21:52Z: PLAYER CHATTED [  334352372] MushNowa_v2          (  311.4,   195.3,   123.8)
+  YES
+2022-12-22T07:21:53Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  143.5,   194.6,     0.7)
+  my name is
+2022-12-22T07:21:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (  139.8,   192.8,    -0.3)
+  #0483
+2022-12-22T07:21:55Z: PLAYER ADDED   [   18659509] hlelo_wolrd         
+2022-12-22T07:21:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (  139.8,   192.8,    -0.3)
+  0483
+2022-12-22T07:21:58Z: PLAYER CHATTED [  154054216] cazgamez             (   24.3,   196.2,   198.6)
+  he does yea, well its a very nice map
+2022-12-22T07:21:58Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  143.5,   194.6,     0.7)
+  jianrey
+2022-12-22T07:22:03Z: PLAYER CHATTED [  720597463] f1zxyy               (   17.7,   197.2,   199.6)
+  thank u 
+2022-12-22T07:22:04Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  is dan using vc
+2022-12-22T07:22:04Z: PLAYER CHATTED [  154054216] cazgamez             (   24.3,   196.2,   198.6)
+  the ice skating is really cool
+2022-12-22T07:22:08Z: PLAYER CHATTED [  720597463] f1zxyy               (   17.7,   197.2,   199.6)
+  yeeee
+2022-12-22T07:22:10Z: PLAYER CHATTED [   15872318] DanielH253           (  153.9,   192.0,     8.7)
+  yea
+2022-12-22T07:22:16Z: PLAYER REMOVED [   66607594] iluvrabbitz          a.k.a. grace               
+2022-12-22T07:22:18Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  o i cant even hear you
+2022-12-22T07:22:25Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  143.5,   194.6,     0.7)
+  thats my name im 12 years old never gonna listen to my arent
+2022-12-22T07:22:29Z: PLAYER ADDED   [  595041107] cardmman             a.k.a. Itismewilly         
+2022-12-22T07:22:30Z: PLAYER CHATTED [  720597463] f1zxyy               (   11.1,   208.2,   167.2)
+  rip
+2022-12-22T07:22:38Z: PLAYER CHATTED [  154054216] cazgamez             (    9.8,   228.1,   165.5)
+  haha its okay you've got this
+2022-12-22T07:22:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.8,   191.4,    -4.7)
+  What's an arent?
+2022-12-22T07:22:47Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  144.4,   194.6,     2.7)
+  accept me visula
+2022-12-22T07:22:48Z: PLAYER REMOVED [ 1337500016] weindeer            
+2022-12-22T07:22:50Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  whos the most popular developer youve talked to roach
+2022-12-22T07:22:50Z: PLAYER ADDED   [ 4146431623] hejkhfkj             a.k.a. jordanplayzz        
+2022-12-22T07:23:01Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  195.6,   193.1,   195.4)
+  where lemon
+2022-12-22T07:23:04Z: PLAYER CHATTED [  595041107] cardmman             (  227.2,   195.0,   324.9)
+  /w f1zxyy  Hola 
+2022-12-22T07:23:04Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.0,   192.7,    -3.0)
+  I'll have to reject for now.
+2022-12-22T07:23:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.0,   192.7,    -3.0)
+  Disco is recommended.
+2022-12-22T07:23:15Z: PLAYER ADDED   [  125066229] Eerous               a.k.a. KingResides         
+2022-12-22T07:23:19Z: PLAYER CHATTED [ 4146431623] hejkhfkj             (  222.8,   195.7,   322.5)
+  enz were y at brp
+2022-12-22T07:23:22Z: PLAYER CHATTED [   38973091] jordonh23            (  137.7,   191.4,    -1.0)
+  your underage at the time
+2022-12-22T07:23:25Z: PLAYER CHATTED [  154054216] cazgamez             (    9.7,   228.1,   165.1)
+  o
+2022-12-22T07:23:25Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        (  164.2,   191.7,     4.9)
+  back once again
+2022-12-22T07:23:27Z: CHRCTER ADDED  [  106492189] SSSpencer413         a.k.a. SSS                 
+2022-12-22T07:23:28Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  143.5,   195.0,     0.1)
+  my parents name is stephany and rean
+2022-12-22T07:23:28Z: PLAYER CHATTED [  720597463] f1zxyy               (    8.0,   227.7,   164.9)
+  /w cardmman  hello
+2022-12-22T07:23:29Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  hi toast
+2022-12-22T07:23:29Z: PLAYER CHATTED [  154054216] cazgamez             (    9.7,   228.1,   165.1)
+  or that can happen
+2022-12-22T07:23:32Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        (  163.8,   191.7,     5.8)
+  hi star
+2022-12-22T07:23:33Z: PLAYER CHATTED [  720597463] f1zxyy               (    8.0,   227.7,   164.9)
+  haha
+2022-12-22T07:23:37Z: PLAYER CHATTED [  106492189] SSSpencer413         (  224.1,   194.8,   298.0)
+  boom
+2022-12-22T07:23:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.8,   193.7,    -4.7)
+  Mine are Riffel Spinchfork.
+2022-12-22T07:23:42Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  143.5,   195.0,     0.1)
+  i live in california
+2022-12-22T07:23:46Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        (  166.0,   191.7,     5.3)
+  we should join a vc
+2022-12-22T07:23:46Z: PLAYER CHATTED [  334352372] MushNowa_v2          (  227.6,   194.8,   292.9)
+  sssnowman
+2022-12-22T07:23:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.8,   193.7,    -4.7)
+  And the other is Iqqël.
+2022-12-22T07:23:49Z: PLAYER CHATTED [  154054216] cazgamez             (    9.7,   228.1,   165.1)
+  is this smth that stays on all the time game wise?
+2022-12-22T07:23:52Z: PLAYER CHATTED [  106492189] SSSpencer413         (  225.1,   194.8,   296.1)
+  trueeee
+2022-12-22T07:23:52Z: PLAYER CHATTED [  334352372] MushNowa_v2          (  227.6,   194.8,   292.9)
+  ############
+2022-12-22T07:23:52Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.9,   193.7,    -4.4)
+  As do I.
+2022-12-22T07:23:53Z: PLAYER CHATTED [ 4146431623] hejkhfkj             (  163.5,   192.5,    20.1)
+  bro i need to talk to y
+2022-12-22T07:23:54Z: PLAYER CHATTED [ 4112164679] icydrizzles          (  165.5,   192.9,    21.7)
+  yo
+2022-12-22T07:23:56Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  143.5,   195.0,     0.1)
+  im grade 7 never girl freind
+2022-12-22T07:23:58Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  i see
+2022-12-22T07:24:00Z: PLAYER CHATTED [  334352372] MushNowa_v2          (  228.1,   194.8,   293.6)
+  you know what I mean
+2022-12-22T07:24:00Z: PLAYER CHATTED [  720597463] f1zxyy               (    5.5,   227.7,   166.4)
+  this game?
+2022-12-22T07:24:04Z: PLAYER CHATTED [  154054216] cazgamez             (    9.7,   228.1,   165.1)
+  mhm
+2022-12-22T07:24:04Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  142.2,   194.6,    -0.1)
+  im boy
+2022-12-22T07:24:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.9,   193.7,    -4.2)
+  I'm 5438798.
+2022-12-22T07:24:06Z: PLAYER CHATTED [  720597463] f1zxyy               (    5.5,   227.7,   166.4)
+  ye
+2022-12-22T07:24:10Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  128.8,   193.7,   -54.4)
+  wake up wake up wake up
+2022-12-22T07:24:10Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  i gotta invest in a proper social media team for my studio then
+2022-12-22T07:24:10Z: PLAYER CHATTED [ 4146431623] hejkhfkj             (  171.1,   192.5,    17.2)
+  y know nessa
+2022-12-22T07:24:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.9,   193.7,    -4.2)
+  I'm a man.
+2022-12-22T07:24:11Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  142.2,   194.6,    -0.1)
+  im not girl
+2022-12-22T07:24:14Z: PLAYER CHATTED [ 4112164679] icydrizzles          (  174.8,   192.9,    16.5)
+  no
+2022-12-22T07:24:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.9,   193.7,    -4.2)
+  I have a big beard.
+2022-12-22T07:24:16Z: PLAYER CHATTED [  720597463] f1zxyy               (    5.5,   227.7,   166.4)
+  it "ends" january somethingth
+2022-12-22T07:24:18Z: PLAYER REMOVED [  147608312] k4fra                a.k.a. kafra               
+2022-12-22T07:24:18Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  yea
+2022-12-22T07:24:21Z: PLAYER CHATTED [ 4112164679] icydrizzles          (  174.8,   192.9,    16.6)
+  who's that
+2022-12-22T07:24:22Z: PLAYER CHATTED [  154054216] cazgamez             (    9.7,   228.1,   165.1)
+  ah makes sense
+2022-12-22T07:24:22Z: PLAYER CHATTED [  720597463] f1zxyy               (    5.5,   227.7,   166.4)
+  but the game stays up for good
+2022-12-22T07:24:23Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  142.2,   194.6,    -0.1)
+  i am man too
+2022-12-22T07:24:23Z: PLAYER CHATTED [ 4146431623] hejkhfkj             (  171.1,   192.5,    17.2)
+  ##################
+2022-12-22T07:24:23Z: CHRCTER ADDED  [  127492959] pancakuuu            a.k.a. pancake             
+2022-12-22T07:24:27Z: PLAYER CHATTED [  106492189] SSSpencer413         (  226.3,   194.8,   296.7)
+  now that im not a qa tester anymore i can go visit that random statue
+2022-12-22T07:24:32Z: CHRCTER ADDED  [ 3947252473] antYTlikes           a.k.a. unicorn             
+2022-12-22T07:24:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.9,   193.7,    -4.2)
+  I am not ageist.
+2022-12-22T07:24:34Z: PLAYER CHATTED [  334352372] MushNowa_v2          (  200.5,   193.3,   205.1)
+  so true
+2022-12-22T07:24:35Z: PLAYER CHATTED [ 4146431623] hejkhfkj             (  171.0,   192.5,    16.9)
+  drizzy no time for jokes
+2022-12-22T07:24:38Z: PLAYER CHATTED [  720597463] f1zxyy               (    5.5,   227.7,   166.4)
+  /w SSSpencer413  pray to yourself
+2022-12-22T07:24:41Z: PLAYER CHATTED [  334352372] MushNowa_v2          (  191.2,   193.3,   173.3)
+  pancake follow me
+2022-12-22T07:24:42Z: PLAYER CHATTED [ 4146431623] hejkhfkj             (  171.0,   192.5,    16.8)
+  yr enzo
+2022-12-22T07:24:44Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        (  165.7,   191.7,    14.5)
+  star
+2022-12-22T07:24:46Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        (  165.7,   191.7,    14.5)
+  you got vc?
+2022-12-22T07:24:46Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  only issue with ###### is sometimes its not gonna get recommended to anyone
+2022-12-22T07:24:48Z: PLAYER CHATTED [ 4112164679] icydrizzles          (  173.8,   192.9,    18.4)
+  wait
+2022-12-22T07:24:53Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  nope
+2022-12-22T07:24:54Z: PLAYER CHATTED [ 4112164679] icydrizzles          (  173.8,   192.9,    18.4)
+  join me
+2022-12-22T07:24:55Z: PLAYER CHATTED [ 4146431623] hejkhfkj             (  171.0,   192.5,    16.8)
+  its serious
+2022-12-22T07:24:58Z: PLAYER CHATTED [  720597463] f1zxyy               (    5.5,   227.7,   166.4)
+  imma go chill near the skate rink
+2022-12-22T07:24:58Z: PLAYER REMOVED [ 4112164679] icydrizzles          a.k.a. drizzy              
+2022-12-22T07:25:01Z: PLAYER REMOVED [ 4146431623] hejkhfkj             a.k.a. jordanplayzz        
+2022-12-22T07:25:03Z: PLAYER CHATTED [   15872318] DanielH253           (  153.9,   192.0,     8.7)
+  check if u muted me??
+2022-12-22T07:25:05Z: PLAYER CHATTED [  720597463] f1zxyy               (    5.5,   227.7,   166.4)
+  that area is nice
+2022-12-22T07:25:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (  141.4,   192.4,     6.6)
+  Welcome back.
+2022-12-22T07:25:10Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  146.5,   191.4,     5.0)
+  hey im back 
+2022-12-22T07:25:10Z: PLAYER CHATTED [  154054216] cazgamez             (    9.7,   228.1,   165.1)
+  /w f1zxyy  btw that guy who stalks you, was he with you a lot at one point bec i remember seeing you with a guy once in uh club iris
+2022-12-22T07:25:11Z: PLAYER REMOVED [  138256853] doodies13            a.k.a. kingofbacon         
+2022-12-22T07:25:13Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  when i look in the menu the vc toggle button for him is there but the icon isnt showing
+2022-12-22T07:25:13Z: PLAYER CHATTED [  154054216] cazgamez             (    9.7,   228.1,   165.1)
+  also sure
+2022-12-22T07:25:16Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  roblox bug im assuming
+2022-12-22T07:25:17Z: PLAYER REMOVED [  595041107] cardmman             a.k.a. Itismewilly         
+2022-12-22T07:25:21Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  146.5,   191.4,     5.0)
+  i see other people so crazy
+2022-12-22T07:25:22Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        (  165.7,   191.7,    14.5)
+  roblox does that
+2022-12-22T07:25:27Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  146.9,   191.3,    -1.7)
+  take a sit
+2022-12-22T07:25:30Z: PLAYER CHATTED [  720597463] f1zxyy               (    5.5,   227.7,   166.4)
+  /w cazgamez  yeah thats prob who you saw
+2022-12-22T07:25:39Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  i might rejoin but my pc is probably gonna die
+2022-12-22T07:25:41Z: PLAYER CHATTED [  154054216] cazgamez             (    9.7,   228.1,   165.1)
+  bec the blue top hat is what i recall
+2022-12-22T07:25:46Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.8,   191.4,    -4.7)
+  Do you live in SoCal?
+2022-12-22T07:25:46Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  146.9,   191.3,    -1.7)
+  other people look crazy beacuse dancig like this
+2022-12-22T07:25:47Z: PLAYER CHATTED [  720597463] f1zxyy               (   -8.8,   193.5,    86.6)
+  yea
+2022-12-22T07:25:53Z: PLAYER CHATTED [  334352372] MushNowa_v2          (   -8.8,   194.9,   -43.8)
+  fizzy
+2022-12-22T07:25:56Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  146.7,   191.4,    -5.7)
+  /e dance3
+2022-12-22T07:25:57Z: PLAYER CHATTED [  720597463] f1zxyy               (  -86.0,   194.6,   -63.3)
+  yes mush
+2022-12-22T07:26:07Z: PLAYER CHATTED [  334352372] MushNowa_v2          (   88.4,   193.3,    -0.6)
+  wanna play connect 4
+2022-12-22T07:26:08Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  146.7,   191.4,    -5.7)
+  im live in california
+2022-12-22T07:26:11Z: PLAYER CHATTED [  720597463] f1zxyy               ( -164.7,   193.6,   -79.9)
+  oml
+2022-12-22T07:26:13Z: PLAYER CHATTED [  720597463] f1zxyy               ( -164.7,   193.6,   -79.9)
+  sure
+2022-12-22T07:26:13Z: PLAYER ADDED   [  648173891] 0Kamikazi            a.k.a. morgue              
+2022-12-22T07:26:14Z: PLAYER CHATTED [  106492189] SSSpencer413         ( -114.9,   196.8,   326.0)
+  L bozo
+2022-12-22T07:26:15Z: PLAYER ADDED   [  595041107] cardmman             a.k.a. Itismewilly         
+2022-12-22T07:26:16Z: PLAYER CHATTED [  720597463] f1zxyy               ( -164.7,   193.6,   -79.9)
+  lets go find him
+2022-12-22T07:26:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (  143.6,   192.4,    -7.6)
+  I'm not live at the moment.
+2022-12-22T07:26:21Z: PLAYER CHATTED [  720597463] f1zxyy               ( -101.5,   194.6,   -64.0)
+  hai
+2022-12-22T07:26:24Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  whats the ratio of adults to teens to kids that play roblox?
+2022-12-22T07:26:25Z: PLAYER CHATTED [  334352372] MushNowa_v2          ( -171.9,   194.0,   -76.5)
+  howdy
+2022-12-22T07:26:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (  143.6,   192.4,    -7.6)
+  Ò@Ó
+2022-12-22T07:26:27Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  146.7,   191.4,    -5.7)
+  our place is
+2022-12-22T07:26:33Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  146.7,   191.4,    -5.7)
+  snowing
+2022-12-22T07:26:35Z: PLAYER CHATTED [  154054216] cazgamez             ( -209.1,   194.3,  -103.1)
+  /e dance
+2022-12-22T07:26:36Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  146.7,   191.4,    -5.7)
+  s cold
+2022-12-22T07:26:39Z: PLAYER CHATTED [   37739692] TechnicallyRora      (   -5.4,   197.3,  -229.1)
+  maps kinda mid compared to last year
+2022-12-22T07:26:44Z: PLAYER CHATTED [   37739692] TechnicallyRora      (    0.1,   195.3,  -211.2)
+  hot take!!
+2022-12-22T07:26:52Z: PLAYER CHATTED [    1630228] VisualPlugin         (  143.6,   192.4,    -7.6)
+  It's 11° for me.
+2022-12-22T07:27:02Z: PLAYER CHATTED [  720597463] f1zxyy               ( -220.8,   193.5,  -108.4)
+  please dont
+2022-12-22T07:27:03Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        (  165.7,   191.7,    14.5)
+  mid
+2022-12-22T07:27:07Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  how many open source modules do i need to make to get an invite to rdc
+2022-12-22T07:27:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.8,   191.4,    -4.7)
+  Not bad.
+2022-12-22T07:27:11Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        (  165.7,   191.7,    14.5)
+  you wana join voice chat in meteor
+2022-12-22T07:27:12Z: PLAYER CHATTED [  720597463] f1zxyy               ( -220.8,   193.5,  -108.4)
+  oh my gods
+2022-12-22T07:27:13Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  146.9,   191.3,    -1.7)
+  its 100 percent to me
+2022-12-22T07:27:19Z: PLAYER CHATTED [    1630228] VisualPlugin         (  157.8,   193.3,     4.0)
+  Hundreds?
+2022-12-22T07:27:26Z: PLAYER CHATTED [ 1594236966] Midnightific         (  164.0,   191.7,    11.1)
+  you need something?
+2022-12-22T07:27:30Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        (  165.7,   191.7,    14.5)
+  what?
+2022-12-22T07:27:31Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  154.4,   191.4,     7.0)
+  im taking my module tooo
+2022-12-22T07:27:31Z: PLAYER CHATTED [  720597463] f1zxyy               ( -220.8,   193.5,  -108.4)
+  spencer no please dont
+2022-12-22T07:27:31Z: PLAYER CHATTED [   56481088] Okekomi              ( -229.3,   194.6,  -113.4)
+  GG
+2022-12-22T07:27:34Z: PLAYER CHATTED [  720597463] f1zxyy               ( -220.8,   193.5,  -108.4)
+  u have so much to live for
+2022-12-22T07:27:35Z: PLAYER CHATTED [  334352372] MushNowa_v2          ( -217.0,   193.7,   -98.1)
+  GG
+2022-12-22T07:27:36Z: PLAYER CHATTED [   56481088] Okekomi              ( -229.3,   194.6,  -113.4)
+  good game spencer
+2022-12-22T07:27:37Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  ill release 101 and except an invite in my email
+2022-12-22T07:27:40Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  156.2,   191.4,     7.6)
+  i just gonna answer
+2022-12-22T07:27:41Z: PLAYER CHATTED [  334352372] MushNowa_v2          ( -217.0,   193.7,   -98.1)
+  we gaming
+2022-12-22T07:27:41Z: PLAYER CHATTED [    1630228] VisualPlugin         (  156.0,   192.4,    10.1)
+  I had about 47 repos on GitHub when I went to R.D.C.
+2022-12-22T07:27:46Z: PLAYER CHATTED [  720597463] f1zxyy               ( -220.8,   193.5,  -108.4)
+  goddamn
+2022-12-22T07:27:48Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  156.2,   191.4,     7.6)
+  im 12 years old guys
+2022-12-22T07:27:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (  156.0,   192.4,    10.1)
+  And I never got invited.
+2022-12-22T07:27:48Z: PLAYER CHATTED [  125066229] Eerous               (  160.5,   191.7,    12.7)
+  uh
+2022-12-22T07:27:49Z: PLAYER CHATTED [  154054216] cazgamez             ( -209.1,   194.3,  -103.1)
+  sheesh
+2022-12-22T07:27:55Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  did you just show up to rdc
+2022-12-22T07:27:57Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  without an invite
+2022-12-22T07:27:58Z: PLAYER CHATTED [  720597463] f1zxyy               ( -220.8,   193.5,  -108.4)
+  u have to live on spencer 
+2022-12-22T07:28:05Z: PLAYER CHATTED [   42622411] rankydoodle          ( -229.3,   199.1,  -108.4)
+  /e dance
+2022-12-22T07:28:10Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        (  165.7,   191.7,    14.5)
+  brb
+2022-12-22T07:28:13Z: PLAYER CHATTED [  720597463] f1zxyy               ( -220.8,   193.5,  -108.4)
+  i need u to get through roliday development 
+2022-12-22T07:28:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (  156.1,   192.4,    10.2)
+  I take it as a networking event.
+2022-12-22T07:28:14Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  steal someones rdc invite
+2022-12-22T07:28:17Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  156.2,   191.4,     7.6)
+  im just kid
+2022-12-22T07:28:17Z: PLAYER CHATTED [  334352372] MushNowa_v2          ( -217.0,   193.7,   -98.1)
+  also fizzer this is the best roliday in a long time
+2022-12-22T07:28:21Z: PLAYER CHATTED [  720597463] f1zxyy               ( -220.8,   193.5,  -108.4)
+  true
+2022-12-22T07:28:24Z: PLAYER CHATTED [   26274159] Jirachi1002          (  177.6,   193.0,    91.2)
+  where do i go
+2022-12-22T07:28:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (  156.1,   192.4,    10.1)
+  I didn't need one to network outside Fort Mason.
+2022-12-22T07:28:26Z: PLAYER CHATTED [  720597463] f1zxyy               ( -220.8,   193.5,  -108.4)
+  aw thank
+2022-12-22T07:28:26Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  roach im stealing your invite
+2022-12-22T07:28:28Z: PLAYER CHATTED [   31822522] FileSaved            (  210.6,   194.4,    97.0)
+  anywhere
+2022-12-22T07:28:30Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  158.7,   191.4,     8.9)
+  can i ha a sit guys
+2022-12-22T07:28:35Z: PLAYER CHATTED [  720597463] f1zxyy               ( -220.8,   193.5,  -108.4)
+  im glad u like 
+2022-12-22T07:28:37Z: PLAYER CHATTED [   31822522] FileSaved            (  311.8,   195.2,   120.8)
+  penguins
+2022-12-22T07:28:38Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  158.7,   191.4,     8.9)
+  can i hav a sit guys
+2022-12-22T07:28:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (  156.0,   192.4,    10.1)
+  A lot happened at Caza Hotel.
+2022-12-22T07:28:41Z: PLAYER ADDED   [ 4112164679] icydrizzles          a.k.a. drizzy              
+2022-12-22T07:28:41Z: PLAYER CHATTED [  334352372] MushNowa_v2          ( -217.0,   193.7,   -98.1)
+  you and all the dev team have made me very happy lol
+2022-12-22T07:28:42Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  minitoon is cool
+2022-12-22T07:28:46Z: PLAYER CHATTED [  720597463] f1zxyy               ( -220.8,   193.5,  -108.4)
+  awww
+2022-12-22T07:28:46Z: PLAYER CHATTED [   56481088] Okekomi              ( -228.0,   200.2,  -100.7)
+  wait spence are u still in bloopy/floofness's server
+2022-12-22T07:28:46Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  pink 
+2022-12-22T07:28:48Z: PLAYER CHATTED [  720597463] f1zxyy               ( -220.8,   193.5,  -108.4)
+  ill pass it on
+2022-12-22T07:28:48Z: PLAYER CHATTED [   26274159] Jirachi1002          (  315.7,   194.8,   124.6)
+  squish
+2022-12-22T07:28:51Z: PLAYER CHATTED [   31822522] FileSaved            (  314.1,   195.2,   122.9)
+  i made an emperor penguin chick just for this
+2022-12-22T07:28:53Z: PLAYER CHATTED [   31822522] FileSaved            (  314.1,   195.2,   122.9)
+  yes
+2022-12-22T07:28:53Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  158.7,   191.4,     8.9)
+  im gnna introduce my self who i am
+2022-12-22T07:28:54Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  his rdc speech was 10/10
+2022-12-22T07:28:55Z: PLAYER CHATTED [  720597463] f1zxyy               ( -220.8,   193.5,  -108.4)
+  yayy
+2022-12-22T07:28:57Z: PLAYER CHATTED [   26274159] Jirachi1002          (  313.5,   194.9,   127.3)
+  amazing
+2022-12-22T07:29:02Z: PLAYER CHATTED [   31822522] FileSaved            (  314.1,   195.2,   122.9)
+  fizzy added the fully grown penguins
+2022-12-22T07:29:02Z: PLAYER ADDED   [  338717138] Cinderelol           a.k.a. astronxmial         
+2022-12-22T07:29:02Z: PLAYER CHATTED [  720597463] f1zxyy               ( -220.8,   193.5,  -108.4)
+  happy to hear :)
+2022-12-22T07:29:05Z: PLAYER CHATTED [   31822522] FileSaved            (  315.0,   195.2,   124.8)
+  and squished one of them
+2022-12-22T07:29:07Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  159.8,   191.8,     7.8)
+  ###################
+2022-12-22T07:29:11Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  159.8,   191.8,     7.8)
+  im
+2022-12-22T07:29:12Z: PLAYER CHATTED [   31822522] FileSaved            (  315.0,   195.2,   124.8)
+  i was specifically instructed to keep the squished one
+2022-12-22T07:29:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (  156.0,   192.4,    10.1)
+  I approached the venue on Wednesday and got in touch with the event organiser.
+2022-12-22T07:29:12Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  ###############################
+2022-12-22T07:29:16Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  160.0,   192.2,     7.5)
+  ########
+2022-12-22T07:29:17Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  157.6,   192.1,     3.5)
+  u should hear my rdc speech
+2022-12-22T07:29:18Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  rdc = roblox d8ing convention?
+2022-12-22T07:29:19Z: PLAYER CHATTED [  334352372] MushNowa_v2          ( -217.0,   193.7,   -98.1)
+  file thank you for making one of the best penguins
+2022-12-22T07:29:20Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  160.0,   192.2,     7.5)
+  #######
+2022-12-22T07:29:21Z: PLAYER CHATTED [  720597463] f1zxyy               ( -218.6,   202.0,  -103.4)
+  /e dance
+2022-12-22T07:29:21Z: PLAYER CHATTED [    1630228] VisualPlugin         (  156.0,   192.4,    10.1)
+  I didn't get to go in, but I got a shirt.
+2022-12-22T07:29:25Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  160.0,   192.2,     7.5)
+  ##########
+2022-12-22T07:29:28Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  bypassing filtering right next to a roblox staff member
+2022-12-22T07:29:30Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  160.0,   192.2,     7.5)
+  i am
+2022-12-22T07:29:32Z: PLAYER CHATTED [   31822522] FileSaved            (  312.6,   195.8,   105.6)
+  :D
+2022-12-22T07:29:34Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  160.0,   192.2,     7.5)
+  #######
+2022-12-22T07:29:38Z: PLAYER CHATTED [   31822522] FileSaved            (  339.3,   195.5,    96.0)
+  best shop
+2022-12-22T07:29:40Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  160.0,   192.2,     7.5)
+  #######
+2022-12-22T07:29:40Z: PLAYER CHATTED [   26274159] Jirachi1002          (  335.5,   195.1,    95.9)
+  swag
+2022-12-22T07:29:41Z: PLAYER CHATTED [  154054216] cazgamez             ( -222.3,   207.3,   -95.5)
+  /e dance
+2022-12-22T07:29:43Z: PLAYER CHATTED [   31822522] FileSaved            (  341.0,   195.5,    97.3)
+  swag
+2022-12-22T07:29:44Z: PLAYER CHATTED [  720597463] f1zxyy               ( -217.8,   206.7,  -102.4)
+  omg yall we need a selfie
+2022-12-22T07:29:44Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  160.0,   192.2,     7.5)
+  jian rey
+2022-12-22T07:29:48Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  160.0,   192.2,     7.5)
+  no space
+2022-12-22T07:29:49Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  152.8,   191.6,     5.0)
+  staff where
+2022-12-22T07:29:55Z: PLAYER CHATTED [  154054216] cazgamez             ( -201.1,   194.3,   -89.6)
+  that'd be cool
+2022-12-22T07:29:55Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  152.8,   191.6,     5.0)
+  oh
+2022-12-22T07:29:57Z: PLAYER CHATTED [  720597463] f1zxyy               ( -200.4,   193.9,   -98.0)
+  /e dance
+2022-12-22T07:30:00Z: PLAYER CHATTED [   26274159] Jirachi1002          (  341.6,   196.4,   -11.7)
+  whatever this thing is
+2022-12-22T07:30:01Z: PLAYER CHATTED [   31822522] FileSaved            (  336.2,   195.1,    -2.1)
+  idk how the cube escaped
+2022-12-22T07:30:01Z: PLAYER CHATTED [ 4112164679] icydrizzles          (  150.8,   192.9,     8.5)
+  bruh
+2022-12-22T07:30:04Z: PLAYER CHATTED [  154054216] cazgamez             ( -200.6,   194.3,   -90.4)
+  /e dance
+2022-12-22T07:30:05Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  160.0,   192.2,     7.5)
+  i judst wana met you guys
+2022-12-22T07:30:07Z: PLAYER CHATTED [ 4112164679] icydrizzles          (  150.9,   192.9,     8.4)
+  "staff where"
+2022-12-22T07:30:09Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  was it uhh
+2022-12-22T07:30:09Z: PLAYER CHATTED [    6544457] superbroggy          (  150.9,   191.4,     6.1)
+  yo seargent can i ask you for a small favor
+2022-12-22T07:30:13Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  crap i forgot her name
+2022-12-22T07:30:19Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  accessibility 
+2022-12-22T07:30:21Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  152.8,   191.6,     5.0)
+  i had leaderboard off
+2022-12-22T07:30:21Z: PLAYER CHATTED [  720597463] f1zxyy               ( -200.4,   193.9,   -98.0)
+  get over here yall
+2022-12-22T07:30:24Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  159.6,   192.0,     7.4)
+  the sound of this game so bored
+2022-12-22T07:30:27Z: PLAYER CHATTED [   26274159] Jirachi1002          (  275.1,   195.0,    41.0)
+  these are really nice
+2022-12-22T07:30:28Z: PLAYER CHATTED [ 4112164679] icydrizzles          (  149.6,   192.9,    10.1)
+  i was about to say
+2022-12-22T07:30:28Z: PLAYER REMOVED [  125066229] Eerous               a.k.a. KingResides         
+2022-12-22T07:30:34Z: PLAYER CHATTED [   31822522] FileSaved            (  280.7,   195.5,    41.1)
+  yeah! beastinwhite makes great stuff
+2022-12-22T07:30:34Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  159.5,   191.4,     8.3)
+  but i like it
+2022-12-22T07:30:37Z: PLAYER CHATTED [  154054216] cazgamez             ( -200.0,   194.3,   -90.3)
+  /e dance
+2022-12-22T07:30:44Z: PLAYER CHATTED [ 4112164679] icydrizzles          (  149.7,   192.9,    11.4)
+  ay
+2022-12-22T07:30:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (  155.9,   192.4,    10.2)
+  I was at the Caza on Thursday afternoon.
+2022-12-22T07:30:50Z: PLAYER CHATTED [  106492189] SSSpencer413         ( -199.2,   194.2,   -93.4)
+  its a roliday
+2022-12-22T07:30:55Z: PLAYER CHATTED [  720597463] f1zxyy               ( -200.4,   193.9,   -98.0)
+  its a roliday!!
+2022-12-22T07:30:58Z: PLAYER ADDED   [ 3320597113] MegaSquadKarlLive    a.k.a. WalkerverseWalker   
+2022-12-22T07:31:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (  155.5,   192.4,    10.2)
+  2022-09-08?
+2022-12-22T07:31:07Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  157.4,   191.4,     8.1)
+  all people play this is rich
+2022-12-22T07:31:09Z: PLAYER ADDED   [ 1629065789] Justin_AR1           a.k.a. JustinBlox_YT       
+2022-12-22T07:31:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (  155.5,   192.4,    10.2)
+  I'm not.
+2022-12-22T07:31:16Z: PLAYER CHATTED [   31822522] FileSaved            (  273.6,   195.5,     5.8)
+  brb, i need water
+2022-12-22T07:31:16Z: PLAYER CHATTED [  720597463] f1zxyy               ( -200.4,   193.9,   -98.0)
+  why am i
+2022-12-22T07:31:19Z: PLAYER ADDED   [   53347204] DenseDad            
+2022-12-22T07:31:19Z: PLAYER CHATTED [  720597463] f1zxyy               ( -200.4,   193.9,   -98.0)
+  ##############
+2022-12-22T07:31:21Z: PLAYER CHATTED [  720597463] f1zxyy               ( -200.4,   193.9,   -98.0)
+  a
+2022-12-22T07:31:23Z: PLAYER CHATTED [  106492189] SSSpencer413         ( -199.2,   194.2,   -93.4)
+  trueee
+2022-12-22T07:31:26Z: PLAYER CHATTED [ 4112164679] icydrizzles          (  150.3,   192.9,    10.1)
+  i miss tix
+2022-12-22T07:31:30Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        (  165.7,   191.7,    14.5)
+  i am back for like the 3rd time
+2022-12-22T07:31:34Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  wait roach where is your roach on your shoulder
+2022-12-22T07:31:38Z: PLAYER CHATTED [ 1594236966] Midnightific         (  164.0,   191.7,    11.1)
+  yes
+2022-12-22T07:31:38Z: PLAYER CHATTED [  106492189] SSSpencer413         ( -199.2,   194.2,   -93.4)
+  flawless game there fizzy
+2022-12-22T07:31:38Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  157.4,   191.4,     8.1)
+  oh
+2022-12-22T07:31:44Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  o
+2022-12-22T07:31:47Z: PLAYER CHATTED [   30336519] GalacticLemons       (  126.4,   193.5,   -65.7)
+  hru
+2022-12-22T07:31:48Z: PLAYER CHATTED [   30336519] GalacticLemons       (  126.5,   193.5,   -66.6)
+  /e cheer
+2022-12-22T07:31:50Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        (  165.7,   191.7,    14.5)
+  lol
+2022-12-22T07:31:51Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  130.9,   193.7,   -65.6)
+  good
+2022-12-22T07:31:52Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  130.9,   193.7,   -65.6)
+  sore
+2022-12-22T07:31:54Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  157.4,   191.4,     8.1)
+  me im rich i live in california
+2022-12-22T07:31:55Z: PLAYER CHATTED [   30336519] GalacticLemons       (  125.6,   193.5,   -64.1)
+  how come
+2022-12-22T07:31:59Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  128.0,   193.7,   -64.8)
+  long weekend
+2022-12-22T07:32:01Z: PLAYER CHATTED [   30336519] GalacticLemons       (  124.3,   193.5,   -63.8)
+  ah
+2022-12-22T07:32:01Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  157.4,   191.4,     8.1)
+  where you live in
+2022-12-22T07:32:03Z: PLAYER CHATTED [   30336519] GalacticLemons       (  124.3,   193.5,   -63.8)
+  thats fair
+2022-12-22T07:32:04Z: PLAYER ADDED   [  412302453] billongll           
+2022-12-22T07:32:05Z: PLAYER CHATTED [   30336519] GalacticLemons       (  124.3,   193.5,   -63.8)
+  :[
+2022-12-22T07:32:07Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  128.0,   193.7,   -64.8)
+  drive 5 hours to buttonwillow raceway
+2022-12-22T07:32:11Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  128.0,   193.7,   -64.8)
+  race for a long time
+2022-12-22T07:32:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (  278.5,   196.1,     6.3)
+  ÒÓ
+2022-12-22T07:32:13Z: PLAYER CHATTED [  720597463] f1zxyy               ( -200.5,   193.9,   -96.9)
+  got it
+2022-12-22T07:32:14Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  128.0,   193.7,   -64.8)
+  drive 5 hours back
+2022-12-22T07:32:14Z: PLAYER CHATTED [   30336519] GalacticLemons       (  124.8,   193.5,   -62.6)
+  goddamn
+2022-12-22T07:32:15Z: PLAYER CHATTED [   30336519] GalacticLemons       (  124.2,   193.5,   -63.2)
+  LOL
+2022-12-22T07:32:17Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  128.0,   193.7,   -64.8)
+  sleep 5 hours
+2022-12-22T07:32:17Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  157.4,   191.4,     8.1)
+  star
+2022-12-22T07:32:19Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  128.0,   193.7,   -64.8)
+  immediately go to another race
+2022-12-22T07:32:20Z: PLAYER ADDED   [  290447342] pictureu            
+2022-12-22T07:32:26Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  hi
+2022-12-22T07:32:28Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  128.0,   193.7,   -64.8)
+  now im working on my car cause i broke it
+2022-12-22T07:32:29Z: PLAYER CHATTED [ 3947252473] antYTlikes           (  157.4,   191.4,     8.1)
+  justin
+2022-12-22T07:32:30Z: PLAYER CHATTED [  334352372] MushNowa_v2          ( -199.9,   194.2,  -101.8)
+  we should go see the funny statue
+2022-12-22T07:32:31Z: PLAYER CHATTED [  648173891] 0Kamikazi            (  264.6,   194.9,    -0.9)
+  coolio
+2022-12-22T07:32:34Z: PLAYER CHATTED [   30336519] GalacticLemons       (  127.5,   194.9,   -58.9)
+  D:
+2022-12-22T07:32:35Z: PLAYER REMOVED [  210519936] SakGFX               a.k.a. Sak                 
+2022-12-22T07:32:42Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  125.6,   193.7,   -53.1)
+  its not super broken i dont think
+2022-12-22T07:32:45Z: PLAYER CHATTED [  720597463] f1zxyy               ( -200.5,   193.9,   -96.9)
+  ill put it in qa 
+2022-12-22T07:32:47Z: PLAYER CHATTED [   53347204] DenseDad             (  152.8,   191.4,    72.9)
+  wa te heel
+2022-12-22T07:32:47Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  roach what staff item codes are there
+2022-12-22T07:32:50Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  125.6,   193.7,   -53.1)
+  just wont go into 3rd gear at speed
+2022-12-22T07:32:53Z: PLAYER CHATTED [   30336519] GalacticLemons       (  127.6,   194.9,   -58.7)
+  aww
+2022-12-22T07:32:54Z: PLAYER CHATTED [   30336519] GalacticLemons       (  127.6,   194.9,   -58.7)
+  that sucks
+2022-12-22T07:32:56Z: PLAYER CHATTED [   30336519] GalacticLemons       (  127.6,   194.9,   -58.7)
+  ://
+2022-12-22T07:32:57Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  ive gotten the dev longsword and the bowler from coef
+2022-12-22T07:32:58Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  125.6,   193.7,   -53.3)
+  yerrrr
+2022-12-22T07:33:01Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  oh and bloxstar 
+2022-12-22T07:33:05Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  wait not bowler
+2022-12-22T07:33:07Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        (  165.7,   191.7,    14.5)
+  damn star
+2022-12-22T07:33:10Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  just bloxstar
+2022-12-22T07:33:12Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  125.6,   193.7,   -53.3)
+  have to put my non-track brake pads back on and change all the fluids
+2022-12-22T07:33:17Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  125.6,   193.7,   -53.3)
+  and then see if its still broken
+2022-12-22T07:33:22Z: PLAYER CHATTED [  290447342] pictureu             (  181.0,   193.3,   146.5)
+  not even gonna question it
+2022-12-22T07:33:24Z: PLAYER CHATTED [   30336519] GalacticLemons       (  127.6,   194.9,   -58.4)
+  right
+2022-12-22T07:33:30Z: PLAYER CHATTED [   31822522] FileSaved            (  273.2,   195.5,     5.9)
+  back
+2022-12-22T07:33:31Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  126.5,   193.7,   -51.4)
+  hopefully i dont have to take it to a shop
+2022-12-22T07:33:34Z: PLAYER REMOVED [   38973091] jordonh23           
+2022-12-22T07:33:38Z: PLAYER CHATTED [   30336519] GalacticLemons       (  127.6,   195.0,   -58.2)
+  that'd suck if u did 
+2022-12-22T07:33:39Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  126.5,   193.7,   -51.4)
+  potentially like $2000 repair plus or minus
+2022-12-22T07:33:49Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  126.5,   193.7,   -51.4)
+  bc have to drop the transmission out
+2022-12-22T07:33:51Z: PLAYER CHATTED [ 4112164679] icydrizzles          (  129.7,   194.9,   -51.3)
+  what car u got
+2022-12-22T07:33:54Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  126.5,   193.7,   -51.4)
+  s2000
+2022-12-22T07:33:56Z: PLAYER CHATTED [   31822522] FileSaved            (  317.6,   197.9,   -62.3)
+  more capitalism
+2022-12-22T07:33:56Z: PLAYER CHATTED [  720597463] f1zxyy               ( -200.5,   193.9,   -96.9)
+  where to now
+2022-12-22T07:33:57Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  do they still give out the dev longsword codes
+2022-12-22T07:33:57Z: PLAYER CHATTED [   11437160] mathep               (  124.1,   193.8,   -53.6)
+  i woke up in a bugatti
+2022-12-22T07:34:02Z: PLAYER CHATTED [  154054216] cazgamez             ( -200.0,   194.3,   -90.3)
+  wheres a cool place?
+2022-12-22T07:34:04Z: PLAYER CHATTED [   31822522] FileSaved            (  317.6,   197.9,   -62.3)
+  there are a handful of shops scattered around the map from different creators
+2022-12-22T07:34:07Z: PLAYER CHATTED [ 4112164679] icydrizzles          (  123.4,   194.5,   -48.6)
+  valid
+2022-12-22T07:34:09Z: PLAYER CHATTED [  720597463] f1zxyy               ( -200.5,   193.9,   -96.9)
+  ummm
+2022-12-22T07:34:10Z: PLAYER CHATTED [   31822522] FileSaved            (  301.9,   197.9,   -79.7)
+  also shards
+2022-12-22T07:34:12Z: PLAYER CHATTED [   26274159] Jirachi1002          (  297.9,   197.5,   -73.6)
+  i see
+2022-12-22T07:34:14Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -195.4,   194.9,   -97.4)
+  Care to check my showcase out?
+2022-12-22T07:34:18Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  ohh
+2022-12-22T07:34:18Z: PLAYER CHATTED [   31822522] FileSaved            (  203.5,   201.6,   -76.7)
+  and WIDE
+2022-12-22T07:34:19Z: PLAYER CHATTED [  106492189] SSSpencer413         ( -199.4,   194.2,   -94.5)
+  sure
+2022-12-22T07:34:19Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -195.4,   194.9,   -97.4)
+  I've worked on it for 2.5 years.
+2022-12-22T07:34:21Z: PLAYER CHATTED [  290447342] pictureu             ( -212.7,   194.2,   -83.2)
+  caz where your golden items at?
+2022-12-22T07:34:25Z: PLAYER CHATTED [   31822522] FileSaved            (  215.1,   197.2,   -81.4)
+  more capitalism
+2022-12-22T07:34:27Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  damnnn
+2022-12-22T07:34:33Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -195.0,   194.9,   -96.2)
+  Search 'Kubla Khan'.
+2022-12-22T07:34:34Z: PLAYER CHATTED [  720597463] f1zxyy               ( -200.5,   193.9,   -96.9)
+  im good thanks
+2022-12-22T07:34:36Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  145k for a virtual sword
+2022-12-22T07:34:44Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  127.7,   193.4,   -50.4)
+  im on vacation tho
+2022-12-22T07:34:45Z: PLAYER CHATTED [   31822522] FileSaved            (  179.9,   197.8,   -55.8)
+  games
+2022-12-22T07:34:48Z: PLAYER CHATTED [  154054216] cazgamez             ( -199.9,   194.3,   -90.0)
+  i aint wearing them on this fit
+2022-12-22T07:34:48Z: PLAYER CHATTED [  154054216] cazgamez             ( -199.9,   194.3,   -90.0)
+  i  aint wearing them on this fit
+2022-12-22T07:34:49Z: PLAYER CHATTED [   26274159] Jirachi1002          (  183.9,   197.3,   -61.6)
+  yep
+2022-12-22T07:34:49Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  127.8,   193.4,   -50.4)
+  for 2 weeks
+2022-12-22T07:34:59Z: PLAYER CHATTED [  290447342] pictureu             ( -176.0,   193.8,   -77.6)
+  your fit, is mid
+2022-12-22T07:35:00Z: PLAYER CHATTED [   31822522] FileSaved            (  128.2,   194.0,   -86.7)
+  museum
+2022-12-22T07:35:01Z: PLAYER CHATTED [   30336519] GalacticLemons       (  127.8,   194.9,   -57.3)
+  hells yeah 
+2022-12-22T07:35:15Z: PLAYER CHATTED [  154054216] cazgamez             ( -114.4,   195.0,  -156.7)
+  thats just mean pic
+2022-12-22T07:35:15Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  ive been on roblox since 2014
+2022-12-22T07:35:20Z: PLAYER CHATTED [   31822522] FileSaved            ( 1292.4,  -126.1,   160.7)
+  nothing i made is in here this year, but i also haven't made much this year to begin with
+2022-12-22T07:35:20Z: PLAYER CHATTED [   31822522] FileSaved            ( 1292.4,  -126.1,   160.7)
+  so
+2022-12-22T07:35:23Z: PLAYER CHATTED [  290447342] pictureu             (  -65.4,   194.9,   -67.9)
+  its truth
+2022-12-22T07:35:30Z: PLAYER CHATTED [   26274159] Jirachi1002          ( 1295.4,  -126.5,   205.8)
+  makes sense
+2022-12-22T07:35:34Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  127.8,   193.4,   -50.3)
+  did my boardgames get put in here again
+2022-12-22T07:35:35Z: PLAYER CHATTED [  290447342] pictureu             (  -88.9,   194.9,  -136.8)
+  also mid is better then none
+2022-12-22T07:35:37Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  127.8,   193.4,   -50.3)
+  younite asked me for em
+2022-12-22T07:35:42Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  140.0,   193.1,   -50.7)
+  oh theyre here
+2022-12-22T07:35:43Z: PLAYER CHATTED [  334352372] MushNowa_v2          ( 1302.0,  -126.2,   204.2)
+  I really like this muesum 
+2022-12-22T07:35:47Z: PLAYER CHATTED [   30336519] GalacticLemons       (  127.2,   194.9,   -58.3)
+  :o
+2022-12-22T07:35:50Z: PLAYER CHATTED [   31822522] FileSaved            ( 1302.4,  -126.1,   219.1)
+  it's super well built
+2022-12-22T07:35:54Z: PLAYER REMOVED [ 3947252473] antYTlikes           a.k.a. unicorn             
+2022-12-22T07:35:55Z: PLAYER CHATTED [  334352372] MushNowa_v2          ( 1302.4,  -126.2,   210.3)
+  yes
+2022-12-22T07:36:01Z: PLAYER CHATTED [   31822522] FileSaved            ( 1275.7,  -125.9,   225.0)
+  egg
+2022-12-22T07:36:01Z: PLAYER CHATTED [   26274159] Jirachi1002          ( 1269.2,  -123.5,   227.3)
+  agate
+2022-12-22T07:36:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (  154.8,   192.4,    11.0)
+  I'm surprised that people who go to R.D.C. don't usually take their laptops with them out.
+2022-12-22T07:36:04Z: PLAYER CHATTED [   30336519] GalacticLemons       (  127.3,   194.9,   -58.1)
+  they work a lot better than other ones ive seen
+2022-12-22T07:36:05Z: PLAYER CHATTED [  334352372] MushNowa_v2          ( 1281.6,  -126.3,   227.4)
+  egg
+2022-12-22T07:36:07Z: PLAYER CHATTED [   31822522] FileSaved            ( 1268.4,  -121.0,   230.8)
+  the impossible to get egg
+2022-12-22T07:36:09Z: PLAYER CHATTED [   26274159] Jirachi1002          ( 1278.9,  -126.6,   216.9)
+  yep
+2022-12-22T07:36:19Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  133.0,   193.7,   -57.6)
+  o the board games?
+2022-12-22T07:36:20Z: PLAYER CHATTED [   31822522] FileSaved            ( 1328.4,  -126.1,   206.7)
+  roblox battle battles
+2022-12-22T07:36:21Z: PLAYER CHATTED [   30336519] GalacticLemons       (  127.4,   194.9,   -58.0)
+  ya
+2022-12-22T07:36:32Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  132.1,   193.7,   -56.8)
+  ya i like making good UX
+2022-12-22T07:36:38Z: PLAYER CHATTED [  334352372] MushNowa_v2          ( 1310.0,  -126.2,   175.2)
+  ##############################
+2022-12-22T07:36:41Z: PLAYER CHATTED [   30336519] GalacticLemons       (  127.5,   194.9,   -57.8)
+  :p
+2022-12-22T07:36:45Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  132.1,   193.7,   -56.8)
+  i have a newer version of the board games but they don't package into a free model very well
+2022-12-22T07:36:48Z: PLAYER CHATTED [  290447342] pictureu             (  -57.6,   194.9,  -111.9)
+  BANZAI
+2022-12-22T07:36:52Z: PLAYER CHATTED [   30336519] GalacticLemons       (  127.5,   194.9,   -57.7)
+  ah rip
+2022-12-22T07:36:54Z: PLAYER CHATTED [   37739692] TechnicallyRora      (  -26.9,   195.3,   -78.9)
+  :sob:
+2022-12-22T07:36:54Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  132.1,   193.7,   -56.8)
+  so i give out the old one if my friends need something for their games
+2022-12-22T07:36:55Z: PLAYER REMOVED [ 3320597113] MegaSquadKarlLive    a.k.a. WalkerverseWalker   
+2022-12-22T07:36:56Z: PLAYER CHATTED [   37739692] TechnicallyRora      (  -37.5,   195.3,   -97.0)
+  noo
+2022-12-22T07:36:59Z: PLAYER CHATTED [   30336519] GalacticLemons       (  127.6,   194.9,   -57.6)
+  yeeee
+2022-12-22T07:37:07Z: PLAYER CHATTED [   31822522] FileSaved            ( 1380.0,  -110.0,   181.3)
+  unobtainable unless you can land an internship now
+2022-12-22T07:37:11Z: PLAYER CHATTED [   26274159] Jirachi1002          ( 1375.8,  -110.5,   175.8)
+  dang
+2022-12-22T07:37:11Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  132.1,   193.7,   -56.8)
+  i was gonna make a whole game based on em but i kept commissioning maps and didnt like how they came out
+2022-12-22T07:37:12Z: PLAYER CHATTED [   37739692] TechnicallyRora      (  -16.8,   195.3,  -135.3)
+  xd
+2022-12-22T07:37:12Z: PLAYER CHATTED [   35681709] 404N1KO              (  130.3,   193.5,   -53.8)
+  myxD
+2022-12-22T07:37:32Z: PLAYER ADDED   [ 4146431623] hejkhfkj             a.k.a. jordanplayzz        
+2022-12-22T07:37:34Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  i lsotfthe screenshot of me you and maximum
+2022-12-22T07:37:53Z: PLAYER CHATTED [ 4112164679] icydrizzles          (  161.8,   192.9,     7.4)
+  clonetrooper1019?
+2022-12-22T07:37:54Z: PLAYER CHATTED [  290447342] pictureu             (  -39.7,   194.9,   -98.0)
+  i just realize most of us have antlers
+2022-12-22T07:38:02Z: PLAYER CHATTED [   37739692] TechnicallyRora      (  -61.9,   195.3,   -61.3)
+  ya
+2022-12-22T07:38:08Z: PLAYER CHATTED [  720597463] f1zxyy               ( -180.1,   198.1,  -192.6)
+  we so swag
+2022-12-22T07:38:14Z: PLAYER CHATTED [  154054216] cazgamez             ( -182.1,   202.7,  -189.8)
+  true
+2022-12-22T07:38:15Z: PLAYER CHATTED [  720597463] f1zxyy               ( -186.0,   199.8,  -192.7)
+  nO
+2022-12-22T07:38:17Z: PLAYER CHATTED [   26274159] Jirachi1002          ( 1276.7,  -102.5,   182.3)
+  the man
+2022-12-22T07:38:18Z: PLAYER CHATTED [  334352372] MushNowa_v2          ( 1280.3,  -102.2,   178.2)
+  mini saved and normal saved
+2022-12-22T07:38:20Z: PLAYER CHATTED [ 4146431623] hejkhfkj             (  172.7,   192.5,    17.8)
+  drizzy not cool
+2022-12-22T07:38:20Z: PLAYER CHATTED [   37739692] TechnicallyRora      (  -54.6,   195.3,   -61.3)
+  figure of 8 time
+2022-12-22T07:38:23Z: PLAYER CHATTED [  720597463] f1zxyy               ( -186.8,   200.1,  -192.3)
+  i need u to hate on roliday 
+2022-12-22T07:38:24Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  im gonna see if coef wants to join
+2022-12-22T07:38:24Z: PLAYER CHATTED [   31822522] FileSaved            ( 1275.8,  -102.0,   185.6)
+  the myth
+2022-12-22T07:38:26Z: PLAYER CHATTED [  720597463] f1zxyy               ( -186.8,   200.1,  -192.3)
+  pls
+2022-12-22T07:38:29Z: PLAYER CHATTED [   31822522] FileSaved            ( 1275.9,  -102.0,   185.7)
+  i was mostly the bug fixes guy
+2022-12-22T07:38:30Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  not sure what the time is over there
+2022-12-22T07:38:38Z: PLAYER CHATTED [  720597463] f1zxyy               ( -198.1,   193.5,  -197.5)
+  smh....
+2022-12-22T07:38:38Z: PLAYER CHATTED [  648173891] 0Kamikazi            ( 1276.4,  -102.3,   178.3)
+  oh
+2022-12-22T07:38:42Z: PLAYER CHATTED [   37739692] TechnicallyRora      (  -49.0,   195.3,   -14.5)
+  infinite just like me
+2022-12-22T07:38:45Z: PLAYER ADDED   [   55605782] coefficients        
+2022-12-22T07:38:46Z: PLAYER CHATTED [  334352372] MushNowa_v2          ( 1280.4,  -102.2,   179.2)
+  the creator of the valk isnt rusty
+2022-12-22T07:38:53Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  hi coef
+2022-12-22T07:38:55Z: PLAYER ADDED   [  139859423] d5no                
+2022-12-22T07:38:56Z: PLAYER CHATTED [  720597463] f1zxyy               ( -198.1,   193.5,  -197.5)
+  why dont u like
+2022-12-22T07:38:59Z: PLAYER CHATTED [  720597463] f1zxyy               ( -198.1,   193.5,  -197.5)
+  use the cart
+2022-12-22T07:39:01Z: PLAYER CHATTED [   31822522] FileSaved            ( 1271.3,   -97.4,   172.9)
+  coefficients real
+2022-12-22T07:39:01Z: PLAYER ADDED   [   38973091] jordonh23           
+2022-12-22T07:39:03Z: PLAYER CHATTED [  720597463] f1zxyy               ( -198.1,   193.5,  -197.5)
+  thats way cooler
+2022-12-22T07:39:03Z: PLAYER CHATTED [  648173891] 0Kamikazi            ( 1271.8,  -102.3,   125.5)
+  this years hood
+2022-12-22T07:39:04Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  113.4,   193.1,   -34.6)
+  where my boy at
+2022-12-22T07:39:04Z: PLAYER CHATTED [   55605782] coefficients         (  220.9,   194.7,   326.6)
+  good morning
+2022-12-22T07:39:06Z: PLAYER REMOVED [  412302453] billongll           
+2022-12-22T07:39:10Z: PLAYER CHATTED [   31822522] FileSaved            ( 1271.0,   -96.6,   171.9)
+  gaming
+2022-12-22T07:39:18Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  205.3,   193.1,   229.7)
+  coefficients fans be like: there he is
+2022-12-22T07:39:19Z: PLAYER CHATTED [  720597463] f1zxyy               ( -198.1,   193.5,  -197.5)
+  it was not my idea
+2022-12-22T07:39:19Z: PLAYER CHATTED [    1630228] VisualPlugin         (  220.8,   195.5,   316.4)
+  Welcome.
+2022-12-22T07:39:21Z: PLAYER CHATTED [  720597463] f1zxyy               ( -198.1,   193.5,  -197.5)
+  i like
+2022-12-22T07:39:22Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  no one steal my seat
+2022-12-22T07:39:25Z: PLAYER ADDED   [   30931086] 6everly             
+2022-12-22T07:39:25Z: PLAYER CHATTED [  720597463] f1zxyy               ( -198.1,   193.5,  -197.5)
+  woke up one day
+2022-12-22T07:39:26Z: PLAYER CHATTED [   31822522] FileSaved            ( 1269.3,  -102.1,   151.5)
+  there he is
+2022-12-22T07:39:27Z: PLAYER CHATTED [  259773550] Starnamics           (  160.9,   191.7,    51.7)
+  hi coef
+2022-12-22T07:39:29Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  161.5,   193.1,    85.2)
+  BEV
+2022-12-22T07:39:29Z: PLAYER CHATTED [  720597463] f1zxyy               ( -198.1,   193.5,  -197.5)
+  and the cart was there
+2022-12-22T07:39:33Z: PLAYER CHATTED [  720597463] f1zxyy               ( -198.1,   193.5,  -197.5)
+  true.
+2022-12-22T07:39:34Z: PLAYER CHATTED [   55605782] coefficients         (  141.8,   193.1,    92.1)
+  younite can't keep getting away with it
+2022-12-22T07:39:36Z: PLAYER CHATTED [   30931086] 6everly              (  220.2,   194.8,   322.2)
+  ADRIAN
+2022-12-22T07:39:41Z: PLAYER CHATTED [  259773550] Starnamics           (  129.6,   193.3,    93.0)
+  mostmelons shack
+2022-12-22T07:39:41Z: PLAYER CHATTED [  720597463] f1zxyy               ( -198.1,   193.5,  -197.5)
+  thats what i want after working on this
+2022-12-22T07:39:47Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  136.0,   193.1,    90.2)
+  younite needs to get good sleep during the holidays
+2022-12-22T07:39:49Z: PLAYER CHATTED [ 4146431623] hejkhfkj             (  182.3,   192.5,    27.9)
+  DRIZZY 
+2022-12-22T07:39:50Z: PLAYER CHATTED [  259773550] Starnamics           (  131.7,   193.3,    91.7)
+  bingus
+2022-12-22T07:39:54Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  136.0,   193.1,    90.2)
+  but instead he keeps putting together the event of the year
+2022-12-22T07:39:56Z: PLAYER CHATTED [ 4146431623] hejkhfkj             (  166.4,   192.5,    -3.4)
+  STOP
+2022-12-22T07:39:58Z: PLAYER CHATTED [   55605782] coefficients         (  138.5,   193.1,    92.4)
+  for real
+2022-12-22T07:40:02Z: PLAYER CHATTED [  648173891] 0Kamikazi            ( 1365.5,  -102.3,   126.7)
+  what
+2022-12-22T07:40:03Z: PLAYER CHATTED [ 4146431623] hejkhfkj             (  165.8,   192.5,    -2.4)
+  WHY Y DOING THIS
+2022-12-22T07:40:04Z: PLAYER CHATTED [  720597463] f1zxyy               ( -198.1,   193.5,  -197.5)
+  also this is like ur 3rd new mic in the last month
+2022-12-22T07:40:04Z: PLAYER CHATTED [   30931086] 6everly              (  156.0,   193.3,    89.8)
+  sup
+2022-12-22T07:40:04Z: PLAYER CHATTED [  259773550] Starnamics           (  131.6,   193.3,    82.5)
+  im gonna go back to my seat before someone steals i
+2022-12-22T07:40:08Z: PLAYER CHATTED [    6544457] superbroggy          (  158.8,   191.5,     5.7)
+  hi d5no
+2022-12-22T07:40:09Z: PLAYER CHATTED [   30931086] 6everly              (  156.0,   193.3,    89.8)
+  what’s this game
+2022-12-22T07:40:09Z: PLAYER CHATTED [  259773550] Starnamics           (  160.6,   191.7,    20.7)
+  nvm
+2022-12-22T07:40:09Z: PLAYER CHATTED [ 4146431623] hejkhfkj             (  165.8,   192.5,    -2.4)
+  ITS ME JORDAN
+2022-12-22T07:40:10Z: PLAYER CHATTED [  720597463] f1zxyy               ( -198.1,   193.5,  -197.5)
+  explain
+2022-12-22T07:40:12Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  152.3,   193.1,    87.7)
+  hello bevo
+2022-12-22T07:40:12Z: PLAYER CHATTED [  259773550] Starnamics           (  160.6,   191.7,    20.7)
+  someone stole it
+2022-12-22T07:40:12Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        (  165.7,   191.7,    14.5)
+  lol
+2022-12-22T07:40:12Z: PLAYER CHATTED [  139859423] d5no                 (  157.6,   191.7,     9.9)
+  HELLO
+2022-12-22T07:40:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (  203.2,   194.0,   223.5)
+  @Hlelo: isn't is 08:40 for him?
+2022-12-22T07:40:16Z: PLAYER CHATTED [   31822522] FileSaved            ( 1375.4,  -110.0,   189.0)
+  oh yeah
+2022-12-22T07:40:17Z: PLAYER CHATTED [  720597463] f1zxyy               ( -198.1,   193.5,  -197.5)
+  what are u doing dude
+2022-12-22T07:40:18Z: PLAYER CHATTED [ 4112164679] icydrizzles          (  166.7,   192.9,    -6.8)
+  wait
+2022-12-22T07:40:19Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  152.6,   193.1,    89.9)
+  this is roliday, its a yearly thing
+2022-12-22T07:40:19Z: PLAYER CHATTED [ 4146431623] hejkhfkj             (  165.8,   192.5,    -2.4)
+  AND YR ENZO
+2022-12-22T07:40:20Z: PLAYER REMOVED [   15872318] DanielH253           a.k.a. Dan                 
+2022-12-22T07:40:21Z: PLAYER CHATTED [  720597463] f1zxyy               ( -198.1,   193.5,  -197.1)
+  yea
+2022-12-22T07:40:21Z: PLAYER CHATTED [   55605782] coefficients         (    2.0,   193.9,    95.3)
+  found an infinity stone
+2022-12-22T07:40:23Z: PLAYER CHATTED [ 4146431623] hejkhfkj             (  165.8,   192.5,    -2.4)
+  STOP
+2022-12-22T07:40:24Z: PLAYER CHATTED [  290447342] pictureu             ( 1319.1,  -102.2,   232.5)
+  god this game has a amazing museum
+2022-12-22T07:40:24Z: PLAYER CHATTED [   30931086] 6everly              (  156.0,   193.3,    89.8)
+  sick
+2022-12-22T07:40:25Z: PLAYER CHATTED [   26274159] Jirachi1002          ( 1387.5,  -102.6,   228.5)
+  yeah i noticed the sound
+2022-12-22T07:40:27Z: PLAYER CHATTED [ 4146431623] hejkhfkj             (  165.8,   192.5,    -2.4)
+  DUDE
+2022-12-22T07:40:27Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  152.6,   193.1,    89.9)
+  big collab project
+2022-12-22T07:40:27Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  stolen back
+2022-12-22T07:40:27Z: PLAYER CHATTED [   55605782] coefficients         (   -2.9,   193.4,    90.7)
+  no shot
+2022-12-22T07:40:28Z: PLAYER CHATTED [ 4112164679] icydrizzles          (  166.1,   192.9,    -6.0)
+  /w hejkhfkj  whisper me
+2022-12-22T07:40:28Z: PLAYER CHATTED [   31822522] FileSaved            ( 1387.5,  -102.1,   231.6)
+  the lick
+2022-12-22T07:40:29Z: PLAYER CHATTED [   31822522] FileSaved            ( 1387.5,  -102.1,   231.6)
+  lol
+2022-12-22T07:40:30Z: PLAYER CHATTED [  720597463] f1zxyy               ( -198.1,   193.5,  -197.4)
+  /yes
+2022-12-22T07:40:33Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  152.6,   193.1,    89.9)
+  they got a museum that shows off cool stuff made during the year
+2022-12-22T07:40:34Z: PLAYER CHATTED [  720597463] f1zxyy               ( -198.1,   193.5,  -197.4)
+  yay
+2022-12-22T07:40:35Z: PLAYER CHATTED [   31822522] FileSaved            ( 1387.4,  -102.1,   230.8)
+  didn't realize it was coming from this
+2022-12-22T07:40:36Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  152.6,   193.1,    89.9)
+  and lots of shops
+2022-12-22T07:40:36Z: PLAYER CHATTED [ 1594236966] Midnightific         (  164.0,   191.7,    11.1)
+  you guys wanna play something?
+2022-12-22T07:40:37Z: PLAYER CHATTED [   30931086] 6everly              (  159.2,   193.3,    90.3)
+  looks epic
+2022-12-22T07:40:39Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  coef where did you go
+2022-12-22T07:40:39Z: PLAYER CHATTED [  139859423] d5no                 (  123.6,   193.8,   -51.5)
+  yes
+2022-12-22T07:40:40Z: PLAYER CHATTED [ 4146431623] hejkhfkj             (  165.8,   192.5,    -2.4)
+  /w icydrizzles  WHY ARE Y DOIN THIS
+2022-12-22T07:40:41Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        (  165.7,   191.7,    14.5)
+  like what
+2022-12-22T07:40:43Z: PLAYER CHATTED [ 1594236966] Midnightific         (  164.0,   191.7,    11.1)
+  gone
+2022-12-22T07:40:43Z: PLAYER CHATTED [   30931086] 6everly              (  159.2,   193.3,    90.3)
+  gonna look around
+2022-12-22T07:40:49Z: PLAYER CHATTED [ 4112164679] icydrizzles          (  164.5,   192.9,    -5.0)
+  im done playing the ship game
+2022-12-22T07:40:50Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  lol
+2022-12-22T07:40:54Z: PLAYER CHATTED [ 4146431623] hejkhfkj             (  165.8,   192.5,    -2.4)
+  WHAT
+2022-12-22T07:40:54Z: PLAYER CHATTED [ 4112164679] icydrizzles          (  164.4,   192.9,    -4.9)
+  im quiting forever
+2022-12-22T07:40:57Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  two best devrel
+2022-12-22T07:40:58Z: PLAYER CHATTED [  720597463] f1zxyy               ( -198.1,   193.5,  -197.4)
+  i did not
+2022-12-22T07:40:59Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        (  165.7,   191.7,    14.5)
+  gone?
+2022-12-22T07:41:02Z: PLAYER CHATTED [  720597463] f1zxyy               ( -198.1,   193.5,  -197.4)
+  had n time
+2022-12-22T07:41:02Z: PLAYER CHATTED [ 4112164679] icydrizzles          (  163.7,   192.9,    -3.4)
+  sorry
+2022-12-22T07:41:03Z: PLAYER CHATTED [   30931086] 6everly              (  126.3,   193.8,   -64.6)
+  HI
+2022-12-22T07:41:04Z: PLAYER CHATTED [  720597463] f1zxyy               ( -198.1,   193.5,  -197.4)
+  no*
+2022-12-22T07:41:05Z: PLAYER CHATTED [ 4146431623] hejkhfkj             (  165.7,   192.5,    -1.3)
+  ARE Y SURE YR ENZO
+2022-12-22T07:41:05Z: PLAYER CHATTED [  720597463] f1zxyy               ( -198.1,   193.5,  -197.4)
+  IM SORRY
+2022-12-22T07:41:07Z: PLAYER CHATTED [ 1594236966] Midnightific         (  164.0,   191.7,    11.1)
+  yes
+2022-12-22T07:41:08Z: PLAYER CHATTED [   38973091] jordonh23            (  146.9,   191.4,    -1.7)
+  good to see coef around 
+2022-12-22T07:41:08Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  whats the time for you rn?
+2022-12-22T07:41:08Z: PLAYER CHATTED [  720597463] f1zxyy               ( -198.1,   193.5,  -197.4)
+  smh..
+2022-12-22T07:41:10Z: PLAYER CHATTED [ 4112164679] icydrizzles          (  163.7,   192.9,    -3.4)
+  not anymore
+2022-12-22T07:41:11Z: PLAYER CHATTED [  720597463] f1zxyy               ( -198.1,   193.5,  -197.4)
+  i added YOU
+2022-12-22T07:41:11Z: PLAYER CHATTED [   30931086] 6everly              (  126.6,   193.8,   -63.2)
+  hello :)
+2022-12-22T07:41:14Z: PLAYER CHATTED [   30336519] GalacticLemons       (  124.2,   194.9,   -54.9)
+  :]
+2022-12-22T07:41:14Z: PLAYER CHATTED [ 4112164679] icydrizzles          (  163.3,   192.9,    -3.1)
+  im retiring enzo
+2022-12-22T07:41:15Z: PLAYER CHATTED [ 1594236966] Midnightific         (  164.0,   191.7,    11.1)
+  dang
+2022-12-22T07:41:15Z: PLAYER CHATTED [  720597463] f1zxyy               ( -198.1,   193.5,  -197.4)
+  i added qa snowman
+2022-12-22T07:41:17Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  damnn
+2022-12-22T07:41:17Z: PLAYER CHATTED [ 4146431623] hejkhfkj             (  165.6,   192.5,    -1.3)
+  WHO ARE Y
+2022-12-22T07:41:17Z: PLAYER CHATTED [   30931086] 6everly              (  126.6,   193.8,   -63.2)
+  dank
+2022-12-22T07:41:22Z: PLAYER CHATTED [  720597463] f1zxyy               ( -198.1,   193.5,  -197.4)
+  yes
+2022-12-22T07:41:23Z: PLAYER CHATTED [ 4112164679] icydrizzles          (  163.4,   192.9,    -3.0)
+  drizzy
+2022-12-22T07:41:24Z: PLAYER CHATTED [   30931086] 6everly              (  126.6,   193.8,   -63.2)
+  rip
+2022-12-22T07:41:26Z: PLAYER REMOVED [    6544457] superbroggy         
+2022-12-22T07:41:26Z: PLAYER CHATTED [  720597463] f1zxyy               ( -198.1,   193.5,  -197.4)
+  well
+2022-12-22T07:41:26Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  130.6,   193.7,   -61.9)
+  o how was mow wolf
+2022-12-22T07:41:27Z: PLAYER ADDED   [  190453356] coldcrazygokuyt     
+2022-12-22T07:41:28Z: PLAYER ADDED   [  491179047] P_rp1e               a.k.a. Purple              
+2022-12-22T07:41:30Z: PLAYER CHATTED [  720597463] f1zxyy               ( -198.1,   193.5,  -197.4)
+  he needed to match the snow here
+2022-12-22T07:41:30Z: PLAYER CHATTED [   30931086] 6everly              (  126.6,   193.8,   -63.2)
+  he’s right next to me LOL
+2022-12-22T07:41:33Z: PLAYER CHATTED [ 4146431623] hejkhfkj             (  165.6,   192.5,    -1.3)
+  IS THIS A SIBLING OR SMTH
+2022-12-22T07:41:38Z: PLAYER CHATTED [ 4112164679] icydrizzles          (  163.8,   192.9,    -3.7)
+  no
+2022-12-22T07:41:42Z: PLAYER CHATTED [ 4146431623] hejkhfkj             (  165.6,   192.5,    -1.3)
+  ENZO STOP
+2022-12-22T07:41:43Z: PLAYER CHATTED [ 4112164679] icydrizzles          (  163.8,   192.9,    -3.7)
+  im just done playing that game
+2022-12-22T07:41:44Z: PLAYER CHATTED [   30931086] 6everly              (  126.6,   193.8,   -63.2)
+  it was epic
+2022-12-22T07:41:46Z: PLAYER CHATTED [  648173891] 0Kamikazi            (   81.8,   193.2,     7.5)
+  wow a store for empyror
+2022-12-22T07:41:48Z: PLAYER CHATTED [ 4146431623] hejkhfkj             (  165.6,   192.5,    -1.3)
+  WHY
+2022-12-22T07:41:50Z: PLAYER CHATTED [   30931086] 6everly              (  126.6,   193.8,   -63.2)
+  not as good as vegas one tho
+2022-12-22T07:41:50Z: PLAYER ADDED   [  806236363] miaroshi            
+2022-12-22T07:41:52Z: PLAYER CHATTED [ 4146431623] hejkhfkj             (  165.6,   192.5,    -1.3)
+  WHY DUDE
+2022-12-22T07:41:53Z: PLAYER CHATTED [ 4112164679] icydrizzles          (  162.6,   192.9,    -3.4)
+  its wack
+2022-12-22T07:41:53Z: CHRCTER ADDED  [ 1395682190] WareTex              a.k.a. Tex                 
+2022-12-22T07:41:54Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  123.1,   193.7,   -59.9)
+  oo ic ic
+2022-12-22T07:41:54Z: PLAYER CHATTED [  154054216] cazgamez             ( -195.7,   194.0,  -200.1)
+  hey, my friend said great job on the map
+2022-12-22T07:41:57Z: PLAYER CHATTED [  720597463] f1zxyy               ( -198.1,   193.5,  -197.4)
+  oh my god
+2022-12-22T07:41:58Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  he is walking on the rails instead of taking a cart
+2022-12-22T07:41:59Z: PLAYER CHATTED [  720597463] f1zxyy               ( -198.1,   193.5,  -197.4)
+  do it
+2022-12-22T07:42:02Z: PLAYER CHATTED [ 4112164679] icydrizzles          (  163.2,   192.9,    -3.8)
+  im realizing im wasting my time
+2022-12-22T07:42:02Z: PLAYER CHATTED [  720597463] f1zxyy               ( -198.1,   193.5,  -197.4)
+  aw ty
+2022-12-22T07:42:05Z: PLAYER CHATTED [ 4146431623] hejkhfkj             (  165.6,   192.5,    -1.3)
+  Y NEED TO STOP 
+2022-12-22T07:42:06Z: PLAYER REMOVED [  190453356] coldcrazygokuyt     
+2022-12-22T07:42:07Z: PLAYER CHATTED [   31822522] FileSaved            (   94.2,   193.4,   -25.0)
+  ice skating over there
+2022-12-22T07:42:08Z: PLAYER CHATTED [  720597463] f1zxyy               ( -198.2,   193.5,  -197.3)
+  hi mia
+2022-12-22T07:42:10Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  hi coef
+2022-12-22T07:42:11Z: PLAYER ADDED   [   13924833] ColdCrazyGoku       
+2022-12-22T07:42:12Z: PLAYER CHATTED [   31822522] FileSaved            (   84.6,   193.4,   -17.3)
+  it forms a full loop
+2022-12-22T07:42:13Z: PLAYER CHATTED [ 4146431623] hejkhfkj             (  165.6,   192.5,    -1.3)
+  DUDE NOT COOL
+2022-12-22T07:42:14Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  123.9,   193.7,   -60.6)
+  last time i tried going to the vegas one it was full for the next 2 hours >:l
+2022-12-22T07:42:14Z: PLAYER CHATTED [  334352372] MushNowa_v2          (  310.7,   244.2,    49.9)
+  yooo hi mia
+2022-12-22T07:42:14Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        (  165.7,   191.7,    14.5)
+  walk on a cart rail to among us
+2022-12-22T07:42:16Z: PLAYER CHATTED [  720597463] f1zxyy               ( -198.2,   193.5,  -197.3)
+  omg
+2022-12-22T07:42:20Z: PLAYER CHATTED [ 4112164679] icydrizzles          (  162.3,   192.9,    -2.5)
+  nah man im done
+2022-12-22T07:42:20Z: PLAYER CHATTED [   30931086] 6everly              (  126.4,   193.8,   -66.4)
+  o heck
+2022-12-22T07:42:20Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  123.9,   193.7,   -60.6)
+  so we went to a axe throwing thing that was in the same building
+2022-12-22T07:42:20Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  123.9,   193.7,   -60.6)
+  so we went to a axe throwing thing that was in the same building
+2022-12-22T07:42:20Z: PLAYER CHATTED [  259773550] Starnamics           (  158.8,   191.7,     5.7)
+  lol
+2022-12-22T07:42:21Z: PLAYER CHATTED [  720597463] f1zxyy               ( -198.3,   193.5,  -197.0)
+  :sob:
+2022-12-22T07:42:21Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        (  165.7,   191.7,    14.5)
+  we should make that a game star
+2022-12-22T07:42:25Z: PLAYER CHATTED [ 4146431623] hejkhfkj             (  165.6,   192.5,    -1.3)
+  WE WERE BEST FREINDS
+2022-12-22T07:42:28Z: PLAYER CHATTED [   55605782] coefficients         (  117.5,   217.3,     0.2)
+  wow
+2022-12-22T07:42:28Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        (  165.7,   191.7,    14.5)
+  oh he ran
+2022-12-22T07:42:30Z: PLAYER CHATTED [   30931086] 6everly              (  125.7,   193.8,   -66.5)
+  ya this one was a lil small
+2022-12-22T07:42:30Z: PLAYER CHATTED [  720597463] f1zxyy               ( -198.3,   193.5,  -197.0)
+  yeah yeahhhh
+2022-12-22T07:42:31Z: PLAYER CHATTED [ 4112164679] icydrizzles          (  161.7,   192.9,    -1.4)
+  yeah ur cool
+2022-12-22T07:42:31Z: PLAYER CHATTED [   55605782] coefficients         (  190.4,   236.4,   -74.4)
+  these things take me back
+2022-12-22T07:42:35Z: PLAYER CHATTED [  720597463] f1zxyy               ( -198.3,   193.5,  -197.0)
+  sounds like nothin
+2022-12-22T07:42:36Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  123.7,   193.7,   -61.8)
+  aw
+2022-12-22T07:42:38Z: PLAYER CHATTED [ 4112164679] icydrizzles          (  161.4,   192.9,    -1.1)
+  i just am done with the game
+2022-12-22T07:42:38Z: PLAYER CHATTED [  259773550] Starnamics           (  214.6,   235.8,   -85.3)
+  running away from me
+2022-12-22T07:42:39Z: PLAYER CHATTED [   55605782] coefficients         (  318.6,   236.4,    -3.8)
+  cart ride into spongebob for free vip
+2022-12-22T07:42:40Z: PLAYER CHATTED [  720597463] f1zxyy               ( -198.3,   193.5,  -197.0)
+  lets go hunt mia down
+2022-12-22T07:42:42Z: PLAYER CHATTED [   30931086] 6everly              (  125.7,   193.8,   -66.5)
+  but still fun!!
+2022-12-22T07:42:43Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  123.7,   193.7,   -61.8)
+  who did u go with
+2022-12-22T07:42:46Z: PLAYER CHATTED [  259773550] Starnamics           (  272.2,   235.1,   -81.3)
+  omg free vip spongebob
+2022-12-22T07:42:50Z: PLAYER CHATTED [ 4146431623] hejkhfkj             (  164.9,   192.5,     0.6)
+  :( WHYIS EVERY THING BAD POSSIBLE HAPPEING TODAY 
+2022-12-22T07:42:52Z: PLAYER CHATTED [   30931086] 6everly              (  125.7,   193.8,   -66.5)
+  I went with Connor and his fam
+2022-12-22T07:42:54Z: PLAYER CHATTED [  259773550] Starnamics           (  302.9,   233.9,   -56.8)
+  we are not gonna catch up with him
+2022-12-22T07:42:54Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        (  296.3,   235.9,   -62.9)
+  real
+2022-12-22T07:42:57Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  120.0,   193.7,   -67.4)
+  oo
+2022-12-22T07:42:58Z: PLAYER CHATTED [ 1594236966] Midnightific         (  298.5,   235.9,   -60.2)
+  nope
+2022-12-22T07:43:01Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        (  296.3,   235.9,   -62.9)
+  real sponge bob
+2022-12-22T07:43:02Z: PLAYER CHATTED [  720597463] f1zxyy               (  109.5,   191.4,    -8.6)
+  miaaaaa
+2022-12-22T07:43:04Z: PLAYER CHATTED [  290447342] pictureu             (   99.5,   192.8,     3.7)
+  caz
+2022-12-22T07:43:06Z: PLAYER CHATTED [  290447342] pictureu             (   99.5,   192.8,     3.7)
+  YOUR DRIP
+2022-12-22T07:43:07Z: PLAYER ADDED   [    5254258] woodall25           
+2022-12-22T07:43:08Z: PLAYER CHATTED [  290447342] pictureu             (   99.5,   192.8,     3.7)
+  is not bad
+2022-12-22T07:43:10Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  121.7,   193.7,   -65.5)
+  is his family nice
+2022-12-22T07:43:10Z: PLAYER CHATTED [  720597463] f1zxyy               (  109.5,   191.4,    -8.6)
+  helo
+2022-12-22T07:43:11Z: PLAYER CHATTED [   55605782] coefficients         (   45.9,   236.2,  -109.9)
+  who killed dora obby
+2022-12-22T07:43:11Z: PLAYER CHATTED [  154054216] cazgamez             (  102.5,   193.0,    -6.5)
+  okay good
+2022-12-22T07:43:13Z: PLAYER CHATTED [  334352372] MushNowa_v2          (  115.8,   191.7,    -1.4)
+  hiiiiii mia
+2022-12-22T07:43:14Z: PLAYER CHATTED [   30931086] 6everly              (  125.7,   193.8,   -66.5)
+  yes lol
+2022-12-22T07:43:15Z: PLAYER ADDED   [   43976012] danjahmin           
+2022-12-22T07:43:16Z: PLAYER CHATTED [  290447342] pictureu             (   99.1,   192.8,    -1.6)
+  JK ITS MID
+2022-12-22T07:43:17Z: PLAYER CHATTED [  720597463] f1zxyy               (  109.5,   191.4,    -8.6)
+  wha t 
+2022-12-22T07:43:17Z: CHRCTER ADDED  [   35681709] 404N1KO              a.k.a. N1KO                
+2022-12-22T07:43:17Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  121.7,   193.7,   -65.5)
+  awesome
+2022-12-22T07:43:17Z: PLAYER CHATTED [   30931086] 6everly              (  125.7,   193.8,   -66.5)
+  I love them
+2022-12-22T07:43:19Z: PLAYER CHATTED [  720597463] f1zxyy               (  109.5,   191.4,    -8.6)
+  dgbjhadsg
+2022-12-22T07:43:20Z: PLAYER CHATTED [  154054216] cazgamez             (  102.5,   193.0,    -6.5)
+  :(
+2022-12-22T07:43:20Z: PLAYER CHATTED [ 4112164679] icydrizzles          (  162.1,   192.9,     0.2)
+  ay i suggest to you
+2022-12-22T07:43:20Z: PLAYER CHATTED [  259773550] Starnamics           (  153.8,   191.7,    -4.7)
+  spong
+2022-12-22T07:43:22Z: PLAYER CHATTED [ 4146431623] hejkhfkj             (  164.3,   192.5,     2.1)
+  FIRST I REALIZE THT NESSA DOESNT L1K3 ME AND N0W Y H8 M3
+2022-12-22T07:43:23Z: PLAYER CHATTED [  806236363] miaroshi             (  112.1,   191.4,    -4.6)
+  hola
+2022-12-22T07:43:23Z: PLAYER CHATTED [  806236363] miaroshi             (  112.1,   191.4,    -4.6)
+  hola
+2022-12-22T07:43:23Z: PLAYER CHATTED [   55605782] coefficients         (  152.8,   204.0,    60.1)
+  agh
+2022-12-22T07:43:24Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        (  155.4,   191.7,    -8.4)
+  i love spong
+2022-12-22T07:43:25Z: PLAYER CHATTED [   55605782] coefficients         (  137.3,   191.6,    54.0)
+  dies
+2022-12-22T07:43:25Z: PLAYER CHATTED [  720597463] f1zxyy               (  109.5,   191.4,    -8.6)
+  hola
+2022-12-22T07:43:30Z: PLAYER CHATTED [ 4112164679] icydrizzles          (  161.8,   192.9,     0.5)
+  /w hejkhfkj  stop the
+2022-12-22T07:43:30Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  121.7,   193.7,   -65.5)
+  thats good
+2022-12-22T07:43:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (  123.3,   192.4,   -12.0)
+  Coëf is on the minecart by the way.
+2022-12-22T07:43:30Z: PLAYER CHATTED [   30931086] 6everly              (  125.7,   193.8,   -66.5)
+  gonna look around more :)
+2022-12-22T07:43:32Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        (  131.3,   191.7,    26.8)
+  coef
+2022-12-22T07:43:33Z: PLAYER CHATTED [ 4112164679] icydrizzles          (  162.1,   192.9,     0.3)
+  chasing girls on roblox
+2022-12-22T07:43:36Z: PLAYER CHATTED [   18659509] hlelo_wolrd          (  121.7,   193.7,   -65.5)
+  kk me too
+2022-12-22T07:43:37Z: PLAYER CHATTED [ 4112164679] icydrizzles          (  161.7,   192.9,     0.6)
+  and learn a new skill
+2022-12-22T07:43:38Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        (  143.6,   191.7,    35.9)
+  hes runnw
+2022-12-22T07:43:41Z: PLAYER CHATTED [   38973091] jordonh23            (  122.0,   191.7,    -9.1)
+  I sW
+2022-12-22T07:43:41Z: PLAYER CHATTED [  290447342] pictureu             (  100.0,   192.8,    -9.0)
+  i
+2022-12-22T07:43:44Z: PLAYER CHATTED [   38973091] jordonh23            (  121.7,   191.7,    -9.8)
+  saw
+2022-12-22T07:43:44Z: PLAYER CHATTED [  290447342] pictureu             (   97.3,   192.8,    -0.3)
+  ill admit
+2022-12-22T07:43:45Z: PLAYER CHATTED [  720597463] f1zxyy               (  109.5,   191.4,    -8.6)
+  im so tired
+2022-12-22T07:43:45Z: PLAYER CHATTED [ 4146431623] hejkhfkj             (  164.7,   192.5,     2.9)
+  NAH WHAT HAS GOTTEN ITO Y
+2022-12-22T07:43:46Z: PLAYER CHATTED [  290447342] pictureu             (   97.3,   192.8,    -0.3)
+  its not bad
+2022-12-22T07:43:49Z: PLAYER CHATTED [   26274159] Jirachi1002          (   83.1,   192.5,   -19.8)
+  thats really fun
+2022-12-22T07:43:49Z: PLAYER CHATTED [  806236363] miaroshi             (  112.1,   191.4,    -4.6)
+  hi so tired
+2022-12-22T07:43:50Z: PLAYER CHATTED [  259773550] Starnamics           (  299.0,   197.8,   -60.0)
+  he is running away from uys
+2022-12-22T07:43:51Z: PLAYER CHATTED [  290447342] pictureu             (   98.5,   192.8,    -1.8)
+  the rip lives
+2022-12-22T07:43:51Z: PLAYER CHATTED [   31822522] FileSaved            (   75.1,   193.1,   -22.9)
+  yea
+2022-12-22T07:43:51Z: PLAYER CHATTED [   55605782] coefficients         (  322.0,   197.2,   -72.5)
+  omg real santa
+2022-12-22T07:43:52Z: PLAYER CHATTED [  720597463] f1zxyy               (  109.5,   191.4,    -8.6)
+  im running on like 3 hours of sleep
+2022-12-22T07:43:53Z: PLAYER CHATTED [  290447342] pictureu             (   98.3,   192.8,    -2.9)
+  drip
+2022-12-22T07:43:55Z: PLAYER CHATTED [    1630228] VisualPlugin         (  122.3,   192.4,   -11.6)
+  He's not anymore.
+2022-12-22T07:43:56Z: PLAYER REMOVED [  491179047] P_rp1e               a.k.a. Purple              
+2022-12-22T07:43:57Z: PLAYER CHATTED [ 4146431623] hejkhfkj             (  164.7,   192.5,     2.9)
+  WERE DID Y LEARN ALL THIS SH
+2022-12-22T07:43:57Z: PLAYER CHATTED [  720597463] f1zxyy               (  109.5,   191.4,    -8.6)
+  for the past 2 days
+2022-12-22T07:43:58Z: PLAYER CHATTED [  154054216] cazgamez             (  102.5,   193.0,    -6.5)
+  okay good
+2022-12-22T07:44:03Z: PLAYER CHATTED [  720597463] f1zxyy               (  109.5,   191.4,    -8.6)
+  ihavent slept
+2022-12-22T07:44:03Z: PLAYER CHATTED [  290447342] pictureu             (   96.2,   192.9,    -7.5)
+  snowman looking
+2022-12-22T07:44:03Z: PLAYER CHATTED [ 4112164679] icydrizzles          (  161.0,   192.9,     0.3)
+  im done
+2022-12-22T07:44:04Z: PLAYER CHATTED [   31822522] FileSaved            (   50.8,   193.7,    29.0)
+  more capitalism
+2022-12-22T07:44:05Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        (  345.9,   197.5,   -61.8)
+  sunglas
+2022-12-22T07:44:07Z: PLAYER CHATTED [  720597463] f1zxyy               (  109.5,   191.4,    -8.6)
+  yet
+2022-12-22T07:44:08Z: PLAYER CHATTED [  154054216] cazgamez             (  102.5,   193.0,    -6.5)
+  huh
+2022-12-22T07:44:09Z: PLAYER CHATTED [  806236363] miaroshi             (  112.1,   191.4,    -4.6)
+  are there board games this year
+2022-12-22T07:44:09Z: PLAYER CHATTED [ 1594236966] Midnightific         (  330.3,   197.0,   -62.0)
+  star sing mariah carey
+2022-12-22T07:44:09Z: PLAYER CHATTED [ 4112164679] icydrizzles          (  160.7,   192.9,     0.8)
+  forget my name
+2022-12-22T07:44:10Z: PLAYER CHATTED [  259773550] Starnamics           (  351.4,   197.4,   -59.7)
+  60 robux for headphones
+2022-12-22T07:44:13Z: PLAYER CHATTED [  720597463] f1zxyy               (  109.5,   191.4,    -8.6)
+  theres a few
+2022-12-22T07:44:14Z: PLAYER CHATTED [  290447342] pictureu             (   99.1,   193.0,   -11.4)
+  its good
+2022-12-22T07:44:14Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        (  345.9,   197.5,   -68.3)
+  damn
+2022-12-22T07:44:14Z: PLAYER CHATTED [ 4146431623] hejkhfkj             (  164.7,   192.5,     2.9)
+  BRO WHY IS YO CHARRACTER THT
+2022-12-22T07:44:16Z: PLAYER CHATTED [  154054216] cazgamez             (  102.5,   193.0,    -6.5)
+  its just a white suit
+2022-12-22T07:44:17Z: PLAYER CHATTED [  806236363] miaroshi             (  112.1,   191.4,    -4.6)
+  WOOOO
+2022-12-22T07:44:18Z: PLAYER CHATTED [  334352372] MushNowa_v2          (  115.6,   191.7,    -4.9)
+  you should get some big Zzzzz soon
+2022-12-22T07:44:20Z: PLAYER CHATTED [ 4112164679] icydrizzles          (  160.9,   192.9,     0.0)
+  im done playing thats why
+2022-12-22T07:44:20Z: PLAYER CHATTED [  259773550] Starnamics           (  326.1,   197.0,   -69.4)
+  never
+2022-12-22T07:44:21Z: PLAYER CHATTED [ 4146431623] hejkhfkj             (  164.7,   192.5,     2.9)
+  NAH STOP
+2022-12-22T07:44:21Z: PLAYER CHATTED [  806236363] miaroshi             (  112.7,   191.4,    -4.8)
+  best roliday frr
+2022-12-22T07:44:23Z: PLAYER CHATTED [   55605782] coefficients         (  236.4,   197.6,   -86.7)
+  iiiiiiiiiiiii
+2022-12-22T07:44:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (  118.6,   192.9,   -19.1)
+  I used to be friends with user Tex/
+2022-12-22T07:44:26Z: PLAYER CHATTED [ 4112164679] icydrizzles          (  160.9,   192.9,    -0.2)
+  peace
+2022-12-22T07:44:26Z: PLAYER CHATTED [  720597463] f1zxyy               (  109.4,   191.4,    -8.6)
+  i pulled them from one of the old games
+2022-12-22T07:44:26Z: PLAYER CHATTED [ 4146431623] hejkhfkj             (  164.7,   192.5,     2.9)
+  YR NOT COOL
+2022-12-22T07:44:27Z: PLAYER CHATTED [   26274159] Jirachi1002          (   39.5,   193.4,    20.8)
+  i only found out who this was after looking at the crown here
+2022-12-22T07:44:27Z: PLAYER CHATTED [   37739692] TechnicallyRora      (  132.4,   192.2,    -6.8)
+  2021 was better
+2022-12-22T07:44:28Z: PLAYER CHATTED [  290447342] pictureu             (   98.1,   192.8,    -7.8)
+  why u so skinny
+2022-12-22T07:44:29Z: PLAYER CHATTED [  806236363] miaroshi             (  112.7,   191.4,    -4.8)
+  good
+2022-12-22T07:44:30Z: PLAYER REMOVED [ 4112164679] icydrizzles          a.k.a. drizzy              
+2022-12-22T07:44:32Z: PLAYER CHATTED [  720597463] f1zxyy               (  109.4,   191.4,    -8.6)
+  and yeah i will in a bit
+2022-12-22T07:44:32Z: PLAYER CHATTED [   55605782] coefficients         (  181.7,   197.0,   -75.9)
+  dont want a lot for quismois
+2022-12-22T07:44:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (  118.6,   192.9,   -19.1)
+  His user I.D. was 111.
+2022-12-22T07:44:34Z: PLAYER CHATTED [   31822522] FileSaved            (   35.7,   193.5,    24.1)
+  LOL
+2022-12-22T07:44:36Z: PLAYER CHATTED [  259773550] Starnamics           (  174.7,   191.7,    -8.1)
+  where did roach go
+2022-12-22T07:44:39Z: PLAYER CHATTED [  720597463] f1zxyy               (  109.4,   191.4,    -8.6)
+  yall wanna hop on qa vc
+2022-12-22T07:44:39Z: PLAYER CHATTED [   26274159] Jirachi1002          (   36.0,   193.0,    21.8)
+  because you told me about it
+2022-12-22T07:44:39Z: PLAYER CHATTED [  154054216] cazgamez             (  102.5,   193.0,    -6.5)
+  bec i dont like being a chonk ruins the fit
+2022-12-22T07:44:40Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        (  177.0,   191.7,    -2.0)
+  idk
+2022-12-22T07:44:40Z: PLAYER CHATTED [   31822522] FileSaved            (   35.7,   193.5,    24.1)
+  yeah most of these aren't named
+2022-12-22T07:44:42Z: PLAYER CHATTED [ 4146431623] hejkhfkj             (  164.7,   192.5,     2.9)
+  :(
+2022-12-22T07:44:43Z: PLAYER CHATTED [  806236363] miaroshi             (  112.7,   191.4,    -4.8)
+  sure
+2022-12-22T07:44:43Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        (  177.0,   191.7,    -2.0)
+  i think mueseum
+2022-12-22T07:44:45Z: PLAYER CHATTED [ 1594236966] Midnightific         (  178.1,   192.8,   -10.3)
+  he went
+2022-12-22T07:44:45Z: PLAYER CHATTED [  259773550] Starnamics           (  167.2,   191.7,    -5.0)
+  o
+2022-12-22T07:44:46Z: PLAYER REMOVED [ 4146431623] hejkhfkj             a.k.a. jordanplayzz        
+2022-12-22T07:44:47Z: PLAYER CHATTED [ 1594236966] Midnightific         (  178.1,   192.8,   -10.3)
+  thru portal
+2022-12-22T07:44:48Z: PLAYER CHATTED [  720597463] f1zxyy               (  109.6,   191.4,    -9.0)
+  oml
+2022-12-22T07:44:51Z: PLAYER CHATTED [  290447342] pictureu             (   98.6,   192.8,    -7.6)
+  doesnt
+2022-12-22T07:44:51Z: PLAYER CHATTED [   31822522] FileSaved            (   38.1,   193.5,    25.5)
+  only a couple people bothered to name their store
+2022-12-22T07:44:52Z: PLAYER CHATTED [  259773550] Starnamics           (  107.0,   194.8,   -47.6)
+  donation
+2022-12-22T07:44:55Z: PLAYER CHATTED [  720597463] f1zxyy               (  109.6,   191.4,    -9.0)
+  dont say it like that om
+2022-12-22T07:44:56Z: PLAYER CHATTED [  290447342] pictureu             (   98.6,   192.8,    -7.6)
+  it adds MUSCLE
+2022-12-22T07:44:56Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        (  105.0,   194.8,   -45.7)
+  yes
+2022-12-22T07:44:58Z: PLAYER CHATTED [  259773550] Starnamics           (  103.8,   194.8,   -50.4)
+  410k
+2022-12-22T07:45:00Z: PLAYER CHATTED [  720597463] f1zxyy               (  109.6,   191.4,    -9.0)
+  also im going to vc
+2022-12-22T07:45:01Z: PLAYER CHATTED [  259773550] Starnamics           (  103.8,   194.8,   -50.4)
+  what the hell
+2022-12-22T07:45:02Z: PLAYER CHATTED [  154054216] cazgamez             (  102.5,   193.0,    -6.5)
+  nooo
+2022-12-22T07:45:07Z: PLAYER CHATTED [  154054216] cazgamez             (  102.5,   193.0,    -6.5)
+  only works via r6
+2022-12-22T07:45:07Z: PLAYER CHATTED [  334352372] MushNowa_v2          (  115.6,   191.7,    -4.9)
+  the 2:45 am vc
+2022-12-22T07:45:09Z: PLAYER CHATTED [  259773550] Starnamics           (  103.8,   194.8,   -50.4)
+  coef casually donating 20k
+2022-12-22T07:45:09Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        (  103.5,   194.8,   -46.9)
+  i will just do 2 50 robux one
+2022-12-22T07:45:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (  128.7,   192.4,   -11.6)
+  JordanL
+2022-12-22T07:45:14Z: PLAYER CHATTED [  290447342] pictureu             (   97.8,   192.8,    -6.1)
+  aight aigh u win
+2022-12-22T07:45:15Z: PLAYER CHATTED [  154054216] cazgamez             (  102.5,   193.0,    -6.5)
+  but r6 only works via older fits
+2022-12-22T07:45:18Z: PLAYER CHATTED [   38973091] jordonh23            (  125.0,   191.7,   -10.9)
+  yes
+2022-12-22T07:45:19Z: PLAYER CHATTED [   55605782] coefficients         (   99.4,   194.6,   -46.6)
+  ok ninth is a good place to be
+2022-12-22T07:45:28Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        (  103.0,   194.8,   -48.3)
+  donated 50 robux
+2022-12-22T07:45:30Z: PLAYER ADDED   [   30483959] maplestick          
+2022-12-22T07:45:30Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        (  107.7,   194.5,   -45.5)
+  i mean 100
+2022-12-22T07:45:37Z: PLAYER CHATTED [    1630228] VisualPlugin         (  128.7,   192.4,   -11.6)
+  Would you be able to pipe the audio output to a live stream by any chance?
+2022-12-22T07:45:44Z: PLAYER CHATTED [   32051097] uwutitanic           (  175.1,   193.0,   136.0)
+  maole
+2022-12-22T07:45:44Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        (  106.8,   193.3,   -41.8)
+  #####
+2022-12-22T07:45:47Z: PLAYER CHATTED [  290447342] pictureu             (   97.4,   192.8,    -6.1)
+  caz go to DM ima ask u something
+2022-12-22T07:45:47Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        (  106.8,   193.3,   -41.8)
+  how would you donate
+2022-12-22T07:45:49Z: PLAYER CHATTED [   55605782] coefficients         ( -125.9,   194.7,   -56.3)
+  this ice skating is sick
+2022-12-22T07:45:49Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        (  106.8,   193.3,   -41.8)
+  1mil robux
+2022-12-22T07:45:55Z: PLAYER CHATTED [   30701890] Kariu                (  184.9,   193.0,   138.0)
+  /e wave
+2022-12-22T07:45:59Z: PLAYER CHATTED [   32051097] uwutitanic           (  178.5,   193.0,   141.6)
+  /e wave
+2022-12-22T07:45:59Z: PLAYER CHATTED [   31822522] FileSaved            (  121.0,   196.9,   115.1)
+  this shop is what prompted my collision check hunt
+2022-12-22T07:45:59Z: PLAYER CHATTED [  259773550] Starnamics           (  110.5,   194.8,   -47.1)
+  IT WONT LEMMEE CLICK
+2022-12-22T07:46:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (  128.7,   192.4,   -11.6)
+  It's fine if you're unable to.
+2022-12-22T07:46:03Z: PLAYER CHATTED [  259773550] Starnamics           (  114.0,   193.3,   -45.7)
+  i give up
+2022-12-22T07:46:03Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        (  108.2,   193.3,   -40.8)
+  haha
+2022-12-22T07:46:05Z: PLAYER CHATTED [   26274159] Jirachi1002          (  146.7,   193.0,    92.0)
+  lol
+2022-12-22T07:46:05Z: CHRCTER ADDED  [   30483959] maplestick          
+2022-12-22T07:46:08Z: PLAYER CHATTED [  259773550] Starnamics           (  114.0,   193.3,   -45.7)
+  no donation for younite
+2022-12-22T07:46:08Z: PLAYER CHATTED [  259773550] Starnamics           (  114.0,   193.3,   -45.7)
+  no donation for younite
+2022-12-22T07:46:09Z: PLAYER CHATTED [    1630228] VisualPlugin         (  128.7,   192.4,   -11.6)
+  Not trivial to set up.
+2022-12-22T07:46:22Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        (   79.6,   193.3,    -3.8)
+  what will we do
+2022-12-22T07:46:25Z: PLAYER CHATTED [   31822522] FileSaved            (  173.5,   191.9,    -0.5)
+  bonfire
+2022-12-22T07:46:30Z: PLAYER CHATTED [   38973091] jordonh23            (  124.8,   191.7,   -10.9)
+  not sure I can do that  since I'm on mobile 
+2022-12-22T07:46:30Z: PLAYER CHATTED [   38973091] jordonh23            (  124.8,   191.7,   -10.9)
+  not sure I can do that since I'm on mobile 
+2022-12-22T07:46:31Z: PLAYER CHATTED [   31822522] FileSaved            (  148.9,   198.4,    21.6)
+  it doesn't #### ###
+2022-12-22T07:46:32Z: PLAYER CHATTED [   30483959] maplestick           (  186.4,   193.5,   123.5)
+  small
+2022-12-22T07:46:34Z: PLAYER CHATTED [   31822522] FileSaved            (  150.2,   196.6,    21.1)
+  ok filter
+2022-12-22T07:46:37Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        ( 1285.3,  -126.3,   165.7)
+  oh lol
+2022-12-22T07:46:37Z: PLAYER CHATTED [   31822522] FileSaved            (  151.1,   194.0,    23.2)
+  it doesn't burn
+2022-12-22T07:46:37Z: PLAYER CHATTED [    1630228] VisualPlugin         (  128.6,   192.4,   -11.7)
+  That's fine.
+2022-12-22T07:46:39Z: PLAYER CHATTED [  290447342] pictureu             (   98.4,   205.3,    -8.5)
+  I HAVE BROKEN YOUR GAME DEVELOPER
+2022-12-22T07:46:57Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        ( 1327.7,  -102.2,   233.6)
+  door
+2022-12-22T07:46:58Z: PLAYER CHATTED [  259773550] Starnamics           ( 1320.5,  -102.2,   225.5)
+  that is creepy
+2022-12-22T07:46:58Z: PLAYER CHATTED [   30483959] maplestick           (  186.4,   193.5,   123.5)
+  i fell off
+2022-12-22T07:47:00Z: PLAYER CHATTED [ 1594236966] Midnightific         ( 1330.1,  -102.2,   227.7)
+  s
+2022-12-22T07:47:02Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        ( 1330.1,  -102.2,   231.8)
+  lol
+2022-12-22T07:47:02Z: PLAYER CHATTED [  595041107] cardmman             (   85.9,   193.4,    37.3)
+  Hay
+2022-12-22T07:47:05Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        ( 1327.2,  -102.2,   232.9)
+  do htat blink?
+2022-12-22T07:47:14Z: PLAYER CHATTED [   42622411] rankydoodle          ( -198.5,   193.7,   -72.7)
+  gg
+2022-12-22T07:47:15Z: PLAYER CHATTED [ 1594236966] Midnightific         ( 1330.8,  -102.2,   234.1)
+  i eat lunch now bye
+2022-12-22T07:47:15Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        ( 1322.2,  -102.2,   232.8)
+  s
+2022-12-22T07:47:18Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        ( 1322.2,  -102.2,   232.8)
+  alr
+2022-12-22T07:47:18Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        ( 1322.2,  -102.2,   232.8)
+  cya
+2022-12-22T07:47:20Z: PLAYER CHATTED [   56481088] Okekomi              ( -198.5,   193.7,   -86.7)
+  that was
+2022-12-22T07:47:22Z: PLAYER CHATTED [    1630228] VisualPlugin         (  119.9,   192.4,    -9.6)
+  Care to check my showcase at this time?
+2022-12-22T07:47:24Z: PLAYER CHATTED [   56481088] Okekomi              ( -198.5,   193.7,   -86.7)
+  a long mat ch
+2022-12-22T07:47:25Z: PLAYER CHATTED [   30483959] maplestick           (  186.4,   193.5,   123.5)
+  im building a whiteboard
+2022-12-22T07:47:26Z: PLAYER CHATTED [  595041107] cardmman             (  131.8,   221.9,   -12.2)
+  How are you got soda
+2022-12-22T07:47:29Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        ( 1338.0,  -102.2,   228.9)
+  star
+2022-12-22T07:47:30Z: PLAYER CHATTED [   42622411] rankydoodle          ( -198.5,   193.7,   -72.7)
+  yes
+2022-12-22T07:47:32Z: PLAYER CHATTED [   30483959] maplestick           (  186.4,   193.5,   123.5)
+  its a white board
+2022-12-22T07:47:35Z: PLAYER CHATTED [   56481088] Okekomi              ( -198.5,   193.7,   -86.7)
+  time to
+2022-12-22T07:47:38Z: PLAYER CHATTED [   38973091] jordonh23            (  123.7,   191.7,    -9.9)
+  I don't mind
+2022-12-22T07:47:40Z: PLAYER CHATTED [   56481088] Okekomi              ( -194.6,   194.2,   -85.9)
+  skate
+2022-12-22T07:47:42Z: PLAYER CHATTED [   30483959] maplestick           (  186.4,   193.5,   123.5)
+  it was delivered
+2022-12-22T07:47:48Z: PLAYER CHATTED [  139859423] d5no                 (  144.7,   205.3,   -59.0)
+  i built a few minigames
+2022-12-22T07:47:49Z: PLAYER CHATTED [  139859423] d5no                 (  144.7,   205.3,   -59.0)
+  for it
+2022-12-22T07:47:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (  119.7,   192.4,   -10.1)
+  Follow me soon.
+2022-12-22T07:48:01Z: PLAYER CHATTED [   38973091] jordonh23            (  123.8,   191.7,   -10.0)
+  alrighty 
+2022-12-22T07:48:02Z: PLAYER CHATTED [  595041107] cardmman             (  147.6,   208.3,   -59.8)
+  Aww I rlly want one 
+2022-12-22T07:48:02Z: PLAYER CHATTED [   30483959] maplestick           (  183.9,   193.5,   122.1)
+  no
+2022-12-22T07:48:06Z: PLAYER CHATTED [   55605782] coefficients         ( 1307.4,  -126.4,   130.9)
+  omg its the demogorgon 
+2022-12-22T07:48:07Z: PLAYER CHATTED [  139859423] d5no                 (  144.7,   205.3,   -59.0)
+  :c
+2022-12-22T07:48:10Z: PLAYER CHATTED [   30483959] maplestick           (  183.9,   193.5,   122.1)
+  fine 
+2022-12-22T07:48:10Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        ( 1295.4,  -126.2,   162.9)
+  coef
+2022-12-22T07:48:11Z: PLAYER CHATTED [ 3638649244] ExpiredBreaad        ( 1295.4,  -126.2,   162.9)
+  there
+2022-12-22T07:48:11Z: PLAYER CHATTED [  259773550] Starnamics           ( 1301.2,  -126.2,   156.7)
+  stranger things
+2022-12-22T07:48:13Z: PLAYER CHATTED [  139859423] d5no                 (  144.7,   205.3,   -59.0)
+  i dont hav any sorry
+2022-12-22T07:48:13Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-22T07:48:13Z: PLAYER REMOVED [   37739692] TechnicallyRora      a.k.a. rora                
+2022-12-22T07:48:13Z: PLAYER REMOVED [  259773550] Starnamics           a.k.a. star                
+2022-12-22T07:48:13Z: PLAYER REMOVED [ 3436218611] GuessASuperCoolGuy   a.k.a. Scapter             
+2022-12-22T07:48:13Z: PLAYER REMOVED [   31822522] FileSaved           
+2022-12-22T07:48:13Z: PLAYER REMOVED [  925872199] Sergeant_Roach       a.k.a. gamer               
+2022-12-22T07:48:13Z: PLAYER REMOVED [   66798175] kahgo                a.k.a. akira               
+2022-12-22T07:48:13Z: PLAYER REMOVED [   35681709] 404N1KO              a.k.a. N1KO                
+2022-12-22T07:48:13Z: PLAYER REMOVED [  127492959] pancakuuu            a.k.a. pancake             
+2022-12-22T07:48:13Z: PLAYER REMOVED [  720597463] f1zxyy              
+2022-12-22T07:48:13Z: PLAYER REMOVED [   30336519] GalacticLemons       a.k.a. Lemons              
+2022-12-22T07:48:13Z: PLAYER REMOVED [   32051097] uwutitanic           a.k.a. Matcha              
+2022-12-22T07:48:13Z: PLAYER REMOVED [   42230734] miny_mashx           a.k.a. Miny_Mash           
+2022-12-22T07:48:13Z: PLAYER REMOVED [  154054216] cazgamez             a.k.a. caz                 
+2022-12-22T07:48:13Z: PLAYER REMOVED [   30701890] Kariu               
+2022-12-22T07:48:13Z: PLAYER REMOVED [   11437160] mathep              
+2022-12-22T07:48:13Z: PLAYER REMOVED [   31446979] 2involved            a.k.a. adam                
+2022-12-22T07:48:13Z: PLAYER REMOVED [ 1594236966] Midnightific        
+2022-12-22T07:48:13Z: PLAYER REMOVED [   42622411] rankydoodle         
+2022-12-22T07:48:13Z: PLAYER REMOVED [  106492189] SSSpencer413         a.k.a. SSS                 
+2022-12-22T07:48:13Z: PLAYER REMOVED [  334352372] MushNowa_v2          a.k.a. MushNowa            

@@ -1,0 +1,108 @@
+[    1630228] : [  218377574] Admin Simulator [☢️NUCLEAR ISLAND☢️] - 1ccf3afa-3107-4834-88bc-26b03da3f363
+2022-12-06T05:11:27Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-12-06T05:11:27Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-06T05:11:27Z: PLAYER ADDED   [  972022326] Littletristanjordan  a.k.a. Npc                 
+2022-12-06T05:11:27Z: PLAYER ADDED   [ 3938651454] ilovegodtobemysavior a.k.a. Robloxer            
+2022-12-06T05:11:27Z: PLAYER ADDED   [ 2436836705] AgentGUN_March2021  
+2022-12-06T05:11:27Z: PLAYER ADDED   [ 3539403569] eLrinannn           
+2022-12-06T05:11:30Z: CHRCTER ADDED  [ 2436836705] AgentGUN_March2021  
+2022-12-06T05:11:33Z: CHRCTER ADDED  [ 3938651454] ilovegodtobemysavior a.k.a. Robloxer            
+2022-12-06T05:11:37Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-06T05:11:45Z: CHRCTER ADDED  [ 3938651454] ilovegodtobemysavior a.k.a. Robloxer            
+2022-12-06T05:11:45Z: CHRCTER ADDED  [ 3539403569] eLrinannn           
+2022-12-06T05:11:45Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-06T05:11:45Z: CHRCTER ADDED  [ 2436836705] AgentGUN_March2021  
+2022-12-06T05:11:45Z: PLAYER CHATTED [  972022326] Littletristanjordan  (    1.5,   -36.2,  -133.8)
+  :size others 30
+2022-12-06T05:11:52Z: CHRCTER ADDED  [ 3539403569] eLrinannn           
+2022-12-06T05:11:54Z: CHRCTER ADDED  [ 3938651454] ilovegodtobemysavior a.k.a. Robloxer            
+2022-12-06T05:11:55Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-06T05:11:58Z: CHRCTER ADDED  [ 2436836705] AgentGUN_March2021  
+2022-12-06T05:11:59Z: PLAYER CHATTED [ 2436836705] AgentGUN_March2021   (    9.7,   -35.8,  -139.5)
+  :re
+2022-12-06T05:12:00Z: PLAYER REMOVED [ 3539403569] eLrinannn           
+2022-12-06T05:12:08Z: PLAYER CHATTED [  972022326] Littletristanjordan  (   -8.6,   -36.2,  -166.1)
+  :thanos others
+2022-12-06T05:12:14Z: CHRCTER ADDED  [ 3938651454] ilovegodtobemysavior a.k.a. Robloxer            
+2022-12-06T05:12:18Z: PLAYER CHATTED [  972022326] Littletristanjordan  (   -8.7,   -36.2,  -152.1)
+  :thanos agent
+2022-12-06T05:12:23Z: PLAYER CHATTED [  972022326] Littletristanjordan  (   -8.7,   -36.2,  -152.1)
+  :thanos agent
+2022-12-06T05:12:28Z: CHRCTER ADDED  [ 2436836705] AgentGUN_March2021  
+2022-12-06T05:12:32Z: PLAYER CHATTED [  972022326] Littletristanjordan  (  -11.1,   -36.2,  -154.5)
+  :talk
+2022-12-06T05:12:40Z: PLAYER CHATTED [  972022326] Littletristanjordan  (  -11.1,   -36.2,  -154.6)
+  :talk agent hi
+2022-12-06T05:12:42Z: PLAYER ADDED   [  277694780] icelyude02           a.k.a. pls                 
+2022-12-06T05:12:58Z: PLAYER CHATTED [ 2436836705] AgentGUN_March2021   (    4.3,   -36.2,  -132.0)
+  ####################################
+2022-12-06T05:13:12Z: PLAYER CHATTED [  972022326] Littletristanjordan  (  -10.4,   -36.2,  -157.2)
+  ###### ############
+2022-12-06T05:13:18Z: PLAYER CHATTED [  972022326] Littletristanjordan  (   -8.8,   -36.2,  -150.0)
+  ###### others hi
+2022-12-06T05:13:33Z: PLAYER CHATTED [  972022326] Littletristanjordan  (  -15.2,   -36.2,  -157.9)
+  ###### others ryanstoyreviews
+2022-12-06T05:13:40Z: PLAYER CHATTED [  972022326] Littletristanjordan  (  -13.8,   -36.2,  -151.9)
+  lol
+2022-12-06T05:13:54Z: PLAYER CHATTED [ 2436836705] AgentGUN_March2021   (  -16.6,   -36.2,  -143.1)
+  :Talk NPC I’m a noob
+2022-12-06T05:13:54Z: PLAYER CHATTED [  972022326] Littletristanjordan  (   -7.3,   -36.2,  -155.7)
+  :ice others
+2022-12-06T05:14:16Z: PLAYER CHATTED [ 2436836705] AgentGUN_March2021   (  -13.9,   -36.2,  -145.9)
+  :Explode others
+2022-12-06T05:14:21Z: CHRCTER ADDED  [  972022326] Littletristanjordan  a.k.a. Npc                 
+2022-12-06T05:14:21Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-06T05:14:21Z: CHRCTER ADDED  [ 3938651454] ilovegodtobemysavior a.k.a. Robloxer            
+2022-12-06T05:14:21Z: CHRCTER ADDED  [  277694780] icelyude02           a.k.a. pls                 
+2022-12-06T05:14:22Z: PLAYER CHATTED [  972022326] Littletristanjordan  (    1.8,   -35.9,  -168.1)
+  :jail agent
+2022-12-06T05:14:25Z: PLAYER CHATTED [ 2436836705] AgentGUN_March2021   (  -13.5,   -36.4,  -146.2)
+  :unjail 
+2022-12-06T05:14:28Z: PLAYER CHATTED [  972022326] Littletristanjordan  (  -11.8,   -36.2,  -147.7)
+  :poop agemt
+2022-12-06T05:14:33Z: PLAYER CHATTED [  972022326] Littletristanjordan  (   -6.8,   -36.2,  -147.8)
+  :poop agent
+2022-12-06T05:14:45Z: PLAYER CHATTED [  972022326] Littletristanjordan  (   -5.7,   -36.2,  -149.0)
+  :loopkill agent
+2022-12-06T05:14:53Z: PLAYER CHATTED [  277694780] icelyude02           (   13.2,   -36.2,  -132.8)
+  ###########
+2022-12-06T05:15:07Z: PLAYER CHATTED [  972022326] Littletristanjordan  (   -5.6,   -36.2,  -150.3)
+  :poop agent
+2022-12-06T05:15:11Z: PLAYER CHATTED [  972022326] Littletristanjordan  (   -5.6,   -36.2,  -150.3)
+  :poop agent
+2022-12-06T05:15:14Z: PLAYER CHATTED [  972022326] Littletristanjordan  (   -5.6,   -36.2,  -150.4)
+  :poop agent
+2022-12-06T05:15:17Z: PLAYER CHATTED [  972022326] Littletristanjordan  (   -5.6,   -36.2,  -150.4)
+  :poop agent
+2022-12-06T05:15:22Z: PLAYER CHATTED [ 2436836705] AgentGUN_March2021   (  -13.5,   -36.4,  -146.2)
+  :Unfreeze o all
+2022-12-06T05:15:23Z: PLAYER CHATTED [  972022326] Littletristanjordan  (   -6.0,   -36.2,  -148.5)
+  :poop agent
+2022-12-06T05:15:27Z: PLAYER REMOVED [ 2436836705] AgentGUN_March2021  
+2022-12-06T05:15:30Z: PLAYER ADDED   [ 2436836705] AgentGUN_March2021  
+2022-12-06T05:15:41Z: CHRCTER ADDED  [ 2436836705] AgentGUN_March2021  
+2022-12-06T05:15:41Z: PLAYER CHATTED [  972022326] Littletristanjordan  (    7.1,   -36.2,  -135.8)
+  :respawn agent
+2022-12-06T05:15:49Z: PLAYER CHATTED [  972022326] Littletristanjordan  (    7.1,   -36.2,  -135.7)
+  :jail agent
+2022-12-06T05:15:53Z: PLAYER CHATTED [  972022326] Littletristanjordan  (    7.1,   -36.2,  -135.7)
+  :freeze agent
+2022-12-06T05:15:56Z: PLAYER CHATTED [  972022326] Littletristanjordan  (    7.1,   -36.2,  -135.7)
+  :ice agent
+2022-12-06T05:16:00Z: PLAYER CHATTED [  972022326] Littletristanjordan  (    7.1,   -36.2,  -135.7)
+  :poop agent
+2022-12-06T05:16:12Z: PLAYER CHATTED [ 2436836705] AgentGUN_March2021   (    9.1,   -35.4,  -130.6)
+  Can you forgive us?
+2022-12-06T05:16:18Z: PLAYER CHATTED [  972022326] Littletristanjordan  (  -10.2,   -36.2,  -144.1)
+  me?
+2022-12-06T05:16:23Z: PLAYER CHATTED [  277694780] icelyude02           (    7.4,   -34.4,  -129.1)
+  let me go
+2022-12-06T05:16:32Z: PLAYER CHATTED [  972022326] Littletristanjordan  (    1.7,   -31.2,  -134.3)
+  tp ice me
+2022-12-06T05:16:33Z: PLAYER CHATTED [ 2436836705] AgentGUN_March2021   (    9.1,   -35.4,  -130.6)
+  Yes
+2022-12-06T05:16:40Z: PLAYER CHATTED [  972022326] Littletristanjordan  (    1.7,   -31.2,  -134.3)
+  :tp ice me
+2022-12-06T05:16:49Z: PLAYER CHATTED [  972022326] Littletristanjordan  (    1.7,   -31.2,  -134.3)
+  :tp ice agent
+2022-12-06T05:16:54Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

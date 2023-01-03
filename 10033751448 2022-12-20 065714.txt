@@ -1,0 +1,31 @@
+[    1630228] : [10033751448] [☢NUKE!] 🔨 Build and Battle! - 3b5b3e58-85d3-482b-9664-4d41d27f331e
+2022-12-20T06:57:14Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-12-20T06:57:14Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-20T06:57:14Z: PLAYER ADDED   [ 2690506407] Ak47pwpwp            a.k.a. TheChlllGOD         
+2022-12-20T06:57:14Z: PLAYER ADDED   [ 4068635507] seactnkz            
+2022-12-20T06:57:14Z: PLAYER ADDED   [ 4144082455] 8frx68zd6           
+2022-12-20T06:57:14Z: PLAYER ADDED   [ 3965925941] eiwoow99w           
+2022-12-20T06:57:14Z: PLAYER ADDED   [ 3040861188] roseangelineBut     
+2022-12-20T06:57:14Z: PLAYER ADDED   [ 3159916226] shadiii_pogi        
+2022-12-20T06:57:14Z: PLAYER ADDED   [ 2909207995] ainulmardhiah2016   
+2022-12-20T06:57:19Z: CHRCTER ADDED  [ 3159916226] shadiii_pogi        
+2022-12-20T06:57:20Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2022-12-20T06:57:24Z: CHRCTER ADDED  [ 4144082455] 8frx68zd6           
+2022-12-20T06:57:34Z: CHRCTER ADDED  [ 3040861188] roseangelineBut     
+2022-12-20T06:57:44Z: CHRCTER ADDED  [ 2690506407] Ak47pwpwp            a.k.a. TheChlllGOD         
+2022-12-20T06:57:50Z: CHRCTER ADDED  [ 3040861188] roseangelineBut     
+2022-12-20T06:58:23Z: CHRCTER ADDED  [ 2690506407] Ak47pwpwp            a.k.a. TheChlllGOD         
+2022-12-20T06:58:23Z: CHRCTER ADDED  [ 3159916226] shadiii_pogi        
+2022-12-20T06:58:32Z: CHRCTER ADDED  [ 4144082455] 8frx68zd6           
+2022-12-20T06:58:34Z: CHRCTER ADDED  [ 2690506407] Ak47pwpwp            a.k.a. TheChlllGOD         
+2022-12-20T06:58:44Z: CHRCTER ADDED  [ 3159916226] shadiii_pogi        
+2022-12-20T06:58:45Z: CHRCTER ADDED  [ 4068635507] seactnkz            
+2022-12-20T06:59:12Z: CHRCTER ADDED  [ 3040861188] roseangelineBut     
+2022-12-20T06:59:26Z: CHRCTER ADDED  [ 2690506407] Ak47pwpwp            a.k.a. TheChlllGOD         
+2022-12-20T06:59:35Z: CHRCTER ADDED  [ 4068635507] seactnkz            
+2022-12-20T06:59:36Z: PLAYER CHATTED [ 3040861188] roseangelineBut      (  107.7,    36.5,     5.0)
+  😭😭😭
+2022-12-20T06:59:38Z: CHRCTER ADDED  [ 3159916226] shadiii_pogi        
+2022-12-20T06:59:38Z: CHRCTER ADDED  [ 2690506407] Ak47pwpwp            a.k.a. TheChlllGOD         
+2022-12-20T07:00:07Z: CHRCTER ADDED  [ 3965925941] eiwoow99w           
+2022-12-20T07:00:31Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
