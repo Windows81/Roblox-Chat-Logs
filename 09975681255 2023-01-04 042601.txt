@@ -1,0 +1,309 @@
+[    1630228] : [ 9975681255] [BIG UPDATE] Don't Know The Word - 48997690-721a-4b64-8430-647e9504769e
+2023-01-04T04:26:01Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-04T04:26:01Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-04T04:26:01Z: PLAYER ADDED   [ 2526913335] official_Nyla12      a.k.a. sunflower           
+2023-01-04T04:26:01Z: PLAYER ADDED   [ 3841884707] avaloldadadaa       
+2023-01-04T04:26:01Z: PLAYER ADDED   [ 3147089163] MyProgressGotErased 
+2023-01-04T04:26:01Z: PLAYER ADDED   [ 1047198876] browhattheflip       a.k.a. Everbodydies        
+2023-01-04T04:26:01Z: PLAYER ADDED   [ 4187654904] Killing_candies99   
+2023-01-04T04:26:01Z: PLAYER ADDED   [ 2255462019] dadcantsee           a.k.a. Eva                 
+2023-01-04T04:26:01Z: PLAYER ADDED   [ 1525358238] AlexandriaReign      a.k.a. lexnot_playing      
+2023-01-04T04:26:01Z: PLAYER ADDED   [ 2638005959] Tinkbelltutu        
+2023-01-04T04:26:01Z: PLAYER ADDED   [ 3938718491] jfweojejfio         
+2023-01-04T04:26:01Z: PLAYER ADDED   [ 3954000180] ichirpboo           
+2023-01-04T04:26:01Z: PLAYER ADDED   [ 3404874418] katy_playzrobloxPLA  a.k.a. KATY                
+2023-01-04T04:26:01Z: PLAYER ADDED   [  721657562] unknownprince2k      a.k.a. Dino808             
+2023-01-04T04:26:01Z: PLAYER ADDED   [ 3916488035] Hjvevyuedvu         
+2023-01-04T04:26:01Z: PLAYER CHATTED [ 2526913335] official_Nyla12      (  -37.4,  4205.5,    31.4)
+  yours is poor
+2023-01-04T04:26:02Z: PLAYER CHATTED [ 3841884707] avaloldadadaa        (    5.9,  4206.4,    23.9)
+  your welcome 
+2023-01-04T04:26:02Z: PLAYER CHATTED [ 3147089163] MyProgressGotErased  (  -70.9,   103.5, 32440.1)
+  game
+2023-01-04T04:26:07Z: PLAYER CHATTED [ 3954000180] ichirpboo            (  -37.2,  4205.4,    33.6)
+  Thank you
+2023-01-04T04:26:11Z: PLAYER CHATTED [ 2526913335] official_Nyla12      (  -37.4,  4205.5,    31.4)
+  ohh okk
+2023-01-04T04:26:12Z: PLAYER CHATTED [ 3841884707] avaloldadadaa        (    5.4,  4206.4,    24.0)
+  you 
+2023-01-04T04:26:12Z: PLAYER CHATTED [ 2526913335] official_Nyla12      (  -37.4,  4205.5,    31.4)
+  ohh okk
+2023-01-04T04:26:13Z: PLAYER CHATTED [ 3404874418] katy_playzrobloxPLA  (  -14.4,  4205.7,     5.1)
+  gtg bye
+2023-01-04T04:26:13Z: PLAYER ADDED   [ 4177845467] Karlandnika         
+2023-01-04T04:26:13Z: PLAYER REMOVED [ 4187654904] Killing_candies99   
+2023-01-04T04:26:13Z: PLAYER ADDED   [ 4036722525] Zero_47782387        a.k.a. Fangs               
+2023-01-04T04:26:14Z: PLAYER CHATTED [ 3954000180] ichirpboo            (  -70.9,   103.6, 32440.1)
+  Poor
+2023-01-04T04:26:18Z: PLAYER CHATTED [ 3938718491] jfweojejfio          (  -19.9,  4205.2,     5.6)
+  bye
+2023-01-04T04:26:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -38.7,  4205.7,    44.1)
+  666
+2023-01-04T04:26:21Z: PLAYER REMOVED [ 1525358238] AlexandriaReign      a.k.a. lexnot_playing      
+2023-01-04T04:26:21Z: PLAYER REMOVED [ 3404874418] katy_playzrobloxPLA  a.k.a. KATY                
+2023-01-04T04:26:23Z: CHRCTER ADDED  [ 2255462019] dadcantsee           a.k.a. Eva                 
+2023-01-04T04:26:24Z: PLAYER CHATTED [ 3916488035] Hjvevyuedvu          (    1.2,  4207.2,    16.2)
+  what is my word
+2023-01-04T04:26:28Z: PLAYER ADDED   [ 4009957036] Willow_gem12        
+2023-01-04T04:26:35Z: PLAYER ADDED   [ 2213301368] pantsypan            a.k.a. Narutofoxpantsypan  
+2023-01-04T04:26:35Z: PLAYER CHATTED [ 1047198876] browhattheflip       (  -14.9,  4207.9,    14.4)
+  hey spongebob
+2023-01-04T04:26:35Z: PLAYER CHATTED [ 3841884707] avaloldadadaa        (    2.2,  4206.4,    17.7)
+  your word is it
+2023-01-04T04:26:36Z: PLAYER REMOVED [  721657562] unknownprince2k      a.k.a. Dino808             
+2023-01-04T04:26:42Z: PLAYER CHATTED [ 3841884707] avaloldadadaa        (    2.0,  4206.6,    17.9)
+  i’m t
+2023-01-04T04:26:43Z: PLAYER CHATTED [ 3938718491] jfweojejfio          (  -24.9,  4207.2,    19.6)
+  who me
+2023-01-04T04:26:43Z: PLAYER ADDED   [ 1679055916] Khlara_16           
+2023-01-04T04:26:43Z: PLAYER CHATTED [ 3954000180] ichirpboo            (  -39.3,  4205.6,    47.3)
+  Yours is chat tell me mine
+2023-01-04T04:26:44Z: PLAYER ADDED   [ 1891764399] JustinVeever        
+2023-01-04T04:26:44Z: PLAYER CHATTED [ 3841884707] avaloldadadaa        (    2.0,  4206.6,    17.9)
+  ##
+2023-01-04T04:26:45Z: CHRCTER ADDED  [ 3147089163] MyProgressGotErased 
+2023-01-04T04:26:46Z: PLAYER CHATTED [ 3916488035] Hjvevyuedvu          (    1.2,  4207.2,    16.2)
+  ###
+2023-01-04T04:26:47Z: PLAYER CHATTED [ 1047198876] browhattheflip       (  -23.2,  4207.9,    17.5)
+  yes
+2023-01-04T04:26:48Z: PLAYER CHATTED [ 3841884707] avaloldadadaa        (    2.0,  4206.6,    17.9)
+  ##
+2023-01-04T04:26:51Z: PLAYER CHATTED [ 4009957036] Willow_gem12         (   27.6,  4204.7,    41.8)
+  whats my word>
+2023-01-04T04:26:52Z: PLAYER CHATTED [ 3938718491] jfweojejfio          (  -24.9,  4207.2,    19.6)
+  what
+2023-01-04T04:26:52Z: PLAYER ADDED   [ 3188729339] kit7176kk            a.k.a. Rox                 
+2023-01-04T04:26:53Z: PLAYER CHATTED [ 4177845467] Karlandnika          (  -70.9,   103.7, 32440.1)
+  Whats my word
+2023-01-04T04:26:57Z: PLAYER CHATTED [ 2213301368] pantsypan            (   -5.0,  4205.4,     7.6)
+  What’s my word?
+2023-01-04T04:26:58Z: PLAYER CHATTED [ 1047198876] browhattheflip       (  -23.2,  4207.9,    17.9)
+  spongebob
+2023-01-04T04:27:00Z: PLAYER CHATTED [ 1679055916] Khlara_16            (  -33.1,  4205.5,    29.6)
+  What is my word
+2023-01-04T04:27:02Z: PLAYER CHATTED [ 4009957036] Willow_gem12         (   22.6,  4204.7,    48.3)
+  whats my word
+2023-01-04T04:27:06Z: PLAYER CHATTED [ 3938718491] jfweojejfio          (  -26.6,  4207.2,    20.8)
+  what
+2023-01-04T04:27:07Z: PLAYER CHATTED [ 3954000180] ichirpboo            (  -39.3,  4205.6,    46.8)
+  Tell me mine yours is chat
+2023-01-04T04:27:07Z: PLAYER CHATTED [ 2526913335] official_Nyla12      (   11.6,  4204.8,   121.5)
+  lion
+2023-01-04T04:27:08Z: PLAYER CHATTED [ 3916488035] Hjvevyuedvu          (  -28.3,  4204.7,    19.9)
+  me
+2023-01-04T04:27:09Z: PLAYER CHATTED [ 3916488035] Hjvevyuedvu          (  -28.3,  4204.7,    19.9)
+  me
+2023-01-04T04:27:11Z: PLAYER REMOVED [ 4177845467] Karlandnika         
+2023-01-04T04:27:12Z: PLAYER CHATTED [ 4036722525] Zero_47782387        (  -18.2,  4205.8,    20.3)
+  YouTube 
+2023-01-04T04:27:19Z: PLAYER CHATTED [ 1047198876] browhattheflip       (  -23.3,  4207.9,    18.0)
+  word spongebob
+2023-01-04T04:27:19Z: PLAYER CHATTED [ 2526913335] official_Nyla12      (   13.7,  4204.8,   122.9)
+  mean
+2023-01-04T04:27:19Z: PLAYER CHATTED [ 4009957036] Willow_gem12         (   20.6,  4204.7,    49.8)
+  yours is Get
+2023-01-04T04:27:19Z: PLAYER CHATTED [ 3147089163] MyProgressGotErased  (  -22.8,  4205.8,    21.9)
+  its how
+2023-01-04T04:27:20Z: PLAYER CHATTED [ 4036722525] Zero_47782387        (  -18.2,  4205.8,    20.3)
+  Youtuber 
+2023-01-04T04:27:20Z: PLAYER CHATTED [ 3916488035] Hjvevyuedvu          (  -26.3,  4206.2,    34.3)
+  your word
+2023-01-04T04:27:21Z: CHRCTER ADDED  [ 2526913335] official_Nyla12      a.k.a. sunflower           
+2023-01-04T04:27:22Z: PLAYER CHATTED [ 3916488035] Hjvevyuedvu          (  -26.3,  4206.2,    34.3)
+  is
+2023-01-04T04:27:24Z: PLAYER CHATTED [ 2213301368] pantsypan            (  -25.9,  4206.2,    36.4)
+  What’s my word?
+2023-01-04T04:27:24Z: PLAYER CHATTED [ 3916488035] Hjvevyuedvu          (  -26.3,  4206.2,    34.3)
+  how
+2023-01-04T04:27:27Z: PLAYER CHATTED [ 3954000180] ichirpboo            (  -26.6,  4206.4,    43.1)
+  Lineup if you wanna know you’re Word
+2023-01-04T04:27:32Z: PLAYER CHATTED [ 4036722525] Zero_47782387        (  -18.2,  4205.8,    20.3)
+  Mine?
+2023-01-04T04:27:34Z: PLAYER CHATTED [ 1679055916] Khlara_16            (  -20.6,  4206.1,    21.1)
+  You now yours
+2023-01-04T04:27:36Z: PLAYER CHATTED [ 3938718491] jfweojejfio          (  -32.8,  4207.2,    28.2)
+  its to
+2023-01-04T04:27:36Z: CHRCTER ADDED  [ 2255462019] dadcantsee           a.k.a. Eva                 
+2023-01-04T04:27:36Z: PLAYER CHATTED [ 1047198876] browhattheflip       (  -23.6,  4207.9,    17.7)
+  princess
+2023-01-04T04:27:40Z: PLAYER CHATTED [ 4009957036] Willow_gem12         (   46.1,  4205.4,   -26.5)
+  whats my word
+2023-01-04T04:27:42Z: PLAYER CHATTED [ 3954000180] ichirpboo            (  -25.6,  4204.9,    65.7)
+  Lineup in front of me if you want to know your word
+2023-01-04T04:27:42Z: PLAYER CHATTED [ 3147089163] MyProgressGotErased  (  -40.6,  4205.1,    48.7)
+  get
+2023-01-04T04:27:44Z: PLAYER CHATTED [ 2255462019] dadcantsee           (  -28.3,  4207.4,    22.1)
+  whats mine
+2023-01-04T04:27:46Z: PLAYER CHATTED [ 3841884707] avaloldadadaa        (   44.7,  4205.6,   -28.0)
+  beautiful 
+2023-01-04T04:27:51Z: PLAYER CHATTED [ 2526913335] official_Nyla12      (  -37.3,  4205.5,    30.2)
+  if
+2023-01-04T04:27:53Z: PLAYER REMOVED [ 3147089163] MyProgressGotErased 
+2023-01-04T04:27:53Z: PLAYER CHATTED [ 1047198876] browhattheflip       (  -24.0,  4207.9,    18.1)
+  princess
+2023-01-04T04:27:56Z: PLAYER CHATTED [ 3938718491] jfweojejfio          (  -41.2,  4205.4,    30.5)
+  if
+2023-01-04T04:27:56Z: PLAYER CHATTED [ 3916488035] Hjvevyuedvu          (  -35.5,  4205.2,    31.8)
+  if
+2023-01-04T04:27:57Z: PLAYER CHATTED [ 4009957036] Willow_gem12         (   46.1,  4205.4,   -26.5)
+  oh thanks ur is Get
+2023-01-04T04:27:58Z: PLAYER ADDED   [ 4016602707] monkeybal1234567890 
+2023-01-04T04:27:59Z: PLAYER CHATTED [ 2255462019] dadcantsee           (  -36.4,  4205.3,    33.3)
+  ty
+2023-01-04T04:28:02Z: PLAYER CHATTED [ 2255462019] dadcantsee           (  -36.4,  4205.3,    33.3)
+  if
+2023-01-04T04:28:04Z: PLAYER CHATTED [ 4009957036] Willow_gem12         (   46.1,  4205.4,   -26.5)
+  beutiful
+2023-01-04T04:28:04Z: PLAYER CHATTED [ 3841884707] avaloldadadaa        (   46.9,  4205.7,   -27.6)
+  I know
+2023-01-04T04:28:04Z: PLAYER REMOVED [ 3916488035] Hjvevyuedvu         
+2023-01-04T04:28:06Z: PLAYER CHATTED [ 3954000180] ichirpboo            (   -6.0,  4206.4,    18.3)
+  Yours is how maybe
+2023-01-04T04:28:10Z: PLAYER CHATTED [ 1047198876] browhattheflip       (  -25.2,  4207.9,    18.0)
+  princess
+2023-01-04T04:28:10Z: PLAYER REMOVED [ 4036722525] Zero_47782387        a.k.a. Fangs               
+2023-01-04T04:28:10Z: PLAYER CHATTED [ 3954000180] ichirpboo            (   -6.0,  4206.4,    18.3)
+  How
+2023-01-04T04:28:12Z: PLAYER ADDED   [ 2804012234] Omgloldolls111       a.k.a. SophieeeBear        
+2023-01-04T04:28:14Z: PLAYER CHATTED [ 2526913335] official_Nyla12      (  -70.9,   103.7, 32440.1)
+  to
+2023-01-04T04:28:15Z: PLAYER CHATTED [ 3954000180] ichirpboo            (   -6.0,  4206.4,    18.3)
+  Tell me mine
+2023-01-04T04:28:17Z: PLAYER ADDED   [ 3404020978] Jakey_boi54          a.k.a. qquit               
+2023-01-04T04:28:20Z: PLAYER CHATTED [ 4009957036] Willow_gem12         (   45.3,  4205.4,   -25.9)
+  beutiful
+2023-01-04T04:28:21Z: PLAYER CHATTED [ 2804012234] Omgloldolls111       (  -31.4,  4204.4,    12.4)
+  You
+2023-01-04T04:28:22Z: PLAYER CHATTED [ 4009957036] Willow_gem12         (   45.3,  4205.4,   -25.9)
+  beutiful
+2023-01-04T04:28:23Z: PLAYER REMOVED [ 1047198876] browhattheflip       a.k.a. Everbodydies        
+2023-01-04T04:28:24Z: PLAYER CHATTED [ 1679055916] Khlara_16            (    1.0,  4206.1,    19.0)
+  I know
+2023-01-04T04:28:26Z: PLAYER CHATTED [ 3841884707] avaloldadadaa        (   46.9,  4205.7,   -27.6)
+  you spelled it wrong 
+2023-01-04T04:28:32Z: PLAYER CHATTED [ 2804012234] Omgloldolls111       (  -39.8,  4205.2,    47.4)
+  Girl
+2023-01-04T04:28:32Z: PLAYER ADDED   [ 1047198876] browhattheflip       a.k.a. Everbodydies        
+2023-01-04T04:28:33Z: PLAYER CHATTED [ 1679055916] Khlara_16            (   -1.9,  4205.3,    11.8)
+  You winner
+2023-01-04T04:28:34Z: PLAYER CHATTED [ 3938718491] jfweojejfio          (   -2.0,  4207.2,    13.5)
+  winner
+2023-01-04T04:28:35Z: PLAYER CHATTED [ 4009957036] Willow_gem12         (  -70.9,   103.7, 32440.1)
+  beautiful
+2023-01-04T04:28:38Z: CHRCTER ADDED  [ 4009957036] Willow_gem12        
+2023-01-04T04:28:40Z: PLAYER CHATTED [ 2804012234] Omgloldolls111       (  -38.6,  4204.9,    47.8)
+  Say
+2023-01-04T04:28:40Z: PLAYER CHATTED [ 2526913335] official_Nyla12      (  -37.4,  4205.1,    50.4)
+  yes?
+2023-01-04T04:28:47Z: PLAYER CHATTED [ 2213301368] pantsypan            (    2.1,  4205.0,    11.1)
+  ABC if you want to know your word
+2023-01-04T04:28:48Z: PLAYER CHATTED [ 4009957036] Willow_gem12         (  -37.1,  4204.7,    16.5)
+  urs is spawn
+2023-01-04T04:28:49Z: PLAYER CHATTED [ 2804012234] Omgloldolls111       (  -38.6,  4204.9,    47.8)
+  What’s another way to say to
+2023-01-04T04:28:52Z: PLAYER CHATTED [ 3404020978] Jakey_boi54          (  -40.8,  4205.2,    54.3)
+  ur word is to
+2023-01-04T04:28:54Z: PLAYER CHATTED [ 3841884707] avaloldadadaa        (  -70.9,   103.7, 32440.1)
+  get
+2023-01-04T04:28:56Z: PLAYER CHATTED [ 3188729339] kit7176kk            (  -70.9,   103.6, 32440.1)
+  Favorite
+2023-01-04T04:28:58Z: PLAYER CHATTED [ 2804012234] Omgloldolls111       (  -38.6,  4204.9,    47.8)
+  I. Mean
+2023-01-04T04:28:59Z: CHRCTER ADDED  [ 3188729339] kit7176kk            a.k.a. Rox                 
+2023-01-04T04:28:59Z: PLAYER CHATTED [ 3938718491] jfweojejfio          (   -8.3,  4206.1,    19.1)
+  spongbob
+2023-01-04T04:29:00Z: CHRCTER ADDED  [ 3841884707] avaloldadadaa       
+2023-01-04T04:29:00Z: PLAYER CHATTED [ 1047198876] browhattheflip       (  -70.9,   103.4, 32440.1)
+  spawn
+2023-01-04T04:29:02Z: PLAYER CHATTED [ 2804012234] Omgloldolls111       (  -39.1,  4205.0,    48.2)
+  Ayy
+2023-01-04T04:29:06Z: PLAYER CHATTED [ 3841884707] avaloldadadaa        (  -47.9,  4204.9,    21.2)
+  get
+2023-01-04T04:29:09Z: PLAYER CHATTED [ 4009957036] Willow_gem12         (  -10.1,  4207.2,    13.9)
+  hey ur word is spongebob
+2023-01-04T04:29:09Z: PLAYER CHATTED [ 2804012234] Omgloldolls111       (  -39.1,  4205.0,    48.2)
+  Boy com
+2023-01-04T04:29:10Z: PLAYER CHATTED [ 2526913335] official_Nyla12      (  -35.8,  4204.8,    51.1)
+  ohh
+2023-01-04T04:29:17Z: PLAYER CHATTED [ 3938718491] jfweojejfio          (   -1.7,  4206.1,    21.1)
+  vibes
+2023-01-04T04:29:19Z: PLAYER CHATTED [ 3938718491] jfweojejfio          (   -1.7,  4206.1,    21.1)
+  vibes
+2023-01-04T04:29:21Z: PLAYER CHATTED [ 2804012234] Omgloldolls111       (  -39.1,  4205.0,    48.2)
+  Come
+2023-01-04T04:29:22Z: PLAYER CHATTED [ 3404020978] Jakey_boi54          (  -39.5,  4205.3,    51.4)
+  ?
+2023-01-04T04:29:22Z: PLAYER CHATTED [ 4009957036] Willow_gem12         (   -3.4,  4206.2,    18.5)
+  u spelt t wrong
+2023-01-04T04:29:23Z: PLAYER CHATTED [ 1047198876] browhattheflip       (  -41.3,  4205.9,    38.9)
+  spa2n
+2023-01-04T04:29:27Z: PLAYER CHATTED [ 3938718491] jfweojejfio          (   -1.7,  4206.1,    21.1)
+  thx
+2023-01-04T04:29:27Z: PLAYER CHATTED [ 2804012234] Omgloldolls111       (  -20.9,  4204.8,    77.9)
+  Say
+2023-01-04T04:29:27Z: PLAYER REMOVED [ 2255462019] dadcantsee           a.k.a. Eva                 
+2023-01-04T04:29:28Z: PLAYER CHATTED [ 1047198876] browhattheflip       (  -41.3,  4205.9,    38.9)
+  spawn
+2023-01-04T04:29:32Z: PLAYER CHATTED [ 4009957036] Willow_gem12         (   -7.4,  4206.2,    18.0)
+  ### a new ### its now space
+2023-01-04T04:29:32Z: PLAYER CHATTED [ 3938718491] jfweojejfio          (   -8.9,  4206.1,    21.8)
+  space
+2023-01-04T04:29:34Z: PLAYER CHATTED [ 2804012234] Omgloldolls111       (  -20.9,  4204.8,    77.9)
+  I meant
+2023-01-04T04:29:42Z: PLAYER CHATTED [ 3404020978] Jakey_boi54          (  -18.8,  4205.3,    77.0)
+  say?
+2023-01-04T04:29:42Z: PLAYER REMOVED [ 4016602707] monkeybal1234567890 
+2023-01-04T04:29:44Z: PLAYER CHATTED [ 4009957036] Willow_gem12         (  -33.9,  4206.5,    37.0)
+  hey its space
+2023-01-04T04:29:46Z: PLAYER CHATTED [ 4009957036] Willow_gem12         (  -33.9,  4206.5,    37.0)
+  hey its space
+2023-01-04T04:29:55Z: PLAYER CHATTED [ 2804012234] Omgloldolls111       (  -20.4,  4204.8,    78.5)
+  DONT say
+2023-01-04T04:29:55Z: PLAYER CHATTED [ 3938718491] jfweojejfio          (  -34.6,  4207.2,    41.6)
+  spongebob
+2023-01-04T04:29:55Z: PLAYER CHATTED [ 3188729339] kit7176kk            (  -40.8,  4206.0,    24.8)
+  Chocolatte
+2023-01-04T04:29:55Z: PLAYER ADDED   [ 4161685761] pepsicola12345_xd   
+2023-01-04T04:29:55Z: CHRCTER ADDED  [ 1891764399] JustinVeever        
+2023-01-04T04:29:57Z: PLAYER ADDED   [ 2492038921] XxBobaqueen_hixX     a.k.a. Giovanni            
+2023-01-04T04:29:58Z: PLAYER CHATTED [ 2804012234] Omgloldolls111       (  -20.4,  4204.8,    78.5)
+  Repeat me
+2023-01-04T04:30:01Z: PLAYER CHATTED [ 3404020978] Jakey_boi54          (  -18.8,  4205.3,    77.0)
+  ur word is dababy
+2023-01-04T04:30:01Z: PLAYER CHATTED [ 2804012234] Omgloldolls111       (  -20.4,  4204.8,    78.5)
+  DONT
+2023-01-04T04:30:03Z: PLAYER CHATTED [ 2804012234] Omgloldolls111       (  -20.4,  4204.8,    78.5)
+  Say
+2023-01-04T04:30:07Z: PLAYER CHATTED [ 2213301368] pantsypan            (  -20.8,  4204.7,    83.4)
+  ABC if you want to know your word
+2023-01-04T04:30:08Z: PLAYER CHATTED [ 2804012234] Omgloldolls111       (  -20.4,  4204.8,    78.5)
+  Ohh
+2023-01-04T04:30:14Z: PLAYER CHATTED [ 3404020978] Jakey_boi54          (  -17.1,  4205.3,    76.4)
+  ye
+2023-01-04T04:30:14Z: PLAYER CHATTED [ 3954000180] ichirpboo            (  -41.7,  4205.6,    34.6)
+  Yours is Vibes tell me mine
+2023-01-04T04:30:20Z: PLAYER CHATTED [ 4161685761] pepsicola12345_xd    (   -9.0,  4207.5,    14.2)
+  ABC
+2023-01-04T04:30:22Z: PLAYER CHATTED [ 2526913335] official_Nyla12      (  -13.2,  4205.6,    84.6)
+  your word is dont
+2023-01-04T04:30:23Z: PLAYER CHATTED [ 4009957036] Willow_gem12         (  -37.6,  4205.2,    32.1)
+  winner
+2023-01-04T04:30:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -63.1,  4205.4,    34.5)
+  Test
+2023-01-04T04:30:24Z: PLAYER CHATTED [ 3188729339] kit7176kk            (  -70.9,   103.6, 32440.1)
+  chocolate
+2023-01-04T04:30:25Z: PLAYER CHATTED [ 2804012234] Omgloldolls111       (  -20.4,  4204.8,    78.5)
+  Repeat me
+2023-01-04T04:30:27Z: PLAYER CHATTED [ 3938718491] jfweojejfio          (  -40.0,  4205.3,    36.0)
+  its winner
+2023-01-04T04:30:28Z: PLAYER CHATTED [ 3954000180] ichirpboo            (  -70.9,   103.7, 32440.1)
+  Winner
+2023-01-04T04:30:29Z: PLAYER CHATTED [ 3404020978] Jakey_boi54          (  -16.3,  4205.3,    76.7)
+  oh
+2023-01-04T04:30:30Z: PLAYER CHATTED [ 4009957036] Willow_gem12         (  -70.9,   103.7, 32440.1)
+  Vibes
+2023-01-04T04:30:30Z: PLAYER CHATTED [ 2804012234] Omgloldolls111       (  -19.9,  4204.9,    77.4)
+  GIRL
+2023-01-04T04:30:31Z: PLAYER CHATTED [ 3404020978] Jakey_boi54          (  -16.3,  4205.3,    76.7)
+  ty
+2023-01-04T04:30:35Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

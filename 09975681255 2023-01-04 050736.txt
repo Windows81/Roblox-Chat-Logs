@@ -1,0 +1,1761 @@
+[    1630228] : [ 9975681255] [BIG UPDATE] Don't Know The Word - 555a34b2-18ab-4df9-9bf8-81e01bd301c9
+2023-01-04T05:07:36Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-04T05:07:36Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-04T05:07:36Z: PLAYER ADDED   [ 2630765499] isabelle07841       
+2023-01-04T05:07:36Z: PLAYER ADDED   [ 4172118270] White_star370        a.k.a. WhitePenny          
+2023-01-04T05:07:36Z: PLAYER ADDED   [ 3181030412] Emogirl5908          a.k.a. Bella               
+2023-01-04T05:07:36Z: PLAYER ADDED   [ 1377610964] SunnyFarmer          a.k.a. Riley               
+2023-01-04T05:07:36Z: PLAYER ADDED   [ 1120013888] Richieiscool20       a.k.a. karen               
+2023-01-04T05:07:36Z: PLAYER ADDED   [ 2768670992] Mrp00p44             a.k.a. Rat                 
+2023-01-04T05:07:36Z: PLAYER ADDED   [  373318959] harleyq1211          a.k.a. Kami                
+2023-01-04T05:07:36Z: PLAYER ADDED   [ 4060890564] Hi_145684           
+2023-01-04T05:07:36Z: PLAYER ADDED   [ 2415454261] Fluffy_bunnys12343   a.k.a. Moonlight           
+2023-01-04T05:07:36Z: PLAYER ADDED   [ 1750857584] flaminc0s            a.k.a. Thenoobking         
+2023-01-04T05:07:36Z: PLAYER ADDED   [ 3298044820] OliviaDRANE1115     
+2023-01-04T05:07:36Z: PLAYER ADDED   [ 2544471770] PsyRaptorr          
+2023-01-04T05:07:36Z: PLAYER ADDED   [ 1345273846] zamman1015          
+2023-01-04T05:07:36Z: PLAYER ADDED   [ 1179782484] Sibadee2013          a.k.a. James_Charles       
+2023-01-04T05:07:36Z: PLAYER ADDED   [  459132083] jsy0315              a.k.a. Jay                 
+2023-01-04T05:07:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (   29.6,  4205.4,    46.6)
+  User with display name "Jay": your word is "Change".
+2023-01-04T05:07:40Z: PLAYER CHATTED [ 2768670992] Mrp00p44             (  -39.1,  4205.2,    44.7)
+  Chat
+2023-01-04T05:07:41Z: PLAYER CHATTED [    1630228] VisualPlugin         (   24.7,  4205.4,    43.5)
+  User with display name "Moonlight": your word is "buddies".
+2023-01-04T05:07:42Z: PLAYER CHATTED [ 4172118270] White_star370        (  -70.9,   103.6, 32440.0)
+  do you like my my fashion? 
+2023-01-04T05:07:42Z: PLAYER CHATTED [ 2544471770] PsyRaptorr           (  -38.4,  4205.9,    56.7)
+  your word is American 
+2023-01-04T05:07:42Z: PLAYER CHATTED [ 2768670992] Mrp00p44             (  -39.1,  4205.2,    44.7)
+  Lol
+2023-01-04T05:07:44Z: PLAYER CHATTED [    1630228] VisualPlugin         (   21.5,  4206.1,    29.2)
+  User with display name "WhitePenny": your word is "fashion".
+2023-01-04T05:07:46Z: PLAYER CHATTED [ 4172118270] White_star370        (  -70.9,   103.7, 32440.1)
+  oop
+2023-01-04T05:07:46Z: PLAYER CHATTED [    1630228] VisualPlugin         (   15.0,  4205.4,    16.2)
+  User with display name "PsyRaptorr": your word is "girl".
+2023-01-04T05:07:47Z: PLAYER CHATTED [ 1377610964] SunnyFarmer          (    7.2,  4205.1,   -39.4)
+  myself
+2023-01-04T05:07:49Z: PLAYER CHATTED [ 2544471770] PsyRaptorr           (  -38.4,  4205.9,    56.7)
+  boy
+2023-01-04T05:07:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (   15.0,  4205.4,    16.2)
+  User with display name "Thenoobking": your word is "american".
+2023-01-04T05:07:51Z: PLAYER CHATTED [    1630228] VisualPlugin         (   15.0,  4205.4,    16.2)
+  User with display name "isabelle07841": your word is "does".
+2023-01-04T05:07:52Z: PLAYER REMOVED [ 1377610964] SunnyFarmer          a.k.a. Riley               
+2023-01-04T05:07:53Z: PLAYER ADDED   [ 1395682987] xmffyrgfytruutu     
+2023-01-04T05:07:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (   15.0,  4205.4,    16.2)
+  User with display name "Rat": your word is "chat".
+2023-01-04T05:07:55Z: PLAYER CHATTED [ 1750857584] flaminc0s            (  -70.9,   103.6, 32440.1)
+  I like Americans they have guns
+2023-01-04T05:07:56Z: PLAYER CHATTED [    1630228] VisualPlugin         (   15.0,  4205.4,    16.2)
+  User with display name "OliviaDRANE1115": your word is "mind".
+2023-01-04T05:07:57Z: PLAYER CHATTED [ 4060890564] Hi_145684            (    1.0,  4205.3,   -42.4)
+  Ok
+2023-01-04T05:07:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (   15.0,  4205.4,    16.2)
+  User with display name "Riley": your word is "Where".
+2023-01-04T05:08:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (   15.0,  4205.4,    16.2)
+  User with display name "James_Charles": your word is "tired".
+2023-01-04T05:08:04Z: PLAYER CHATTED [    1630228] VisualPlugin         (   15.0,  4205.4,    16.2)
+  User with display name "karen": your word is "lame".
+2023-01-04T05:08:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (   15.0,  4205.4,    16.2)
+  User with display name "zamman1015": your word is "my".
+2023-01-04T05:08:07Z: CHRCTER ADDED  [ 4172118270] White_star370        a.k.a. WhitePenny          
+2023-01-04T05:08:09Z: PLAYER CHATTED [    1630228] VisualPlugin         (   15.0,  4205.4,    16.2)
+  User with display name "Hi_145684": your word is "beautiful".
+2023-01-04T05:08:10Z: PLAYER CHATTED [ 1120013888] Richieiscool20       (   17.2,  4204.4,    21.3)
+  AI?
+2023-01-04T05:08:11Z: CHRCTER ADDED  [ 3298044820] OliviaDRANE1115     
+2023-01-04T05:08:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (   15.0,  4205.4,    16.2)
+  User with display name "Bella": your word is "Dog".
+2023-01-04T05:08:13Z: PLAYER CHATTED [ 1179782484] Sibadee2013          (  -70.8,   103.6, 32440.1)
+  Tired
+2023-01-04T05:08:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (   14.6,  4205.4,    16.8)
+  User with display name "Kami": your word is "fashion".
+2023-01-04T05:08:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (   14.9,  4205.4,    15.5)
+  User with display name "VisuaIPlugin": your word is "worst".
+2023-01-04T05:08:21Z: CHRCTER ADDED  [ 1179782484] Sibadee2013          a.k.a. James_Charles       
+2023-01-04T05:08:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (   15.0,  4205.4,    15.7)
+  I'm worse.
+2023-01-04T05:08:26Z: PLAYER CHATTED [  373318959] harleyq1211          (  -70.9,   103.5, 32440.1)
+  Fashion
+2023-01-04T05:08:27Z: PLAYER CHATTED [ 2768670992] Mrp00p44             (  -74.8,  4206.3,    37.3)
+  Worst
+2023-01-04T05:08:29Z: PLAYER CHATTED [    1630228] VisualPlugin         (   15.0,  4205.4,    15.7)
+  A plugin.
+2023-01-04T05:08:29Z: PLAYER CHATTED [ 1179782484] Sibadee2013          (   29.8,  4204.7,    52.5)
+  Tired
+2023-01-04T05:08:30Z: PLAYER CHATTED [ 3298044820] OliviaDRANE1115      (  -75.4,  4206.3,    41.1)
+  Do you know what your word is
+2023-01-04T05:08:34Z: PLAYER CHATTED [ 2768670992] Mrp00p44             (  -70.3,  4205.2,    37.4)
+  No
+2023-01-04T05:08:35Z: PLAYER CHATTED [ 1750857584] flaminc0s            (   12.6,  4204.7,    15.2)
+  what’s my username
+2023-01-04T05:08:36Z: PLAYER CHATTED [ 1120013888] Richieiscool20       (   14.9,  4204.4,    19.2)
+  Wow.
+2023-01-04T05:08:42Z: PLAYER CHATTED [ 3298044820] OliviaDRANE1115      (  -73.3,  4205.8,    39.4)
+  It’s chat
+2023-01-04T05:08:43Z: PLAYER CHATTED [ 1750857584] flaminc0s            (   11.0,  4204.7,    14.8)
+  and what’s my word
+2023-01-04T05:08:43Z: PLAYER CHATTED [ 1179782484] Sibadee2013          (   29.8,  4204.7,    52.5)
+  Tired
+2023-01-04T05:08:44Z: PLAYER CHATTED [    1630228] VisualPlugin         (   14.5,  4205.4,    13.4)
+  Flamincos.
+2023-01-04T05:08:47Z: PLAYER CHATTED [ 1179782484] Sibadee2013          (   29.8,  4204.7,    52.5)
+  Hi
+2023-01-04T05:08:51Z: PLAYER CHATTED [    1630228] VisualPlugin         (   13.9,  4205.4,    13.2)
+  Yours is 'amazing'.
+2023-01-04T05:08:51Z: PLAYER REMOVED [ 2768670992] Mrp00p44             a.k.a. Rat                 
+2023-01-04T05:08:51Z: PLAYER ADDED   [ 1267473630] princessbeans22     
+2023-01-04T05:08:53Z: PLAYER CHATTED [ 4172118270] White_star370        (  -70.9,   103.6, 32440.1)
+  ohmyjulia
+2023-01-04T05:08:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (   13.9,  4205.4,    13.2)
+  I go by display names.
+2023-01-04T05:09:02Z: PLAYER CHATTED [ 3181030412] Emogirl5908          (  -59.8,  4206.0,    39.4)
+  It’s best
+2023-01-04T05:09:03Z: PLAYER CHATTED [ 1750857584] flaminc0s            (  -70.9,   103.7, 32440.1)
+  oh amazing
+2023-01-04T05:09:10Z: PLAYER CHATTED [  459132083] jsy0315              (   15.0,  4204.4,    16.6)
+  what is my name
+2023-01-04T05:09:12Z: PLAYER CHATTED [ 1179782484] Sibadee2013          (   29.8,  4204.7,    52.5)
+  Oh myy gosh what the heck amazing
+2023-01-04T05:09:17Z: PLAYER CHATTED [ 3298044820] OliviaDRANE1115      (  -56.4,  4204.6,    36.2)
+  What 
+2023-01-04T05:09:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (   13.9,  4205.4,    13.2)
+  I'll run the script again.
+2023-01-04T05:09:21Z: PLAYER CHATTED [ 3181030412] Emogirl5908          (  -58.5,  4206.0,    37.8)
+  That’s your word?
+2023-01-04T05:09:21Z: CHRCTER ADDED  [ 1750857584] flaminc0s            a.k.a. Thenoobking         
+2023-01-04T05:09:35Z: PLAYER CHATTED [ 3298044820] OliviaDRANE1115      (  -56.4,  4204.6,    36.2)
+  Someone said my world was mined
+2023-01-04T05:09:36Z: PLAYER CHATTED [ 1179782484] Sibadee2013          (  -13.3,  4207.6,   -79.1)
+  Tree
+2023-01-04T05:09:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (   13.9,  4205.4,    13.2)
+  User with display name Jay: your word is "Change".
+2023-01-04T05:09:37Z: PLAYER CHATTED [ 2544471770] PsyRaptorr           (   16.7,  4205.8,     0.2)
+  hat
+2023-01-04T05:09:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (   16.5,  4205.4,     7.6)
+  User with display name Moonlight: your word is "buddies".
+2023-01-04T05:09:40Z: PLAYER CHATTED [ 1750857584] flaminc0s            (  -67.9,  4204.9,    35.5)
+  which is better dogs or cats
+2023-01-04T05:09:41Z: PLAYER CHATTED [    1630228] VisualPlugin         (   10.1,  4205.6,    -6.0)
+  User with display name PsyRaptorr: your word is "girl".
+2023-01-04T05:09:42Z: CHRCTER ADDED  [ 1395682987] xmffyrgfytruutu     
+2023-01-04T05:09:43Z: PLAYER CHATTED [ 2544471770] PsyRaptorr           (   16.7,  4205.8,     0.2)
+  ma5
+2023-01-04T05:09:43Z: PLAYER CHATTED [ 3181030412] Emogirl5908          (  -60.2,  4206.0,    38.8)
+  It’s not it’s best
+2023-01-04T05:09:44Z: PLAYER CHATTED [    1630228] VisualPlugin         (   11.2,  4205.4,     5.4)
+  User with display name princessbeans22: your word is "Tree".
+2023-01-04T05:09:46Z: PLAYER CHATTED [    1630228] VisualPlugin         (   11.2,  4205.4,     5.4)
+  User with display name isabelle07841: your word is "does".
+2023-01-04T05:09:46Z: PLAYER CHATTED [ 2544471770] PsyRaptorr           (   16.7,  4205.8,     0.2)
+  mat
+2023-01-04T05:09:47Z: PLAYER CHATTED [ 3181030412] Emogirl5908          (  -60.2,  4206.0,    38.8)
+  Cats
+2023-01-04T05:09:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (   11.2,  4205.4,     5.4)
+  User with display name James_Charles: your word is "Youtuber".
+2023-01-04T05:09:51Z: PLAYER CHATTED [    1630228] VisualPlugin         (   11.2,  4205.4,     5.4)
+  User with display name WhitePenny: your word is "Amazing".
+2023-01-04T05:09:52Z: PLAYER CHATTED [ 3298044820] OliviaDRANE1115      (  -56.4,  4204.6,    36.2)
+  Ok Ty
+2023-01-04T05:09:52Z: PLAYER CHATTED [ 2415454261] Fluffy_bunnys12343   (   22.8,  4205.2,     9.1)
+  B-u-d-d-i-e-s
+2023-01-04T05:09:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (   11.2,  4205.4,     5.4)
+  User with display name xmffyrgfytruutu: your word is "dad".
+2023-01-04T05:09:56Z: PLAYER CHATTED [    1630228] VisualPlugin         (   11.2,  4205.4,     5.4)
+  User with display name OliviaDRANE1115: your word is "best".
+2023-01-04T05:09:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (   11.2,  4205.4,     5.4)
+  User with display name karen: your word is "lame".
+2023-01-04T05:10:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (   11.2,  4205.4,     5.4)
+  User with display name zamman1015: your word is "my".
+2023-01-04T05:10:01Z: PLAYER CHATTED [ 3298044820] OliviaDRANE1115      (  -56.4,  4204.6,    37.7)
+  Don’t answer
+2023-01-04T05:10:02Z: PLAYER CHATTED [ 1750857584] flaminc0s            (  -55.8,  4204.7,    40.0)
+  why don’t you choose dogs?
+2023-01-04T05:10:03Z: PLAYER CHATTED [ 2415454261] Fluffy_bunnys12343   (  -71.0,   103.8, 32440.2)
+  Buddies
+2023-01-04T05:10:04Z: PLAYER CHATTED [    1630228] VisualPlugin         (   11.2,  4205.4,     5.4)
+  User with display name Hi_145684: your word is "beautiful".
+2023-01-04T05:10:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (   13.2,  4205.4,    14.8)
+  User with display name Bella: your word is "Dog".
+2023-01-04T05:10:06Z: PLAYER CHATTED [ 1120013888] Richieiscool20       (   26.3,  4204.8,    10.0)
+  L-a-m-e
+2023-01-04T05:10:09Z: PLAYER CHATTED [    1630228] VisualPlugin         (   19.3,  4205.4,    12.2)
+  User with display name Kami: your word is "lights".
+2023-01-04T05:10:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (   28.4,  4206.0,     4.8)
+  User with display name VisuaIPlugin: your word is "Lets".
+2023-01-04T05:10:12Z: PLAYER CHATTED [ 3181030412] Emogirl5908          (  -70.9,   103.5, 32440.1)
+  Dogs are too messy
+2023-01-04T05:10:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -73.5,   101.5, 32435.4)
+  User with display name Thenoobking: your word is "liar".
+2023-01-04T05:10:16Z: PLAYER CHATTED [ 1179782484] Sibadee2013          (  -38.7,  4233.0,  -118.4)
+  Whats my word?
+2023-01-04T05:10:16Z: PLAYER CHATTED [  373318959] harleyq1211          (    6.8,  4204.8,    13.1)
+  Lights
+2023-01-04T05:10:18Z: PLAYER CHATTED [ 1750857584] flaminc0s            (  -55.8,  4204.7,    40.0)
+  LOL
+2023-01-04T05:10:21Z: CHRCTER ADDED  [ 1395682987] xmffyrgfytruutu     
+2023-01-04T05:10:24Z: PLAYER CHATTED [ 3181030412] Emogirl5908          (  -70.9,   103.6, 32440.1)
+  Ahhhh
+2023-01-04T05:10:24Z: PLAYER CHATTED [ 2544471770] PsyRaptorr           (   16.7,  4205.8,     0.2)
+  poison 
+2023-01-04T05:10:26Z: PLAYER CHATTED [ 4060890564] Hi_145684            (  -42.1,  4231.3,  -120.8)
+  Youtuber 
+2023-01-04T05:10:26Z: CHRCTER ADDED  [  373318959] harleyq1211          a.k.a. Kami                
+2023-01-04T05:10:27Z: PLAYER CHATTED [ 3181030412] Emogirl5908          (  -70.9,   103.6, 32440.1)
+  Welp
+2023-01-04T05:10:31Z: PLAYER CHATTED [ 1750857584] flaminc0s            (  -76.8,  4206.6,    39.5)
+  oh yeah your word is best
+2023-01-04T05:10:32Z: PLAYER CHATTED [ 1179782484] Sibadee2013          (  -70.8,   103.6, 32440.1)
+  Youtuber
+2023-01-04T05:10:36Z: PLAYER CHATTED [ 3298044820] OliviaDRANE1115      (  -71.4,  4205.3,    38.6)
+  why would you do that
+2023-01-04T05:10:37Z: PLAYER CHATTED [ 1179782484] Sibadee2013          (  -72.9,   100.9, 32434.6)
+  Thx
+2023-01-04T05:10:41Z: PLAYER CHATTED [ 1267473630] princessbeans22      (   -8.5,  4207.5,   -78.7)
+  fgg
+2023-01-04T05:10:46Z: CHRCTER ADDED  [ 4060890564] Hi_145684           
+2023-01-04T05:10:49Z: CHRCTER ADDED  [ 3181030412] Emogirl5908          a.k.a. Bella               
+2023-01-04T05:10:54Z: PLAYER CHATTED [ 2544471770] PsyRaptorr           (    8.0,  4206.4,   -19.6)
+  2hat word do I have
+2023-01-04T05:10:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -33.1,  4205.4,    17.8)
+  User with display name Jay...: your word is "Change".
+2023-01-04T05:10:57Z: PLAYER CHATTED [ 1179782484] Sibadee2013          (  -47.0,  4205.1,    28.0)
+  Too
+2023-01-04T05:11:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -32.5,  4205.4,    14.7)
+  User with display name Moon...: your word is "idk".
+2023-01-04T05:11:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -21.3,  4205.4,    10.9)
+  User with display name PsyR...: your word is "girl".
+2023-01-04T05:11:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -6.2,  4206.9,    18.6)
+  User with display name prin...: your word is "Tree".
+2023-01-04T05:11:07Z: PLAYER CHATTED [ 1179782484] Sibadee2013          (  -47.0,  4205.1,    28.0)
+  One
+2023-01-04T05:11:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (    5.6,  4206.9,    33.5)
+  User with display name isab...: your word is "does".
+2023-01-04T05:11:10Z: PLAYER CHATTED [    1630228] VisualPlugin         (   18.4,  4206.4,    47.0)
+  User with display name Jame...: your word is "good".
+2023-01-04T05:11:10Z: PLAYER CHATTED [ 3298044820] OliviaDRANE1115      (   13.0,  4205.0,   -10.7)
+  My
+2023-01-04T05:11:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (   29.1,  4205.4,    47.3)
+  User with display name Whit...: your word is "Amazing".
+2023-01-04T05:11:12Z: CHRCTER ADDED  [ 1120013888] Richieiscool20       a.k.a. karen               
+2023-01-04T05:11:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (   20.4,  4205.5,    39.2)
+  User with display name Then...: your word is "liar".
+2023-01-04T05:11:15Z: PLAYER CHATTED [ 1395682987] xmffyrgfytruutu      (    2.7,  4204.8,   -16.1)
+  your word is girl
+2023-01-04T05:11:15Z: PLAYER ADDED   [ 2049354771] Ale879xac            a.k.a. Rinsorangess        
+2023-01-04T05:11:16Z: PLAYER CHATTED [  459132083] jsy0315              (  -71.0,   103.6, 32440.1)
+  change
+2023-01-04T05:11:17Z: PLAYER CHATTED [    1630228] VisualPlugin         (    7.5,  4206.9,    50.1)
+  User with display name Oliv...: your word is "best".
+2023-01-04T05:11:17Z: PLAYER REMOVED [ 4060890564] Hi_145684           
+2023-01-04T05:11:18Z: PLAYER CHATTED [ 1179782484] Sibadee2013          (  -70.8,   103.6, 32440.1)
+  Good
+2023-01-04T05:11:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (    8.5,  4205.4,    60.8)
+  User with display name kare...: your word is "lame".
+2023-01-04T05:11:22Z: PLAYER CHATTED [    1630228] VisualPlugin         (   19.2,  4205.4,    47.6)
+  User with display name zamm...: your word is "my".
+2023-01-04T05:11:23Z: PLAYER REMOVED [ 3181030412] Emogirl5908          a.k.a. Bella               
+2023-01-04T05:11:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (    7.2,  4206.9,    40.4)
+  User with display name Kami...: your word is "Rat".
+2023-01-04T05:11:25Z: PLAYER CHATTED [ 2544471770] PsyRaptorr           (    8.0,  4206.4,   -19.6)
+  girl 
+2023-01-04T05:11:27Z: PLAYER CHATTED [ 2544471770] PsyRaptorr           (  -70.9,   103.7, 32440.1)
+  girl 
+2023-01-04T05:11:27Z: PLAYER ADDED   [ 4050891610] AnnieRomegame       
+2023-01-04T05:11:27Z: PLAYER REMOVED [ 1750857584] flaminc0s            a.k.a. Thenoobking         
+2023-01-04T05:11:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (    3.2,  4206.9,    23.0)
+  User with display name Hi_1...: your word is "ball".
+2023-01-04T05:11:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (    5.7,  4206.9,    23.7)
+  User with display name xmff...: your word is "mind".
+2023-01-04T05:11:31Z: PLAYER CHATTED [ 2049354771] Ale879xac            (   12.1,  4207.2,    21.5)
+  What is my word
+2023-01-04T05:11:32Z: PLAYER CHATTED [    1630228] VisualPlugin         (    5.2,  4206.9,    36.9)
+  User with display name Visu...: your word is "words".
+2023-01-04T05:11:32Z: PLAYER CHATTED [  373318959] harleyq1211          (  -70.9,   103.5, 32440.1)
+  Rat
+2023-01-04T05:11:33Z: CHRCTER ADDED  [ 1179782484] Sibadee2013          a.k.a. James_Charles       
+2023-01-04T05:11:34Z: PLAYER CHATTED [ 4172118270] White_star370        (  -71.8,   104.3, 32440.1)
+  amazing
+2023-01-04T05:11:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -72.6,   101.6, 32444.6)
+  User with display name Bell...: your word is "Moon".
+2023-01-04T05:11:35Z: CHRCTER ADDED  [ 2544471770] PsyRaptorr          
+2023-01-04T05:11:35Z: PLAYER ADDED   [ 2206222730] AMELIAKH2010         a.k.a. Amelia              
+2023-01-04T05:11:41Z: PLAYER CHATTED [ 1179782484] Sibadee2013          (   33.6,  4204.7,    45.8)
+  Nine
+2023-01-04T05:11:42Z: CHRCTER ADDED  [  459132083] jsy0315              a.k.a. Jay                 
+2023-01-04T05:11:45Z: CHRCTER ADDED  [  373318959] harleyq1211          a.k.a. Kami                
+2023-01-04T05:11:51Z: PLAYER CHATTED [ 1179782484] Sibadee2013          (   31.9,  4205.3,    26.6)
+  Donate
+2023-01-04T05:11:53Z: CHRCTER ADDED  [ 1120013888] Richieiscool20       a.k.a. karen               
+2023-01-04T05:11:53Z: PLAYER CHATTED [ 3298044820] OliviaDRANE1115      (    6.0,  4207.4,   -86.7)
+  Tree
+2023-01-04T05:11:55Z: PLAYER REMOVED [ 1120013888] Richieiscool20       a.k.a. karen               
+2023-01-04T05:11:57Z: PLAYER CHATTED [ 2544471770] PsyRaptorr           (    0.4,  4206.0,    -8.7)
+  ##############
+2023-01-04T05:11:57Z: PLAYER CHATTED [  373318959] harleyq1211          (  -14.9,  4206.2,    20.9)
+  Want 
+2023-01-04T05:12:02Z: PLAYER CHATTED [ 2049354771] Ale879xac            (    7.9,  4205.1,   -42.7)
+  No
+2023-01-04T05:12:07Z: PLAYER CHATTED [ 2049354771] Ale879xac            (    9.8,  4205.1,   -43.3)
+  Emo
+2023-01-04T05:12:08Z: PLAYER CHATTED [ 1179782484] Sibadee2013          (   11.1,  4205.2,   -40.5)
+  YOUR WORD
+2023-01-04T05:12:13Z: PLAYER CHATTED [ 2049354771] Ale879xac            (    9.8,  4205.1,   -43.3)
+  😂😂😂😂😂
+2023-01-04T05:12:18Z: PLAYER ADDED   [  380343958] dt8675              
+2023-01-04T05:12:26Z: CHRCTER ADDED  [  459132083] jsy0315              a.k.a. Jay                 
+2023-01-04T05:12:27Z: PLAYER REMOVED [ 2544471770] PsyRaptorr          
+2023-01-04T05:12:28Z: PLAYER CHATTED [ 2206222730] AMELIAKH2010         (   -7.4,  4205.4,    -4.7)
+  How
+2023-01-04T05:12:34Z: PLAYER CHATTED [ 2206222730] AMELIAKH2010         (   22.0,  4205.2,   -15.6)
+  Does
+2023-01-04T05:12:34Z: PLAYER ADDED   [ 3565039935] Ohnoimsoweird        a.k.a. Joemama             
+2023-01-04T05:12:35Z: PLAYER CHATTED [ 1179782484] Sibadee2013          (   11.1,  4205.2,   -40.5)
+  BRUH
+2023-01-04T05:12:40Z: PLAYER CHATTED [ 2206222730] AMELIAKH2010         (   23.7,  4205.2,   -18.9)
+  DOES
+2023-01-04T05:12:43Z: PLAYER CHATTED [ 4172118270] White_star370        (   20.2,  4205.3,   -54.4)
+  yes pleass 😃
+2023-01-04T05:12:44Z: PLAYER CHATTED [ 2206222730] AMELIAKH2010         (   23.7,  4205.2,   -18.9)
+  Does
+2023-01-04T05:12:46Z: PLAYER CHATTED [ 2206222730] AMELIAKH2010         (   23.7,  4205.2,   -18.9)
+  Does
+2023-01-04T05:12:46Z: PLAYER CHATTED [  380343958] dt8675               (   19.5,  4205.3,   -39.5)
+  Sup
+2023-01-04T05:12:48Z: PLAYER CHATTED [ 2630765499] isabelle07841        (   25.2,  4205.6,   -22.6)
+  /w Mrp00p44  what
+2023-01-04T05:12:52Z: PLAYER CHATTED [ 1179782484] Sibadee2013          (   26.2,  4205.2,   -53.2)
+  Pls
+2023-01-04T05:12:55Z: PLAYER CHATTED [ 2630765499] isabelle07841        (   25.2,  4205.6,   -22.6)
+  what
+2023-01-04T05:12:56Z: PLAYER CHATTED [ 4172118270] White_star370        (   20.3,  4205.3,   -54.0)
+  idk
+2023-01-04T05:12:56Z: PLAYER CHATTED [  380343958] dt8675               (   26.4,  4205.3,   -43.4)
+  What
+2023-01-04T05:12:57Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   18.2,  4204.6,     0.2)
+  ABC TO KNOW UR WORD!
+2023-01-04T05:12:59Z: PLAYER REMOVED [ 3298044820] OliviaDRANE1115     
+2023-01-04T05:12:59Z: PLAYER CHATTED [ 1179782484] Sibadee2013          (   24.3,  4205.2,   -54.9)
+  Not please
+2023-01-04T05:13:01Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   17.4,  4204.8,    -6.3)
+  💅🏼
+2023-01-04T05:13:05Z: PLAYER CHATTED [ 2415454261] Fluffy_bunnys12343   (   21.7,  4205.4,   -49.9)
+  Emo
+2023-01-04T05:13:08Z: PLAYER CHATTED [  373318959] harleyq1211          (   14.6,  4205.2,   -12.4)
+  Abc
+2023-01-04T05:13:09Z: PLAYER CHATTED [  459132083] jsy0315              (   22.8,  4205.1,   -23.7)
+  word does
+2023-01-04T05:13:10Z: PLAYER CHATTED [  373318959] harleyq1211          (   14.6,  4205.2,   -12.4)
+  Abc
+2023-01-04T05:13:10Z: PLAYER CHATTED [ 2630765499] isabelle07841        (   17.7,  4205.4,   -11.2)
+  abc
+2023-01-04T05:13:10Z: PLAYER ADDED   [ 4162381140] Spooky_lucy365       a.k.a. Spooky              
+2023-01-04T05:13:11Z: PLAYER CHATTED [ 2206222730] AMELIAKH2010         (   24.3,  4205.1,   -49.3)
+  Idk how to play
+2023-01-04T05:13:13Z: PLAYER CHATTED [ 1179782484] Sibadee2013          (   24.3,  4205.2,   -54.9)
+  OH MY GOD
+2023-01-04T05:13:18Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   14.4,  4204.9,    -9.3)
+  Ok urs is hot
+2023-01-04T05:13:20Z: PLAYER CHATTED [  380343958] dt8675               (   32.2,  4205.2,   -49.0)
+  Me either lol
+2023-01-04T05:13:21Z: PLAYER CHATTED [ 4172118270] White_star370        (   20.7,  4205.3,   -54.6)
+  😃😃
+2023-01-04T05:13:22Z: PLAYER CHATTED [  373318959] harleyq1211          (  -70.9,   104.6, 32440.1)
+  Hot
+2023-01-04T05:13:27Z: PLAYER CHATTED [ 2206222730] AMELIAKH2010         (   27.1,  4205.1,   -49.9)
+  Uhh..
+2023-01-04T05:13:28Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   15.0,  4205.0,   -11.0)
+  Urs is dose
+2023-01-04T05:13:30Z: PLAYER CHATTED [ 4172118270] White_star370        (   21.3,  4205.2,   -54.0)
+  emo 😃
+2023-01-04T05:13:31Z: PLAYER CHATTED [ 1179782484] Sibadee2013          (   25.1,  4205.2,   -53.1)
+  Type in hate
+2023-01-04T05:13:33Z: PLAYER CHATTED [ 2630765499] isabelle07841        (   14.3,  4205.4,   -14.7)
+  ok
+2023-01-04T05:13:33Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   15.0,  4205.0,   -11.0)
+  Does”
+2023-01-04T05:13:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -74.7,   101.6, 32442.2)
+  User with display name Amelia: your word is "Hate".
+2023-01-04T05:13:37Z: PLAYER CHATTED [  380343958] dt8675               (   30.6,  4205.2,   -49.4)
+  What mine 
+2023-01-04T05:13:38Z: PLAYER CHATTED [ 2206222730] AMELIAKH2010         (  -70.8,   104.5, 32440.1)
+  Hate
+2023-01-04T05:13:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -74.7,   101.6, 32442.2)
+  User with display name Moon...: your word is "idk".
+2023-01-04T05:13:38Z: PLAYER CHATTED [ 2630765499] isabelle07841        (   14.3,  4205.4,   -14.7)
+  dose
+2023-01-04T05:13:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -74.7,   101.6, 32442.2)
+  User with display name Jay: your word is "Of".
+2023-01-04T05:13:41Z: PLAYER CHATTED [ 2206222730] AMELIAKH2010         (  -70.9,   103.6, 32440.1)
+  Oooo
+2023-01-04T05:13:43Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   18.0,  4205.0,   -12.8)
+  Urs is of
+2023-01-04T05:13:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -74.7,   101.6, 32442.2)
+  User with display name prin...: your word is "Tree".
+2023-01-04T05:13:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -74.7,   101.6, 32442.2)
+  User with display name isab...: your word is "does".
+2023-01-04T05:13:48Z: PLAYER CHATTED [ 1179782484] Sibadee2013          (   26.4,  4205.2,   -51.6)
+  Internet
+2023-01-04T05:13:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -74.7,   101.6, 32442.2)
+  User with display name Jame...: your word is "Emo".
+2023-01-04T05:13:48Z: PLAYER CHATTED [  459132083] jsy0315              (  -70.9,   104.6, 32440.1)
+  of
+2023-01-04T05:13:50Z: PLAYER CHATTED [ 2630765499] isabelle07841        (    3.9,  4204.9,     3.2)
+  does
+2023-01-04T05:13:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -74.7,   101.6, 32442.2)
+  User with display name Whit...: your word is "Pls".
+2023-01-04T05:13:51Z: PLAYER REMOVED [ 4050891610] AnnieRomegame       
+2023-01-04T05:13:51Z: PLAYER CHATTED [  380343958] dt8675               (   30.6,  4205.2,   -49.4)
+  K 
+2023-01-04T05:13:53Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -74.7,   101.6, 32442.2)
+  User with display name Anni...: your word is "Money".
+2023-01-04T05:13:54Z: CHRCTER ADDED  [ 2206222730] AMELIAKH2010         a.k.a. Amelia              
+2023-01-04T05:13:55Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   17.8,  4205.0,   -12.8)
+  Urs is tree
+2023-01-04T05:13:55Z: PLAYER CHATTED [ 1179782484] Sibadee2013          (   29.9,  4205.2,   -57.6)
+  Mine?
+2023-01-04T05:13:55Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -74.7,   101.6, 32442.2)
+  User with display name Spooky: your word is "Tree".
+2023-01-04T05:13:56Z: PLAYER CHATTED [ 4172118270] White_star370        (   21.3,  4205.2,   -54.0)
+  emo
+2023-01-04T05:13:56Z: PLAYER ADDED   [ 3797841896] lolyourmybal        
+2023-01-04T05:13:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -74.7,   101.6, 32442.2)
+  User with display name Kami: your word is "liar".
+2023-01-04T05:13:59Z: CHRCTER ADDED  [ 1395682987] xmffyrgfytruutu     
+2023-01-04T05:14:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -74.7,   101.6, 32442.2)
+  User with display name zamm...: your word is "my".
+2023-01-04T05:14:01Z: PLAYER CHATTED [  380343958] dt8675               (   14.2,  4207.8,  -106.0)
+  Emo
+2023-01-04T05:14:03Z: PLAYER REMOVED [ 2630765499] isabelle07841       
+2023-01-04T05:14:03Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -70.9,   103.8, 32440.1)
+  User with display name dt8675: your word is "internet".
+2023-01-04T05:14:04Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   19.9,  4205.0,   -12.5)
+  Can u tell me mine¿
+2023-01-04T05:14:04Z: PLAYER CHATTED [  373318959] harleyq1211          (  -70.9,   103.5, 32440.1)
+  Liar
+2023-01-04T05:14:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -72.6,   101.6, 32444.6)
+  User with display name Rins...: your word is "Donate".
+2023-01-04T05:14:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -71.0,   106.6, 32440.2)
+  User with display name xmff...: your word is "mind".
+2023-01-04T05:14:08Z: PLAYER CHATTED [ 1179782484] Sibadee2013          (   13.7,  4207.5,   -98.2)
+  OOOOOOOOOOOOHHHHHHH
+2023-01-04T05:14:10Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -71.7,   101.6, 32444.0)
+  User with display name Visu...: your word is "now".
+2023-01-04T05:14:10Z: PLAYER CHATTED [ 2415454261] Fluffy_bunnys12343   (   17.9,  4207.7,   -97.6)
+  Emo
+2023-01-04T05:14:10Z: PLAYER CHATTED [ 2206222730] AMELIAKH2010         (   11.5,  4207.4,  -101.0)
+  I’m back 
+2023-01-04T05:14:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -72.3,   110.6, 32441.7)
+  User with display name Joem...: your word is "brain".
+2023-01-04T05:14:13Z: PLAYER CHATTED [ 4172118270] White_star370        (   19.1,  4206.9,   -94.8)
+  🤣🤣🤣
+2023-01-04T05:14:15Z: PLAYER CHATTED [ 4162381140] Spooky_lucy365       (   18.2,  4205.2,   -15.6)
+  Brain
+2023-01-04T05:14:18Z: PLAYER CHATTED [  380343958] dt8675               (   14.0,  4207.7,  -105.9)
+  Welcome back
+2023-01-04T05:14:20Z: PLAYER CHATTED [ 2049354771] Ale879xac            (   14.8,  4205.2,   -15.1)
+  What is mi e
+2023-01-04T05:14:20Z: CHRCTER ADDED  [  459132083] jsy0315              a.k.a. Jay                 
+2023-01-04T05:14:23Z: PLAYER CHATTED [ 2206222730] AMELIAKH2010         (   11.5,  4207.4,  -101.4)
+  Yours is internet
+2023-01-04T05:14:24Z: PLAYER CHATTED [ 1179782484] Sibadee2013          (   13.7,  4207.5,   -98.2)
+  OH MY GOD
+2023-01-04T05:14:25Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   18.6,  4205.0,   -11.1)
+  Ty
+2023-01-04T05:14:25Z: PLAYER CHATTED [  380343958] dt8675               (   14.0,  4207.7,  -105.9)
+  Ye
+2023-01-04T05:14:27Z: PLAYER CHATTED [ 4172118270] White_star370        (   32.3,  4206.5,   -97.1)
+  pleaseeee
+2023-01-04T05:14:27Z: PLAYER CHATTED [ 1179782484] Sibadee2013          (   13.7,  4207.5,   -98.2)
+  HAHAHAHAHAAA
+2023-01-04T05:14:28Z: PLAYER CHATTED [ 3797841896] lolyourmybal         (   14.9,  4204.9,   -14.4)
+  can you tell me mine
+2023-01-04T05:14:28Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   17.1,  4205.0,   -12.6)
+  It’s dare
+2023-01-04T05:14:30Z: PLAYER CHATTED [ 4172118270] White_star370        (   32.3,  4206.5,   -97.1)
+  😃😃😃😃
+2023-01-04T05:14:32Z: PLAYER ADDED   [ 1780895249] cartooncat544        a.k.a. Gold                
+2023-01-04T05:14:34Z: PLAYER CHATTED [ 1179782484] Sibadee2013          (  -70.9,   103.7, 32440.2)
+  Emo
+2023-01-04T05:14:34Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   16.0,  4205.1,   -14.7)
+  Donate
+2023-01-04T05:14:37Z: PLAYER CHATTED [ 2206222730] AMELIAKH2010         (   12.2,  4207.4,  -101.3)
+  Wait did I do something wrong?
+2023-01-04T05:14:38Z: PLAYER CHATTED [ 2049354771] Ale879xac            (   14.5,  4205.3,   -16.1)
+  Ok
+2023-01-04T05:14:40Z: PLAYER CHATTED [ 1395682987] xmffyrgfytruutu      (    2.3,  4204.6,   -41.1)
+  /e dance
+2023-01-04T05:14:43Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   15.3,  4205.0,   -12.8)
+  Urs is no
+2023-01-04T05:14:46Z: PLAYER CHATTED [  380343958] dt8675               (   14.0,  4207.7,  -105.9)
+  What did it do when you said it
+2023-01-04T05:14:47Z: PLAYER CHATTED [ 3797841896] lolyourmybal         (    7.6,  4204.6,    -6.4)
+  he
+2023-01-04T05:14:48Z: PLAYER CHATTED [ 4172118270] White_star370        (   32.3,  4206.5,   -97.1)
+  say. idk
+2023-01-04T05:14:48Z: PLAYER CHATTED [  373318959] harleyq1211          (    4.4,  4204.8,    -1.8)
+  Dare
+2023-01-04T05:14:51Z: PLAYER CHATTED [  373318959] harleyq1211          (  -70.9,   103.5, 32440.1)
+  He
+2023-01-04T05:14:52Z: PLAYER CHATTED [  459132083] jsy0315              (  -70.9,   103.6, 32440.1)
+  no
+2023-01-04T05:14:55Z: PLAYER CHATTED [ 4162381140] Spooky_lucy365       (  -70.8,   103.8, 32440.1)
+  Tree
+2023-01-04T05:14:59Z: PLAYER CHATTED [ 2206222730] AMELIAKH2010         (   11.9,  4207.4,  -100.2)
+  I went to like an obby place
+2023-01-04T05:14:59Z: PLAYER CHATTED [ 2415454261] Fluffy_bunnys12343   (   34.6,  4207.7,  -108.5)
+  I don’t know 
+2023-01-04T05:14:59Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   15.3,  4205.0,   -12.8)
+  /e dance 
+2023-01-04T05:15:03Z: CHRCTER ADDED  [  459132083] jsy0315              a.k.a. Jay                 
+2023-01-04T05:15:04Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   15.3,  4205.0,   -12.8)
+  /e dance
+2023-01-04T05:15:06Z: PLAYER CHATTED [  380343958] dt8675               (   14.0,  4207.7,  -105.9)
+  Yours is word
+2023-01-04T05:15:06Z: CHRCTER ADDED  [ 4162381140] Spooky_lucy365       a.k.a. Spooky              
+2023-01-04T05:15:07Z: PLAYER REMOVED [ 3797841896] lolyourmybal        
+2023-01-04T05:15:08Z: PLAYER ADDED   [ 2252870845] volly229            
+2023-01-04T05:15:09Z: PLAYER CHATTED [  380343958] dt8675               (   14.0,  4207.7,  -105.9)
+  Ima try it now
+2023-01-04T05:15:10Z: PLAYER CHATTED [ 2415454261] Fluffy_bunnys12343   (   34.6,  4207.7,  -108.5)
+  Fine
+2023-01-04T05:15:11Z: PLAYER CHATTED [ 2206222730] AMELIAKH2010         (   11.9,  4207.4,  -100.2)
+  Then I died trying to do the obby
+2023-01-04T05:15:13Z: PLAYER CHATTED [ 4162381140] Spooky_lucy365       (   32.2,  4204.7,    40.9)
+  Tree
+2023-01-04T05:15:15Z: PLAYER CHATTED [ 2206222730] AMELIAKH2010         (   11.9,  4207.4,  -100.2)
+  Oh ok
+2023-01-04T05:15:18Z: PLAYER CHATTED [ 2206222730] AMELIAKH2010         (  -70.8,   103.6, 32440.1)
+  Word
+2023-01-04T05:15:18Z: PLAYER CHATTED [ 2415454261] Fluffy_bunnys12343   (   34.6,  4207.7,  -108.5)
+  I-d-k
+2023-01-04T05:15:19Z: PLAYER CHATTED [ 4172118270] White_star370        (   32.4,  4206.5,  -101.2)
+  say idk not. i dont know
+2023-01-04T05:15:20Z: PLAYER CHATTED [  380343958] dt8675               (  -70.8,   103.6, 32440.1)
+  Internet 
+2023-01-04T05:15:21Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   17.7,  4206.3,   -87.8)
+  /e dance
+2023-01-04T05:15:23Z: PLAYER CHATTED [ 2049354771] Ale879xac            (  -70.8,   103.7, 32440.1)
+  Donate
+2023-01-04T05:15:29Z: PLAYER REMOVED [ 2252870845] volly229            
+2023-01-04T05:15:30Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   17.7,  4206.3,   -87.8)
+  ABC TO FIND OUT UR WORD
+2023-01-04T05:15:30Z: PLAYER CHATTED [ 4162381140] Spooky_lucy365       (   16.6,  4206.5,   -84.0)
+  What is my word
+2023-01-04T05:15:36Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   17.7,  4206.3,   -87.8)
+  Avatar
+2023-01-04T05:15:41Z: PLAYER CHATTED [  380343958] dt8675               (   26.4,  4204.7,    41.3)
+  Book
+2023-01-04T05:15:43Z: PLAYER CHATTED [  380343958] dt8675               (   26.4,  4204.7,    41.3)
+  Emo
+2023-01-04T05:15:43Z: PLAYER CHATTED [ 4172118270] White_star370        (  -71.0,   103.6, 32440.0)
+  me pls
+2023-01-04T05:15:43Z: PLAYER CHATTED [ 2415454261] Fluffy_bunnys12343   (   34.2,  4207.7,  -111.0)
+  Id.k
+2023-01-04T05:15:44Z: PLAYER ADDED   [ 3932604388] P3Duke              
+2023-01-04T05:15:45Z: PLAYER CHATTED [  380343958] dt8675               (   26.4,  4204.7,    41.3)
+  Afk
+2023-01-04T05:15:46Z: PLAYER CHATTED [ 4172118270] White_star370        (  -70.9,   103.7, 32440.1)
+  . 
+2023-01-04T05:15:46Z: PLAYER CHATTED [  380343958] dt8675               (   26.4,  4204.7,    41.3)
+  Idk
+2023-01-04T05:15:53Z: PLAYER CHATTED [ 2049354771] Ale879xac            (   18.9,  4204.8,    -1.2)
+  Hello whats mt ###
+2023-01-04T05:15:54Z: PLAYER CHATTED [ 4162381140] Spooky_lucy365       (  -70.8,   103.7, 32440.1)
+  Avatar
+2023-01-04T05:15:56Z: PLAYER CHATTED [ 2206222730] AMELIAKH2010         (  -17.5,  4207.1,    13.2)
+  I can shoot
+2023-01-04T05:15:58Z: PLAYER CHATTED [  380343958] dt8675               (  -12.3,  4206.2,    19.2)
+  Yours is a rp game 
+2023-01-04T05:15:59Z: PLAYER CHATTED [ 1395682987] xmffyrgfytruutu      (   23.8,  4206.2,   -88.7)
+  ABC
+2023-01-04T05:16:00Z: PLAYER CHATTED [ 1179782484] Sibadee2013          (  -21.9,  4352.4,   -97.7)
+  Whats mine?
+2023-01-04T05:16:01Z: PLAYER CHATTED [ 2049354771] Ale879xac            (   25.2,  4205.2,    -1.2)
+  pls
+2023-01-04T05:16:01Z: PLAYER CHATTED [ 2415454261] Fluffy_bunnys12343   (  -71.0,   103.7, 32440.2)
+  Idk
+2023-01-04T05:16:02Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   17.7,  4206.3,   -87.8)
+  ABC TO FIND OUT UR WORD
+2023-01-04T05:16:03Z: PLAYER CHATTED [  373318959] harleyq1211          (   27.1,  4205.4,   -73.1)
+  Abc
+2023-01-04T05:16:04Z: PLAYER CHATTED [ 2049354771] Ale879xac            (   25.2,  4205.2,    -1.2)
+  ####
+2023-01-04T05:16:07Z: PLAYER CHATTED [ 2049354771] Ale879xac            (   25.2,  4205.2,    -1.2)
+  ####
+2023-01-04T05:16:08Z: PLAYER CHATTED [ 2206222730] AMELIAKH2010         (  -70.9,   103.6, 32440.1)
+  Brookhaven
+2023-01-04T05:16:08Z: PLAYER CHATTED [ 2049354771] Ale879xac            (   25.2,  4205.2,    -1.2)
+  ####
+2023-01-04T05:16:08Z: PLAYER REMOVED [ 3932604388] P3Duke              
+2023-01-04T05:16:10Z: PLAYER ADDED   [ 3745628443] Hshhbxbgx           
+2023-01-04T05:16:11Z: CHRCTER ADDED  [ 2415454261] Fluffy_bunnys12343   a.k.a. Moonlight           
+2023-01-04T05:16:12Z: PLAYER REMOVED [ 2415454261] Fluffy_bunnys12343   a.k.a. Moonlight           
+2023-01-04T05:16:12Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   17.7,  4206.3,   -87.8)
+  Ur word is dead
+2023-01-04T05:16:12Z: PLAYER ADDED   [ 1655970308] SweetiePieLlama     
+2023-01-04T05:16:17Z: PLAYER CHATTED [ 2206222730] AMELIAKH2010         (  -70.9,   105.2, 32440.1)
+  Yess
+2023-01-04T05:16:17Z: PLAYER CHATTED [ 1395682987] xmffyrgfytruutu      (  -70.8,   103.5, 32440.1)
+  dead
+2023-01-04T05:16:19Z: PLAYER CHATTED [  380343958] dt8675               (  -13.4,  4206.2,    18.7)
+  What mine?
+2023-01-04T05:16:20Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   17.7,  4206.3,   -87.8)
+  Urs is mum
+2023-01-04T05:16:23Z: PLAYER CHATTED [ 2049354771] Ale879xac            (  -70.9,   103.7, 32440.1)
+  Yuor ### is mi
+2023-01-04T05:16:25Z: CHRCTER ADDED  [ 1395682987] xmffyrgfytruutu     
+2023-01-04T05:16:26Z: PLAYER CHATTED [  373318959] harleyq1211          (  -70.9,   103.5, 32440.1)
+  Mum
+2023-01-04T05:16:30Z: PLAYER CHATTED [ 1395682987] xmffyrgfytruutu      (  -34.3,  4204.3,    50.6)
+  dead
+2023-01-04T05:16:30Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (   17.6,  4205.7,   -76.6)
+  Mum
+2023-01-04T05:16:32Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   17.7,  4206.3,   -87.8)
+  James is maker 
+2023-01-04T05:16:32Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (   17.6,  4205.7,   -76.6)
+  Loll
+2023-01-04T05:16:34Z: CHRCTER ADDED  [ 2049354771] Ale879xac            a.k.a. Rinsorangess        
+2023-01-04T05:16:37Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   17.7,  4206.3,   -87.8)
+  I’m not talking to u
+2023-01-04T05:16:38Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (   17.3,  4206.7,   -78.2)
+  What does that mean
+2023-01-04T05:16:39Z: PLAYER CHATTED [ 4172118270] White_star370        (    6.0,  4207.5,   -95.2)
+  whats my word
+2023-01-04T05:16:39Z: PLAYER CHATTED [ 1395682987] xmffyrgfytruutu      (    2.4,  4204.8,   130.3)
+  pla
+2023-01-04T05:16:40Z: PLAYER CHATTED [ 1179782484] Sibadee2013          (  -70.9,   103.6, 32440.1)
+  Maker
+2023-01-04T05:16:40Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (   16.3,  4206.7,   -79.1)
+  Ik
+2023-01-04T05:16:42Z: PLAYER CHATTED [ 1395682987] xmffyrgfytruutu      (  -70.9,   103.5, 32440.1)
+  i
+2023-01-04T05:16:43Z: PLAYER CHATTED [  380343958] dt8675               (   -2.4,  4206.2,    17.5)
+  Yours is battle
+2023-01-04T05:16:44Z: PLAYER CHATTED [ 4162381140] Spooky_lucy365       (   -5.9,  4206.1,    17.4)
+  Can u say omg
+2023-01-04T05:16:44Z: PLAYER CHATTED [ 3745628443] Hshhbxbgx            (   -4.6,  4206.5,     8.7)
+  You are is omg
+2023-01-04T05:16:45Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (   16.3,  4206.7,   -79.1)
+  I’m not blind
+2023-01-04T05:16:49Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   17.7,  4206.3,   -87.8)
+  Urs is tree
+2023-01-04T05:16:50Z: PLAYER CHATTED [ 2206222730] AMELIAKH2010         (   -6.2,  4206.0,    19.3)
+  Yours is OMG
+2023-01-04T05:16:52Z: PLAYER CHATTED [  380343958] dt8675               (  -70.8,   103.6, 32440.1)
+  Omg
+2023-01-04T05:17:00Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (    8.1,  4206.7,   -77.4)
+  She fell over
+2023-01-04T05:17:01Z: PLAYER CHATTED [ 2206222730] AMELIAKH2010         (   -6.4,  4206.0,    19.1)
+  Yours is can
+2023-01-04T05:17:07Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   17.7,  4206.3,   -87.8)
+  Urs i wont tell
+2023-01-04T05:17:09Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (    9.6,  4206.7,   -79.6)
+  Urs is brain
+2023-01-04T05:17:10Z: PLAYER CHATTED [ 3745628443] Hshhbxbgx            (   -2.3,  4207.3,    21.5)
+  DeadZ
+2023-01-04T05:17:13Z: PLAYER CHATTED [  380343958] dt8675               (  -10.7,  4206.2,    20.8)
+  Yours is dead
+2023-01-04T05:17:17Z: PLAYER CHATTED [ 2049354771] Ale879xac            (   22.4,  4205.4,   -30.1)
+  Wahts my ###
+2023-01-04T05:17:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (    8.9,  4207.9,    20.9)
+  Test
+2023-01-04T05:17:18Z: PLAYER CHATTED [ 2206222730] AMELIAKH2010         (   -6.3,  4206.0,    19.6)
+  Mk
+2023-01-04T05:17:21Z: PLAYER CHATTED [ 2049354771] Ale879xac            (   22.7,  4205.4,   -29.5)
+  Woof
+2023-01-04T05:17:21Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (    6.4,  4206.7,   -80.0)
+  I don’t wanna know mine
+2023-01-04T05:17:22Z: PLAYER CHATTED [ 2206222730] AMELIAKH2010         (  -70.8,   103.6, 32440.1)
+  Dead
+2023-01-04T05:17:27Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   17.7,  4206.3,   -87.8)
+  Jk it’s glitch
+2023-01-04T05:17:30Z: PLAYER CHATTED [ 2049354771] Ale879xac            (   22.7,  4205.4,   -29.5)
+  Yours is ice
+2023-01-04T05:17:30Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   17.7,  4206.3,   -87.8)
+  Jk it’s glitch
+2023-01-04T05:17:30Z: PLAYER CHATTED [ 4162381140] Spooky_lucy365       (   -1.5,  4206.1,    19.3)
+  What is mine
+2023-01-04T05:17:32Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (    7.7,  4206.7,   -80.2)
+  Bruh
+2023-01-04T05:17:36Z: PLAYER REMOVED [  459132083] jsy0315              a.k.a. Jay                 
+2023-01-04T05:17:36Z: PLAYER ADDED   [ 4009855124] 1rxzttfg            
+2023-01-04T05:17:36Z: PLAYER CHATTED [ 4172118270] White_star370        (   12.4,  4207.5,   -94.8)
+  oop
+2023-01-04T05:17:39Z: PLAYER CHATTED [  380343958] dt8675               (   -9.6,  4206.2,    19.2)
+  Battle
+2023-01-04T05:17:39Z: PLAYER CHATTED [ 3745628443] Hshhbxbgx            (   -5.1,  4207.3,    17.0)
+  Can 
+2023-01-04T05:17:39Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (    7.7,  4206.7,   -80.2)
+  No it’s not
+2023-01-04T05:17:41Z: PLAYER CHATTED [ 4172118270] White_star370        (   12.4,  4207.5,   -94.8)
+  didn't
+2023-01-04T05:17:41Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   17.7,  4206.3,   -87.8)
+  White penny’s is want
+2023-01-04T05:17:42Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (    8.4,  4206.7,   -81.0)
+  Watch
+2023-01-04T05:17:45Z: PLAYER CHATTED [  380343958] dt8675               (   -9.6,  4206.2,    19.2)
+  Dead
+2023-01-04T05:17:45Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (    8.4,  4206.7,   -81.0)
+  Glitch
+2023-01-04T05:17:45Z: PLAYER CHATTED [ 4172118270] White_star370        (   12.4,  4207.5,   -94.8)
+  mean to🥲
+2023-01-04T05:17:46Z: PLAYER CHATTED [ 4162381140] Spooky_lucy365       (  -70.8,   103.8, 32440.1)
+  Battle 
+2023-01-04T05:17:48Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (  -70.9,   103.6, 32440.1)
+  Bruh
+2023-01-04T05:17:49Z: PLAYER CHATTED [ 2049354771] Ale879xac            (   22.7,  4205.4,   -29.5)
+  #####################
+2023-01-04T05:17:49Z: PLAYER CHATTED [ 2206222730] AMELIAKH2010         (   -6.5,  4206.0,    16.0)
+  Yours is still omg
+2023-01-04T05:17:54Z: PLAYER CHATTED [  380343958] dt8675               (   -9.8,  4206.2,    18.4)
+  Omg
+2023-01-04T05:17:55Z: PLAYER CHATTED [ 4172118270] White_star370        (  -71.0,   103.6, 32440.0)
+  want
+2023-01-04T05:17:56Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      ( -116.3,    98.3, 32438.4)
+  Glitch
+2023-01-04T05:17:57Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   17.7,  4206.3,   -87.8)
+  Gold is YouTuber
+2023-01-04T05:17:59Z: PLAYER CHATTED [  380343958] dt8675               (   -9.8,  4206.2,    18.4)
+  OMG
+2023-01-04T05:18:00Z: PLAYER CHATTED [ 2049354771] Ale879xac            (   22.7,  4205.4,   -29.5)
+  ###################
+2023-01-04T05:18:02Z: PLAYER CHATTED [  380343958] dt8675               (   -9.8,  4206.2,    18.4)
+  Nope
+2023-01-04T05:18:05Z: PLAYER CHATTED [ 2206222730] AMELIAKH2010         (   -6.8,  4206.0,    16.0)
+  Path
+2023-01-04T05:18:05Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      ( -126.2,   101.1, 32439.4)
+  You word is beautiful
+2023-01-04T05:18:06Z: PLAYER CHATTED [  380343958] dt8675               (   -7.8,  4206.2,    21.8)
+  Neon
+2023-01-04T05:18:08Z: PLAYER CHATTED [ 2206222730] AMELIAKH2010         (   -6.8,  4206.0,    16.1)
+  Wth
+2023-01-04T05:18:08Z: PLAYER CHATTED [ 1179782484] Sibadee2013          (   21.5,  4205.4,   -20.7)
+  Maker
+2023-01-04T05:18:09Z: PLAYER CHATTED [  380343958] dt8675               (   -7.7,  4206.2,    20.1)
+  Path
+2023-01-04T05:18:09Z: PLAYER CHATTED [ 2049354771] Ale879xac            (   21.8,  4205.4,   -24.3)
+  ####################################################
+2023-01-04T05:18:15Z: PLAYER CHATTED [ 1780895249] cartooncat544        (    4.4,  4207.6,   -89.5)
+  #######
+2023-01-04T05:18:15Z: PLAYER CHATTED [  380343958] dt8675               (   -8.0,  4206.2,    22.3)
+  Lol
+2023-01-04T05:18:16Z: PLAYER CHATTED [ 2049354771] Ale879xac            (   21.8,  4205.4,   -24.3)
+  Tyyy!😜🥰
+2023-01-04T05:18:18Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (   20.1,  4205.0,     3.4)
+  Glitch
+2023-01-04T05:18:18Z: PLAYER CHATTED [ 2206222730] AMELIAKH2010         (   -6.8,  4206.0,    16.1)
+  Nope it was autocorrect lol
+2023-01-04T05:18:23Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (   14.0,  4204.9,    -1.8)
+  What’s my words
+2023-01-04T05:18:29Z: PLAYER CHATTED [ 2206222730] AMELIAKH2010         (  -70.8,   103.6, 32440.1)
+  Neon
+2023-01-04T05:18:30Z: PLAYER ADDED   [ 2200684047] cutekaiden2          a.k.a. BlackC1over         
+2023-01-04T05:18:30Z: PLAYER CHATTED [ 3745628443] Hshhbxbgx            (   -3.4,  4207.3,    18.4)
+  Neon
+2023-01-04T05:18:32Z: PLAYER CHATTED [  380343958] dt8675               (   -5.3,  4206.2,    22.8)
+  Beautiful 
+2023-01-04T05:18:35Z: PLAYER CHATTED [  380343958] dt8675               (   -3.4,  4206.2,    23.6)
+  Can
+2023-01-04T05:18:36Z: PLAYER CHATTED [  373318959] harleyq1211          (   23.8,  4205.4,   -80.4)
+  Idk
+2023-01-04T05:18:40Z: PLAYER CHATTED [ 4162381140] Spooky_lucy365       (   -1.2,  4206.1,    22.3)
+  What is mine
+2023-01-04T05:18:40Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   17.7,  4206.3,   -87.8)
+  ABC TO FIND OUT THERE WORD 💅🏼☺️ 
+2023-01-04T05:18:41Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (    5.0,  4204.9,     6.3)
+  Hi I’m just here I’m at the church now I will have to be my way back home now I’m going on a walk now and I’m going back up 🆙 hill I’m so tired and I can’t wait to be there for you lol I don’t want  
+2023-01-04T05:18:41Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (    5.0,  4204.9,     6.3)
+  Hi I’m just here I’m at the church now I will have to be my way back home now I’m going on a walk now and I’m going back up 🆙 hill I’m so tired and I can’t wait to be there for you lol I don’t want 
+2023-01-04T05:18:44Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (    5.2,  4204.9,     5.8)
+  ######
+2023-01-04T05:18:45Z: PLAYER CHATTED [ 3745628443] Hshhbxbgx            (   -3.0,  4207.3,    18.1)
+  No
+2023-01-04T05:18:45Z: PLAYER CHATTED [  373318959] harleyq1211          (   23.5,  4205.4,   -78.5)
+  Abc
+2023-01-04T05:18:46Z: PLAYER CHATTED [ 2049354771] Ale879xac            (   22.7,  4205.3,   -34.3)
+  Maker
+2023-01-04T05:18:49Z: PLAYER CHATTED [ 2049354771] Ale879xac            (  -70.9,   103.7, 32440.1)
+  Maker
+2023-01-04T05:18:50Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (    5.2,  4204.9,     5.8)
+  I’m just typing random things
+2023-01-04T05:18:53Z: PLAYER CHATTED [ 4172118270] White_star370        (    7.9,  4206.5,   -74.8)
+  meh 😃
+2023-01-04T05:18:53Z: PLAYER CHATTED [ 1780895249] cartooncat544        (  -15.0,  4208.5,  -131.2)
+  youtuber
+2023-01-04T05:18:53Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (    5.2,  4204.9,     5.8)
+  #####
+2023-01-04T05:18:55Z: PLAYER REMOVED [ 4009855124] 1rxzttfg            
+2023-01-04T05:18:55Z: PLAYER CHATTED [ 3745628443] Hshhbxbgx            (   -3.0,  4207.3,    18.1)
+  Can 
+2023-01-04T05:18:55Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (    5.2,  4204.9,     5.8)
+  Radio
+2023-01-04T05:18:56Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   17.7,  4206.3,   -87.8)
+  Kamis is muscle.
+2023-01-04T05:19:01Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (  -70.9,   103.7, 32440.1)
+  I can’t tell anyone what the word is
+2023-01-04T05:19:01Z: PLAYER CHATTED [  380343958] dt8675               (   -6.0,  4206.2,    21.5)
+  Beautiful 
+2023-01-04T05:19:02Z: PLAYER CHATTED [ 2206222730] AMELIAKH2010         (  -12.2,  4206.0,    19.4)
+  I can jump really high
+2023-01-04T05:19:02Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (    5.2,  4204.9,     5.8)
+  Okay I’m so so sorry sorry 😞 I don’t wanna be able to do it lol lol I’m just so tired 😴 I’m going on a break 
+2023-01-04T05:19:04Z: PLAYER CHATTED [  373318959] harleyq1211          (  -70.9,   103.5, 32440.1)
+  Muscle
+2023-01-04T05:19:06Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (    5.3,  4207.4,    16.4)
+  Lol
+2023-01-04T05:19:06Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   17.7,  4206.3,   -87.8)
+  Urs is want
+2023-01-04T05:19:06Z: PLAYER CHATTED [  380343958] dt8675               (   -6.0,  4206.2,    21.5)
+  What mine
+2023-01-04T05:19:08Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (  -79.4,   100.3, 32441.2)
+  Wait what
+2023-01-04T05:19:11Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (  -77.4,   100.3, 32440.5)
+  LOL
+2023-01-04T05:19:12Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (   -3.1,  4206.3,    20.9)
+  Omg
+2023-01-04T05:19:12Z: PLAYER CHATTED [ 1179782484] Sibadee2013          (   10.8,  4205.3,   -56.2)
+  Mine?
+2023-01-04T05:19:12Z: PLAYER CHATTED [ 4172118270] White_star370        (    7.8,  4206.5,   -75.7)
+  again
+2023-01-04T05:19:14Z: PLAYER CHATTED [ 4162381140] Spooky_lucy365       (   -7.6,  4206.1,    18.6)
+  Can
+2023-01-04T05:19:15Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (   -4.8,  4206.3,    21.2)
+  Your is omg
+2023-01-04T05:19:16Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (  -80.6,   100.3, 32441.6)
+  I got it randomly
+2023-01-04T05:19:16Z: PLAYER CHATTED [  380343958] dt8675               (   -9.0,  4206.2,    23.0)
+  And yes
+2023-01-04T05:19:19Z: PLAYER CHATTED [  380343958] dt8675               (   -9.0,  4206.2,    23.0)
+  Omg
+2023-01-04T05:19:19Z: PLAYER CHATTED [ 3745628443] Hshhbxbgx            (   -9.1,  4207.3,    16.8)
+   My world
+2023-01-04T05:19:20Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (   -4.9,  4206.3,    21.3)
+  OmG
+2023-01-04T05:19:21Z: PLAYER CHATTED [ 2049354771] Ale879xac            (  -10.0,  4206.2,    20.8)
+  Why aren’t you guys dying ###
+2023-01-04T05:19:21Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   17.7,  4206.3,   -87.8)
+  It’s want
+2023-01-04T05:19:22Z: PLAYER REMOVED [ 1395682987] xmffyrgfytruutu     
+2023-01-04T05:19:23Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (   -4.9,  4206.3,    21.3)
+  No
+2023-01-04T05:19:26Z: PLAYER REMOVED [ 1780895249] cartooncat544        a.k.a. Gold                
+2023-01-04T05:19:27Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (   -4.9,  4206.3,    21.3)
+  OMG
+2023-01-04T05:19:28Z: PLAYER CHATTED [  380343958] dt8675               (  -10.4,  4206.2,    22.2)
+  Nope
+2023-01-04T05:19:29Z: PLAYER CHATTED [ 4172118270] White_star370        (    7.8,  4206.5,   -75.7)
+  urs is brain
+2023-01-04T05:19:30Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   13.3,  4206.3,   -81.4)
+  Urs is ice
+2023-01-04T05:19:31Z: PLAYER CHATTED [ 4162381140] Spooky_lucy365       (   -7.6,  4206.1,    18.6)
+  What is my word
+2023-01-04T05:19:31Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (   -4.9,  4206.3,    21.3)
+  With caps
+2023-01-04T05:19:32Z: PLAYER CHATTED [ 3745628443] Hshhbxbgx            (   -7.7,  4207.3,    21.6)
+   Mine
+2023-01-04T05:19:33Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   12.9,  4206.3,   -82.8)
+  Y
+2023-01-04T05:19:34Z: PLAYER CHATTED [ 1179782484] Sibadee2013          (  -70.9,   103.6, 32440.1)
+  ice
+2023-01-04T05:19:35Z: PLAYER CHATTED [  380343958] dt8675               (  -10.4,  4206.2,    22.2)
+  OMG
+2023-01-04T05:19:36Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   15.2,  4206.3,   -83.6)
+  Ty
+2023-01-04T05:19:37Z: PLAYER CHATTED [  380343958] dt8675               (  -10.4,  4206.2,    22.2)
+  Nope
+2023-01-04T05:19:39Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (  -36.5,  4203.9,    52.1)
+  ABC 
+2023-01-04T05:19:41Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (   -6.8,  4206.3,    20.1)
+  What?
+2023-01-04T05:19:41Z: PLAYER CHATTED [ 4172118270] White_star370        (    7.9,  4206.5,   -76.3)
+  want
+2023-01-04T05:19:43Z: CHRCTER ADDED  [  380343958] dt8675              
+2023-01-04T05:19:45Z: PLAYER CHATTED [ 4172118270] White_star370        (    7.9,  4206.5,   -76.3)
+  what
+2023-01-04T05:19:45Z: PLAYER CHATTED [  373318959] harleyq1211          (  -40.0,  4205.5,    46.0)
+  Abc
+2023-01-04T05:19:48Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (   -6.4,  4206.3,    21.0)
+  Yes it is
+2023-01-04T05:19:51Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (   -4.9,  4206.3,    22.1)
+  Oh
+2023-01-04T05:19:51Z: PLAYER CHATTED [  380343958] dt8675               (  -70.8,   103.6, 32440.1)
+  Stop
+2023-01-04T05:19:53Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (    3.9,  4206.0,    28.1)
+  /e danc
+2023-01-04T05:19:53Z: PLAYER CHATTED [ 4172118270] White_star370        (    7.9,  4206.5,   -76.3)
+  idk what mine is
+2023-01-04T05:19:54Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (   -4.9,  4206.3,    22.1)
+  It’s stop
+2023-01-04T05:19:54Z: PLAYER CHATTED [ 3745628443] Hshhbxbgx            (  -12.8,  4207.3,    21.9)
+    what’s mine
+2023-01-04T05:19:54Z: PLAYER CHATTED [ 3745628443] Hshhbxbgx            (  -12.8,  4207.3,    21.9)
+   what’s mine
+2023-01-04T05:19:54Z: PLAYER CHATTED [ 2206222730] AMELIAKH2010         (   -1.2,  4206.0,    20.6)
+  Stop
+2023-01-04T05:19:55Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (   -4.9,  4206.3,    22.1)
+  Lol
+2023-01-04T05:19:56Z: PLAYER CHATTED [  380343958] dt8675               (  -70.9,   103.6, 32440.1)
+  I CAN SEE MY WORD
+2023-01-04T05:19:57Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (    3.9,  4206.0,    28.1)
+  /e dance
+2023-01-04T05:19:58Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (   -4.9,  4206.3,    22.1)
+  Can
+2023-01-04T05:20:03Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (  -36.5,  4203.9,    52.1)
+  I can’t tell anyone the word because it’s not fair of course it won’t be fair duhh slayyyy meme thanks than you omg Omg
+2023-01-04T05:20:04Z: PLAYER CHATTED [ 3745628443] Hshhbxbgx            (  -10.7,  4207.3,    18.6)
+  No
+2023-01-04T05:20:05Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (   -5.3,  4206.3,    21.2)
+  Yours is can
+2023-01-04T05:20:06Z: PLAYER CHATTED [ 2206222730] AMELIAKH2010         (   -1.7,  4206.0,    20.4)
+  Attract
+2023-01-04T05:20:06Z: PLAYER CHATTED [ 2049354771] Ale879xac            (   -6.8,  4208.3,  -105.6)
+  Want
+2023-01-04T05:20:06Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (  -41.1,  4204.7,    50.0)
+  SD 
+2023-01-04T05:20:09Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (    3.9,  4206.0,    28.1)
+  ABC TO FIND OUT UR WORD☺️
+2023-01-04T05:20:09Z: PLAYER ADDED   [  464155744] Heyfaith1            a.k.a. Noo                 
+2023-01-04T05:20:10Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (  -39.7,  4204.7,    48.6)
+  SD
+2023-01-04T05:20:12Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (  -39.7,  4204.7,    48.6)
+  Sad
+2023-01-04T05:20:13Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (   -6.2,  4206.3,    20.2)
+  It’s can
+2023-01-04T05:20:14Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (    3.9,  4206.0,    28.1)
+  💅🏼
+2023-01-04T05:20:14Z: PLAYER CHATTED [ 3745628443] Hshhbxbgx            (   -9.5,  4207.3,    18.6)
+  Can 
+2023-01-04T05:20:15Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (  -39.7,  4204.7,    48.6)
+  Light
+2023-01-04T05:20:15Z: PLAYER CHATTED [ 2206222730] AMELIAKH2010         (  -11.6,  4206.0,    25.3)
+  Space
+2023-01-04T05:20:15Z: PLAYER CHATTED [  380343958] dt8675               (  -10.3,  4206.2,    24.8)
+  I CAN SEE MINE
+2023-01-04T05:20:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (   19.1,  4205.7,    -7.9)
+  quarepants
+2023-01-04T05:20:21Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (  -39.7,  4204.7,    48.6)
+  Space
+2023-01-04T05:20:21Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (   -6.6,  4206.3,    20.3)
+  Attract
+2023-01-04T05:20:21Z: PLAYER CHATTED [ 1179782484] Sibadee2013          (  -41.5,  4224.7,   -54.3)
+  Abc
+2023-01-04T05:20:21Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (   -6.6,  4206.3,    20.3)
+  WTH
+2023-01-04T05:20:21Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (  -70.9,   103.6, 32440.1)
+  Attract
+2023-01-04T05:20:21Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (  -70.9,   103.6, 32440.1)
+  WTH
+2023-01-04T05:20:22Z: PLAYER CHATTED [ 2206222730] AMELIAKH2010         (   -8.8,  4206.0,    23.4)
+  What??
+2023-01-04T05:20:24Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (  -39.7,  4204.7,    48.6)
+  Mine
+2023-01-04T05:20:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (    9.6,  4205.4,    -1.3)
+  squarepants
+2023-01-04T05:20:29Z: PLAYER REMOVED [ 3745628443] Hshhbxbgx           
+2023-01-04T05:20:30Z: PLAYER CHATTED [ 2206222730] AMELIAKH2010         (   -8.8,  4206.0,    23.4)
+  Oh that’s wierd
+2023-01-04T05:20:32Z: PLAYER CHATTED [  380343958] dt8675               (  -13.0,  4206.2,    23.7)
+  I SEE WHAT MY WORDS ARE
+2023-01-04T05:20:32Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (  -11.9,  4205.5,    17.8)
+  Out
+2023-01-04T05:20:34Z: PLAYER REMOVED [  373318959] harleyq1211          a.k.a. Kami                
+2023-01-04T05:20:36Z: PLAYER CHATTED [ 2206222730] AMELIAKH2010         (   -8.8,  4206.0,    23.4)
+  Weird*
+2023-01-04T05:20:37Z: PLAYER CHATTED [  380343958] dt8675               (  -70.8,   104.7, 32440.1)
+  space
+2023-01-04T05:20:38Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (   -9.5,  4206.3,    17.7)
+  U get new things
+2023-01-04T05:20:40Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (   20.7,  4204.2,     1.9)
+  my
+2023-01-04T05:20:41Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (    3.9,  4206.0,    28.1)
+  ABC TO FIND OUT UR WORD💅🏼
+2023-01-04T05:20:45Z: PLAYER CHATTED [ 2206222730] AMELIAKH2010         (   -8.8,  4206.0,    22.8)
+  What’s mine?
+2023-01-04T05:20:46Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (   20.7,  4204.2,     1.9)
+  #####Craft
+2023-01-04T05:20:47Z: PLAYER CHATTED [ 1179782484] Sibadee2013          (  -19.6,  4352.4,   -96.3)
+  ABC
+2023-01-04T05:20:51Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (   -8.6,  4206.3,    16.0)
+  I got a speed potion
+2023-01-04T05:20:52Z: PLAYER REMOVED [ 2049354771] Ale879xac            a.k.a. Rinsorangess        
+2023-01-04T05:20:53Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (   -8.8,  4206.3,    16.2)
+  Out
+2023-01-04T05:20:55Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (   20.7,  4204.2,     1.9)
+  KreekCraft
+2023-01-04T05:20:55Z: PLAYER REMOVED [ 4172118270] White_star370        a.k.a. WhitePenny          
+2023-01-04T05:20:56Z: PLAYER CHATTED [  380343958] dt8675               (  -12.9,  4206.2,    16.9)
+  Out
+2023-01-04T05:20:58Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (   -9.0,  4206.3,    16.0)
+  Yours is space
+2023-01-04T05:20:59Z: PLAYER CHATTED [ 2206222730] AMELIAKH2010         (  -70.8,   104.6, 32440.1)
+  Out
+2023-01-04T05:20:59Z: PLAYER CHATTED [ 1179782484] Sibadee2013          (  -19.6,  4352.4,   -96.3)
+  Out
+2023-01-04T05:21:01Z: PLAYER ADDED   [ 3774732144] EeveeDouble7         a.k.a. Meowster            
+2023-01-04T05:21:01Z: PLAYER ADDED   [  470960971] camboy1012           a.k.a. carl                
+2023-01-04T05:21:02Z: PLAYER ADDED   [ 3937746351] lasmi8216            a.k.a. dontwakemeup        
+2023-01-04T05:21:02Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (    6.5,  4205.5,    25.3)
+  Brain
+2023-01-04T05:21:04Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (  -10.8,  4206.3,    18.7)
+  What’s mine
+2023-01-04T05:21:05Z: PLAYER CHATTED [  380343958] dt8675               (  -15.9,  4206.2,    17.7)
+  Space
+2023-01-04T05:21:07Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (    7.4,  4205.5,    23.4)
+  brain
+2023-01-04T05:21:07Z: PLAYER ADDED   [ 2518686030] Emart909            
+2023-01-04T05:21:07Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (    3.9,  4206.0,    28.1)
+  Ty
+2023-01-04T05:21:08Z: PLAYER CHATTED [  380343958] dt8675               (  -15.7,  4206.2,    18.0)
+  Christmas 
+2023-01-04T05:21:09Z: PLAYER ADDED   [ 1061752541] beautiespiderlegs    a.k.a. Kylie               
+2023-01-04T05:21:09Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (  -10.2,  4206.3,    19.1)
+  GoodW
+2023-01-04T05:21:11Z: PLAYER CHATTED [ 3937746351] lasmi8216            (  -37.9,  4204.4,    16.8)
+  whats my wor
+2023-01-04T05:21:13Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (   11.8,  4206.3,    25.6)
+  What’s mines 
+2023-01-04T05:21:13Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (  -11.3,  4206.3,    18.9)
+  Your is good
+2023-01-04T05:21:14Z: PLAYER CHATTED [ 1179782484] Sibadee2013          (  -19.6,  4352.4,   -96.3)
+  Autograph
+2023-01-04T05:21:18Z: PLAYER CHATTED [ 1179782484] Sibadee2013          (  -70.9,   103.7, 32440.2)
+  Autograph
+2023-01-04T05:21:18Z: PLAYER CHATTED [ 3937746351] lasmi8216            (  -37.9,  4204.4,    16.8)
+  whats my word*
+2023-01-04T05:21:18Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (    3.9,  4206.0,    28.1)
+  Urs is ##### #####
+2023-01-04T05:21:18Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (  -11.4,  4206.3,    19.3)
+  That’s it
+2023-01-04T05:21:18Z: PLAYER CHATTED [  380343958] dt8675               (  -70.8,   103.6, 32440.1)
+  Good I can see mine btw
+2023-01-04T05:21:21Z: PLAYER CHATTED [ 2518686030] Emart909             (  -36.2,  4205.7,    26.0)
+  Like
+2023-01-04T05:21:21Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (  -70.9,   103.7, 32440.1)
+  Christmas
+2023-01-04T05:21:23Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (   10.0,  4205.5,    27.8)
+  Tbh I was just testing if I got that 1
+2023-01-04T05:21:23Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (    3.9,  4206.0,    28.1)
+  ##### #####
+2023-01-04T05:21:27Z: PLAYER CHATTED [ 3937746351] lasmi8216            (  -37.4,  4204.6,    22.6)
+  ur word is bye
+2023-01-04T05:21:27Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (   10.0,  4205.5,    27.8)
+  What
+2023-01-04T05:21:28Z: PLAYER CHATTED [  464155744] Heyfaith1            (    7.2,  4206.2,    40.6)
+  It’s #### ####
+2023-01-04T05:21:30Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (    3.9,  4206.0,    28.1)
+  “Your
+2023-01-04T05:21:31Z: PLAYER CHATTED [  464155744] Heyfaith1            (    7.6,  4206.2,    38.3)
+  Your
+2023-01-04T05:21:33Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (    3.9,  4206.0,    28.1)
+  #####
+2023-01-04T05:21:33Z: PLAYER CHATTED [  464155744] Heyfaith1            (    7.6,  4206.2,    38.3)
+  ####
+2023-01-04T05:21:33Z: PLAYER CHATTED [  470960971] camboy1012           (  -25.6,  4204.7,    15.8)
+  what is my word
+2023-01-04T05:21:34Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (   10.0,  4205.5,    27.8)
+  Your 
+2023-01-04T05:21:35Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (  -38.4,  4205.4,    34.7)
+  Another one!?
+2023-01-04T05:21:38Z: PLAYER CHATTED [ 2518686030] Emart909             (  -37.5,  4205.7,    26.7)
+  Ok
+2023-01-04T05:21:38Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (  -38.4,  4205.4,    34.7)
+  Lol
+2023-01-04T05:21:39Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (    3.9,  4206.0,    28.1)
+  Poo r”
+2023-01-04T05:21:42Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (  -31.7,  4207.4,    28.3)
+  Yours is gc
+2023-01-04T05:21:42Z: PLAYER CHATTED [ 3937746351] lasmi8216            (  -37.4,  4204.6,    22.6)
+  Vanilla
+2023-01-04T05:21:42Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (   10.0,  4205.5,    27.8)
+   Rub
+2023-01-04T05:21:42Z: PLAYER CHATTED [  380343958] dt8675               (   11.5,  4207.2,    25.2)
+  Phone
+2023-01-04T05:21:43Z: PLAYER CHATTED [  464155744] Heyfaith1            (    7.6,  4206.2,    38.3)
+  Yeah
+2023-01-04T05:21:47Z: PLAYER CHATTED [ 3774732144] EeveeDouble7         (  -28.9,  4206.4,    41.4)
+  im bored
+2023-01-04T05:21:49Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (    7.6,  4205.5,    23.7)
+  RAHUHHHH 
+2023-01-04T05:21:50Z: PLAYER CHATTED [  470960971] camboy1012           (  -31.3,  4207.2,    26.7)
+  uh
+2023-01-04T05:21:50Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (  -28.7,  4206.3,    36.4)
+  Same
+2023-01-04T05:21:53Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (  -71.0,   103.7, 32440.2)
+  #### ####
+2023-01-04T05:21:56Z: PLAYER REMOVED [ 1179782484] Sibadee2013          a.k.a. James_Charles       
+2023-01-04T05:21:57Z: PLAYER CHATTED [ 1061752541] beautiespiderlegs    (   13.7,  4206.5,    36.9)
+  What is my name?
+2023-01-04T05:21:57Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (  -28.7,  4206.3,    36.4)
+  Yours is vanilla
+2023-01-04T05:21:59Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (  -70.9,   103.5, 32440.1)
+  Goofy game
+2023-01-04T05:22:00Z: PLAYER CHATTED [ 3937746351] lasmi8216            (  -33.3,  4204.6,    23.9)
+  what is my word again
+2023-01-04T05:22:00Z: PLAYER CHATTED [  380343958] dt8675               (   -2.4,  4206.2,    18.2)
+  To
+2023-01-04T05:22:04Z: PLAYER CHATTED [  464155744] Heyfaith1            (    5.1,  4206.2,    41.9)
+  ##########
+2023-01-04T05:22:04Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (    3.9,  4206.0,    28.1)
+  ABC TO FIND OUT UR WORD
+2023-01-04T05:22:05Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (   10.0,  4206.3,    26.8)
+  Urs is brain
+2023-01-04T05:22:07Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (    8.4,  4206.3,    26.5)
+  Abc
+2023-01-04T05:22:09Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (    3.9,  4206.0,    28.1)
+  Ty
+2023-01-04T05:22:10Z: PLAYER CHATTED [ 2518686030] Emart909             (  -13.2,  4205.7,    10.7)
+  Like
+2023-01-04T05:22:11Z: PLAYER CHATTED [ 2206222730] AMELIAKH2010         (   -5.5,  4206.0,    16.6)
+  I’m gonna go now
+2023-01-04T05:22:13Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (    8.7,  4206.6,    22.4)
+  Like
+2023-01-04T05:22:14Z: PLAYER CHATTED [ 3937746351] lasmi8216            (  -70.9,   103.6, 32440.1)
+  like
+2023-01-04T05:22:15Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (    8.4,  4206.3,    26.5)
+  If you guess it then you get a reward
+2023-01-04T05:22:16Z: PLAYER CHATTED [  380343958] dt8675               (   -2.8,  4206.2,    17.7)
+  Oh okay byeee
+2023-01-04T05:22:17Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (    4.8,  4205.5,    25.4)
+  ABC
+2023-01-04T05:22:18Z: PLAYER CHATTED [  464155744] Heyfaith1            (    5.1,  4206.2,    41.9)
+  Your word is help 
+2023-01-04T05:22:19Z: PLAYER CHATTED [  470960971] camboy1012           (   13.5,  4204.7,    55.9)
+  gc
+2023-01-04T05:22:19Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (    3.9,  4206.0,    28.1)
+  Urs is Lol☺️✨
+2023-01-04T05:22:21Z: PLAYER ADDED   [  795402876] noname9577           a.k.a. ch1llingw1thn0one   
+2023-01-04T05:22:23Z: PLAYER CHATTED [  380343958] dt8675               (  -70.8,   103.6, 32440.1)
+  Brain
+2023-01-04T05:22:23Z: PLAYER CHATTED [ 2206222730] AMELIAKH2010         (   -5.2,  4206.0,    16.0)
+  Ty for playing with me <3
+2023-01-04T05:22:24Z: PLAYER CHATTED [ 1061752541] beautiespiderlegs    (   11.1,  4206.5,    40.6)
+  Ok ty
+2023-01-04T05:22:28Z: PLAYER CHATTED [  464155744] Heyfaith1            (    5.3,  4206.2,    41.4)
+  What’s mine
+2023-01-04T05:22:28Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (  -70.9,   103.5, 32440.1)
+  LOl
+2023-01-04T05:22:28Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (    6.6,  4206.1,    20.5)
+  Vanilla 
+2023-01-04T05:22:29Z: PLAYER CHATTED [ 2206222730] AMELIAKH2010         (   -5.2,  4206.0,    16.0)
+  Byee!
+2023-01-04T05:22:30Z: PLAYER CHATTED [  380343958] dt8675               (  -70.9,   103.6, 32440.1)
+  /w AMELIAKH2010  No that you
+2023-01-04T05:22:32Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.4,  4205.8,     4.8)
+  hot
+2023-01-04T05:22:33Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (    6.6,  4206.1,    20.5)
+  acc
+2023-01-04T05:22:34Z: PLAYER REMOVED [ 2206222730] AMELIAKH2010         a.k.a. Amelia              
+2023-01-04T05:22:34Z: PLAYER ADDED   [ 4093312591] Ssuger28             a.k.a. Coffee              
+2023-01-04T05:22:37Z: PLAYER CHATTED [  380343958] dt8675               ( -124.9,   100.9, 32436.7)
+  Byyeee
+2023-01-04T05:22:37Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      ( -111.7,   101.1, 32440.2)
+  LOl
+2023-01-04T05:22:37Z: PLAYER CHATTED [  464155744] Heyfaith1            (   15.8,  4207.2,    28.2)
+  Bruh
+2023-01-04T05:22:38Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (    6.6,  4206.1,    20.5)
+  gc
+2023-01-04T05:22:38Z: PLAYER CHATTED [  470960971] camboy1012           (   -2.6,  4206.2,    16.4)
+  #######
+2023-01-04T05:22:39Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (    3.9,  4206.0,    28.1)
+  Urs is light ✨
+2023-01-04T05:22:42Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      ( -146.6,  -262.3, 32440.0)
+  Lol
+2023-01-04T05:22:42Z: CHRCTER ADDED  [ 1655970308] SweetiePieLlama     
+2023-01-04T05:22:45Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (   10.8,  4206.6,    21.0)
+  My
+2023-01-04T05:22:46Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (   -8.9,  4206.6,    25.0)
+  Lol
+2023-01-04T05:22:47Z: PLAYER CHATTED [  464155744] Heyfaith1            (   15.7,  4207.2,    28.3)
+  Alr ty
+2023-01-04T05:22:47Z: PLAYER CHATTED [  380343958] dt8675               (  -70.9,   103.7, 32440.2)
+  Flamingo 
+2023-01-04T05:22:49Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (   10.8,  4206.6,    21.0)
+  Vanilla
+2023-01-04T05:22:50Z: PLAYER CHATTED [  795402876] noname9577           (   20.8,  4205.6,    25.7)
+  bye
+2023-01-04T05:22:52Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (   22.7,  4204.9,    16.9)
+  Light
+2023-01-04T05:22:53Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (   10.8,  4206.6,    21.0)
+  Wipe
+2023-01-04T05:22:53Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   12.9,  4207.1,    26.7)
+  Np💅🏼
+2023-01-04T05:22:54Z: PLAYER REMOVED [  470960971] camboy1012           a.k.a. carl                
+2023-01-04T05:22:55Z: PLAYER CHATTED [  464155744] Heyfaith1            (  -70.9,   103.5, 32440.1)
+  Light
+2023-01-04T05:22:55Z: PLAYER ADDED   [  872152633] sunnythesun537       a.k.a. GH0UL               
+2023-01-04T05:22:57Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (   12.0,  4204.9,    15.7)
+  What’s my word
+2023-01-04T05:22:57Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (  -70.9,   103.7, 32440.1)
+  Superb
+2023-01-04T05:23:06Z: PLAYER CHATTED [ 2518686030] Emart909             (   16.6,  4204.9,    23.7)
+  ??
+2023-01-04T05:23:09Z: PLAYER CHATTED [  795402876] noname9577           (   22.0,  4205.4,    24.7)
+  say bye
+2023-01-04T05:23:11Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (    3.4,  4206.3,    23.6)
+  Vanilla
+2023-01-04T05:23:11Z: PLAYER CHATTED [  795402876] noname9577           (   22.0,  4205.4,    24.7)
+  say bye
+2023-01-04T05:23:13Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (    3.4,  4206.3,    23.6)
+  Christmas
+2023-01-04T05:23:13Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (    0.8,  4206.0,    26.6)
+  Super👁👄👁
+2023-01-04T05:23:14Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (    3.4,  4206.3,    23.6)
+  Lol
+2023-01-04T05:23:15Z: PLAYER CHATTED [ 2518686030] Emart909             (  -70.7,   103.7, 32440.0)
+  /w Ohnoimsoweird  Bye 
+2023-01-04T05:23:16Z: PLAYER CHATTED [ 1655970308] SweetiePieLlama      (  -70.9,   103.7, 32440.1)
+  Super
+2023-01-04T05:23:17Z: PLAYER CHATTED [  380343958] dt8675               (   -2.0,  4206.2,    21.0)
+  Let’s see if I can get 3 in a row
+2023-01-04T05:23:26Z: PLAYER CHATTED [  380343958] dt8675               (    0.3,  4206.2,    21.3)
+  Just not so yes 
+2023-01-04T05:23:26Z: PLAYER REMOVED [ 3774732144] EeveeDouble7         a.k.a. Meowster            
+2023-01-04T05:23:27Z: PLAYER REMOVED [  872152633] sunnythesun537       a.k.a. GH0UL               
+2023-01-04T05:23:33Z: PLAYER CHATTED [  795402876] noname9577           (   10.8,  4206.6,    33.2)
+  say thats
+2023-01-04T05:23:33Z: PLAYER ADDED   [ 2341510234] Melly_og1549OnXbox   a.k.a. Charlie             
+2023-01-04T05:23:33Z: PLAYER ADDED   [ 3422396607] G0thFreak0           a.k.a. DefinitelyNotCassie 
+2023-01-04T05:23:39Z: PLAYER REMOVED [ 1655970308] SweetiePieLlama     
+2023-01-04T05:23:41Z: PLAYER ADDED   [ 3263449480] princessburyq       
+2023-01-04T05:23:41Z: PLAYER CHATTED [  380343958] dt8675               (   -1.7,  4206.2,    20.5)
+  ### ####
+2023-01-04T05:23:41Z: PLAYER CHATTED [  464155744] Heyfaith1            (    5.5,  4206.2,    35.2)
+  That’s
+2023-01-04T05:23:44Z: PLAYER CHATTED [ 1061752541] beautiespiderlegs    (  -70.9,   103.6, 32440.1)
+  Help
+2023-01-04T05:23:50Z: PLAYER CHATTED [  464155744] Heyfaith1            (  -70.9,   103.5, 32440.1)
+  Thats 
+2023-01-04T05:23:54Z: PLAYER CHATTED [  380343958] dt8675               (  -70.8,   103.6, 32440.1)
+  Want to go to the 
+2023-01-04T05:24:01Z: PLAYER CHATTED [ 3422396607] G0thFreak0           (   12.3,  4206.7,    27.7)
+  ME
+2023-01-04T05:24:01Z: CHRCTER ADDED  [ 1061752541] beautiespiderlegs    a.k.a. Kylie               
+2023-01-04T05:24:02Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (    7.5,  4207.1,    20.1)
+  Is mine Lol?
+2023-01-04T05:24:04Z: PLAYER CHATTED [  380343958] dt8675               (  -70.8,   103.6, 32440.1)
+  Fat
+2023-01-04T05:24:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (   11.0,  4207.9,    23.2)
+  'words'.
+2023-01-04T05:24:12Z: CHRCTER ADDED  [ 2518686030] Emart909            
+2023-01-04T05:24:15Z: PLAYER CHATTED [  795402876] noname9577           (   10.8,  4206.6,    33.2)
+  mom
+2023-01-04T05:24:16Z: PLAYER REMOVED [ 2341510234] Melly_og1549OnXbox   a.k.a. Charlie             
+2023-01-04T05:24:16Z: PLAYER CHATTED [ 3422396607] G0thFreak0           (  -70.9,   103.5, 32440.1)
+  WORDS
+2023-01-04T05:24:16Z: PLAYER REMOVED [ 4162381140] Spooky_lucy365       a.k.a. Spooky              
+2023-01-04T05:24:16Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (    6.9,  4205.5,    40.8)
+  ####### how man bruh yes yes thank thanks you #### ########
+2023-01-04T05:24:19Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (    6.9,  4205.5,    40.8)
+  Haha
+2023-01-04T05:24:20Z: CHRCTER ADDED  [ 2518686030] Emart909            
+2023-01-04T05:24:21Z: PLAYER CHATTED [  795402876] noname9577           (   10.8,  4206.6,    33.2)
+  math
+2023-01-04T05:24:21Z: PLAYER REMOVED [  380343958] dt8675              
+2023-01-04T05:24:23Z: PLAYER CHATTED [ 1061752541] beautiespiderlegs    (  -70.9,   103.6, 32440.1)
+  What’s my Word?
+2023-01-04T05:24:24Z: PLAYER REMOVED [ 2518686030] Emart909            
+2023-01-04T05:24:24Z: PLAYER CHATTED [  795402876] noname9577           (   10.8,  4206.6,    33.2)
+  read
+2023-01-04T05:24:25Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (    6.9,  4205.5,    40.8)
+  Or words brain
+2023-01-04T05:24:26Z: PLAYER REMOVED [ 3937746351] lasmi8216            a.k.a. dontwakemeup        
+2023-01-04T05:24:26Z: PLAYER ADDED   [ 2518686030] Emart909            
+2023-01-04T05:24:26Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (    6.9,  4205.5,    40.8)
+  The
+2023-01-04T05:24:27Z: PLAYER CHATTED [  795402876] noname9577           (   10.8,  4206.6,    33.2)
+  pe
+2023-01-04T05:24:31Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (    6.9,  4205.5,    40.8)
+  Sheesh 
+2023-01-04T05:24:33Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (    6.9,  4205.5,    40.8)
+  Abahahahaa
+2023-01-04T05:24:38Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (    6.9,  4205.5,    40.8)
+  Tell me!!
+2023-01-04T05:24:41Z: PLAYER CHATTED [  795402876] noname9577           (   47.5,  4205.8,    -3.6)
+  story
+2023-01-04T05:24:45Z: PLAYER CHATTED [ 1061752541] beautiespiderlegs    (    7.1,  4206.5,    41.3)
+  What is my word?
+2023-01-04T05:24:47Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (    8.1,  4205.5,    29.5)
+  Da why
+2023-01-04T05:24:49Z: PLAYER CHATTED [  464155744] Heyfaith1            (    2.7,  4206.2,    30.5)
+  Yours is no ob
+2023-01-04T05:24:53Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (    8.6,  4205.5,    33.2)
+  Dababy
+2023-01-04T05:24:53Z: PLAYER CHATTED [  795402876] noname9577           (   47.5,  4205.8,    -3.6)
+  fake
+2023-01-04T05:24:55Z: PLAYER CHATTED [ 3422396607] G0thFreak0           (   10.1,  4206.3,    27.0)
+  YALL DO I LOOK PRETTY
+2023-01-04T05:24:56Z: PLAYER CHATTED [  795402876] noname9577           (   47.5,  4205.8,    -3.6)
+  freind
+2023-01-04T05:24:57Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (  -70.9,   103.7, 32440.1)
+  ####
+2023-01-04T05:24:58Z: PLAYER CHATTED [ 3263449480] princessburyq        (    3.0,  4206.0,    26.4)
+  idk my word
+2023-01-04T05:25:03Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (    7.1,  4206.0,    24.0)
+  YEA SLAY
+2023-01-04T05:25:03Z: PLAYER CHATTED [  464155744] Heyfaith1            (    3.5,  4206.2,    31.2)
+  It’s Julia
+2023-01-04T05:25:03Z: PLAYER CHATTED [ 2518686030] Emart909             (   21.7,  4205.0,    40.2)
+  What’s my word??
+2023-01-04T05:25:03Z: PLAYER CHATTED [  795402876] noname9577           (   47.5,  4205.8,    -3.6)
+  your
+2023-01-04T05:25:06Z: PLAYER CHATTED [  795402876] noname9577           (   47.5,  4205.8,    -3.6)
+  mom
+2023-01-04T05:25:11Z: PLAYER CHATTED [ 3422396607] G0thFreak0           (    9.6,  4206.3,    28.2)
+  TY
+2023-01-04T05:25:13Z: PLAYER CHATTED [ 1061752541] beautiespiderlegs    (    7.4,  4206.5,    29.3)
+  Your word is Julia
+2023-01-04T05:25:13Z: PLAYER CHATTED [  464155744] Heyfaith1            (    3.3,  4206.2,    31.0)
+  What’s mine
+2023-01-04T05:25:17Z: PLAYER CHATTED [ 4093312591] Ssuger28             (   51.8,  4205.5,    -5.8)
+  Say yo moms
+2023-01-04T05:25:18Z: PLAYER CHATTED [ 3263449480] princessburyq        (    3.4,  4206.0,    26.7)
+  yes slayyyy
+2023-01-04T05:25:18Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (    2.8,  4205.5,    29.5)
+  Brain
+2023-01-04T05:25:19Z: PLAYER CHATTED [ 3422396607] G0thFreak0           (    9.6,  4206.3,    28.2)
+  😍
+2023-01-04T05:25:21Z: PLAYER CHATTED [  464155744] Heyfaith1            (    3.3,  4206.2,    31.0)
+  Nice
+2023-01-04T05:25:24Z: PLAYER CHATTED [  464155744] Heyfaith1            (    3.3,  4206.2,    31.0)
+  Brain
+2023-01-04T05:25:25Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (    2.8,  4205.5,    29.5)
+   Rbruh 
+2023-01-04T05:25:27Z: PLAYER REMOVED [ 4093312591] Ssuger28             a.k.a. Coffee              
+2023-01-04T05:25:27Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (    2.8,  4205.5,    29.5)
+  Bruh
+2023-01-04T05:25:27Z: CHRCTER ADDED  [ 1345273846] zamman1015          
+2023-01-04T05:25:29Z: PLAYER CHATTED [  464155744] Heyfaith1            (  -70.9,   103.5, 32440.1)
+  Bruh
+2023-01-04T05:25:32Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (    7.1,  4206.0,    24.0)
+  NP KEEP SLAYING😌
+2023-01-04T05:25:41Z: PLAYER REMOVED [  795402876] noname9577           a.k.a. ch1llingw1thn0one   
+2023-01-04T05:25:42Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (    1.2,  4205.5,    25.4)
+  SLAYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY 
+2023-01-04T05:25:50Z: PLAYER CHATTED [ 3422396607] G0thFreak0           (   -6.9,  4206.3,    17.5)
+  I always do😜
+2023-01-04T05:25:50Z: PLAYER CHATTED [ 1061752541] beautiespiderlegs    (   29.9,  4205.7,   154.5)
+  Baby
+2023-01-04T05:25:51Z: PLAYER CHATTED [ 2518686030] Emart909             (   13.4,  4206.8,    30.1)
+  /w G0thFreak0  What my word!
+2023-01-04T05:25:55Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (    7.7,  4205.5,    30.3)
+  ####
+2023-01-04T05:25:58Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (    7.7,  4205.5,    30.3)
+  Chicken
+2023-01-04T05:26:00Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (    7.7,  4205.5,    30.3)
+  Brain
+2023-01-04T05:26:02Z: PLAYER REMOVED [ 3263449480] princessburyq       
+2023-01-04T05:26:03Z: PLAYER CHATTED [ 1061752541] beautiespiderlegs    (   57.6,  4207.7,   186.5)
+  Daddy 
+2023-01-04T05:26:06Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (    7.7,  4205.5,    30.3)
+  KreekCraft
+2023-01-04T05:26:06Z: PLAYER CHATTED [  464155744] Heyfaith1            (    4.7,  4206.2,    31.8)
+  Brain?
+2023-01-04T05:26:10Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (    6.8,  4206.0,    33.8)
+  Oof
+2023-01-04T05:26:11Z: PLAYER CHATTED [  464155744] Heyfaith1            (    4.7,  4206.2,    31.8)
+  ?
+2023-01-04T05:26:14Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (    6.8,  4206.0,    33.8)
+  Of
+2023-01-04T05:26:15Z: PLAYER CHATTED [ 2518686030] Emart909             (    3.5,  4206.4,    25.7)
+  What’s my word 
+2023-01-04T05:26:17Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (    6.8,  4206.0,    33.8)
+  Lol
+2023-01-04T05:26:21Z: PLAYER CHATTED [  464155744] Heyfaith1            (    4.4,  4206.2,    31.9)
+  Lol
+2023-01-04T05:26:22Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (    6.8,  4206.0,    33.8)
+  Kreekcraft
+2023-01-04T05:26:23Z: PLAYER CHATTED [ 1061752541] beautiespiderlegs    (   59.2,  4207.3,   182.2)
+  ABC if you want to review each other’s word
+2023-01-04T05:26:26Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (    6.8,  4206.0,    33.8)
+  SquarePants
+2023-01-04T05:26:29Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (   10.4,  4206.6,    21.7)
+  Racist. 
+2023-01-04T05:26:36Z: PLAYER CHATTED [  464155744] Heyfaith1            (  -70.9,   103.5, 32440.1)
+  KreekCraft
+2023-01-04T05:26:38Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (  -70.9,   103.7, 32440.1)
+  car 
+2023-01-04T05:26:40Z: PLAYER ADDED   [ 4177408779] magepad             
+2023-01-04T05:26:40Z: PLAYER REMOVED [ 3422396607] G0thFreak0           a.k.a. DefinitelyNotCassie 
+2023-01-04T05:26:41Z: PLAYER CHATTED [ 2518686030] Emart909             (   15.3,  4207.5,    38.0)
+  Ok
+2023-01-04T05:26:41Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   14.7,  4207.1,    30.3)
+  STAWP
+2023-01-04T05:26:42Z: PLAYER ADDED   [ 3003998888] arialea1            
+2023-01-04T05:26:55Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   13.8,  4206.7,    31.2)
+  Urs is the😃
+2023-01-04T05:26:56Z: PLAYER CHATTED [ 1061752541] beautiespiderlegs    (   15.2,  4207.5,    46.7)
+  What is my word?
+2023-01-04T05:26:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (   12.8,  4206.9,    33.7)
+  You can get all the words you can get!
+2023-01-04T05:27:02Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   13.8,  4206.7,    31.2)
+  Yay:)
+2023-01-04T05:27:07Z: PLAYER CHATTED [ 2518686030] Emart909             (   15.1,  4207.5,    42.3)
+  Mean
+2023-01-04T05:27:08Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (   14.4,  4206.6,    30.9)
+  Brain
+2023-01-04T05:27:09Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   14.8,  4207.1,    27.0)
+  /e dance
+2023-01-04T05:27:10Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -75.4,   101.6, 32446.2)
+  'WORDS' WAS MY WORD!
+2023-01-04T05:27:14Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   14.8,  4207.1,    27.0)
+  Lol
+2023-01-04T05:27:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -75.4,   101.6, 32446.2)
+  Ò?Ó
+2023-01-04T05:27:16Z: PLAYER CHATTED [ 1061752541] beautiespiderlegs    (   13.5,  4207.3,    46.1)
+  Oh 
+2023-01-04T05:27:19Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (   15.3,  4206.6,    30.1)
+  Lol
+2023-01-04T05:27:19Z: PLAYER CHATTED [ 1061752541] beautiespiderlegs    (   13.5,  4207.3,    46.1)
+  My
+2023-01-04T05:27:21Z: PLAYER REMOVED [ 4177408779] magepad             
+2023-01-04T05:27:24Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   14.8,  4207.1,    27.0)
+  UwU
+2023-01-04T05:27:25Z: PLAYER CHATTED [ 1061752541] beautiespiderlegs    (   13.5,  4207.3,    46.1)
+  Yours is chicken
+2023-01-04T05:27:27Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (   19.0,  4204.5,    28.4)
+  Hey
+2023-01-04T05:27:29Z: PLAYER CHATTED [ 2518686030] Emart909             (   15.3,  4207.5,    42.7)
+  Ya
+2023-01-04T05:27:30Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (   22.3,  4204.7,    29.9)
+  Usu
+2023-01-04T05:27:32Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (   22.3,  4204.7,    29.9)
+  Uwu
+2023-01-04T05:27:34Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   14.8,  4207.1,    27.0)
+  🤔
+2023-01-04T05:27:35Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (   19.7,  4204.6,    29.1)
+  Bruh
+2023-01-04T05:27:39Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (   19.7,  4204.6,    29.1)
+  Yours is brain
+2023-01-04T05:27:40Z: PLAYER CHATTED [ 1061752541] beautiespiderlegs    (  -70.8,   103.6, 32440.2)
+  Mean
+2023-01-04T05:27:49Z: PLAYER REMOVED [  464155744] Heyfaith1            a.k.a. Noo                 
+2023-01-04T05:27:49Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (   11.3,  4204.0,     8.8)
+  Join
+2023-01-04T05:27:52Z: PLAYER CHATTED [ 2518686030] Emart909             (  -70.7,   103.7, 32440.0)
+  Chicken 
+2023-01-04T05:28:06Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (  -70.9,   103.5, 32440.1)
+  Brain
+2023-01-04T05:28:17Z: PLAYER CHATTED [ 1061752541] beautiespiderlegs    (    2.3,  4206.5,    27.3)
+  What is my Word?
+2023-01-04T05:28:18Z: PLAYER CHATTED [ 1345273846] zamman1015           (  -71.0,   103.8, 32440.1)
+  Join
+2023-01-04T05:28:30Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (  -70.9,   103.5, 32440.1)
+  What
+2023-01-04T05:28:30Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (  -70.9,   103.6, 32440.1)
+  Truth
+2023-01-04T05:28:41Z: CHRCTER ADDED  [ 3565039935] Ohnoimsoweird        a.k.a. Joemama             
+2023-01-04T05:28:44Z: CHRCTER ADDED  [ 1345273846] zamman1015          
+2023-01-04T05:28:46Z: PLAYER CHATTED [ 2518686030] Emart909             (  -70.7,   103.7, 32440.0)
+  I
+2023-01-04T05:28:48Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (    5.9,  4206.0,    30.4)
+  What’s my word
+2023-01-04T05:28:54Z: CHRCTER ADDED  [ 2518686030] Emart909            
+2023-01-04T05:28:57Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (   11.9,  4206.6,    24.9)
+  Mines 
+2023-01-04T05:28:58Z: PLAYER REMOVED [ 2518686030] Emart909            
+2023-01-04T05:29:02Z: PLAYER CHATTED [ 1061752541] beautiespiderlegs    (    7.0,  4206.5,    22.3)
+  Your word is lame
+2023-01-04T05:29:04Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   12.1,  4206.4,    27.7)
+  Mines
+2023-01-04T05:29:06Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (   12.7,  4206.6,    23.3)
+  Cat
+2023-01-04T05:29:12Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   11.0,  4207.1,    22.8)
+  Oh
+2023-01-04T05:29:13Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (  -70.9,   103.5, 32440.1)
+  Lame
+2023-01-04T05:29:15Z: PLAYER CHATTED [ 1345273846] zamman1015           (   -7.0,  4205.2,     1.3)
+  Join
+2023-01-04T05:29:21Z: PLAYER CHATTED [ 1061752541] beautiespiderlegs    (   12.4,  4207.5,    25.1)
+  Yeah I had a bad one
+2023-01-04T05:29:26Z: PLAYER REMOVED [ 1267473630] princessbeans22     
+2023-01-04T05:29:34Z: PLAYER CHATTED [    1630228] VisualPlugin         (   12.6,  4207.9,    24.2)
+  Not that bad yourself, Kylie.
+2023-01-04T05:29:35Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (   10.9,  4205.5,    27.1)
+  Yours is being 
+2023-01-04T05:29:35Z: PLAYER CHATTED [ 1061752541] beautiespiderlegs    (    7.4,  4206.5,    33.8)
+  What’s my name?
+2023-01-04T05:29:42Z: PLAYER CHATTED [ 1061752541] beautiespiderlegs    (    7.5,  4206.5,    35.6)
+  Word*
+2023-01-04T05:29:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (   16.6,  4205.4,    26.8)
+  Okey.
+2023-01-04T05:29:49Z: PLAYER ADDED   [ 3774732144] EeveeDouble7         a.k.a. Meowster            
+2023-01-04T05:29:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (   16.6,  4205.4,    26.8)
+  I said it a minute ago.
+2023-01-04T05:29:51Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   13.2,  4206.0,    31.4)
+  Roblox
+2023-01-04T05:29:58Z: PLAYER CHATTED [ 1061752541] beautiespiderlegs    (  -70.9,   103.6, 32440.1)
+  Roblox
+2023-01-04T05:29:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (   16.6,  4205.4,    26.8)
+  Thanks for the pointer though!
+2023-01-04T05:30:07Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (   14.4,  4206.6,    27.4)
+  Roblox
+2023-01-04T05:30:10Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (   14.4,  4206.6,    27.4)
+  Tell me mines
+2023-01-04T05:30:18Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   15.7,  4207.1,    31.9)
+  What is mine?
+2023-01-04T05:30:24Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   16.2,  4207.1,    34.1)
+  Lame
+2023-01-04T05:30:26Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (   14.7,  4206.6,    28.0)
+  PAUSEEE
+2023-01-04T05:30:29Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (   13.8,  4206.6,    29.9)
+  Pauseee
+2023-01-04T05:30:30Z: PLAYER CHATTED [ 1061752541] beautiespiderlegs    (   25.6,  4205.0,    43.2)
+  What’s my word?
+2023-01-04T05:30:31Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   15.1,  4207.1,    32.8)
+  Pause
+2023-01-04T05:30:35Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (   13.8,  4206.6,    29.9)
+  ############
+2023-01-04T05:30:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (   27.9,  4205.4,    42.9)
+  I just said it.
+2023-01-04T05:30:39Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (   22.6,  4204.7,    29.7)
+  ############
+2023-01-04T05:30:44Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (  -70.9,   103.7, 32440.1)
+  Suck….
+2023-01-04T05:30:48Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   19.6,  4205.3,    33.6)
+  What’s my word💅🏼
+2023-01-04T05:30:49Z: PLAYER CHATTED [ 1061752541] beautiespiderlegs    (   31.2,  4205.0,    49.0)
+  Me?
+2023-01-04T05:30:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (   29.3,  4205.4,    42.6)
+  I've sent a lot of messages over the past few minutes.
+2023-01-04T05:30:56Z: PLAYER CHATTED [    1630228] VisualPlugin         (   29.7,  4205.4,    44.6)
+  'Thin'.
+2023-01-04T05:31:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (   29.7,  4205.4,    44.6)
+  Were you able to receive my messages?
+2023-01-04T05:31:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (   29.7,  4205.4,    44.6)
+  'Lame'.
+2023-01-04T05:31:19Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   32.4,  4204.5,    40.6)
+  Lame
+2023-01-04T05:31:19Z: PLAYER CHATTED [ 1061752541] beautiespiderlegs    (  -70.7,   103.4, 32440.1)
+  Thin
+2023-01-04T05:31:26Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   32.4,  4204.5,    40.6)
+  .
+2023-01-04T05:31:27Z: CHRCTER ADDED  [ 1061752541] beautiespiderlegs    a.k.a. Kylie               
+2023-01-04T05:31:27Z: PLAYER ADDED   [ 2468423402] JunLChen            
+2023-01-04T05:31:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (   29.7,  4205.4,    44.6)
+  Takes a few tries.
+2023-01-04T05:31:31Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   32.4,  4204.5,    40.6)
+  K tysm
+2023-01-04T05:31:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (   29.7,  4205.4,    44.6)
+  No problem!
+2023-01-04T05:31:36Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   25.0,  4205.1,    36.5)
+  Lame
+2023-01-04T05:31:37Z: PLAYER CHATTED [ 1061752541] beautiespiderlegs    (   22.4,  4207.0,   176.4)
+  Thin
+2023-01-04T05:31:37Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   26.1,  4204.9,    37.7)
+  Lame
+2023-01-04T05:31:38Z: PLAYER CHATTED [ 2468423402] JunLChen             (  -11.5,  4205.6,    98.9)
+  What’s my word
+2023-01-04T05:31:40Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   26.1,  4204.9,    37.7)
+  Lame 
+2023-01-04T05:31:43Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   17.3,  4207.1,    40.5)
+  Lame 
+2023-01-04T05:31:45Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   15.6,  4207.1,    39.7)
+  L,Æ
+2023-01-04T05:31:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (   45.7,  4205.7,    40.1)
+  being
+2023-01-04T05:31:48Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   15.6,  4207.1,    39.7)
+  -
+2023-01-04T05:31:50Z: PLAYER REMOVED [ 1061752541] beautiespiderlegs    a.k.a. Kylie               
+2023-01-04T05:31:50Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   14.7,  4206.9,    42.5)
+  Lame
+2023-01-04T05:31:51Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (   14.6,  4206.1,    38.9)
+  Bro it’s lame
+2023-01-04T05:31:52Z: PLAYER CHATTED [ 3774732144] EeveeDouble7         (  -70.9,   104.9, 32440.1)
+  bruh
+2023-01-04T05:31:53Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (   14.6,  4206.1,    38.9)
+  Not Lame
+2023-01-04T05:32:04Z: PLAYER CHATTED [ 2468423402] JunLChen             (   19.1,  4204.7,    40.3)
+  It’s a glitch
+2023-01-04T05:32:09Z: PLAYER CHATTED [ 2468423402] JunLChen             (   17.0,  4207.2,    40.2)
+  Yes
+2023-01-04T05:32:12Z: PLAYER CHATTED [ 2200684047] cutekaiden2          (   14.6,  4206.1,    38.9)
+  Alt seeeyAA
+2023-01-04T05:32:12Z: PLAYER ADDED   [ 2518686030] Emart909            
+2023-01-04T05:32:13Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   14.7,  4206.9,    42.5)
+  I have apple so every word I have it starts with cap
+2023-01-04T05:32:17Z: PLAYER REMOVED [ 2200684047] cutekaiden2          a.k.a. BlackC1over         
+2023-01-04T05:32:21Z: PLAYER CHATTED [ 2468423402] JunLChen             (   15.3,  4207.1,    40.9)
+  what’s my world
+2023-01-04T05:32:22Z: PLAYER CHATTED [ 2518686030] Emart909             (  -37.6,  4205.0,    42.3)
+  What my word 
+2023-01-04T05:32:22Z: PLAYER ADDED   [ 2386651868] RogueTheBat777       a.k.a. Sofia777            
+2023-01-04T05:32:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -79.9,   101.6, 32443.1)
+  User with display name "Visua…": your word is "bruh".
+2023-01-04T05:32:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -70.9,   103.8, 32440.1)
+  User with display name "zamma…": your word is "thin".
+2023-01-04T05:32:27Z: CHRCTER ADDED  [ 1345273846] zamman1015          
+2023-01-04T05:32:28Z: PLAYER CHATTED [ 2386651868] RogueTheBat777       (  -47.1,  4205.6,    46.2)
+  Ju
+2023-01-04T05:32:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -70.9,   103.8, 32440.1)
+  User with display name "Joema…": your word is "lame".
+2023-01-04T05:32:31Z: PLAYER CHATTED [    1630228] VisualPlugin         (    3.4,  4208.3,  -182.7)
+  User with display name "arial…": your word is "Shutup".
+2023-01-04T05:32:32Z: PLAYER ADDED   [ 2493997807] 34kjello             a.k.a. love                
+2023-01-04T05:32:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -37.1,  4204.9,    44.3)
+  User with display name "Meows…": your word is "Game".
+2023-01-04T05:32:34Z: PLAYER CHATTED [ 2518686030] Emart909             (  -42.4,  4205.6,    45.3)
+  Ju
+2023-01-04T05:32:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -19.2,  4207.2,    15.0)
+  User with display name "JunLC…": your word is "buddies".
+2023-01-04T05:32:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -47.4,  4205.6,    44.7)
+  User with display name "Emart…": your word is "to".
+2023-01-04T05:32:39Z: PLAYER ADDED   [ 1047463630] Vancinator13         a.k.a. Rip_Vance           
+2023-01-04T05:32:40Z: PLAYER CHATTED [ 2468423402] JunLChen             (  -17.6,  4207.2,    15.4)
+  Yes
+2023-01-04T05:32:41Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -18.1,  4205.6,    14.6)
+  User with display name "Sofia…": your word is "battle".
+2023-01-04T05:32:44Z: PLAYER CHATTED [ 2386651868] RogueTheBat777       (  -15.8,  4205.6,    10.2)
+  What is my
+2023-01-04T05:32:44Z: PLAYER CHATTED [ 2468423402] JunLChen             (  -17.6,  4207.2,    15.4)
+  What’s my word
+2023-01-04T05:32:47Z: PLAYER CHATTED [ 2518686030] Emart909             (  -70.7,   103.7, 32440.0)
+  To
+2023-01-04T05:32:54Z: PLAYER CHATTED [ 2468423402] JunLChen             (  -15.8,  4207.2,    14.9)
+  Battle
+2023-01-04T05:32:56Z: PLAYER CHATTED [ 1047463630] Vancinator13         (  -18.5,  4206.3,    23.8)
+  what is my word
+2023-01-04T05:32:58Z: PLAYER CHATTED [ 2386651868] RogueTheBat777       (  -15.1,  4207.3,    13.5)
+  Buddies
+2023-01-04T05:33:01Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (   -4.3,  4206.0,    19.1)
+  lame
+2023-01-04T05:33:03Z: PLAYER CHATTED [ 2386651868] RogueTheBat777       (  -70.7,   103.7, 32440.0)
+  Battle
+2023-01-04T05:33:03Z: PLAYER CHATTED [ 2468423402] JunLChen             (  -70.8,   103.6, 32440.0)
+  Buddies
+2023-01-04T05:33:06Z: PLAYER ADDED   [ 4085452544] Xesty1110           
+2023-01-04T05:33:15Z: PLAYER ADDED   [ 1752606840] ryahlentz            a.k.a. Capibara            
+2023-01-04T05:33:16Z: CHRCTER ADDED  [ 3565039935] Ohnoimsoweird        a.k.a. Joemama             
+2023-01-04T05:33:17Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (  -42.4,  4204.5,    15.4)
+  Lame
+2023-01-04T05:33:19Z: PLAYER CHATTED [ 2518686030] Emart909             (  -39.4,  4205.6,    29.2)
+  What my word 
+2023-01-04T05:33:21Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (  -28.6,  4204.5,    16.1)
+  What’s my word
+2023-01-04T05:33:22Z: PLAYER CHATTED [ 2386651868] RogueTheBat777       (  -38.1,  4205.6,    46.7)
+  Whoa a got a ball
+2023-01-04T05:33:26Z: PLAYER CHATTED [ 2493997807] 34kjello             (  -28.4,  4204.7,    16.7)
+  HI
+2023-01-04T05:33:26Z: PLAYER CHATTED [ 2468423402] JunLChen             (  -37.2,  4204.7,    43.5)
+  What’s my word
+2023-01-04T05:33:27Z: PLAYER REMOVED [ 1752606840] ryahlentz            a.k.a. Capibara            
+2023-01-04T05:33:27Z: PLAYER CHATTED [ 1047463630] Vancinator13         (  -70.9,   103.7, 32440.1)
+  pls
+2023-01-04T05:33:29Z: PLAYER CHATTED [ 2386651868] RogueTheBat777       (  -41.5,  4205.9,    49.5)
+  I’m fast
+2023-01-04T05:33:32Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (  -29.7,  4204.5,    14.3)
+  YO HI
+2023-01-04T05:33:33Z: PLAYER CHATTED [ 2493997807] 34kjello             (  -27.2,  4204.7,    18.4)
+  ur worth dis pls
+2023-01-04T05:33:37Z: PLAYER CHATTED [ 2386651868] RogueTheBat777       (  -36.6,  4205.3,    47.8)
+  What my
+2023-01-04T05:33:37Z: PLAYER CHATTED [ 2493997807] 34kjello             (  -27.2,  4204.7,    18.4)
+  work dis
+2023-01-04T05:33:37Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -20.0,  4205.4,    67.1)
+  User with display name "Visua…": your word is "Your poor".
+2023-01-04T05:33:38Z: PLAYER CHATTED [ 2468423402] JunLChen             (  -37.0,  4204.7,    51.2)
+  You’re is cat
+2023-01-04T05:33:39Z: PLAYER CHATTED [ 2518686030] Emart909             (  -41.2,  4205.6,    45.4)
+  What my word 
+2023-01-04T05:33:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -70.9,   103.8, 32440.1)
+  User with display name "zamma…": your word is "Pls".
+2023-01-04T05:33:42Z: PLAYER CHATTED [ 1047463630] Vancinator13         (  -85.2,   101.1, 32442.6)
+  just found out my word lol
+2023-01-04T05:33:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -28.4,  4204.5,    19.3)
+  User with display name "Joema…": your word is "Pls".
+2023-01-04T05:33:43Z: PLAYER CHATTED [ 2386651868] RogueTheBat777       (  -36.6,  4205.3,    47.8)
+  Buddies 
+2023-01-04T05:33:43Z: PLAYER ADDED   [ 2892635445] KayLChen            
+2023-01-04T05:33:44Z: PLAYER CHATTED [ 2493997807] 34kjello             (  -27.2,  4204.7,    18.4)
+  UR WORD IS PLS
+2023-01-04T05:33:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (  126.4,  4194.0,  -206.9)
+  User with display name "arial…": your word is "Shutup".
+2023-01-04T05:33:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -29.4,  4214.5,    56.6)
+  User with display name "Meows…": your word is "Game".
+2023-01-04T05:33:48Z: PLAYER CHATTED [ 4085452544] Xesty1110            (  -70.8,   103.8, 32440.1)
+  disney
+2023-01-04T05:33:48Z: PLAYER CHATTED [ 2468423402] JunLChen             (  -37.5,  4204.8,    50.8)
+  You’re is boy girl
+2023-01-04T05:33:49Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (  -30.0,  4204.5,    14.5)
+  OHH
+2023-01-04T05:33:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -43.2,  4205.4,    43.2)
+  User with display name "JunLC…": your word is "buddies".
+2023-01-04T05:33:52Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -43.7,  4205.7,    41.5)
+  User with display name "Emart…": your word is "boy".
+2023-01-04T05:33:55Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -42.2,  4205.5,    39.8)
+  User with display name "Sofia…": your word is "Cat".
+2023-01-04T05:33:56Z: PLAYER CHATTED [ 2386651868] RogueTheBat777       (  -39.2,  4205.5,    43.7)
+  Bot
+2023-01-04T05:33:56Z: PLAYER CHATTED [ 2518686030] Emart909             (  -41.2,  4205.7,    45.8)
+  What my word 
+2023-01-04T05:33:56Z: PLAYER CHATTED [ 2493997807] 34kjello             (  -27.2,  4204.7,    18.4)
+  what's mine
+2023-01-04T05:33:56Z: PLAYER CHATTED [ 2468423402] JunLChen             (  -47.1,  4205.0,    41.6)
+  Buddies
+2023-01-04T05:33:56Z: PLAYER CHATTED [ 4085452544] Xesty1110            (  -70.9,   103.6, 32440.1)
+  guys
+2023-01-04T05:33:57Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (  -30.0,  4204.5,    14.5)
+  Urs is butler🥺
+2023-01-04T05:33:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -30.3,  4204.7,    14.5)
+  User with display name "love": your word is "Butler".
+2023-01-04T05:34:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -44.6,  4205.5,    39.4)
+  User with display name "Rip_V…": your word is "Was".
+2023-01-04T05:34:02Z: PLAYER CHATTED [ 2386651868] RogueTheBat777       (  -70.7,   103.7, 32440.0)
+  Cat
+2023-01-04T05:34:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -75.9,   103.6, 32440.1)
+  User with display name "Xesty…": your word is "disney".
+2023-01-04T05:34:03Z: PLAYER CHATTED [ 2493997807] 34kjello             (  -27.2,  4204.7,    18.4)
+  alr
+2023-01-04T05:34:04Z: PLAYER CHATTED [ 2468423402] JunLChen             (  -47.1,  4205.0,    41.6)
+  Let’s play Brookhaven
+2023-01-04T05:34:05Z: PLAYER CHATTED [ 1047463630] Vancinator13         (  -41.7,  4205.5,    35.3)
+  whats my word
+2023-01-04T05:34:06Z: PLAYER CHATTED [ 2518686030] Emart909             (  -70.7,   104.7, 32440.0)
+  Boy
+2023-01-04T05:34:07Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (  -71.1,   104.7, 32440.1)
+  Pls
+2023-01-04T05:34:07Z: PLAYER CHATTED [ 2493997807] 34kjello             (  -27.2,  4204.7,    18.4)
+  btw hi
+2023-01-04T05:34:13Z: PLAYER CHATTED [ 2493997807] 34kjello             (  -27.2,  4204.7,    18.4)
+  o
+2023-01-04T05:34:15Z: PLAYER CHATTED [ 2493997807] 34kjello             (  -27.2,  4204.7,    18.4)
+  was
+2023-01-04T05:34:16Z: PLAYER CHATTED [ 4085452544] Xesty1110            (  -70.9,   103.6, 32440.1)
+  i got it first try
+2023-01-04T05:34:19Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -76.4,   101.6, 32436.2)
+  Are you able to see my recent messages?
+2023-01-04T05:34:20Z: PLAYER CHATTED [ 1047463630] Vancinator13         (  -34.2,  4205.0,    23.0)
+  was
+2023-01-04T05:34:21Z: PLAYER CHATTED [ 1047463630] Vancinator13         (  -70.9,   103.7, 32440.1)
+  was
+2023-01-04T05:34:22Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -76.4,   101.6, 32436.2)
+  I sent a lot.
+2023-01-04T05:34:24Z: PLAYER CHATTED [ 2386651868] RogueTheBat777       (  -38.7,  4205.9,    38.5)
+  I got a buger
+2023-01-04T05:34:25Z: PLAYER CHATTED [ 2493997807] 34kjello             (  -34.1,  4205.3,    28.1)
+  hii
+2023-01-04T05:34:29Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (  -36.8,  4205.1,    23.8)
+  Wat my word
+2023-01-04T05:34:31Z: PLAYER CHATTED [ 2518686030] Emart909             (  -38.3,  4205.5,    30.6)
+  /w RogueTheBat777  What’s my word 
+2023-01-04T05:34:32Z: PLAYER CHATTED [ 2468423402] JunLChen             (  -16.8,  4206.1,    27.0)
+  Let’s play Brookhaven
+2023-01-04T05:34:33Z: PLAYER CHATTED [ 2493997807] 34kjello             (  -34.2,  4205.3,    28.0)
+  pls
+2023-01-04T05:34:34Z: PLAYER REMOVED [ 2892635445] KayLChen            
+2023-01-04T05:34:36Z: PLAYER REMOVED [ 2468423402] JunLChen            
+2023-01-04T05:34:36Z: PLAYER REMOVED [ 2386651868] RogueTheBat777       a.k.a. Sofia777            
+2023-01-04T05:34:37Z: PLAYER CHATTED [ 2493997807] 34kjello             (  -34.2,  4205.3,    28.0)
+  srill
+2023-01-04T05:34:38Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (  -37.0,  4205.2,    24.3)
+  If u say it u get presents 
+2023-01-04T05:34:39Z: CHRCTER ADDED  [ 1047463630] Vancinator13         a.k.a. Rip_Vance           
+2023-01-04T05:34:39Z: PLAYER CHATTED [ 2518686030] Emart909             (  -38.4,  4205.5,    29.2)
+  Plz
+2023-01-04T05:34:40Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (  -37.0,  4205.2,    24.3)
+  Pls
+2023-01-04T05:34:47Z: PLAYER CHATTED [ 2493997807] 34kjello             (  -71.0,   104.5, 32440.1)
+  Butler
+2023-01-04T05:34:47Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

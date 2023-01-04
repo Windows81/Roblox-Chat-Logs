@@ -1,0 +1,4 @@
+[    1630228] : [10366776920] You found out the Word! - 3ee51362-8c16-494c-9150-37f932db267c
+2023-01-04T01:41:06Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-04T01:41:06Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-04T01:45:36Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

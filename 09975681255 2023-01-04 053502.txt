@@ -1,0 +1,216 @@
+[    1630228] : [ 9975681255] [BIG UPDATE] Don't Know The Word - 38d69234-3dda-439f-a164-70baaf56ab79
+2023-01-04T05:35:02Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-04T05:35:02Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-04T05:35:02Z: PLAYER ADDED   [  730454504] LogDo2011            a.k.a. Finex               
+2023-01-04T05:35:02Z: PLAYER ADDED   [  419568831] bonniecutegril       a.k.a. Soda                
+2023-01-04T05:35:02Z: PLAYER ADDED   [ 3813480163] Robloxstorev        
+2023-01-04T05:35:02Z: PLAYER ADDED   [ 2381808719] Inwolfcute           a.k.a. Darkness            
+2023-01-04T05:35:02Z: PLAYER ADDED   [  815379810] superdupercrazy101  
+2023-01-04T05:35:02Z: PLAYER ADDED   [ 3963381043] Kinzey123s          
+2023-01-04T05:35:02Z: PLAYER ADDED   [ 1780566918] dilinxe              a.k.a. adin                
+2023-01-04T05:35:02Z: PLAYER ADDED   [ 1331386092] Sara082612           a.k.a. MOMMY               
+2023-01-04T05:35:02Z: PLAYER ADDED   [ 4123854667] imposter_hopper      a.k.a. Amber               
+2023-01-04T05:35:02Z: PLAYER ADDED   [ 2553882411] LittIeMoony          a.k.a. Amber               
+2023-01-04T05:35:02Z: PLAYER ADDED   [ 4046390231] kurama153m          
+2023-01-04T05:35:02Z: PLAYER ADDED   [ 3671542080] Cheerleader_Brie2014 a.k.a. ImPepper            
+2023-01-04T05:35:02Z: PLAYER ADDED   [ 1059590886] xxxinthawa           a.k.a. Sakura_Bunny        
+2023-01-04T05:35:02Z: PLAYER ADDED   [ 2215971645] KrystlPuma           a.k.a. Scorpion            
+2023-01-04T05:35:02Z: PLAYER ADDED   [ 1525171207] sammydammy100        a.k.a. Sammy               
+2023-01-04T05:35:02Z: PLAYER ADDED   [ 3590388569] Albanianempire21    
+2023-01-04T05:35:03Z: PLAYER CHATTED [  815379810] superdupercrazy101   (  -47.2,  4205.5,    34.2)
+  What is my word
+2023-01-04T05:35:03Z: PLAYER CHATTED [ 1331386092] Sara082612           (  -35.2,  4205.2,    35.5)
+  what my word
+2023-01-04T05:35:04Z: PLAYER CHATTED [ 1059590886] xxxinthawa           (  -45.3,  4205.8,    39.4)
+  Can
+2023-01-04T05:35:05Z: PLAYER CHATTED [ 4123854667] imposter_hopper      (  -49.7,  4205.0,    38.8)
+  urs is boring
+2023-01-04T05:35:05Z: PLAYER REMOVED [ 1525171207] sammydammy100        a.k.a. Sammy               
+2023-01-04T05:35:05Z: PLAYER ADDED   [ 3913602298] Ninga_boss27         a.k.a. Jimmy               
+2023-01-04T05:35:05Z: PLAYER CHATTED [  419568831] bonniecutegril       (  -24.7,  4207.0,    54.4)
+  ..
+2023-01-04T05:35:06Z: PLAYER CHATTED [ 2381808719] Inwolfcute           (  -11.2,  4206.0,    87.7)
+  let’s
+2023-01-04T05:35:08Z: PLAYER CHATTED [ 1059590886] xxxinthawa           (  -45.3,  4205.8,    39.4)
+  Dead
+2023-01-04T05:35:08Z: PLAYER CHATTED [  419568831] bonniecutegril       (  -24.7,  4207.0,    54.4)
+  I WaNNA GUNN
+2023-01-04T05:35:09Z: PLAYER CHATTED [ 4123854667] imposter_hopper      (  -49.7,  4205.0,    38.8)
+  dead
+2023-01-04T05:35:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -34.1,  4205.4,    23.2)
+  User with display name "Visua…": your word is "Snowball".
+2023-01-04T05:35:11Z: PLAYER CHATTED [ 3813480163] Robloxstorev         (  -30.7,  4207.5,    26.5)
+  what my word
+2023-01-04T05:35:11Z: PLAYER REMOVED [ 2215971645] KrystlPuma           a.k.a. Scorpion            
+2023-01-04T05:35:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -9.8,  4204.8,    87.2)
+  User with display name "Finex": your word is "invite".
+2023-01-04T05:35:14Z: PLAYER CHATTED [  730454504] LogDo2011            (   -7.6,  4204.8,    82.6)
+  just say lets
+2023-01-04T05:35:14Z: PLAYER CHATTED [ 4123854667] imposter_hopper      (  -70.9,   103.5, 32440.1)
+  can
+2023-01-04T05:35:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -29.6,  4207.0,    53.1)
+  User with display name "Soda": your word is "what".
+2023-01-04T05:35:16Z: PLAYER CHATTED [ 2381808719] Inwolfcute           (  -70.9,   103.7, 32440.1)
+  lets
+2023-01-04T05:35:16Z: PLAYER CHATTED [ 3590388569] Albanianempire21     (  -27.6,  4204.7,    63.1)
+  what is my word
+2023-01-04T05:35:18Z: PLAYER CHATTED [ 2553882411] LittIeMoony          (  -32.0,  4204.2,    52.5)
+  How dare u 
+2023-01-04T05:35:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -33.8,  4207.5,    35.8)
+  User with display name "Roblo…": your word is "Change".
+2023-01-04T05:35:18Z: PLAYER CHATTED [ 1331386092] Sara082612           (  -34.7,  4205.6,    35.3)
+  change
+2023-01-04T05:35:19Z: PLAYER CHATTED [ 3813480163] Robloxstorev         (  -32.0,  4207.5,    31.2)
+  youtuber
+2023-01-04T05:35:21Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -98.7,   105.1, 32440.5)
+  User with display name "Darkn…": your word is "invite".
+2023-01-04T05:35:21Z: PLAYER CHATTED [  815379810] superdupercrazy101   (  -41.3,  4205.6,    34.4)
+  Ok ty
+2023-01-04T05:35:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -56.2,  4205.6,    28.5)
+  User with display name "super…": your word is "Dead".
+2023-01-04T05:35:25Z: PLAYER ADDED   [ 1525171207] sammydammy100        a.k.a. Sammy               
+2023-01-04T05:35:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -52.3,  4205.2,    33.9)
+  User with display name "Kinze…": your word is "Vibes".
+2023-01-04T05:35:26Z: CHRCTER ADDED  [ 4123854667] imposter_hopper      a.k.a. Amber               
+2023-01-04T05:35:26Z: CHRCTER ADDED  [ 2381808719] Inwolfcute           a.k.a. Darkness            
+2023-01-04T05:35:26Z: PLAYER CHATTED [ 1059590886] xxxinthawa           (  -34.2,  4205.2,    48.8)
+  Can
+2023-01-04T05:35:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (    3.9,  4213.4,    55.5)
+  User with display name "adin": your word is "Sucks".
+2023-01-04T05:35:30Z: PLAYER CHATTED [  419568831] bonniecutegril       (  -24.8,  4207.1,    54.4)
+  oop
+2023-01-04T05:35:30Z: PLAYER CHATTED [ 1331386092] Sara082612           (  -33.3,  4207.1,    32.9)
+  ylutuber
+2023-01-04T05:35:31Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -30.5,  4207.1,    28.8)
+  User with display name "MOMMY": your word is "Youtuber".
+2023-01-04T05:35:31Z: PLAYER CHATTED [  730454504] LogDo2011            (  -71.0,   103.7, 32440.1)
+  invite
+2023-01-04T05:35:32Z: PLAYER CHATTED [ 3590388569] Albanianempire21     (  -70.9,   103.6, 32440.1)
+  can
+2023-01-04T05:35:33Z: PLAYER CHATTED [ 3813480163] Robloxstorev         (  -31.1,  4207.5,    30.5)
+  your is youtuber
+2023-01-04T05:35:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (   21.0,  4204.6,    54.5)
+  User with display name "Amber": your word is "mean".
+2023-01-04T05:35:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -27.4,  4204.2,    50.6)
+  User with display name "Amber": your word is "daddy".
+2023-01-04T05:35:36Z: PLAYER CHATTED [ 4123854667] imposter_hopper      (   21.0,  4204.6,    49.5)
+  someone else is named amber
+2023-01-04T05:35:36Z: PLAYER CHATTED [  419568831] bonniecutegril       (  -24.7,  4206.8,    54.4)
+  what
+2023-01-04T05:35:37Z: PLAYER CHATTED [ 1331386092] Sara082612           (  -70.9,   103.6, 32440.1)
+  youtuber
+2023-01-04T05:35:38Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -152.1,  4206.7,  -136.3)
+  User with display name "kuram…": your word is "Owner".
+2023-01-04T05:35:39Z: PLAYER CHATTED [  815379810] superdupercrazy101   (  -39.6,  4205.5,    33.8)
+  What is my word?
+2023-01-04T05:35:41Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -12.3,  4208.6,  -205.8)
+  User with display name "ImPep…": your word is "mommy".
+2023-01-04T05:35:42Z: PLAYER CHATTED [  419568831] bonniecutegril       (  -24.7,  4207.0,    54.4)
+  HUH
+2023-01-04T05:35:43Z: PLAYER CHATTED [  419568831] bonniecutegril       (  -24.7,  4207.0,    54.4)
+  what
+2023-01-04T05:35:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -31.1,  4205.1,    53.9)
+  User with display name "Sakur…": your word is "boring".
+2023-01-04T05:35:46Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -146.8,   118.5, 32439.2)
+  User with display name "Alban…": your word is "Lol".
+2023-01-04T05:35:48Z: PLAYER CHATTED [ 3813480163] Robloxstorev         (  -31.4,  4207.5,    30.4)
+  dead
+2023-01-04T05:35:48Z: PLAYER CHATTED [  419568831] bonniecutegril       (  -24.7,  4207.0,    54.4)
+  XD
+2023-01-04T05:35:48Z: PLAYER CHATTED [  730454504] LogDo2011            (  -99.0,   100.6, 32443.6)
+  yo this hacker guy is kind
+2023-01-04T05:35:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -36.0,  4205.4,    34.2)
+  User with display name "Jimmy": your word is "Star".
+2023-01-04T05:35:51Z: PLAYER CHATTED [ 1059590886] xxxinthawa           (  -35.3,  4205.1,    51.3)
+  ##### .
+2023-01-04T05:35:52Z: PLAYER CHATTED [  815379810] superdupercrazy101   (  -33.5,  4207.0,    32.4)
+  Oh ok ty
+2023-01-04T05:35:52Z: PLAYER CHATTED [ 4123854667] imposter_hopper      (  -30.5,  4207.1,    48.8)
+  hello
+2023-01-04T05:35:55Z: PLAYER CHATTED [ 4046390231] kurama153m           ( -148.6,  4206.7,  -130.2)
+  ?
+2023-01-04T05:35:57Z: PLAYER CHATTED [ 1059590886] xxxinthawa           (  -35.3,  4205.1,    51.3)
+  One word
+2023-01-04T05:35:57Z: PLAYER CHATTED [ 3590388569] Albanianempire21     (  -40.5,  4205.5,    48.7)
+  what is my wor
+2023-01-04T05:35:58Z: PLAYER CHATTED [ 2553882411] LittIeMoony          (  -32.0,  4204.2,    52.5)
+  What 
+2023-01-04T05:35:59Z: PLAYER REMOVED [ 3963381043] Kinzey123s          
+2023-01-04T05:35:59Z: PLAYER CHATTED [ 4123854667] imposter_hopper      (  -30.5,  4207.1,    48.8)
+  what is my word
+2023-01-04T05:36:00Z: PLAYER CHATTED [ 1331386092] Sara082612           (  -39.3,  4205.3,    29.2)
+  what my word
+2023-01-04T05:36:00Z: PLAYER CHATTED [ 3813480163] Robloxstorev         (  -31.9,  4207.5,    31.2)
+  come for free help
+2023-01-04T05:36:05Z: PLAYER CHATTED [ 3590388569] Albanianempire21     (  -40.5,  4205.5,    48.7)
+  word
+2023-01-04T05:36:05Z: CHRCTER ADDED  [ 4046390231] kurama153m          
+2023-01-04T05:36:05Z: PLAYER CHATTED [ 2553882411] LittIeMoony          (  -32.3,  4204.2,    53.3)
+  Uh
+2023-01-04T05:36:12Z: PLAYER CHATTED [  730454504] LogDo2011            (  -36.2,  4205.0,    29.7)
+  slim
+2023-01-04T05:36:13Z: PLAYER CHATTED [  419568831] bonniecutegril       (  -25.1,  4207.2,    54.8)
+  ur word is mean
+2023-01-04T05:36:14Z: PLAYER CHATTED [ 4123854667] imposter_hopper      (  -28.5,  4207.1,    50.1)
+  say what
+2023-01-04T05:36:16Z: PLAYER CHATTED [ 1331386092] Sara082612           (  -70.9,   103.6, 32440.1)
+  slime
+2023-01-04T05:36:17Z: PLAYER CHATTED [ 3813480163] Robloxstorev         (  -32.5,  4207.5,    29.9)
+  yours is circle
+2023-01-04T05:36:19Z: PLAYER CHATTED [  419568831] bonniecutegril       (  -25.1,  4207.2,    54.8)
+  what
+2023-01-04T05:36:20Z: PLAYER CHATTED [ 2381808719] Inwolfcute           (  -32.1,  4205.5,    61.5)
+  What my word 
+2023-01-04T05:36:20Z: PLAYER CHATTED [  419568831] bonniecutegril       (  -25.1,  4207.2,    54.8)
+  what
+2023-01-04T05:36:21Z: PLAYER CHATTED [  419568831] bonniecutegril       (  -25.1,  4207.2,    54.8)
+  XD
+2023-01-04T05:36:22Z: PLAYER CHATTED [  730454504] LogDo2011            (  -36.9,  4205.0,    29.1)
+  lol
+2023-01-04T05:36:23Z: PLAYER CHATTED [ 3590388569] Albanianempire21     (  -36.0,  4205.4,    27.1)
+  circle 
+2023-01-04T05:36:23Z: PLAYER CHATTED [ 4123854667] imposter_hopper      (  -70.9,   103.5, 32440.1)
+  mean
+2023-01-04T05:36:24Z: PLAYER CHATTED [ 1059590886] xxxinthawa           (  -34.5,  4205.0,    51.8)
+  One word
+2023-01-04T05:36:25Z: PLAYER CHATTED [  730454504] LogDo2011            (  -36.2,  4205.1,    27.4)
+  its lol
+2023-01-04T05:36:28Z: PLAYER CHATTED [ 1780566918] dilinxe              (  -33.9,  4206.9,    37.9)
+  what's my word??? 
+2023-01-04T05:36:30Z: PLAYER CHATTED [ 3590388569] Albanianempire21     (  -41.7,  4205.4,    26.8)
+  lol
+2023-01-04T05:36:30Z: PLAYER CHATTED [ 2553882411] LittIeMoony          (  -32.3,  4204.2,    53.3)
+  What
+2023-01-04T05:36:32Z: PLAYER CHATTED [ 3590388569] Albanianempire21     (  -70.9,   103.5, 32440.1)
+  lol
+2023-01-04T05:36:32Z: PLAYER CHATTED [ 2553882411] LittIeMoony          (  -32.3,  4204.2,    53.3)
+  What
+2023-01-04T05:36:36Z: PLAYER CHATTED [  419568831] bonniecutegril       (  -25.1,  4207.2,    54.8)
+  thin
+2023-01-04T05:36:36Z: PLAYER CHATTED [ 3813480163] Robloxstorev         (  -34.8,  4205.4,    33.7)
+  sucks
+2023-01-04T05:36:36Z: PLAYER CHATTED [  730454504] LogDo2011            (  -35.2,  4205.0,    27.8)
+  ####################
+2023-01-04T05:36:38Z: PLAYER CHATTED [ 1059590886] xxxinthawa           (  -34.5,  4205.0,    51.8)
+  Ok
+2023-01-04T05:36:39Z: PLAYER CHATTED [  730454504] LogDo2011            (  -35.2,  4205.0,    27.8)
+  yours is
+2023-01-04T05:36:40Z: PLAYER CHATTED [ 1780566918] dilinxe              (  -33.8,  4206.9,    37.5)
+  WHAR
+2023-01-04T05:36:42Z: PLAYER CHATTED [  730454504] LogDo2011            (  -34.6,  4204.8,    32.0)
+  shut it
+2023-01-04T05:36:43Z: PLAYER CHATTED [ 1780566918] dilinxe              (  -33.8,  4206.9,    37.5)
+  OKAY
+2023-01-04T05:36:45Z: PLAYER CHATTED [ 2381808719] Inwolfcute           (  -17.0,  4205.5,    67.6)
+  thin
+2023-01-04T05:36:46Z: PLAYER CHATTED [ 1059590886] xxxinthawa           (  -24.2,  4205.2,     7.1)
+  One word
+2023-01-04T05:36:46Z: PLAYER CHATTED [ 4123854667] imposter_hopper      (  -38.9,  4205.2,    46.3)
+  what is my word
+2023-01-04T05:36:47Z: CHRCTER ADDED  [ 4046390231] kurama153m          
+2023-01-04T05:36:50Z: PLAYER CHATTED [ 1525171207] sammydammy100        (  -70.9,   103.6, 32440.1)
+  is
+2023-01-04T05:36:51Z: CHRCTER ADDED  [ 3590388569] Albanianempire21    
+2023-01-04T05:36:52Z: PLAYER CHATTED [  419568831] bonniecutegril       (  -25.1,  4207.2,    54.8)
+  mum
+2023-01-04T05:36:54Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

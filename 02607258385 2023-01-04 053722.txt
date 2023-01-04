@@ -1,0 +1,10 @@
+[    1630228] : [ 2607258385] Greenwater - b14f607c-a285-44d9-adba-2a9050248801
+2023-01-04T05:37:22Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-04T05:37:22Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-04T05:37:56Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -79.5,   257.6,  -507.9)
+  666
+2023-01-04T05:38:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -79.5,   257.6,  -507.9)
+  669
+2023-01-04T05:38:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -79.5,   257.6,  -507.9)
+  Test.
+2023-01-04T05:38:37Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

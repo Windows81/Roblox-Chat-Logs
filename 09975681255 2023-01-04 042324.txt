@@ -1,0 +1,182 @@
+[    1630228] : [ 9975681255] [BIG UPDATE] Don't Know The Word - 48997690-721a-4b64-8430-647e9504769e
+2023-01-04T04:23:24Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-04T04:23:24Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-04T04:23:24Z: PLAYER ADDED   [ 1532377808] mister_bubbl3s      
+2023-01-04T04:23:24Z: PLAYER ADDED   [ 3505848023] KandyGaming14987     a.k.a. KandyGaming         
+2023-01-04T04:23:24Z: PLAYER ADDED   [ 1525358238] AlexandriaReign      a.k.a. lexnot_playing      
+2023-01-04T04:23:24Z: PLAYER ADDED   [  721657562] unknownprince2k      a.k.a. Dino808             
+2023-01-04T04:23:24Z: PLAYER ADDED   [ 1528768092] 24wwwNicoDaHood      a.k.a. HeartsforSarah      
+2023-01-04T04:23:24Z: PLAYER ADDED   [ 1220803041] MetroLink5           a.k.a. FCBayernMunichFan   
+2023-01-04T04:23:24Z: PLAYER ADDED   [ 3188729339] kit7176kk            a.k.a. Rox                 
+2023-01-04T04:23:24Z: PLAYER ADDED   [ 2638005959] Tinkbelltutu        
+2023-01-04T04:23:24Z: PLAYER ADDED   [ 2255462019] dadcantsee           a.k.a. Eva                 
+2023-01-04T04:23:24Z: PLAYER ADDED   [ 3954000180] ichirpboo           
+2023-01-04T04:23:24Z: PLAYER ADDED   [ 2329238286] myaprogame           a.k.a. MYA                 
+2023-01-04T04:23:24Z: PLAYER ADDED   [ 3404874418] katy_playzrobloxPLA  a.k.a. KATY                
+2023-01-04T04:23:24Z: PLAYER ADDED   [ 2350772268] Coolkidava07        
+2023-01-04T04:23:24Z: PLAYER ADDED   [ 3147089163] MyProgressGotErased 
+2023-01-04T04:23:24Z: PLAYER ADDED   [ 1047198876] browhattheflip       a.k.a. Everbodydies        
+2023-01-04T04:23:24Z: PLAYER REMOVED [ 1532377808] mister_bubbl3s      
+2023-01-04T04:23:25Z: PLAYER ADDED   [ 4161685761] pepsicola12345_xd   
+2023-01-04T04:23:28Z: PLAYER CHATTED [ 3404874418] katy_playzrobloxPLA  (   25.3,  4205.0,    40.1)
+  fation
+2023-01-04T04:23:29Z: PLAYER CHATTED [ 3954000180] ichirpboo            (  -40.9,  4205.7,    49.3)
+  Who is the head tell me mine
+2023-01-04T04:23:31Z: PLAYER CHATTED [ 2329238286] myaprogame           (  -43.6,  4204.9,    14.3)
+  hey
+2023-01-04T04:23:34Z: PLAYER CHATTED [ 3147089163] MyProgressGotErased  (   25.1,  4204.6,    15.7)
+  whats my word
+2023-01-04T04:23:34Z: PLAYER REMOVED [ 4161685761] pepsicola12345_xd   
+2023-01-04T04:23:36Z: PLAYER ADDED   [ 3938718491] jfweojejfio         
+2023-01-04T04:23:37Z: PLAYER CHATTED [ 3404874418] katy_playzrobloxPLA  (   25.3,  4205.0,    40.1)
+  fashion
+2023-01-04T04:23:41Z: PLAYER CHATTED [ 3147089163] MyProgressGotErased  (   23.4,  4204.5,    17.0)
+  ures is cheese
+2023-01-04T04:23:41Z: PLAYER CHATTED [ 3954000180] ichirpboo            (  -27.9,  4207.5,    50.5)
+  Yours is
+2023-01-04T04:23:42Z: PLAYER CHATTED [ 1220803041] MetroLink5           (   21.7,  4204.9,    20.7)
+  why
+2023-01-04T04:23:45Z: PLAYER CHATTED [  721657562] unknownprince2k      (   25.3,  4204.9,    35.8)
+  fashion
+2023-01-04T04:23:49Z: PLAYER CHATTED [ 2329238286] myaprogame           (  -43.6,  4204.9,    14.3)
+  hey
+2023-01-04T04:23:49Z: PLAYER CHATTED [ 3954000180] ichirpboo            (  -26.9,  4206.4,    50.3)
+  Head
+2023-01-04T04:23:50Z: PLAYER CHATTED [ 3147089163] MyProgressGotErased  (   23.4,  4204.5,    17.2)
+  thx
+2023-01-04T04:23:50Z: PLAYER CHATTED [ 3404874418] katy_playzrobloxPLA  (   25.4,  4205.2,    39.1)
+  roblox
+2023-01-04T04:23:52Z: PLAYER CHATTED [ 1047198876] browhattheflip       (    9.9,  4205.3,    16.3)
+  juicy
+2023-01-04T04:23:52Z: PLAYER CHATTED [ 3954000180] ichirpboo            (  -26.9,  4206.4,    50.3)
+  Lowercase H
+2023-01-04T04:23:55Z: PLAYER CHATTED [ 2329238286] myaprogame           (  -44.1,  4204.9,    18.6)
+  what's my word
+2023-01-04T04:23:57Z: PLAYER CHATTED [ 3147089163] MyProgressGotErased  (   23.4,  4204.5,    17.2)
+  cheese
+2023-01-04T04:24:00Z: PLAYER CHATTED [ 1047198876] browhattheflip       (    9.9,  4205.3,    16.3)
+  g 
+2023-01-04T04:24:00Z: PLAYER CHATTED [ 3938718491] jfweojejfio          (   24.4,  4205.2,    32.8)
+  best
+2023-01-04T04:24:02Z: PLAYER CHATTED [ 3954000180] ichirpboo            (  -25.9,  4206.4,    44.4)
+  Tell me mine
+2023-01-04T04:24:03Z: PLAYER CHATTED [ 1047198876] browhattheflip       (  -70.9,   103.4, 32440.1)
+  gc
+2023-01-04T04:24:05Z: PLAYER CHATTED [ 3404874418] katy_playzrobloxPLA  (   24.9,  4205.4,    37.9)
+  ik
+2023-01-04T04:24:10Z: PLAYER CHATTED [ 2350772268] Coolkidava07         (  -35.1,  4204.9,    49.5)
+  Head
+2023-01-04T04:24:13Z: PLAYER CHATTED [ 1220803041] MetroLink5           (   21.7,  4204.9,    20.7)
+  Swiss cheese
+2023-01-04T04:24:14Z: PLAYER CHATTED [ 3188729339] kit7176kk            (   13.6,  4205.5,    18.9)
+  it
+2023-01-04T04:24:14Z: PLAYER CHATTED [ 1220803041] MetroLink5           (  -70.9,   103.7, 32440.1)
+  Swiss cheese
+2023-01-04T04:24:14Z: PLAYER REMOVED [ 1528768092] 24wwwNicoDaHood      a.k.a. HeartsforSarah      
+2023-01-04T04:24:15Z: CHRCTER ADDED  [ 2350772268] Coolkidava07        
+2023-01-04T04:24:18Z: PLAYER CHATTED [  721657562] unknownprince2k      (  -45.0,  4204.9,    28.7)
+  lol
+2023-01-04T04:24:19Z: PLAYER CHATTED [ 2329238286] myaprogame           (  -39.5,  4204.9,    17.3)
+  yours
+2023-01-04T04:24:19Z: PLAYER CHATTED [ 3938718491] jfweojejfio          (   29.0,  4205.2,    28.2)
+  why
+2023-01-04T04:24:22Z: PLAYER CHATTED [ 2329238286] myaprogame           (  -39.5,  4204.9,    17.3)
+  is
+2023-01-04T04:24:22Z: PLAYER CHATTED [ 3954000180] ichirpboo            (  -38.5,  4204.9,    18.3)
+  Show me mine I’ll tell you yours
+2023-01-04T04:24:25Z: PLAYER CHATTED [ 2329238286] myaprogame           (  -39.5,  4204.9,    17.3)
+  slim
+2023-01-04T04:24:26Z: PLAYER REMOVED [ 3188729339] kit7176kk            a.k.a. Rox                 
+2023-01-04T04:24:26Z: PLAYER ADDED   [ 2526913335] official_Nyla12      a.k.a. sunflower           
+2023-01-04T04:24:28Z: PLAYER CHATTED [ 3938718491] jfweojejfio          (   12.0,  4206.1,    28.4)
+  lol
+2023-01-04T04:24:34Z: PLAYER CHATTED [ 3147089163] MyProgressGotErased  (   83.4,  4204.8,     5.1)
+  why
+2023-01-04T04:24:34Z: PLAYER CHATTED [  721657562] unknownprince2k      (  -44.5,  4204.4,    19.9)
+  youtuber yours
+2023-01-04T04:24:34Z: PLAYER CHATTED [ 3404874418] katy_playzrobloxPLA  (   24.9,  4205.4,    37.9)
+  LINE UP IF YOU WANT ME TO TELL YOU YOUR WORD
+2023-01-04T04:24:34Z: PLAYER CHATTED [ 3938718491] jfweojejfio          (   12.0,  4206.1,    28.4)
+  mean
+2023-01-04T04:24:35Z: PLAYER CHATTED [ 1047198876] browhattheflip       (  -40.9,  4206.1,    30.6)
+  what's my word
+2023-01-04T04:24:37Z: PLAYER CHATTED [ 1047198876] browhattheflip       (  -40.9,  4206.1,    30.6)
+  what's my word
+2023-01-04T04:24:39Z: PLAYER CHATTED [ 3954000180] ichirpboo            (  -37.8,  4204.9,    17.7)
+  Yours is YouTuber
+2023-01-04T04:24:40Z: PLAYER ADDED   [ 3841884707] avaloldadadaa       
+2023-01-04T04:24:44Z: PLAYER CHATTED [ 2329238286] myaprogame           (  -39.5,  4204.9,    17.3)
+  thx
+2023-01-04T04:24:44Z: CHRCTER ADDED  [ 3147089163] MyProgressGotErased 
+2023-01-04T04:24:46Z: PLAYER CHATTED [ 3938718491] jfweojejfio          (   -5.1,  4205.3,     3.9)
+  ok
+2023-01-04T04:24:46Z: PLAYER CHATTED [ 3954000180] ichirpboo            (  -38.2,  4204.9,    18.1)
+  Lowercase T
+2023-01-04T04:24:51Z: PLAYER CHATTED [ 3841884707] avaloldadadaa        (  -37.2,  4204.9,    53.5)
+  hi
+2023-01-04T04:24:53Z: PLAYER CHATTED [ 3841884707] avaloldadadaa        (  -37.2,  4204.9,    53.5)
+  hi
+2023-01-04T04:24:54Z: PLAYER CHATTED [ 2526913335] official_Nyla12      (  -39.4,  4205.0,    22.8)
+  yours is princess
+2023-01-04T04:24:54Z: PLAYER REMOVED [ 2350772268] Coolkidava07        
+2023-01-04T04:24:54Z: PLAYER CHATTED [ 3954000180] ichirpboo            (  -70.9,   103.7, 32440.1)
+  Slim
+2023-01-04T04:24:56Z: PLAYER CHATTED [ 2329238286] myaprogame           (  -39.5,  4204.9,    17.9)
+  Princess
+2023-01-04T04:24:58Z: PLAYER CHATTED [ 3404874418] katy_playzrobloxPLA  (  -12.8,  4205.6,     7.1)
+  YOURS IS WE
+2023-01-04T04:25:04Z: PLAYER CHATTED [  721657562] unknownprince2k      (  -16.6,  4204.6,     8.9)
+  wewe
+2023-01-04T04:25:04Z: PLAYER CHATTED [ 3404874418] katy_playzrobloxPLA  (  -12.8,  4205.6,     7.1)
+  srry
+2023-01-04T04:25:04Z: PLAYER CHATTED [ 1047198876] browhattheflip       (  -26.3,  4206.8,    28.2)
+  princess
+2023-01-04T04:25:09Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -38.8,  4205.4,    10.1)
+  666
+2023-01-04T04:25:09Z: PLAYER CHATTED [ 1047198876] browhattheflip       (  -70.9,   103.4, 32440.1)
+  princess
+2023-01-04T04:25:09Z: PLAYER CHATTED [ 3147089163] MyProgressGotErased  (  -11.3,  4205.8,    16.0)
+  whats my word
+2023-01-04T04:25:09Z: PLAYER CHATTED [ 3404874418] katy_playzrobloxPLA  (  -12.8,  4205.6,     7.1)
+  roblox
+2023-01-04T04:25:10Z: PLAYER CHATTED [ 1220803041] MetroLink5           (  -41.5,  4205.4,    33.3)
+  Your word is lion
+2023-01-04T04:25:15Z: PLAYER CHATTED [ 3147089163] MyProgressGotErased  (    5.2,  4205.8,    21.9)
+  ures is get
+2023-01-04T04:25:17Z: PLAYER ADDED   [ 2271386861] yani192408           a.k.a. Shr1Vl3             
+2023-01-04T04:25:18Z: PLAYER CHATTED [ 3938718491] jfweojejfio          (  -17.7,  4204.7,     9.4)
+  roblox
+2023-01-04T04:25:18Z: PLAYER CHATTED [ 2526913335] official_Nyla12      (  -38.3,  4205.5,    31.1)
+  ohh
+2023-01-04T04:25:20Z: PLAYER CHATTED [ 3954000180] ichirpboo            (  -35.8,  4205.5,    40.1)
+  What’s mine I’ll tell you you are
+2023-01-04T04:25:22Z: PLAYER CHATTED [ 3841884707] avaloldadadaa        (    6.7,  4206.4,    22.2)
+  oh
+2023-01-04T04:25:22Z: PLAYER REMOVED [ 2329238286] myaprogame           a.k.a. MYA                 
+2023-01-04T04:25:22Z: PLAYER CHATTED [ 3404874418] katy_playzrobloxPLA  (  -12.8,  4205.6,     7.1)
+  we
+2023-01-04T04:25:26Z: PLAYER CHATTED [  721657562] unknownprince2k      (  -16.8,  4204.6,     8.8)
+  wewe
+2023-01-04T04:25:30Z: PLAYER CHATTED [ 3147089163] MyProgressGotErased  (    5.2,  4205.8,    21.9)
+  now whats my word
+2023-01-04T04:25:30Z: PLAYER CHATTED [ 2526913335] official_Nyla12      (  -37.4,  4205.5,    31.4)
+  its poor
+2023-01-04T04:25:30Z: PLAYER CHATTED [ 3954000180] ichirpboo            (  -38.1,  4205.5,    35.5)
+  Your word is not lying your words mean
+2023-01-04T04:25:30Z: PLAYER ADDED   [ 4187654904] Killing_candies99   
+2023-01-04T04:25:30Z: CHRCTER ADDED  [ 1525358238] AlexandriaReign      a.k.a. lexnot_playing      
+2023-01-04T04:25:37Z: PLAYER REMOVED [ 1220803041] MetroLink5           a.k.a. FCBayernMunichFan   
+2023-01-04T04:25:38Z: PLAYER REMOVED [ 2271386861] yani192408           a.k.a. Shr1Vl3             
+2023-01-04T04:25:38Z: PLAYER CHATTED [ 3147089163] MyProgressGotErased  (    5.0,  4205.8,    22.2)
+  ures is get
+2023-01-04T04:25:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -18.4,  4206.0,     1.8)
+  test
+2023-01-04T04:25:42Z: PLAYER CHATTED [ 3147089163] MyProgressGotErased  (    5.0,  4205.8,    22.2)
+  oh
+2023-01-04T04:25:46Z: PLAYER CHATTED [ 3841884707] avaloldadadaa        (    5.8,  4206.4,    24.9)
+  game
+2023-01-04T04:25:46Z: PLAYER CHATTED [ 3954000180] ichirpboo            (  -37.2,  4205.4,    33.6)
+  Word is
+2023-01-04T04:25:52Z: PLAYER CHATTED [ 3147089163] MyProgressGotErased  (    5.0,  4205.8,    22.2)
+  thx
+2023-01-04T04:25:52Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
