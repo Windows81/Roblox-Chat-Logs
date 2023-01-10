@@ -1,0 +1,54 @@
+[    1630228] : [11469138644] Avatar Island 🌴(Outfit Donation Game) - 78a084ce-986c-4489-98e4-804183717145
+2023-01-10T00:38:48Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-10T00:38:48Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-10T00:38:48Z: PLAYER ADDED   [ 1995245145] mawEWy7              a.k.a. ma134               
+2023-01-10T00:38:48Z: PLAYER ADDED   [ 2624807748] Roblox_Buildnew      a.k.a. Corvus              
+2023-01-10T00:38:48Z: PLAYER ADDED   [ 1457187451] koalasf1             a.k.a. Moonlight           
+2023-01-10T00:38:48Z: PLAYER ADDED   [ 3607745378] PLUTOANDLUNAATINSTA  a.k.a. grylz               
+2023-01-10T00:38:48Z: PLAYER ADDED   [ 1919829701] ilovedogsraptor      a.k.a. Wednesday           
+2023-01-10T00:38:48Z: PLAYER ADDED   [  222405861] therodrixxzomg      
+2023-01-10T00:38:48Z: PLAYER ADDED   [ 4115910401] fnjgdbif            
+2023-01-10T00:38:48Z: PLAYER ADDED   [ 1326269652] zekeneskt           
+2023-01-10T00:38:48Z: PLAYER ADDED   [ 1380379179] dsvdome              a.k.a. Seekthedemon        
+2023-01-10T00:38:48Z: PLAYER ADDED   [  793982649] Jade000Le           
+2023-01-10T00:38:48Z: PLAYER ADDED   [ 4048135222] BR_BRUNINHOyy        a.k.a. PRINCIPE            
+2023-01-10T00:38:48Z: PLAYER ADDED   [ 2245406107] ZX01H                a.k.a. NotRawrie           
+2023-01-10T00:38:48Z: PLAYER ADDED   [ 3311216655] q_pro1029           
+2023-01-10T00:38:48Z: PLAYER ADDED   [ 4187380745] SoufYmav            
+2023-01-10T00:38:48Z: PLAYER ADDED   [  598551752] 1kleah               a.k.a. astraphobia         
+2023-01-10T00:38:48Z: PLAYER ADDED   [ 3011535520] grgrdhjurfedjud      a.k.a. timmy               
+2023-01-10T00:38:48Z: PLAYER ADDED   [ 1564449310] subermano3           a.k.a. Noah_Yeah           
+2023-01-10T00:38:48Z: PLAYER ADDED   [ 2479971634] ButterflyUnicorn_KW  a.k.a. Snowy_wintxr        
+2023-01-10T00:38:48Z: PLAYER ADDED   [ 3831925646] Jhovannito012974    
+2023-01-10T00:38:48Z: PLAYER ADDED   [ 3554778962] Milagnesa3          
+2023-01-10T00:38:48Z: PLAYER ADDED   [ 2625621347] DAVE1234XDPDR2       a.k.a. flower              
+2023-01-10T00:38:48Z: PLAYER ADDED   [ 1642956958] megacollin13         a.k.a. elmo                
+2023-01-10T00:38:48Z: PLAYER ADDED   [ 3043364436] Ashura_vb            a.k.a. Akuma               
+2023-01-10T00:38:48Z: PLAYER ADDED   [ 1521593540] SABEWRBEBER          a.k.a. XxSkelleton_SaberxX 
+2023-01-10T00:38:48Z: PLAYER ADDED   [ 3009441738] mont8413             a.k.a. timmy               
+2023-01-10T00:38:48Z: PLAYER ADDED   [  187382984] karatemaster1010101  a.k.a. ZEN                 
+2023-01-10T00:38:48Z: PLAYER ADDED   [ 3304842262] ek200521            
+2023-01-10T00:38:48Z: PLAYER CHATTED [ 2245406107] ZX01H                ( -408.3,    -8.1,    61.1)
+  Sip pero es mejor esperar
+2023-01-10T00:38:49Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-10T00:38:49Z: PLAYER REMOVED [ 1995245145] mawEWy7              a.k.a. ma134               
+2023-01-10T00:38:49Z: PLAYER REMOVED [ 2624807748] Roblox_Buildnew      a.k.a. Corvus              
+2023-01-10T00:38:49Z: PLAYER REMOVED [ 1457187451] koalasf1             a.k.a. Moonlight           
+2023-01-10T00:38:49Z: PLAYER REMOVED [ 3607745378] PLUTOANDLUNAATINSTA  a.k.a. grylz               
+2023-01-10T00:38:49Z: PLAYER REMOVED [ 1919829701] ilovedogsraptor      a.k.a. Wednesday           
+2023-01-10T00:38:49Z: PLAYER REMOVED [  222405861] therodrixxzomg      
+2023-01-10T00:38:49Z: PLAYER REMOVED [ 4115910401] fnjgdbif            
+2023-01-10T00:38:49Z: PLAYER REMOVED [ 1326269652] zekeneskt           
+2023-01-10T00:38:49Z: PLAYER REMOVED [ 1380379179] dsvdome              a.k.a. Seekthedemon        
+2023-01-10T00:38:49Z: PLAYER REMOVED [  793982649] Jade000Le           
+2023-01-10T00:38:49Z: PLAYER REMOVED [ 4048135222] BR_BRUNINHOyy        a.k.a. PRINCIPE            
+2023-01-10T00:38:49Z: PLAYER REMOVED [ 2245406107] ZX01H                a.k.a. NotRawrie           
+2023-01-10T00:38:49Z: PLAYER REMOVED [ 3311216655] q_pro1029           
+2023-01-10T00:38:49Z: PLAYER REMOVED [ 4187380745] SoufYmav            
+2023-01-10T00:38:49Z: PLAYER REMOVED [  598551752] 1kleah               a.k.a. astraphobia         
+2023-01-10T00:38:49Z: PLAYER REMOVED [ 3011535520] grgrdhjurfedjud      a.k.a. timmy               
+2023-01-10T00:38:49Z: PLAYER REMOVED [ 1564449310] subermano3           a.k.a. Noah_Yeah           
+2023-01-10T00:38:49Z: PLAYER REMOVED [ 2479971634] ButterflyUnicorn_KW  a.k.a. Snowy_wintxr        
+2023-01-10T00:38:49Z: PLAYER REMOVED [ 3831925646] Jhovannito012974    
+2023-01-10T00:38:49Z: PLAYER REMOVED [ 3554778962] Milagnesa3          
+2023-01-10T00:38:49Z: PLAYER REMOVED [ 2625621347] DAVE1234XDPDR2       a.k.a. flower              

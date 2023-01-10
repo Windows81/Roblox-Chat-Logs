@@ -1,0 +1,325 @@
+[    1630228] : [11469138644] Avatar Island 🌴(Outfit Donation Game) - fa86308d-7393-430e-a7bf-3b53cce01293
+2023-01-09T23:35:48Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-09T23:35:48Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-09T23:35:48Z: PLAYER ADDED   [ 1394717634] PozziBros_23423      a.k.a. imDayn              
+2023-01-09T23:35:48Z: PLAYER ADDED   [  914118648] RomanRussia223       a.k.a. DarkOmen            
+2023-01-09T23:35:48Z: PLAYER ADDED   [ 3107323504] ZEUSH4S_YT          
+2023-01-09T23:35:48Z: PLAYER ADDED   [ 3816519195] miguelscheffel7      a.k.a. Hazem               
+2023-01-09T23:35:48Z: PLAYER ADDED   [ 3084370443] bonyveloz6721        a.k.a. NeymarJr            
+2023-01-09T23:35:48Z: PLAYER ADDED   [ 1267712323] Keyla_KawaiiXD       a.k.a. BLOODYMASK          
+2023-01-09T23:35:48Z: PLAYER ADDED   [  275475581] venom987654          a.k.a. Zoe                 
+2023-01-09T23:35:48Z: PLAYER ADDED   [ 1912121671] killpoopmoop         a.k.a. Deadlysin           
+2023-01-09T23:35:48Z: PLAYER ADDED   [ 1923270097] abbygov2009          a.k.a. Usuario             
+2023-01-09T23:35:48Z: PLAYER ADDED   [ 4146978960] cazzu555             a.k.a. kurumi              
+2023-01-09T23:35:48Z: PLAYER ADDED   [ 2011620746] MondoBoomerP         a.k.a. Mon                 
+2023-01-09T23:35:48Z: PLAYER ADDED   [ 3918240718] Nayelis2950         
+2023-01-09T23:35:48Z: PLAYER ADDED   [ 2350996117] diegopalsamig       
+2023-01-09T23:35:48Z: PLAYER ADDED   [ 3642928851] Kronoksr             a.k.a. ELTemplario24       
+2023-01-09T23:35:48Z: PLAYER ADDED   [ 3746220800] nomeacuerdominombre4 a.k.a. Black_Ghost         
+2023-01-09T23:35:48Z: PLAYER ADDED   [ 2489258401] yu_kkjkkj            a.k.a. Kuromi_S            
+2023-01-09T23:35:48Z: PLAYER ADDED   [ 3350524728] ReiDaviLucca22      
+2023-01-09T23:35:48Z: PLAYER ADDED   [ 3792814164] mmmmmlowi            a.k.a. Jeremy              
+2023-01-09T23:35:48Z: PLAYER ADDED   [ 3702723094] MATEOMAXAGU6        
+2023-01-09T23:36:07Z: PLAYER ADDED   [ 4219037481] borolitashyco       
+2023-01-09T23:36:16Z: PLAYER ADDED   [ 3752578760] iii_thiagoy          a.k.a. MIGUEL_COBRA        
+2023-01-09T23:36:19Z: PLAYER ADDED   [ 2909746384] gksjdhdjske          a.k.a. Jessie              
+2023-01-09T23:36:28Z: PLAYER ADDED   [ 3065577450] zanemaster3333       a.k.a. Ninjazking222       
+2023-01-09T23:36:30Z: PLAYER ADDED   [ 4019877957] lizo4ka_qiqi        
+2023-01-09T23:36:31Z: PLAYER ADDED   [ 3443341992] Eliprochilo7         a.k.a. Gamer_pro           
+2023-01-09T23:36:33Z: PLAYER ADDED   [  654792488] Daviseledone         a.k.a. RubberBacon         
+2023-01-09T23:36:34Z: PLAYER ADDED   [ 3017631852] Banana_Crew321      
+2023-01-09T23:36:36Z: PLAYER CHATTED [ 3746220800] nomeacuerdominombre4 ( -579.0,    -8.1,    22.4)
+  listo?
+2023-01-09T23:36:42Z: PLAYER CHATTED [ 3746220800] nomeacuerdominombre4 ( -578.4,    -8.0,    21.9)
+  kuromi
+2023-01-09T23:36:50Z: PLAYER REMOVED [  654792488] Daviseledone         a.k.a. RubberBacon         
+2023-01-09T23:36:57Z: PLAYER ADDED   [   36659252] JxcqkDev            
+2023-01-09T23:37:01Z: PLAYER CHATTED [ 4146978960] cazzu555             ( -579.2,    -8.1,    20.1)
+  listo
+2023-01-09T23:37:02Z: PLAYER CHATTED [ 4146978960] cazzu555             ( -579.2,    -8.1,    20.1)
+  listo
+2023-01-09T23:37:05Z: PLAYER CHATTED [ 3746220800] nomeacuerdominombre4 ( -578.4,    -8.0,    21.9)
+  .-.
+2023-01-09T23:37:12Z: PLAYER CHATTED [ 3746220800] nomeacuerdominombre4 ( -578.4,    -8.0,    21.9)
+  no cambio nda el tuyo .-.
+2023-01-09T23:37:25Z: PLAYER REMOVED [   36659252] JxcqkDev            
+2023-01-09T23:37:28Z: PLAYER CHATTED [ 4146978960] cazzu555             ( -577.4,    -8.0,    19.8)
+  porque
+2023-01-09T23:37:32Z: PLAYER CHATTED [ 3642928851] Kronoksr             ( -504.3,     9.3,    80.3)
+  cho mundo cruel
+2023-01-09T23:37:34Z: PLAYER ADDED   [ 2632206877] the_bulder2          a.k.a. Drip                
+2023-01-09T23:37:35Z: PLAYER CHATTED [ 3746220800] nomeacuerdominombre4 ( -580.0,    -8.1,    21.5)
+  solo el pantalon
+2023-01-09T23:37:41Z: PLAYER CHATTED [ 3746220800] nomeacuerdominombre4 ( -580.0,    -8.1,    21.5)
+  esq se ve igual
+2023-01-09T23:37:47Z: PLAYER REMOVED [ 3642928851] Kronoksr             a.k.a. ELTemplario24       
+2023-01-09T23:37:48Z: PLAYER CHATTED [ 4146978960] cazzu555             ( -577.4,    -8.0,    19.8)
+  aaaa
+2023-01-09T23:37:48Z: PLAYER ADDED   [ 1484927993] ahaker172            a.k.a. smelly              
+2023-01-09T23:37:53Z: PLAYER CHATTED [ 4146978960] cazzu555             ( -577.4,    -8.0,    19.8)
+  espera
+2023-01-09T23:38:00Z: PLAYER CHATTED [ 4146978960] cazzu555             ( -577.4,    -8.0,    19.8)
+  lo areclo
+2023-01-09T23:38:04Z: PLAYER REMOVED [ 3752578760] iii_thiagoy          a.k.a. MIGUEL_COBRA        
+2023-01-09T23:38:04Z: PLAYER CHATTED [ 3746220800] nomeacuerdominombre4 ( -579.5,    -8.0,    23.9)
+  pq siempre decis aaaaaa
+2023-01-09T23:38:09Z: PLAYER ADDED   [ 1229670025] ailinnyt             a.k.a. Dibuteamo           
+2023-01-09T23:38:15Z: PLAYER REMOVED [ 3065577450] zanemaster3333       a.k.a. Ninjazking222       
+2023-01-09T23:38:15Z: PLAYER CHATTED [ 1484927993] ahaker172            ( -568.7,    -7.7,    23.8)
+  ########
+2023-01-09T23:38:19Z: PLAYER CHATTED [ 1484927993] ahaker172            ( -568.7,    -7.7,    23.8)
+  ########
+2023-01-09T23:38:19Z: PLAYER CHATTED [ 3443341992] Eliprochilo7         ( -461.3,    -8.0,   178.6)
+  Me donas 
+2023-01-09T23:38:23Z: PLAYER ADDED   [  700262367] hika2109            
+2023-01-09T23:38:26Z: PLAYER CHATTED [ 1484927993] ahaker172            ( -568.7,    -7.7,    23.8)
+  ###### savesta
+2023-01-09T23:38:35Z: PLAYER REMOVED [ 3017631852] Banana_Crew321      
+2023-01-09T23:38:36Z: PLAYER ADDED   [ 1427285163] holasoybueno_878     a.k.a. EpicName            
+2023-01-09T23:39:00Z: PLAYER REMOVED [ 3443341992] Eliprochilo7         a.k.a. Gamer_pro           
+2023-01-09T23:39:07Z: PLAYER REMOVED [  700262367] hika2109            
+2023-01-09T23:39:14Z: PLAYER ADDED   [ 4183928064] Anaroblox123awa      a.k.a. Zoe                 
+2023-01-09T23:39:14Z: PLAYER ADDED   [ 2753412501] drjkBz               a.k.a. Maxi                
+2023-01-09T23:39:30Z: PLAYER REMOVED [ 1484927993] ahaker172            a.k.a. smelly              
+2023-01-09T23:39:34Z: PLAYER ADDED   [ 1787165277] 1234u458_her         a.k.a. XxangelxX           
+2023-01-09T23:39:58Z: PLAYER CHATTED [ 2753412501] drjkBz               ( -573.6,    -8.0,   162.1)
+  porfavor alguien me dona pls
+2023-01-09T23:40:05Z: PLAYER REMOVED [ 1427285163] holasoybueno_878     a.k.a. EpicName            
+2023-01-09T23:40:11Z: PLAYER ADDED   [ 2884449993] Loke_kuk             a.k.a. PETSIMKING          
+2023-01-09T23:40:17Z: PLAYER CHATTED [ 2753412501] drjkBz               ( -450.6,    -7.7,     2.8)
+  porfavor alguien me dona pls
+2023-01-09T23:40:33Z: PLAYER REMOVED [ 4219037481] borolitashyco       
+2023-01-09T23:40:37Z: PLAYER ADDED   [ 2213164430] nando1mm             a.k.a. banana              
+2023-01-09T23:40:53Z: PLAYER REMOVED [ 2632206877] the_bulder2          a.k.a. Drip                
+2023-01-09T23:40:54Z: PLAYER CHATTED [ 4183928064] Anaroblox123awa      ( -500.6,    -7.4,   192.0)
+  Compren porfa
+2023-01-09T23:40:54Z: PLAYER CHATTED [ 2489258401] yu_kkjkkj            ( -596.3,    -6.4,    66.0)
+  como funciona isso?
+2023-01-09T23:41:00Z: PLAYER CHATTED [ 4183928064] Anaroblox123awa      ( -471.5,    -7.0,   179.5)
+  /e dance
+2023-01-09T23:41:03Z: PLAYER CHATTED [ 3746220800] nomeacuerdominombre4 ( -577.9,    -8.0,    22.4)
+  .-.
+2023-01-09T23:41:13Z: PLAYER CHATTED [ 4146978960] cazzu555             ( -578.2,    -8.1,    19.6)
+  y hoy
+2023-01-09T23:41:13Z: PLAYER ADDED   [ 3160277437] gammerxb            
+2023-01-09T23:41:14Z: CHRCTER ADDED  [ 3918240718] Nayelis2950         
+2023-01-09T23:41:15Z: PLAYER CHATTED [ 3746220800] nomeacuerdominombre4 ( -577.9,    -8.0,    22.4)
+  queres q te de un outfit que te daran mas rbx?
+2023-01-09T23:41:18Z: PLAYER CHATTED [ 2753412501] drjkBz               ( -585.5,    -7.7,   104.1)
+  porfavor alguien me dona pl
+2023-01-09T23:41:22Z: PLAYER CHATTED [ 1229670025] ailinnyt             ( -602.1,    -7.7,    50.8)
+  No hablo portugues	
+2023-01-09T23:41:22Z: PLAYER CHATTED [ 1229670025] ailinnyt             ( -602.1,    -7.7,    50.8)
+  No hablo portugues 
+2023-01-09T23:41:24Z: PLAYER REMOVED [ 3350524728] ReiDaviLucca22      
+2023-01-09T23:41:26Z: PLAYER CHATTED [ 4146978960] cazzu555             ( -578.2,    -8.1,    19.6)
+  si quieres
+2023-01-09T23:41:28Z: PLAYER ADDED   [ 3273901982] SunflowerMinds      
+2023-01-09T23:41:30Z: PLAYER CHATTED [ 3746220800] nomeacuerdominombre4 ( -577.9,    -8.0,    22.4)
+  ok
+2023-01-09T23:41:33Z: PLAYER CHATTED [ 3746220800] nomeacuerdominombre4 ( -577.9,    -8.0,    22.4)
+  espera
+2023-01-09T23:41:38Z: PLAYER CHATTED [ 4146978960] cazzu555             ( -578.4,    -8.1,    19.7)
+  ok
+2023-01-09T23:41:45Z: PLAYER CHATTED [ 2753412501] drjkBz               ( -478.3,    -7.7,   160.0)
+  porfavor alguien me dona pls
+2023-01-09T23:41:58Z: PLAYER CHATTED [ 2489258401] yu_kkjkkj            ( -573.3,    -6.1,    21.2)
+  como funciona?
+2023-01-09T23:42:07Z: PLAYER REMOVED [ 4146978960] cazzu555             a.k.a. kurumi              
+2023-01-09T23:42:07Z: PLAYER CHATTED [ 2753412501] drjkBz               ( -462.1,    -7.7,    -4.9)
+  porfavor alguien me dona pls
+2023-01-09T23:42:28Z: PLAYER REMOVED [ 3918240718] Nayelis2950         
+2023-01-09T23:42:31Z: PLAYER CHATTED [ 2753412501] drjkBz               ( -572.4,    -7.7,    45.0)
+  Korblox
+2023-01-09T23:42:35Z: PLAYER CHATTED [ 2753412501] drjkBz               ( -572.4,    -7.7,    45.0)
+  barato
+2023-01-09T23:42:36Z: PLAYER ADDED   [ 3350524728] ReiDaviLucca22      
+2023-01-09T23:42:41Z: PLAYER CHATTED [ 2213164430] nando1mm             ( -459.1,    -7.7,   111.5)
+  hi
+2023-01-09T23:42:43Z: PLAYER ADDED   [ 1914424193] henryjamesdio       
+2023-01-09T23:42:46Z: PLAYER CHATTED [ 2753412501] drjkBz               ( -572.4,    -7.7,    45.0)
+  personaje
+2023-01-09T23:42:50Z: PLAYER CHATTED [ 4183928064] Anaroblox123awa      ( -472.2,    -7.8,   181.5)
+  Hola
+2023-01-09T23:42:54Z: PLAYER CHATTED [ 2753412501] drjkBz               ( -472.7,    -7.9,     9.4)
+  Korblox
+2023-01-09T23:42:56Z: PLAYER CHATTED [ 2213164430] nando1mm             ( -469.9,    -8.0,   176.2)
+  can you donate me
+2023-01-09T23:43:05Z: PLAYER CHATTED [ 4183928064] Anaroblox123awa      ( -472.2,    -7.8,   181.5)
+  No entendí
+2023-01-09T23:43:09Z: PLAYER CHATTED [ 2753412501] drjkBz               ( -434.0,    -7.7,   127.0)
+  barato
+2023-01-09T23:43:17Z: PLAYER CHATTED [ 2753412501] drjkBz               ( -475.7,    -7.7,   163.7)
+  Korblox
+2023-01-09T23:43:19Z: PLAYER CHATTED [ 2489258401] yu_kkjkkj            ( -467.9,    -6.7,   175.2)
+  ele quer donate
+2023-01-09T23:43:26Z: PLAYER REMOVED [ 3816519195] miguelscheffel7      a.k.a. Hazem               
+2023-01-09T23:43:30Z: PLAYER ADDED   [ 3097946235] Perest201            a.k.a. Angel               
+2023-01-09T23:43:35Z: PLAYER CHATTED [ 2753412501] drjkBz               ( -494.2,    -7.7,   160.5)
+  personaje Korblox
+2023-01-09T23:43:44Z: PLAYER REMOVED [ 3273901982] SunflowerMinds      
+2023-01-09T23:44:00Z: PLAYER REMOVED [ 4019877957] lizo4ka_qiqi        
+2023-01-09T23:44:23Z: PLAYER CHATTED [ 2753412501] drjkBz               ( -559.4,    -7.7,   158.7)
+  Korblox
+2023-01-09T23:44:27Z: PLAYER CHATTED [ 2753412501] drjkBz               ( -564.1,    -7.3,   155.6)
+  barato
+2023-01-09T23:44:46Z: PLAYER CHATTED [ 4183928064] Anaroblox123awa      ( -470.3,    -7.9,   180.1)
+  Alguien me compra pls?
+2023-01-09T23:44:46Z: PLAYER REMOVED [ 2213164430] nando1mm             a.k.a. banana              
+2023-01-09T23:44:56Z: PLAYER REMOVED [ 4183928064] Anaroblox123awa      a.k.a. Zoe                 
+2023-01-09T23:44:59Z: PLAYER ADDED   [  252687727] GorroXXII            a.k.a. GOOSE               
+2023-01-09T23:45:02Z: PLAYER CHATTED [ 2753412501] drjkBz               ( -480.7,    -7.7,   161.5)
+  Korblox barato 
+2023-01-09T23:45:04Z: PLAYER ADDED   [  115939973] AfraidSackboy        a.k.a. SonGohan            
+2023-01-09T23:45:04Z: PLAYER ADDED   [ 2461690059] eligamer2468        
+2023-01-09T23:45:06Z: PLAYER CHATTED [ 2753412501] drjkBz               ( -453.3,    -7.7,   145.3)
+  de
+2023-01-09T23:45:12Z: PLAYER CHATTED [ 2753412501] drjkBz               ( -453.3,    -7.7,   145.3)
+  17000 a
+2023-01-09T23:45:15Z: PLAYER CHATTED [ 2753412501] drjkBz               ( -453.3,    -7.7,   145.3)
+  ####
+2023-01-09T23:45:20Z: PLAYER CHATTED [ 2753412501] drjkBz               ( -433.4,    -7.5,   122.3)
+  ####
+2023-01-09T23:45:27Z: PLAYER CHATTED [ 1229670025] ailinnyt             ( -602.4,    -7.7,    51.5)
+  /e dance2
+2023-01-09T23:45:29Z: PLAYER ADDED   [ 3235492955] sarabiakiraqueens    a.k.a. Wendy               
+2023-01-09T23:45:34Z: PLAYER CHATTED [ 2753412501] drjkBz               ( -424.5,    -7.7,    98.4)
+  ### docientos
+2023-01-09T23:45:34Z: PLAYER REMOVED [ 1923270097] abbygov2009          a.k.a. Usuario             
+2023-01-09T23:45:38Z: PLAYER ADDED   [ 4140247251] userpog_man         
+2023-01-09T23:45:41Z: PLAYER CHATTED [ 2753412501] drjkBz               ( -450.7,    -7.7,     4.2)
+  Korblox
+2023-01-09T23:45:49Z: PLAYER CHATTED [ 2753412501] drjkBz               ( -452.0,    -7.7,     4.0)
+  barato de
+2023-01-09T23:45:53Z: PLAYER CHATTED [ 2753412501] drjkBz               ( -452.0,    -7.7,     4.0)
+  17000
+2023-01-09T23:45:55Z: PLAYER CHATTED [ 2753412501] drjkBz               ( -452.0,    -7.7,     4.0)
+  a
+2023-01-09T23:45:58Z: PLAYER CHATTED [ 2753412501] drjkBz               ( -472.4,    -7.7,     2.7)
+  1
+2023-01-09T23:46:00Z: PLAYER REMOVED [ 2489258401] yu_kkjkkj            a.k.a. Kuromi_S            
+2023-01-09T23:46:01Z: PLAYER CHATTED [ 2753412501] drjkBz               ( -472.4,    -7.7,     2.7)
+  ###
+2023-01-09T23:46:04Z: PLAYER CHATTED [ 2753412501] drjkBz               ( -472.4,    -7.7,     2.7)
+  #
+2023-01-09T23:46:13Z: CHRCTER ADDED  [ 3235492955] sarabiakiraqueens    a.k.a. Wendy               
+2023-01-09T23:46:15Z: PLAYER REMOVED [ 3350524728] ReiDaviLucca22      
+2023-01-09T23:46:25Z: PLAYER REMOVED [ 1914424193] henryjamesdio       
+2023-01-09T23:46:34Z: PLAYER REMOVED [ 2011620746] MondoBoomerP         a.k.a. Mon                 
+2023-01-09T23:46:35Z: PLAYER ADDED   [ 3766340983] SunFloweyOWO         a.k.a. Floppy              
+2023-01-09T23:46:47Z: PLAYER ADDED   [ 1394331584] Midnight76663        a.k.a. laylah              
+2023-01-09T23:46:48Z: PLAYER ADDED   [  569348754] PandaGummyBear77    
+2023-01-09T23:46:49Z: PLAYER ADDED   [ 1876611029] 11kD3vilzz           a.k.a. Devilz              
+2023-01-09T23:47:04Z: PLAYER REMOVED [ 3702723094] MATEOMAXAGU6        
+2023-01-09T23:47:05Z: PLAYER ADDED   [ 2059432669] daryll120909         a.k.a. PH_Daryll           
+2023-01-09T23:47:12Z: PLAYER REMOVED [ 2753412501] drjkBz               a.k.a. Maxi                
+2023-01-09T23:47:16Z: PLAYER REMOVED [  569348754] PandaGummyBear77    
+2023-01-09T23:47:16Z: PLAYER ADDED   [  416953066] Robseibi2            a.k.a. Dark                
+2023-01-09T23:47:21Z: PLAYER REMOVED [ 2059432669] daryll120909         a.k.a. PH_Daryll           
+2023-01-09T23:47:23Z: PLAYER CHATTED [ 1787165277] 1234u458_her         ( -535.5,    -6.9,   159.6)
+  maxi deja de spamear
+2023-01-09T23:47:33Z: PLAYER ADDED   [ 3273901982] SunflowerMinds      
+2023-01-09T23:47:33Z: PLAYER ADDED   [ 3059976995] ozxcary              a.k.a. Makima_San          
+2023-01-09T23:47:34Z: PLAYER CHATTED [ 2884449993] Loke_kuk             ( -599.0,    -8.0,    50.8)
+  Hi
+2023-01-09T23:47:35Z: PLAYER REMOVED [ 3084370443] bonyveloz6721        a.k.a. NeymarJr            
+2023-01-09T23:47:36Z: CHRCTER ADDED  [ 3059976995] ozxcary              a.k.a. Makima_San          
+2023-01-09T23:47:36Z: PLAYER CHATTED [ 2884449993] Loke_kuk             ( -599.0,    -8.0,    50.8)
+  Hi
+2023-01-09T23:47:49Z: PLAYER CHATTED [ 1229670025] ailinnyt             ( -602.4,    -7.7,    51.5)
+  Hi!
+2023-01-09T23:47:51Z: PLAYER REMOVED [ 3792814164] mmmmmlowi            a.k.a. Jeremy              
+2023-01-09T23:47:53Z: PLAYER CHATTED [ 2884449993] Loke_kuk             ( -599.0,    -8.0,    50.8)
+  How do i set up prises
+2023-01-09T23:48:02Z: CHRCTER ADDED  [ 3097946235] Perest201            a.k.a. Angel               
+2023-01-09T23:48:14Z: PLAYER CHATTED [ 3746220800] nomeacuerdominombre4 ( -419.4,    -7.3,    83.3)
+  quien me dona 5 plis?
+2023-01-09T23:48:15Z: PLAYER CHATTED [ 1229670025] ailinnyt             ( -602.4,    -7.7,    51.5)
+  Sorry i dont speak much english
+2023-01-09T23:48:21Z: PLAYER CHATTED [ 1229670025] ailinnyt             ( -602.4,    -7.7,    51.5)
+  I speak spanish
+2023-01-09T23:48:26Z: PLAYER CHATTED [ 2884449993] Loke_kuk             ( -599.0,    -8.0,    50.8)
+  Ok
+2023-01-09T23:48:29Z: PLAYER CHATTED [ 3746220800] nomeacuerdominombre4 ( -438.7,    -7.8,   129.1)
+  donale a el perro para que pueda comer
+2023-01-09T23:48:41Z: PLAYER CHATTED [ 2884449993] Loke_kuk             ( -443.5,    -8.2,   -14.0)
+  Yo
+2023-01-09T23:48:42Z: PLAYER ADDED   [ 4164493293] Florsita5566        
+2023-01-09T23:48:43Z: PLAYER CHATTED [ 1787165277] 1234u458_her         ( -492.1,    -6.7,    73.4)
+  hi makima
+2023-01-09T23:48:46Z: PLAYER REMOVED [ 3059976995] ozxcary              a.k.a. Makima_San          
+2023-01-09T23:48:47Z: PLAYER REMOVED [ 2350996117] diegopalsamig       
+2023-01-09T23:48:49Z: PLAYER ADDED   [  631440571] talp18               a.k.a. Baconiseverythingyes
+2023-01-09T23:48:53Z: PLAYER CHATTED [ 2884449993] Loke_kuk             ( -443.5,    -8.2,   -14.0)
+  How do you set up prises 
+2023-01-09T23:48:53Z: PLAYER ADDED   [ 1437463566] taisiy_06            a.k.a. Dio                 
+2023-01-09T23:48:55Z: PLAYER ADDED   [ 2863522111] Violino76dnv        
+2023-01-09T23:48:59Z: PLAYER CHATTED [ 3746220800] nomeacuerdominombre4 ( -518.4,    -7.8,   158.6)
+  donale a el perro para que pueda comer
+2023-01-09T23:48:59Z: PLAYER CHATTED [ 1787165277] 1234u458_her         ( -490.1,    -6.8,    72.7)
+  pls donate me
+2023-01-09T23:49:06Z: PLAYER REMOVED [ 2909746384] gksjdhdjske          a.k.a. Jessie              
+2023-01-09T23:49:14Z: PLAYER REMOVED [  416953066] Robseibi2            a.k.a. Dark                
+2023-01-09T23:49:19Z: PLAYER REMOVED [ 3766340983] SunFloweyOWO         a.k.a. Floppy              
+2023-01-09T23:49:23Z: PLAYER REMOVED [  115939973] AfraidSackboy        a.k.a. SonGohan            
+2023-01-09T23:49:25Z: PLAYER CHATTED [ 3746220800] nomeacuerdominombre4 ( -584.0,    -7.8,    46.3)
+  donale a el perro para que pueda comer
+2023-01-09T23:49:29Z: PLAYER CHATTED [ 2884449993] Loke_kuk             ( -547.5,    -7.3,   169.9)
+  Yo
+2023-01-09T23:49:31Z: PLAYER ADDED   [ 1641113664] liptoc_lion         
+2023-01-09T23:49:32Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -545.7,    -7.1,   172.1)
+  Hi.
+2023-01-09T23:49:39Z: PLAYER CHATTED [ 1787165277] 1234u458_her         ( -490.1,    -6.8,    72.7)
+  nececito robux pa come me dan 
+2023-01-09T23:49:40Z: PLAYER REMOVED [ 3097946235] Perest201            a.k.a. Angel               
+2023-01-09T23:49:43Z: PLAYER CHATTED [ 2884449993] Loke_kuk             ( -547.5,    -7.3,   169.9)
+  How do you set up prises 
+2023-01-09T23:49:58Z: PLAYER REMOVED [ 2461690059] eligamer2468        
+2023-01-09T23:50:00Z: PLAYER REMOVED [  252687727] GorroXXII            a.k.a. GOOSE               
+2023-01-09T23:50:04Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -545.7,    -7.1,   172.1)
+  Upload your own clothing.
+2023-01-09T23:50:14Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -545.7,    -7.1,   172.1)
+  It's done on the website.
+2023-01-09T23:50:24Z: PLAYER CHATTED [ 3746220800] nomeacuerdominombre4 ( -482.7,    -7.8,   163.6)
+  donale a el perro para que pueda comer
+2023-01-09T23:50:24Z: PLAYER CHATTED [ 2884449993] Loke_kuk             ( -547.5,    -7.3,   169.9)
+  Ok
+2023-01-09T23:50:26Z: PLAYER REMOVED [ 1437463566] taisiy_06            a.k.a. Dio                 
+2023-01-09T23:50:27Z: PLAYER REMOVED [ 2884449993] Loke_kuk             a.k.a. PETSIMKING          
+2023-01-09T23:50:32Z: PLAYER ADDED   [ 2893385098] SansCool_Abobus      a.k.a. Pablo               
+2023-01-09T23:50:33Z: PLAYER ADDED   [ 1289776694] sithlordrilo        
+2023-01-09T23:50:43Z: PLAYER ADDED   [ 1782109283] frozenpizzaaa       
+2023-01-09T23:50:43Z: PLAYER ADDED   [  309047423] harding1019          a.k.a. Jack                
+2023-01-09T23:50:44Z: PLAYER CHATTED [ 1787165277] 1234u458_her         ( -404.9,    -6.9,    52.5)
+  black yo tambien nececito pa comer
+2023-01-09T23:50:44Z: PLAYER ADDED   [ 2707063842] Thedoglover1113      a.k.a. ALEE                
+2023-01-09T23:50:47Z: PLAYER ADDED   [ 1852407773] Sofy_2303           
+2023-01-09T23:50:48Z: CHRCTER ADDED  [ 2707063842] Thedoglover1113      a.k.a. ALEE                
+2023-01-09T23:50:49Z: PLAYER ADDED   [ 4222924874] reloviesoh          
+2023-01-09T23:50:50Z: CHRCTER ADDED  [ 1852407773] Sofy_2303           
+2023-01-09T23:50:50Z: PLAYER REMOVED [ 1782109283] frozenpizzaaa       
+2023-01-09T23:50:53Z: PLAYER ADDED   [ 4219395162] Raphael53635        
+2023-01-09T23:50:54Z: PLAYER ADDED   [ 1611621969] marcelomendesfilho   a.k.a. Dog                 
+2023-01-09T23:50:57Z: PLAYER CHATTED [ 3746220800] nomeacuerdominombre4 ( -559.4,    -7.8,   137.1)
+  a
+2023-01-09T23:50:59Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-09T23:50:59Z: PLAYER REMOVED [ 1394717634] PozziBros_23423      a.k.a. imDayn              
+2023-01-09T23:50:59Z: PLAYER REMOVED [  914118648] RomanRussia223       a.k.a. DarkOmen            
+2023-01-09T23:50:59Z: PLAYER REMOVED [ 3107323504] ZEUSH4S_YT          
+2023-01-09T23:50:59Z: PLAYER REMOVED [ 1267712323] Keyla_KawaiiXD       a.k.a. BLOODYMASK          
+2023-01-09T23:50:59Z: PLAYER REMOVED [  275475581] venom987654          a.k.a. Zoe                 
+2023-01-09T23:50:59Z: PLAYER REMOVED [ 1912121671] killpoopmoop         a.k.a. Deadlysin           
+2023-01-09T23:50:59Z: PLAYER REMOVED [ 3746220800] nomeacuerdominombre4 a.k.a. Black_Ghost         
+2023-01-09T23:50:59Z: PLAYER REMOVED [ 1229670025] ailinnyt             a.k.a. Dibuteamo           
+2023-01-09T23:50:59Z: PLAYER REMOVED [ 1787165277] 1234u458_her         a.k.a. XxangelxX           
+2023-01-09T23:50:59Z: PLAYER REMOVED [ 3160277437] gammerxb            
+2023-01-09T23:50:59Z: PLAYER REMOVED [ 3235492955] sarabiakiraqueens    a.k.a. Wendy               
+2023-01-09T23:50:59Z: PLAYER REMOVED [ 4140247251] userpog_man         
+2023-01-09T23:50:59Z: PLAYER REMOVED [ 1394331584] Midnight76663        a.k.a. laylah              
+2023-01-09T23:50:59Z: PLAYER REMOVED [ 1876611029] 11kD3vilzz           a.k.a. Devilz              
+2023-01-09T23:50:59Z: PLAYER REMOVED [ 3273901982] SunflowerMinds      
+2023-01-09T23:50:59Z: PLAYER REMOVED [ 4164493293] Florsita5566        
+2023-01-09T23:50:59Z: PLAYER REMOVED [  631440571] talp18               a.k.a. Baconiseverythingyes
+2023-01-09T23:50:59Z: PLAYER REMOVED [ 2863522111] Violino76dnv        
+2023-01-09T23:50:59Z: PLAYER REMOVED [ 1641113664] liptoc_lion         
+2023-01-09T23:50:59Z: PLAYER REMOVED [ 2893385098] SansCool_Abobus      a.k.a. Pablo               

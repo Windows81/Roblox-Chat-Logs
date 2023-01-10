@@ -1,0 +1,53 @@
+[    1630228] : [11469138644] Avatar Island 🌴(Outfit Donation Game) - b77fa5d7-54bc-4ff6-8736-2d8226465952
+2023-01-10T01:47:54Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-10T01:47:54Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-10T01:47:54Z: PLAYER ADDED   [ 3250904701] nahiaraindria2       a.k.a. zio_RE              
+2023-01-10T01:47:54Z: PLAYER ADDED   [  916294916] jayjaygamer1207      a.k.a. jay                 
+2023-01-10T01:47:54Z: PLAYER ADDED   [ 1404543308] ryannunes2710        a.k.a. Mike                
+2023-01-10T01:47:54Z: PLAYER ADDED   [ 3639559960] renatoreipac        
+2023-01-10T01:47:54Z: PLAYER ADDED   [ 2557696586] meupp04              a.k.a. mackinaw_island     
+2023-01-10T01:47:54Z: PLAYER ADDED   [ 2587923515] JULIAN204VL          a.k.a. Julian              
+2023-01-10T01:47:54Z: PLAYER ADDED   [ 2207359250] Vitor_Kim            a.k.a. Kim                 
+2023-01-10T01:47:54Z: PLAYER ADDED   [  897208555] lumafero             a.k.a. Che                 
+2023-01-10T01:47:54Z: PLAYER ADDED   [ 4222125467] waxaa54             
+2023-01-10T01:47:54Z: PLAYER ADDED   [ 2204418049] danoman20           
+2023-01-10T01:47:54Z: PLAYER ADDED   [  674789041] ciritol              a.k.a. toma_bebidafalsa999 
+2023-01-10T01:47:54Z: PLAYER ADDED   [ 4114713176] spider_venom897     
+2023-01-10T01:47:54Z: PLAYER ADDED   [ 2396590434] ZoroMenMano          a.k.a. ghost_xz            
+2023-01-10T01:47:54Z: PLAYER ADDED   [ 3238322379] xLgfb_1357BRx        a.k.a. X_X                 
+2023-01-10T01:47:54Z: PLAYER ADDED   [ 4004233608] giyfiyfti            a.k.a. Seba3164            
+2023-01-10T01:47:54Z: PLAYER ADDED   [ 2012941688] claudeirbatista68   
+2023-01-10T01:47:54Z: PLAYER ADDED   [ 4102770205] MaryMeep13          
+2023-01-10T01:47:54Z: PLAYER ADDED   [ 1892840301] BrunaH6565           a.k.a. Bruna               
+2023-01-10T01:47:54Z: PLAYER ADDED   [ 1278119469] omegaprime_2         a.k.a. LetMeSoloHim        
+2023-01-10T01:47:54Z: PLAYER ADDED   [  261163389] XxWarningx           a.k.a. 4ustismb0y          
+2023-01-10T01:47:54Z: PLAYER ADDED   [ 4164086394] KILLA_Luckyi         a.k.a. PEN_EaeLucky        
+2023-01-10T01:47:54Z: PLAYER ADDED   [  643410151] angelabrill          a.k.a. wy_85               
+2023-01-10T01:47:54Z: PLAYER ADDED   [  328068858] luci986              a.k.a. Jimin               
+2023-01-10T01:47:54Z: PLAYER ADDED   [ 3887088052] EWTDEUYFEYGHY       
+2023-01-10T01:47:54Z: PLAYER ADDED   [ 3813735217] marceelo_lucas      
+2023-01-10T01:47:54Z: PLAYER ADDED   [  163659990] Papayrus12           a.k.a. Waltuh              
+2023-01-10T01:47:54Z: PLAYER ADDED   [ 2831980753] gabrielcarapastel123
+2023-01-10T01:47:55Z: PLAYER CHATTED [ 4164086394] KILLA_Luckyi         ( -506.3,    -7.6,   145.3)
+  ## ###
+2023-01-10T01:47:55Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-10T01:47:55Z: PLAYER REMOVED [ 3250904701] nahiaraindria2       a.k.a. zio_RE              
+2023-01-10T01:47:55Z: PLAYER REMOVED [  916294916] jayjaygamer1207      a.k.a. jay                 
+2023-01-10T01:47:55Z: PLAYER REMOVED [ 1404543308] ryannunes2710        a.k.a. Mike                
+2023-01-10T01:47:55Z: PLAYER REMOVED [ 3639559960] renatoreipac        
+2023-01-10T01:47:55Z: PLAYER REMOVED [ 2557696586] meupp04              a.k.a. mackinaw_island     
+2023-01-10T01:47:55Z: PLAYER REMOVED [ 2587923515] JULIAN204VL          a.k.a. Julian              
+2023-01-10T01:47:55Z: PLAYER REMOVED [ 2207359250] Vitor_Kim            a.k.a. Kim                 
+2023-01-10T01:47:55Z: PLAYER REMOVED [  897208555] lumafero             a.k.a. Che                 
+2023-01-10T01:47:55Z: PLAYER REMOVED [ 4222125467] waxaa54             
+2023-01-10T01:47:55Z: PLAYER REMOVED [ 2204418049] danoman20           
+2023-01-10T01:47:55Z: PLAYER REMOVED [  674789041] ciritol              a.k.a. toma_bebidafalsa999 
+2023-01-10T01:47:55Z: PLAYER REMOVED [ 4114713176] spider_venom897     
+2023-01-10T01:47:55Z: PLAYER REMOVED [ 2396590434] ZoroMenMano          a.k.a. ghost_xz            
+2023-01-10T01:47:55Z: PLAYER REMOVED [ 3238322379] xLgfb_1357BRx        a.k.a. X_X                 
+2023-01-10T01:47:55Z: PLAYER REMOVED [ 4004233608] giyfiyfti            a.k.a. Seba3164            
+2023-01-10T01:47:55Z: PLAYER REMOVED [ 2012941688] claudeirbatista68   
+2023-01-10T01:47:55Z: PLAYER REMOVED [ 4102770205] MaryMeep13          
+2023-01-10T01:47:55Z: PLAYER REMOVED [ 1892840301] BrunaH6565           a.k.a. Bruna               
+2023-01-10T01:47:55Z: PLAYER REMOVED [ 1278119469] omegaprime_2         a.k.a. LetMeSoloHim        
+2023-01-10T01:47:55Z: PLAYER REMOVED [  261163389] XxWarningx           a.k.a. 4ustismb0y          

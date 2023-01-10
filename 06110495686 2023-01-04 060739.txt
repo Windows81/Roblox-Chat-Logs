@@ -1,0 +1,1307 @@
+[    1630228] : [ 6110495686] ✨Would You Quiz?✨ - 9e4893dc-8f98-4f5c-8c9f-62fec20bec27
+2023-01-04T06:07:39Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-04T06:07:39Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-04T06:07:39Z: PLAYER ADDED   [ 2414780612] Rosiemaxcat          a.k.a. Georgi              
+2023-01-04T06:07:39Z: PLAYER ADDED   [ 1055464693] jigsawunicorn        a.k.a. Sienna              
+2023-01-04T06:07:39Z: PLAYER ADDED   [ 1544302741] Rainbow022014        a.k.a. Sophiatucker102     
+2023-01-04T06:07:39Z: PLAYER ADDED   [ 2301142537] Mateo010601          a.k.a. ERROR838228         
+2023-01-04T06:07:39Z: PLAYER ADDED   [ 3122550873] Annette199013       
+2023-01-04T06:07:39Z: PLAYER ADDED   [ 3282280636] OlafLovesWarmHugs2   a.k.a. Sharpay             
+2023-01-04T06:07:39Z: PLAYER ADDED   [ 2852344127] mylittleunicorm123   a.k.a. Why                 
+2023-01-04T06:07:39Z: PLAYER ADDED   [ 2952306920] random_girl12411     a.k.a. Penny               
+2023-01-04T06:07:39Z: PLAYER ADDED   [ 2026602086] Meverlyfungirl      
+2023-01-04T06:07:39Z: PLAYER ADDED   [ 3118294707] susubracher12        a.k.a. Kellie              
+2023-01-04T06:07:39Z: PLAYER ADDED   [ 1526784042] deregina1234        
+2023-01-04T06:07:39Z: PLAYER ADDED   [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:07:39Z: PLAYER ADDED   [ 2353554543] LilyMoo282           a.k.a. Why                 
+2023-01-04T06:07:39Z: PLAYER ADDED   [ 3453834680] Casifungirl1        
+2023-01-04T06:07:39Z: PLAYER ADDED   [ 2845688229] ralziaqt             a.k.a. yoshi               
+2023-01-04T06:07:50Z: PLAYER CHATTED [ 1055464693] jigsawunicorn        (  -26.7,    55.9,   -84.2)
+  RED
+2023-01-04T06:07:52Z: PLAYER CHATTED [ 1055464693] jigsawunicorn        (  -26.7,    55.9,   -84.2)
+  ######
+2023-01-04T06:07:54Z: PLAYER CHATTED [ 1055464693] jigsawunicorn        (  -26.7,    55.9,   -84.2)
+  GO RED
+2023-01-04T06:07:55Z: CHRCTER ADDED  [ 1526784042] deregina1234        
+2023-01-04T06:07:55Z: CHRCTER ADDED  [ 2414780612] Rosiemaxcat          a.k.a. Georgi              
+2023-01-04T06:07:59Z: CHRCTER ADDED  [ 1055464693] jigsawunicorn        a.k.a. Sienna              
+2023-01-04T06:08:01Z: PLAYER CHATTED [ 2414780612] Rosiemaxcat          (  -25.0,    46.2,   -49.3)
+  /w jigsawunicorn  Hi
+2023-01-04T06:08:02Z: PLAYER CHATTED [ 1055464693] jigsawunicorn        (  -28.2,    47.7,   -26.5)
+  Lol
+2023-01-04T06:08:16Z: PLAYER CHATTED [ 2852344127] mylittleunicorm123   (  -25.7,    52.9,   -85.5)
+  red
+2023-01-04T06:08:18Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:08:18Z: CHRCTER ADDED  [ 3118294707] susubracher12        a.k.a. Kellie              
+2023-01-04T06:08:18Z: CHRCTER ADDED  [ 3282280636] OlafLovesWarmHugs2   a.k.a. Sharpay             
+2023-01-04T06:08:18Z: CHRCTER ADDED  [ 2952306920] random_girl12411     a.k.a. Penny               
+2023-01-04T06:08:18Z: CHRCTER ADDED  [ 2414780612] Rosiemaxcat          a.k.a. Georgi              
+2023-01-04T06:08:21Z: CHRCTER ADDED  [ 2353554543] LilyMoo282           a.k.a. Why                 
+2023-01-04T06:08:22Z: CHRCTER ADDED  [ 2852344127] mylittleunicorm123   a.k.a. Why                 
+2023-01-04T06:08:23Z: CHRCTER ADDED  [ 3282280636] OlafLovesWarmHugs2   a.k.a. Sharpay             
+2023-01-04T06:08:34Z: CHRCTER ADDED  [ 2952306920] random_girl12411     a.k.a. Penny               
+2023-01-04T06:08:41Z: CHRCTER ADDED  [ 2026602086] Meverlyfungirl      
+2023-01-04T06:08:41Z: CHRCTER ADDED  [ 3282280636] OlafLovesWarmHugs2   a.k.a. Sharpay             
+2023-01-04T06:08:41Z: CHRCTER ADDED  [ 2952306920] random_girl12411     a.k.a. Penny               
+2023-01-04T06:08:41Z: CHRCTER ADDED  [ 3453834680] Casifungirl1        
+2023-01-04T06:08:41Z: CHRCTER ADDED  [ 2353554543] LilyMoo282           a.k.a. Why                 
+2023-01-04T06:08:41Z: CHRCTER ADDED  [ 1055464693] jigsawunicorn        a.k.a. Sienna              
+2023-01-04T06:08:45Z: CHRCTER ADDED  [ 2414780612] Rosiemaxcat          a.k.a. Georgi              
+2023-01-04T06:08:49Z: PLAYER CHATTED [ 2414780612] Rosiemaxcat          (  -34.8,    46.2,   -24.3)
+  I didn’t pick mine lol
+2023-01-04T06:08:52Z: PLAYER CHATTED [ 1055464693] jigsawunicorn        (  -28.8,    43.3,   -74.0)
+  Hi
+2023-01-04T06:09:04Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:09:04Z: CHRCTER ADDED  [ 2301142537] Mateo010601          a.k.a. ERROR838228         
+2023-01-04T06:09:04Z: CHRCTER ADDED  [ 3453834680] Casifungirl1        
+2023-01-04T06:09:04Z: CHRCTER ADDED  [ 2026602086] Meverlyfungirl      
+2023-01-04T06:09:08Z: PLAYER REMOVED [ 1526784042] deregina1234        
+2023-01-04T06:09:08Z: CHRCTER ADDED  [ 3122550873] Annette199013       
+2023-01-04T06:09:11Z: PLAYER CHATTED [ 3122550873] Annette199013        (  -21.3,    46.0,   -24.1)
+  My cousin is annoying
+2023-01-04T06:09:11Z: PLAYER CHATTED [ 3122550873] Annette199013        (  -21.3,    46.0,   -24.1)
+  My cousin is  annoying
+2023-01-04T06:09:21Z: PLAYER ADDED   [ 1160766232] MrRaRaMan           
+2023-01-04T06:09:23Z: PLAYER CHATTED [ 2845688229] ralziaqt             (  -13.8,    46.0,   -63.1)
+  my sis
+2023-01-04T06:09:27Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:09:27Z: CHRCTER ADDED  [ 2952306920] random_girl12411     a.k.a. Penny               
+2023-01-04T06:09:27Z: CHRCTER ADDED  [ 3282280636] OlafLovesWarmHugs2   a.k.a. Sharpay             
+2023-01-04T06:09:28Z: CHRCTER ADDED  [ 2845688229] ralziaqt             a.k.a. yoshi               
+2023-01-04T06:09:31Z: CHRCTER ADDED  [ 2301142537] Mateo010601          a.k.a. ERROR838228         
+2023-01-04T06:09:32Z: CHRCTER ADDED  [ 1160766232] MrRaRaMan           
+2023-01-04T06:09:50Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:09:50Z: CHRCTER ADDED  [ 1160766232] MrRaRaMan           
+2023-01-04T06:09:50Z: CHRCTER ADDED  [ 2952306920] random_girl12411     a.k.a. Penny               
+2023-01-04T06:09:50Z: CHRCTER ADDED  [ 3282280636] OlafLovesWarmHugs2   a.k.a. Sharpay             
+2023-01-04T06:09:51Z: CHRCTER ADDED  [ 2845688229] ralziaqt             a.k.a. yoshi               
+2023-01-04T06:09:53Z: PLAYER REMOVED [ 1160766232] MrRaRaMan           
+2023-01-04T06:09:54Z: CHRCTER ADDED  [ 1055464693] jigsawunicorn        a.k.a. Sienna              
+2023-01-04T06:09:58Z: PLAYER ADDED   [ 4172627010] LILLY123445897      
+2023-01-04T06:10:03Z: PLAYER CHATTED [ 1055464693] jigsawunicorn        (  -44.2,    46.4,   -21.6)
+  I picked red because if ur immortal then u watch PEOPEL die
+2023-01-04T06:10:05Z: CHRCTER ADDED  [ 4172627010] LILLY123445897      
+2023-01-04T06:10:08Z: PLAYER CHATTED [ 2353554543] LilyMoo282           (   -9.4,    46.0,   -59.8)
+  slayyy
+2023-01-04T06:10:08Z: PLAYER CHATTED [ 2414780612] Rosiemaxcat          (  -24.8,    46.2,   -41.3)
+  /w jigsawunicorn  Hello
+2023-01-04T06:10:09Z: PLAYER CHATTED [ 2952306920] random_girl12411     (  -22.5,    46.2,   -62.1)
+  Ew none
+2023-01-04T06:10:13Z: CHRCTER ADDED  [ 3122550873] Annette199013       
+2023-01-04T06:10:14Z: CHRCTER ADDED  [ 3282280636] OlafLovesWarmHugs2   a.k.a. Sharpay             
+2023-01-04T06:10:18Z: CHRCTER ADDED  [ 2845688229] ralziaqt             a.k.a. yoshi               
+2023-01-04T06:10:19Z: PLAYER REMOVED [ 2845688229] ralziaqt             a.k.a. yoshi               
+2023-01-04T06:10:20Z: CHRCTER ADDED  [ 4172627010] LILLY123445897      
+2023-01-04T06:10:25Z: PLAYER ADDED   [ 1534654194] kiraleapinkypanda    a.k.a. Pickles             
+2023-01-04T06:10:31Z: PLAYER CHATTED [ 3118294707] susubracher12        (  -24.7,    46.2,   -63.6)
+  Why should I be with a lesbian
+2023-01-04T06:10:31Z: CHRCTER ADDED  [ 3453834680] Casifungirl1        
+2023-01-04T06:10:35Z: PLAYER CHATTED [ 1055464693] jigsawunicorn        (   -9.1,    46.4,   -67.2)
+  EAT 
+2023-01-04T06:10:36Z: PLAYER CHATTED [ 2414780612] Rosiemaxcat          (  -28.9,    46.2,   -39.3)
+  It say u not my friend sienna
+2023-01-04T06:10:36Z: CHRCTER ADDED  [ 2026602086] Meverlyfungirl      
+2023-01-04T06:10:36Z: CHRCTER ADDED  [ 3122550873] Annette199013       
+2023-01-04T06:10:40Z: PLAYER CHATTED [ 3118294707] susubracher12        (  -24.7,    46.7,   -63.9)
+  #######################
+2023-01-04T06:10:40Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:10:41Z: CHRCTER ADDED  [ 2353554543] LilyMoo282           a.k.a. Why                 
+2023-01-04T06:10:43Z: PLAYER CHATTED [ 2414780612] Rosiemaxcat          (  -28.8,    46.2,   -39.5)
+  Lol
+2023-01-04T06:10:59Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:10:59Z: CHRCTER ADDED  [ 4172627010] LILLY123445897      
+2023-01-04T06:11:00Z: CHRCTER ADDED  [ 3118294707] susubracher12        a.k.a. Kellie              
+2023-01-04T06:11:00Z: CHRCTER ADDED  [ 3282280636] OlafLovesWarmHugs2   a.k.a. Sharpay             
+2023-01-04T06:11:00Z: CHRCTER ADDED  [ 3122550873] Annette199013       
+2023-01-04T06:11:00Z: CHRCTER ADDED  [ 1055464693] jigsawunicorn        a.k.a. Sienna              
+2023-01-04T06:11:00Z: CHRCTER ADDED  [ 2414780612] Rosiemaxcat          a.k.a. Georgi              
+2023-01-04T06:11:00Z: CHRCTER ADDED  [ 1544302741] Rainbow022014        a.k.a. Sophiatucker102     
+2023-01-04T06:11:00Z: CHRCTER ADDED  [ 3453834680] Casifungirl1        
+2023-01-04T06:11:03Z: PLAYER CHATTED [ 1055464693] jigsawunicorn        (  -16.6,    46.4,   -26.5)
+  /w Rosiemaxcat  Oh weird
+2023-01-04T06:11:04Z: CHRCTER ADDED  [ 2026602086] Meverlyfungirl      
+2023-01-04T06:11:06Z: PLAYER CHATTED [ 2414780612] Rosiemaxcat          (  -26.7,    46.2,   -24.0)
+  Amazing is in Brazil
+2023-01-04T06:11:12Z: PLAYER CHATTED [ 1055464693] jigsawunicorn        (  -16.6,    46.4,   -26.5)
+  It does for me tho
+2023-01-04T06:11:12Z: PLAYER CHATTED [ 2414780612] Rosiemaxcat          (  -25.6,    46.2,   -26.9)
+  Amazon*
+2023-01-04T06:11:16Z: PLAYER CHATTED [ 2414780612] Rosiemaxcat          (  -25.6,    46.2,   -26.9)
+  /w jigsawunicorn  Lol
+2023-01-04T06:11:21Z: PLAYER CHATTED [ 1544302741] Rainbow022014        (  -33.0,    47.2,   -55.9)
+  Ok
+2023-01-04T06:11:22Z: CHRCTER ADDED  [ 2301142537] Mateo010601          a.k.a. ERROR838228         
+2023-01-04T06:11:23Z: CHRCTER ADDED  [ 3118294707] susubracher12        a.k.a. Kellie              
+2023-01-04T06:11:26Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:11:27Z: CHRCTER ADDED  [ 3453834680] Casifungirl1        
+2023-01-04T06:11:45Z: CHRCTER ADDED  [ 2301142537] Mateo010601          a.k.a. ERROR838228         
+2023-01-04T06:11:46Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:11:46Z: CHRCTER ADDED  [ 1534654194] kiraleapinkypanda    a.k.a. Pickles             
+2023-01-04T06:11:46Z: CHRCTER ADDED  [ 3122550873] Annette199013       
+2023-01-04T06:11:46Z: CHRCTER ADDED  [ 2952306920] random_girl12411     a.k.a. Penny               
+2023-01-04T06:11:46Z: PLAYER CHATTED [ 3118294707] susubracher12        (  -26.3,    55.7,   -81.4)
+  HAHAAHAHAHAAHAHAHAHAHAHAHAHAAHAHAHA
+2023-01-04T06:11:46Z: CHRCTER ADDED  [ 1055464693] jigsawunicorn        a.k.a. Sienna              
+2023-01-04T06:11:50Z: CHRCTER ADDED  [ 3118294707] susubracher12        a.k.a. Kellie              
+2023-01-04T06:11:53Z: CHRCTER ADDED  [ 2852344127] mylittleunicorm123   a.k.a. Why                 
+2023-01-04T06:12:07Z: PLAYER CHATTED [ 1544302741] Rainbow022014        (  -19.2,    46.2,   -53.5)
+  Happy always right?
+2023-01-04T06:12:09Z: CHRCTER ADDED  [ 2353554543] LilyMoo282           a.k.a. Why                 
+2023-01-04T06:12:09Z: CHRCTER ADDED  [ 1055464693] jigsawunicorn        a.k.a. Sienna              
+2023-01-04T06:12:13Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:12:28Z: PLAYER REMOVED [ 3118294707] susubracher12        a.k.a. Kellie              
+2023-01-04T06:12:32Z: CHRCTER ADDED  [ 2852344127] mylittleunicorm123   a.k.a. Why                 
+2023-01-04T06:12:32Z: PLAYER ADDED   [ 3118294707] susubracher12        a.k.a. Kellie              
+2023-01-04T06:12:36Z: CHRCTER ADDED  [ 2952306920] random_girl12411     a.k.a. Penny               
+2023-01-04T06:12:38Z: PLAYER REMOVED [ 3118294707] susubracher12        a.k.a. Kellie              
+2023-01-04T06:12:41Z: PLAYER ADDED   [  150689258] boboliten           
+2023-01-04T06:12:42Z: PLAYER CHATTED [ 1055464693] jigsawunicorn        (  -36.3,    46.4,   -65.7)
+  NO BECAUSE IF SOMEONE DIES HEN UR HAPPY?!
+2023-01-04T06:12:56Z: PLAYER CHATTED [ 1055464693] jigsawunicorn        (  -17.4,    46.8,   -62.3)
+  Why do people not think
+2023-01-04T06:12:59Z: CHRCTER ADDED  [ 3122550873] Annette199013       
+2023-01-04T06:12:59Z: PLAYER ADDED   [   52148212] mikeminecraft00      a.k.a. DrJiM3m3r           
+2023-01-04T06:13:06Z: PLAYER CHATTED [ 1544302741] Rainbow022014        (  -21.0,    46.2,   -54.7)
+  Oh I meant not hat just happy
+2023-01-04T06:13:09Z: PLAYER CHATTED [ 4172627010] LILLY123445897       (  -26.7,    55.7,   -84.2)
+  Blue 
+2023-01-04T06:13:13Z: PLAYER CHATTED [ 1544302741] Rainbow022014        (  -20.9,    46.2,   -54.4)
+  That
+2023-01-04T06:13:15Z: PLAYER CHATTED [ 1534654194] kiraleapinkypanda    (  -29.1,    45.9,   -54.5)
+  it is their opinion on what they want
+2023-01-04T06:13:18Z: CHRCTER ADDED  [ 2026602086] Meverlyfungirl      
+2023-01-04T06:13:18Z: CHRCTER ADDED  [ 2301142537] Mateo010601          a.k.a. ERROR838228         
+2023-01-04T06:13:18Z: CHRCTER ADDED  [ 3453834680] Casifungirl1        
+2023-01-04T06:13:18Z: CHRCTER ADDED  [ 3282280636] OlafLovesWarmHugs2   a.k.a. Sharpay             
+2023-01-04T06:13:18Z: CHRCTER ADDED  [ 2353554543] LilyMoo282           a.k.a. Why                 
+2023-01-04T06:13:22Z: CHRCTER ADDED  [ 4172627010] LILLY123445897      
+2023-01-04T06:13:25Z: PLAYER CHATTED [ 1534654194] kiraleapinkypanda    (  -26.6,    45.9,   -55.1)
+  cant force them to like being sad
+2023-01-04T06:13:30Z: PLAYER REMOVED [ 1544302741] Rainbow022014        a.k.a. Sophiatucker102     
+2023-01-04T06:13:53Z: PLAYER CHATTED [ 2414780612] Rosiemaxcat          (  -27.1,    55.7,   -81.5)
+  RED
+2023-01-04T06:13:58Z: PLAYER CHATTED [ 2414780612] Rosiemaxcat          (  -27.1,    55.7,   -81.5)
+  ## ###
+2023-01-04T06:14:04Z: CHRCTER ADDED  [ 3282280636] OlafLovesWarmHugs2   a.k.a. Sharpay             
+2023-01-04T06:14:04Z: CHRCTER ADDED  [ 2952306920] random_girl12411     a.k.a. Penny               
+2023-01-04T06:14:04Z: CHRCTER ADDED  [ 2852344127] mylittleunicorm123   a.k.a. Why                 
+2023-01-04T06:14:04Z: CHRCTER ADDED  [ 1055464693] jigsawunicorn        a.k.a. Sienna              
+2023-01-04T06:14:04Z: CHRCTER ADDED  [ 2353554543] LilyMoo282           a.k.a. Why                 
+2023-01-04T06:14:04Z: CHRCTER ADDED  [   52148212] mikeminecraft00      a.k.a. DrJiM3m3r           
+2023-01-04T06:14:08Z: PLAYER CHATTED [ 2414780612] Rosiemaxcat          (  -27.1,    55.7,   -81.6)
+  Lol
+2023-01-04T06:14:08Z: CHRCTER ADDED  [ 2414780612] Rosiemaxcat          a.k.a. Georgi              
+2023-01-04T06:14:27Z: CHRCTER ADDED  [ 1534654194] kiraleapinkypanda    a.k.a. Pickles             
+2023-01-04T06:14:27Z: CHRCTER ADDED  [ 2952306920] random_girl12411     a.k.a. Penny               
+2023-01-04T06:14:31Z: CHRCTER ADDED  [ 3282280636] OlafLovesWarmHugs2   a.k.a. Sharpay             
+2023-01-04T06:14:50Z: CHRCTER ADDED  [ 2301142537] Mateo010601          a.k.a. ERROR838228         
+2023-01-04T06:14:50Z: CHRCTER ADDED  [ 1055464693] jigsawunicorn        a.k.a. Sienna              
+2023-01-04T06:14:50Z: CHRCTER ADDED  [ 1534654194] kiraleapinkypanda    a.k.a. Pickles             
+2023-01-04T06:14:50Z: CHRCTER ADDED  [ 2852344127] mylittleunicorm123   a.k.a. Why                 
+2023-01-04T06:14:51Z: CHRCTER ADDED  [ 2353554543] LilyMoo282           a.k.a. Why                 
+2023-01-04T06:14:54Z: CHRCTER ADDED  [ 3453834680] Casifungirl1        
+2023-01-04T06:14:55Z: CHRCTER ADDED  [ 1534654194] kiraleapinkypanda    a.k.a. Pickles             
+2023-01-04T06:15:13Z: CHRCTER ADDED  [ 4172627010] LILLY123445897      
+2023-01-04T06:15:13Z: CHRCTER ADDED  [ 2301142537] Mateo010601          a.k.a. ERROR838228         
+2023-01-04T06:15:13Z: CHRCTER ADDED  [ 3282280636] OlafLovesWarmHugs2   a.k.a. Sharpay             
+2023-01-04T06:15:13Z: CHRCTER ADDED  [ 1055464693] jigsawunicorn        a.k.a. Sienna              
+2023-01-04T06:15:13Z: CHRCTER ADDED  [ 2353554543] LilyMoo282           a.k.a. Why                 
+2023-01-04T06:15:14Z: CHRCTER ADDED  [   52148212] mikeminecraft00      a.k.a. DrJiM3m3r           
+2023-01-04T06:15:15Z: CHRCTER ADDED  [  150689258] boboliten           
+2023-01-04T06:15:17Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:15:17Z: CHRCTER ADDED  [ 2301142537] Mateo010601          a.k.a. ERROR838228         
+2023-01-04T06:15:36Z: CHRCTER ADDED  [ 2952306920] random_girl12411     a.k.a. Penny               
+2023-01-04T06:15:36Z: CHRCTER ADDED  [ 1534654194] kiraleapinkypanda    a.k.a. Pickles             
+2023-01-04T06:15:36Z: CHRCTER ADDED  [ 1055464693] jigsawunicorn        a.k.a. Sienna              
+2023-01-04T06:15:36Z: CHRCTER ADDED  [ 2414780612] Rosiemaxcat          a.k.a. Georgi              
+2023-01-04T06:15:36Z: CHRCTER ADDED  [ 2353554543] LilyMoo282           a.k.a. Why                 
+2023-01-04T06:15:40Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-04T06:15:52Z: PLAYER CHATTED [ 1534654194] kiraleapinkypanda    (  -39.7,    45.9,   -50.7)
+  Ò-Ó
+2023-01-04T06:15:53Z: PLAYER REMOVED [ 4172627010] LILLY123445897      
+2023-01-04T06:15:57Z: CHRCTER ADDED  [ 2301142537] Mateo010601          a.k.a. ERROR838228         
+2023-01-04T06:15:59Z: CHRCTER ADDED  [ 1534654194] kiraleapinkypanda    a.k.a. Pickles             
+2023-01-04T06:15:59Z: CHRCTER ADDED  [ 3282280636] OlafLovesWarmHugs2   a.k.a. Sharpay             
+2023-01-04T06:15:59Z: CHRCTER ADDED  [  150689258] boboliten           
+2023-01-04T06:15:59Z: CHRCTER ADDED  [   52148212] mikeminecraft00      a.k.a. DrJiM3m3r           
+2023-01-04T06:15:59Z: CHRCTER ADDED  [ 1055464693] jigsawunicorn        a.k.a. Sienna              
+2023-01-04T06:15:59Z: CHRCTER ADDED  [ 2353554543] LilyMoo282           a.k.a. Why                 
+2023-01-04T06:16:00Z: CHRCTER ADDED  [ 2026602086] Meverlyfungirl      
+2023-01-04T06:16:02Z: PLAYER ADDED   [ 2702659752] kaseyd87             a.k.a. Bella               
+2023-01-04T06:16:03Z: CHRCTER ADDED  [ 2301142537] Mateo010601          a.k.a. ERROR838228         
+2023-01-04T06:16:07Z: PLAYER REMOVED [ 3282280636] OlafLovesWarmHugs2   a.k.a. Sharpay             
+2023-01-04T06:16:11Z: PLAYER REMOVED [ 2301142537] Mateo010601          a.k.a. ERROR838228         
+2023-01-04T06:16:22Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:16:22Z: CHRCTER ADDED  [ 2702659752] kaseyd87             a.k.a. Bella               
+2023-01-04T06:16:22Z: CHRCTER ADDED  [ 3122550873] Annette199013       
+2023-01-04T06:16:22Z: CHRCTER ADDED  [ 1055464693] jigsawunicorn        a.k.a. Sienna              
+2023-01-04T06:16:22Z: CHRCTER ADDED  [ 2353554543] LilyMoo282           a.k.a. Why                 
+2023-01-04T06:16:23Z: CHRCTER ADDED  [ 1534654194] kiraleapinkypanda    a.k.a. Pickles             
+2023-01-04T06:16:26Z: CHRCTER ADDED  [   52148212] mikeminecraft00      a.k.a. DrJiM3m3r           
+2023-01-04T06:16:26Z: CHRCTER ADDED  [ 1534654194] kiraleapinkypanda    a.k.a. Pickles             
+2023-01-04T06:16:38Z: PLAYER CHATTED [ 1534654194] kiraleapinkypanda    (  -18.5,    45.9,   -52.4)
+  OMGOMG
+2023-01-04T06:16:45Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:16:45Z: CHRCTER ADDED  [  150689258] boboliten           
+2023-01-04T06:16:48Z: PLAYER ADDED   [ 2403395160] XxJqnellxX           a.k.a. Void                
+2023-01-04T06:16:49Z: CHRCTER ADDED  [ 2353554543] LilyMoo282           a.k.a. Why                 
+2023-01-04T06:16:51Z: PLAYER ADDED   [ 2301142537] Mateo010601          a.k.a. ERROR838228         
+2023-01-04T06:16:52Z: PLAYER CHATTED [ 1534654194] kiraleapinkypanda    (  -18.4,    45.9,   -51.8)
+  genshin slayyyy
+2023-01-04T06:16:59Z: CHRCTER ADDED  [ 2301142537] Mateo010601          a.k.a. ERROR838228         
+2023-01-04T06:17:03Z: PLAYER CHATTED [ 2353554543] LilyMoo282           (  -43.5,    46.0,   -58.3)
+  slayyyy
+2023-01-04T06:17:06Z: CHRCTER ADDED  [ 2403395160] XxJqnellxX           a.k.a. Void                
+2023-01-04T06:17:08Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:17:08Z: CHRCTER ADDED  [ 3122550873] Annette199013       
+2023-01-04T06:17:08Z: CHRCTER ADDED  [ 1534654194] kiraleapinkypanda    a.k.a. Pickles             
+2023-01-04T06:17:08Z: CHRCTER ADDED  [ 1055464693] jigsawunicorn        a.k.a. Sienna              
+2023-01-04T06:17:08Z: CHRCTER ADDED  [ 2852344127] mylittleunicorm123   a.k.a. Why                 
+2023-01-04T06:17:09Z: CHRCTER ADDED  [ 2702659752] kaseyd87             a.k.a. Bella               
+2023-01-04T06:17:09Z: CHRCTER ADDED  [ 2353554543] LilyMoo282           a.k.a. Why                 
+2023-01-04T06:17:12Z: CHRCTER ADDED  [ 2026602086] Meverlyfungirl      
+2023-01-04T06:17:21Z: CHRCTER ADDED  [ 2403395160] XxJqnellxX           a.k.a. Void                
+2023-01-04T06:17:25Z: PLAYER REMOVED [ 3122550873] Annette199013       
+2023-01-04T06:17:31Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:17:32Z: PLAYER REMOVED [ 2353554543] LilyMoo282           a.k.a. Why                 
+2023-01-04T06:17:35Z: CHRCTER ADDED  [ 1055464693] jigsawunicorn        a.k.a. Sienna              
+2023-01-04T06:17:42Z: PLAYER ADDED   [  705095796] Anitsirk84          
+2023-01-04T06:17:43Z: PLAYER ADDED   [ 2353554543] LilyMoo282           a.k.a. Why                 
+2023-01-04T06:17:51Z: PLAYER CHATTED [ 2852344127] mylittleunicorm123   (  -26.7,    55.2,   -84.3)
+  red
+2023-01-04T06:17:54Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:17:54Z: CHRCTER ADDED  [ 1534654194] kiraleapinkypanda    a.k.a. Pickles             
+2023-01-04T06:17:55Z: CHRCTER ADDED  [   52148212] mikeminecraft00      a.k.a. DrJiM3m3r           
+2023-01-04T06:17:56Z: CHRCTER ADDED  [ 2952306920] random_girl12411     a.k.a. Penny               
+2023-01-04T06:17:59Z: CHRCTER ADDED  [ 2852344127] mylittleunicorm123   a.k.a. Why                 
+2023-01-04T06:18:16Z: PLAYER CHATTED [ 2702659752] kaseyd87             (  -27.1,    64.7,   -80.2)
+  Me
+2023-01-04T06:18:17Z: CHRCTER ADDED  [ 2026602086] Meverlyfungirl      
+2023-01-04T06:18:17Z: CHRCTER ADDED  [ 3453834680] Casifungirl1        
+2023-01-04T06:18:18Z: CHRCTER ADDED  [ 2852344127] mylittleunicorm123   a.k.a. Why                 
+2023-01-04T06:18:18Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:18:18Z: CHRCTER ADDED  [  150689258] boboliten           
+2023-01-04T06:18:20Z: PLAYER CHATTED [ 2414780612] Rosiemaxcat          (  -32.0,    46.2,   -42.8)
+  /w jigsawunicorn  Btw r u on a call?
+2023-01-04T06:18:22Z: CHRCTER ADDED  [ 2702659752] kaseyd87             a.k.a. Bella               
+2023-01-04T06:18:22Z: CHRCTER ADDED  [ 3453834680] Casifungirl1        
+2023-01-04T06:18:24Z: PLAYER CHATTED [ 1055464693] jigsawunicorn        (  -35.7,    46.4,   -68.4)
+  /w Rosiemaxcat  Ye
+2023-01-04T06:18:28Z: PLAYER CHATTED [ 1055464693] jigsawunicorn        (  -35.7,    46.4,   -68.4)
+  With Lily D
+2023-01-04T06:18:28Z: PLAYER CHATTED [ 2414780612] Rosiemaxcat          (  -32.0,    46.2,   -42.8)
+  Mk
+2023-01-04T06:18:35Z: PLAYER CHATTED [ 1055464693] jigsawunicorn        (  -34.3,    43.4,   -63.8)
+  Tennis
+2023-01-04T06:18:41Z: CHRCTER ADDED  [ 2301142537] Mateo010601          a.k.a. ERROR838228         
+2023-01-04T06:18:41Z: CHRCTER ADDED  [  705095796] Anitsirk84          
+2023-01-04T06:18:45Z: CHRCTER ADDED  [ 1534654194] kiraleapinkypanda    a.k.a. Pickles             
+2023-01-04T06:18:45Z: CHRCTER ADDED  [ 2952306920] random_girl12411     a.k.a. Penny               
+2023-01-04T06:18:53Z: PLAYER CHATTED [ 1055464693] jigsawunicorn        (  -18.4,    46.4,   -60.7)
+  Hats this?
+2023-01-04T06:19:00Z: PLAYER CHATTED [ 1055464693] jigsawunicorn        (  -18.4,    46.4,   -60.7)
+  What’s this
+2023-01-04T06:19:03Z: CHRCTER ADDED  [ 2403395160] XxJqnellxX           a.k.a. Void                
+2023-01-04T06:19:04Z: CHRCTER ADDED  [ 2026602086] Meverlyfungirl      
+2023-01-04T06:19:07Z: PLAYER CHATTED [   52148212] mikeminecraft00      (  -26.7,    56.3,   -84.2)
+  Quaso
+2023-01-04T06:19:08Z: CHRCTER ADDED  [   52148212] mikeminecraft00      a.k.a. DrJiM3m3r           
+2023-01-04T06:19:26Z: CHRCTER ADDED  [ 2026602086] Meverlyfungirl      
+2023-01-04T06:19:27Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:19:27Z: CHRCTER ADDED  [ 2414780612] Rosiemaxcat          a.k.a. Georgi              
+2023-01-04T06:19:27Z: CHRCTER ADDED  [ 1055464693] jigsawunicorn        a.k.a. Sienna              
+2023-01-04T06:19:28Z: CHRCTER ADDED  [ 2403395160] XxJqnellxX           a.k.a. Void                
+2023-01-04T06:19:31Z: CHRCTER ADDED  [ 2301142537] Mateo010601          a.k.a. ERROR838228         
+2023-01-04T06:19:51Z: CHRCTER ADDED  [ 1055464693] jigsawunicorn        a.k.a. Sienna              
+2023-01-04T06:19:53Z: CHRCTER ADDED  [ 2702659752] kaseyd87             a.k.a. Bella               
+2023-01-04T06:19:54Z: CHRCTER ADDED  [ 1055464693] jigsawunicorn        a.k.a. Sienna              
+2023-01-04T06:19:59Z: CHRCTER ADDED  [ 2403395160] XxJqnellxX           a.k.a. Void                
+2023-01-04T06:20:10Z: CHRCTER ADDED  [ 2952306920] random_girl12411     a.k.a. Penny               
+2023-01-04T06:20:12Z: CHRCTER ADDED  [ 2702659752] kaseyd87             a.k.a. Bella               
+2023-01-04T06:20:13Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:20:13Z: CHRCTER ADDED  [ 2026602086] Meverlyfungirl      
+2023-01-04T06:20:13Z: CHRCTER ADDED  [ 2301142537] Mateo010601          a.k.a. ERROR838228         
+2023-01-04T06:20:13Z: CHRCTER ADDED  [ 3453834680] Casifungirl1        
+2023-01-04T06:20:13Z: CHRCTER ADDED  [  705095796] Anitsirk84          
+2023-01-04T06:20:13Z: CHRCTER ADDED  [ 1055464693] jigsawunicorn        a.k.a. Sienna              
+2023-01-04T06:20:13Z: CHRCTER ADDED  [ 2414780612] Rosiemaxcat          a.k.a. Georgi              
+2023-01-04T06:20:13Z: CHRCTER ADDED  [   52148212] mikeminecraft00      a.k.a. DrJiM3m3r           
+2023-01-04T06:20:13Z: CHRCTER ADDED  [ 2403395160] XxJqnellxX           a.k.a. Void                
+2023-01-04T06:20:17Z: CHRCTER ADDED  [  150689258] boboliten           
+2023-01-04T06:20:36Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:20:36Z: CHRCTER ADDED  [ 1055464693] jigsawunicorn        a.k.a. Sienna              
+2023-01-04T06:20:36Z: CHRCTER ADDED  [ 2353554543] LilyMoo282           a.k.a. Why                 
+2023-01-04T06:20:36Z: CHRCTER ADDED  [ 2852344127] mylittleunicorm123   a.k.a. Why                 
+2023-01-04T06:20:36Z: CHRCTER ADDED  [   52148212] mikeminecraft00      a.k.a. DrJiM3m3r           
+2023-01-04T06:20:40Z: CHRCTER ADDED  [ 2403395160] XxJqnellxX           a.k.a. Void                
+2023-01-04T06:20:41Z: CHRCTER ADDED  [ 2702659752] kaseyd87             a.k.a. Bella               
+2023-01-04T06:20:48Z: PLAYER CHATTED [ 1534654194] kiraleapinkypanda    (  -23.8,    45.9,   -54.5)
+  red
+2023-01-04T06:20:58Z: PLAYER CHATTED [ 1534654194] kiraleapinkypanda    (   -7.8,    45.4,   -59.8)
+  got to be
+2023-01-04T06:20:59Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:20:59Z: CHRCTER ADDED  [ 1534654194] kiraleapinkypanda    a.k.a. Pickles             
+2023-01-04T06:20:59Z: CHRCTER ADDED  [ 2026602086] Meverlyfungirl      
+2023-01-04T06:20:59Z: CHRCTER ADDED  [ 1055464693] jigsawunicorn        a.k.a. Sienna              
+2023-01-04T06:20:59Z: CHRCTER ADDED  [ 2852344127] mylittleunicorm123   a.k.a. Why                 
+2023-01-04T06:20:59Z: CHRCTER ADDED  [ 2353554543] LilyMoo282           a.k.a. Why                 
+2023-01-04T06:20:59Z: CHRCTER ADDED  [ 2414780612] Rosiemaxcat          a.k.a. Georgi              
+2023-01-04T06:20:59Z: CHRCTER ADDED  [ 2301142537] Mateo010601          a.k.a. ERROR838228         
+2023-01-04T06:20:59Z: CHRCTER ADDED  [   52148212] mikeminecraft00      a.k.a. DrJiM3m3r           
+2023-01-04T06:20:59Z: CHRCTER ADDED  [ 2702659752] kaseyd87             a.k.a. Bella               
+2023-01-04T06:21:03Z: PLAYER CHATTED [ 1534654194] kiraleapinkypanda    (  -32.0,    45.9,   -28.2)
+  BEO
+2023-01-04T06:21:03Z: CHRCTER ADDED  [  705095796] Anitsirk84          
+2023-01-04T06:21:07Z: PLAYER CHATTED [ 1534654194] kiraleapinkypanda    (  -40.8,    45.9,   -47.7)
+  BRO*
+2023-01-04T06:21:21Z: PLAYER CHATTED [ 2414780612] Rosiemaxcat          (  -37.6,    46.2,   -57.3)
+  Tiger r cute
+2023-01-04T06:21:21Z: CHRCTER ADDED  [ 2702659752] kaseyd87             a.k.a. Bella               
+2023-01-04T06:21:22Z: CHRCTER ADDED  [ 3453834680] Casifungirl1        
+2023-01-04T06:21:26Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:21:39Z: PLAYER CHATTED [ 1534654194] kiraleapinkypanda    (  -35.1,    45.9,   -63.9)
+  not when they run towards you and #### ###
+2023-01-04T06:21:44Z: PLAYER CHATTED [ 2301142537] Mateo010601          (  -36.0,    46.0,   -54.4)
+  Me
+2023-01-04T06:21:45Z: CHRCTER ADDED  [ 2026602086] Meverlyfungirl      
+2023-01-04T06:21:45Z: CHRCTER ADDED  [ 2301142537] Mateo010601          a.k.a. ERROR838228         
+2023-01-04T06:21:45Z: CHRCTER ADDED  [ 2852344127] mylittleunicorm123   a.k.a. Why                 
+2023-01-04T06:21:45Z: CHRCTER ADDED  [ 2414780612] Rosiemaxcat          a.k.a. Georgi              
+2023-01-04T06:21:45Z: CHRCTER ADDED  [ 1534654194] kiraleapinkypanda    a.k.a. Pickles             
+2023-01-04T06:21:47Z: PLAYER REMOVED [  150689258] boboliten           
+2023-01-04T06:21:49Z: CHRCTER ADDED  [ 2952306920] random_girl12411     a.k.a. Penny               
+2023-01-04T06:21:51Z: CHRCTER ADDED  [ 1055464693] jigsawunicorn        a.k.a. Sienna              
+2023-01-04T06:21:52Z: PLAYER CHATTED [ 1534654194] kiraleapinkypanda    (  -17.5,    45.9,   -32.0)
+  ##### #
+2023-01-04T06:21:58Z: PLAYER CHATTED [ 1534654194] kiraleapinkypanda    (  -18.3,    45.9,   -34.1)
+  kull u
+2023-01-04T06:22:08Z: CHRCTER ADDED  [ 3453834680] Casifungirl1        
+2023-01-04T06:22:08Z: CHRCTER ADDED  [ 1055464693] jigsawunicorn        a.k.a. Sienna              
+2023-01-04T06:22:08Z: CHRCTER ADDED  [ 2301142537] Mateo010601          a.k.a. ERROR838228         
+2023-01-04T06:22:09Z: CHRCTER ADDED  [ 2353554543] LilyMoo282           a.k.a. Why                 
+2023-01-04T06:22:10Z: CHRCTER ADDED  [ 2702659752] kaseyd87             a.k.a. Bella               
+2023-01-04T06:22:11Z: PLAYER CHATTED [ 2414780612] Rosiemaxcat          (  -14.6,    46.2,   -51.8)
+  Well then u never have experienced a tiger hug
+2023-01-04T06:22:12Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:22:12Z: CHRCTER ADDED  [ 2026602086] Meverlyfungirl      
+2023-01-04T06:22:18Z: PLAYER ADDED   [  150689258] boboliten           
+2023-01-04T06:22:31Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:22:31Z: CHRCTER ADDED  [ 2403395160] XxJqnellxX           a.k.a. Void                
+2023-01-04T06:22:31Z: CHRCTER ADDED  [   52148212] mikeminecraft00      a.k.a. DrJiM3m3r           
+2023-01-04T06:22:31Z: CHRCTER ADDED  [ 2852344127] mylittleunicorm123   a.k.a. Why                 
+2023-01-04T06:22:35Z: CHRCTER ADDED  [ 2702659752] kaseyd87             a.k.a. Bella               
+2023-01-04T06:22:36Z: PLAYER CHATTED [ 1534654194] kiraleapinkypanda    (  -31.6,    45.9,   -56.1)
+  bro those r the tigers in the zoo that r well trained
+2023-01-04T06:22:45Z: PLAYER REMOVED [  150689258] boboliten           
+2023-01-04T06:22:47Z: PLAYER ADDED   [ 3197081175] Bettina716           a.k.a. HUGGYWUGGY15        
+2023-01-04T06:22:48Z: PLAYER ADDED   [  150689258] boboliten           
+2023-01-04T06:22:53Z: CHRCTER ADDED  [ 2852344127] mylittleunicorm123   a.k.a. Why                 
+2023-01-04T06:22:54Z: CHRCTER ADDED  [ 3197081175] Bettina716           a.k.a. HUGGYWUGGY15        
+2023-01-04T06:22:54Z: CHRCTER ADDED  [   52148212] mikeminecraft00      a.k.a. DrJiM3m3r           
+2023-01-04T06:22:58Z: CHRCTER ADDED  [ 3197081175] Bettina716           a.k.a. HUGGYWUGGY15        
+2023-01-04T06:22:58Z: CHRCTER ADDED  [ 2301142537] Mateo010601          a.k.a. ERROR838228         
+2023-01-04T06:23:01Z: PLAYER CHATTED [ 2414780612] Rosiemaxcat          (  -26.7,    55.7,   -84.2)
+  No not at a zoo, in da wild lol
+2023-01-04T06:23:01Z: PLAYER REMOVED [ 2702659752] kaseyd87             a.k.a. Bella               
+2023-01-04T06:23:04Z: PLAYER CHATTED [ 1534654194] kiraleapinkypanda    (  -21.8,    45.9,   -56.4)
+  they r cute when they r not vicious
+2023-01-04T06:23:16Z: CHRCTER ADDED  [ 2952306920] random_girl12411     a.k.a. Penny               
+2023-01-04T06:23:17Z: CHRCTER ADDED  [ 2403395160] XxJqnellxX           a.k.a. Void                
+2023-01-04T06:23:17Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:23:17Z: CHRCTER ADDED  [   52148212] mikeminecraft00      a.k.a. DrJiM3m3r           
+2023-01-04T06:23:17Z: PLAYER REMOVED [  150689258] boboliten           
+2023-01-04T06:23:20Z: CHRCTER ADDED  [ 2952306920] random_girl12411     a.k.a. Penny               
+2023-01-04T06:23:20Z: PLAYER ADDED   [  150689258] boboliten           
+2023-01-04T06:23:21Z: CHRCTER ADDED  [ 2414780612] Rosiemaxcat          a.k.a. Georgi              
+2023-01-04T06:23:30Z: PLAYER CHATTED [ 1534654194] kiraleapinkypanda    (  -29.0,    45.9,   -54.1)
+  but most wild tigers will not do that
+2023-01-04T06:23:40Z: CHRCTER ADDED  [ 3197081175] Bettina716           a.k.a. HUGGYWUGGY15        
+2023-01-04T06:23:40Z: CHRCTER ADDED  [  705095796] Anitsirk84          
+2023-01-04T06:23:44Z: CHRCTER ADDED  [ 1055464693] jigsawunicorn        a.k.a. Sienna              
+2023-01-04T06:23:56Z: PLAYER CHATTED [ 2852344127] mylittleunicorm123   (  -26.7,    55.2,   -84.2)
+  blue
+2023-01-04T06:24:03Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:24:03Z: CHRCTER ADDED  [ 1534654194] kiraleapinkypanda    a.k.a. Pickles             
+2023-01-04T06:24:03Z: CHRCTER ADDED  [  705095796] Anitsirk84          
+2023-01-04T06:24:03Z: CHRCTER ADDED  [ 2952306920] random_girl12411     a.k.a. Penny               
+2023-01-04T06:24:03Z: CHRCTER ADDED  [ 1055464693] jigsawunicorn        a.k.a. Sienna              
+2023-01-04T06:24:03Z: CHRCTER ADDED  [ 2353554543] LilyMoo282           a.k.a. Why                 
+2023-01-04T06:24:04Z: CHRCTER ADDED  [ 2414780612] Rosiemaxcat          a.k.a. Georgi              
+2023-01-04T06:24:04Z: CHRCTER ADDED  [ 2403395160] XxJqnellxX           a.k.a. Void                
+2023-01-04T06:24:07Z: CHRCTER ADDED  [  705095796] Anitsirk84          
+2023-01-04T06:24:07Z: CHRCTER ADDED  [ 2852344127] mylittleunicorm123   a.k.a. Why                 
+2023-01-04T06:24:08Z: CHRCTER ADDED  [ 2301142537] Mateo010601          a.k.a. ERROR838228         
+2023-01-04T06:24:11Z: PLAYER CHATTED [ 2852344127] mylittleunicorm123   (  -15.1,    45.7,   -23.9)
+  hahaha
+2023-01-04T06:24:14Z: PLAYER REMOVED [ 2403395160] XxJqnellxX           a.k.a. Void                
+2023-01-04T06:24:14Z: PLAYER CHATTED [ 2414780612] Rosiemaxcat          (  -40.0,    46.2,   -29.7)
+  /w kiraleapinkypanda  Well he probably was released from a zoo
+2023-01-04T06:24:20Z: CHRCTER ADDED  [ 2952306920] random_girl12411     a.k.a. Penny               
+2023-01-04T06:24:22Z: PLAYER CHATTED [ 1534654194] kiraleapinkypanda    (  -33.5,    45.9,   -59.3)
+  yeah prob
+2023-01-04T06:24:25Z: CHRCTER ADDED  [ 2952306920] random_girl12411     a.k.a. Penny               
+2023-01-04T06:24:26Z: CHRCTER ADDED  [ 3197081175] Bettina716           a.k.a. HUGGYWUGGY15        
+2023-01-04T06:24:26Z: CHRCTER ADDED  [ 1534654194] kiraleapinkypanda    a.k.a. Pickles             
+2023-01-04T06:24:26Z: CHRCTER ADDED  [ 2301142537] Mateo010601          a.k.a. ERROR838228         
+2023-01-04T06:24:26Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:24:26Z: CHRCTER ADDED  [ 2414780612] Rosiemaxcat          a.k.a. Georgi              
+2023-01-04T06:24:26Z: CHRCTER ADDED  [   52148212] mikeminecraft00      a.k.a. DrJiM3m3r           
+2023-01-04T06:24:26Z: CHRCTER ADDED  [ 2353554543] LilyMoo282           a.k.a. Why                 
+2023-01-04T06:24:30Z: CHRCTER ADDED  [ 3197081175] Bettina716           a.k.a. HUGGYWUGGY15        
+2023-01-04T06:24:30Z: CHRCTER ADDED  [ 3453834680] Casifungirl1        
+2023-01-04T06:24:41Z: PLAYER CHATTED [ 1534654194] kiraleapinkypanda    (  -18.4,    45.9,   -60.0)
+  ### ### GOTTA BE
+2023-01-04T06:24:49Z: CHRCTER ADDED  [ 2301142537] Mateo010601          a.k.a. ERROR838228         
+2023-01-04T06:24:50Z: CHRCTER ADDED  [ 2852344127] mylittleunicorm123   a.k.a. Why                 
+2023-01-04T06:24:51Z: CHRCTER ADDED  [  150689258] boboliten           
+2023-01-04T06:24:52Z: PLAYER CHATTED [ 1534654194] kiraleapinkypanda    (   -8.0,    45.9,   -64.2)
+  LSAY
+2023-01-04T06:24:53Z: CHRCTER ADDED  [ 2353554543] LilyMoo282           a.k.a. Why                 
+2023-01-04T06:24:53Z: CHRCTER ADDED  [ 2952306920] random_girl12411     a.k.a. Penny               
+2023-01-04T06:24:54Z: CHRCTER ADDED  [  705095796] Anitsirk84          
+2023-01-04T06:24:56Z: PLAYER CHATTED [ 1534654194] kiraleapinkypanda    (   -8.0,    45.9,   -64.2)
+  SLAY*
+2023-01-04T06:25:00Z: PLAYER ADDED   [ 3363548197] ilMlGlAlYl          
+2023-01-04T06:25:01Z: PLAYER CHATTED [ 1534654194] kiraleapinkypanda    (   -8.0,    45.9,   -64.2)
+  oops caps
+2023-01-04T06:25:03Z: CHRCTER ADDED  [ 2952306920] random_girl12411     a.k.a. Penny               
+2023-01-04T06:25:11Z: CHRCTER ADDED  [ 3363548197] ilMlGlAlYl          
+2023-01-04T06:25:12Z: CHRCTER ADDED  [ 2301142537] Mateo010601          a.k.a. ERROR838228         
+2023-01-04T06:25:12Z: CHRCTER ADDED  [  150689258] boboliten           
+2023-01-04T06:25:13Z: PLAYER CHATTED [ 3197081175] Bettina716           (  -39.0,    43.8,   -70.3)
+  Huh
+2023-01-04T06:25:13Z: CHRCTER ADDED  [ 2852344127] mylittleunicorm123   a.k.a. Why                 
+2023-01-04T06:25:13Z: CHRCTER ADDED  [ 2414780612] Rosiemaxcat          a.k.a. Georgi              
+2023-01-04T06:25:17Z: CHRCTER ADDED  [ 2026602086] Meverlyfungirl      
+2023-01-04T06:25:18Z: CHRCTER ADDED  [ 3197081175] Bettina716           a.k.a. HUGGYWUGGY15        
+2023-01-04T06:25:25Z: PLAYER REMOVED [ 3363548197] ilMlGlAlYl          
+2023-01-04T06:25:34Z: PLAYER ADDED   [ 4092949611] stevemama102        
+2023-01-04T06:25:35Z: CHRCTER ADDED  [ 1534654194] kiraleapinkypanda    a.k.a. Pickles             
+2023-01-04T06:25:36Z: CHRCTER ADDED  [ 2353554543] LilyMoo282           a.k.a. Why                 
+2023-01-04T06:25:37Z: CHRCTER ADDED  [ 3197081175] Bettina716           a.k.a. HUGGYWUGGY15        
+2023-01-04T06:25:40Z: CHRCTER ADDED  [ 3197081175] Bettina716           a.k.a. HUGGYWUGGY15        
+2023-01-04T06:25:58Z: CHRCTER ADDED  [  705095796] Anitsirk84          
+2023-01-04T06:25:59Z: CHRCTER ADDED  [ 2301142537] Mateo010601          a.k.a. ERROR838228         
+2023-01-04T06:25:59Z: CHRCTER ADDED  [ 1534654194] kiraleapinkypanda    a.k.a. Pickles             
+2023-01-04T06:25:59Z: CHRCTER ADDED  [ 2852344127] mylittleunicorm123   a.k.a. Why                 
+2023-01-04T06:25:59Z: CHRCTER ADDED  [ 1055464693] jigsawunicorn        a.k.a. Sienna              
+2023-01-04T06:25:59Z: CHRCTER ADDED  [ 2353554543] LilyMoo282           a.k.a. Why                 
+2023-01-04T06:26:03Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:26:21Z: CHRCTER ADDED  [ 3453834680] Casifungirl1        
+2023-01-04T06:26:22Z: CHRCTER ADDED  [  705095796] Anitsirk84          
+2023-01-04T06:26:22Z: CHRCTER ADDED  [   52148212] mikeminecraft00      a.k.a. DrJiM3m3r           
+2023-01-04T06:26:22Z: CHRCTER ADDED  [ 2852344127] mylittleunicorm123   a.k.a. Why                 
+2023-01-04T06:26:22Z: CHRCTER ADDED  [ 2353554543] LilyMoo282           a.k.a. Why                 
+2023-01-04T06:26:25Z: CHRCTER ADDED  [  705095796] Anitsirk84          
+2023-01-04T06:26:26Z: CHRCTER ADDED  [ 1534654194] kiraleapinkypanda    a.k.a. Pickles             
+2023-01-04T06:26:26Z: CHRCTER ADDED  [   52148212] mikeminecraft00      a.k.a. DrJiM3m3r           
+2023-01-04T06:26:26Z: CHRCTER ADDED  [ 1055464693] jigsawunicorn        a.k.a. Sienna              
+2023-01-04T06:26:26Z: CHRCTER ADDED  [ 2301142537] Mateo010601          a.k.a. ERROR838228         
+2023-01-04T06:26:41Z: PLAYER CHATTED [ 3197081175] Bettina716           (  -40.7,    43.2,   -57.9)
+  Hawaii is a beautiful place
+2023-01-04T06:26:44Z: CHRCTER ADDED  [ 2026602086] Meverlyfungirl      
+2023-01-04T06:26:45Z: CHRCTER ADDED  [   52148212] mikeminecraft00      a.k.a. DrJiM3m3r           
+2023-01-04T06:26:49Z: CHRCTER ADDED  [  705095796] Anitsirk84          
+2023-01-04T06:27:08Z: CHRCTER ADDED  [ 3197081175] Bettina716           a.k.a. HUGGYWUGGY15        
+2023-01-04T06:27:08Z: CHRCTER ADDED  [ 2852344127] mylittleunicorm123   a.k.a. Why                 
+2023-01-04T06:27:09Z: CHRCTER ADDED  [  150689258] boboliten           
+2023-01-04T06:27:09Z: CHRCTER ADDED  [ 2301142537] Mateo010601          a.k.a. ERROR838228         
+2023-01-04T06:27:09Z: PLAYER CHATTED [ 1534654194] kiraleapinkypanda    (  -31.6,    45.9,   -28.0)
+  Yes
+2023-01-04T06:27:11Z: CHRCTER ADDED  [ 3197081175] Bettina716           a.k.a. HUGGYWUGGY15        
+2023-01-04T06:27:12Z: CHRCTER ADDED  [ 3453834680] Casifungirl1        
+2023-01-04T06:27:19Z: PLAYER CHATTED [ 1534654194] kiraleapinkypanda    (  -31.6,    45.9,   -28.0)
+  I have never been there :(
+2023-01-04T06:27:27Z: PLAYER CHATTED [ 1534654194] kiraleapinkypanda    (  -31.6,    45.9,   -28.0)
+  It looks pretty though
+2023-01-04T06:27:31Z: CHRCTER ADDED  [ 2026602086] Meverlyfungirl      
+2023-01-04T06:27:31Z: CHRCTER ADDED  [ 4092949611] stevemama102        
+2023-01-04T06:27:31Z: CHRCTER ADDED  [ 3197081175] Bettina716           a.k.a. HUGGYWUGGY15        
+2023-01-04T06:27:35Z: CHRCTER ADDED  [ 2952306920] random_girl12411     a.k.a. Penny               
+2023-01-04T06:27:35Z: PLAYER REMOVED [ 1534654194] kiraleapinkypanda    a.k.a. Pickles             
+2023-01-04T06:27:35Z: CHRCTER ADDED  [ 1055464693] jigsawunicorn        a.k.a. Sienna              
+2023-01-04T06:27:38Z: PLAYER CHATTED [ 3197081175] Bettina716           (  -26.7,    56.4,   -84.2)
+  Omg it’s so butful
+2023-01-04T06:27:54Z: CHRCTER ADDED  [  150689258] boboliten           
+2023-01-04T06:27:55Z: CHRCTER ADDED  [ 2852344127] mylittleunicorm123   a.k.a. Why                 
+2023-01-04T06:27:58Z: CHRCTER ADDED  [ 4092949611] stevemama102        
+2023-01-04T06:27:58Z: CHRCTER ADDED  [ 3197081175] Bettina716           a.k.a. HUGGYWUGGY15        
+2023-01-04T06:28:17Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:28:17Z: CHRCTER ADDED  [ 4092949611] stevemama102        
+2023-01-04T06:28:17Z: CHRCTER ADDED  [   52148212] mikeminecraft00      a.k.a. DrJiM3m3r           
+2023-01-04T06:28:17Z: CHRCTER ADDED  [ 2301142537] Mateo010601          a.k.a. ERROR838228         
+2023-01-04T06:28:17Z: CHRCTER ADDED  [ 2414780612] Rosiemaxcat          a.k.a. Georgi              
+2023-01-04T06:28:17Z: CHRCTER ADDED  [  150689258] boboliten           
+2023-01-04T06:28:21Z: CHRCTER ADDED  [ 1055464693] jigsawunicorn        a.k.a. Sienna              
+2023-01-04T06:28:40Z: CHRCTER ADDED  [ 2301142537] Mateo010601          a.k.a. ERROR838228         
+2023-01-04T06:28:40Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:28:40Z: CHRCTER ADDED  [ 2026602086] Meverlyfungirl      
+2023-01-04T06:28:40Z: CHRCTER ADDED  [   52148212] mikeminecraft00      a.k.a. DrJiM3m3r           
+2023-01-04T06:28:44Z: CHRCTER ADDED  [ 2353554543] LilyMoo282           a.k.a. Why                 
+2023-01-04T06:28:47Z: PLAYER ADDED   [ 4188538290] Lordsissim          
+2023-01-04T06:28:56Z: PLAYER REMOVED [ 2026602086] Meverlyfungirl      
+2023-01-04T06:28:57Z: PLAYER ADDED   [ 4032874624] Bri_Briwyt          
+2023-01-04T06:28:58Z: PLAYER REMOVED [ 3453834680] Casifungirl1        
+2023-01-04T06:29:03Z: CHRCTER ADDED  [ 3197081175] Bettina716           a.k.a. HUGGYWUGGY15        
+2023-01-04T06:29:03Z: CHRCTER ADDED  [ 4092949611] stevemama102        
+2023-01-04T06:29:03Z: CHRCTER ADDED  [ 2301142537] Mateo010601          a.k.a. ERROR838228         
+2023-01-04T06:29:03Z: CHRCTER ADDED  [  150689258] boboliten           
+2023-01-04T06:29:04Z: PLAYER CHATTED [ 2414780612] Rosiemaxcat          (  -26.9,    55.7,   -82.7)
+  .?? Is water park
+2023-01-04T06:29:06Z: CHRCTER ADDED  [ 3197081175] Bettina716           a.k.a. HUGGYWUGGY15        
+2023-01-04T06:29:07Z: CHRCTER ADDED  [ 2414780612] Rosiemaxcat          a.k.a. Georgi              
+2023-01-04T06:29:09Z: PLAYER CHATTED [ 1055464693] jigsawunicorn        (  -43.8,    43.3,   -43.4)
+  K
+2023-01-04T06:29:22Z: PLAYER CHATTED [ 2952306920] random_girl12411     (  -17.9,    46.2,   -55.0)
+  Shrimp
+2023-01-04T06:29:26Z: CHRCTER ADDED  [ 2852344127] mylittleunicorm123   a.k.a. Why                 
+2023-01-04T06:29:26Z: CHRCTER ADDED  [ 4092949611] stevemama102        
+2023-01-04T06:29:29Z: CHRCTER ADDED  [ 3197081175] Bettina716           a.k.a. HUGGYWUGGY15        
+2023-01-04T06:29:30Z: CHRCTER ADDED  [ 2301142537] Mateo010601          a.k.a. ERROR838228         
+2023-01-04T06:29:30Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:29:32Z: PLAYER CHATTED [ 4092949611] stevemama102         (  -19.0,    46.0,   -28.3)
+  burh
+2023-01-04T06:29:36Z: PLAYER ADDED   [ 3920170618] bluekoala3D          a.k.a. Happy               
+2023-01-04T06:29:42Z: PLAYER CHATTED [ 2952306920] random_girl12411     (  -27.1,    46.2,   -40.9)
+  None
+2023-01-04T06:29:47Z: PLAYER REMOVED [ 3920170618] bluekoala3D          a.k.a. Happy               
+2023-01-04T06:29:49Z: CHRCTER ADDED  [ 4092949611] stevemama102        
+2023-01-04T06:29:49Z: CHRCTER ADDED  [ 2353554543] LilyMoo282           a.k.a. Why                 
+2023-01-04T06:29:50Z: CHRCTER ADDED  [ 1055464693] jigsawunicorn        a.k.a. Sienna              
+2023-01-04T06:29:51Z: PLAYER ADDED   [ 3590830389] Cutest_197           a.k.a. LUCIANA             
+2023-01-04T06:29:53Z: CHRCTER ADDED  [   52148212] mikeminecraft00      a.k.a. DrJiM3m3r           
+2023-01-04T06:29:54Z: PLAYER CHATTED [ 4092949611] stevemama102         (  -32.8,    46.0,   -22.5)
+  omg
+2023-01-04T06:29:55Z: PLAYER REMOVED [   52148212] mikeminecraft00      a.k.a. DrJiM3m3r           
+2023-01-04T06:29:56Z: PLAYER REMOVED [ 3590830389] Cutest_197           a.k.a. LUCIANA             
+2023-01-04T06:30:03Z: PLAYER REMOVED [  705095796] Anitsirk84          
+2023-01-04T06:30:12Z: CHRCTER ADDED  [ 3197081175] Bettina716           a.k.a. HUGGYWUGGY15        
+2023-01-04T06:30:12Z: CHRCTER ADDED  [ 2852344127] mylittleunicorm123   a.k.a. Why                 
+2023-01-04T06:30:13Z: PLAYER CHATTED [ 2952306920] random_girl12411     (  -29.6,    46.2,   -62.8)
+  Racist 
+2023-01-04T06:30:14Z: PLAYER CHATTED [ 2852344127] mylittleunicorm123   (  -15.9,    45.7,   -29.0)
+  i am wh
+2023-01-04T06:30:14Z: CHRCTER ADDED  [ 4188538290] Lordsissim          
+2023-01-04T06:30:16Z: CHRCTER ADDED  [ 3197081175] Bettina716           a.k.a. HUGGYWUGGY15        
+2023-01-04T06:30:16Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:30:18Z: PLAYER CHATTED [ 2952306920] random_girl12411     (  -27.7,    46.2,   -62.6)
+  That went to red
+2023-01-04T06:30:20Z: PLAYER CHATTED [ 1055464693] jigsawunicorn        (  -26.5,    46.4,   -60.4)
+  RACIST
+2023-01-04T06:30:34Z: PLAYER ADDED   [ 3049722685] Night191910          a.k.a. Notyoutoo           
+2023-01-04T06:30:35Z: CHRCTER ADDED  [ 3197081175] Bettina716           a.k.a. HUGGYWUGGY15        
+2023-01-04T06:30:35Z: CHRCTER ADDED  [  150689258] boboliten           
+2023-01-04T06:30:35Z: CHRCTER ADDED  [ 4092949611] stevemama102        
+2023-01-04T06:30:38Z: CHRCTER ADDED  [ 3197081175] Bettina716           a.k.a. HUGGYWUGGY15        
+2023-01-04T06:30:39Z: CHRCTER ADDED  [ 2301142537] Mateo010601          a.k.a. ERROR838228         
+2023-01-04T06:30:39Z: CHRCTER ADDED  [ 4188538290] Lordsissim          
+2023-01-04T06:30:47Z: PLAYER REMOVED [ 2301142537] Mateo010601          a.k.a. ERROR838228         
+2023-01-04T06:30:49Z: PLAYER CHATTED [ 2852344127] mylittleunicorm123   (  -26.7,    55.2,   -84.2)
+  blue
+2023-01-04T06:30:54Z: PLAYER CHATTED [ 3197081175] Bettina716           (  -15.2,    47.0,   -62.5)
+  Spider man is better
+2023-01-04T06:30:58Z: CHRCTER ADDED  [  150689258] boboliten           
+2023-01-04T06:31:00Z: CHRCTER ADDED  [ 2852344127] mylittleunicorm123   a.k.a. Why                 
+2023-01-04T06:31:02Z: CHRCTER ADDED  [ 2852344127] mylittleunicorm123   a.k.a. Why                 
+2023-01-04T06:31:03Z: CHRCTER ADDED  [ 3197081175] Bettina716           a.k.a. HUGGYWUGGY15        
+2023-01-04T06:31:04Z: CHRCTER ADDED  [ 3049722685] Night191910          a.k.a. Notyoutoo           
+2023-01-04T06:31:07Z: PLAYER REMOVED [ 2852344127] mylittleunicorm123   a.k.a. Why                 
+2023-01-04T06:31:15Z: PLAYER REMOVED [  150689258] boboliten           
+2023-01-04T06:31:20Z: PLAYER CHATTED [ 4032874624] Bri_Briwyt           (   -9.0,    43.4,   -68.9)
+  WA!
+2023-01-04T06:31:21Z: CHRCTER ADDED  [ 3197081175] Bettina716           a.k.a. HUGGYWUGGY15        
+2023-01-04T06:31:21Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:31:21Z: CHRCTER ADDED  [ 4032874624] Bri_Briwyt          
+2023-01-04T06:31:21Z: CHRCTER ADDED  [ 4188538290] Lordsissim          
+2023-01-04T06:31:21Z: CHRCTER ADDED  [ 2414780612] Rosiemaxcat          a.k.a. Georgi              
+2023-01-04T06:31:25Z: CHRCTER ADDED  [ 3197081175] Bettina716           a.k.a. HUGGYWUGGY15        
+2023-01-04T06:31:44Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:31:44Z: CHRCTER ADDED  [ 3197081175] Bettina716           a.k.a. HUGGYWUGGY15        
+2023-01-04T06:31:44Z: CHRCTER ADDED  [ 4092949611] stevemama102        
+2023-01-04T06:31:44Z: CHRCTER ADDED  [ 4188538290] Lordsissim          
+2023-01-04T06:31:44Z: CHRCTER ADDED  [ 1055464693] jigsawunicorn        a.k.a. Sienna              
+2023-01-04T06:31:48Z: CHRCTER ADDED  [ 4032874624] Bri_Briwyt          
+2023-01-04T06:31:51Z: PLAYER REMOVED [ 4032874624] Bri_Briwyt          
+2023-01-04T06:31:53Z: PLAYER ADDED   [ 1885902712] MishaAnicka         
+2023-01-04T06:31:58Z: PLAYER ADDED   [ 1284421975] ZachyMacie          
+2023-01-04T06:32:03Z: CHRCTER ADDED  [ 1284421975] ZachyMacie          
+2023-01-04T06:32:06Z: PLAYER ADDED   [ 3426236414] earazh              
+2023-01-04T06:32:10Z: CHRCTER ADDED  [ 1284421975] ZachyMacie          
+2023-01-04T06:32:10Z: CHRCTER ADDED  [ 3197081175] Bettina716           a.k.a. HUGGYWUGGY15        
+2023-01-04T06:32:11Z: CHRCTER ADDED  [ 1055464693] jigsawunicorn        a.k.a. Sienna              
+2023-01-04T06:32:19Z: PLAYER CHATTED [ 2952306920] random_girl12411     (  -18.1,    46.2,   -54.1)
+  Ew none
+2023-01-04T06:32:22Z: PLAYER CHATTED [ 2353554543] LilyMoo282           (  -44.4,    46.0,   -51.3)
+  SLAY
+2023-01-04T06:32:24Z: PLAYER CHATTED [ 3426236414] earazh               (  -28.0,    46.0,   -51.1)
+  wth
+2023-01-04T06:32:26Z: PLAYER CHATTED [ 4092949611] stevemama102         (  -26.7,    55.5,   -84.2)
+  oh..
+2023-01-04T06:32:30Z: CHRCTER ADDED  [ 4188538290] Lordsissim          
+2023-01-04T06:32:31Z: CHRCTER ADDED  [ 2353554543] LilyMoo282           a.k.a. Why                 
+2023-01-04T06:32:31Z: CHRCTER ADDED  [ 1885902712] MishaAnicka         
+2023-01-04T06:32:34Z: CHRCTER ADDED  [ 4092949611] stevemama102        
+2023-01-04T06:32:36Z: PLAYER CHATTED [ 4092949611] stevemama102         (  -38.6,    46.0,   -24.4)
+  I'm gay
+2023-01-04T06:32:39Z: PLAYER CHATTED [ 1055464693] jigsawunicorn        (  -26.0,    46.4,   -62.1)
+  I pick or
+2023-01-04T06:32:41Z: PLAYER CHATTED [ 2353554543] LilyMoo282           (   -6.4,    46.0,   -62.4)
+  SLAY
+2023-01-04T06:32:43Z: PLAYER CHATTED [ 1055464693] jigsawunicorn        (  -26.2,    46.4,   -62.5)
+  Lol
+2023-01-04T06:32:48Z: PLAYER CHATTED [ 1729037486] lm_garrett           (  -10.0,    43.4,   -60.6)
+  Oop
+2023-01-04T06:32:53Z: CHRCTER ADDED  [ 3197081175] Bettina716           a.k.a. HUGGYWUGGY15        
+2023-01-04T06:32:54Z: CHRCTER ADDED  [ 2414780612] Rosiemaxcat          a.k.a. Georgi              
+2023-01-04T06:32:54Z: CHRCTER ADDED  [ 2353554543] LilyMoo282           a.k.a. Why                 
+2023-01-04T06:32:58Z: CHRCTER ADDED  [ 3426236414] earazh              
+2023-01-04T06:32:58Z: PLAYER ADDED   [ 3994580414] deandafi            
+2023-01-04T06:32:59Z: CHRCTER ADDED  [ 1284421975] ZachyMacie          
+2023-01-04T06:33:08Z: PLAYER CHATTED [ 4188538290] Lordsissim           (  -36.4,    46.0,   -25.2)
+  0-0
+2023-01-04T06:33:09Z: PLAYER ADDED   [ 3626637385] PingPing_PurpleDalo  a.k.a. Kyi                 
+2023-01-04T06:33:14Z: PLAYER ADDED   [ 3917346883] gigaming_019        
+2023-01-04T06:33:16Z: CHRCTER ADDED  [ 4188538290] Lordsissim          
+2023-01-04T06:33:17Z: CHRCTER ADDED  [ 1885902712] MishaAnicka         
+2023-01-04T06:33:20Z: PLAYER REMOVED [ 1284421975] ZachyMacie          
+2023-01-04T06:33:21Z: CHRCTER ADDED  [ 3917346883] gigaming_019        
+2023-01-04T06:33:21Z: CHRCTER ADDED  [ 2353554543] LilyMoo282           a.k.a. Why                 
+2023-01-04T06:33:25Z: PLAYER ADDED   [ 1513334917] Fire_King906        
+2023-01-04T06:33:33Z: PLAYER ADDED   [ 1511530390] iiLostcharbear      
+2023-01-04T06:33:39Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:33:39Z: CHRCTER ADDED  [ 3197081175] Bettina716           a.k.a. HUGGYWUGGY15        
+2023-01-04T06:33:40Z: CHRCTER ADDED  [ 1055464693] jigsawunicorn        a.k.a. Sienna              
+2023-01-04T06:33:40Z: CHRCTER ADDED  [ 2414780612] Rosiemaxcat          a.k.a. Georgi              
+2023-01-04T06:33:40Z: CHRCTER ADDED  [ 3626637385] PingPing_PurpleDalo  a.k.a. Kyi                 
+2023-01-04T06:33:41Z: CHRCTER ADDED  [ 2952306920] random_girl12411     a.k.a. Penny               
+2023-01-04T06:33:44Z: CHRCTER ADDED  [ 3049722685] Night191910          a.k.a. Notyoutoo           
+2023-01-04T06:33:44Z: CHRCTER ADDED  [ 3197081175] Bettina716           a.k.a. HUGGYWUGGY15        
+2023-01-04T06:33:58Z: CHRCTER ADDED  [ 3917346883] gigaming_019        
+2023-01-04T06:34:03Z: CHRCTER ADDED  [ 4092949611] stevemama102        
+2023-01-04T06:34:03Z: CHRCTER ADDED  [ 3994580414] deandafi            
+2023-01-04T06:34:07Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:34:13Z: PLAYER CHATTED [ 3197081175] Bettina716           (  -25.1,    47.0,   -63.6)
+  Uhhhhh
+2023-01-04T06:34:26Z: CHRCTER ADDED  [ 4188538290] Lordsissim          
+2023-01-04T06:34:26Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:34:26Z: CHRCTER ADDED  [ 3426236414] earazh              
+2023-01-04T06:34:27Z: CHRCTER ADDED  [ 1885902712] MishaAnicka         
+2023-01-04T06:34:29Z: CHRCTER ADDED  [ 3197081175] Bettina716           a.k.a. HUGGYWUGGY15        
+2023-01-04T06:34:30Z: CHRCTER ADDED  [ 2414780612] Rosiemaxcat          a.k.a. Georgi              
+2023-01-04T06:34:31Z: CHRCTER ADDED  [ 1511530390] iiLostcharbear      
+2023-01-04T06:34:33Z: PLAYER CHATTED [ 2414780612] Rosiemaxcat          (  -33.2,    46.2,   -33.5)
+  Hahahahaha
+2023-01-04T06:34:37Z: CHRCTER ADDED  [ 3917346883] gigaming_019        
+2023-01-04T06:34:38Z: PLAYER CHATTED [ 2353554543] LilyMoo282           (   -4.6,    46.0,   -46.9)
+  ####
+2023-01-04T06:34:41Z: PLAYER REMOVED [ 2414780612] Rosiemaxcat          a.k.a. Georgi              
+2023-01-04T06:34:43Z: PLAYER CHATTED [ 2353554543] LilyMoo282           (    2.0,    46.0,   -45.0)
+  ....
+2023-01-04T06:34:46Z: CHRCTER ADDED  [ 3917346883] gigaming_019        
+2023-01-04T06:34:48Z: CHRCTER ADDED  [ 3197081175] Bettina716           a.k.a. HUGGYWUGGY15        
+2023-01-04T06:34:49Z: CHRCTER ADDED  [ 4092949611] stevemama102        
+2023-01-04T06:34:49Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:34:49Z: CHRCTER ADDED  [ 3994580414] deandafi            
+2023-01-04T06:34:52Z: CHRCTER ADDED  [ 3197081175] Bettina716           a.k.a. HUGGYWUGGY15        
+2023-01-04T06:34:53Z: CHRCTER ADDED  [ 2952306920] random_girl12411     a.k.a. Penny               
+2023-01-04T06:34:57Z: PLAYER REMOVED [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:34:59Z: PLAYER CHATTED [ 4092949611] stevemama102         (  -27.5,    55.5,   -81.5)
+  have 
+2023-01-04T06:35:09Z: PLAYER CHATTED [ 1055464693] jigsawunicorn        (  -26.4,    46.4,   -61.9)
+  I have both so or
+2023-01-04T06:35:12Z: CHRCTER ADDED  [ 1885902712] MishaAnicka         
+2023-01-04T06:35:12Z: CHRCTER ADDED  [ 3626637385] PingPing_PurpleDalo  a.k.a. Kyi                 
+2023-01-04T06:35:12Z: CHRCTER ADDED  [ 3917346883] gigaming_019        
+2023-01-04T06:35:13Z: CHRCTER ADDED  [ 3197081175] Bettina716           a.k.a. HUGGYWUGGY15        
+2023-01-04T06:35:16Z: CHRCTER ADDED  [ 4092949611] stevemama102        
+2023-01-04T06:35:17Z: PLAYER CHATTED [ 1055464693] jigsawunicorn        (  -26.4,    46.4,   -61.9)
+  I want a sister or brother
+2023-01-04T06:35:18Z: PLAYER CHATTED [ 1055464693] jigsawunicorn        (  -26.4,    46.4,   -61.9)
+  Lol
+2023-01-04T06:35:23Z: PLAYER CHATTED [ 3426236414] earazh               (  -15.0,    46.0,   -59.6)
+  mother who gave birth to us 
+2023-01-04T06:35:26Z: PLAYER CHATTED [ 1055464693] jigsawunicorn        (  -21.2,    46.4,   -66.5)
+  Girls bro
+2023-01-04T06:35:29Z: PLAYER CHATTED [ 1055464693] jigsawunicorn        (  -21.2,    46.4,   -66.5)
+  They slay more
+2023-01-04T06:35:35Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:35:35Z: CHRCTER ADDED  [ 1511530390] iiLostcharbear      
+2023-01-04T06:35:35Z: CHRCTER ADDED  [ 3626637385] PingPing_PurpleDalo  a.k.a. Kyi                 
+2023-01-04T06:35:36Z: CHRCTER ADDED  [ 3426236414] earazh              
+2023-01-04T06:35:39Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:35:39Z: PLAYER CHATTED [ 3917346883] gigaming_019         (  -16.7,    46.0,   -57.4)
+  lol
+2023-01-04T06:35:39Z: CHRCTER ADDED  [ 3197081175] Bettina716           a.k.a. HUGGYWUGGY15        
+2023-01-04T06:35:39Z: PLAYER CHATTED [ 3426236414] earazh               (  -22.8,    46.0,   -28.0)
+  wthf
+2023-01-04T06:35:45Z: PLAYER CHATTED [ 1885902712] MishaAnicka          (  -16.6,    45.9,   -67.3)
+  girls for ever
+2023-01-04T06:35:47Z: PLAYER CHATTED [ 3197081175] Bettina716           (  -19.9,    47.0,   -24.1)
+  Who likes boys.
+2023-01-04T06:35:58Z: CHRCTER ADDED  [ 1511530390] iiLostcharbear      
+2023-01-04T06:35:58Z: CHRCTER ADDED  [ 4188538290] Lordsissim          
+2023-01-04T06:35:58Z: CHRCTER ADDED  [ 3994580414] deandafi            
+2023-01-04T06:36:00Z: PLAYER CHATTED [ 3917346883] gigaming_019         (  -40.2,    46.0,   -45.5)
+  girls
+2023-01-04T06:36:02Z: CHRCTER ADDED  [ 2353554543] LilyMoo282           a.k.a. Why                 
+2023-01-04T06:36:21Z: CHRCTER ADDED  [ 3994580414] deandafi            
+2023-01-04T06:36:25Z: CHRCTER ADDED  [ 3917346883] gigaming_019        
+2023-01-04T06:36:30Z: PLAYER ADDED   [  911970410] sgrader85            a.k.a. Avery               
+2023-01-04T06:36:44Z: CHRCTER ADDED  [ 1511530390] iiLostcharbear      
+2023-01-04T06:36:46Z: CHRCTER ADDED  [ 3197081175] Bettina716           a.k.a. HUGGYWUGGY15        
+2023-01-04T06:36:48Z: CHRCTER ADDED  [ 4188538290] Lordsissim          
+2023-01-04T06:36:48Z: PLAYER ADDED   [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:36:50Z: PLAYER CHATTED [ 3426236414] earazh               (  -30.9,    46.0,   -58.5)
+  can u guys do not fight
+2023-01-04T06:36:58Z: CHRCTER ADDED  [ 3626637385] PingPing_PurpleDalo  a.k.a. Kyi                 
+2023-01-04T06:37:04Z: PLAYER CHATTED [ 3426236414] earazh               (  -36.0,    46.0,   -59.5)
+  speak every language
+2023-01-04T06:37:07Z: CHRCTER ADDED  [ 3197081175] Bettina716           a.k.a. HUGGYWUGGY15        
+2023-01-04T06:37:07Z: CHRCTER ADDED  [ 1511530390] iiLostcharbear      
+2023-01-04T06:37:07Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:37:07Z: CHRCTER ADDED  [ 3917346883] gigaming_019        
+2023-01-04T06:37:07Z: CHRCTER ADDED  [ 3994580414] deandafi            
+2023-01-04T06:37:08Z: CHRCTER ADDED  [ 3426236414] earazh              
+2023-01-04T06:37:08Z: CHRCTER ADDED  [ 3049722685] Night191910          a.k.a. Notyoutoo           
+2023-01-04T06:37:08Z: CHRCTER ADDED  [ 3626637385] PingPing_PurpleDalo  a.k.a. Kyi                 
+2023-01-04T06:37:10Z: PLAYER CHATTED [ 3626637385] PingPing_PurpleDalo  (  -18.5,    46.0,   -22.8)
+  WHAT
+2023-01-04T06:37:11Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:37:11Z: CHRCTER ADDED  [ 1885902712] MishaAnicka         
+2023-01-04T06:37:12Z: CHRCTER ADDED  [ 2952306920] random_girl12411     a.k.a. Penny               
+2023-01-04T06:37:19Z: PLAYER CHATTED [ 3626637385] PingPing_PurpleDalo  (  -23.9,    55.5,   -83.2)
+  SJDVHSHV
+2023-01-04T06:37:21Z: PLAYER REMOVED [ 3197081175] Bettina716           a.k.a. HUGGYWUGGY15        
+2023-01-04T06:37:21Z: PLAYER CHATTED [ 3626637385] PingPing_PurpleDalo  (  -23.9,    55.5,   -83.2)
+  TAGS
+2023-01-04T06:37:29Z: PLAYER CHATTED [ 1885902712] MishaAnicka          (  -16.2,    45.9,   -28.2)
+  good job Dime and avery
+2023-01-04T06:37:30Z: CHRCTER ADDED  [ 1511530390] iiLostcharbear      
+2023-01-04T06:37:30Z: CHRCTER ADDED  [ 3917346883] gigaming_019        
+2023-01-04T06:37:30Z: CHRCTER ADDED  [ 3994580414] deandafi            
+2023-01-04T06:37:30Z: CHRCTER ADDED  [ 3049722685] Night191910          a.k.a. Notyoutoo           
+2023-01-04T06:37:33Z: PLAYER CHATTED [ 4092949611] stevemama102         (  -19.9,    46.0,   -51.6)
+  😃😄😁😅🙂😐😔p
+2023-01-04T06:37:33Z: PLAYER CHATTED [ 3426236414] earazh               (  -25.0,    46.0,   -53.3)
+  speak all language is better 👺😑
+2023-01-04T06:37:34Z: CHRCTER ADDED  [ 3626637385] PingPing_PurpleDalo  a.k.a. Kyi                 
+2023-01-04T06:37:46Z: PLAYER CHATTED [ 4092949611] stevemama102         (  -19.4,    46.0,   -52.6)
+  Q
+2023-01-04T06:37:57Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:37:59Z: PLAYER CHATTED [ 3917346883] gigaming_019         (  -28.8,    46.0,   -27.2)
+  bruh u can talk to everyone in every country
+2023-01-04T06:38:08Z: PLAYER REMOVED [ 4188538290] Lordsissim          
+2023-01-04T06:38:09Z: PLAYER ADDED   [  545511521] osbyphoenix          a.k.a. Messi               
+2023-01-04T06:38:18Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:38:18Z: PLAYER REMOVED [  911970410] sgrader85            a.k.a. Avery               
+2023-01-04T06:38:18Z: PLAYER CHATTED [ 3049722685] Night191910          (  -26.5,    46.4,   -62.3)
+  or
+2023-01-04T06:38:20Z: CHRCTER ADDED  [ 1511530390] iiLostcharbear      
+2023-01-04T06:38:21Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:38:32Z: PLAYER CHATTED [ 1885902712] MishaAnicka          (  -18.6,    45.9,   -62.5)
+  i already cab
+2023-01-04T06:38:36Z: PLAYER ADDED   [ 4161582867] Erickcakebake2020   
+2023-01-04T06:38:37Z: PLAYER CHATTED [ 1885902712] MishaAnicka          (  -17.5,    45.9,   -63.7)
+  can
+2023-01-04T06:38:39Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:38:43Z: CHRCTER ADDED  [ 1511530390] iiLostcharbear      
+2023-01-04T06:38:43Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:38:43Z: CHRCTER ADDED  [ 3049722685] Night191910          a.k.a. Notyoutoo           
+2023-01-04T06:38:45Z: CHRCTER ADDED  [ 4161582867] Erickcakebake2020   
+2023-01-04T06:38:47Z: PLAYER ADDED   [ 3766768592] kasycasecake2020    
+2023-01-04T06:38:52Z: PLAYER REMOVED [  545511521] osbyphoenix          a.k.a. Messi               
+2023-01-04T06:38:54Z: CHRCTER ADDED  [ 4161582867] Erickcakebake2020   
+2023-01-04T06:38:59Z: PLAYER CHATTED [ 3917346883] gigaming_019         (  -33.0,    46.0,   -61.8)
+  treasure
+2023-01-04T06:39:02Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:39:02Z: CHRCTER ADDED  [ 1055464693] jigsawunicorn        a.k.a. Sienna              
+2023-01-04T06:39:02Z: CHRCTER ADDED  [ 4092949611] stevemama102        
+2023-01-04T06:39:03Z: CHRCTER ADDED  [ 3626637385] PingPing_PurpleDalo  a.k.a. Kyi                 
+2023-01-04T06:39:03Z: CHRCTER ADDED  [ 3994580414] deandafi            
+2023-01-04T06:39:06Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:39:06Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:39:09Z: PLAYER CHATTED [ 3917346883] gigaming_019         (  -33.7,    45.7,   -62.1)
+  u can keep treasure u know
+2023-01-04T06:39:13Z: PLAYER CHATTED [ 4092949611] stevemama102         (  -26.7,    55.5,   -84.2)
+  ######################################
+2023-01-04T06:39:15Z: CHRCTER ADDED  [ 4161582867] Erickcakebake2020   
+2023-01-04T06:39:21Z: PLAYER CHATTED [ 1885902712] MishaAnicka          (  -38.2,    45.9,   -56.5)
+  Girlsssss!!!
+2023-01-04T06:39:25Z: CHRCTER ADDED  [ 2952306920] random_girl12411     a.k.a. Penny               
+2023-01-04T06:39:26Z: CHRCTER ADDED  [ 1885902712] MishaAnicka         
+2023-01-04T06:39:29Z: CHRCTER ADDED  [ 4092949611] stevemama102        
+2023-01-04T06:39:30Z: PLAYER CHATTED [ 3917346883] gigaming_019         (  -17.6,    46.0,   -64.0)
+  HAHAHAAHAHAHAHAAHA
+2023-01-04T06:39:31Z: CHRCTER ADDED  [ 2353554543] LilyMoo282           a.k.a. Why                 
+2023-01-04T06:39:31Z: PLAYER CHATTED [ 3426236414] earazh               (  -21.0,    46.0,   -53.3)
+  HAHAHHAHAHAHAHHAHAHAHAHHAHAHAHHAHAHAHA
+2023-01-04T06:39:33Z: PLAYER REMOVED [ 1055464693] jigsawunicorn        a.k.a. Sienna              
+2023-01-04T06:39:37Z: PLAYER CHATTED [ 3426236414] earazh               (  -24.1,    46.0,   -52.7)
+  LOLLL
+2023-01-04T06:39:44Z: PLAYER CHATTED [ 3626637385] PingPing_PurpleDalo  (  -48.3,    46.0,   -61.5)
+  MONEY
+2023-01-04T06:39:48Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:39:50Z: CHRCTER ADDED  [ 1885902712] MishaAnicka         
+2023-01-04T06:39:51Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:39:52Z: CHRCTER ADDED  [ 2353554543] LilyMoo282           a.k.a. Why                 
+2023-01-04T06:39:56Z: PLAYER CHATTED [ 1885902712] MishaAnicka          (  -23.3,    45.9,   -30.3)
+  wha-
+2023-01-04T06:39:57Z: PLAYER ADDED   [ 3874566339] Jasomalbaloul       
+2023-01-04T06:40:02Z: CHRCTER ADDED  [ 3426236414] earazh              
+2023-01-04T06:40:03Z: CHRCTER ADDED  [ 3874566339] Jasomalbaloul       
+2023-01-04T06:40:08Z: PLAYER CHATTED [ 3917346883] gigaming_019         (  -18.7,    46.0,   -63.3)
+  money cuz u CAN BUY CARS LIKE SPORTS CARRRR
+2023-01-04T06:40:11Z: CHRCTER ADDED  [ 3766768592] kasycasecake2020    
+2023-01-04T06:40:11Z: CHRCTER ADDED  [ 2952306920] random_girl12411     a.k.a. Penny               
+2023-01-04T06:40:11Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:40:12Z: CHRCTER ADDED  [ 4161582867] Erickcakebake2020   
+2023-01-04T06:40:12Z: CHRCTER ADDED  [ 3874566339] Jasomalbaloul       
+2023-01-04T06:40:13Z: CHRCTER ADDED  [ 3994580414] deandafi            
+2023-01-04T06:40:15Z: PLAYER REMOVED [ 2353554543] LilyMoo282           a.k.a. Why                 
+2023-01-04T06:40:15Z: CHRCTER ADDED  [ 1511530390] iiLostcharbear      
+2023-01-04T06:40:18Z: PLAYER CHATTED [ 3917346883] gigaming_019         (  -18.7,    46.0,   -63.3)
+  I likencherrys
+2023-01-04T06:40:25Z: PLAYER ADDED   [ 2299491670] crawby21             a.k.a. Patrick             
+2023-01-04T06:40:26Z: CHRCTER ADDED  [ 2952306920] random_girl12411     a.k.a. Penny               
+2023-01-04T06:40:30Z: PLAYER CHATTED [ 3917346883] gigaming_019         (  -30.7,    46.0,   -62.3)
+  i want god
+2023-01-04T06:40:31Z: CHRCTER ADDED  [ 2299491670] crawby21             a.k.a. Patrick             
+2023-01-04T06:40:32Z: PLAYER CHATTED [ 3426236414] earazh               (  -35.5,    46.0,   -57.7)
+  what is this
+2023-01-04T06:40:34Z: CHRCTER ADDED  [ 4161582867] Erickcakebake2020   
+2023-01-04T06:40:34Z: CHRCTER ADDED  [ 3917346883] gigaming_019        
+2023-01-04T06:40:35Z: CHRCTER ADDED  [ 1885902712] MishaAnicka         
+2023-01-04T06:40:36Z: CHRCTER ADDED  [ 3426236414] earazh              
+2023-01-04T06:40:38Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:40:39Z: CHRCTER ADDED  [ 2952306920] random_girl12411     a.k.a. Penny               
+2023-01-04T06:40:40Z: CHRCTER ADDED  [ 2299491670] crawby21             a.k.a. Patrick             
+2023-01-04T06:40:42Z: PLAYER CHATTED [ 3917346883] gigaming_019         (  -26.7,    55.5,   -84.2)
+  WHATTTTTTTT4TTTT
+2023-01-04T06:40:43Z: CHRCTER ADDED  [ 2299491670] crawby21             a.k.a. Patrick             
+2023-01-04T06:40:47Z: PLAYER CHATTED [ 3426236414] earazh               (  -21.4,    46.0,   -49.7)
+  #######
+2023-01-04T06:40:51Z: PLAYER CHATTED [ 3626637385] PingPing_PurpleDalo  (  -17.0,    46.0,   -65.2)
+  i like skateboards
+2023-01-04T06:40:57Z: PLAYER CHATTED [ 3626637385] PingPing_PurpleDalo  (  -17.0,    46.0,   -65.2)
+  its my hobby
+2023-01-04T06:40:57Z: PLAYER REMOVED [ 2952306920] random_girl12411     a.k.a. Penny               
+2023-01-04T06:40:57Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:40:58Z: CHRCTER ADDED  [ 3994580414] deandafi            
+2023-01-04T06:40:58Z: CHRCTER ADDED  [ 3626637385] PingPing_PurpleDalo  a.k.a. Kyi                 
+2023-01-04T06:40:58Z: CHRCTER ADDED  [ 4161582867] Erickcakebake2020   
+2023-01-04T06:41:02Z: CHRCTER ADDED  [ 3917346883] gigaming_019        
+2023-01-04T06:41:02Z: CHRCTER ADDED  [ 2299491670] crawby21             a.k.a. Patrick             
+2023-01-04T06:41:10Z: PLAYER ADDED   [ 2952306920] random_girl12411     a.k.a. Penny               
+2023-01-04T06:41:15Z: PLAYER CHATTED [ 1885902712] MishaAnicka          (  -37.0,    45.9,   -58.9)
+  idc if i die
+2023-01-04T06:41:20Z: CHRCTER ADDED  [ 2299491670] crawby21             a.k.a. Patrick             
+2023-01-04T06:41:20Z: PLAYER CHATTED [ 3426236414] earazh               (  -34.6,    46.0,   -61.2)
+  i like to read book
+2023-01-04T06:41:21Z: CHRCTER ADDED  [ 4161582867] Erickcakebake2020   
+2023-01-04T06:41:21Z: CHRCTER ADDED  [ 3626637385] PingPing_PurpleDalo  a.k.a. Kyi                 
+2023-01-04T06:41:21Z: CHRCTER ADDED  [ 3874566339] Jasomalbaloul       
+2023-01-04T06:41:21Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:41:22Z: CHRCTER ADDED  [ 3766768592] kasycasecake2020    
+2023-01-04T06:41:24Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:41:25Z: CHRCTER ADDED  [ 3994580414] deandafi            
+2023-01-04T06:41:26Z: PLAYER CHATTED [ 1885902712] MishaAnicka          (  -37.2,    45.9,   -58.8)
+  yeah
+2023-01-04T06:41:43Z: CHRCTER ADDED  [ 2299491670] crawby21             a.k.a. Patrick             
+2023-01-04T06:41:48Z: CHRCTER ADDED  [ 3426236414] earazh              
+2023-01-04T06:41:52Z: PLAYER CHATTED [ 1885902712] MishaAnicka          (  -13.4,    45.9,   -64.5)
+  if your famouse you get money right
+2023-01-04T06:42:07Z: CHRCTER ADDED  [ 4092949611] stevemama102        
+2023-01-04T06:42:07Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:42:07Z: CHRCTER ADDED  [ 2299491670] crawby21             a.k.a. Patrick             
+2023-01-04T06:42:07Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:42:07Z: CHRCTER ADDED  [ 3994580414] deandafi            
+2023-01-04T06:42:07Z: CHRCTER ADDED  [ 3874566339] Jasomalbaloul       
+2023-01-04T06:42:08Z: CHRCTER ADDED  [ 4161582867] Erickcakebake2020   
+2023-01-04T06:42:10Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:42:13Z: CHRCTER ADDED  [ 3766768592] kasycasecake2020    
+2023-01-04T06:42:22Z: PLAYER CHATTED [ 3766768592] kasycasecake2020     (  -37.2,    46.2,   -24.1)
+  I hate brothers
+2023-01-04T06:42:25Z: CHRCTER ADDED  [ 2952306920] random_girl12411     a.k.a. Penny               
+2023-01-04T06:42:29Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:42:30Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:42:34Z: PLAYER CHATTED [ 3766768592] kasycasecake2020     (  -37.2,    46.2,   -24.1)
+  there annoying 
+2023-01-04T06:42:34Z: CHRCTER ADDED  [ 2952306920] random_girl12411     a.k.a. Penny               
+2023-01-04T06:42:35Z: CHRCTER ADDED  [ 4092949611] stevemama102        
+2023-01-04T06:42:35Z: CHRCTER ADDED  [ 3626637385] PingPing_PurpleDalo  a.k.a. Kyi                 
+2023-01-04T06:42:35Z: CHRCTER ADDED  [ 3917346883] gigaming_019        
+2023-01-04T06:42:35Z: CHRCTER ADDED  [ 3994580414] deandafi            
+2023-01-04T06:42:35Z: CHRCTER ADDED  [ 3874566339] Jasomalbaloul       
+2023-01-04T06:42:35Z: CHRCTER ADDED  [ 1885902712] MishaAnicka         
+2023-01-04T06:42:35Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:42:35Z: CHRCTER ADDED  [ 3049722685] Night191910          a.k.a. Notyoutoo           
+2023-01-04T06:42:38Z: PLAYER CHATTED [ 4092949611] stevemama102         (  -16.7,    46.0,   -25.9)
+  NO
+2023-01-04T06:42:47Z: PLAYER CHATTED [ 3626637385] PingPing_PurpleDalo  (  -27.5,    55.5,   -81.6)
+  UGH TAGS AGAIN
+2023-01-04T06:42:50Z: PLAYER CHATTED [ 3626637385] PingPing_PurpleDalo  (  -27.5,    55.5,   -81.6)
+  UGH TAGS AGAIN
+2023-01-04T06:42:53Z: CHRCTER ADDED  [ 3766768592] kasycasecake2020    
+2023-01-04T06:42:53Z: CHRCTER ADDED  [ 4161582867] Erickcakebake2020   
+2023-01-04T06:42:55Z: CHRCTER ADDED  [ 1885902712] MishaAnicka         
+2023-01-04T06:42:56Z: CHRCTER ADDED  [ 3994580414] deandafi            
+2023-01-04T06:42:56Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:42:57Z: CHRCTER ADDED  [ 3626637385] PingPing_PurpleDalo  a.k.a. Kyi                 
+2023-01-04T06:42:57Z: PLAYER CHATTED [ 3917346883] gigaming_019         (  -21.2,    46.0,   -60.8)
+  hehehehe
+2023-01-04T06:42:58Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:43:11Z: CHRCTER ADDED  [ 3874566339] Jasomalbaloul       
+2023-01-04T06:43:16Z: PLAYER CHATTED [ 4092949611] stevemama102         (  -22.2,    46.0,   -28.5)
+  sis annoying 
+2023-01-04T06:43:16Z: CHRCTER ADDED  [ 3917346883] gigaming_019        
+2023-01-04T06:43:21Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:43:21Z: CHRCTER ADDED  [ 2299491670] crawby21             a.k.a. Patrick             
+2023-01-04T06:43:28Z: PLAYER REMOVED [ 2299491670] crawby21             a.k.a. Patrick             
+2023-01-04T06:43:37Z: CHRCTER ADDED  [ 2952306920] random_girl12411     a.k.a. Penny               
+2023-01-04T06:43:39Z: CHRCTER ADDED  [ 3766768592] kasycasecake2020    
+2023-01-04T06:43:39Z: CHRCTER ADDED  [ 3994580414] deandafi            
+2023-01-04T06:43:40Z: CHRCTER ADDED  [ 3917346883] gigaming_019        
+2023-01-04T06:43:43Z: CHRCTER ADDED  [ 2952306920] random_girl12411     a.k.a. Penny               
+2023-01-04T06:43:48Z: CHRCTER ADDED  [ 3626637385] PingPing_PurpleDalo  a.k.a. Kyi                 
+2023-01-04T06:43:54Z: PLAYER CHATTED [ 3426236414] earazh               (  -42.1,    46.0,   -57.9)
+  1 mil subs can get u money, and the with the money u can buy robux :))
+2023-01-04T06:44:03Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:44:07Z: CHRCTER ADDED  [ 3049722685] Night191910          a.k.a. Notyoutoo           
+2023-01-04T06:44:10Z: PLAYER CHATTED [ 3917346883] gigaming_019         (  -32.2,    46.0,   -56.2)
+  FINNQLY
+2023-01-04T06:44:12Z: PLAYER REMOVED [ 3874566339] Jasomalbaloul       
+2023-01-04T06:44:28Z: CHRCTER ADDED  [ 3766768592] kasycasecake2020    
+2023-01-04T06:44:28Z: CHRCTER ADDED  [ 2952306920] random_girl12411     a.k.a. Penny               
+2023-01-04T06:44:28Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:44:28Z: CHRCTER ADDED  [ 4092949611] stevemama102        
+2023-01-04T06:44:28Z: CHRCTER ADDED  [ 3426236414] earazh              
+2023-01-04T06:44:28Z: CHRCTER ADDED  [ 3626637385] PingPing_PurpleDalo  a.k.a. Kyi                 
+2023-01-04T06:44:29Z: PLAYER CHATTED [ 3766768592] kasycasecake2020     (  -20.3,    46.2,   -25.2)
+  the less you fight
+2023-01-04T06:44:29Z: CHRCTER ADDED  [ 1885902712] MishaAnicka         
+2023-01-04T06:44:35Z: PLAYER CHATTED [ 3917346883] gigaming_019         (  -42.5,    46.0,   -60.4)
+  samurais are harder
+2023-01-04T06:44:35Z: PLAYER REMOVED [ 3626637385] PingPing_PurpleDalo  a.k.a. Kyi                 
+2023-01-04T06:44:44Z: PLAYER CHATTED [ 2952306920] random_girl12411     (  -23.2,    46.2,   -52.0)
+  Mine is already brown
+2023-01-04T06:44:50Z: PLAYER CHATTED [ 3917346883] gigaming_019         (  -20.5,    46.0,   -59.8)
+  yes
+2023-01-04T06:44:52Z: CHRCTER ADDED  [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:44:53Z: CHRCTER ADDED  [ 3049722685] Night191910          a.k.a. Notyoutoo           
+2023-01-04T06:44:57Z: PLAYER ADDED   [ 2301142537] Mateo010601          a.k.a. ERROR838228         
+2023-01-04T06:45:00Z: PLAYER REMOVED [ 2952306920] random_girl12411     a.k.a. Penny               
+2023-01-04T06:45:11Z: CHRCTER ADDED  [ 1511530390] iiLostcharbear      
+2023-01-04T06:45:11Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:45:11Z: CHRCTER ADDED  [ 3994580414] deandafi            
+2023-01-04T06:45:11Z: CHRCTER ADDED  [ 3049722685] Night191910          a.k.a. Notyoutoo           
+2023-01-04T06:45:13Z: PLAYER CHATTED [ 3426236414] earazh               (  -18.7,    46.0,   -59.2)
+  brown skin comment
+2023-01-04T06:45:13Z: PLAYER CHATTED [ 3426236414] earazh               (  -18.7,    46.0,   -59.2)
+  brown skin  comment
+2023-01-04T06:45:15Z: CHRCTER ADDED  [ 3766768592] kasycasecake2020    
+2023-01-04T06:45:15Z: PLAYER CHATTED [ 3917346883] gigaming_019         (  -23.1,    46.0,   -69.2)
+  I want to get Ohio final boss power
+2023-01-04T06:45:21Z: PLAYER ADDED   [ 4029601375] SakuraYuking         a.k.a. SakuraMochi         
+2023-01-04T06:45:32Z: PLAYER CHATTED [ 3426236414] earazh               (  -20.9,    46.0,   -56.5)
+  down in ohio
+2023-01-04T06:45:34Z: PLAYER REMOVED [ 1729037486] lm_garrett           a.k.a. Dime                
+2023-01-04T06:45:34Z: CHRCTER ADDED  [ 3994580414] deandafi            
+2023-01-04T06:45:36Z: CHRCTER ADDED  [ 3917346883] gigaming_019        
+2023-01-04T06:45:38Z: CHRCTER ADDED  [ 4092949611] stevemama102        
+2023-01-04T06:45:40Z: PLAYER CHATTED [ 1885902712] MishaAnicka          (  -16.8,    45.9,   -55.6)
+  yayayyy
+2023-01-04T06:45:42Z: PLAYER CHATTED [ 3426236414] earazh               (  -21.3,    46.0,   -56.1)
+  swag like ohi-
+2023-01-04T06:45:46Z: PLAYER CHATTED [ 3426236414] earazh               (  -22.5,    46.0,   -57.1)
+  nvm
+2023-01-04T06:45:50Z: PLAYER CHATTED [ 3917346883] gigaming_019         (  -22.6,    46.0,   -60.4)
+  ragdoll
+2023-01-04T06:45:56Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:45:57Z: CHRCTER ADDED  [ 3766768592] kasycasecake2020    
+2023-01-04T06:45:57Z: CHRCTER ADDED  [ 3917346883] gigaming_019        
+2023-01-04T06:45:57Z: CHRCTER ADDED  [ 3049722685] Night191910          a.k.a. Notyoutoo           
+2023-01-04T06:45:58Z: CHRCTER ADDED  [ 1885902712] MishaAnicka         
+2023-01-04T06:46:01Z: CHRCTER ADDED  [ 4029601375] SakuraYuking         a.k.a. SakuraMochi         
+2023-01-04T06:46:04Z: PLAYER CHATTED [ 3917346883] gigaming_019         (  -36.8,    46.0,   -30.6)
+  Brookhaven worst
+2023-01-04T06:46:08Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:46:11Z: PLAYER REMOVED [ 4161582867] Erickcakebake2020   
+2023-01-04T06:46:11Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:46:14Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:46:15Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:46:15Z: PLAYER CHATTED [ 3917346883] gigaming_019         (  -19.8,    46.0,   -56.6)
+  prv jet
+2023-01-04T06:46:20Z: CHRCTER ADDED  [ 3049722685] Night191910          a.k.a. Notyoutoo           
+2023-01-04T06:46:22Z: PLAYER REMOVED [ 3766768592] kasycasecake2020    
+2023-01-04T06:46:23Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:46:24Z: CHRCTER ADDED  [ 3426236414] earazh              
+2023-01-04T06:46:25Z: PLAYER REMOVED [ 3994580414] deandafi            
+2023-01-04T06:46:25Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:46:45Z: CHRCTER ADDED  [ 3917346883] gigaming_019        
+2023-01-04T06:46:47Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:47:05Z: PLAYER ADDED   [ 3592549001] Vanillaeyesscream    a.k.a. Sugar               
+2023-01-04T06:47:10Z: CHRCTER ADDED  [ 1511530390] iiLostcharbear      
+2023-01-04T06:47:20Z: PLAYER CHATTED [ 4092949611] stevemama102         (  -31.5,    43.6,   -61.5)
+  bros
+2023-01-04T06:47:24Z: PLAYER CHATTED [ 1885902712] MishaAnicka          (  -24.8,    55.4,   -82.4)
+  thiss
+2023-01-04T06:47:29Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:47:29Z: CHRCTER ADDED  [ 4092949611] stevemama102        
+2023-01-04T06:47:30Z: PLAYER CHATTED [ 4092949611] stevemama102         (  -27.6,    46.0,   -28.4)
+  they nice 
+2023-01-04T06:47:30Z: PLAYER CHATTED [ 4092949611] stevemama102         (  -27.6,    46.0,   -28.4)
+  they  nice 
+2023-01-04T06:47:30Z: PLAYER CHATTED [ 3917346883] gigaming_019         (  -27.7,    65.0,   -81.7)
+  I don't like having siblings
+2023-01-04T06:47:32Z: PLAYER ADDED   [ 4075158804] Zoey_OctaA           a.k.a. Z4hh_K0pi           
+2023-01-04T06:47:32Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:47:33Z: PLAYER CHATTED [ 1885902712] MishaAnicka          (  -24.8,    55.4,   -82.4)
+  see!
+2023-01-04T06:47:33Z: PLAYER CHATTED [ 2301142537] Mateo010601          (  -20.8,    46.0,   -69.7)
+  Sis
+2023-01-04T06:47:33Z: CHRCTER ADDED  [ 1885902712] MishaAnicka         
+2023-01-04T06:47:51Z: PLAYER CHATTED [ 2301142537] Mateo010601          (  -21.0,    46.0,   -69.8)
+  Bc I don’t have a sis
+2023-01-04T06:47:52Z: CHRCTER ADDED  [ 3049722685] Night191910          a.k.a. Notyoutoo           
+2023-01-04T06:47:54Z: PLAYER ADDED   [ 3859434467] S32qui2d            
+2023-01-04T06:47:54Z: PLAYER CHATTED [ 4029601375] SakuraYuking         (  -26.2,    46.2,   -62.5)
+  no se
+2023-01-04T06:47:55Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:47:56Z: CHRCTER ADDED  [ 3917346883] gigaming_019        
+2023-01-04T06:47:57Z: PLAYER ADDED   [ 3249150526] Talacute159         
+2023-01-04T06:48:02Z: PLAYER CHATTED [ 3917346883] gigaming_019         (  -30.6,    46.0,   -27.2)
+  good job guys
+2023-01-04T06:48:07Z: PLAYER ADDED   [ 4058886184] elzafranomar        
+2023-01-04T06:48:11Z: PLAYER ADDED   [ 2911678026] sheree_blink23      
+2023-01-04T06:48:13Z: CHRCTER ADDED  [ 3859434467] S32qui2d            
+2023-01-04T06:48:17Z: CHRCTER ADDED  [ 3859434467] S32qui2d            
+2023-01-04T06:48:18Z: CHRCTER ADDED  [ 3859434467] S32qui2d            
+2023-01-04T06:48:19Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:48:20Z: CHRCTER ADDED  [ 4092949611] stevemama102        
+2023-01-04T06:48:25Z: PLAYER REMOVED [ 3049722685] Night191910          a.k.a. Notyoutoo           
+2023-01-04T06:48:30Z: CHRCTER ADDED  [ 3859434467] S32qui2d            
+2023-01-04T06:48:33Z: PLAYER ADDED   [ 2681642229] hejfjgkg            
+2023-01-04T06:48:41Z: PLAYER CHATTED [ 2301142537] Mateo010601          (  -31.5,    46.0,   -65.0)
+  Home
+2023-01-04T06:48:43Z: CHRCTER ADDED  [ 2911678026] sheree_blink23      
+2023-01-04T06:48:43Z: CHRCTER ADDED  [ 2681642229] hejfjgkg            
+2023-01-04T06:48:44Z: PLAYER REMOVED [ 2681642229] hejfjgkg            
+2023-01-04T06:48:58Z: PLAYER CHATTED [ 3917346883] gigaming_019         (   -0.8,    43.6,   -72.4)
+  CHEEEEEEEEEEESE
+2023-01-04T06:48:58Z: PLAYER ADDED   [ 3945186356] Digito1643           a.k.a. Zane                
+2023-01-04T06:48:58Z: CHRCTER ADDED  [ 4058886184] elzafranomar        
+2023-01-04T06:49:01Z: CHRCTER ADDED  [ 4029601375] SakuraYuking         a.k.a. SakuraMochi         
+2023-01-04T06:49:06Z: CHRCTER ADDED  [ 4075158804] Zoey_OctaA           a.k.a. Z4hh_K0pi           
+2023-01-04T06:49:07Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:49:08Z: PLAYER CHATTED [ 3426236414] earazh               (  -20.7,    46.0,   -58.8)
+  i hate cheeseburger
+2023-01-04T06:49:15Z: PLAYER REMOVED [ 2301142537] Mateo010601          a.k.a. ERROR838228         
+2023-01-04T06:49:17Z: PLAYER CHATTED [ 3917346883] gigaming_019         (   -6.4,    43.1,   -66.1)
+  PIIIIIIIIIIZZZZZZZZZZZZZZAAAAAAA
+2023-01-04T06:49:19Z: PLAYER REMOVED [ 4058886184] elzafranomar        
+2023-01-04T06:49:21Z: CHRCTER ADDED  [ 3945186356] Digito1643           a.k.a. Zane                
+2023-01-04T06:49:25Z: CHRCTER ADDED  [ 4092949611] stevemama102        
+2023-01-04T06:49:25Z: CHRCTER ADDED  [ 4029601375] SakuraYuking         a.k.a. SakuraMochi         
+2023-01-04T06:49:25Z: CHRCTER ADDED  [ 1885902712] MishaAnicka         
+2023-01-04T06:49:26Z: PLAYER CHATTED [ 4075158804] Zoey_OctaA           (  -24.5,    46.0,   -25.3)
+  I love pizza even though I've never eaten it
+2023-01-04T06:49:27Z: CHRCTER ADDED  [ 3945186356] Digito1643           a.k.a. Zane                
+2023-01-04T06:49:28Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:49:29Z: CHRCTER ADDED  [ 1511530390] iiLostcharbear      
+2023-01-04T06:49:31Z: PLAYER ADDED   [ 1952344108] Emma_new43111        a.k.a. AniaRuby            
+2023-01-04T06:49:32Z: PLAYER ADDED   [ 3590138066] BLACK_SPY2010        a.k.a. StayHalal           
+2023-01-04T06:49:48Z: CHRCTER ADDED  [ 3945186356] Digito1643           a.k.a. Zane                
+2023-01-04T06:49:48Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:49:48Z: CHRCTER ADDED  [ 4092949611] stevemama102        
+2023-01-04T06:49:51Z: CHRCTER ADDED  [ 4075158804] Zoey_OctaA           a.k.a. Z4hh_K0pi           
+2023-01-04T06:49:52Z: CHRCTER ADDED  [ 4029601375] SakuraYuking         a.k.a. SakuraMochi         
+2023-01-04T06:49:52Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:49:54Z: CHRCTER ADDED  [ 3590138066] BLACK_SPY2010        a.k.a. StayHalal           
+2023-01-04T06:49:58Z: PLAYER CHATTED [ 3917346883] gigaming_019         (  -26.8,    65.0,   -81.2)
+  eat cheeeeeeeseeeeee piiiiiiiiiiiizzzzzzzzzaaaaaaaa it's goooood
+2023-01-04T06:50:02Z: PLAYER CHATTED [ 3426236414] earazh               (  -19.2,    46.0,   -54.9)
+  shut
+2023-01-04T06:50:07Z: CHRCTER ADDED  [ 3945186356] Digito1643           a.k.a. Zane                
+2023-01-04T06:50:11Z: CHRCTER ADDED  [ 3859434467] S32qui2d            
+2023-01-04T06:50:13Z: CHRCTER ADDED  [ 3917346883] gigaming_019        
+2023-01-04T06:50:15Z: CHRCTER ADDED  [ 1513334917] Fire_King906        
+2023-01-04T06:50:16Z: PLAYER ADDED   [ 2884994140] calebcool1701       
+2023-01-04T06:50:27Z: CHRCTER ADDED  [ 2884994140] calebcool1701       
+2023-01-04T06:50:34Z: CHRCTER ADDED  [ 3945186356] Digito1643           a.k.a. Zane                
+2023-01-04T06:50:34Z: PLAYER REMOVED [ 1513334917] Fire_King906        
+2023-01-04T06:50:37Z: CHRCTER ADDED  [ 4075158804] Zoey_OctaA           a.k.a. Z4hh_K0pi           
+2023-01-04T06:50:38Z: CHRCTER ADDED  [ 3859434467] S32qui2d            
+2023-01-04T06:50:46Z: PLAYER REMOVED [ 1511530390] iiLostcharbear      
+2023-01-04T06:50:50Z: CHRCTER ADDED  [ 3590138066] BLACK_SPY2010        a.k.a. StayHalal           
+2023-01-04T06:50:57Z: CHRCTER ADDED  [ 3945186356] Digito1643           a.k.a. Zane                
+2023-01-04T06:50:57Z: CHRCTER ADDED  [ 3917346883] gigaming_019        
+2023-01-04T06:50:57Z: CHRCTER ADDED  [ 3426236414] earazh              
+2023-01-04T06:50:58Z: CHRCTER ADDED  [ 1885902712] MishaAnicka         
+2023-01-04T06:50:59Z: CHRCTER ADDED  [ 3590138066] BLACK_SPY2010        a.k.a. StayHalal           
+2023-01-04T06:51:01Z: CHRCTER ADDED  [ 4092949611] stevemama102        
+2023-01-04T06:51:03Z: PLAYER CHATTED [ 3426236414] earazh               (  -35.7,    46.0,   -49.8)
+  bruh
+2023-01-04T06:51:06Z: PLAYER ADDED   [ 3277911050] Madi_GameGurl       
+2023-01-04T06:51:11Z: PLAYER CHATTED [ 3426236414] earazh               (  -30.6,    46.0,   -56.1)
+  Roblox
+2023-01-04T06:51:20Z: PLAYER CHATTED [ 3426236414] earazh               (  -30.7,    46.0,   -56.1)
+  beacuse we play this
+2023-01-04T06:51:23Z: CHRCTER ADDED  [ 2884994140] calebcool1701       
+2023-01-04T06:51:23Z: CHRCTER ADDED  [ 3277911050] Madi_GameGurl       
+2023-01-04T06:51:24Z: CHRCTER ADDED  [ 4029601375] SakuraYuking         a.k.a. SakuraMochi         
+2023-01-04T06:51:43Z: CHRCTER ADDED  [ 4092949611] stevemama102        
+2023-01-04T06:51:43Z: CHRCTER ADDED  [ 3945186356] Digito1643           a.k.a. Zane                
+2023-01-04T06:51:43Z: CHRCTER ADDED  [ 3590138066] BLACK_SPY2010        a.k.a. StayHalal           
+2023-01-04T06:51:43Z: CHRCTER ADDED  [ 3592549001] Vanillaeyesscream    a.k.a. Sugar               
+2023-01-04T06:51:44Z: PLAYER CHATTED [ 3426236414] earazh               (  -33.8,    46.0,   -60.1)
+  dance bc my voice is bad
+2023-01-04T06:51:46Z: CHRCTER ADDED  [ 3277911050] Madi_GameGurl       
+2023-01-04T06:51:47Z: CHRCTER ADDED  [ 2884994140] calebcool1701       
+2023-01-04T06:51:59Z: PLAYER CHATTED [ 3426236414] earazh               (  -20.5,    46.0,   -57.9)
+  makan = eat 
+2023-01-04T06:51:59Z: PLAYER CHATTED [ 3592549001] Vanillaeyesscream    (  -37.8,    45.9,   -43.9)
+  i practice singing so im good
+2023-01-04T06:52:01Z: PLAYER CHATTED [ 4075158804] Zoey_OctaA           (  -26.7,    55.4,   -84.2)
+  nakan
+2023-01-04T06:52:04Z: PLAYER CHATTED [ 4075158804] Zoey_OctaA           (  -26.7,    55.4,   -84.2)
+  eat
+2023-01-04T06:52:06Z: CHRCTER ADDED  [ 3945186356] Digito1643           a.k.a. Zane                
+2023-01-04T06:52:10Z: CHRCTER ADDED  [ 4075158804] Zoey_OctaA           a.k.a. Z4hh_K0pi           
+2023-01-04T06:52:11Z: PLAYER CHATTED [ 3426236414] earazh               (  -18.6,    46.0,   -58.6)
+  makan is the indonesian language
+2023-01-04T06:52:29Z: CHRCTER ADDED  [ 3859434467] S32qui2d            
+2023-01-04T06:52:30Z: CHRCTER ADDED  [ 3426236414] earazh              
+2023-01-04T06:52:33Z: CHRCTER ADDED  [ 3592549001] Vanillaeyesscream    a.k.a. Sugar               
+2023-01-04T06:52:40Z: PLAYER REMOVED [ 3945186356] Digito1643           a.k.a. Zane                
+2023-01-04T06:52:52Z: CHRCTER ADDED  [ 4029601375] SakuraYuking         a.k.a. SakuraMochi         
+2023-01-04T06:52:52Z: CHRCTER ADDED  [ 2911678026] sheree_blink23      
+2023-01-04T06:52:52Z: CHRCTER ADDED  [ 3590138066] BLACK_SPY2010        a.k.a. StayHalal           
+2023-01-04T06:52:53Z: CHRCTER ADDED  [ 3859434467] S32qui2d            
+2023-01-04T06:52:53Z: CHRCTER ADDED  [ 2884994140] calebcool1701       
+2023-01-04T06:52:53Z: CHRCTER ADDED  [ 3277911050] Madi_GameGurl       
+2023-01-04T06:52:56Z: CHRCTER ADDED  [ 3426236414] earazh              
+2023-01-04T06:53:14Z: PLAYER REMOVED [ 3917346883] gigaming_019        
+2023-01-04T06:53:15Z: CHRCTER ADDED  [ 4029601375] SakuraYuking         a.k.a. SakuraMochi         
+2023-01-04T06:53:15Z: CHRCTER ADDED  [ 3277911050] Madi_GameGurl       
+2023-01-04T06:53:15Z: CHRCTER ADDED  [ 4092949611] stevemama102        
+2023-01-04T06:53:16Z: PLAYER CHATTED [ 3277911050] Madi_GameGurl        (  -11.6,    47.2,   -31.2)
+  smashes face
+2023-01-04T06:53:16Z: CHRCTER ADDED  [ 3590138066] BLACK_SPY2010        a.k.a. StayHalal           
+2023-01-04T06:53:16Z: CHRCTER ADDED  [ 3859434467] S32qui2d            
+2023-01-04T06:53:19Z: CHRCTER ADDED  [ 2911678026] sheree_blink23      
+2023-01-04T06:53:37Z: PLAYER REMOVED [ 1952344108] Emma_new43111        a.k.a. AniaRuby            
+2023-01-04T06:53:38Z: CHRCTER ADDED  [ 4092949611] stevemama102        
+2023-01-04T06:53:38Z: CHRCTER ADDED  [ 2884994140] calebcool1701       
+2023-01-04T06:53:42Z: CHRCTER ADDED  [ 3277911050] Madi_GameGurl       
+2023-01-04T06:53:49Z: PLAYER CHATTED [ 3277911050] Madi_GameGurl        (  -40.8,    46.2,   -23.2)
+  WATER IS BEST
+2023-01-04T06:54:01Z: CHRCTER ADDED  [ 3859434467] S32qui2d            
+2023-01-04T06:54:05Z: CHRCTER ADDED  [ 4029601375] SakuraYuking         a.k.a. SakuraMochi         
+2023-01-04T06:54:07Z: PLAYER CHATTED [ 1885902712] MishaAnicka          (  -39.0,    45.9,   -56.6)
+  im goodlooking
+2023-01-04T06:54:15Z: PLAYER CHATTED [ 4075158804] Zoey_OctaA           (  -26.7,    55.4,   -84.2)
+  blue
+2023-01-04T06:54:20Z: PLAYER CHATTED [ 1885902712] MishaAnicka          (  -35.5,    45.9,   -56.0)
+  Gacha noxxxxx
+2023-01-04T06:54:20Z: PLAYER CHATTED [ 3592549001] Vanillaeyesscream    (  -21.8,    45.9,   -70.4)
+  what does suka mean
+2023-01-04T06:54:24Z: CHRCTER ADDED  [ 3859434467] S32qui2d            
+2023-01-04T06:54:25Z: CHRCTER ADDED  [ 2884994140] calebcool1701       
+2023-01-04T06:54:27Z: CHRCTER ADDED  [ 3277911050] Madi_GameGurl       
+2023-01-04T06:54:28Z: CHRCTER ADDED  [ 4075158804] Zoey_OctaA           a.k.a. Z4hh_K0pi           
+2023-01-04T06:54:41Z: PLAYER CHATTED [ 3590138066] BLACK_SPY2010        (  -26.7,    55.4,   -84.2)
+  suka mean like
+2023-01-04T06:54:48Z: CHRCTER ADDED  [ 3249150526] Talacute159         
+2023-01-04T06:54:49Z: CHRCTER ADDED  [ 3859434467] S32qui2d            
+2023-01-04T06:54:51Z: CHRCTER ADDED  [ 3590138066] BLACK_SPY2010        a.k.a. StayHalal           
+2023-01-04T06:54:53Z: CHRCTER ADDED  [ 3277911050] Madi_GameGurl       
+2023-01-04T06:54:55Z: CHRCTER ADDED  [ 3592549001] Vanillaeyesscream    a.k.a. Sugar               
+2023-01-04T06:55:10Z: CHRCTER ADDED  [ 4092949611] stevemama102        
+2023-01-04T06:55:11Z: CHRCTER ADDED  [ 3249150526] Talacute159         
+2023-01-04T06:55:13Z: PLAYER REMOVED [ 3592549001] Vanillaeyesscream    a.k.a. Sugar               
+2023-01-04T06:55:14Z: CHRCTER ADDED  [ 1885902712] MishaAnicka         
+2023-01-04T06:55:15Z: CHRCTER ADDED  [ 3277911050] Madi_GameGurl       
+2023-01-04T06:55:20Z: PLAYER ADDED   [ 4181347653] alex_sosa432        
+2023-01-04T06:55:26Z: PLAYER ADDED   [ 1341988544] y1yusuf              a.k.a. Sus                 
+2023-01-04T06:55:28Z: PLAYER ADDED   [  215194014] Anglelarios21        a.k.a. Ron_TheFile         
+2023-01-04T06:55:36Z: CHRCTER ADDED  [ 3277911050] Madi_GameGurl       
+2023-01-04T06:55:37Z: CHRCTER ADDED  [ 4181347653] alex_sosa432        
+2023-01-04T06:55:38Z: CHRCTER ADDED  [ 2884994140] calebcool1701       
+2023-01-04T06:55:38Z: CHRCTER ADDED  [ 3277911050] Madi_GameGurl       
+2023-01-04T06:55:40Z: CHRCTER ADDED  [ 4181347653] alex_sosa432        
+2023-01-04T06:55:57Z: CHRCTER ADDED  [ 4092949611] stevemama102        
+2023-01-04T06:55:57Z: CHRCTER ADDED  [ 1885902712] MishaAnicka         
+2023-01-04T06:56:00Z: PLAYER ADDED   [ 4108626490] Bbrujfbjurbhfbyr    
+2023-01-04T06:56:01Z: CHRCTER ADDED  [ 3859434467] S32qui2d            
+2023-01-04T06:56:07Z: PLAYER ADDED   [ 4066174496] Glitch_lyekin        a.k.a. Cute_girl           
+2023-01-04T06:56:14Z: PLAYER CHATTED [ 3426236414] earazh               (  -35.4,    46.0,   -57.7)
+  unicorn better than poop
+2023-01-04T06:56:19Z: PLAYER CHATTED [ 1341988544] y1yusuf              (  -30.9,    46.0,   -68.4)
+  Why unicorn
+2023-01-04T06:56:20Z: CHRCTER ADDED  [ 4092949611] stevemama102        
+2023-01-04T06:56:20Z: CHRCTER ADDED  [ 3249150526] Talacute159         
+2023-01-04T06:56:26Z: CHRCTER ADDED  [ 3277911050] Madi_GameGurl       
+2023-01-04T06:56:32Z: PLAYER CHATTED [ 3277911050] Madi_GameGurl        (  -20.4,    46.2,   -28.4)
+  they are cute and pretty?
+2023-01-04T06:56:37Z: CHRCTER ADDED  [ 4066174496] Glitch_lyekin        a.k.a. Cute_girl           
+2023-01-04T06:56:42Z: CHRCTER ADDED  [ 4108626490] Bbrujfbjurbhfbyr    
+2023-01-04T06:56:43Z: PLAYER CHATTED [ 1885902712] MishaAnicka          (  -13.4,    43.2,   -57.7)
+  step on me.
+2023-01-04T06:56:43Z: CHRCTER ADDED  [ 2884994140] calebcool1701       
+2023-01-04T06:56:47Z: CHRCTER ADDED  [ 3426236414] earazh              
+2023-01-04T06:56:51Z: CHRCTER ADDED  [ 4066174496] Glitch_lyekin        a.k.a. Cute_girl           
+2023-01-04T06:56:57Z: CHRCTER ADDED  [ 4066174496] Glitch_lyekin        a.k.a. Cute_girl           
+2023-01-04T06:57:08Z: CHRCTER ADDED  [ 4029601375] SakuraYuking         a.k.a. SakuraMochi         
+2023-01-04T06:57:10Z: CHRCTER ADDED  [  215194014] Anglelarios21        a.k.a. Ron_TheFile         
+2023-01-04T06:57:13Z: CHRCTER ADDED  [ 4075158804] Zoey_OctaA           a.k.a. Z4hh_K0pi           
+2023-01-04T06:57:13Z: CHRCTER ADDED  [ 3277911050] Madi_GameGurl       
+2023-01-04T06:57:13Z: CHRCTER ADDED  [ 4092949611] stevemama102        
+2023-01-04T06:57:13Z: CHRCTER ADDED  [ 3859434467] S32qui2d            
+2023-01-04T06:57:13Z: CHRCTER ADDED  [ 2911678026] sheree_blink23      
+2023-01-04T06:57:29Z: CHRCTER ADDED  [  215194014] Anglelarios21        a.k.a. Ron_TheFile         
+2023-01-04T06:57:29Z: CHRCTER ADDED  [ 3859434467] S32qui2d            
+2023-01-04T06:57:29Z: CHRCTER ADDED  [ 4108626490] Bbrujfbjurbhfbyr    
+2023-01-04T06:57:29Z: CHRCTER ADDED  [ 3277911050] Madi_GameGurl       
+2023-01-04T06:57:30Z: CHRCTER ADDED  [ 2884994140] calebcool1701       
+2023-01-04T06:57:30Z: CHRCTER ADDED  [ 1341988544] y1yusuf              a.k.a. Sus                 
+2023-01-04T06:57:30Z: CHRCTER ADDED  [ 1885902712] MishaAnicka         
+2023-01-04T06:57:33Z: CHRCTER ADDED  [ 3249150526] Talacute159         
+2023-01-04T06:57:40Z: CHRCTER ADDED  [ 4066174496] Glitch_lyekin        a.k.a. Cute_girl           
+2023-01-04T06:57:43Z: PLAYER ADDED   [  883616677] farhangenggeng       a.k.a. corneval            
+2023-01-04T06:57:48Z: PLAYER CHATTED [ 1341988544] y1yusuf              (  -18.1,    46.0,   -64.2)
+  Food
+2023-01-04T06:57:53Z: CHRCTER ADDED  [ 1341988544] y1yusuf              a.k.a. Sus                 
+2023-01-04T06:57:55Z: PLAYER ADDED   [ 3791411698] keillie_unicorn     
+2023-01-04T06:57:56Z: CHRCTER ADDED  [ 4181347653] alex_sosa432        
+2023-01-04T06:58:08Z: PLAYER CHATTED [  215194014] Anglelarios21        (  -21.2,    46.0,   -53.7)
+  what
+2023-01-04T06:58:17Z: CHRCTER ADDED  [ 4092949611] stevemama102        
+2023-01-04T06:58:17Z: CHRCTER ADDED  [ 3590138066] BLACK_SPY2010        a.k.a. StayHalal           
+2023-01-04T06:58:17Z: CHRCTER ADDED  [ 4108626490] Bbrujfbjurbhfbyr    
+2023-01-04T06:58:17Z: CHRCTER ADDED  [ 2884994140] calebcool1701       
+2023-01-04T06:58:17Z: CHRCTER ADDED  [ 3791411698] keillie_unicorn     
+2023-01-04T06:58:18Z: PLAYER CHATTED [ 4029601375] SakuraYuking         (  -26.5,    55.7,   -81.4)
+  ambos
+2023-01-04T06:58:19Z: CHRCTER ADDED  [ 4029601375] SakuraYuking         a.k.a. SakuraMochi         
+2023-01-04T06:58:19Z: PLAYER CHATTED [ 1885902712] MishaAnicka          (  -19.3,    45.9,   -57.4)
+  yeah!!!
+2023-01-04T06:58:19Z: CHRCTER ADDED  [ 4066174496] Glitch_lyekin        a.k.a. Cute_girl           
+2023-01-04T06:58:21Z: PLAYER REMOVED [ 3791411698] keillie_unicorn     
+2023-01-04T06:58:26Z: PLAYER ADDED   [ 3791411698] keillie_unicorn     
+2023-01-04T06:58:27Z: CHRCTER ADDED  [ 4066174496] Glitch_lyekin        a.k.a. Cute_girl           
+2023-01-04T06:58:28Z: PLAYER REMOVED [ 3277911050] Madi_GameGurl       
+2023-01-04T06:58:32Z: PLAYER REMOVED [ 3859434467] S32qui2d            
+2023-01-04T06:58:33Z: PLAYER CHATTED [ 3590138066] BLACK_SPY2010        (  -35.7,    46.0,   -57.0)
+  ohio
+2023-01-04T06:58:33Z: PLAYER REMOVED [ 4066174496] Glitch_lyekin        a.k.a. Cute_girl           
+2023-01-04T06:58:34Z: PLAYER CHATTED [ 1885902712] MishaAnicka          (  -39.0,    45.9,   -58.5)
+  wha-----------------the
+2023-01-04T06:58:42Z: PLAYER CHATTED [  215194014] Anglelarios21        (  -23.1,    46.0,   -61.0)
+  what would legs do
+2023-01-04T06:58:42Z: PLAYER REMOVED [  883616677] farhangenggeng       a.k.a. corneval            
+2023-01-04T06:58:42Z: CHRCTER ADDED  [ 3590138066] BLACK_SPY2010        a.k.a. StayHalal           
+2023-01-04T06:58:42Z: CHRCTER ADDED  [ 1885902712] MishaAnicka         
+2023-01-04T06:58:42Z: CHRCTER ADDED  [ 4075158804] Zoey_OctaA           a.k.a. Z4hh_K0pi           
+2023-01-04T06:58:43Z: CHRCTER ADDED  [ 1341988544] y1yusuf              a.k.a. Sus                 
+2023-01-04T06:58:55Z: PLAYER ADDED   [ 3865827389] mrsfish_1076        
+2023-01-04T06:59:02Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

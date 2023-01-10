@@ -1,0 +1,64 @@
+[    1630228] : [11469138644] Avatar Island 🌴(Outfit Donation Game) - a149ed96-e3be-49bd-8b75-bdcad4f79d5a
+2023-01-10T00:25:28Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-10T00:25:28Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-10T00:25:28Z: PLAYER ADDED   [  984822714] vanem1994            a.k.a. Naruto              
+2023-01-10T00:25:28Z: PLAYER ADDED   [ 1377309299] HIIMCOOL75789        a.k.a. Baller              
+2023-01-10T00:25:28Z: PLAYER ADDED   [ 1574724270] Brishant6            a.k.a. RIP_Deathnotes      
+2023-01-10T00:25:28Z: PLAYER ADDED   [ 1742604484] sekateli23           a.k.a. Mike_TZY            
+2023-01-10T00:25:28Z: PLAYER ADDED   [ 3777632719] karrell868          
+2023-01-10T00:25:28Z: PLAYER ADDED   [ 4021542132] anxdsk              
+2023-01-10T00:25:28Z: PLAYER ADDED   [ 1509865856] gesaper              a.k.a. XxSkelleton_ZaperXx 
+2023-01-10T00:25:28Z: PLAYER ADDED   [  562492624] Dubay98              a.k.a. joana               
+2023-01-10T00:25:28Z: PLAYER ADDED   [   60073172] gatessc             
+2023-01-10T00:25:28Z: PLAYER ADDED   [ 1445666831] Countryboylife124   
+2023-01-10T00:25:28Z: PLAYER ADDED   [ 4197203695] oi_sxs               a.k.a. Oisxs               
+2023-01-10T00:25:28Z: PLAYER ADDED   [  713193688] Mr_dantdmYT          a.k.a. originalplayer      
+2023-01-10T00:25:28Z: PLAYER ADDED   [ 1876611029] 11kD3vilzz           a.k.a. Devilz              
+2023-01-10T00:25:28Z: PLAYER ADDED   [ 4055668685] alvinkomar_12       
+2023-01-10T00:25:28Z: PLAYER ADDED   [ 4200716450] izzataffandi2023    
+2023-01-10T00:25:28Z: PLAYER ADDED   [ 3350622186] matheushtbl_10       a.k.a. Rip_matheuszin090811
+2023-01-10T00:25:28Z: PLAYER ADDED   [  612991291] lilpac1f1st         
+2023-01-10T00:25:28Z: PLAYER ADDED   [ 2801625052] Janafunnygirl2       a.k.a. MoonLight           
+2023-01-10T00:25:28Z: PLAYER ADDED   [ 1602556011] cooltoxicf           a.k.a. ERnEStO             
+2023-01-10T00:25:28Z: PLAYER ADDED   [ 4050108044] EvilGod11111         a.k.a. Hack101             
+2023-01-10T00:25:28Z: PLAYER ADDED   [  116034550] ctownmeantown        a.k.a. Obama               
+2023-01-10T00:25:28Z: PLAYER ADDED   [  315449442] GoldenFlashSpeedy23  a.k.a. santino             
+2023-01-10T00:25:28Z: PLAYER ADDED   [ 1651736409] NickAbade3           a.k.a. NickAbade_Viral     
+2023-01-10T00:25:28Z: PLAYER ADDED   [ 2275367687] Jasonnoris1         
+2023-01-10T00:25:28Z: PLAYER ADDED   [ 3103323172] Caneaves             a.k.a. brini               
+2023-01-10T00:25:31Z: PLAYER CHATTED [   60073172] gatessc              ( -587.9,    -7.8,    29.0)
+  ok
+2023-01-10T00:25:34Z: PLAYER CHATTED [  713193688] Mr_dantdmYT          ( -457.8,    -8.4,   128.7)
+  Se
+2023-01-10T00:25:36Z: PLAYER REMOVED [  562492624] Dubay98              a.k.a. joana               
+2023-01-10T00:25:37Z: PLAYER CHATTED [  315449442] GoldenFlashSpeedy23  ( -579.5,    -7.3,   128.5)
+  ok so
+2023-01-10T00:25:38Z: PLAYER CHATTED [ 2801625052] Janafunnygirl2       ( -611.9,    -7.9,    91.3)
+  ok have a nice day
+2023-01-10T00:25:42Z: PLAYER CHATTED [   60073172] gatessc              ( -587.8,    -8.0,   127.5)
+  is it downloaded
+2023-01-10T00:25:42Z: PLAYER CHATTED [  984822714] vanem1994            ( -609.2,    -8.0,    86.5)
+  At least you tried to help
+2023-01-10T00:25:43Z: PLAYER CHATTED [  315449442] GoldenFlashSpeedy23  ( -586.4,    -8.0,   129.5)
+  i do the same thing right
+2023-01-10T00:25:43Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-10T00:25:43Z: PLAYER REMOVED [  984822714] vanem1994            a.k.a. Naruto              
+2023-01-10T00:25:43Z: PLAYER REMOVED [ 1377309299] HIIMCOOL75789        a.k.a. Baller              
+2023-01-10T00:25:43Z: PLAYER REMOVED [ 1574724270] Brishant6            a.k.a. RIP_Deathnotes      
+2023-01-10T00:25:43Z: PLAYER REMOVED [ 1742604484] sekateli23           a.k.a. Mike_TZY            
+2023-01-10T00:25:43Z: PLAYER REMOVED [ 3777632719] karrell868          
+2023-01-10T00:25:43Z: PLAYER REMOVED [ 4021542132] anxdsk              
+2023-01-10T00:25:43Z: PLAYER REMOVED [ 1509865856] gesaper              a.k.a. XxSkelleton_ZaperXx 
+2023-01-10T00:25:43Z: PLAYER REMOVED [   60073172] gatessc             
+2023-01-10T00:25:43Z: PLAYER REMOVED [ 1445666831] Countryboylife124   
+2023-01-10T00:25:43Z: PLAYER REMOVED [ 4197203695] oi_sxs               a.k.a. Oisxs               
+2023-01-10T00:25:43Z: PLAYER REMOVED [  713193688] Mr_dantdmYT          a.k.a. originalplayer      
+2023-01-10T00:25:43Z: PLAYER REMOVED [ 1876611029] 11kD3vilzz           a.k.a. Devilz              
+2023-01-10T00:25:43Z: PLAYER REMOVED [ 4055668685] alvinkomar_12       
+2023-01-10T00:25:43Z: PLAYER REMOVED [ 4200716450] izzataffandi2023    
+2023-01-10T00:25:43Z: PLAYER REMOVED [ 3350622186] matheushtbl_10       a.k.a. Rip_matheuszin090811
+2023-01-10T00:25:43Z: PLAYER REMOVED [  612991291] lilpac1f1st         
+2023-01-10T00:25:43Z: PLAYER REMOVED [ 2801625052] Janafunnygirl2       a.k.a. MoonLight           
+2023-01-10T00:25:43Z: PLAYER REMOVED [ 1602556011] cooltoxicf           a.k.a. ERnEStO             
+2023-01-10T00:25:43Z: PLAYER REMOVED [ 4050108044] EvilGod11111         a.k.a. Hack101             
+2023-01-10T00:25:43Z: PLAYER REMOVED [  116034550] ctownmeantown        a.k.a. Obama               

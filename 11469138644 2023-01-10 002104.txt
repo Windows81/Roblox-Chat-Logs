@@ -1,0 +1,26 @@
+[    1630228] : [11469138644] Avatar Island 🌴(Outfit Donation Game) - f73693b0-fe3d-42a7-932d-e1f1fda4f498
+2023-01-10T00:21:04Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-10T00:21:04Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-10T00:21:04Z: PLAYER ADDED   [ 3292674854] vani_2313            a.k.a. xinn                
+2023-01-10T00:21:04Z: PLAYER ADDED   [ 2420354254] Slivertics           a.k.a. Sliver              
+2023-01-10T00:21:04Z: PLAYER ADDED   [  974426979] BeanieBooLove25      a.k.a. French_Toast        
+2023-01-10T00:21:04Z: PLAYER ADDED   [  414694363] Mister_Platon       
+2023-01-10T00:21:04Z: PLAYER ADDED   [ 4115769275] pirojok228332       
+2023-01-10T00:21:04Z: PLAYER ADDED   [ 4206067313] kha_777777          
+2023-01-10T00:21:04Z: PLAYER ADDED   [ 3621489609] yba_parashya         a.k.a. Maks1m              
+2023-01-10T00:21:04Z: PLAYER ADDED   [ 3792869089] akjhgdcj            
+2023-01-10T00:21:04Z: PLAYER ADDED   [ 1959741976] arshia_king85        a.k.a. Jack                
+2023-01-10T00:21:04Z: PLAYER ADDED   [ 3807531566] alexshues            a.k.a. alex                
+2023-01-10T00:21:04Z: PLAYER ADDED   [ 4040633333] jayiwzud            
+2023-01-10T00:21:04Z: PLAYER ADDED   [ 2590897215] toxic_tina04         a.k.a. Tinaa               
+2023-01-10T00:21:04Z: PLAYER ADDED   [ 2014846343] RomMeduZuka          a.k.a. Shadow_1st          
+2023-01-10T00:21:04Z: PLAYER ADDED   [ 3241722554] Stuwindqx            a.k.a. Diagnozzz_maloletki 
+2023-01-10T00:21:04Z: PLAYER ADDED   [ 1437981968] minminminminminmin00 a.k.a. ENTJ                
+2023-01-10T00:21:07Z: PLAYER CHATTED [ 3241722554] Stuwindqx            ( -408.7,    -8.1,    97.7)
+  ЭТА ДОЛБАНАЯ РУКА
+2023-01-10T00:21:12Z: PLAYER REMOVED [ 4040633333] jayiwzud            
+2023-01-10T00:21:12Z: PLAYER CHATTED [ 3292674854] vani_2313            ( -413.8,    -7.6,   101.4)
+  чо
+2023-01-10T00:21:14Z: PLAYER CHATTED [ 3241722554] Stuwindqx            ( -408.7,    -8.1,    97.7)
+  уффф
+2023-01-10T00:21:14Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

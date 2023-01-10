@@ -1,0 +1,58 @@
+[    1630228] : [11469138644] Avatar Island 🌴(Outfit Donation Game) - b77fa5d7-54bc-4ff6-8736-2d8226465952
+2023-01-10T00:24:39Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-10T00:24:39Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-10T00:24:39Z: PLAYER ADDED   [ 4215053816] vi124789ju          
+2023-01-10T00:24:39Z: PLAYER ADDED   [ 4222125467] waxaa54             
+2023-01-10T00:24:39Z: PLAYER ADDED   [  840527344] maiyanden           
+2023-01-10T00:24:39Z: PLAYER ADDED   [ 3017112424] laucha121000        
+2023-01-10T00:24:39Z: PLAYER ADDED   [ 4213009964] Best_frend135       
+2023-01-10T00:24:39Z: PLAYER ADDED   [ 2445100940] helo_20100           a.k.a. Moon                
+2023-01-10T00:24:39Z: PLAYER ADDED   [ 2379263023] TomasMikla          
+2023-01-10T00:24:39Z: PLAYER ADDED   [ 3255619013] WilliamAfton12346677 a.k.a. Tiago               
+2023-01-10T00:24:39Z: PLAYER ADDED   [ 1022922741] Biiahpanda           a.k.a. Isa                 
+2023-01-10T00:24:39Z: PLAYER ADDED   [ 3841640982] pedroydsasdass       a.k.a. ronaldo             
+2023-01-10T00:24:39Z: PLAYER ADDED   [ 4167691454] Diego_Brilesc       
+2023-01-10T00:24:39Z: PLAYER ADDED   [ 2660595544] Alan_266pro          a.k.a. Random              
+2023-01-10T00:24:39Z: PLAYER ADDED   [ 1298853691] PotattoJulu          a.k.a. Elon_Musk           
+2023-01-10T00:24:39Z: PLAYER ADDED   [ 3981784763] Polinesia001022     
+2023-01-10T00:24:39Z: PLAYER ADDED   [ 3107323504] ZEUSH4S_YT          
+2023-01-10T00:24:39Z: PLAYER ADDED   [ 1599417117] XxPedroxXBR171x      a.k.a. Saigo_Henrique41BR  
+2023-01-10T00:24:39Z: PLAYER ADDED   [ 3808567074] Bianquis144          a.k.a. Dana                
+2023-01-10T00:24:39Z: PLAYER ADDED   [ 3996957066] Jdoggiedoggie       
+2023-01-10T00:24:39Z: PLAYER ADDED   [ 3608362769] Bear_Randomplayer    a.k.a. Axolotl             
+2023-01-10T00:24:39Z: PLAYER ADDED   [ 3285538394] Juan_7700xd          a.k.a. sus3                
+2023-01-10T00:24:39Z: PLAYER ADDED   [  132309173] scarydarryl2007      a.k.a. Stolas              
+2023-01-10T00:24:39Z: PLAYER ADDED   [ 2301532006] Nanolindo25          a.k.a. Axel834             
+2023-01-10T00:24:39Z: PLAYER ADDED   [ 3953863297] Zhanzho_pajer        a.k.a. Porco               
+2023-01-10T00:24:39Z: PLAYER ADDED   [ 2616235798] FelipeMineBlox777    a.k.a. FelipeFino          
+2023-01-10T00:24:39Z: PLAYER ADDED   [ 3654264616] try_againuwu        
+2023-01-10T00:24:39Z: PLAYER ADDED   [ 2992883825] davi_FOFINHORWQ      a.k.a. Lucky               
+2023-01-10T00:24:43Z: PLAYER ADDED   [ 2969108028] bananin730_12       
+2023-01-10T00:24:47Z: PLAYER CHATTED [ 3981784763] Polinesia001022      ( -413.0,    -8.0,   118.4)
+  hello 
+2023-01-10T00:24:52Z: PLAYER CHATTED [ 3841640982] pedroydsasdass       ( -414.3,    -8.0,   114.7)
+  si me gustan pero ando pobre
+2023-01-10T00:24:57Z: PLAYER CHATTED [ 3107323504] ZEUSH4S_YT           ( -417.1,    -8.1,   113.1)
+  ok
+2023-01-10T00:25:02Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-10T00:25:02Z: PLAYER REMOVED [ 4215053816] vi124789ju          
+2023-01-10T00:25:02Z: PLAYER REMOVED [ 4222125467] waxaa54             
+2023-01-10T00:25:02Z: PLAYER REMOVED [  840527344] maiyanden           
+2023-01-10T00:25:02Z: PLAYER REMOVED [ 3017112424] laucha121000        
+2023-01-10T00:25:02Z: PLAYER REMOVED [ 4213009964] Best_frend135       
+2023-01-10T00:25:02Z: PLAYER REMOVED [ 2445100940] helo_20100           a.k.a. Moon                
+2023-01-10T00:25:02Z: PLAYER REMOVED [ 2379263023] TomasMikla          
+2023-01-10T00:25:02Z: PLAYER REMOVED [ 3255619013] WilliamAfton12346677 a.k.a. Tiago               
+2023-01-10T00:25:02Z: PLAYER REMOVED [ 1022922741] Biiahpanda           a.k.a. Isa                 
+2023-01-10T00:25:02Z: PLAYER REMOVED [ 3841640982] pedroydsasdass       a.k.a. ronaldo             
+2023-01-10T00:25:02Z: PLAYER REMOVED [ 4167691454] Diego_Brilesc       
+2023-01-10T00:25:02Z: PLAYER REMOVED [ 2660595544] Alan_266pro          a.k.a. Random              
+2023-01-10T00:25:02Z: PLAYER REMOVED [ 1298853691] PotattoJulu          a.k.a. Elon_Musk           
+2023-01-10T00:25:02Z: PLAYER REMOVED [ 3981784763] Polinesia001022     
+2023-01-10T00:25:02Z: PLAYER REMOVED [ 3107323504] ZEUSH4S_YT          
+2023-01-10T00:25:02Z: PLAYER REMOVED [ 1599417117] XxPedroxXBR171x      a.k.a. Saigo_Henrique41BR  
+2023-01-10T00:25:02Z: PLAYER REMOVED [ 3808567074] Bianquis144          a.k.a. Dana                
+2023-01-10T00:25:02Z: PLAYER REMOVED [ 3996957066] Jdoggiedoggie       
+2023-01-10T00:25:02Z: PLAYER REMOVED [ 3608362769] Bear_Randomplayer    a.k.a. Axolotl             
+2023-01-10T00:25:02Z: PLAYER REMOVED [ 3285538394] Juan_7700xd          a.k.a. sus3                
+2023-01-10T00:25:02Z: PLAYER REMOVED [  132309173] scarydarryl2007      a.k.a. Stolas              

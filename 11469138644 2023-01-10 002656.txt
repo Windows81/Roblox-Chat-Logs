@@ -1,0 +1,65 @@
+[    1630228] : [11469138644] Avatar Island 🌴(Outfit Donation Game) - a06e0e80-fda9-40d2-bb22-bc0502dcace3
+2023-01-10T00:26:56Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-10T00:26:56Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-10T00:26:56Z: PLAYER ADDED   [ 3547792661] alguienzzzpro        a.k.a. alguien             
+2023-01-10T00:26:56Z: PLAYER ADDED   [ 3744210257] 7_16b                a.k.a. PaywarsEkiao        
+2023-01-10T00:26:56Z: PLAYER ADDED   [ 2311898245] DustScarletFlare     a.k.a. OOIButterfliesIOO   
+2023-01-10T00:26:56Z: PLAYER ADDED   [ 3074178828] miuqkk               a.k.a. whatever            
+2023-01-10T00:26:56Z: PLAYER ADDED   [ 3684869624] lilolayaanlove90789  a.k.a. Khloee              
+2023-01-10T00:26:56Z: PLAYER ADDED   [ 1463587778] skylee1635           a.k.a. D3MONAMELIA         
+2023-01-10T00:26:56Z: PLAYER ADDED   [ 3271149669] EffieBeefie875       a.k.a. Doooo               
+2023-01-10T00:26:56Z: PLAYER ADDED   [  557329944] dukeman201064        a.k.a. Duke                
+2023-01-10T00:26:56Z: PLAYER ADDED   [ 3744443657] bot342352            a.k.a. Jake                
+2023-01-10T00:26:56Z: PLAYER ADDED   [ 1372622832] Bea_TheBearCub       a.k.a. Bea                 
+2023-01-10T00:26:56Z: PLAYER ADDED   [  115600986] NAME2000500         
+2023-01-10T00:26:56Z: PLAYER ADDED   [  499307474] CS4777               a.k.a. III                 
+2023-01-10T00:26:56Z: PLAYER ADDED   [  367202365] stormandrew2009      a.k.a. abc123              
+2023-01-10T00:26:56Z: PLAYER ADDED   [ 1720285508] bucario2             a.k.a. NuggetGod           
+2023-01-10T00:26:56Z: PLAYER ADDED   [ 2300925242] max_25202           
+2023-01-10T00:26:56Z: PLAYER ADDED   [ 1703403935] ZariiGirl7           a.k.a. XWaterMelonsX       
+2023-01-10T00:26:56Z: PLAYER ADDED   [ 4225473278] Jaylenmillz         
+2023-01-10T00:26:56Z: PLAYER ADDED   [ 3479410267] cebolinhatoperson   
+2023-01-10T00:26:56Z: PLAYER ADDED   [ 4146279350] Doge12attack        
+2023-01-10T00:26:56Z: PLAYER ADDED   [   82977620] mellizos            
+2023-01-10T00:26:56Z: PLAYER ADDED   [ 3908027826] TB_Brian1           
+2023-01-10T00:26:56Z: PLAYER ADDED   [ 1335145710] lightinboltzz78      a.k.a. Carson              
+2023-01-10T00:26:56Z: PLAYER ADDED   [ 3879835882] Unknownpug1234       a.k.a. Bigman_melon        
+2023-01-10T00:26:56Z: PLAYER ADDED   [  333473313] CoolestPinkZebra     a.k.a. Dumb                
+2023-01-10T00:26:56Z: PLAYER ADDED   [ 1679536239] yellowchips15        a.k.a. NotJohnHere         
+2023-01-10T00:26:56Z: PLAYER ADDED   [  129706623] fastbe2             
+2023-01-10T00:26:57Z: PLAYER ADDED   [ 1527793394] ilostmyaccandimsad5  a.k.a. lost                
+2023-01-10T00:27:03Z: PLAYER CHATTED [   82977620] mellizos             ( -614.2,    -8.3,    89.9)
+  Tengo hambre, ¿podrías comprarme pescado?🐟
+
+2023-01-10T00:27:03Z: PLAYER CHATTED [   82977620] mellizos             ( -614.2,    -8.3,    89.9)
+  Tengo hambre, ¿podrías comprarme pescado?🐟
+2023-01-10T00:27:16Z: PLAYER REMOVED [  115600986] NAME2000500         
+2023-01-10T00:27:19Z: PLAYER CHATTED [   82977620] mellizos             ( -614.2,    -8.3,    89.9)
+  I'm hungry, could you buy me some fish 🐟.
+2023-01-10T00:27:19Z: PLAYER CHATTED [   82977620] mellizos             ( -614.2,    -8.3,    89.9)
+  I'm hungry, could you buy me some fish 🐟.
+
+2023-01-10T00:27:22Z: PLAYER CHATTED [ 1463587778] skylee1635           ( -419.8,    -8.3,   127.4)
+  me totally not having issues
+2023-01-10T00:27:29Z: PLAYER ADDED   [  403515286] EJTUH                a.k.a. ratsunitedforlife   
+2023-01-10T00:27:30Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-10T00:27:30Z: PLAYER REMOVED [ 3547792661] alguienzzzpro        a.k.a. alguien             
+2023-01-10T00:27:30Z: PLAYER REMOVED [ 3744210257] 7_16b                a.k.a. PaywarsEkiao        
+2023-01-10T00:27:30Z: PLAYER REMOVED [ 2311898245] DustScarletFlare     a.k.a. OOIButterfliesIOO   
+2023-01-10T00:27:30Z: PLAYER REMOVED [ 3074178828] miuqkk               a.k.a. whatever            
+2023-01-10T00:27:30Z: PLAYER REMOVED [ 3684869624] lilolayaanlove90789  a.k.a. Khloee              
+2023-01-10T00:27:30Z: PLAYER REMOVED [ 1463587778] skylee1635           a.k.a. D3MONAMELIA         
+2023-01-10T00:27:30Z: PLAYER REMOVED [ 3271149669] EffieBeefie875       a.k.a. Doooo               
+2023-01-10T00:27:30Z: PLAYER REMOVED [  557329944] dukeman201064        a.k.a. Duke                
+2023-01-10T00:27:30Z: PLAYER REMOVED [ 3744443657] bot342352            a.k.a. Jake                
+2023-01-10T00:27:30Z: PLAYER REMOVED [ 1372622832] Bea_TheBearCub       a.k.a. Bea                 
+2023-01-10T00:27:30Z: PLAYER REMOVED [  499307474] CS4777               a.k.a. III                 
+2023-01-10T00:27:30Z: PLAYER REMOVED [  367202365] stormandrew2009      a.k.a. abc123              
+2023-01-10T00:27:30Z: PLAYER REMOVED [ 1720285508] bucario2             a.k.a. NuggetGod           
+2023-01-10T00:27:30Z: PLAYER REMOVED [ 2300925242] max_25202           
+2023-01-10T00:27:30Z: PLAYER REMOVED [ 1703403935] ZariiGirl7           a.k.a. XWaterMelonsX       
+2023-01-10T00:27:30Z: PLAYER REMOVED [ 4225473278] Jaylenmillz         
+2023-01-10T00:27:30Z: PLAYER REMOVED [ 3479410267] cebolinhatoperson   
+2023-01-10T00:27:30Z: PLAYER REMOVED [ 4146279350] Doge12attack        
+2023-01-10T00:27:30Z: PLAYER REMOVED [   82977620] mellizos            
+2023-01-10T00:27:30Z: PLAYER REMOVED [ 3908027826] TB_Brian1           

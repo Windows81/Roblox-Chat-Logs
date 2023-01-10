@@ -1,0 +1,55 @@
+[    1630228] : [11469138644] Avatar Island 🌴(Outfit Donation Game) - 456317b3-4a60-4fb3-a69b-8cb7a73fa2ae
+2023-01-10T01:48:15Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-10T01:48:15Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-10T01:48:15Z: PLAYER ADDED   [  476602742] mr_dydec1            a.k.a. GansterBloods       
+2023-01-10T01:48:15Z: PLAYER ADDED   [ 4197203695] oi_sxs               a.k.a. Oisxs               
+2023-01-10T01:48:15Z: PLAYER ADDED   [ 2229849074] Unboxing950Sxv       a.k.a. Mr_Frendly          
+2023-01-10T01:48:15Z: PLAYER ADDED   [ 1633014248] ANUHMI               a.k.a. seungmin            
+2023-01-10T01:48:15Z: PLAYER ADDED   [ 3485831923] dnwjidweide2        
+2023-01-10T01:48:15Z: PLAYER ADDED   [ 4211689317] Pao_doSansFruits97   a.k.a. Kumalala_Sans       
+2023-01-10T01:48:15Z: PLAYER ADDED   [ 3186140247] bellimarri          
+2023-01-10T01:48:15Z: PLAYER ADDED   [ 2554032882] Cupp_xcake001        a.k.a. ratdancer           
+2023-01-10T01:48:15Z: PLAYER ADDED   [  585811638] yaritzaa4            a.k.a. MEMES               
+2023-01-10T01:48:15Z: PLAYER ADDED   [ 3872867952] 8642shtangentsirkul  a.k.a. D0dsafor_Tet        
+2023-01-10T01:48:15Z: PLAYER ADDED   [  970713550] chiot86             
+2023-01-10T01:48:15Z: PLAYER ADDED   [  552799612] PlatiumBlack21       a.k.a. catdancer           
+2023-01-10T01:48:15Z: PLAYER ADDED   [  373663565] solnikYT             a.k.a. Cheetos             
+2023-01-10T01:48:15Z: PLAYER ADDED   [ 4015235980] papasconel          
+2023-01-10T01:48:15Z: PLAYER ADDED   [ 2215643231] STARPLATINU2         a.k.a. SaulGoodman         
+2023-01-10T01:48:15Z: PLAYER ADDED   [  986288895] chloedaisybug        a.k.a. Jellymaster         
+2023-01-10T01:48:15Z: PLAYER ADDED   [ 2745254239] Emma_Cheers13       
+2023-01-10T01:48:15Z: PLAYER ADDED   [ 4216865750] 24k_Laris0          
+2023-01-10T01:48:15Z: PLAYER ADDED   [ 3041750777] LOLMENAVCLOAM        a.k.a. oladyshek           
+2023-01-10T01:48:15Z: PLAYER ADDED   [ 4182933517] kinou_alyanauwu     
+2023-01-10T01:48:15Z: PLAYER ADDED   [ 1581287220] Cielo05Fp            a.k.a. Dev                 
+2023-01-10T01:48:28Z: PLAYER CHATTED [ 4197203695] oi_sxs               ( -516.8,    -7.8,   182.8)
+  hi
+2023-01-10T01:48:32Z: PLAYER CHATTED [ 3485831923] dnwjidweide2         ( -512.4,    -8.0,   187.2)
+  hi
+2023-01-10T01:48:36Z: PLAYER CHATTED [ 4197203695] oi_sxs               ( -516.8,    -7.8,   182.8)
+  can you support me pls?
+2023-01-10T01:48:37Z: PLAYER CHATTED [ 3485831923] dnwjidweide2         ( -512.4,    -8.0,   187.2)
+  plis donate me
+2023-01-10T01:48:42Z: PLAYER CHATTED [ 4197203695] oi_sxs               ( -516.8,    -7.8,   182.8)
+  i need little for goal
+2023-01-10T01:48:45Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-10T01:48:45Z: PLAYER REMOVED [  476602742] mr_dydec1            a.k.a. GansterBloods       
+2023-01-10T01:48:45Z: PLAYER REMOVED [ 4197203695] oi_sxs               a.k.a. Oisxs               
+2023-01-10T01:48:45Z: PLAYER REMOVED [ 2229849074] Unboxing950Sxv       a.k.a. Mr_Frendly          
+2023-01-10T01:48:45Z: PLAYER REMOVED [ 1633014248] ANUHMI               a.k.a. seungmin            
+2023-01-10T01:48:45Z: PLAYER REMOVED [ 3485831923] dnwjidweide2        
+2023-01-10T01:48:45Z: PLAYER REMOVED [ 4211689317] Pao_doSansFruits97   a.k.a. Kumalala_Sans       
+2023-01-10T01:48:45Z: PLAYER REMOVED [ 3186140247] bellimarri          
+2023-01-10T01:48:45Z: PLAYER REMOVED [ 2554032882] Cupp_xcake001        a.k.a. ratdancer           
+2023-01-10T01:48:45Z: PLAYER REMOVED [  585811638] yaritzaa4            a.k.a. MEMES               
+2023-01-10T01:48:45Z: PLAYER REMOVED [ 3872867952] 8642shtangentsirkul  a.k.a. D0dsafor_Tet        
+2023-01-10T01:48:45Z: PLAYER REMOVED [  970713550] chiot86             
+2023-01-10T01:48:45Z: PLAYER REMOVED [  552799612] PlatiumBlack21       a.k.a. catdancer           
+2023-01-10T01:48:45Z: PLAYER REMOVED [  373663565] solnikYT             a.k.a. Cheetos             
+2023-01-10T01:48:45Z: PLAYER REMOVED [ 4015235980] papasconel          
+2023-01-10T01:48:45Z: PLAYER REMOVED [ 2215643231] STARPLATINU2         a.k.a. SaulGoodman         
+2023-01-10T01:48:45Z: PLAYER REMOVED [  986288895] chloedaisybug        a.k.a. Jellymaster         
+2023-01-10T01:48:45Z: PLAYER REMOVED [ 2745254239] Emma_Cheers13       
+2023-01-10T01:48:45Z: PLAYER REMOVED [ 4216865750] 24k_Laris0          
+2023-01-10T01:48:45Z: PLAYER REMOVED [ 3041750777] LOLMENAVCLOAM        a.k.a. oladyshek           
+2023-01-10T01:48:45Z: PLAYER REMOVED [ 4182933517] kinou_alyanauwu     
