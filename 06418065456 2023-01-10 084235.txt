@@ -1,0 +1,75 @@
+[    1630228] : [ 6418065456] BGC8 Las Vegas House  - 62c4edda-caf0-46dd-b91f-5b48cd0ea5d5
+2023-01-10T08:42:35Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-10T08:42:35Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-10T08:42:35Z: PLAYER ADDED   [ 1183920839] pandaloverishere3    a.k.a. Panda               
+2023-01-10T08:42:35Z: PLAYER ADDED   [ 3911380099] bossygirl922        
+2023-01-10T08:42:59Z: PLAYER ADDED   [ 4177148225] Iamkerrias           a.k.a. Ih3eartkerria       
+2023-01-10T08:43:01Z: PLAYER CHATTED [ 1183920839] pandaloverishere3    ( -119.9,    28.1,   -50.1)
+  /w bossygirl922  Hi
+2023-01-10T08:43:11Z: PLAYER ADDED   [ 1637668738] rubbbbybrubbbby      a.k.a. Ren                 
+2023-01-10T08:43:15Z: PLAYER CHATTED [ 3911380099] bossygirl922         ( -118.2,    28.3,   -34.5)
+  Hi 
+2023-01-10T08:43:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -66.5,    28.2,   -26.9)
+  Hi.
+2023-01-10T08:43:36Z: PLAYER CHATTED [ 1183920839] pandaloverishere3    ( -136.4,    32.0,   -42.2)
+  Jump scare. 
+2023-01-10T08:43:36Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -122.6,    28.3,   -38.5)
+  Did I come in a bad time?
+2023-01-10T08:43:38Z: PLAYER CHATTED [ 3911380099] bossygirl922         ( -126.5,    28.2,   -40.3)
+  No
+2023-01-10T08:43:43Z: PLAYER CHATTED [ 1183920839] pandaloverishere3    ( -136.4,    32.0,   -42.2)
+  No
+2023-01-10T08:43:47Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -127.6,    28.3,   -39.5)
+  Good!
+2023-01-10T08:44:23Z: PLAYER REMOVED [ 1183920839] pandaloverishere3    a.k.a. Panda               
+2023-01-10T08:44:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -90.2,    28.1,   -41.8)
+  I'm new here.
+2023-01-10T08:44:45Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -117.9,    28.3,   -37.6)
+  What's the thing here?
+2023-01-10T08:46:11Z: PLAYER REMOVED [ 3911380099] bossygirl922        
+2023-01-10T08:46:13Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -117.7,    28.3,   -25.9)
+  Are the poses made by the creator of the game?
+2023-01-10T08:46:23Z: PLAYER CHATTED [ 1637668738] rubbbbybrubbbby      ( -118.3,    28.3,   -23.3)
+  Yeah
+2023-01-10T08:46:28Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -117.1,    28.3,   -27.2)
+  Nice!
+2023-01-10T08:46:29Z: PLAYER CHATTED [ 4177148225] Iamkerrias           ( -122.3,    31.5,   -28.6)
+  Me I’m the created 
+2023-01-10T08:46:41Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -118.8,    28.3,   -28.5)
+  We're all created!
+2023-01-10T08:46:42Z: PLAYER CHATTED [ 4177148225] Iamkerrias           ( -121.2,    31.5,   -29.8)
+  Creater
+2023-01-10T08:46:54Z: PLAYER CHATTED [ 4177148225] Iamkerrias           ( -121.2,    31.5,   -29.8)
+  I made the game 
+2023-01-10T08:46:57Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -118.8,    28.3,   -28.5)
+  Nice!
+2023-01-10T08:47:16Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -128.4,    28.3,   -37.1)
+  Is there a more updated version in the works?
+2023-01-10T08:47:27Z: PLAYER CHATTED [ 4177148225] Iamkerrias           ( -135.4,    32.0,   -44.0)
+  Hell Wsp
+2023-01-10T08:47:32Z: PLAYER CHATTED [ 4177148225] Iamkerrias           ( -135.4,    32.0,   -44.0)
+  Nawl
+2023-01-10T08:48:00Z: PLAYER ADDED   [ 4158449071] coc6o1              
+2023-01-10T08:48:18Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -139.1,    28.1,   -38.1)
+  I'm also working on a Vegas hotel myself.
+2023-01-10T08:48:26Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -135.4,    32.0,   -41.0)
+  So this place piqued my interest.
+2023-01-10T08:49:57Z: PLAYER REMOVED [ 1637668738] rubbbbybrubbbby      a.k.a. Ren                 
+2023-01-10T08:50:05Z: PLAYER REMOVED [ 4177148225] Iamkerrias           a.k.a. Ih3eartkerria       
+2023-01-10T08:50:14Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -134.4,    28.1,   -66.3)
+  There are quite a few doors which don't lead anywhere.
+2023-01-10T08:50:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -46.1,     8.1,   -53.0)
+  Hiya.
+2023-01-10T08:51:04Z: PLAYER CHATTED [ 4158449071] coc6o1               (  -46.5,     6.1,   -44.6)
+  hi
+2023-01-10T08:51:22Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -56.4,     8.1,   -38.6)
+  What usually goes on here?
+2023-01-10T08:54:16Z: PLAYER ADDED   [ 2922456582] invalid_username1523 a.k.a. Emily               
+2023-01-10T08:55:11Z: PLAYER REMOVED [ 2922456582] invalid_username1523 a.k.a. Emily               
+2023-01-10T08:56:00Z: PLAYER REMOVED [ 4158449071] coc6o1              
+2023-01-10T08:56:03Z: PLAYER ADDED   [ 2461890598] Runliight            a.k.a. Nur                 
+2023-01-10T08:56:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -24.6,     8.1,     0.8)
+  Welcome in!
+2023-01-10T08:56:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (  243.8,     5.3,   140.8)
+  I'll be òóf.
+2023-01-10T08:56:46Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

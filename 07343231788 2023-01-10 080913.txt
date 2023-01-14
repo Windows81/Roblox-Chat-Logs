@@ -1,3 +1,10 @@
 [    1630228] : [ 7343231788] Banned from Box Hotel's! - 4dc04cbe-bf87-4eaa-86d5-cdd88e4a458f
 2023-01-10T08:09:13Z: CHAT STREAM SUCCESSFULLY STARTED
 2023-01-10T08:09:13Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-10T08:10:15Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-10T08:10:18Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-10T08:10:25Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-10T08:10:29Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-10T08:10:32Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-10T08:11:27Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-10T08:12:22Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
