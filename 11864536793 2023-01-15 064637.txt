@@ -1,0 +1,191 @@
+[    1630228] : [11864536793] Dig to OHIO [UPDATE] - 66ceed98-0346-488e-9b43-05519feba13c
+2023-01-15T06:46:37Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-15T06:46:37Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-15T06:46:37Z: PLAYER ADDED   [ 1494590051] genesis123rock       a.k.a. Sunny               
+2023-01-15T06:46:37Z: PLAYER ADDED   [ 1518498276] Amarya1977           a.k.a. Amarya              
+2023-01-15T06:46:37Z: PLAYER ADDED   [ 4116881686] Cuttiepiecookiemonst
+2023-01-15T06:46:37Z: PLAYER ADDED   [  722206686] MexicanNinja911      a.k.a. Bigprrrr            
+2023-01-15T06:46:37Z: PLAYER ADDED   [ 3034752405] Duke4516             a.k.a. ThInG11             
+2023-01-15T06:46:37Z: PLAYER ADDED   [ 3609383231] App1eBl0ss0m         a.k.a. Addie               
+2023-01-15T06:46:37Z: PLAYER ADDED   [  662396071] SUPDUDE8051          a.k.a. UnotPushingP        
+2023-01-15T06:46:37Z: PLAYER ADDED   [ 1637682637] rubenlexx           
+2023-01-15T06:46:37Z: PLAYER ADDED   [ 3761177871] ilikebeancereal      a.k.a. Dahoodisweird       
+2023-01-15T06:46:50Z: PLAYER CHATTED [ 1637682637] rubenlexx            ( -639.1,  1780.0,   -19.7)
+  Wee
+2023-01-15T06:46:57Z: PLAYER CHATTED [ 3761177871] ilikebeancereal      ( -627.6,  1692.2,   -16.7)
+  I’m gonna throw my self into a washing machine
+2023-01-15T06:46:57Z: PLAYER REMOVED [ 4116881686] Cuttiepiecookiemonst
+2023-01-15T06:47:04Z: PLAYER ADDED   [ 2278564065] btw_Adrian8          a.k.a. Simplysomebody      
+2023-01-15T06:47:09Z: PLAYER CHATTED [  722206686] MexicanNinja911      ( -640.0,  1408.2,   -19.4)
+  Shut up
+2023-01-15T06:47:13Z: PLAYER CHATTED [ 3761177871] ilikebeancereal      ( -548.2,  5006.7,   -66.1)
+  Nah
+2023-01-15T06:47:16Z: PLAYER CHATTED [ 3761177871] ilikebeancereal      ( -550.1,  5006.7,   -45.1)
+  I’m good
+2023-01-15T06:47:58Z: PLAYER ADDED   [ 3179496944] WaddlesIsCute959     a.k.a. LIZZY               
+2023-01-15T06:49:08Z: PLAYER CHATTED [ 1637682637] rubenlexx            ( -586.6, -2462.8,   103.6)
+  Let’s go
+2023-01-15T06:49:13Z: PLAYER CHATTED [ 3761177871] ilikebeancereal      ( -625.0, -2462.9,    74.2)
+  😱😱😱😱
+2023-01-15T06:49:18Z: PLAYER REMOVED [ 1637682637] rubenlexx           
+2023-01-15T06:49:23Z: PLAYER CHATTED [ 3761177871] ilikebeancereal      ( -616.0, -2462.9,    58.1)
+  THE ONE PIECE IS REAL!!!
+2023-01-15T06:49:32Z: CHRCTER ADDED  [ 3761177871] ilikebeancereal      a.k.a. Dahoodisweird       
+2023-01-15T06:49:32Z: CHRCTER ADDED  [ 1518498276] Amarya1977           a.k.a. Amarya              
+2023-01-15T06:49:32Z: CHRCTER ADDED  [ 1494590051] genesis123rock       a.k.a. Sunny               
+2023-01-15T06:49:32Z: CHRCTER ADDED  [ 3179496944] WaddlesIsCute959     a.k.a. LIZZY               
+2023-01-15T06:49:32Z: CHRCTER ADDED  [  662396071] SUPDUDE8051          a.k.a. UnotPushingP        
+2023-01-15T06:49:32Z: CHRCTER ADDED  [ 2278564065] btw_Adrian8          a.k.a. Simplysomebody      
+2023-01-15T06:49:33Z: CHRCTER ADDED  [  722206686] MexicanNinja911      a.k.a. Bigprrrr            
+2023-01-15T06:49:33Z: CHRCTER ADDED  [ 3609383231] App1eBl0ss0m         a.k.a. Addie               
+2023-01-15T06:49:33Z: CHRCTER ADDED  [ 3034752405] Duke4516             a.k.a. ThInG11             
+2023-01-15T06:49:33Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-15T06:49:37Z: PLAYER CHATTED [ 2278564065] btw_Adrian8          ( -563.2,  5007.3,   -42.5)
+  ?
+2023-01-15T06:49:51Z: PLAYER REMOVED [ 3609383231] App1eBl0ss0m         a.k.a. Addie               
+2023-01-15T06:49:51Z: PLAYER REMOVED [  662396071] SUPDUDE8051          a.k.a. UnotPushingP        
+2023-01-15T06:49:58Z: PLAYER REMOVED [  722206686] MexicanNinja911      a.k.a. Bigprrrr            
+2023-01-15T06:50:02Z: PLAYER REMOVED [ 3179496944] WaddlesIsCute959     a.k.a. LIZZY               
+2023-01-15T06:50:04Z: PLAYER REMOVED [ 3034752405] Duke4516             a.k.a. ThInG11             
+2023-01-15T06:50:25Z: PLAYER CHATTED [ 3761177871] ilikebeancereal      ( -589.3,  4085.7,    -2.9)
+  What is something that rhymes with trigger and digger
+2023-01-15T06:50:36Z: PLAYER CHATTED [ 2278564065] btw_Adrian8          ( -528.0,  3484.3,     1.2)
+  ######
+2023-01-15T06:50:41Z: PLAYER CHATTED [ 2278564065] btw_Adrian8          ( -528.0,  3484.3,     1.2)
+  ####
+2023-01-15T06:50:45Z: PLAYER CHATTED [ 3761177871] ilikebeancereal      ( -621.7,  4040.9,   -11.1)
+  I’ll give a. Hint
+2023-01-15T06:50:52Z: PLAYER CHATTED [ 3761177871] ilikebeancereal      ( -621.7,  4040.9,   -11.1)
+  N_____r
+2023-01-15T06:51:00Z: PLAYER CHATTED [ 2278564065] btw_Adrian8          ( -524.4,  3275.0,    45.2)
+  Nicer
+2023-01-15T06:51:09Z: PLAYER CHATTED [ 3761177871] ilikebeancereal      ( -632.0,  3703.4,    -0.6)
+  That doesn’t rhyme
+2023-01-15T06:51:16Z: PLAYER CHATTED [ 2278564065] btw_Adrian8          ( -513.6,  2418.4,   127.2)
+  N-g-I-
+2023-01-15T06:51:31Z: PLAYER CHATTED [ 3761177871] ilikebeancereal      ( -630.9,  3135.6,    -0.5)
+  I’ll help u
+2023-01-15T06:51:32Z: PLAYER CHATTED [ 2278564065] btw_Adrian8          ( -577.1,  2457.2,   117.9)
+  ########
+2023-01-15T06:51:32Z: PLAYER CHATTED [ 3761177871] ilikebeancereal      ( -630.9,  3135.6,    -0.5)
+  N
+2023-01-15T06:51:35Z: PLAYER CHATTED [ 2278564065] btw_Adrian8          ( -559.8,  2433.3,   117.5)
+  I
+2023-01-15T06:51:38Z: PLAYER CHATTED [ 2278564065] btw_Adrian8          ( -559.7,  2433.3,   117.5)
+  ##
+2023-01-15T06:51:38Z: PLAYER CHATTED [ 3761177871] ilikebeancereal      ( -633.1,  2964.7,    -4.2)
+  G
+2023-01-15T06:51:40Z: PLAYER CHATTED [ 2278564065] btw_Adrian8          ( -559.7,  2433.3,   117.5)
+  #
+2023-01-15T06:51:42Z: PLAYER CHATTED [ 3761177871] ilikebeancereal      ( -634.2,  2962.3,    -7.5)
+  E
+2023-01-15T06:51:43Z: PLAYER CHATTED [ 2278564065] btw_Adrian8          ( -559.7,  2433.3,   117.5)
+  E
+2023-01-15T06:51:44Z: PLAYER CHATTED [ 2278564065] btw_Adrian8          ( -559.7,  2433.3,   117.5)
+  R
+2023-01-15T06:51:44Z: PLAYER CHATTED [ 3761177871] ilikebeancereal      ( -634.2,  2962.3,    -7.5)
+  #
+2023-01-15T06:51:51Z: PLAYER CHATTED [ 3761177871] ilikebeancereal      ( -609.7,  2869.8,   -11.6)
+  I got it correct
+2023-01-15T06:51:54Z: PLAYER CHATTED [ 3761177871] ilikebeancereal      ( -591.0,  2834.5,    -8.5)
+  U
+2023-01-15T06:53:33Z: PLAYER CHATTED [ 3761177871] ilikebeancereal      ( -632.5,  1342.2,   113.4)
+  Little Timmy has 40 dollars
+2023-01-15T06:53:44Z: PLAYER CHATTED [ 3761177871] ilikebeancereal      ( -633.0,  1248.5,   113.1)
+  Little Timmy gets 20 dollars
+2023-01-15T06:53:57Z: PLAYER REMOVED [ 1518498276] Amarya1977           a.k.a. Amarya              
+2023-01-15T06:53:57Z: PLAYER CHATTED [ 3761177871] ilikebeancereal      ( -632.7,  1156.9,   110.1)
+  Use the total to calculate the mass of the sun
+2023-01-15T06:54:02Z: PLAYER CHATTED [ 2278564065] btw_Adrian8          ( -610.8, -1435.9,    16.9)
+  Bruh
+2023-01-15T06:54:10Z: PLAYER CHATTED [ 2278564065] btw_Adrian8          ( -607.9, -1439.9,    17.8)
+  1.3000.4
+2023-01-15T06:54:18Z: PLAYER CHATTED [ 3761177871] ilikebeancereal      ( -639.0,   822.3,   113.5)
+  Incorrect 
+2023-01-15T06:54:22Z: PLAYER CHATTED [ 3761177871] ilikebeancereal      ( -639.0,   822.3,   113.5)
+  By 1 digit
+2023-01-15T06:54:30Z: PLAYER CHATTED [ 2278564065] btw_Adrian8          ( -569.9, -2052.9,    44.1)
+  ######
+2023-01-15T06:54:33Z: PLAYER CHATTED [ 3761177871] ilikebeancereal      ( -632.4,   675.5,   112.9)
+  1.3000.3
+2023-01-15T06:54:36Z: PLAYER CHATTED [ 2278564065] btw_Adrian8          ( -553.6, -2115.3,    76.5)
+  Lol
+2023-01-15T06:54:49Z: CHRCTER ADDED  [ 2278564065] btw_Adrian8          a.k.a. Simplysomebody      
+2023-01-15T06:55:12Z: CHRCTER ADDED  [ 2278564065] btw_Adrian8          a.k.a. Simplysomebody      
+2023-01-15T06:55:12Z: CHRCTER ADDED  [ 3761177871] ilikebeancereal      a.k.a. Dahoodisweird       
+2023-01-15T06:55:12Z: CHRCTER ADDED  [ 1494590051] genesis123rock       a.k.a. Sunny               
+2023-01-15T06:55:12Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-15T06:57:30Z: PLAYER REMOVED [ 1494590051] genesis123rock       a.k.a. Sunny               
+2023-01-15T06:57:34Z: PLAYER REMOVED [ 3761177871] ilikebeancereal      a.k.a. Dahoodisweird       
+2023-01-15T06:58:11Z: PLAYER REMOVED [ 2278564065] btw_Adrian8          a.k.a. Simplysomebody      
+2023-01-15T06:58:20Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-15T07:03:53Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-15T07:05:42Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-15T07:05:56Z: PLAYER ADDED   [ 1104226966] RRSOW               
+2023-01-15T07:06:28Z: PLAYER ADDED   [ 1080544636] Duxxor               a.k.a. Cauli               
+2023-01-15T07:06:38Z: PLAYER REMOVED [ 1104226966] RRSOW               
+2023-01-15T07:06:54Z: CHRCTER ADDED  [ 1080544636] Duxxor               a.k.a. Cauli               
+2023-01-15T07:06:55Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-15T07:06:56Z: PLAYER REMOVED [ 1080544636] Duxxor               a.k.a. Cauli               
+2023-01-15T07:07:37Z: PLAYER ADDED   [ 1450513629] gavvymer13           a.k.a. Kalishnikov         
+2023-01-15T07:07:51Z: PLAYER ADDED   [ 2716668627] Ellisjr23           
+2023-01-15T07:08:03Z: CHRCTER ADDED  [ 2716668627] Ellisjr23           
+2023-01-15T07:08:03Z: CHRCTER ADDED  [ 1450513629] gavvymer13           a.k.a. Kalishnikov         
+2023-01-15T07:08:03Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-15T07:08:25Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -432.8, -2462.2,     7.6)
+  ÒÓ
+2023-01-15T07:08:31Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -501.2, -2462.7,    27.5)
+  I reached Ohio.
+2023-01-15T07:09:25Z: CHRCTER ADDED  [ 2716668627] Ellisjr23           
+2023-01-15T07:09:25Z: CHRCTER ADDED  [ 1450513629] gavvymer13           a.k.a. Kalishnikov         
+2023-01-15T07:09:25Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-15T07:09:30Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -566.6,  5007.4,   -32.1)
+  I apologise for the inconvenience.
+2023-01-15T07:11:46Z: PLAYER REMOVED [ 1450513629] gavvymer13           a.k.a. Kalishnikov         
+2023-01-15T07:13:42Z: PLAYER ADDED   [ 3224892684] Thanadej0704        
+2023-01-15T07:13:45Z: PLAYER REMOVED [ 2716668627] Ellisjr23           
+2023-01-15T07:15:08Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -558.0, -2462.7,  -109.0)
+  AUTOCLICKCKCK!
+2023-01-15T07:15:20Z: CHRCTER ADDED  [ 3224892684] Thanadej0704        
+2023-01-15T07:15:20Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-15T07:15:50Z: PLAYER REMOVED [ 3224892684] Thanadej0704        
+2023-01-15T07:16:15Z: PLAYER ADDED   [  998553697] Ceej_5               a.k.a. PGHLfilms1945       
+2023-01-15T07:16:31Z: PLAYER REMOVED [  998553697] Ceej_5               a.k.a. PGHLfilms1945       
+2023-01-15T07:16:52Z: PLAYER ADDED   [ 2883179490] slxceofpxe           a.k.a. Fry1ng_pan          
+2023-01-15T07:16:57Z: CHRCTER ADDED  [ 2883179490] slxceofpxe           a.k.a. Fry1ng_pan          
+2023-01-15T07:16:57Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-15T07:17:04Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-15T07:18:18Z: CHRCTER ADDED  [ 2883179490] slxceofpxe           a.k.a. Fry1ng_pan          
+2023-01-15T07:18:18Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-15T07:18:44Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -717.9, -1630.3,  -610.7)
+  I'm accumulating points for myself.
+2023-01-15T07:18:57Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -717.9, -1630.3,  -610.7)
+  To do that, I fly to the end of the map.
+2023-01-15T07:19:05Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -717.9, -1630.3,  -610.7)
+  That however means I make the timer run really fast.
+2023-01-15T07:19:10Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -717.9, -1630.3,  -610.7)
+  Is that fine with you?
+2023-01-15T07:19:14Z: PLAYER REMOVED [ 2883179490] slxceofpxe           a.k.a. Fry1ng_pan          
+2023-01-15T07:19:31Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-15T07:20:41Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-15T07:21:22Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-15T07:21:38Z: PLAYER ADDED   [ 2029115609] PrincessNana0813     a.k.a. Happyari1267        
+2023-01-15T07:21:48Z: CHRCTER ADDED  [ 2029115609] PrincessNana0813     a.k.a. Happyari1267        
+2023-01-15T07:21:51Z: CHRCTER ADDED  [ 2029115609] PrincessNana0813     a.k.a. Happyari1267        
+2023-01-15T07:21:51Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-15T07:22:02Z: PLAYER ADDED   [ 2646627787] PrincessGabyy07     
+2023-01-15T07:22:17Z: PLAYER REMOVED [ 2646627787] PrincessGabyy07     
+2023-01-15T07:22:20Z: PLAYER ADDED   [ 2646627787] PrincessGabyy07     
+2023-01-15T07:23:51Z: PLAYER REMOVED [ 2029115609] PrincessNana0813     a.k.a. Happyari1267        
+2023-01-15T07:24:11Z: PLAYER REMOVED [ 2646627787] PrincessGabyy07     
+2023-01-15T07:24:21Z: PLAYER ADDED   [ 3082060119] smartgirlie8         a.k.a. hidingfromamy       
+2023-01-15T07:26:17Z: PLAYER ADDED   [ 2343293316] fruity_cake110       a.k.a. toomy               
+2023-01-15T07:26:23Z: PLAYER ADDED   [ 3019639331] NoUf2750            
+2023-01-15T07:28:56Z: PLAYER CHATTED [ 3019639331] NoUf2750             ( -520.7, -1991.7,   125.9)
+  SOPT
+2023-01-15T07:29:24Z: CHRCTER ADDED  [ 3082060119] smartgirlie8         a.k.a. hidingfromamy       
+2023-01-15T07:29:24Z: CHRCTER ADDED  [ 3019639331] NoUf2750            
+2023-01-15T07:29:24Z: CHRCTER ADDED  [ 2343293316] fruity_cake110       a.k.a. toomy               
+2023-01-15T07:29:24Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-15T07:30:23Z: PLAYER ADDED   [  532555399] BeefTaco_007         a.k.a. willow              
+2023-01-15T07:30:30Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

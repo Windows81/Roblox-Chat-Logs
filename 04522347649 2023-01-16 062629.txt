@@ -1,0 +1,68 @@
+[    1630228] : [ 4522347649] [FREE ADMIN] - 1c1c2e12-3ff4-4101-9c0b-3c7a6e830a25
+2023-01-16T06:26:29Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-16T06:26:29Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T06:26:29Z: PLAYER ADDED   [ 3089270331] CharlsBrandon17      a.k.a. ObbyKing            
+2023-01-16T06:26:29Z: PLAYER ADDED   [ 3580991437] zechariahedward     
+2023-01-16T06:26:29Z: PLAYER ADDED   [ 4232238103] VAL_KARHA           
+2023-01-16T06:26:29Z: PLAYER ADDED   [ 4177852051] Zechariahallen18    
+2023-01-16T06:26:29Z: PLAYER ADDED   [ 3452504426] Dinoteeth13         
+2023-01-16T06:26:31Z: CHRCTER ADDED  [ 3089270331] CharlsBrandon17      a.k.a. ObbyKing            
+2023-01-16T06:26:35Z: CHRCTER ADDED  [ 4177852051] Zechariahallen18    
+2023-01-16T06:26:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -45.1,    -1.0,   102.5)
+  Dino.
+2023-01-16T06:26:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -54.6,    -1.0,    91.0)
+  Let's fight.
+2023-01-16T06:26:47Z: PLAYER CHATTED [ 3452504426] Dinoteeth13          (  -45.9,    -1.0,    90.3)
+  I have 117 kills and 1 death
+2023-01-16T06:26:50Z: CHRCTER ADDED  [ 4232238103] VAL_KARHA           
+2023-01-16T06:26:55Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -54.0,    -1.0,    90.6)
+  That's why I approached you.
+2023-01-16T06:27:00Z: PLAYER CHATTED [ 3452504426] Dinoteeth13          (  -46.0,    -1.0,    90.4)
+  Are you positive?
+2023-01-16T06:27:06Z: CHRCTER ADDED  [ 3089270331] CharlsBrandon17      a.k.a. ObbyKing            
+2023-01-16T06:27:06Z: PLAYER CHATTED [ 4232238103] VAL_KARHA            (  -80.7,    -1.0,   125.7)
+  отвалите от меня
+2023-01-16T06:27:16Z: PLAYER CHATTED [ 3452504426] Dinoteeth13          ( -113.9,    -1.0,   105.3)
+  And then 
+2023-01-16T06:27:32Z: PLAYER CHATTED [ 3452504426] Dinoteeth13          ( -159.2,    -1.0,   113.4)
+  :clear
+2023-01-16T06:27:38Z: PLAYER CHATTED [ 3452504426] Dinoteeth13          ( -159.2,    -1.0,   113.4)
+  :thaw
+2023-01-16T06:27:46Z: PLAYER CHATTED [ 3452504426] Dinoteeth13          (  -64.4,    -1.0,    51.1)
+  :ff
+2023-01-16T06:27:51Z: PLAYER CHATTED [ 3452504426] Dinoteeth13          ( -105.0,    -1.0,    73.5)
+  :unff
+2023-01-16T06:27:53Z: CHRCTER ADDED  [ 3580991437] zechariahedward     
+2023-01-16T06:28:13Z: PLAYER CHATTED [ 3452504426] Dinoteeth13          (  -36.2,    -1.0,   -19.2)
+  :thaw
+2023-01-16T06:28:30Z: CHRCTER ADDED  [ 4232238103] VAL_KARHA           
+2023-01-16T06:28:30Z: CHRCTER ADDED  [ 3089270331] CharlsBrandon17      a.k.a. ObbyKing            
+2023-01-16T06:28:46Z: CHRCTER ADDED  [ 4177852051] Zechariahallen18    
+2023-01-16T06:28:54Z: PLAYER CHATTED [ 3452504426] Dinoteeth13          (  -32.1,     4.0,   -23.1)
+  :thaw
+2023-01-16T06:28:58Z: PLAYER CHATTED [ 3452504426] Dinoteeth13          (  -39.1,    -1.0,   -12.5)
+  :ff
+2023-01-16T06:29:00Z: CHRCTER ADDED  [ 3580991437] zechariahedward     
+2023-01-16T06:29:01Z: PLAYER CHATTED [ 3452504426] Dinoteeth13          (  -39.1,    -1.0,   -12.5)
+  :thaw
+2023-01-16T06:29:05Z: PLAYER CHATTED [ 3452504426] Dinoteeth13          (  -50.0,    -1.0,     9.7)
+  Stop cheating
+2023-01-16T06:29:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -89.6,    -1.0,   -30.6)
+  You have 122 kills and one death.
+2023-01-16T06:29:16Z: PLAYER CHATTED [ 3452504426] Dinoteeth13          ( -116.6,    -1.0,   101.7)
+  No
+2023-01-16T06:29:21Z: CHRCTER ADDED  [ 4232238103] VAL_KARHA           
+2023-01-16T06:29:27Z: PLAYER CHATTED [ 3452504426] Dinoteeth13          ( -145.5,    -1.0,   110.3)
+  I decline it
+2023-01-16T06:29:32Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -165.0,    -1.0,    99.9)
+  That's fine.
+2023-01-16T06:29:37Z: PLAYER CHATTED [ 3452504426] Dinoteeth13         
+  :explode me
+2023-01-16T06:29:40Z: CHRCTER ADDED  [ 3452504426] Dinoteeth13         
+2023-01-16T06:29:44Z: CHRCTER ADDED  [ 3580991437] zechariahedward     
+2023-01-16T06:29:49Z: PLAYER CHATTED [ 3452504426] Dinoteeth13          ( -159.2,    -1.0,   131.7)
+  ###
+2023-01-16T06:29:53Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -103.1,    -1.0,    95.8)
+  Nice seeing you.
+2023-01-16T06:29:56Z: CHRCTER ADDED  [ 3089270331] CharlsBrandon17      a.k.a. ObbyKing            
+2023-01-16T06:29:59Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

@@ -1,0 +1,121 @@
+[    1630228] : [ 4522347649] [FREE ADMIN] - 6e71dff4-c0a7-4e6c-bff7-6c6e851e42a2
+2023-01-17T04:07:09Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-17T04:07:09Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-17T04:07:09Z: PLAYER ADDED   [ 3925622369] Casandra133279      
+2023-01-17T04:07:09Z: PLAYER ADDED   [ 2791552705] Firexx42             a.k.a. Susboi              
+2023-01-17T04:07:09Z: PLAYER ADDED   [ 3138232169] goofynothrere        a.k.a. Danial              
+2023-01-17T04:07:09Z: PLAYER ADDED   [ 4245147223] Victor_Victor89     
+2023-01-17T04:07:09Z: PLAYER ADDED   [ 4246977472] avaberryboo37       
+2023-01-17T04:07:09Z: PLAYER ADDED   [ 3615395661] sogoodatbedwars120   a.k.a. Foltyn              
+2023-01-17T04:07:09Z: PLAYER ADDED   [ 2917834379] Harryreynante        a.k.a. BuBu                
+2023-01-17T04:07:16Z: PLAYER CHATTED [ 2791552705] Firexx42             ( -152.3,    -1.0,    32.5)
+  /tp
+2023-01-17T04:07:22Z: PLAYER CHATTED [ 4245147223] Victor_Victor89      ( -200.4,    -1.0,   130.8)
+  bye
+2023-01-17T04:07:22Z: CHRCTER ADDED  [ 3925622369] Casandra133279      
+2023-01-17T04:07:23Z: PLAYER CHATTED [ 2791552705] Firexx42             ( -130.3,    -1.0,    -7.3)
+  /tp s
+2023-01-17T04:07:24Z: PLAYER CHATTED [ 4245147223] Victor_Victor89      ( -200.4,    -1.0,   130.8)
+  babe
+2023-01-17T04:07:28Z: PLAYER CHATTED [ 2791552705] Firexx42             ( -126.4,     0.3,   -24.2)
+  Basim
+2023-01-17T04:07:28Z: PLAYER CHATTED [ 2917834379] Harryreynante        ( -198.6,    -1.0,   134.7)
+  ok
+2023-01-17T04:07:36Z: PLAYER CHATTED [ 2791552705] Firexx42             ( -150.6,    -1.0,    -5.5)
+  Pls 
+2023-01-17T04:07:40Z: PLAYER CHATTED [ 4245147223] Victor_Victor89      ( -195.8,    -1.0,   136.6)
+  bruuuh
+2023-01-17T04:07:40Z: PLAYER CHATTED [ 2791552705] Firexx42             ( -155.7,    -1.0,   -12.4)
+  Be nice
+2023-01-17T04:07:40Z: PLAYER CHATTED [ 3615395661] sogoodatbedwars120   ( -181.6,    -1.0,   -28.3)
+  What
+2023-01-17T04:07:48Z: PLAYER CHATTED [ 4245147223] Victor_Victor89      ( -198.1,    -1.0,   136.7)
+  r u not ssdd
+2023-01-17T04:07:54Z: CHRCTER ADDED  [ 3925622369] Casandra133279      
+2023-01-17T04:08:00Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -177.3,    81.2,   252.6)
+  Who wants to fight me?
+2023-01-17T04:08:09Z: PLAYER CHATTED [ 2791552705] Firexx42             (  -38.4,    -1.0,   -17.6)
+  :fly
+2023-01-17T04:08:14Z: PLAYER CHATTED [ 4245147223] Victor_Victor89      ( -212.0,    -1.0,   131.9)
+  hello
+2023-01-17T04:08:17Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -177.3,    81.2,   252.6)
+  I'm using an ultra-powerful attack script.
+2023-01-17T04:08:35Z: CHRCTER ADDED  [ 3925622369] Casandra133279      
+2023-01-17T04:08:37Z: PLAYER CHATTED [ 2917834379] Harryreynante        ( -210.8,    -1.0,   132.0)
+  its obvious
+2023-01-17T04:08:41Z: CHRCTER ADDED  [ 3138232169] goofynothrere        a.k.a. Danial              
+2023-01-17T04:08:43Z: PLAYER CHATTED [ 3138232169] goofynothrere        (  -33.9,    -1.0,   149.5)
+  :fly
+2023-01-17T04:08:43Z: PLAYER CHATTED [ 4245147223] Victor_Victor89      ( -211.9,    -1.0,   132.1)
+  what
+2023-01-17T04:08:56Z: PLAYER CHATTED [ 4245147223] Victor_Victor89      ( -211.9,    -1.0,   130.4)
+  what's obvious
+2023-01-17T04:08:58Z: PLAYER CHATTED [ 2791552705] Firexx42             (  -37.8,    -1.0,    35.7)
+  :speed me 45
+2023-01-17T04:09:05Z: PLAYER CHATTED [ 2791552705] Firexx42             (  -96.5,    -1.0,   -67.4)
+  #############
+2023-01-17T04:09:11Z: PLAYER CHATTED [ 4245147223] Victor_Victor89      ( -211.6,    -1.0,   130.4)
+  ###########
+2023-01-17T04:09:14Z: PLAYER CHATTED [ 4245147223] Victor_Victor89      ( -211.6,    -1.0,   130.4)
+  I love
+2023-01-17T04:09:18Z: PLAYER CHATTED [ 4245147223] Victor_Victor89      ( -211.6,    -1.0,   130.4)
+  youuu
+2023-01-17T04:09:19Z: PLAYER CHATTED [ 2917834379] Harryreynante        ( -209.0,    -1.0,   131.3)
+  happy new year so we need to stay happy
+2023-01-17T04:09:22Z: PLAYER CHATTED [ 3615395661] sogoodatbedwars120   (  -71.9,    -1.0,    23.7)
+  :speed me 100
+2023-01-17T04:09:29Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -187.3,    -1.0,   -20.3)
+  Happy 17th of July!
+2023-01-17T04:09:36Z: PLAYER CHATTED [ 4245147223] Victor_Victor89      ( -206.9,    -1.0,   131.3)
+  hmmmmm
+2023-01-17T04:09:37Z: PLAYER CHATTED [ 3615395661] sogoodatbedwars120   ( -114.3,    -1.0,   -41.2)
+  #############
+2023-01-17T04:09:45Z: PLAYER CHATTED [ 4245147223] Victor_Victor89      ( -205.4,    -1.0,   129.7)
+  let's break
+2023-01-17T04:09:47Z: PLAYER CHATTED [ 4245147223] Victor_Victor89      ( -205.4,    -1.0,   129.7)
+  up
+2023-01-17T04:09:49Z: PLAYER CHATTED [ 2791552705] Firexx42             ( -188.0,    -0.9,  -238.7)
+  Basim
+2023-01-17T04:09:57Z: PLAYER CHATTED [ 2917834379] Harryreynante        ( -194.2,    -1.0,   126.5)
+  ok
+2023-01-17T04:10:01Z: PLAYER CHATTED [ 2791552705] Firexx42             ( -186.4,    -0.4,  -238.7)
+  Basim
+2023-01-17T04:10:03Z: PLAYER CHATTED [ 4245147223] Victor_Victor89      ( -193.1,    -1.0,   126.3)
+  BRUHHH
+2023-01-17T04:10:11Z: PLAYER CHATTED [ 2791552705] Firexx42             ( -186.3,    -0.4,  -238.7)
+  :mm Basim is a loser
+2023-01-17T04:10:17Z: CHRCTER ADDED  [ 4245147223] Victor_Victor89     
+2023-01-17T04:10:18Z: CHRCTER ADDED  [ 3138232169] goofynothrere        a.k.a. Danial              
+2023-01-17T04:10:20Z: PLAYER CHATTED [ 2791552705] Firexx42             ( -186.7,    -0.4,  -238.7)
+  Sike Ke
+2023-01-17T04:10:22Z: PLAYER REMOVED [ 2791552705] Firexx42             a.k.a. Susboi              
+2023-01-17T04:10:23Z: PLAYER CHATTED [ 3138232169] goofynothrere        (  -19.2,    -1.0,   149.5)
+  :ff
+2023-01-17T04:10:24Z: PLAYER ADDED   [ 2791552705] Firexx42             a.k.a. Susboi              
+2023-01-17T04:10:31Z: PLAYER CHATTED [ 3138232169] goofynothrere        (  -19.2,    -1.0,   149.5)
+  :explode fire
+2023-01-17T04:10:32Z: PLAYER CHATTED [ 4245147223] Victor_Victor89      ( -201.0,    -1.0,   124.8)
+  okay bye
+2023-01-17T04:10:33Z: CHRCTER ADDED  [ 2791552705] Firexx42             a.k.a. Susboi              
+2023-01-17T04:10:35Z: PLAYER CHATTED [ 3138232169] goofynothrere        (  -19.2,    -1.0,   149.5)
+  :explode fire
+2023-01-17T04:10:36Z: PLAYER CHATTED [ 2791552705] Firexx42            
+  /w goofynothrere  :m g
+2023-01-17T04:10:37Z: PLAYER CHATTED [ 2917834379] Harryreynante        ( -203.0,    -1.0,   124.1)
+  bye
+2023-01-17T04:10:37Z: PLAYER CHATTED [ 4245147223] Victor_Victor89      ( -201.0,    -1.0,   124.8)
+  bye bye bye bye
+2023-01-17T04:10:38Z: CHRCTER ADDED  [ 2791552705] Firexx42             a.k.a. Susboi              
+2023-01-17T04:10:40Z: PLAYER CHATTED [ 3138232169] goofynothrere        (  -19.3,    -1.0,   149.5)
+  :explode fire
+2023-01-17T04:10:41Z: PLAYER CHATTED [ 4245147223] Victor_Victor89      ( -202.0,    -1.0,   124.6)
+  mwa
+2023-01-17T04:10:42Z: CHRCTER ADDED  [ 2791552705] Firexx42             a.k.a. Susboi              
+2023-01-17T04:10:43Z: PLAYER CHATTED [ 2791552705] Firexx42             (  -23.9,    -0.9,   149.5)
+  Bro stop
+2023-01-17T04:10:43Z: PLAYER REMOVED [ 4245147223] Victor_Victor89     
+2023-01-17T04:10:50Z: PLAYER CHATTED [ 2791552705] Firexx42             (  -37.8,    -0.4,   144.7)
+  :ff
+2023-01-17T04:10:53Z: PLAYER CHATTED [ 3138232169] goofynothrere        (  -67.6,    -1.0,   120.5)
+  :speed me 50
+2023-01-17T04:11:05Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

@@ -1,0 +1,18 @@
+[    1630228] : [ 4522347649] [FREE ADMIN] - c702e751-fb77-4163-87ee-4a14ee584b51
+2023-01-17T02:15:55Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-17T02:15:55Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-17T02:15:55Z: PLAYER ADDED   [ 1332615838] crisbrocool393       a.k.a. Colist              
+2023-01-17T02:15:55Z: PLAYER ADDED   [ 4007122992] sosodeto            
+2023-01-17T02:15:55Z: PLAYER ADDED   [ 4235659713] fhfskfx             
+2023-01-17T02:15:55Z: PLAYER ADDED   [ 4088865533] poleth3754          
+2023-01-17T02:15:55Z: PLAYER ADDED   [ 4151389941] carlos_elpro818     
+2023-01-17T02:16:00Z: CHRCTER ADDED  [ 4088865533] poleth3754          
+2023-01-17T02:16:00Z: PLAYER CHATTED [ 4088865533] poleth3754           (  -29.6,    -0.9,   124.0)
+  :void
+2023-01-17T02:16:03Z: PLAYER CHATTED [ 1332615838] crisbrocool393       (  -28.5,    -1.0,   139.9)
+  :kill others
+2023-01-17T02:16:06Z: CHRCTER ADDED  [ 4007122992] sosodeto            
+2023-01-17T02:16:06Z: CHRCTER ADDED  [ 4235659713] fhfskfx             
+2023-01-17T02:16:06Z: CHRCTER ADDED  [ 4151389941] carlos_elpro818     
+2023-01-17T02:16:06Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-17T02:16:07Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

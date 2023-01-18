@@ -1,0 +1,15 @@
+[    1630228] : [ 4522347649] [FREE ADMIN] - 9ed3ef82-e67b-4326-872e-fbc1fa2d7e02
+2023-01-17T04:05:26Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-17T04:05:26Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-17T04:05:26Z: PLAYER ADDED   [ 4162676083] Doritos_thereal     
+2023-01-17T04:05:26Z: PLAYER ADDED   [ 1696879865] Golemkendy           a.k.a. Real_Madrid         
+2023-01-17T04:05:26Z: PLAYER ADDED   [ 3443398035] zactilin            
+2023-01-17T04:05:26Z: PLAYER ADDED   [ 4223130094] ADRIAN_440909       
+2023-01-17T04:05:26Z: PLAYER ADDED   [ 4205775578] rodrigo06javi       
+2023-01-17T04:05:30Z: PLAYER CHATTED [ 3443398035] zactilin             (  -32.1,     0.1,   154.3)
+  :Explode bruna 
+2023-01-17T04:05:33Z: PLAYER CHATTED [ 4223130094] ADRIAN_440909        (  -28.1,    -1.0,   147.2)
+  :zombie
+2023-01-17T04:05:42Z: CHRCTER ADDED  [ 1696879865] Golemkendy           a.k.a. Real_Madrid         
+2023-01-17T04:05:54Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-17T04:05:55Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

@@ -1,0 +1,192 @@
+[    1630228] : [ 4522347649] [FREE ADMIN] - ba94a5e9-1ace-4352-bd28-f1085d3d3ea4
+2023-01-16T06:42:12Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-16T06:42:12Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T06:42:12Z: PLAYER ADDED   [ 3614163097] kngandeptraihathay   a.k.a. NqKimNqann          
+2023-01-16T06:42:12Z: PLAYER ADDED   [ 4178153150] NDGAMING9863        
+2023-01-16T06:42:12Z: PLAYER ADDED   [ 3839965652] Halehung2016vt      
+2023-01-16T06:42:12Z: PLAYER ADDED   [ 3017503785] ultrnguvailon        a.k.a. TuongMemee          
+2023-01-16T06:42:12Z: PLAYER ADDED   [ 3112733168] AqifCraft123         a.k.a. aqifcraft_gaming    
+2023-01-16T06:42:12Z: PLAYER ADDED   [ 3051703580] mfdmar              
+2023-01-16T06:42:13Z: PLAYER CHATTED [ 3614163097] kngandeptraihathay   ( -265.8,    84.3,   -68.8)
+  xau
+2023-01-16T06:42:13Z: PLAYER CHATTED [ 3017503785] ultrnguvailon        ( -264.5,    84.3,   -76.0)
+  :))
+2023-01-16T06:42:15Z: PLAYER CHATTED [ 3112733168] AqifCraft123         (  -36.4,    -1.0,   128.9)
+  :everyone
+2023-01-16T06:42:19Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -25.8,    -1.0,   141.8)
+  Aye.
+2023-01-16T06:42:22Z: PLAYER CHATTED [ 3017503785] ultrnguvailon        ( -266.4,    84.3,   -77.8)
+  oke ### em
+2023-01-16T06:42:25Z: PLAYER CHATTED [ 3112733168] AqifCraft123         (  -27.6,    -1.0,   137.2)
+  :fly v
+2023-01-16T06:42:30Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T06:42:43Z: PLAYER CHATTED [ 3614163097] kngandeptraihathay   ( -269.1,    84.3,   -74.0)
+  a se bao ve e
+2023-01-16T06:42:54Z: PLAYER CHATTED [ 3614163097] kngandeptraihathay   ( -269.1,    84.3,   -74.0)
+  nhin e yeu duoi mong manh qa
+2023-01-16T06:42:58Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -180.8,    -1.0,   132.5)
+  Fight me.
+2023-01-16T06:43:00Z: PLAYER CHATTED [ 4178153150] NDGAMING9863         ( -269.0,    89.5,   -82.3)
+  what
+2023-01-16T06:43:04Z: PLAYER REMOVED [ 3839965652] Halehung2016vt      
+2023-01-16T06:43:06Z: PLAYER CHATTED [ 3614163097] kngandeptraihathay   ( -269.1,    84.3,   -74.0)
+  =)))))))))))))
+2023-01-16T06:43:09Z: PLAYER CHATTED [ 3017503785] ultrnguvailon        ( -266.5,    84.3,   -75.8)
+  oke anh
+2023-01-16T06:43:15Z: PLAYER CHATTED [ 3614163097] kngandeptraihathay   ( -269.1,    84.3,   -74.0)
+  dm m ### t mac cuoi qua
+2023-01-16T06:43:20Z: PLAYER CHATTED [ 3017503785] ultrnguvailon        ( -269.5,    84.3,   -76.4)
+  :))
+2023-01-16T06:43:21Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T06:43:21Z: PLAYER CHATTED [ 3017503785] ultrnguvailon        ( -269.5,    84.3,   -76.4)
+  :))
+2023-01-16T06:43:23Z: PLAYER CHATTED [ 3017503785] ultrnguvailon        ( -269.5,    84.3,   -76.4)
+  dzai
+2023-01-16T06:43:25Z: PLAYER CHATTED [ 3614163097] kngandeptraihathay   ( -265.9,    84.3,   -70.5)
+  con cai j k\
+2023-01-16T06:43:29Z: PLAYER CHATTED [ 3614163097] kngandeptraihathay   ( -265.9,    84.3,   -70.5)
+  show het ra di
+2023-01-16T06:43:37Z: PLAYER CHATTED [ 3112733168] AqifCraft123         (  -15.1,    11.8,    12.2)
+  :unmusic
+2023-01-16T06:43:41Z: PLAYER CHATTED [ 3017503785] ultrnguvailon        ( -287.9,    85.8,  -104.5)
+  nhiu lam
+2023-01-16T06:43:43Z: PLAYER CHATTED [ 3017503785] ultrnguvailon        ( -287.9,    85.8,  -104.5)
+  k het dc
+2023-01-16T06:43:51Z: PLAYER CHATTED [ 3017503785] ultrnguvailon        ( -287.9,    85.8,  -104.5)
+  anh thich bien gi keu em :))
+2023-01-16T06:43:57Z: PLAYER CHATTED [ 3614163097] kngandeptraihathay   ( -285.2,    85.8,  -109.0)
+  s m bien dc z
+2023-01-16T06:44:00Z: CHRCTER ADDED  [ 3051703580] mfdmar              
+2023-01-16T06:44:00Z: PLAYER CHATTED [ 3112733168] AqifCraft123         (   -1.1,    -1.0,    17.5)
+  :music
+2023-01-16T06:44:01Z: CHRCTER ADDED  [ 4178153150] NDGAMING9863        
+2023-01-16T06:44:08Z: PLAYER CHATTED [ 3017503785] ultrnguvailon        ( -287.9,    85.8,  -104.5)
+  a
+2023-01-16T06:44:12Z: PLAYER CHATTED [ 3017503785] ultrnguvailon        ( -287.9,    85.8,  -104.5)
+  em chi cho
+2023-01-16T06:44:16Z: PLAYER CHATTED [ 3614163097] kngandeptraihathay   ( -285.2,    85.8,  -109.0)
+  DAU
+2023-01-16T06:44:24Z: PLAYER REMOVED [ 3051703580] mfdmar              
+2023-01-16T06:44:24Z: PLAYER CHATTED [ 3112733168] AqifCraft123         (  -28.0,    -1.0,    53.9)
+  :music
+2023-01-16T06:44:29Z: PLAYER CHATTED [ 3017503785] ultrnguvailon        ( -287.9,    85.8,  -104.5)
+  cho gan chat
+2023-01-16T06:44:34Z: PLAYER CHATTED [ 3017503785] ultrnguvailon        ( -287.9,    85.8,  -104.5)
+  HD í
+2023-01-16T06:44:37Z: PLAYER ADDED   [ 4063690237] hcjjvbighb          
+2023-01-16T06:44:47Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -282.5,    85.8,  -113.5)
+  FR ¨q]
+2023-01-16T06:44:51Z: PLAYER CHATTED [ 3017503785] ultrnguvailon        ( -287.9,    85.8,  -104.5)
+  co cach bien hinh o commands
+2023-01-16T06:44:52Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -282.5,    85.8,  -113.5)
+  Limmenxce.
+2023-01-16T06:45:01Z: PLAYER CHATTED [ 3017503785] ultrnguvailon        ( -287.9,    85.8,  -104.5)
+  ghi la :commands
+2023-01-16T06:45:01Z: PLAYER CHATTED [ 3112733168] AqifCraft123         (  -99.1,    15.1,    78.4)
+  :musical
+2023-01-16T06:45:02Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -282.5,    85.8,  -113.5)
+  Whoops.
+2023-01-16T06:45:06Z: PLAYER CHATTED [ 3614163097] kngandeptraihathay   ( -285.2,    85.8,  -109.0)
+  s t k thay....
+2023-01-16T06:45:15Z: PLAYER REMOVED [ 4178153150] NDGAMING9863        
+2023-01-16T06:45:16Z: PLAYER CHATTED [ 3017503785] ultrnguvailon        ( -287.9,    85.8,  -104.5)
+  ghi ra
+2023-01-16T06:45:20Z: PLAYER CHATTED [ 3017503785] ultrnguvailon        ( -287.9,    85.8,  -104.5)
+  :commands
+2023-01-16T06:45:22Z: PLAYER CHATTED [ 3017503785] ultrnguvailon        ( -287.9,    85.8,  -104.5)
+  day
+2023-01-16T06:45:30Z: PLAYER CHATTED [ 3614163097] kngandeptraihathay   ( -287.1,    85.3,   -97.4)
+  a dm
+2023-01-16T06:45:33Z: PLAYER CHATTED [ 3017503785] ultrnguvailon        ( -287.9,    85.8,  -104.5)
+  :))
+2023-01-16T06:45:42Z: PLAYER CHATTED [ 3017503785] ultrnguvailon        ( -287.9,    85.8,  -104.5)
+  phan t2 nha
+2023-01-16T06:45:51Z: PLAYER ADDED   [ 4212879340] heiufeughuidgudg    
+2023-01-16T06:45:53Z: PLAYER CHATTED [ 3614163097] kngandeptraihathay   ( -287.1,    85.3,   -97.4)
+  roi s
+2023-01-16T06:46:00Z: PLAYER CHATTED [ 3017503785] ultrnguvailon        ( -287.9,    85.8,  -104.5)
+  cach bin hinh day
+2023-01-16T06:46:06Z: CHRCTER ADDED  [ 4063690237] hcjjvbighb          
+2023-01-16T06:46:12Z: PLAYER CHATTED [ 3614163097] kngandeptraihathay   ( -287.1,    78.3,   -97.4)
+  ??????????
+2023-01-16T06:46:15Z: PLAYER CHATTED [ 3614163097] kngandeptraihathay   ( -287.1,    78.3,   -97.4)
+  meo hieu
+2023-01-16T06:46:17Z: PLAYER CHATTED [ 3614163097] kngandeptraihathay   ( -287.1,    78.3,   -97.4)
+  ke me
+2023-01-16T06:46:28Z: PLAYER CHATTED [ 3112733168] AqifCraft123         (  -76.7,     3.9,   -34.7)
+  :m no kill 
+2023-01-16T06:46:43Z: CHRCTER ADDED  [ 4063690237] hcjjvbighb          
+2023-01-16T06:46:44Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -295.1,     9.1,   -95.5)
+  I can accept that.
+2023-01-16T06:47:11Z: PLAYER CHATTED [ 3614163097] kngandeptraihathay   ( -271.1,    84.3,   -88.8)
+  =)))))))))
+2023-01-16T06:47:39Z: PLAYER CHATTED [ 3614163097] kngandeptraihathay   ( -262.2,    84.3,   -88.7)
+  CON CAI NAO DZ HON CAI NAY K E
+2023-01-16T06:47:44Z: PLAYER CHATTED [ 3017503785] ultrnguvailon        ( -267.7,    84.3,   -86.2)
+  co 
+2023-01-16T06:47:46Z: PLAYER CHATTED [ 3017503785] ultrnguvailon        ( -267.7,    84.3,   -86.2)
+  cho em
+2023-01-16T06:47:48Z: PLAYER CHATTED [ 4063690237] hcjjvbighb           ( -375.0,    -1.0,   -34.0)
+  :ff
+2023-01-16T06:48:00Z: PLAYER CHATTED [ 4063690237] hcjjvbighb           ( -337.9,    -1.0,   -71.4)
+  :speed me 100
+2023-01-16T06:48:02Z: PLAYER CHATTED [ 3614163097] kngandeptraihathay   ( -262.2,    84.3,   -88.3)
+  ?????
+2023-01-16T06:48:05Z: PLAYER CHATTED [ 3614163097] kngandeptraihathay   ( -262.2,    84.3,   -88.3)
+  =))))))))
+2023-01-16T06:48:11Z: PLAYER CHATTED [ 3112733168] AqifCraft123         ( -189.1,    12.0,    43.4)
+  :m 10/10 good
+2023-01-16T06:48:33Z: PLAYER CHATTED [ 3614163097] kngandeptraihathay   ( -252.8,    84.3,   -97.4)
+  ### # cho
+2023-01-16T06:48:39Z: PLAYER CHATTED [ 3017503785] ultrnguvailon        ( -261.5,    84.3,   -91.9)
+  hã
+2023-01-16T06:48:40Z: PLAYER CHATTED [ 3614163097] kngandeptraihathay   ( -252.8,    84.3,   -97.4)
+  e nhan jz
+2023-01-16T06:48:48Z: CHRCTER ADDED  [ 4212879340] heiufeughuidgudg    
+2023-01-16T06:48:50Z: PLAYER CHATTED [ 3614163097] kngandeptraihathay   ( -252.8,    84.3,   -97.4)
+  toan ******
+2023-01-16T06:49:11Z: PLAYER CHATTED [ 3017503785] ultrnguvailon        ( -255.7,    84.3,   -92.1)
+  me
+2023-01-16T06:49:20Z: PLAYER CHATTED [ 3614163097] kngandeptraihathay   ( -266.5,    96.4,   -89.1)
+  nqu qua e oi
+2023-01-16T06:49:23Z: PLAYER REMOVED [ 4063690237] hcjjvbighb          
+2023-01-16T06:49:29Z: PLAYER ADDED   [ 4244909364] f96u0yf8yjdgutuc    
+2023-01-16T06:49:42Z: CHRCTER ADDED  [ 4212879340] heiufeughuidgudg    
+2023-01-16T06:49:44Z: PLAYER CHATTED [ 3017503785] ultrnguvailon        ( -297.8,    85.9,  -102.7)
+  k nhan duoc
+2023-01-16T06:49:46Z: PLAYER CHATTED [ 3017503785] ultrnguvailon        ( -297.8,    85.9,  -102.7)
+  :(
+2023-01-16T06:49:51Z: PLAYER CHATTED [ 3614163097] kngandeptraihathay   ( -282.3,    85.3,   -97.4)
+  m dinh nhan ji v e
+2023-01-16T06:50:00Z: PLAYER CHATTED [ 3112733168] AqifCraft123         (  -19.7,    -1.0,   138.0)
+  :fly f
+2023-01-16T06:50:01Z: PLAYER CHATTED [ 3017503785] ultrnguvailon        ( -286.6,    85.3,   -98.3)
+  lm sao de bien hinh
+2023-01-16T06:50:07Z: PLAYER CHATTED [ 3614163097] kngandeptraihathay   ( -283.2,    85.3,   -96.1)
+  vai...
+2023-01-16T06:50:09Z: PLAYER CHATTED [ 3017503785] ultrnguvailon        ( -284.6,    85.3,   -93.7)
+  em dang tim cach
+2023-01-16T06:50:14Z: PLAYER CHATTED [ 3112733168] AqifCraft123         (  -12.3,    -1.0,   148.5)
+  :ff f
+2023-01-16T06:50:43Z: PLAYER CHATTED [ 3112733168] AqifCraft123         ( -291.9,    18.5,    76.3)
+  :music
+2023-01-16T06:51:02Z: PLAYER CHATTED [ 3614163097] kngandeptraihathay   ( -296.8,    85.3,   -80.5)
+  dzai qua e oi
+2023-01-16T06:51:10Z: PLAYER CHATTED [ 3614163097] kngandeptraihathay   ( -298.6,    78.3,   -84.3)
+  cljz
+2023-01-16T06:51:15Z: CHRCTER ADDED  [ 3614163097] kngandeptraihathay   a.k.a. NqKimNqann          
+2023-01-16T06:51:22Z: PLAYER ADDED   [ 3429063681] PheoDanChoi          a.k.a. NguoiVietChimTay    
+2023-01-16T06:51:29Z: PLAYER CHATTED [ 3614163097] kngandeptraihathay   ( -169.1,    41.0,   -47.2)
+  dkm lag
+2023-01-16T06:51:33Z: CHRCTER ADDED  [ 4212879340] heiufeughuidgudg    
+2023-01-16T06:51:36Z: PLAYER CHATTED [ 3017503785] ultrnguvailon        ( -269.0,    84.3,   -65.3)
+  dz khong
+2023-01-16T06:51:42Z: PLAYER CHATTED [ 3614163097] kngandeptraihathay   ( -110.8,    41.0,    29.0)
+  dm de t vao lai da
+2023-01-16T06:51:45Z: PLAYER REMOVED [ 3614163097] kngandeptraihathay   a.k.a. NqKimNqann          
+2023-01-16T06:51:51Z: PLAYER ADDED   [ 3614163097] kngandeptraihathay   a.k.a. NqKimNqann          
+2023-01-16T06:51:53Z: PLAYER CHATTED [ 3017503785] ultrnguvailon        ( -139.0,    -1.0,    -4.9)
+  oke
+2023-01-16T06:51:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -78.7,    -1.0,    38.4)
+  I didn't know it did full damage!
+2023-01-16T06:52:13Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

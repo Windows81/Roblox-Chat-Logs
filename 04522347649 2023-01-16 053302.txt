@@ -1,0 +1,285 @@
+[    1630228] : [ 4522347649] [FREE ADMIN] - f20c5467-42d2-4abb-86e6-2b1689129294
+2023-01-16T05:33:02Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-16T05:33:02Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T05:33:02Z: PLAYER ADDED   [ 3473558800] sirenitaa1021       
+2023-01-16T05:33:02Z: PLAYER ADDED   [ 4174597123] blessed_life234     
+2023-01-16T05:33:02Z: PLAYER ADDED   [ 1177304382] sjsidjxj            
+2023-01-16T05:33:02Z: PLAYER ADDED   [ 4167358988] Sunflower3ks        
+2023-01-16T05:33:02Z: PLAYER ADDED   [ 4205670563] RgvfvtEeek          
+2023-01-16T05:33:02Z: PLAYER ADDED   [ 4180415925] pokemosjo           
+2023-01-16T05:33:06Z: PLAYER CHATTED [ 4180415925] pokemosjo            (  -28.3,    -1.0,   149.0)
+  :fly
+2023-01-16T05:33:16Z: CHRCTER ADDED  [ 4174597123] blessed_life234     
+2023-01-16T05:33:16Z: PLAYER CHATTED [ 4174597123] blessed_life234      (    7.7,    -0.4,    56.7)
+  :re 
+2023-01-16T05:33:22Z: CHRCTER ADDED  [ 3473558800] sirenitaa1021       
+2023-01-16T05:33:31Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T05:33:32Z: CHRCTER ADDED  [ 4205670563] RgvfvtEeek          
+2023-01-16T05:33:32Z: CHRCTER ADDED  [ 4167358988] Sunflower3ks        
+2023-01-16T05:33:32Z: CHRCTER ADDED  [ 4180415925] pokemosjo           
+2023-01-16T05:33:42Z: PLAYER CHATTED [ 4174597123] blessed_life234      (    9.9,    -1.0,   147.5)
+  :bring others
+2023-01-16T05:33:45Z: CHRCTER ADDED  [ 4174597123] blessed_life234     
+2023-01-16T05:33:48Z: CHRCTER ADDED  [ 4167358988] Sunflower3ks        
+2023-01-16T05:33:48Z: CHRCTER ADDED  [ 3473558800] sirenitaa1021       
+2023-01-16T05:33:48Z: CHRCTER ADDED  [ 4205670563] RgvfvtEeek          
+2023-01-16T05:33:50Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T05:33:53Z: PLAYER CHATTED [ 4174597123] blessed_life234      (  -23.9,    -1.0,   149.5)
+  :bring others
+2023-01-16T05:34:00Z: PLAYER REMOVED [ 4205670563] RgvfvtEeek          
+2023-01-16T05:34:05Z: PLAYER REMOVED [ 3473558800] sirenitaa1021       
+2023-01-16T05:34:06Z: PLAYER ADDED   [ 2209925481] jaycereina2         
+2023-01-16T05:34:07Z: CHRCTER ADDED  [ 4180415925] pokemosjo           
+2023-01-16T05:34:08Z: CHRCTER ADDED  [ 4174597123] blessed_life234     
+2023-01-16T05:34:14Z: CHRCTER ADDED  [ 4167358988] Sunflower3ks        
+2023-01-16T05:34:16Z: CHRCTER ADDED  [ 1177304382] sjsidjxj            
+2023-01-16T05:34:17Z: PLAYER CHATTED [ 2209925481] jaycereina2          (  -13.2,    -1.0,   149.0)
+  :fly
+2023-01-16T05:34:37Z: CHRCTER ADDED  [ 4167358988] Sunflower3ks        
+2023-01-16T05:34:39Z: PLAYER CHATTED [ 2209925481] jaycereina2          ( -156.2,    60.9,    20.9)
+  :ff
+2023-01-16T05:34:39Z: PLAYER CHATTED [ 4167358988] Sunflower3ks         (  -28.9,    -1.0,   149.5)
+  :jail Susie
+2023-01-16T05:34:40Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T05:34:45Z: PLAYER CHATTED [ 4174597123] blessed_life234      (  -24.3,    -0.1,  -246.7)
+  :bring all 
+2023-01-16T05:34:54Z: PLAYER CHATTED [ 4174597123] blessed_life234      (  -24.3,    -0.1,  -246.7)
+  :freez others
+2023-01-16T05:35:03Z: CHRCTER ADDED  [ 4180415925] pokemosjo           
+2023-01-16T05:35:13Z: PLAYER CHATTED [ 1177304382] sjsidjxj             ( -105.3,    77.2,  -220.6)
+  :ff
+2023-01-16T05:35:15Z: CHRCTER ADDED  [ 4167358988] Sunflower3ks        
+2023-01-16T05:35:24Z: CHRCTER ADDED  [ 4174597123] blessed_life234     
+2023-01-16T05:35:31Z: CHRCTER ADDED  [ 4180415925] pokemosjo           
+2023-01-16T05:36:15Z: CHRCTER ADDED  [ 4167358988] Sunflower3ks        
+2023-01-16T05:36:16Z: CHRCTER ADDED  [ 4174597123] blessed_life234     
+2023-01-16T05:36:29Z: PLAYER CHATTED [ 4180415925] pokemosjo            ( -285.2,    85.8,  -109.0)
+  :bring all
+2023-01-16T05:36:33Z: CHRCTER ADDED  [ 4180415925] pokemosjo           
+2023-01-16T05:36:42Z: PLAYER CHATTED [ 4180415925] pokemosjo            (  -17.0,    -1.0,   141.5)
+  :kill all
+2023-01-16T05:36:51Z: CHRCTER ADDED  [ 4167358988] Sunflower3ks        
+2023-01-16T05:36:53Z: PLAYER CHATTED [ 4180415925] pokemosjo            (  -28.2,    -1.0,   137.9)
+  :poop all
+2023-01-16T05:37:07Z: PLAYER CHATTED [ 4167358988] Sunflower3ks         (  -20.8,    -1.0,    91.5)
+  :poop  poke 
+2023-01-16T05:37:07Z: PLAYER CHATTED [ 4167358988] Sunflower3ks         (  -20.8,    -1.0,    91.5)
+  :poop poke 
+2023-01-16T05:37:35Z: PLAYER CHATTED [ 4180415925] pokemosjo           
+  :poop sunflower
+2023-01-16T05:37:38Z: CHRCTER ADDED  [ 4180415925] pokemosjo           
+2023-01-16T05:37:40Z: CHRCTER ADDED  [ 4174597123] blessed_life234     
+2023-01-16T05:37:50Z: PLAYER CHATTED [ 2209925481] jaycereina2          (  -31.0,    -1.0,    49.0)
+  :fly
+2023-01-16T05:37:51Z: PLAYER CHATTED [ 4167358988] Sunflower3ks         (  -69.8,    -1.0,    36.7)
+  :jail poke 
+2023-01-16T05:37:58Z: CHRCTER ADDED  [ 2209925481] jaycereina2         
+2023-01-16T05:38:01Z: PLAYER REMOVED [ 2209925481] jaycereina2         
+2023-01-16T05:38:07Z: PLAYER CHATTED [ 4180415925] pokemosjo            ( -278.4,   207.0,    83.1)
+  it no wrok i can fly out
+2023-01-16T05:38:09Z: PLAYER CHATTED [ 4180415925] pokemosjo            ( -278.4,   207.0,    83.1)
+  it no wrok i can fly out
+2023-01-16T05:38:17Z: CHRCTER ADDED  [ 4174597123] blessed_life234     
+2023-01-16T05:38:25Z: CHRCTER ADDED  [ 4180415925] pokemosjo           
+2023-01-16T05:38:37Z: PLAYER CHATTED [ 4167358988] Sunflower3ks         (   -2.4,    -1.0,   -81.4)
+  :poop poke  
+2023-01-16T05:38:37Z: PLAYER CHATTED [ 4167358988] Sunflower3ks         (   -2.4,    -1.0,   -81.4)
+  :poop poke 
+2023-01-16T05:38:38Z: PLAYER ADDED   [ 1862367457] kayyquevoo           a.k.a. Bacon               
+2023-01-16T05:38:44Z: PLAYER REMOVED [ 1177304382] sjsidjxj            
+2023-01-16T05:38:52Z: PLAYER CHATTED [ 4180415925] pokemosjo            (   -7.0,  -256.0,   324.4)
+  :bring sunflower3ks
+2023-01-16T05:38:54Z: PLAYER CHATTED [ 1862367457] kayyquevoo           (  -26.2,    -1.0,   146.7)
+  :god
+2023-01-16T05:38:58Z: CHRCTER ADDED  [ 4167358988] Sunflower3ks        
+2023-01-16T05:38:59Z: CHRCTER ADDED  [ 4180415925] pokemosjo           
+2023-01-16T05:39:03Z: PLAYER CHATTED [ 4167358988] Sunflower3ks         (  -28.9,    -1.0,   149.5)
+  :fly
+2023-01-16T05:39:13Z: PLAYER ADDED   [ 3946932312] Mya_itsme223        
+2023-01-16T05:39:18Z: PLAYER CHATTED [ 4180415925] pokemosjo            ( -425.1,   163.9,  -274.3)
+  :poop Sun
+2023-01-16T05:39:22Z: CHRCTER ADDED  [ 4174597123] blessed_life234     
+2023-01-16T05:39:24Z: PLAYER CHATTED [ 3946932312] Mya_itsme223         (  -25.4,    -1.0,   147.5)
+  /headless
+2023-01-16T05:39:35Z: PLAYER CHATTED [ 4180415925] pokemosjo            ( -119.2,    81.5,  -252.9)
+  :poop Sunflower
+2023-01-16T05:39:37Z: PLAYER CHATTED [ 4167358988] Sunflower3ks         ( -143.8,    -1.0,    76.9)
+  :poop poke 
+2023-01-16T05:39:52Z: PLAYER CHATTED [ 4180415925] pokemosjo            ( -264.2,   141.2,  -400.5)
+  do it #### on you
+2023-01-16T05:40:08Z: PLAYER CHATTED [ 1862367457] kayyquevoo           ( -101.8,    -1.0,   109.1)
+  :poop sunflower3ks
+2023-01-16T05:40:14Z: PLAYER CHATTED [ 4180415925] pokemosjo            ( -264.2,   141.2,  -400.5)
+  thks
+2023-01-16T05:40:18Z: PLAYER CHATTED [ 1862367457] kayyquevoo           ( -128.8,    -1.0,    45.0)
+  Np
+2023-01-16T05:40:21Z: PLAYER CHATTED [ 4180415925] pokemosjo            ( -264.2,   141.2,  -400.5)
+  leave game now
+2023-01-16T05:40:21Z: PLAYER CHATTED [ 3946932312] Mya_itsme223         (   -2.4,    -1.0,   -25.4)
+  Eww I’m #####
+2023-01-16T05:40:22Z: PLAYER CHATTED [ 4167358988] Sunflower3ks         (    3.7,    -1.0,   -54.3)
+  :poop poke 
+2023-01-16T05:40:26Z: PLAYER CHATTED [ 3946932312] Mya_itsme223         (  -14.9,    -1.0,   -11.3)
+  White
+2023-01-16T05:40:28Z: PLAYER REMOVED [ 4180415925] pokemosjo           
+2023-01-16T05:40:41Z: PLAYER CHATTED [ 4167358988] Sunflower3ks         (  -20.6,    -1.0,   -23.7)
+  Ew what girl
+2023-01-16T05:40:42Z: PLAYER CHATTED [ 3946932312] Mya_itsme223         (  -23.6,    -1.0,   -23.2)
+  And preppy 
+2023-01-16T05:40:46Z: PLAYER CHATTED [ 1862367457] kayyquevoo           ( -129.8,    -1.0,    21.1)
+   :Poop Sunflower3ks
+2023-01-16T05:40:46Z: PLAYER REMOVED [ 4174597123] blessed_life234     
+2023-01-16T05:40:53Z: PLAYER CHATTED [ 3946932312] Mya_itsme223         (  -23.6,    -1.0,   -23.2)
+  Eww I look poor
+2023-01-16T05:41:02Z: PLAYER CHATTED [ 4167358988] Sunflower3ks         (  -22.4,    -1.0,   -26.1)
+  The f
+2023-01-16T05:41:20Z: PLAYER CHATTED [ 4167358988] Sunflower3ks         ( -279.4,    -1.0,    47.1)
+  No I don’t 
+2023-01-16T05:41:24Z: PLAYER CHATTED [ 3946932312] Mya_itsme223         ( -312.6,     2.4,    21.2)
+  Why do I have to be white
+2023-01-16T05:41:40Z: PLAYER CHATTED [ 4167358988] Sunflower3ks         ( -171.8,    -1.0,   -10.0)
+  Bc
+2023-01-16T05:41:55Z: PLAYER ADDED   [ 4142952676] Christophermgn      
+2023-01-16T05:42:14Z: PLAYER CHATTED [ 3946932312] Mya_itsme223         ( -245.5,    69.3,  -127.0)
+  I look like I do t know how to dress
+2023-01-16T05:42:30Z: PLAYER CHATTED [ 1862367457] kayyquevoo           ( -288.7,   106.1,   -82.0)
+  :morphs in to Therealfoltyn
+2023-01-16T05:42:32Z: PLAYER CHATTED [ 4167358988] Sunflower3ks         ( -236.3,    69.3,  -127.5)
+  Nah
+2023-01-16T05:42:45Z: PLAYER CHATTED [ 1862367457] kayyquevoo           ( -316.1,   110.2,  -105.1)
+  Aww man
+2023-01-16T05:42:51Z: PLAYER CHATTED [ 3946932312] Mya_itsme223         ( -258.8,    -1.0,   -34.0)
+  I look ##########
+2023-01-16T05:42:58Z: PLAYER CHATTED [ 4167358988] Sunflower3ks         ( -243.7,    -1.0,   -31.8)
+  Tags
+2023-01-16T05:43:00Z: PLAYER ADDED   [ 3894865821] itsnotandre4        
+2023-01-16T05:43:03Z: PLAYER CHATTED [ 3946932312] Mya_itsme223         ( -255.9,    -1.0,   -37.5)
+  Homeless 
+2023-01-16T05:43:05Z: PLAYER CHATTED [ 1862367457] kayyquevoo           ( -213.4,    70.6,  -102.9)
+  Poke I’m coming 
+2023-01-16T05:43:09Z: PLAYER CHATTED [ 4167358988] Sunflower3ks         ( -218.0,    -1.0,    -1.3)
+  Nah
+2023-01-16T05:43:09Z: PLAYER CHATTED [ 1862367457] kayyquevoo           ( -191.9,    -1.0,   -95.6)
+  /w Mya_itsme223
+2023-01-16T05:43:12Z: PLAYER REMOVED [ 1862367457] kayyquevoo           a.k.a. Bacon               
+2023-01-16T05:43:20Z: PLAYER CHATTED [ 3946932312] Mya_itsme223         ( -247.9,    37.2,  -128.0)
+  ##########
+2023-01-16T05:43:22Z: PLAYER REMOVED [ 4142952676] Christophermgn      
+2023-01-16T05:43:26Z: PLAYER CHATTED [ 3894865821] itsnotandre4         (  -18.9,    -1.2,   149.4)
+  :JAil
+2023-01-16T05:43:30Z: PLAYER CHATTED [ 4167358988] Sunflower3ks         (  -18.1,    -1.0,   111.0)
+  You homeless 
+2023-01-16T05:43:40Z: PLAYER CHATTED [ 3946932312] Mya_itsme223         ( -254.9,    41.3,  -120.5)
+  ##########################
+2023-01-16T05:43:44Z: PLAYER CHATTED [ 3894865821] itsnotandre4         (  -17.1,    -0.2,   148.5)
+  :unJAiL
+2023-01-16T05:43:52Z: PLAYER CHATTED [ 3946932312] Mya_itsme223         ( -257.5,    49.4,  -113.1)
+  I look like a 
+2023-01-16T05:44:01Z: PLAYER CHATTED [ 3946932312] Mya_itsme223         ( -257.5,    49.4,  -113.1)
+  #######
+2023-01-16T05:44:04Z: PLAYER ADDED   [ 4130076713] cool_aid96          
+2023-01-16T05:44:06Z: CHRCTER ADDED  [ 4167358988] Sunflower3ks        
+2023-01-16T05:44:07Z: PLAYER CHATTED [ 3946932312] Mya_itsme223         ( -257.1,    53.2,  -105.1)
+  Pick me
+2023-01-16T05:44:08Z: PLAYER ADDED   [ 2395633618] FETTI_070           
+2023-01-16T05:44:13Z: PLAYER CHATTED [ 4167358988] Sunflower3ks         (  -13.9,    -1.0,   149.5)
+  Girl
+2023-01-16T05:44:18Z: PLAYER CHATTED [ 3946932312] Mya_itsme223         ( -231.3,    -1.0,   -64.6)
+  What
+2023-01-16T05:44:26Z: PLAYER CHATTED [ 4167358988] Sunflower3ks         (  -31.5,    -1.0,    84.8)
+  I am not a pick me
+2023-01-16T05:44:26Z: PLAYER CHATTED [ 2395633618] FETTI_070            (  -18.6,    -1.0,   129.9)
+  😂
+2023-01-16T05:44:32Z: PLAYER CHATTED [ 2395633618] FETTI_070            (  -18.6,    -1.0,   129.9)
+  2 karens
+2023-01-16T05:44:37Z: PLAYER CHATTED [ 2395633618] FETTI_070            (  -48.8,    -1.0,   127.7)
+  :ff
+2023-01-16T05:44:44Z: PLAYER CHATTED [ 4167358988] Sunflower3ks         ( -231.2,    -1.0,  -105.7)
+  Bc that’s my avatar 
+2023-01-16T05:44:48Z: CHRCTER ADDED  [ 3946932312] Mya_itsme223        
+2023-01-16T05:44:49Z: CHRCTER ADDED  [ 4130076713] cool_aid96          
+2023-01-16T05:44:51Z: CHRCTER ADDED  [ 4167358988] Sunflower3ks        
+2023-01-16T05:44:59Z: PLAYER CHATTED [ 2395633618] FETTI_070            ( -120.7,    -1.0,   -46.0)
+  :cmdbar2
+2023-01-16T05:45:05Z: PLAYER CHATTED [ 3946932312] Mya_itsme223         (   -8.9,    -1.0,   149.5)
+  Thank good I’m not ugly anymore 
+2023-01-16T05:45:12Z: PLAYER CHATTED [ 2395633618] FETTI_070            (  -80.8,    -1.0,     5.0)
+  😂😂😂
+2023-01-16T05:45:24Z: PLAYER CHATTED [ 4167358988] Sunflower3ks         (  -20.3,    -1.0,   137.1)
+  Shut 
+2023-01-16T05:45:27Z: PLAYER CHATTED [ 4167358988] Sunflower3ks         (  -20.3,    -1.0,   137.1)
+  Up
+2023-01-16T05:45:31Z: PLAYER CHATTED [ 2395633618] FETTI_070            (  -80.8,    -1.0,     5.0)
+  mya are u a Karen?
+2023-01-16T05:45:32Z: PLAYER CHATTED [ 2395633618] FETTI_070            (  -67.2,    -1.0,    -0.7)
+  mya are u a Karen?
+2023-01-16T05:45:35Z: PLAYER CHATTED [ 3946932312] Mya_itsme223         (  -56.9,    -1.0,   100.0)
+  I’m hat fit was crusty
+2023-01-16T05:45:38Z: CHRCTER ADDED  [ 4130076713] cool_aid96          
+2023-01-16T05:45:38Z: CHRCTER ADDED  [ 3894865821] itsnotandre4        
+2023-01-16T05:45:38Z: CHRCTER ADDED  [ 3946932312] Mya_itsme223        
+2023-01-16T05:45:43Z: CHRCTER ADDED  [ 4167358988] Sunflower3ks        
+2023-01-16T05:45:58Z: CHRCTER ADDED  [ 3946932312] Mya_itsme223        
+2023-01-16T05:46:02Z: PLAYER CHATTED [ 3946932312] Mya_itsme223         (  -33.9,    -1.0,   149.5)
+  That fit was☠️☠️ /018
+2023-01-16T05:46:02Z: CHRCTER ADDED  [ 3894865821] itsnotandre4        
+2023-01-16T05:46:04Z: CHRCTER ADDED  [ 3946932312] Mya_itsme223        
+2023-01-16T05:46:07Z: CHRCTER ADDED  [ 4130076713] cool_aid96          
+2023-01-16T05:46:08Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T05:46:10Z: PLAYER CHATTED [ 3946932312] Mya_itsme223         (  -23.9,    -1.0,   149.5)
+  ####
+2023-01-16T05:46:11Z: PLAYER CHATTED [ 3894865821] itsnotandre4         (  -28.9,    -1.0,   149.5)
+  :for 
+2023-01-16T05:46:15Z: PLAYER CHATTED [ 3946932312] Mya_itsme223         (  -38.2,    -1.0,   121.0)
+  2”
+2023-01-16T05:46:21Z: PLAYER CHATTED [ 3894865821] itsnotandre4         (  -23.0,    -1.0,   141.9)
+  :fly
+2023-01-16T05:46:22Z: CHRCTER ADDED  [ 4167358988] Sunflower3ks        
+2023-01-16T05:46:24Z: PLAYER CHATTED [ 4167358988] Sunflower3ks         (  -28.9,    -1.0,   149.5)
+  #### stop
+2023-01-16T05:46:28Z: CHRCTER ADDED  [ 3946932312] Mya_itsme223        
+2023-01-16T05:46:39Z: CHRCTER ADDED  [ 4167358988] Sunflower3ks        
+2023-01-16T05:46:44Z: PLAYER CHATTED [ 3946932312] Mya_itsme223         (  -33.9,    -1.0,   149.5)
+  Why I’m. Of talking about u
+2023-01-16T05:46:48Z: CHRCTER ADDED  [ 4130076713] cool_aid96          
+2023-01-16T05:46:50Z: CHRCTER ADDED  [ 3946932312] Mya_itsme223        
+2023-01-16T05:46:53Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T05:46:58Z: CHRCTER ADDED  [ 4167358988] Sunflower3ks        
+2023-01-16T05:47:02Z: PLAYER CHATTED [ 4167358988] Sunflower3ks         (  -28.9,    -1.0,   149.5)
+  Bc that was my avatar 
+2023-01-16T05:47:06Z: CHRCTER ADDED  [ 3894865821] itsnotandre4        
+2023-01-16T05:47:06Z: CHRCTER ADDED  [ 3946932312] Mya_itsme223        
+2023-01-16T05:47:11Z: CHRCTER ADDED  [ 3946932312] Mya_itsme223        
+2023-01-16T05:47:12Z: CHRCTER ADDED  [ 3946932312] Mya_itsme223        
+2023-01-16T05:47:20Z: CHRCTER ADDED  [ 4167358988] Sunflower3ks        
+2023-01-16T05:47:22Z: PLAYER CHATTED [ 4167358988] Sunflower3ks         (  -33.9,    -1.0,   149.5)
+  And then you said it’s ugly
+2023-01-16T05:47:25Z: CHRCTER ADDED  [ 3946932312] Mya_itsme223        
+2023-01-16T05:47:35Z: PLAYER CHATTED [ 2395633618] FETTI_070            ( -130.9,    -1.0,    79.2)
+  :kick Mya
+2023-01-16T05:47:36Z: PLAYER REMOVED [ 3946932312] Mya_itsme223        
+2023-01-16T05:47:39Z: PLAYER CHATTED [ 2395633618] FETTI_070            ( -129.7,    -1.0,    79.7)
+  hahahaha
+2023-01-16T05:47:53Z: CHRCTER ADDED  [ 4167358988] Sunflower3ks        
+2023-01-16T05:47:57Z: CHRCTER ADDED  [ 4130076713] cool_aid96          
+2023-01-16T05:48:00Z: CHRCTER ADDED  [ 4167358988] Sunflower3ks        
+2023-01-16T05:48:05Z: CHRCTER ADDED  [ 4167358988] Sunflower3ks        
+2023-01-16T05:48:11Z: CHRCTER ADDED  [ 4167358988] Sunflower3ks        
+2023-01-16T05:48:12Z: CHRCTER ADDED  [ 4167358988] Sunflower3ks        
+2023-01-16T05:48:16Z: CHRCTER ADDED  [ 4167358988] Sunflower3ks        
+2023-01-16T05:48:16Z: PLAYER REMOVED [ 4167358988] Sunflower3ks        
+2023-01-16T05:48:17Z: PLAYER ADDED   [ 3192721613] ostap4ik_a4          a.k.a. Ostap4ik            
+2023-01-16T05:48:20Z: PLAYER REMOVED [ 2395633618] FETTI_070           
+2023-01-16T05:48:21Z: PLAYER CHATTED [ 3894865821] itsnotandre4         (  -13.2,   114.8,   278.4)
+  :unfly
+2023-01-16T05:48:28Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T05:48:39Z: CHRCTER ADDED  [ 3192721613] ostap4ik_a4          a.k.a. Ostap4ik            
+2023-01-16T05:49:01Z: CHRCTER ADDED  [ 3192721613] ostap4ik_a4          a.k.a. Ostap4ik            
+2023-01-16T05:49:11Z: CHRCTER ADDED  [ 3894865821] itsnotandre4        
+2023-01-16T05:49:14Z: PLAYER REMOVED [ 3192721613] ostap4ik_a4          a.k.a. Ostap4ik            
+2023-01-16T05:49:22Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T05:49:37Z: CHRCTER ADDED  [ 3894865821] itsnotandre4        
+2023-01-16T05:49:47Z: PLAYER CHATTED [ 3894865821] itsnotandre4         (  -67.6,    -1.0,   139.0)
+  :fly
+2023-01-16T05:49:55Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T05:49:57Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

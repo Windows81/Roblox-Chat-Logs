@@ -1,0 +1,133 @@
+[    1630228] : [ 4522347649] [FREE ADMIN] - 9ab87234-2a2e-4847-a1e3-5155064da63d
+2023-01-16T06:35:51Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-16T06:35:51Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T06:35:51Z: PLAYER ADDED   [  938314479] nu_tspc             
+2023-01-16T06:35:51Z: PLAYER ADDED   [ 1646326570] GUST123TH            a.k.a. bacon_boi           
+2023-01-16T06:35:51Z: PLAYER ADDED   [ 3737510643] cresanto123123       a.k.a. team                
+2023-01-16T06:35:51Z: PLAYER ADDED   [ 3320353494] chrryhruhfheuxehdbe  a.k.a. Andriesantos        
+2023-01-16T06:35:51Z: PLAYER ADDED   [ 4178740641] godoodoi123         
+2023-01-16T06:35:51Z: PLAYER ADDED   [  586991989] nickle2020           a.k.a. 123Usernameless123  
+2023-01-16T06:35:51Z: PLAYER ADDED   [ 4025181621] LuckyGood1975       
+2023-01-16T06:35:56Z: PLAYER CHATTED [ 3320353494] chrryhruhfheuxehdbe  (  -32.7,     5.0,   123.2)
+  :ff me
+2023-01-16T06:35:58Z: PLAYER CHATTED [  586991989] nickle2020           ( -120.7,    -0.9,  -239.8)
+  /e laugh
+2023-01-16T06:36:09Z: PLAYER CHATTED [  586991989] nickle2020           ( -121.0,    -0.2,  -238.3)
+  /e laugh
+2023-01-16T06:36:18Z: PLAYER CHATTED [ 3320353494] chrryhruhfheuxehdbe  ( -354.4,    71.8,    17.8)
+  :unff
+2023-01-16T06:36:35Z: CHRCTER ADDED  [  938314479] nu_tspc             
+2023-01-16T06:36:41Z: PLAYER CHATTED [ 3320353494] chrryhruhfheuxehdbe  ( -207.2,    68.5,   -10.4)
+  :clone me
+2023-01-16T06:36:43Z: PLAYER CHATTED [ 3737510643] cresanto123123       (  -35.0,    -0.2,   105.5)
+  :c:jail nickle2020
+2023-01-16T06:36:48Z: PLAYER CHATTED [ 3320353494] chrryhruhfheuxehdbe  ( -219.2,    65.9,   -65.4)
+  clone me
+2023-01-16T06:36:48Z: PLAYER CHATTED [  586991989] nickle2020           ( -162.9,    32.8,    40.4)
+  bad
+2023-01-16T06:36:51Z: CHRCTER ADDED  [ 4178740641] godoodoi123         
+2023-01-16T06:36:53Z: PLAYER CHATTED [  586991989] nickle2020           ( -162.9,    32.8,    40.4)
+  did not work
+2023-01-16T06:36:53Z: PLAYER CHATTED [ 3320353494] chrryhruhfheuxehdbe  ( -199.5,    68.8,   -83.8)
+  :clone me
+2023-01-16T06:37:02Z: PLAYER CHATTED [ 3320353494] chrryhruhfheuxehdbe  ( -138.6,    98.0,   -78.8)
+  size me 4
+2023-01-16T06:37:02Z: PLAYER CHATTED [  586991989] nickle2020           ( -162.9,    32.8,    40.4)
+  :jail cresanto
+2023-01-16T06:37:09Z: CHRCTER ADDED  [ 3320353494] chrryhruhfheuxehdbe  a.k.a. Andriesantos        
+2023-01-16T06:37:09Z: PLAYER CHATTED [ 3320353494] chrryhruhfheuxehdbe  ( -140.0,    99.4,   -77.3)
+  :size me 4
+2023-01-16T06:37:14Z: CHRCTER ADDED  [ 4025181621] LuckyGood1975       
+2023-01-16T06:37:25Z: PLAYER CHATTED [ 3320353494] chrryhruhfheuxehdbe  ( -151.9,    43.3,   -70.3)
+  :clone me
+2023-01-16T06:37:31Z: PLAYER CHATTED [ 3737510643] cresanto123123       (  -33.7,    -0.2,   105.7)
+  :jail nlckle 2020
+2023-01-16T06:37:31Z: PLAYER CHATTED [ 3320353494] chrryhruhfheuxehdbe 
+  ####### me
+2023-01-16T06:37:33Z: CHRCTER ADDED  [ 3320353494] chrryhruhfheuxehdbe  a.k.a. Andriesantos        
+2023-01-16T06:37:36Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T06:37:39Z: PLAYER CHATTED [ 3320353494] chrryhruhfheuxehdbe  (  -49.3,     3.9,   140.7)
+  kill all
+2023-01-16T06:37:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -39.6,    -1.0,   142.2)
+  Fight me.
+2023-01-16T06:37:46Z: CHRCTER ADDED  [  938314479] nu_tspc             
+2023-01-16T06:37:56Z: PLAYER CHATTED [ 3320353494] chrryhruhfheuxehdbe  (  -49.3,     3.9,   140.7)
+  that should be 200 robux for kill all
+2023-01-16T06:38:01Z: PLAYER CHATTED [  586991989] nickle2020           (  -31.2,    -1.0,    95.5)
+  :kilIyourself cresanto
+2023-01-16T06:38:04Z: PLAYER REMOVED [  586991989] nickle2020           a.k.a. 123Usernameless123  
+2023-01-16T06:38:12Z: PLAYER CHATTED [ 3737510643] cresanto123123       (  -33.7,    -0.2,   105.7)
+  :jail nickle2020
+2023-01-16T06:38:17Z: PLAYER CHATTED [ 3320353494] chrryhruhfheuxehdbe  ( -135.1,   181.9,    -9.3)
+  :blur all
+2023-01-16T06:38:24Z: CHRCTER ADDED  [ 4178740641] godoodoi123         
+2023-01-16T06:38:32Z: PLAYER CHATTED [ 4025181621] LuckyGood1975        (  -17.2,    -1.0,   145.3)
+  :ice GUST123TH
+2023-01-16T06:38:33Z: PLAYER CHATTED [ 3320353494] chrryhruhfheuxehdbe  (  -92.2,   259.2,  -108.7)
+  :blur all
+2023-01-16T06:38:36Z: CHRCTER ADDED  [ 4025181621] LuckyGood1975       
+2023-01-16T06:38:43Z: PLAYER CHATTED [ 3320353494] chrryhruhfheuxehdbe  ( -120.0,    99.8,   -42.0)
+  ice all
+2023-01-16T06:38:50Z: PLAYER CHATTED [ 3320353494] chrryhruhfheuxehdbe  ( -120.0,    99.8,   -42.0)
+  :ice all
+2023-01-16T06:38:54Z: PLAYER CHATTED [ 1646326570] GUST123TH            (  -24.9,    -1.0,   115.9)
+  Lcmds
+2023-01-16T06:38:59Z: PLAYER CHATTED [ 1646326570] GUST123TH            (  -24.9,    -1.0,   115.9)
+  :cmds
+2023-01-16T06:39:02Z: PLAYER CHATTED [ 4025181621] LuckyGood1975        (  -28.8,    -1.0,   149.5)
+  :unfriendly GUST
+2023-01-16T06:39:04Z: PLAYER CHATTED [ 3320353494] chrryhruhfheuxehdbe  ( -102.4,    -1.0,   -86.0)
+  jail all
+2023-01-16T06:39:07Z: PLAYER CHATTED [ 3320353494] chrryhruhfheuxehdbe  ( -102.4,    -1.0,   -86.0)
+  :
+2023-01-16T06:39:15Z: PLAYER CHATTED [ 3320353494] chrryhruhfheuxehdbe 
+  :jail ###
+2023-01-16T06:39:18Z: CHRCTER ADDED  [ 3320353494] chrryhruhfheuxehdbe  a.k.a. Andriesantos        
+2023-01-16T06:39:18Z: CHRCTER ADDED  [ 4025181621] LuckyGood1975       
+2023-01-16T06:39:23Z: PLAYER CHATTED [ 3320353494] chrryhruhfheuxehdbe  (   -9.4,    -1.0,   153.8)
+  :jail all
+2023-01-16T06:39:25Z: PLAYER CHATTED [ 3737510643] cresanto123123       (  -33.6,    -0.2,   105.6)
+  :jail GUST123TH
+2023-01-16T06:39:28Z: PLAYER CHATTED [ 4025181621] LuckyGood1975        (   -7.1,    -1.0,   150.4)
+  :clown GUST
+2023-01-16T06:39:40Z: PLAYER CHATTED [ 1646326570] GUST123TH            (  -24.9,    -1.0,   115.9)
+  :noclip me
+2023-01-16T06:39:45Z: PLAYER CHATTED [ 3320353494] chrryhruhfheuxehdbe  (  -21.4,     7.2,   115.1)
+  Freeze all
+2023-01-16T06:39:45Z: PLAYER CHATTED [ 4025181621] LuckyGood1975        (  -21.8,    -1.0,   130.9)
+  :poop GUST
+2023-01-16T06:39:51Z: PLAYER CHATTED [ 3320353494] chrryhruhfheuxehdbe  (  -16.7,    -1.0,   110.3)
+  :freeze all
+2023-01-16T06:39:53Z: CHRCTER ADDED  [ 4025181621] LuckyGood1975       
+2023-01-16T06:40:04Z: PLAYER CHATTED [ 3320353494] chrryhruhfheuxehdbe 
+  freeze n
+2023-01-16T06:40:06Z: CHRCTER ADDED  [ 3320353494] chrryhruhfheuxehdbe  a.k.a. Andriesantos        
+2023-01-16T06:40:16Z: CHRCTER ADDED  [  938314479] nu_tspc             
+2023-01-16T06:40:26Z: PLAYER CHATTED [ 3320353494] chrryhruhfheuxehdbe  (  -43.6,    -1.0,    80.2)
+  :unff Luck
+2023-01-16T06:40:29Z: PLAYER CHATTED [ 1646326570] GUST123TH            (  -24.9,    -1.0,   115.9)
+  :respawn me
+2023-01-16T06:40:30Z: CHRCTER ADDED  [ 1646326570] GUST123TH            a.k.a. bacon_boi           
+2023-01-16T06:40:31Z: PLAYER CHATTED [ 3320353494] chrryhruhfheuxehdbe  (  -43.6,    -1.0,    80.2)
+  unff nu
+2023-01-16T06:40:39Z: CHRCTER ADDED  [ 3320353494] chrryhruhfheuxehdbe  a.k.a. Andriesantos        
+2023-01-16T06:40:39Z: PLAYER CHATTED [ 3320353494] chrryhruhfheuxehdbe  (  -33.9,    -1.0,   149.5)
+  of
+2023-01-16T06:40:43Z: CHRCTER ADDED  [  938314479] nu_tspc             
+2023-01-16T06:40:55Z: PLAYER REMOVED [ 4178740641] godoodoi123         
+2023-01-16T06:41:01Z: PLAYER ADDED   [ 4178740641] godoodoi123         
+2023-01-16T06:41:08Z: PLAYER CHATTED [ 3737510643] cresanto123123       (  -33.6,    -0.2,   105.6)
+  :disco
+2023-01-16T06:41:13Z: PLAYER REMOVED [  938314479] nu_tspc             
+2023-01-16T06:41:17Z: PLAYER CHATTED [ 1646326570] GUST123TH            (  -47.7,     2.1,    59.2)
+  :cmdbar2 me
+2023-01-16T06:41:40Z: PLAYER CHATTED [ 3737510643] cresanto123123       (  -33.6,    -0.2,   105.6)
+  :control Visuaplugin
+2023-01-16T06:41:43Z: CHRCTER ADDED  [ 4025181621] LuckyGood1975       
+2023-01-16T06:41:52Z: PLAYER REMOVED [ 3320353494] chrryhruhfheuxehdbe  a.k.a. Andriesantos        
+2023-01-16T06:41:55Z: PLAYER ADDED   [  938314479] nu_tspc             
+2023-01-16T06:41:56Z: PLAYER CHATTED [ 4025181621] LuckyGood1975        (   -8.9,    -1.0,   149.5)
+  :fly me 100
+2023-01-16T06:42:00Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T06:42:03Z: CHRCTER ADDED  [ 1646326570] GUST123TH            a.k.a. bacon_boi           
+2023-01-16T06:42:05Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

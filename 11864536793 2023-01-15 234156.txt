@@ -1,0 +1,550 @@
+[    1630228] : [11864536793] Dig to OHIO [UPDATE] - 5e7a6035-430d-4ef5-a893-1fcc53b67d5c
+2023-01-15T23:41:56Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-15T23:41:56Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-15T23:41:56Z: PLAYER ADDED   [ 2296855901] XxCheeriosxX01      
+2023-01-15T23:41:56Z: PLAYER ADDED   [ 3577783449] Frog_Tearss         
+2023-01-15T23:41:56Z: PLAYER ADDED   [ 1622812996] bebehermoso0301      a.k.a. cosplayer           
+2023-01-15T23:41:56Z: PLAYER ADDED   [ 1585373499] paste_boii           a.k.a. bunny               
+2023-01-15T23:41:56Z: PLAYER ADDED   [ 4031629158] sushikuchi_14        a.k.a. CheetoFingers       
+2023-01-15T23:41:56Z: PLAYER ADDED   [ 2241044055] coolbailey0620      
+2023-01-15T23:41:56Z: PLAYER ADDED   [ 2694290760] logansmith6320       a.k.a. Log                 
+2023-01-15T23:41:56Z: PLAYER ADDED   [ 3736957105] Aikoheartz           a.k.a. lol                 
+2023-01-15T23:41:56Z: PLAYER ADDED   [ 4029776596] lupita109145        
+2023-01-15T23:42:55Z: PLAYER REMOVED [ 2296855901] XxCheeriosxX01      
+2023-01-15T23:43:01Z: PLAYER REMOVED [ 4031629158] sushikuchi_14        a.k.a. CheetoFingers       
+2023-01-15T23:43:06Z: PLAYER REMOVED [ 4029776596] lupita109145        
+2023-01-15T23:43:09Z: PLAYER ADDED   [  470794799] karlspencer          a.k.a. Diorrkxgan          
+2023-01-15T23:43:10Z: PLAYER ADDED   [ 1677421356] Kitty_Cat2990       
+2023-01-15T23:43:10Z: PLAYER ADDED   [  330932843] kinglola24           a.k.a. bitter              
+2023-01-15T23:44:49Z: PLAYER REMOVED [  470794799] karlspencer          a.k.a. Diorrkxgan          
+2023-01-15T23:44:56Z: PLAYER ADDED   [ 1741695977] Tedbot41             a.k.a. Doge_user           
+2023-01-15T23:46:39Z: CHRCTER ADDED  [ 2694290760] logansmith6320       a.k.a. Log                 
+2023-01-15T23:47:27Z: PLAYER REMOVED [ 1677421356] Kitty_Cat2990       
+2023-01-15T23:47:30Z: PLAYER ADDED   [ 1884311901] ngchalenger27        a.k.a. nahshon             
+2023-01-15T23:47:36Z: PLAYER REMOVED [ 3736957105] Aikoheartz           a.k.a. lol                 
+2023-01-15T23:47:53Z: PLAYER ADDED   [ 2241735426] N0t_0wen1            a.k.a. Ghost               
+2023-01-15T23:48:10Z: PLAYER REMOVED [ 2241735426] N0t_0wen1            a.k.a. Ghost               
+2023-01-15T23:48:14Z: PLAYER ADDED   [ 1491825015] hpptssxge            a.k.a. KelyJelly           
+2023-01-15T23:48:43Z: PLAYER REMOVED [  330932843] kinglola24           a.k.a. bitter              
+2023-01-15T23:48:46Z: PLAYER ADDED   [ 4065365718] Dap_091             
+2023-01-15T23:48:56Z: CHRCTER ADDED  [ 3577783449] Frog_Tearss         
+2023-01-15T23:48:56Z: CHRCTER ADDED  [ 1884311901] ngchalenger27        a.k.a. nahshon             
+2023-01-15T23:48:56Z: CHRCTER ADDED  [ 4065365718] Dap_091             
+2023-01-15T23:48:56Z: CHRCTER ADDED  [ 2694290760] logansmith6320       a.k.a. Log                 
+2023-01-15T23:48:56Z: CHRCTER ADDED  [ 1491825015] hpptssxge            a.k.a. KelyJelly           
+2023-01-15T23:48:57Z: CHRCTER ADDED  [ 2241044055] coolbailey0620      
+2023-01-15T23:48:57Z: CHRCTER ADDED  [ 1622812996] bebehermoso0301      a.k.a. cosplayer           
+2023-01-15T23:48:57Z: CHRCTER ADDED  [ 1741695977] Tedbot41             a.k.a. Doge_user           
+2023-01-15T23:48:57Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-15T23:48:57Z: CHRCTER ADDED  [ 1585373499] paste_boii           a.k.a. bunny               
+2023-01-15T23:49:03Z: PLAYER REMOVED [ 3577783449] Frog_Tearss         
+2023-01-15T23:49:05Z: PLAYER ADDED   [ 1645455783] Carmgirl1            a.k.a. Earthworm           
+2023-01-15T23:49:07Z: PLAYER ADDED   [ 2262715115] Katepanda_Korean123  a.k.a. Lyn                 
+2023-01-15T23:49:15Z: PLAYER ADDED   [ 2236692753] vivithepp            a.k.a. Earthworm4          
+2023-01-15T23:49:35Z: PLAYER REMOVED [ 1585373499] paste_boii           a.k.a. bunny               
+2023-01-15T23:49:52Z: PLAYER REMOVED [ 1622812996] bebehermoso0301      a.k.a. cosplayer           
+2023-01-15T23:49:58Z: CHRCTER ADDED  [ 2694290760] logansmith6320       a.k.a. Log                 
+2023-01-15T23:49:58Z: CHRCTER ADDED  [ 2241044055] coolbailey0620      
+2023-01-15T23:49:58Z: CHRCTER ADDED  [ 1741695977] Tedbot41             a.k.a. Doge_user           
+2023-01-15T23:49:58Z: CHRCTER ADDED  [ 1884311901] ngchalenger27        a.k.a. nahshon             
+2023-01-15T23:49:58Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-15T23:49:58Z: CHRCTER ADDED  [ 2236692753] vivithepp            a.k.a. Earthworm4          
+2023-01-15T23:49:59Z: CHRCTER ADDED  [ 1491825015] hpptssxge            a.k.a. KelyJelly           
+2023-01-15T23:49:59Z: CHRCTER ADDED  [ 4065365718] Dap_091             
+2023-01-15T23:49:59Z: CHRCTER ADDED  [ 2262715115] Katepanda_Korean123  a.k.a. Lyn                 
+2023-01-15T23:49:59Z: CHRCTER ADDED  [ 1645455783] Carmgirl1            a.k.a. Earthworm           
+2023-01-15T23:49:59Z: PLAYER ADDED   [  903981125] Mileyplays03         a.k.a. mars                
+2023-01-15T23:50:17Z: CHRCTER ADDED  [ 1645455783] Carmgirl1            a.k.a. Earthworm           
+2023-01-15T23:50:26Z: CHRCTER ADDED  [ 1645455783] Carmgirl1            a.k.a. Earthworm           
+2023-01-15T23:50:40Z: PLAYER REMOVED [ 4065365718] Dap_091             
+2023-01-15T23:51:07Z: PLAYER REMOVED [ 2241044055] coolbailey0620      
+2023-01-15T23:51:10Z: PLAYER ADDED   [ 3994196019] Tenliburger          a.k.a. Bopogo              
+2023-01-15T23:51:30Z: PLAYER REMOVED [ 1884311901] ngchalenger27        a.k.a. nahshon             
+2023-01-15T23:51:32Z: PLAYER ADDED   [ 1110618730] Alinadorbie          a.k.a. Koolaid             
+2023-01-15T23:53:20Z: PLAYER REMOVED [ 1110618730] Alinadorbie          a.k.a. Koolaid             
+2023-01-15T23:53:24Z: PLAYER ADDED   [  471354481] brodeyboo14          a.k.a. Brobroyo            
+2023-01-15T23:53:30Z: PLAYER REMOVED [  903981125] Mileyplays03         a.k.a. mars                
+2023-01-15T23:53:31Z: PLAYER REMOVED [ 1491825015] hpptssxge            a.k.a. KelyJelly           
+2023-01-15T23:53:32Z: PLAYER ADDED   [ 1780888077] mymiddlenameiscorgi  a.k.a. Fat                 
+2023-01-15T23:53:34Z: PLAYER ADDED   [ 1845733602] ThunderBolt7103      a.k.a. Ink_Bendy           
+2023-01-15T23:54:04Z: PLAYER REMOVED [ 2694290760] logansmith6320       a.k.a. Log                 
+2023-01-15T23:54:09Z: PLAYER ADDED   [ 3883117636] PIPER132355666      
+2023-01-15T23:54:24Z: PLAYER REMOVED [ 1780888077] mymiddlenameiscorgi  a.k.a. Fat                 
+2023-01-15T23:54:45Z: PLAYER ADDED   [   68471378] ob2n                 a.k.a. Mark                
+2023-01-15T23:55:11Z: PLAYER CHATTED [   68471378] ob2n                 ( -579.7,  4244.7,    77.4)
+  What the hell is this..?
+2023-01-15T23:55:13Z: PLAYER REMOVED [ 2262715115] Katepanda_Korean123  a.k.a. Lyn                 
+2023-01-15T23:55:17Z: PLAYER ADDED   [  620304655] escopul              a.k.a. pathetic            
+2023-01-15T23:55:27Z: PLAYER REMOVED [  620304655] escopul              a.k.a. pathetic            
+2023-01-15T23:55:31Z: PLAYER ADDED   [ 4077273073] Lboyher1            
+2023-01-15T23:55:47Z: PLAYER REMOVED [ 1741695977] Tedbot41             a.k.a. Doge_user           
+2023-01-15T23:55:48Z: PLAYER ADDED   [ 1868883326] kyokyi_123          
+2023-01-15T23:56:06Z: CHRCTER ADDED  [ 3883117636] PIPER132355666      
+2023-01-15T23:56:06Z: CHRCTER ADDED  [ 4077273073] Lboyher1            
+2023-01-15T23:56:06Z: CHRCTER ADDED  [ 1868883326] kyokyi_123          
+2023-01-15T23:56:06Z: CHRCTER ADDED  [   68471378] ob2n                 a.k.a. Mark                
+2023-01-15T23:56:06Z: CHRCTER ADDED  [ 1845733602] ThunderBolt7103      a.k.a. Ink_Bendy           
+2023-01-15T23:56:06Z: CHRCTER ADDED  [ 2236692753] vivithepp            a.k.a. Earthworm4          
+2023-01-15T23:56:06Z: CHRCTER ADDED  [  471354481] brodeyboo14          a.k.a. Brobroyo            
+2023-01-15T23:56:06Z: CHRCTER ADDED  [ 3994196019] Tenliburger          a.k.a. Bopogo              
+2023-01-15T23:56:06Z: CHRCTER ADDED  [ 1645455783] Carmgirl1            a.k.a. Earthworm           
+2023-01-15T23:56:06Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-15T23:56:13Z: PLAYER REMOVED [  471354481] brodeyboo14          a.k.a. Brobroyo            
+2023-01-15T23:56:19Z: PLAYER REMOVED [ 4077273073] Lboyher1            
+2023-01-15T23:56:19Z: PLAYER ADDED   [ 1796564856] jeannatheprincess    a.k.a. SUMMER              
+2023-01-15T23:56:21Z: PLAYER ADDED   [ 4176475089] Jay_bay2855         
+2023-01-15T23:56:31Z: PLAYER ADDED   [ 4112363065] Weirdly_tori22      
+2023-01-15T23:57:09Z: PLAYER CHATTED [ 4112363065] Weirdly_tori22       ( -533.8,  4480.7,    19.7)
+  Hi Vivi 
+2023-01-15T23:57:15Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -542.1,  5003.0,   116.0)
+  Ó_Ò
+2023-01-15T23:57:17Z: PLAYER REMOVED [ 1796564856] jeannatheprincess    a.k.a. SUMMER              
+2023-01-15T23:57:23Z: PLAYER CHATTED [   68471378] ob2n                 ( -660.1,  5006.9,    20.3)
+  How do I get points?
+2023-01-15T23:57:26Z: PLAYER REMOVED [ 3994196019] Tenliburger          a.k.a. Bopogo              
+2023-01-15T23:57:26Z: PLAYER REMOVED [ 4176475089] Jay_bay2855         
+2023-01-15T23:57:27Z: PLAYER ADDED   [ 4169135708] Damian124730        
+2023-01-15T23:57:28Z: PLAYER ADDED   [  892819692] partygirlsgame55     a.k.a. Frenzi              
+2023-01-15T23:57:30Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -646.2,  5007.6,    36.5)
+  You go to Ohio.
+2023-01-15T23:57:44Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -617.7,  5007.4,     6.4)
+  Do you have an autoclicker handy?
+2023-01-15T23:57:50Z: PLAYER CHATTED [   68471378] ob2n                 ( -522.2,  4360.8,    -5.4)
+  I'm a macbook user
+2023-01-15T23:58:14Z: CHRCTER ADDED  [  892819692] partygirlsgame55     a.k.a. Frenzi              
+2023-01-15T23:58:17Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -443.6,  5007.6,     2.2)
+  So Apple decided to block all autoclickers from their app store?
+2023-01-15T23:58:26Z: PLAYER CHATTED [   68471378] ob2n                 ( -602.2,  2461.2,    10.4)
+  I've never tried idk
+2023-01-15T23:58:34Z: PLAYER CHATTED [   68471378] ob2n                 ( -638.0,  2109.8,    16.8)
+  I just use my computer for my college classes
+2023-01-15T23:58:39Z: PLAYER REMOVED [ 4169135708] Damian124730        
+2023-01-15T23:58:40Z: PLAYER ADDED   [ 2250943052] gamer_nate8          a.k.a. nxthxnnn            
+2023-01-15T23:58:46Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -617.8,  1776.6,    -8.4)
+  I see.
+2023-01-15T23:59:18Z: PLAYER CHATTED [   68471378] ob2n                 ( -606.1,   816.7,    13.1)
+  I assume ohio is at Y:0?
+2023-01-15T23:59:22Z: PLAYER CHATTED [ 1645455783] Carmgirl1            ( -639.2,   695.9,    45.1)
+  /w VisualPlugin  
+2023-01-15T23:59:23Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -630.8,   888.9,   115.1)
+  Y=-2400.
+2023-01-15T23:59:29Z: PLAYER CHATTED [   68471378] ob2n                 ( -625.5,   270.2,   115.6)
+  oh god
+2023-01-15T23:59:32Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -639.4,   173.7,   115.2)
+  *Y == -2400.
+2023-01-15T23:59:42Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -640.2,   -96.3,   127.1)
+  It's doable in ten minutes.
+2023-01-15T23:59:43Z: PLAYER REMOVED [ 4112363065] Weirdly_tori22      
+2023-01-15T23:59:44Z: PLAYER REMOVED [ 2250943052] gamer_nate8          a.k.a. nxthxnnn            
+2023-01-15T23:59:48Z: PLAYER ADDED   [  445530982] jacobwu2017          a.k.a. Jac                 
+2023-01-15T23:59:51Z: PLAYER ADDED   [ 3395038553] Cyber65786          
+2023-01-16T00:00:16Z: CHRCTER ADDED  [ 2236692753] vivithepp            a.k.a. Earthworm4          
+2023-01-16T00:00:42Z: PLAYER ADDED   [ 4112363065] Weirdly_tori22      
+2023-01-16T00:01:07Z: PLAYER REMOVED [ 1845733602] ThunderBolt7103      a.k.a. Ink_Bendy           
+2023-01-16T00:01:27Z: PLAYER CHATTED [   68471378] ob2n                 ( -671.5, -2463.4,    95.8)
+  IM IN OHIO?!
+2023-01-16T00:01:44Z: PLAYER CHATTED [   68471378] ob2n                 ( -449.3, -2463.2,    35.3)
+  I can see how this game would cause lag on low-end devices.
+2023-01-16T00:01:50Z: CHRCTER ADDED  [ 2236692753] vivithepp            a.k.a. Earthworm4          
+2023-01-16T00:01:50Z: CHRCTER ADDED  [ 3883117636] PIPER132355666      
+2023-01-16T00:01:50Z: CHRCTER ADDED  [ 4112363065] Weirdly_tori22      
+2023-01-16T00:01:50Z: CHRCTER ADDED  [  445530982] jacobwu2017          a.k.a. Jac                 
+2023-01-16T00:01:50Z: CHRCTER ADDED  [ 1645455783] Carmgirl1            a.k.a. Earthworm           
+2023-01-16T00:01:50Z: CHRCTER ADDED  [ 3395038553] Cyber65786          
+2023-01-16T00:01:50Z: CHRCTER ADDED  [ 1868883326] kyokyi_123          
+2023-01-16T00:01:50Z: CHRCTER ADDED  [  892819692] partygirlsgame55     a.k.a. Frenzi              
+2023-01-16T00:01:51Z: CHRCTER ADDED  [   68471378] ob2n                 a.k.a. Mark                
+2023-01-16T00:01:51Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T00:01:59Z: PLAYER ADDED   [ 3272678535] Playmeawan          
+2023-01-16T00:02:12Z: PLAYER REMOVED [  445530982] jacobwu2017          a.k.a. Jac                 
+2023-01-16T00:02:40Z: PLAYER REMOVED [ 1868883326] kyokyi_123          
+2023-01-16T00:02:40Z: PLAYER ADDED   [  577801597] tootywasef           a.k.a. Ihatecats           
+2023-01-16T00:02:44Z: PLAYER REMOVED [ 4112363065] Weirdly_tori22      
+2023-01-16T00:02:51Z: PLAYER ADDED   [ 3403987539] RaceTrackJaR         a.k.a. CrxspyXpples        
+2023-01-16T00:03:42Z: PLAYER REMOVED [ 3403987539] RaceTrackJaR         a.k.a. CrxspyXpples        
+2023-01-16T00:03:43Z: PLAYER ADDED   [ 3403987539] RaceTrackJaR         a.k.a. CrxspyXpples        
+2023-01-16T00:05:08Z: CHRCTER ADDED  [ 3272678535] Playmeawan          
+2023-01-16T00:05:12Z: PLAYER ADDED   [ 1597227940] azelasney            a.k.a. DORUSSY             
+2023-01-16T00:05:21Z: PLAYER CHATTED [   68471378] ob2n                 ( -639.0,  -511.8,   -19.7)
+  How long have you been here, visual?
+2023-01-16T00:05:41Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -616.4, -1375.7,    22.6)
+  Probably a few hours active.
+2023-01-16T00:05:46Z: PLAYER CHATTED [   68471378] ob2n                 ( -626.7, -1582.7,   -18.5)
+  #####
+2023-01-16T00:05:49Z: PLAYER CHATTED [   68471378] ob2n                 ( -628.2, -1722.3,     7.8)
+  Good god
+2023-01-16T00:06:04Z: CHRCTER ADDED  [ 2236692753] vivithepp            a.k.a. Earthworm4          
+2023-01-16T00:06:21Z: PLAYER REMOVED [  577801597] tootywasef           a.k.a. Ihatecats           
+2023-01-16T00:06:25Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -469.7, -2462.5,   126.1)
+  Most of it was last night.
+2023-01-16T00:06:27Z: PLAYER REMOVED [  892819692] partygirlsgame55     a.k.a. Frenzi              
+2023-01-16T00:06:30Z: PLAYER CHATTED [   68471378] ob2n                 ( -552.0, -2463.2,   118.4)
+  What bomb do you have?
+2023-01-16T00:06:30Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -497.7, -2462.5,   113.4)
+  Mayve it was less.
+2023-01-16T00:06:35Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -520.4, -2462.5,   102.6)
+  Oof bomb.
+2023-01-16T00:06:38Z: PLAYER ADDED   [ 3904107294] happy2020myfamily   
+2023-01-16T00:06:38Z: PLAYER REMOVED [   68471378] ob2n                 a.k.a. Mark                
+2023-01-16T00:06:39Z: CHRCTER ADDED  [ 3272678535] Playmeawan          
+2023-01-16T00:06:39Z: CHRCTER ADDED  [ 1597227940] azelasney            a.k.a. DORUSSY             
+2023-01-16T00:06:39Z: CHRCTER ADDED  [ 2236692753] vivithepp            a.k.a. Earthworm4          
+2023-01-16T00:06:39Z: CHRCTER ADDED  [ 3395038553] Cyber65786          
+2023-01-16T00:06:39Z: CHRCTER ADDED  [ 3883117636] PIPER132355666      
+2023-01-16T00:06:39Z: CHRCTER ADDED  [ 1645455783] Carmgirl1            a.k.a. Earthworm           
+2023-01-16T00:06:39Z: CHRCTER ADDED  [ 3403987539] RaceTrackJaR         a.k.a. CrxspyXpples        
+2023-01-16T00:06:39Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T00:06:44Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -563.5,  5012.2,   -32.6)
+  3e4 points.
+2023-01-16T00:06:53Z: PLAYER ADDED   [ 1229307861] bigfatty101forever  
+2023-01-16T00:06:59Z: PLAYER ADDED   [   68471378] ob2n                 a.k.a. Mark                
+2023-01-16T00:07:05Z: PLAYER REMOVED [ 3883117636] PIPER132355666      
+2023-01-16T00:07:09Z: PLAYER CHATTED [   68471378] ob2n                 ( -588.7,  5006.9,   -61.9)
+  It teleported me to a different game
+2023-01-16T00:07:13Z: PLAYER CHATTED [   68471378] ob2n                 ( -588.7,  5006.9,   -61.9)
+  Titled "Bulletbound"
+2023-01-16T00:07:34Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -544.0,  2963.7,    -8.3)
+  AUTOCLICKCKCK!
+2023-01-16T00:08:06Z: CHRCTER ADDED  [   68471378] ob2n                 a.k.a. Mark                
+2023-01-16T00:08:22Z: PLAYER CHATTED [   68471378] ob2n                 ( -493.1,   650.9,   -12.1)
+  Aren't you a californian
+2023-01-16T00:08:27Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -507.3,   652.0,   -14.8)
+  I am.
+2023-01-16T00:08:32Z: PLAYER CHATTED [   68471378] ob2n                 ( -567.9,   451.2,   -12.6)
+  What part?
+2023-01-16T00:08:35Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -507.4,   545.5,   -14.7)
+  But you aren't an Ohioan either.
+2023-01-16T00:08:41Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -507.4,   545.5,   -14.7)
+  Orange County.
+2023-01-16T00:08:49Z: PLAYER CHATTED [   68471378] ob2n                 ( -640.9,    77.7,   -20.1)
+  Interesting
+2023-01-16T00:09:01Z: PLAYER CHATTED [   68471378] ob2n                 ( -637.6,  -229.2,   -18.3)
+  Did you finish college yet?
+2023-01-16T00:09:21Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -505.1, -1121.7,    11.3)
+  Not yet.
+2023-01-16T00:09:26Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -515.9, -1111.0,    16.5)
+  My major is extensive.
+2023-01-16T00:09:27Z: PLAYER CHATTED [   68471378] ob2n                 ( -592.8,  -769.3,   -18.1)
+  What are you going for?
+2023-01-16T00:09:32Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -506.2, -1438.6,   -12.1)
+  Soft. eng.
+2023-01-16T00:09:37Z: PLAYER CHATTED [   68471378] ob2n                 ( -640.7, -1012.4,     2.6)
+  ##########
+2023-01-16T00:09:41Z: PLAYER CHATTED [   68471378] ob2n                 ( -639.9, -1166.7,    -1.8)
+  ##########
+2023-01-16T00:09:42Z: PLAYER CHATTED [   68471378] ob2n                 ( -637.5, -1180.5,    -8.1)
+  omg
+2023-01-16T00:09:44Z: PLAYER CHATTED [   68471378] ob2n                 ( -634.0, -1185.7,    -6.7)
+  #####
+2023-01-16T00:09:52Z: PLAYER CHATTED [   68471378] ob2n                 ( -633.4, -1250.1,   -16.7)
+  It won't let me say ba-ch
+2023-01-16T00:09:53Z: PLAYER CHATTED [   68471378] ob2n                 ( -633.4, -1250.1,   -16.7)
+  elo
+2023-01-16T00:09:53Z: PLAYER CHATTED [   68471378] ob2n                 ( -633.4, -1250.1,   -16.7)
+  r
+2023-01-16T00:09:54Z: PLAYER CHATTED [   68471378] ob2n                 ( -633.4, -1250.1,   -16.7)
+  s
+2023-01-16T00:10:05Z: PLAYER CHATTED [   68471378] ob2n                 ( -640.5, -1509.4,   -17.0)
+  ?
+2023-01-16T00:10:05Z: PLAYER CHATTED [   68471378] ob2n                 ( -640.5, -1509.4,   -17.0)
+  ?
+2023-01-16T00:10:06Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -573.7, -1847.8,    53.7)
+  I see.
+2023-01-16T00:10:24Z: CHRCTER ADDED  [ 1597227940] azelasney            a.k.a. DORUSSY             
+2023-01-16T00:10:25Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -563.0, -1950.3,    47.6)
+  I'm in year 5 and I haven't finished my B in sci yet.
+2023-01-16T00:10:29Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -563.8, -2075.6,    48.7)
+  Fret not.
+2023-01-16T00:10:33Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -562.7, -2080.7,    48.7)
+  I'm an A student.
+2023-01-16T00:10:45Z: PLAYER CHATTED [   68471378] ob2n                 ( -631.4, -2024.5,     1.2)
+  I'm just doing whatever courses I can at the moment.
+2023-01-16T00:10:48Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -555.3, -2175.6,    87.0)
+  I got no Bs or B+s in 202.
+2023-01-16T00:10:50Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -555.3, -2175.6,    87.0)
+  *2022.
+2023-01-16T00:10:57Z: PLAYER CHATTED [   68471378] ob2n                 ( -640.2, -2314.7,   -18.7)
+  I'm not going for a specific degree, I'm just doing online courses.
+2023-01-16T00:10:58Z: CHRCTER ADDED  [ 1597227940] azelasney            a.k.a. DORUSSY             
+2023-01-16T00:10:59Z: CHRCTER ADDED  [ 1229307861] bigfatty101forever  
+2023-01-16T00:10:59Z: CHRCTER ADDED  [ 3403987539] RaceTrackJaR         a.k.a. CrxspyXpples        
+2023-01-16T00:10:59Z: CHRCTER ADDED  [ 1645455783] Carmgirl1            a.k.a. Earthworm           
+2023-01-16T00:10:59Z: CHRCTER ADDED  [ 3272678535] Playmeawan          
+2023-01-16T00:10:59Z: CHRCTER ADDED  [ 3904107294] happy2020myfamily   
+2023-01-16T00:10:59Z: CHRCTER ADDED  [ 3395038553] Cyber65786          
+2023-01-16T00:10:59Z: CHRCTER ADDED  [ 2236692753] vivithepp            a.k.a. Earthworm4          
+2023-01-16T00:10:59Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T00:10:59Z: CHRCTER ADDED  [   68471378] ob2n                 a.k.a. Mark                
+2023-01-16T00:11:18Z: PLAYER CHATTED [   68471378] ob2n                 ( -627.4,  4776.3,    19.5)
+  As of now atleast.
+2023-01-16T00:11:19Z: PLAYER REMOVED [ 3272678535] Playmeawan          
+2023-01-16T00:11:19Z: PLAYER ADDED   [ 2837563958] Prinsecesjayd        a.k.a. Mckayla             
+2023-01-16T00:11:23Z: CHRCTER ADDED  [ 2837563958] Prinsecesjayd        a.k.a. Mckayla             
+2023-01-16T00:11:24Z: PLAYER REMOVED [ 1645455783] Carmgirl1            a.k.a. Earthworm           
+2023-01-16T00:11:24Z: PLAYER ADDED   [  314348936] oceanfish28         
+2023-01-16T00:11:49Z: PLAYER ADDED   [ 4029200223] Shil614              a.k.a. PrincessLayLay2014  
+2023-01-16T00:12:00Z: CHRCTER ADDED  [ 1597227940] azelasney            a.k.a. DORUSSY             
+2023-01-16T00:12:00Z: CHRCTER ADDED  [ 2236692753] vivithepp            a.k.a. Earthworm4          
+2023-01-16T00:12:00Z: CHRCTER ADDED  [ 3904107294] happy2020myfamily   
+2023-01-16T00:12:00Z: CHRCTER ADDED  [ 1229307861] bigfatty101forever  
+2023-01-16T00:12:01Z: CHRCTER ADDED  [ 3395038553] Cyber65786          
+2023-01-16T00:12:01Z: CHRCTER ADDED  [ 3403987539] RaceTrackJaR         a.k.a. CrxspyXpples        
+2023-01-16T00:12:01Z: CHRCTER ADDED  [ 4029200223] Shil614              a.k.a. PrincessLayLay2014  
+2023-01-16T00:12:01Z: CHRCTER ADDED  [  314348936] oceanfish28         
+2023-01-16T00:12:01Z: CHRCTER ADDED  [ 2837563958] Prinsecesjayd        a.k.a. Mckayla             
+2023-01-16T00:12:01Z: CHRCTER ADDED  [   68471378] ob2n                 a.k.a. Mark                
+2023-01-16T00:12:01Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T00:12:10Z: PLAYER REMOVED [ 2236692753] vivithepp            a.k.a. Earthworm4          
+2023-01-16T00:12:15Z: PLAYER REMOVED [ 3904107294] happy2020myfamily   
+2023-01-16T00:12:18Z: PLAYER ADDED   [ 1922165103] Ducky_Toas1          a.k.a. ikeafan1            
+2023-01-16T00:12:23Z: PLAYER CHATTED [   68471378] ob2n                 ( -551.9,  4996.6,    46.7)
+  I've got to go, my girlfriend is almost here.
+2023-01-16T00:12:26Z: PLAYER CHATTED [   68471378] ob2n                 ( -551.9,  4995.2,    46.4)
+  Goodbye.
+2023-01-16T00:12:35Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -593.1,  4727.6,   -11.3)
+  Take care.
+2023-01-16T00:12:37Z: PLAYER REMOVED [   68471378] ob2n                 a.k.a. Mark                
+2023-01-16T00:12:40Z: PLAYER ADDED   [ 3507420217] Cardi_queen37       
+2023-01-16T00:15:38Z: PLAYER REMOVED [ 3507420217] Cardi_queen37       
+2023-01-16T00:15:44Z: PLAYER ADDED   [ 2780634680] Jimmytimmyboi1234   
+2023-01-16T00:16:06Z: PLAYER REMOVED [ 2780634680] Jimmytimmyboi1234   
+2023-01-16T00:16:12Z: PLAYER ADDED   [ 3060419706] XxRose_Andrea        a.k.a. lalaloves           
+2023-01-16T00:18:07Z: PLAYER REMOVED [ 4029200223] Shil614              a.k.a. PrincessLayLay2014  
+2023-01-16T00:18:30Z: CHRCTER ADDED  [ 1229307861] bigfatty101forever  
+2023-01-16T00:18:31Z: CHRCTER ADDED  [ 2837563958] Prinsecesjayd        a.k.a. Mckayla             
+2023-01-16T00:18:31Z: CHRCTER ADDED  [ 3403987539] RaceTrackJaR         a.k.a. CrxspyXpples        
+2023-01-16T00:18:31Z: CHRCTER ADDED  [ 3395038553] Cyber65786          
+2023-01-16T00:18:31Z: CHRCTER ADDED  [  314348936] oceanfish28         
+2023-01-16T00:18:31Z: CHRCTER ADDED  [ 1597227940] azelasney            a.k.a. DORUSSY             
+2023-01-16T00:18:31Z: CHRCTER ADDED  [ 3060419706] XxRose_Andrea        a.k.a. lalaloves           
+2023-01-16T00:18:31Z: CHRCTER ADDED  [ 1922165103] Ducky_Toas1          a.k.a. ikeafan1            
+2023-01-16T00:18:31Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T00:18:32Z: PLAYER REMOVED [ 1597227940] azelasney            a.k.a. DORUSSY             
+2023-01-16T00:18:45Z: PLAYER REMOVED [ 3395038553] Cyber65786          
+2023-01-16T00:18:57Z: PLAYER REMOVED [ 1229307861] bigfatty101forever  
+2023-01-16T00:19:22Z: PLAYER ADDED   [ 4029200223] Shil614              a.k.a. PrincessLayLay2014  
+2023-01-16T00:19:35Z: PLAYER ADDED   [ 2581572812] Curyoro              a.k.a. Christopher         
+2023-01-16T00:19:42Z: PLAYER ADDED   [ 3992354031] Winniethatgirl23146 
+2023-01-16T00:19:43Z: PLAYER ADDED   [ 1585686384] gameroftheages1      a.k.a. TheCommandKing      
+2023-01-16T00:19:53Z: PLAYER ADDED   [ 4120565558] Poopheadhehw         a.k.a. Thebossandqueen     
+2023-01-16T00:21:04Z: CHRCTER ADDED  [ 2581572812] Curyoro              a.k.a. Christopher         
+2023-01-16T00:21:04Z: CHRCTER ADDED  [ 1585686384] gameroftheages1      a.k.a. TheCommandKing      
+2023-01-16T00:21:04Z: CHRCTER ADDED  [  314348936] oceanfish28         
+2023-01-16T00:21:04Z: CHRCTER ADDED  [ 3403987539] RaceTrackJaR         a.k.a. CrxspyXpples        
+2023-01-16T00:21:04Z: CHRCTER ADDED  [ 3992354031] Winniethatgirl23146 
+2023-01-16T00:21:04Z: CHRCTER ADDED  [ 4120565558] Poopheadhehw         a.k.a. Thebossandqueen     
+2023-01-16T00:21:04Z: CHRCTER ADDED  [ 4029200223] Shil614              a.k.a. PrincessLayLay2014  
+2023-01-16T00:21:04Z: CHRCTER ADDED  [ 2837563958] Prinsecesjayd        a.k.a. Mckayla             
+2023-01-16T00:21:04Z: CHRCTER ADDED  [ 3060419706] XxRose_Andrea        a.k.a. lalaloves           
+2023-01-16T00:21:05Z: CHRCTER ADDED  [ 1922165103] Ducky_Toas1          a.k.a. ikeafan1            
+2023-01-16T00:21:05Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T00:21:07Z: PLAYER REMOVED [ 3403987539] RaceTrackJaR         a.k.a. CrxspyXpples        
+2023-01-16T00:21:15Z: PLAYER REMOVED [ 3060419706] XxRose_Andrea        a.k.a. lalaloves           
+2023-01-16T00:21:16Z: PLAYER ADDED   [ 2723304866] Catalylan            a.k.a. Esme                
+2023-01-16T00:21:29Z: CHRCTER ADDED  [ 2723304866] Catalylan            a.k.a. Esme                
+2023-01-16T00:28:02Z: PLAYER REMOVED [ 4029200223] Shil614              a.k.a. PrincessLayLay2014  
+2023-01-16T00:28:03Z: PLAYER ADDED   [ 1156473419] oeoqokeoo_two82      a.k.a. destiny_james       
+2023-01-16T00:28:30Z: PLAYER REMOVED [ 2837563958] Prinsecesjayd        a.k.a. Mckayla             
+2023-01-16T00:28:38Z: PLAYER ADDED   [ 1506336176] nabbit555            a.k.a. Ducc                
+2023-01-16T00:29:09Z: PLAYER REMOVED [ 1156473419] oeoqokeoo_two82      a.k.a. destiny_james       
+2023-01-16T00:29:13Z: PLAYER ADDED   [ 3234300298] 2022lillylala       
+2023-01-16T00:29:14Z: CHRCTER ADDED  [ 3992354031] Winniethatgirl23146 
+2023-01-16T00:29:23Z: CHRCTER ADDED  [ 1922165103] Ducky_Toas1          a.k.a. ikeafan1            
+2023-01-16T00:29:29Z: CHRCTER ADDED  [ 3234300298] 2022lillylala       
+2023-01-16T00:29:29Z: CHRCTER ADDED  [ 3992354031] Winniethatgirl23146 
+2023-01-16T00:29:29Z: CHRCTER ADDED  [ 1506336176] nabbit555            a.k.a. Ducc                
+2023-01-16T00:29:29Z: CHRCTER ADDED  [ 2581572812] Curyoro              a.k.a. Christopher         
+2023-01-16T00:29:29Z: CHRCTER ADDED  [ 1922165103] Ducky_Toas1          a.k.a. ikeafan1            
+2023-01-16T00:29:29Z: CHRCTER ADDED  [ 4120565558] Poopheadhehw         a.k.a. Thebossandqueen     
+2023-01-16T00:29:29Z: CHRCTER ADDED  [ 2723304866] Catalylan            a.k.a. Esme                
+2023-01-16T00:29:29Z: CHRCTER ADDED  [  314348936] oceanfish28         
+2023-01-16T00:29:29Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T00:29:29Z: PLAYER REMOVED [ 1506336176] nabbit555            a.k.a. Ducc                
+2023-01-16T00:29:29Z: CHRCTER ADDED  [ 1585686384] gameroftheages1      a.k.a. TheCommandKing      
+2023-01-16T00:29:31Z: PLAYER REMOVED [ 2581572812] Curyoro              a.k.a. Christopher         
+2023-01-16T00:29:31Z: PLAYER ADDED   [  863350751] 0versiiz3d           a.k.a. asleep              
+2023-01-16T00:29:33Z: PLAYER ADDED   [ 3802302527] IHeartDonuts1617     a.k.a. Bunnyx2             
+2023-01-16T00:29:45Z: PLAYER REMOVED [ 1922165103] Ducky_Toas1          a.k.a. ikeafan1            
+2023-01-16T00:29:49Z: PLAYER ADDED   [ 3183505689] Jackie_christmas2524 a.k.a. Bunnyx              
+2023-01-16T00:29:53Z: PLAYER REMOVED [ 3234300298] 2022lillylala       
+2023-01-16T00:29:55Z: PLAYER ADDED   [ 2862314818] raratheman000        a.k.a. Ynd_demon           
+2023-01-16T00:30:03Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -633.9,  5007.6,   -64.4)
+  Hi.
+2023-01-16T00:30:04Z: CHRCTER ADDED  [  863350751] 0versiiz3d           a.k.a. asleep              
+2023-01-16T00:30:09Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -633.9,  5007.6,   -64.4)
+  I'm going to join a different server.
+2023-01-16T00:30:14Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -623.5,  5007.2,   -60.6)
+  wait
+2023-01-16T00:30:19Z: PLAYER REMOVED [ 3992354031] Winniethatgirl23146 
+2023-01-16T00:30:20Z: PLAYER REMOVED [ 4120565558] Poopheadhehw         a.k.a. Thebossandqueen     
+2023-01-16T00:30:20Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -629.9,  5007.2,   -60.0)
+  #######
+2023-01-16T00:30:22Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -629.9,  5007.2,   -60.0)
+  ur
+2023-01-16T00:30:22Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -633.9,  5007.6,   -64.4)
+  Never mind.
+2023-01-16T00:30:24Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -629.9,  5007.2,   -60.0)
+  ####
+2023-01-16T00:30:28Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -629.9,  5007.2,   -60.0)
+  ## ###
+2023-01-16T00:30:30Z: PLAYER ADDED   [ 4021893150] girteot             
+2023-01-16T00:30:30Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -632.0,  5004.2,   -64.8)
+  ur
+2023-01-16T00:30:31Z: PLAYER REMOVED [ 3183505689] Jackie_christmas2524 a.k.a. Bunnyx              
+2023-01-16T00:30:31Z: CHRCTER ADDED  [ 2723304866] Catalylan            a.k.a. Esme                
+2023-01-16T00:30:31Z: CHRCTER ADDED  [ 3802302527] IHeartDonuts1617     a.k.a. Bunnyx2             
+2023-01-16T00:30:31Z: CHRCTER ADDED  [ 2862314818] raratheman000        a.k.a. Ynd_demon           
+2023-01-16T00:30:31Z: CHRCTER ADDED  [ 1585686384] gameroftheages1      a.k.a. TheCommandKing      
+2023-01-16T00:30:31Z: CHRCTER ADDED  [  314348936] oceanfish28         
+2023-01-16T00:30:31Z: CHRCTER ADDED  [  863350751] 0versiiz3d           a.k.a. asleep              
+2023-01-16T00:30:31Z: PLAYER ADDED   [ 3306086536] Asleepsnake6        
+2023-01-16T00:30:31Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T00:30:33Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -570.9,  5007.2,   -31.4)
+  nu
+2023-01-16T00:30:35Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -570.9,  5007.2,   -31.4)
+  #
+2023-01-16T00:30:37Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -571.0,  5007.2,   -31.9)
+  ###
+2023-01-16T00:30:38Z: PLAYER ADDED   [ 2983248098] Audreypinweda14      a.k.a. BALLZ               
+2023-01-16T00:30:39Z: PLAYER REMOVED [ 3802302527] IHeartDonuts1617     a.k.a. Bunnyx2             
+2023-01-16T00:30:40Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -579.4,  5004.5,   -97.5)
+  My arm?
+2023-01-16T00:30:40Z: PLAYER ADDED   [ 1460077093] JoJogreanbean       
+2023-01-16T00:30:40Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -567.9,  5007.2,   -76.3)
+  nuber
+2023-01-16T00:30:47Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -567.9,  5007.2,   -76.3)
+  is on my disco
+2023-01-16T00:30:52Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -568.3,  5007.2,   -74.5)
+  on my gma
+2023-01-16T00:30:53Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -568.3,  5007.2,   -74.5)
+  il
+2023-01-16T00:31:01Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -560.1,  5007.6,   -55.4)
+  ¿???
+2023-01-16T00:31:02Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -490.1,  5007.2,  -194.7)
+  so j cant get in to ## ###
+2023-01-16T00:31:10Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -503.7,  5007.2,  -188.9)
+  ur nuber
+2023-01-16T00:31:12Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -503.7,  5007.2,  -188.9)
+  m
+2023-01-16T00:31:16Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -553.4,  5007.6,   -55.6)
+  0483?
+2023-01-16T00:31:20Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -500.1,  5007.2,  -168.0)
+  is on ## ###
+2023-01-16T00:31:24Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -500.6,  5007.2,  -166.3)
+  #####
+2023-01-16T00:31:27Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -500.6,  5007.2,  -166.3)
+  ####
+2023-01-16T00:31:30Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -500.6,  5007.2,  -166.3)
+  gma
+2023-01-16T00:31:33Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -500.6,  5007.2,  -166.3)
+  ##
+2023-01-16T00:31:36Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -500.6,  5007.2,  -166.3)
+  i l
+2023-01-16T00:31:36Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -538.5,  5007.6,   -31.5)
+  What's GMA?
+2023-01-16T00:31:41Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -500.6,  5007.2,  -166.3)
+  ## ###
+2023-01-16T00:31:43Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -524.8,  5007.6,   -31.1)
+  What does that mean?
+2023-01-16T00:31:45Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -524.8,  5007.6,   -31.1)
+  G M A?
+2023-01-16T00:31:50Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -500.6,  5007.2,  -166.3)
+  #######
+2023-01-16T00:31:52Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -500.6,  5007.2,  -166.3)
+  omg
+2023-01-16T00:31:55Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -500.6,  5007.2,  -166.3)
+  omg
+2023-01-16T00:31:55Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -500.6,  5007.2,  -166.3)
+  tags
+2023-01-16T00:32:09Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -500.6,  5007.2,  -166.3)
+  ur nuber is on my mail
+2023-01-16T00:32:12Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -500.6,  5007.2,  -166.3)
+  g
+2023-01-16T00:32:14Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -500.6,  5007.2,  -166.3)
+  m
+2023-01-16T00:32:16Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -500.6,  5007.2,  -166.3)
+  a
+2023-01-16T00:32:18Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -500.6,  5007.2,  -166.3)
+  #
+2023-01-16T00:32:20Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -500.6,  5007.2,  -166.3)
+  #
+2023-01-16T00:32:22Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -511.9,  5007.6,   -28.7)
+  Got it.
+2023-01-16T00:32:27Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -516.7,  5007.2,  -130.9)
+  yeah.
+2023-01-16T00:32:28Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -530.9,  5007.6,   -41.3)
+  Mobile num?
+2023-01-16T00:32:38Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -516.7,  5007.2,  -130.9)
+  pls take it off my
+2023-01-16T00:32:40Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -516.7,  5007.2,  -130.9)
+  g
+2023-01-16T00:32:42Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -516.7,  5007.2,  -130.9)
+  ####
+2023-01-16T00:32:45Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -516.7,  5007.2,  -130.9)
+  ###
+2023-01-16T00:32:50Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -545.4,  5007.6,   -40.6)
+  I am unable to access my Gmail.
+2023-01-16T00:32:55Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -516.7,  5007.2,  -130.9)
+  :/
+2023-01-16T00:32:56Z: CHRCTER ADDED  [  863350751] 0versiiz3d           a.k.a. asleep              
+2023-01-16T00:33:06Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -516.7,  5007.2,  -130.9)
+  ######
+2023-01-16T00:33:10Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -436.9,  5007.6,   -26.4)
+  Send it to me elsewhere.
+2023-01-16T00:33:23Z: CHRCTER ADDED  [  314348936] oceanfish28         
+2023-01-16T00:33:25Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -516.7,  5007.2,  -130.9)
+  alr
+2023-01-16T00:33:28Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -458.2,  5007.6,   -23.8)
+  On Dis/
+2023-01-16T00:33:29Z: CHRCTER ADDED  [ 1585686384] gameroftheages1      a.k.a. TheCommandKing      
+2023-01-16T00:33:33Z: PLAYER REMOVED [  863350751] 0versiiz3d           a.k.a. asleep              
+2023-01-16T00:33:35Z: CHRCTER ADDED  [ 3306086536] Asleepsnake6        
+2023-01-16T00:33:40Z: CHRCTER ADDED  [  314348936] oceanfish28         
+2023-01-16T00:33:40Z: CHRCTER ADDED  [ 3306086536] Asleepsnake6        
+2023-01-16T00:33:40Z: CHRCTER ADDED  [ 1585686384] gameroftheages1      a.k.a. TheCommandKing      
+2023-01-16T00:33:40Z: CHRCTER ADDED  [ 4021893150] girteot             
+2023-01-16T00:33:40Z: CHRCTER ADDED  [ 2862314818] raratheman000        a.k.a. Ynd_demon           
+2023-01-16T00:33:40Z: CHRCTER ADDED  [ 2983248098] Audreypinweda14      a.k.a. BALLZ               
+2023-01-16T00:33:40Z: CHRCTER ADDED  [ 1460077093] JoJogreanbean       
+2023-01-16T00:33:40Z: CHRCTER ADDED  [ 2723304866] Catalylan            a.k.a. Esme                
+2023-01-16T00:33:40Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T00:33:41Z: PLAYER ADDED   [ 3189623761] Princess_Emliy54     a.k.a. AVERYISNOTAVERY     
+2023-01-16T00:33:50Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -564.6,  5007.2,   -32.2)
+  yk the nuber u put in my g
+2023-01-16T00:33:51Z: PLAYER ADDED   [ 3048482391] Queen_Sandra89       a.k.a. CECILIAISNOTCECILIA 
+2023-01-16T00:33:51Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -564.6,  5007.2,   -32.2)
+  ma
+2023-01-16T00:33:54Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -565.6,  5008.1,   -30.4)
+  ##
+2023-01-16T00:33:57Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -550.8,  5008.0,   -21.4)
+  i l
+2023-01-16T00:34:02Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -365.6,  5007.6,    96.9)
+  I may have not done that.
+2023-01-16T00:34:08Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -550.8,  5008.0,   -21.3)
+  .
+2023-01-16T00:34:08Z: PLAYER ADDED   [ 2274799881] THEHOLYtrashcan55   
+2023-01-16T00:34:16Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -394.7,  5007.6,    79.6)
+  Send me a screenshot.
+2023-01-16T00:34:19Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -550.8,  5008.0,   -21.3)
+  can u take it off pls
+2023-01-16T00:34:29Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -543.7,  5007.2,   -25.1)
+  i cant
+2023-01-16T00:34:32Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -543.7,  5007.2,   -25.1)
+  accse
+2023-01-16T00:34:43Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -543.7,  5007.2,   -25.1)
+  ###############
+2023-01-16T00:34:44Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -585.5,  5007.6,   -65.2)
+  Neither can I.
+2023-01-16T00:34:56Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -552.7,  5007.2,   -29.1)
+  damn it
+2023-01-16T00:34:59Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -559.4,  5007.6,   -33.5)
+  Come to the Kubla Khan.
+2023-01-16T00:35:01Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -552.7,  5007.2,   -29.1)
+  its ok
+2023-01-16T00:35:04Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -552.7,  5007.2,   -29.1)
+  alr
+2023-01-16T00:35:04Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -558.0,  5007.6,   -33.2)
+  We'll be safe there.
+2023-01-16T00:35:12Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -555.4,  5007.2,   -30.8)
+  alright
+2023-01-16T00:35:29Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

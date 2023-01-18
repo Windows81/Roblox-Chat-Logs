@@ -1,0 +1,59 @@
+[    1630228] : [ 4522347649] [FREE ADMIN] - 4040a615-1578-4fbb-9da2-b88429ee213f
+2023-01-16T05:50:02Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-16T05:50:02Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T05:50:02Z: PLAYER ADDED   [ 3645156647] Vsadimir            
+2023-01-16T05:50:02Z: PLAYER ADDED   [ 3658216886] Hamoodared          
+2023-01-16T05:50:02Z: PLAYER ADDED   [ 2602555966] butterballz11       
+2023-01-16T05:50:02Z: PLAYER ADDED   [ 4108310779] bananastickm7       
+2023-01-16T05:50:02Z: PLAYER ADDED   [ 1358141444] JaiIbreak749         a.k.a. HOG_RIDA            
+2023-01-16T05:50:02Z: PLAYER ADDED   [ 4212499620] zaneika501          
+2023-01-16T05:50:09Z: CHRCTER ADDED  [ 2602555966] butterballz11       
+2023-01-16T05:50:09Z: CHRCTER ADDED  [ 4108310779] bananastickm7       
+2023-01-16T05:50:09Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T05:50:12Z: CHRCTER ADDED  [ 1358141444] JaiIbreak749         a.k.a. HOG_RIDA            
+2023-01-16T05:50:16Z: PLAYER CHATTED [ 1358141444] JaiIbreak749         (  -13.9,    -1.0,   149.5)
+  ###
+2023-01-16T05:50:27Z: PLAYER CHATTED [ 1358141444] JaiIbreak749         (  -13.9,    -1.0,   149.5)
+  :clone me 3
+2023-01-16T05:50:27Z: PLAYER CHATTED [ 1358141444] JaiIbreak749         (  -13.9,    -1.0,   149.5)
+  :clone me 3
+2023-01-16T05:50:28Z: PLAYER CHATTED [ 4108310779] bananastickm7        (  -11.7,    -1.0,    21.0)
+  :nurse but
+2023-01-16T05:50:31Z: PLAYER CHATTED [ 1358141444] JaiIbreak749         (  -13.8,    -1.1,   149.5)
+  v:clone me 3
+2023-01-16T05:50:31Z: PLAYER CHATTED [ 1358141444] JaiIbreak749         (  -13.8,    -1.1,   149.5)
+  :clone me 3
+2023-01-16T05:50:32Z: PLAYER CHATTED [ 1358141444] JaiIbreak749         (  -13.8,    -1.1,   149.5)
+  :clone me 3
+2023-01-16T05:50:32Z: PLAYER CHATTED [ 1358141444] JaiIbreak749         (  -13.9,    -1.1,   149.5)
+  :clone me 3
+2023-01-16T05:50:33Z: PLAYER CHATTED [ 1358141444] JaiIbreak749         (  -13.8,    -0.8,   149.5)
+  :clone me 3
+2023-01-16T05:50:33Z: PLAYER CHATTED [ 1358141444] JaiIbreak749         (  -13.8,    -1.0,   149.5)
+  :clone me 3
+2023-01-16T05:50:33Z: PLAYER CHATTED [ 1358141444] JaiIbreak749         (  -13.8,    -1.0,   149.5)
+  :clone me 3
+2023-01-16T05:50:34Z: CHRCTER ADDED  [ 4108310779] bananastickm7       
+2023-01-16T05:50:39Z: PLAYER CHATTED [ 1358141444] JaiIbreak749         (  -39.2,    -1.0,   122.3)
+  :clone me 3
+2023-01-16T05:50:41Z: PLAYER CHATTED [ 1358141444] JaiIbreak749         (  -39.9,    -1.0,   105.6)
+  :clone me 3
+2023-01-16T05:50:42Z: PLAYER CHATTED [ 1358141444] JaiIbreak749         (  -39.9,    -1.0,   105.7)
+  :clone me 3
+2023-01-16T05:50:44Z: PLAYER CHATTED [ 1358141444] JaiIbreak749         (  -39.9,    -1.1,   105.8)
+  :clone me 3/
+2023-01-16T05:50:54Z: PLAYER CHATTED [ 1358141444] JaiIbreak749         (  -40.0,    -1.0,   105.8)
+  :freeze others
+2023-01-16T05:50:55Z: PLAYER CHATTED [ 1358141444] JaiIbreak749         (  -40.0,    -1.0,   105.8)
+  :freeze others
+2023-01-16T05:51:04Z: CHRCTER ADDED  [ 3645156647] Vsadimir            
+2023-01-16T05:51:16Z: PLAYER REMOVED [ 3658216886] Hamoodared          
+2023-01-16T05:51:22Z: CHRCTER ADDED  [ 4212499620] zaneika501          
+2023-01-16T05:51:35Z: CHRCTER ADDED  [ 4212499620] zaneika501          
+2023-01-16T05:51:36Z: PLAYER REMOVED [ 3645156647] Vsadimir            
+2023-01-16T05:51:52Z: PLAYER ADDED   [ 4235780186] Norboss1209         
+2023-01-16T05:52:24Z: CHRCTER ADDED  [ 4108310779] bananastickm7       
+2023-01-16T05:52:45Z: CHRCTER ADDED  [ 4235780186] Norboss1209         
+2023-01-16T05:52:46Z: CHRCTER ADDED  [ 4108310779] bananastickm7       
+2023-01-16T05:52:48Z: CHRCTER ADDED  [ 2602555966] butterballz11       
+2023-01-16T05:52:55Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

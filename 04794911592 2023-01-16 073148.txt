@@ -1,0 +1,338 @@
+[    1630228] : [ 4794911592] The Kubla Khan Las Vegas • Hotel Showcase, W.I.P. - a969c88d-8c8b-4470-bec4-c6f74b7859ac
+2023-01-16T07:31:48Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-16T07:31:48Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T07:34:23Z: PLAYER ADDED   [ 3366855513] Yavon_Technologies   a.k.a. Ay_dyn              
+2023-01-16T07:39:09Z: PLAYER CHATTED [ 3366855513] Yavon_Technologies   (  142.1,    91.6,   148.3)
+  i'm going up to 5
+2023-01-16T07:41:28Z: PLAYER CHATTED [ 3366855513] Yavon_Technologies   (  140.5,    91.2,   139.9)
+  ####
+2023-01-16T07:41:28Z: PLAYER CHATTED [ 3366855513] Yavon_Technologies   (  140.5,    91.2,   139.9)
+  fuck
+2023-01-16T07:41:30Z: PLAYER CHATTED [ 3366855513] Yavon_Technologies   (  140.5,    91.2,   139.9)
+  #####
+2023-01-16T07:41:30Z: PLAYER CHATTED [ 3366855513] Yavon_Technologies   (  140.5,    91.2,   139.9)
+  bitch
+2023-01-16T07:41:33Z: PLAYER CHATTED [ 3366855513] Yavon_Technologies   (  140.5,    91.2,   139.9)
+  ####
+2023-01-16T07:41:33Z: PLAYER CHATTED [ 3366855513] Yavon_Technologies   (  140.5,    91.2,   139.9)
+  nig-
+2023-01-16T07:41:49Z: PLAYER ADDED   [   68471378] ob2n                 a.k.a. Mark                
+2023-01-16T07:42:04Z: PLAYER CHATTED [    1630228] VisualPlugin         (  147.2,   118.8,   148.8)
+  Wanna join the call?
+2023-01-16T07:42:12Z: PLAYER CHATTED [   68471378] ob2n                 (   84.1,    91.6,    49.8)
+  on the phone already
+2023-01-16T07:42:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (  128.9,   118.8,   137.6)
+  Got it.
+2023-01-16T07:42:24Z: PLAYER CHATTED [   68471378] ob2n                 (  172.5,    91.6,   110.5)
+  This looks different
+2023-01-16T07:42:31Z: PLAYER CHATTED [    1630228] VisualPlugin         (  122.3,   118.8,   140.4)
+  It evolved.
+2023-01-16T07:42:44Z: PLAYER CHATTED [   68471378] ob2n                 (  -26.7,    92.6,   185.4)
+  I'm also on full graphics which I've never done on here before
+2023-01-16T07:42:52Z: PLAYER CHATTED [    1630228] VisualPlugin         (  109.5,   118.8,   134.6)
+  Optimised!
+2023-01-16T07:43:00Z: PLAYER CHATTED [   68471378] ob2n                 ( -104.6,    94.6,   158.4)
+  Haha just a much better computer
+2023-01-16T07:43:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (  145.7,   118.8,   142.9)
+  FPS?
+2023-01-16T07:43:25Z: PLAYER CHATTED [   68471378] ob2n                 (  -92.6,    92.3,    64.1)
+  No idea, how do I check?
+2023-01-16T07:43:37Z: PLAYER CHATTED [    1630228] VisualPlugin         (  145.2,   118.8,   140.7)
+  F5.
+2023-01-16T07:43:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (  145.2,   118.8,   140.7)
+  Shift + F5.
+2023-01-16T07:43:52Z: PLAYER CHATTED [   68471378] ob2n                 (   -1.1,    91.6,    49.5)
+  My computer doesn't have any F buttons
+2023-01-16T07:43:55Z: PLAYER CHATTED [   68471378] ob2n                 (    3.6,    91.6,    51.0)
+  It's a macbook pro
+2023-01-16T07:43:57Z: PLAYER CHATTED [ 3366855513] Yavon_Technologies   (  140.1,   118.2,   140.3)
+  what?
+2023-01-16T07:44:01Z: PLAYER CHATTED [ 3366855513] Yavon_Technologies   (  136.1,   118.2,   138.2)
+  that's weird
+2023-01-16T07:44:03Z: PLAYER CHATTED [   68471378] ob2n                 (   29.9,    91.6,    48.5)
+  It has a touchbar
+2023-01-16T07:44:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.7,   118.8,   139.5)
+  Shift + Fn + 5?
+2023-01-16T07:44:16Z: PLAYER CHATTED [ 3366855513] Yavon_Technologies   (  125.9,   118.2,   138.5)
+  nope
+2023-01-16T07:44:19Z: PLAYER CHATTED [   68471378] ob2n                 (   15.1,    91.6,    54.8)
+  nope
+2023-01-16T07:44:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (  112.9,   118.8,   140.5)
+  Try performance stats.
+2023-01-16T07:45:01Z: PLAYER CHATTED [   68471378] ob2n                 ( -195.7,    90.0,   159.6)
+  I don't see FPS in performance stats.
+2023-01-16T07:45:37Z: PLAYER CHATTED [    1630228] VisualPlugin         (  109.6,   118.8,   186.9)
+  Microprofiler.
+2023-01-16T07:45:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (  109.6,   118.8,   186.9)
+  Get the average figure.
+2023-01-16T07:45:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (  109.6,   118.8,   186.9)
+  That's likely 1/FPS.
+2023-01-16T07:45:48Z: PLAYER CHATTED [   68471378] ob2n                 (   54.2,    91.6,    56.0)
+  Huh?
+2023-01-16T07:46:01Z: PLAYER CHATTED [   68471378] ob2n                 (  207.6,    91.6,    54.5)
+  I don't see a microprofiler
+2023-01-16T07:46:07Z: PLAYER CHATTED [   68471378] ob2n                 (  212.5,    91.6,    54.2)
+  nvm
+2023-01-16T07:46:22Z: PLAYER CHATTED [   68471378] ob2n                 (  274.8,    91.6,   179.3)
+  The average is 27
+2023-01-16T07:46:35Z: PLAYER CHATTED [   68471378] ob2n                 (  269.6,    91.6,   179.7)
+  32 now
+2023-01-16T07:46:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (   23.0,   118.8,   196.4)
+  Try looking to the centre.
+2023-01-16T07:46:36Z: PLAYER CHATTED [ 3366855513] Yavon_Technologies   (   -1.8,   118.2,   197.2)
+  AVG for me is 70
+2023-01-16T07:46:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (    3.6,   118.8,   197.1)
+  70 fps or 70 ms/fr?
+2023-01-16T07:46:50Z: PLAYER CHATTED [   68471378] ob2n                 (  275.2,    91.8,    48.6)
+  Yeah that can't be right my framerate is flawless whatever it is
+2023-01-16T07:46:56Z: PLAYER CHATTED [   68471378] ob2n                 (  235.7,    94.7,    74.2)
+  I have 0 lag I'm on max graphics
+2023-01-16T07:47:00Z: PLAYER CHATTED [ 3366855513] Yavon_Technologies   (   -8.4,    89.6,   105.0)
+  70fps
+2023-01-16T07:47:03Z: PLAYER CHATTED [    1630228] VisualPlugin         (   67.9,   118.8,   195.8)
+  nkhesgbshkegbksgbksgjkwhegjksndkjgnwhknjksndgjkseg
+2023-01-16T07:48:27Z: PLAYER CHATTED [   68471378] ob2n                 (  287.5,   217.6,   133.3)
+  I've found my room.
+2023-01-16T07:48:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (  110.5,    91.8,   109.9)
+  If you lòók at the centre of the map from the side,
+2023-01-16T07:48:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (  110.5,    91.8,   109.9)
+  No lag?
+2023-01-16T07:48:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (  110.5,    91.8,   109.9)
+  60+ fps?
+2023-01-16T07:48:44Z: PLAYER CHATTED [   68471378] ob2n                 (  312.1,   217.6,   135.1)
+  Yep
+2023-01-16T07:48:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (  128.5,    91.8,   116.7)
+  2160p?
+2023-01-16T07:49:00Z: PLAYER CHATTED [   68471378] ob2n                 (  201.0,    80.7,   134.1)
+  I closed the stats but everywhere yep
+2023-01-16T07:49:09Z: CHRCTER ADDED  [   68471378] ob2n                 a.k.a. Mark                
+2023-01-16T07:49:19Z: PLAYER CHATTED [   68471378] ob2n                 (   33.7,    93.5,    -1.8)
+  I'm running on an M1 chip.
+2023-01-16T07:49:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (  111.2,    91.8,    95.3)
+  I thought M1 is CPU.
+2023-01-16T07:49:33Z: PLAYER CHATTED [   68471378] ob2n                 (   33.5,    92.2,    29.1)
+  No idea
+2023-01-16T07:49:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (  121.9,    91.8,   117.2)
+  I'm using an RX 580.
+2023-01-16T07:49:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (  127.0,    91.8,   121.4)
+  Should be powerful.
+2023-01-16T07:50:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (  127.0,    91.8,   119.9)
+  Why do you get 70 fps?
+2023-01-16T07:50:06Z: PLAYER CHATTED [ 3366855513] Yavon_Technologies   (  144.0,    91.2,   119.1)
+  Not sure
+2023-01-16T07:50:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (  126.8,    91.8,   116.2)
+  Where is your room, Mark?
+2023-01-16T07:50:36Z: PLAYER CHATTED [   68471378] ob2n                 (  165.4,    91.1,    65.3)
+  One of the main reasons my computer is powerful is because I do nothing on it.
+2023-01-16T07:50:41Z: PLAYER CHATTED [   68471378] ob2n                 (  221.4,    91.7,    65.7)
+  I reset to the lobby.
+2023-01-16T07:51:01Z: PLAYER CHATTED [   68471378] ob2n                 (  218.2,    91.6,   204.3)
+  The only things on my computer pretty much are roblox spotify and safari for my studying.
+2023-01-16T07:51:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (  131.9,   244.8,   109.7)
+  Spotify is for payers.
+2023-01-16T07:51:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (  133.7,   244.8,   115.2)
+  I use yt-dlp.
+2023-01-16T07:51:34Z: PLAYER CHATTED [   68471378] ob2n                 (   17.3,    91.1,    69.5)
+  I use spotify for the integrations.
+2023-01-16T07:51:51Z: PLAYER CHATTED [   68471378] ob2n                 (  -49.1,    93.0,   142.1)
+  I get it for $5 a month through my university
+2023-01-16T07:51:53Z: PLAYER CHATTED [    1630228] VisualPlugin         (  111.3,   244.8,   145.7)
+  Spotify sux because I can't reverse my music on it.
+2023-01-16T07:52:07Z: PLAYER CHATTED [   68471378] ob2n                 ( -145.2,    91.6,    51.5)
+  Well it automatically connects to the apple carplay in my car
+2023-01-16T07:52:11Z: PLAYER CHATTED [   68471378] ob2n                 ( -198.0,    91.6,    57.7)
+  Makes it easy when I'm driving
+2023-01-16T07:52:17Z: PLAYER CHATTED [ 3366855513] Yavon_Technologies   (  118.7,   244.2,   116.9)
+  11
+2023-01-16T07:52:28Z: PLAYER CHATTED [ 3366855513] Yavon_Technologies   (  125.1,   244.2,   156.3)
+  turning 12 this yesr
+2023-01-16T07:52:30Z: PLAYER CHATTED [ 3366855513] Yavon_Technologies   (  125.1,   244.2,   156.3)
+  year
+2023-01-16T07:52:35Z: PLAYER CHATTED [   68471378] ob2n                 (  -65.6,    93.6,   187.3)
+  Also allows me to do things like shared playlists with my friends, connection to devices like alexa, etc
+2023-01-16T07:53:24Z: PLAYER CHATTED [   68471378] ob2n                 ( -156.4,    91.6,    61.5)
+  ###############################
+2023-01-16T07:53:24Z: PLAYER CHATTED [   68471378] ob2n                 ( -157.3,    91.6,    61.6)
+  Care to join me on dig to ohio?
+2023-01-16T07:53:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (  113.1,   244.8,   119.6)
+  I'm with a new fan.
+2023-01-16T07:53:51Z: PLAYER CHATTED [   68471378] ob2n                 (  -37.7,    85.5,   114.3)
+  I've been a #PluginFan since 2018!
+2023-01-16T07:53:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (  110.8,   244.8,   114.4)
+  Care to check floor 13?
+2023-01-16T07:54:03Z: PLAYER CHATTED [   68471378] ob2n                 (  -38.7,    86.1,   114.8)
+  5 years of plugins!
+2023-01-16T07:54:07Z: CHRCTER ADDED  [   68471378] ob2n                 a.k.a. Mark                
+2023-01-16T07:54:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (  109.2,   244.8,   111.8)
+  I've been a Ob2n fan as well.
+2023-01-16T07:54:10Z: PLAYER CHATTED [   68471378] ob2n                 (   35.0,    91.1,    -0.9)
+  On my way.
+2023-01-16T07:54:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (  110.9,   244.8,   116.7)
+  5 years of río.
+2023-01-16T07:54:21Z: PLAYER CHATTED [   68471378] ob2n                 (  102.2,    91.6,    59.3)
+  Good lord
+2023-01-16T07:54:32Z: PLAYER CHATTED [   68471378] ob2n                 (  135.5,    91.6,   115.5)
+  I never play roblox anymore
+2023-01-16T07:54:36Z: PLAYER CHATTED [   68471378] ob2n                 (  138.5,    91.6,   109.7)
+  I'm way too busy with work
+2023-01-16T07:54:37Z: PLAYER ADDED   [ 3564751839] king_hatdog13        a.k.a. Lynxx               
+2023-01-16T07:54:38Z: PLAYER CHATTED [ 3366855513] Yavon_Technologies   (  146.3,   244.2,   116.2)
+  i
+2023-01-16T07:54:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (  141.8,   244.8,   118.5)
+  I never used Río though.
+2023-01-16T07:54:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (  148.5,   149.2,   127.4)
+  What do you do for work?
+2023-01-16T07:55:03Z: PLAYER CHATTED [ 3564751839] king_hatdog13        (   35.0,    91.3,    42.7)
+  mark
+2023-01-16T07:55:14Z: PLAYER CHATTED [   68471378] ob2n                 (  140.1,   190.6,   108.6)
+  ?
+2023-01-16T07:55:17Z: PLAYER CHATTED [   68471378] ob2n                 (  140.1,   190.6,   108.6)
+  I'm a piano bar entertainer
+2023-01-16T07:55:19Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T07:55:20Z: PLAYER CHATTED [ 3564751839] king_hatdog13        (   28.7,    85.3,    91.5)
+  wsp
+2023-01-16T07:55:23Z: PLAYER CHATTED [   68471378] ob2n                 (  140.1,   190.6,   108.6)
+  I'm frozen on the elevator
+2023-01-16T07:55:26Z: PLAYER CHATTED [   68471378] ob2n                 (  140.1,   190.6,   108.6)
+  Hi, do I know you?
+2023-01-16T07:55:29Z: CHRCTER ADDED  [ 3366855513] Yavon_Technologies   a.k.a. Ay_dyn              
+2023-01-16T07:55:31Z: CHRCTER ADDED  [   68471378] ob2n                 a.k.a. Mark                
+2023-01-16T07:55:32Z: PLAYER CHATTED [ 3564751839] king_hatdog13        (  -11.7,    91.6,   121.0)
+  yup
+2023-01-16T07:55:41Z: PLAYER CHATTED [   68471378] ob2n                 (   53.4,    91.6,    53.7)
+  How so?
+2023-01-16T07:55:57Z: PLAYER CHATTED [ 3564751839] king_hatdog13        (  -11.9,    94.6,   133.2)
+  wait
+2023-01-16T07:56:14Z: PLAYER CHATTED [ 3564751839] king_hatdog13        (  -11.9,    94.6,   133.2)
+  in avatar island
+2023-01-16T07:56:20Z: PLAYER CHATTED [   68471378] ob2n                 (  115.6,   190.6,   118.3)
+  Oh.
+2023-01-16T07:56:22Z: PLAYER CHATTED [ 3564751839] king_hatdog13        (  -11.9,    94.9,   134.3)
+  you playing that
+2023-01-16T07:56:24Z: PLAYER CHATTED [   68471378] ob2n                 (   76.5,   191.8,   125.2)
+  I'm on 13 now.
+2023-01-16T07:56:33Z: PLAYER CHATTED [ 3564751839] king_hatdog13        (  -37.0,    83.3,   166.3)
+  ohh
+2023-01-16T07:56:35Z: PLAYER CHATTED [ 3564751839] king_hatdog13        (  -37.4,    86.6,   170.4)
+  nice
+2023-01-16T07:56:44Z: PLAYER CHATTED [   68471378] ob2n                 (  120.5,   190.6,   111.1)
+  I play avatar island sometimes, yes.
+2023-01-16T07:56:45Z: PLAYER CHATTED [ 3564751839] king_hatdog13        (  -38.1,    89.4,   175.0)
+  but your not accepting me 
+2023-01-16T07:56:51Z: PLAYER CHATTED [    1630228] VisualPlugin         (  112.7,    91.8,   115.5)
+  *You're.
+2023-01-16T07:56:52Z: PLAYER CHATTED [ 3564751839] king_hatdog13        (  -51.7,    93.9,   163.1)
+  yup 
+2023-01-16T07:56:53Z: PLAYER CHATTED [   68471378] ob2n                 (   35.1,   190.6,    86.5)
+  I don't accept friend requests.
+2023-01-16T07:56:58Z: PLAYER CHATTED [ 3564751839] king_hatdog13        (  -90.9,    94.0,   164.5)
+  ok ty
+2023-01-16T07:57:03Z: PLAYER CHATTED [   68471378] ob2n                 (  111.9,   190.6,   124.1)
+  My pleasure.
+2023-01-16T07:57:11Z: PLAYER CHATTED [ 3564751839] king_hatdog13        ( -102.4,    94.3,   127.7)
+  cya
+2023-01-16T07:57:15Z: PLAYER CHATTED [   68471378] ob2n                 (   88.9,   190.8,   137.9)
+  Okay.
+2023-01-16T07:57:20Z: PLAYER CHATTED [ 3564751839] king_hatdog13        ( -102.4,    94.3,   127.7)
+  bye
+2023-01-16T07:57:23Z: PLAYER CHATTED [ 3564751839] king_hatdog13        ( -102.4,    94.3,   127.7)
+  stay safe
+2023-01-16T07:57:24Z: PLAYER CHATTED [   68471378] ob2n                 (   81.2,   192.0,   136.6)
+  Goodbye.
+2023-01-16T07:57:35Z: PLAYER REMOVED [ 3564751839] king_hatdog13        a.k.a. Lynxx               
+2023-01-16T07:57:45Z: PLAYER CHATTED [   68471378] ob2n                 (   96.0,   190.8,   121.2)
+  What do you do for work, visual?
+2023-01-16T07:58:19Z: PLAYER CHATTED [    1630228] VisualPlugin         (  140.9,   181.8,   131.8)
+  I'm open to work and am a full-time student.
+2023-01-16T07:58:40Z: PLAYER CHATTED [   68471378] ob2n                 (    3.6,    91.4,    69.2)
+  It's useful to do contracting during school.
+2023-01-16T07:58:50Z: PLAYER CHATTED [   68471378] ob2n                 (   11.9,    91.6,    49.3)
+  My work is technically contracting, except for I have a manager.
+2023-01-16T07:59:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (  138.0,   162.1,   126.5)
+  I've reached out about internships.
+2023-01-16T07:59:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (  113.3,   190.8,   124.7)
+  Have you visited floor 13?
+2023-01-16T07:59:31Z: PLAYER CHATTED [   68471378] ob2n                 (  -34.2,    91.6,    62.0)
+  I generally get paid around $50/hour just for playing pianos in fancy hotels.
+2023-01-16T07:59:35Z: PLAYER CHATTED [   68471378] ob2n                 (    5.1,    91.6,    56.8)
+  Yeah, I did.
+2023-01-16T07:59:46Z: PLAYER CHATTED [    1630228] VisualPlugin         (   82.7,   191.2,   116.3)
+  You've got a really good job!
+2023-01-16T08:00:01Z: PLAYER CHATTED [   68471378] ob2n                 (   -3.7,    84.4,   174.9)
+  I prefer steady work honestly, but It's nice.
+2023-01-16T08:00:15Z: PLAYER CHATTED [   68471378] ob2n                 (  -17.8,    87.0,   171.6)
+  Not sure if you knew about my Chick-Fil-A job?
+2023-01-16T08:00:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (   95.5,   191.0,   127.7)
+  I didn't.
+2023-01-16T08:00:23Z: PLAYER CHATTED [   68471378] ob2n                 (  -27.4,    93.4,   170.9)
+  I worked there for 9 months as a Team Leader.
+2023-01-16T08:00:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (   95.5,   191.0,   127.7)
+  Did you know my Pollo Loco job?
+2023-01-16T08:00:27Z: PLAYER CHATTED [   68471378] ob2n                 (  -49.1,    93.0,   142.1)
+  Up until last month.
+2023-01-16T08:00:30Z: PLAYER CHATTED [   68471378] ob2n                 (  -37.5,    93.1,   130.2)
+  I did not.
+2023-01-16T08:01:11Z: PLAYER CHATTED [   68471378] ob2n                 ( -189.3,    91.1,   189.2)
+  Why do you open source your projects?
+2023-01-16T08:01:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (  115.4,   190.8,   123.9)
+  I wanted to be a manager for fast food.
+2023-01-16T08:01:22Z: PLAYER CHATTED [   68471378] ob2n                 ( -181.4,    92.4,    77.5)
+  It seems easily to be copied.
+2023-01-16T08:01:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (  115.4,   190.8,   123.9)
+  I didn't get to succeed.
+2023-01-16T08:01:31Z: PLAYER CHATTED [   68471378] ob2n                 (  -73.7,    85.9,    78.2)
+  Fast food managing Isn't as fun as it sounds.
+2023-01-16T08:01:37Z: PLAYER CHATTED [    1630228] VisualPlugin         (  110.8,   190.8,   127.6)
+  My projects are released under the GPL first of all.
+2023-01-16T08:02:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (  106.9,   190.8,   129.0)
+  This means that if someone takes my project, they have to allow others to take from it as well.
+2023-01-16T08:02:26Z: PLAYER CHATTED [   68471378] ob2n                 (  -97.7,    92.4,    85.1)
+  Makes sense.
+2023-01-16T08:02:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (  110.6,   190.8,   138.2)
+  Well, only if I decide to ask them.
+2023-01-16T08:02:54Z: PLAYER CHATTED [   68471378] ob2n                 (  249.7,    91.6,    53.7)
+  Fast food jobs are fun at first and then become extremely repetative, including in management positions.
+2023-01-16T08:03:03Z: PLAYER CHATTED [    1630228] VisualPlugin         (  102.1,   191.0,   129.0)
+  That's true.
+2023-01-16T08:03:19Z: PLAYER CHATTED [   68471378] ob2n                 (   14.5,    91.6,    55.9)
+  After three months I hated my job, but I had just gotten a promotion and raise and ended up staying an additional six months, of which I hated.
+2023-01-16T08:03:46Z: PLAYER CHATTED [   68471378] ob2n                 (   -6.9,    88.4,   105.8)
+  Chick-Fil-A is a high-stress job however.
+2023-01-16T08:04:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (  110.9,   190.8,   122.4)
+  I always wanted to have autonomy.
+2023-01-16T08:04:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (  110.9,   190.8,   122.4)
+  Not being manager means having to bring one up every Karen and a half.
+2023-01-16T08:04:30Z: CHRCTER ADDED  [ 3366855513] Yavon_Technologies   a.k.a. Ay_dyn              
+2023-01-16T08:04:52Z: PLAYER CHATTED [   68471378] ob2n                 (  -49.1,    93.0,   142.1)
+  Chick-Fil-A allows basic team members to handle every guest issue on their own in the opinion of which they seem fit.
+2023-01-16T08:05:08Z: PLAYER CHATTED [   68471378] ob2n                 (   33.0,    93.6,    -5.0)
+  Including replacing food, giving out gift cards, giving out food, etc
+2023-01-16T08:05:35Z: PLAYER CHATTED [   68471378] ob2n                 (  123.8,    91.6,   124.7)
+  Considering the high standards of quality assurance and selectiveness in the application/interview processes.
+2023-01-16T08:05:57Z: PLAYER REMOVED [ 3366855513] Yavon_Technologies   a.k.a. Ay_dyn              
+2023-01-16T08:06:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (  103.0,   191.0,   124.0)
+  I also used to work for Cane's.
+2023-01-16T08:06:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (  107.4,   190.8,   129.4)
+  I liked it better than Pollo Loco,
+2023-01-16T08:06:21Z: PLAYER CHATTED [   68471378] ob2n                 (  105.7,    91.8,   186.7)
+  I almost worked there, but didn't due to the wages being considerably lower.
+2023-01-16T08:06:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (  107.4,   190.8,   129.4)
+  But they also had strict employee standards which I wasn't able to meet.
+2023-01-16T08:06:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (  106.6,   191.0,   162.4)
+  I needed experience and not money.
+2023-01-16T08:06:43Z: PLAYER CHATTED [   68471378] ob2n                 ( -105.4,    91.6,   208.9)
+  Chick-Fil-A has much higher standards than Cane's does.
+2023-01-16T08:06:57Z: PLAYER CHATTED [   68471378] ob2n                 ( -216.0,    91.6,   208.4)
+  Chick-Fil-A also looks much more impressive on resumes however.
+2023-01-16T08:07:07Z: PLAYER CHATTED [   68471378] ob2n                 (  -96.0,    93.6,   182.2)
+  As well as having scholarship oppourtunities
+2023-01-16T08:07:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (  107.9,   190.8,   162.7)
+  Good point.
+2023-01-16T08:07:20Z: PLAYER CHATTED [   68471378] ob2n                 (  -38.9,    93.0,   138.1)
+  I'm going to dig to ohio, join me if you wish.
+2023-01-16T08:07:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (  107.9,   190.8,   162.7)
+  Use xplots!
+2023-01-16T08:07:34Z: PLAYER CHATTED [    1630228] VisualPlugin         (  107.9,   190.8,   162.7)
+  And autoclicker!
+2023-01-16T08:07:34Z: PLAYER REMOVED [   68471378] ob2n                 a.k.a. Mark                
+2023-01-16T08:07:37Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

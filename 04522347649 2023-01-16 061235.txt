@@ -1,0 +1,176 @@
+[    1630228] : [ 4522347649] [FREE ADMIN] - 7124f64e-d3ea-490a-af2e-8121df6c0b46
+2023-01-16T06:12:35Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-16T06:12:35Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T06:12:35Z: PLAYER ADDED   [ 1576027889] amashui             
+2023-01-16T06:12:35Z: PLAYER ADDED   [ 4145919637] BoodaBow1212        
+2023-01-16T06:12:35Z: PLAYER ADDED   [ 3975562912] r0bL0x6598          
+2023-01-16T06:12:49Z: PLAYER CHATTED [ 1576027889] amashui              (  -30.7,    40.6,     3.4)
+  :fat others
+2023-01-16T06:12:50Z: CHRCTER ADDED  [ 3975562912] r0bL0x6598          
+2023-01-16T06:12:50Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T06:12:50Z: CHRCTER ADDED  [ 4145919637] BoodaBow1212        
+2023-01-16T06:13:02Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T06:13:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -27.8,    -1.0,   137.7)
+  I don't accept friend requests unfortunately.
+2023-01-16T06:13:20Z: CHRCTER ADDED  [ 4145919637] BoodaBow1212        
+2023-01-16T06:13:23Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -191.9,    -1.0,   137.7)
+  Down to fight?
+2023-01-16T06:13:27Z: PLAYER ADDED   [ 2367264064] ollielj15           
+2023-01-16T06:13:35Z: PLAYER ADDED   [ 3837819093] mursalin37          
+2023-01-16T06:13:45Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T06:13:53Z: PLAYER CHATTED [ 4145919637] BoodaBow1212         ( -288.7,    -1.0,    64.8)
+  7
+2023-01-16T06:13:55Z: PLAYER CHATTED [ 1576027889] amashui              ( -228.6,   256.2,    34.0)
+  :Explode others
+2023-01-16T06:13:58Z: CHRCTER ADDED  [ 4145919637] BoodaBow1212        
+2023-01-16T06:13:58Z: CHRCTER ADDED  [ 2367264064] ollielj15           
+2023-01-16T06:13:58Z: CHRCTER ADDED  [ 3837819093] mursalin37          
+2023-01-16T06:13:58Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T06:13:59Z: CHRCTER ADDED  [ 3975562912] r0bL0x6598          
+2023-01-16T06:14:06Z: PLAYER CHATTED [ 1576027889] amashui              (  -46.0,   217.5,   -19.2)
+  :Giant others
+2023-01-16T06:14:06Z: CHRCTER ADDED  [ 2367264064] ollielj15           
+2023-01-16T06:14:06Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T06:14:06Z: CHRCTER ADDED  [ 3975562912] r0bL0x6598          
+2023-01-16T06:14:06Z: CHRCTER ADDED  [ 3837819093] mursalin37          
+2023-01-16T06:14:06Z: CHRCTER ADDED  [ 4145919637] BoodaBow1212        
+2023-01-16T06:14:16Z: CHRCTER ADDED  [ 4145919637] BoodaBow1212        
+2023-01-16T06:14:18Z: CHRCTER ADDED  [ 3837819093] mursalin37          
+2023-01-16T06:14:26Z: CHRCTER ADDED  [ 2367264064] ollielj15           
+2023-01-16T06:14:31Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T06:14:39Z: CHRCTER ADDED  [ 3975562912] r0bL0x6598          
+2023-01-16T06:14:49Z: CHRCTER ADDED  [ 2367264064] ollielj15           
+2023-01-16T06:14:49Z: PLAYER CHATTED [ 1576027889] amashui              ( -149.5,    62.9,  -122.4)
+  :Giant others
+2023-01-16T06:14:49Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T06:14:49Z: CHRCTER ADDED  [ 3975562912] r0bL0x6598          
+2023-01-16T06:14:49Z: CHRCTER ADDED  [ 3837819093] mursalin37          
+2023-01-16T06:14:49Z: CHRCTER ADDED  [ 4145919637] BoodaBow1212        
+2023-01-16T06:14:56Z: CHRCTER ADDED  [ 2367264064] ollielj15           
+2023-01-16T06:14:57Z: PLAYER CHATTED [ 1576027889] amashui              ( -149.5,    62.9,  -122.4)
+  :unfreeze
+2023-01-16T06:14:58Z: CHRCTER ADDED  [ 3975562912] r0bL0x6598          
+2023-01-16T06:15:15Z: CHRCTER ADDED  [ 4145919637] BoodaBow1212        
+2023-01-16T06:15:18Z: CHRCTER ADDED  [ 2367264064] ollielj15           
+2023-01-16T06:15:22Z: PLAYER REMOVED [ 4145919637] BoodaBow1212        
+2023-01-16T06:15:25Z: CHRCTER ADDED  [ 3975562912] r0bL0x6598          
+2023-01-16T06:15:25Z: PLAYER CHATTED [ 1576027889] amashui              ( -109.5,    90.8,  -194.4)
+  :unfreeze
+2023-01-16T06:15:30Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T06:15:31Z: PLAYER ADDED   [ 1783770285] carlgivememy_car     a.k.a. Donke               
+2023-01-16T06:15:41Z: CHRCTER ADDED  [ 3837819093] mursalin37          
+2023-01-16T06:15:41Z: PLAYER CHATTED [ 1783770285] carlgivememy_car     (  -23.9,    -1.0,   149.5)
+  :fly
+2023-01-16T06:15:47Z: PLAYER CHATTED [ 1576027889] amashui              (  -93.7,     3.4,   -43.7)
+  :Giant others
+2023-01-16T06:15:47Z: CHRCTER ADDED  [ 2367264064] ollielj15           
+2023-01-16T06:15:47Z: CHRCTER ADDED  [ 1783770285] carlgivememy_car     a.k.a. Donke               
+2023-01-16T06:15:47Z: CHRCTER ADDED  [ 3975562912] r0bL0x6598          
+2023-01-16T06:15:47Z: CHRCTER ADDED  [ 3837819093] mursalin37          
+2023-01-16T06:15:47Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T06:15:52Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T06:15:54Z: CHRCTER ADDED  [ 1783770285] carlgivememy_car     a.k.a. Donke               
+2023-01-16T06:15:54Z: CHRCTER ADDED  [ 3975562912] r0bL0x6598          
+2023-01-16T06:15:55Z: PLAYER REMOVED [ 1783770285] carlgivememy_car     a.k.a. Donke               
+2023-01-16T06:16:00Z: PLAYER CHATTED [ 1576027889] amashui              (  -51.2,    10.8,   -11.3)
+  :Giant others
+2023-01-16T06:16:00Z: CHRCTER ADDED  [ 2367264064] ollielj15           
+2023-01-16T06:16:00Z: CHRCTER ADDED  [ 3975562912] r0bL0x6598          
+2023-01-16T06:16:00Z: CHRCTER ADDED  [ 3837819093] mursalin37          
+2023-01-16T06:16:00Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T06:16:07Z: PLAYER CHATTED [ 1576027889] amashui              (  -51.2,    10.8,   -11.3)
+  :unfreeze
+2023-01-16T06:16:07Z: PLAYER ADDED   [ 4179937311] Cman72015            a.k.a. Inotluca            
+2023-01-16T06:16:07Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T06:16:15Z: PLAYER CHATTED [ 3837819093] mursalin37           (  -30.4,    41.0,   147.5)
+  :jail bodabaw
+2023-01-16T06:16:23Z: CHRCTER ADDED  [ 1576027889] amashui             
+2023-01-16T06:16:33Z: PLAYER CHATTED [ 1576027889] amashui              (  -40.6,   215.4,   150.0)
+  :control  vie
+2023-01-16T06:16:33Z: PLAYER CHATTED [ 1576027889] amashui              (  -40.6,   215.4,   150.0)
+  :control vie
+2023-01-16T06:16:43Z: PLAYER CHATTED [ 1576027889] amashui              (  -79.5,    82.9,   152.5)
+  :control vis
+2023-01-16T06:16:45Z: PLAYER CHATTED [ 4179937311] Cman72015            ( -102.6,    -1.0,    30.7)
+  :giant
+2023-01-16T06:16:49Z: CHRCTER ADDED  [ 1576027889] amashui             
+2023-01-16T06:16:52Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T06:16:58Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T06:17:00Z: CHRCTER ADDED  [ 3837819093] mursalin37          
+2023-01-16T06:17:27Z: CHRCTER ADDED  [ 1576027889] amashui             
+2023-01-16T06:17:29Z: PLAYER CHATTED [ 4179937311] Cman72015            (  -30.1,    -1.0,   141.4)
+  :Giant
+2023-01-16T06:17:33Z: PLAYER CHATTED [ 1576027889] amashui              (  -18.9,     2.8,   149.5)
+  :vontrol vis
+2023-01-16T06:17:36Z: CHRCTER ADDED  [ 3975562912] r0bL0x6598          
+2023-01-16T06:17:39Z: PLAYER CHATTED [ 1576027889] amashui              (  -18.9,     2.8,   149.5)
+  :control bis
+2023-01-16T06:17:46Z: PLAYER CHATTED [ 1576027889] amashui              (  -18.9,     2.8,   149.5)
+  :control vis
+2023-01-16T06:17:58Z: CHRCTER ADDED  [ 1576027889] amashui             
+2023-01-16T06:18:03Z: PLAYER CHATTED [ 1576027889] amashui              (  -18.9,     2.8,   149.5)
+  :kick vis
+2023-01-16T06:18:08Z: PLAYER CHATTED [ 3837819093] mursalin37           (  -81.1,    -1.0,    98.0)
+  :jail bodabaw1212
+2023-01-16T06:18:17Z: CHRCTER ADDED  [ 2367264064] ollielj15           
+2023-01-16T06:18:18Z: CHRCTER ADDED  [ 1576027889] amashui             
+2023-01-16T06:18:20Z: PLAYER CHATTED [ 4179937311] Cman72015            (  -30.4,    -1.0,   146.5)
+  :M
+2023-01-16T06:18:25Z: PLAYER CHATTED [ 1576027889] amashui              (   -8.9,     2.8,   149.5)
+  ################
+2023-01-16T06:18:32Z: PLAYER CHATTED [ 4179937311] Cman72015            (  -34.7,    -1.0,   145.1)
+  :fly
+2023-01-16T06:18:37Z: PLAYER CHATTED [ 1576027889] amashui              ( -263.1,    24.3,    89.4)
+  :unfreeze
+2023-01-16T06:18:43Z: PLAYER REMOVED [ 4179937311] Cman72015            a.k.a. Inotluca            
+2023-01-16T06:18:45Z: PLAYER CHATTED [ 1576027889] amashui              ( -298.4,    30.6,    80.1)
+  :unfreeze
+2023-01-16T06:18:58Z: PLAYER CHATTED [ 1576027889] amashui              (  -58.4,    16.6,   -92.4)
+  :jail vis
+2023-01-16T06:19:04Z: PLAYER CHATTED [ 1576027889] amashui              (  -58.4,    16.6,   -92.4)
+  :unfreeze
+2023-01-16T06:19:08Z: PLAYER ADDED   [ 3476254602] Nana65111           
+2023-01-16T06:19:08Z: PLAYER ADDED   [ 4244735957] CHARIZARD_lolx      
+2023-01-16T06:19:10Z: CHRCTER ADDED  [ 2367264064] ollielj15           
+2023-01-16T06:19:10Z: CHRCTER ADDED  [ 3837819093] mursalin37          
+2023-01-16T06:19:10Z: CHRCTER ADDED  [ 3975562912] r0bL0x6598          
+2023-01-16T06:19:29Z: CHRCTER ADDED  [ 3975562912] r0bL0x6598          
+2023-01-16T06:19:32Z: PLAYER CHATTED [ 4244735957] CHARIZARD_lolx       (  -19.9,    -1.0,   131.8)
+  :Thor
+2023-01-16T06:19:33Z: PLAYER CHATTED [ 1576027889] amashui              ( -123.9,    -2.9,   -15.4)
+  :unfreeze
+2023-01-16T06:19:37Z: PLAYER CHATTED [ 1576027889] amashui              (  -68.5,    30.4,   -29.3)
+  :ff
+2023-01-16T06:19:43Z: CHRCTER ADDED  [ 3837819093] mursalin37          
+2023-01-16T06:19:49Z: CHRCTER ADDED  [ 2367264064] ollielj15           
+2023-01-16T06:19:49Z: CHRCTER ADDED  [ 4244735957] CHARIZARD_lolx      
+2023-01-16T06:19:53Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T06:19:53Z: PLAYER CHATTED [ 1576027889] amashui              ( -142.9,    -2.2,    56.3)
+  :re vis
+2023-01-16T06:19:56Z: PLAYER CHATTED [ 4244735957] CHARIZARD_lolx       (   -8.9,    -1.0,   149.5)
+  :ff
+2023-01-16T06:20:05Z: PLAYER CHATTED [ 4244735957] CHARIZARD_lolx       (  -15.4,    -1.0,   134.7)
+  :Thor
+2023-01-16T06:20:15Z: CHRCTER ADDED  [ 4244735957] CHARIZARD_lolx      
+2023-01-16T06:20:15Z: PLAYER CHATTED [ 1576027889] amashui              (  -32.5,    12.7,    68.0)
+  :re cha
+2023-01-16T06:20:15Z: PLAYER ADDED   [ 3145955336] Nacholasferzil       a.k.a. 2trippy3            
+2023-01-16T06:20:21Z: PLAYER CHATTED [ 1576027889] amashui             
+  :unfreze
+2023-01-16T06:20:23Z: CHRCTER ADDED  [ 1576027889] amashui             
+2023-01-16T06:20:29Z: PLAYER CHATTED [ 4244735957] CHARIZARD_lolx       (  -88.3,    -1.0,    43.7)
+  #####
+2023-01-16T06:20:34Z: PLAYER CHATTED [ 3145955336] Nacholasferzil       (  -13.4,    -1.0,   129.5)
+  ;ff
+2023-01-16T06:20:38Z: CHRCTER ADDED  [ 4244735957] CHARIZARD_lolx      
+2023-01-16T06:20:39Z: PLAYER REMOVED [ 1576027889] amashui             
+2023-01-16T06:20:41Z: PLAYER CHATTED [ 3145955336] Nacholasferzil       (  -13.4,    -1.0,   129.5)
+  :ff
+2023-01-16T06:20:43Z: PLAYER ADDED   [ 1576027889] amashui             
+2023-01-16T06:20:45Z: PLAYER CHATTED [ 3476254602] Nana65111            (  -20.2,    -1.0,  -253.8)
+  :fly
+2023-01-16T06:20:47Z: PLAYER CHATTED [ 4244735957] CHARIZARD_lolx       (   -8.9,    -1.0,   149.5)
+  :gun
+2023-01-16T06:20:50Z: PLAYER CHATTED [ 1576027889] amashui              (  -26.8,    -1.0,   149.7)
+  :kick vis
+2023-01-16T06:21:03Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

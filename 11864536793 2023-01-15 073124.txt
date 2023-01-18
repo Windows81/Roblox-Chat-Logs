@@ -1,0 +1,30 @@
+[    1630228] : [11864536793] Dig to OHIO [UPDATE] - 523ee9d6-5511-4748-8256-b5e757e27a37
+2023-01-15T07:31:24Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-15T07:31:24Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-15T07:31:24Z: PLAYER ADDED   [ 1669603405] wheedDanny           a.k.a. iDanny              
+2023-01-15T07:31:50Z: CHRCTER ADDED  [ 1669603405] wheedDanny           a.k.a. iDanny              
+2023-01-15T07:32:00Z: CHRCTER ADDED  [ 1669603405] wheedDanny           a.k.a. iDanny              
+2023-01-15T07:32:00Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-15T07:32:18Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -558.1,  5009.4,   -14.5)
+  Which bomb is this?
+2023-01-15T07:34:20Z: PLAYER ADDED   [  336982274] rekuoonpie           a.k.a. Hanime              
+2023-01-15T07:37:50Z: CHRCTER ADDED  [  336982274] rekuoonpie           a.k.a. Hanime              
+2023-01-15T07:37:50Z: CHRCTER ADDED  [ 1669603405] wheedDanny           a.k.a. iDanny              
+2023-01-15T07:37:50Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-15T07:38:11Z: PLAYER REMOVED [  336982274] rekuoonpie           a.k.a. Hanime              
+2023-01-15T07:42:51Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -521.8, -2462.7,   116.5)
+  We won!
+2023-01-15T07:42:59Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -524.3, -2462.7,   108.1)
+  Congrats to you!
+2023-01-15T07:43:09Z: PLAYER REMOVED [ 1669603405] wheedDanny           a.k.a. iDanny              
+2023-01-15T07:43:16Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-15T07:44:25Z: PLAYER ADDED   [ 1130540316] jenicekpernice       a.k.a. Terrible_boy        
+2023-01-15T07:44:44Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-15T07:44:44Z: CHRCTER ADDED  [ 1130540316] jenicekpernice       a.k.a. Terrible_boy        
+2023-01-15T07:46:39Z: PLAYER CHATTED [ 1130540316] jenicekpernice       ( -388.6,  5006.8,  -127.5)
+  how to get points
+2023-01-15T07:53:56Z: CHRCTER ADDED  [ 1130540316] jenicekpernice       a.k.a. Terrible_boy        
+2023-01-15T07:53:56Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-15T07:54:31Z: PLAYER ADDED   [ 1082558932] obby_gal14          
+2023-01-15T07:54:59Z: PLAYER REMOVED [ 1082558932] obby_gal14          
+2023-01-15T07:57:09Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

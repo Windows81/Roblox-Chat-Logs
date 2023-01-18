@@ -1,0 +1,337 @@
+[    1630228] : [ 4522347649] [FREE ADMIN] - 196aaac4-9ddd-43bd-83bb-e55282f5bad5
+2023-01-16T04:50:45Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-16T04:50:45Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T04:50:45Z: PLAYER ADDED   [ 1825852577] Danielak2308        
+2023-01-16T04:50:45Z: PLAYER ADDED   [ 1743968414] KingSonicUwu        
+2023-01-16T04:50:45Z: PLAYER ADDED   [ 2758613700] corazonitaunicornio 
+2023-01-16T04:50:45Z: PLAYER ADDED   [ 3896455066] antraxangi          
+2023-01-16T04:50:45Z: PLAYER ADDED   [ 3610047170] Heidyhermossaa       a.k.a. Missdanilovessweets 
+2023-01-16T04:50:48Z: CHRCTER ADDED  [ 3610047170] Heidyhermossaa       a.k.a. Missdanilovessweets 
+2023-01-16T04:50:51Z: PLAYER CHATTED [ 1743968414] KingSonicUwu         (  -51.1,    -1.0,    -0.2)
+  :uncontrol 
+2023-01-16T04:50:59Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T04:51:01Z: CHRCTER ADDED  [ 1743968414] KingSonicUwu        
+2023-01-16T04:51:11Z: CHRCTER ADDED  [ 3610047170] Heidyhermossaa       a.k.a. Missdanilovessweets 
+2023-01-16T04:51:12Z: PLAYER CHATTED [ 1743968414] KingSonicUwu         (  -30.2,    -1.0,    82.3)
+  :ff 
+2023-01-16T04:51:19Z: PLAYER CHATTED [ 3610047170] Heidyhermossaa       (  -33.9,    -1.0,   149.5)
+  /poop d
+2023-01-16T04:51:29Z: PLAYER CHATTED [ 1743968414] KingSonicUwu         (   -5.8,    -1.0,   -14.3)
+  propuesta cup
+2023-01-16T04:51:35Z: PLAYER CHATTED [ 1743968414] KingSonicUwu         (   -5.8,    -1.0,   -14.3)
+  poop
+2023-01-16T04:51:42Z: PLAYER CHATTED [ 1743968414] KingSonicUwu         (   -5.8,    -1.0,   -14.3)
+  propuesta cup
+2023-01-16T04:51:54Z: PLAYER CHATTED [ 3610047170] Heidyhermossaa       (   -2.5,    -1.0,    18.9)
+  /to c
+2023-01-16T04:51:59Z: CHRCTER ADDED  [ 3896455066] antraxangi          
+2023-01-16T04:52:00Z: PLAYER CHATTED [ 1743968414] KingSonicUwu         (   -5.8,    -1.0,   -14.3)
+  poop ###
+2023-01-16T04:52:03Z: PLAYER CHATTED [ 1825852577] Danielak2308         (   -5.4,    -1.0,   -56.6)
+  :poop Heidyhermossaa
+2023-01-16T04:52:07Z: PLAYER CHATTED [ 3610047170] Heidyhermossaa       (   -2.5,    -1.0,    18.9)
+  /to d
+2023-01-16T04:52:13Z: PLAYER CHATTED [ 1743968414] KingSonicUwu         (   -5.8,    -1.0,   -14.3)
+  /to c
+2023-01-16T04:52:23Z: PLAYER CHATTED [ 3610047170] Heidyhermossaa       (   -2.5,    -1.0,    18.9)
+  ;poop d
+2023-01-16T04:52:37Z: CHRCTER ADDED  [ 3896455066] antraxangi          
+2023-01-16T04:52:38Z: CHRCTER ADDED  [ 3610047170] Heidyhermossaa       a.k.a. Missdanilovessweets 
+2023-01-16T04:52:41Z: PLAYER CHATTED [ 2758613700] corazonitaunicornio  (  -14.5,    -1.0,    -8.5)
+  :control Danielak
+2023-01-16T04:52:45Z: PLAYER CHATTED [ 1743968414] KingSonicUwu         (   -4.6,    -1.0,   -13.6)
+  /to d
+2023-01-16T04:53:07Z: PLAYER CHATTED [ 3610047170] Heidyhermossaa       (  -24.6,    -1.0,    -0.1)
+  /poop d;freeze s
+2023-01-16T04:53:15Z: PLAYER CHATTED [ 1743968414] KingSonicUwu         (   -3.0,    -1.0,   -24.3)
+  :control an
+2023-01-16T04:53:18Z: PLAYER CHATTED [ 3610047170] Heidyhermossaa       (  -24.6,    -1.0,    -0.1)
+  /freeze d
+2023-01-16T04:53:27Z: PLAYER CHATTED [ 1743968414] KingSonicUwu         (   -6.8,    -1.0,   -23.5)
+  :uncontrol 
+2023-01-16T04:53:38Z: PLAYER CHATTED [ 1825852577] Danielak2308         (   -5.7,     5.1,   -14.5)
+  :control Heidyhermossaa
+2023-01-16T04:53:39Z: CHRCTER ADDED  [ 3610047170] Heidyhermossaa       a.k.a. Missdanilovessweets 
+2023-01-16T04:53:44Z: PLAYER CHATTED [ 3610047170] Heidyhermossaa       (  -33.9,    -0.9,   149.5)
+  /poop d
+2023-01-16T04:53:53Z: PLAYER REMOVED [ 1743968414] KingSonicUwu        
+2023-01-16T04:53:55Z: CHRCTER ADDED  [ 2758613700] corazonitaunicornio 
+2023-01-16T04:53:56Z: PLAYER ADDED   [ 4206664634] Gravemind573        
+2023-01-16T04:53:57Z: PLAYER REMOVED [ 1825852577] Danielak2308        
+2023-01-16T04:53:59Z: PLAYER ADDED   [ 4198757439] 996idk              
+2023-01-16T04:53:59Z: CHRCTER ADDED  [ 4206664634] Gravemind573        
+2023-01-16T04:54:16Z: PLAYER CHATTED [ 3610047170] Heidyhermossaa       (  -15.1,    -1.0,    48.3)
+  /poop corazón
+2023-01-16T04:54:28Z: CHRCTER ADDED  [ 3896455066] antraxangi          
+2023-01-16T04:54:48Z: CHRCTER ADDED  [ 2758613700] corazonitaunicornio 
+2023-01-16T04:54:49Z: PLAYER REMOVED [ 2758613700] corazonitaunicornio 
+2023-01-16T04:54:50Z: PLAYER ADDED   [ 3853769078] Ol2222777           
+2023-01-16T04:54:53Z: CHRCTER ADDED  [ 3853769078] Ol2222777           
+2023-01-16T04:54:54Z: PLAYER CHATTED [ 4206664634] Gravemind573         (  -19.4,    -1.0,   138.3)
+  :fre admin
+2023-01-16T04:54:55Z: CHRCTER ADDED  [ 3610047170] Heidyhermossaa       a.k.a. Missdanilovessweets 
+2023-01-16T04:54:56Z: PLAYER CHATTED [ 4198757439] 996idk               (  -31.2,    -1.0,   135.6)
+  free admin
+2023-01-16T04:55:01Z: PLAYER CHATTED [ 4206664634] Gravemind573         (  -19.4,    -1.0,   138.3)
+  hola
+2023-01-16T04:55:09Z: PLAYER CHATTED [ 3610047170] Heidyhermossaa       (  -26.5,    -1.0,    74.9)
+  /poop a
+2023-01-16T04:55:25Z: CHRCTER ADDED  [ 3896455066] antraxangi          
+2023-01-16T04:55:33Z: CHRCTER ADDED  [ 3853769078] Ol2222777           
+2023-01-16T04:55:33Z: CHRCTER ADDED  [ 3610047170] Heidyhermossaa       a.k.a. Missdanilovessweets 
+2023-01-16T04:55:34Z: PLAYER REMOVED [ 3853769078] Ol2222777           
+2023-01-16T04:55:39Z: PLAYER ADDED   [ 4241982296] hanjiacome          
+2023-01-16T04:55:47Z: CHRCTER ADDED  [ 3896455066] antraxangi          
+2023-01-16T04:55:54Z: PLAYER CHATTED [ 4206664634] Gravemind573         (  -87.6,    -1.0,   -46.1)
+  :fre admin
+2023-01-16T04:55:56Z: CHRCTER ADDED  [ 3610047170] Heidyhermossaa       a.k.a. Missdanilovessweets 
+2023-01-16T04:56:07Z: PLAYER REMOVED [ 4206664634] Gravemind573        
+2023-01-16T04:56:12Z: CHRCTER ADDED  [ 4241982296] hanjiacome          
+2023-01-16T04:56:12Z: CHRCTER ADDED  [ 3896455066] antraxangi          
+2023-01-16T04:56:22Z: CHRCTER ADDED  [ 3610047170] Heidyhermossaa       a.k.a. Missdanilovessweets 
+2023-01-16T04:56:35Z: CHRCTER ADDED  [ 3896455066] antraxangi          
+2023-01-16T04:56:37Z: CHRCTER ADDED  [ 4241982296] hanjiacome          
+2023-01-16T04:56:44Z: CHRCTER ADDED  [ 3610047170] Heidyhermossaa       a.k.a. Missdanilovessweets 
+2023-01-16T04:56:51Z: PLAYER ADDED   [ 3996311862] Sad_06281           
+2023-01-16T04:56:55Z: PLAYER CHATTED [ 3610047170] Heidyhermossaa       (  -15.7,    -1.0,    69.3)
+  /poop 9
+2023-01-16T04:56:57Z: CHRCTER ADDED  [ 3896455066] antraxangi          
+2023-01-16T04:56:59Z: PLAYER REMOVED [ 4241982296] hanjiacome          
+2023-01-16T04:57:03Z: PLAYER ADDED   [ 3831485244] LaMulita11           a.k.a. sigmagirlXD09       
+2023-01-16T04:57:28Z: CHRCTER ADDED  [ 3610047170] Heidyhermossaa       a.k.a. Missdanilovessweets 
+2023-01-16T04:57:31Z: PLAYER CHATTED [ 3610047170] Heidyhermossaa       (  -33.9,    -1.0,   149.5)
+  /poop 9
+2023-01-16T04:57:49Z: PLAYER CHATTED [ 3831485244] LaMulita11           (  -32.9,    -1.0,   116.3)
+  /free admin
+2023-01-16T04:57:52Z: CHRCTER ADDED  [ 3610047170] Heidyhermossaa       a.k.a. Missdanilovessweets 
+2023-01-16T04:57:55Z: PLAYER CHATTED [ 3610047170] Heidyhermossaa       (  -23.9,    -1.0,   149.5)
+  /poop 9
+2023-01-16T04:57:58Z: PLAYER REMOVED [ 3996311862] Sad_06281           
+2023-01-16T04:58:02Z: PLAYER CHATTED [ 3831485244] LaMulita11           (  -50.1,    -1.0,   114.2)
+  /e dance2
+2023-01-16T04:58:10Z: CHRCTER ADDED  [ 4198757439] 996idk              
+2023-01-16T04:58:14Z: PLAYER CHATTED [ 3610047170] Heidyhermossaa       (  -32.1,    -1.0,    -6.0)
+  /freeze 9
+2023-01-16T04:58:17Z: CHRCTER ADDED  [ 3831485244] LaMulita11           a.k.a. sigmagirlXD09       
+2023-01-16T04:58:17Z: PLAYER ADDED   [ 2841008128] Minguiros           
+2023-01-16T04:58:28Z: PLAYER CHATTED [ 3610047170] Heidyhermossaa       (  -76.5,    -1.0,   -82.7)
+  /poop a
+2023-01-16T04:58:30Z: PLAYER CHATTED [ 4198757439] 996idk               (  -15.8,    -1.0,    95.8)
+  freezer h
+2023-01-16T04:58:33Z: PLAYER CHATTED [ 3831485244] LaMulita11           (  -23.9,    -1.0,   149.5)
+  /e dance4
+2023-01-16T04:58:47Z: PLAYER CHATTED [ 3831485244] LaMulita11           (  -23.9,    -1.0,   140.3)
+  :e dance2
+2023-01-16T04:58:52Z: CHRCTER ADDED  [ 4198757439] 996idk              
+2023-01-16T04:58:52Z: PLAYER CHATTED [ 3610047170] Heidyhermossaa       (  -45.5,    -1.0,    -6.4)
+  /freeze a
+2023-01-16T04:58:58Z: CHRCTER ADDED  [ 3831485244] LaMulita11           a.k.a. sigmagirlXD09       
+2023-01-16T04:59:01Z: PLAYER CHATTED [ 3610047170] Heidyhermossaa       (  -56.8,    -1.0,    32.6)
+  /freeze 9
+2023-01-16T04:59:08Z: PLAYER CHATTED [ 3831485244] LaMulita11           (  -13.9,    -1.0,   149.5)
+  /jail ###########
+2023-01-16T04:59:10Z: CHRCTER ADDED  [ 2841008128] Minguiros           
+2023-01-16T04:59:18Z: PLAYER CHATTED [ 4198757439] 996idk               ( -182.7,    -1.0,   142.4)
+  freezer 9
+2023-01-16T04:59:23Z: PLAYER CHATTED [ 3610047170] Heidyhermossaa       (  -71.3,    -1.0,    78.4)
+  /freeze l
+2023-01-16T04:59:24Z: PLAYER REMOVED [ 3896455066] antraxangi          
+2023-01-16T04:59:27Z: PLAYER CHATTED [ 2841008128] Minguiros            (  -13.8,    -1.0,   149.3)
+  /roí
+2023-01-16T04:59:29Z: CHRCTER ADDED  [ 3831485244] LaMulita11           a.k.a. sigmagirlXD09       
+2023-01-16T04:59:33Z: PLAYER ADDED   [ 3775833083] crocsjulie          
+2023-01-16T04:59:46Z: PLAYER CHATTED [ 3610047170] Heidyhermossaa       ( -180.2,     1.0,   147.7)
+  /poop 9
+2023-01-16T05:00:23Z: CHRCTER ADDED  [ 4198757439] 996idk              
+2023-01-16T05:00:29Z: PLAYER CHATTED [ 3610047170] Heidyhermossaa       ( -135.9,    -1.0,    28.5)
+  /freeze 9
+2023-01-16T05:00:38Z: PLAYER CHATTED [ 3831485244] LaMulita11           ( -174.8,    -1.0,   134.2)
+  :roí
+2023-01-16T05:00:40Z: CHRCTER ADDED  [ 3775833083] crocsjulie          
+2023-01-16T05:00:43Z: PLAYER CHATTED [ 3610047170] Heidyhermossaa       (  -59.1,    -1.0,    24.7)
+  /freeze everyone
+2023-01-16T05:01:01Z: PLAYER CHATTED [ 3831485244] LaMulita11           ( -189.5,    -1.0,   137.1)
+  :fans
+2023-01-16T05:01:02Z: CHRCTER ADDED  [ 4198757439] 996idk              
+2023-01-16T05:01:08Z: PLAYER CHATTED [ 4198757439] 996idk               (  -22.8,    -1.0,   132.4)
+  freezer heidyhermossaa
+2023-01-16T05:01:09Z: CHRCTER ADDED  [ 3775833083] crocsjulie          
+2023-01-16T05:01:12Z: PLAYER CHATTED [ 3610047170] Heidyhermossaa       (  -85.3,    -1.0,    90.9)
+  /freeze 9
+2023-01-16T05:01:20Z: PLAYER CHATTED [ 3610047170] Heidyhermossaa       (  -38.1,    -1.0,   112.5)
+  Ahahah
+2023-01-16T05:01:25Z: CHRCTER ADDED  [ 4198757439] 996idk              
+2023-01-16T05:01:27Z: CHRCTER ADDED  [ 3610047170] Heidyhermossaa       a.k.a. Missdanilovessweets 
+2023-01-16T05:01:30Z: PLAYER CHATTED [ 3831485244] LaMulita11           ( -187.7,    -1.0,   135.8)
+  :jail 99idk
+2023-01-16T05:01:39Z: CHRCTER ADDED  [ 2841008128] Minguiros           
+2023-01-16T05:01:46Z: PLAYER CHATTED [ 3610047170] Heidyhermossaa       (  -71.5,    -1.0,    41.7)
+  /freeze  m
+2023-01-16T05:01:46Z: PLAYER CHATTED [ 3610047170] Heidyhermossaa       (  -71.5,    -1.0,    41.7)
+  /freeze m
+2023-01-16T05:01:57Z: PLAYER CHATTED [ 3610047170] Heidyhermossaa       ( -177.7,    -1.0,    57.8)
+  / freeze m
+2023-01-16T05:02:06Z: PLAYER CHATTED [ 3610047170] Heidyhermossaa       ( -198.7,    -1.0,  -105.9)
+  / freeze c
+2023-01-16T05:02:07Z: PLAYER CHATTED [ 3831485244] LaMulita11           ( -135.3,    -1.0,    78.8)
+  :jail Heidyhermossaa
+2023-01-16T05:02:12Z: CHRCTER ADDED  [ 3610047170] Heidyhermossaa       a.k.a. Missdanilovessweets 
+2023-01-16T05:02:17Z: PLAYER CHATTED [ 3610047170] Heidyhermossaa       ( -196.6,    -0.2,  -109.1)
+  /freeze c
+2023-01-16T05:02:25Z: PLAYER CHATTED [ 3831485244] LaMulita11           ( -113.8,    -1.0,   104.1)
+  :unjail Heidyhermossaa
+2023-01-16T05:02:26Z: CHRCTER ADDED  [ 3775833083] crocsjulie          
+2023-01-16T05:02:26Z: PLAYER CHATTED [ 3610047170] Heidyhermossaa       ( -204.4,     4.2,  -184.2)
+  /poop 9
+2023-01-16T05:02:43Z: PLAYER CHATTED [ 3610047170] Heidyhermossaa       (  -85.9,    -1.0,  -109.6)
+  /freeze 9
+2023-01-16T05:02:44Z: PLAYER CHATTED [ 3831485244] LaMulita11           ( -116.4,    -1.0,   106.7)
+  :cat
+2023-01-16T05:03:03Z: PLAYER CHATTED [ 4198757439] 996idk               ( -100.2,    -1.0,  -115.3)
+  /freezer h
+2023-01-16T05:03:04Z: CHRCTER ADDED  [ 2841008128] Minguiros           
+2023-01-16T05:03:17Z: PLAYER ADDED   [ 4185082422] enekdjebe           
+2023-01-16T05:03:19Z: CHRCTER ADDED  [ 3831485244] LaMulita11           a.k.a. sigmagirlXD09       
+2023-01-16T05:03:24Z: PLAYER REMOVED [ 2841008128] Minguiros           
+2023-01-16T05:03:26Z: CHRCTER ADDED  [ 3610047170] Heidyhermossaa       a.k.a. Missdanilovessweets 
+2023-01-16T05:03:31Z: PLAYER CHATTED [ 3831485244] LaMulita11           (  -18.9,    -1.0,   149.5)
+  :kill enekdjebe
+2023-01-16T05:03:38Z: CHRCTER ADDED  [ 3775833083] crocsjulie          
+2023-01-16T05:03:42Z: CHRCTER ADDED  [ 4198757439] 996idk              
+2023-01-16T05:03:44Z: PLAYER CHATTED [ 3610047170] Heidyhermossaa       (  -62.6,    -1.0,   -14.8)
+  /poop 9
+2023-01-16T05:03:46Z: PLAYER CHATTED [ 3831485244] LaMulita11           (  -51.9,    -1.0,   130.8)
+  ######
+2023-01-16T05:03:52Z: PLAYER CHATTED [ 3831485244] LaMulita11           (  -51.9,    -1.0,   130.8)
+  :poop
+2023-01-16T05:03:59Z: CHRCTER ADDED  [ 4185082422] enekdjebe           
+2023-01-16T05:04:04Z: CHRCTER ADDED  [ 3610047170] Heidyhermossaa       a.k.a. Missdanilovessweets 
+2023-01-16T05:04:07Z: PLAYER CHATTED [ 3610047170] Heidyhermossaa       (  -28.9,    -1.0,   149.5)
+  /freeze c
+2023-01-16T05:04:08Z: PLAYER CHATTED [ 4198757439] 996idk               (  -31.0,    -1.0,   135.0)
+  /freezer heidyhermossaa 
+2023-01-16T05:04:25Z: PLAYER CHATTED [ 3831485244] LaMulita11           (  -51.9,    -1.0,   130.8)
+  :freezer 99idk
+2023-01-16T05:04:25Z: PLAYER CHATTED [ 3610047170] Heidyhermossaa       (  -61.7,    -1.0,    79.0)
+  /freeze 9
+2023-01-16T05:04:32Z: CHRCTER ADDED  [ 4198757439] 996idk              
+2023-01-16T05:04:46Z: PLAYER CHATTED [ 3610047170] Heidyhermossaa       ( -134.9,    -1.0,    79.7)
+  /freeze 9
+2023-01-16T05:04:48Z: CHRCTER ADDED  [ 3775833083] crocsjulie          
+2023-01-16T05:04:51Z: PLAYER CHATTED [ 3831485244] LaMulita11           (  -71.5,    -1.0,   115.2)
+  :kumalala
+2023-01-16T05:04:55Z: PLAYER CHATTED [ 3831485244] LaMulita11           (  -98.0,    -1.0,   134.9)
+  xd
+2023-01-16T05:05:08Z: CHRCTER ADDED  [ 4198757439] 996idk              
+2023-01-16T05:05:11Z: PLAYER REMOVED [ 4185082422] enekdjebe           
+2023-01-16T05:05:12Z: PLAYER CHATTED [ 3831485244] LaMulita11           (  -97.6,    -1.0,   134.6)
+  w
+2023-01-16T05:05:14Z: PLAYER CHATTED [ 3831485244] LaMulita11           (  -96.6,    -1.0,   133.6)
+  w
+2023-01-16T05:05:19Z: PLAYER CHATTED [ 3831485244] LaMulita11           ( -101.1,    -1.0,   113.5)
+  :orb
+2023-01-16T05:05:19Z: PLAYER ADDED   [ 3512339840] Dtgghhh343498       
+2023-01-16T05:05:22Z: PLAYER CHATTED [ 3610047170] Heidyhermossaa       ( -217.0,    -1.0,    22.2)
+  /freeze c
+2023-01-16T05:05:38Z: PLAYER CHATTED [ 3610047170] Heidyhermossaa       ( -250.7,    -1.0,    61.6)
+  /poop c
+2023-01-16T05:05:44Z: CHRCTER ADDED  [ 3610047170] Heidyhermossaa       a.k.a. Missdanilovessweets 
+2023-01-16T05:05:51Z: PLAYER CHATTED [ 3610047170] Heidyhermossaa       (  -18.9,    -1.0,   149.5)
+  /freeze 9
+2023-01-16T05:06:01Z: CHRCTER ADDED  [ 3512339840] Dtgghhh343498       
+2023-01-16T05:06:04Z: CHRCTER ADDED  [ 3775833083] crocsjulie          
+2023-01-16T05:06:20Z: PLAYER REMOVED [ 3610047170] Heidyhermossaa       a.k.a. Missdanilovessweets 
+2023-01-16T05:06:27Z: PLAYER CHATTED [ 4198757439] 996idk               ( -404.0,    -1.0,    69.3)
+  jajaja
+2023-01-16T05:06:35Z: CHRCTER ADDED  [ 3512339840] Dtgghhh343498       
+2023-01-16T05:06:49Z: CHRCTER ADDED  [ 3775833083] crocsjulie          
+2023-01-16T05:06:49Z: PLAYER CHATTED [ 4198757439] 996idk               ( -404.0,    -1.0,    69.3)
+  POOP c
+2023-01-16T05:07:05Z: PLAYER ADDED   [ 3606496548] Chantelles2          a.k.a. Mia                 
+2023-01-16T05:07:08Z: PLAYER CHATTED [ 4198757439] 996idk               ( -404.0,    -1.0,    69.3)
+  /POOP c
+2023-01-16T05:07:40Z: CHRCTER ADDED  [ 3512339840] Dtgghhh343498       
+2023-01-16T05:07:45Z: PLAYER CHATTED [ 4198757439] 996idk               ( -404.0,    -1.0,    69.3)
+  /freeze 1
+2023-01-16T05:07:55Z: CHRCTER ADDED  [ 4198757439] 996idk              
+2023-01-16T05:08:04Z: PLAYER REMOVED [ 3775833083] crocsjulie          
+2023-01-16T05:08:08Z: CHRCTER ADDED  [ 3606496548] Chantelles2          a.k.a. Mia                 
+2023-01-16T05:08:22Z: CHRCTER ADDED  [ 4198757439] 996idk              
+2023-01-16T05:08:32Z: CHRCTER ADDED  [ 3512339840] Dtgghhh343498       
+2023-01-16T05:08:40Z: CHRCTER ADDED  [ 3606496548] Chantelles2          a.k.a. Mia                 
+2023-01-16T05:08:58Z: CHRCTER ADDED  [ 4198757439] 996idk              
+2023-01-16T05:09:13Z: PLAYER ADDED   [ 3631025909] xaviiier67          
+2023-01-16T05:09:14Z: CHRCTER ADDED  [ 3512339840] Dtgghhh343498       
+2023-01-16T05:09:40Z: PLAYER CHATTED [ 3631025909] xaviiier67           (  -22.0,    -1.0,   142.9)
+  /freeze
+2023-01-16T05:09:41Z: CHRCTER ADDED  [ 3831485244] LaMulita11           a.k.a. sigmagirlXD09       
+2023-01-16T05:09:50Z: PLAYER CHATTED [ 3831485244] LaMulita11           (  -23.8,    -1.0,   148.2)
+  :fly
+2023-01-16T05:09:51Z: CHRCTER ADDED  [ 3606496548] Chantelles2          a.k.a. Mia                 
+2023-01-16T05:09:51Z: PLAYER CHATTED [ 3631025909] xaviiier67           (  -22.0,    -1.0,   142.9)
+  /freeze1
+2023-01-16T05:10:04Z: PLAYER CHATTED [ 3631025909] xaviiier67           (  -46.1,    -1.0,   134.7)
+  :dino
+2023-01-16T05:10:06Z: PLAYER CHATTED [ 3831485244] LaMulita11           ( -143.4,   108.5,    71.7)
+  :orb
+2023-01-16T05:10:11Z: CHRCTER ADDED  [ 4198757439] 996idk              
+2023-01-16T05:10:16Z: CHRCTER ADDED  [ 3606496548] Chantelles2          a.k.a. Mia                 
+2023-01-16T05:10:22Z: PLAYER CHATTED [ 3631025909] xaviiier67           ( -122.4,    -1.0,    88.3)
+  :orb
+2023-01-16T05:10:25Z: CHRCTER ADDED  [ 3631025909] xaviiier67          
+2023-01-16T05:10:33Z: PLAYER CHATTED [ 3631025909] xaviiier67           (  -22.3,    -1.0,   142.6)
+  :orb
+2023-01-16T05:10:47Z: CHRCTER ADDED  [ 3512339840] Dtgghhh343498       
+2023-01-16T05:10:48Z: CHRCTER ADDED  [ 4198757439] 996idk              
+2023-01-16T05:11:11Z: CHRCTER ADDED  [ 3631025909] xaviiier67          
+2023-01-16T05:11:28Z: PLAYER REMOVED [ 3631025909] xaviiier67          
+2023-01-16T05:12:08Z: PLAYER REMOVED [ 3606496548] Chantelles2          a.k.a. Mia                 
+2023-01-16T05:12:10Z: CHRCTER ADDED  [ 4198757439] 996idk              
+2023-01-16T05:12:17Z: PLAYER CHATTED [ 3831485244] LaMulita11           ( -193.2,    14.5,   131.8)
+  :thaw
+2023-01-16T05:12:27Z: PLAYER ADDED   [ 3631025909] xaviiier67          
+2023-01-16T05:12:31Z: PLAYER ADDED   [ 3946264909] JhonnUpd            
+2023-01-16T05:12:41Z: PLAYER CHATTED [ 3512339840] Dtgghhh343498        ( -121.1,    -1.0,    -6.5)
+  Superman 
+2023-01-16T05:12:48Z: CHRCTER ADDED  [ 3512339840] Dtgghhh343498       
+2023-01-16T05:12:49Z: CHRCTER ADDED  [ 4198757439] 996idk              
+2023-01-16T05:12:53Z: PLAYER CHATTED [ 3631025909] xaviiier67           (  -23.9,    -1.0,   149.5)
+  :thaw
+2023-01-16T05:13:06Z: PLAYER CHATTED [ 4198757439] 996idk               (  -21.6,    -1.0,   129.2)
+  :orb
+2023-01-16T05:13:07Z: PLAYER CHATTED [ 3631025909] xaviiier67           (  -26.2,    -1.0,   130.4)
+  :thaw
+2023-01-16T05:13:10Z: CHRCTER ADDED  [ 3831485244] LaMulita11           a.k.a. sigmagirlXD09       
+2023-01-16T05:13:16Z: PLAYER CHATTED [ 3831485244] LaMulita11           (  -28.9,     2.8,   149.5)
+  :fly
+2023-01-16T05:13:18Z: PLAYER CHATTED [ 3631025909] xaviiier67           (  -26.2,    -1.0,   130.4)
+  :orb
+2023-01-16T05:13:42Z: CHRCTER ADDED  [ 3831485244] LaMulita11           a.k.a. sigmagirlXD09       
+2023-01-16T05:13:49Z: PLAYER REMOVED [ 3631025909] xaviiier67          
+2023-01-16T05:14:11Z: PLAYER ADDED   [ 1503382520] izzy_sam521          a.k.a. sam                 
+2023-01-16T05:14:23Z: CHRCTER ADDED  [ 3946264909] JhonnUpd            
+2023-01-16T05:14:49Z: CHRCTER ADDED  [ 3512339840] Dtgghhh343498       
+2023-01-16T05:15:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (   92.1,   106.2,  -204.5)
+  Who wants to fight me!?
+2023-01-16T05:15:35Z: CHRCTER ADDED  [ 3831485244] LaMulita11           a.k.a. sigmagirlXD09       
+2023-01-16T05:16:27Z: PLAYER REMOVED [ 1503382520] izzy_sam521          a.k.a. sam                 
+2023-01-16T05:16:49Z: PLAYER ADDED   [ 3520022642] princesa_041053sofia
+2023-01-16T05:16:49Z: CHRCTER ADDED  [ 3831485244] LaMulita11           a.k.a. sigmagirlXD09       
+2023-01-16T05:16:59Z: CHRCTER ADDED  [ 3946264909] JhonnUpd            
+2023-01-16T05:16:59Z: PLAYER REMOVED [ 3946264909] JhonnUpd            
+2023-01-16T05:17:06Z: PLAYER CHATTED [ 3520022642] princesa_041053sofia (  -46.3,    -1.0,    95.6)
+  :ff
+2023-01-16T05:17:10Z: PLAYER CHATTED [ 3512339840] Dtgghhh343498        (  -32.5,    -1.0,  -115.5)
+  e
+2023-01-16T05:17:21Z: CHRCTER ADDED  [ 3831485244] LaMulita11           a.k.a. sigmagirlXD09       
+2023-01-16T05:17:25Z: PLAYER ADDED   [ 2495059840] Jezabelleros3       
+2023-01-16T05:17:31Z: CHRCTER ADDED  [ 3512339840] Dtgghhh343498       
+2023-01-16T05:18:04Z: PLAYER CHATTED [ 3520022642] princesa_041053sofia ( -206.4,    72.0,   339.0)
+  :kill all
+2023-01-16T05:18:13Z: PLAYER CHATTED [ 3520022642] princesa_041053sofia ( -206.4,    72.0,   339.0)
+  :rest
+2023-01-16T05:18:17Z: CHRCTER ADDED  [ 3512339840] Dtgghhh343498       
+2023-01-16T05:18:21Z: CHRCTER ADDED  [ 3520022642] princesa_041053sofia
+2023-01-16T05:18:50Z: PLAYER CHATTED [ 3520022642] princesa_041053sofia (    0.7,    -1.0,    -5.1)
+  :ff
+2023-01-16T05:18:51Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

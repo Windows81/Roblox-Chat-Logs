@@ -1,0 +1,26 @@
+[    1630228] : [ 4522347649] [FREE ADMIN] - 5adde168-a4cf-496c-b792-cab23d31e0b9
+2023-01-16T06:30:04Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-16T06:30:04Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-16T06:30:04Z: PLAYER ADDED   [ 3146575719] belalbollaa         
+2023-01-16T06:30:04Z: PLAYER ADDED   [ 1601544834] JosiahKing1500       a.k.a. 2KMURDA             
+2023-01-16T06:30:04Z: PLAYER ADDED   [ 2543948765] Cool_manbrah        
+2023-01-16T06:30:04Z: PLAYER ADDED   [ 1643802003] bigloco101          
+2023-01-16T06:30:04Z: PLAYER ADDED   [ 3051792343] Xavierguya           a.k.a. Beavermilk          
+2023-01-16T06:30:04Z: PLAYER ADDED   [ 4168776825] MeiMei12478         
+2023-01-16T06:30:06Z: CHRCTER ADDED  [ 4168776825] MeiMei12478         
+2023-01-16T06:30:07Z: CHRCTER ADDED  [ 1601544834] JosiahKing1500       a.k.a. 2KMURDA             
+2023-01-16T06:30:08Z: PLAYER CHATTED [ 1601544834] JosiahKing1500       (   -8.9,    -1.0,   149.5)
+  :ff
+2023-01-16T06:30:11Z: CHRCTER ADDED  [ 2543948765] Cool_manbrah        
+2023-01-16T06:30:12Z: CHRCTER ADDED  [ 3146575719] belalbollaa         
+2023-01-16T06:30:12Z: PLAYER REMOVED [ 3146575719] belalbollaa         
+2023-01-16T06:30:19Z: PLAYER CHATTED [ 3051792343] Xavierguya           ( -174.6,    -1.0,   139.1)
+  :size me 90
+2023-01-16T06:30:24Z: CHRCTER ADDED  [ 3051792343] Xavierguya           a.k.a. Beavermilk          
+2023-01-16T06:30:24Z: PLAYER CHATTED [ 3051792343] Xavierguya           ( -174.7,     7.1,   138.9)
+  :size me 10
+2023-01-16T06:30:27Z: PLAYER CHATTED [ 2543948765] Cool_manbrah         (  -33.9,    -1.0,   149.5)
+  Eso ENZON
+2023-01-16T06:30:31Z: PLAYER CHATTED [ 3051792343] Xavierguya           ( -176.8,    26.0,   128.2)
+  :size 20
+2023-01-16T06:30:34Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

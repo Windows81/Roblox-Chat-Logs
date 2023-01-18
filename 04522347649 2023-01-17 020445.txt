@@ -1,0 +1,11 @@
+[    1630228] : [ 4522347649] [FREE ADMIN] - 49715f2d-76d0-4979-afc9-4b96bb69b6f6
+2023-01-17T02:04:45Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-17T02:04:45Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-17T02:04:45Z: PLAYER ADDED   [ 4128348371] twngo_hanbre         a.k.a. Cami                
+2023-01-17T02:04:45Z: PLAYER ADDED   [ 2400472896] danopaolo0_02        a.k.a. Oliver_3008xD       
+2023-01-17T02:04:45Z: PLAYER ADDED   [ 1986130718] coiuy1119            a.k.a. Daniel              
+2023-01-17T02:04:45Z: PLAYER ADDED   [ 4074499181] aless_10Uwu          a.k.a. El_Chino            
+2023-01-17T02:04:45Z: PLAYER ADDED   [ 3848344104] racio1214           
+2023-01-17T02:04:47Z: PLAYER CHATTED [ 3848344104] racio1214            (  -28.9,    -1.0,   149.5)
+  :ff
+2023-01-17T02:04:48Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
