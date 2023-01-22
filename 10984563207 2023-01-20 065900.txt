@@ -1,0 +1,108 @@
+[    1630228] : [10984563207] PLS JUDGE (Donation Game) - c2cbf6c1-4eff-44bd-abeb-a1b0a9b4aaad
+2023-01-20T06:59:00Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-20T06:59:00Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-20T06:59:00Z: PLAYER ADDED   [ 2599747735] fahadawg             a.k.a. Rip_H22             
+2023-01-20T06:59:00Z: PLAYER ADDED   [ 1241700250] XXMAXWELL2014XX      a.k.a. Digito              
+2023-01-20T06:59:00Z: PLAYER ADDED   [ 3468230046] Bryant_Sdnw1         a.k.a. BasicBee            
+2023-01-20T06:59:00Z: PLAYER ADDED   [ 3793850193] Abbane12             a.k.a. MrBlox              
+2023-01-20T06:59:00Z: PLAYER ADDED   [ 3521793865] Decoolpriincess      a.k.a. Fafififo0           
+2023-01-20T06:59:00Z: PLAYER ADDED   [ 3698222037] Albert_fireking71011 a.k.a. Ninja               
+2023-01-20T06:59:00Z: PLAYER ADDED   [ 2028097015] hello_steam          a.k.a. hello_steamSTUDIO   
+2023-01-20T06:59:00Z: PLAYER ADDED   [ 4069539750] Nono_2012gentil      a.k.a. Leya                
+2023-01-20T06:59:00Z: PLAYER ADDED   [  494608732] Zombiejakeg         
+2023-01-20T06:59:00Z: PLAYER ADDED   [ 1775648654] exxharose            a.k.a. CR7                 
+2023-01-20T06:59:00Z: PLAYER ADDED   [ 4142606420] ilikechainsawman325 
+2023-01-20T06:59:00Z: PLAYER ADDED   [  509416424] lrulesll             a.k.a. Sharp_VIDEOTHINGSyt 
+2023-01-20T06:59:00Z: PLAYER ADDED   [ 4163178061] Civooreyiz34        
+2023-01-20T06:59:00Z: PLAYER ADDED   [ 3281790826] Ulam009              a.k.a. ChocolateCookieChips
+2023-01-20T06:59:00Z: PLAYER ADDED   [ 3426462189] nefkensje            a.k.a. Bear                
+2023-01-20T06:59:00Z: PLAYER ADDED   [ 3340717869] ggggiiiooo12        
+2023-01-20T06:59:00Z: PLAYER ADDED   [  432162130] Nekoha5Pro          
+2023-01-20T06:59:00Z: PLAYER ADDED   [ 4135402745] milidia1210         
+2023-01-20T06:59:00Z: PLAYER ADDED   [ 2780240897] free_fire31121       a.k.a. CDN                 
+2023-01-20T06:59:00Z: PLAYER CHATTED [ 1241700250] XXMAXWELL2014XX      (    7.5,    89.8,    70.0)
+  Ty!
+2023-01-20T06:59:07Z: PLAYER CHATTED [ 3340717869] ggggiiiooo12         (  -15.8,    73.9,    92.3)
+  np my last robux
+2023-01-20T06:59:11Z: CHRCTER ADDED  [ 1241700250] XXMAXWELL2014XX      a.k.a. Digito              
+2023-01-20T06:59:13Z: CHRCTER ADDED  [ 3468230046] Bryant_Sdnw1         a.k.a. BasicBee            
+2023-01-20T06:59:16Z: PLAYER CHATTED [ 3468230046] Bryant_Sdnw1         (    2.2,    78.2,    97.9)
+  Hi Guys, today i will be telling a joke!!
+2023-01-20T06:59:19Z: PLAYER CHATTED [ 3521793865] Decoolpriincess      (  -15.1,    73.9,    83.2)
+  If you love cat donnâtes
+2023-01-20T06:59:21Z: PLAYER REMOVED [ 3521793865] Decoolpriincess      a.k.a. Fafififo0           
+2023-01-20T06:59:23Z: PLAYER CHATTED [ 1241700250] XXMAXWELL2014XX      ( -153.9,    76.1,    91.9)
+  im still dono to u!
+2023-01-20T06:59:28Z: PLAYER CHATTED [ 3468230046] Bryant_Sdnw1         (  -11.1,    78.2,    92.9)
+  What did the fish say when he ran into a wall!
+2023-01-20T06:59:29Z: PLAYER CHATTED [ 3340717869] ggggiiiooo12         (  -15.9,    73.9,    90.7)
+  ok
+2023-01-20T06:59:32Z: PLAYER REMOVED [ 4142606420] ilikechainsawman325 
+2023-01-20T06:59:34Z: PLAYER ADDED   [ 1355776468] jordanb0002          a.k.a. Bobu                
+2023-01-20T06:59:34Z: PLAYER REMOVED [ 1775648654] exxharose            a.k.a. CR7                 
+2023-01-20T06:59:34Z: PLAYER CHATTED [ 1241700250] XXMAXWELL2014XX      (  -15.4,    73.9,    95.2)
+  POO
+2023-01-20T06:59:35Z: PLAYER CHATTED [ 3468230046] Bryant_Sdnw1         (  -11.0,    78.2,    92.9)
+  "dam"
+2023-01-20T06:59:35Z: PLAYER CHATTED [ 3426462189] nefkensje            (  -15.9,    73.9,    85.8)
+  blub
+2023-01-20T06:59:38Z: PLAYER ADDED   [ 2814334304] emilyte147          
+2023-01-20T06:59:40Z: PLAYER CHATTED [ 1241700250] XXMAXWELL2014XX      (  -16.0,    73.9,    98.4)
+  oh!
+2023-01-20T06:59:43Z: PLAYER CHATTED [ 3468230046] Bryant_Sdnw1         (  -11.0,    78.2,    92.9)
+  :D
+2023-01-20T06:59:47Z: PLAYER CHATTED [ 2028097015] hello_steam          (  -22.4,    74.3,    70.8)
+  hi spider
+2023-01-20T06:59:47Z: PLAYER CHATTED [ 3426462189] nefkensje            (  -14.6,    73.9,   101.9)
+  bruh
+2023-01-20T06:59:48Z: CHRCTER ADDED  [ 3468230046] Bryant_Sdnw1         a.k.a. BasicBee            
+2023-01-20T06:59:49Z: PLAYER CHATTED [ 4069539750] Nono_2012gentil      (  -16.2,    73.9,    97.0)
+  j'ai pas compris comment on fait pour avoir des remix
+2023-01-20T06:59:50Z: CHRCTER ADDED  [ 3793850193] Abbane12             a.k.a. MrBlox              
+2023-01-20T06:59:54Z: PLAYER CHATTED [ 4163178061] Civooreyiz34         (  -20.2,    74.3,    67.7)
+  hi
+2023-01-20T06:59:55Z: PLAYER ADDED   [ 4052890170] Emmacutepinkyraiyt  
+2023-01-20T06:59:56Z: PLAYER ADDED   [ 3658474424] Mr_Bea8t             a.k.a. BlazeBusiness       
+2023-01-20T06:59:59Z: PLAYER CHATTED [ 3340717869] ggggiiiooo12         (  -15.9,    73.9,    90.7)
+  im not from america so idk the English jokes
+2023-01-20T07:00:00Z: PLAYER REMOVED [ 1241700250] XXMAXWELL2014XX      a.k.a. Digito              
+2023-01-20T07:00:01Z: PLAYER CHATTED [ 2028097015] hello_steam          (  -22.4,    74.3,    70.8)
+  can u donate me
+2023-01-20T07:00:04Z: PLAYER CHATTED [ 4163178061] Civooreyiz34         (  -20.2,    74.3,    67.7)
+  hı cool man
+2023-01-20T07:00:04Z: PLAYER ADDED   [ 3300419633] kalachuchiHahahaha2  a.k.a. ChocolateCookieChips
+2023-01-20T07:00:06Z: PLAYER REMOVED [ 4069539750] Nono_2012gentil      a.k.a. Leya                
+2023-01-20T07:00:07Z: PLAYER CHATTED [ 3793850193] Abbane12             (   -4.5,    78.2,    94.3)
+  Hello i m a Mr Cake 
+2023-01-20T07:00:08Z: PLAYER CHATTED [ 2028097015] hello_steam          (  -22.4,    74.3,    70.8)
+  ♥♥
+2023-01-20T07:00:16Z: PLAYER CHATTED [ 3468230046] Bryant_Sdnw1         (  -15.8,    73.9,    88.2)
+  Oop sorry
+2023-01-20T07:00:20Z: PLAYER CHATTED [ 3340717869] ggggiiiooo12         (  -15.1,    73.9,    92.6)
+  your name is MrBlox
+2023-01-20T07:00:20Z: PLAYER ADDED   [ 3250744551] takietakieroem       a.k.a. Scream              
+2023-01-20T07:00:21Z: PLAYER CHATTED [ 4163178061] Civooreyiz34         (  -20.2,    74.3,    67.7)
+  me balance 0 robux
+2023-01-20T07:00:22Z: PLAYER CHATTED [ 2028097015] hello_steam          (  -22.4,    74.3,    70.8)
+  thank you
+2023-01-20T07:00:41Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-20T07:00:41Z: PLAYER REMOVED [ 2599747735] fahadawg             a.k.a. Rip_H22             
+2023-01-20T07:00:41Z: PLAYER REMOVED [ 3468230046] Bryant_Sdnw1         a.k.a. BasicBee            
+2023-01-20T07:00:41Z: PLAYER REMOVED [ 3793850193] Abbane12             a.k.a. MrBlox              
+2023-01-20T07:00:41Z: PLAYER REMOVED [ 3698222037] Albert_fireking71011 a.k.a. Ninja               
+2023-01-20T07:00:41Z: PLAYER REMOVED [ 2028097015] hello_steam          a.k.a. hello_steamSTUDIO   
+2023-01-20T07:00:41Z: PLAYER REMOVED [  494608732] Zombiejakeg         
+2023-01-20T07:00:41Z: PLAYER REMOVED [  509416424] lrulesll             a.k.a. Sharp_VIDEOTHINGSyt 
+2023-01-20T07:00:41Z: PLAYER REMOVED [ 4163178061] Civooreyiz34        
+2023-01-20T07:00:41Z: PLAYER REMOVED [ 3281790826] Ulam009              a.k.a. ChocolateCookieChips
+2023-01-20T07:00:41Z: PLAYER REMOVED [ 3426462189] nefkensje            a.k.a. Bear                
+2023-01-20T07:00:41Z: PLAYER REMOVED [ 3340717869] ggggiiiooo12        
+2023-01-20T07:00:41Z: PLAYER REMOVED [  432162130] Nekoha5Pro          
+2023-01-20T07:00:41Z: PLAYER REMOVED [ 4135402745] milidia1210         
+2023-01-20T07:00:41Z: PLAYER REMOVED [ 2780240897] free_fire31121       a.k.a. CDN                 
+2023-01-20T07:00:41Z: PLAYER REMOVED [ 1355776468] jordanb0002          a.k.a. Bobu                
+2023-01-20T07:00:41Z: PLAYER REMOVED [ 2814334304] emilyte147          
+2023-01-20T07:00:41Z: PLAYER REMOVED [ 4052890170] Emmacutepinkyraiyt  
+2023-01-20T07:00:41Z: PLAYER REMOVED [ 3658474424] Mr_Bea8t             a.k.a. BlazeBusiness       
+2023-01-20T07:00:41Z: PLAYER REMOVED [ 3300419633] kalachuchiHahahaha2  a.k.a. ChocolateCookieChips
+2023-01-20T07:00:41Z: PLAYER REMOVED [ 3250744551] takietakieroem       a.k.a. Scream              

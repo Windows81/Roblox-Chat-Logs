@@ -1,0 +1,58 @@
+[    1630228] : [ 6792864617] World of Countryballs - bc1cc248-7939-4a48-8457-64a9229169b2
+2023-01-22T06:35:10Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-22T06:35:10Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-22T06:35:10Z: PLAYER ADDED   [  630586115] jamarihan           
+2023-01-22T06:35:10Z: PLAYER ADDED   [  384975455] skylily134           a.k.a. damian              
+2023-01-22T06:35:10Z: PLAYER ADDED   [ 3249305096] Lonk_87             
+2023-01-22T06:35:10Z: PLAYER ADDED   [ 1948373744] Darkwhite0377        a.k.a. Guest666N           
+2023-01-22T06:35:10Z: PLAYER ADDED   [ 4070930413] Gurlbaconisbest1997  a.k.a. Poland              
+2023-01-22T06:35:10Z: PLAYER ADDED   [ 3352616093] Casual_dimwit        a.k.a. Noob                
+2023-01-22T06:35:10Z: PLAYER ADDED   [ 2987485640] Goldharryice         a.k.a. Thing               
+2023-01-22T06:35:10Z: PLAYER ADDED   [ 3595021110] Floppa_bingus16     
+2023-01-22T06:35:10Z: PLAYER ADDED   [ 3884638720] Hussinthefire        a.k.a. DIO                 
+2023-01-22T06:35:10Z: PLAYER ADDED   [ 3748024867] AestheticKF          a.k.a. Polska              
+2023-01-22T06:35:10Z: PLAYER ADDED   [ 1697821141] budot03             
+2023-01-22T06:35:10Z: PLAYER ADDED   [ 3979776245] Soldierbuster       
+2023-01-22T06:35:10Z: PLAYER ADDED   [ 1663731219] vrizzy24             a.k.a. Ajay                
+2023-01-22T06:35:10Z: PLAYER ADDED   [ 1485510506] ana7027851           a.k.a. youtuber_friend     
+2023-01-22T06:35:10Z: PLAYER ADDED   [ 4134901036] rafinraj1234        
+2023-01-22T06:35:10Z: PLAYER ADDED   [ 3450044058] BROTHECAP            a.k.a. OreoMcFlurryYea     
+2023-01-22T06:35:10Z: PLAYER ADDED   [ 4200229473] eitheroeke9         
+2023-01-22T06:35:10Z: PLAYER ADDED   [ 1471439188] KingCreeper00001     a.k.a. King_Omega          
+2023-01-22T06:35:10Z: PLAYER ADDED   [ 3820846812] Ggyguuyguffth       
+2023-01-22T06:35:10Z: PLAYER ADDED   [      92952] toreup               a.k.a. eliza               
+2023-01-22T06:35:10Z: PLAYER ADDED   [ 3880965798] huggywuggymansss    
+2023-01-22T06:35:11Z: PLAYER CHATTED [ 1697821141] budot03             
+  😵
+2023-01-22T06:35:14Z: PLAYER CHATTED [ 3884638720] Hussinthefire       
+  Ok
+2023-01-22T06:35:17Z: PLAYER CHATTED [  630586115] jamarihan           
+  USA trade request
+2023-01-22T06:35:18Z: PLAYER REMOVED [ 3820846812] Ggyguuyguffth       
+2023-01-22T06:35:20Z: PLAYER CHATTED [ 1471439188] KingCreeper00001    
+  *damian died due to tank track squishing*
+2023-01-22T06:35:23Z: PLAYER CHATTED [  384975455] skylily134          
+  im ded now
+2023-01-22T06:35:30Z: PLAYER CHATTED [ 3352616093] Casual_dimwit       
+  Guten tag, Polen.
+2023-01-22T06:35:32Z: PLAYER CHATTED [ 1948373744] Darkwhite0377       
+  Germany!Say hello to my sister!
+2023-01-22T06:35:43Z: PLAYER CHATTED [ 3884638720] Hussinthefire       
+  He poor
+2023-01-22T06:35:47Z: PLAYER CHATTED [ 3884638720] Hussinthefire       
+  *Frees
+2023-01-22T06:35:50Z: PLAYER CHATTED [ 4070930413] Gurlbaconisbest1997 
+  Good day
+2023-01-22T06:35:53Z: PLAYER CHATTED [ 3352616093] Casual_dimwit       
+  Es something wrong?
+2023-01-22T06:35:54Z: PLAYER CHATTED [ 1485510506] ana7027851          
+  Poland your cool
+2023-01-22T06:35:55Z: PLAYER CHATTED [ 1663731219] vrizzy24            
+   Releases Poland
+2023-01-22T06:35:57Z: PLAYER CHATTED [ 3352616093] Casual_dimwit       
+  ...
+2023-01-22T06:35:59Z: PLAYER CHATTED [  384975455] skylily134          
+  IM AM ACTULLY A OHIO POWER USER
+2023-01-22T06:35:59Z: PLAYER CHATTED [ 1697821141] budot03              (-6381.2,   612.8,    77.0)
+  Full day.
+2023-01-22T06:36:00Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

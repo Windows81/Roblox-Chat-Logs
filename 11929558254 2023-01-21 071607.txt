@@ -1,0 +1,126 @@
+[    1630228] : [11929558254] ⭐+1 Per Second! - 8a7ab6c3-76f2-427b-a253-cad43b9022de
+2023-01-21T07:16:07Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-21T07:16:07Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-21T07:16:07Z: PLAYER ADDED   [  497930735] ILondral             a.k.a. ALXN                
+2023-01-21T07:16:07Z: PLAYER ADDED   [ 4168598475] Danielxd12074       
+2023-01-21T07:16:07Z: PLAYER ADDED   [ 2231449062] alokgarena123        a.k.a. XxEl_PabloXDxX      
+2023-01-21T07:16:07Z: PLAYER ADDED   [ 4234454942] Diego_3767          
+2023-01-21T07:16:07Z: PLAYER ADDED   [ 3971604757] dogywolfbo          
+2023-01-21T07:16:07Z: PLAYER ADDED   [ 4244309400] elgtrpro            
+2023-01-21T07:16:07Z: PLAYER ADDED   [ 4241038551] itdtlgdlgdititd     
+2023-01-21T07:16:07Z: PLAYER ADDED   [ 2576799754] cri29302             a.k.a. tomioka_MNXxD       
+2023-01-21T07:16:07Z: PLAYER ADDED   [ 4071083341] dilanliam1013       
+2023-01-21T07:16:07Z: PLAYER ADDED   [ 1555406691] DRAGONMAX567         a.k.a. Hugo                
+2023-01-21T07:16:07Z: PLAYER ADDED   [ 3707520293] Shkurkin07          
+2023-01-21T07:17:04Z: PLAYER REMOVED [ 2576799754] cri29302             a.k.a. tomioka_MNXxD       
+2023-01-21T07:18:41Z: PLAYER ADDED   [ 4178491588] Paupao0724          
+2023-01-21T07:19:41Z: PLAYER ADDED   [ 4212220666] peloneta_jxz        
+2023-01-21T07:20:32Z: PLAYER REMOVED [ 4168598475] Danielxd12074       
+2023-01-21T07:21:21Z: PLAYER REMOVED [ 4071083341] dilanliam1013       
+2023-01-21T07:21:22Z: PLAYER CHATTED [ 4212220666] peloneta_jxz         ( -128.1,    23.0,    65.2)
+  #####################
+2023-01-21T07:21:26Z: PLAYER CHATTED [ 4178491588] Paupao0724           ( -131.0,    23.0,    66.2)
+  Sipa
+2023-01-21T07:22:31Z: PLAYER CHATTED [ 4212220666] peloneta_jxz         ( -126.5,    43.0,   102.7)
+  siy po b re pa
+2023-01-21T07:23:21Z: PLAYER ADDED   [ 4245043464] Gal1c14             
+2023-01-21T07:23:56Z: PLAYER CHATTED [ 4178491588] Paupao0724           ( -129.5,    33.0,    86.4)
+  Kuantas tienes
+2023-01-21T07:24:10Z: PLAYER REMOVED [ 4245043464] Gal1c14             
+2023-01-21T07:24:11Z: PLAYER CHATTED [ 4212220666] peloneta_jxz         ( -127.3,    33.0,    83.9)
+  2 651
+2023-01-21T07:24:30Z: PLAYER REMOVED [ 4244309400] elgtrpro            
+2023-01-21T07:24:50Z: CHRCTER ADDED  [ 2231449062] alokgarena123        a.k.a. XxEl_PabloXDxX      
+2023-01-21T07:25:03Z: CHRCTER ADDED  [ 1555406691] DRAGONMAX567         a.k.a. Hugo                
+2023-01-21T07:25:15Z: PLAYER CHATTED [ 1555406691] DRAGONMAX567         ( -139.9,     3.0,    20.2)
+  por q pelean jzja
+2023-01-21T07:25:47Z: PLAYER CHATTED [ 4178491588] Paupao0724           ( -128.6,    12.3,    40.9)
+  Kienes
+2023-01-21T07:26:11Z: PLAYER CHATTED [ 4212220666] peloneta_jxz         ( -128.5,    53.0,   124.3)
+  poskepaso
+2023-01-21T07:26:22Z: PLAYER ADDED   [ 3423139082] Leoolc123           
+2023-01-21T07:26:34Z: PLAYER CHATTED [ 1555406691] DRAGONMAX567         (-1774.0,     6.0,    -2.0)
+  no c yo
+2023-01-21T07:26:43Z: PLAYER CHATTED [ 4178491588] Paupao0724           ( -131.5,    43.0,   103.8)
+  Kuantas te faltan oke
+2023-01-21T07:26:48Z: PLAYER ADDED   [ 2920661077] Pentatleta05        
+2023-01-21T07:26:53Z: PLAYER CHATTED [ 4212220666] peloneta_jxz         ( -128.3,    53.0,   123.4)
+  esta kreo
+2023-01-21T07:27:00Z: PLAYER CHATTED [ 4178491588] Paupao0724           ( -128.6,     3.0,    28.0)
+  Nais
+2023-01-21T07:28:03Z: CHRCTER ADDED  [ 2920661077] Pentatleta05        
+2023-01-21T07:28:21Z: PLAYER CHATTED [ 1555406691] DRAGONMAX567         (-1759.9,     6.0,     7.0)
+  son hombre o mujer
+2023-01-21T07:28:42Z: PLAYER CHATTED [ 4178491588] Paupao0724           ( -128.6,     3.0,    29.3)
+  Mucha info
+2023-01-21T07:28:54Z: PLAYER REMOVED [ 2920661077] Pentatleta05        
+2023-01-21T07:28:55Z: PLAYER CHATTED [ 1555406691] DRAGONMAX567         (-1763.8,     6.0,   160.4)
+  jaja bn
+2023-01-21T07:29:13Z: CHRCTER ADDED  [ 1555406691] DRAGONMAX567         a.k.a. Hugo                
+2023-01-21T07:29:16Z: PLAYER REMOVED [ 3423139082] Leoolc123           
+2023-01-21T07:29:19Z: PLAYER CHATTED [ 4212220666] peloneta_jxz         ( -139.1,     3.0,    16.9)
+  amonos pa
+2023-01-21T07:29:58Z: PLAYER ADDED   [ 2422362914] santi1072io          a.k.a. Messias             
+2023-01-21T07:30:04Z: PLAYER CHATTED [ 1555406691] DRAGONMAX567         (-1758.4,     6.0,    -2.4)
+  no an hecho rebirths
+2023-01-21T07:30:04Z: PLAYER ADDED   [ 4134197095] zknzbzb              a.k.a. Messi               
+2023-01-21T07:30:11Z: PLAYER CHATTED [ 1555406691] DRAGONMAX567         (-1758.8,     6.0,     2.8)
+  ??
+2023-01-21T07:30:12Z: CHRCTER ADDED  [ 4134197095] zknzbzb              a.k.a. Messi               
+2023-01-21T07:30:14Z: PLAYER CHATTED [ 4178491588] Paupao0724           ( -310.1,    20.0,   106.8)
+  Keseso
+2023-01-21T07:30:18Z: PLAYER CHATTED [ 4212220666] peloneta_jxz         ( -295.8,     6.0,    95.6)
+  estokw
+2023-01-21T07:30:43Z: PLAYER CHATTED [ 4178491588] Paupao0724           ( -302.5,    20.0,   107.9)
+  100 saltos pa
+2023-01-21T07:30:51Z: PLAYER CHATTED [ 1555406691] DRAGONMAX567         (-1784.5,     6.0,    -2.3)
+  es reiniciar todo el juego
+2023-01-21T07:30:56Z: PLAYER CHATTED [ 4178491588] Paupao0724           ( -304.1,    20.0,   105.4)
+  Aaaa
+2023-01-21T07:30:57Z: PLAYER CHATTED [ 4212220666] peloneta_jxz         ( -300.4,     6.0,    95.5)
+  no balen ku lo
+2023-01-21T07:30:58Z: PLAYER CHATTED [ 4178491588] Paupao0724           ( -304.1,    20.0,   105.4)
+  Sisisi
+2023-01-21T07:31:01Z: PLAYER CHATTED [ 1555406691] DRAGONMAX567         (-1784.5,     6.0,    -2.3)
+  y empezar de 0
+2023-01-21T07:31:02Z: PLAYER CHATTED [ 4178491588] Paupao0724           ( -304.1,    20.0,   105.4)
+  Una vez namas
+2023-01-21T07:31:08Z: PLAYER CHATTED [ 1555406691] DRAGONMAX567         (-1783.9,     6.0,     3.1)
+  #####
+2023-01-21T07:31:12Z: PLAYER CHATTED [ 1555406691] DRAGONMAX567         (-1783.4,     6.0,     8.1)
+  oo
+2023-01-21T07:31:25Z: PLAYER CHATTED [ 4212220666] peloneta_jxz         ( -299.5,    20.0,   106.6)
+  en ese cuantas oke
+2023-01-21T07:31:34Z: PLAYER CHATTED [ 4178491588] Paupao0724           ( -302.6,    25.0,   131.5)
+  150 kreo
+2023-01-21T07:31:45Z: PLAYER CHATTED [ 4212220666] peloneta_jxz         ( -297.8,    20.0,   108.2)
+  #########
+2023-01-21T07:31:51Z: PLAYER CHATTED [ 4212220666] peloneta_jxz         ( -297.8,    20.0,   108.2)
+  ranas o k
+2023-01-21T07:31:56Z: PLAYER REMOVED [ 4134197095] zknzbzb              a.k.a. Messi               
+2023-01-21T07:32:02Z: PLAYER CHATTED [ 4178491588] Paupao0724           ( -310.0,    25.0,   132.6)
+  NAJAJJAJA
+2023-01-21T07:32:10Z: PLAYER CHATTED [ 4178491588] Paupao0724           ( -310.0,    25.0,   132.6)
+  Y te kitan 130 acá
+2023-01-21T07:32:28Z: PLAYER CHATTED [ 1555406691] DRAGONMAX567         (-1780.3,     6.0,    11.2)
+  ustedes son mujeres jaja
+2023-01-21T07:32:34Z: PLAYER CHATTED [ 4178491588] Paupao0724           ( -310.4,     6.0,   151.5)
+  Sipa
+2023-01-21T07:32:37Z: PLAYER CHATTED [ 4212220666] peloneta_jxz         ( -296.8,     6.0,    97.2)
+  sipa
+2023-01-21T07:32:42Z: CHRCTER ADDED  [ 1555406691] DRAGONMAX567         a.k.a. Hugo                
+2023-01-21T07:32:46Z: PLAYER CHATTED [ 4212220666] peloneta_jxz         ( -296.8,     6.0,    97.2)
+  agg en el roblots
+2023-01-21T07:32:56Z: PLAYER CHATTED [ 1555406691] DRAGONMAX567         (   18.8,     3.0,    -2.4)
+  bn reinicie todo de nuevo
+2023-01-21T07:33:02Z: PLAYER CHATTED [ 1555406691] DRAGONMAX567         (   18.8,     3.0,    -2.4)
+  boy
+2023-01-21T07:33:04Z: PLAYER ADDED   [ 3743071432] Nagel_PR23           a.k.a. Nagel               
+2023-01-21T07:33:20Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-21T07:33:24Z: PLAYER CHATTED [ 1555406691] DRAGONMAX567         (   18.8,     3.0,    -2.4)
+  ya 
+2023-01-21T07:33:38Z: PLAYER CHATTED [ 4212220666] peloneta_jxz         ( -316.3,     6.0,    96.8)
+  yasta
+2023-01-21T07:33:46Z: PLAYER CHATTED [ 1555406691] DRAGONMAX567         (   12.9,     3.0,    26.3)
+  ahora soy el penultimo jaja
+2023-01-21T07:34:02Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

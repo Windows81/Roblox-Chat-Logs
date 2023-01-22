@@ -1,0 +1,351 @@
+[    1630228] : [ 6792864617] World of Countryballs - 94f814d6-bac4-4a77-97f1-34fb2a4433a1
+2023-01-22T06:10:58Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-22T06:10:58Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-22T06:10:58Z: PLAYER ADDED   [ 3609564102] MiPansususuq1       
+2023-01-22T06:10:58Z: PLAYER ADDED   [ 3792322250] banano_110          
+2023-01-22T06:10:58Z: PLAYER ADDED   [  539554943] IsaacMidorilla       a.k.a. Isaac               
+2023-01-22T06:10:58Z: PLAYER ADDED   [  567478891] adremi8             
+2023-01-22T06:10:58Z: PLAYER ADDED   [ 4027000516] lans0506            
+2023-01-22T06:10:58Z: PLAYER ADDED   [ 4205867923] Ilmj8njounhi         a.k.a. PanfletA            
+2023-01-22T06:10:58Z: PLAYER ADDED   [ 1711045715] Gokukrilin11        
+2023-01-22T06:10:58Z: PLAYER ADDED   [ 2274475341] axelrivera999       
+2023-01-22T06:10:58Z: PLAYER ADDED   [ 4123951840] rope_134            
+2023-01-22T06:10:58Z: PLAYER ADDED   [ 3811007353] Serafin20112        
+2023-01-22T06:10:58Z: PLAYER ADDED   [ 1420330086] ozzi0514            
+2023-01-22T06:10:58Z: PLAYER ADDED   [ 2897115276] Dn0611              
+2023-01-22T06:10:58Z: PLAYER ADDED   [ 3472482437] YesDam1ann          
+2023-01-22T06:10:58Z: PLAYER ADDED   [ 3173385712] erubarreda10        
+2023-01-22T06:10:58Z: PLAYER ADDED   [ 3977371879] katia1098765432     
+2023-01-22T06:10:58Z: PLAYER ADDED   [ 3812702543] spinosaurus720       a.k.a. VIVALAMADRERUSIA    
+2023-01-22T06:10:58Z: PLAYER ADDED   [ 3207856531] Eliianher           
+2023-01-22T06:10:58Z: PLAYER ADDED   [ 4071973912] ItzMon1cASCP124     
+2023-01-22T06:10:58Z: PLAYER ADDED   [ 4150320990] onix12322crak       
+2023-01-22T06:10:58Z: PLAYER ADDED   [ 2453214395] Xx0sonic5xX          a.k.a. Luca5paguro         
+2023-01-22T06:10:58Z: PLAYER ADDED   [ 3460446507] ElGa425             
+2023-01-22T06:10:58Z: PLAYER ADDED   [ 2988015708] Gatohielo16          a.k.a. Nutella             
+2023-01-22T06:10:58Z: PLAYER ADDED   [ 3777343760] ggguaudjdh32        
+2023-01-22T06:10:58Z: PLAYER ADDED   [ 3957613475] SUSWAFKYZ            a.k.a. alex                
+2023-01-22T06:10:58Z: PLAYER ADDED   [ 4107638190] liamproboy9         
+2023-01-22T06:10:58Z: PLAYER ADDED   [ 2787311400] Dk030713             a.k.a. Chicledk            
+2023-01-22T06:10:59Z: PLAYER CHATTED [ 3792322250] banano_110           (-6327.5,   621.9,   188.2)
+  so 😹😹😹😹
+2023-01-22T06:11:00Z: PLAYER CHATTED [ 3207856531] Eliianher            (-6327.8,   623.0,   205.8)
+  Imperio Mexicano 
+2023-01-22T06:11:02Z: PLAYER CHATTED [ 2274475341] axelrivera999        (-6347.5,   609.1,    53.0)
+  ok
+2023-01-22T06:11:03Z: PLAYER CHATTED [ 3460446507] ElGa425             
+  ####
+2023-01-22T06:11:03Z: PLAYER CHATTED [ 4205867923] Ilmj8njounhi        
+  ._.
+2023-01-22T06:11:05Z: PLAYER CHATTED [ 3957613475] SUSWAFKYZ           
+  es hora de la escuela
+2023-01-22T06:11:07Z: PLAYER CHATTED [ 4107638190] liamproboy9          (-6344.2,   609.8,    64.1)
+  QUE
+2023-01-22T06:11:07Z: PLAYER CHATTED [ 3777343760] ggguaudjdh32        
+  no mires ay we
+2023-01-22T06:11:08Z: PLAYER CHATTED [ 3812702543] spinosaurus720      
+  porq mi ventana esta rota?
+2023-01-22T06:11:08Z: PLAYER CHATTED [ 3460446507] ElGa425             
+  Chift
+2023-01-22T06:11:08Z: PLAYER CHATTED [ 3977371879] katia1098765432     
+  cuida a rusia
+2023-01-22T06:11:15Z: PLAYER CHATTED [ 4205867923] Ilmj8njounhi        
+  WT# 
+2023-01-22T06:11:17Z: PLAYER CHATTED [ 2897115276] Dn0611              
+  jajaja
+2023-01-22T06:11:18Z: PLAYER CHATTED [ 3977371879] katia1098765432     
+  porfa
+2023-01-22T06:11:19Z: PLAYER CHATTED [ 3957613475] SUSWAFKYZ           
+  *ve las camaras
+2023-01-22T06:11:20Z: PLAYER CHATTED [ 3777343760] ggguaudjdh32        
+  si está grande pero no mires ay
+2023-01-22T06:11:20Z: PLAYER CHATTED [ 1711045715] Gokukrilin11         (-6397.9,   608.4,  -177.2)
+  OK
+2023-01-22T06:11:21Z: PLAYER CHATTED [ 3472482437] YesDam1ann          
+  rra
+2023-01-22T06:11:23Z: PLAYER CHATTED [ 3460446507] ElGa425             
+  creo que es pa correr
+2023-01-22T06:11:23Z: PLAYER CHATTED [  539554943] IsaacMidorilla      
+  ?
+2023-01-22T06:11:24Z: PLAYER CHATTED [ 3792322250] banano_110           (-6324.6,   621.9,   184.2)
+  ##########
+2023-01-22T06:11:24Z: PLAYER CHATTED [ 4107638190] liamproboy9          (-6344.0,   609.8,    64.6)
+  CUAL BOTON ES ESE
+2023-01-22T06:11:25Z: PLAYER CHATTED [ 2787311400] Dk030713            
+  polonia robot?
+2023-01-22T06:11:25Z: PLAYER ADDED   [ 2554497990] S3bas8411           
+2023-01-22T06:11:26Z: PLAYER CHATTED [ 3977371879] katia1098765432     
+  hijo
+2023-01-22T06:11:29Z: PLAYER ADDED   [ 1842686743] fershu321            a.k.a. Goku                
+2023-01-22T06:11:30Z: PLAYER CHATTED [ 3957613475] SUSWAFKYZ           
+  eyos
+2023-01-22T06:11:33Z: PLAYER ADDED   [ 3230299281] AngelitoBo12        
+2023-01-22T06:11:34Z: PLAYER CHATTED [  539554943] IsaacMidorilla      
+  se murio tu mamá
+2023-01-22T06:11:36Z: PLAYER CHATTED [ 4150320990] onix12322crak       
+  toy depre
+2023-01-22T06:11:37Z: PLAYER CHATTED [ 3792322250] banano_110           (-6324.4,   621.9,   183.8)
+  mexico x eu?
+2023-01-22T06:11:37Z: PLAYER CHATTED [ 3977371879] katia1098765432     
+  mexica te va cuidar
+2023-01-22T06:11:37Z: PLAYER CHATTED [ 3977371879] katia1098765432     
+  mexica te va  cuidar
+2023-01-22T06:11:39Z: PLAYER CHATTED [ 3460446507] ElGa425             
+  shift
+2023-01-22T06:11:40Z: PLAYER CHATTED [ 3957613475] SUSWAFKYZ           
+  hijos 
+2023-01-22T06:11:40Z: PLAYER CHATTED [ 2897115276] Dn0611              
+  #####
+2023-01-22T06:11:41Z: PLAYER CHATTED [ 1420330086] ozzi0514            
+  😶
+2023-01-22T06:11:42Z: PLAYER CHATTED [ 3207856531] Eliianher            (-6327.6,   623.0,   205.5)
+  te recomiendo correr
+2023-01-22T06:11:44Z: PLAYER CHATTED [ 4107638190] liamproboy9          (-6351.8,   606.5,    13.0)
+  EL SHIFT
+2023-01-22T06:11:46Z: PLAYER CHATTED [ 4205867923] Ilmj8njounhi        
+  Mejor me que do sin robux 
+2023-01-22T06:11:46Z: PLAYER CHATTED [ 1420330086] ozzi0514            
+  a ok 
+2023-01-22T06:11:47Z: PLAYER CHATTED [ 3207856531] Eliianher            (-6327.6,   623.0,   205.5)
+  ya entendi
+2023-01-22T06:11:48Z: PLAYER CHATTED [ 3460446507] ElGa425             
+  si
+2023-01-22T06:11:51Z: PLAYER CHATTED [ 3472482437] YesDam1ann          
+  a ti
+2023-01-22T06:11:51Z: PLAYER CHATTED [ 3977371879] katia1098765432     
+  yo me iré...
+2023-01-22T06:11:51Z: PLAYER CHATTED [ 3460446507] ElGa425             
+  creo
+2023-01-22T06:11:57Z: PLAYER CHATTED [ 3207856531] Eliianher            (-6327.1,   623.0,   205.7)
+  imperio mexicano 
+2023-01-22T06:11:58Z: PLAYER CHATTED [ 3977371879] katia1098765432     
+  adios hijo
+2023-01-22T06:12:02Z: PLAYER REMOVED [ 3230299281] AngelitoBo12        
+2023-01-22T06:12:02Z: PLAYER CHATTED [ 2274475341] axelrivera999        (-6345.7,   610.7,    78.7)
+  tom 3 copas
+2023-01-22T06:12:03Z: PLAYER CHATTED [ 3777343760] ggguaudjdh32        
+  largo al ########
+2023-01-22T06:12:04Z: PLAYER CHATTED [ 3792322250] banano_110           (-6324.9,   621.9,   199.7)
+  no puso pared
+2023-01-22T06:12:06Z: PLAYER CHATTED [ 3957613475] SUSWAFKYZ           
+  *envia a sus fuersas a buscar 
+2023-01-22T06:12:06Z: PLAYER CHATTED [  539554943] IsaacMidorilla       (-6323.7,   621.9,   178.8)
+  mi conciencia
+2023-01-22T06:12:06Z: CHRCTER ADDED  [ 2554497990] S3bas8411           
+2023-01-22T06:12:09Z: PLAYER CHATTED [ 4107638190] liamproboy9          (-6351.8,   606.5,    13.0)
+  #### TECLA
+2023-01-22T06:12:10Z: CHRCTER ADDED  [ 1842686743] fershu321            a.k.a. Goku                
+2023-01-22T06:12:11Z: PLAYER CHATTED [ 3207856531] Eliianher            (-6327.3,   623.0,   205.6)
+  para que ocupas na usa chiquito
+2023-01-22T06:12:13Z: PLAYER CHATTED [ 2988015708] Gatohielo16          (-6325.5,   621.9,   199.7)
+  oigan
+2023-01-22T06:12:14Z: PLAYER CHATTED [ 4107638190] liamproboy9          (-6307.9,   609.6,    67.6)
+  D
+2023-01-22T06:12:14Z: PLAYER CHATTED [ 4150320990] onix12322crak       
+  gracias
+2023-01-22T06:12:15Z: PLAYER CHATTED [ 3812702543] spinosaurus720      
+  y q paso?
+2023-01-22T06:12:15Z: PLAYER CHATTED [ 3957613475] SUSWAFKYZ           
+  vamos a la escuela
+2023-01-22T06:12:16Z: PLAYER CHATTED [ 3792322250] banano_110           (-6317.4,   621.9,   201.9)
+  #### un taco
+2023-01-22T06:12:18Z: PLAYER CHATTED [ 3812702543] spinosaurus720      
+  ok
+2023-01-22T06:12:19Z: PLAYER CHATTED [ 3957613475] SUSWAFKYZ           
+  nada
+2023-01-22T06:12:19Z: PLAYER ADDED   [ 3230299281] AngelitoBo12        
+2023-01-22T06:12:21Z: PLAYER CHATTED [ 3777343760] ggguaudjdh32        
+  lo que tengo largo son 2 cosas
+2023-01-22T06:12:21Z: PLAYER CHATTED [ 2274475341] axelrivera999        (-6342.6,   611.2,    85.3)
+  bye
+2023-01-22T06:12:22Z: PLAYER CHATTED [ 1420330086] ozzi0514            
+  A bueno ##### ######
+2023-01-22T06:12:22Z: PLAYER CHATTED [ 2897115276] Dn0611              
+  😵😵😵😵😵😵😵😵😵😵
+2023-01-22T06:12:23Z: PLAYER CHATTED [ 1711045715] Gokukrilin11         (-6397.9,   608.4,  -177.2)
+  soy imperio mx
+2023-01-22T06:12:25Z: PLAYER CHATTED [ 4205867923] Ilmj8njounhi        
+  Ok ten
+2023-01-22T06:12:26Z: PLAYER CHATTED [ 3792322250] banano_110           (-6317.5,   621.9,   201.6)
+  de me un taco
+2023-01-22T06:12:26Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-22T06:12:27Z: PLAYER CHATTED [ 4107638190] liamproboy9          (-6334.9,   610.6,    79.1)
+  NO ENTIENDOA
+2023-01-22T06:12:28Z: PLAYER CHATTED [ 3777343760] ggguaudjdh32        
+  1 mis manos
+2023-01-22T06:12:30Z: PLAYER CHATTED [  539554943] IsaacMidorilla       (-6323.0,   621.9,   204.0)
+  y despues te bombadeare a ti 
+2023-01-22T06:12:32Z: PLAYER CHATTED [ 4150320990] onix12322crak       
+  me siento solo
+2023-01-22T06:12:32Z: PLAYER CHATTED [ 2787311400] Dk030713             (-6321.3,   611.5,    97.0)
+  micatana
+2023-01-22T06:12:37Z: PLAYER CHATTED [ 2988015708] Gatohielo16          (-6325.5,   621.9,   199.7)
+  les digo algo pero no se enojan
+2023-01-22T06:12:41Z: PLAYER CHATTED [ 3792322250] banano_110           (-6317.5,   621.9,   201.6)
+  gracias xd
+2023-01-22T06:12:43Z: PLAYER CHATTED [ 2787311400] Dk030713             (-6323.7,   611.5,    97.4)
+  que vez
+2023-01-22T06:12:45Z: PLAYER CHATTED [ 3207856531] Eliianher            (-6327.4,   623.0,   205.5)
+  imperio Mexicano 
+2023-01-22T06:12:45Z: PLAYER CHATTED [ 3777343760] ggguaudjdh32        
+  2 mi sombrero
+2023-01-22T06:12:45Z: PLAYER CHATTED [ 3957613475] SUSWAFKYZ            (-1715.3,   665.8,   163.9)
+  cuidate
+2023-01-22T06:12:46Z: PLAYER CHATTED [ 3977371879] katia1098765432     
+  * se muere*
+2023-01-22T06:12:47Z: PLAYER CHATTED [ 4205867923] Ilmj8njounhi         (-6320.0,   621.9,   196.3)
+  Denada 
+2023-01-22T06:12:50Z: PLAYER CHATTED [ 3812702543] spinosaurus720      
+  tengo miedo:(
+2023-01-22T06:12:52Z: PLAYER CHATTED [ 2897115276] Dn0611              
+  😵😵😵😵😵😵😵
+2023-01-22T06:12:53Z: PLAYER CHATTED [ 4107638190] liamproboy9          (-6326.7,   611.0,    87.7)
+  donde esta shift
+2023-01-22T06:12:58Z: PLAYER CHATTED [ 3792322250] banano_110           (-6315.4,   621.9,   202.5)
+  *mente*
+2023-01-22T06:13:01Z: PLAYER CHATTED [ 3207856531] Eliianher            (-6327.4,   623.0,   205.5)
+  para que ocupas amusa xhiquito
+2023-01-22T06:13:01Z: PLAYER CHATTED [ 3957613475] SUSWAFKYZ            (-1714.4,   665.8,   167.4)
+  no pasara nada
+2023-01-22T06:13:02Z: PLAYER CHATTED [ 3460446507] ElGa425             
+  en el teclado 
+2023-01-22T06:13:04Z: PLAYER CHATTED [ 3777343760] ggguaudjdh32        
+  que pensaste que desia mi pe
+2023-01-22T06:13:05Z: PLAYER CHATTED [ 3207856531] Eliianher            (-6327.2,   623.0,   205.8)
+  a mí hijo
+2023-01-22T06:13:05Z: PLAYER CHATTED [ 3812702543] spinosaurus720      
+  ok
+2023-01-22T06:13:10Z: PLAYER CHATTED [ 3460446507] ElGa425             
+  ni más que no se el que parte 
+2023-01-22T06:13:11Z: PLAYER CHATTED [ 1711045715] Gokukrilin11         (-6397.9,   608.4,  -177.2)
+  rusia
+2023-01-22T06:13:12Z: PLAYER CHATTED [ 3957613475] SUSWAFKYZ            (-1709.6,   666.3,   200.8)
+  bay
+2023-01-22T06:13:12Z: PLAYER CHATTED [ 3207856531] Eliianher            (-6327.5,   623.0,   205.5)
+  no
+2023-01-22T06:13:15Z: PLAYER CHATTED [ 3977371879] katia1098765432     
+  jsjsjs
+2023-01-22T06:13:16Z: PLAYER CHATTED [ 4107638190] liamproboy9          (-6327.1,   611.5,    98.1)
+  en cual parte
+2023-01-22T06:13:19Z: PLAYER CHATTED [ 3792322250] banano_110           (-6315.4,   621.9,   202.5)
+  *estos tacos de mexico hacen que yo me en ma ore de el*
+2023-01-22T06:13:20Z: PLAYER CHATTED [ 3460446507] ElGa425             
+  es que soy de ########
+2023-01-22T06:13:25Z: PLAYER CHATTED [ 2988015708] Gatohielo16          (-6226.9,   609.3,    60.2)
+  lo noquea
+2023-01-22T06:13:26Z: PLAYER CHATTED [ 3977371879] katia1098765432     
+  pensó que me había muerto
+2023-01-22T06:13:26Z: PLAYER CHATTED [ 4150320990] onix12322crak       
+  ya dejame japon
+2023-01-22T06:13:27Z: CHRCTER ADDED  [ 3812702543] spinosaurus720       a.k.a. VIVALAMADRERUSIA    
+2023-01-22T06:13:28Z: PLAYER CHATTED [ 3777343760] ggguaudjdh32        
+  ##### que te balga
+2023-01-22T06:13:32Z: CHRCTER ADDED  [ 2554497990] S3bas8411           
+2023-01-22T06:13:35Z: PLAYER CHATTED [ 3792322250] banano_110           (-6315.4,   621.9,   202.5)
+  TA DELI EL TACOOO
+2023-01-22T06:13:37Z: PLAYER CHATTED [ 3207856531] Eliianher            (-6327.1,   623.0,   207.2)
+  bueno ay esta
+2023-01-22T06:13:38Z: PLAYER CHATTED [ 1420330086] ozzi0514            
+  ?
+2023-01-22T06:13:39Z: PLAYER CHATTED [ 3230299281] AngelitoBo12         (-6452.8,   616.5,   169.9)
+  Me adopta
+2023-01-22T06:13:42Z: PLAYER CHATTED [ 3777343760] ggguaudjdh32        
+  niño
+2023-01-22T06:13:43Z: PLAYER CHATTED [ 3977371879] katia1098765432     
+  ya regrese
+2023-01-22T06:13:43Z: PLAYER ADDED   [ 3481744523] amiguis2119         
+2023-01-22T06:13:49Z: PLAYER CHATTED [ 3230299281] AngelitoBo12         (-6452.8,   616.5,   169.9)
+  Me adopta
+2023-01-22T06:13:52Z: PLAYER CHATTED [ 2787311400] Dk030713             (-6340.7,   614.6,   117.6)
+  a soy débil a aaaaaaaaaa
+2023-01-22T06:13:53Z: PLAYER CHATTED [ 4150320990] onix12322crak       
+  me siento solo
+2023-01-22T06:13:54Z: PLAYER CHATTED [ 3207856531] Eliianher            (-6322.9,   623.0,   212.9)
+  vez con el
+2023-01-22T06:13:55Z: PLAYER CHATTED [ 3777343760] ggguaudjdh32        
+  niño
+2023-01-22T06:13:58Z: PLAYER CHATTED [ 3230299281] AngelitoBo12         (-6452.8,   616.5,   169.9)
+  Me adopta
+2023-01-22T06:13:59Z: PLAYER CHATTED [ 3792322250] banano_110           (-6034.6,   619.5,   236.1)
+  *se lo acaba*
+2023-01-22T06:14:00Z: PLAYER CHATTED [ 3460446507] ElGa425              (-6341.6,   615.0,   121.2)
+  weeee
+2023-01-22T06:14:02Z: PLAYER CHATTED [ 3777343760] ggguaudjdh32         (-6325.6,   623.0,   208.6)
+  quieres dulses
+2023-01-22T06:14:05Z: CHRCTER ADDED  [ 3481744523] amiguis2119         
+2023-01-22T06:14:07Z: PLAYER CHATTED [ 3460446507] ElGa425              (-6341.6,   615.0,   121.2)
+  me va conquistar 
+2023-01-22T06:14:08Z: PLAYER CHATTED [ 2787311400] Dk030713             (-6346.9,   614.8,   114.0)
+  rebibeme
+2023-01-22T06:14:09Z: PLAYER CHATTED [ 3812702543] spinosaurus720       (-1199.5,   665.9,   319.2)
+  hola si soy yo denuevo
+2023-01-22T06:14:10Z: PLAYER CHATTED [ 2274475341] axelrivera999        (-6348.2,   613.6,   102.3)
+  en el mundial 2026 vas a ser eliminadon en la final contra mexico xd
+2023-01-22T06:14:11Z: PLAYER CHATTED [ 3207856531] Eliianher            (-6322.3,   623.0,   213.0)
+  😐
+2023-01-22T06:14:12Z: PLAYER CHATTED [ 4205867923] Ilmj8njounhi         (-6319.3,   621.9,   205.7)
+  Si
+2023-01-22T06:14:12Z: PLAYER CHATTED [ 3777343760] ggguaudjdh32         (-6325.6,   623.0,   208.6)
+  *se los en seña*
+2023-01-22T06:14:15Z: PLAYER CHATTED [ 3207856531] Eliianher            (-6321.9,   623.0,   213.2)
+  hijo
+2023-01-22T06:14:16Z: PLAYER CHATTED [ 3957613475] SUSWAFKYZ            (-1176.1,   665.9,   316.3)
+  a hola
+2023-01-22T06:14:17Z: PLAYER CHATTED [ 1420330086] ozzi0514             (-6402.2,   608.4,  -185.4)
+  le #### ## ## ## ##
+2023-01-22T06:14:18Z: PLAYER CHATTED [ 1842686743] fershu321            (-6327.2,   623.0,   204.7)
+  papa
+2023-01-22T06:14:18Z: PLAYER CHATTED [ 3230299281] AngelitoBo12         (-6452.8,   616.5,   169.9)
+  Me adopta
+2023-01-22T06:14:20Z: PLAYER CHATTED [ 3977371879] katia1098765432      (-6397.9,   608.4,  -178.8)
+  le mata
+2023-01-22T06:14:20Z: PLAYER CHATTED [ 4071973912] ItzMon1cASCP124      (-6315.2,   621.9,   213.6)
+  mande
+2023-01-22T06:14:20Z: PLAYER CHATTED [ 1420330086] ozzi0514             (-6400.0,   608.4,  -182.3)
+  xd
+2023-01-22T06:14:21Z: CHRCTER ADDED  [ 3460446507] ElGa425             
+2023-01-22T06:14:23Z: PLAYER CHATTED [ 3792322250] banano_110           (-6132.8,   664.1,   149.4)
+  polonia con ## ####
+2023-01-22T06:14:27Z: PLAYER CHATTED [ 3207856531] Eliianher            (-6321.4,   623.0,   213.5)
+  vez con el imperio Mexicano 
+2023-01-22T06:14:28Z: PLAYER CHATTED [ 1842686743] fershu321            (-6326.6,   623.0,   205.5)
+  e que 
+2023-01-22T06:14:29Z: PLAYER CHATTED [ 3777343760] ggguaudjdh32         (-6325.8,   623.0,   208.2)
+  mande
+2023-01-22T06:14:31Z: PLAYER CHATTED [  567478891] adremi8              (-6130.6,   664.6,   145.0)
+  e
+2023-01-22T06:14:31Z: PLAYER REMOVED [ 1420330086] ozzi0514            
+2023-01-22T06:14:31Z: PLAYER CHATTED [ 4150320990] onix12322crak        (-6307.3,   621.9,   202.6)
+  me quiero matar
+2023-01-22T06:14:32Z: PLAYER CHATTED [ 3812702543] spinosaurus720       (-1182.3,   665.9,   318.4)
+  me entere de tu hijo deves tener cuidado con el
+2023-01-22T06:14:35Z: PLAYER CHATTED [ 2787311400] Dk030713             (-6345.7,   614.5,   112.5)
+  😡
+2023-01-22T06:14:35Z: PLAYER CHATTED [ 4071973912] ItzMon1cASCP124      (-6315.2,   621.9,   213.6)
+  porque we
+2023-01-22T06:14:36Z: PLAYER CHATTED [ 3472482437] YesDam1ann           (-6335.7,   612.2,    98.9)
+  que
+2023-01-22T06:14:38Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-22T06:14:38Z: PLAYER REMOVED [ 3609564102] MiPansususuq1       
+2023-01-22T06:14:38Z: PLAYER REMOVED [ 3792322250] banano_110          
+2023-01-22T06:14:38Z: PLAYER REMOVED [  539554943] IsaacMidorilla       a.k.a. Isaac               
+2023-01-22T06:14:38Z: PLAYER REMOVED [  567478891] adremi8             
+2023-01-22T06:14:38Z: PLAYER REMOVED [ 4027000516] lans0506            
+2023-01-22T06:14:38Z: PLAYER REMOVED [ 4205867923] Ilmj8njounhi         a.k.a. PanfletA            
+2023-01-22T06:14:38Z: PLAYER REMOVED [ 1711045715] Gokukrilin11        
+2023-01-22T06:14:38Z: PLAYER REMOVED [ 2274475341] axelrivera999       
+2023-01-22T06:14:38Z: PLAYER REMOVED [ 4123951840] rope_134            
+2023-01-22T06:14:38Z: PLAYER REMOVED [ 3811007353] Serafin20112        
+2023-01-22T06:14:38Z: PLAYER REMOVED [ 2897115276] Dn0611              
+2023-01-22T06:14:38Z: PLAYER REMOVED [ 3472482437] YesDam1ann          
+2023-01-22T06:14:38Z: PLAYER REMOVED [ 3173385712] erubarreda10        
+2023-01-22T06:14:38Z: PLAYER REMOVED [ 3977371879] katia1098765432     
+2023-01-22T06:14:38Z: PLAYER REMOVED [ 3812702543] spinosaurus720       a.k.a. VIVALAMADRERUSIA    
+2023-01-22T06:14:38Z: PLAYER REMOVED [ 3207856531] Eliianher           
+2023-01-22T06:14:38Z: PLAYER REMOVED [ 4071973912] ItzMon1cASCP124     
+2023-01-22T06:14:38Z: PLAYER REMOVED [ 4150320990] onix12322crak       
+2023-01-22T06:14:38Z: PLAYER REMOVED [ 2453214395] Xx0sonic5xX          a.k.a. Luca5paguro         
+2023-01-22T06:14:38Z: PLAYER REMOVED [ 3460446507] ElGa425             
+2023-01-22T06:14:38Z: PLAYER REMOVED [ 2988015708] Gatohielo16          a.k.a. Nutella             
+2023-01-22T06:14:38Z: PLAYER REMOVED [ 3777343760] ggguaudjdh32        
+2023-01-22T06:14:38Z: PLAYER REMOVED [ 3957613475] SUSWAFKYZ            a.k.a. alex                

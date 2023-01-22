@@ -1,0 +1,77 @@
+[    1630228] : [10984563207] PLS JUDGE (Donation Game) - b6a248bd-2ca9-41f8-a6b5-1cbc96dca913
+2023-01-20T06:56:45Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-20T06:56:45Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-20T06:56:45Z: PLAYER ADDED   [ 3539068902] 301Nica_Vica02011    a.k.a. Imecry              
+2023-01-20T06:56:45Z: PLAYER ADDED   [ 4071917800] Sarah_dph           
+2023-01-20T06:56:45Z: PLAYER ADDED   [ 4204396952] fan26356            
+2023-01-20T06:56:45Z: PLAYER ADDED   [  970445670] TTPOPPY123           a.k.a. BaBYCaLmDoWn        
+2023-01-20T06:56:45Z: PLAYER ADDED   [ 4040726109] SadiqOyunda1         a.k.a. 2Kardes             
+2023-01-20T06:56:45Z: PLAYER ADDED   [ 1669801008] jhgft562w            a.k.a. MurzikE4_Dima       
+2023-01-20T06:56:45Z: PLAYER ADDED   [ 1878695055] TAHKuCT105           a.k.a. Figure              
+2023-01-20T06:56:45Z: PLAYER ADDED   [ 1744373482] yamen_ARMED          a.k.a. OgGamer             
+2023-01-20T06:56:45Z: PLAYER ADDED   [ 4168487046] Ahleeauna9877       
+2023-01-20T06:56:45Z: PLAYER ADDED   [ 4249743388] Ma_bete             
+2023-01-20T06:56:45Z: PLAYER ADDED   [  225517210] LifeIsMyComedy       a.k.a. decentcanadiandude  
+2023-01-20T06:56:45Z: PLAYER ADDED   [ 2642825229] KillerTigeryPlaysYT  a.k.a. TigeryPlays         
+2023-01-20T06:56:45Z: PLAYER ADDED   [ 4166211522] user128996           a.k.a. Maisha_2            
+2023-01-20T06:56:45Z: PLAYER ADDED   [ 1265164568] lilycraft321        
+2023-01-20T06:56:45Z: PLAYER ADDED   [ 3529532152] s_koalax             a.k.a. Sia                 
+2023-01-20T06:56:45Z: PLAYER ADDED   [ 4243925203] Gfhdhdhgshehsjs     
+2023-01-20T06:56:45Z: PLAYER CHATTED [ 4249743388] Ma_bete              (    1.0,    78.4,    91.1)
+  Thank
+2023-01-20T06:56:46Z: PLAYER CHATTED [ 1744373482] yamen_ARMED          (  -15.5,    74.0,    92.2)
+  tbh ur real
+2023-01-20T06:56:49Z: PLAYER CHATTED [ 4249743388] Ma_bete              (    1.0,    78.4,    91.1)
+  Plsss
+2023-01-20T06:56:49Z: PLAYER ADDED   [ 2865582825] kuaboy15            
+2023-01-20T06:56:51Z: CHRCTER ADDED  [ 4249743388] Ma_bete             
+2023-01-20T06:56:52Z: CHRCTER ADDED  [  225517210] LifeIsMyComedy       a.k.a. decentcanadiandude  
+2023-01-20T06:56:54Z: PLAYER REMOVED [ 4040726109] SadiqOyunda1         a.k.a. 2Kardes             
+2023-01-20T06:56:56Z: PLAYER CHATTED [  225517210] LifeIsMyComedy       (   -9.1,    78.4,    91.1)
+  hey guys
+2023-01-20T06:56:58Z: PLAYER CHATTED [ 4204396952] fan26356             (  -28.9,    73.9,    89.6)
+  no!!!
+2023-01-20T06:57:01Z: PLAYER CHATTED [  225517210] LifeIsMyComedy       (   -9.1,    78.4,    91.1)
+  I almost forgot my joke for a second
+2023-01-20T06:57:03Z: PLAYER CHATTED [ 4166211522] user128996           (  -15.2,    74.1,    92.0)
+  please donate me 
+2023-01-20T06:57:05Z: PLAYER CHATTED [ 1878695055] TAHKuCT105           (  -16.9,    74.7,    99.4)
+  yes
+2023-01-20T06:57:08Z: PLAYER CHATTED [ 4166211522] user128996           (  -15.2,    74.1,    92.0)
+  I just joined 1 week ago 
+2023-01-20T06:57:09Z: PLAYER CHATTED [  225517210] LifeIsMyComedy       (   -9.1,    78.4,    91.1)
+  I ordered a burger
+2023-01-20T06:57:11Z: PLAYER CHATTED [ 1744373482] yamen_ARMED          (  -15.7,    74.0,    95.4)
+  alr
+2023-01-20T06:57:14Z: PLAYER CHATTED [ 4166211522] user128996           (  -15.2,    74.1,    92.0)
+  I have 0 robux 
+2023-01-20T06:57:15Z: PLAYER CHATTED [  225517210] LifeIsMyComedy       (   -9.1,    78.4,    91.1)
+  and it didn't have any meat
+2023-01-20T06:57:18Z: PLAYER REMOVED [  970445670] TTPOPPY123           a.k.a. BaBYCaLmDoWn        
+2023-01-20T06:57:20Z: PLAYER CHATTED [ 1744373482] yamen_ARMED          (  -16.2,    74.0,    99.5)
+  why
+2023-01-20T06:57:20Z: PLAYER CHATTED [  225517210] LifeIsMyComedy       (   -9.1,    78.4,    91.1)
+  I thought that was kinda buns
+2023-01-20T06:57:22Z: PLAYER CHATTED [ 4204396952] fan26356             (  -20.9,    73.9,    87.9)
+  aaaaaaaaahhhh aaaaaaaaahhhh aaaaaaaaahhhh 
+2023-01-20T06:57:25Z: PLAYER REMOVED [ 4249743388] Ma_bete             
+2023-01-20T06:57:25Z: PLAYER CHATTED [ 1744373482] yamen_ARMED          (  -15.9,    74.0,    92.2)
+  wow
+2023-01-20T06:57:27Z: CHRCTER ADDED  [  225517210] LifeIsMyComedy       a.k.a. decentcanadiandude  
+2023-01-20T06:57:28Z: CHRCTER ADDED  [ 2642825229] KillerTigeryPlaysYT  a.k.a. TigeryPlays         
+2023-01-20T06:57:33Z: PLAYER CHATTED [ 2642825229] KillerTigeryPlaysYT  (   -4.1,    78.2,    99.8)
+  What’s UP everyBODY!!!!!
+2023-01-20T06:57:34Z: PLAYER REMOVED [ 4204396952] fan26356            
+2023-01-20T06:57:39Z: PLAYER CHATTED [ 2642825229] KillerTigeryPlaysYT  (  -10.7,    78.2,    92.6)
+  WHATS GOOD
+2023-01-20T06:57:41Z: PLAYER CHATTED [  225517210] LifeIsMyComedy       (  -21.1,    74.0,    95.1)
+  #################
+2023-01-20T06:57:42Z: PLAYER CHATTED [ 1744373482] yamen_ARMED          (  -16.5,    74.0,    88.3)
+  ######
+2023-01-20T06:57:42Z: PLAYER REMOVED [ 1878695055] TAHKuCT105           a.k.a. Figure              
+2023-01-20T06:57:42Z: PLAYER REMOVED [ 1265164568] lilycraft321        
+2023-01-20T06:57:42Z: PLAYER REMOVED [ 4243925203] Gfhdhdhgshehsjs     
+2023-01-20T06:57:42Z: PLAYER REMOVED [ 2642825229] KillerTigeryPlaysYT  a.k.a. TigeryPlays         
+2023-01-20T06:57:42Z: PLAYER REMOVED [ 4166211522] user128996           a.k.a. Maisha_2            
+2023-01-20T06:57:42Z: PLAYER REMOVED [ 3539068902] 301Nica_Vica02011    a.k.a. Imecry              
+2023-01-20T06:57:42Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

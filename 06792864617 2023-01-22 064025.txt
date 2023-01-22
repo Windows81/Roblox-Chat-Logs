@@ -1,0 +1,42 @@
+[    1630228] : [ 6792864617] World of Countryballs - bc1cc248-7939-4a48-8457-64a9229169b2
+2023-01-22T06:40:25Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-22T06:40:25Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-22T06:40:25Z: PLAYER ADDED   [ 4134901036] rafinraj1234        
+2023-01-22T06:40:25Z: PLAYER ADDED   [ 3450044058] BROTHECAP            a.k.a. OreoMcFlurryYea     
+2023-01-22T06:40:25Z: PLAYER ADDED   [ 3352616093] Casual_dimwit        a.k.a. Noob                
+2023-01-22T06:40:25Z: PLAYER ADDED   [ 4157161517] ANightsky888         a.k.a. UwU                 
+2023-01-22T06:40:25Z: PLAYER ADDED   [ 3249305096] Lonk_87             
+2023-01-22T06:40:25Z: PLAYER ADDED   [ 1663731219] vrizzy24             a.k.a. Ajay                
+2023-01-22T06:40:25Z: PLAYER ADDED   [  514092076] agarzandan           a.k.a. Shizuki             
+2023-01-22T06:40:25Z: PLAYER ADDED   [ 1177528805] SHAWNYRIDE          
+2023-01-22T06:40:25Z: PLAYER ADDED   [ 3979776245] Soldierbuster       
+2023-01-22T06:40:25Z: PLAYER ADDED   [      92952] toreup               a.k.a. eliza               
+2023-01-22T06:40:25Z: PLAYER ADDED   [ 4200229473] eitheroeke9         
+2023-01-22T06:40:25Z: PLAYER ADDED   [  630586115] jamarihan           
+2023-01-22T06:40:25Z: PLAYER ADDED   [ 3595021110] Floppa_bingus16     
+2023-01-22T06:40:25Z: PLAYER ADDED   [ 1485510506] ana7027851           a.k.a. youtuber_friend     
+2023-01-22T06:40:25Z: PLAYER ADDED   [ 3748024867] AestheticKF          a.k.a. Polska              
+2023-01-22T06:40:25Z: PLAYER ADDED   [  384975455] skylily134           a.k.a. damian              
+2023-01-22T06:40:25Z: PLAYER ADDED   [ 4070930413] Gurlbaconisbest1997  a.k.a. Poland              
+2023-01-22T06:40:25Z: PLAYER ADDED   [ 3880965798] huggywuggymansss    
+2023-01-22T06:40:25Z: PLAYER ADDED   [ 1471439188] KingCreeper00001     a.k.a. King_Omega          
+2023-01-22T06:40:31Z: CHRCTER ADDED  [ 3748024867] AestheticKF          a.k.a. Polska              
+2023-01-22T06:40:32Z: PLAYER CHATTED [ 1471439188] KingCreeper00001    
+  *squish spider thingy8
+2023-01-22T06:40:37Z: CHRCTER ADDED  [ 4134901036] rafinraj1234        
+2023-01-22T06:40:38Z: CHRCTER ADDED  [ 3880965798] huggywuggymansss    
+2023-01-22T06:40:41Z: PLAYER CHATTED [ 1471439188] KingCreeper00001    
+  *sprays anti spider repellent on self*
+2023-01-22T06:40:46Z: CHRCTER ADDED  [      92952] toreup               a.k.a. eliza               
+2023-01-22T06:40:50Z: PLAYER CHATTED [  384975455] skylily134          
+  ###############################
+2023-01-22T06:40:50Z: CHRCTER ADDED  [ 4134901036] rafinraj1234        
+2023-01-22T06:40:59Z: PLAYER CHATTED [ 3352616093] Casual_dimwit       
+  Sag mir, wenn es weg ist.
+2023-01-22T06:40:59Z: CHRCTER ADDED  [ 1177528805] SHAWNYRIDE          
+2023-01-22T06:41:01Z: PLAYER CHATTED [  384975455] skylily134          
+  my brain juices now
+2023-01-22T06:41:06Z: CHRCTER ADDED  [ 4157161517] ANightsky888         a.k.a. UwU                 
+2023-01-22T06:41:07Z: PLAYER CHATTED [ 1471439188] KingCreeper00001    
+  Deutsches vaterland
+2023-01-22T06:41:07Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

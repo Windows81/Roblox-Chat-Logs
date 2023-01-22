@@ -1,0 +1,16 @@
+[    1630228] : [11849694554] Lifty Lifty Testing Centre - 7246fc02-5d83-488d-ad44-675cc4d222d2
+2023-01-22T03:32:43Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-22T03:32:43Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-22T03:32:43Z: PLAYER ADDED   [   60462577] liftec45            
+2023-01-22T03:32:43Z: PLAYER ADDED   [ 3366855513] Yavon_Technologies   a.k.a. Ay_dyn              
+2023-01-22T03:32:43Z: PLAYER ADDED   [ 4263615744] Kellshepden19       
+2023-01-22T03:32:52Z: PLAYER CHATTED [ 3366855513] Yavon_Technologies   (  -49.7,   460.3,   305.8)
+  i can't access the training center lifts
+2023-01-22T03:33:04Z: PLAYER CHATTED [   60462577] liftec45             ( -499.2,    65.2,   291.8)
+  go to level 1 
+2023-01-22T03:33:15Z: PLAYER CHATTED [   60462577] liftec45             ( -498.5,   111.8,   293.5)
+  use the main lifts to level 1
+2023-01-22T03:33:19Z: PLAYER CHATTED [   60462577] liftec45             ( -498.5,   124.4,   293.5)
+  :tp me k 
+2023-01-22T03:33:22Z: PLAYER CHATTED [   60462577] liftec45             ( -498.5,   131.0,   293.5)
+  :tp me k 
