@@ -1,0 +1,79 @@
+[    1630228] : [ 7952502098] Impossible Glass Bridge Obby! (Squid Game) - a8022c59-55dd-4890-9f1e-bca8a37409fb
+2023-01-24T05:57:58Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-24T05:57:58Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-24T05:57:58Z: PLAYER ADDED   [ 4209972093] ikerramos18         
+2023-01-24T05:57:58Z: PLAYER ADDED   [ 2865648024] AwiTadekooko        
+2023-01-24T05:57:58Z: PLAYER ADDED   [ 4177384017] thoxx_24            
+2023-01-24T05:57:58Z: PLAYER ADDED   [ 3514900409] Jasmin1022G         
+2023-01-24T05:57:58Z: PLAYER ADDED   [ 4171960537] Axelforev9          
+2023-01-24T05:58:02Z: CHRCTER ADDED  [ 4209972093] ikerramos18         
+2023-01-24T05:58:07Z: CHRCTER ADDED  [ 3514900409] Jasmin1022G         
+2023-01-24T05:58:16Z: CHRCTER ADDED  [ 3514900409] Jasmin1022G         
+2023-01-24T05:58:27Z: PLAYER CHATTED [ 4177384017] thoxx_24             (  640.4,    59.9,   121.0)
+  ####################
+2023-01-24T05:58:28Z: CHRCTER ADDED  [ 4209972093] ikerramos18         
+2023-01-24T05:58:30Z: CHRCTER ADDED  [ 3514900409] Jasmin1022G         
+2023-01-24T05:58:32Z: PLAYER CHATTED [ 4171960537] Axelforev9           (  642.5,    59.9,   120.0)
+  no estés de va ######
+2023-01-24T05:58:39Z: CHRCTER ADDED  [ 4209972093] ikerramos18         
+2023-01-24T05:58:46Z: PLAYER CHATTED [ 4171960537] Axelforev9           (  642.5,    59.9,   120.0)
+  vabosa
+2023-01-24T05:58:48Z: CHRCTER ADDED  [ 3514900409] Jasmin1022G         
+2023-01-24T05:58:58Z: CHRCTER ADDED  [ 4209972093] ikerramos18         
+2023-01-24T05:59:05Z: PLAYER REMOVED [ 3514900409] Jasmin1022G         
+2023-01-24T05:59:10Z: PLAYER CHATTED [ 4177384017] thoxx_24             (  640.4,    59.9,   121.0)
+  you whait is 🙄
+2023-01-24T05:59:17Z: CHRCTER ADDED  [ 4209972093] ikerramos18         
+2023-01-24T05:59:23Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  642.3,    59.9,   122.6)
+  ni sabe Inglés xd
+2023-01-24T05:59:32Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  642.3,    59.9,   122.6)
+  solo escribe palabras que sabe xd
+2023-01-24T05:59:39Z: PLAYER CHATTED [ 4177384017] thoxx_24             (  640.4,    59.9,   121.0)
+  no
+2023-01-24T05:59:41Z: CHRCTER ADDED  [ 4209972093] ikerramos18         
+2023-01-24T05:59:49Z: CHRCTER ADDED  [ 4209972093] ikerramos18         
+2023-01-24T05:59:57Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  642.3,    59.9,   122.6)
+  ya niña vas ya te dijimos que esa no conto
+2023-01-24T06:00:12Z: CHRCTER ADDED  [ 4209972093] ikerramos18         
+2023-01-24T06:00:15Z: PLAYER CHATTED [ 4171960537] Axelforev9           (  642.5,    59.9,   120.0)
+  no ya se salió luna
+2023-01-24T06:00:25Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  642.3,    59.9,   122.6)
+  si...
+2023-01-24T06:00:32Z: CHRCTER ADDED  [ 4209972093] ikerramos18         
+2023-01-24T06:00:41Z: CHRCTER ADDED  [ 4209972093] ikerramos18         
+2023-01-24T06:00:42Z: PLAYER REMOVED [ 4209972093] ikerramos18         
+2023-01-24T06:00:45Z: PLAYER CHATTED [ 4177384017] thoxx_24             (  640.4,    59.9,   121.0)
+  yo  estudio inglés y ya no soy niña soy una mujer de 24 años
+2023-01-24T06:00:45Z: PLAYER CHATTED [ 4177384017] thoxx_24             (  640.4,    59.9,   121.0)
+  yo estudio inglés y ya no soy niña soy una mujer de 24 años
+2023-01-24T06:00:53Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  642.3,    59.9,   122.6)
+  XD
+2023-01-24T06:01:06Z: PLAYER ADDED   [ 1922077474] Arianaunicornio1332  a.k.a. Luna                
+2023-01-24T06:01:09Z: PLAYER REMOVED [ 1922077474] Arianaunicornio1332  a.k.a. Luna                
+2023-01-24T06:02:50Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  643.3,    59.9,   123.1)
+  24 años y juega roblox xd
+2023-01-24T06:03:38Z: PLAYER CHATTED [ 4171960537] Axelforev9           (  642.3,    59.9,   121.2)
+  so siento que no tiene 24 años
+2023-01-24T06:04:00Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  643.3,    59.9,   123.1)
+  Ya se que no tiene ## solo lo dice para verse bien
+2023-01-24T06:04:06Z: PLAYER CHATTED [ 4177384017] thoxx_24             (  640.2,    59.9,   121.5)
+  si por que soy gamer de free fire y roblox 
+2023-01-24T06:04:17Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  643.3,    59.9,   123.1)
+  XD
+2023-01-24T06:04:33Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  643.3,    59.9,   123.1)
+  y eso de que nos sirve
+2023-01-24T06:04:55Z: PLAYER CHATTED [ 4171960537] Axelforev9           (  642.3,    59.9,   121.2)
+  eso nitu ma má te #####
+2023-01-24T06:05:02Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  643.3,    59.9,   123.1)
+  no te pedí tu información solo te dije que avanza
+2023-01-24T06:05:38Z: PLAYER CHATTED [ 4171960537] Axelforev9           (  642.3,    59.9,   121.2)
+  si sierto 🤣🤣🤣🤣🤣 XD
+2023-01-24T06:05:59Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  643.3,    59.9,   123.1)
+  eres una niña de 5 años en un juego para niños de ## osea de seguro eres fan de ######## Xd
+2023-01-24T06:06:13Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  643.3,    59.9,   123.1)
+  kimberly xd
+2023-01-24T06:06:48Z: PLAYER CHATTED [ 4171960537] Axelforev9           (  642.3,    59.9,   121.2)
+  no tengo 5 años
+2023-01-24T06:07:07Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  643.3,    59.9,   123.1)
+  /w Axelforev9 tu no xd
+2023-01-24T06:07:31Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

@@ -1,0 +1,24 @@
+[    1630228] : [11746859781] [🚨 UPDATE] Bubble Gum Clicker! - d51137af-07a5-4a0c-a4a0-7f60e0d486be
+2023-01-23T02:03:48Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-23T02:03:48Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-23T02:03:48Z: PLAYER ADDED   [    2968196] Zyleth              
+2023-01-23T02:03:48Z: PLAYER ADDED   [  796035696] marsvinkev           a.k.a. mars                
+2023-01-23T02:04:24Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -388.4,     3.8,  -513.7)
+  I remember a game very similar to this.
+2023-01-23T02:04:38Z: PLAYER CHATTED [    2968196] Zyleth               ( -394.6,     3.5,  -515.0)
+  Yessir
+2023-01-23T02:04:46Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -390.0,     3.8,  -511.0)
+  Why am I lagging?
+2023-01-23T02:04:48Z: PLAYER CHATTED [    2968196] Zyleth               ( -394.6,     3.5,  -515.0)
+  This is my buddies game
+2023-01-23T02:04:49Z: PLAYER CHATTED [    2968196] Zyleth               ( -394.6,     3.5,  -515.0)
+  No idea?
+2023-01-23T02:05:22Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -373.4,     3.8,  -537.1)
+  Of course.
+2023-01-23T02:05:33Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -367.9,     3.8,  -541.3)
+  Must be my Remote Spy.
+2023-01-23T02:05:47Z: PLAYER CHATTED [    2968196] Zyleth               ( -415.3,     3.5,  -600.9)
+  Maybe, they're making performance changes though
+2023-01-23T02:05:50Z: PLAYER CHATTED [    2968196] Zyleth               ( -415.3,     3.5,  -600.9)
+  Maybe, they're making performance changes though
+2023-01-23T02:06:28Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

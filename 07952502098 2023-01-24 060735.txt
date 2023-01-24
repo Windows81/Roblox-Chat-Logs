@@ -1,0 +1,541 @@
+[    1630228] : [ 7952502098] Impossible Glass Bridge Obby! (Squid Game) - a8022c59-55dd-4890-9f1e-bca8a37409fb
+2023-01-24T06:07:35Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-24T06:07:35Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-24T06:07:35Z: PLAYER ADDED   [ 2865648024] AwiTadekooko        
+2023-01-24T06:07:35Z: PLAYER ADDED   [ 4177384017] thoxx_24            
+2023-01-24T06:07:35Z: PLAYER ADDED   [ 4171960537] Axelforev9          
+2023-01-24T06:07:51Z: PLAYER CHATTED [ 4177384017] thoxx_24             (  640.2,    59.9,   121.5)
+  solo corvi,karen,amara
+2023-01-24T06:07:51Z: PLAYER CHATTED [ 4171960537] Axelforev9           (  642.3,    59.9,   121.2)
+  no lo dige. a eya
+2023-01-24T06:07:56Z: PLAYER ADDED   [ 3551221449] Awzai77             
+2023-01-24T06:07:57Z: PLAYER ADDED   [ 4238626393] teamgreenazhar      
+2023-01-24T06:08:01Z: PLAYER ADDED   [ 4250822053] rizzsus0            
+2023-01-24T06:08:02Z: PLAYER ADDED   [ 4184938140] dmrkrkkw            
+2023-01-24T06:08:02Z: PLAYER ADDED   [ 3966025677] Aminhalim50          a.k.a. Sonicsuperpoijhhh   
+2023-01-24T06:08:03Z: PLAYER ADDED   [ 3649825864] Moiiyyuy            
+2023-01-24T06:08:03Z: PLAYER ADDED   [ 3580918708] babywon16           
+2023-01-24T06:08:05Z: PLAYER ADDED   [ 4238821952] nu67950             
+2023-01-24T06:08:06Z: CHRCTER ADDED  [ 3551221449] Awzai77             
+2023-01-24T06:08:08Z: PLAYER ADDED   [ 3533612447] quechoapetocho      
+2023-01-24T06:08:12Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  643.3,    59.9,   123.1)
+  que naca xd
+2023-01-24T06:08:13Z: CHRCTER ADDED  [ 3966025677] Aminhalim50          a.k.a. Sonicsuperpoijhhh   
+2023-01-24T06:08:21Z: CHRCTER ADDED  [ 4238821952] nu67950             
+2023-01-24T06:08:22Z: PLAYER ADDED   [ 4256330518] camila22xh          
+2023-01-24T06:08:22Z: CHRCTER ADDED  [ 4250822053] rizzsus0            
+2023-01-24T06:08:23Z: PLAYER ADDED   [ 3145469726] 2314travi            a.k.a. itachi              
+2023-01-24T06:08:24Z: CHRCTER ADDED  [ 3533612447] quechoapetocho      
+2023-01-24T06:08:28Z: CHRCTER ADDED  [ 3551221449] Awzai77             
+2023-01-24T06:08:32Z: CHRCTER ADDED  [ 4250822053] rizzsus0            
+2023-01-24T06:08:34Z: CHRCTER ADDED  [ 3966025677] Aminhalim50          a.k.a. Sonicsuperpoijhhh   
+2023-01-24T06:08:35Z: CHRCTER ADDED  [ 4238821952] nu67950             
+2023-01-24T06:08:36Z: CHRCTER ADDED  [ 3145469726] 2314travi            a.k.a. itachi              
+2023-01-24T06:08:41Z: PLAYER CHATTED [ 4171960537] Axelforev9           (  642.3,    59.9,   121.2)
+  ya por dios abansen
+2023-01-24T06:08:42Z: CHRCTER ADDED  [ 4250822053] rizzsus0            
+2023-01-24T06:08:42Z: CHRCTER ADDED  [ 3533612447] quechoapetocho      
+2023-01-24T06:08:43Z: CHRCTER ADDED  [ 3551221449] Awzai77             
+2023-01-24T06:08:46Z: CHRCTER ADDED  [ 3966025677] Aminhalim50          a.k.a. Sonicsuperpoijhhh   
+2023-01-24T06:08:50Z: CHRCTER ADDED  [ 3145469726] 2314travi            a.k.a. itachi              
+2023-01-24T06:08:52Z: CHRCTER ADDED  [ 4250822053] rizzsus0            
+2023-01-24T06:08:53Z: CHRCTER ADDED  [ 3966025677] Aminhalim50          a.k.a. Sonicsuperpoijhhh   
+2023-01-24T06:08:55Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  642.8,    59.9,   124.1)
+  que ella avance 
+2023-01-24T06:09:00Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  642.8,    59.9,   124.1)
+  era su turno
+2023-01-24T06:09:01Z: CHRCTER ADDED  [ 3551221449] Awzai77             
+2023-01-24T06:09:04Z: CHRCTER ADDED  [ 3966025677] Aminhalim50          a.k.a. Sonicsuperpoijhhh   
+2023-01-24T06:09:05Z: PLAYER CHATTED [ 4171960537] Axelforev9           (  642.3,    59.9,   121.2)
+  si
+2023-01-24T06:09:06Z: CHRCTER ADDED  [ 4238626393] teamgreenazhar      
+2023-01-24T06:09:07Z: CHRCTER ADDED  [ 4250822053] rizzsus0            
+2023-01-24T06:09:10Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  642.8,    59.9,   124.1)
+  pero no hizo nada
+2023-01-24T06:09:10Z: CHRCTER ADDED  [ 3145469726] 2314travi            a.k.a. itachi              
+2023-01-24T06:09:13Z: CHRCTER ADDED  [ 3551221449] Awzai77             
+2023-01-24T06:09:15Z: PLAYER REMOVED [ 4250822053] rizzsus0            
+2023-01-24T06:09:17Z: CHRCTER ADDED  [ 3966025677] Aminhalim50          a.k.a. Sonicsuperpoijhhh   
+2023-01-24T06:09:18Z: CHRCTER ADDED  [ 3533612447] quechoapetocho      
+2023-01-24T06:09:21Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  642.8,    59.9,   124.1)
+  te dijimos que esta no conto
+2023-01-24T06:09:21Z: PLAYER REMOVED [ 3966025677] Aminhalim50          a.k.a. Sonicsuperpoijhhh   
+2023-01-24T06:09:35Z: CHRCTER ADDED  [ 3533612447] quechoapetocho      
+2023-01-24T06:09:36Z: CHRCTER ADDED  [ 3551221449] Awzai77             
+2023-01-24T06:09:36Z: PLAYER REMOVED [ 3533612447] quechoapetocho      
+2023-01-24T06:09:37Z: CHRCTER ADDED  [ 4238626393] teamgreenazhar      
+2023-01-24T06:09:38Z: PLAYER ADDED   [ 4178975707] muhamma991          
+2023-01-24T06:09:42Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  642.8,    59.9,   124.1)
+  porque tu ####### dejaste que pasara la otra
+2023-01-24T06:09:52Z: CHRCTER ADDED  [ 4238626393] teamgreenazhar      
+2023-01-24T06:09:53Z: CHRCTER ADDED  [ 4238821952] nu67950             
+2023-01-24T06:09:55Z: CHRCTER ADDED  [ 4178975707] muhamma991          
+2023-01-24T06:09:58Z: PLAYER REMOVED [ 4238821952] nu67950             
+2023-01-24T06:10:01Z: PLAYER CHATTED [ 4177384017] thoxx_24             (  640.2,    59.9,   121.5)
+  yo abanzo cuando. quiera
+2023-01-24T06:10:05Z: PLAYER REMOVED [ 4178975707] muhamma991          
+2023-01-24T06:10:15Z: CHRCTER ADDED  [ 3551221449] Awzai77             
+2023-01-24T06:10:21Z: CHRCTER ADDED  [ 4238626393] teamgreenazhar      
+2023-01-24T06:10:22Z: PLAYER REMOVED [ 3145469726] 2314travi            a.k.a. itachi              
+2023-01-24T06:10:31Z: CHRCTER ADDED  [ 3551221449] Awzai77             
+2023-01-24T06:10:36Z: CHRCTER ADDED  [ 3649825864] Moiiyyuy            
+2023-01-24T06:10:37Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  642.8,    59.9,   124.1)
+  ok nosotras seguimos solas
+2023-01-24T06:10:42Z: PLAYER ADDED   [ 4266801837] damon142355         
+2023-01-24T06:10:44Z: PLAYER ADDED   [ 1093665033] fraptor671           a.k.a. Paisweejo           
+2023-01-24T06:10:45Z: CHRCTER ADDED  [ 3649825864] Moiiyyuy            
+2023-01-24T06:10:49Z: CHRCTER ADDED  [ 4238626393] teamgreenazhar      
+2023-01-24T06:10:51Z: PLAYER CHATTED [ 4171960537] Axelforev9           (  642.3,    59.9,   121.2)
+  si esta no cuenta por que salto  luna
+2023-01-24T06:10:51Z: PLAYER CHATTED [ 4171960537] Axelforev9           (  642.3,    59.9,   121.2)
+  si esta no cuenta por que salto luna
+2023-01-24T06:10:54Z: CHRCTER ADDED  [ 3649825864] Moiiyyuy            
+2023-01-24T06:10:58Z: PLAYER CHATTED [ 4177384017] thoxx_24             (  640.2,    59.9,   121.5)
+  ok
+2023-01-24T06:11:04Z: CHRCTER ADDED  [ 4238626393] teamgreenazhar      
+2023-01-24T06:11:06Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  642.8,    59.9,   124.1)
+  avanza 
+2023-01-24T06:11:12Z: CHRCTER ADDED  [ 1093665033] fraptor671           a.k.a. Paisweejo           
+2023-01-24T06:11:16Z: CHRCTER ADDED  [ 4266801837] damon142355         
+2023-01-24T06:11:17Z: CHRCTER ADDED  [ 4238626393] teamgreenazhar      
+2023-01-24T06:11:21Z: PLAYER CHATTED [ 4177384017] thoxx_24             (  640.2,    59.9,   121.5)
+  no me importa 
+2023-01-24T06:11:21Z: PLAYER REMOVED [ 4184938140] dmrkrkkw            
+2023-01-24T06:11:23Z: CHRCTER ADDED  [ 3551221449] Awzai77             
+2023-01-24T06:11:32Z: CHRCTER ADDED  [ 3580918708] babywon16           
+2023-01-24T06:11:32Z: CHRCTER ADDED  [ 1093665033] fraptor671           a.k.a. Paisweejo           
+2023-01-24T06:11:39Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  643.1,    59.9,   123.6)
+  /w Axelforev9hey
+2023-01-24T06:11:42Z: CHRCTER ADDED  [ 3580918708] babywon16           
+2023-01-24T06:11:43Z: CHRCTER ADDED  [ 4266801837] damon142355         
+2023-01-24T06:11:47Z: CHRCTER ADDED  [ 4256330518] camila22xh          
+2023-01-24T06:11:48Z: PLAYER CHATTED [ 4177384017] thoxx_24             (  640.2,    59.9,   121.5)
+  🙄
+2023-01-24T06:11:51Z: PLAYER REMOVED [ 4256330518] camila22xh          
+2023-01-24T06:11:52Z: CHRCTER ADDED  [ 4238626393] teamgreenazhar      
+2023-01-24T06:11:55Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  643.4,    59.9,   122.7)
+  xd
+2023-01-24T06:11:57Z: CHRCTER ADDED  [ 3551221449] Awzai77             
+2023-01-24T06:12:09Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  643.4,    59.9,   122.7)
+  ## ########## mejor dejemos que siga ella
+2023-01-24T06:12:09Z: CHRCTER ADDED  [ 1093665033] fraptor671           a.k.a. Paisweejo           
+2023-01-24T06:12:11Z: CHRCTER ADDED  [ 3551221449] Awzai77             
+2023-01-24T06:12:12Z: CHRCTER ADDED  [ 3649825864] Moiiyyuy            
+2023-01-24T06:12:22Z: PLAYER CHATTED [ 4171960537] Axelforev9           (  643.7,    59.9,   118.1)
+  si
+2023-01-24T06:12:22Z: CHRCTER ADDED  [ 3649825864] Moiiyyuy            
+2023-01-24T06:12:23Z: CHRCTER ADDED  [ 4266801837] damon142355         
+2023-01-24T06:12:24Z: CHRCTER ADDED  [ 1093665033] fraptor671           a.k.a. Paisweejo           
+2023-01-24T06:12:25Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  643.4,    59.9,   122.7)
+  podemos esperar
+2023-01-24T06:12:33Z: CHRCTER ADDED  [ 3649825864] Moiiyyuy            
+2023-01-24T06:12:37Z: PLAYER CHATTED [ 4171960537] Axelforev9           (  643.7,    59.9,   118.1)
+  si
+2023-01-24T06:12:45Z: CHRCTER ADDED  [ 4266801837] damon142355         
+2023-01-24T06:13:06Z: CHRCTER ADDED  [ 1093665033] fraptor671           a.k.a. Paisweejo           
+2023-01-24T06:13:18Z: CHRCTER ADDED  [ 1093665033] fraptor671           a.k.a. Paisweejo           
+2023-01-24T06:13:24Z: PLAYER CHATTED [ 4171960537] Axelforev9           (  643.7,    59.9,   118.1)
+  oye di me cuanto años ti enes
+2023-01-24T06:13:40Z: CHRCTER ADDED  [ 4266801837] damon142355         
+2023-01-24T06:13:43Z: CHRCTER ADDED  [ 3580918708] babywon16           
+2023-01-24T06:13:47Z: PLAYER REMOVED [ 3649825864] Moiiyyuy            
+2023-01-24T06:13:50Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  643.4,    59.9,   122.7)
+  ## por?
+2023-01-24T06:13:55Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  643.4,    59.9,   122.7)
+  1 3
+2023-01-24T06:13:57Z: CHRCTER ADDED  [ 4266801837] damon142355         
+2023-01-24T06:13:59Z: CHRCTER ADDED  [ 3580918708] babywon16           
+2023-01-24T06:14:02Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  643.4,    59.9,   122.7)
+  y tu?
+2023-01-24T06:14:14Z: PLAYER CHATTED [ 4171960537] Axelforev9           (  643.7,    59.9,   118.1)
+  pero   di la verdad
+2023-01-24T06:14:14Z: PLAYER CHATTED [ 4171960537] Axelforev9           (  643.7,    59.9,   118.1)
+  pero di la verdad
+2023-01-24T06:14:18Z: CHRCTER ADDED  [ 3580918708] babywon16           
+2023-01-24T06:14:31Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  643.4,    59.9,   122.7)
+  es la verda
+2023-01-24T06:14:38Z: CHRCTER ADDED  [ 1093665033] fraptor671           a.k.a. Paisweejo           
+2023-01-24T06:14:39Z: CHRCTER ADDED  [ 4266801837] damon142355         
+2023-01-24T06:14:41Z: PLAYER CHATTED [ 4171960537] Axelforev9           (  642.9,    59.9,   119.8)
+  okey
+2023-01-24T06:14:46Z: PLAYER CHATTED [ 4238626393] teamgreenazhar       (  167.6,    59.9,   109.7)
+  left
+2023-01-24T06:14:47Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  643.4,    59.9,   122.7)
+  y tu?
+2023-01-24T06:14:49Z: CHRCTER ADDED  [ 1093665033] fraptor671           a.k.a. Paisweejo           
+2023-01-24T06:15:00Z: CHRCTER ADDED  [ 4238626393] teamgreenazhar      
+2023-01-24T06:15:13Z: CHRCTER ADDED  [ 3580918708] babywon16           
+2023-01-24T06:15:13Z: PLAYER CHATTED [ 4171960537] Axelforev9           (  642.9,    59.9,   119.8)
+  ora yo  pero no te. burles
+2023-01-24T06:15:13Z: PLAYER CHATTED [ 4171960537] Axelforev9           (  642.9,    59.9,   119.8)
+  ora yo pero no te. burles
+2023-01-24T06:15:36Z: CHRCTER ADDED  [ 1093665033] fraptor671           a.k.a. Paisweejo           
+2023-01-24T06:15:41Z: CHRCTER ADDED  [ 3551221449] Awzai77             
+2023-01-24T06:15:44Z: PLAYER REMOVED [ 1093665033] fraptor671           a.k.a. Paisweejo           
+2023-01-24T06:15:49Z: CHRCTER ADDED  [ 4266801837] damon142355         
+2023-01-24T06:15:59Z: CHRCTER ADDED  [ 3551221449] Awzai77             
+2023-01-24T06:16:13Z: CHRCTER ADDED  [ 4238626393] teamgreenazhar      
+2023-01-24T06:16:14Z: PLAYER REMOVED [ 4238626393] teamgreenazhar      
+2023-01-24T06:16:25Z: CHRCTER ADDED  [ 3551221449] Awzai77             
+2023-01-24T06:16:31Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  643.4,    59.9,   122.7)
+  ok
+2023-01-24T06:16:36Z: CHRCTER ADDED  [ 4266801837] damon142355         
+2023-01-24T06:16:39Z: CHRCTER ADDED  [ 3551221449] Awzai77             
+2023-01-24T06:16:46Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  643.4,    59.9,   122.7)
+  ##
+2023-01-24T06:16:47Z: PLAYER CHATTED [ 4171960537] Axelforev9           (  642.9,    59.9,   119.8)
+  tengo 9 años y en marzo sabado ## ######
+2023-01-24T06:16:58Z: PLAYER CHATTED [ 4171960537] Axelforev9           (  642.9,    59.9,   119.8)
+  25
+2023-01-24T06:17:04Z: CHRCTER ADDED  [ 4266801837] damon142355         
+2023-01-24T06:17:12Z: PLAYER CHATTED [ 4171960537] Axelforev9           (  642.9,    59.9,   119.8)
+  #######
+2023-01-24T06:17:15Z: CHRCTER ADDED  [ 3551221449] Awzai77             
+2023-01-24T06:17:18Z: PLAYER CHATTED [ 4171960537] Axelforev9           (  642.9,    59.9,   119.8)
+  ###
+2023-01-24T06:17:24Z: PLAYER CHATTED [ 4171960537] Axelforev9           (  642.9,    59.9,   119.8)
+  #####
+2023-01-24T06:17:24Z: CHRCTER ADDED  [ 4266801837] damon142355         
+2023-01-24T06:17:28Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  643.4,    59.9,   122.7)
+  ooooh yo cumplí el 2 de enero
+2023-01-24T06:17:29Z: CHRCTER ADDED  [ 3551221449] Awzai77             
+2023-01-24T06:17:45Z: CHRCTER ADDED  [ 3551221449] Awzai77             
+2023-01-24T06:17:48Z: CHRCTER ADDED  [ 3580918708] babywon16           
+2023-01-24T06:17:56Z: PLAYER ADDED   [   68471378] ob2n                 a.k.a. Mark                
+2023-01-24T06:18:00Z: CHRCTER ADDED  [ 3551221449] Awzai77             
+2023-01-24T06:18:02Z: PLAYER CHATTED [ 4171960537] Axelforev9           (  642.9,    59.9,   119.8)
+  osea ya paso
+2023-01-24T06:18:06Z: CHRCTER ADDED  [   68471378] ob2n                 a.k.a. Mark                
+2023-01-24T06:18:09Z: CHRCTER ADDED  [ 3580918708] babywon16           
+2023-01-24T06:18:16Z: CHRCTER ADDED  [ 4266801837] damon142355         
+2023-01-24T06:18:17Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  643.4,    59.9,   122.7)
+  si por eso puse cumpli
+2023-01-24T06:18:18Z: CHRCTER ADDED  [ 3551221449] Awzai77             
+2023-01-24T06:18:25Z: CHRCTER ADDED  [ 3580918708] babywon16           
+2023-01-24T06:18:54Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  644.4,    59.9,   123.3)
+  pero tenemos que seguir pero no quiero que nos caigamos
+2023-01-24T06:19:28Z: CHRCTER ADDED  [ 3551221449] Awzai77             
+2023-01-24T06:19:36Z: CHRCTER ADDED  [   68471378] ob2n                 a.k.a. Mark                
+2023-01-24T06:19:50Z: CHRCTER ADDED  [   68471378] ob2n                 a.k.a. Mark                
+2023-01-24T06:19:54Z: CHRCTER ADDED  [ 3551221449] Awzai77             
+2023-01-24T06:20:12Z: PLAYER CHATTED [ 4171960537] Axelforev9           (  644.8,    59.9,   118.9)
+  vamos asaltar los ### al frente
+2023-01-24T06:20:24Z: PLAYER CHATTED [ 4171960537] Axelforev9           (  644.1,    59.9,   120.2)
+  okey
+2023-01-24T06:20:32Z: CHRCTER ADDED  [ 4266801837] damon142355         
+2023-01-24T06:20:43Z: CHRCTER ADDED  [ 4266801837] damon142355         
+2023-01-24T06:20:49Z: PLAYER CHATTED [ 4171960537] Axelforev9           (  642.9,    59.9,   118.9)
+  1
+2023-01-24T06:20:53Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  643.9,    59.9,   121.5)
+  espera
+2023-01-24T06:20:53Z: CHRCTER ADDED  [ 4266801837] damon142355         
+2023-01-24T06:20:59Z: PLAYER CHATTED [ 4171960537] Axelforev9           (  642.9,    59.9,   118.9)
+  que
+2023-01-24T06:21:02Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  643.9,    59.9,   121.5)
+  ####### yo
+2023-01-24T06:21:10Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  643.9,    59.9,   121.5)
+  p r i m e r o 
+2023-01-24T06:21:11Z: CHRCTER ADDED  [ 4266801837] damon142355         
+2023-01-24T06:21:28Z: PLAYER CHATTED [ 4171960537] Axelforev9           (  642.9,    59.9,   118.9)
+  pero te sigo
+2023-01-24T06:21:42Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  643.9,    59.9,   121.5)
+  después de que yo salte
+2023-01-24T06:21:48Z: CHRCTER ADDED  [ 4266801837] damon142355         
+2023-01-24T06:21:49Z: PLAYER CHATTED [ 4171960537] Axelforev9           (  644.2,    59.9,   119.4)
+  si
+2023-01-24T06:21:52Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  643.9,    59.9,   121.5)
+  y si me caigo no importa
+2023-01-24T06:21:58Z: CHRCTER ADDED  [ 3551221449] Awzai77             
+2023-01-24T06:22:12Z: CHRCTER ADDED  [ 2865648024] AwiTadekooko        
+2023-01-24T06:22:15Z: CHRCTER ADDED  [ 4171960537] Axelforev9          
+2023-01-24T06:22:15Z: CHRCTER ADDED  [ 3551221449] Awzai77             
+2023-01-24T06:22:24Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (   30.4,    60.9,   115.9)
+  ...
+2023-01-24T06:22:50Z: CHRCTER ADDED  [ 3551221449] Awzai77             
+2023-01-24T06:23:04Z: PLAYER CHATTED [ 4171960537] Axelforev9           (   27.1,    60.9,   116.2)
+  estamos guntos en esto
+2023-01-24T06:23:16Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (   15.5,    60.9,   129.1)
+  #####
+2023-01-24T06:23:21Z: CHRCTER ADDED  [ 4177384017] thoxx_24            
+2023-01-24T06:23:22Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (   15.5,    60.9,   129.1)
+  ok ♡
+2023-01-24T06:23:31Z: CHRCTER ADDED  [ 4177384017] thoxx_24            
+2023-01-24T06:24:01Z: CHRCTER ADDED  [ 3580918708] babywon16           
+2023-01-24T06:24:02Z: CHRCTER ADDED  [ 3551221449] Awzai77             
+2023-01-24T06:24:09Z: CHRCTER ADDED  [ 2865648024] AwiTadekooko        
+2023-01-24T06:24:22Z: CHRCTER ADDED  [ 3580918708] babywon16           
+2023-01-24T06:24:24Z: CHRCTER ADDED  [ 3551221449] Awzai77             
+2023-01-24T06:24:25Z: CHRCTER ADDED  [ 4171960537] Axelforev9          
+2023-01-24T06:24:33Z: CHRCTER ADDED  [ 3551221449] Awzai77             
+2023-01-24T06:24:49Z: CHRCTER ADDED  [ 4171960537] Axelforev9          
+2023-01-24T06:25:03Z: CHRCTER ADDED  [ 4171960537] Axelforev9          
+2023-01-24T06:25:07Z: PLAYER REMOVED [ 3551221449] Awzai77             
+2023-01-24T06:25:13Z: CHRCTER ADDED  [ 3580918708] babywon16           
+2023-01-24T06:25:22Z: CHRCTER ADDED  [ 4177384017] thoxx_24            
+2023-01-24T06:25:28Z: CHRCTER ADDED  [ 3580918708] babywon16           
+2023-01-24T06:25:37Z: CHRCTER ADDED  [ 4177384017] thoxx_24            
+2023-01-24T06:25:38Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  159.9,    59.9,   111.7)
+  ## ######## no estabas al frente gamer
+2023-01-24T06:25:49Z: CHRCTER ADDED  [ 3580918708] babywon16           
+2023-01-24T06:26:02Z: CHRCTER ADDED  [ 2865648024] AwiTadekooko        
+2023-01-24T06:26:06Z: CHRCTER ADDED  [   68471378] ob2n                 a.k.a. Mark                
+2023-01-24T06:26:12Z: CHRCTER ADDED  [ 3580918708] babywon16           
+2023-01-24T06:26:17Z: CHRCTER ADDED  [ 2865648024] AwiTadekooko        
+2023-01-24T06:26:20Z: CHRCTER ADDED  [ 4171960537] Axelforev9          
+2023-01-24T06:26:24Z: CHRCTER ADDED  [ 3580918708] babywon16           
+2023-01-24T06:26:32Z: CHRCTER ADDED  [   68471378] ob2n                 a.k.a. Mark                
+2023-01-24T06:26:40Z: PLAYER REMOVED [   68471378] ob2n                 a.k.a. Mark                
+2023-01-24T06:26:43Z: CHRCTER ADDED  [ 3580918708] babywon16           
+2023-01-24T06:26:57Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  122.8,    59.9,   108.7)
+  xd 
+2023-01-24T06:26:59Z: CHRCTER ADDED  [ 4171960537] Axelforev9          
+2023-01-24T06:27:00Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (  123.0,    59.9,   109.9)
+  nooo
+2023-01-24T06:27:07Z: CHRCTER ADDED  [ 3580918708] babywon16           
+2023-01-24T06:27:09Z: CHRCTER ADDED  [ 2865648024] AwiTadekooko        
+2023-01-24T06:27:20Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (   67.9,    59.9,   109.8)
+  oye
+2023-01-24T06:27:29Z: CHRCTER ADDED  [ 3580918708] babywon16           
+2023-01-24T06:27:30Z: PLAYER CHATTED [ 4171960537] Axelforev9           (   78.9,    59.9,   119.8)
+  made
+2023-01-24T06:27:33Z: CHRCTER ADDED  [ 4266801837] damon142355         
+2023-01-24T06:27:34Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (   76.0,    59.9,   118.6)
+  me tengo que ir :(
+2023-01-24T06:27:42Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (   76.0,    59.9,   118.6)
+  mañana voy a la secundaria 
+2023-01-24T06:27:50Z: CHRCTER ADDED  [ 3580918708] babywon16           
+2023-01-24T06:27:53Z: PLAYER CHATTED [ 4171960537] Axelforev9           (   78.9,    59.9,   119.8)
+  yo
+2023-01-24T06:28:09Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (   76.0,    59.9,   118.6)
+  mañana jugamos♡
+2023-01-24T06:28:10Z: CHRCTER ADDED  [ 3580918708] babywon16           
+2023-01-24T06:28:27Z: PLAYER CHATTED [ 4171960537] Axelforev9           (   78.9,    59.9,   119.8)
+  ala primaria en ######
+2023-01-24T06:28:30Z: CHRCTER ADDED  [ 3580918708] babywon16           
+2023-01-24T06:28:36Z: PLAYER CHATTED [ 4171960537] Axelforev9           (   78.9,    59.9,   119.8)
+  cu ar
+2023-01-24T06:28:46Z: CHRCTER ADDED  [ 4177384017] thoxx_24            
+2023-01-24T06:28:46Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (   76.0,    59.9,   118.6)
+  ## ########## como te llamas?
+2023-01-24T06:28:50Z: PLAYER REMOVED [ 4171960537] Axelforev9          
+2023-01-24T06:29:00Z: CHRCTER ADDED  [ 3580918708] babywon16           
+2023-01-24T06:29:05Z: CHRCTER ADDED  [ 4177384017] thoxx_24            
+2023-01-24T06:29:09Z: PLAYER CHATTED [ 2865648024] AwiTadekooko         (   76.0,    59.9,   118.6)
+  bay niña de ## que según es gamer
+2023-01-24T06:29:14Z: PLAYER REMOVED [ 2865648024] AwiTadekooko        
+2023-01-24T06:29:19Z: CHRCTER ADDED  [ 4177384017] thoxx_24            
+2023-01-24T06:29:25Z: CHRCTER ADDED  [ 3580918708] babywon16           
+2023-01-24T06:29:36Z: CHRCTER ADDED  [ 4177384017] thoxx_24            
+2023-01-24T06:29:51Z: CHRCTER ADDED  [ 4177384017] thoxx_24            
+2023-01-24T06:29:53Z: CHRCTER ADDED  [ 3580918708] babywon16           
+2023-01-24T06:31:15Z: CHRCTER ADDED  [ 4266801837] damon142355         
+2023-01-24T06:31:38Z: CHRCTER ADDED  [ 3580918708] babywon16           
+2023-01-24T06:31:40Z: CHRCTER ADDED  [ 4266801837] damon142355         
+2023-01-24T06:32:00Z: CHRCTER ADDED  [ 3580918708] babywon16           
+2023-01-24T06:32:14Z: CHRCTER ADDED  [ 4177384017] thoxx_24            
+2023-01-24T06:32:24Z: PLAYER REMOVED [ 4177384017] thoxx_24            
+2023-01-24T06:32:28Z: CHRCTER ADDED  [ 3580918708] babywon16           
+2023-01-24T06:32:34Z: PLAYER REMOVED [ 3580918708] babywon16           
+2023-01-24T06:32:49Z: CHRCTER ADDED  [ 4266801837] damon142355         
+2023-01-24T06:32:59Z: CHRCTER ADDED  [ 4266801837] damon142355         
+2023-01-24T06:33:04Z: PLAYER REMOVED [ 4266801837] damon142355         
+2023-01-24T06:40:16Z: PLAYER ADDED   [ 4229171198] bq_raton135         
+2023-01-24T06:40:37Z: CHRCTER ADDED  [ 4229171198] bq_raton135         
+2023-01-24T06:40:46Z: CHRCTER ADDED  [ 4229171198] bq_raton135         
+2023-01-24T06:40:56Z: PLAYER REMOVED [ 4229171198] bq_raton135         
+2023-01-24T06:43:03Z: PLAYER ADDED   [ 4148000265] AlejandroV303       
+2023-01-24T06:43:07Z: PLAYER ADDED   [ 4263857108] felixgonzlez        
+2023-01-24T06:43:14Z: PLAYER ADDED   [ 4142773718] michv30             
+2023-01-24T06:43:16Z: CHRCTER ADDED  [ 4148000265] AlejandroV303       
+2023-01-24T06:43:28Z: CHRCTER ADDED  [ 4142773718] michv30             
+2023-01-24T06:43:40Z: CHRCTER ADDED  [ 4263857108] felixgonzlez        
+2023-01-24T06:43:49Z: CHRCTER ADDED  [ 4263857108] felixgonzlez        
+2023-01-24T06:43:58Z: CHRCTER ADDED  [ 4263857108] felixgonzlez        
+2023-01-24T06:44:08Z: CHRCTER ADDED  [ 4263857108] felixgonzlez        
+2023-01-24T06:44:23Z: CHRCTER ADDED  [ 4263857108] felixgonzlez        
+2023-01-24T06:44:33Z: CHRCTER ADDED  [ 4263857108] felixgonzlez        
+2023-01-24T06:44:41Z: CHRCTER ADDED  [ 4263857108] felixgonzlez        
+2023-01-24T06:44:50Z: CHRCTER ADDED  [ 4263857108] felixgonzlez        
+2023-01-24T06:45:18Z: CHRCTER ADDED  [ 4263857108] felixgonzlez        
+2023-01-24T06:45:23Z: CHRCTER ADDED  [ 4148000265] AlejandroV303       
+2023-01-24T06:45:31Z: CHRCTER ADDED  [ 4263857108] felixgonzlez        
+2023-01-24T06:45:42Z: CHRCTER ADDED  [ 4263857108] felixgonzlez        
+2023-01-24T06:45:50Z: CHRCTER ADDED  [ 4142773718] michv30             
+2023-01-24T06:45:59Z: CHRCTER ADDED  [ 4263857108] felixgonzlez        
+2023-01-24T06:46:05Z: PLAYER ADDED   [ 2880347008] ale78wi3             a.k.a. Rominita            
+2023-01-24T06:46:13Z: PLAYER REMOVED [ 4263857108] felixgonzlez        
+2023-01-24T06:46:21Z: CHRCTER ADDED  [ 4148000265] AlejandroV303       
+2023-01-24T06:46:39Z: PLAYER REMOVED [ 2880347008] ale78wi3             a.k.a. Rominita            
+2023-01-24T06:47:11Z: CHRCTER ADDED  [ 4148000265] AlejandroV303       
+2023-01-24T06:47:40Z: PLAYER ADDED   [ 3846137641] Juniorrr112344       a.k.a. Jaylooobaddy        
+2023-01-24T06:47:50Z: CHRCTER ADDED  [ 3846137641] Juniorrr112344       a.k.a. Jaylooobaddy        
+2023-01-24T06:47:58Z: CHRCTER ADDED  [ 3846137641] Juniorrr112344       a.k.a. Jaylooobaddy        
+2023-01-24T06:48:02Z: CHRCTER ADDED  [ 4148000265] AlejandroV303       
+2023-01-24T06:48:12Z: PLAYER REMOVED [ 3846137641] Juniorrr112344       a.k.a. Jaylooobaddy        
+2023-01-24T06:48:52Z: CHRCTER ADDED  [ 4148000265] AlejandroV303       
+2023-01-24T06:49:50Z: CHRCTER ADDED  [ 4148000265] AlejandroV303       
+2023-01-24T06:50:11Z: CHRCTER ADDED  [ 4148000265] AlejandroV303       
+2023-01-24T06:50:12Z: PLAYER REMOVED [ 4148000265] AlejandroV303       
+2023-01-24T06:50:16Z: PLAYER REMOVED [ 4142773718] michv30             
+2023-01-24T06:53:05Z: PLAYER ADDED   [ 4248516802] ZZJDHRJEH           
+2023-01-24T06:53:22Z: CHRCTER ADDED  [ 4248516802] ZZJDHRJEH           
+2023-01-24T06:53:38Z: CHRCTER ADDED  [ 4248516802] ZZJDHRJEH           
+2023-01-24T06:53:48Z: CHRCTER ADDED  [ 4248516802] ZZJDHRJEH           
+2023-01-24T06:53:58Z: CHRCTER ADDED  [ 4248516802] ZZJDHRJEH           
+2023-01-24T06:54:07Z: CHRCTER ADDED  [ 4248516802] ZZJDHRJEH           
+2023-01-24T06:54:20Z: CHRCTER ADDED  [ 4248516802] ZZJDHRJEH           
+2023-01-24T06:54:20Z: PLAYER REMOVED [ 4248516802] ZZJDHRJEH           
+2023-01-24T07:19:33Z: PLAYER ADDED   [ 4259253149] Liamgomez152kn      
+2023-01-24T07:19:42Z: PLAYER REMOVED [ 4259253149] Liamgomez152kn      
+2023-01-24T07:25:42Z: PLAYER ADDED   [ 4263699667] Riorfsjhy           
+2023-01-24T07:25:48Z: PLAYER ADDED   [ 1903505292] intheround           a.k.a. RiP_NAM             
+2023-01-24T07:25:49Z: PLAYER ADDED   [ 4270946551] NMT_123456789       
+2023-01-24T07:25:56Z: PLAYER ADDED   [ 4232624630] 729je445            
+2023-01-24T07:25:57Z: PLAYER ADDED   [ 4210926896] AcClKu673            a.k.a. God4hehe            
+2023-01-24T07:26:04Z: CHRCTER ADDED  [ 4270946551] NMT_123456789       
+2023-01-24T07:26:06Z: CHRCTER ADDED  [ 4263699667] Riorfsjhy           
+2023-01-24T07:26:10Z: PLAYER ADDED   [ 3988275209] Jenilove89           a.k.a. Elote               
+2023-01-24T07:26:11Z: CHRCTER ADDED  [ 4232624630] 729je445            
+2023-01-24T07:26:13Z: PLAYER ADDED   [ 4244831592] nminecraft153       
+2023-01-24T07:26:14Z: CHRCTER ADDED  [ 4270946551] NMT_123456789       
+2023-01-24T07:26:17Z: CHRCTER ADDED  [ 4263699667] Riorfsjhy           
+2023-01-24T07:26:18Z: CHRCTER ADDED  [ 1903505292] intheround           a.k.a. RiP_NAM             
+2023-01-24T07:26:23Z: CHRCTER ADDED  [ 4232624630] 729je445            
+2023-01-24T07:26:25Z: CHRCTER ADDED  [ 4263699667] Riorfsjhy           
+2023-01-24T07:26:27Z: CHRCTER ADDED  [ 1903505292] intheround           a.k.a. RiP_NAM             
+2023-01-24T07:26:29Z: CHRCTER ADDED  [ 4244831592] nminecraft153       
+2023-01-24T07:26:31Z: CHRCTER ADDED  [ 4210926896] AcClKu673            a.k.a. God4hehe            
+2023-01-24T07:26:32Z: CHRCTER ADDED  [ 4232624630] 729je445            
+2023-01-24T07:26:35Z: CHRCTER ADDED  [ 3988275209] Jenilove89           a.k.a. Elote               
+2023-01-24T07:26:37Z: CHRCTER ADDED  [ 4263699667] Riorfsjhy           
+2023-01-24T07:26:43Z: CHRCTER ADDED  [ 4244831592] nminecraft153       
+2023-01-24T07:26:44Z: CHRCTER ADDED  [ 4270946551] NMT_123456789       
+2023-01-24T07:26:47Z: CHRCTER ADDED  [ 1903505292] intheround           a.k.a. RiP_NAM             
+2023-01-24T07:26:53Z: CHRCTER ADDED  [ 4244831592] nminecraft153       
+2023-01-24T07:26:56Z: CHRCTER ADDED  [ 4210926896] AcClKu673            a.k.a. God4hehe            
+2023-01-24T07:27:00Z: PLAYER ADDED   [ 3870268194] Alex667755A         
+2023-01-24T07:27:03Z: PLAYER ADDED   [ 4270981418] Pbaba_2224          
+2023-01-24T07:27:05Z: CHRCTER ADDED  [ 4232624630] 729je445            
+2023-01-24T07:27:10Z: CHRCTER ADDED  [ 4244831592] nminecraft153       
+2023-01-24T07:27:12Z: CHRCTER ADDED  [ 1903505292] intheround           a.k.a. RiP_NAM             
+2023-01-24T07:27:16Z: CHRCTER ADDED  [ 4232624630] 729je445            
+2023-01-24T07:27:19Z: CHRCTER ADDED  [ 4210926896] AcClKu673            a.k.a. God4hehe            
+2023-01-24T07:27:21Z: CHRCTER ADDED  [ 4244831592] nminecraft153       
+2023-01-24T07:27:21Z: CHRCTER ADDED  [ 4263699667] Riorfsjhy           
+2023-01-24T07:27:21Z: CHRCTER ADDED  [ 3988275209] Jenilove89           a.k.a. Elote               
+2023-01-24T07:27:25Z: CHRCTER ADDED  [ 1903505292] intheround           a.k.a. RiP_NAM             
+2023-01-24T07:27:29Z: PLAYER REMOVED [ 3870268194] Alex667755A         
+2023-01-24T07:27:33Z: CHRCTER ADDED  [ 4232624630] 729je445            
+2023-01-24T07:27:36Z: CHRCTER ADDED  [ 4270981418] Pbaba_2224          
+2023-01-24T07:27:37Z: PLAYER REMOVED [ 1903505292] intheround           a.k.a. RiP_NAM             
+2023-01-24T07:27:46Z: CHRCTER ADDED  [ 4232624630] 729je445            
+2023-01-24T07:27:51Z: CHRCTER ADDED  [ 4270981418] Pbaba_2224          
+2023-01-24T07:28:00Z: CHRCTER ADDED  [ 4270946551] NMT_123456789       
+2023-01-24T07:28:03Z: CHRCTER ADDED  [ 4210926896] AcClKu673            a.k.a. God4hehe            
+2023-01-24T07:28:04Z: CHRCTER ADDED  [ 4244831592] nminecraft153       
+2023-01-24T07:28:06Z: PLAYER ADDED   [ 3406829409] Thuxinhcute123      
+2023-01-24T07:28:08Z: PLAYER ADDED   [ 4185745681] rfhdtethttd         
+2023-01-24T07:28:10Z: CHRCTER ADDED  [ 4270946551] NMT_123456789       
+2023-01-24T07:28:11Z: CHRCTER ADDED  [ 4232624630] 729je445            
+2023-01-24T07:28:13Z: PLAYER REMOVED [ 4244831592] nminecraft153       
+2023-01-24T07:28:14Z: PLAYER ADDED   [ 4257678096] khanhoailem         
+2023-01-24T07:28:16Z: PLAYER ADDED   [ 3879580727] padabay             
+2023-01-24T07:28:18Z: CHRCTER ADDED  [ 4210926896] AcClKu673            a.k.a. God4hehe            
+2023-01-24T07:28:19Z: PLAYER CHATTED [ 4270981418] Pbaba_2224           (   90.9,    59.9,   111.2)
+  😭😭😭😭😭😭😭😫😫😫😫😫😫🤣
+2023-01-24T07:28:20Z: CHRCTER ADDED  [ 4185745681] rfhdtethttd         
+2023-01-24T07:28:23Z: CHRCTER ADDED  [ 4232624630] 729je445            
+2023-01-24T07:28:30Z: PLAYER ADDED   [ 4253890215] pandaaacd           
+2023-01-24T07:28:40Z: CHRCTER ADDED  [ 4257678096] khanhoailem         
+2023-01-24T07:28:40Z: CHRCTER ADDED  [ 4232624630] 729je445            
+2023-01-24T07:28:44Z: CHRCTER ADDED  [ 4210926896] AcClKu673            a.k.a. God4hehe            
+2023-01-24T07:28:51Z: CHRCTER ADDED  [ 4185745681] rfhdtethttd         
+2023-01-24T07:28:52Z: CHRCTER ADDED  [ 4232624630] 729je445            
+2023-01-24T07:28:54Z: CHRCTER ADDED  [ 4253890215] pandaaacd           
+2023-01-24T07:28:55Z: CHRCTER ADDED  [ 3406829409] Thuxinhcute123      
+2023-01-24T07:28:56Z: PLAYER REMOVED [ 4263699667] Riorfsjhy           
+2023-01-24T07:28:59Z: CHRCTER ADDED  [ 4270981418] Pbaba_2224          
+2023-01-24T07:29:04Z: CHRCTER ADDED  [ 4232624630] 729je445            
+2023-01-24T07:29:04Z: PLAYER CHATTED [ 3879580727] padabay              (   69.4,    59.9,   108.5)
+  ljjajd
+2023-01-24T07:29:06Z: CHRCTER ADDED  [ 4257678096] khanhoailem         
+2023-01-24T07:29:07Z: CHRCTER ADDED  [ 4253890215] pandaaacd           
+2023-01-24T07:29:15Z: CHRCTER ADDED  [ 3406829409] Thuxinhcute123      
+2023-01-24T07:29:22Z: CHRCTER ADDED  [ 4232624630] 729je445            
+2023-01-24T07:29:24Z: CHRCTER ADDED  [ 3406829409] Thuxinhcute123      
+2023-01-24T07:29:25Z: CHRCTER ADDED  [ 3988275209] Jenilove89           a.k.a. Elote               
+2023-01-24T07:29:26Z: CHRCTER ADDED  [ 4257678096] khanhoailem         
+2023-01-24T07:29:29Z: PLAYER CHATTED [ 4253890215] pandaaacd            (   67.4,    59.9,   106.9)
+  ####
+2023-01-24T07:29:33Z: CHRCTER ADDED  [ 4232624630] 729je445            
+2023-01-24T07:29:34Z: CHRCTER ADDED  [ 4270946551] NMT_123456789       
+2023-01-24T07:29:36Z: CHRCTER ADDED  [ 3988275209] Jenilove89           a.k.a. Elote               
+2023-01-24T07:29:37Z: CHRCTER ADDED  [ 4270981418] Pbaba_2224          
+2023-01-24T07:29:37Z: PLAYER REMOVED [ 4257678096] khanhoailem         
+2023-01-24T07:29:38Z: PLAYER CHATTED [ 3879580727] padabay              (   79.8,    59.9,   121.4)
+  kzndjwiijepek
+2023-01-24T07:29:43Z: CHRCTER ADDED  [ 3406829409] Thuxinhcute123      
+2023-01-24T07:29:43Z: CHRCTER ADDED  [ 4253890215] pandaaacd           
+2023-01-24T07:29:45Z: CHRCTER ADDED  [ 4232624630] 729je445            
+2023-01-24T07:29:55Z: CHRCTER ADDED  [ 3879580727] padabay             
+2023-01-24T07:29:55Z: CHRCTER ADDED  [ 4270981418] Pbaba_2224          
+2023-01-24T07:30:00Z: CHRCTER ADDED  [ 4210926896] AcClKu673            a.k.a. God4hehe            
+2023-01-24T07:30:07Z: PLAYER REMOVED [ 4185745681] rfhdtethttd         
+2023-01-24T07:30:07Z: CHRCTER ADDED  [ 4270981418] Pbaba_2224          
+2023-01-24T07:30:10Z: CHRCTER ADDED  [ 4210926896] AcClKu673            a.k.a. God4hehe            
+2023-01-24T07:30:16Z: CHRCTER ADDED  [ 3879580727] padabay             
+2023-01-24T07:30:29Z: CHRCTER ADDED  [ 3879580727] padabay             
+2023-01-24T07:30:32Z: CHRCTER ADDED  [ 3988275209] Jenilove89           a.k.a. Elote               
+2023-01-24T07:30:39Z: CHRCTER ADDED  [ 3879580727] padabay             
+2023-01-24T07:30:42Z: CHRCTER ADDED  [ 4210926896] AcClKu673            a.k.a. God4hehe            
+2023-01-24T07:30:44Z: CHRCTER ADDED  [ 3988275209] Jenilove89           a.k.a. Elote               
+2023-01-24T07:30:49Z: CHRCTER ADDED  [ 4270946551] NMT_123456789       
+2023-01-24T07:31:02Z: CHRCTER ADDED  [ 3988275209] Jenilove89           a.k.a. Elote               
+2023-01-24T07:31:02Z: CHRCTER ADDED  [ 4210926896] AcClKu673            a.k.a. God4hehe            
+2023-01-24T07:31:06Z: CHRCTER ADDED  [ 4232624630] 729je445            
+2023-01-24T07:31:11Z: PLAYER REMOVED [ 4232624630] 729je445            
+2023-01-24T07:31:21Z: CHRCTER ADDED  [ 3988275209] Jenilove89           a.k.a. Elote               
+2023-01-24T07:31:22Z: CHRCTER ADDED  [ 3879580727] padabay             
+2023-01-24T07:31:23Z: CHRCTER ADDED  [ 4210926896] AcClKu673            a.k.a. God4hehe            
+2023-01-24T07:31:30Z: CHRCTER ADDED  [ 4270981418] Pbaba_2224          
+2023-01-24T07:31:30Z: PLAYER REMOVED [ 4270981418] Pbaba_2224          
+2023-01-24T07:31:45Z: CHRCTER ADDED  [ 4210926896] AcClKu673            a.k.a. God4hehe            
+2023-01-24T07:32:01Z: CHRCTER ADDED  [ 4210926896] AcClKu673            a.k.a. God4hehe            
+2023-01-24T07:32:05Z: CHRCTER ADDED  [ 3406829409] Thuxinhcute123      
+2023-01-24T07:32:06Z: PLAYER REMOVED [ 3406829409] Thuxinhcute123      
+2023-01-24T07:32:06Z: CHRCTER ADDED  [ 3879580727] padabay             
+2023-01-24T07:32:11Z: CHRCTER ADDED  [ 3988275209] Jenilove89           a.k.a. Elote               
+2023-01-24T07:32:26Z: CHRCTER ADDED  [ 3879580727] padabay             
+2023-01-24T07:32:35Z: CHRCTER ADDED  [ 4210926896] AcClKu673            a.k.a. God4hehe            
+2023-01-24T07:32:39Z: CHRCTER ADDED  [ 3988275209] Jenilove89           a.k.a. Elote               
+2023-01-24T07:32:42Z: PLAYER REMOVED [ 3879580727] padabay             
+2023-01-24T07:32:47Z: CHRCTER ADDED  [ 4253890215] pandaaacd           
+2023-01-24T07:32:48Z: PLAYER REMOVED [ 4253890215] pandaaacd           
+2023-01-24T07:32:51Z: CHRCTER ADDED  [ 3988275209] Jenilove89           a.k.a. Elote               
+2023-01-24T07:33:06Z: CHRCTER ADDED  [ 4210926896] AcClKu673            a.k.a. God4hehe            
+2023-01-24T07:33:12Z: PLAYER REMOVED [ 4210926896] AcClKu673            a.k.a. God4hehe            
+2023-01-24T07:33:12Z: CHRCTER ADDED  [ 3988275209] Jenilove89           a.k.a. Elote               
+2023-01-24T07:33:30Z: CHRCTER ADDED  [ 3988275209] Jenilove89           a.k.a. Elote               
+2023-01-24T07:33:39Z: CHRCTER ADDED  [ 3988275209] Jenilove89           a.k.a. Elote               
+2023-01-24T07:33:46Z: CHRCTER ADDED  [ 4270946551] NMT_123456789       
+2023-01-24T07:33:49Z: CHRCTER ADDED  [ 3988275209] Jenilove89           a.k.a. Elote               
+2023-01-24T07:34:02Z: CHRCTER ADDED  [ 3988275209] Jenilove89           a.k.a. Elote               
+2023-01-24T07:34:06Z: CHRCTER ADDED  [ 4270946551] NMT_123456789       
+2023-01-24T07:34:16Z: PLAYER REMOVED [ 4270946551] NMT_123456789       
+2023-01-24T07:34:51Z: CHRCTER ADDED  [ 3988275209] Jenilove89           a.k.a. Elote               
+2023-01-24T07:35:29Z: CHRCTER ADDED  [ 3988275209] Jenilove89           a.k.a. Elote               
+2023-01-24T07:35:43Z: CHRCTER ADDED  [ 3988275209] Jenilove89           a.k.a. Elote               
+2023-01-24T07:36:16Z: CHRCTER ADDED  [ 3988275209] Jenilove89           a.k.a. Elote               
+2023-01-24T07:36:26Z: CHRCTER ADDED  [ 3988275209] Jenilove89           a.k.a. Elote               
+2023-01-24T07:36:48Z: CHRCTER ADDED  [ 3988275209] Jenilove89           a.k.a. Elote               
+2023-01-24T07:37:40Z: CHRCTER ADDED  [ 3988275209] Jenilove89           a.k.a. Elote               
+2023-01-24T07:37:56Z: CHRCTER ADDED  [ 3988275209] Jenilove89           a.k.a. Elote               
+2023-01-24T07:38:14Z: CHRCTER ADDED  [ 3988275209] Jenilove89           a.k.a. Elote               
+2023-01-24T07:38:35Z: CHRCTER ADDED  [ 3988275209] Jenilove89           a.k.a. Elote               
+2023-01-24T07:38:59Z: CHRCTER ADDED  [ 3988275209] Jenilove89           a.k.a. Elote               
+2023-01-24T07:39:41Z: CHRCTER ADDED  [ 3988275209] Jenilove89           a.k.a. Elote               
+2023-01-24T07:39:52Z: CHRCTER ADDED  [ 3988275209] Jenilove89           a.k.a. Elote               
+2023-01-24T07:40:04Z: CHRCTER ADDED  [ 3988275209] Jenilove89           a.k.a. Elote               
+2023-01-24T07:40:23Z: CHRCTER ADDED  [ 3988275209] Jenilove89           a.k.a. Elote               
+2023-01-24T07:40:24Z: PLAYER REMOVED [ 3988275209] Jenilove89           a.k.a. Elote               
+2023-01-24T07:48:18Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

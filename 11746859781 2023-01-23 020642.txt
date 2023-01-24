@@ -1,0 +1,107 @@
+[    1630228] : [11746859781] [🚨 UPDATE] Bubble Gum Clicker! - d51137af-07a5-4a0c-a4a0-7f60e0d486be
+2023-01-23T02:06:42Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-23T02:06:42Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-23T02:06:42Z: PLAYER ADDED   [  796035696] marsvinkev           a.k.a. mars                
+2023-01-23T02:06:42Z: PLAYER ADDED   [    2968196] Zyleth              
+2023-01-23T02:06:58Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -349.5,     4.3,  -566.6)
+  My theory seems correct.
+2023-01-23T02:07:10Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -369.3,     4.3,  -560.6)
+  Remote Spy was printing out so many events.
+2023-01-23T02:07:18Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -384.2,     4.3,  -557.8)
+  I rejoined and disabled it.
+2023-01-23T02:07:21Z: PLAYER CHATTED [    2968196] Zyleth               ( -391.3,     3.0,  -562.2)
+  Good man
+2023-01-23T02:07:23Z: PLAYER CHATTED [    2968196] Zyleth               ( -391.3,     3.0,  -562.2)
+  How you been
+2023-01-23T02:07:26Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -386.5,     4.3,  -558.5)
+  Not bad.
+2023-01-23T02:07:30Z: PLAYER CHATTED [    2968196] Zyleth               ( -391.3,     3.0,  -562.2)
+  Great to hear
+2023-01-23T02:07:34Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -386.6,     4.3,  -558.1)
+  I've been doing well at uni.
+2023-01-23T02:07:46Z: PLAYER CHATTED [    2968196] Zyleth               ( -391.3,     3.0,  -562.2)
+  Proud of you man
+2023-01-23T02:07:49Z: PLAYER CHATTED [    2968196] Zyleth               ( -391.3,     3.0,  -562.2)
+  I released a popular rblx game
+2023-01-23T02:07:51Z: PLAYER CHATTED [    2968196] Zyleth               ( -391.3,     3.0,  -562.2)
+  Thief Simulator
+2023-01-23T02:07:53Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -387.4,     4.3,  -558.4)
+  Did you go to RDC last year?
+2023-01-23T02:07:55Z: PLAYER CHATTED [    2968196] Zyleth               ( -391.3,     3.0,  -562.2)
+  So im a fulltime dev now
+2023-01-23T02:07:59Z: PLAYER CHATTED [    2968196] Zyleth               ( -391.3,     3.0,  -562.2)
+  No, i was too busy lol
+2023-01-23T02:08:01Z: PLAYER CHATTED [    2968196] Zyleth               ( -391.3,     3.0,  -562.2)
+  Wbu?
+2023-01-23T02:08:12Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -387.8,     4.3,  -558.6)
+  I wasn't invited, but I went to SF anyway.
+2023-01-23T02:08:32Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -387.8,     4.3,  -558.6)
+  I got in touch with the event director too!
+2023-01-23T02:08:41Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -387.8,     4.3,  -558.6)
+  But I made mistakes.
+2023-01-23T02:08:44Z: PLAYER CHATTED [    2968196] Zyleth               ( -391.3,     3.0,  -562.2)
+  Oh cool! I'm an event organiser I can put a word in
+2023-01-23T02:08:46Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -387.8,     4.3,  -558.6)
+  And acted too aggressively.
+2023-01-23T02:08:57Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -387.8,     4.3,  -558.6)
+  I wanted to be an event organiser for a while.
+2023-01-23T02:09:52Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -387.8,     4.3,  -558.6)
+  I applied and didn't get past stage 2.
+2023-01-23T02:10:37Z: PLAYER CHATTED [    2968196] Zyleth               ( -391.3,     3.0,  -562.2)
+  I can see if i can put a word in
+2023-01-23T02:10:56Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -384.2,     4.3,  -560.5)
+  Thanks!
+2023-01-23T02:11:03Z: PLAYER CHATTED [    2968196] Zyleth               ( -391.3,     3.0,  -562.2)
+  Do you still code?
+2023-01-23T02:11:16Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -385.6,     4.3,  -559.8)
+  I've transcended beyond simple scripts.
+2023-01-23T02:11:25Z: PLAYER CHATTED [    2968196] Zyleth               ( -391.3,     3.0,  -562.2)
+  Thats good, i may need a coder
+2023-01-23T02:11:28Z: PLAYER CHATTED [    2968196] Zyleth               ( -391.3,     3.0,  -562.2)
+  ##########
+2023-01-23T02:11:28Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -385.6,     4.3,  -559.8)
+  I have a few major projects I hop between.
+2023-01-23T02:11:31Z: PLAYER CHATTED [    2968196] Zyleth               ( -391.3,     3.0,  -562.2)
+  Same dis?
+2023-01-23T02:11:35Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -386.5,     4.3,  -560.4)
+  Yes.
+2023-01-23T02:11:40Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -386.5,     4.3,  -560.4)
+  ! (30 spaces) !
+2023-01-23T02:11:42Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -386.5,     4.3,  -560.4)
+  0483
+2023-01-23T02:11:55Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -386.5,     4.3,  -560.4)
+  I'm not open to work unless I get paid in cash.
+2023-01-23T02:12:00Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -386.5,     4.3,  -560.4)
+  And it's a good amount.
+2023-01-23T02:12:11Z: PLAYER CHATTED [    2968196] Zyleth               ( -391.3,     3.0,  -562.2)
+  Cant find you?
+2023-01-23T02:12:20Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -386.5,     4.3,  -560.4)
+  You type the spaces out.
+2023-01-23T02:12:37Z: PLAYER CHATTED [    2968196] Zyleth               ( -391.3,     3.0,  -562.2)
+  I see
+2023-01-23T02:12:58Z: PLAYER CHATTED [    2968196] Zyleth               ( -391.3,     3.0,  -562.2)
+  Didn't work
+2023-01-23T02:12:59Z: PLAYER CHATTED [    2968196] Zyleth               ( -391.3,     3.0,  -562.2)
+  Zyleth
+2023-01-23T02:13:03Z: PLAYER CHATTED [    2968196] Zyleth               ( -391.3,     3.0,  -562.2)
+  0001
+2023-01-23T02:13:17Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -386.5,     4.3,  -560.4)
+  Sent.
+2023-01-23T02:13:24Z: PLAYER CHATTED [    2968196] Zyleth               ( -391.3,     3.0,  -562.2)
+  Got yo
+2023-01-23T02:13:29Z: PLAYER CHATTED [    2968196] Zyleth               ( -391.3,     3.0,  -562.2)
+  Messg there
+2023-01-23T02:13:52Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -386.5,     4.3,  -560.4)
+  See you then.
+2023-01-23T02:13:58Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -386.5,     4.3,  -560.4)
+  Care to join my hotel showcase?
+2023-01-23T02:14:12Z: PLAYER CHATTED [    2968196] Zyleth               ( -391.3,     3.0,  -562.2)
+  About to leave the house
+2023-01-23T02:14:14Z: PLAYER CHATTED [    2968196] Zyleth               ( -391.3,     3.0,  -562.2)
+  Thats y ####
+2023-01-23T02:14:16Z: PLAYER CHATTED [    2968196] Zyleth               ( -391.3,     3.0,  -562.2)
+  Dis
+2023-01-23T02:14:21Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -386.5,     4.3,  -560.4)
+  Got it.
+2023-01-23T02:15:00Z: PLAYER REMOVED [    2968196] Zyleth              
+2023-01-23T02:15:02Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
