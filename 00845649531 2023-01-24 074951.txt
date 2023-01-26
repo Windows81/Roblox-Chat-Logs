@@ -1,0 +1,126 @@
+[    1630228] : [  845649531] Would You Rather..? - 8fb14e13-53b0-4995-95c3-277429150f77
+2023-01-24T07:49:51Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-24T07:49:51Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-24T07:49:51Z: PLAYER ADDED   [ 2472572068] Tweek_Shoji          a.k.a. ERIC_CB             
+2023-01-24T07:49:51Z: PLAYER ADDED   [  752521171] km347377            
+2023-01-24T07:49:51Z: PLAYER ADDED   [ 3046627253] quesitos2201        
+2023-01-24T07:49:51Z: PLAYER ADDED   [ 2394878603] letritasowo          a.k.a. letritas            
+2023-01-24T07:49:51Z: PLAYER ADDED   [ 4263142697] Axsol766            
+2023-01-24T07:49:51Z: PLAYER ADDED   [ 3774508699] ivanna49estwfi      
+2023-01-24T07:49:51Z: PLAYER ADDED   [ 2850753582] Lupitha85            a.k.a. Pepsi13             
+2023-01-24T07:49:51Z: PLAYER ADDED   [ 1450712735] iikxhzz              a.k.a. kira                
+2023-01-24T07:49:51Z: PLAYER ADDED   [ 2453573798] ismari705           
+2023-01-24T07:49:51Z: PLAYER ADDED   [ 3783961335] elmeniii             a.k.a. Goku_ul             
+2023-01-24T07:49:52Z: PLAYER CHATTED [ 4263142697] Axsol766             (   51.2,     9.5,    -5.7)
+  bar y el #######
+2023-01-24T07:49:52Z: PLAYER REMOVED [ 2394878603] letritasowo          a.k.a. letritas            
+2023-01-24T07:49:55Z: PLAYER CHATTED [  752521171] km347377             (   52.0,     9.2,    -9.3)
+  es negra 
+2023-01-24T07:49:58Z: PLAYER CHATTED [ 4263142697] Axsol766             (   51.2,     9.5,    -5.7)
+  dro
+2023-01-24T07:50:00Z: PLAYER CHATTED [ 3783961335] elmeniii             (   51.4,     9.2,    12.0)
+  pónganse en la línea 
+2023-01-24T07:50:01Z: PLAYER CHATTED [ 4263142697] Axsol766             (   51.2,     9.5,    -5.7)
+  gas
+2023-01-24T07:50:12Z: PLAYER CHATTED [  752521171] km347377             (   49.1,     9.2,    -7.4)
+  eres negra bro
+2023-01-24T07:50:17Z: PLAYER CHATTED [ 4263142697] Axsol766             (   46.2,     9.5,   -10.2)
+  la tiene tu madre
+2023-01-24T07:50:38Z: PLAYER CHATTED [  752521171] km347377             (   46.7,     7.9,    14.0)
+  específicamente 
+2023-01-24T07:50:47Z: PLAYER CHATTED [ 4263142697] Axsol766             (   42.9,     7.4,    28.4)
+  si
+2023-01-24T07:50:58Z: PLAYER CHATTED [  752521171] km347377             (   85.7,     7.8,   -11.0)
+  me cono 
+2023-01-24T07:51:04Z: PLAYER ADDED   [ 3555512049] xMaCasilx           
+2023-01-24T07:51:09Z: PLAYER REMOVED [ 2850753582] Lupitha85            a.k.a. Pepsi13             
+2023-01-24T07:51:17Z: PLAYER CHATTED [ 4263142697] Axsol766             (   32.8,     7.4,     2.4)
+  arriba las manos aquí es latam
+2023-01-24T07:51:34Z: PLAYER CHATTED [  752521171] km347377             (   35.8,     9.2,    14.2)
+  originalmente 
+2023-01-24T07:51:45Z: PLAYER CHATTED [ 3774508699] ivanna49estwfi       (   42.8,     9.5,     3.0)
+  /e dance
+2023-01-24T07:52:12Z: PLAYER CHATTED [  752521171] km347377             (   53.2,     9.2,    23.5)
+  que buenas personas 
+2023-01-24T07:52:14Z: PLAYER REMOVED [ 3774508699] ivanna49estwfi      
+2023-01-24T07:52:24Z: PLAYER CHATTED [  752521171] km347377             (   53.2,     9.2,    23.5)
+  te pincho 
+2023-01-24T07:52:47Z: PLAYER CHATTED [ 4263142697] Axsol766             (   75.6,     9.5,     3.4)
+  a la el tilín 2.0
+2023-01-24T07:53:05Z: PLAYER CHATTED [  752521171] km347377             (   60.6,     9.2,     1.9)
+  q
+2023-01-24T07:53:12Z: PLAYER CHATTED [ 3783961335] elmeniii             (   81.5,     9.2,    10.5)
+  no voy a morir
+2023-01-24T07:53:18Z: CHRCTER ADDED  [ 3555512049] xMaCasilx           
+2023-01-24T07:53:23Z: CHRCTER ADDED  [ 2472572068] Tweek_Shoji          a.k.a. ERIC_CB             
+2023-01-24T07:53:23Z: CHRCTER ADDED  [ 4263142697] Axsol766            
+2023-01-24T07:53:24Z: CHRCTER ADDED  [ 1450712735] iikxhzz              a.k.a. kira                
+2023-01-24T07:53:25Z: PLAYER CHATTED [  752521171] km347377             (   52.5,     9.2,     7.0)
+  mi espada 
+2023-01-24T07:53:26Z: CHRCTER ADDED  [ 2453573798] ismari705           
+2023-01-24T07:53:28Z: CHRCTER ADDED  [  752521171] km347377            
+2023-01-24T07:53:28Z: CHRCTER ADDED  [ 3046627253] quesitos2201        
+2023-01-24T07:53:45Z: PLAYER CHATTED [ 3783961335] elmeniii             (   35.8,     9.2,     8.7)
+  no mori
+2023-01-24T07:54:14Z: CHRCTER ADDED  [ 2453573798] ismari705           
+2023-01-24T07:54:20Z: PLAYER CHATTED [  752521171] km347377             (   23.3,     9.2,    13.9)
+  soy demasiado do 
+2023-01-24T07:54:27Z: PLAYER CHATTED [  752521171] km347377             (   23.3,     9.2,    13.9)
+  para este mu do 
+2023-01-24T07:54:33Z: PLAYER CHATTED [  752521171] km347377             (   23.3,     9.2,    13.9)
+  LKkakajajajajqkqjjqjq
+2023-01-24T07:54:43Z: PLAYER CHATTED [  752521171] km347377             (   23.3,     9.2,    13.9)
+  que me vez
+2023-01-24T07:54:54Z: PLAYER CHATTED [ 1450712735] iikxhzz              (   41.2,     9.2,    20.0)
+  lo feo q te ves
+2023-01-24T07:55:06Z: PLAYER CHATTED [  752521171] km347377             (   35.2,     9.2,    16.0)
+  me humillo
+2023-01-24T07:55:17Z: PLAYER CHATTED [ 3783961335] elmeniii             (   52.3,     9.2,    10.0)
+  me voy
+2023-01-24T07:55:25Z: PLAYER REMOVED [ 2453573798] ismari705           
+2023-01-24T07:55:25Z: PLAYER CHATTED [  752521171] km347377             (   45.7,     9.2,    17.2)
+  nadie te quiere
+2023-01-24T07:55:30Z: PLAYER CHATTED [ 3783961335] elmeniii             (   52.0,     9.2,    14.2)
+  frena
+2023-01-24T07:55:39Z: PLAYER CHATTED [  752521171] km347377             (   45.7,     9.2,    17.2)
+  brus
+2023-01-24T07:55:40Z: PLAYER CHATTED [ 3783961335] elmeniii             (   46.8,     9.2,    11.5)
+  luz roja
+2023-01-24T07:55:53Z: PLAYER CHATTED [ 3783961335] elmeniii             (   42.8,     9.2,     7.4)
+  luz verde 
+2023-01-24T07:56:02Z: PLAYER CHATTED [ 3783961335] elmeniii             (   42.8,     9.2,     7.4)
+  luz roja 
+2023-01-24T07:56:09Z: PLAYER CHATTED [ 3783961335] elmeniii             (   51.6,     9.2,    -0.7)
+  aa
+2023-01-24T07:56:09Z: PLAYER CHATTED [ 4263142697] Axsol766             (   48.8,     9.5,     8.2)
+  te la come 
+2023-01-24T07:56:12Z: PLAYER CHATTED [  752521171] km347377             (   42.8,     9.2,    18.3)
+  hola amigubis
+2023-01-24T07:56:14Z: PLAYER CHATTED [ 4263142697] Axsol766             (   43.5,     9.5,    -0.8)
+  s
+2023-01-24T07:56:29Z: PLAYER CHATTED [ 4263142697] Axsol766             (   52.9,     9.5,    17.8)
+  xdddd
+2023-01-24T07:56:38Z: PLAYER CHATTED [ 3783961335] elmeniii             (   52.0,     9.2,     9.9)
+  me voy pónganse en la línea 
+2023-01-24T07:56:48Z: CHRCTER ADDED  [ 3783961335] elmeniii             a.k.a. Goku_ul             
+2023-01-24T07:56:48Z: PLAYER REMOVED [ 4263142697] Axsol766            
+2023-01-24T07:56:53Z: CHRCTER ADDED  [ 3046627253] quesitos2201        
+2023-01-24T07:57:37Z: PLAYER REMOVED [  752521171] km347377            
+2023-01-24T07:57:49Z: PLAYER ADDED   [ 1375824404] sirclo12456          a.k.a. D4M0N               
+2023-01-24T07:57:56Z: PLAYER ADDED   [ 1715047189] green4009           
+2023-01-24T07:57:59Z: PLAYER CHATTED [ 3555512049] xMaCasilx            (   69.5,    10.4,    -7.5)
+  soy un lobo solitario 
+2023-01-24T07:58:04Z: PLAYER CHATTED [ 3555512049] xMaCasilx            (   69.5,    10.4,    -7.5)
+  auuuu
+2023-01-24T07:58:05Z: PLAYER CHATTED [ 3783961335] elmeniii             (   32.3,    44.3,    15.7)
+  vay
+2023-01-24T07:58:13Z: PLAYER CHATTED [ 1375824404] sirclo12456          (   22.0,     9.6,     1.2)
+  XD
+2023-01-24T07:58:15Z: PLAYER ADDED   [ 3618020953] La_Reniixd           a.k.a. Reniiunu            
+2023-01-24T07:58:19Z: PLAYER CHATTED [ 1375824404] sirclo12456          (   22.5,     9.6,    -3.2)
+  hi bro
+2023-01-24T07:58:23Z: PLAYER CHATTED [ 1715047189] green4009            (   23.2,     9.5,    -6.9)
+  hi
+2023-01-24T07:58:29Z: PLAYER CHATTED [ 1715047189] green4009            (   22.1,     9.5,    -3.2)
+  furry
+2023-01-24T07:58:40Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
