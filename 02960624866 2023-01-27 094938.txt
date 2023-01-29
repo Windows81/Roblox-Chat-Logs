@@ -1,0 +1,49 @@
+[    1630228] : [ 2960624866] Septicentricity [no longer in progress] - 198fb03d-8cb1-4dd1-8f95-30e2f403376f
+2023-01-27T09:49:38Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-27T09:49:38Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-27T09:49:38Z: PLAYER ADDED   [ 2561170069] CoolanTrader        
+2023-01-27T09:49:49Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -18.6,    16.9,   -85.6)
+  so you really only make show cases?
+2023-01-27T09:49:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -35.7,    17.2,   -74.8)
+  I also make plugins.
+2023-01-27T09:49:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -38.4,    17.3,   -81.1)
+  (Used to).
+2023-01-27T09:50:00Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -46.1,    16.8,   -81.5)
+  what kind
+2023-01-27T09:50:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -47.7,    17.3,   -84.0)
+  Visual plugins.
+2023-01-27T09:50:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -59.3,    17.3,   -84.1)
+  Building plugins.
+2023-01-27T09:50:37Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -33.4,    32.8,  -123.1)
+  how long did all this take you?
+2023-01-27T09:50:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -28.5,    33.3,   -81.5)
+  Long enough.
+2023-01-27T09:51:09Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -37.4,    33.3,   -81.6)
+  I spend a lot of time in one project then abandon it.
+2023-01-27T09:51:23Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -99.7,    33.8,   -38.4)
+  you should make a subway
+2023-01-27T09:51:26Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -99.7,    33.8,   -38.4)
+  underground
+2023-01-27T09:51:31Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -65.5,    33.3,   -78.0)
+  I have a lot of stuff to reuse in future parts of Kubla Khan!
+2023-01-27T09:52:10Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -25.0,    33.8,   -60.5)
+  I'll be off.
+2023-01-27T09:52:15Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -70.4,    34.2,   -83.2)
+  alright
+2023-01-27T09:52:17Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -25.0,    33.8,   -60.5)
+  Oh wait!
+2023-01-27T09:52:17Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -57.3,    32.8,   -79.2)
+  ell
+2023-01-27T09:52:18Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -56.6,    32.8,   -79.2)
+  well
+2023-01-27T09:52:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -25.0,    33.8,   -60.5)
+  I was an idiot.
+2023-01-27T09:52:24Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -25.0,    33.8,   -60.5)
+  It's 01:52 for me.
+2023-01-27T09:52:29Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -24.5,    33.8,   -60.0)
+  I am stuck in PDT.
+2023-01-27T09:52:39Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -21.7,    33.3,   -78.4)
+  oh
+2023-01-27T09:52:52Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -23.7,    33.8,   -58.8)
+  Take care!
+2023-01-27T09:52:54Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

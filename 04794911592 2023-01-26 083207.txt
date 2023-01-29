@@ -1,3 +1,8 @@
 [    1630228] : [ 4794911592] The Kubla Khan Las Vegas • Hotel Showcase, W.I.P. - 8c57db3e-428a-4d6b-b9f9-e7e603f84423
 2023-01-26T08:32:07Z: CHAT STREAM SUCCESSFULLY STARTED
 2023-01-26T08:32:07Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-26T08:47:04Z: PLAYER ADDED   [ 4136450455] fernanda13Adr        a.k.a. Domelipa            
+2023-01-26T08:47:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (  110.4,   190.8,   118.1)
+  Hi.
+2023-01-26T08:52:41Z: PLAYER REMOVED [ 4136450455] fernanda13Adr        a.k.a. Domelipa            
+2023-01-26T08:52:51Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

@@ -1,0 +1,416 @@
+[    1630228] : [ 6428109080] Roblox Developer Hangout - 5da8c4dd-4aeb-46dc-87f1-c6c82298c447
+2023-01-27T08:35:14Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-27T08:35:14Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-27T08:35:14Z: PLAYER ADDED   [ 4064957897] dellyxzooted         a.k.a. DDDDDDDW            
+2023-01-27T08:35:14Z: PLAYER ADDED   [ 3629091010] ToiletPotatos       
+2023-01-27T08:35:14Z: PLAYER ADDED   [ 1838840269] Gaminghamy           a.k.a. TheRealHamy         
+2023-01-27T08:35:14Z: PLAYER ADDED   [  259877977] tudorper2            a.k.a. tudor               
+2023-01-27T08:35:30Z: PLAYER ADDED   [ 1598277097] Alina01074          
+2023-01-27T08:36:25Z: PLAYER CHATTED [ 1598277097] Alina01074           (  -59.6,    66.9,     2.2)
+  Привет 
+2023-01-27T08:36:30Z: PLAYER REMOVED [  259877977] tudorper2            a.k.a. tudor               
+2023-01-27T08:36:30Z: PLAYER REMOVED [ 1598277097] Alina01074          
+2023-01-27T08:36:58Z: PLAYER REMOVED [ 1838840269] Gaminghamy           a.k.a. TheRealHamy         
+2023-01-27T08:37:02Z: PLAYER ADDED   [ 4181975516] milkismiss555       
+2023-01-27T08:37:30Z: PLAYER ADDED   [   12896995] Envisonare          
+2023-01-27T08:38:34Z: PLAYER ADDED   [   21856646] coolwolf53          
+2023-01-27T08:39:05Z: PLAYER REMOVED [ 4181975516] milkismiss555       
+2023-01-27T08:39:55Z: PLAYER REMOVED [   21856646] coolwolf53          
+2023-01-27T08:41:09Z: PLAYER ADDED   [ 3932994739] dharen1125          
+2023-01-27T08:41:45Z: PLAYER REMOVED [ 3932994739] dharen1125          
+2023-01-27T08:42:06Z: PLAYER ADDED   [ 3994782679] bigpepbolls          a.k.a. Noob                
+2023-01-27T08:43:07Z: PLAYER ADDED   [ 1408613403] lq6j                 a.k.a. jeremiah            
+2023-01-27T08:43:46Z: PLAYER REMOVED [ 1408613403] lq6j                 a.k.a. jeremiah            
+2023-01-27T08:45:24Z: CHRCTER ADDED  [   12896995] Envisonare          
+2023-01-27T08:47:26Z: PLAYER ADDED   [ 2561170069] CoolanTrader        
+2023-01-27T08:48:02Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -43.8,    66.5,     2.6)
+  anyone want a custom logo
+2023-01-27T08:48:14Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (   11.2,    66.4,     8.2)
+  Toilet
+2023-01-27T08:48:24Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (   11.2,    66.4,     8.2)
+  I can make you a really good logo for cheao
+2023-01-27T08:48:39Z: PLAYER ADDED   [ 2853853477] AndroOid_10          a.k.a. S3_Aiden            
+2023-01-27T08:48:43Z: CHRCTER ADDED  [ 2853853477] AndroOid_10          a.k.a. S3_Aiden            
+2023-01-27T08:48:55Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -55.5,    66.5,     4.9)
+  ABC FOR GOOD LOGO MADE
+2023-01-27T08:49:23Z: PLAYER ADDED   [ 2701264100] RaidOxxyYT           a.k.a. Bine_Bingo          
+2023-01-27T08:49:27Z: PLAYER REMOVED [ 3629091010] ToiletPotatos       
+2023-01-27T08:49:46Z: PLAYER CHATTED [ 2853853477] AndroOid_10          (  -61.4,    66.9,     1.7)
+  hi i make group logo, game logo, ad, clothes and script
+2023-01-27T08:49:46Z: PLAYER REMOVED [ 3994782679] bigpepbolls          a.k.a. Noob                
+2023-01-27T08:49:51Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -50.3,    66.5,     4.0)
+  I can
+2023-01-27T08:49:53Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -53.4,    66.5,     3.6)
+  do logo
+2023-01-27T08:49:57Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -53.4,    66.5,     3.6)
+  and possible scripting
+2023-01-27T08:50:02Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -53.4,    66.5,     3.6)
+  what do you need done
+2023-01-27T08:50:03Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -53.4,    66.5,     3.6)
+  ?
+2023-01-27T08:50:07Z: PLAYER ADDED   [  696048619] sseydi               a.k.a. Dragon              
+2023-01-27T08:50:16Z: PLAYER CHATTED [ 2853853477] AndroOid_10          (  -57.7,    66.8,     3.9)
+  hi i make group logo, game logo, ad, clothes and script and i sell maps
+2023-01-27T08:50:17Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -55.0,    67.5,     0.0)
+  I'm looking for feedbacka nd marketing advice.
+2023-01-27T08:50:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -55.0,    67.5,     0.0)
+  *And.
+2023-01-27T08:50:20Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -53.4,    66.5,     3.6)
+  /w AndroOid_10  I can
+2023-01-27T08:50:25Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -53.4,    66.5,     3.6)
+  i am not a meme 0545
+2023-01-27T08:50:33Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -53.4,    66.5,     3.6)
+  I can send you photos I have made\
+2023-01-27T08:50:33Z: PLAYER ADDED   [ 4211081260] JuzEatt              a.k.a. JuzEatYT            
+2023-01-27T08:50:37Z: PLAYER REMOVED [  696048619] sseydi               a.k.a. Dragon              
+2023-01-27T08:50:42Z: PLAYER CHATTED [ 2853853477] AndroOid_10          (  -60.2,    66.8,    -2.5)
+  hi i make group logo, game logo, ad, clothes and script and i sell maps
+2023-01-27T08:50:55Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -56.3,    67.5,     0.9)
+  S3_:
+2023-01-27T08:50:56Z: PLAYER ADDED   [ 3576363214] ESMAILMSB            a.k.a. ESMAIL_EU           
+2023-01-27T08:50:56Z: PLAYER REMOVED [ 2561170069] CoolanTrader        
+2023-01-27T08:51:04Z: PLAYER CHATTED [ 2853853477] AndroOid_10          (  -53.2,    66.8,     2.9)
+  ?
+2023-01-27T08:51:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -56.3,    67.5,     0.9)
+  Do you have a link to any of your maps?
+2023-01-27T08:51:14Z: PLAYER CHATTED [ 2853853477] AndroOid_10          (  -53.2,    66.8,     2.9)
+  ya
+2023-01-27T08:51:20Z: PLAYER CHATTED [ 4211081260] JuzEatt              (  -55.6,    66.6,     4.3)
+  you mean a portfolio?
+2023-01-27T08:51:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -55.9,    67.5,     1.1)
+  Sure.
+2023-01-27T08:51:32Z: PLAYER CHATTED [ 2853853477] AndroOid_10          (  -53.2,    66.8,     2.9)
+  hi i make group logo, game logo, ad, clothes and script and i sell maps
+2023-01-27T08:51:42Z: PLAYER CHATTED [ 3576363214] ESMAILMSB            (  -55.4,    66.8,     2.2)
+  making non gfx icons, thumbnails,logos
+2023-01-27T08:51:51Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -48.7,    77.0,   -10.4)
+  Juz:
+2023-01-27T08:51:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -48.7,    77.0,   -10.4)
+  What brings you here?
+2023-01-27T08:52:02Z: PLAYER CHATTED [ 2853853477] AndroOid_10          (  -61.2,    66.8,     5.6)
+  hi i make group logo, game logo/game thumbnail, ad, clothes and script and i sell maps
+2023-01-27T08:52:09Z: PLAYER ADDED   [ 3577953011] gameraazvb          
+2023-01-27T08:52:14Z: PLAYER CHATTED [ 4211081260] JuzEatt              (  -56.5,    75.8,   -11.7)
+  Just vibing a bit looking what people offer for what jobs
+2023-01-27T08:52:15Z: PLAYER CHATTED [ 3576363214] ESMAILMSB            (  -56.3,    66.8,     7.8)
+  making non gfx icons, thumbnails,logos
+2023-01-27T08:52:17Z: PLAYER CHATTED [ 2853853477] AndroOid_10          (  -63.1,    66.8,     1.1)
+  hi i make group logo, game logo/game thumbnail, ad, clothes and script and i sell maps
+2023-01-27T08:52:27Z: PLAYER CHATTED [ 4211081260] JuzEatt              (  -56.5,    75.8,   -11.7)
+  and I am waiting for someone to agree with my job ad
+2023-01-27T08:52:38Z: PLAYER CHATTED [ 2853853477] AndroOid_10          (  -63.1,    66.8,     1.1)
+  hi i make group logo, game logo/game thumbnail, ad, clothes and script and i sell maps
+2023-01-27T08:52:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -47.4,    77.7,   -10.3)
+  What do you provide?
+2023-01-27T08:52:45Z: PLAYER CHATTED [ 3576363214] ESMAILMSB            (  -58.2,    66.8,    -2.0)
+  making non gfx icons, thumbnails,logos
+2023-01-27T08:52:51Z: PLAYER CHATTED [ 4211081260] JuzEatt              (  -57.4,    76.3,   -11.8)
+  I do pretty much everything tbh...
+2023-01-27T08:52:54Z: PLAYER REMOVED [ 4064957897] dellyxzooted         a.k.a. DDDDDDDW            
+2023-01-27T08:53:02Z: PLAYER ADDED   [ 3994782679] bigpepbolls          a.k.a. Noob                
+2023-01-27T08:53:04Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -56.3,    76.8,   -14.4)
+  I'm much the same.
+2023-01-27T08:53:10Z: PLAYER CHATTED [ 3576363214] ESMAILMSB            (  -60.7,    66.8,    -2.7)
+  making non gfx icons, thumbnails,logos
+2023-01-27T08:53:11Z: PLAYER CHATTED [ 2853853477] AndroOid_10          (  -56.2,    66.8,    -2.9)
+  hey bro
+2023-01-27T08:53:14Z: PLAYER CHATTED [ 4211081260] JuzEatt              (  -57.4,    76.3,   -11.8)
+  except lightning I just dont get it
+2023-01-27T08:53:19Z: PLAYER CHATTED [ 4211081260] JuzEatt              (  -57.4,    76.3,   -11.8)
+  too complex for me
+2023-01-27T08:53:23Z: PLAYER CHATTED [ 4211081260] JuzEatt              (  -57.4,    76.3,   -11.8)
+  idk why
+2023-01-27T08:53:23Z: PLAYER REMOVED [   12896995] Envisonare          
+2023-01-27T08:53:23Z: PLAYER CHATTED [ 2853853477] AndroOid_10          (  -56.2,    66.8,    -2.9)
+  do u have permission to upload it?
+2023-01-27T08:53:27Z: PLAYER CHATTED [ 3576363214] ESMAILMSB            (  -60.9,    66.8,    -1.9)
+  making non gfx icons, thumbnails,logos
+2023-01-27T08:53:29Z: PLAYER CHATTED [ 2853853477] AndroOid_10          (  -59.7,    66.8,    -0.5)
+  hi i make group logo, game logo/game thumbnail, ad, clothes and script and i sell maps
+2023-01-27T08:53:29Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -56.3,    76.8,   -14.4)
+  Thunder is very hard to recreate.
+2023-01-27T08:53:37Z: PLAYER CHATTED [ 4211081260] JuzEatt              (  -57.4,    76.3,   -11.8)
+  yeah
+2023-01-27T08:53:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -56.3,    76.8,   -14.4)
+  Lightning comes before the thunder.
+2023-01-27T08:53:49Z: PLAYER CHATTED [ 2853853477] AndroOid_10          (  -60.4,    66.8,     0.6)
+  hi i make group logo, game logo/game thumbnail, ad, clothes and script and i sell maps
+2023-01-27T08:53:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -56.3,    76.8,   -14.4)
+  Lighting is beast of its own.
+2023-01-27T08:53:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -56.3,    76.8,   -14.4)
+  *A beast.
+2023-01-27T08:53:56Z: PLAYER CHATTED [ 3994782679] bigpepbolls          (  -61.4,    66.4,     1.7)
+  ok
+2023-01-27T08:54:04Z: PLAYER CHATTED [ 2853853477] AndroOid_10          (  -60.4,    66.8,     0.6)
+  need any
+2023-01-27T08:54:08Z: PLAYER CHATTED [ 4211081260] JuzEatt              (  -57.4,    76.3,   -11.8)
+  What game u make?
+2023-01-27T08:54:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -56.3,    76.7,   -14.4)
+  Kubla Khan.
+2023-01-27T08:54:19Z: PLAYER CHATTED [ 4211081260] JuzEatt              (  -58.9,    77.2,   -12.8)
+  Whats that?
+2023-01-27T08:54:22Z: PLAYER CHATTED [ 3994782679] bigpepbolls          (  -61.6,    66.3,    10.8)
+  no
+2023-01-27T08:54:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -56.3,    76.7,   -14.4)
+  It's a hotel showcase I've worked on since 2020.
+2023-01-27T08:54:34Z: PLAYER CHATTED [ 4211081260] JuzEatt              (  -57.6,    75.8,   -10.8)
+  Oh very nice
+2023-01-27T08:54:43Z: PLAYER CHATTED [ 4211081260] JuzEatt              (  -57.6,    75.8,   -10.8)
+  Sounds really unique too
+2023-01-27T08:54:46Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -56.3,    76.7,   -14.4)
+  Thanks!
+2023-01-27T08:54:52Z: PLAYER CHATTED [ 2853853477] AndroOid_10          (  -65.4,    74.3,    11.4)
+  hi i make group logo, game logo/game thumbnail, ad, clothes and script , i sell maps, makes screen gui
+2023-01-27T08:54:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -56.3,    76.7,   -14.4)
+  I'm looking for marketing advice.
+2023-01-27T08:55:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -56.3,    76.7,   -14.4)
+  I also want to know how to and to whom I should market.
+2023-01-27T08:55:32Z: PLAYER CHATTED [ 4211081260] JuzEatt              (  -57.6,    75.8,   -10.8)
+  So you want to monetize your game or what?
+2023-01-27T08:55:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -56.3,    76.7,   -14.4)
+  Likely.
+2023-01-27T08:55:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -56.3,    76.7,   -14.4)
+  My game is a work of art.
+2023-01-27T08:55:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -56.3,    76.7,   -14.4)
+  Monetisation isn't a goal of mine.
+2023-01-27T08:55:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -56.3,    76.7,   -14.4)
+  Publicity is.
+2023-01-27T08:56:01Z: PLAYER CHATTED [ 2853853477] AndroOid_10          (  -51.5,    66.8,     3.7)
+  hi i make group logo, game logo/game thumbnail, ad, clothes and script , i sell maps, makes screen gui(had deals over 1k)
+2023-01-27T08:56:07Z: PLAYER CHATTED [ 4211081260] JuzEatt              (  -57.6,    75.8,   -10.8)
+  So you look for advertisors
+2023-01-27T08:56:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -56.7,    77.0,   -14.6)
+  I don't accept friend requests.
+2023-01-27T08:56:21Z: PLAYER REMOVED [ 3576363214] ESMAILMSB            a.k.a. ESMAIL_EU           
+2023-01-27T08:56:32Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -56.4,    76.8,   -14.5)
+  Something like that.
+2023-01-27T08:56:45Z: PLAYER CHATTED [ 4211081260] JuzEatt              (  -57.6,    75.8,   -10.8)
+  hard
+2023-01-27T08:56:52Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -56.4,    76.8,   -14.5)
+  I want to make sure I'm reaching out the right way.
+2023-01-27T08:56:59Z: PLAYER ADDED   [ 2561170069] CoolanTrader        
+2023-01-27T08:57:03Z: PLAYER CHATTED [ 2853853477] AndroOid_10          (  -56.3,    66.8,     2.5)
+  hi i make group logo, game logo/game thumbnail, ad, clothes and script , i sell maps, makes screen gui(had deals over 1k)
+2023-01-27T08:57:21Z: PLAYER CHATTED [ 4211081260] JuzEatt              (  -57.6,    75.8,   -10.8)
+  Yeah I understand but hard to get your game famous without losing money
+2023-01-27T08:57:22Z: PLAYER CHATTED [ 2853853477] AndroOid_10          (  -72.0,    67.2,    33.8)
+  hi i make group logo, game logo/game thumbnail, ad, clothes and script , i sell maps, makes screen gui(had deals over 1k)
+2023-01-27T08:57:35Z: PLAYER CHATTED [ 4211081260] JuzEatt              (  -57.6,    75.8,   -10.8)
+  I recommend u to get an investor
+2023-01-27T08:57:51Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -56.4,    76.8,   -14.5)
+  Do you look like someone who only visits places because the owners lost a lot of money?
+2023-01-27T08:57:52Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -58.8,    75.7,   -16.3)
+  want me to test your game/
+2023-01-27T08:57:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -56.7,    76.9,   -14.7)
+  Sure.
+2023-01-27T08:58:01Z: PLAYER CHATTED [ 2853853477] AndroOid_10          (  -59.9,    76.4,   -11.2)
+  ya get investor
+2023-01-27T08:58:10Z: PLAYER CHATTED [ 2853853477] AndroOid_10          (  -58.6,    77.3,   -12.6)
+  i got ### ######## ### ##
+2023-01-27T08:58:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -56.4,    76.8,   -14.6)
+  Dizzy?
+2023-01-27T08:58:18Z: PLAYER CHATTED [ 4211081260] JuzEatt              (  -57.6,    75.8,   -10.8)
+  Add donations
+2023-01-27T08:58:18Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -59.4,    75.6,   -16.3)
+  ill join you
+2023-01-27T08:58:20Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -59.4,    75.6,   -16.3)
+  yeah
+2023-01-27T08:58:23Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -59.4,    75.6,   -16.3)
+  i am not a meme 0545
+2023-01-27T08:58:25Z: PLAYER CHATTED [ 2853853477] AndroOid_10          (  -59.3,    77.4,   -12.9)
+  he told i will invest for 1k
+2023-01-27T08:58:44Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -59.4,    75.6,   -16.3)
+  I got 13k budget to build my game
+2023-01-27T08:58:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -56.4,    76.8,   -14.6)
+  I added Coolan.
+2023-01-27T08:58:47Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -59.4,    75.6,   -16.3)
+  already got map
+2023-01-27T08:58:48Z: PLAYER ADDED   [ 3371032933] xAliR_68             a.k.a. S0r1pt              
+2023-01-27T08:58:51Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -59.4,    75.6,   -16.3)
+  I just need to script it
+2023-01-27T08:58:54Z: PLAYER REMOVED [ 2853853477] AndroOid_10          a.k.a. S3_Aiden            
+2023-01-27T08:58:55Z: PLAYER ADDED   [   12896995] Envisonare          
+2023-01-27T08:58:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -56.4,    76.8,   -14.6)
+  I'm unfortunately not for hire.
+2023-01-27T08:59:06Z: PLAYER CHATTED [ 4211081260] JuzEatt              (  -59.6,    76.3,   -11.5)
+  You good at scripting?
+2023-01-27T08:59:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -56.4,    76.8,   -14.6)
+  I don't like spending my own moneys on a virtual platform.
+2023-01-27T08:59:19Z: PLAYER CHATTED [   12896995] Envisonare           (  -57.8,    76.5,   -12.5)
+  wsg coolan
+2023-01-27T08:59:19Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -59.4,    75.6,   -16.3)
+  Im good at soem scripting
+2023-01-27T08:59:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -56.4,    76.8,   -14.6)
+  That's why I'm only asking for advice.
+2023-01-27T08:59:23Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -59.4,    75.6,   -16.3)
+  and making logos
+2023-01-27T08:59:25Z: PLAYER CHATTED [   12896995] Envisonare           (  -58.2,    76.3,   -11.8)
+  u make any sells?
+2023-01-27T08:59:43Z: PLAYER CHATTED [ 3371032933] xAliR_68             (  -60.9,    66.4,     3.1)
+  want % from group?
+2023-01-27T08:59:51Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -56.6,    76.9,   -14.8)
+  I don't actively sell stuff.
+2023-01-27T08:59:57Z: PLAYER CHATTED [   12896995] Envisonare           (  -58.2,    76.8,   -12.9)
+  Not oyu.
+2023-01-27T08:59:59Z: PLAYER CHATTED [   12896995] Envisonare           (  -58.2,    76.8,   -12.9)
+  you
+2023-01-27T08:59:59Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -59.4,    75.6,   -16.3)
+  juz you want me to make you a game logo
+2023-01-27T09:00:00Z: PLAYER CHATTED [ 3371032933] xAliR_68             (  -60.6,    66.3,     4.8)
+  I have over 800 on my group rn
+2023-01-27T09:00:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -56.6,    76.9,   -14.8)
+  But my shirt is for 11 robux.
+2023-01-27T09:00:01Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -59.4,    75.6,   -16.3)
+  ?
+2023-01-27T09:00:03Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -56.6,    76.9,   -14.8)
+  Oh.
+2023-01-27T09:00:12Z: PLAYER CHATTED [ 4211081260] JuzEatt              (  -60.9,    76.3,   -13.5)
+  I got no money to invest rn
+2023-01-27T09:00:28Z: PLAYER CHATTED [ 4211081260] JuzEatt              (  -60.9,    76.3,   -13.5)
+  I have to wait for my job agreement then I can invest
+2023-01-27T09:00:29Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -60.0,    76.0,   -15.4)
+  how much you got rn
+2023-01-27T09:00:34Z: PLAYER CHATTED [ 3371032933] xAliR_68             (  -60.4,    66.3,     5.9)
+  ?
+2023-01-27T09:00:35Z: PLAYER CHATTED [ 4211081260] JuzEatt              (  -60.9,    76.3,   -13.5)
+  Nothing
+2023-01-27T09:00:35Z: PLAYER CHATTED [ 3371032933] xAliR_68             (  -60.4,    66.3,     5.9)
+  ?
+2023-01-27T09:00:39Z: PLAYER CHATTED [ 3371032933] xAliR_68             (  -60.4,    66.3,     5.9)
+  ?
+2023-01-27T09:00:39Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -60.0,    76.0,   -15.4)
+  robux
+2023-01-27T09:00:40Z: PLAYER CHATTED [ 4211081260] JuzEatt              (  -60.9,    76.3,   -13.5)
+  100 bobux only
+2023-01-27T09:00:40Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -60.0,    76.0,   -15.4)
+  ?
+2023-01-27T09:00:41Z: PLAYER CHATTED [ 3371032933] xAliR_68             (  -60.4,    66.3,     5.9)
+  ?
+2023-01-27T09:00:43Z: PLAYER CHATTED [ 3371032933] xAliR_68             (  -60.4,    66.3,     5.9)
+  .
+2023-01-27T09:00:54Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -60.0,    76.0,   -15.4)
+  I could make you a logo for 50
+2023-01-27T09:00:54Z: PLAYER CHATTED [ 4211081260] JuzEatt              (  -60.9,    76.3,   -13.5)
+  Spent everything on plugins...
+2023-01-27T09:00:56Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -60.0,    76.0,   -15.4)
+  2
+2023-01-27T09:01:10Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -60.0,    76.0,   -15.4)
+  2 logos for 50
+2023-01-27T09:01:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -57.1,    77.0,   -15.0)
+  Don't spend money on plugins.
+2023-01-27T09:01:15Z: PLAYER CHATTED [ 4211081260] JuzEatt              (  -60.9,    76.3,   -13.5)
+  nty not rn my game is in the early stage
+2023-01-27T09:01:16Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -60.0,    76.0,   -15.4)
+  I can send you some of my work
+2023-01-27T09:01:21Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -57.1,    77.0,   -15.0)
+  They only begun to cost money in 2022.
+2023-01-27T09:01:25Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -60.0,    76.0,   -15.4)
+  do you have a title
+2023-01-27T09:01:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -57.1,    77.0,   -15.0)
+  There are copies of existing tools which are distributed gratis.
+2023-01-27T09:01:39Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -60.0,    76.0,   -15.4)
+  the logo is for game title
+2023-01-27T09:01:42Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -60.0,    76.0,   -15.4)
+  I can do 25
+2023-01-27T09:01:46Z: PLAYER CHATTED [ 3371032933] xAliR_68             (  -53.7,    66.3,     6.4)
+  hello
+2023-01-27T09:01:51Z: PLAYER CHATTED [ 4211081260] JuzEatt              (  -60.9,    76.3,   -13.5)
+  Add me on dizzy
+2023-01-27T09:01:52Z: PLAYER CHATTED [ 3994782679] bigpepbolls          (  -61.6,    66.3,    10.8)
+  ?
+2023-01-27T09:01:58Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -60.0,    76.0,   -15.4)
+  i am not a meme 0545
+2023-01-27T09:02:03Z: PLAYER CHATTED [ 4211081260] JuzEatt              (  -60.9,    76.3,   -13.5)
+  I'll keep you in touch
+2023-01-27T09:02:03Z: PLAYER CHATTED [ 4211081260] JuzEatt              (  -60.9,    76.3,   -13.5)
+  I'll  keep you in touch
+2023-01-27T09:02:09Z: PLAYER CHATTED [ 3371032933] xAliR_68             (  -60.4,    66.3,     6.1)
+  I have a good community with lots of robux in group 
+2023-01-27T09:02:10Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -57.6,    77.7,   -13.2)
+  Juz:
+2023-01-27T09:02:12Z: PLAYER CHATTED [ 2561170069] CoolanTrader         (  -60.0,    76.0,   -15.4)
+  add me
+2023-01-27T09:02:13Z: PLAYER CHATTED [ 3371032933] xAliR_68             (  -60.4,    66.3,     6.1)
+  I wanted to ask
+2023-01-27T09:02:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -58.3,    78.1,   -13.3)
+  How do I add you?
+2023-01-27T09:02:22Z: PLAYER CHATTED [ 4211081260] JuzEatt              (  -60.9,    76.3,   -13.5)
+  added
+2023-01-27T09:02:23Z: PLAYER CHATTED [ 3371032933] xAliR_68             (  -60.4,    66.3,     6.1)
+  if u wanna help me like perm
+2023-01-27T09:02:24Z: PLAYER ADDED   [ 1434064394] Footylover1009       a.k.a. TheDevTommy         
+2023-01-27T09:02:25Z: PLAYER ADDED   [ 1690252859] MrGolet              a.k.a. Sam                 
+2023-01-27T09:02:33Z: PLAYER CHATTED [ 4211081260] JuzEatt              (  -60.9,    76.3,   -13.5)
+  JuzEat 9412
+2023-01-27T09:02:37Z: PLAYER CHATTED [ 3994782679] bigpepbolls          (  -61.6,    66.3,    10.8)
+  no i only do part
+2023-01-27T09:02:42Z: PLAYER CHATTED [ 3371032933] xAliR_68             (  -60.4,    66.3,     6.1)
+  hm
+2023-01-27T09:02:45Z: PLAYER CHATTED [ 3371032933] xAliR_68             (  -60.4,    66.3,     6.1)
+  u sure?
+2023-01-27T09:02:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -58.3,    78.1,   -13.3)
+  Added.
+2023-01-27T09:02:52Z: PLAYER CHATTED [ 1434064394] Footylover1009       (  -62.7,    66.3,     9.3)
+  wanna join dev team
+2023-01-27T09:02:52Z: PLAYER CHATTED [ 3994782679] bigpepbolls          (  -61.6,    66.3,    10.8)
+  yes
+2023-01-27T09:02:57Z: PLAYER CHATTED [ 3371032933] xAliR_68             (  -60.4,    66.3,     6.1)
+  I earn over 800 in a week
+2023-01-27T09:02:59Z: PLAYER CHATTED [ 3994782679] bigpepbolls          (  -61.6,    66.3,    10.8)
+  i alr am
+2023-01-27T09:03:04Z: PLAYER CHATTED [ 3994782679] bigpepbolls          (  -61.6,    66.3,    10.8)
+  remeber
+2023-01-27T09:03:08Z: PLAYER CHATTED [ 1690252859] MrGolet              (  -67.1,    66.7,     4.7)
+  selling maps
+2023-01-27T09:03:11Z: PLAYER CHATTED [ 1434064394] Footylover1009       (  -59.2,    66.3,    11.6)
+  wanna join my dev team
+2023-01-27T09:03:13Z: PLAYER CHATTED [ 3577953011] gameraazvb           (  -60.8,    75.2,   -10.2)
+  Hello 
+2023-01-27T09:03:15Z: PLAYER CHATTED [ 3994782679] bigpepbolls          (  -61.6,    66.3,    10.8)
+  i am
+2023-01-27T09:03:25Z: PLAYER CHATTED [ 1434064394] Footylover1009       (  -59.1,    66.3,    11.2)
+  wanna join mine tho
+2023-01-27T09:03:32Z: PLAYER CHATTED [ 3371032933] xAliR_68             (  -60.9,    66.3,     3.4)
+  just buildings .
+2023-01-27T09:03:37Z: PLAYER CHATTED [ 3371032933] xAliR_68             (  -60.9,    66.3,     3.4)
+  without scripts?
+2023-01-27T09:03:39Z: PLAYER CHATTED [ 3994782679] bigpepbolls          (  -60.3,    66.3,    11.1)
+  i alr joined urs
+2023-01-27T09:03:44Z: PLAYER CHATTED [ 1690252859] MrGolet              (  -67.1,    66.7,     4.7)
+  without
+2023-01-27T09:03:46Z: PLAYER CHATTED [ 3994782679] bigpepbolls          (  -60.3,    66.3,    11.1)
+  it says devs
+2023-01-27T09:03:47Z: PLAYER CHATTED [ 1690252859] MrGolet              (  -67.1,    66.7,     4.7)
+  scripts
+2023-01-27T09:03:49Z: PLAYER CHATTED [ 3371032933] xAliR_68             (  -62.3,    66.3,     3.5)
+  hm
+2023-01-27T09:03:51Z: PLAYER CHATTED [ 1434064394] Footylover1009       (  -57.6,    66.3,    10.7)
+  whor u
+2023-01-27T09:03:54Z: PLAYER CHATTED [ 1690252859] MrGolet              (  -67.1,    66.7,     4.7)
+  its a name your price
+2023-01-27T09:03:55Z: PLAYER CHATTED [ 3371032933] xAliR_68             (  -62.3,    66.3,     3.5)
+  k
+2023-01-27T09:03:57Z: PLAYER CHATTED [ 3994782679] bigpepbolls          (  -60.3,    66.3,    11.1)
+  ur scripter
+2023-01-27T09:03:59Z: PLAYER REMOVED [ 2561170069] CoolanTrader        
+2023-01-27T09:04:09Z: PLAYER CHATTED [ 1434064394] Footylover1009       (  -57.5,    66.3,    10.3)
+  ########
+2023-01-27T09:04:13Z: PLAYER CHATTED [ 3994782679] bigpepbolls          (  -60.3,    66.3,    11.1)
+  ive been working in my own baseplate
+2023-01-27T09:04:15Z: PLAYER CHATTED [ 1434064394] Footylover1009       (  -57.5,    66.3,    10.3)
+  ##############
+2023-01-27T09:04:19Z: PLAYER CHATTED [ 1434064394] Footylover1009       (  -57.5,    66.3,    10.3)
+  user
+2023-01-27T09:04:26Z: PLAYER CHATTED [ 3994782679] bigpepbolls          (  -60.3,    66.3,    11.1)
+  bigpep
+2023-01-27T09:04:27Z: PLAYER CHATTED [ 4211081260] JuzEatt              (  -60.9,    76.3,   -13.5)
+  added
+2023-01-27T09:04:31Z: PLAYER CHATTED [ 1434064394] Footylover1009       (  -57.5,    66.3,    10.3)
+  r u
+2023-01-27T09:04:38Z: PLAYER CHATTED [ 1434064394] Footylover1009       (  -57.5,    66.3,    10.3)
+  your towel
+2023-01-27T09:04:40Z: PLAYER CHATTED [ 3994782679] bigpepbolls          (  -60.3,    66.3,    11.1)
+  yes
+2023-01-27T09:04:48Z: PLAYER CHATTED [ 1434064394] Footylover1009       (  -57.5,    66.3,    10.3)
+  ohhhhhhhhhhh
+2023-01-27T09:04:58Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
