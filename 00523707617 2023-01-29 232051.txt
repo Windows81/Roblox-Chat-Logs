@@ -1,0 +1,48 @@
+[    1630228] : [  523707617] Universal Roblox Theme Park - 7fddd40b-3584-4477-8849-ab60eca6dc24
+2023-01-29T23:20:51Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-29T23:20:51Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-29T23:20:51Z: PLAYER ADDED   [   59888198] BigKrownzEnrique     a.k.a. SpanishFlossy       
+2023-01-29T23:20:51Z: PLAYER ADDED   [ 1601037990] katiecinn16          a.k.a. maddy               
+2023-01-29T23:20:51Z: PLAYER ADDED   [ 3769097880] Giantfluffybanana   
+2023-01-29T23:20:51Z: PLAYER ADDED   [   56202231] soleyrigang          a.k.a. Suli                
+2023-01-29T23:20:51Z: PLAYER ADDED   [ 2911005565] babyshark_Emma      
+2023-01-29T23:20:51Z: PLAYER ADDED   [ 3011871458] CharilBubble268      a.k.a. Ambz                
+2023-01-29T23:20:51Z: PLAYER ADDED   [ 4117272658] ExpidetionEverest    a.k.a. eternity            
+2023-01-29T23:20:51Z: PLAYER ADDED   [ 2455695987] Litzyxmega           a.k.a. Litzy               
+2023-01-29T23:20:51Z: PLAYER ADDED   [ 3648174108] Erick16nov          
+2023-01-29T23:20:51Z: PLAYER ADDED   [ 3075731571] Otaku23mia           a.k.a. people_a            
+2023-01-29T23:20:51Z: PLAYER ADDED   [  152594687] PlZZA_RoII           a.k.a. Driver              
+2023-01-29T23:20:51Z: PLAYER ADDED   [  118406655] 04srt400             a.k.a. SAR                 
+2023-01-29T23:20:51Z: PLAYER ADDED   [ 4253607299] Xxxx7890m           
+2023-01-29T23:20:51Z: PLAYER ADDED   [ 4214800286] yenikazoeortega31   
+2023-01-29T23:20:52Z: PLAYER ADDED   [   99877826] kamiya2007           a.k.a. Kamiya              
+2023-01-29T23:20:54Z: PLAYER ADDED   [ 2290844087] melelis123          
+2023-01-29T23:20:56Z: PLAYER ADDED   [ 2647550535] Goldenugget2021     
+2023-01-29T23:20:58Z: PLAYER ADDED   [ 2898798940] Romirangel13        
+2023-01-29T23:21:08Z: PLAYER ADDED   [ 1060424411] HECTOR_SANTIAGO3     a.k.a. Hector              
+2023-01-29T23:21:14Z: PLAYER ADDED   [ 1353830290] itsyagirlizzylove    a.k.a. Treasure            
+2023-01-29T23:21:18Z: PLAYER REMOVED [ 3011871458] CharilBubble268      a.k.a. Ambz                
+2023-01-29T23:21:30Z: PLAYER REMOVED [   56202231] soleyrigang          a.k.a. Suli                
+2023-01-29T23:21:31Z: PLAYER REMOVED [ 2290844087] melelis123          
+2023-01-29T23:21:45Z: PLAYER ADDED   [ 2250106016] cookiefan123346yas   a.k.a. Arii                
+2023-01-29T23:21:53Z: PLAYER ADDED   [ 4191075660] Ce10410             
+2023-01-29T23:21:55Z: PLAYER REMOVED [ 1060424411] HECTOR_SANTIAGO3     a.k.a. Hector              
+2023-01-29T23:21:58Z: PLAYER ADDED   [ 2533428537] Brynnxx2974          a.k.a. Big_toe             
+2023-01-29T23:22:09Z: PLAYER REMOVED [ 1353830290] itsyagirlizzylove    a.k.a. Treasure            
+2023-01-29T23:22:13Z: PLAYER ADDED   [ 4170826654] Destiny_White23     
+2023-01-29T23:22:20Z: PLAYER CHATTED [ 4117272658] ExpidetionEverest    (  266.8,     4.8,   -72.1)
+  bingo
+2023-01-29T23:22:22Z: PLAYER REMOVED [ 3648174108] Erick16nov          
+2023-01-29T23:22:24Z: PLAYER REMOVED [ 2455695987] Litzyxmega           a.k.a. Litzy               
+2023-01-29T23:22:36Z: PLAYER REMOVED [ 2533428537] Brynnxx2974          a.k.a. Big_toe             
+2023-01-29T23:22:50Z: PLAYER REMOVED [ 4170826654] Destiny_White23     
+2023-01-29T23:23:01Z: PLAYER REMOVED [ 3075731571] Otaku23mia           a.k.a. people_a            
+2023-01-29T23:23:02Z: PLAYER REMOVED [ 4253607299] Xxxx7890m           
+2023-01-29T23:23:04Z: PLAYER ADDED   [  303094159] liontail8           
+2023-01-29T23:23:04Z: PLAYER REMOVED [ 2250106016] cookiefan123346yas   a.k.a. Arii                
+2023-01-29T23:23:05Z: PLAYER ADDED   [ 2728973605] Cuteuniyun           a.k.a. YUN                 
+2023-01-29T23:23:13Z: PLAYER ADDED   [ 2801162309] PrincessNorah_123    a.k.a. NORAH               
+2023-01-29T23:23:14Z: PLAYER ADDED   [ 4214664105] cielomangouwu123456  a.k.a. Unagatitaquelegustae
+2023-01-29T23:23:16Z: PLAYER REMOVED [ 4214800286] yenikazoeortega31   
+2023-01-29T23:23:20Z: PLAYER ADDED   [ 4138412632] carlitos_dzrmz      
+2023-01-29T23:23:21Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

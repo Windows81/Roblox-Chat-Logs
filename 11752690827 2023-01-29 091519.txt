@@ -1,0 +1,181 @@
+[    1630228] : [11752690827] Rate and Roast - ac7342c2-c076-4c17-9a3f-d7967a2e7633
+2023-01-29T09:15:19Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-29T09:15:19Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-29T09:15:19Z: PLAYER ADDED   [  699763943] Aceboy6556           a.k.a. J0rdan              
+2023-01-29T09:15:19Z: PLAYER ADDED   [ 3823744350] Imaginebeing_gaeL    a.k.a. timmy_JR9121        
+2023-01-29T09:15:19Z: PLAYER ADDED   [ 3209337551] Hawkeye123teamworker
+2023-01-29T09:15:19Z: PLAYER ADDED   [ 2008848322] nvmbrrrr             a.k.a. tax                 
+2023-01-29T09:15:19Z: PLAYER ADDED   [ 2349424086] the_medi08          
+2023-01-29T09:15:19Z: PLAYER ADDED   [ 4140521877] opr4c               
+2023-01-29T09:15:19Z: PLAYER ADDED   [   77783587] zVexhy               a.k.a. zVexhyy             
+2023-01-29T09:15:19Z: PLAYER ADDED   [ 3489101518] De_man36             a.k.a. wannabepackgod      
+2023-01-29T09:15:19Z: PLAYER ADDED   [  493691058] Kniaoka             
+2023-01-29T09:15:19Z: PLAYER ADDED   [ 2772294433] Elimyguyhi           a.k.a. Subway              
+2023-01-29T09:15:19Z: PLAYER ADDED   [ 3918756619] Zoe12345slay         a.k.a. Zoe                 
+2023-01-29T09:15:19Z: PLAYER ADDED   [ 4288012172] ievdygg             
+2023-01-29T09:15:19Z: PLAYER CHATTED [ 3489101518] De_man36             ( -328.4,     8.6,   -48.4)
+  wasntme
+2023-01-29T09:15:22Z: PLAYER CHATTED [ 3489101518] De_man36             ( -328.4,     8.6,   -48.4)
+  wasn’t me
+2023-01-29T09:15:33Z: PLAYER CHATTED [ 3918756619] Zoe12345slay         ( -332.0,     8.9,   -51.3)
+  Mhm you said that you reported me
+2023-01-29T09:15:43Z: PLAYER CHATTED [ 3489101518] De_man36             ( -328.4,     8.6,   -48.4)
+  let’s just stop roasting each other
+2023-01-29T09:15:46Z: PLAYER REMOVED [ 2008848322] nvmbrrrr             a.k.a. tax                 
+2023-01-29T09:15:47Z: PLAYER CHATTED [ 3918756619] Zoe12345slay         ( -332.0,     8.9,   -51.3)
+  Ya
+2023-01-29T09:15:49Z: PLAYER CHATTED [ 2772294433] Elimyguyhi           ( -308.5,     9.6,   -28.5)
+  hey Google are there completely go harder
+2023-01-29T09:15:55Z: PLAYER CHATTED [ 3918756619] Zoe12345slay         ( -332.0,     8.9,   -51.3)
+  Honestly I’m tired
+2023-01-29T09:15:57Z: PLAYER REMOVED [ 4140521877] opr4c               
+2023-01-29T09:16:01Z: PLAYER CHATTED [ 3489101518] De_man36             ( -328.4,     8.6,   -48.4)
+  we’ve been roasting/packing each other for 15 mins or less
+2023-01-29T09:16:05Z: PLAYER CHATTED [ 3489101518] De_man36             ( -328.4,     8.6,   -48.4)
+  go to bed
+2023-01-29T09:16:08Z: PLAYER CHATTED [ 3918756619] Zoe12345slay         ( -332.0,     8.9,   -51.3)
+  No
+2023-01-29T09:16:12Z: PLAYER CHATTED [ 3489101518] De_man36             ( -328.4,     8.6,   -48.4)
+  ok
+2023-01-29T09:16:16Z: PLAYER REMOVED [  493691058] Kniaoka             
+2023-01-29T09:16:18Z: PLAYER CHATTED [ 2772294433] Elimyguyhi           ( -331.7,     9.7,   -45.1)
+  it's the weekend
+2023-01-29T09:16:22Z: PLAYER CHATTED [ 3489101518] De_man36             ( -328.4,     8.6,   -48.4)
+  ima play smth else on my main maybe
+2023-01-29T09:16:23Z: PLAYER CHATTED [ 3918756619] Zoe12345slay         ( -332.0,     8.9,   -51.3)
+  Its 4:16 am
+2023-01-29T09:16:27Z: PLAYER REMOVED [ 3823744350] Imaginebeing_gaeL    a.k.a. timmy_JR9121        
+2023-01-29T09:16:31Z: PLAYER ADDED   [ 4140521877] opr4c               
+2023-01-29T09:16:34Z: PLAYER CHATTED [ 3489101518] De_man36             ( -328.2,     8.6,   -51.5)
+  for me it’s 3:16 am
+2023-01-29T09:16:38Z: PLAYER CHATTED [ 3918756619] Zoe12345slay         ( -332.0,     8.9,   -51.3)
+  Oop
+2023-01-29T09:16:42Z: PLAYER CHATTED [ 2772294433] Elimyguyhi           ( -331.2,     9.7,   -47.9)
+  I'm staying up to 12:00
+2023-01-29T09:16:49Z: PLAYER CHATTED [ 3489101518] De_man36             ( -328.2,     8.6,   -51.5)
+  advice for school:it’s useless
+2023-01-29T09:16:57Z: CHRCTER ADDED  [ 2349424086] the_medi08          
+2023-01-29T09:17:02Z: PLAYER CHATTED [ 3918756619] Zoe12345slay         ( -332.0,     8.9,   -51.3)
+  Agreed 
+2023-01-29T09:17:03Z: PLAYER CHATTED [ 2772294433] Elimyguyhi           ( -329.9,     9.7,   -48.2)
+  still have school on the weekends
+2023-01-29T09:17:11Z: PLAYER REMOVED [   77783587] zVexhy               a.k.a. zVexhyy             
+2023-01-29T09:17:15Z: PLAYER CHATTED [ 3918756619] Zoe12345slay         ( -331.6,     8.9,   -52.1)
+  WHAT I DONT
+2023-01-29T09:17:15Z: PLAYER CHATTED [ 3489101518] De_man36             ( -328.2,     8.6,   -51.5)
+  dang a 5th grader agreed with me
+2023-01-29T09:17:31Z: PLAYER CHATTED [ 3489101518] De_man36             ( -328.2,     8.6,   -51.5)
+  ima go
+2023-01-29T09:17:32Z: CHRCTER ADDED  [ 4140521877] opr4c               
+2023-01-29T09:17:36Z: PLAYER CHATTED [ 3918756619] Zoe12345slay         ( -333.9,     8.9,   -54.7)
+  You have schools on weekends 
+2023-01-29T09:17:41Z: PLAYER CHATTED [ 2772294433] Elimyguyhi           ( -333.1,     9.7,   -51.9)
+  thank you for getting that white man out of here
+2023-01-29T09:17:42Z: PLAYER CHATTED [ 3489101518] De_man36             ( -329.1,     8.6,   -52.1)
+  great and cool time roasting u
+2023-01-29T09:17:43Z: PLAYER CHATTED [ 3918756619] Zoe12345slay         ( -333.9,     8.9,   -54.7)
+  Ok bye
+2023-01-29T09:17:44Z: PLAYER CHATTED [ 3209337551] Hawkeye123teamworker ( -354.1,    10.2,   -40.9)
+  ##
+2023-01-29T09:17:48Z: PLAYER CHATTED [ 3918756619] Zoe12345slay         ( -332.4,     8.9,   -55.1)
+  Same
+2023-01-29T09:17:49Z: CHRCTER ADDED  [ 4140521877] opr4c               
+2023-01-29T09:17:49Z: PLAYER CHATTED [ 3489101518] De_man36             ( -329.0,     8.6,   -52.2)
+  bye bye
+2023-01-29T09:17:51Z: PLAYER REMOVED [ 3489101518] De_man36             a.k.a. wannabepackgod      
+2023-01-29T09:17:52Z: PLAYER CHATTED [ 3918756619] Zoe12345slay         ( -332.4,     8.9,   -55.1)
+  Bye
+2023-01-29T09:17:53Z: PLAYER CHATTED [ 3209337551] Hawkeye123teamworker ( -354.2,    10.2,   -40.8)
+  !?
+2023-01-29T09:17:56Z: PLAYER REMOVED [ 2772294433] Elimyguyhi           a.k.a. Subway              
+2023-01-29T09:17:58Z: PLAYER CHATTED [ 3918756619] Zoe12345slay         ( -333.5,     8.9,   -57.0)
+  😈 
+2023-01-29T09:18:04Z: CHRCTER ADDED  [ 4140521877] opr4c               
+2023-01-29T09:18:25Z: PLAYER ADDED   [ 3489101518] De_man36             a.k.a. wannabepackgod      
+2023-01-29T09:18:33Z: PLAYER REMOVED [ 3489101518] De_man36             a.k.a. wannabepackgod      
+2023-01-29T09:18:34Z: PLAYER CHATTED [ 3918756619] Zoe12345slay         ( -333.5,     8.9,   -57.0)
+  Really
+2023-01-29T09:19:01Z: CHRCTER ADDED  [ 2349424086] the_medi08          
+2023-01-29T09:19:16Z: PLAYER CHATTED [ 3918756619] Zoe12345slay         ( -329.0,     8.9,   -45.0)
+  Opr4c is sus
+2023-01-29T09:19:34Z: PLAYER REMOVED [ 3209337551] Hawkeye123teamworker
+2023-01-29T09:19:39Z: PLAYER REMOVED [ 3918756619] Zoe12345slay         a.k.a. Zoe                 
+2023-01-29T09:19:56Z: PLAYER REMOVED [  699763943] Aceboy6556           a.k.a. J0rdan              
+2023-01-29T09:20:14Z: PLAYER ADDED   [ 3888370645] YourNormalNagg_ar   
+2023-01-29T09:20:48Z: CHRCTER ADDED  [ 2349424086] the_medi08          
+2023-01-29T09:21:16Z: PLAYER ADDED   [ 2240732192] amelyushkaa         
+2023-01-29T09:21:24Z: CHRCTER ADDED  [ 2240732192] amelyushkaa         
+2023-01-29T09:21:25Z: PLAYER CHATTED [ 4288012172] ievdygg              ( -281.2,     8.6,   -88.5)
+  gago
+2023-01-29T09:21:36Z: PLAYER CHATTED [ 4140521877] opr4c                ( -271.1,     8.4,   -84.9)
+  U RUIND ME U LOSER
+2023-01-29T09:21:36Z: PLAYER CHATTED [ 4288012172] ievdygg              ( -275.2,     8.6,   -79.7)
+  hahahhhaha
+2023-01-29T09:21:40Z: PLAYER CHATTED [ 4140521877] opr4c                ( -272.3,     8.4,   -82.8)
+  IM GOING TO AHCK U
+2023-01-29T09:21:43Z: PLAYER CHATTED [ 4140521877] opr4c                ( -272.3,     8.4,   -82.8)
+  HACK
+2023-01-29T09:21:47Z: PLAYER ADDED   [ 4288082283] YourNormalNagg_arBot
+2023-01-29T09:21:49Z: PLAYER CHATTED [ 4288012172] ievdygg              ( -275.2,     8.6,   -79.7)
+  ok
+2023-01-29T09:21:51Z: PLAYER REMOVED [ 3888370645] YourNormalNagg_ar   
+2023-01-29T09:22:01Z: PLAYER CHATTED [ 4288012172] ievdygg              ( -275.2,     8.6,   -79.7)
+  i don't care
+2023-01-29T09:22:27Z: PLAYER CHATTED [ 4288012172] ievdygg              ( -274.8,     8.6,   -78.7)
+  byee
+2023-01-29T09:22:41Z: PLAYER ADDED   [ 2567565707] oeAthena             a.k.a. nyra                
+2023-01-29T09:22:45Z: PLAYER REMOVED [ 2567565707] oeAthena             a.k.a. nyra                
+2023-01-29T09:22:48Z: PLAYER REMOVED [ 4140521877] opr4c               
+2023-01-29T09:22:54Z: PLAYER REMOVED [ 4288012172] ievdygg             
+2023-01-29T09:23:24Z: PLAYER ADDED   [ 3888370645] YourNormalNagg_ar   
+2023-01-29T09:23:26Z: PLAYER REMOVED [ 4288082283] YourNormalNagg_arBot
+2023-01-29T09:23:43Z: PLAYER ADDED   [  947758855] Buddybuddie04       
+2023-01-29T09:24:36Z: PLAYER REMOVED [ 3888370645] YourNormalNagg_ar   
+2023-01-29T09:27:57Z: CHRCTER ADDED  [ 2240732192] amelyushkaa         
+2023-01-29T09:28:15Z: CHRCTER ADDED  [ 2240732192] amelyushkaa         
+2023-01-29T09:28:39Z: CHRCTER ADDED  [ 2349424086] the_medi08          
+2023-01-29T09:28:42Z: PLAYER ADDED   [ 2343522934] mariana2217pro       a.k.a. iluvAnto            
+2023-01-29T09:28:50Z: CHRCTER ADDED  [ 2240732192] amelyushkaa         
+2023-01-29T09:28:57Z: CHRCTER ADDED  [ 2349424086] the_medi08          
+2023-01-29T09:29:08Z: CHRCTER ADDED  [ 2343522934] mariana2217pro       a.k.a. iluvAnto            
+2023-01-29T09:29:11Z: CHRCTER ADDED  [  947758855] Buddybuddie04       
+2023-01-29T09:29:17Z: PLAYER REMOVED [ 2349424086] the_medi08          
+2023-01-29T09:29:19Z: PLAYER REMOVED [ 2343522934] mariana2217pro       a.k.a. iluvAnto            
+2023-01-29T09:29:35Z: PLAYER REMOVED [ 2240732192] amelyushkaa         
+2023-01-29T09:30:00Z: PLAYER ADDED   [  648984138] Ciciwas              a.k.a. Cici                
+2023-01-29T09:30:12Z: PLAYER REMOVED [  648984138] Ciciwas              a.k.a. Cici                
+2023-01-29T09:30:48Z: PLAYER ADDED   [ 1057551434] piercettheveil       a.k.a. mew                 
+2023-01-29T09:31:05Z: PLAYER REMOVED [ 1057551434] piercettheveil       a.k.a. mew                 
+2023-01-29T09:36:41Z: PLAYER REMOVED [  947758855] Buddybuddie04       
+2023-01-29T09:36:46Z: PLAYER ADDED   [  947758855] Buddybuddie04       
+2023-01-29T09:36:52Z: PLAYER REMOVED [  947758855] Buddybuddie04       
+2023-01-29T09:41:39Z: PLAYER ADDED   [ 2056614201] eduamigozin          a.k.a. Edu                 
+2023-01-29T09:41:46Z: PLAYER REMOVED [ 2056614201] eduamigozin          a.k.a. Edu                 
+2023-01-29T09:41:48Z: PLAYER ADDED   [ 4194266054] Ahlayah1357         
+2023-01-29T09:43:01Z: PLAYER CHATTED [ 4194266054] Ahlayah1357          ( -329.7,     8.9,   -89.9)
+  It’s 4:42 am in USA 
+2023-01-29T09:43:51Z: PLAYER CHATTED [ 4194266054] Ahlayah1357          ( -327.0,     8.9,   -87.4)
+  You ok 
+2023-01-29T09:44:01Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -326.8,     9.5,   -94.5)
+  I am watchign a video.
+2023-01-29T09:44:05Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -326.8,     9.5,   -94.5)
+  *Watching.
+2023-01-29T09:44:10Z: PLAYER CHATTED [ 4194266054] Ahlayah1357          ( -327.2,     8.9,   -92.3)
+  Oh
+2023-01-29T09:44:10Z: PLAYER CHATTED [ 4194266054] Ahlayah1357          ( -327.2,     8.9,   -92.3)
+  /w VisualPlugin  Oh
+2023-01-29T09:44:13Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -326.8,     9.5,   -94.5)
+  I jus saw you.
+2023-01-29T09:44:42Z: PLAYER CHATTED [ 4194266054] Ahlayah1357          ( -329.7,     8.9,   -81.1)
+  Bye
+2023-01-29T09:44:48Z: PLAYER ADDED   [ 4173209051] Lamelovxrc           a.k.a. Corey               
+2023-01-29T09:44:54Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -335.3,     9.5,   -88.8)
+  Take care.
+2023-01-29T09:45:09Z: CHRCTER ADDED  [ 4173209051] Lamelovxrc           a.k.a. Corey               
+2023-01-29T09:45:13Z: PLAYER REMOVED [ 4194266054] Ahlayah1357         
+2023-01-29T09:45:14Z: PLAYER ADDED   [  648984138] Ciciwas              a.k.a. Cici                
+2023-01-29T09:45:22Z: PLAYER REMOVED [  648984138] Ciciwas              a.k.a. Cici                
+2023-01-29T09:45:26Z: PLAYER REMOVED [ 4173209051] Lamelovxrc           a.k.a. Corey               
+2023-01-29T09:45:34Z: PLAYER ADDED   [ 4194266054] Ahlayah1357         
+2023-01-29T09:46:29Z: PLAYER REMOVED [ 4194266054] Ahlayah1357         
+2023-01-29T09:46:49Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

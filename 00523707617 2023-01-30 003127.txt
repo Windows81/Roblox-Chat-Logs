@@ -1,0 +1,226 @@
+[    1630228] : [  523707617] Universal Roblox Theme Park - dadef07f-91a7-4cbc-970a-2e3d505285f2
+2023-01-30T00:31:27Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-30T00:31:27Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-30T00:31:27Z: PLAYER ADDED   [ 3510187248] Missboss0909        
+2023-01-30T00:31:27Z: PLAYER ADDED   [ 3115334056] Yubeboy2013         
+2023-01-30T00:31:27Z: PLAYER ADDED   [ 1577848119] PrincessIsa98        a.k.a. Jaidy               
+2023-01-30T00:31:27Z: PLAYER ADDED   [ 3930242622] MauricioA24G        
+2023-01-30T00:31:27Z: PLAYER ADDED   [ 2551586214] Timmerfredette3     
+2023-01-30T00:31:27Z: PLAYER ADDED   [  271200810] zoe90917             a.k.a. cafesito            
+2023-01-30T00:31:27Z: PLAYER ADDED   [  877059745] latya080             a.k.a. Latyaa              
+2023-01-30T00:31:27Z: PLAYER ADDED   [ 3696633422] Bradyyybear         
+2023-01-30T00:31:27Z: PLAYER ADDED   [ 3680236069] gigapancakebacon     a.k.a. Pancake             
+2023-01-30T00:31:27Z: PLAYER ADDED   [ 3566896937] Marxx08363           a.k.a. sophia              
+2023-01-30T00:31:27Z: PLAYER ADDED   [  645045167] gh0st1l0l            a.k.a. gxst                
+2023-01-30T00:31:27Z: PLAYER ADDED   [  540532800] Morganfamroblox     
+2023-01-30T00:31:27Z: PLAYER ADDED   [ 1746476195] norah_eva            a.k.a. Sky                 
+2023-01-30T00:31:27Z: PLAYER ADDED   [ 2055581627] VeronicaMTHSP       
+2023-01-30T00:31:27Z: PLAYER ADDED   [ 4240867674] Princess_Cupcake1818
+2023-01-30T00:31:27Z: PLAYER ADDED   [ 3470568399] WILLOW_ISMAD         a.k.a. Lisaismine_noturs   
+2023-01-30T00:31:27Z: PLAYER ADDED   [ 2725664400] Joeyyyybear         
+2023-01-30T00:31:27Z: PLAYER ADDED   [ 2987190787] SrOveja23            a.k.a. ThePinkSheep23      
+2023-01-30T00:31:27Z: PLAYER ADDED   [ 1478626915] LittleLady616        a.k.a. LL25                
+2023-01-30T00:31:27Z: PLAYER ADDED   [ 3661809453] Aceone9093          
+2023-01-30T00:31:31Z: PLAYER REMOVED [ 3930242622] MauricioA24G        
+2023-01-30T00:31:32Z: PLAYER REMOVED [ 4240867674] Princess_Cupcake1818
+2023-01-30T00:31:32Z: PLAYER CHATTED [  271200810] zoe90917             (  113.6,     5.2,  -216.3)
+  ves lo q decia
+2023-01-30T00:31:41Z: PLAYER CHATTED [  271200810] zoe90917             (  116.4,     5.2,  -219.6)
+  realista
+2023-01-30T00:31:46Z: PLAYER REMOVED [ 1577848119] PrincessIsa98        a.k.a. Jaidy               
+2023-01-30T00:31:47Z: PLAYER CHATTED [ 2987190787] SrOveja23            (  112.3,     4.8,  -216.1)
+  piola
+2023-01-30T00:31:52Z: PLAYER ADDED   [ 4117272658] ExpidetionEverest    a.k.a. eternity            
+2023-01-30T00:31:52Z: PLAYER REMOVED [  271200810] zoe90917             a.k.a. cafesito            
+2023-01-30T00:31:53Z: PLAYER ADDED   [  152604581] sparklejazzy06       a.k.a. Unknown             
+2023-01-30T00:31:55Z: PLAYER ADDED   [  548900269] bensonpaul14         a.k.a. ErenJeager          
+2023-01-30T00:31:57Z: PLAYER REMOVED [ 2551586214] Timmerfredette3     
+2023-01-30T00:31:58Z: PLAYER REMOVED [ 2725664400] Joeyyyybear         
+2023-01-30T00:31:59Z: PLAYER ADDED   [  565314208] iiiNocxera          
+2023-01-30T00:32:00Z: PLAYER REMOVED [ 3696633422] Bradyyybear         
+2023-01-30T00:32:02Z: PLAYER ADDED   [ 3115298547] PinkUnicornLaci      a.k.a. UnicornKitty        
+2023-01-30T00:32:04Z: PLAYER REMOVED [ 2055581627] VeronicaMTHSP       
+2023-01-30T00:32:05Z: PLAYER ADDED   [ 3746461096] Nene_1130f          
+2023-01-30T00:32:10Z: PLAYER REMOVED [ 3115334056] Yubeboy2013         
+2023-01-30T00:32:14Z: PLAYER ADDED   [ 2775315709] lyricjackson0       
+2023-01-30T00:32:21Z: PLAYER ADDED   [ 4262699882] jhantoby101         
+2023-01-30T00:32:23Z: PLAYER REMOVED [  877059745] latya080             a.k.a. Latyaa              
+2023-01-30T00:32:38Z: PLAYER REMOVED [ 2775315709] lyricjackson0       
+2023-01-30T00:32:39Z: PLAYER ADDED   [ 3758936467] LaniB5              
+2023-01-30T00:32:41Z: PLAYER ADDED   [ 3746376336] Matthew_1130f       
+2023-01-30T00:32:44Z: PLAYER REMOVED [  548900269] bensonpaul14         a.k.a. ErenJeager          
+2023-01-30T00:32:48Z: PLAYER REMOVED [ 3758936467] LaniB5              
+2023-01-30T00:32:52Z: PLAYER ADDED   [  158374297] Gr0und3r_003         a.k.a. Dyougan             
+2023-01-30T00:32:54Z: PLAYER REMOVED [ 4262699882] jhantoby101         
+2023-01-30T00:32:56Z: PLAYER REMOVED [  152604581] sparklejazzy06       a.k.a. Unknown             
+2023-01-30T00:32:57Z: PLAYER ADDED   [ 3650440754] Roblox123coolisgreat a.k.a. Dinosaur            
+2023-01-30T00:32:58Z: PLAYER ADDED   [ 4262699882] jhantoby101         
+2023-01-30T00:33:06Z: PLAYER REMOVED [ 3746376336] Matthew_1130f       
+2023-01-30T00:33:06Z: PLAYER REMOVED [ 2987190787] SrOveja23            a.k.a. ThePinkSheep23      
+2023-01-30T00:33:07Z: PLAYER REMOVED [  540532800] Morganfamroblox     
+2023-01-30T00:33:08Z: PLAYER ADDED   [ 4262924247] Izzybizzybr         
+2023-01-30T00:33:11Z: PLAYER ADDED   [ 3746376336] Matthew_1130f       
+2023-01-30T00:33:12Z: PLAYER REMOVED [ 3115298547] PinkUnicornLaci      a.k.a. UnicornKitty        
+2023-01-30T00:33:12Z: PLAYER REMOVED [  565314208] iiiNocxera          
+2023-01-30T00:33:13Z: PLAYER ADDED   [ 3238994387] Greytriangles09     
+2023-01-30T00:33:15Z: PLAYER ADDED   [  860186280] Allycart2007        
+2023-01-30T00:33:17Z: PLAYER REMOVED [ 3746376336] Matthew_1130f       
+2023-01-30T00:33:17Z: PLAYER ADDED   [ 2294736234] Unicornsparkle4317   a.k.a. Pumpkin             
+2023-01-30T00:33:21Z: PLAYER REMOVED [ 3661809453] Aceone9093          
+2023-01-30T00:33:21Z: PLAYER REMOVED [ 1478626915] LittleLady616        a.k.a. LL25                
+2023-01-30T00:33:26Z: PLAYER ADDED   [ 2787993904] endernen_400         a.k.a. Lauren              
+2023-01-30T00:33:29Z: PLAYER REMOVED [ 3510187248] Missboss0909        
+2023-01-30T00:33:31Z: PLAYER ADDED   [ 3746376336] Matthew_1130f       
+2023-01-30T00:33:32Z: PLAYER REMOVED [  158374297] Gr0und3r_003         a.k.a. Dyougan             
+2023-01-30T00:33:38Z: PLAYER REMOVED [ 3238994387] Greytriangles09     
+2023-01-30T00:33:46Z: PLAYER REMOVED [ 3746376336] Matthew_1130f       
+2023-01-30T00:33:49Z: PLAYER ADDED   [ 3746376336] Matthew_1130f       
+2023-01-30T00:34:02Z: PLAYER REMOVED [ 2294736234] Unicornsparkle4317   a.k.a. Pumpkin             
+2023-01-30T00:34:04Z: PLAYER ADDED   [ 2294736234] Unicornsparkle4317   a.k.a. Pumpkin             
+2023-01-30T00:34:05Z: PLAYER ADDED   [ 3200889600] Itsizzyduu          
+2023-01-30T00:34:15Z: PLAYER ADDED   [  289645259] Ievi0xa              a.k.a. lorelei             
+2023-01-30T00:34:16Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-30T00:34:16Z: PLAYER ADDED   [ 4170970590] LALALA109999        
+2023-01-30T00:34:17Z: PLAYER ADDED   [ 4259588011] Virgiedee           
+2023-01-30T00:34:19Z: PLAYER REMOVED [ 3650440754] Roblox123coolisgreat a.k.a. Dinosaur            
+2023-01-30T00:34:19Z: PLAYER ADDED   [ 1918522267] hunter_NICE1215      a.k.a. Alex                
+2023-01-30T00:34:22Z: PLAYER ADDED   [ 3717824254] A_person116o         a.k.a. Starcode_buur       
+2023-01-30T00:34:25Z: PLAYER REMOVED [  860186280] Allycart2007        
+2023-01-30T00:34:26Z: PLAYER ADDED   [ 2942874897] Wolfmsster5576      
+2023-01-30T00:34:28Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-30T00:34:28Z: PLAYER REMOVED [ 3470568399] WILLOW_ISMAD         a.k.a. Lisaismine_noturs   
+2023-01-30T00:34:29Z: PLAYER REMOVED [ 2787993904] endernen_400         a.k.a. Lauren              
+2023-01-30T00:34:30Z: PLAYER ADDED   [ 4249631906] Ryleejadecolley098  
+2023-01-30T00:34:35Z: PLAYER ADDED   [  443105182] AntisocialMariii     a.k.a. synxismine          
+2023-01-30T00:34:37Z: PLAYER REMOVED [ 3200889600] Itsizzyduu          
+2023-01-30T00:34:39Z: PLAYER ADDED   [ 1599222020] alexdamien9860       a.k.a. Alex                
+2023-01-30T00:34:45Z: PLAYER REMOVED [ 4249631906] Ryleejadecolley098  
+2023-01-30T00:34:45Z: PLAYER ADDED   [  792280332] pugcrazy25           a.k.a. SmolBean            
+2023-01-30T00:34:53Z: PLAYER CHATTED [  645045167] gh0st1l0l            (  235.7,     4.8,   -25.1)
+  .
+2023-01-30T00:35:03Z: PLAYER REMOVED [  792280332] pugcrazy25           a.k.a. SmolBean            
+2023-01-30T00:35:04Z: PLAYER REMOVED [ 2294736234] Unicornsparkle4317   a.k.a. Pumpkin             
+2023-01-30T00:35:04Z: PLAYER ADDED   [  792280332] pugcrazy25           a.k.a. SmolBean            
+2023-01-30T00:35:06Z: PLAYER ADDED   [ 2712668229] mar12djquio         
+2023-01-30T00:35:14Z: PLAYER CHATTED [ 3566896937] Marxx08363           (  269.7,     4.6,  -121.2)
+  3 DOLLARS?
+2023-01-30T00:35:15Z: PLAYER CHATTED [  645045167] gh0st1l0l            (  258.3,     4.8,  -140.8)
+  ouuuh
+2023-01-30T00:35:23Z: PLAYER CHATTED [ 3566896937] Marxx08363           (  251.9,     4.6,  -144.1)
+  .
+2023-01-30T00:35:29Z: PLAYER CHATTED [ 3566896937] Marxx08363           (  251.9,     4.6,  -144.1)
+  ghost...
+2023-01-30T00:35:35Z: PLAYER CHATTED [  645045167] gh0st1l0l            (  258.3,     4.8,  -140.8)
+  ...
+2023-01-30T00:35:43Z: PLAYER CHATTED [ 3566896937] Marxx08363           (  258.2,     4.6,  -151.8)
+  HELP
+2023-01-30T00:35:44Z: PLAYER CHATTED [  645045167] gh0st1l0l            (  258.3,     4.8,  -140.8)
+  HELP
+2023-01-30T00:35:46Z: PLAYER REMOVED [ 4259588011] Virgiedee           
+2023-01-30T00:35:47Z: PLAYER ADDED   [  967139866] Peanutoq             a.k.a. gae                 
+2023-01-30T00:35:49Z: PLAYER CHATTED [ 3566896937] Marxx08363           (  253.4,     4.6,  -142.5)
+  5
+2023-01-30T00:35:51Z: PLAYER CHATTED [ 3566896937] Marxx08363           (  253.4,     4.6,  -142.5)
+  BTC'.
+2023-01-30T00:35:52Z: PLAYER CHATTED [  645045167] gh0st1l0l            (  255.8,     4.8,  -141.9)
+  5
+2023-01-30T00:35:52Z: PLAYER ADDED   [ 4290359572] Dawgwattwr15        
+2023-01-30T00:35:53Z: PLAYER ADDED   [ 2280668582] txunamyludimond19    a.k.a. Victoria            
+2023-01-30T00:36:01Z: PLAYER CHATTED [  645045167] gh0st1l0l            (  254.7,     4.8,  -142.5)
+  yuuuh
+2023-01-30T00:36:04Z: PLAYER CHATTED [  645045167] gh0st1l0l            (  254.7,     4.8,  -142.5)
+  HELP
+2023-01-30T00:36:06Z: PLAYER CHATTED [ 3566896937] Marxx08363           (  253.4,     4.6,  -142.6)
+  HELP
+2023-01-30T00:36:07Z: PLAYER CHATTED [  645045167] gh0st1l0l            (  254.7,     4.8,  -142.5)
+  ..
+2023-01-30T00:36:10Z: PLAYER CHATTED [  645045167] gh0st1l0l            (  254.7,     4.8,  -142.5)
+  OUUUH
+2023-01-30T00:36:10Z: PLAYER REMOVED [ 4290359572] Dawgwattwr15        
+2023-01-30T00:36:11Z: PLAYER ADDED   [ 4290359572] Dawgwattwr15        
+2023-01-30T00:36:12Z: PLAYER CHATTED [  967139866] Peanutoq             ( -228.7,     4.8,   -12.2)
+  WHY AM I LITTLE
+2023-01-30T00:36:14Z: PLAYER CHATTED [  645045167] gh0st1l0l            (  254.7,     4.8,  -142.5)
+  snitches get stiches
+2023-01-30T00:36:25Z: PLAYER REMOVED [ 1746476195] norah_eva            a.k.a. Sky                 
+2023-01-30T00:36:32Z: PLAYER CHATTED [  645045167] gh0st1l0l            (  252.6,     4.8,  -143.3)
+  u better waist it ONE HERE
+2023-01-30T00:36:32Z: PLAYER REMOVED [ 4262699882] jhantoby101         
+2023-01-30T00:36:33Z: PLAYER REMOVED [ 2942874897] Wolfmsster5576      
+2023-01-30T00:36:34Z: PLAYER ADDED   [ 4281607814] futuregirl1068      
+2023-01-30T00:36:34Z: PLAYER CHATTED [  645045167] gh0st1l0l            (  252.6,     4.8,  -143.3)
+  on
+2023-01-30T00:36:34Z: PLAYER REMOVED [ 2712668229] mar12djquio         
+2023-01-30T00:36:38Z: PLAYER CHATTED [  645045167] gh0st1l0l            (  252.6,     4.8,  -143.3)
+  /e pucnh
+2023-01-30T00:36:38Z: PLAYER REMOVED [ 2280668582] txunamyludimond19    a.k.a. Victoria            
+2023-01-30T00:36:40Z: PLAYER CHATTED [ 3566896937] Marxx08363           (  251.0,     4.6,  -143.4)
+  waist
+2023-01-30T00:36:41Z: PLAYER CHATTED [ 3566896937] Marxx08363           (  251.0,     4.6,  -143.4)
+  WASTE
+2023-01-30T00:36:42Z: PLAYER CHATTED [  645045167] gh0st1l0l            (  252.6,     4.8,  -143.3)
+  /e dance
+2023-01-30T00:36:43Z: PLAYER CHATTED [  645045167] gh0st1l0l            (  252.6,     4.8,  -143.3)
+  HELP
+2023-01-30T00:36:46Z: PLAYER ADDED   [ 4168546137] Maitekitkat999      
+2023-01-30T00:36:49Z: PLAYER CHATTED [ 3566896937] Marxx08363           (  236.1,     4.6,  -145.5)
+  SAY 5
+2023-01-30T00:36:52Z: PLAYER ADDED   [ 4195235406] Dale_0619           
+2023-01-30T00:36:52Z: PLAYER CHATTED [  645045167] gh0st1l0l            (  237.8,     4.8,  -143.3)
+  ouuuuh
+2023-01-30T00:36:54Z: PLAYER CHATTED [ 3566896937] Marxx08363           (  235.9,     4.6,  -142.9)
+  SAY 5 RN/.
+2023-01-30T00:36:58Z: PLAYER CHATTED [  645045167] gh0st1l0l            (  237.8,     4.8,  -143.3)
+  she mad
+2023-01-30T00:37:02Z: PLAYER CHATTED [  645045167] gh0st1l0l            (  237.8,     4.8,  -143.3)
+  i dont even have 5
+2023-01-30T00:37:03Z: PLAYER CHATTED [  645045167] gh0st1l0l            (  237.8,     4.8,  -143.3)
+  HELP
+2023-01-30T00:37:06Z: PLAYER REMOVED [  967139866] Peanutoq             a.k.a. gae                 
+2023-01-30T00:37:07Z: PLAYER ADDED   [ 3763546234] Rmc016              
+2023-01-30T00:37:12Z: PLAYER CHATTED [ 4117272658] ExpidetionEverest    (  238.0,     4.8,  -143.9)
+  atop
+2023-01-30T00:37:15Z: PLAYER REMOVED [ 1918522267] hunter_NICE1215      a.k.a. Alex                
+2023-01-30T00:37:19Z: PLAYER CHATTED [ 3566896937] Marxx08363           (  235.5,     4.6,  -137.2)
+  waht
+2023-01-30T00:37:22Z: PLAYER ADDED   [ 2481979335] Eddington10         
+2023-01-30T00:37:30Z: PLAYER REMOVED [ 4290359572] Dawgwattwr15        
+2023-01-30T00:37:31Z: PLAYER ADDED   [ 4262699882] jhantoby101         
+2023-01-30T00:37:32Z: PLAYER REMOVED [ 4168546137] Maitekitkat999      
+2023-01-30T00:37:32Z: PLAYER CHATTED [  645045167] gh0st1l0l            (  236.6,     4.8,  -138.8)
+  hurry up
+2023-01-30T00:37:34Z: PLAYER ADDED   [ 3654347635] teamIyla2013        
+2023-01-30T00:37:43Z: PLAYER REMOVED [ 3746461096] Nene_1130f          
+2023-01-30T00:37:43Z: PLAYER REMOVED [  443105182] AntisocialMariii     a.k.a. synxismine          
+2023-01-30T00:37:44Z: PLAYER REMOVED [ 4262699882] jhantoby101         
+2023-01-30T00:37:46Z: PLAYER ADDED   [ 4262699882] jhantoby101         
+2023-01-30T00:37:48Z: PLAYER ADDED   [  274783295] animepuppyfemale     a.k.a. Millie              
+2023-01-30T00:37:48Z: PLAYER REMOVED [ 4195235406] Dale_0619           
+2023-01-30T00:37:49Z: PLAYER REMOVED [ 4281607814] futuregirl1068      
+2023-01-30T00:37:52Z: PLAYER ADDED   [  607130480] Mybaconthis121       a.k.a. SAAAAAAAAAAAAAAAAA  
+2023-01-30T00:37:54Z: PLAYER CHATTED [ 4117272658] ExpidetionEverest    (  241.8,     4.8,  -140.0)
+  you from disney
+2023-01-30T00:37:54Z: PLAYER ADDED   [ 3746461096] Nene_1130f          
+2023-01-30T00:37:57Z: PLAYER ADDED   [ 2558647168] Rookyhawk6          
+2023-01-30T00:37:58Z: PLAYER ADDED   [ 4290421806] Emily30argentina    
+2023-01-30T00:38:00Z: PLAYER REMOVED [  274783295] animepuppyfemale     a.k.a. Millie              
+2023-01-30T00:38:01Z: PLAYER ADDED   [ 3605023350] Ishbloom             a.k.a. Ishbadish           
+2023-01-30T00:38:13Z: PLAYER CHATTED [  645045167] gh0st1l0l            (  249.5,     4.8,  -127.1)
+  i dont even have 5
+2023-01-30T00:38:14Z: PLAYER REMOVED [ 2558647168] Rookyhawk6          
+2023-01-30T00:38:15Z: PLAYER ADDED   [ 2558647168] Rookyhawk6          
+2023-01-30T00:38:17Z: PLAYER REMOVED [ 3746461096] Nene_1130f          
+2023-01-30T00:38:18Z: PLAYER CHATTED [ 3566896937] Marxx08363           (  244.7,     4.6,  -125.6)
+  OKIM NOT ALKIMG TO U
+2023-01-30T00:38:19Z: PLAYER REMOVED [ 4290421806] Emily30argentina    
+2023-01-30T00:38:21Z: PLAYER ADDED   [ 1651012516] Ktimm1              
+2023-01-30T00:38:21Z: PLAYER ADDED   [ 4290421806] Emily30argentina    
+2023-01-30T00:38:22Z: PLAYER ADDED   [ 3746461096] Nene_1130f          
+2023-01-30T00:38:23Z: PLAYER CHATTED [ 4117272658] ExpidetionEverest    (   50.9,     5.0,    24.8)
+  n b
+2023-01-30T00:38:24Z: PLAYER REMOVED [ 3605023350] Ishbloom             a.k.a. Ishbadish           
+2023-01-30T00:38:28Z: PLAYER ADDED   [ 3605023350] Ishbloom             a.k.a. Ishbadish           
+2023-01-30T00:38:31Z: PLAYER ADDED   [ 2294836017] Phoenie28           
+2023-01-30T00:38:33Z: PLAYER REMOVED [ 4117272658] ExpidetionEverest    a.k.a. eternity            
+2023-01-30T00:38:38Z: PLAYER REMOVED [ 2558647168] Rookyhawk6          
+2023-01-30T00:38:38Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

@@ -1,0 +1,33 @@
+[    1630228] : [ 4351657506] Furious Racing [Ride] - d31e1923-24c1-4cca-89b3-cc095ce1f80a
+2023-01-30T00:22:15Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-30T00:22:15Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-30T00:22:15Z: PLAYER ADDED   [ 4016649744] PonyoLovesHam2022   
+2023-01-30T00:22:15Z: PLAYER ADDED   [  209017229] Avadaily100          a.k.a. ava                 
+2023-01-30T00:22:15Z: PLAYER ADDED   [ 2832044362] glee_szn            
+2023-01-30T00:22:15Z: PLAYER ADDED   [ 3267186601] xXXXXx_Jio13         a.k.a. Nova                
+2023-01-30T00:22:15Z: PLAYER ADDED   [ 1517570392] jennypop774          a.k.a. Jenny               
+2023-01-30T00:22:15Z: PLAYER ADDED   [  599121230] lgg4913              a.k.a. amayah              
+2023-01-30T00:22:15Z: PLAYER ADDED   [ 2624526861] JaycobAlvarez2012    a.k.a. JAYCOBTUBEGAMER     
+2023-01-30T00:22:15Z: PLAYER ADDED   [ 4233909671] lali_0817           
+2023-01-30T00:22:15Z: PLAYER ADDED   [ 1070519768] skylarosepratt       a.k.a. Boogiewoogieman     
+2023-01-30T00:22:16Z: PLAYER REMOVED [ 4016649744] PonyoLovesHam2022   
+2023-01-30T00:22:29Z: PLAYER CHATTED [ 3267186601] xXXXXx_Jio13         ( -333.9,    20.6,  -424.9)
+  MAMA AYUDAA😭😭😭😭😭
+2023-01-30T00:22:29Z: PLAYER CHATTED [ 1070519768] skylarosepratt       (  109.3,    28.7,   -91.9)
+  this is gonna be fun
+2023-01-30T00:22:29Z: PLAYER ADDED   [ 3811306143] youfave_antony       a.k.a. Rat                 
+2023-01-30T00:23:15Z: PLAYER REMOVED [  209017229] Avadaily100          a.k.a. ava                 
+2023-01-30T00:23:20Z: PLAYER CHATTED [ 1070519768] skylarosepratt       (  -41.8,    28.7,  -145.3)
+  WOHOOOOOOOOOOOOOOO
+2023-01-30T00:23:22Z: PLAYER ADDED   [ 1840546829] coca_roblox77        a.k.a. dxthwl              
+2023-01-30T00:23:31Z: PLAYER REMOVED [ 2624526861] JaycobAlvarez2012    a.k.a. JAYCOBTUBEGAMER     
+2023-01-30T00:23:33Z: PLAYER REMOVED [ 1517570392] jennypop774          a.k.a. Jenny               
+2023-01-30T00:23:33Z: PLAYER REMOVED [ 3267186601] xXXXXx_Jio13         a.k.a. Nova                
+2023-01-30T00:23:34Z: PLAYER REMOVED [  599121230] lgg4913              a.k.a. amayah              
+2023-01-30T00:23:35Z: PLAYER REMOVED [ 4233909671] lali_0817           
+2023-01-30T00:24:23Z: PLAYER CHATTED [ 1070519768] skylarosepratt       ( -363.2,    30.4,  -122.6)
+  ########
+2023-01-30T00:24:30Z: PLAYER CHATTED [ 1070519768] skylarosepratt       ( -214.9,    28.7,  -122.7)
+  W3 WON
+2023-01-30T00:24:48Z: PLAYER REMOVED [ 2832044362] glee_szn            
+2023-01-30T00:25:45Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

@@ -1,0 +1,63 @@
+[    1630228] : [ 3400009607] Jurassic Kingdom: River Adventure - Queue - 405f0694-a3f7-4125-920d-80fc09f0d529
+2023-01-30T00:38:49Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-30T00:38:49Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-30T00:38:49Z: PLAYER ADDED   [   34865885] vinhpham1224         a.k.a. AsianOzzy           
+2023-01-30T00:38:49Z: PLAYER ADDED   [ 1809967182] uniquebog            a.k.a. USA                 
+2023-01-30T00:38:49Z: PLAYER ADDED   [  118824280] Bigwerewolf1         a.k.a. Blizzard            
+2023-01-30T00:38:49Z: PLAYER ADDED   [ 3542396225] Maxie_Wolf1901      
+2023-01-30T00:39:10Z: PLAYER ADDED   [ 3923663843] xntchy              
+2023-01-30T00:39:15Z: CHRCTER ADDED  [ 1809967182] uniquebog            a.k.a. USA                 
+2023-01-30T00:39:24Z: PLAYER REMOVED [ 1809967182] uniquebog            a.k.a. USA                 
+2023-01-30T00:39:35Z: CHRCTER ADDED  [  118824280] Bigwerewolf1         a.k.a. Blizzard            
+2023-01-30T00:39:55Z: CHRCTER ADDED  [ 3542396225] Maxie_Wolf1901      
+2023-01-30T00:39:57Z: PLAYER CHATTED [ 3923663843] xntchy              
+  cool games
+2023-01-30T00:40:09Z: PLAYER REMOVED [ 3542396225] Maxie_Wolf1901      
+2023-01-30T00:40:15Z: CHRCTER ADDED  [   34865885] vinhpham1224         a.k.a. AsianOzzy           
+2023-01-30T00:40:23Z: PLAYER REMOVED [  118824280] Bigwerewolf1         a.k.a. Blizzard            
+2023-01-30T00:40:27Z: PLAYER REMOVED [   34865885] vinhpham1224         a.k.a. AsianOzzy           
+2023-01-30T00:40:29Z: PLAYER ADDED   [ 2213591201] drummer65pj          a.k.a. Jamorant            
+2023-01-30T00:40:35Z: CHRCTER ADDED  [ 3923663843] xntchy              
+2023-01-30T00:40:47Z: PLAYER REMOVED [ 3923663843] xntchy              
+2023-01-30T00:41:04Z: PLAYER ADDED   [ 3890010553] lizitakawaiiuwu     
+2023-01-30T00:41:05Z: PLAYER ADDED   [ 1859172594] ItsnotNevaeh1       
+2023-01-30T00:41:23Z: PLAYER CHATTED [ 1859172594] ItsnotNevaeh1        ( -274.6,    16.0,    32.6)
+  hey
+2023-01-30T00:41:27Z: PLAYER CHATTED [ 2213591201] drummer65pj          ( -295.8,    16.0,    20.6)
+  Hey
+2023-01-30T00:42:35Z: CHRCTER ADDED  [ 2213591201] drummer65pj          a.k.a. Jamorant            
+2023-01-30T00:42:47Z: PLAYER CHATTED [ 2213591201] drummer65pj          ( -351.5,    16.0,   -72.1)
+  I will wait for u
+2023-01-30T00:42:53Z: PLAYER CHATTED [ 1859172594] ItsnotNevaeh1       
+  :)
+2023-01-30T00:42:55Z: CHRCTER ADDED  [ 1859172594] ItsnotNevaeh1       
+2023-01-30T00:43:02Z: PLAYER ADDED   [  567786362] funnycake2xxx        a.k.a. Mikeplaz_301        
+2023-01-30T00:43:05Z: PLAYER ADDED   [ 2683261318] NapoleonBonaperte   
+2023-01-30T00:43:07Z: PLAYER REMOVED [ 2213591201] drummer65pj          a.k.a. Jamorant            
+2023-01-30T00:43:08Z: PLAYER REMOVED [ 1859172594] ItsnotNevaeh1       
+2023-01-30T00:43:13Z: PLAYER ADDED   [ 2630087672] deemixx1521         
+2023-01-30T00:43:15Z: CHRCTER ADDED  [ 3890010553] lizitakawaiiuwu     
+2023-01-30T00:43:27Z: PLAYER REMOVED [ 3890010553] lizitakawaiiuwu     
+2023-01-30T00:44:15Z: CHRCTER ADDED  [ 2683261318] NapoleonBonaperte   
+2023-01-30T00:44:22Z: PLAYER ADDED   [ 2602433335] aguita_valo         
+2023-01-30T00:44:24Z: PLAYER ADDED   [ 1603274661] i4avalovesme         a.k.a. CoolBoy99           
+2023-01-30T00:44:35Z: CHRCTER ADDED  [  567786362] funnycake2xxx        a.k.a. Mikeplaz_301        
+2023-01-30T00:44:38Z: PLAYER ADDED   [ 1385939561] lilsizda1           
+2023-01-30T00:44:42Z: PLAYER REMOVED [ 2683261318] NapoleonBonaperte   
+2023-01-30T00:44:43Z: PLAYER REMOVED [  567786362] funnycake2xxx        a.k.a. Mikeplaz_301        
+2023-01-30T00:44:55Z: CHRCTER ADDED  [ 2630087672] deemixx1521         
+2023-01-30T00:44:58Z: PLAYER ADDED   [  847923381] metrobus123456789    a.k.a. FreddyReady567      
+2023-01-30T00:44:59Z: PLAYER ADDED   [ 3703950513] Flwrsuu              a.k.a. hearts4leeknow      
+2023-01-30T00:45:05Z: PLAYER REMOVED [ 2630087672] deemixx1521         
+2023-01-30T00:45:22Z: PLAYER REMOVED [  847923381] metrobus123456789    a.k.a. FreddyReady567      
+2023-01-30T00:45:35Z: CHRCTER ADDED  [ 2602433335] aguita_valo         
+2023-01-30T00:45:46Z: PLAYER REMOVED [ 2602433335] aguita_valo         
+2023-01-30T00:45:49Z: PLAYER ADDED   [ 3997714551] c_uravity            a.k.a. vit                 
+2023-01-30T00:45:51Z: PLAYER ADDED   [ 4010103904] doritos_vvvvv        a.k.a. doritos             
+2023-01-30T00:45:55Z: CHRCTER ADDED  [ 1603274661] i4avalovesme         a.k.a. CoolBoy99           
+2023-01-30T00:46:04Z: PLAYER REMOVED [ 1603274661] i4avalovesme         a.k.a. CoolBoy99           
+2023-01-30T00:46:15Z: CHRCTER ADDED  [ 3703950513] Flwrsuu              a.k.a. hearts4leeknow      
+2023-01-30T00:46:24Z: PLAYER REMOVED [ 3703950513] Flwrsuu              a.k.a. hearts4leeknow      
+2023-01-30T00:46:35Z: CHRCTER ADDED  [ 1385939561] lilsizda1           
+2023-01-30T00:46:43Z: PLAYER REMOVED [ 1385939561] lilsizda1           
+2023-01-30T00:47:11Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

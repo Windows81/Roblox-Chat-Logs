@@ -1,0 +1,150 @@
+[    1630228] : [12295125574] Lift Restoration Conversion Center  - 9edbf5c1-6064-474a-bb9b-edf5c683f839
+2023-01-30T00:54:35Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-30T00:54:35Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-30T00:54:35Z: PLAYER ADDED   [   60462577] liftec45            
+2023-01-30T00:56:17Z: PLAYER CHATTED [   60462577] liftec45             ( -223.9,     3.0,   250.7)
+  :give me all
+2023-01-30T00:57:04Z: CHRCTER ADDED  [   60462577] liftec45            
+2023-01-30T00:57:21Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -222.7,    43.3,   253.7)
+  Pre-doors.
+2023-01-30T00:57:27Z: PLAYER CHATTED [   60462577] liftec45             ( -124.1,     3.0,   169.2)
+  yep
+2023-01-30T00:57:39Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -210.4,     3.8,   238.6)
+  I'll be AFK.
+2023-01-30T00:59:51Z: PLAYER CHATTED [   60462577] liftec45             ( -131.0,     3.0,   172.6)
+  just really when im bored tbh i do this stuff now 
+2023-01-30T01:03:43Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -198.1,     3.8,   223.3)
+  What do you do these days?
+2023-01-30T01:04:04Z: PLAYER CHATTED [   60462577] liftec45             ( -222.3,     2.5,   266.3)
+  surf real lifts this is a side thing to keep my brain occupied
+2023-01-30T01:04:34Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -227.2,    43.1,   268.8)
+  It's difficult to surf lifts in the US.
+2023-01-30T01:04:35Z: PLAYER CHATTED [   60462577] liftec45             ( -218.8,    42.3,   267.8)
+  runs well and looks better compared to the old thing 
+2023-01-30T01:04:59Z: PLAYER CHATTED [   60462577] liftec45             ( -241.6,     3.0,   246.3)
+  teknikk is gone now isnt it 
+2023-01-30T01:05:01Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -223.4,     3.8,   251.0)
+  That'd what I concluded.
+2023-01-30T01:05:09Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -223.4,     3.8,   251.0)
+  No idea.
+2023-01-30T01:05:19Z: PLAYER CHATTED [   60462577] liftec45             ( -240.2,     3.0,   251.5)
+  look at how bad it was before
+2023-01-30T01:06:00Z: PLAYER CHATTED [   60462577] liftec45             ( -142.6,     3.0,   215.6)
+  do you remember this teknikk model
+2023-01-30T01:06:12Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -154.5,    19.0,   215.4)
+  I think I do.
+2023-01-30T01:06:23Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -154.5,    41.0,   215.4)
+  I remember the lift tower with 11 storeys.
+2023-01-30T01:06:23Z: PLAYER CHATTED [   60462577] liftec45             ( -149.3,    40.1,   217.8)
+  kept them back doors for aethstetic and the cab the same 
+2023-01-30T01:06:40Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -155.1,     5.9,   216.4)
+  This lift reminds me of the car park lift in that building.
+2023-01-30T01:06:58Z: PLAYER CHATTED [   60462577] liftec45             ( -119.0,     3.0,   251.4)
+  remember these the old teknikk office buildingh
+2023-01-30T01:07:05Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -120.1,     3.7,   266.1)
+  That one.
+2023-01-30T01:07:07Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -120.1,     3.7,   266.1)
+  Yes.
+2023-01-30T01:07:13Z: PLAYER CHATTED [   60462577] liftec45             ( -112.7,     5.1,   269.2)
+  this is a modded version of that
+2023-01-30T01:07:34Z: PLAYER CHATTED [   60462577] liftec45             ( -112.7,    69.7,   269.2)
+  im getting better at developing on here i just do it as a side thing 
+2023-01-30T01:07:36Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -119.5,    70.6,   266.1)
+  Lists only begun welding us circa 2015.
+2023-01-30T01:07:56Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -114.4,     3.8,   253.5)
+  *Lifts.
+2023-01-30T01:07:59Z: PLAYER CHATTED [   60462577] liftec45             ( -117.2,     3.0,   248.9)
+  i turn of the welding thing as i feel its unrealistic
+2023-01-30T01:08:17Z: PLAYER CHATTED [   60462577] liftec45             (  -30.0,     3.0,   190.2)
+  remember this on piker tech
+2023-01-30T01:08:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -29.8,    16.6,   177.9)
+  Never went there.
+2023-01-30T01:08:51Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -29.8,     4.9,   177.9)
+  Can I see some of YOUR lifts?
+2023-01-30T01:09:04Z: PLAYER CHATTED [   60462577] liftec45             (   91.8,     3.0,   107.1)
+  the old teknikk gen 5 staff
+2023-01-30T01:09:24Z: PLAYER CHATTED [   60462577] liftec45             (   91.8,     3.0,   107.1)
+  i dont develop anymore of my own lifts atm tbh just use generic parts and get them working 
+2023-01-30T01:09:52Z: PLAYER CHATTED [    1630228] VisualPlugin         (   89.4,     5.2,    97.2)
+  I remmeber you had a neighbour named Dell.
+2023-01-30T01:10:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (   89.4,    43.1,    97.2)
+  How is she doing as well?
+2023-01-30T01:10:03Z: PLAYER CHATTED [   60462577] liftec45             (   95.5,    68.2,    90.7)
+  notice how i preserved everything 
+2023-01-30T01:10:10Z: PLAYER CHATTED [   60462577] liftec45             (   95.5,   110.6,    90.7)
+  as i could 
+2023-01-30T01:10:23Z: PLAYER CHATTED [   60462577] liftec45             (   89.5,   110.6,    92.6)
+  dell dont talk to her lol
+2023-01-30T01:10:32Z: PLAYER CHATTED [    1630228] VisualPlugin         (   94.6,    63.6,    96.3)
+  I don't remember those lifts so vividly.
+2023-01-30T01:10:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (   94.6,     5.2,    96.3)
+  Did you ride a lift from circa 2008?
+2023-01-30T01:10:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (   91.5,     3.8,   104.8)
+  Those with BodyPosition?
+2023-01-30T01:11:04Z: PLAYER CHATTED [    1630228] VisualPlugin         (   92.7,     3.8,   107.8)
+  These were the lifts I remember best.
+2023-01-30T01:11:06Z: PLAYER CHATTED [   60462577] liftec45             (   94.4,     3.0,   109.5)
+  its cool how i preserved the original features
+2023-01-30T01:11:25Z: PLAYER CHATTED [   60462577] liftec45             ( -113.4,     3.0,   150.4)
+  remember this 
+2023-01-30T01:11:43Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -127.4,    34.2,   153.4)
+  Not on Roblox.
+2023-01-30T01:11:53Z: PLAYER CHATTED [   60462577] liftec45             ( -124.8,    40.0,   150.3)
+  it was an old national lift
+2023-01-30T01:12:13Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -127.6,     6.2,   153.9)
+  Why are the buttons on the front wall?
+2023-01-30T01:12:27Z: PLAYER CHATTED [   60462577] liftec45             ( -119.7,     4.0,   153.6)
+  thats where they were originally
+2023-01-30T01:12:30Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -126.8,     4.9,   153.9)
+  European lifts usually have them on te side.
+2023-01-30T01:12:46Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -126.8,     4.9,   153.9)
+  Makes sense though.
+2023-01-30T01:12:51Z: PLAYER CHATTED [   60462577] liftec45             ( -128.8,    18.1,   156.4)
+  i just did it like for like 
+2023-01-30T01:14:19Z: PLAYER CHATTED [   60462577] liftec45             ( -225.5,    22.3,   265.3)
+  :give me all
+2023-01-30T01:14:57Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -136.8,     3.8,    46.6)
+  Wana check my showcase out?
+2023-01-30T01:15:16Z: PLAYER CHATTED [   60462577] liftec45             ( -222.6,    22.7,   255.5)
+  yea ok i was gonna show you ontop this one
+2023-01-30T01:15:45Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -226.1,    35.7,   269.2)
+  Boring!
+2023-01-30T01:15:56Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -226.1,    46.3,   269.2)
+  Real lifts must be more fun!
+2023-01-30T01:16:00Z: PLAYER CHATTED [   60462577] liftec45             ( -224.1,    45.4,   262.7)
+  it functions idc 
+2023-01-30T01:16:03Z: PLAYER CHATTED [   60462577] liftec45             ( -224.1,    45.4,   262.7)
+  yea ik 
+2023-01-30T01:16:09Z: PLAYER CHATTED [   60462577] liftec45             ( -224.1,    45.4,   262.7)
+  lift surfing irl is fun 
+2023-01-30T01:16:22Z: PLAYER CHATTED [   60462577] liftec45             ( -224.1,    13.5,   262.7)
+  i chill with beno 
+2023-01-30T01:16:48Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -222.0,    40.7,   268.0)
+  I though he wouldn't be someone who chills.
+2023-01-30T01:17:09Z: PLAYER CHATTED [   60462577] liftec45             ( -222.5,    42.5,   254.8)
+  true lol
+2023-01-30T01:17:17Z: PLAYER CHATTED [   60462577] liftec45             ( -224.1,    42.6,   255.8)
+  have you seen his face before
+2023-01-30T01:17:25Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -226.0,    43.3,   252.6)
+  On YouTube, yes.
+2023-01-30T01:17:36Z: PLAYER CHATTED [   60462577] liftec45             ( -225.1,    42.3,   269.2)
+  that movie about him 
+2023-01-30T01:17:39Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -219.0,    43.1,   263.7)
+  Through The Secret Vault.
+2023-01-30T01:17:46Z: PLAYER CHATTED [   60462577] liftec45             ( -225.1,    42.3,   269.2)
+  yep
+2023-01-30T01:17:47Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -219.4,    41.0,   266.6)
+  I look like him,
+2023-01-30T01:17:55Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -219.4,     3.3,   266.6)
+  Except I'm taller and have dark brown hair.
+2023-01-30T01:18:08Z: PLAYER CHATTED [   60462577] liftec45             ( -224.4,     3.0,   253.1)
+  can i see this showcase place
+2023-01-30T01:18:14Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -223.8,     3.8,   244.2)
+  Follow me.
+2023-01-30T01:18:21Z: PLAYER CHATTED [   60462577] liftec45             ( -226.9,     3.0,   246.6)
+  ok
+2023-01-30T01:18:24Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -223.8,     3.8,   244.2)
+  https://github.com/Windows81/Kubla-Khan
+2023-01-30T01:18:33Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -223.8,     3.8,   244.2)
+  https://www.roblox.com/games/4794911592/The-Kubla-Khan-Las-Vegas-Hotel-Showcase-W-I-P
+2023-01-30T01:18:42Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

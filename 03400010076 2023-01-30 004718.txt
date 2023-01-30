@@ -1,0 +1,74 @@
+[    1630228] : [ 3400010076] Jurassic Kingdom: River Adventure - Ride - 9774ac6b-d13a-4911-9cfe-0fe1f8c795a4
+2023-01-30T00:47:18Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-30T00:47:18Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-30T00:47:18Z: PLAYER ADDED   [ 1859172594] ItsnotNevaeh1       
+2023-01-30T00:47:18Z: PLAYER ADDED   [ 2683261318] NapoleonBonaperte   
+2023-01-30T00:47:18Z: PLAYER ADDED   [ 3703950513] Flwrsuu              a.k.a. hearts4leeknow      
+2023-01-30T00:47:18Z: PLAYER ADDED   [ 3890010553] lizitakawaiiuwu     
+2023-01-30T00:47:18Z: PLAYER ADDED   [  567786362] funnycake2xxx        a.k.a. Mikeplaz_301        
+2023-01-30T00:47:18Z: PLAYER ADDED   [ 2213591201] drummer65pj          a.k.a. Jamorant            
+2023-01-30T00:47:18Z: PLAYER ADDED   [  847923381] metrobus123456789    a.k.a. FreddyReady567      
+2023-01-30T00:47:18Z: PLAYER ADDED   [ 1603274661] i4avalovesme         a.k.a. CoolBoy99           
+2023-01-30T00:47:18Z: PLAYER ADDED   [ 2602433335] aguita_valo         
+2023-01-30T00:47:18Z: PLAYER ADDED   [ 1385939561] lilsizda1           
+2023-01-30T00:47:18Z: PLAYER ADDED   [ 2630087672] deemixx1521         
+2023-01-30T00:47:32Z: PLAYER CHATTED [ 1859172594] ItsnotNevaeh1        ( -280.7,   105.6,   422.8)
+  ## ###
+2023-01-30T00:47:32Z: PLAYER CHATTED [ 2213591201] drummer65pj          ( -282.9,   105.4,   421.0)
+  Ahhhhhhhhhhhhhhh
+2023-01-30T00:47:36Z: PLAYER CHATTED [ 1859172594] ItsnotNevaeh1        ( -236.6,     9.8,   266.6)
+  aaaah
+2023-01-30T00:47:42Z: PLAYER ADDED   [ 4010103904] doritos_vvvvv        a.k.a. doritos             
+2023-01-30T00:47:42Z: PLAYER CHATTED [  567786362] funnycake2xxx        ( -326.2,    33.7,   208.3)
+  bro stop being goofy
+2023-01-30T00:47:46Z: PLAYER ADDED   [ 3997714551] c_uravity            a.k.a. vit                 
+2023-01-30T00:48:12Z: PLAYER CHATTED [ 2213591201] drummer65pj          ( -286.4,    13.0,   126.3)
+  No, we’re not being goofy
+2023-01-30T00:48:21Z: PLAYER CHATTED [  567786362] funnycake2xxx        ( -328.5,    80.0,   349.2)
+  ################
+2023-01-30T00:48:24Z: PLAYER REMOVED [ 3890010553] lizitakawaiiuwu     
+2023-01-30T00:48:28Z: PLAYER REMOVED [ 1859172594] ItsnotNevaeh1       
+2023-01-30T00:48:28Z: PLAYER CHATTED [  567786362] funnycake2xxx        ( -330.6,    95.0,   368.7)
+  "#########
+2023-01-30T00:48:29Z: PLAYER REMOVED [ 2213591201] drummer65pj          a.k.a. Jamorant            
+2023-01-30T00:48:43Z: PLAYER CHATTED [  567786362] funnycake2xxx        ( -335.9,   104.7,   455.6)
+  "THiS iS ScaRy"
+2023-01-30T00:48:46Z: PLAYER ADDED   [  723532839] Lashayhoney1        
+2023-01-30T00:48:56Z: PLAYER REMOVED [ 2630087672] deemixx1521         
+2023-01-30T00:49:43Z: PLAYER ADDED   [  190440471] CoggDCoasters        a.k.a. SuperSalad          
+2023-01-30T00:49:44Z: PLAYER ADDED   [  149279182] LemonWulf            a.k.a. BreadCrumb          
+2023-01-30T00:50:00Z: PLAYER REMOVED [ 2683261318] NapoleonBonaperte   
+2023-01-30T00:50:01Z: PLAYER REMOVED [  567786362] funnycake2xxx        a.k.a. Mikeplaz_301        
+2023-01-30T00:50:02Z: PLAYER REMOVED [  847923381] metrobus123456789    a.k.a. FreddyReady567      
+2023-01-30T00:50:03Z: PLAYER ADDED   [ 4117272658] ExpidetionEverest    a.k.a. eternity            
+2023-01-30T00:50:51Z: CHRCTER ADDED  [ 4117272658] ExpidetionEverest    a.k.a. eternity            
+2023-01-30T00:51:06Z: PLAYER ADDED   [  144345892] CheetahGamer909      a.k.a. SaveSplashMountain  
+2023-01-30T00:51:11Z: PLAYER ADDED   [  144684003] Xx_MysteryKidxX      a.k.a. robkill             
+2023-01-30T00:51:13Z: PLAYER ADDED   [  459435232] klumpsymalfoy       
+2023-01-30T00:51:14Z: PLAYER ADDED   [  459221378] sampajam            
+2023-01-30T00:51:41Z: PLAYER ADDED   [ 1702735508] Ethanbob2456        
+2023-01-30T00:51:43Z: PLAYER REMOVED [ 2602433335] aguita_valo         
+2023-01-30T00:51:44Z: PLAYER REMOVED [ 1385939561] lilsizda1           
+2023-01-30T00:51:44Z: PLAYER ADDED   [ 2434760160] FishClownSky         a.k.a. FBI                 
+2023-01-30T00:51:45Z: PLAYER ADDED   [ 2750320434] ethan_foxsimpson     a.k.a. monkey_boi          
+2023-01-30T00:51:50Z: PLAYER REMOVED [ 1603274661] i4avalovesme         a.k.a. CoolBoy99           
+2023-01-30T00:52:37Z: PLAYER REMOVED [ 4117272658] ExpidetionEverest    a.k.a. eternity            
+2023-01-30T00:52:49Z: PLAYER CHATTED [ 2434760160] FishClownSky         ( -339.0,    16.0,    42.8)
+  sussy
+2023-01-30T00:53:03Z: PLAYER ADDED   [ 1674961117] Hayden110917         a.k.a. Hayden              
+2023-01-30T00:53:04Z: PLAYER ADDED   [ 2587710931] Cchampion0702       
+2023-01-30T00:53:04Z: PLAYER ADDED   [ 3087840891] julietjames1102      a.k.a. Juliet              
+2023-01-30T00:53:20Z: PLAYER CHATTED [  144684003] Xx_MysteryKidxX      ( -450.0,    33.7,    40.9)
+  nah jit tripping no rizz your not the rizzasouras rez
+2023-01-30T00:53:21Z: PLAYER REMOVED [  723532839] Lashayhoney1        
+2023-01-30T00:53:22Z: PLAYER CHATTED [  144684003] Xx_MysteryKidxX      ( -447.2,    33.7,    46.6)
+  rex
+2023-01-30T00:53:25Z: PLAYER ADDED   [ 4145023095] Miminoell15         
+2023-01-30T00:53:27Z: PLAYER CHATTED [  144684003] Xx_MysteryKidxX      ( -437.6,    33.7,    71.4)
+  ##### rizzler
+2023-01-30T00:53:34Z: PLAYER REMOVED [ 3703950513] Flwrsuu              a.k.a. hearts4leeknow      
+2023-01-30T00:53:35Z: PLAYER REMOVED [ 4010103904] doritos_vvvvv        a.k.a. doritos             
+2023-01-30T00:53:38Z: PLAYER REMOVED [ 3997714551] c_uravity            a.k.a. vit                 
+2023-01-30T00:53:54Z: PLAYER ADDED   [   76736655] kalopsu             
+2023-01-30T00:54:04Z: PLAYER ADDED   [ 3600990646] Fxfgnghh            
+2023-01-30T00:54:09Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

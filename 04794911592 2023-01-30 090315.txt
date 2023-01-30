@@ -1,0 +1,226 @@
+[    1630228] : [ 4794911592] The Kubla Khan Las Vegas • Hotel Showcase, W.I.P. - 3a006648-12d4-4a83-ac40-d4b569171aae
+2023-01-30T09:03:15Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-01-30T09:03:15Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-01-30T09:03:15Z: PLAYER ADDED   [ 3793910060] BenjiAucklandC      
+2023-01-30T09:03:15Z: PLAYER ADDED   [ 1774820760] fafafarouq           a.k.a. SANS                
+2023-01-30T09:03:15Z: PLAYER ADDED   [   68471378] ob2n                 a.k.a. Mark                
+2023-01-30T09:03:15Z: PLAYER ADDED   [ 1581340012] basenjilover5       
+2023-01-30T09:03:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (   39.3,    93.5,    -0.7)
+  You're using a VR?
+2023-01-30T09:03:33Z: PLAYER CHATTED [   68471378] ob2n                 (  -28.4,    90.7,    87.0)
+  Are you sponsoring this?
+2023-01-30T09:03:52Z: PLAYER CHATTED [    1630228] VisualPlugin         (   35.3,    93.6,     0.5)
+  Not to my knowledge.
+2023-01-30T09:03:58Z: PLAYER CHATTED [   68471378] ob2n                 (  125.9,    92.8,   169.9)
+  Who are these people?
+2023-01-30T09:04:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (   38.9,    93.9,    -3.2)
+  Sans is a new visitor.
+2023-01-30T09:04:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (   38.9,    93.9,    -3.2)
+  Basenji is a repeat customer.
+2023-01-30T09:04:15Z: PLAYER CHATTED [ 1774820760] fafafarouq           (  242.0,    94.7,    93.3)
+  yes
+2023-01-30T09:04:19Z: PLAYER CHATTED [    1630228] VisualPlugin         (   36.1,    93.4,     2.3)
+  Benji is also new.
+2023-01-30T09:04:19Z: PLAYER CHATTED [   68471378] ob2n                 (  139.3,   130.6,   130.1)
+  What am I?
+2023-01-30T09:04:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (   39.8,    92.1,    33.6)
+  You're also a repeat.
+2023-01-30T09:04:34Z: PLAYER CHATTED [   68471378] ob2n                 (  103.0,   172.6,   136.0)
+  I'm more than a repeat.
+2023-01-30T09:04:40Z: PLAYER CHATTED [   68471378] ob2n                 (  117.1,   172.6,   109.9)
+  I've been here for years.
+2023-01-30T09:04:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (   34.9,    91.8,    62.3)
+  Very true.
+2023-01-30T09:04:50Z: PLAYER CHATTED [   68471378] ob2n                 (   21.3,   172.6,    80.5)
+  I deserve a special title.
+2023-01-30T09:05:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (   34.9,    91.8,    62.3)
+  'Repeat customer' is already a special title.
+2023-01-30T09:05:03Z: PLAYER CHATTED [   68471378] ob2n                 (   -4.8,   172.6,    76.3)
+  I deserve an easter egg in the game.
+2023-01-30T09:05:06Z: PLAYER CHATTED [   68471378] ob2n                 (   28.9,   172.6,    79.9)
+  Give me a statue.
+2023-01-30T09:05:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (   34.9,    91.8,    62.3)
+  Should I call you a Caniac cardholder?
+2023-01-30T09:05:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -15.7,    90.8,    76.5)
+  I used to work at Cane's.
+2023-01-30T09:05:19Z: PLAYER CHATTED [   68471378] ob2n                 (   47.0,    85.3,   103.1)
+  I'm aware.
+2023-01-30T09:05:25Z: PLAYER CHATTED [   68471378] ob2n                 (   10.1,    83.1,    74.5)
+  Add a Cane's to the hotel property.
+2023-01-30T09:05:37Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -26.6,    90.8,    76.5)
+  I might consider it.
+2023-01-30T09:05:46Z: PLAYER CHATTED [ 1774820760] fafafarouq           (  174.8,    93.5,   162.9)
+  /clear
+2023-01-30T09:05:51Z: PLAYER CHATTED [   68471378] ob2n                 (  -37.6,    93.0,   135.9)
+  I used to steal food from Chick-Fil-A after my shifts.
+2023-01-30T09:05:53Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -31.0,    91.1,    78.0)
+  The first Cane's to deliver food via time machine.
+2023-01-30T09:06:09Z: CHRCTER ADDED  [ 1581340012] basenjilover5       
+2023-01-30T09:06:12Z: PLAYER CHATTED [   68471378] ob2n                 (   38.7,    84.2,   110.7)
+  I would go into the freezer in the back with my backpack and take bags of frozen mac and cheese,
+2023-01-30T09:06:18Z: PLAYER CHATTED [   68471378] ob2n                 (   38.7,    84.2,   110.7)
+  I would then take it home and cook it on my blackstone griddle.
+2023-01-30T09:06:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.1,    85.9,    96.6)
+  I wanted to do something similar with the rice at Pollo Loco.
+2023-01-30T09:06:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (   21.8,    90.0,   188.8)
+  I forgo to bring the rice.
+2023-01-30T09:06:48Z: PLAYER ADDED   [   16031105] TaxRevenue          
+2023-01-30T09:06:48Z: PLAYER CHATTED [   68471378] ob2n                 (  -67.6,    86.8,   166.6)
+  My biggest mistake was I never took any chicken..
+2023-01-30T09:06:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -7.1,    92.8,    69.3)
+  Tax is another friend of mine.
+2023-01-30T09:07:00Z: PLAYER CHATTED [   68471378] ob2n                 (    0.9,    91.6,    51.9)
+  I'm working at Chick-Fil-A again in a few months.
+2023-01-30T09:07:10Z: PLAYER CHATTED [    1630228] VisualPlugin         (   19.7,    91.8,    58.7)
+  We haven't met in at last 1.5 years.
+2023-01-30T09:07:15Z: PLAYER CHATTED [   16031105] TaxRevenue           (   35.0,    93.4,    -2.8)
+  Hey this looks interesting!
+2023-01-30T09:07:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (   36.3,    92.4,    28.6)
+  Thanks!
+2023-01-30T09:07:27Z: PLAYER CHATTED [   16031105] TaxRevenue           (   35.0,    91.3,    69.8)
+  WOAH
+2023-01-30T09:07:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (   36.2,    92.4,    28.8)
+  Welcome to version 126X of the Kubla Khan!
+2023-01-30T09:07:37Z: PLAYER CHATTED [   16031105] TaxRevenue           (   74.3,    90.6,    67.6)
+  This is really epic!
+2023-01-30T09:07:39Z: PLAYER CHATTED [   68471378] ob2n                 (   68.3,    91.6,    50.8)
+  VisualPlugin spends too much time on these showcases instead of just contracting his work
+2023-01-30T09:07:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (   53.8,    91.8,    63.6)
+  As in: 1260-1269.
+2023-01-30T09:07:51Z: PLAYER CHATTED [    1630228] VisualPlugin         (   13.3,    91.9,    66.3)
+  I don't spend that much time.
+2023-01-30T09:07:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -16.1,    90.8,    74.3)
+  (Forgot to say nice).
+2023-01-30T09:08:01Z: PLAYER CHATTED [   68471378] ob2n                 (  -84.0,    94.2,   142.5)
+  This looks very time consuming.
+2023-01-30T09:08:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -25.2,    90.8,    84.4)
+  On-and-off.
+2023-01-30T09:08:18Z: PLAYER CHATTED [   68471378] ob2n                 (  -74.6,    91.8,   208.8)
+  How many hours did this take in total, if you had to guess.
+2023-01-30T09:08:32Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -47.8,    93.8,   133.6)
+  As of 2021,maybe 1000.
+2023-01-30T09:08:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -47.9,    93.8,   133.7)
+  Let me check.
+2023-01-30T09:08:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -48.0,    93.8,   133.9)
+  I wrote a scrpt which estimates just that.
+2023-01-30T09:09:10Z: PLAYER CHATTED [   68471378] ob2n                 (  -45.3,    93.6,   136.8)
+  California minimum wage is 15.50/hr
+2023-01-30T09:09:36Z: PLAYER CHATTED [   68471378] ob2n                 (   -5.6,    90.4,   113.6)
+  That's over $15,000 worth of work for a nonmonetized showcase game.
+2023-01-30T09:09:43Z: PLAYER CHATTED [   16031105] TaxRevenue           (  -37.6,    93.0,   135.9)
+  Who really attaches a price tag to their every hour?
+2023-01-30T09:09:48Z: PLAYER CHATTED [   16031105] TaxRevenue           (  -37.6,    93.0,   135.9)
+  That is a bad mindset
+2023-01-30T09:09:48Z: PLAYER CHATTED [   16031105] TaxRevenue           (  -37.6,    93.0,   135.9)
+  That is a bad mindset
+2023-01-30T09:09:52Z: PLAYER CHATTED [   68471378] ob2n                 (  -64.5,    92.4,   193.8)
+  I mean true
+2023-01-30T09:09:53Z: PLAYER CHATTED [   68471378] ob2n                 (  -61.1,    93.6,   186.5)
+  I do
+2023-01-30T09:09:54Z: PLAYER CHATTED [   16031105] TaxRevenue           (  -36.8,    93.1,   138.6)
+  Time is not money
+2023-01-30T09:10:16Z: PLAYER CHATTED [   16031105] TaxRevenue           (  -21.0,    85.5,   127.7)
+  It is mythology, our time is not worth money 
+2023-01-30T09:10:20Z: PLAYER CHATTED [ 1581340012] basenjilover5        (  213.7,   213.0,    44.3)
+  found the floating cactus
+2023-01-30T09:10:28Z: PLAYER CHATTED [   16031105] TaxRevenue           (  -21.0,    85.5,   127.7)
+  An idea or product you create however, is worth something monetarily 
+2023-01-30T09:10:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -46.9,    93.8,   133.7)
+  I've always been an advocate for Free Software, one way or the other.
+2023-01-30T09:10:59Z: PLAYER CHATTED [   68471378] ob2n                 (  -49.9,    95.8,   139.8)
+  I'm just saying you should find some way to monetize this
+2023-01-30T09:11:05Z: PLAYER CHATTED [   16031105] TaxRevenue           (  -30.7,    93.5,   169.3)
+  Open source software is amazing
+2023-01-30T09:11:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -46.9,    93.8,   133.7)
+  I'm considering options.
+2023-01-30T09:11:15Z: PLAYER CHATTED [   16031105] TaxRevenue           (  -17.0,    85.7,   155.7)
+  You should consider a hotel roleplay maybe
+2023-01-30T09:11:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -46.9,    93.8,   133.7)
+  My game is licenced under the GPL.
+2023-01-30T09:11:18Z: PLAYER CHATTED [   16031105] TaxRevenue           (  -17.0,    85.6,   155.7)
+  That could generatre a lot 
+2023-01-30T09:11:20Z: PLAYER CHATTED [   16031105] TaxRevenue           (  -17.0,    85.6,   155.7)
+  generate*
+2023-01-30T09:11:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -46.9,    93.8,   133.7)
+  That's exactly what I'm considering.
+2023-01-30T09:11:27Z: PLAYER CHATTED [   68471378] ob2n                 (  -30.4,    86.9,   166.1)
+  Or a vibe game
+2023-01-30T09:11:37Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -46.9,    93.8,   133.7)
+  Never occured to me 'vibe game'.
+2023-01-30T09:11:41Z: PLAYER CHATTED [   16031105] TaxRevenue           (   92.2,    80.9,   150.7)
+  The detail here is phenomenal 
+2023-01-30T09:11:44Z: PLAYER CHATTED [   68471378] ob2n                 (  -74.4,    92.5,    94.3)
+  Have you seen those before?
+2023-01-30T09:11:46Z: PLAYER CHATTED [ 1581340012] basenjilover5        (  213.7,   213.0,    44.3)
+  I'd say between floors 6 to 7 about area
+2023-01-30T09:11:48Z: PLAYER CHATTED [   16031105] TaxRevenue           (   84.9,    82.5,   149.2)
+  i see every little things is so detailed 
+2023-01-30T09:11:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -46.9,    93.8,   133.7)
+  "Place 4794911592 took between 482:13:34 and 1597:06:25 to develop."
+2023-01-30T09:11:51Z: PLAYER CHATTED [   68471378] ob2n                 (  -35.2,    93.6,   156.8)
+  This fits the description of one exactly
+2023-01-30T09:11:52Z: PLAYER CHATTED [   16031105] TaxRevenue           (   85.7,    82.1,   151.3)
+  little thing*
+2023-01-30T09:12:01Z: CHRCTER ADDED  [   16031105] TaxRevenue          
+2023-01-30T09:12:10Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -46.7,    93.8,   133.3)
+  If maximum 1-hour tolerance between saves, 482 hours.
+2023-01-30T09:12:19Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -46.7,    93.8,   133.3)
+  If maximum 5 hours: ~1600.
+2023-01-30T09:12:33Z: PLAYER CHATTED [ 1581340012] basenjilover5        (  213.7,   213.0,    44.3)
+  16-17
+2023-01-30T09:12:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -32.6,    90.3,   122.9)
+  I'm working off of timestamps for saved versions.
+2023-01-30T09:12:42Z: PLAYER CHATTED [   68471378] ob2n                 (  -50.9,    93.0,   140.4)
+  Visual, did you ever get a devsword?
+2023-01-30T09:12:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -37.2,    91.8,   123.4)
+  No.
+2023-01-30T09:12:55Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -36.9,    91.9,   123.8)
+  I visited RDC though.
+2023-01-30T09:12:55Z: PLAYER CHATTED [   16031105] TaxRevenue           (  -60.6,    90.9,   108.6)
+  I have to go but this is amazing work, I hope you continue this and monetize it!
+2023-01-30T09:12:59Z: PLAYER CHATTED [   68471378] ob2n                 (   -8.0,    91.6,    49.0)
+  Did I tell you how I gained mine?
+2023-01-30T09:13:04Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -27.5,    90.8,    85.5)
+  How so?
+2023-01-30T09:13:05Z: PLAYER CHATTED [   16031105] TaxRevenue           (  -30.9,    85.2,   116.7)
+  nice seeing you again :D
+2023-01-30T09:13:13Z: PLAYER CHATTED [   68471378] ob2n                 (   -5.6,    90.5,   113.4)
+  I plagarized someone else's work on #######
+2023-01-30T09:13:13Z: PLAYER CHATTED [   68471378] ob2n                 (   -5.6,    90.5,   113.4)
+  I plagarized someone else's work on twitter
+2023-01-30T09:13:20Z: PLAYER REMOVED [   16031105] TaxRevenue          
+2023-01-30T09:13:28Z: PLAYER CHATTED [   68471378] ob2n                 (  -43.0,    86.0,    97.1)
+  (With permission from said person)
+2023-01-30T09:13:31Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -39.9,    91.5,   116.8)
+  I see why you're keen on me monetising my work.
+2023-01-30T09:13:41Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -41.1,    92.6,   127.1)
+  Fafa: I don't accept friend requests.
+2023-01-30T09:13:46Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -44.3,    92.6,   127.2)
+  I apologise.
+2023-01-30T09:13:54Z: PLAYER CHATTED [ 1774820760] fafafarouq           (  -43.3,    93.5,   133.0)
+  oh
+2023-01-30T09:13:55Z: PLAYER CHATTED [   68471378] ob2n                 (  -18.7,    85.9,   118.2)
+  There was a developer giving away a code to the best creation in their comments,
+2023-01-30T09:14:18Z: PLAYER CHATTED [   68471378] ob2n                 (  -81.0,    76.4,    67.6)
+  I asked my friend if I could reply with images of their showcase and say I made them,
+2023-01-30T09:14:22Z: PLAYER CHATTED [ 1774820760] fafafarouq           (  -47.0,    93.5,   138.1)
+  ok bye
+2023-01-30T09:14:23Z: PLAYER REMOVED [ 1774820760] fafafarouq           a.k.a. SANS                
+2023-01-30T09:14:23Z: PLAYER CHATTED [   68471378] ob2n                 (  -81.4,    76.6,    67.0)
+  I did and sure enough I got the sword somehow
+2023-01-30T09:14:28Z: CHRCTER ADDED  [   68471378] ob2n                 a.k.a. Mark                
+2023-01-30T09:14:30Z: PLAYER CHATTED [ 1581340012] basenjilover5        (  213.7,   213.0,    44.3)
+  I know how you can make some here
+2023-01-30T09:14:49Z: PLAYER CHATTED [   68471378] ob2n                 (  -84.4,    94.2,   150.4)
+  Can I call you?
+2023-01-30T09:14:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (   21.0,   100.8,   201.7)
+  Sur
+2023-01-30T09:15:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (   21.0,   100.8,   201.7)
+  *Sure.
+2023-01-30T09:15:05Z: PLAYER CHATTED [   68471378] ob2n                 ( -124.3,    81.4,    94.3)
+  I don't know your @, dm me.
+2023-01-30T09:15:09Z: PLAYER CHATTED [   68471378] ob2n                 ( -176.3,    87.4,    97.1)
+  My username is "Mark !!"
+2023-01-30T09:15:46Z: PLAYER CHATTED [    1630228] VisualPlugin         (  107.5,   100.8,   164.8)
+  Basenji is welcome to join if she sends me a DM as well.
+2023-01-30T09:15:50Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
