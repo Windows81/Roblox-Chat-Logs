@@ -1,0 +1,74 @@
+[    1630228] : [10492810428] 🧸 Toy Empire Tycoon - 6e627278-99cb-4032-af6c-0b4fa2c2919a
+2023-02-06T06:27:06Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-02-06T06:27:06Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-02-06T06:27:06Z: PLAYER ADDED   [  859882086] TriggerGood          a.k.a. Nick                
+2023-02-06T06:27:06Z: PLAYER ADDED   [   68471378] ob2n                 a.k.a. Mark                
+2023-02-06T06:27:06Z: PLAYER ADDED   [ 1816532825] rikiomardo           a.k.a. RIKIOMARDO_YT       
+2023-02-06T06:27:06Z: PLAYER ADDED   [ 3121666251] fws_213              a.k.a. bigfloopa           
+2023-02-06T06:27:55Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -79.7,     3.8,  -136.1)
+  RippleSnatch.
+2023-02-06T06:27:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -79.7,     3.8,  -136.1)
+  Soon™.
+2023-02-06T06:28:11Z: PLAYER CHATTED [   68471378] ob2n                 (  -76.2,     2.8,  -127.4)
+  huh
+2023-02-06T06:28:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -79.7,     3.8,  -136.1)
+  Remember Scrooja YuJa?
+2023-02-06T06:28:23Z: PLAYER CHATTED [   68471378] ob2n                 (  -79.2,     2.7,  -129.3)
+  mhm
+2023-02-06T06:28:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -75.6,     3.8,  -137.8)
+  RippleSnatch is Scrooja Yuja 2.0.
+2023-02-06T06:28:41Z: PLAYER CHATTED [   68471378] ob2n                 (  -79.2,     2.7,  -129.3)
+  lol
+2023-02-06T06:28:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -75.6,     3.8,  -137.8)
+  This time,
+2023-02-06T06:28:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -75.6,     3.8,  -137.8)
+  It's with RippleMatch.
+2023-02-06T06:29:10Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -75.6,     3.8,  -137.8)
+  I had to shut down Scrooja over privacy concerns.
+2023-02-06T06:29:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -75.6,     3.8,  -137.8)
+  RippleSnatch has none of those issues.
+2023-02-06T06:30:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -75.6,     3.8,  -137.8)
+  Soon, I will be able to go on an event-attending sprèé!
+2023-02-06T06:30:18Z: PLAYER CHATTED [   68471378] ob2n                 (  -79.2,     2.7,  -129.3)
+  ooh
+2023-02-06T06:30:24Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -75.6,     3.8,  -137.8)
+  Here's an example.
+2023-02-06T06:30:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -75.6,     3.8,  -137.8)
+  UT WiCS Hackathon
+2023-02-06T06:30:56Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -75.6,     3.8,  -137.8)
+  <p>Join us at our booth during the career fair or sign up for 1:1 conversations with a recruiter!</p>
+2023-02-06T06:31:02Z: PLAYER CHATTED [   68471378] ob2n                 (  -91.4,     2.7,  -100.8)
+  look at all those bad boys
+2023-02-06T06:31:24Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -85.3,     3.8,  -106.6)
+  Definitely not pre-pathed.
+2023-02-06T06:31:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -82.9,     3.8,  -105.4)
+  Original and unique word!
+2023-02-06T06:31:37Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -82.9,     3.8,  -105.4)
+  *Work.
+2023-02-06T06:31:49Z: PLAYER REMOVED [  859882086] TriggerGood          a.k.a. Nick                
+2023-02-06T06:31:57Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -135.2,     3.8,  -113.2)
+  They even spelt aluminium wrong!
+2023-02-06T06:32:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -72.5,     3.8,  -130.5)
+  That event was 'created' by Reddit.
+2023-02-06T06:32:53Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -72.5,     3.8,  -130.5)
+  It started on 2023-02-04 14:01:46.
+2023-02-06T06:32:54Z: PLAYER REMOVED [ 3121666251] fws_213              a.k.a. bigfloopa           
+2023-02-06T06:33:07Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -132.9,     3.8,   -73.9)
+  Ò.Ó
+2023-02-06T06:33:31Z: PLAYER CHATTED [   68471378] ob2n                 ( -109.7,     2.7,  -106.9)
+  !
+2023-02-06T06:33:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -77.7,     3.8,  -107.2)
+  OOHOHOHOHOH!
+2023-02-06T06:33:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -77.7,     3.8,  -107.2)
+  I finally got an event from Roblox!
+2023-02-06T06:34:04Z: PLAYER CHATTED [   68471378] ob2n                 ( -111.3,     2.7,  -104.5)
+  want to call
+2023-02-06T06:34:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -77.7,     3.8,  -107.2)
+  "Campus Ambassador: From One Robloxian to Another! "
+2023-02-06T06:34:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -77.7,     3.8,  -107.2)
+  "Hear From Our Campus Ambassadors: Tips and Tricks For Your Upcoming Internship! "
+2023-02-06T06:34:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -86.3,     3.8,  -104.4)
+  Both took place last month.
+2023-02-06T06:34:33Z: PLAYER CHATTED [   68471378] ob2n                 (  -84.2,     2.7,  -137.2)
+  i called you
+2023-02-06T06:42:46Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

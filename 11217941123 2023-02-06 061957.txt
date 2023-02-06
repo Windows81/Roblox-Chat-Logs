@@ -1,0 +1,444 @@
+[    1630228] : [11217941123] stupid idiot cafe - df4d4da2-729b-4e17-9815-497b2f734e7c
+2023-02-06T06:19:57Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-02-06T06:19:57Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-02-06T06:19:57Z: PLAYER ADDED   [ 1428735391] Nortsik1234          a.k.a. ChillyBacon         
+2023-02-06T06:19:57Z: PLAYER ADDED   [   45568685] FloppingWasabi      
+2023-02-06T06:19:57Z: PLAYER ADDED   [  484765366] Noob_BR17           
+2023-02-06T06:19:57Z: PLAYER ADDED   [ 3017143423] mcfly553             a.k.a. Overweight_sam      
+2023-02-06T06:19:57Z: PLAYER ADDED   [ 3379897712] Miki6l8              a.k.a. Za_Ukraina          
+2023-02-06T06:19:57Z: PLAYER ADDED   [ 3242692329] Kacey2013isme        a.k.a. Bacon               
+2023-02-06T06:19:57Z: PLAYER ADDED   [ 2542756898] xXCorruptedLegen2alt a.k.a. Blossoms            
+2023-02-06T06:19:57Z: PLAYER ADDED   [  816619927] miga_rainbow         a.k.a. regret              
+2023-02-06T06:19:57Z: PLAYER ADDED   [   64574746] BloxingHitman        a.k.a. Joker               
+2023-02-06T06:19:57Z: PLAYER ADDED   [   38957932] boombaby321         
+2023-02-06T06:19:57Z: PLAYER ADDED   [ 2252894213] Funtimepiggy_20      a.k.a. Sunky               
+2023-02-06T06:19:57Z: PLAYER ADDED   [  396904619] 58O7                 a.k.a. teo                 
+2023-02-06T06:19:57Z: PLAYER ADDED   [  700975636] TheMcShorty          a.k.a. dizzy               
+2023-02-06T06:19:57Z: PLAYER ADDED   [  109176680] Julli4n              a.k.a. Jullian             
+2023-02-06T06:19:57Z: PLAYER ADDED   [  492292433] kkittygamer101010    a.k.a. Reese_s             
+2023-02-06T06:19:57Z: PLAYER ADDED   [ 3481675185] randomexicans        a.k.a. Huevos              
+2023-02-06T06:19:57Z: PLAYER ADDED   [  589578472] batbomb12376         a.k.a. PlagueRat           
+2023-02-06T06:19:57Z: PLAYER ADDED   [ 2043016301] minie3alexa          a.k.a. Dummy               
+2023-02-06T06:19:57Z: PLAYER ADDED   [  650953147] Oofmcsoupy           a.k.a. awesome             
+2023-02-06T06:19:57Z: PLAYER ADDED   [  607947097] Charlie33666        
+2023-02-06T06:19:57Z: PLAYER ADDED   [  902117818] caleblikessonic      a.k.a. Obessebavcon        
+2023-02-06T06:19:57Z: PLAYER ADDED   [ 1252295707] CELESTIAL_OVERL0RD   a.k.a. Noob                
+2023-02-06T06:19:57Z: PLAYER ADDED   [ 1302941372] SoHowsItGoingBro     a.k.a. Mr_jarred           
+2023-02-06T06:19:57Z: PLAYER ADDED   [ 3606924332] fatttttcat_rickrat  
+2023-02-06T06:19:57Z: PLAYER ADDED   [  591517055] PandaBoykitkat       a.k.a. Panda               
+2023-02-06T06:19:57Z: PLAYER ADDED   [   83859193] Hex4rr               a.k.a. dotbuh              
+2023-02-06T06:19:57Z: PLAYER ADDED   [ 3385256946] Chlieb998           
+2023-02-06T06:19:58Z: PLAYER CHATTED [  484765366] Noob_BR17            ( -190.3,     8.0,    15.0)
+  ke*
+2023-02-06T06:19:58Z: PLAYER CHATTED [ 3242692329] Kacey2013isme        ( -307.8,     8.0,    42.7)
+  i make the drinks
+2023-02-06T06:19:58Z: PLAYER CHATTED [  816619927] miga_rainbow         ( -190.2,     8.6,    19.8)
+  LINe
+2023-02-06T06:19:58Z: PLAYER CHATTED [   83859193] Hex4rr               ( -187.9,     8.0,    25.3)
+  9 19 
+2023-02-06T06:19:58Z: PLAYER CHATTED [  700975636] TheMcShorty          (  345.5,    -7.8,    17.9)
+  i bet
+2023-02-06T06:20:00Z: CHRCTER ADDED  [  396904619] 58O7                 a.k.a. teo                 
+2023-02-06T06:20:00Z: PLAYER CHATTED [  700975636] TheMcShorty          (  345.5,    -7.8,    17.9)
+  yall did that on purpose
+2023-02-06T06:20:02Z: PLAYER CHATTED [   83859193] Hex4rr               ( -187.9,     8.0,    25.3)
+  19 cups of coffe
+2023-02-06T06:20:02Z: PLAYER CHATTED [ 2252894213] Funtimepiggy_20      ( -322.1,     8.0,    16.2)
+  >:(
+2023-02-06T06:20:03Z: PLAYER CHATTED [   83859193] Hex4rr               ( -183.7,     8.0,    19.1)
+  e
+2023-02-06T06:20:03Z: PLAYER CHATTED [   64574746] BloxingHitman        ( -302.9,     5.5,    37.4)
+  :)
+2023-02-06T06:20:03Z: PLAYER CHATTED [  492292433] kkittygamer101010    ( -309.6,     6.1,    23.7)
+  STOP
+2023-02-06T06:20:04Z: PLAYER CHATTED [   83859193] Hex4rr               ( -187.8,     8.0,    18.5)
+  like
+2023-02-06T06:20:05Z: PLAYER CHATTED [ 2542756898] xXCorruptedLegen2alt ( -188.1,     5.5,    22.7)
+  can i have every thing u sell
+2023-02-06T06:20:06Z: PLAYER CHATTED [   83859193] Hex4rr               ( -187.8,     8.0,    18.5)
+  seriously
+2023-02-06T06:20:06Z: PLAYER CHATTED [  902117818] caleblikessonic      ( -190.4,     8.5,    28.6)
+  every single drink
+2023-02-06T06:20:08Z: CHRCTER ADDED  [  492292433] kkittygamer101010    a.k.a. Reese_s             
+2023-02-06T06:20:08Z: CHRCTER ADDED  [ 2542756898] xXCorruptedLegen2alt a.k.a. Blossoms            
+2023-02-06T06:20:09Z: CHRCTER ADDED  [   64574746] BloxingHitman        a.k.a. Joker               
+2023-02-06T06:20:11Z: CHRCTER ADDED  [  589578472] batbomb12376         a.k.a. PlagueRat           
+2023-02-06T06:20:11Z: PLAYER CHATTED [  492292433] kkittygamer101010    (  806.5,   427.0,    -1.2)
+  Why
+2023-02-06T06:20:11Z: PLAYER CHATTED [  484765366] Noob_BR17            ( -195.6,     8.0,    18.7)
+  Everyone can cross the line
+2023-02-06T06:20:11Z: CHRCTER ADDED  [  816619927] miga_rainbow         a.k.a. regret              
+2023-02-06T06:20:12Z: PLAYER CHATTED [  700975636] TheMcShorty          (  345.7,    -7.8,    15.7)
+  no getting knives now huh
+2023-02-06T06:20:13Z: PLAYER CHATTED [  700975636] TheMcShorty          (  345.7,    -7.8,    15.7)
+  DONT
+2023-02-06T06:20:17Z: PLAYER CHATTED [ 2252894213] Funtimepiggy_20      ( -311.4,     8.0,     4.1)
+  :D
+2023-02-06T06:20:18Z: PLAYER CHATTED [ 3606924332] fatttttcat_rickrat   ( -191.2,    11.0,    26.5)
+  emty cup pls
+2023-02-06T06:20:18Z: PLAYER CHATTED [ 1252295707] CELESTIAL_OVERL0RD   ( -324.8,     6.0,    14.8)
+  pump was down
+2023-02-06T06:20:18Z: PLAYER CHATTED [  902117818] caleblikessonic      ( -190.3,     8.0,    22.9)
+  even the deadly ones 
+2023-02-06T06:20:25Z: PLAYER CHATTED [  492292433] kkittygamer101010    ( -353.6,     6.1,    48.7)
+  GAH DQM
+2023-02-06T06:20:27Z: CHRCTER ADDED  [  492292433] kkittygamer101010    a.k.a. Reese_s             
+2023-02-06T06:20:27Z: CHRCTER ADDED  [  589578472] batbomb12376         a.k.a. PlagueRat           
+2023-02-06T06:20:28Z: PLAYER CHATTED [  484765366] Noob_BR17            ( -177.2,     8.0,    -1.5)
+  Oh no
+2023-02-06T06:20:29Z: PLAYER CHATTED [ 2252894213] Funtimepiggy_20      ( -281.5,     8.0,    43.1)
+  !
+2023-02-06T06:20:30Z: PLAYER CHATTED [ 3242692329] Kacey2013isme        ( -198.7,     8.0,    34.4)
+  i got an order
+2023-02-06T06:20:30Z: PLAYER CHATTED [ 2043016301] minie3alexa          ( -311.2,     7.7,    44.3)
+  Don't kill
+2023-02-06T06:20:30Z: PLAYER CHATTED [ 1252295707] CELESTIAL_OVERL0RD   ( -308.8,     7.9,    40.7)
+  ####################
+2023-02-06T06:20:35Z: CHRCTER ADDED  [ 1302941372] SoHowsItGoingBro     a.k.a. Mr_jarred           
+2023-02-06T06:20:42Z: PLAYER CHATTED [  700975636] TheMcShorty          (  336.5,    -7.8,   -68.5)
+  hehe
+2023-02-06T06:20:44Z: PLAYER CHATTED [  816619927] miga_rainbow         ( -190.1,     8.6,    23.3)
+  OI
+2023-02-06T06:20:44Z: PLAYER CHATTED [ 3242692329] Kacey2013isme        ( -242.6,     7.9,    30.7)
+  AAAAA
+2023-02-06T06:20:46Z: CHRCTER ADDED  [  492292433] kkittygamer101010    a.k.a. Reese_s             
+2023-02-06T06:20:47Z: PLAYER CHATTED [ 3017143423] mcfly553             ( -264.1,     7.9,    34.9)
+  mmmm 
+2023-02-06T06:20:48Z: PLAYER CHATTED [  902117818] caleblikessonic      ( -162.1,     3.0,   127.2)
+  WAIT DONT SHOOT BILL
+2023-02-06T06:20:49Z: PLAYER CHATTED [ 2252894213] Funtimepiggy_20      ( -269.1,     8.0,    43.5)
+  dontdie
+2023-02-06T06:20:50Z: PLAYER CHATTED [ 3017143423] mcfly553             ( -257.5,     7.9,    38.2)
+  pepsi
+2023-02-06T06:20:54Z: PLAYER CHATTED [  492292433] kkittygamer101010    ( -311.7,     7.2,    45.7)
+  OW
+2023-02-06T06:20:54Z: CHRCTER ADDED  [  589578472] batbomb12376         a.k.a. PlagueRat           
+2023-02-06T06:20:55Z: PLAYER CHATTED [  902117818] caleblikessonic      ( -240.5,     3.5,   171.5)
+  i need to scan
+2023-02-06T06:20:56Z: PLAYER CHATTED [ 2252894213] Funtimepiggy_20      ( -313.9,     8.0,    43.9)
+  or bill will be faster
+2023-02-06T06:20:57Z: PLAYER REMOVED [   83859193] Hex4rr               a.k.a. dotbuh              
+2023-02-06T06:20:57Z: CHRCTER ADDED  [  607947097] Charlie33666        
+2023-02-06T06:20:57Z: CHRCTER ADDED  [  109176680] Julli4n              a.k.a. Jullian             
+2023-02-06T06:20:59Z: PLAYER ADDED   [ 1136256037] awskokiferas         a.k.a. Aos                 
+2023-02-06T06:20:59Z: CHRCTER ADDED  [  492292433] kkittygamer101010    a.k.a. Reese_s             
+2023-02-06T06:20:59Z: PLAYER CHATTED [  700975636] TheMcShorty          (  250.9,    -5.7,    -3.4)
+  so close
+2023-02-06T06:21:01Z: PLAYER CHATTED [  650953147] Oofmcsoupy           (  334.5,    -7.5,   -22.4)
+  bro failed 2 times
+2023-02-06T06:21:02Z: CHRCTER ADDED  [  700975636] TheMcShorty          a.k.a. dizzy               
+2023-02-06T06:21:02Z: PLAYER CHATTED [ 3242692329] Kacey2013isme        ( -336.5,     8.0,    39.0)
+  ############
+2023-02-06T06:21:04Z: PLAYER CHATTED [  396904619] 58O7                 (  336.0,    -7.6,    15.3)
+  i am small and petite i can dodge bullets
+2023-02-06T06:21:05Z: PLAYER CHATTED [ 3242692329] Kacey2013isme        ( -338.0,     5.5,    40.7)
+  NOOOOOOOOOOOOO
+2023-02-06T06:21:05Z: PLAYER CHATTED [ 3606924332] fatttttcat_rickrat   ( -183.0,     8.0,   -31.3)
+  chilly your hoot with one o
+2023-02-06T06:21:07Z: PLAYER CHATTED [  816619927] miga_rainbow         ( -190.3,     6.0,    23.1)
+  Can I get ur mum 😫
+2023-02-06T06:21:07Z: PLAYER CHATTED [ 3481675185] randomexicans        (  278.0,    -6.6,   -18.0)
+  lolz
+2023-02-06T06:21:08Z: PLAYER CHATTED [ 3242692329] Kacey2013isme        ( -338.0,     5.5,    40.6)
+  
+2023-02-06T06:21:09Z: PLAYER CHATTED [  650953147] Oofmcsoupy           (  285.2,    -7.1,   -15.9)
+  where did I get this
+2023-02-06T06:21:11Z: PLAYER CHATTED [  484765366] Noob_BR17            ( -186.2,     8.0,    17.5)
+  Yes
+2023-02-06T06:21:11Z: CHRCTER ADDED  [ 3242692329] Kacey2013isme        a.k.a. Bacon               
+2023-02-06T06:21:13Z: PLAYER CHATTED [ 3242692329] Kacey2013isme        (  806.8,   427.0,     0.6)
+  WHY PLAUGE RAT
+2023-02-06T06:21:13Z: PLAYER CHATTED [ 3481675185] randomexicans        (  280.3,    -6.7,   -18.9)
+  him
+2023-02-06T06:21:19Z: CHRCTER ADDED  [  492292433] kkittygamer101010    a.k.a. Reese_s             
+2023-02-06T06:21:19Z: PLAYER CHATTED [  650953147] Oofmcsoupy           (  350.6,    -7.5,     2.6)
+  hey
+2023-02-06T06:21:19Z: PLAYER CHATTED [   64574746] BloxingHitman        ( -183.7,     8.8,    22.7)
+  :)
+2023-02-06T06:21:20Z: PLAYER CHATTED [  700975636] TheMcShorty          (   92.7,     2.7,    -2.5)
+  on truck
+2023-02-06T06:21:21Z: PLAYER CHATTED [  650953147] Oofmcsoupy           (  350.6,    -7.5,     2.6)
+  shoot those
+2023-02-06T06:21:21Z: PLAYER CHATTED [ 2252894213] Funtimepiggy_20      ( -181.6,     5.5,    31.8)
+  bro
+2023-02-06T06:21:24Z: CHRCTER ADDED  [ 1302941372] SoHowsItGoingBro     a.k.a. Mr_jarred           
+2023-02-06T06:21:24Z: PLAYER CHATTED [  700975636] TheMcShorty          (  126.2,     2.7,    -8.6)
+  awesome
+2023-02-06T06:21:26Z: CHRCTER ADDED  [ 2252894213] Funtimepiggy_20      a.k.a. Sunky               
+2023-02-06T06:21:27Z: PLAYER CHATTED [   64574746] BloxingHitman        ( -184.7,     8.8,    23.7)
+  can i get\
+2023-02-06T06:21:30Z: PLAYER CHATTED [   64574746] BloxingHitman        ( -184.6,     8.8,    23.7)
+  u
+2023-02-06T06:21:30Z: PLAYER CHATTED [ 1428735391] Nortsik1234          ( -156.1,    17.7,    -1.4)
+  What?
+2023-02-06T06:21:31Z: PLAYER CHATTED [ 3242692329] Kacey2013isme        ( -369.7,     8.0,     5.8)
+  L
+2023-02-06T06:21:32Z: PLAYER REMOVED [ 2043016301] minie3alexa          a.k.a. Dummy               
+2023-02-06T06:21:32Z: PLAYER CHATTED [  650953147] Oofmcsoupy           (  341.6,    -7.5,    -1.1)
+  good job tho
+2023-02-06T06:21:33Z: PLAYER CHATTED [  700975636] TheMcShorty          (  263.4,    -5.9,    -9.0)
+  on the truck
+2023-02-06T06:21:34Z: PLAYER CHATTED [  700975636] TheMcShorty          (  279.9,    -7.0,    -9.1)
+  TEO
+2023-02-06T06:21:34Z: PLAYER CHATTED [ 3242692329] Kacey2013isme        ( -370.1,     9.0,     5.9)
+  REVENGE
+
+2023-02-06T06:21:34Z: PLAYER CHATTED [ 3242692329] Kacey2013isme        ( -370.1,     9.0,     5.9)
+  REVENGE
+2023-02-06T06:21:35Z: PLAYER CHATTED [  650953147] Oofmcsoupy           (  341.8,    -7.5,     0.4)
+  teo
+2023-02-06T06:21:37Z: PLAYER ADDED   [  829830354] quintinc55           a.k.a. ConeFurry           
+2023-02-06T06:21:39Z: PLAYER CHATTED [ 3242692329] Kacey2013isme        ( -370.1,     8.0,     5.8)
+  KARMA
+
+2023-02-06T06:21:39Z: CHRCTER ADDED  [  589578472] batbomb12376         a.k.a. PlagueRat           
+2023-02-06T06:21:39Z: PLAYER CHATTED [ 3242692329] Kacey2013isme        ( -370.1,     8.0,     5.8)
+  KARMA
+2023-02-06T06:21:39Z: PLAYER CHATTED [ 3606924332] fatttttcat_rickrat   ( -160.0,    19.0,    -2.3)
+  g   o   t
+2023-02-06T06:21:39Z: PLAYER CHATTED [ 3606924332] fatttttcat_rickrat   ( -160.0,    19.0,    -2.3)
+  g o t
+2023-02-06T06:21:40Z: CHRCTER ADDED  [   64574746] BloxingHitman        a.k.a. Joker               
+2023-02-06T06:21:42Z: CHRCTER ADDED  [  492292433] kkittygamer101010    a.k.a. Reese_s             
+2023-02-06T06:21:43Z: PLAYER CHATTED [  396904619] 58O7                 (  348.2,    -7.6,     7.3)
+  its teo chan
+2023-02-06T06:21:44Z: PLAYER CHATTED [  816619927] miga_rainbow         ( -186.8,     8.6,    26.6)
+  Oi papi
+2023-02-06T06:21:45Z: PLAYER CHATTED [ 1428735391] Nortsik1234          ( -156.1,    17.7,    -1.4)
+  Am I suppose to say thanks?
+2023-02-06T06:21:45Z: PLAYER CHATTED [ 1252295707] CELESTIAL_OVERL0RD   ( -196.3,     7.9,   -11.3)
+  got em
+2023-02-06T06:21:49Z: PLAYER ADDED   [ 3190316375] iwillget457money     a.k.a. sussy               
+2023-02-06T06:21:51Z: CHRCTER ADDED  [  484765366] Noob_BR17           
+2023-02-06T06:21:51Z: PLAYER CHATTED [ 3606924332] fatttttcat_rickrat   ( -160.0,    19.0,    -2.3)
+  # ##
+2023-02-06T06:21:52Z: PLAYER CHATTED [  492292433] kkittygamer101010    ( -335.1,     5.5,    39.0)
+  DUDE
+2023-02-06T06:21:53Z: CHRCTER ADDED  [  607947097] Charlie33666        
+2023-02-06T06:21:55Z: CHRCTER ADDED  [  700975636] TheMcShorty          a.k.a. dizzy               
+2023-02-06T06:21:55Z: PLAYER CHATTED [  650953147] Oofmcsoupy           (  339.3,    -7.5,    57.8)
+  i didn’t die yet
+2023-02-06T06:21:56Z: CHRCTER ADDED  [  109176680] Julli4n              a.k.a. Jullian             
+2023-02-06T06:21:58Z: CHRCTER ADDED  [  492292433] kkittygamer101010    a.k.a. Reese_s             
+2023-02-06T06:21:58Z: PLAYER CHATTED [  650953147] Oofmcsoupy           (  339.9,    -7.5,    39.4)
+  that what
+2023-02-06T06:21:58Z: PLAYER CHATTED [ 3606924332] fatttttcat_rickrat   ( -160.0,    19.0,    -2.3)
+  #####
+2023-02-06T06:21:59Z: PLAYER CHATTED [ 1252295707] CELESTIAL_OVERL0RD   ( -196.2,     7.9,    22.0)
+  what want?
+2023-02-06T06:22:00Z: PLAYER CHATTED [  650953147] Oofmcsoupy           (  339.9,    -7.5,    39.4)
+  was
+2023-02-06T06:22:05Z: PLAYER CHATTED [  816619927] miga_rainbow         ( -190.2,     8.6,    19.4)
+  A dad
+2023-02-06T06:22:08Z: PLAYER CHATTED [ 1136256037] awskokiferas         ( -190.7,     8.4,    22.0)
+  coffee
+2023-02-06T06:22:10Z: PLAYER CHATTED [  700975636] TheMcShorty          (  205.3,    -1.9,     9.8)
+  teo
+2023-02-06T06:22:10Z: PLAYER CHATTED [  902117818] caleblikessonic      ( -311.4,     5.5,    53.9)
+  nooooo
+2023-02-06T06:22:11Z: PLAYER REMOVED [   64574746] BloxingHitman        a.k.a. Joker               
+2023-02-06T06:22:14Z: PLAYER CHATTED [ 3606924332] fatttttcat_rickrat   ( -178.6,     8.0,    18.0)
+  hoot with one o
+2023-02-06T06:22:15Z: PLAYER CHATTED [ 1252295707] CELESTIAL_OVERL0RD   ( -195.1,     7.9,    20.4)
+  go to a bar
+2023-02-06T06:22:15Z: CHRCTER ADDED  [  902117818] caleblikessonic      a.k.a. Obessebavcon        
+2023-02-06T06:22:17Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-02-06T06:22:19Z: CHRCTER ADDED  [  829830354] quintinc55           a.k.a. ConeFurry           
+2023-02-06T06:22:19Z: PLAYER CHATTED [ 1252295707] CELESTIAL_OVERL0RD   ( -195.1,     7.9,    22.3)
+  ok
+2023-02-06T06:22:20Z: PLAYER CHATTED [  829830354] quintinc55           (  806.7,   427.0,     0.0)
+  Owie-
+2023-02-06T06:22:21Z: PLAYER CHATTED [  700975636] TheMcShorty          (  338.2,    -7.8,     7.1)
+  dont disarm the damn claymores
+2023-02-06T06:22:21Z: PLAYER CHATTED [ 1428735391] Nortsik1234          ( -190.9,     7.7,    27.1)
+  Hey
+2023-02-06T06:22:23Z: PLAYER CHATTED [  589578472] batbomb12376         ( -194.5,     8.3,    27.9)
+  hi
+2023-02-06T06:22:27Z: CHRCTER ADDED  [  492292433] kkittygamer101010    a.k.a. Reese_s             
+2023-02-06T06:22:28Z: PLAYER CHATTED [ 2252894213] Funtimepiggy_20      ( -190.3,     8.0,    39.7)
+  Bill?
+2023-02-06T06:22:31Z: CHRCTER ADDED  [  484765366] Noob_BR17           
+2023-02-06T06:22:32Z: PLAYER CHATTED [  650953147] Oofmcsoupy           (  350.3,    -7.5,    23.2)
+  jeez
+2023-02-06T06:22:32Z: CHRCTER ADDED  [ 3190316375] iwillget457money     a.k.a. sussy               
+2023-02-06T06:22:32Z: CHRCTER ADDED  [  700975636] TheMcShorty          a.k.a. dizzy               
+2023-02-06T06:22:33Z: PLAYER CHATTED [  396904619] 58O7                 (  348.8,    -7.6,    38.6)
+  CHARLIE
+2023-02-06T06:22:35Z: CHRCTER ADDED  [  607947097] Charlie33666        
+2023-02-06T06:22:35Z: PLAYER CHATTED [ 1428735391] Nortsik1234          ( -190.9,     7.7,    27.1)
+  Could I get some milk?
+2023-02-06T06:22:37Z: PLAYER CHATTED [ 2252894213] Funtimepiggy_20      ( -190.7,     8.0,    21.8)
+  WHERE IS BILL!?
+2023-02-06T06:22:39Z: PLAYER CHATTED [  816619927] miga_rainbow         ( -329.4,     5.5,    39.3)
+  I’m ur local mom
+2023-02-06T06:22:42Z: PLAYER CHATTED [  829830354] quintinc55           ( -186.3,     8.0,    26.3)
+  owie moment
+2023-02-06T06:22:42Z: PLAYER CHATTED [  816619927] miga_rainbow         ( -329.4,     5.5,    39.3)
+  I’m ur local mom
+2023-02-06T06:22:42Z: PLAYER CHATTED [  650953147] Oofmcsoupy           (  346.9,    -7.5,    20.0)
+  wasting claymores 
+2023-02-06T06:22:42Z: PLAYER CHATTED [  396904619] 58O7                 (  337.9,    -7.6,    16.4)
+  ###############
+2023-02-06T06:22:45Z: CHRCTER ADDED  [  816619927] miga_rainbow         a.k.a. regret              
+2023-02-06T06:22:49Z: PLAYER CHATTED [ 1252295707] CELESTIAL_OVERL0RD   ( -196.3,     7.9,    37.8)
+  got coffee
+2023-02-06T06:22:50Z: CHRCTER ADDED  [ 3379897712] Miki6l8              a.k.a. Za_Ukraina          
+2023-02-06T06:22:52Z: PLAYER CHATTED [ 3606924332] fatttttcat_rickrat   ( -187.5,     8.0,    42.0)
+  pls add me
+2023-02-06T06:22:53Z: PLAYER CHATTED [  829830354] quintinc55           ( -169.1,     7.9,    19.8)
+  bro what
+2023-02-06T06:22:54Z: PLAYER CHATTED [  700975636] TheMcShorty          (  237.0,    -4.1,    -7.4)
+  "wasting" claymores
+2023-02-06T06:22:56Z: PLAYER CHATTED [ 2252894213] Funtimepiggy_20      ( -301.8,     8.0,    46.2)
+  bill
+2023-02-06T06:22:57Z: PLAYER CHATTED [  700975636] TheMcShorty          (  277.8,    -6.9,    -2.0)
+  its for fun
+2023-02-06T06:22:57Z: PLAYER CHATTED [ 3242692329] Kacey2013isme        ( -312.2,     8.0,    33.5)
+  yo manager
+2023-02-06T06:22:59Z: PLAYER CHATTED [  829830354] quintinc55           ( -167.3,     5.5,    18.6)
+  i didnt even do nothing
+2023-02-06T06:22:59Z: PLAYER CHATTED [ 3481675185] randomexicans        ( -178.4,     8.0,    23.7)
+  Please
+2023-02-06T06:22:59Z: CHRCTER ADDED  [  492292433] kkittygamer101010    a.k.a. Reese_s             
+2023-02-06T06:23:00Z: PLAYER CHATTED [ 1252295707] CELESTIAL_OVERL0RD   ( -196.3,     7.9,    37.8)
+  i forgo who got it tho
+2023-02-06T06:23:04Z: PLAYER CHATTED [ 1428735391] Nortsik1234          ( -190.4,     7.7,    46.4)
+  Why tho?
+2023-02-06T06:23:04Z: PLAYER REMOVED [  816619927] miga_rainbow         a.k.a. regret              
+2023-02-06T06:23:04Z: CHRCTER ADDED  [  829830354] quintinc55           a.k.a. ConeFurry           
+2023-02-06T06:23:04Z: PLAYER CHATTED [ 3481675185] randomexicans        ( -178.4,     8.0,    23.7)
+  Just don't say that
+2023-02-06T06:23:05Z: PLAYER CHATTED [  902117818] caleblikessonic      ( -319.6,     3.0,   203.2)
+  SPAWN ANOTHER BILLL
+2023-02-06T06:23:05Z: PLAYER CHATTED [  700975636] TheMcShorty          (  308.8,     0.9,     6.8)
+  you cant get frjuans as easy as i do
+2023-02-06T06:23:07Z: PLAYER CHATTED [ 3481675185] randomexicans        ( -179.2,     8.0,    25.4)
+  Bdkmv
+2023-02-06T06:23:11Z: PLAYER CHATTED [ 3242692329] Kacey2013isme        ( -308.7,     8.0,    30.5)
+  i needa talk
+2023-02-06T06:23:12Z: PLAYER CHATTED [ 3606924332] fatttttcat_rickrat   ( -190.4,     8.0,    42.4)
+  i need a frind
+2023-02-06T06:23:13Z: PLAYER CHATTED [ 1252295707] CELESTIAL_OVERL0RD   ( -196.3,     7.9,    37.8)
+  O
+2023-02-06T06:23:14Z: PLAYER CHATTED [  492292433] kkittygamer101010    (  -71.6,     3.0,     8.7)
+  PANDA WHAT DID I DO
+2023-02-06T06:23:15Z: PLAYER CHATTED [ 1252295707] CELESTIAL_OVERL0RD   ( -196.4,     7.9,    37.7)
+  OH NO
+2023-02-06T06:23:17Z: CHRCTER ADDED  [  591517055] PandaBoykitkat       a.k.a. Panda               
+2023-02-06T06:23:21Z: PLAYER CHATTED [  607947097] Charlie33666         (  329.4,    -2.9,    11.8)
+  Buck it
+2023-02-06T06:23:21Z: PLAYER CHATTED [ 1252295707] CELESTIAL_OVERL0RD   ( -196.4,     7.9,    37.7)
+  AM NOT GOOD MANAGER
+2023-02-06T06:23:22Z: PLAYER CHATTED [  829830354] quintinc55           ( -111.6,     6.1,    25.5)
+  mans killing me cuz im a furry
+2023-02-06T06:23:23Z: PLAYER CHATTED [  829830354] quintinc55           ( -111.6,     6.1,    25.5)
+  mans killing me cuz im a furry
+2023-02-06T06:23:26Z: PLAYER CHATTED [ 1252295707] CELESTIAL_OVERL0RD   ( -198.2,     7.9,    37.9)
+  KILL ME
+2023-02-06T06:23:28Z: CHRCTER ADDED  [  650953147] Oofmcsoupy           a.k.a. awesome             
+2023-02-06T06:23:29Z: PLAYER CHATTED [  700975636] TheMcShorty          (  330.7,    -7.8,   -55.7)
+  ur not my ally anymore
+2023-02-06T06:23:30Z: PLAYER CHATTED [  650953147] Oofmcsoupy           (  806.7,   427.0,     0.0)
+  how do you get frujans?
+2023-02-06T06:23:32Z: CHRCTER ADDED  [ 1302941372] SoHowsItGoingBro     a.k.a. Mr_jarred           
+2023-02-06T06:23:32Z: PLAYER CHATTED [  396904619] 58O7                 (  329.7,    -9.7,   -63.4)
+  DIZZY I THOUGHT WE HAD SOMETHING
+2023-02-06T06:23:33Z: PLAYER CHATTED [ 1428735391] Nortsik1234          ( -189.7,     7.7,    48.3)
+  Well I dont
+2023-02-06T06:23:33Z: CHRCTER ADDED  [  396904619] 58O7                 a.k.a. teo                 
+2023-02-06T06:23:34Z: PLAYER CHATTED [  650953147] Oofmcsoupy           (  806.7,   427.0,    -0.9)
+  buying them?
+2023-02-06T06:23:35Z: PLAYER CHATTED [ 1252295707] CELESTIAL_OVERL0RD   ( -195.7,     7.0,    33.4)
+  thank
+2023-02-06T06:23:35Z: PLAYER ADDED   [ 1431558560] Daboyz1315          
+2023-02-06T06:23:36Z: PLAYER CHATTED [ 2252894213] Funtimepiggy_20      ( -184.8,     8.4,    37.7)
+  alr
+2023-02-06T06:23:37Z: PLAYER CHATTED [  700975636] TheMcShorty          (  335.6,    -7.8,     5.1)
+  files from private servers
+2023-02-06T06:23:37Z: PLAYER CHATTED [ 3481675185] randomexicans        ( -253.0,    29.0,   -84.7)
+  mans a w for doing it
+2023-02-06T06:23:38Z: PLAYER CHATTED [ 1428735391] Nortsik1234          ( -189.7,     7.7,    48.3)
+  Im sorry but no
+2023-02-06T06:23:39Z: PLAYER CHATTED [  902117818] caleblikessonic      ( -183.5,     8.0,    36.4)
+  prescisely
+2023-02-06T06:23:40Z: PLAYER CHATTED [ 3481675185] randomexicans        ( -253.0,    29.0,   -84.7)
+  😎
+2023-02-06T06:23:41Z: CHRCTER ADDED  [ 1252295707] CELESTIAL_OVERL0RD   a.k.a. Noob                
+2023-02-06T06:23:42Z: PLAYER ADDED   [ 2686665553] pepe_frogike         a.k.a. bubin               
+2023-02-06T06:23:42Z: PLAYER CHATTED [ 2252894213] Funtimepiggy_20      ( -166.0,     8.0,    20.6)
+  done with bill
+2023-02-06T06:23:47Z: PLAYER CHATTED [ 3379897712] Miki6l8              ( -189.9,     8.0,    22.9)
+  hi
+2023-02-06T06:23:47Z: PLAYER ADDED   [ 2240334024] YuillJ15            
+2023-02-06T06:23:51Z: PLAYER CHATTED [  650953147] Oofmcsoupy           (  117.4,     3.0,   -14.7)
+  i do the same thing
+2023-02-06T06:23:51Z: PLAYER CHATTED [ 2252894213] Funtimepiggy_20      ( -167.3,     8.0,    32.9)
+  i scanned bill
+2023-02-06T06:23:53Z: PLAYER CHATTED [  589578472] batbomb12376         ( -194.6,     8.0,    22.6)
+  hi
+2023-02-06T06:23:54Z: PLAYER CHATTED [  484765366] Noob_BR17            ( -308.4,     8.0,     6.8)
+  stop
+2023-02-06T06:23:55Z: CHRCTER ADDED  [ 1136256037] awskokiferas         a.k.a. Aos                 
+2023-02-06T06:23:55Z: PLAYER CHATTED [ 3606924332] fatttttcat_rickrat   ( -190.1,     8.0,    42.1)
+  ok i just die alown
+2023-02-06T06:23:56Z: PLAYER CHATTED [  829830354] quintinc55           ( -182.2,     8.0,    42.5)
+  HUEVOS IS DISCRIMINATORY AGAINST FURRIES
+2023-02-06T06:23:56Z: PLAYER REMOVED [ 2542756898] xXCorruptedLegen2alt a.k.a. Blossoms            
+2023-02-06T06:23:57Z: PLAYER CHATTED [ 3481675185] randomexicans        ( -356.6,     8.0,   -93.2)
+  woah
+2023-02-06T06:23:58Z: CHRCTER ADDED  [  607947097] Charlie33666        
+2023-02-06T06:23:58Z: CHRCTER ADDED  [  109176680] Julli4n              a.k.a. Jullian             
+2023-02-06T06:24:00Z: PLAYER CHATTED [ 1252295707] CELESTIAL_OVERL0RD   ( -297.6,     7.9,    44.0)
+  ok
+2023-02-06T06:24:02Z: CHRCTER ADDED  [  492292433] kkittygamer101010    a.k.a. Reese_s             
+2023-02-06T06:24:03Z: PLAYER CHATTED [  902117818] caleblikessonic      ( -181.8,     8.0,    33.5)
+  nice
+2023-02-06T06:24:04Z: PLAYER CHATTED [ 2252894213] Funtimepiggy_20      ( -182.5,     7.0,    28.5)
+  :(
+2023-02-06T06:24:10Z: CHRCTER ADDED  [ 3481675185] randomexicans        a.k.a. Huevos              
+2023-02-06T06:24:10Z: CHRCTER ADDED  [ 2252894213] Funtimepiggy_20      a.k.a. Sunky               
+2023-02-06T06:24:10Z: PLAYER CHATTED [  650953147] Oofmcsoupy           (  273.8,    -6.3,    14.8)
+  W huevos 
+2023-02-06T06:24:12Z: CHRCTER ADDED  [ 3017143423] mcfly553             a.k.a. Overweight_sam      
+2023-02-06T06:24:12Z: PLAYER CHATTED [ 1252295707] CELESTIAL_OVERL0RD   ( -194.7,     7.9,    26.9)
+  what want
+2023-02-06T06:24:12Z: PLAYER CHATTED [ 3481675185] randomexicans        (  805.9,   431.9,    -2.5)
+  Thats a good thing
+2023-02-06T06:24:13Z: CHRCTER ADDED  [   45568685] FloppingWasabi      
+2023-02-06T06:24:16Z: PLAYER CHATTED [  700975636] TheMcShorty          (  298.6,    -7.8,     5.5)
+  dude
+2023-02-06T06:24:16Z: CHRCTER ADDED  [ 3379897712] Miki6l8              a.k.a. Za_Ukraina          
+2023-02-06T06:24:16Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-02-06T06:24:17Z: PLAYER CHATTED [  902117818] caleblikessonic      ( -187.1,     8.0,    33.1)
+  W huevos
+2023-02-06T06:24:17Z: PLAYER REMOVED [  829830354] quintinc55           a.k.a. ConeFurry           
+2023-02-06T06:24:18Z: PLAYER CHATTED [  700975636] TheMcShorty          (  298.5,    -7.8,    10.0)
+  u wasted my treat
+2023-02-06T06:24:18Z: PLAYER CHATTED [  650953147] Oofmcsoupy           (  322.9,    -7.5,    17.9)
+  dizzy
+2023-02-06T06:24:19Z: CHRCTER ADDED  [  484765366] Noob_BR17           
+2023-02-06T06:24:20Z: PLAYER CHATTED [ 1428735391] Nortsik1234          ( -190.7,     9.5,    26.3)
+  Hello
+2023-02-06T06:24:20Z: PLAYER REMOVED [ 3017143423] mcfly553             a.k.a. Overweight_sam      
+2023-02-06T06:24:20Z: CHRCTER ADDED  [ 3385256946] Chlieb998           
+2023-02-06T06:24:26Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-02-06T06:24:26Z: PLAYER REMOVED [ 1428735391] Nortsik1234          a.k.a. ChillyBacon         
+2023-02-06T06:24:26Z: PLAYER REMOVED [   45568685] FloppingWasabi      
+2023-02-06T06:24:26Z: PLAYER REMOVED [  484765366] Noob_BR17           
+2023-02-06T06:24:26Z: PLAYER REMOVED [ 3379897712] Miki6l8              a.k.a. Za_Ukraina          
+2023-02-06T06:24:26Z: PLAYER REMOVED [ 3242692329] Kacey2013isme        a.k.a. Bacon               
+2023-02-06T06:24:26Z: PLAYER REMOVED [   38957932] boombaby321         
+2023-02-06T06:24:26Z: PLAYER REMOVED [ 2252894213] Funtimepiggy_20      a.k.a. Sunky               
+2023-02-06T06:24:26Z: PLAYER REMOVED [  396904619] 58O7                 a.k.a. teo                 
+2023-02-06T06:24:26Z: PLAYER REMOVED [  700975636] TheMcShorty          a.k.a. dizzy               
+2023-02-06T06:24:26Z: PLAYER REMOVED [  109176680] Julli4n              a.k.a. Jullian             
+2023-02-06T06:24:26Z: PLAYER REMOVED [  492292433] kkittygamer101010    a.k.a. Reese_s             
+2023-02-06T06:24:26Z: PLAYER REMOVED [ 3481675185] randomexicans        a.k.a. Huevos              
+2023-02-06T06:24:26Z: PLAYER REMOVED [  589578472] batbomb12376         a.k.a. PlagueRat           
+2023-02-06T06:24:26Z: PLAYER REMOVED [  650953147] Oofmcsoupy           a.k.a. awesome             
+2023-02-06T06:24:26Z: PLAYER REMOVED [  607947097] Charlie33666        
+2023-02-06T06:24:26Z: PLAYER REMOVED [  902117818] caleblikessonic      a.k.a. Obessebavcon        
+2023-02-06T06:24:26Z: PLAYER REMOVED [ 1252295707] CELESTIAL_OVERL0RD   a.k.a. Noob                
+2023-02-06T06:24:26Z: PLAYER REMOVED [ 1302941372] SoHowsItGoingBro     a.k.a. Mr_jarred           
+2023-02-06T06:24:26Z: PLAYER REMOVED [ 3606924332] fatttttcat_rickrat  
+2023-02-06T06:24:26Z: PLAYER REMOVED [  591517055] PandaBoykitkat       a.k.a. Panda               

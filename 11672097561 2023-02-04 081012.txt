@@ -1,0 +1,495 @@
+[    1630228] : [11672097561] Escape Ohio Part 4: Center of Ohio - a54383fc-b1ad-41af-8102-d32ff2312de3
+2023-02-04T08:10:12Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-02-04T08:10:12Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-02-04T08:10:12Z: PLAYER ADDED   [ 2957459632] WOLFIE_STARYSKY3     a.k.a. Wolfie              
+2023-02-04T08:10:12Z: PLAYER ADDED   [  702577719] marbilov             a.k.a. Water               
+2023-02-04T08:10:12Z: PLAYER ADDED   [ 2066207957] ilovemychencho       a.k.a. Fork                
+2023-02-04T08:10:12Z: PLAYER ADDED   [ 2311150023] hinata_109275        a.k.a. hinata              
+2023-02-04T08:10:12Z: PLAYER ADDED   [ 4223796909] ATFWaco             
+2023-02-04T08:10:12Z: PLAYER ADDED   [ 2524396954] xiephia              a.k.a. xie                 
+2023-02-04T08:10:12Z: PLAYER ADDED   [ 2251342666] Cocopebbles2011      a.k.a. TheyfwAliyah        
+2023-02-04T08:10:12Z: PLAYER ADDED   [ 1909112617] tr13589             
+2023-02-04T08:10:12Z: PLAYER ADDED   [   46602610] catgirl122345       
+2023-02-04T08:10:12Z: PLAYER ADDED   [ 3955530139] erolkaanhack        
+2023-02-04T08:10:12Z: PLAYER ADDED   [  790991420] huskylover725        a.k.a. Chloe               
+2023-02-04T08:10:12Z: PLAYER ADDED   [ 3709451685] Theyhate_Bando3      a.k.a. EBKBANDO            
+2023-02-04T08:10:12Z: PLAYER ADDED   [ 2611860340] patovale1309         a.k.a. sami                
+2023-02-04T08:10:12Z: PLAYER ADDED   [ 4170610295] ghssnc              
+2023-02-04T08:10:12Z: PLAYER ADDED   [ 3585296527] Deeroebuck9          a.k.a. OFFPERCS_DEE        
+2023-02-04T08:10:12Z: PLAYER ADDED   [ 1567285172] tyidhdhhsjd          a.k.a. Animeloser123       
+2023-02-04T08:10:12Z: PLAYER ADDED   [ 1197701638] yelenalus           
+2023-02-04T08:10:12Z: PLAYER ADDED   [ 2822277263] rafi28577            a.k.a. Sharingan           
+2023-02-04T08:10:12Z: PLAYER ADDED   [ 3120745831] itz_rierienz         a.k.a. Rie                 
+2023-02-04T08:10:12Z: PLAYER ADDED   [  184052869] Nuq_e                a.k.a. Nugs                
+2023-02-04T08:10:12Z: PLAYER ADDED   [  980477699] Unicornwierdo999     a.k.a. iiAzrael11          
+2023-02-04T08:10:12Z: PLAYER ADDED   [  521505552] naliarb              a.k.a. TableTop            
+2023-02-04T08:10:12Z: PLAYER ADDED   [ 2632953598] kynna5879            a.k.a. Kynna               
+2023-02-04T08:10:12Z: PLAYER ADDED   [  493702138] suhhjohnnyy          a.k.a. iheartjoji          
+2023-02-04T08:10:12Z: PLAYER ADDED   [ 2472940782] Hannah1o4            a.k.a. VXZILIA             
+2023-02-04T08:10:12Z: PLAYER ADDED   [  996599426] Fresh_xZ             a.k.a. CertifiedCreamer    
+2023-02-04T08:10:12Z: PLAYER ADDED   [ 2642957066] footman3899         
+2023-02-04T08:10:12Z: PLAYER ADDED   [ 2913195491] Emi_TheWeerdo        a.k.a. Scout               
+2023-02-04T08:10:14Z: PLAYER CHATTED [ 2066207957] ilovemychencho       (   -6.8,    18.4,  -181.3)
+  Fr
+2023-02-04T08:10:14Z: CHRCTER ADDED  [ 2913195491] Emi_TheWeerdo        a.k.a. Scout               
+2023-02-04T08:10:14Z: CHRCTER ADDED  [ 2822277263] rafi28577            a.k.a. Sharingan           
+2023-02-04T08:10:14Z: CHRCTER ADDED  [ 4223796909] ATFWaco             
+2023-02-04T08:10:14Z: PLAYER REMOVED [ 2311150023] hinata_109275        a.k.a. hinata              
+2023-02-04T08:10:15Z: CHRCTER ADDED  [ 3585296527] Deeroebuck9          a.k.a. OFFPERCS_DEE        
+2023-02-04T08:10:15Z: CHRCTER ADDED  [  790991420] huskylover725        a.k.a. Chloe               
+2023-02-04T08:10:16Z: CHRCTER ADDED  [  184052869] Nuq_e                a.k.a. Nugs                
+2023-02-04T08:10:16Z: PLAYER REMOVED [ 2642957066] footman3899         
+2023-02-04T08:10:16Z: CHRCTER ADDED  [  996599426] Fresh_xZ             a.k.a. CertifiedCreamer    
+2023-02-04T08:10:18Z: CHRCTER ADDED  [ 2632953598] kynna5879            a.k.a. Kynna               
+2023-02-04T08:10:18Z: CHRCTER ADDED  [ 3709451685] Theyhate_Bando3      a.k.a. EBKBANDO            
+2023-02-04T08:10:18Z: CHRCTER ADDED  [ 3120745831] itz_rierienz         a.k.a. Rie                 
+2023-02-04T08:10:19Z: CHRCTER ADDED  [ 3585296527] Deeroebuck9          a.k.a. OFFPERCS_DEE        
+2023-02-04T08:10:20Z: CHRCTER ADDED  [ 2957459632] WOLFIE_STARYSKY3     a.k.a. Wolfie              
+2023-02-04T08:10:20Z: PLAYER CHATTED [ 2066207957] ilovemychencho       (   -6.8,    18.4,  -181.3)
+  I wish I was on pc😭
+2023-02-04T08:10:20Z: CHRCTER ADDED  [ 4170610295] ghssnc              
+2023-02-04T08:10:21Z: CHRCTER ADDED  [ 2822277263] rafi28577            a.k.a. Sharingan           
+2023-02-04T08:10:22Z: CHRCTER ADDED  [ 2524396954] xiephia              a.k.a. xie                 
+2023-02-04T08:10:23Z: CHRCTER ADDED  [   46602610] catgirl122345       
+2023-02-04T08:10:23Z: CHRCTER ADDED  [  980477699] Unicornwierdo999     a.k.a. iiAzrael11          
+2023-02-04T08:10:23Z: CHRCTER ADDED  [  184052869] Nuq_e                a.k.a. Nugs                
+2023-02-04T08:10:24Z: CHRCTER ADDED  [  996599426] Fresh_xZ             a.k.a. CertifiedCreamer    
+2023-02-04T08:10:24Z: CHRCTER ADDED  [ 3120745831] itz_rierienz         a.k.a. Rie                 
+2023-02-04T08:10:25Z: CHRCTER ADDED  [ 1909112617] tr13589             
+2023-02-04T08:10:26Z: CHRCTER ADDED  [ 2957459632] WOLFIE_STARYSKY3     a.k.a. Wolfie              
+2023-02-04T08:10:27Z: CHRCTER ADDED  [ 2632953598] kynna5879            a.k.a. Kynna               
+2023-02-04T08:10:28Z: CHRCTER ADDED  [ 3709451685] Theyhate_Bando3      a.k.a. EBKBANDO            
+2023-02-04T08:10:29Z: CHRCTER ADDED  [ 2524396954] xiephia              a.k.a. xie                 
+2023-02-04T08:10:29Z: CHRCTER ADDED  [ 3120745831] itz_rierienz         a.k.a. Rie                 
+2023-02-04T08:10:29Z: CHRCTER ADDED  [ 3585296527] Deeroebuck9          a.k.a. OFFPERCS_DEE        
+2023-02-04T08:10:30Z: PLAYER CHATTED [   46602610] catgirl122345        (  156.7,    17.5,  -102.1)
+  same 
+2023-02-04T08:10:31Z: CHRCTER ADDED  [  184052869] Nuq_e                a.k.a. Nugs                
+2023-02-04T08:10:34Z: CHRCTER ADDED  [ 2632953598] kynna5879            a.k.a. Kynna               
+2023-02-04T08:10:34Z: CHRCTER ADDED  [ 4170610295] ghssnc              
+2023-02-04T08:10:34Z: CHRCTER ADDED  [ 3585296527] Deeroebuck9          a.k.a. OFFPERCS_DEE        
+2023-02-04T08:10:34Z: CHRCTER ADDED  [ 3709451685] Theyhate_Bando3      a.k.a. EBKBANDO            
+2023-02-04T08:10:34Z: CHRCTER ADDED  [  996599426] Fresh_xZ             a.k.a. CertifiedCreamer    
+2023-02-04T08:10:34Z: CHRCTER ADDED  [ 3120745831] itz_rierienz         a.k.a. Rie                 
+2023-02-04T08:10:36Z: CHRCTER ADDED  [ 2957459632] WOLFIE_STARYSKY3     a.k.a. Wolfie              
+2023-02-04T08:10:38Z: CHRCTER ADDED  [ 2066207957] ilovemychencho       a.k.a. Fork                
+2023-02-04T08:10:39Z: CHRCTER ADDED  [  996599426] Fresh_xZ             a.k.a. CertifiedCreamer    
+2023-02-04T08:10:40Z: CHRCTER ADDED  [  184052869] Nuq_e                a.k.a. Nugs                
+2023-02-04T08:10:40Z: PLAYER ADDED   [ 2598373721] m243am28             a.k.a. uhh                 
+2023-02-04T08:10:40Z: CHRCTER ADDED  [ 4170610295] ghssnc              
+2023-02-04T08:10:40Z: CHRCTER ADDED  [ 3120745831] itz_rierienz         a.k.a. Rie                 
+2023-02-04T08:10:41Z: CHRCTER ADDED  [  980477699] Unicornwierdo999     a.k.a. iiAzrael11          
+2023-02-04T08:10:41Z: CHRCTER ADDED  [ 4223796909] ATFWaco             
+2023-02-04T08:10:41Z: CHRCTER ADDED  [ 2957459632] WOLFIE_STARYSKY3     a.k.a. Wolfie              
+2023-02-04T08:10:43Z: CHRCTER ADDED  [   46602610] catgirl122345       
+2023-02-04T08:10:44Z: CHRCTER ADDED  [ 2066207957] ilovemychencho       a.k.a. Fork                
+2023-02-04T08:10:45Z: CHRCTER ADDED  [ 3120745831] itz_rierienz         a.k.a. Rie                 
+2023-02-04T08:10:46Z: CHRCTER ADDED  [ 2957459632] WOLFIE_STARYSKY3     a.k.a. Wolfie              
+2023-02-04T08:10:46Z: CHRCTER ADDED  [  184052869] Nuq_e                a.k.a. Nugs                
+2023-02-04T08:10:47Z: CHRCTER ADDED  [  996599426] Fresh_xZ             a.k.a. CertifiedCreamer    
+2023-02-04T08:10:47Z: CHRCTER ADDED  [ 3709451685] Theyhate_Bando3      a.k.a. EBKBANDO            
+2023-02-04T08:10:48Z: CHRCTER ADDED  [ 4170610295] ghssnc              
+2023-02-04T08:10:48Z: CHRCTER ADDED  [ 2524396954] xiephia              a.k.a. xie                 
+2023-02-04T08:10:49Z: PLAYER CHATTED [ 3120745831] itz_rierienz         ( -122.8,    18.4,  -180.4)
+  😭😭😭😭😭😭😭😭😭
+2023-02-04T08:10:49Z: CHRCTER ADDED  [ 2822277263] rafi28577            a.k.a. Sharingan           
+2023-02-04T08:10:50Z: CHRCTER ADDED  [ 2632953598] kynna5879            a.k.a. Kynna               
+2023-02-04T08:10:50Z: CHRCTER ADDED  [   46602610] catgirl122345       
+2023-02-04T08:10:51Z: CHRCTER ADDED  [ 2957459632] WOLFIE_STARYSKY3     a.k.a. Wolfie              
+2023-02-04T08:10:51Z: CHRCTER ADDED  [ 2066207957] ilovemychencho       a.k.a. Fork                
+2023-02-04T08:10:52Z: PLAYER REMOVED [  521505552] naliarb              a.k.a. TableTop            
+2023-02-04T08:10:52Z: CHRCTER ADDED  [  980477699] Unicornwierdo999     a.k.a. iiAzrael11          
+2023-02-04T08:10:53Z: CHRCTER ADDED  [ 4170610295] ghssnc              
+2023-02-04T08:10:56Z: CHRCTER ADDED  [  184052869] Nuq_e                a.k.a. Nugs                
+2023-02-04T08:10:56Z: CHRCTER ADDED  [ 3120745831] itz_rierienz         a.k.a. Rie                 
+2023-02-04T08:10:56Z: CHRCTER ADDED  [ 2524396954] xiephia              a.k.a. xie                 
+2023-02-04T08:10:56Z: CHRCTER ADDED  [ 2913195491] Emi_TheWeerdo        a.k.a. Scout               
+2023-02-04T08:10:57Z: CHRCTER ADDED  [  996599426] Fresh_xZ             a.k.a. CertifiedCreamer    
+2023-02-04T08:10:57Z: CHRCTER ADDED  [   46602610] catgirl122345       
+2023-02-04T08:10:58Z: CHRCTER ADDED  [ 2066207957] ilovemychencho       a.k.a. Fork                
+2023-02-04T08:10:58Z: CHRCTER ADDED  [ 3709451685] Theyhate_Bando3      a.k.a. EBKBANDO            
+2023-02-04T08:11:00Z: CHRCTER ADDED  [ 3585296527] Deeroebuck9          a.k.a. OFFPERCS_DEE        
+2023-02-04T08:11:00Z: PLAYER ADDED   [ 3844405480] NeVladimir1          a.k.a. NeVladimir          
+2023-02-04T08:11:00Z: CHRCTER ADDED  [  996599426] Fresh_xZ             a.k.a. CertifiedCreamer    
+2023-02-04T08:11:01Z: CHRCTER ADDED  [ 3120745831] itz_rierienz         a.k.a. Rie                 
+2023-02-04T08:11:02Z: CHRCTER ADDED  [ 4223796909] ATFWaco             
+2023-02-04T08:11:03Z: CHRCTER ADDED  [  184052869] Nuq_e                a.k.a. Nugs                
+2023-02-04T08:11:03Z: CHRCTER ADDED  [ 3844405480] NeVladimir1          a.k.a. NeVladimir          
+2023-02-04T08:11:04Z: CHRCTER ADDED  [  980477699] Unicornwierdo999     a.k.a. iiAzrael11          
+2023-02-04T08:11:05Z: CHRCTER ADDED  [ 2632953598] kynna5879            a.k.a. Kynna               
+2023-02-04T08:11:05Z: CHRCTER ADDED  [ 2524396954] xiephia              a.k.a. xie                 
+2023-02-04T08:11:06Z: PLAYER REMOVED [ 1567285172] tyidhdhhsjd          a.k.a. Animeloser123       
+2023-02-04T08:11:07Z: CHRCTER ADDED  [ 3120745831] itz_rierienz         a.k.a. Rie                 
+2023-02-04T08:11:07Z: CHRCTER ADDED  [ 4223796909] ATFWaco             
+2023-02-04T08:11:07Z: CHRCTER ADDED  [  996599426] Fresh_xZ             a.k.a. CertifiedCreamer    
+2023-02-04T08:11:08Z: CHRCTER ADDED  [ 2066207957] ilovemychencho       a.k.a. Fork                
+2023-02-04T08:11:10Z: CHRCTER ADDED  [ 2632953598] kynna5879            a.k.a. Kynna               
+2023-02-04T08:11:10Z: PLAYER REMOVED [ 3955530139] erolkaanhack        
+2023-02-04T08:11:10Z: PLAYER ADDED   [ 3813827969] thuhuong53995       
+2023-02-04T08:11:10Z: CHRCTER ADDED  [ 3844405480] NeVladimir1          a.k.a. NeVladimir          
+2023-02-04T08:11:11Z: CHRCTER ADDED  [ 3709451685] Theyhate_Bando3      a.k.a. EBKBANDO            
+2023-02-04T08:11:12Z: CHRCTER ADDED  [ 2524396954] xiephia              a.k.a. xie                 
+2023-02-04T08:11:13Z: PLAYER ADDED   [  943077101] PaigeMMcK            a.k.a. Dark                
+2023-02-04T08:11:13Z: CHRCTER ADDED  [ 3120745831] itz_rierienz         a.k.a. Rie                 
+2023-02-04T08:11:13Z: CHRCTER ADDED  [  996599426] Fresh_xZ             a.k.a. CertifiedCreamer    
+2023-02-04T08:11:15Z: CHRCTER ADDED  [ 2957459632] WOLFIE_STARYSKY3     a.k.a. Wolfie              
+2023-02-04T08:11:15Z: CHRCTER ADDED  [  980477699] Unicornwierdo999     a.k.a. iiAzrael11          
+2023-02-04T08:11:15Z: CHRCTER ADDED  [ 4223796909] ATFWaco             
+2023-02-04T08:11:16Z: CHRCTER ADDED  [ 2066207957] ilovemychencho       a.k.a. Fork                
+2023-02-04T08:11:17Z: PLAYER CHATTED [ 3120745831] itz_rierienz         ( -122.8,    18.4,  -181.2)
+  THE SE#### #NEE
+2023-02-04T08:11:18Z: PLAYER REMOVED [  790991420] huskylover725        a.k.a. Chloe               
+2023-02-04T08:11:18Z: CHRCTER ADDED  [ 3585296527] Deeroebuck9          a.k.a. OFFPERCS_DEE        
+2023-02-04T08:11:18Z: PLAYER CHATTED [   46602610] catgirl122345        (  156.7,    17.5,  -102.1)
+  i ain't even touched the 🦫 lava
+2023-02-04T08:11:18Z: CHRCTER ADDED  [ 3813827969] thuhuong53995       
+2023-02-04T08:11:19Z: CHRCTER ADDED  [ 2913195491] Emi_TheWeerdo        a.k.a. Scout               
+2023-02-04T08:11:19Z: PLAYER REMOVED [ 3844405480] NeVladimir1          a.k.a. NeVladimir          
+2023-02-04T08:11:20Z: CHRCTER ADDED  [  184052869] Nuq_e                a.k.a. Nugs                
+2023-02-04T08:11:20Z: CHRCTER ADDED  [ 2822277263] rafi28577            a.k.a. Sharingan           
+2023-02-04T08:11:20Z: CHRCTER ADDED  [  996599426] Fresh_xZ             a.k.a. CertifiedCreamer    
+2023-02-04T08:11:21Z: CHRCTER ADDED  [ 2598373721] m243am28             a.k.a. uhh                 
+2023-02-04T08:11:22Z: CHRCTER ADDED  [ 2957459632] WOLFIE_STARYSKY3     a.k.a. Wolfie              
+2023-02-04T08:11:23Z: PLAYER ADDED   [ 3778330745] Paula_w232           a.k.a. Spy                 
+2023-02-04T08:11:24Z: CHRCTER ADDED  [ 3120745831] itz_rierienz         a.k.a. Rie                 
+2023-02-04T08:11:24Z: CHRCTER ADDED  [ 3813827969] thuhuong53995       
+2023-02-04T08:11:24Z: CHRCTER ADDED  [  980477699] Unicornwierdo999     a.k.a. iiAzrael11          
+2023-02-04T08:11:26Z: CHRCTER ADDED  [ 2632953598] kynna5879            a.k.a. Kynna               
+2023-02-04T08:11:27Z: PLAYER CHATTED [ 2066207957] ilovemychencho       ( -117.9,     6.1,  -206.3)
+  .
+2023-02-04T08:11:27Z: PLAYER ADDED   [  502078943] sydn9ey              a.k.a. sped                
+2023-02-04T08:11:27Z: CHRCTER ADDED  [ 2066207957] ilovemychencho       a.k.a. Fork                
+2023-02-04T08:11:27Z: CHRCTER ADDED  [ 1909112617] tr13589             
+2023-02-04T08:11:29Z: CHRCTER ADDED  [ 3120745831] itz_rierienz         a.k.a. Rie                 
+2023-02-04T08:11:30Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-02-04T08:11:30Z: CHRCTER ADDED  [ 2957459632] WOLFIE_STARYSKY3     a.k.a. Wolfie              
+2023-02-04T08:11:30Z: PLAYER ADDED   [  750508417] Robloxiansunnyrose   a.k.a. 0wen2v              
+2023-02-04T08:11:30Z: CHRCTER ADDED  [ 2598373721] m243am28             a.k.a. uhh                 
+2023-02-04T08:11:30Z: CHRCTER ADDED  [ 3709451685] Theyhate_Bando3      a.k.a. EBKBANDO            
+2023-02-04T08:11:30Z: CHRCTER ADDED  [  750508417] Robloxiansunnyrose   a.k.a. 0wen2v              
+2023-02-04T08:11:31Z: PLAYER ADDED   [ 2892690324] ishhsnsnsnsnsbs      a.k.a. Cheesecake          
+2023-02-04T08:11:31Z: CHRCTER ADDED  [ 3813827969] thuhuong53995       
+2023-02-04T08:11:34Z: PLAYER REMOVED [ 4170610295] ghssnc              
+2023-02-04T08:11:34Z: CHRCTER ADDED  [ 2066207957] ilovemychencho       a.k.a. Fork                
+2023-02-04T08:11:34Z: CHRCTER ADDED  [ 3120745831] itz_rierienz         a.k.a. Rie                 
+2023-02-04T08:11:35Z: CHRCTER ADDED  [ 3585296527] Deeroebuck9          a.k.a. OFFPERCS_DEE        
+2023-02-04T08:11:35Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-02-04T08:11:36Z: CHRCTER ADDED  [ 2913195491] Emi_TheWeerdo        a.k.a. Scout               
+2023-02-04T08:11:38Z: CHRCTER ADDED  [ 2598373721] m243am28             a.k.a. uhh                 
+2023-02-04T08:11:38Z: CHRCTER ADDED  [  184052869] Nuq_e                a.k.a. Nugs                
+2023-02-04T08:11:39Z: PLAYER CHATTED [ 2066207957] ilovemychencho       ( -122.8,    18.4,  -180.9)
+  I hate speed runs on mobile
+2023-02-04T08:11:39Z: CHRCTER ADDED  [ 2822277263] rafi28577            a.k.a. Sharingan           
+2023-02-04T08:11:40Z: CHRCTER ADDED  [ 3120745831] itz_rierienz         a.k.a. Rie                 
+2023-02-04T08:11:40Z: CHRCTER ADDED  [  996599426] Fresh_xZ             a.k.a. CertifiedCreamer    
+2023-02-04T08:11:41Z: CHRCTER ADDED  [ 2632953598] kynna5879            a.k.a. Kynna               
+2023-02-04T08:11:41Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-02-04T08:11:42Z: CHRCTER ADDED  [  702577719] marbilov             a.k.a. Water               
+2023-02-04T08:11:43Z: CHRCTER ADDED  [ 3709451685] Theyhate_Bando3      a.k.a. EBKBANDO            
+2023-02-04T08:11:43Z: PLAYER ADDED   [ 3434539501] yoyonoob71           a.k.a. L_L                 
+2023-02-04T08:11:43Z: CHRCTER ADDED  [ 2892690324] ishhsnsnsnsnsbs      a.k.a. Cheesecake          
+2023-02-04T08:11:45Z: CHRCTER ADDED  [ 2066207957] ilovemychencho       a.k.a. Fork                
+2023-02-04T08:11:46Z: CHRCTER ADDED  [ 2822277263] rafi28577            a.k.a. Sharingan           
+2023-02-04T08:11:47Z: CHRCTER ADDED  [  996599426] Fresh_xZ             a.k.a. CertifiedCreamer    
+2023-02-04T08:11:47Z: CHRCTER ADDED  [ 3585296527] Deeroebuck9          a.k.a. OFFPERCS_DEE        
+2023-02-04T08:11:47Z: CHRCTER ADDED  [ 3120745831] itz_rierienz         a.k.a. Rie                 
+2023-02-04T08:11:48Z: CHRCTER ADDED  [  702577719] marbilov             a.k.a. Water               
+2023-02-04T08:11:49Z: CHRCTER ADDED  [  184052869] Nuq_e                a.k.a. Nugs                
+2023-02-04T08:11:49Z: CHRCTER ADDED  [  996599426] Fresh_xZ             a.k.a. CertifiedCreamer    
+2023-02-04T08:11:49Z: CHRCTER ADDED  [  980477699] Unicornwierdo999     a.k.a. iiAzrael11          
+2023-02-04T08:11:50Z: CHRCTER ADDED  [ 2892690324] ishhsnsnsnsnsbs      a.k.a. Cheesecake          
+2023-02-04T08:11:50Z: CHRCTER ADDED  [ 3434539501] yoyonoob71           a.k.a. L_L                 
+2023-02-04T08:11:51Z: CHRCTER ADDED  [ 2066207957] ilovemychencho       a.k.a. Fork                
+2023-02-04T08:11:52Z: PLAYER REMOVED [  493702138] suhhjohnnyy          a.k.a. iheartjoji          
+2023-02-04T08:11:52Z: CHRCTER ADDED  [ 3585296527] Deeroebuck9          a.k.a. OFFPERCS_DEE        
+2023-02-04T08:11:52Z: CHRCTER ADDED  [ 3120745831] itz_rierienz         a.k.a. Rie                 
+2023-02-04T08:11:54Z: CHRCTER ADDED  [ 3709451685] Theyhate_Bando3      a.k.a. EBKBANDO            
+2023-02-04T08:11:55Z: CHRCTER ADDED  [  996599426] Fresh_xZ             a.k.a. CertifiedCreamer    
+2023-02-04T08:11:55Z: CHRCTER ADDED  [ 3778330745] Paula_w232           a.k.a. Spy                 
+2023-02-04T08:11:55Z: CHRCTER ADDED  [ 4223796909] ATFWaco             
+2023-02-04T08:11:57Z: CHRCTER ADDED  [ 2892690324] ishhsnsnsnsnsbs      a.k.a. Cheesecake          
+2023-02-04T08:11:57Z: CHRCTER ADDED  [ 2066207957] ilovemychencho       a.k.a. Fork                
+2023-02-04T08:11:57Z: CHRCTER ADDED  [ 3120745831] itz_rierienz         a.k.a. Rie                 
+2023-02-04T08:11:59Z: CHRCTER ADDED  [ 3709451685] Theyhate_Bando3      a.k.a. EBKBANDO            
+2023-02-04T08:11:59Z: CHRCTER ADDED  [  184052869] Nuq_e                a.k.a. Nugs                
+2023-02-04T08:12:00Z: CHRCTER ADDED  [  943077101] PaigeMMcK            a.k.a. Dark                
+2023-02-04T08:12:03Z: CHRCTER ADDED  [ 2066207957] ilovemychencho       a.k.a. Fork                
+2023-02-04T08:12:04Z: CHRCTER ADDED  [  996599426] Fresh_xZ             a.k.a. CertifiedCreamer    
+2023-02-04T08:12:04Z: CHRCTER ADDED  [ 3585296527] Deeroebuck9          a.k.a. OFFPERCS_DEE        
+2023-02-04T08:12:04Z: CHRCTER ADDED  [ 3813827969] thuhuong53995       
+2023-02-04T08:12:04Z: CHRCTER ADDED  [ 2822277263] rafi28577            a.k.a. Sharingan           
+2023-02-04T08:12:04Z: CHRCTER ADDED  [  502078943] sydn9ey              a.k.a. sped                
+2023-02-04T08:12:05Z: PLAYER REMOVED [ 2472940782] Hannah1o4            a.k.a. VXZILIA             
+2023-02-04T08:12:05Z: PLAYER ADDED   [ 3026679986] Lik_Puul            
+2023-02-04T08:12:05Z: CHRCTER ADDED  [ 4223796909] ATFWaco             
+2023-02-04T08:12:06Z: CHRCTER ADDED  [ 3709451685] Theyhate_Bando3      a.k.a. EBKBANDO            
+2023-02-04T08:12:06Z: CHRCTER ADDED  [  943077101] PaigeMMcK            a.k.a. Dark                
+2023-02-04T08:12:07Z: CHRCTER ADDED  [ 1197701638] yelenalus           
+2023-02-04T08:12:07Z: CHRCTER ADDED  [  702577719] marbilov             a.k.a. Water               
+2023-02-04T08:12:07Z: CHRCTER ADDED  [  184052869] Nuq_e                a.k.a. Nugs                
+2023-02-04T08:12:10Z: PLAYER ADDED   [ 2485236606] fabrigamer999xdf25   a.k.a. elZETA              
+2023-02-04T08:12:10Z: CHRCTER ADDED  [ 2632953598] kynna5879            a.k.a. Kynna               
+2023-02-04T08:12:12Z: CHRCTER ADDED  [  996599426] Fresh_xZ             a.k.a. CertifiedCreamer    
+2023-02-04T08:12:13Z: CHRCTER ADDED  [ 2066207957] ilovemychencho       a.k.a. Fork                
+2023-02-04T08:12:14Z: CHRCTER ADDED  [  502078943] sydn9ey              a.k.a. sped                
+2023-02-04T08:12:14Z: CHRCTER ADDED  [ 3120745831] itz_rierienz         a.k.a. Rie                 
+2023-02-04T08:12:14Z: PLAYER ADDED   [ 2368564156] Tolonggis8          
+2023-02-04T08:12:15Z: CHRCTER ADDED  [  943077101] PaigeMMcK            a.k.a. Dark                
+2023-02-04T08:12:15Z: CHRCTER ADDED  [ 2822277263] rafi28577            a.k.a. Sharingan           
+2023-02-04T08:12:15Z: CHRCTER ADDED  [  702577719] marbilov             a.k.a. Water               
+2023-02-04T08:12:15Z: CHRCTER ADDED  [ 3709451685] Theyhate_Bando3      a.k.a. EBKBANDO            
+2023-02-04T08:12:16Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-02-04T08:12:17Z: CHRCTER ADDED  [ 2632953598] kynna5879            a.k.a. Kynna               
+2023-02-04T08:12:17Z: CHRCTER ADDED  [ 3585296527] Deeroebuck9          a.k.a. OFFPERCS_DEE        
+2023-02-04T08:12:19Z: CHRCTER ADDED  [  943077101] PaigeMMcK            a.k.a. Dark                
+2023-02-04T08:12:19Z: CHRCTER ADDED  [ 2066207957] ilovemychencho       a.k.a. Fork                
+2023-02-04T08:12:22Z: CHRCTER ADDED  [ 3434539501] yoyonoob71           a.k.a. L_L                 
+2023-02-04T08:12:22Z: CHRCTER ADDED  [ 2632953598] kynna5879            a.k.a. Kynna               
+2023-02-04T08:12:22Z: CHRCTER ADDED  [ 2598373721] m243am28             a.k.a. uhh                 
+2023-02-04T08:12:22Z: CHRCTER ADDED  [ 3585296527] Deeroebuck9          a.k.a. OFFPERCS_DEE        
+2023-02-04T08:12:22Z: CHRCTER ADDED  [  184052869] Nuq_e                a.k.a. Nugs                
+2023-02-04T08:12:23Z: CHRCTER ADDED  [ 2822277263] rafi28577            a.k.a. Sharingan           
+2023-02-04T08:12:24Z: CHRCTER ADDED  [  702577719] marbilov             a.k.a. Water               
+2023-02-04T08:12:26Z: PLAYER ADDED   [ 2472940782] Hannah1o4            a.k.a. VXZILIA             
+2023-02-04T08:12:26Z: CHRCTER ADDED  [ 1197701638] yelenalus           
+2023-02-04T08:12:26Z: CHRCTER ADDED  [ 1909112617] tr13589             
+2023-02-04T08:12:27Z: CHRCTER ADDED  [ 3585296527] Deeroebuck9          a.k.a. OFFPERCS_DEE        
+2023-02-04T08:12:28Z: CHRCTER ADDED  [  702577719] marbilov             a.k.a. Water               
+2023-02-04T08:12:28Z: CHRCTER ADDED  [ 2368564156] Tolonggis8          
+2023-02-04T08:12:28Z: CHRCTER ADDED  [  943077101] PaigeMMcK            a.k.a. Dark                
+2023-02-04T08:12:29Z: CHRCTER ADDED  [ 3709451685] Theyhate_Bando3      a.k.a. EBKBANDO            
+2023-02-04T08:12:29Z: CHRCTER ADDED  [ 2632953598] kynna5879            a.k.a. Kynna               
+2023-02-04T08:12:31Z: CHRCTER ADDED  [ 1197701638] yelenalus           
+2023-02-04T08:12:32Z: CHRCTER ADDED  [ 3778330745] Paula_w232           a.k.a. Spy                 
+2023-02-04T08:12:36Z: CHRCTER ADDED  [ 2368564156] Tolonggis8          
+2023-02-04T08:12:36Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-02-04T08:12:36Z: CHRCTER ADDED  [  184052869] Nuq_e                a.k.a. Nugs                
+2023-02-04T08:12:36Z: CHRCTER ADDED  [ 1909112617] tr13589             
+2023-02-04T08:12:36Z: CHRCTER ADDED  [ 4223796909] ATFWaco             
+2023-02-04T08:12:37Z: CHRCTER ADDED  [ 3585296527] Deeroebuck9          a.k.a. OFFPERCS_DEE        
+2023-02-04T08:12:38Z: CHRCTER ADDED  [ 2066207957] ilovemychencho       a.k.a. Fork                
+2023-02-04T08:12:39Z: CHRCTER ADDED  [ 1197701638] yelenalus           
+2023-02-04T08:12:40Z: CHRCTER ADDED  [ 2524396954] xiephia              a.k.a. xie                 
+2023-02-04T08:12:42Z: CHRCTER ADDED  [  702577719] marbilov             a.k.a. Water               
+2023-02-04T08:12:43Z: CHRCTER ADDED  [ 3778330745] Paula_w232           a.k.a. Spy                 
+2023-02-04T08:12:43Z: CHRCTER ADDED  [ 2598373721] m243am28             a.k.a. uhh                 
+2023-02-04T08:12:43Z: CHRCTER ADDED  [ 3709451685] Theyhate_Bando3      a.k.a. EBKBANDO            
+2023-02-04T08:12:44Z: CHRCTER ADDED  [ 2892690324] ishhsnsnsnsnsbs      a.k.a. Cheesecake          
+2023-02-04T08:12:44Z: CHRCTER ADDED  [  996599426] Fresh_xZ             a.k.a. CertifiedCreamer    
+2023-02-04T08:12:45Z: PLAYER ADDED   [ 4029087325] kurochimaca          a.k.a. Nhi2k22             
+2023-02-04T08:12:45Z: CHRCTER ADDED  [ 4223796909] ATFWaco             
+2023-02-04T08:12:45Z: CHRCTER ADDED  [ 1197701638] yelenalus           
+2023-02-04T08:12:45Z: CHRCTER ADDED  [ 3585296527] Deeroebuck9          a.k.a. OFFPERCS_DEE        
+2023-02-04T08:12:49Z: CHRCTER ADDED  [ 3434539501] yoyonoob71           a.k.a. L_L                 
+2023-02-04T08:12:49Z: CHRCTER ADDED  [ 2598373721] m243am28             a.k.a. uhh                 
+2023-02-04T08:12:49Z: CHRCTER ADDED  [ 3813827969] thuhuong53995       
+2023-02-04T08:12:50Z: CHRCTER ADDED  [ 2632953598] kynna5879            a.k.a. Kynna               
+2023-02-04T08:12:50Z: CHRCTER ADDED  [ 2892690324] ishhsnsnsnsnsbs      a.k.a. Cheesecake          
+2023-02-04T08:12:50Z: CHRCTER ADDED  [  996599426] Fresh_xZ             a.k.a. CertifiedCreamer    
+2023-02-04T08:12:51Z: CHRCTER ADDED  [ 2485236606] fabrigamer999xdf25   a.k.a. elZETA              
+2023-02-04T08:12:51Z: CHRCTER ADDED  [  502078943] sydn9ey              a.k.a. sped                
+2023-02-04T08:12:53Z: CHRCTER ADDED  [ 2472940782] Hannah1o4            a.k.a. VXZILIA             
+2023-02-04T08:12:54Z: CHRCTER ADDED  [ 3585296527] Deeroebuck9          a.k.a. OFFPERCS_DEE        
+2023-02-04T08:12:55Z: CHRCTER ADDED  [ 3813827969] thuhuong53995       
+2023-02-04T08:12:55Z: CHRCTER ADDED  [ 3709451685] Theyhate_Bando3      a.k.a. EBKBANDO            
+2023-02-04T08:12:55Z: PLAYER CHATTED [   46602610] catgirl122345        (   54.5,    19.2,  -179.9)
+  almost made me wanna punch my phone a few times lol
+2023-02-04T08:12:55Z: CHRCTER ADDED  [ 4223796909] ATFWaco             
+2023-02-04T08:12:55Z: CHRCTER ADDED  [ 2598373721] m243am28             a.k.a. uhh                 
+2023-02-04T08:12:56Z: CHRCTER ADDED  [ 4029087325] kurochimaca          a.k.a. Nhi2k22             
+2023-02-04T08:12:56Z: CHRCTER ADDED  [  702577719] marbilov             a.k.a. Water               
+2023-02-04T08:12:56Z: CHRCTER ADDED  [ 1197701638] yelenalus           
+2023-02-04T08:12:57Z: CHRCTER ADDED  [  502078943] sydn9ey              a.k.a. sped                
+2023-02-04T08:12:57Z: CHRCTER ADDED  [ 2485236606] fabrigamer999xdf25   a.k.a. elZETA              
+2023-02-04T08:12:58Z: CHRCTER ADDED  [  943077101] PaigeMMcK            a.k.a. Dark                
+2023-02-04T08:12:59Z: CHRCTER ADDED  [ 3585296527] Deeroebuck9          a.k.a. OFFPERCS_DEE        
+2023-02-04T08:12:59Z: CHRCTER ADDED  [ 3434539501] yoyonoob71           a.k.a. L_L                 
+2023-02-04T08:12:59Z: CHRCTER ADDED  [ 2892690324] ishhsnsnsnsnsbs      a.k.a. Cheesecake          
+2023-02-04T08:13:00Z: CHRCTER ADDED  [ 2822277263] rafi28577            a.k.a. Sharingan           
+2023-02-04T08:13:00Z: PLAYER REMOVED [  184052869] Nuq_e                a.k.a. Nugs                
+2023-02-04T08:13:01Z: CHRCTER ADDED  [ 3778330745] Paula_w232           a.k.a. Spy                 
+2023-02-04T08:13:01Z: CHRCTER ADDED  [  996599426] Fresh_xZ             a.k.a. CertifiedCreamer    
+2023-02-04T08:13:02Z: PLAYER REMOVED [ 2913195491] Emi_TheWeerdo        a.k.a. Scout               
+2023-02-04T08:13:02Z: CHRCTER ADDED  [ 4223796909] ATFWaco             
+2023-02-04T08:13:02Z: CHRCTER ADDED  [ 1197701638] yelenalus           
+2023-02-04T08:13:03Z: CHRCTER ADDED  [  502078943] sydn9ey              a.k.a. sped                
+2023-02-04T08:13:03Z: CHRCTER ADDED  [ 3813827969] thuhuong53995       
+2023-02-04T08:13:03Z: CHRCTER ADDED  [ 2632953598] kynna5879            a.k.a. Kynna               
+2023-02-04T08:13:03Z: PLAYER ADDED   [ 3720654052] ITDOWNLOADEDYAAAY   
+2023-02-04T08:13:03Z: CHRCTER ADDED  [ 3585296527] Deeroebuck9          a.k.a. OFFPERCS_DEE        
+2023-02-04T08:13:04Z: PLAYER REMOVED [ 2524396954] xiephia              a.k.a. xie                 
+2023-02-04T08:13:05Z: CHRCTER ADDED  [ 2892690324] ishhsnsnsnsnsbs      a.k.a. Cheesecake          
+2023-02-04T08:13:05Z: CHRCTER ADDED  [ 3709451685] Theyhate_Bando3      a.k.a. EBKBANDO            
+2023-02-04T08:13:05Z: PLAYER ADDED   [ 1173625207] digitalharts         a.k.a. mike                
+2023-02-04T08:13:06Z: CHRCTER ADDED  [ 2066207957] ilovemychencho       a.k.a. Fork                
+2023-02-04T08:13:07Z: CHRCTER ADDED  [ 2957459632] WOLFIE_STARYSKY3     a.k.a. Wolfie              
+2023-02-04T08:13:07Z: CHRCTER ADDED  [ 1909112617] tr13589             
+2023-02-04T08:13:07Z: CHRCTER ADDED  [ 2632953598] kynna5879            a.k.a. Kynna               
+2023-02-04T08:13:08Z: CHRCTER ADDED  [ 2368564156] Tolonggis8          
+2023-02-04T08:13:08Z: CHRCTER ADDED  [  943077101] PaigeMMcK            a.k.a. Dark                
+2023-02-04T08:13:09Z: CHRCTER ADDED  [ 1197701638] yelenalus           
+2023-02-04T08:13:09Z: CHRCTER ADDED  [  502078943] sydn9ey              a.k.a. sped                
+2023-02-04T08:13:09Z: CHRCTER ADDED  [  702577719] marbilov             a.k.a. Water               
+2023-02-04T08:13:09Z: PLAYER CHATTED [ 2066207957] ilovemychencho       (  295.3,    27.0,  1654.0)
+  Dang
+2023-02-04T08:13:11Z: CHRCTER ADDED  [ 3813827969] thuhuong53995       
+2023-02-04T08:13:12Z: CHRCTER ADDED  [ 2957459632] WOLFIE_STARYSKY3     a.k.a. Wolfie              
+2023-02-04T08:13:12Z: CHRCTER ADDED  [  996599426] Fresh_xZ             a.k.a. CertifiedCreamer    
+2023-02-04T08:13:12Z: CHRCTER ADDED  [ 3720654052] ITDOWNLOADEDYAAAY   
+2023-02-04T08:13:13Z: PLAYER REMOVED [ 4223796909] ATFWaco             
+2023-02-04T08:13:13Z: CHRCTER ADDED  [ 3585296527] Deeroebuck9          a.k.a. OFFPERCS_DEE        
+2023-02-04T08:13:13Z: PLAYER REMOVED [ 2611860340] patovale1309         a.k.a. sami                
+2023-02-04T08:13:13Z: CHRCTER ADDED  [  943077101] PaigeMMcK            a.k.a. Dark                
+2023-02-04T08:13:14Z: CHRCTER ADDED  [ 3434539501] yoyonoob71           a.k.a. L_L                 
+2023-02-04T08:13:14Z: CHRCTER ADDED  [ 1173625207] digitalharts         a.k.a. mike                
+2023-02-04T08:13:14Z: CHRCTER ADDED  [ 2368564156] Tolonggis8          
+2023-02-04T08:13:15Z: CHRCTER ADDED  [ 3120745831] itz_rierienz         a.k.a. Rie                 
+2023-02-04T08:13:16Z: CHRCTER ADDED  [ 3709451685] Theyhate_Bando3      a.k.a. EBKBANDO            
+2023-02-04T08:13:17Z: CHRCTER ADDED  [ 2066207957] ilovemychencho       a.k.a. Fork                
+2023-02-04T08:13:17Z: CHRCTER ADDED  [ 2632953598] kynna5879            a.k.a. Kynna               
+2023-02-04T08:13:18Z: CHRCTER ADDED  [  702577719] marbilov             a.k.a. Water               
+2023-02-04T08:13:18Z: CHRCTER ADDED  [ 2822277263] rafi28577            a.k.a. Sharingan           
+2023-02-04T08:13:20Z: CHRCTER ADDED  [  943077101] PaigeMMcK            a.k.a. Dark                
+2023-02-04T08:13:21Z: CHRCTER ADDED  [ 2485236606] fabrigamer999xdf25   a.k.a. elZETA              
+2023-02-04T08:13:21Z: CHRCTER ADDED  [ 1197701638] yelenalus           
+2023-02-04T08:13:23Z: CHRCTER ADDED  [  996599426] Fresh_xZ             a.k.a. CertifiedCreamer    
+2023-02-04T08:13:23Z: CHRCTER ADDED  [ 3709451685] Theyhate_Bando3      a.k.a. EBKBANDO            
+2023-02-04T08:13:24Z: CHRCTER ADDED  [ 3585296527] Deeroebuck9          a.k.a. OFFPERCS_DEE        
+2023-02-04T08:13:24Z: CHRCTER ADDED  [ 3720654052] ITDOWNLOADEDYAAAY   
+2023-02-04T08:13:25Z: CHRCTER ADDED  [ 2368564156] Tolonggis8          
+2023-02-04T08:13:25Z: CHRCTER ADDED  [ 2632953598] kynna5879            a.k.a. Kynna               
+2023-02-04T08:13:26Z: CHRCTER ADDED  [  702577719] marbilov             a.k.a. Water               
+2023-02-04T08:13:26Z: CHRCTER ADDED  [ 3813827969] thuhuong53995       
+2023-02-04T08:13:26Z: CHRCTER ADDED  [ 1909112617] tr13589             
+2023-02-04T08:13:27Z: CHRCTER ADDED  [ 1197701638] yelenalus           
+2023-02-04T08:13:29Z: CHRCTER ADDED  [   46602610] catgirl122345       
+2023-02-04T08:13:29Z: CHRCTER ADDED  [  996599426] Fresh_xZ             a.k.a. CertifiedCreamer    
+2023-02-04T08:13:29Z: CHRCTER ADDED  [ 3434539501] yoyonoob71           a.k.a. L_L                 
+2023-02-04T08:13:30Z: CHRCTER ADDED  [  502078943] sydn9ey              a.k.a. sped                
+2023-02-04T08:13:30Z: CHRCTER ADDED  [ 2892690324] ishhsnsnsnsnsbs      a.k.a. Cheesecake          
+2023-02-04T08:13:31Z: CHRCTER ADDED  [ 3720654052] ITDOWNLOADEDYAAAY   
+2023-02-04T08:13:32Z: CHRCTER ADDED  [ 2957459632] WOLFIE_STARYSKY3     a.k.a. Wolfie              
+2023-02-04T08:13:33Z: CHRCTER ADDED  [ 1173625207] digitalharts         a.k.a. mike                
+2023-02-04T08:13:33Z: PLAYER REMOVED [ 3120745831] itz_rierienz         a.k.a. Rie                 
+2023-02-04T08:13:34Z: CHRCTER ADDED  [   46602610] catgirl122345       
+2023-02-04T08:13:35Z: CHRCTER ADDED  [ 2368564156] Tolonggis8          
+2023-02-04T08:13:35Z: CHRCTER ADDED  [  750508417] Robloxiansunnyrose   a.k.a. 0wen2v              
+2023-02-04T08:13:36Z: CHRCTER ADDED  [ 4029087325] kurochimaca          a.k.a. Nhi2k22             
+2023-02-04T08:13:38Z: CHRCTER ADDED  [  996599426] Fresh_xZ             a.k.a. CertifiedCreamer    
+2023-02-04T08:13:38Z: CHRCTER ADDED  [  943077101] PaigeMMcK            a.k.a. Dark                
+2023-02-04T08:13:39Z: CHRCTER ADDED  [ 1909112617] tr13589             
+2023-02-04T08:13:40Z: CHRCTER ADDED  [ 3026679986] Lik_Puul            
+2023-02-04T08:13:40Z: CHRCTER ADDED  [ 2472940782] Hannah1o4            a.k.a. VXZILIA             
+2023-02-04T08:13:40Z: CHRCTER ADDED  [ 2598373721] m243am28             a.k.a. uhh                 
+2023-02-04T08:13:41Z: CHRCTER ADDED  [ 3434539501] yoyonoob71           a.k.a. L_L                 
+2023-02-04T08:13:42Z: CHRCTER ADDED  [ 2368564156] Tolonggis8          
+2023-02-04T08:13:42Z: CHRCTER ADDED  [ 4029087325] kurochimaca          a.k.a. Nhi2k22             
+2023-02-04T08:13:42Z: CHRCTER ADDED  [   46602610] catgirl122345       
+2023-02-04T08:13:42Z: CHRCTER ADDED  [  943077101] PaigeMMcK            a.k.a. Dark                
+2023-02-04T08:13:43Z: CHRCTER ADDED  [ 2892690324] ishhsnsnsnsnsbs      a.k.a. Cheesecake          
+2023-02-04T08:13:44Z: CHRCTER ADDED  [ 3720654052] ITDOWNLOADEDYAAAY   
+2023-02-04T08:13:45Z: CHRCTER ADDED  [ 2485236606] fabrigamer999xdf25   a.k.a. elZETA              
+2023-02-04T08:13:45Z: PLAYER REMOVED [  750508417] Robloxiansunnyrose   a.k.a. 0wen2v              
+2023-02-04T08:13:46Z: CHRCTER ADDED  [ 2066207957] ilovemychencho       a.k.a. Fork                
+2023-02-04T08:13:46Z: CHRCTER ADDED  [ 1197701638] yelenalus           
+2023-02-04T08:13:47Z: CHRCTER ADDED  [ 3709451685] Theyhate_Bando3      a.k.a. EBKBANDO            
+2023-02-04T08:13:47Z: CHRCTER ADDED  [ 2472940782] Hannah1o4            a.k.a. VXZILIA             
+2023-02-04T08:13:49Z: CHRCTER ADDED  [  943077101] PaigeMMcK            a.k.a. Dark                
+2023-02-04T08:13:49Z: CHRCTER ADDED  [ 4029087325] kurochimaca          a.k.a. Nhi2k22             
+2023-02-04T08:13:49Z: CHRCTER ADDED  [ 2892690324] ishhsnsnsnsnsbs      a.k.a. Cheesecake          
+2023-02-04T08:13:50Z: CHRCTER ADDED  [  702577719] marbilov             a.k.a. Water               
+2023-02-04T08:13:50Z: CHRCTER ADDED  [ 3585296527] Deeroebuck9          a.k.a. OFFPERCS_DEE        
+2023-02-04T08:13:52Z: CHRCTER ADDED  [ 2598373721] m243am28             a.k.a. uhh                 
+2023-02-04T08:13:55Z: CHRCTER ADDED  [ 2472940782] Hannah1o4            a.k.a. VXZILIA             
+2023-02-04T08:13:55Z: CHRCTER ADDED  [ 2485236606] fabrigamer999xdf25   a.k.a. elZETA              
+2023-02-04T08:13:55Z: CHRCTER ADDED  [ 1197701638] yelenalus           
+2023-02-04T08:13:55Z: CHRCTER ADDED  [ 3709451685] Theyhate_Bando3      a.k.a. EBKBANDO            
+2023-02-04T08:13:55Z: CHRCTER ADDED  [ 3434539501] yoyonoob71           a.k.a. L_L                 
+2023-02-04T08:13:56Z: CHRCTER ADDED  [  943077101] PaigeMMcK            a.k.a. Dark                
+2023-02-04T08:13:56Z: CHRCTER ADDED  [ 2957459632] WOLFIE_STARYSKY3     a.k.a. Wolfie              
+2023-02-04T08:13:57Z: CHRCTER ADDED  [ 3026679986] Lik_Puul            
+2023-02-04T08:13:57Z: CHRCTER ADDED  [ 2066207957] ilovemychencho       a.k.a. Fork                
+2023-02-04T08:13:58Z: CHRCTER ADDED  [ 2472940782] Hannah1o4            a.k.a. VXZILIA             
+2023-02-04T08:13:59Z: CHRCTER ADDED  [ 2485236606] fabrigamer999xdf25   a.k.a. elZETA              
+2023-02-04T08:14:00Z: CHRCTER ADDED  [ 3813827969] thuhuong53995       
+2023-02-04T08:14:00Z: CHRCTER ADDED  [ 2598373721] m243am28             a.k.a. uhh                 
+2023-02-04T08:14:00Z: CHRCTER ADDED  [  502078943] sydn9ey              a.k.a. sped                
+2023-02-04T08:14:01Z: CHRCTER ADDED  [ 3434539501] yoyonoob71           a.k.a. L_L                 
+2023-02-04T08:14:02Z: CHRCTER ADDED  [ 3709451685] Theyhate_Bando3      a.k.a. EBKBANDO            
+2023-02-04T08:14:02Z: CHRCTER ADDED  [ 4029087325] kurochimaca          a.k.a. Nhi2k22             
+2023-02-04T08:14:03Z: CHRCTER ADDED  [ 2892690324] ishhsnsnsnsnsbs      a.k.a. Cheesecake          
+2023-02-04T08:14:03Z: CHRCTER ADDED  [ 3585296527] Deeroebuck9          a.k.a. OFFPERCS_DEE        
+2023-02-04T08:14:03Z: CHRCTER ADDED  [  996599426] Fresh_xZ             a.k.a. CertifiedCreamer    
+2023-02-04T08:14:04Z: PLAYER REMOVED [ 3778330745] Paula_w232           a.k.a. Spy                 
+2023-02-04T08:14:05Z: CHRCTER ADDED  [ 2485236606] fabrigamer999xdf25   a.k.a. elZETA              
+2023-02-04T08:14:05Z: CHRCTER ADDED  [ 3026679986] Lik_Puul            
+2023-02-04T08:14:05Z: CHRCTER ADDED  [ 3434539501] yoyonoob71           a.k.a. L_L                 
+2023-02-04T08:14:06Z: PLAYER REMOVED [ 2822277263] rafi28577            a.k.a. Sharingan           
+2023-02-04T08:14:07Z: CHRCTER ADDED  [   46602610] catgirl122345       
+2023-02-04T08:14:08Z: CHRCTER ADDED  [ 2957459632] WOLFIE_STARYSKY3     a.k.a. Wolfie              
+2023-02-04T08:14:09Z: CHRCTER ADDED  [  996599426] Fresh_xZ             a.k.a. CertifiedCreamer    
+2023-02-04T08:14:10Z: CHRCTER ADDED  [ 2485236606] fabrigamer999xdf25   a.k.a. elZETA              
+2023-02-04T08:14:11Z: CHRCTER ADDED  [ 1173625207] digitalharts         a.k.a. mike                
+2023-02-04T08:14:11Z: CHRCTER ADDED  [ 2598373721] m243am28             a.k.a. uhh                 
+2023-02-04T08:14:12Z: CHRCTER ADDED  [ 3709451685] Theyhate_Bando3      a.k.a. EBKBANDO            
+2023-02-04T08:14:13Z: CHRCTER ADDED  [   46602610] catgirl122345       
+2023-02-04T08:14:14Z: CHRCTER ADDED  [ 4029087325] kurochimaca          a.k.a. Nhi2k22             
+2023-02-04T08:14:14Z: CHRCTER ADDED  [ 2485236606] fabrigamer999xdf25   a.k.a. elZETA              
+2023-02-04T08:14:15Z: CHRCTER ADDED  [ 2472940782] Hannah1o4            a.k.a. VXZILIA             
+2023-02-04T08:14:15Z: CHRCTER ADDED  [  943077101] PaigeMMcK            a.k.a. Dark                
+2023-02-04T08:14:15Z: CHRCTER ADDED  [ 3585296527] Deeroebuck9          a.k.a. OFFPERCS_DEE        
+2023-02-04T08:14:16Z: CHRCTER ADDED  [ 3434539501] yoyonoob71           a.k.a. L_L                 
+2023-02-04T08:14:19Z: CHRCTER ADDED  [  996599426] Fresh_xZ             a.k.a. CertifiedCreamer    
+2023-02-04T08:14:19Z: CHRCTER ADDED  [ 2598373721] m243am28             a.k.a. uhh                 
+2023-02-04T08:14:19Z: CHRCTER ADDED  [ 2368564156] Tolonggis8          
+2023-02-04T08:14:19Z: CHRCTER ADDED  [ 3813827969] thuhuong53995       
+2023-02-04T08:14:20Z: CHRCTER ADDED  [ 2485236606] fabrigamer999xdf25   a.k.a. elZETA              
+2023-02-04T08:14:22Z: CHRCTER ADDED  [ 3709451685] Theyhate_Bando3      a.k.a. EBKBANDO            
+2023-02-04T08:14:23Z: CHRCTER ADDED  [ 2598373721] m243am28             a.k.a. uhh                 
+2023-02-04T08:14:23Z: CHRCTER ADDED  [ 2892690324] ishhsnsnsnsnsbs      a.k.a. Cheesecake          
+2023-02-04T08:14:24Z: CHRCTER ADDED  [  996599426] Fresh_xZ             a.k.a. CertifiedCreamer    
+2023-02-04T08:14:24Z: CHRCTER ADDED  [   46602610] catgirl122345       
+2023-02-04T08:14:25Z: CHRCTER ADDED  [ 2368564156] Tolonggis8          
+2023-02-04T08:14:25Z: CHRCTER ADDED  [  943077101] PaigeMMcK            a.k.a. Dark                
+2023-02-04T08:14:26Z: CHRCTER ADDED  [ 2485236606] fabrigamer999xdf25   a.k.a. elZETA              
+2023-02-04T08:14:30Z: CHRCTER ADDED  [ 2066207957] ilovemychencho       a.k.a. Fork                
+2023-02-04T08:14:30Z: CHRCTER ADDED  [ 4029087325] kurochimaca          a.k.a. Nhi2k22             
+2023-02-04T08:14:30Z: CHRCTER ADDED  [ 2598373721] m243am28             a.k.a. uhh                 
+2023-02-04T08:14:32Z: CHRCTER ADDED  [ 2957459632] WOLFIE_STARYSKY3     a.k.a. Wolfie              
+2023-02-04T08:14:34Z: CHRCTER ADDED  [   46602610] catgirl122345       
+2023-02-04T08:14:35Z: CHRCTER ADDED  [ 3813827969] thuhuong53995       
+2023-02-04T08:14:35Z: CHRCTER ADDED  [ 2472940782] Hannah1o4            a.k.a. VXZILIA             
+2023-02-04T08:14:35Z: CHRCTER ADDED  [ 2368564156] Tolonggis8          
+2023-02-04T08:14:36Z: CHRCTER ADDED  [  996599426] Fresh_xZ             a.k.a. CertifiedCreamer    
+2023-02-04T08:14:37Z: PLAYER ADDED   [ 4194045396] ghost_keeper45       a.k.a. lol                 
+2023-02-04T08:14:37Z: CHRCTER ADDED  [ 3709451685] Theyhate_Bando3      a.k.a. EBKBANDO            
+2023-02-04T08:14:40Z: CHRCTER ADDED  [ 3434539501] yoyonoob71           a.k.a. L_L                 
+2023-02-04T08:14:40Z: CHRCTER ADDED  [  943077101] PaigeMMcK            a.k.a. Dark                
+2023-02-04T08:14:40Z: CHRCTER ADDED  [ 3026679986] Lik_Puul            
+2023-02-04T08:14:40Z: CHRCTER ADDED  [ 1909112617] tr13589             
+2023-02-04T08:14:41Z: CHRCTER ADDED  [ 3720654052] ITDOWNLOADEDYAAAY   
+2023-02-04T08:14:41Z: CHRCTER ADDED  [ 2485236606] fabrigamer999xdf25   a.k.a. elZETA              
+2023-02-04T08:14:41Z: CHRCTER ADDED  [ 1173625207] digitalharts         a.k.a. mike                
+2023-02-04T08:14:43Z: CHRCTER ADDED  [ 3720654052] ITDOWNLOADEDYAAAY   
+2023-02-04T08:14:44Z: CHRCTER ADDED  [ 2066207957] ilovemychencho       a.k.a. Fork                
+2023-02-04T08:14:44Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-02-04T08:14:44Z: PLAYER REMOVED [ 2957459632] WOLFIE_STARYSKY3     a.k.a. Wolfie              
+2023-02-04T08:14:44Z: PLAYER REMOVED [  702577719] marbilov             a.k.a. Water               
+2023-02-04T08:14:44Z: PLAYER REMOVED [ 2066207957] ilovemychencho       a.k.a. Fork                
+2023-02-04T08:14:44Z: PLAYER REMOVED [ 2251342666] Cocopebbles2011      a.k.a. TheyfwAliyah        
+2023-02-04T08:14:44Z: PLAYER REMOVED [ 1909112617] tr13589             
+2023-02-04T08:14:44Z: PLAYER REMOVED [   46602610] catgirl122345       
+2023-02-04T08:14:44Z: PLAYER REMOVED [ 3709451685] Theyhate_Bando3      a.k.a. EBKBANDO            
+2023-02-04T08:14:44Z: PLAYER REMOVED [ 3585296527] Deeroebuck9          a.k.a. OFFPERCS_DEE        
+2023-02-04T08:14:44Z: PLAYER REMOVED [ 1197701638] yelenalus           
+2023-02-04T08:14:44Z: PLAYER REMOVED [  980477699] Unicornwierdo999     a.k.a. iiAzrael11          
+2023-02-04T08:14:44Z: PLAYER REMOVED [ 2632953598] kynna5879            a.k.a. Kynna               
+2023-02-04T08:14:44Z: PLAYER REMOVED [  996599426] Fresh_xZ             a.k.a. CertifiedCreamer    
+2023-02-04T08:14:44Z: PLAYER REMOVED [ 2598373721] m243am28             a.k.a. uhh                 
+2023-02-04T08:14:44Z: PLAYER REMOVED [ 3813827969] thuhuong53995       
+2023-02-04T08:14:44Z: PLAYER REMOVED [  943077101] PaigeMMcK            a.k.a. Dark                
+2023-02-04T08:14:44Z: PLAYER REMOVED [  502078943] sydn9ey              a.k.a. sped                
+2023-02-04T08:14:44Z: PLAYER REMOVED [ 2892690324] ishhsnsnsnsnsbs      a.k.a. Cheesecake          
+2023-02-04T08:14:44Z: PLAYER REMOVED [ 3434539501] yoyonoob71           a.k.a. L_L                 
+2023-02-04T08:14:44Z: PLAYER REMOVED [ 3026679986] Lik_Puul            
+2023-02-04T08:14:44Z: PLAYER REMOVED [ 2485236606] fabrigamer999xdf25   a.k.a. elZETA              

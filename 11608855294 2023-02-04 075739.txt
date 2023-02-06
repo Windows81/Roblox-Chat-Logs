@@ -1,0 +1,68 @@
+[    1630228] : [11608855294] Escape Ohio Part One: Follow The Brown Dirt Road - 2a9f700f-f36b-4e8a-ba1f-3e10df8cff86
+2023-02-04T07:57:39Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-02-04T07:57:39Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-02-04T07:57:39Z: PLAYER ADDED   [ 2006466087] selfmad8_jala        a.k.a. Theyyluvjala        
+2023-02-04T07:57:39Z: PLAYER ADDED   [  630981081] ddgshsshg            a.k.a. Protag              
+2023-02-04T07:57:39Z: PLAYER ADDED   [ 1816275928] jcsonic03           
+2023-02-04T07:57:39Z: PLAYER ADDED   [ 2549654307] Braxy3955            a.k.a. Dogboy              
+2023-02-04T07:57:39Z: PLAYER ADDED   [ 3796098472] youta_111            a.k.a. Miyavi_111          
+2023-02-04T07:57:39Z: PLAYER ADDED   [ 2032496049] dannww1alt           a.k.a. Bozo                
+2023-02-04T07:57:39Z: PLAYER ADDED   [ 3291544640] alex_elpanita2      
+2023-02-04T07:57:44Z: CHRCTER ADDED  [ 2549654307] Braxy3955            a.k.a. Dogboy              
+2023-02-04T07:57:44Z: CHRCTER ADDED  [ 3291544640] alex_elpanita2      
+2023-02-04T07:57:48Z: CHRCTER ADDED  [ 2032496049] dannww1alt           a.k.a. Bozo                
+2023-02-04T07:57:51Z: CHRCTER ADDED  [  630981081] ddgshsshg            a.k.a. Protag              
+2023-02-04T07:57:52Z: CHRCTER ADDED  [ 2032496049] dannww1alt           a.k.a. Bozo                
+2023-02-04T07:57:53Z: CHRCTER ADDED  [ 3796098472] youta_111            a.k.a. Miyavi_111          
+2023-02-04T07:57:53Z: CHRCTER ADDED  [ 1816275928] jcsonic03           
+2023-02-04T07:57:57Z: CHRCTER ADDED  [ 2032496049] dannww1alt           a.k.a. Bozo                
+2023-02-04T07:57:59Z: CHRCTER ADDED  [ 3291544640] alex_elpanita2      
+2023-02-04T07:57:59Z: CHRCTER ADDED  [ 3796098472] youta_111            a.k.a. Miyavi_111          
+2023-02-04T07:58:02Z: CHRCTER ADDED  [ 2006466087] selfmad8_jala        a.k.a. Theyyluvjala        
+2023-02-04T07:58:05Z: CHRCTER ADDED  [ 3796098472] youta_111            a.k.a. Miyavi_111          
+2023-02-04T07:58:09Z: CHRCTER ADDED  [ 2032496049] dannww1alt           a.k.a. Bozo                
+2023-02-04T07:58:12Z: CHRCTER ADDED  [ 2549654307] Braxy3955            a.k.a. Dogboy              
+2023-02-04T07:58:12Z: CHRCTER ADDED  [  630981081] ddgshsshg            a.k.a. Protag              
+2023-02-04T07:58:12Z: CHRCTER ADDED  [ 3796098472] youta_111            a.k.a. Miyavi_111          
+2023-02-04T07:58:14Z: CHRCTER ADDED  [ 2006466087] selfmad8_jala        a.k.a. Theyyluvjala        
+2023-02-04T07:58:15Z: CHRCTER ADDED  [ 2032496049] dannww1alt           a.k.a. Bozo                
+2023-02-04T07:58:16Z: CHRCTER ADDED  [ 3291544640] alex_elpanita2      
+2023-02-04T07:58:17Z: CHRCTER ADDED  [ 3796098472] youta_111            a.k.a. Miyavi_111          
+2023-02-04T07:58:19Z: CHRCTER ADDED  [ 2032496049] dannww1alt           a.k.a. Bozo                
+2023-02-04T07:58:21Z: CHRCTER ADDED  [  630981081] ddgshsshg            a.k.a. Protag              
+2023-02-04T07:58:23Z: CHRCTER ADDED  [ 2549654307] Braxy3955            a.k.a. Dogboy              
+2023-02-04T07:58:23Z: CHRCTER ADDED  [ 3796098472] youta_111            a.k.a. Miyavi_111          
+2023-02-04T07:58:29Z: CHRCTER ADDED  [ 3796098472] youta_111            a.k.a. Miyavi_111          
+2023-02-04T07:58:31Z: CHRCTER ADDED  [ 2549654307] Braxy3955            a.k.a. Dogboy              
+2023-02-04T07:58:31Z: CHRCTER ADDED  [ 2032496049] dannww1alt           a.k.a. Bozo                
+2023-02-04T07:58:34Z: CHRCTER ADDED  [  630981081] ddgshsshg            a.k.a. Protag              
+2023-02-04T07:58:36Z: CHRCTER ADDED  [ 3796098472] youta_111            a.k.a. Miyavi_111          
+2023-02-04T07:58:36Z: CHRCTER ADDED  [ 2032496049] dannww1alt           a.k.a. Bozo                
+2023-02-04T07:58:40Z: CHRCTER ADDED  [ 2032496049] dannww1alt           a.k.a. Bozo                
+2023-02-04T07:58:44Z: CHRCTER ADDED  [ 3796098472] youta_111            a.k.a. Miyavi_111          
+2023-02-04T07:58:45Z: CHRCTER ADDED  [ 2032496049] dannww1alt           a.k.a. Bozo                
+2023-02-04T07:58:50Z: CHRCTER ADDED  [ 2006466087] selfmad8_jala        a.k.a. Theyyluvjala        
+2023-02-04T07:58:50Z: CHRCTER ADDED  [ 3796098472] youta_111            a.k.a. Miyavi_111          
+2023-02-04T07:58:52Z: PLAYER REMOVED [ 2006466087] selfmad8_jala        a.k.a. Theyyluvjala        
+2023-02-04T07:58:54Z: PLAYER ADDED   [ 3486369026] Squishy_theGhostcat  a.k.a. Basil               
+2023-02-04T07:58:54Z: CHRCTER ADDED  [ 2549654307] Braxy3955            a.k.a. Dogboy              
+2023-02-04T07:58:55Z: CHRCTER ADDED  [ 1816275928] jcsonic03           
+2023-02-04T07:59:01Z: CHRCTER ADDED  [ 3796098472] youta_111            a.k.a. Miyavi_111          
+2023-02-04T07:59:04Z: CHRCTER ADDED  [ 2549654307] Braxy3955            a.k.a. Dogboy              
+2023-02-04T07:59:08Z: CHRCTER ADDED  [ 3796098472] youta_111            a.k.a. Miyavi_111          
+2023-02-04T07:59:13Z: CHRCTER ADDED  [ 3796098472] youta_111            a.k.a. Miyavi_111          
+2023-02-04T07:59:13Z: CHRCTER ADDED  [ 1816275928] jcsonic03           
+2023-02-04T07:59:16Z: CHRCTER ADDED  [ 2549654307] Braxy3955            a.k.a. Dogboy              
+2023-02-04T07:59:20Z: CHRCTER ADDED  [ 1816275928] jcsonic03           
+2023-02-04T07:59:23Z: CHRCTER ADDED  [ 3796098472] youta_111            a.k.a. Miyavi_111          
+2023-02-04T07:59:24Z: CHRCTER ADDED  [ 3291544640] alex_elpanita2      
+2023-02-04T07:59:26Z: CHRCTER ADDED  [ 3796098472] youta_111            a.k.a. Miyavi_111          
+2023-02-04T07:59:30Z: PLAYER REMOVED [ 2032496049] dannww1alt           a.k.a. Bozo                
+2023-02-04T07:59:31Z: CHRCTER ADDED  [ 2549654307] Braxy3955            a.k.a. Dogboy              
+2023-02-04T07:59:33Z: CHRCTER ADDED  [ 3291544640] alex_elpanita2      
+2023-02-04T07:59:34Z: PLAYER ADDED   [ 3600467910] BellaFoxxyLovers     a.k.a. pastel_peaxch       
+2023-02-04T07:59:36Z: CHRCTER ADDED  [ 3796098472] youta_111            a.k.a. Miyavi_111          
+2023-02-04T07:59:38Z: CHRCTER ADDED  [ 3291544640] alex_elpanita2      
+2023-02-04T07:59:39Z: CHRCTER ADDED  [ 1816275928] jcsonic03           
+2023-02-04T07:59:41Z: CHRCTER ADDED  [ 2549654307] Braxy3955            a.k.a. Dogboy              
+2023-02-04T07:59:43Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

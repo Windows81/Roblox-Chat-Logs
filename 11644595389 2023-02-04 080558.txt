@@ -1,0 +1,179 @@
+[    1630228] : [11644595389] Escape Ohio Part 3: Breaking Ohio - c91d0391-0659-4626-a4d9-1d05aab86413
+2023-02-04T08:05:58Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-02-04T08:05:58Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-02-04T08:05:58Z: PLAYER ADDED   [   46602610] catgirl122345       
+2023-02-04T08:05:58Z: PLAYER ADDED   [ 2066207957] ilovemychencho       a.k.a. Fork                
+2023-02-04T08:05:58Z: PLAYER ADDED   [ 1197701638] yelenalus           
+2023-02-04T08:05:58Z: PLAYER ADDED   [ 4149331887] perperheehee        
+2023-02-04T08:05:58Z: PLAYER ADDED   [ 1592120647] crayonavirus         a.k.a. fried               
+2023-02-04T08:05:58Z: PLAYER ADDED   [ 3650895676] n_lashe11            a.k.a. Sing                
+2023-02-04T08:05:58Z: PLAYER ADDED   [  980477699] Unicornwierdo999     a.k.a. iiAzrael11          
+2023-02-04T08:05:58Z: PLAYER ADDED   [ 2485236606] fabrigamer999xdf25   a.k.a. elZETA              
+2023-02-04T08:05:58Z: PLAYER ADDED   [ 2704319461] hayfxg               a.k.a. Almestica           
+2023-02-04T08:05:58Z: PLAYER ADDED   [  996599426] Fresh_xZ             a.k.a. CertifiedCreamer    
+2023-02-04T08:05:58Z: PLAYER ADDED   [ 4206662235] aleter67_76         
+2023-02-04T08:05:58Z: PLAYER ADDED   [ 2548758397] BoujieZoZo           a.k.a. IHEARTZOZO          
+2023-02-04T08:05:58Z: PLAYER ADDED   [  750508417] Robloxiansunnyrose   a.k.a. 0wen2v              
+2023-02-04T08:05:58Z: PLAYER ADDED   [ 2707564897] AnimeLover4639       a.k.a. BadKarma            
+2023-02-04T08:05:58Z: PLAYER ADDED   [ 1639621315] Mousy331             a.k.a. Khloe               
+2023-02-04T08:05:58Z: PLAYER ADDED   [ 2913195491] Emi_TheWeerdo        a.k.a. Scout               
+2023-02-04T08:05:58Z: PLAYER ADDED   [ 2276174050] princess_isabella452 a.k.a. Minwoo              
+2023-02-04T08:05:58Z: PLAYER ADDED   [  521505552] naliarb              a.k.a. TableTop            
+2023-02-04T08:05:58Z: PLAYER ADDED   [ 3120745831] itz_rierienz         a.k.a. Rie                 
+2023-02-04T08:05:58Z: PLAYER ADDED   [ 2957459632] WOLFIE_STARYSKY3     a.k.a. Wolfie              
+2023-02-04T08:05:58Z: PLAYER ADDED   [ 3572021173] Alan1234bro9         a.k.a. Alan                
+2023-02-04T08:05:58Z: PLAYER ADDED   [  943077101] PaigeMMcK            a.k.a. Dark                
+2023-02-04T08:06:00Z: CHRCTER ADDED  [  750508417] Robloxiansunnyrose   a.k.a. 0wen2v              
+2023-02-04T08:06:00Z: PLAYER REMOVED [ 3120745831] itz_rierienz         a.k.a. Rie                 
+2023-02-04T08:06:00Z: CHRCTER ADDED  [ 2485236606] fabrigamer999xdf25   a.k.a. elZETA              
+2023-02-04T08:06:01Z: PLAYER ADDED   [ 1997076662] lilpeebody10        
+2023-02-04T08:06:01Z: CHRCTER ADDED  [  980477699] Unicornwierdo999     a.k.a. iiAzrael11          
+2023-02-04T08:06:02Z: PLAYER ADDED   [ 1761155420] mermerican1          a.k.a. JohnnyBoyAndMe      
+2023-02-04T08:06:02Z: CHRCTER ADDED  [ 3650895676] n_lashe11            a.k.a. Sing                
+2023-02-04T08:06:04Z: PLAYER ADDED   [ 1894150523] furrygyal            a.k.a. Keisha              
+2023-02-04T08:06:09Z: CHRCTER ADDED  [  750508417] Robloxiansunnyrose   a.k.a. 0wen2v              
+2023-02-04T08:06:10Z: CHRCTER ADDED  [ 2485236606] fabrigamer999xdf25   a.k.a. elZETA              
+2023-02-04T08:06:15Z: CHRCTER ADDED  [ 3650895676] n_lashe11            a.k.a. Sing                
+2023-02-04T08:06:15Z: PLAYER REMOVED [ 3650895676] n_lashe11            a.k.a. Sing                
+2023-02-04T08:06:18Z: CHRCTER ADDED  [  750508417] Robloxiansunnyrose   a.k.a. 0wen2v              
+2023-02-04T08:06:20Z: PLAYER REMOVED [ 3572021173] Alan1234bro9         a.k.a. Alan                
+2023-02-04T08:06:20Z: CHRCTER ADDED  [ 1997076662] lilpeebody10        
+2023-02-04T08:06:20Z: CHRCTER ADDED  [ 2485236606] fabrigamer999xdf25   a.k.a. elZETA              
+2023-02-04T08:06:21Z: CHRCTER ADDED  [ 1761155420] mermerican1          a.k.a. JohnnyBoyAndMe      
+2023-02-04T08:06:21Z: CHRCTER ADDED  [ 4206662235] aleter67_76         
+2023-02-04T08:06:21Z: CHRCTER ADDED  [ 2548758397] BoujieZoZo           a.k.a. IHEARTZOZO          
+2023-02-04T08:06:22Z: PLAYER ADDED   [ 3336647616] poisonBerry2324      a.k.a. Whos_xxwillowxx     
+2023-02-04T08:06:26Z: CHRCTER ADDED  [ 2485236606] fabrigamer999xdf25   a.k.a. elZETA              
+2023-02-04T08:06:27Z: PLAYER REMOVED [ 2707564897] AnimeLover4639       a.k.a. BadKarma            
+2023-02-04T08:06:30Z: CHRCTER ADDED  [ 1761155420] mermerican1          a.k.a. JohnnyBoyAndMe      
+2023-02-04T08:06:33Z: CHRCTER ADDED  [ 1894150523] furrygyal            a.k.a. Keisha              
+2023-02-04T08:06:34Z: CHRCTER ADDED  [ 2485236606] fabrigamer999xdf25   a.k.a. elZETA              
+2023-02-04T08:06:35Z: CHRCTER ADDED  [  980477699] Unicornwierdo999     a.k.a. iiAzrael11          
+2023-02-04T08:06:41Z: CHRCTER ADDED  [ 2485236606] fabrigamer999xdf25   a.k.a. elZETA              
+2023-02-04T08:06:41Z: CHRCTER ADDED  [ 4206662235] aleter67_76         
+2023-02-04T08:06:42Z: CHRCTER ADDED  [ 1894150523] furrygyal            a.k.a. Keisha              
+2023-02-04T08:06:43Z: CHRCTER ADDED  [ 3336647616] poisonBerry2324      a.k.a. Whos_xxwillowxx     
+2023-02-04T08:06:43Z: CHRCTER ADDED  [  943077101] PaigeMMcK            a.k.a. Dark                
+2023-02-04T08:06:44Z: CHRCTER ADDED  [ 2548758397] BoujieZoZo           a.k.a. IHEARTZOZO          
+2023-02-04T08:06:48Z: CHRCTER ADDED  [ 2066207957] ilovemychencho       a.k.a. Fork                
+2023-02-04T08:06:49Z: PLAYER REMOVED [ 1197701638] yelenalus           
+2023-02-04T08:06:50Z: CHRCTER ADDED  [ 1894150523] furrygyal            a.k.a. Keisha              
+2023-02-04T08:06:50Z: PLAYER ADDED   [ 1173625207] digitalharts         a.k.a. mike                
+2023-02-04T08:06:55Z: CHRCTER ADDED  [ 3336647616] poisonBerry2324      a.k.a. Whos_xxwillowxx     
+2023-02-04T08:06:55Z: PLAYER REMOVED [ 2913195491] Emi_TheWeerdo        a.k.a. Scout               
+2023-02-04T08:06:55Z: CHRCTER ADDED  [ 2485236606] fabrigamer999xdf25   a.k.a. elZETA              
+2023-02-04T08:06:57Z: CHRCTER ADDED  [ 1894150523] furrygyal            a.k.a. Keisha              
+2023-02-04T08:06:57Z: CHRCTER ADDED  [ 1761155420] mermerican1          a.k.a. JohnnyBoyAndMe      
+2023-02-04T08:06:57Z: CHRCTER ADDED  [   46602610] catgirl122345       
+2023-02-04T08:06:58Z: CHRCTER ADDED  [  750508417] Robloxiansunnyrose   a.k.a. 0wen2v              
+2023-02-04T08:06:58Z: CHRCTER ADDED  [ 4206662235] aleter67_76         
+2023-02-04T08:07:04Z: CHRCTER ADDED  [ 1894150523] furrygyal            a.k.a. Keisha              
+2023-02-04T08:07:06Z: CHRCTER ADDED  [ 2485236606] fabrigamer999xdf25   a.k.a. elZETA              
+2023-02-04T08:07:09Z: CHRCTER ADDED  [ 3336647616] poisonBerry2324      a.k.a. Whos_xxwillowxx     
+2023-02-04T08:07:12Z: CHRCTER ADDED  [  750508417] Robloxiansunnyrose   a.k.a. 0wen2v              
+2023-02-04T08:07:13Z: CHRCTER ADDED  [ 1639621315] Mousy331             a.k.a. Khloe               
+2023-02-04T08:07:14Z: PLAYER REMOVED [ 2066207957] ilovemychencho       a.k.a. Fork                
+2023-02-04T08:07:16Z: CHRCTER ADDED  [ 1173625207] digitalharts         a.k.a. mike                
+2023-02-04T08:07:18Z: CHRCTER ADDED  [ 3336647616] poisonBerry2324      a.k.a. Whos_xxwillowxx     
+2023-02-04T08:07:18Z: CHRCTER ADDED  [ 1761155420] mermerican1          a.k.a. JohnnyBoyAndMe      
+2023-02-04T08:07:19Z: PLAYER REMOVED [   46602610] catgirl122345       
+2023-02-04T08:07:20Z: CHRCTER ADDED  [ 1894150523] furrygyal            a.k.a. Keisha              
+2023-02-04T08:07:20Z: CHRCTER ADDED  [  750508417] Robloxiansunnyrose   a.k.a. 0wen2v              
+2023-02-04T08:07:23Z: CHRCTER ADDED  [ 2548758397] BoujieZoZo           a.k.a. IHEARTZOZO          
+2023-02-04T08:07:25Z: CHRCTER ADDED  [  996599426] Fresh_xZ             a.k.a. CertifiedCreamer    
+2023-02-04T08:07:27Z: PLAYER ADDED   [  502078943] sydn9ey              a.k.a. sped                
+2023-02-04T08:07:28Z: CHRCTER ADDED  [ 1761155420] mermerican1          a.k.a. JohnnyBoyAndMe      
+2023-02-04T08:07:33Z: CHRCTER ADDED  [ 2548758397] BoujieZoZo           a.k.a. IHEARTZOZO          
+2023-02-04T08:07:34Z: CHRCTER ADDED  [ 2485236606] fabrigamer999xdf25   a.k.a. elZETA              
+2023-02-04T08:07:35Z: PLAYER REMOVED [ 2957459632] WOLFIE_STARYSKY3     a.k.a. Wolfie              
+2023-02-04T08:07:36Z: CHRCTER ADDED  [ 1173625207] digitalharts         a.k.a. mike                
+2023-02-04T08:07:37Z: PLAYER REMOVED [  521505552] naliarb              a.k.a. TableTop            
+2023-02-04T08:07:38Z: CHRCTER ADDED  [ 4206662235] aleter67_76         
+2023-02-04T08:07:39Z: CHRCTER ADDED  [ 3336647616] poisonBerry2324      a.k.a. Whos_xxwillowxx     
+2023-02-04T08:07:41Z: PLAYER REMOVED [ 1639621315] Mousy331             a.k.a. Khloe               
+2023-02-04T08:07:44Z: PLAYER ADDED   [ 3341236001] Proboygfhfcdc63545   a.k.a. Hex                 
+2023-02-04T08:07:44Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-02-04T08:07:45Z: PLAYER ADDED   [ 3778330745] Paula_w232           a.k.a. Spy                 
+2023-02-04T08:07:47Z: CHRCTER ADDED  [ 3336647616] poisonBerry2324      a.k.a. Whos_xxwillowxx     
+2023-02-04T08:07:49Z: CHRCTER ADDED  [ 1761155420] mermerican1          a.k.a. JohnnyBoyAndMe      
+2023-02-04T08:07:51Z: CHRCTER ADDED  [ 1894150523] furrygyal            a.k.a. Keisha              
+2023-02-04T08:07:53Z: PLAYER REMOVED [ 2276174050] princess_isabella452 a.k.a. Minwoo              
+2023-02-04T08:07:55Z: CHRCTER ADDED  [  502078943] sydn9ey              a.k.a. sped                
+2023-02-04T08:07:56Z: CHRCTER ADDED  [ 2485236606] fabrigamer999xdf25   a.k.a. elZETA              
+2023-02-04T08:07:57Z: CHRCTER ADDED  [  943077101] PaigeMMcK            a.k.a. Dark                
+2023-02-04T08:07:58Z: CHRCTER ADDED  [ 3336647616] poisonBerry2324      a.k.a. Whos_xxwillowxx     
+2023-02-04T08:08:01Z: CHRCTER ADDED  [ 1173625207] digitalharts         a.k.a. mike                
+2023-02-04T08:08:04Z: CHRCTER ADDED  [  943077101] PaigeMMcK            a.k.a. Dark                
+2023-02-04T08:08:07Z: CHRCTER ADDED  [ 3778330745] Paula_w232           a.k.a. Spy                 
+2023-02-04T08:08:08Z: CHRCTER ADDED  [ 2485236606] fabrigamer999xdf25   a.k.a. elZETA              
+2023-02-04T08:08:09Z: CHRCTER ADDED  [ 3336647616] poisonBerry2324      a.k.a. Whos_xxwillowxx     
+2023-02-04T08:08:13Z: CHRCTER ADDED  [ 1997076662] lilpeebody10        
+2023-02-04T08:08:14Z: PLAYER ADDED   [ 3813827969] thuhuong53995       
+2023-02-04T08:08:18Z: CHRCTER ADDED  [  943077101] PaigeMMcK            a.k.a. Dark                
+2023-02-04T08:08:21Z: CHRCTER ADDED  [ 3341236001] Proboygfhfcdc63545   a.k.a. Hex                 
+2023-02-04T08:08:21Z: CHRCTER ADDED  [ 2485236606] fabrigamer999xdf25   a.k.a. elZETA              
+2023-02-04T08:08:22Z: CHRCTER ADDED  [ 3336647616] poisonBerry2324      a.k.a. Whos_xxwillowxx     
+2023-02-04T08:08:22Z: PLAYER REMOVED [ 3336647616] poisonBerry2324      a.k.a. Whos_xxwillowxx     
+2023-02-04T08:08:26Z: CHRCTER ADDED  [  750508417] Robloxiansunnyrose   a.k.a. 0wen2v              
+2023-02-04T08:08:28Z: CHRCTER ADDED  [ 4149331887] perperheehee        
+2023-02-04T08:08:29Z: CHRCTER ADDED  [ 3778330745] Paula_w232           a.k.a. Spy                 
+2023-02-04T08:08:30Z: CHRCTER ADDED  [  502078943] sydn9ey              a.k.a. sped                
+2023-02-04T08:08:31Z: CHRCTER ADDED  [ 1761155420] mermerican1          a.k.a. JohnnyBoyAndMe      
+2023-02-04T08:08:32Z: CHRCTER ADDED  [ 3341236001] Proboygfhfcdc63545   a.k.a. Hex                 
+2023-02-04T08:08:36Z: CHRCTER ADDED  [  943077101] PaigeMMcK            a.k.a. Dark                
+2023-02-04T08:08:38Z: CHRCTER ADDED  [  502078943] sydn9ey              a.k.a. sped                
+2023-02-04T08:08:46Z: CHRCTER ADDED  [ 1761155420] mermerican1          a.k.a. JohnnyBoyAndMe      
+2023-02-04T08:08:48Z: CHRCTER ADDED  [ 2485236606] fabrigamer999xdf25   a.k.a. elZETA              
+2023-02-04T08:08:53Z: CHRCTER ADDED  [ 3341236001] Proboygfhfcdc63545   a.k.a. Hex                 
+2023-02-04T08:08:54Z: CHRCTER ADDED  [ 1173625207] digitalharts         a.k.a. mike                
+2023-02-04T08:08:56Z: CHRCTER ADDED  [ 2485236606] fabrigamer999xdf25   a.k.a. elZETA              
+2023-02-04T08:08:59Z: PLAYER REMOVED [  996599426] Fresh_xZ             a.k.a. CertifiedCreamer    
+2023-02-04T08:09:00Z: PLAYER REMOVED [  980477699] Unicornwierdo999     a.k.a. iiAzrael11          
+2023-02-04T08:09:00Z: PLAYER ADDED   [ 4029087325] kurochimaca          a.k.a. Nhi2k22             
+2023-02-04T08:09:03Z: CHRCTER ADDED  [ 1761155420] mermerican1          a.k.a. JohnnyBoyAndMe      
+2023-02-04T08:09:05Z: PLAYER ADDED   [ 2368564156] Tolonggis8          
+2023-02-04T08:09:05Z: CHRCTER ADDED  [ 4206662235] aleter67_76         
+2023-02-04T08:09:05Z: CHRCTER ADDED  [ 3341236001] Proboygfhfcdc63545   a.k.a. Hex                 
+2023-02-04T08:09:06Z: PLAYER REMOVED [ 2704319461] hayfxg               a.k.a. Almestica           
+2023-02-04T08:09:13Z: CHRCTER ADDED  [ 1894150523] furrygyal            a.k.a. Keisha              
+2023-02-04T08:09:16Z: CHRCTER ADDED  [ 4206662235] aleter67_76         
+2023-02-04T08:09:16Z: PLAYER ADDED   [ 3025791109] gimobahi            
+2023-02-04T08:09:17Z: CHRCTER ADDED  [ 1173625207] digitalharts         a.k.a. mike                
+2023-02-04T08:09:18Z: CHRCTER ADDED  [ 1761155420] mermerican1          a.k.a. JohnnyBoyAndMe      
+2023-02-04T08:09:25Z: PLAYER ADDED   [  318221479] cun008               a.k.a. EggWrad             
+2023-02-04T08:09:27Z: CHRCTER ADDED  [ 1761155420] mermerican1          a.k.a. JohnnyBoyAndMe      
+2023-02-04T08:09:28Z: CHRCTER ADDED  [ 2548758397] BoujieZoZo           a.k.a. IHEARTZOZO          
+2023-02-04T08:09:36Z: CHRCTER ADDED  [ 4029087325] kurochimaca          a.k.a. Nhi2k22             
+2023-02-04T08:09:39Z: CHRCTER ADDED  [ 4206662235] aleter67_76         
+2023-02-04T08:09:40Z: CHRCTER ADDED  [ 1894150523] furrygyal            a.k.a. Keisha              
+2023-02-04T08:09:40Z: CHRCTER ADDED  [ 3813827969] thuhuong53995       
+2023-02-04T08:09:42Z: CHRCTER ADDED  [ 1761155420] mermerican1          a.k.a. JohnnyBoyAndMe      
+2023-02-04T08:09:42Z: CHRCTER ADDED  [ 3341236001] Proboygfhfcdc63545   a.k.a. Hex                 
+2023-02-04T08:09:47Z: CHRCTER ADDED  [ 4206662235] aleter67_76         
+2023-02-04T08:09:50Z: CHRCTER ADDED  [ 3341236001] Proboygfhfcdc63545   a.k.a. Hex                 
+2023-02-04T08:09:51Z: CHRCTER ADDED  [ 2548758397] BoujieZoZo           a.k.a. IHEARTZOZO          
+2023-02-04T08:09:57Z: CHRCTER ADDED  [ 2485236606] fabrigamer999xdf25   a.k.a. elZETA              
+2023-02-04T08:10:01Z: PLAYER ADDED   [ 3396868626] Icuffher             a.k.a. Koko                
+2023-02-04T08:10:01Z: CHRCTER ADDED  [ 2548758397] BoujieZoZo           a.k.a. IHEARTZOZO          
+2023-02-04T08:10:01Z: CHRCTER ADDED  [ 1761155420] mermerican1          a.k.a. JohnnyBoyAndMe      
+2023-02-04T08:10:03Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-02-04T08:10:03Z: PLAYER REMOVED [ 4149331887] perperheehee        
+2023-02-04T08:10:03Z: PLAYER REMOVED [ 1592120647] crayonavirus         a.k.a. fried               
+2023-02-04T08:10:03Z: PLAYER REMOVED [ 2485236606] fabrigamer999xdf25   a.k.a. elZETA              
+2023-02-04T08:10:03Z: PLAYER REMOVED [ 4206662235] aleter67_76         
+2023-02-04T08:10:03Z: PLAYER REMOVED [ 2548758397] BoujieZoZo           a.k.a. IHEARTZOZO          
+2023-02-04T08:10:03Z: PLAYER REMOVED [  750508417] Robloxiansunnyrose   a.k.a. 0wen2v              
+2023-02-04T08:10:03Z: PLAYER REMOVED [  943077101] PaigeMMcK            a.k.a. Dark                
+2023-02-04T08:10:03Z: PLAYER REMOVED [ 1997076662] lilpeebody10        
+2023-02-04T08:10:03Z: PLAYER REMOVED [ 1761155420] mermerican1          a.k.a. JohnnyBoyAndMe      
+2023-02-04T08:10:03Z: PLAYER REMOVED [ 1894150523] furrygyal            a.k.a. Keisha              
+2023-02-04T08:10:03Z: PLAYER REMOVED [ 1173625207] digitalharts         a.k.a. mike                
+2023-02-04T08:10:03Z: PLAYER REMOVED [  502078943] sydn9ey              a.k.a. sped                
+2023-02-04T08:10:03Z: PLAYER REMOVED [ 3341236001] Proboygfhfcdc63545   a.k.a. Hex                 
+2023-02-04T08:10:03Z: PLAYER REMOVED [ 3778330745] Paula_w232           a.k.a. Spy                 
+2023-02-04T08:10:03Z: PLAYER REMOVED [ 3813827969] thuhuong53995       
+2023-02-04T08:10:03Z: PLAYER REMOVED [ 4029087325] kurochimaca          a.k.a. Nhi2k22             
+2023-02-04T08:10:03Z: PLAYER REMOVED [ 2368564156] Tolonggis8          
+2023-02-04T08:10:03Z: PLAYER REMOVED [ 3025791109] gimobahi            
+2023-02-04T08:10:03Z: PLAYER REMOVED [  318221479] cun008               a.k.a. EggWrad             
+2023-02-04T08:10:03Z: PLAYER REMOVED [ 3396868626] Icuffher             a.k.a. Koko                
