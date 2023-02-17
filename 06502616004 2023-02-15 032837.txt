@@ -1,0 +1,59 @@
+[    1630228] : [ 6502616004] recollection - 3d543c87-b1fc-4796-96ae-9e5e6984dcc2
+2023-02-15T03:28:37Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-02-15T03:28:37Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-02-15T03:28:37Z: PLAYER ADDED   [ 2272980070] NurseFrenky          a.k.a. Ean                 
+2023-02-15T03:28:37Z: PLAYER ADDED   [ 4068543617] Epickilller305      
+2023-02-15T03:28:37Z: PLAYER ADDED   [ 3260619542] lljxell              a.k.a. jxe                 
+2023-02-15T03:28:37Z: PLAYER ADDED   [ 1481396675] krissy_world         a.k.a. KurxxedKrissy       
+2023-02-15T03:28:37Z: PLAYER ADDED   [  341300898] Anielkinha           a.k.a. drem                
+2023-02-15T03:28:37Z: PLAYER ADDED   [ 1932413507] MinxItUp             a.k.a. KYVONNN             
+2023-02-15T03:28:37Z: PLAYER ADDED   [  952317299] MrDankYeeter         a.k.a. JPEG_WIPES          
+2023-02-15T03:28:37Z: PLAYER ADDED   [ 2051773351] wigglywiggles31     
+2023-02-15T03:28:37Z: PLAYER ADDED   [   95828845] via25                a.k.a. Rin                 
+2023-02-15T03:28:37Z: PLAYER ADDED   [   35927725] mace36               a.k.a. Mason               
+2023-02-15T03:28:37Z: PLAYER ADDED   [   56083960] carnaIity            a.k.a. mars                
+2023-02-15T03:28:37Z: PLAYER ADDED   [ 2397695966] kc2koj               a.k.a. juniper             
+2023-02-15T03:28:37Z: PLAYER ADDED   [ 2365898558] honxepxe             a.k.a. miso                
+2023-02-15T03:28:37Z: PLAYER ADDED   [ 2948579374] LandersLingers      
+2023-02-15T03:28:37Z: PLAYER ADDED   [  568658799] vizuallias           a.k.a. 986D                
+2023-02-15T03:28:37Z: PLAYER REMOVED [ 3260619542] lljxell              a.k.a. jxe                 
+2023-02-15T03:28:39Z: PLAYER ADDED   [  111973543] sorterstephen        a.k.a. EXPUNGE             
+2023-02-15T03:28:40Z: PLAYER CHATTED [ 2272980070] NurseFrenky         
+  cm back
+2023-02-15T03:28:44Z: PLAYER ADDED   [   79965354] cutepanda51711       a.k.a. Erick               
+2023-02-15T03:28:45Z: PLAYER CHATTED [ 2272980070] NurseFrenky         
+  KY NOO
+2023-02-15T03:28:45Z: PLAYER CHATTED [  952317299] MrDankYeeter         (  -26.7,    18.0,  -235.9)
+  bruh we couldve gotten here
+2023-02-15T03:28:47Z: PLAYER CHATTED [ 2272980070] NurseFrenky         
+  ## LOOK
+2023-02-15T03:28:49Z: PLAYER CHATTED [  952317299] MrDankYeeter         (  -26.7,    18.0,  -235.9)
+  in literally one door
+2023-02-15T03:28:50Z: PLAYER CHATTED [  952317299] MrDankYeeter         (  -26.7,    18.0,  -235.9)
+  from spawn
+2023-02-15T03:28:52Z: PLAYER CHATTED [ 2272980070] NurseFrenky         
+  no shh
+2023-02-15T03:28:53Z: PLAYER REMOVED [ 1481396675] krissy_world         a.k.a. KurxxedKrissy       
+2023-02-15T03:28:53Z: PLAYER CHATTED [ 2272980070] NurseFrenky         
+  no shh
+2023-02-15T03:28:55Z: PLAYER CHATTED [ 2272980070] NurseFrenky         
+  you dont get it
+2023-02-15T03:28:57Z: PLAYER CHATTED [ 1932413507] MinxItUp            
+  I CANT SEE
+2023-02-15T03:28:57Z: PLAYER CHATTED [ 2272980070] NurseFrenky         
+  im backtracking
+2023-02-15T03:28:57Z: PLAYER CHATTED [ 2272980070] NurseFrenky         
+  you dont get it
+2023-02-15T03:29:00Z: PLAYER CHATTED [ 1932413507] MinxItUp            
+  I CANT SEE
+2023-02-15T03:29:01Z: PLAYER CHATTED [ 2272980070] NurseFrenky         
+  im backtracking
+2023-02-15T03:29:30Z: PLAYER CHATTED [  952317299] MrDankYeeter         (   80.5,    16.7,  -238.6)
+  what an incredible journey
+2023-02-15T03:29:30Z: PLAYER CHATTED [ 2272980070] NurseFrenky         
+  wait where did we go then
+2023-02-15T03:29:30Z: PLAYER CHATTED [ 2272980070] NurseFrenky         
+  hm
+2023-02-15T03:29:30Z: PLAYER CHATTED [ 2272980070] NurseFrenky         
+  scratches chin
+2023-02-15T03:29:38Z: PLAYER REMOVED [ 2365898558] honxepxe             a.k.a. miso                

@@ -1,0 +1,25 @@
+[    1630228] : [ 4794911592] The Kubla Khan Las Vegas • Hotel Showcase, W.I.P. - 55dae4ac-aab5-42c8-a9c1-feab768c58e0
+2023-02-09T09:17:18Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-02-09T09:17:18Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-02-09T09:17:18Z: PLAYER ADDED   [ 3967866930] WyenaTheGirl        
+2023-02-09T09:17:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (  114.0,    91.8,   140.4)
+  I'll take a lòók.
+2023-02-09T09:17:38Z: PLAYER CHATTED [ 3967866930] WyenaTheGirl         (  110.4,    91.4,   134.7)
+  Ok
+2023-02-09T09:18:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (  114.0,    91.8,   140.4)
+  They haven't premiered yet.
+2023-02-09T09:18:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (  112.4,    91.8,   137.9)
+  I have visit logs for this place.
+2023-02-09T09:18:31Z: PLAYER CHATTED [ 3967866930] WyenaTheGirl         (  112.0,    91.4,   131.5)
+  Oh
+2023-02-09T09:18:34Z: PLAYER CHATTED [ 3967866930] WyenaTheGirl         (  112.1,    91.4,   131.6)
+  Ok
+2023-02-09T09:18:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (  111.1,    91.8,   136.8)
+  I might be able to figure out when he came in.
+2023-02-09T09:19:16Z: PLAYER REMOVED [ 3967866930] WyenaTheGirl        
+2023-02-09T09:23:50Z: PLAYER ADDED   [ 3297842185] Tuna_Man112         
+2023-02-09T09:24:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (  110.7,    91.8,   123.2)
+  Hi!
+2023-02-09T09:29:07Z: CHRCTER ADDED  [ 3297842185] Tuna_Man112         
+2023-02-09T09:29:11Z: PLAYER REMOVED [ 3297842185] Tuna_Man112         
+2023-02-09T09:45:58Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

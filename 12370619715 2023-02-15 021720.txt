@@ -1,0 +1,4 @@
+[    1630228] : [12370619715] Pirate mode - 70d3f5eb-5e82-4c16-81c8-92db417d0b0a
+2023-02-15T02:17:20Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-02-15T02:17:20Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-02-15T02:17:58Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

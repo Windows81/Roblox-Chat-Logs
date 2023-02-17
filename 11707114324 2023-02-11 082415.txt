@@ -1,0 +1,167 @@
+[    1630228] : [11707114324] [Saweetie Super Bowl Concert] Rhythm City 🏠 RP - d1dfea3e-41d4-40fa-ae63-e52a21a50d7a
+2023-02-11T08:24:15Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-02-11T08:24:15Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-02-11T08:24:15Z: PLAYER ADDED   [ 2237120256] queenesmev           a.k.a. Esme                
+2023-02-11T08:24:15Z: PLAYER ADDED   [ 2501952203] Maria_InesDupain     a.k.a. Lazy_fet            
+2023-02-11T08:24:15Z: PLAYER ADDED   [ 2606643895] markey_470          
+2023-02-11T08:24:15Z: PLAYER ADDED   [ 4323058931] sun_seto0           
+2023-02-11T08:24:15Z: PLAYER ADDED   [ 2310722827] jxulsmili            a.k.a. mili                
+2023-02-11T08:24:15Z: PLAYER ADDED   [ 1144359355] Nithyum             
+2023-02-11T08:24:15Z: PLAYER ADDED   [ 3718672616] yamssavii           
+2023-02-11T08:24:15Z: PLAYER ADDED   [ 3248730493] Sundropuwucute       a.k.a. Churrypanconqueso   
+2023-02-11T08:24:15Z: PLAYER ADDED   [  493866050] Mina_Luna96          a.k.a. Papa                
+2023-02-11T08:24:15Z: PLAYER ADDED   [ 4130074066] Quetxali12233       
+2023-02-11T08:24:15Z: PLAYER ADDED   [ 1522823064] foxeyloxey6898       a.k.a. Dragon              
+2023-02-11T08:24:15Z: PLAYER ADDED   [ 3019115593] aliengirlXS          a.k.a. Kira                
+2023-02-11T08:24:38Z: PLAYER REMOVED [ 4323058931] sun_seto0           
+2023-02-11T08:24:48Z: PLAYER ADDED   [ 2852316807] Jenny6362sujd       
+2023-02-11T08:25:18Z: PLAYER REMOVED [ 3019115593] aliengirlXS          a.k.a. Kira                
+2023-02-11T08:25:18Z: PLAYER ADDED   [ 3071195578] Dani17uwu0           a.k.a. DaniDeTania         
+2023-02-11T08:25:25Z: PLAYER REMOVED [ 3071195578] Dani17uwu0           a.k.a. DaniDeTania         
+2023-02-11T08:25:30Z: PLAYER ADDED   [   75608661] slimo1000           
+2023-02-11T08:25:36Z: CHRCTER ADDED  [   75608661] slimo1000           
+2023-02-11T08:25:56Z: PLAYER CHATTED [ 3718672616] yamssavii            (-1005.2,   643.1,  -326.8)
+  Uuuh
+2023-02-11T08:26:03Z: PLAYER CHATTED [ 3718672616] yamssavii            (-1004.7,   643.1,  -344.1)
+  Who are u 
+2023-02-11T08:26:28Z: PLAYER REMOVED [ 2237120256] queenesmev           a.k.a. Esme                
+2023-02-11T08:26:39Z: PLAYER ADDED   [ 3911713020] KANROYI_MITSURY      a.k.a. Lawliet             
+2023-02-11T08:26:59Z: PLAYER CHATTED [ 1144359355] Nithyum              (-1156.1,   625.3,  -442.3)
+  :(
+2023-02-11T08:27:10Z: PLAYER CHATTED [ 1144359355] Nithyum              (-1156.1,   625.3,  -442.3)
+  0
+2023-02-11T08:27:24Z: CHRCTER ADDED  [ 1144359355] Nithyum             
+2023-02-11T08:28:20Z: PLAYER REMOVED [ 4130074066] Quetxali12233       
+2023-02-11T08:28:28Z: PLAYER ADDED   [  302625542] jhslkjlkd            a.k.a. Buriitasuwu         
+2023-02-11T08:28:50Z: PLAYER ADDED   [ 1363792769] Whhatbrenda         
+2023-02-11T08:29:35Z: PLAYER REMOVED [ 1363792769] Whhatbrenda         
+2023-02-11T08:29:51Z: PLAYER REMOVED [ 2606643895] markey_470          
+2023-02-11T08:29:56Z: PLAYER ADDED   [ 2930992581] haru_hashibira       a.k.a. MrTaco              
+2023-02-11T08:30:15Z: PLAYER REMOVED [ 2930992581] haru_hashibira       a.k.a. MrTaco              
+2023-02-11T08:30:16Z: PLAYER REMOVED [ 3248730493] Sundropuwucute       a.k.a. Churrypanconqueso   
+2023-02-11T08:30:19Z: PLAYER ADDED   [ 4098711275] tea_okko             a.k.a. Quack               
+2023-02-11T08:30:22Z: PLAYER ADDED   [ 1718727405] kArimjuega927473    
+2023-02-11T08:30:32Z: PLAYER REMOVED [ 4098711275] tea_okko             a.k.a. Quack               
+2023-02-11T08:30:42Z: PLAYER ADDED   [ 3904807115] TheVikingo_1        
+2023-02-11T08:30:51Z: PLAYER REMOVED [ 1718727405] kArimjuega927473    
+2023-02-11T08:30:56Z: PLAYER ADDED   [ 3906778654] Aylin_Bv3           
+2023-02-11T08:31:25Z: PLAYER REMOVED [ 2852316807] Jenny6362sujd       
+2023-02-11T08:31:27Z: CHRCTER ADDED  [   75608661] slimo1000           
+2023-02-11T08:31:51Z: PLAYER REMOVED [ 3904807115] TheVikingo_1        
+2023-02-11T08:31:54Z: CHRCTER ADDED  [   75608661] slimo1000           
+2023-02-11T08:32:02Z: CHRCTER ADDED  [ 1144359355] Nithyum             
+2023-02-11T08:32:09Z: PLAYER REMOVED [ 1522823064] foxeyloxey6898       a.k.a. Dragon              
+2023-02-11T08:32:16Z: PLAYER ADDED   [   57908898] angeItype            a.k.a. coo                 
+2023-02-11T08:32:19Z: PLAYER REMOVED [ 2501952203] Maria_InesDupain     a.k.a. Lazy_fet            
+2023-02-11T08:32:22Z: PLAYER ADDED   [  181169052] Fr3ddi3B             a.k.a. grey                
+2023-02-11T08:32:29Z: PLAYER ADDED   [ 1488178235] Emiliano009009009   
+2023-02-11T08:32:29Z: PLAYER ADDED   [ 3220632394] Juan001_QwQ          a.k.a. ElGato_Tilinexe     
+2023-02-11T08:32:31Z: PLAYER REMOVED [   57908898] angeItype            a.k.a. coo                 
+2023-02-11T08:32:41Z: PLAYER ADDED   [ 4324364829] King_j154           
+2023-02-11T08:32:44Z: PLAYER REMOVED [ 1488178235] Emiliano009009009   
+2023-02-11T08:32:52Z: PLAYER ADDED   [ 3037587153] yorleithsa           a.k.a. uwu                 
+2023-02-11T08:33:16Z: PLAYER ADDED   [ 1363792769] Whhatbrenda         
+2023-02-11T08:33:47Z: PLAYER REMOVED [ 4324364829] King_j154           
+2023-02-11T08:34:50Z: PLAYER CHATTED [ 1363792769] Whhatbrenda          (-1419.3,   630.9,  -434.0)
+  BAHAHA
+2023-02-11T08:35:00Z: PLAYER CHATTED [ 3718672616] yamssavii            (-1415.5,   630.6,  -438.7)
+  Loool
+2023-02-11T08:35:54Z: PLAYER CHATTED [ 3718672616] yamssavii            (-1415.5,   630.6,  -438.7)
+  24 minutesss Lemme get a snack 
+2023-02-11T08:36:02Z: PLAYER CHATTED [ 1363792769] Whhatbrenda          (-1419.3,   630.9,  -434.0)
+  Bett
+2023-02-11T08:36:23Z: PLAYER REMOVED [  302625542] jhslkjlkd            a.k.a. Buriitasuwu         
+2023-02-11T08:36:30Z: PLAYER ADDED   [  689595313] ScoobyPapa1234       a.k.a. Rosmisito           
+2023-02-11T08:37:39Z: PLAYER CHATTED [ 2310722827] jxulsmili            (-1415.7,   630.6,  -454.0)
+  Get a house 
+2023-02-11T08:38:07Z: CHRCTER ADDED  [ 3911713020] KANROYI_MITSURY      a.k.a. Lawliet             
+2023-02-11T08:38:22Z: PLAYER REMOVED [  181169052] Fr3ddi3B             a.k.a. grey                
+2023-02-11T08:38:32Z: PLAYER ADDED   [ 4272876916] nerili321           
+2023-02-11T08:38:42Z: PLAYER REMOVED [ 4272876916] nerili321           
+2023-02-11T08:38:48Z: PLAYER REMOVED [ 3037587153] yorleithsa           a.k.a. uwu                 
+2023-02-11T08:38:49Z: PLAYER ADDED   [ 3712671433] robloxindonesiad     a.k.a. rip_kitler          
+2023-02-11T08:38:54Z: PLAYER REMOVED [ 3712671433] robloxindonesiad     a.k.a. rip_kitler          
+2023-02-11T08:39:07Z: PLAYER ADDED   [ 3932618441] Cxssie872            a.k.a. Yossi               
+2023-02-11T08:39:14Z: PLAYER ADDED   [ 1325461914] geritaasies         
+2023-02-11T08:39:40Z: PLAYER REMOVED [ 1325461914] geritaasies         
+2023-02-11T08:40:06Z: PLAYER CHATTED [ 2310722827] jxulsmili            (-1030.9,   629.3,  -465.3)
+  Come to mi casa brendisss n Avi 
+2023-02-11T08:40:11Z: PLAYER ADDED   [ 2448759742] qpkogvkygoym         a.k.a. lll                 
+2023-02-11T08:40:14Z: PLAYER CHATTED [ 1363792769] Whhatbrenda         
+  okii 
+2023-02-11T08:40:57Z: PLAYER REMOVED [ 2448759742] qpkogvkygoym         a.k.a. lll                 
+2023-02-11T08:41:04Z: PLAYER REMOVED [  689595313] ScoobyPapa1234       a.k.a. Rosmisito           
+2023-02-11T08:41:24Z: PLAYER ADDED   [ 1930134755] SofiaFelisiti        a.k.a. Lily                
+2023-02-11T08:41:25Z: PLAYER ADDED   [ 2402827433] CAYLAAMYL            a.k.a. Mia_nkata           
+2023-02-11T08:41:27Z: CHRCTER ADDED  [ 2402827433] CAYLAAMYL            a.k.a. Mia_nkata           
+2023-02-11T08:41:56Z: PLAYER CHATTED [ 1363792769] Whhatbrenda          (-1025.0,   625.9,  -464.4)
+  Christmas music 
+2023-02-11T08:42:02Z: PLAYER CHATTED [ 2310722827] jxulsmili            (-1021.2,   625.6,  -464.5)
+  Yahhh
+2023-02-11T08:42:05Z: PLAYER CHATTED [ 1363792769] Whhatbrenda          (-1025.0,   625.9,  -464.4)
+  💯
+2023-02-11T08:42:40Z: PLAYER CHATTED [ 1363792769] Whhatbrenda          (-1017.7,   643.3,  -572.4)
+  Bouuujsss
+2023-02-11T08:42:53Z: PLAYER REMOVED [ 2402827433] CAYLAAMYL            a.k.a. Mia_nkata           
+2023-02-11T08:42:54Z: PLAYER ADDED   [  689949471] IlMr_SQUADlI        
+2023-02-11T08:43:43Z: PLAYER CHATTED [ 2310722827] jxulsmili            (-1028.9,   625.1,  -425.5)
+   AHAHAHA
+2023-02-11T08:43:46Z: PLAYER CHATTED [ 1363792769] Whhatbrenda          (-1026.0,   625.6,  -426.2)
+  😭
+2023-02-11T08:44:07Z: PLAYER REMOVED [ 1930134755] SofiaFelisiti        a.k.a. Lily                
+2023-02-11T08:44:10Z: PLAYER ADDED   [ 2329226993] TASTYYTUKCHERO       a.k.a. nktastyy            
+2023-02-11T08:44:37Z: PLAYER REMOVED [ 2329226993] TASTYYTUKCHERO       a.k.a. nktastyy            
+2023-02-11T08:44:37Z: CHRCTER ADDED  [ 3220632394] Juan001_QwQ          a.k.a. ElGato_Tilinexe     
+2023-02-11T08:44:37Z: PLAYER ADDED   [ 1787895991] The1Doctor1701       a.k.a. Acceptorcounter     
+2023-02-11T08:45:31Z: PLAYER REMOVED [ 3906778654] Aylin_Bv3           
+2023-02-11T08:45:46Z: PLAYER ADDED   [ 4206346382] kitty_indomie       
+2023-02-11T08:46:01Z: PLAYER REMOVED [  689949471] IlMr_SQUADlI        
+2023-02-11T08:46:03Z: PLAYER ADDED   [ 2934735292] NasukayQ            
+2023-02-11T08:46:08Z: PLAYER REMOVED [ 2934735292] NasukayQ            
+2023-02-11T08:46:14Z: PLAYER CHATTED [ 1363792769] Whhatbrenda          (-1035.4,   623.6,  -430.1)
+  😹
+2023-02-11T08:46:15Z: PLAYER CHATTED [ 3718672616] yamssavii            (-1037.1,   625.1,  -427.0)
+  Looool
+2023-02-11T08:46:19Z: PLAYER ADDED   [ 1353347941] ANGELGAMER2356y      a.k.a. CRIKo_SICARI        
+2023-02-11T08:46:45Z: CHRCTER ADDED  [ 2310722827] jxulsmili            a.k.a. mili                
+2023-02-11T08:47:08Z: PLAYER REMOVED [ 1353347941] ANGELGAMER2356y      a.k.a. CRIKo_SICARI        
+2023-02-11T08:47:15Z: PLAYER ADDED   [ 4065471257] Frisk_jsjsj          a.k.a. Chuchu              
+2023-02-11T08:47:56Z: PLAYER CHATTED [ 3718672616] yamssavii            (-1031.4,   624.3,  -408.7)
+  ABC for baby 
+2023-02-11T08:48:01Z: PLAYER CHATTED [ 2310722827] jxulsmili            (-1030.0,   625.5,  -411.0)
+  BABAHHAHAHAHAHAH
+2023-02-11T08:48:06Z: PLAYER CHATTED [ 3718672616] yamssavii            (-1031.4,   624.3,  -408.7)
+  😭😭
+2023-02-11T08:48:08Z: PLAYER CHATTED [ 2310722827] jxulsmili            (-1029.6,   625.5,  -411.3)
+  ######
+2023-02-11T08:48:11Z: PLAYER REMOVED [ 4065471257] Frisk_jsjsj          a.k.a. Chuchu              
+2023-02-11T08:48:12Z: PLAYER ADDED   [ 4322254957] dsjsf122            
+2023-02-11T08:48:13Z: PLAYER CHATTED [ 2310722827] jxulsmili            (-1029.6,   625.5,  -411.3)
+  LAWL
+2023-02-11T08:48:53Z: PLAYER CHATTED [ 1363792769] Whhatbrenda          (-1031.9,   624.8,  -406.9)
+  Bruh ########## gets tagged
+2023-02-11T08:49:00Z: PLAYER CHATTED [ 1363792769] Whhatbrenda          (-1031.9,   624.8,  -406.9)
+  EVERYTHING
+2023-02-11T08:49:14Z: PLAYER CHATTED [ 3932618441] Cxssie872            (-1555.8,   634.1,  -407.8)
+  How do I get it?
+2023-02-11T08:49:43Z: PLAYER CHATTED [ 3932618441] Cxssie872            (-1549.5,   634.1,  -399.8)
+  How do I get this
+2023-02-11T08:50:53Z: CHRCTER ADDED  [ 3718672616] yamssavii           
+2023-02-11T08:51:27Z: PLAYER REMOVED [ 3932618441] Cxssie872            a.k.a. Yossi               
+2023-02-11T08:51:29Z: PLAYER ADDED   [ 3560463189] 1gam3r1lif3          a.k.a. Toasty_boi          
+2023-02-11T08:51:37Z: PLAYER REMOVED [ 4322254957] dsjsf122            
+2023-02-11T08:51:37Z: PLAYER ADDED   [ 2532187616] youyou11081          a.k.a. Ladiie8             
+2023-02-11T08:51:43Z: PLAYER CHATTED [ 2310722827] jxulsmili            ( -910.7,   624.6,  -432.6)
+  letss go to the front
+2023-02-11T08:51:59Z: PLAYER ADDED   [ 1677763953] PILOT8208            a.k.a. SPECTRE             
+2023-02-11T08:53:18Z: CHRCTER ADDED  [   75608661] slimo1000           
+2023-02-11T08:54:46Z: PLAYER CHATTED [ 3560463189] 1gam3r1lif3          (-1553.5,   634.0,  -447.5)
+  everyone ready
+2023-02-11T08:54:48Z: PLAYER CHATTED [ 3718672616] yamssavii            (-1473.7,   630.6,  -645.2)
+  Loool they letting kids in 
+2023-02-11T08:54:54Z: PLAYER CHATTED [ 1363792769] Whhatbrenda          (-1469.2,   629.6,  -648.4)
+  😭
+2023-02-11T08:55:08Z: PLAYER REMOVED [  493866050] Mina_Luna96          a.k.a. Papa                
+2023-02-11T08:55:09Z: PLAYER REMOVED [ 1787895991] The1Doctor1701       a.k.a. Acceptorcounter     
+2023-02-11T08:55:09Z: PLAYER REMOVED [ 3560463189] 1gam3r1lif3          a.k.a. Toasty_boi          
+2023-02-11T08:55:09Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

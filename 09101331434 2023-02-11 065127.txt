@@ -1,0 +1,447 @@
+[    1630228] : [ 9101331434] LidlBlox Shopping - b93ad378-71fd-49b9-914c-931cada5927e
+2023-02-11T06:51:27Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-02-11T06:51:27Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-02-11T06:51:27Z: PLAYER ADDED   [ 2240324452] Ayastaan110113      
+2023-02-11T06:51:27Z: PLAYER ADDED   [ 2471270017] TheBluefriends123    a.k.a. E4N                 
+2023-02-11T06:51:27Z: PLAYER ADDED   [ 1681737029] ludulitty_samaria    a.k.a. Sam                 
+2023-02-11T06:51:27Z: PLAYER ADDED   [  745076769] lfcshaqiri23         a.k.a. Chris               
+2023-02-11T06:51:27Z: PLAYER ADDED   [ 3047314569] Kubus_1991          
+2023-02-11T06:51:27Z: PLAYER ADDED   [ 4283383475] Lola174x            
+2023-02-11T06:51:27Z: PLAYER ADDED   [ 2677543599] SORgdhywfd573        a.k.a. Alex                
+2023-02-11T06:51:27Z: PLAYER ADDED   [ 4169317856] LUCADI5114          
+2023-02-11T06:51:27Z: PLAYER ADDED   [  742726861] queenrenae231       
+2023-02-11T06:51:27Z: PLAYER ADDED   [ 3162824094] Zackydoodlebear     
+2023-02-11T06:51:27Z: PLAYER ADDED   [ 3403411568] hikhgft             
+2023-02-11T06:51:27Z: PLAYER ADDED   [ 3694848301] Valeria_venus        a.k.a. Venus               
+2023-02-11T06:51:27Z: PLAYER ADDED   [ 2578191418] Gnegxhdhddrjdj       a.k.a. Littlepoo           
+2023-02-11T06:51:27Z: PLAYER ADDED   [ 4216669749] sami_12886          
+2023-02-11T06:51:27Z: PLAYER ADDED   [ 1383471850] dirbeloo             a.k.a. Dirbeloo            
+2023-02-11T06:51:27Z: PLAYER ADDED   [ 4117925427] eeveeseikailut2013  
+2023-02-11T06:51:27Z: PLAYER ADDED   [ 2336786499] floraachann          a.k.a. Muni                
+2023-02-11T06:51:27Z: PLAYER ADDED   [ 2799043634] kulit_job            a.k.a. 0_burt              
+2023-02-11T06:51:27Z: PLAYER ADDED   [ 3926858113] Mua3213             
+2023-02-11T06:51:27Z: PLAYER ADDED   [ 3309822197] Zoedg20116          
+2023-02-11T06:51:27Z: PLAYER ADDED   [  918757840] MessiKitty           a.k.a. Starboy             
+2023-02-11T06:51:27Z: PLAYER ADDED   [ 2015559455] Paulchen1212         a.k.a. LinameinKAKAI       
+2023-02-11T06:51:27Z: PLAYER ADDED   [ 3055067564] fabinostre2011       a.k.a. CHAKER              
+2023-02-11T06:51:27Z: PLAYER ADDED   [  559954465] IsaiahGamesRules     a.k.a. Vampire             
+2023-02-11T06:51:27Z: PLAYER ADDED   [ 1314254250] LexieRozeq          
+2023-02-11T06:51:33Z: PLAYER REMOVED [  918757840] MessiKitty           a.k.a. Starboy             
+2023-02-11T06:51:37Z: PLAYER ADDED   [ 4280386918] petopalkomisko      
+2023-02-11T06:51:40Z: CHRCTER ADDED  [ 3403411568] hikhgft             
+2023-02-11T06:51:46Z: PLAYER CHATTED [  745076769] lfcshaqiri23         (   13.6,     6.9,   165.0)
+  Hello there, welcome to LidlBlox! May I see some ID or Debit Card please to confirm your age please?	
+2023-02-11T06:51:47Z: PLAYER CHATTED [  745076769] lfcshaqiri23         (   13.6,     6.9,   165.0)
+  Hello there, welcome to LidlBlox! May I see some ID or Debit Card please to confirm your age please? 
+2023-02-11T06:51:48Z: CHRCTER ADDED  [ 3309822197] Zoedg20116          
+2023-02-11T06:51:53Z: PLAYER REMOVED [ 3926858113] Mua3213             
+2023-02-11T06:51:53Z: PLAYER ADDED   [ 4326579900] Ksjslwpqmslwlq      
+2023-02-11T06:51:53Z: PLAYER REMOVED [ 4326579900] Ksjslwpqmslwlq      
+2023-02-11T06:51:53Z: PLAYER REMOVED [ 3055067564] fabinostre2011       a.k.a. CHAKER              
+2023-02-11T06:51:54Z: PLAYER ADDED   [ 3055067564] fabinostre2011       a.k.a. CHAKER              
+2023-02-11T06:52:02Z: PLAYER ADDED   [ 4171173183] RNS1k941            
+2023-02-11T06:52:10Z: PLAYER REMOVED [ 4171173183] RNS1k941            
+2023-02-11T06:52:19Z: PLAYER CHATTED [ 1681737029] ludulitty_samaria    (   -0.3,     6.9,   164.7)
+  Sir
+2023-02-11T06:52:19Z: CHRCTER ADDED  [ 2471270017] TheBluefriends123    a.k.a. E4N                 
+2023-02-11T06:52:28Z: PLAYER REMOVED [ 3694848301] Valeria_venus        a.k.a. Venus               
+2023-02-11T06:52:29Z: PLAYER ADDED   [ 1928449921] foskdsld             a.k.a. Wanokuni911         
+2023-02-11T06:52:31Z: PLAYER REMOVED [ 3055067564] fabinostre2011       a.k.a. CHAKER              
+2023-02-11T06:52:42Z: PLAYER ADDED   [ 3055067564] fabinostre2011       a.k.a. CHAKER              
+2023-02-11T06:52:42Z: PLAYER CHATTED [ 1681737029] ludulitty_samaria    (   -0.3,     6.9,   164.7)
+  Sir
+2023-02-11T06:52:50Z: PLAYER CHATTED [ 1681737029] ludulitty_samaria    (    0.7,     6.9,   164.6)
+  I need. Help
+2023-02-11T06:52:51Z: PLAYER REMOVED [ 3047314569] Kubus_1991          
+2023-02-11T06:52:58Z: PLAYER ADDED   [ 1509262904] KaseyGloomdog        a.k.a. Nxelle              
+2023-02-11T06:52:59Z: PLAYER ADDED   [ 4246565922] Curlyone58          
+2023-02-11T06:53:03Z: PLAYER CHATTED [ 1681737029] ludulitty_samaria    (   -0.1,     6.9,   164.9)
+  HELLO I NEED HELP!!!!
+2023-02-11T06:53:06Z: PLAYER REMOVED [ 1383471850] dirbeloo             a.k.a. Dirbeloo            
+2023-02-11T06:53:11Z: PLAYER ADDED   [ 2720018340] nong11view           a.k.a. View                
+2023-02-11T06:53:12Z: PLAYER ADDED   [ 2262561675] Immortal_ninja02     a.k.a. Immortal_ninja      
+2023-02-11T06:53:16Z: PLAYER ADDED   [ 2376637700] Jac5215             
+2023-02-11T06:53:19Z: PLAYER CHATTED [ 1681737029] ludulitty_samaria    (    0.0,     6.9,   165.6)
+  Thank you
+2023-02-11T06:53:22Z: PLAYER CHATTED [ 2677543599] SORgdhywfd573        (   16.3,     6.9,   195.4)
+  I will try all pay more
+2023-02-11T06:53:23Z: PLAYER ADDED   [ 4223379401] fgdhsbzbdjsj        
+2023-02-11T06:53:25Z: PLAYER REMOVED [ 1509262904] KaseyGloomdog        a.k.a. Nxelle              
+2023-02-11T06:53:27Z: PLAYER ADDED   [ 4068964742] Andreas_0972        
+2023-02-11T06:53:28Z: PLAYER CHATTED [ 4283383475] Lola174x             (   13.3,     6.9,   174.0)
+  Did
+2023-02-11T06:53:31Z: PLAYER CHATTED [ 4283383475] Lola174x             (   13.3,     6.9,   174.0)
+  Sir
+2023-02-11T06:53:32Z: PLAYER REMOVED [  742726861] queenrenae231       
+2023-02-11T06:53:33Z: PLAYER CHATTED [ 4283383475] Lola174x             (   13.3,     6.9,   174.0)
+  Sir
+2023-02-11T06:53:46Z: PLAYER REMOVED [ 2471270017] TheBluefriends123    a.k.a. E4N                 
+2023-02-11T06:53:47Z: PLAYER REMOVED [ 2799043634] kulit_job            a.k.a. 0_burt              
+2023-02-11T06:53:47Z: PLAYER CHATTED [  745076769] lfcshaqiri23         (   10.9,     6.9,   173.0)
+  Unequip your card.
+2023-02-11T06:53:49Z: PLAYER REMOVED [ 2376637700] Jac5215             
+2023-02-11T06:53:50Z: PLAYER ADDED   [ 2471270017] TheBluefriends123    a.k.a. E4N                 
+2023-02-11T06:53:51Z: PLAYER CHATTED [ 4283383475] Lola174x             (   13.3,     6.9,   174.0)
+  Can u cancel the payment I payed I wanna pay cash 
+2023-02-11T06:53:52Z: PLAYER REMOVED [ 1681737029] ludulitty_samaria    a.k.a. Sam                 
+2023-02-11T06:53:59Z: PLAYER REMOVED [ 3055067564] fabinostre2011       a.k.a. CHAKER              
+2023-02-11T06:54:03Z: PLAYER REMOVED [ 2240324452] Ayastaan110113      
+2023-02-11T06:54:06Z: PLAYER CHATTED [  745076769] lfcshaqiri23         (   10.9,     6.9,   173.0)
+  I can't sorry but I can pay if you want.
+2023-02-11T06:54:17Z: PLAYER CHATTED [ 4283383475] Lola174x             (   16.4,     6.9,   172.4)
+  How do I pay 
+2023-02-11T06:54:26Z: PLAYER CHATTED [  745076769] lfcshaqiri23         (   13.2,     6.9,   173.1)
+  Unequip your card.
+2023-02-11T06:54:33Z: PLAYER ADDED   [ 2819860866] johnnylovesfamily   
+2023-02-11T06:54:34Z: PLAYER CHATTED [ 4283383475] Lola174x             (   14.3,     7.2,   174.1)
+  He
+2023-02-11T06:54:34Z: PLAYER CHATTED [  745076769] lfcshaqiri23         (   13.2,     6.9,   173.1)
+  Click on the green box.
+2023-02-11T06:54:37Z: PLAYER ADDED   [ 4235854486] MARiUSZ6434         
+2023-02-11T06:54:42Z: PLAYER CHATTED [ 2015559455] Paulchen1212         (   22.3,     6.9,   168.3)
+  Help
+2023-02-11T06:54:46Z: PLAYER CHATTED [  745076769] lfcshaqiri23         (    6.0,     6.9,   166.1)
+  Hello there, welcome to LidlBlox! May I see some ID or Debit Card please to confirm your age please?	
+2023-02-11T06:54:46Z: PLAYER CHATTED [  745076769] lfcshaqiri23         (    6.0,     6.9,   166.1)
+  Hello there, welcome to LidlBlox! May I see some ID or Debit Card please to confirm your age please? 
+2023-02-11T06:54:53Z: PLAYER ADDED   [ 3055067564] fabinostre2011       a.k.a. CHAKER              
+2023-02-11T06:55:01Z: PLAYER ADDED   [ 3872830463] BasarecoR3           a.k.a. Belooo              
+2023-02-11T06:55:09Z: PLAYER ADDED   [  699537595] PerlClaudette        a.k.a. supercalifragalistic
+2023-02-11T06:55:09Z: PLAYER ADDED   [ 3838104989] StopNowToday         a.k.a. NotRonaldo          
+2023-02-11T06:55:12Z: PLAYER REMOVED [ 2578191418] Gnegxhdhddrjdj       a.k.a. Littlepoo           
+2023-02-11T06:55:14Z: PLAYER CHATTED [  745076769] lfcshaqiri23         (   22.3,     6.9,   168.1)
+  Click on the green box without holding your card.
+2023-02-11T06:55:26Z: CHRCTER ADDED  [ 4117925427] eeveeseikailut2013  
+2023-02-11T06:55:26Z: PLAYER REMOVED [ 2015559455] Paulchen1212         a.k.a. LinameinKAKAI       
+2023-02-11T06:55:30Z: PLAYER CHATTED [  745076769] lfcshaqiri23         (   22.3,     6.9,   168.1)
+  Don't hold your card.
+2023-02-11T06:55:32Z: PLAYER REMOVED [ 2262561675] Immortal_ninja02     a.k.a. Immortal_ninja      
+2023-02-11T06:55:32Z: PLAYER ADDED   [ 2578191418] Gnegxhdhddrjdj       a.k.a. Littlepoo           
+2023-02-11T06:55:33Z: PLAYER ADDED   [ 1089428931] GodzillaDestroyer929 a.k.a. GrandpaEd           
+2023-02-11T06:55:34Z: PLAYER CHATTED [ 1314254250] LexieRozeq           (   16.5,     6.9,   164.8)
+  can u help
+2023-02-11T06:55:35Z: PLAYER REMOVED [ 4117925427] eeveeseikailut2013  
+2023-02-11T06:55:42Z: PLAYER REMOVED [ 4235854486] MARiUSZ6434         
+2023-02-11T06:55:42Z: PLAYER CHATTED [  745076769] lfcshaqiri23         (   13.4,     6.9,   165.4)
+  Hello there, welcome to LidlBlox! May I see some ID or Debit Card please to confirm your age please?	
+2023-02-11T06:55:43Z: PLAYER CHATTED [  745076769] lfcshaqiri23         (   13.4,     6.9,   165.4)
+  Hello there, welcome to LidlBlox! May I see some ID or Debit Card please to confirm your age please? 
+2023-02-11T06:55:50Z: PLAYER REMOVED [ 2677543599] SORgdhywfd573        a.k.a. Alex                
+2023-02-11T06:55:53Z: PLAYER ADDED   [ 2661627503] Mr_Rysik7           
+2023-02-11T06:55:58Z: PLAYER CHATTED [ 1314254250] LexieRozeq           (   16.7,     6.9,   166.0)
+  uh here
+2023-02-11T06:56:05Z: PLAYER CHATTED [ 3872830463] BasarecoR3           (    4.5,     6.9,   173.5)
+  hey
+2023-02-11T06:56:07Z: PLAYER CHATTED [ 4283383475] Lola174x             (  -29.8,     6.9,   154.6)
+  /apply in game chat 
+2023-02-11T06:56:13Z: PLAYER CHATTED [  745076769] lfcshaqiri23         (   12.5,     6.9,   174.3)
+  Hello there, welcome to LidlBlox! May I see some ID or Debit Card please to confirm your age please?	
+2023-02-11T06:56:13Z: PLAYER CHATTED [  745076769] lfcshaqiri23         (   12.5,     6.9,   174.3)
+  Hello there, welcome to LidlBlox! May I see some ID or Debit Card please to confirm your age please? 
+2023-02-11T06:56:13Z: PLAYER REMOVED [ 3055067564] fabinostre2011       a.k.a. CHAKER              
+2023-02-11T06:56:14Z: PLAYER ADDED   [ 3055067564] fabinostre2011       a.k.a. CHAKER              
+2023-02-11T06:56:17Z: CHRCTER ADDED  [ 3055067564] fabinostre2011       a.k.a. CHAKER              
+2023-02-11T06:56:17Z: CHRCTER ADDED  [ 3055067564] fabinostre2011       a.k.a. CHAKER              
+2023-02-11T06:56:17Z: PLAYER REMOVED [  699537595] PerlClaudette        a.k.a. supercalifragalistic
+2023-02-11T06:56:20Z: PLAYER ADDED   [ 1486376734] robloxgamergirl20771
+2023-02-11T06:56:22Z: CHRCTER ADDED  [  559954465] IsaiahGamesRules     a.k.a. Vampire             
+2023-02-11T06:56:30Z: PLAYER CHATTED [  745076769] lfcshaqiri23         (    7.7,     6.9,   173.2)
+  Hello there, welcome to LidlBlox! May I see some ID or Debit Card please to confirm your age please?	
+2023-02-11T06:56:31Z: PLAYER ADDED   [ 4099118113] Sourmacaw            a.k.a. Lottie              
+2023-02-11T06:56:31Z: PLAYER CHATTED [  745076769] lfcshaqiri23         (    7.7,     6.9,   173.2)
+  Hello there, welcome to LidlBlox! May I see some ID or Debit Card please to confirm your age please? 
+2023-02-11T06:56:33Z: PLAYER CHATTED [ 4283383475] Lola174x             (  -29.8,     6.9,   154.6)
+  /apply in-game chat 
+2023-02-11T06:56:43Z: PLAYER REMOVED [ 4283383475] Lola174x            
+2023-02-11T06:56:47Z: PLAYER ADDED   [ 4317037367] Wuwsarah20          
+2023-02-11T06:56:48Z: PLAYER REMOVED [ 4317037367] Wuwsarah20          
+2023-02-11T06:56:54Z: PLAYER CHATTED [  745076769] lfcshaqiri23         (    7.7,     6.9,   173.2)
+  ######################
+2023-02-11T06:56:54Z: PLAYER REMOVED [ 3872830463] BasarecoR3           a.k.a. Belooo              
+2023-02-11T06:57:01Z: PLAYER REMOVED [ 1089428931] GodzillaDestroyer929 a.k.a. GrandpaEd           
+2023-02-11T06:57:01Z: PLAYER ADDED   [ 1596934668] havier_2             a.k.a. sweatyhotdogs       
+2023-02-11T06:57:01Z: PLAYER REMOVED [ 2661627503] Mr_Rysik7           
+2023-02-11T06:57:09Z: PLAYER REMOVED [ 3309822197] Zoedg20116          
+2023-02-11T06:57:25Z: PLAYER REMOVED [ 3838104989] StopNowToday         a.k.a. NotRonaldo          
+2023-02-11T06:57:28Z: PLAYER REMOVED [ 3055067564] fabinostre2011       a.k.a. CHAKER              
+2023-02-11T06:57:41Z: PLAYER REMOVED [ 4099118113] Sourmacaw            a.k.a. Lottie              
+2023-02-11T06:57:42Z: PLAYER ADDED   [ 2324702304] DatuAzubairLinquinan a.k.a. SecretAgent99       
+2023-02-11T06:57:52Z: PLAYER REMOVED [ 1486376734] robloxgamergirl20771
+2023-02-11T06:58:03Z: CHRCTER ADDED  [ 4280386918] petopalkomisko      
+2023-02-11T06:58:04Z: PLAYER ADDED   [  479576659] nabbe1976           
+2023-02-11T06:58:15Z: CHRCTER ADDED  [ 3403411568] hikhgft             
+2023-02-11T06:58:29Z: PLAYER ADDED   [ 3278584997] chomiczek_156       
+2023-02-11T06:58:29Z: CHRCTER ADDED  [ 4223379401] fgdhsbzbdjsj        
+2023-02-11T06:58:31Z: PLAYER ADDED   [ 2862019139] RubyFlannery12      
+2023-02-11T06:58:39Z: PLAYER REMOVED [ 2336786499] floraachann          a.k.a. Muni                
+2023-02-11T06:58:49Z: PLAYER ADDED   [ 2336786499] floraachann          a.k.a. Muni                
+2023-02-11T06:59:09Z: PLAYER ADDED   [ 3107518792] Horangi_99dog        a.k.a. Armand              
+2023-02-11T06:59:21Z: PLAYER REMOVED [ 2862019139] RubyFlannery12      
+2023-02-11T06:59:22Z: PLAYER ADDED   [ 4274417757] Tony_tonight12      
+2023-02-11T06:59:32Z: PLAYER REMOVED [ 2578191418] Gnegxhdhddrjdj       a.k.a. Littlepoo           
+2023-02-11T06:59:54Z: PLAYER ADDED   [ 3153673968] AdiyahJudah         
+2023-02-11T07:00:08Z: PLAYER ADDED   [ 3661664017] Lampieemma          
+2023-02-11T07:00:19Z: PLAYER REMOVED [ 2471270017] TheBluefriends123    a.k.a. E4N                 
+2023-02-11T07:00:22Z: PLAYER ADDED   [ 3271401325] Gisiek1234           a.k.a. Spytek123           
+2023-02-11T07:00:24Z: PLAYER CHATTED [  745076769] lfcshaqiri23         (   10.4,     6.9,   164.5)
+  Hello there, welcome to LidlBlox! May I see some ID or Debit Card please to confirm your age please?	
+2023-02-11T07:00:25Z: PLAYER CHATTED [  745076769] lfcshaqiri23         (   10.4,     6.9,   164.5)
+  Hello there, welcome to LidlBlox! May I see some ID or Debit Card please to confirm your age please? 
+2023-02-11T07:00:27Z: PLAYER REMOVED [ 1596934668] havier_2             a.k.a. sweatyhotdogs       
+2023-02-11T07:00:33Z: PLAYER REMOVED [ 4274417757] Tony_tonight12      
+2023-02-11T07:00:38Z: PLAYER REMOVED [ 4223379401] fgdhsbzbdjsj        
+2023-02-11T07:00:54Z: PLAYER REMOVED [ 3107518792] Horangi_99dog        a.k.a. Armand              
+2023-02-11T07:01:01Z: PLAYER REMOVED [ 3271401325] Gisiek1234           a.k.a. Spytek123           
+2023-02-11T07:01:04Z: PLAYER REMOVED [ 4068964742] Andreas_0972        
+2023-02-11T07:01:04Z: PLAYER ADDED   [ 2926699287] Oates12346          
+2023-02-11T07:01:06Z: PLAYER ADDED   [ 2590619252] holly_sparkleberry   a.k.a. Holly               
+2023-02-11T07:01:06Z: PLAYER ADDED   [ 1596934668] havier_2             a.k.a. sweatyhotdogs       
+2023-02-11T07:01:20Z: PLAYER REMOVED [  745076769] lfcshaqiri23         a.k.a. Chris               
+2023-02-11T07:01:30Z: PLAYER REMOVED [ 2819860866] johnnylovesfamily   
+2023-02-11T07:01:49Z: CHRCTER ADDED  [ 3403411568] hikhgft             
+2023-02-11T07:01:54Z: PLAYER ADDED   [ 3287287556] GoStars7002         
+2023-02-11T07:01:54Z: PLAYER REMOVED [ 4246565922] Curlyone58          
+2023-02-11T07:01:55Z: PLAYER CHATTED [ 3153673968] AdiyahJudah          (   -3.6,     6.9,   174.0)
+  oh
+2023-02-11T07:02:00Z: CHRCTER ADDED  [ 3287287556] GoStars7002         
+2023-02-11T07:02:00Z: PLAYER CHATTED [ 3153673968] AdiyahJudah          (   -3.6,     7.5,   174.0)
+  oh
+2023-02-11T07:02:08Z: PLAYER REMOVED [ 1928449921] foskdsld             a.k.a. Wanokuni911         
+2023-02-11T07:02:16Z: PLAYER ADDED   [ 1355219923] SavJ1608            
+2023-02-11T07:02:16Z: PLAYER CHATTED [ 3153673968] AdiyahJudah          (   -1.1,     6.9,   172.8)
+  Hey you 
+2023-02-11T07:02:33Z: PLAYER CHATTED [ 3153673968] AdiyahJudah          (   -1.2,     6.9,   172.6)
+  how you this 
+2023-02-11T07:02:34Z: PLAYER ADDED   [ 2992195183] ThoresenAH          
+2023-02-11T07:02:35Z: PLAYER ADDED   [ 3770414138] PixieSparklexox      a.k.a. HEARTSFORREX        
+2023-02-11T07:02:38Z: PLAYER ADDED   [ 1319682153] hsgnhgf             
+2023-02-11T07:02:39Z: PLAYER REMOVED [ 3770414138] PixieSparklexox      a.k.a. HEARTSFORREX        
+2023-02-11T07:02:40Z: PLAYER REMOVED [ 4216669749] sami_12886          
+2023-02-11T07:02:41Z: PLAYER CHATTED [  479576659] nabbe1976            (   -7.9,     6.9,   171.9)
+  Hello, and welcome to LidlBlox! May I see your ID (Debit card or Club Card), please?
+2023-02-11T07:02:53Z: PLAYER CHATTED [  479576659] nabbe1976            (   -5.9,     6.9,   173.1)
+  Thank you.
+2023-02-11T07:03:04Z: PLAYER CHATTED [  479576659] nabbe1976            (   -6.5,     6.9,   172.5)
+  There you go.
+2023-02-11T07:03:09Z: PLAYER CHATTED [  479576659] nabbe1976            (   -6.5,     6.9,   172.5)
+  Good bye.
+2023-02-11T07:03:09Z: CHRCTER ADDED  [  559954465] IsaiahGamesRules     a.k.a. Vampire             
+2023-02-11T07:03:17Z: CHRCTER ADDED  [ 2324702304] DatuAzubairLinquinan a.k.a. SecretAgent99       
+2023-02-11T07:03:25Z: PLAYER REMOVED [ 2720018340] nong11view           a.k.a. View                
+2023-02-11T07:03:29Z: PLAYER ADDED   [ 2774302538] oVo_self             a.k.a. kay                 
+2023-02-11T07:03:49Z: PLAYER REMOVED [ 1314254250] LexieRozeq          
+2023-02-11T07:03:52Z: PLAYER REMOVED [ 3153673968] AdiyahJudah         
+2023-02-11T07:03:53Z: PLAYER REMOVED [ 3403411568] hikhgft             
+2023-02-11T07:03:54Z: PLAYER ADDED   [ 2732777929] GLR0812              a.k.a. Slayy               
+2023-02-11T07:03:59Z: PLAYER ADDED   [ 2583474679] Baljerma             a.k.a. Mark                
+2023-02-11T07:03:59Z: PLAYER REMOVED [ 3162824094] Zackydoodlebear     
+2023-02-11T07:04:00Z: PLAYER ADDED   [ 4321807300] htytvtvtdrttrd      
+2023-02-11T07:04:00Z: PLAYER REMOVED [ 4321807300] htytvtvtdrttrd      
+2023-02-11T07:04:10Z: PLAYER ADDED   [ 1748788834] nikziyad             a.k.a. Nik                 
+2023-02-11T07:04:16Z: PLAYER ADDED   [ 4007172160] yrycitrygirf        
+2023-02-11T07:04:25Z: PLAYER ADDED   [ 2710931943] Thea_plays200        a.k.a. OhGawdElija         
+2023-02-11T07:04:25Z: PLAYER ADDED   [  745076769] lfcshaqiri23         a.k.a. Chris               
+2023-02-11T07:04:26Z: PLAYER REMOVED [  479576659] nabbe1976           
+2023-02-11T07:04:38Z: PLAYER REMOVED [ 2583474679] Baljerma             a.k.a. Mark                
+2023-02-11T07:04:54Z: PLAYER CHATTED [  745076769] lfcshaqiri23         (  -81.5,     2.5,    90.6)
+  !credit
+2023-02-11T07:05:06Z: CHRCTER ADDED  [ 1355219923] SavJ1608            
+2023-02-11T07:05:14Z: PLAYER CHATTED [  745076769] lfcshaqiri23         (  -81.5,     2.5,    90.6)
+  !info
+2023-02-11T07:05:27Z: PLAYER REMOVED [  559954465] IsaiahGamesRules     a.k.a. Vampire             
+2023-02-11T07:05:28Z: PLAYER CHATTED [ 2732777929] GLR0812              (   42.7,     6.9,   181.2)
+  -waits-
+2023-02-11T07:05:32Z: PLAYER ADDED   [ 2249069252] jujjhc               a.k.a. 15K                 
+2023-02-11T07:05:33Z: PLAYER ADDED   [  559954465] IsaiahGamesRules     a.k.a. Vampire             
+2023-02-11T07:05:33Z: PLAYER CHATTED [  745076769] lfcshaqiri23         (  -86.2,     2.5,    96.7)
+  !notepad
+2023-02-11T07:05:39Z: PLAYER ADDED   [ 4284017635] leoveras143         
+2023-02-11T07:06:18Z: PLAYER ADDED   [ 4322239096] jtsuayw             
+2023-02-11T07:06:20Z: PLAYER REMOVED [ 4322239096] jtsuayw             
+2023-02-11T07:06:24Z: PLAYER REMOVED [ 2590619252] holly_sparkleberry   a.k.a. Holly               
+2023-02-11T07:06:27Z: PLAYER REMOVED [ 2324702304] DatuAzubairLinquinan a.k.a. SecretAgent99       
+2023-02-11T07:06:38Z: PLAYER REMOVED [ 1319682153] hsgnhgf             
+2023-02-11T07:06:39Z: PLAYER REMOVED [ 2249069252] jujjhc               a.k.a. 15K                 
+2023-02-11T07:06:49Z: PLAYER ADDED   [ 4274154610] dessy_1871          
+2023-02-11T07:06:51Z: PLAYER REMOVED [ 3278584997] chomiczek_156       
+2023-02-11T07:06:56Z: PLAYER ADDED   [ 4265656424] ccvtia               a.k.a. rae                 
+2023-02-11T07:06:56Z: PLAYER ADDED   [ 2379200327] popsiclexox1         a.k.a. Matierialgirl11     
+2023-02-11T07:07:03Z: PLAYER REMOVED [ 3661664017] Lampieemma          
+2023-02-11T07:07:06Z: CHRCTER ADDED  [  745076769] lfcshaqiri23         a.k.a. Chris               
+2023-02-11T07:07:07Z: PLAYER ADDED   [ 4245205557] davidywka2014       
+2023-02-11T07:07:14Z: PLAYER ADDED   [ 3061523037] christinio1         
+2023-02-11T07:07:16Z: PLAYER ADDED   [  923843325] WonderHippoo         a.k.a. ems                 
+2023-02-11T07:07:23Z: PLAYER REMOVED [ 2379200327] popsiclexox1         a.k.a. Matierialgirl11     
+2023-02-11T07:07:30Z: PLAYER ADDED   [ 1386343168] Epic190811           a.k.a. Leon1908            
+2023-02-11T07:07:46Z: CHRCTER ADDED  [ 4280386918] petopalkomisko      
+2023-02-11T07:07:55Z: PLAYER ADDED   [  606371157] zenzen888            a.k.a. Not_Sianna          
+2023-02-11T07:08:02Z: PLAYER REMOVED [ 3287287556] GoStars7002         
+2023-02-11T07:08:05Z: PLAYER REMOVED [ 2732777929] GLR0812              a.k.a. Slayy               
+2023-02-11T07:08:09Z: PLAYER REMOVED [ 4274154610] dessy_1871          
+2023-02-11T07:08:10Z: PLAYER ADDED   [ 1726203100] sbhsbhsbh1           a.k.a. roni                
+2023-02-11T07:08:27Z: PLAYER CHATTED [ 1386343168] Epic190811           (   82.7,     6.9,   221.8)
+  !info
+2023-02-11T07:08:30Z: PLAYER REMOVED [  745076769] lfcshaqiri23         a.k.a. Chris               
+2023-02-11T07:08:35Z: PLAYER REMOVED [ 1596934668] havier_2             a.k.a. sweatyhotdogs       
+2023-02-11T07:08:38Z: PLAYER ADDED   [   52797134] fasiondiva12345      a.k.a. Quiche              
+2023-02-11T07:08:39Z: PLAYER REMOVED [ 4284017635] leoveras143         
+2023-02-11T07:08:50Z: PLAYER CHATTED [ 1386343168] Epic190811           (   82.7,     6.9,   221.8)
+  !fly
+2023-02-11T07:08:50Z: PLAYER ADDED   [ 2741264637] Ahmad_162017        
+2023-02-11T07:08:55Z: PLAYER ADDED   [ 1574498521] SanayaGamesRules    
+2023-02-11T07:08:56Z: PLAYER REMOVED [ 4169317856] LUCADI5114          
+2023-02-11T07:08:57Z: PLAYER CHATTED [ 4265656424] ccvtia               (   16.3,     6.9,   165.0)
+  go away
+2023-02-11T07:09:06Z: PLAYER REMOVED [ 1386343168] Epic190811           a.k.a. Leon1908            
+2023-02-11T07:09:28Z: CHRCTER ADDED  [ 3061523037] christinio1         
+2023-02-11T07:09:32Z: PLAYER ADDED   [ 3846064983] Prettygirljaij      
+2023-02-11T07:09:39Z: PLAYER REMOVED [ 2992195183] ThoresenAH          
+2023-02-11T07:09:47Z: PLAYER ADDED   [ 3770414138] PixieSparklexox      a.k.a. HEARTSFORREX        
+2023-02-11T07:09:47Z: PLAYER ADDED   [ 3006665234] pillow123forsis     
+2023-02-11T07:09:54Z: PLAYER CHATTED [ 4280386918] petopalkomisko       (  -39.1,     6.9,   170.1)
+  what
+2023-02-11T07:10:05Z: PLAYER REMOVED [  559954465] IsaiahGamesRules     a.k.a. Vampire             
+2023-02-11T07:10:07Z: PLAYER ADDED   [  695722442] 2410Emen             a.k.a. IIgliches           
+2023-02-11T07:10:08Z: PLAYER ADDED   [  559954465] IsaiahGamesRules     a.k.a. Vampire             
+2023-02-11T07:10:35Z: PLAYER REMOVED [ 2926699287] Oates12346          
+2023-02-11T07:10:36Z: CHRCTER ADDED  [ 2741264637] Ahmad_162017        
+2023-02-11T07:10:36Z: CHRCTER ADDED  [ 1748788834] nikziyad             a.k.a. Nik                 
+2023-02-11T07:10:36Z: PLAYER REMOVED [ 3846064983] Prettygirljaij      
+2023-02-11T07:10:38Z: PLAYER ADDED   [ 2439754106] miasaraaleesya       a.k.a. Princess            
+2023-02-11T07:10:42Z: PLAYER CHATTED [ 2710931943] Thea_plays200        (   85.9,     6.9,   272.8)
+  afk
+2023-02-11T07:10:42Z: PLAYER ADDED   [ 3067161697] Azariah06_Aza        a.k.a. Halland             
+2023-02-11T07:10:42Z: PLAYER ADDED   [ 4134495654] siddhart_12121      
+2023-02-11T07:10:42Z: PLAYER ADDED   [ 4144158014] RubyJackiePoppy     
+2023-02-11T07:11:08Z: PLAYER ADDED   [ 4169317856] LUCADI5114          
+2023-02-11T07:11:08Z: PLAYER ADDED   [ 3900044565] EmiGor20             a.k.a. Dancingdog3         
+2023-02-11T07:11:11Z: CHRCTER ADDED  [ 3900044565] EmiGor20             a.k.a. Dancingdog3         
+2023-02-11T07:11:12Z: CHRCTER ADDED  [ 4169317856] LUCADI5114          
+2023-02-11T07:11:12Z: CHRCTER ADDED  [ 4169317856] LUCADI5114          
+2023-02-11T07:11:12Z: CHRCTER ADDED  [ 3900044565] EmiGor20             a.k.a. Dancingdog3         
+2023-02-11T07:11:12Z: PLAYER ADDED   [ 2500842764] Fira_imani2324       a.k.a. CozyyAutumnn        
+2023-02-11T07:11:12Z: PLAYER ADDED   [ 3728696598] fidiasyes            a.k.a. rthro               
+2023-02-11T07:11:13Z: PLAYER REMOVED [ 3061523037] christinio1         
+2023-02-11T07:11:14Z: PLAYER REMOVED [ 4265656424] ccvtia               a.k.a. rae                 
+2023-02-11T07:11:20Z: PLAYER REMOVED [  695722442] 2410Emen             a.k.a. IIgliches           
+2023-02-11T07:11:27Z: PLAYER ADDED   [ 4010377441] Lubie_placki5e       a.k.a. UwU                 
+2023-02-11T07:11:32Z: PLAYER REMOVED [ 4169317856] LUCADI5114          
+2023-02-11T07:11:37Z: PLAYER REMOVED [ 3006665234] pillow123forsis     
+2023-02-11T07:11:47Z: CHRCTER ADDED  [ 1726203100] sbhsbhsbh1           a.k.a. roni                
+2023-02-11T07:12:00Z: PLAYER CHATTED [ 3770414138] PixieSparklexox      (    4.4,     8.8,   174.0)
+  Hello
+2023-02-11T07:12:05Z: PLAYER ADDED   [ 4018629628] Halloooo938          a.k.a. Helloooo938         
+2023-02-11T07:12:08Z: PLAYER REMOVED [ 2774302538] oVo_self             a.k.a. kay                 
+2023-02-11T07:12:13Z: PLAYER CHATTED [ 3770414138] PixieSparklexox      (    3.9,     6.9,   171.7)
+  May I see ur I’d
+2023-02-11T07:12:18Z: PLAYER REMOVED [ 4245205557] davidywka2014       
+2023-02-11T07:12:26Z: PLAYER ADDED   [ 3780323302] Cookeies1523        
+2023-02-11T07:12:27Z: PLAYER ADDED   [ 2851608165] noitanoa_6          
+2023-02-11T07:12:36Z: PLAYER ADDED   [ 4188946654] mzaid0207           
+2023-02-11T07:12:37Z: PLAYER ADDED   [ 2851898964] estely06            
+2023-02-11T07:12:50Z: CHRCTER ADDED  [ 2336786499] floraachann          a.k.a. Muni                
+2023-02-11T07:12:56Z: PLAYER ADDED   [  403786136] bbbruno2009          a.k.a. Brosky              
+2023-02-11T07:12:57Z: PLAYER REMOVED [ 4018629628] Halloooo938          a.k.a. Helloooo938         
+2023-02-11T07:12:58Z: PLAYER REMOVED [ 2851898964] estely06            
+2023-02-11T07:13:02Z: PLAYER ADDED   [   21785323] rx_lxve             
+2023-02-11T07:13:02Z: PLAYER ADDED   [  755626401] JanX946              a.k.a. ILOVESPIDERMAN      
+2023-02-11T07:13:03Z: PLAYER CHATTED [ 3770414138] PixieSparklexox      (    0.9,     6.9,   171.8)
+  Hi
+2023-02-11T07:13:14Z: PLAYER ADDED   [ 4063473590] hanul0727           
+2023-02-11T07:13:14Z: PLAYER CHATTED [ 3770414138] PixieSparklexox      (    0.9,     6.9,   171.8)
+  How do I open a till
+2023-02-11T07:13:20Z: PLAYER ADDED   [ 2863629636] vividoingthings     
+2023-02-11T07:13:20Z: PLAYER REMOVED [ 4280386918] petopalkomisko      
+2023-02-11T07:13:20Z: PLAYER ADDED   [ 2851898964] estely06            
+2023-02-11T07:13:22Z: PLAYER REMOVED [ 1574498521] SanayaGamesRules    
+2023-02-11T07:13:26Z: PLAYER ADDED   [ 4280386918] petopalkomisko      
+2023-02-11T07:13:29Z: PLAYER CHATTED [  606371157] zenzen888            (   -7.6,     6.9,   166.5)
+  Your not a worker here.
+2023-02-11T07:13:36Z: PLAYER ADDED   [  695722442] 2410Emen             a.k.a. IIgliches           
+2023-02-11T07:13:42Z: PLAYER CHATTED [ 3770414138] PixieSparklexox      (   -5.4,     6.9,   166.5)
+  I’m a trainee
+2023-02-11T07:13:43Z: PLAYER ADDED   [  394292832] killersanderest      a.k.a. sander              
+2023-02-11T07:13:44Z: PLAYER ADDED   [  757294384] ABan2014            
+2023-02-11T07:13:53Z: PLAYER CHATTED [  606371157] zenzen888            (   -7.6,     6.9,   166.5)
+  Yeh, but you can’t do works yet.
+2023-02-11T07:13:58Z: PLAYER REMOVED [  695722442] 2410Emen             a.k.a. IIgliches           
+2023-02-11T07:14:02Z: PLAYER CHATTED [  606371157] zenzen888            (   -7.6,     6.9,   166.5)
+  You have to join trainings.
+2023-02-11T07:14:03Z: PLAYER CHATTED [ 3770414138] PixieSparklexox      (   -5.4,     6.9,   166.5)
+  What do I do
+2023-02-11T07:14:13Z: PLAYER CHATTED [ 3770414138] PixieSparklexox      (   -5.4,     6.9,   166.5)
+  To do that
+2023-02-11T07:14:13Z: PLAYER REMOVED [ 2336786499] floraachann          a.k.a. Muni                
+2023-02-11T07:14:20Z: PLAYER CHATTED [  606371157] zenzen888            (    0.9,     6.9,   170.7)
+  To be able to work.
+2023-02-11T07:14:21Z: PLAYER ADDED   [ 2812368507] Justyncars          
+2023-02-11T07:14:24Z: PLAYER REMOVED [ 4144158014] RubyJackiePoppy     
+2023-02-11T07:14:26Z: PLAYER REMOVED [  923843325] WonderHippoo         a.k.a. ems                 
+2023-02-11T07:14:29Z: PLAYER CHATTED [ 3770414138] PixieSparklexox      (   10.0,     6.9,   165.6)
+  How
+2023-02-11T07:14:31Z: PLAYER CHATTED [ 3770414138] PixieSparklexox      (   10.0,     6.9,   165.6)
+  How
+2023-02-11T07:14:31Z: CHRCTER ADDED  [ 1726203100] sbhsbhsbh1           a.k.a. roni                
+2023-02-11T07:14:47Z: PLAYER ADDED   [ 3760957260] airacuteie          
+2023-02-11T07:14:50Z: PLAYER CHATTED [  606371157] zenzen888            (   15.5,     6.9,   173.4)
+  Look at schedules.
+2023-02-11T07:14:51Z: PLAYER ADDED   [ 1374698191] LinaLove001          a.k.a. pinkbear            
+2023-02-11T07:14:51Z: PLAYER REMOVED [ 2741264637] Ahmad_162017        
+2023-02-11T07:14:51Z: PLAYER REMOVED [ 3067161697] Azariah06_Aza        a.k.a. Halland             
+2023-02-11T07:14:55Z: PLAYER REMOVED [ 3770414138] PixieSparklexox      a.k.a. HEARTSFORREX        
+2023-02-11T07:14:55Z: PLAYER CHATTED [  403786136] bbbruno2009          (   21.9,     6.9,   167.4)
+  Hello, Welcome to LIdlBlox! May I see some ID?
+2023-02-11T07:14:58Z: PLAYER ADDED   [  414794044] Preammy299290        a.k.a. Preammy             
+2023-02-11T07:15:03Z: PLAYER REMOVED [ 3900044565] EmiGor20             a.k.a. Dancingdog3         
+2023-02-11T07:15:03Z: PLAYER ADDED   [ 3859924598] mango274842         
+2023-02-11T07:15:05Z: PLAYER CHATTED [  403786136] bbbruno2009          (   21.5,     6.9,   170.7)
+  Move.
+2023-02-11T07:15:05Z: PLAYER ADDED   [ 3384719657] Obvidolores          a.k.a. QuIrKyLaLa          
+2023-02-11T07:15:29Z: PLAYER ADDED   [ 3770414138] PixieSparklexox      a.k.a. HEARTSFORREX        
+2023-02-11T07:15:34Z: PLAYER CHATTED [  606371157] zenzen888            (   -4.7,     6.9,   170.2)
+  May I see some ID please? (Debit or club card.)
+2023-02-11T07:15:35Z: PLAYER CHATTED [  606371157] zenzen888            (   -4.7,     6.9,   170.2)
+  May I see some ID please? (Debit or club card.)
+2023-02-11T07:15:38Z: PLAYER ADDED   [ 3597054284] Adulkalolbestilena   a.k.a. adulkalolbestizuzia3
+2023-02-11T07:15:42Z: PLAYER REMOVED [ 3728696598] fidiasyes            a.k.a. rthro               
+2023-02-11T07:15:44Z: PLAYER CHATTED [   52797134] fasiondiva12345      (  -11.4,     6.9,   168.9)
+  Oh
+2023-02-11T07:15:47Z: PLAYER CHATTED [   52797134] fasiondiva12345      (  -11.4,     6.9,   168.9)
+  sure, *shows*
+2023-02-11T07:15:47Z: PLAYER CHATTED [ 1355219923] SavJ1608             (   -1.7,     6.9,   168.1)
+  Miss
+2023-02-11T07:15:50Z: PLAYER ADDED   [  932305453] itsme_vale09         a.k.a. kai                 
+2023-02-11T07:15:52Z: PLAYER CHATTED [  606371157] zenzen888            (   -8.4,     6.9,   165.4)
+  Thx.
+2023-02-11T07:15:53Z: PLAYER CHATTED [  606371157] zenzen888            (   -8.4,     6.9,   165.4)
+  Thx.
+2023-02-11T07:15:55Z: PLAYER CHATTED [   52797134] fasiondiva12345      (  -11.4,     6.9,   168.9)
+  :)
+2023-02-11T07:16:06Z: PLAYER CHATTED [ 1355219923] SavJ1608             (   18.9,     6.9,   169.6)
+  How can I work here.
+2023-02-11T07:16:08Z: PLAYER ADDED   [ 2741264637] Ahmad_162017        
+2023-02-11T07:16:11Z: PLAYER CHATTED [ 1355219923] SavJ1608             (   18.9,     6.9,   169.6)
+  This so fun
+2023-02-11T07:16:11Z: PLAYER REMOVED [  559954465] IsaiahGamesRules     a.k.a. Vampire             
+2023-02-11T07:16:14Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-02-11T07:16:14Z: PLAYER REMOVED [ 1355219923] SavJ1608            
+2023-02-11T07:16:14Z: PLAYER REMOVED [ 1748788834] nikziyad             a.k.a. Nik                 
+2023-02-11T07:16:14Z: PLAYER REMOVED [ 4007172160] yrycitrygirf        
+2023-02-11T07:16:14Z: PLAYER REMOVED [ 2710931943] Thea_plays200        a.k.a. OhGawdElija         
+2023-02-11T07:16:14Z: PLAYER REMOVED [  606371157] zenzen888            a.k.a. Not_Sianna          
+2023-02-11T07:16:14Z: PLAYER REMOVED [ 1726203100] sbhsbhsbh1           a.k.a. roni                
+2023-02-11T07:16:14Z: PLAYER REMOVED [   52797134] fasiondiva12345      a.k.a. Quiche              
+2023-02-11T07:16:14Z: PLAYER REMOVED [ 2439754106] miasaraaleesya       a.k.a. Princess            
+2023-02-11T07:16:14Z: PLAYER REMOVED [ 4134495654] siddhart_12121      
+2023-02-11T07:16:14Z: PLAYER REMOVED [ 2500842764] Fira_imani2324       a.k.a. CozyyAutumnn        
+2023-02-11T07:16:14Z: PLAYER REMOVED [ 4010377441] Lubie_placki5e       a.k.a. UwU                 
+2023-02-11T07:16:14Z: PLAYER REMOVED [ 3780323302] Cookeies1523        
+2023-02-11T07:16:14Z: PLAYER REMOVED [ 2851608165] noitanoa_6          
+2023-02-11T07:16:14Z: PLAYER REMOVED [ 4188946654] mzaid0207           
+2023-02-11T07:16:14Z: PLAYER REMOVED [  403786136] bbbruno2009          a.k.a. Brosky              
+2023-02-11T07:16:14Z: PLAYER REMOVED [   21785323] rx_lxve             
+2023-02-11T07:16:14Z: PLAYER REMOVED [  755626401] JanX946              a.k.a. ILOVESPIDERMAN      
+2023-02-11T07:16:14Z: PLAYER REMOVED [ 4063473590] hanul0727           
+2023-02-11T07:16:14Z: PLAYER REMOVED [ 2863629636] vividoingthings     
+2023-02-11T07:16:14Z: PLAYER REMOVED [ 2851898964] estely06            
+2023-02-11T07:16:14Z: PLAYER REMOVED [ 4280386918] petopalkomisko      

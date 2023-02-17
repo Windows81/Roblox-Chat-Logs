@@ -1,0 +1,34 @@
+[    1630228] : [ 4794911592] The Kubla Khan Las Vegas • Hotel Showcase, W.I.P. - eab9d4f9-a133-4356-904a-de6b9a308d8a
+2023-02-10T06:00:28Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-02-10T06:00:28Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-02-10T06:00:28Z: PLAYER ADDED   [  141734322] Aiffi11             
+2023-02-10T06:00:28Z: PLAYER ADDED   [ 1774820760] fafafarouq           a.k.a. SANS                
+2023-02-10T06:01:50Z: PLAYER REMOVED [  141734322] Aiffi11             
+2023-02-10T06:03:16Z: PLAYER CHATTED [ 1774820760] fafafarouq           (  153.6,   226.5,   163.3)
+  hello
+2023-02-10T06:03:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (   38.1,    92.0,    36.3)
+  What brings you in?
+2023-02-10T06:05:12Z: PLAYER CHATTED [ 1774820760] fafafarouq           (  273.6,   226.5,   140.0)
+  with favorites
+2023-02-10T06:05:34Z: PLAYER CHATTED [    1630228] VisualPlugin         (   36.4,    92.2,    31.1)
+  I see.
+2023-02-10T06:05:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (   32.8,    92.0,    35.3)
+  I've noticed you here before.
+2023-02-10T06:05:54Z: PLAYER CHATTED [ 1774820760] fafafarouq           (  303.1,   227.8,   133.1)
+  yesa
+2023-02-10T06:06:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (   32.8,    92.0,    35.3)
+  How'd you find my game the first time?
+2023-02-10T06:06:25Z: PLAYER CHATTED [ 1774820760] fafafarouq           (  313.2,   226.5,   135.6)
+  uh
+2023-02-10T06:07:44Z: PLAYER CHATTED [ 1774820760] fafafarouq           (  313.2,   226.5,   135.5)
+  *recommand *or with search*
+2023-02-10T06:08:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (   32.0,    92.6,    24.1)
+  My game isn't very popular though.
+2023-02-10T06:08:33Z: PLAYER CHATTED [ 1774820760] fafafarouq           (  311.2,   226.5,   139.7)
+  search
+2023-02-10T06:08:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (   32.0,    92.6,    24.1)
+  What were the search terms?
+2023-02-10T06:13:31Z: PLAYER CHATTED [ 1774820760] fafafarouq           (  278.4,   226.5,   141.0)
+  idk
+2023-02-10T06:17:16Z: PLAYER REMOVED [ 1774820760] fafafarouq           a.k.a. SANS                
+2023-02-10T06:17:26Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

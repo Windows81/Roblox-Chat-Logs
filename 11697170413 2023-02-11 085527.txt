@@ -1,0 +1,397 @@
+[    1630228] : [11697170413] Concert Dressing Room - 0798579a-d3a1-4afa-80b4-01f412c4f3f6
+2023-02-11T08:55:27Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-02-11T08:55:27Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-02-11T08:55:27Z: PLAYER ADDED   [ 3352205490] Devs_II              a.k.a. Devs                
+2023-02-11T08:55:27Z: PLAYER ADDED   [ 1984786476] fehint16            
+2023-02-11T08:55:27Z: PLAYER ADDED   [ 1923173034] 1Aprilfoolsss        a.k.a. MID                 
+2023-02-11T08:55:27Z: PLAYER ADDED   [ 4289154044] CLALRRLA            
+2023-02-11T08:55:27Z: PLAYER ADDED   [ 1537945441] trilikoni            a.k.a. KeepLooking         
+2023-02-11T08:55:27Z: PLAYER ADDED   [ 3292564632] Maiahhh_24           a.k.a. MAR                 
+2023-02-11T08:55:27Z: PLAYER ADDED   [ 2510917884] Draco_1427           a.k.a. idk                 
+2023-02-11T08:55:27Z: PLAYER ADDED   [ 3020355748] itzprooo1            a.k.a. BetterCallTom       
+2023-02-11T08:55:27Z: PLAYER ADDED   [ 3728376560] urcookiecatstink     a.k.a. Aj_cookiecat        
+2023-02-11T08:55:27Z: PLAYER ADDED   [ 3768862573] fgirl_134            a.k.a. jane_alone          
+2023-02-11T08:55:27Z: PLAYER ADDED   [ 1840743488] enderboy7989         a.k.a. EMO_jessa           
+2023-02-11T08:55:27Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -388.5,   852.7,  -421.5)
+  huh-
+2023-02-11T08:55:34Z: PLAYER ADDED   [  775712302] 22kCxtie             a.k.a. emma                
+2023-02-11T08:55:48Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -387.9,   852.5,  -417.1)
+  jane this is free item
+2023-02-11T08:55:49Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -390.8,   852.7,  -419.0)
+  NOW NOW WHAT WE DOING HERE I DUNNU HOW TO PLAY-
+2023-02-11T08:55:53Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -390.8,   852.7,  -419.0)
+  where-
+2023-02-11T08:55:59Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -390.8,   852.7,  -419.0)
+  what we doing here-
+2023-02-11T08:56:02Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -390.8,   852.7,  -419.0)
+  WHAT
+2023-02-11T08:56:17Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -390.8,   852.7,  -419.0)
+  ooo make up
+2023-02-11T08:56:30Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -391.2,   852.5,  -416.6)
+  j
+2023-02-11T08:56:35Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -389.0,   852.7,  -420.6)
+  WHAT
+2023-02-11T08:56:39Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -389.0,   852.7,  -420.6)
+  tell me what to do
+2023-02-11T08:56:41Z: PLAYER REMOVED [ 3292564632] Maiahhh_24           a.k.a. MAR                 
+2023-02-11T08:56:42Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -392.3,   852.5,  -417.1)
+  dont quit
+2023-02-11T08:56:46Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -389.0,   852.7,  -420.9)
+  IK
+2023-02-11T08:56:54Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -388.7,   852.7,  -429.7)
+  tell me what  to do
+2023-02-11T08:56:54Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -388.7,   852.7,  -429.7)
+  tell me what to do
+2023-02-11T08:56:59Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -355.5,   852.7,  -420.8)
+  idk how
+2023-02-11T08:57:19Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -373.2,   852.9,  -414.3)
+  oh 2 mins
+2023-02-11T08:57:29Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -365.8,   852.5,  -414.3)
+  come
+2023-02-11T08:57:36Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -348.3,   852.5,  -431.2)
+  get away
+2023-02-11T08:57:38Z: PLAYER CHATTED [ 1923173034] 1Aprilfoolsss        ( -380.7,   852.8,  -409.7)
+  SKAY if
+2023-02-11T08:57:39Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -352.6,   852.5,  -427.7)
+  jane
+2023-02-11T08:57:44Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -361.8,   852.5,  -418.2)
+  jane come
+2023-02-11T08:57:46Z: PLAYER REMOVED [ 3352205490] Devs_II              a.k.a. Devs                
+2023-02-11T08:57:46Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -364.2,   852.5,  -418.3)
+  ugh
+2023-02-11T08:57:50Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -366.6,   852.6,  -418.3)
+  ####
+2023-02-11T08:57:51Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -374.8,   853.0,  -414.0)
+  wut
+2023-02-11T08:57:53Z: PLAYER ADDED   [ 1484359296] EsmatQadija         
+2023-02-11T08:57:54Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -367.9,   852.8,  -421.2)
+  DA GC
+2023-02-11T08:57:56Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -348.7,   852.5,  -430.1)
+  #########
+2023-02-11T08:57:59Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -348.7,   852.5,  -430.1)
+  see that
+2023-02-11T08:58:03Z: PLAYER REMOVED [  775712302] 22kCxtie             a.k.a. emma                
+2023-02-11T08:58:03Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -345.7,   852.6,  -430.6)
+  wut
+2023-02-11T08:58:10Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -349.8,   852.5,  -432.7)
+  get 6 letters to get this wings
+2023-02-11T08:58:16Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -349.8,   852.5,  -432.7)
+  wee
+2023-02-11T08:58:20Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -347.7,   852.6,  -431.1)
+  ooh
+2023-02-11T08:58:27Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -349.8,   852.5,  -432.7)
+  is it cool wings
+2023-02-11T08:58:29Z: PLAYER CHATTED [ 4289154044] CLALRRLA             ( -376.3,   852.9,  -409.1)
+  1 onee
+2023-02-11T08:58:29Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -347.7,   852.6,  -431.1)
+  is not excited
+2023-02-11T08:58:32Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -347.7,   852.6,  -431.1)
+  BUT OK
+2023-02-11T08:58:33Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -349.8,   852.5,  -432.7)
+  why
+2023-02-11T08:58:39Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -347.7,   852.6,  -431.1)
+  sounds fun tho
+2023-02-11T08:58:42Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -349.8,   852.5,  -432.7)
+  i got this hair
+2023-02-11T08:58:51Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -347.1,   852.6,  -407.3)
+  oo-
+2023-02-11T08:58:52Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -347.0,   852.6,  -407.4)
+  nice
+2023-02-11T08:58:56Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -343.4,   852.5,  -408.3)
+  and this
+2023-02-11T08:59:03Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -347.8,   852.5,  -405.9)
+  just finish the concert
+2023-02-11T08:59:04Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -345.5,   852.6,  -408.9)
+  men
+2023-02-11T08:59:04Z: PLAYER ADDED   [ 3928859179] Nikhil_champion      a.k.a. Shadow_Demon        
+2023-02-11T08:59:07Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -345.5,   852.6,  -408.9)
+  ur friend
+2023-02-11T08:59:10Z: PLAYER CHATTED [ 1923173034] 1Aprilfoolsss        ( -352.8,   852.7,  -418.0)
+  How long is the concert
+2023-02-11T08:59:11Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -345.5,   852.6,  -408.9)
+  in gc
+2023-02-11T08:59:16Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -345.5,   852.6,  -408.9)
+  i said i have a name-
+2023-02-11T08:59:31Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -345.5,   852.6,  -408.9)
+  nvm is ggoood
+2023-02-11T08:59:34Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -348.5,   852.5,  -406.9)
+  no
+2023-02-11T08:59:34Z: PLAYER CHATTED [ 3728376560] urcookiecatstink     ( -360.4,   854.4,  -416.3)
+  5hrs
+2023-02-11T08:59:39Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -347.3,   852.5,  -406.5)
+  bitsin
+2023-02-11T08:59:42Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -346.8,   852.5,  -407.0)
+  bitsin ka
+2023-02-11T08:59:44Z: PLAYER CHATTED [ 3728376560] urcookiecatstink     ( -356.6,   854.4,  -417.7)
+  JK
+2023-02-11T08:59:47Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -346.8,   852.5,  -407.0)
+  thats my friend
+2023-02-11T08:59:51Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -345.5,   852.6,  -408.9)
+  ik
+2023-02-11T08:59:51Z: PLAYER CHATTED [ 1923173034] 1Aprilfoolsss        ( -352.8,   852.7,  -418.0)
+  ✈️✈️✈️
+2023-02-11T08:59:53Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -346.8,   852.5,  -407.0)
+  thats babaero
+2023-02-11T08:59:58Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -345.2,   852.6,  -409.3)
+  kk
+2023-02-11T09:00:01Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -345.2,   852.5,  -406.6)
+  yeah
+2023-02-11T09:00:02Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -345.2,   852.6,  -409.3)
+  anyways
+2023-02-11T09:00:07Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -387.6,   852.7,  -408.3)
+  oooo excited
+2023-02-11T09:00:09Z: PLAYER CHATTED [ 4289154044] CLALRRLA             ( -365.9,   852.8,  -407.7)
+  ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo ooooooooooooooooooooooooooooooooooooooooooo ooooooooooooooooooooooooooooooooooooooooooo oooooooooooooooo
+2023-02-11T09:00:12Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -381.3,   852.8,  -413.1)
+  eh-
+2023-02-11T09:00:15Z: PLAYER CHATTED [ 1923173034] 1Aprilfoolsss        ( -407.0,   852.7,  -426.3)
+  BYE WHY SHE FLOATING
+2023-02-11T09:00:19Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -379.3,   852.8,  -417.5)
+  wow your ugly
+2023-02-11T09:00:19Z: PLAYER CHATTED [ 3020355748] itzprooo1            ( -392.9,   852.8,  -418.5)
+  lessssgooooo
+2023-02-11T09:00:22Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -381.5,   852.8,  -413.4)
+  who da hell is this-
+2023-02-11T09:00:24Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -381.5,   852.8,  -413.4)
+  ooh-
+2023-02-11T09:00:27Z: PLAYER CHATTED [ 1537945441] trilikoni            ( -375.3,   853.1,  -422.3)
+  roblox in 2030 be like
+2023-02-11T09:00:27Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -381.5,   852.8,  -413.4)
+  .
+2023-02-11T09:00:31Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -381.7,   852.8,  -413.9)
+  .
+2023-02-11T09:00:32Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -380.1,   852.6,  -414.4)
+  idk
+2023-02-11T09:00:35Z: PLAYER ADDED   [ 3473835304] RIODIN32             a.k.a. SOLDIER1220         
+2023-02-11T09:00:35Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -381.8,   852.8,  -414.2)
+  ohio?
+2023-02-11T09:00:42Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -380.1,   852.6,  -414.4)
+  puh puh
+2023-02-11T09:00:44Z: PLAYER CHATTED [ 4289154044] CLALRRLA             ( -373.7,   853.0,  -413.6)
+  yes
+2023-02-11T09:00:45Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -381.8,   852.8,  -414.2)
+  ARE WE ON OHIO-
+2023-02-11T09:00:51Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -379.3,   852.8,  -418.0)
+  no
+2023-02-11T09:00:55Z: PLAYER CHATTED [ 3020355748] itzprooo1            ( -382.9,   852.9,  -413.0)
+  OMG
+2023-02-11T09:00:55Z: PLAYER CHATTED [ 3728376560] urcookiecatstink     ( -379.6,   854.4,  -408.7)
+  the timer eneded
+2023-02-11T09:00:57Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -381.8,   852.8,  -414.2)
+  i dontunder-
+2023-02-11T09:00:58Z: PLAYER CHATTED [ 3020355748] itzprooo1            ( -382.9,   840.4,  -407.6)
+  SHE JUMPED
+2023-02-11T09:00:59Z: PLAYER CHATTED [ 3728376560] urcookiecatstink     ( -379.6,   854.4,  -408.7)
+  ended
+2023-02-11T09:00:59Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -383.9,    90.5,   -81.8)
+  OOOOOOOOOOOOO
+2023-02-11T09:01:00Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -383.9,    83.9,   -81.8)
+  WOW
+2023-02-11T09:01:03Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -383.9,    83.9,   -81.8)
+  OM-
+2023-02-11T09:01:05Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -383.9,    83.9,   -81.5)
+  BRI
+2023-02-11T09:01:06Z: PLAYER CHATTED [ 1537945441] trilikoni            ( -383.9,    84.0,   -81.8)
+  no fall damage?
+2023-02-11T09:01:08Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -387.8,    83.9,   -49.7)
+  AAAA
+2023-02-11T09:01:10Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -379.1,    83.9,   -29.2)
+  ####
+2023-02-11T09:01:12Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -368.6,    83.9,   -42.2)
+  #####
+2023-02-11T09:01:18Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -360.1,    83.9,   -54.3)
+  OHIO GURL
+2023-02-11T09:01:22Z: PLAYER CHATTED [ 3728376560] urcookiecatstink     ( -376.2,   854.5,  -416.1)
+  it didn’t teleport 
+2023-02-11T09:01:28Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -360.2,    83.7,   -53.9)
+  yea
+2023-02-11T09:01:32Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -356.8,    83.7,   -60.5)
+  #####
+2023-02-11T09:01:33Z: PLAYER CHATTED [ 3473835304] RIODIN32             ( -383.9,    83.9,   -81.8)
+  hollala
+2023-02-11T09:01:33Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -362.7,    83.9,   -54.0)
+  stop dacing-
+2023-02-11T09:01:39Z: PLAYER CHATTED [ 3728376560] urcookiecatstink     ( -382.6,   854.7,  -419.1)
+  is a toned teleported
+2023-02-11T09:01:42Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -352.6,    83.7,   -63.7)
+  there my friend
+2023-02-11T09:01:43Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -353.6,    83.9,   -83.9)
+  I MEAN
+2023-02-11T09:01:44Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -356.2,    83.7,   -74.9)
+  come
+2023-02-11T09:01:45Z: CHRCTER ADDED  [ 3728376560] urcookiecatstink     a.k.a. Aj_cookiecat        
+2023-02-11T09:01:48Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -353.6,    83.9,   -83.9)
+  IS PRETTY SLAY'
+2023-02-11T09:01:49Z: PLAYER CHATTED [ 3473835304] RIODIN32             ( -383.9,    83.7,   -81.8)
+  hi karenw
+2023-02-11T09:01:56Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -377.9,    83.9,   -86.0)
+  oh hell nah how-
+2023-02-11T09:01:57Z: PLAYER CHATTED [ 3020355748] itzprooo1            ( -361.3,    84.0,   -95.4)
+  lol
+2023-02-11T09:01:58Z: PLAYER CHATTED [ 3728376560] urcookiecatstink     ( -374.8,   854.4,  -408.6)
+  is anyone teleported
+2023-02-11T09:02:01Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -383.2,    83.7,   -87.9)
+  is that the one you chattin
+2023-02-11T09:02:02Z: PLAYER CHATTED [ 3020355748] itzprooo1            ( -361.3,    84.0,   -95.4)
+  ####
+2023-02-11T09:02:03Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -366.8,    83.9,   -79.3)
+  AAAAA
+2023-02-11T09:02:06Z: PLAYER CHATTED [ 3473835304] RIODIN32             ( -383.3,    83.7,   -71.7)
+  how karen
+2023-02-11T09:02:14Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -356.7,    83.9,   -74.7)
+  is da babereo
+2023-02-11T09:02:16Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -355.9,    83.7,   -79.0)
+  bitsin
+2023-02-11T09:02:17Z: PLAYER CHATTED [ 3728376560] urcookiecatstink     ( -374.6,   854.5,  -411.2)
+  is anyone teleported 
+2023-02-11T09:02:18Z: PLAYER CHATTED [ 3473835304] RIODIN32             ( -361.8,    83.7,   -68.4)
+  ###########
+2023-02-11T09:02:18Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -360.0,    83.7,   -78.2)
+  animal
+2023-02-11T09:02:19Z: PLAYER CHATTED [ 3020355748] itzprooo1            ( -373.6,    84.0,   -91.0)
+  omgggg
+2023-02-11T09:02:21Z: PLAYER CHATTED [ 3020355748] itzprooo1            ( -373.6,    84.0,   -91.0)
+  cake
+2023-02-11T09:02:25Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -372.1,    83.7,   -69.0)
+  oo
+2023-02-11T09:02:25Z: PLAYER CHATTED [ 3473835304] RIODIN32             ( -361.8,    83.7,   -68.4)
+  shut
+2023-02-11T09:02:28Z: PLAYER CHATTED [ 3473835304] RIODIN32             ( -364.9,    83.7,   -64.3)
+  up
+2023-02-11T09:02:28Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -363.9,    83.7,   -64.1)
+  yawa saba
+2023-02-11T09:02:33Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -351.5,    83.9,   -44.1)
+  i dont ####
+2023-02-11T09:02:34Z: PLAYER CHATTED [ 3473835304] RIODIN32             ( -336.8,    83.7,   -54.4)
+  ####
+2023-02-11T09:02:34Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -351.5,    83.9,   -44.1)
+  i[
+2023-02-11T09:02:35Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -342.9,    83.7,   -52.1)
+  bitsin
+2023-02-11T09:02:41Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -363.3,    83.9,   -42.5)
+  wweee
+2023-02-11T09:02:44Z: PLAYER CHATTED [ 3473835304] RIODIN32             ( -348.5,    83.7,   -64.6)
+  ########
+2023-02-11T09:02:45Z: PLAYER CHATTED [ 1923173034] 1Aprilfoolsss        ( -380.8,    83.9,   -67.7)
+  Soayyy
+2023-02-11T09:02:45Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -380.7,    83.7,   -57.4)
+  bilat nimo\
+2023-02-11T09:02:45Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -383.9,    83.9,   -64.5)
+  more
+2023-02-11T09:02:48Z: PLAYER CHATTED [ 1923173034] 1Aprilfoolsss        ( -383.4,    83.9,   -69.4)
+  Slayay 
+2023-02-11T09:02:49Z: PLAYER CHATTED [ 3020355748] itzprooo1            ( -365.4,    84.0,   -43.7)
+  goffy aah dance
+2023-02-11T09:02:54Z: CHRCTER ADDED  [ 3728376560] urcookiecatstink     a.k.a. Aj_cookiecat        
+2023-02-11T09:02:55Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -379.2,    83.9,   -76.6)
+  slay
+2023-02-11T09:03:00Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -387.6,    83.7,   -74.4)
+  ;ay ang bilat
+2023-02-11T09:03:01Z: CHRCTER ADDED  [ 3728376560] urcookiecatstink     a.k.a. Aj_cookiecat        
+2023-02-11T09:03:04Z: PLAYER CHATTED [ 3473835304] RIODIN32             ( -351.8,    83.7,   -49.0)
+  bro gravity in ####
+2023-02-11T09:03:05Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -393.1,    83.7,   -80.3)
+  #### ### #####
+2023-02-11T09:03:12Z: PLAYER CHATTED [ 3473835304] RIODIN32             ( -385.8,    83.7,   -29.6)
+  karen
+2023-02-11T09:03:13Z: PLAYER CHATTED [ 1537945441] trilikoni            ( -386.1,    84.0,   -59.2)
+  uh
+2023-02-11T09:03:13Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -387.8,   137.4,   -23.6)
+  ooooooo
+2023-02-11T09:03:13Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -403.1,    83.7,   -46.0)
+  slay ohio girl
+2023-02-11T09:03:22Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -387.6,    84.8,   -24.7)
+  nah my hair is noodleds
+2023-02-11T09:03:24Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -425.8,    75.4,  -255.1)
+  nah my hair is noodleds
+2023-02-11T09:03:30Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -425.8,    75.4,  -255.1)
+  noodles
+2023-02-11T09:03:36Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -425.8,    75.4,  -255.1)
+  ;O
+2023-02-11T09:03:36Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -425.8,    75.4,  -255.1)
+  ;O
+2023-02-11T09:03:45Z: PLAYER CHATTED [ 3473835304] RIODIN32             ( -377.4,    75.2,    95.9)
+  cam i ###
+2023-02-11T09:03:45Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -425.8,    75.4,  -255.1)
+  ooh nah
+2023-02-11T09:03:52Z: PLAYER CHATTED [ 3473835304] RIODIN32             ( -377.4,    75.2,    95.9)
+  eat
+2023-02-11T09:03:54Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -424.0,    75.4,  -243.3)
+  na-na-nah
+2023-02-11T09:04:08Z: PLAYER CHATTED [ 3473835304] RIODIN32             ( -433.1,    75.2,   114.5)
+  bro just call superman
+2023-02-11T09:04:10Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -361.4,    75.2,   -45.0)
+  jane
+2023-02-11T09:04:13Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -377.9,    75.2,   -84.3)
+  jane
+2023-02-11T09:04:18Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -386.3,    75.2,  -103.5)
+  how much word you have now
+2023-02-11T09:04:19Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -384.5,    75.2,  -109.2)
+  how much word you have now
+2023-02-11T09:04:25Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -380.9,   103.8,   -24.3)
+  ONLY ONE
+2023-02-11T09:04:25Z: PLAYER CHATTED [ 3473835304] RIODIN32             ( -352.6,    75.2,   -22.1)
+  oh im #####
+2023-02-11T09:04:32Z: PLAYER CHATTED [ 3473835304] RIODIN32             ( -388.5,    75.2,   -80.4)
+  a god
+2023-02-11T09:04:37Z: CHRCTER ADDED  [ 3728376560] urcookiecatstink     a.k.a. Aj_cookiecat        
+2023-02-11T09:04:49Z: PLAYER CHATTED [ 3473835304] RIODIN32             ( -401.5,    75.2,   -92.4)
+  i can walk in water
+2023-02-11T09:04:53Z: PLAYER CHATTED [ 3020355748] itzprooo1            ( -400.4,    75.5,   -36.8)
+  how much yall need
+2023-02-11T09:05:04Z: PLAYER CHATTED [ 3020355748] itzprooo1            ( -407.7,    75.5,  -157.8)
+  omg je "sus"
+2023-02-11T09:05:38Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -499.2,   107.8,  -332.4)
+  i need 6 letters?
+2023-02-11T09:05:44Z: PLAYER CHATTED [ 3020355748] itzprooo1            ( -553.4,    75.5,   -54.4)
+  i need one
+2023-02-11T09:05:55Z: PLAYER CHATTED [ 3768862573] fgirl_134            (-1681.4,   254.0,    57.2)
+  ###
+2023-02-11T09:05:58Z: PLAYER CHATTED [ 3768862573] fgirl_134            (-1681.4,   254.0,    57.2)
+  ####
+2023-02-11T09:06:15Z: PLAYER CHATTED [ 3768862573] fgirl_134            (-1681.4,   254.0,    57.2)
+  is this gurl sining-
+2023-02-11T09:06:19Z: PLAYER CHATTED [ 3768862573] fgirl_134            (-1681.4,   254.0,    57.2)
+  singing
+2023-02-11T09:06:41Z: PLAYER CHATTED [ 3020355748] itzprooo1            (-1529.2,   205.3,   293.9)
+  yep
+2023-02-11T09:06:44Z: CHRCTER ADDED  [ 3728376560] urcookiecatstink     a.k.a. Aj_cookiecat        
+2023-02-11T09:06:45Z: PLAYER CHATTED [ 3768862573] fgirl_134            (-1400.7,   199.1,   234.7)
+  hi
+2023-02-11T09:06:59Z: PLAYER CHATTED [ 3020355748] itzprooo1            (-1595.6,   199.0,   182.1)
+  sus dancs
+2023-02-11T09:07:00Z: PLAYER CHATTED [ 1923173034] 1Aprilfoolsss        (-1604.6,   204.9,   144.8)
+  OMGG
+2023-02-11T09:07:04Z: PLAYER CHATTED [ 3020355748] itzprooo1            (-1445.0,   208.0,    64.6)
+  dance*
+2023-02-11T09:07:06Z: PLAYER CHATTED [ 2510917884] Draco_1427           (-1396.8,   193.2,   164.7)
+  lel
+2023-02-11T09:07:07Z: PLAYER CHATTED [ 3728376560] urcookiecatstink     (-1664.2,   258.0,    46.6)
+  i am glicthed
+2023-02-11T09:07:14Z: PLAYER CHATTED [ 3768862573] fgirl_134            (-1379.3,   193.0,   192.3)
+  3
+2023-02-11T09:07:17Z: CHRCTER ADDED  [ 1923173034] 1Aprilfoolsss        a.k.a. MID                 
+2023-02-11T09:07:36Z: PLAYER CHATTED [ 4289154044] CLALRRLA             (-1374.2,   193.4,   180.2)
+  eee i haveee
+2023-02-11T09:07:36Z: PLAYER CHATTED [ 3473835304] RIODIN32             (-1398.1,   194.1,   191.2)
+  ####
+2023-02-11T09:07:36Z: PLAYER CHATTED [ 1840743488] enderboy7989         (-1378.5,   193.0,   179.3)
+  i nned the I and N
+2023-02-11T09:07:36Z: PLAYER CHATTED [ 3020355748] itzprooo1            (-1383.2,   193.3,   174.1)
+  wait
+2023-02-11T09:07:43Z: CHRCTER ADDED  [ 3728376560] urcookiecatstink     a.k.a. Aj_cookiecat        
+2023-02-11T09:07:45Z: PLAYER CHATTED [ 3020355748] itzprooo1            (-1383.2,   193.3,   174.1)
+  i got all the letter but it is showing 5/6
+2023-02-11T09:07:46Z: PLAYER CHATTED [ 3473835304] RIODIN32             (-1396.7,   193.1,   188.0)
+  ##### #### ba
+2023-02-11T09:07:50Z: PLAYER CHATTED [ 3020355748] itzprooo1            ( -364.3,   852.8,  -415.4)
+  man
+2023-02-11T09:07:51Z: PLAYER CHATTED [ 3768862573] fgirl_134            ( -388.7,   852.7,  -421.2)
+  thank you?
+2023-02-11T09:07:52Z: PLAYER CHATTED [ 1923173034] 1Aprilfoolsss        ( -364.5,   852.7,  -417.8)
+  OMGGG UGHH
+2023-02-11T09:07:53Z: PLAYER CHATTED [ 3473835304] RIODIN32             ( -376.2,   852.6,  -424.1)
+  fin
+2023-02-11T09:07:55Z: PLAYER CHATTED [ 1840743488] enderboy7989         ( -383.0,   852.8,  -418.5)
+  finally 
+2023-02-11T09:07:56Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

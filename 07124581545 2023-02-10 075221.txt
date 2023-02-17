@@ -1,0 +1,137 @@
+[    1630228] : [ 7124581545] Some Experiment - c14800d1-e38b-475f-95b0-ee4e12ae4583
+2023-02-10T07:52:21Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-02-10T07:52:21Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-02-10T07:52:21Z: PLAYER ADDED   [  313507603] Man1aTheGamerYT      a.k.a. ManiaTheGamer       
+2023-02-10T07:52:21Z: PLAYER ADDED   [  954630652] HannaBarberaJB       a.k.a. IShowCyb3rSpeed     
+2023-02-10T07:52:29Z: PLAYER REMOVED [  954630652] HannaBarberaJB       a.k.a. IShowCyb3rSpeed     
+2023-02-10T07:52:37Z: PLAYER CHATTED [    1630228] VisualPlugin         (  307.4,   -10.7,    93.8)
+  Hi.
+2023-02-10T07:52:37Z: PLAYER CHATTED [  313507603] Man1aTheGamerYT      (  315.4,   -10.8,    91.9)
+  bruh
+2023-02-10T07:52:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (  306.5,   -10.7,    92.4)
+  I had to find you somewhere!
+2023-02-10T07:53:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (  332.1,   -10.7,    80.1)
+  Thanks!
+2023-02-10T07:53:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (  336.2,   -10.7,    80.1)
+  What's the experiment?
+2023-02-10T07:54:02Z: PLAYER CHATTED [  313507603] Man1aTheGamerYT      (  328.0,   -10.8,    75.7)
+  polar elevator revival
+2023-02-10T07:54:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (  247.8,   -10.7,    91.5)
+  Just a fact.
+2023-02-10T07:54:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (  247.8,   -10.7,    91.5)
+  Freight lifts in the US don't open their doors that fast.
+2023-02-10T07:55:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (  264.5,   -10.7,    95.4)
+  The inner door usually opens first.
+2023-02-10T07:55:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (  264.5,   -10.7,    95.4)
+  And the motion is almost always linear.
+2023-02-10T07:55:44Z: PLAYER CHATTED [    1630228] VisualPlugin         (  322.4,   -10.7,    96.4)
+  (With some slowdown towards the end, of course).
+2023-02-10T07:56:01Z: PLAYER CHATTED [  313507603] Man1aTheGamerYT      (  328.4,   -10.8,    85.6)
+  dammit
+2023-02-10T07:56:22Z: PLAYER CHATTED [    1630228] VisualPlugin         (  343.3,   -10.7,    77.0)
+  Got it.
+2023-02-10T07:56:29Z: PLAYER CHATTED [    1630228] VisualPlugin         (  339.1,   -10.7,    79.5)
+  I don't have my sound on.
+2023-02-10T07:56:47Z: PLAYER CHATTED [  313507603] Man1aTheGamerYT      (  334.6,   -10.8,    85.9)
+  it almost killed my heart
+2023-02-10T07:56:55Z: PLAYER CHATTED [    1630228] VisualPlugin         (  342.1,   -31.5,    51.3)
+  Sorry!
+2023-02-10T07:57:49Z: CHRCTER ADDED  [  313507603] Man1aTheGamerYT      a.k.a. ManiaTheGamer       
+2023-02-10T07:57:52Z: PLAYER CHATTED [  313507603] Man1aTheGamerYT      (  270.4,   748.0,    -1.0)
+  lol
+2023-02-10T07:58:29Z: PLAYER CHATTED [    1630228] VisualPlugin         (  341.1,   -10.7,    80.8)
+  What good is a prison if convicts can escape whislt in the toilet?
+2023-02-10T07:58:47Z: PLAYER CHATTED [  313507603] Man1aTheGamerYT      (  327.7,   -10.8,    79.6)
+  idk
+2023-02-10T07:58:51Z: PLAYER CHATTED [    1630228] VisualPlugin         (  351.2,   -10.7,    74.7)
+  They have the meeting room to plot all they want!
+2023-02-10T08:00:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (  319.6,   -10.7,    93.8)
+  I like L-shaped lifts.
+2023-02-10T08:00:55Z: PLAYER CHATTED [    1630228] VisualPlugin         (  244.2,   197.2,    93.1)
+  Fast!
+2023-02-10T08:01:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (  244.2,   552.6,    93.1)
+  Do you ride servic elifts for fun?
+2023-02-10T08:01:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (  244.2,   679.1,    93.1)
+  *Service lifts.
+2023-02-10T08:01:16Z: PLAYER CHATTED [  313507603] Man1aTheGamerYT      (  248.3,   748.1,    92.3)
+  nah
+2023-02-10T08:01:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (  239.2,   748.0,    77.6)
+  Understandable.
+2023-02-10T08:03:17Z: PLAYER CHATTED [    1630228] VisualPlugin         (  189.5,   748.1,    -5.6)
+  Lifts C and D lead to your D-mise.
+2023-02-10T08:03:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (  191.1,   746.5,    53.5)
+  Buttons!
+2023-02-10T08:03:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (  191.1,   248.2,    53.5)
+  30 studs per second.
+2023-02-10T08:04:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (  191.1,     3.3,    53.5)
+  That's 102 m/s.
+2023-02-10T08:04:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (  213.1,     3.1,    32.2)
+  *10.2.
+2023-02-10T08:04:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (  206.3,   800.7,    25.3)
+  Fast.
+2023-02-10T08:04:44Z: PLAYER CHATTED [    1630228] VisualPlugin         (  220.6,   800.7,    43.4)
+  Why can't I find 10 m/s lifts in real life?
+2023-02-10T08:05:09Z: PLAYER CHATTED [  313507603] Man1aTheGamerYT      (  193.7,   620.9,    55.8)
+  idk
+2023-02-10T08:06:19Z: PLAYER CHATTED [    1630228] VisualPlugin         (  233.5,   304.5,   104.7)
+  Teleport to me.
+2023-02-10T08:06:51Z: PLAYER CHATTED [  313507603] Man1aTheGamerYT      (  218.5,     3.1,   116.5)
+  e
+2023-02-10T08:09:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (  327.6,   748.0,     7.8)
+  Can you fly?
+2023-02-10T08:11:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (  200.9,   462.6,   338.5)
+  6 studs per second.
+2023-02-10T08:11:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (  200.9,   516.6,   338.5)
+  Slow for the distance it travels.
+2023-02-10T08:11:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (  200.9,   554.1,   338.5)
+  That's 2.1 m/s.
+2023-02-10T08:11:55Z: PLAYER CHATTED [  313507603] Man1aTheGamerYT      (  318.6,   748.0,    94.7)
+  that's way too slow
+2023-02-10T08:12:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (  214.1,   818.7,    67.2)
+  Can you spawn a vehicle?
+2023-02-10T08:12:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (  166.3,   768.0,   181.1)
+  I can fly it.
+2023-02-10T08:14:06Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -130.9,   769.7,   153.1)
+  Let me fly.
+2023-02-10T08:14:13Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -130.9,   769.7,   153.1)
+  By driving it.
+2023-02-10T08:16:44Z: PLAYER CHATTED [    1630228] VisualPlugin         (  245.4,    30.9,    41.8)
+  How to open the doors?
+2023-02-10T08:17:04Z: PLAYER CHATTED [  313507603] Man1aTheGamerYT      (  106.5,   109.1,     9.8)
+  you broke it
+2023-02-10T08:17:10Z: PLAYER CHATTED [    1630228] VisualPlugin         (   95.9,     3.1,   -63.7)
+  Of course I did.
+2023-02-10T08:17:21Z: PLAYER CHATTED [    1630228] VisualPlugin         (    8.0,     3.1,   -69.1)
+  Why didn't you spawn a car?
+2023-02-10T08:17:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -36.4,     3.1,  -144.3)
+  You know just by my nationality that I drive almost everywhere.
+2023-02-10T08:17:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (   39.3,     3.1,   -54.8)
+  My busses come no more often than every 15 minutes.
+2023-02-10T08:18:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (   50.0,     3.1,   -71.1)
+  And they cost $2 per trip.
+2023-02-10T08:18:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (   39.3,     3.1,   -61.2)
+  ($70 monthly pass).
+2023-02-10T08:18:54Z: PLAYER CHATTED [  313507603] Man1aTheGamerYT      (  195.5,     3.1,  -120.0)
+  hm
+2023-02-10T08:19:43Z: PLAYER CHATTED [  313507603] Man1aTheGamerYT      (  194.9,   188.0,    53.2)
+  I'm bored
+2023-02-10T08:19:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (  191.0,   396.0,    54.0)
+  Wanna come to Kubla Khan?
+2023-02-10T08:19:59Z: PLAYER CHATTED [  313507603] Man1aTheGamerYT      (  194.9,   684.5,    53.2)
+  hmm
+2023-02-10T08:20:06Z: PLAYER CHATTED [  313507603] Man1aTheGamerYT      (  194.9,   800.1,    53.2)
+  I'm also kinda sleepy
+2023-02-10T08:20:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (  250.2,   800.6,    69.0)
+  Oh!
+2023-02-10T08:21:00Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-02-10T08:21:44Z: PLAYER CHATTED [    1630228] VisualPlugin         (  173.4,   817.4,     1.1)
+  Why is the ròóf grèén?
+2023-02-10T08:21:49Z: PLAYER CHATTED [  313507603] Man1aTheGamerYT      (  239.8,   748.0,    73.1)
+  idk
+2023-02-10T08:22:56Z: CHRCTER ADDED  [  313507603] Man1aTheGamerYT      a.k.a. ManiaTheGamer       
+2023-02-10T08:22:56Z: PLAYER CHATTED [    1630228] VisualPlugin         (  190.3,     3.1,    14.4)
+  I'll be off.
+2023-02-10T08:23:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (  160.9,     3.1,   -10.9)
+  This game was grey.
+2023-02-10T08:23:03Z: PLAYER REMOVED [  313507603] Man1aTheGamerYT      a.k.a. ManiaTheGamer       
+2023-02-10T08:23:05Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

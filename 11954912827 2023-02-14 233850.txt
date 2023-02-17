@@ -1,0 +1,551 @@
+[    1630228] : [11954912827] 🏨 Hotel Holiday Inn & Suites 🏨 - 2cecf3e9-bb6b-4cac-a621-551c89f4b8bf
+2023-02-14T23:38:50Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-02-14T23:38:50Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-02-14T23:38:50Z: PLAYER ADDED   [  828551366] princejordan38       a.k.a. Your_printer        
+2023-02-14T23:38:50Z: PLAYER ADDED   [ 2746910855] Thealivejames        a.k.a. James               
+2023-02-14T23:38:50Z: PLAYER ADDED   [ 2742026438] Elitheceilingfanman 
+2023-02-14T23:38:50Z: PLAYER ADDED   [ 1382002222] justibarca           a.k.a. Justin              
+2023-02-14T23:38:50Z: PLAYER ADDED   [ 3007294899] Aleulloa1            a.k.a. Andre               
+2023-02-14T23:38:50Z: PLAYER ADDED   [ 2257930358] Matiasthebest01      a.k.a. mati                
+2023-02-14T23:38:50Z: PLAYER ADDED   [ 4079926946] CurrAA220           
+2023-02-14T23:38:50Z: PLAYER ADDED   [ 3866936461] chavomigue          
+2023-02-14T23:38:53Z: PLAYER CHATTED [ 1382002222] justibarca           (  304.9,     6.2,   275.5)
+  Alright.
+2023-02-14T23:39:03Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  309.8,     6.2,   324.4)
+  Enjoy Your stay!
+2023-02-14T23:39:04Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  307.4,     6.2,   297.2)
+  Fallow me
+2023-02-14T23:39:17Z: PLAYER CHATTED [    1630228] VisualPlugin         (  329.1,     7.0,   330.9)
+  Hey Justi.
+2023-02-14T23:39:18Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  345.1,     6.2,   372.7)
+  ### enter
+2023-02-14T23:39:19Z: PLAYER CHATTED [  828551366] princejordan38       (  303.5,     7.3,   318.9)
+  I asked for 1507 is it taked
+2023-02-14T23:39:21Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  305.6,     6.2,   325.0)
+  /w princejordan38  There Was no 1507.
+2023-02-14T23:39:22Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  345.2,     6.2,   373.0)
+  Can’t
+2023-02-14T23:39:25Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  305.6,     6.2,   325.0)
+  
+2023-02-14T23:39:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (  342.5,     7.0,   370.3)
+  Hi Justin!
+2023-02-14T23:39:27Z: PLAYER CHATTED [  828551366] princejordan38       (  303.5,     7.3,   318.9)
+  Ohhhhhh
+2023-02-14T23:39:33Z: PLAYER CHATTED [ 1382002222] justibarca           (  343.9,     6.2,   370.2)
+  Hello.
+2023-02-14T23:39:35Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  305.6,     6.2,   324.9)
+  Sorry, Sir.
+2023-02-14T23:39:45Z: PLAYER CHATTED [ 1382002222] justibarca           (  342.7,     6.2,   369.7)
+  Oh Ik the problem.
+2023-02-14T23:39:53Z: PLAYER CHATTED [  828551366] princejordan38       (  340.8,     7.3,   363.1)
+  Sorry
+2023-02-14T23:39:54Z: PLAYER CHATTED [ 1382002222] justibarca           (  335.1,     6.2,   357.2)
+  I'll fix it later.
+2023-02-14T23:39:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (  342.6,     7.0,   372.4)
+  I've been working on a hotel myself for three years and really enjoy visiting yours.
+2023-02-14T23:39:57Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  345.1,     6.2,   372.8)
+  Alright
+2023-02-14T23:40:02Z: PLAYER CHATTED [ 1382002222] justibarca           (  337.8,     6.2,   361.7)
+  Oh really?
+2023-02-14T23:40:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (  340.7,     7.0,   369.5)
+  It's named Kubla Khan by the way.
+2023-02-14T23:40:17Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  340.3,     6.2,   363.6)
+  Justin.
+2023-02-14T23:40:18Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  340.3,     6.2,   363.6)
+  Justin.
+2023-02-14T23:40:21Z: PLAYER CHATTED [ 1382002222] justibarca           (  339.3,     6.2,   366.3)
+  Alright.
+2023-02-14T23:40:23Z: PLAYER CHATTED [ 1382002222] justibarca           (  339.3,     6.2,   366.3)
+  Yes?
+2023-02-14T23:40:24Z: PLAYER CHATTED [    1630228] VisualPlugin         (  340.7,     7.0,   369.5)
+  Did you happen to build this one yourself?
+2023-02-14T23:40:30Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  340.3,     6.2,   363.6)
+  /w justibarca  I’m at basketball game run.
+2023-02-14T23:40:36Z: PLAYER CHATTED [ 1382002222] justibarca           (  339.0,     6.2,   367.0)
+  Yes.
+2023-02-14T23:40:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (  340.7,     7.0,   369.5)
+  Nice!
+2023-02-14T23:40:46Z: PLAYER CHATTED [ 1382002222] justibarca           (  339.0,     6.2,   367.0)
+  I got some help in this version tho anyway.
+2023-02-14T23:40:54Z: PLAYER CHATTED [ 1382002222] justibarca           (  338.7,     6.2,   367.6)
+  In the lifts and some systems.
+2023-02-14T23:40:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (  340.7,     7.0,   369.5)
+  I noticed that the lifts were modernised.
+2023-02-14T23:41:06Z: PLAYER CHATTED [ 1382002222] justibarca           (  339.3,     6.2,   365.9)
+  But the majority of the building is made by me.
+2023-02-14T23:41:17Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  338.0,   201.0,   403.8)
+  Enjoy Your Stay, Sir!
+2023-02-14T23:41:29Z: PLAYER CHATTED [    1630228] VisualPlugin         (  341.2,     7.0,   369.4)
+  Do you visit hotels in real life often?
+2023-02-14T23:41:30Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  342.1,     6.2,   364.4)
+  Hold up
+2023-02-14T23:41:38Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  342.1,     6.2,   364.4)
+  I need anamate
+2023-02-14T23:41:38Z: PLAYER CHATTED [  828551366] princejordan38       (  342.6,   202.2,   406.4)
+  Back
+2023-02-14T23:41:42Z: PLAYER REMOVED [ 2746910855] Thealivejames        a.k.a. James               
+2023-02-14T23:41:45Z: PLAYER CHATTED [ 1382002222] justibarca           (  339.0,     6.2,   366.0)
+  Hmm, not very often for now.
+2023-02-14T23:41:45Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  340.2,   201.0,   401.7)
+  Mk.
+2023-02-14T23:42:03Z: PLAYER ADDED   [ 2746910855] Thealivejames        a.k.a. James               
+2023-02-14T23:42:04Z: PLAYER CHATTED [ 1382002222] justibarca           (  339.9,     6.2,   365.9)
+  But I do here in Roblox sometimes, I work in some.
+2023-02-14T23:42:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (  341.2,     7.0,   369.4)
+  They're quite fun to explore if they're close together.
+2023-02-14T23:42:17Z: PLAYER CHATTED [    1630228] VisualPlugin         (  341.2,     7.0,   369.4)
+  I live near Disneyland.
+2023-02-14T23:42:17Z: PLAYER CHATTED [ 1382002222] justibarca           (  339.9,     6.2,   365.9)
+  Yeah, indeed.
+2023-02-14T23:42:24Z: PLAYER CHATTED [ 1382002222] justibarca           (  339.9,     6.2,   365.9)
+  Oh nice!
+2023-02-14T23:42:28Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  342.4,     6.2,   365.9)
+  Hey
+2023-02-14T23:42:28Z: PLAYER CHATTED [ 1382002222] justibarca           (  339.9,     6.2,   365.9)
+  Orlando?
+2023-02-14T23:42:32Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  342.4,     6.2,   365.9)
+  I’m back.
+2023-02-14T23:42:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (  341.2,     7.0,   369.4)
+  Anaheim.
+2023-02-14T23:42:38Z: PLAYER CHATTED [ 1382002222] justibarca           (  339.7,     6.2,   365.9)
+  Oh alright.
+2023-02-14T23:42:44Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  342.2,   201.0,   400.6)
+  Mk.
+2023-02-14T23:43:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (  341.2,     7.0,   369.4)
+  Care to check mine out sometime?
+2023-02-14T23:43:05Z: PLAYER ADDED   [ 3424060555] AlaxfriendYT1        a.k.a. blue_yt             
+2023-02-14T23:43:10Z: PLAYER CHATTED [ 1382002222] justibarca           (  339.7,     6.2,   365.9)
+  Hmm, might do it later.
+2023-02-14T23:43:17Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  342.4,     6.2,   365.9)
+  Justin. Let’s go to vip room!
+2023-02-14T23:43:22Z: PLAYER CHATTED [    1630228] VisualPlugin         (  341.0,     7.0,   369.8)
+  No problem.
+2023-02-14T23:43:32Z: PLAYER CHATTED [ 1382002222] justibarca           (  339.5,     6.2,   366.0)
+  Alright, I need to continue my work.
+2023-02-14T23:43:34Z: PLAYER CHATTED [ 1382002222] justibarca           (  339.5,     6.2,   366.0)
+  See you.
+2023-02-14T23:43:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (  340.9,     7.0,   370.2)
+  Take care!
+2023-02-14T23:43:46Z: PLAYER REMOVED [ 3866936461] chavomigue          
+2023-02-14T23:43:53Z: PLAYER CHATTED [ 1382002222] justibarca           (  340.9,     6.2,   381.5)
+  Why do you want to go to the roof?
+2023-02-14T23:44:19Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  338.6,   140.3,   400.3)
+  Ima replace the #### ### dora
+2023-02-14T23:44:25Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  338.6,   220.8,   400.3)
+  Hola
+2023-02-14T23:44:28Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  338.6,   261.4,   400.3)
+  Soy
+2023-02-14T23:44:36Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  338.5,   267.5,   400.3)
+  Hola soy James
+2023-02-14T23:44:39Z: PLAYER CHATTED [ 1382002222] justibarca           (  333.1,   267.6,   392.5)
+  Hola.
+2023-02-14T23:45:06Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  312.3,   291.4,   336.6)
+  Ima how something Tunney.
+2023-02-14T23:45:11Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  312.3,   291.4,   336.6)
+  Funny 
+2023-02-14T23:45:28Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  312.3,   291.4,   336.6)
+  Hi. I’m justin! See!
+2023-02-14T23:45:31Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  312.3,   291.4,   336.6)
+  See
+2023-02-14T23:45:35Z: PLAYER CHATTED [ 1382002222] justibarca           (  304.2,   291.4,   338.7)
+  Uh?
+2023-02-14T23:45:35Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  312.3,   291.4,   336.6)
+  Weee 
+2023-02-14T23:45:36Z: PLAYER ADDED   [ 1965877554] MVGelevators        
+2023-02-14T23:45:42Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  302.4,   287.6,   325.3)
+  Lol!
+2023-02-14T23:45:51Z: PLAYER REMOVED [ 2742026438] Elitheceilingfanman 
+2023-02-14T23:45:53Z: PLAYER CHATTED [ 1382002222] justibarca           (  304.0,   291.4,   337.8)
+  Dude did you just say you're Justin?
+2023-02-14T23:46:06Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  339.2,   286.6,   343.2)
+  It’s meme.
+2023-02-14T23:46:08Z: PLAYER CHATTED [ 1965877554] MVGelevators         (  282.3,     5.5,   228.8)
+  /w justibarca  Hi boss
+2023-02-14T23:46:10Z: PLAYER CHATTED [ 1382002222] justibarca           (  264.1,     6.2,   298.3)
+  Oh.
+2023-02-14T23:46:24Z: PLAYER ADDED   [ 4285485145] MCBalloon12ss       
+2023-02-14T23:46:26Z: PLAYER REMOVED [ 4285485145] MCBalloon12ss       
+2023-02-14T23:46:28Z: PLAYER CHATTED [ 1382002222] justibarca           (  314.4,     6.2,   258.6)
+  /w MVGelevators  Hm, hello.
+2023-02-14T23:46:32Z: PLAYER REMOVED [ 1965877554] MVGelevators        
+2023-02-14T23:47:05Z: PLAYER ADDED   [ 4113874976] Amijune75            a.k.a. Elmi13              
+2023-02-14T23:47:12Z: PLAYER ADDED   [ 1965877554] MVGelevators        
+2023-02-14T23:47:42Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  295.0,     6.2,   340.1)
+  I don’t have lobby card
+2023-02-14T23:47:52Z: PLAYER CHATTED [ 1965877554] MVGelevators         (  270.2,     6.1,   316.9)
+  /w justibarca  We’ve got a problem I got kicked out for the job
+2023-02-14T23:48:06Z: PLAYER CHATTED [ 1382002222] justibarca           (  287.6,     6.2,   337.0)
+  /w MVGelevators  You need to reapply.
+2023-02-14T23:48:10Z: PLAYER CHATTED [ 1382002222] justibarca           (  287.6,     6.2,   337.0)
+  Which card?
+2023-02-14T23:48:16Z: PLAYER ADDED   [ 3366855513] Yavon_Technologies   a.k.a. fondue              
+2023-02-14T23:48:25Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  289.5,     6.2,   332.8)
+  Staff lounge
+2023-02-14T23:48:26Z: PLAYER CHATTED [ 1965877554] MVGelevators         (  314.8,     6.1,   300.8)
+  ###################################
+2023-02-14T23:48:40Z: PLAYER CHATTED [ 1382002222] justibarca           (  287.1,     6.2,   338.0)
+  Try respawning.
+2023-02-14T23:48:40Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  337.4,   210.1,   317.6)
+  Hello.
+2023-02-14T23:48:44Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  289.5,     6.2,   332.8)
+  Alr
+2023-02-14T23:48:47Z: PLAYER REMOVED [ 1965877554] MVGelevators        
+2023-02-14T23:48:49Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  289.5,     6.2,   332.8)
+  Can you re me?
+2023-02-14T23:48:50Z: PLAYER ADDED   [ 1965877554] MVGelevators        
+2023-02-14T23:48:56Z: CHRCTER ADDED  [ 2746910855] Thealivejames        a.k.a. James               
+2023-02-14T23:48:56Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  337.4,    10.8,   317.6)
+  Hopefully You Are Enojying Your Stay.
+2023-02-14T23:48:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (  343.6,     7.1,   400.3)
+  Thanks!
+2023-02-14T23:49:00Z: PLAYER CHATTED [ 3366855513] Yavon_Technologies   (  340.1,     6.2,   405.5)
+  yo plug
+2023-02-14T23:49:03Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  214.1,     6.2,   227.5)
+  Bring me
+2023-02-14T23:49:05Z: PLAYER CHATTED [ 3366855513] Yavon_Technologies   (  340.1,     6.2,   405.5)
+  wanna vc 
+2023-02-14T23:49:08Z: PLAYER ADDED   [ 3752341375] gmavn46             
+2023-02-14T23:49:09Z: PLAYER ADDED   [ 1350851443] Ilovewhalesdude      a.k.a. TheSussyOrca        
+2023-02-14T23:49:10Z: PLAYER CHATTED [ 1965877554] MVGelevators         (  211.2,     5.1,   223.2)
+  /w justibarca  Did not work
+2023-02-14T23:49:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (  343.4,   120.4,   401.2)
+  Sure.
+2023-02-14T23:49:20Z: PLAYER REMOVED [ 3366855513] Yavon_Technologies   a.k.a. fondue              
+2023-02-14T23:49:21Z: PLAYER CHATTED [ 1382002222] justibarca           (  303.6,     6.2,   274.1)
+  /w MVGelevators  Say !apply
+2023-02-14T23:49:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (  343.4,   201.3,   401.2)
+  What's your name?
+2023-02-14T23:49:34Z: PLAYER CHATTED [ 1382002222] justibarca           (  304.8,     6.2,   266.6)
+  In public chat.
+2023-02-14T23:49:42Z: PLAYER CHATTED [ 1350851443] Ilovewhalesdude      (  210.4,     6.2,   229.4)
+  /w justibarca  Please Check Discoard DM
+2023-02-14T23:49:46Z: PLAYER CHATTED [ 1350851443] Ilovewhalesdude      (  210.4,     6.2,   229.4)
+  Dm's*
+2023-02-14T23:49:47Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  293.9,     6.2,   332.4)
+  Hey Justin
+2023-02-14T23:49:48Z: PLAYER CHATTED [ 1965877554] MVGelevators         (  305.4,     6.1,   270.4)
+  !Aplly
+2023-02-14T23:49:55Z: PLAYER CHATTED [ 1382002222] justibarca           (  310.0,     6.2,   275.6)
+  It's !apply
+2023-02-14T23:49:59Z: PLAYER CHATTED [ 1965877554] MVGelevators         (  321.1,     6.1,   241.8)
+  !Apply
+2023-02-14T23:50:01Z: PLAYER CHATTED [ 1350851443] Ilovewhalesdude      (  249.8,     6.1,   227.1)
+  ###################
+2023-02-14T23:50:05Z: PLAYER CHATTED [ 1382002222] justibarca           (  305.7,     6.2,   244.0)
+  No caps in A.
+2023-02-14T23:50:12Z: PLAYER CHATTED [ 1382002222] justibarca           (  304.7,     6.2,   239.6)
+  !apply is the command.
+2023-02-14T23:50:12Z: PLAYER CHATTED [ 1350851443] Ilovewhalesdude      (  300.8,     6.1,   296.4)
+  #########
+2023-02-14T23:50:28Z: PLAYER CHATTED [ 1350851443] Ilovewhalesdude      (  338.6,    12.8,   265.2)
+  .
+2023-02-14T23:50:28Z: PLAYER CHATTED [ 1350851443] Ilovewhalesdude      (  338.6,    12.8,   265.2)
+  .
+2023-02-14T23:50:42Z: PLAYER CHATTED [ 1965877554] MVGelevators         (  307.3,     6.1,   242.3)
+  !apply
+2023-02-14T23:50:45Z: PLAYER REMOVED [ 1965877554] MVGelevators        
+2023-02-14T23:50:48Z: PLAYER CHATTED [ 1382002222] justibarca           (  304.7,     6.2,   239.6)
+  There.
+2023-02-14T23:50:55Z: PLAYER CHATTED [ 3752341375] gmavn46              (  327.4,   254.2,   316.0)
+  go away
+2023-02-14T23:50:56Z: PLAYER CHATTED [ 1350851443] Ilovewhalesdude      (  283.4,     6.1,   386.3)
+  Welp This is my Last day.
+2023-02-14T23:51:00Z: PLAYER CHATTED [ 1350851443] Ilovewhalesdude      (  270.5,     6.1,   360.9)
+  Welp This is my Last day.
+2023-02-14T23:51:04Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  340.1,   122.1,   305.0)
+  Sir, Be Nice.
+2023-02-14T23:51:16Z: PLAYER CHATTED [ 1350851443] Ilovewhalesdude      (  270.8,     6.1,   289.8)
+  Quitting Temporarily Until something Happens.
+2023-02-14T23:51:20Z: PLAYER ADDED   [  132660996] rileykamead          a.k.a. Riley               
+2023-02-14T23:51:44Z: PLAYER REMOVED [ 3007294899] Aleulloa1            a.k.a. Andre               
+2023-02-14T23:51:49Z: PLAYER ADDED   [ 3774378471] Mateo12togo         
+2023-02-14T23:52:01Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  312.2,   134.7,   387.8)
+  What Why?
+2023-02-14T23:52:08Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  318.2,    24.9,   255.0)
+  /w justibarca  Can I show u something funny at my hotel?
+2023-02-14T23:52:12Z: PLAYER ADDED   [ 4323990209] Abbyvirk            
+2023-02-14T23:52:13Z: PLAYER REMOVED [ 4323990209] Abbyvirk            
+2023-02-14T23:52:18Z: PLAYER ADDED   [ 1965877554] MVGelevators        
+2023-02-14T23:52:19Z: PLAYER CHATTED [ 1382002222] justibarca           (  297.9,     6.0,   275.0)
+  #####################
+2023-02-14T23:52:27Z: PLAYER ADDED   [ 4051649983] RamaRusia2022       
+2023-02-14T23:52:30Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  317.5,     6.2,   315.5)
+  Please.
+2023-02-14T23:52:35Z: PLAYER CHATTED [ 1350851443] Ilovewhalesdude      (  305.2,     6.1,   289.4)
+  Because Kanji was Bullying me in the discoard. Plus I was a MR before and now I lost it. I worked so hard for that!
+2023-02-14T23:52:41Z: PLAYER CHATTED [ 1965877554] MVGelevators         (  266.2,     6.1,   255.1)
+  /w justibarca  It worked 
+2023-02-14T23:52:48Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  280.2,   135.1,   272.0)
+  Oh Danji?
+2023-02-14T23:52:52Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  281.1,   135.2,   274.9)
+  Kanji
+2023-02-14T23:52:56Z: PLAYER CHATTED [ 1350851443] Ilovewhalesdude      (  344.7,    24.7,   383.7)
+  Ye.
+2023-02-14T23:53:03Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  294.3,   135.2,   278.0)
+  Wait what did he say?
+2023-02-14T23:53:04Z: PLAYER CHATTED [ 1965877554] MVGelevators         (  304.4,     6.1,   282.8)
+  /w justibarca  I don’t have my key card
+2023-02-14T23:53:06Z: PLAYER ADDED   [ 2670708348] appalingjester      
+2023-02-14T23:53:11Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  294.3,   135.2,   278.0)
+  Was it in the group?
+2023-02-14T23:53:14Z: PLAYER CHATTED [ 1350851443] Ilovewhalesdude      (  301.2,    30.8,   398.5)
+  He was just Making fun of my YT
+2023-02-14T23:53:14Z: PLAYER CHATTED [ 1382002222] justibarca           (  335.6,    27.7,   470.1)
+  /w MVGelevators  Trainees don't have staff perms now.
+2023-02-14T23:53:18Z: PLAYER CHATTED [ 1350851443] Ilovewhalesdude      (  301.2,    30.8,   398.5)
+  Its the last thing I remembered
+2023-02-14T23:53:20Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  280.6,   135.5,   271.7)
+  Wow.
+2023-02-14T23:53:25Z: PLAYER ADDED   [ 3367578001] Al3xcan2012         
+2023-02-14T23:53:27Z: PLAYER REMOVED [ 3752341375] gmavn46             
+2023-02-14T23:53:28Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  280.6,   135.5,   271.7)
+  I thought he was a nice guy.
+2023-02-14T23:53:38Z: PLAYER CHATTED [ 1350851443] Ilovewhalesdude      (  297.7,    63.0,   397.0)
+  And I think Justin Blocked me.
+2023-02-14T23:53:38Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  280.6,   135.1,   272.0)
+  I pre trained him.
+2023-02-14T23:53:39Z: PLAYER ADDED   [ 2725195311] LeeleexQueen1       
+2023-02-14T23:53:43Z: PLAYER CHATTED [ 1382002222] justibarca           (  193.5,    26.5,   518.7)
+  I didn't, Orca.
+2023-02-14T23:53:46Z: PLAYER CHATTED [ 1350851443] Ilovewhalesdude      (  318.2,    69.6,   390.0)
+  Oh.
+2023-02-14T23:53:53Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  314.3,   135.2,   276.4)
+  then why where u demoted?
+2023-02-14T23:53:57Z: PLAYER REMOVED [ 1965877554] MVGelevators        
+2023-02-14T23:53:59Z: PLAYER CHATTED [ 1350851443] Ilovewhalesdude      (  309.1,    71.0,   399.2)
+  You weren't responding to my Messages Justin.
+2023-02-14T23:54:02Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  306.9,   135.2,   278.2)
+  Then why where u demoted*
+2023-02-14T23:54:03Z: PLAYER CHATTED [ 3367578001] Al3xcan2012          (  307.2,     6.2,   319.0)
+  Can I have some won at de front desk
+2023-02-14T23:54:03Z: PLAYER CHATTED [ 1382002222] justibarca           (  176.9,    32.0,   518.2)
+  Oh.
+2023-02-14T23:54:03Z: PLAYER ADDED   [ 1965877554] MVGelevators        
+2023-02-14T23:54:03Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  308.2,   135.2,   277.8)
+  Then why where u demoted*
+2023-02-14T23:54:03Z: PLAYER REMOVED [ 4051649983] RamaRusia2022       
+2023-02-14T23:54:04Z: PLAYER REMOVED [ 2725195311] LeeleexQueen1       
+2023-02-14T23:54:05Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  327.6,     6.2,   323.7)
+  Justin.
+2023-02-14T23:54:08Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  327.1,   135.2,   327.2)
+  Yes sir.
+2023-02-14T23:54:13Z: CHRCTER ADDED  [ 2257930358] Matiasthebest01      a.k.a. mati                
+2023-02-14T23:54:15Z: PLAYER CHATTED [ 1350851443] Ilovewhalesdude      (  315.3,    95.7,   399.9)
+  I don't wanna talk about it.
+2023-02-14T23:54:17Z: PLAYER REMOVED [ 1382002222] justibarca           a.k.a. Justin              
+2023-02-14T23:54:19Z: PLAYER CHATTED [ 1350851443] Ilovewhalesdude      (  315.3,    95.7,   399.9)
+  It's something bad.
+2023-02-14T23:54:20Z: PLAYER CHATTED [ 1965877554] MVGelevators         (  275.3,     6.1,   245.4)
+  /w justibarca  Where are you at the hotel?
+2023-02-14T23:54:21Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  327.6,     6.2,   323.7)
+  Join illjam101 fan group
+2023-02-14T23:54:25Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  327.6,     6.2,   323.7)
+  Oops
+2023-02-14T23:54:32Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  312.6,     6.2,   325.1)
+  Hello!, Welcome To Holiday Inn, How May I Assist You On This Beautiful Day?
+
+2023-02-14T23:54:32Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  312.6,     6.2,   325.1)
+  Hello!, Welcome To Holiday Inn, How May I Assist You On This Beautiful Day?
+2023-02-14T23:54:40Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  326.3,     6.2,   320.9)
+  Did not mean to say in public chat
+2023-02-14T23:54:50Z: PLAYER CHATTED [ 1350851443] Ilovewhalesdude      (  322.9,   148.0,   395.1)
+  I'm a Permanent Receptionist Now.
+2023-02-14T23:54:52Z: PLAYER REMOVED [ 2746910855] Thealivejames        a.k.a. James               
+2023-02-14T23:54:55Z: PLAYER CHATTED [ 1965877554] MVGelevators         (  317.1,     6.1,   319.6)
+  Hello I applied for the job I don’t have a key card
+2023-02-14T23:55:11Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  317.2,     6.2,   324.6)
+  Oh, Siir You need To Do Traning To Get a Job.
+2023-02-14T23:55:24Z: PLAYER CHATTED [ 1965877554] MVGelevators         (  319.0,     6.1,   319.6)
+  I already had a job here
+2023-02-14T23:55:24Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  317.2,     6.2,   324.6)
+  We host them frequently.
+2023-02-14T23:55:29Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  318.3,     6.2,   325.0)
+  When?
+2023-02-14T23:55:35Z: PLAYER CHATTED [ 1965877554] MVGelevators         (  319.0,     6.1,   319.6)
+  When is the next training?
+2023-02-14T23:55:50Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  318.4,     6.2,   324.4)
+  I dont Know Check our ######## Server To see.
+2023-02-14T23:55:56Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  318.4,     6.2,   324.4)
+  Discoad
+2023-02-14T23:56:13Z: PLAYER CHATTED [ 1350851443] Ilovewhalesdude      (  344.9,     6.1,   282.1)
+  Wha-
+2023-02-14T23:56:16Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  318.4,     6.2,   324.4)
+  The code is in our group Desc.
+2023-02-14T23:56:20Z: PLAYER CHATTED [ 3424060555] AlaxfriendYT1        (  318.5,     6.4,   317.3)
+  II NEED A ROOm  1007 sky
+2023-02-14T23:56:21Z: PLAYER CHATTED [ 3424060555] AlaxfriendYT1        (  318.5,     6.4,   317.3)
+  #######################
+2023-02-14T23:56:22Z: PLAYER CHATTED [ 1350851443] Ilovewhalesdude      (  344.9,    30.0,   240.8)
+  I found a glitch
+2023-02-14T23:56:24Z: PLAYER CHATTED [ 1350851443] Ilovewhalesdude      (  344.9,    30.0,   240.8)
+  bruh
+2023-02-14T23:56:28Z: PLAYER CHATTED [ 3367578001] Al3xcan2012          (  314.4,     6.2,   317.3)
+  Sir I need to talk to Justin
+2023-02-14T23:56:33Z: PLAYER REMOVED [ 1965877554] MVGelevators        
+2023-02-14T23:56:40Z: PLAYER CHATTED [ 3367578001] Al3xcan2012          (  312.2,     6.2,   319.6)
+  He is here
+2023-02-14T23:56:42Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  311.8,     6.2,   325.2)
+  Oh, He Just Left The Game.
+2023-02-14T23:56:53Z: PLAYER CHATTED [ 3367578001] Al3xcan2012          (  312.3,     6.2,   319.6)
+  #######
+2023-02-14T23:57:09Z: PLAYER CHATTED [ 3367578001] Al3xcan2012          (  312.3,     6.2,   319.6)
+   Next treating when is the next training session?
+2023-02-14T23:57:18Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  309.5,     6.2,   324.8)
+  Idk, Sir 
+2023-02-14T23:57:24Z: PLAYER CHATTED [ 3367578001] Al3xcan2012          (  309.6,     6.2,   319.6)
+  I
+2023-02-14T23:57:26Z: PLAYER CHATTED [ 3424060555] AlaxfriendYT1        (  300.5,     6.4,   319.6)
+  oh thank
+2023-02-14T23:57:26Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  309.5,     6.2,   324.8)
+  Check Our Discoad Server to see
+2023-02-14T23:57:35Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  308.2,     6.2,   325.1)
+  Np! Enjoy Your Stay, Mam!
+2023-02-14T23:57:37Z: PLAYER CHATTED [ 3367578001] Al3xcan2012          (  309.6,     6.2,   319.6)
+  I don’t have decor
+2023-02-14T23:57:37Z: PLAYER ADDED   [ 3030958502] baynes2009          
+2023-02-14T23:57:40Z: PLAYER ADDED   [ 2746910855] Thealivejames        a.k.a. James               
+2023-02-14T23:57:43Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  308.3,     6.2,   324.4)
+  Oh.
+2023-02-14T23:57:48Z: PLAYER CHATTED [ 3367578001] Al3xcan2012          (  308.8,     6.2,   319.5)
+  I never will
+2023-02-14T23:57:50Z: PLAYER REMOVED [ 2670708348] appalingjester      
+2023-02-14T23:57:52Z: PLAYER CHATTED [ 3367578001] Al3xcan2012          (  309.1,     6.2,   319.3)
+  So
+2023-02-14T23:57:52Z: PLAYER ADDED   [ 3403296896] Rocco2019234        
+2023-02-14T23:57:55Z: PLAYER CHATTED [ 3424060555] AlaxfriendYT1        (  303.4,     6.4,   319.1)
+  if you give my room I will join groups 
+2023-02-14T23:58:05Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  308.3,     6.2,   324.4)
+  Then check Our Group To see
+2023-02-14T23:58:11Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  305.2,     6.2,   325.0)
+  I just didl 
+2023-02-14T23:58:15Z: PLAYER REMOVED [ 1350851443] Ilovewhalesdude      a.k.a. TheSussyOrca        
+2023-02-14T23:58:19Z: PLAYER CHATTED [ 3367578001] Al3xcan2012          (  308.7,     6.2,   319.4)
+  Sir wen is de next training session you need to tell me
+2023-02-14T23:58:22Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  309.8,     6.2,   308.0)
+  I want to be a mr
+2023-02-14T23:58:30Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  307.9,     6.2,   324.6)
+  I Dont Know Sorry
+2023-02-14T23:58:31Z: PLAYER CHATTED [ 3367578001] Al3xcan2012          (  307.9,     6.2,   319.6)
+  Now
+2023-02-14T23:58:32Z: PLAYER REMOVED [ 3403296896] Rocco2019234        
+2023-02-14T23:58:48Z: PLAYER CHATTED [  828551366] princejordan38       (  307.4,     7.3,   316.7)
+  Sir you can't demand that
+2023-02-14T23:58:56Z: PLAYER CHATTED [ 3367578001] Al3xcan2012          (  307.8,     6.2,   319.6)
+  #### come on man 😡
+2023-02-14T23:59:00Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  308.7,     6.2,   324.5)
+  /w Thealivejames  You need to join shifts and get promoted
+2023-02-14T23:59:05Z: PLAYER CHATTED [  828551366] princejordan38       (  307.3,     7.3,   315.8)
+  If he don't know then Check the #######
+2023-02-14T23:59:05Z: PLAYER REMOVED [ 3367578001] Al3xcan2012         
+2023-02-14T23:59:22Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  329.3,    24.9,   315.2)
+  /w Matiasthebest01  I did
+2023-02-14T23:59:42Z: PLAYER REMOVED [ 4113874976] Amijune75            a.k.a. Elmi13              
+2023-02-14T23:59:57Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  309.1,     6.2,   324.5)
+  /w Thealivejames  Well,
+2023-02-14T23:59:58Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  329.2,    24.9,   315.7)
+  But never got message  on server
+2023-02-15T00:00:11Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  309.1,     6.2,   324.5)
+  Its on the bulletin board
+2023-02-15T00:00:50Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  332.3,    69.6,   333.9)
+  Never got on that too
+2023-02-15T00:01:05Z: PLAYER ADDED   [ 1382002222] justibarca           a.k.a. Justin              
+2023-02-15T00:01:08Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  309.1,     6.2,   324.5)
+  /w Thealivejames  Check The Announcements For Shifts.
+2023-02-15T00:01:11Z: PLAYER REMOVED [ 3774378471] Mateo12togo         
+2023-02-15T00:01:15Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  311.3,     6.2,   265.4)
+  Never
+2023-02-15T00:01:21Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  309.1,     6.2,   324.5)
+  /w Thealivejames  Why?
+2023-02-15T00:01:34Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  311.3,     6.2,   265.4)
+  Never saw any
+2023-02-15T00:01:36Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  301.2,     6.2,   325.0)
+  You need to ask justin.
+2023-02-15T00:01:51Z: PLAYER REMOVED [ 2257930358] Matiasthebest01      a.k.a. mati                
+2023-02-15T00:02:04Z: PLAYER REMOVED [ 1382002222] justibarca           a.k.a. Justin              
+2023-02-15T00:02:22Z: PLAYER ADDED   [ 2257930358] Matiasthebest01      a.k.a. mati                
+2023-02-15T00:02:55Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  306.0,     6.2,   324.9)
+  Hello!, Welcome To Holiday Inn, How May I Assist You On This Beautiful Day?
+
+2023-02-15T00:02:55Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  306.0,     6.2,   324.9)
+  Hello!, Welcome To Holiday Inn, How May I Assist You On This Beautiful Day?
+2023-02-15T00:03:06Z: PLAYER CHATTED [ 3424060555] AlaxfriendYT1        (  300.0,     6.4,   319.4)
+  Check out for my room pls
+2023-02-15T00:03:21Z: PLAYER ADDED   [ 1086990591] MaggieTheFroggo      a.k.a. kraken              
+2023-02-15T00:03:40Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  299.5,     6.2,   324.7)
+  Whats Wrong With It, Mam?
+2023-02-15T00:03:44Z: PLAYER ADDED   [ 3552336379] Noah08o             
+2023-02-15T00:03:47Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  337.7,     6.2,   361.7)
+  Umm guys.
+2023-02-15T00:03:48Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  301.3,     6.2,   324.5)
+  Oh ok.
+2023-02-15T00:03:53Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  301.3,     6.2,   324.5)
+  Yes ?
+2023-02-15T00:03:58Z: PLAYER CHATTED [ 3424060555] AlaxfriendYT1        (  299.9,     6.4,   319.4)
+  thank
+2023-02-15T00:04:04Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  302.1,     6.2,   319.2)
+  /t  U
+2023-02-15T00:04:12Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  302.1,     6.2,   319.2)
+  See this?
+2023-02-15T00:04:13Z: PLAYER REMOVED [ 4079926946] CurrAA220           
+2023-02-15T00:04:14Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  301.3,     6.2,   324.5)
+  Hopefully You Enjoyed 
+2023-02-15T00:04:19Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  301.3,     6.2,   324.5)
+  Your Stay
+2023-02-15T00:04:27Z: PLAYER CHATTED [ 3424060555] AlaxfriendYT1        (  299.9,     6.4,   319.4)
+  #####
+2023-02-15T00:04:39Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  303.9,     6.2,   324.5)
+  Hello!, Welcome To Holiday Inn, How May I Assist You On This Beautiful Day?
+
+2023-02-15T00:04:39Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  303.9,     6.2,   324.5)
+  Hello!, Welcome To Holiday Inn, How May I Assist You On This Beautiful Day?
+2023-02-15T00:04:41Z: PLAYER CHATTED [ 3424060555] AlaxfriendYT1        (  302.7,     6.4,   299.5)
+  I go taxi now
+2023-02-15T00:04:41Z: PLAYER CHATTED [  828551366] princejordan38       (  303.3,     7.3,   319.1)
+  Is it ok if...
+2023-02-15T00:04:51Z: PLAYER ADDED   [ 2655978018] Impacter24           a.k.a. CombatCarl          
+2023-02-15T00:04:54Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  303.9,     6.2,   324.8)
+  /w AlaxfriendYT1  Mk, Miss i see it.
+2023-02-15T00:04:57Z: PLAYER CHATTED [  828551366] princejordan38       (  303.3,     7.3,   319.1)
+  I film you a commersal
+2023-02-15T00:05:05Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  307.7,     6.2,   319.5)
+  ################
+2023-02-15T00:05:07Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  303.8,     6.2,   324.5)
+  For What?
+2023-02-15T00:05:08Z: PLAYER CHATTED [ 2746910855] Thealivejames        (  307.7,     6.2,   319.5)
+  Hi
+2023-02-15T00:05:14Z: PLAYER REMOVED [ 3424060555] AlaxfriendYT1        a.k.a. blue_yt             
+2023-02-15T00:05:18Z: PLAYER CHATTED [  828551366] princejordan38       (  302.6,     7.3,   319.3)
+  Holiday Inn...
+2023-02-15T00:05:21Z: PLAYER REMOVED [ 2655978018] Impacter24           a.k.a. CombatCarl          
+2023-02-15T00:05:28Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  303.8,     6.2,   324.5)
+  Ok. I guess
+2023-02-15T00:05:28Z: PLAYER ADDED   [ 3283121935] adamjosephroberts    a.k.a. ACars1437           
+2023-02-15T00:05:32Z: PLAYER CHATTED [  828551366] princejordan38       (  302.6,     7.3,   319.3)
+  Ok
+2023-02-15T00:05:32Z: PLAYER REMOVED [ 2746910855] Thealivejames        a.k.a. James               
+2023-02-15T00:05:38Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  303.8,     6.2,   324.5)
+  So what do i do.
+2023-02-15T00:05:45Z: PLAYER CHATTED [  828551366] princejordan38       (  304.7,     7.3,   319.2)
+  just stay at your computer looking at me
+2023-02-15T00:05:59Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  300.1,     6.2,   324.5)
+  do i say smth?
+2023-02-15T00:06:18Z: PLAYER CHATTED [  828551366] princejordan38       (  304.3,     7.3,   305.9)
+  Say the welcome when # #### up to u'
+2023-02-15T00:06:22Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  300.1,     6.2,   324.5)
+  Ok.
+2023-02-15T00:06:39Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  300.1,     6.2,   324.5)
+  Hello!, Welcome To Holiday Inn, How May I Assist You On This Beautiful Day?
+
+2023-02-15T00:06:39Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  300.1,     6.2,   324.5)
+  Hello!, Welcome To Holiday Inn, How May I Assist You On This Beautiful Day?
+2023-02-15T00:06:50Z: PLAYER CHATTED [  828551366] princejordan38       (  332.7,     7.3,   322.0)
+  Cut!
+2023-02-15T00:06:58Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  300.1,     6.2,   324.5)
+  Perfect!
+2023-02-15T00:06:59Z: PLAYER CHATTED [  828551366] princejordan38       (  328.8,     7.3,   318.9)
+  Next sicene
+2023-02-15T00:07:02Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  300.1,     6.2,   324.5)
+  mk
+2023-02-15T00:07:20Z: PLAYER CHATTED [ 2257930358] Matiasthebest01      (  302.7,     6.2,   324.3)
+  What do i do.
+2023-02-15T00:07:31Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
