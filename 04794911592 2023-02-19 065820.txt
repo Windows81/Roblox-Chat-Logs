@@ -313,3 +313,34 @@
 2023-02-19T07:45:13Z: PLAYER REMOVED [ 1581340012] basenjilover5       
 2023-02-19T07:46:33Z: PLAYER ADDED   [ 1581340012] basenjilover5       
 2023-02-19T07:47:11Z: PLAYER REMOVED [ 1581340012] basenjilover5       
+2023-02-19T07:47:38Z: PLAYER ADDED   [ 1581340012] basenjilover5       
+2023-02-19T07:48:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (   35.5,    93.6,     0.5)
+  Do you still the outfit which looks a bit like me?
+2023-02-19T07:48:56Z: PLAYER CHATTED [ 1581340012] basenjilover5        (   35.0,    93.4,    -1.9)
+  yeah
+2023-02-19T07:49:47Z: PLAYER CHATTED [ 1581340012] basenjilover5        (   35.0,    93.4,    -1.9)
+  thanks for reminding me got something from Mandarin but it didn't work?
+2023-02-19T07:50:15Z: PLAYER CHATTED [ 1581340012] basenjilover5        (   35.0,    93.4,    -2.0)
+  lol
+2023-02-19T07:50:17Z: PLAYER CHATTED [    1630228] VisualPlugin         (   34.9,    92.9,     4.0)
+  Got it.
+2023-02-19T07:52:45Z: PLAYER CHATTED [ 1581340012] basenjilover5        (   35.0,    93.4,    -2.0)
+  that one elevator sure is fun
+2023-02-19T07:53:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (   34.9,    92.9,     4.0)
+  Which one again?
+2023-02-19T07:53:55Z: PLAYER CHATTED [ 1581340012] basenjilover5        (   35.0,    93.4,    -2.0)
+  think you called it the cursed one
+2023-02-19T07:54:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (   34.8,    92.9,     3.5)
+  So the one in my hotel.
+2023-02-19T07:54:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (   34.8,    92.9,     3.5)
+  I thought you're talking about the Mandarin.
+2023-02-19T07:54:38Z: PLAYER CHATTED [ 1581340012] basenjilover5        (   35.0,    93.4,    -2.0)
+  yeah
+2023-02-19T07:54:49Z: PLAYER CHATTED [ 1581340012] basenjilover5        (   35.0,    93.4,    -2.0)
+  here
+2023-02-19T07:56:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.2,    93.9,    -1.8)
+  I'll be back in a bit.
+2023-02-19T07:56:19Z: PLAYER CHATTED [ 1581340012] basenjilover5        (   33.0,    93.5,    -7.8)
+  ok
+2023-02-19T07:56:36Z: PLAYER REMOVED [ 1581340012] basenjilover5       
+2023-02-19T07:57:23Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

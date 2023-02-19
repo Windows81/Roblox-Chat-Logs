@@ -1,13 +1,27 @@
 <h2 align="center"> Revel in the fact that I log most of my interactions on Rōblox! </h2>
 
-In the case more than 1000 files happen to exist here, you can get the URLs of all of them through the following command line. You can pipe the result of this command to filter further.
+**Download the repository [as a zipped file](https://github.com/Windows81/Roblox-Chat-Logs/archive/refs/heads/main.zip) if you don't know how else to parse the entire chatlog archive.** You can navigate the file heirarchy in its most recent state through the following sequences of Bash commands.
 
 ```bash
-curl -s "https://api.github.com/repos/Windows81/Roblox-Chat-Logs/contents?ref=main"|grep -Po "(?<=download_url....).+\.txt"
+curl https://github.com/Windows81/Roblox-Chat-Logs/archive/refs/heads/main.zip -Ls --output temp.zip
+unzip -l temp.zip "*/*.txt" | head - -n -2 | tail - -n +5 | cut -c 53- | less
+rm temp.zip
 ```
 
+You can modify the second line to pipe the result of this command to filter further.
 To pipe and sort the results by date:
 
 ```bash
-|sort -k 1.91
+curl https://github.com/Windows81/Roblox-Chat-Logs/archive/refs/heads/main.zip -Ls --output temp.zip
+unzip -l temp.zip "*/*.txt" | head - -n -2 | tail - -n +5 | cut -c 53- | sort -k 1.13 | less
+rm temp.zip
+```
+
+To read the contents of a single file:
+
+```bash
+n="12370619045 2023-02-15 021232.txt"
+curl https://github.com/Windows81/Roblox-Chat-Logs/archive/refs/heads/main.zip -Ls --output temp.zip
+unzip -p temp.zip "*/$n" | less
+rm temp.zip
 ```
