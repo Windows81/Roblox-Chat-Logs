@@ -13,7 +13,7 @@ To pipe and sort the results by date:
 
 ```bash
 curl https://github.com/Windows81/Roblox-Chat-Logs/archive/refs/heads/main.zip -Ls --output temp.zip
-unzip -l temp.zip "*/*.txt" | head - -n -2 | tail - -n +5 | cut -c 53- | sort -k 1.13 | less
+unzip -l temp.zip "*/*.txt" | less
 rm temp.zip
 ```
 

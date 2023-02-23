@@ -1,0 +1,424 @@
+[    1630228] : [12393499703] wuff (alpha) - af97ff00-12de-4fdf-bad6-17a7476901a1
+2023-02-20T01:54:59Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-02-20T01:54:59Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-02-20T01:54:59Z: PLAYER ADDED   [  509073582] TrueStarLumi         a.k.a. StarLumi            
+2023-02-20T01:54:59Z: PLAYER ADDED   [ 1386040945] TZ_Godspeed         
+2023-02-20T01:54:59Z: PLAYER ADDED   [  271976081] DiscombobulatedJack 
+2023-02-20T01:54:59Z: PLAYER ADDED   [  104994615] Aerophagia          
+2023-02-20T01:54:59Z: PLAYER ADDED   [  632994221] ProdigiousPerplexity a.k.a. Prodigious          
+2023-02-20T01:54:59Z: PLAYER ADDED   [   69838217] Nousernamebottomtext a.k.a. Raven               
+2023-02-20T01:54:59Z: PLAYER ADDED   [ 1205060848] ZoomDoomBoom_YT     
+2023-02-20T01:54:59Z: PLAYER ADDED   [  120076607] bigbenster702       
+2023-02-20T01:55:04Z: PLAYER CHATTED [  509073582] TrueStarLumi         (  -23.5,    13.1,    19.1)
+  So, you said it's a hangout game?
+2023-02-20T01:55:05Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -67.0,    13.6,    -0.7)
+  R to toggle ragdoll
+2023-02-20T01:55:08Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -67.0,    13.6,    -0.7)
+  will make that clearer
+2023-02-20T01:55:11Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -67.0,    13.6,    -0.7)
+  yes this was be a social game
+2023-02-20T01:55:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -16.0,    14.7,     9.5)
+  I could've pressed R.
+2023-02-20T01:55:28Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -26.2,    13.2,    14.3)
+  Eh, that's kinda what it is right now.
+2023-02-20T01:55:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -43.9,    13.8,     9.3)
+  Thanks for the advice by the way!
+2023-02-20T01:55:33Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -26.2,    13.2,    14.3)
+  As well as a showcase.
+2023-02-20T01:55:36Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -67.0,    13.6,    -0.7)
+  👍 	
+2023-02-20T01:55:55Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -25.7,    13.2,    13.1)
+  Sleepy.
+2023-02-20T01:56:03Z: PLAYER ADDED   [  126860131] lovelessduck48      
+2023-02-20T01:56:06Z: CHRCTER ADDED  [  126860131] lovelessduck48      
+2023-02-20T01:56:11Z: PLAYER CHATTED [ 1386040945] TZ_Godspeed          (  -92.0,    -2.3,   115.5)
+  ca
+2023-02-20T01:56:29Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -32.9,    13.2,    13.4)
+  Hello there.
+2023-02-20T01:56:31Z: PLAYER CHATTED [  126860131] lovelessduck48       (  -32.8,    13.0,    16.7)
+  hey
+2023-02-20T01:56:46Z: PLAYER CHATTED [  126860131] lovelessduck48       (  -38.8,    13.0,    17.3)
+  HE HAS A STICK
+2023-02-20T01:56:54Z: PLAYER CHATTED [  126860131] lovelessduck48       (  -24.7,    17.8,    59.6)
+  oh its a balloon 
+2023-02-20T01:57:00Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -30.8,    16.2,    40.9)
+  Skull.
+2023-02-20T01:57:09Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -67.0,    13.6,    -0.7)
+  :m If you join the group and you're new I'll rank you to our new Elite role which is our highest ranked roleplay role
+2023-02-20T01:57:17Z: PLAYER CHATTED [   69838217] Nousernamebottomtext (  -52.5,    11.8,    16.0)
+  AYYY
+2023-02-20T01:57:21Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -67.0,    13.6,    -0.7)
+  :m Just let me know if you join
+2023-02-20T01:57:27Z: PLAYER CHATTED [   69838217] Nousernamebottomtext (  -52.5,    11.8,    16.0)
+  i joined it
+2023-02-20T01:57:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -55.2,    13.8,     4.1)
+  Done.
+2023-02-20T01:57:41Z: PLAYER CHATTED [  126860131] lovelessduck48       (  -49.7,    12.9,    10.3)
+  joined
+2023-02-20T01:57:43Z: PLAYER CHATTED [   69838217] Nousernamebottomtext (  -52.5,    11.8,    16.0)
+  and what about the ####### role
+2023-02-20T01:57:45Z: PLAYER CHATTED [   69838217] Nousernamebottomtext (  -52.5,    11.8,    16.0)
+  dis
+2023-02-20T01:57:47Z: PLAYER CHATTED [   69838217] Nousernamebottomtext (  -52.5,    11.8,    16.0)
+  ####
+2023-02-20T01:57:54Z: PLAYER CHATTED [   69838217] Nousernamebottomtext (  -52.5,    11.8,    16.0)
+  #########
+2023-02-20T01:57:56Z: PLAYER CHATTED [   69838217] Nousernamebottomtext (  -52.5,    11.8,    16.0)
+  bru
+2023-02-20T01:57:56Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -43.9,    13.2,     6.2)
+  I'm already in the group, unless there's a second one I'm unaware of.
+2023-02-20T01:57:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -58.1,    13.7,     3.4)
+  I'm doing it because I knew about Frizzed for a long time.
+2023-02-20T01:58:10Z: PLAYER CHATTED [ 1386040945] TZ_Godspeed          (  -39.8,    13.0,    17.6)
+  i keep thinking about ms frizzle
+2023-02-20T01:58:21Z: PLAYER CHATTED [  509073582] TrueStarLumi         (  -29.3,    13.0,    21.0)
+  Not really the type of person who plays Cafe games, sorry.
+2023-02-20T01:58:22Z: PLAYER CHATTED [  632994221] ProdigiousPerplexity (  -45.2,    12.9,    25.1)
+  wha
+2023-02-20T01:58:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -5.3,    13.1,     3.9)
+  The logo hasn't changed in a while.
+2023-02-20T01:58:35Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -67.0,    13.6,    -0.7)
+  logo will change to a more social 
+2023-02-20T01:58:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -5.3,    13.1,     3.9)
+  Correct me if I'm wrong, but was it the same as in 2018?
+2023-02-20T01:58:37Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -67.0,    13.6,    -0.7)
+  logo
+2023-02-20T01:58:39Z: PLAYER CHATTED [   69838217] Nousernamebottomtext (  -52.5,    11.8,    16.0)
+  hi
+2023-02-20T01:58:41Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -67.0,    13.6,    -0.7)
+  we will be less cafe, more social
+2023-02-20T01:58:42Z: PLAYER CHATTED [ 1386040945] TZ_Godspeed          (  -39.8,    13.0,    17.6)
+  joined group
+2023-02-20T01:58:56Z: PLAYER CHATTED [  126860131] lovelessduck48       (  -51.4,    12.8,    13.7)
+  i joined aswell
+2023-02-20T01:58:57Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      ( -103.7,    -2.5,   108.1)
+  Star, where are you?
+2023-02-20T01:59:00Z: PLAYER CHATTED [   69838217] Nousernamebottomtext (  -52.5,    11.8,    16.0)
+  same
+2023-02-20T01:59:04Z: PLAYER CHATTED [  120076607] bigbenster702        (  -54.8,    10.7,    22.1)
+  he is at spawn
+2023-02-20T01:59:09Z: PLAYER CHATTED [  632994221] ProdigiousPerplexity (  -45.2,    12.9,    25.1)
+  why are we joining
+2023-02-20T01:59:09Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -37.2,    13.2,    16.6)
+  Ah there.
+2023-02-20T01:59:14Z: PLAYER CHATTED [ 1386040945] TZ_Godspeed          (  -49.0,    12.9,    15.1)
+  i have a cupcake and you dont
+2023-02-20T01:59:18Z: PLAYER CHATTED [ 1386040945] TZ_Godspeed          (  -49.0,    12.9,    15.1)
+  muffin
+2023-02-20T01:59:19Z: PLAYER CHATTED [  126860131] lovelessduck48       (  -51.0,    12.9,     9.6)
+  #####
+2023-02-20T01:59:22Z: PLAYER CHATTED [  126860131] lovelessduck48       (  -51.0,    12.9,     9.6)
+  I WANT A MUFFIN 
+2023-02-20T01:59:24Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -67.0,    13.6,    -0.7)
+  ranked!
+2023-02-20T01:59:29Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -67.0,    13.6,    -0.7)
+  let me if you know if you havent gotten ranked yet
+2023-02-20T01:59:32Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -37.2,    13.2,    16.6)
+  I found something that might tickle your fancy.
+2023-02-20T01:59:34Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-02-20T01:59:40Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -67.0,    13.6,    -0.7)
+  just reset to see your role in-game
+2023-02-20T01:59:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -21.9,    14.0,    18.1)
+  I've got ranked.
+2023-02-20T01:59:45Z: PLAYER CHATTED [  509073582] TrueStarLumi         (  -29.3,    13.0,    21.0)
+  Oh, do tell.
+2023-02-20T01:59:49Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -37.2,    13.2,    16.6)
+  Follow me.
+2023-02-20T01:59:57Z: PLAYER CHATTED [ 1386040945] TZ_Godspeed          (  -49.0,    12.9,    15.0)
+  its in the house hting over there btw
+2023-02-20T02:00:10Z: PLAYER CHATTED [   69838217] Nousernamebottomtext (  -52.5,    11.8,    16.0)
+  Jack you forgot to disable the shout group on elite rank
+2023-02-20T02:00:15Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -67.3,   -25.1,    39.5)
+  This area.
+2023-02-20T02:00:17Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -67.8,   -25.1,    39.5)
+  I just found it.
+2023-02-20T02:00:19Z: PLAYER CHATTED [ 1386040945] TZ_Godspeed          (  -83.3,    -2.3,   108.1)
+  WALLE
+2023-02-20T02:00:22Z: PLAYER CHATTED [  509073582] TrueStarLumi         (  -55.8,   -25.3,    30.7)
+  What about it>
+2023-02-20T02:00:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -60.7,   -24.4,    36.5)
+  I same through from the beach.
+2023-02-20T02:00:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -60.3,   -24.4,    35.9)
+  *Came.
+2023-02-20T02:00:30Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -67.0,    13.6,    -0.7)
+  quests soon™
+2023-02-20T02:00:43Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -67.0,    13.6,    -0.7)
+  featuring wall e
+2023-02-20T02:00:46Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -55.2,   -25.1,    25.5)
+  Just the visuals. Beautiful, isn't it?
+2023-02-20T02:00:48Z: PLAYER REMOVED [  126860131] lovelessduck48      
+2023-02-20T02:00:48Z: PLAYER ADDED   [  126860131] lovelessduck48      
+2023-02-20T02:00:49Z: PLAYER CHATTED [ 1386040945] TZ_Godspeed          (  -70.9,     4.4,    77.8)
+  no way
+2023-02-20T02:01:00Z: PLAYER CHATTED [ 1386040945] TZ_Godspeed          (  -49.1,    13.1,    37.6)
+  wall e roleplay when
+2023-02-20T02:01:03Z: PLAYER CHATTED [  120076607] bigbenster702        (  -54.8,    10.7,    22.1)
+  /respawn
+2023-02-20T02:01:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -59.6,   -24.4,    26.2)
+  The visuals are beautiful.
+2023-02-20T02:01:06Z: PLAYER CHATTED [  120076607] bigbenster702        (  -54.8,    10.7,    22.1)
+  sa
+2023-02-20T02:01:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -59.6,   -24.4,    26.2)
+  Just as are the plugins.
+2023-02-20T02:01:11Z: CHRCTER ADDED  [  120076607] bigbenster702       
+2023-02-20T02:01:31Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -48.1,     7.6,    15.4)
+  ACK.
+2023-02-20T02:01:33Z: PLAYER CHATTED [  120076607] bigbenster702        (  -54.8,    10.7,    22.1)
+  lol zoom
+2023-02-20T02:01:35Z: PLAYER CHATTED [  509073582] TrueStarLumi         (  -55.8,   -25.3,    30.7)
+  I mean, I don't want to be rude or anything. I've seen visuals like this a couple of times.
+2023-02-20T02:01:43Z: PLAYER CHATTED [  509073582] TrueStarLumi         (  -55.8,   -25.3,    30.7)
+  Maybe your style of visual, but not too much mine.
+2023-02-20T02:01:52Z: PLAYER CHATTED [   69838217] Nousernamebottomtext (  -52.5,    11.8,    16.0)
+  !rejoin
+2023-02-20T02:01:52Z: PLAYER REMOVED [   69838217] Nousernamebottomtext a.k.a. Raven               
+2023-02-20T02:01:53Z: PLAYER ADDED   [   69838217] Nousernamebottomtext a.k.a. Raven               
+2023-02-20T02:01:58Z: CHRCTER ADDED  [ 1386040945] TZ_Godspeed         
+2023-02-20T02:02:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -57.2,   -24.4,    35.5)
+  It's difficut to be truly unique.
+2023-02-20T02:02:06Z: CHRCTER ADDED  [ 1205060848] ZoomDoomBoom_YT     
+2023-02-20T02:02:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -57.2,   -24.4,    35.5)
+  *Difficult.
+2023-02-20T02:02:21Z: PLAYER CHATTED [  509073582] TrueStarLumi         (  -60.9,   -25.3,    43.2)
+  Indeed, and you can
+2023-02-20T02:02:22Z: PLAYER CHATTED [  120076607] bigbenster702        (  -54.8,    10.7,    22.1)
+  music is good
+2023-02-20T02:02:22Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -97.1,    -2.1,   114.1)
+  ^
+2023-02-20T02:02:27Z: PLAYER CHATTED [  509073582] TrueStarLumi         (  -61.2,   -25.3,    43.6)
+  can't appeal to all.
+2023-02-20T02:02:39Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -95.3,   -16.1,   103.6)
+  I muted the music because I'm listening to some on YouTube.
+2023-02-20T02:02:41Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -67.0,    13.6,    -0.7)
+  perhaps we will have a radio system so you listen to rock etc 
+2023-02-20T02:02:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -65.1,   -24.4,    47.2)
+  It ticks my boxes well enough.
+2023-02-20T02:02:53Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -53.4,   -25.1,    16.8)
+  Oooh that would be lovely.
+2023-02-20T02:02:58Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -67.0,    13.6,    -0.7)
+  😄 	
+2023-02-20T02:03:19Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -57.5,   -24.4,    39.1)
+  Diamond-plated concrete.
+2023-02-20T02:03:24Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -57.5,   -24.4,    39.1)
+  Looks re-inforced.
+2023-02-20T02:03:31Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -57.5,   -24.4,    39.1)
+  But they really cheaped out on fencing.
+2023-02-20T02:03:39Z: PLAYER CHATTED [ 1386040945] TZ_Godspeed          (  -40.9,    16.5,    28.0)
+  ran out of budget
+2023-02-20T02:03:57Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -65.7,   -25.1,    48.8)
+  This definitely does not violate any safety regulations.
+2023-02-20T02:04:02Z: PLAYER CHATTED [  104994615] Aerophagia           (  -67.1,    13.6,    -2.7)
+  /e :view visua
+2023-02-20T02:04:09Z: PLAYER CHATTED [  104994615] Aerophagia           (  -67.1,    13.6,    -2.7)
+  /e :unview
+2023-02-20T02:04:21Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -58.0,   -24.4,    39.1)
+  Fences should be at least 3.5 studs high.
+2023-02-20T02:04:29Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -58.0,   -24.4,    39.1)
+  Or is it 3?
+2023-02-20T02:04:39Z: PLAYER CHATTED [ 1386040945] TZ_Godspeed          (  -41.4,    13.0,    15.5)
+  !fire
+2023-02-20T02:04:40Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -65.7,   -25.1,    48.8)
+  It's already about 3.5 studs.
+2023-02-20T02:04:55Z: PLAYER CHATTED [ 1386040945] TZ_Godspeed          (  -41.4,    13.0,    15.5)
+  !unfire
+2023-02-20T02:04:56Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -64.3,   -25.1,    49.5)
+  3 studs would be the middle of my arm.
+2023-02-20T02:05:09Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -64.1,   -25.1,    49.1)
+  /e dance
+2023-02-20T02:05:16Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -64.1,   -25.1,    49.1)
+  /e :cmds
+2023-02-20T02:05:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -59.3,   -24.4,    39.6)
+  They had a good design goingm
+2023-02-20T02:05:46Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -59.3,   -24.4,    39.6)
+  But they accidentally left the game open,
+2023-02-20T02:05:47Z: PLAYER CHATTED [ 1386040945] TZ_Godspeed          (  -41.4,    13.0,    15.5)
+  very bright
+2023-02-20T02:05:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -59.3,   -24.4,    39.6)
+  And we're trespassing.
+2023-02-20T02:06:03Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -59.3,   -24.4,    39.6)
+  I like exploring incomplete sites in real life,
+2023-02-20T02:06:05Z: PLAYER ADDED   [   60284392] Lsarowar20000        a.k.a. realLsarowar        
+2023-02-20T02:06:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -59.3,   -24.4,    39.6)
+  But this is a bit much.
+2023-02-20T02:07:03Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -74.7,   -24.9,    72.3)
+  Ack.
+2023-02-20T02:07:12Z: PLAYER CHATTED [   60284392] Lsarowar20000        (  -49.0,    12.9,    -5.9)
+  hi
+2023-02-20T02:07:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -55.2,   -47.2,    51.2)
+  Only way back up is to fly.
+2023-02-20T02:07:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -51.2,   -47.2,    50.2)
+  Or teleport.
+2023-02-20T02:08:25Z: PLAYER CHATTED [  509073582] TrueStarLumi         (  -60.5,   -25.3,    43.8)
+  So, new avatar?
+2023-02-20T02:08:43Z: PLAYER CHATTED [  509073582] TrueStarLumi         (  -60.5,   -25.3,    43.8)
+  He's tabbed out.
+2023-02-20T02:08:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -58.3,   -24.4,    38.0)
+  I've had mine the way it is for about a month.
+2023-02-20T02:09:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -58.8,   -24.4,    38.7)
+  My shirt was made by me and has been on since June 2021.
+2023-02-20T02:09:16Z: PLAYER CHATTED [  509073582] TrueStarLumi         (  -60.5,   -25.3,    43.8)
+  Zoom.
+2023-02-20T02:09:21Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -65.0,   -25.1,    50.0)
+  Hmm?
+2023-02-20T02:09:38Z: PLAYER CHATTED [  509073582] TrueStarLumi         (  -60.7,   -25.3,    43.8)
+  New avatar? You got this one yesterday, correct?
+2023-02-20T02:09:45Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -65.0,   -25.1,    50.6)
+  Yes.
+2023-02-20T02:09:49Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -65.0,   -25.1,    50.6)
+  Last night.
+2023-02-20T02:10:04Z: PLAYER CHATTED [  509073582] TrueStarLumi         (  -60.7,   -25.3,    43.8)
+  Why so, just curious.
+2023-02-20T02:10:21Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -65.0,   -25.1,    50.6)
+  I will keep my reasons unknown.
+2023-02-20T02:10:41Z: PLAYER CHATTED [  509073582] TrueStarLumi         (  -60.7,   -25.3,    43.8)
+  Fair, mysterious as always.
+2023-02-20T02:11:41Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (   93.7,   -41.8,    63.8)
+  Well, there's a gap in the map.
+2023-02-20T02:11:56Z: PLAYER CHATTED [  104994615] Aerophagia           (  -67.1,    13.6,    -2.7)
+  /e :view zoo
+2023-02-20T02:11:58Z: PLAYER CHATTED [ 1386040945] TZ_Godspeed          (  -40.0,    13.1,    24.6)
+  joined the devforum group
+2023-02-20T02:12:03Z: PLAYER CHATTED [  104994615] Aerophagia           (  -67.1,    13.6,    -2.7)
+  /e :unview
+2023-02-20T02:12:11Z: PLAYER CHATTED [ 1386040945] TZ_Godspeed          (  -40.0,    13.1,    24.6)
+  the most useless group
+2023-02-20T02:12:23Z: PLAYER REMOVED [  509073582] TrueStarLumi         a.k.a. StarLumi            
+2023-02-20T02:12:42Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (   42.9,   -34.6,    80.2)
+  I don't think I'm going to join it. I like to keep my group count down.
+2023-02-20T02:13:14Z: PLAYER CHATTED [  120076607] bigbenster702        (  -54.8,    10.7,    22.1)
+  lo
+2023-02-20T02:13:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -90.6,   239.5,   -86.2)
+  @Jack:
+2023-02-20T02:13:19Z: PLAYER CHATTED [  120076607] bigbenster702        (  -54.8,    10.7,    22.1)
+  you have to verify using their game tz
+2023-02-20T02:13:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -90.6,   239.5,   -86.2)
+  I found R15Anim and R6Anim!
+2023-02-20T02:13:28Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -67.0,    13.6,    -0.7)
+  😱 	
+2023-02-20T02:13:36Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -61.8,    12.7,    -0.3)
+  hey lsar!
+2023-02-20T02:13:38Z: PLAYER CHATTED [   60284392] Lsarowar20000        (  -52.3,    12.7,    -6.4)
+  hi
+2023-02-20T02:13:41Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -55.2,    12.3,    -3.0)
+  it has been a while
+2023-02-20T02:13:43Z: PLAYER CHATTED [   60284392] Lsarowar20000        (  -52.3,    12.7,    -6.4)
+  yea
+2023-02-20T02:13:44Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -55.2,    12.3,    -3.0)
+  how have you been
+2023-02-20T02:13:45Z: PLAYER CHATTED [   60284392] Lsarowar20000        (  -52.3,    12.7,    -6.4)
+  been a while
+2023-02-20T02:13:46Z: PLAYER CHATTED [   60284392] Lsarowar20000        (  -52.3,    12.7,    -6.4)
+  im good
+2023-02-20T02:13:47Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -55.2,    12.3,    -3.0)
+  😄 	
+2023-02-20T02:13:53Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -55.2,    12.3,    -3.0)
+  doing more elevator stuff?
+2023-02-20T02:13:55Z: PLAYER CHATTED [   60284392] Lsarowar20000        (  -52.3,    12.7,    -6.4)
+  yes
+2023-02-20T02:13:57Z: PLAYER CHATTED [   60284392] Lsarowar20000        (  -52.3,    12.7,    -6.4)
+  lol
+2023-02-20T02:14:00Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -54.6,    12.6,     0.1)
+  very noice 👌 	
+2023-02-20T02:14:09Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (   63.2,   -47.2,   -46.0)
+  I will now depart. Y'all take care.
+2023-02-20T02:14:14Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -67.0,    13.6,    -0.7)
+  likewise!
+2023-02-20T02:14:16Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -67.0,    13.6,    -0.7)
+  thanks for playing
+2023-02-20T02:14:21Z: PLAYER REMOVED [ 1205060848] ZoomDoomBoom_YT     
+2023-02-20T02:14:22Z: PLAYER CHATTED [  104994615] Aerophagia           (  -67.1,    13.6,    -2.7)
+  it finally stopped snowing after the entire night
+2023-02-20T02:14:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -61.9,    13.7,     0.4)
+  No problem.
+2023-02-20T02:14:25Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -67.0,    13.6,    -0.7)
+  woo!
+2023-02-20T02:14:27Z: PLAYER CHATTED [ 1386040945] TZ_Godspeed          (  -40.4,    13.1,    24.7)
+  ben what do you mean
+2023-02-20T02:14:33Z: PLAYER CHATTED [  104994615] Aerophagia           (  -67.1,    13.6,    -2.7)
+  the nights temp is min and max below 40
+2023-02-20T02:14:35Z: PLAYER CHATTED [  104994615] Aerophagia           (  -67.1,    13.6,    -2.7)
+  so thats why
+2023-02-20T02:14:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -61.0,    13.8,     2.5)
+  Who controls the snow?
+2023-02-20T02:14:41Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -67.0,    13.6,    -0.7)
+  randomised
+2023-02-20T02:14:50Z: CHRCTER ADDED  [ 1386040945] TZ_Godspeed         
+2023-02-20T02:14:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -61.2,    13.8,     2.4)
+  Ah.
+2023-02-20T02:14:56Z: PLAYER CHATTED [  120076607] bigbenster702        (  -54.8,    10.7,    22.1)
+  tz
+2023-02-20T02:15:20Z: CHRCTER ADDED  [  126860131] lovelessduck48      
+2023-02-20T02:15:24Z: PLAYER CHATTED [   69838217] Nousernamebottomtext (  -52.5,    11.8,    16.0)
+  ima go
+2023-02-20T02:15:30Z: PLAYER CHATTED [   69838217] Nousernamebottomtext (  -52.5,    11.8,    16.0)
+  bye
+2023-02-20T02:15:34Z: PLAYER CHATTED [  632994221] ProdigiousPerplexity (  -47.4,    12.8,    23.4)
+  cya
+2023-02-20T02:15:34Z: CHRCTER ADDED  [   69838217] Nousernamebottomtext a.k.a. Raven               
+2023-02-20T02:15:38Z: PLAYER REMOVED [   69838217] Nousernamebottomtext a.k.a. Raven               
+2023-02-20T02:15:42Z: PLAYER CHATTED [  126860131] lovelessduck48       (  -52.5,    11.8,    16.0)
+  i am stealing his seat 
+2023-02-20T02:15:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -61.6,    13.8,     3.5)
+  Now it's raining and the high for today is 13°.
+2023-02-20T02:15:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -59.4,    13.7,     3.3)
+  (°C).
+2023-02-20T02:15:53Z: PLAYER CHATTED [  632994221] ProdigiousPerplexity (  -47.4,    12.8,    23.4)
+  wow
+2023-02-20T02:16:03Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -56.6,    13.7,     2.6)
+  In this map, that is.
+2023-02-20T02:16:16Z: PLAYER CHATTED [   60284392] Lsarowar20000        (  -49.6,    13.0,     3.1)
+  ✔✔
+2023-02-20T02:16:33Z: CHRCTER ADDED  [  126860131] lovelessduck48      
+2023-02-20T02:16:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -51.9,    13.7,     0.1)
+  Prod:
+2023-02-20T02:16:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -51.9,    13.7,     0.1)
+  I like your word!
+2023-02-20T02:16:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -55.7,    13.5,    -8.9)
+  I sometimes call myself 'Respected Leader VisualPlugin, Most Prodigious'.
+2023-02-20T02:17:07Z: PLAYER CHATTED [  126860131] lovelessduck48       (  -52.5,    11.8,    16.0)
+  so i am trying to verify in your server
+2023-02-20T02:17:10Z: PLAYER CHATTED [  126860131] lovelessduck48       (  -52.5,    11.8,    16.0)
+  how do i do that
+2023-02-20T02:17:17Z: PLAYER CHATTED [  126860131] lovelessduck48       (  -52.5,    11.8,    16.0)
+  it doesnt seem to be working for me 
+2023-02-20T02:17:53Z: PLAYER REMOVED [ 1386040945] TZ_Godspeed         
+2023-02-20T02:18:56Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -67.0,    13.6,    -0.7)
+  we'll fix it soon!
+2023-02-20T02:18:59Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -67.0,    13.6,    -0.7)
+  thanks for mentioning that
+2023-02-20T02:19:04Z: PLAYER CHATTED [  126860131] lovelessduck48       (  -52.5,    11.8,    16.0)
+  alright 
+2023-02-20T02:20:17Z: PLAYER ADDED   [ 1220731972] utum66               a.k.a. Moonstone           
+2023-02-20T02:20:27Z: PLAYER CHATTED [  126860131] lovelessduck48       (  -52.5,    11.8,    16.0)
+  BEN 
+2023-02-20T02:20:29Z: PLAYER CHATTED [  126860131] lovelessduck48       (  -52.5,    11.8,    16.0)
+  ITS UTUM 
+2023-02-20T02:20:30Z: PLAYER CHATTED [  126860131] lovelessduck48       (  -52.5,    11.8,    16.0)
+  RUN 
+2023-02-20T02:20:36Z: PLAYER CHATTED [  120076607] bigbenster702        (  -54.8,    10.7,    22.1)
+  AAAAAAA
+2023-02-20T02:21:11Z: CHRCTER ADDED  [ 1220731972] utum66               a.k.a. Moonstone           
+2023-02-20T02:21:17Z: PLAYER CHATTED [  126860131] lovelessduck48       (  -52.5,    11.8,    16.0)
+  oh #####
+2023-02-20T02:21:19Z: PLAYER CHATTED [   60284392] Lsarowar20000        (  -31.1,    16.3,     0.9)
+  whast
+2023-02-20T02:21:19Z: PLAYER CHATTED [  126860131] lovelessduck48       (  -52.5,    11.8,    16.0)
+  oh god 
+2023-02-20T02:21:19Z: PLAYER CHATTED [   60284392] Lsarowar20000        (  -31.1,    16.3,     0.9)
+  you
+2023-02-20T02:21:20Z: PLAYER CHATTED [  120076607] bigbenster702        (  -54.8,    10.7,    22.1)
+  UTUM
+2023-02-20T02:21:26Z: PLAYER CHATTED [  120076607] bigbenster702        (  -54.8,    10.7,    22.1)
+  NOOOO UTUM
+2023-02-20T02:21:29Z: PLAYER CHATTED [  126860131] lovelessduck48       (  -52.5,    11.8,    16.0)
+  utum can you go one game without doing that
+2023-02-20T02:21:41Z: PLAYER CHATTED [  120076607] bigbenster702        (  -54.2,    10.8,    23.5)
+  reminds me
+2023-02-20T02:21:43Z: CHRCTER ADDED  [  120076607] bigbenster702       
+2023-02-20T02:21:49Z: PLAYER CHATTED [  120076607] bigbenster702        (  -50.3,    10.3,    16.6)
+  ow
+2023-02-20T02:23:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -50.2,    13.7,    -1.6)
+  You're as tall as Younite!
+2023-02-20T02:24:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -50.2,    13.7,    -1.8)
+  I'll be off.
+2023-02-20T02:24:25Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

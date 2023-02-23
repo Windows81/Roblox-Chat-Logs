@@ -1,0 +1,290 @@
+[    1630228] : [12393499703] wuff - 014dbe56-2265-46fc-93e0-211ba09c52dc
+2023-02-20T01:15:51Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-02-20T01:15:51Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-02-20T01:15:51Z: PLAYER ADDED   [ 1205060848] ZoomDoomBoom_YT     
+2023-02-20T01:15:51Z: PLAYER ADDED   [  271976081] DiscombobulatedJack 
+2023-02-20T01:15:51Z: PLAYER ADDED   [  104994615] Aerophagia          
+2023-02-20T01:15:51Z: PLAYER ADDED   [  120076607] bigbenster702       
+2023-02-20T01:15:51Z: PLAYER ADDED   [  201516663] Frimeowa             a.k.a. Frisuki             
+2023-02-20T01:15:51Z: PLAYER ADDED   [  369951478] NemPaws              a.k.a. nem                 
+2023-02-20T01:15:56Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -58.3,    12.7,     2.6)
+  we'll work on it 👍 	
+2023-02-20T01:15:59Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -48.3,    13.2,    -1.1)
+  I have 38 FPS. Graphics 10.
+2023-02-20T01:16:01Z: PLAYER CHATTED [  120076607] bigbenster702        (  -67.0,    13.6,    -0.7)
+  ## ###########
+2023-02-20T01:16:04Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -53.4,    13.8,     4.9)
+  Closer to 43 now.
+2023-02-20T01:16:07Z: PLAYER CHATTED [  201516663] Frimeowa             (  -55.3,    12.3,    -4.4)
+  15 fps :>
+2023-02-20T01:16:17Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -56.7,    13.6,     1.0)
+  50 at leve 21.
+2023-02-20T01:16:24Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -56.4,    13.6,     1.6)
+  21 = max graphics.
+2023-02-20T01:16:27Z: PLAYER ADDED   [   69838217] Nousernamebottomtext a.k.a. Raven               
+2023-02-20T01:16:32Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -51.0,    13.1,    -0.6)
+  It's an internal thing.
+2023-02-20T01:16:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -55.7,    13.7,     2.8)
+  Shift + F2 will describe your 'inernal ' level.
+2023-02-20T01:16:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -55.3,    13.8,     3.7)
+  *Internal.
+2023-02-20T01:17:00Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -56.5,    12.6,    10.5)
+  ty!
+2023-02-20T01:17:18Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -50.6,    13.1,     1.0)
+  The 10 options you get in the ESC menu are just a hood.
+2023-02-20T01:17:27Z: PLAYER ADDED   [ 2811784084] overajhe92e         
+2023-02-20T01:17:29Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -67.1,    13.7,    -2.7)
+  Oh right, this thing has animations.
+2023-02-20T01:18:02Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -57.2,    12.5,    10.8)
+  /refresh
+2023-02-20T01:18:02Z: CHRCTER ADDED  [  271976081] DiscombobulatedJack 
+2023-02-20T01:18:10Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -56.6,    12.4,    13.4)
+  /larger
+2023-02-20T01:18:12Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -56.6,    14.0,    13.4)
+  /larger
+2023-02-20T01:18:16Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -56.6,    15.5,    13.4)
+  am giant
+2023-02-20T01:18:20Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -56.6,    15.5,    13.4)
+  /refresh
+2023-02-20T01:18:20Z: CHRCTER ADDED  [  271976081] DiscombobulatedJack 
+2023-02-20T01:18:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -53.0,    13.7,    10.0)
+  I'm only 185 cm!
+2023-02-20T01:18:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -53.5,    13.6,    10.5)
+  No fair!
+2023-02-20T01:18:36Z: PLAYER CHATTED [ 2811784084] overajhe92e          (  -45.4,    13.0,    14.2)
+  nuclear bombs
+2023-02-20T01:18:51Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT     
+  ACK.
+2023-02-20T01:18:52Z: CHRCTER ADDED  [ 1205060848] ZoomDoomBoom_YT     
+2023-02-20T01:18:56Z: PLAYER ADDED   [ 1088119921] AIoeVeraPlant        a.k.a. AloeVera            
+2023-02-20T01:18:58Z: CHRCTER ADDED  [ 1088119921] AIoeVeraPlant        a.k.a. AloeVera            
+2023-02-20T01:19:06Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -23.5,    13.4,    22.5)
+  I just got thrown into the void.
+2023-02-20T01:19:19Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      ( -107.5,    -0.3,     2.8)
+  Weeeeeeeeeee.
+2023-02-20T01:19:24Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      ( -100.5,     3.4,     0.3)
+  Oh no.
+2023-02-20T01:19:37Z: PLAYER CHATTED [ 1088119921] AIoeVeraPlant        (  -23.5,    13.1,    19.1)
+  oh thats thunder
+2023-02-20T01:19:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -57.9,    13.6,     8.2)
+  Your cone followed me around and advertised his social media handles.
+2023-02-20T01:19:41Z: PLAYER CHATTED [ 2811784084] overajhe92e          (  -36.7,    13.0,    16.8)
+  the man himself
+2023-02-20T01:19:41Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      ( -100.5,     3.3,     0.3)
+  Imma go to ##### ## for a minute.
+2023-02-20T01:19:44Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -57.4,    13.4,    11.3)
+  *Clone.
+2023-02-20T01:19:46Z: PLAYER CHATTED [ 2811784084] overajhe92e          (  -36.8,    13.0,    16.8)
+  YOU SHOULD
+2023-02-20T01:19:48Z: PLAYER CHATTED [ 1088119921] AIoeVeraPlant        (  -23.5,    13.1,    19.1)
+  I thought there was a bomb 
+2023-02-20T01:19:50Z: PLAYER ADDED   [  644402035] AlaskaAirPassenger   a.k.a. Alaska_Airlines     
+2023-02-20T01:19:51Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      ( -100.6,     3.4,     0.3)
+  to the Quantum VC*
+2023-02-20T01:19:56Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -74.0,    11.0,    23.5)
+  yes
+2023-02-20T01:20:11Z: PLAYER CHATTED [  201516663] Frimeowa             (  -68.1,    13.0,    -7.7)
+  a.
+2023-02-20T01:20:15Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      ( -100.6,     3.5,     0.3)
+  Actually nevermind.
+2023-02-20T01:20:28Z: PLAYER CHATTED [ 2811784084] overajhe92e          (  187.5,   -18.6,   103.3)
+  oh cool
+2023-02-20T01:20:29Z: PLAYER CHATTED [  644402035] AlaskaAirPassenger   (  -49.5,    14.0,    12.2)
+  what
+2023-02-20T01:20:32Z: PLAYER CHATTED [ 2811784084] overajhe92e          (  234.1,   -23.4,   113.1)
+  a place to drown in
+2023-02-20T01:20:35Z: PLAYER CHATTED [ 1088119921] AIoeVeraPlant       
+  oh 
+2023-02-20T01:20:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -68.3,    13.2,    18.9)
+  I think it's better to include a signifyer for our time zone than our region.
+2023-02-20T01:20:37Z: CHRCTER ADDED  [ 1088119921] AIoeVeraPlant        a.k.a. AloeVera            
+2023-02-20T01:20:39Z: PLAYER CHATTED [  120076607] bigbenster702        (  -67.0,    13.6,    -0.7)
+  ######################
+2023-02-20T01:20:43Z: PLAYER CHATTED [   69838217] Nousernamebottomtext (  -60.9,    12.8,    -1.3)
+  are you uh
+2023-02-20T01:20:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -68.3,    13.2,    18.9)
+  The US is big and the UK is small.
+2023-02-20T01:20:47Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -72.1,    11.0,    21.1)
+  ah
+2023-02-20T01:20:49Z: PLAYER CHATTED [   69838217] Nousernamebottomtext (  -60.9,    12.8,    -1.3)
+  in relation
+2023-02-20T01:20:53Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -72.1,    11.0,    21.1)
+  i will note that down
+2023-02-20T01:20:55Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -72.1,    11.0,    21.1)
+  ty
+2023-02-20T01:20:58Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -67.1,    13.7,    -2.7)
+  No.
+2023-02-20T01:21:03Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -68.2,    12.8,    19.1)
+  It could be anywhere from 17:20 to 20:20 for me.
+2023-02-20T01:21:07Z: PLAYER CHATTED [  120076607] bigbenster702        (  -67.0,    13.6,    -0.7)
+  no
+2023-02-20T01:21:11Z: PLAYER REMOVED [ 1088119921] AIoeVeraPlant        a.k.a. AloeVera            
+2023-02-20T01:21:12Z: CHRCTER ADDED  [ 2811784084] overajhe92e         
+2023-02-20T01:21:17Z: PLAYER CHATTED [   69838217] Nousernamebottomtext (  -60.7,    12.8,    -1.4)
+  then wh are
+2023-02-20T01:21:20Z: PLAYER CHATTED [   69838217] Nousernamebottomtext (  -60.7,    12.8,    -1.4)
+  bru
+2023-02-20T01:21:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -68.2,    12.8,    19.1)
+  And get some chat-logger going!
+2023-02-20T01:21:30Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -63.3,    12.0,    13.5)
+  mhm mhm
+2023-02-20T01:21:31Z: PLAYER CHATTED [  120076607] bigbenster702        (  -67.0,    13.6,    -0.7)
+  /e !unparticle
+2023-02-20T01:21:34Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -48.4,    13.1,    15.9)
+  Hmmm....
+2023-02-20T01:21:40Z: PLAYER CHATTED [ 2811784084] overajhe92e          (  -47.7,    13.0,     3.7)
+  conops
+2023-02-20T01:21:41Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT     
+  YEP.
+2023-02-20T01:21:41Z: PLAYER CHATTED [  201516663] Frimeowa             (  -60.7,    12.8,    -6.3)
+  I didn't mean to make this game popular all of a sudden, I just wanted to crash my computer o.o
+2023-02-20T01:21:42Z: CHRCTER ADDED  [ 1205060848] ZoomDoomBoom_YT     
+2023-02-20T01:21:49Z: PLAYER ADDED   [ 1386040945] TZ_Godspeed         
+2023-02-20T01:21:54Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -16.7,    14.0,     9.7)
+  I figured out how to make the kite fling you.
+2023-02-20T01:21:58Z: PLAYER CHATTED [  120076607] bigbenster702        (  -67.0,    13.6,    -0.7)
+  LOL
+2023-02-20T01:22:00Z: PLAYER CHATTED [  120076607] bigbenster702        (  -67.0,    13.6,    -0.7)
+  TZ
+2023-02-20T01:22:01Z: PLAYER CHATTED [ 1386040945] TZ_Godspeed          (  -20.2,    13.8,     7.7)
+  among
+2023-02-20T01:22:02Z: PLAYER CHATTED [   69838217] Nousernamebottomtext (  -60.5,    12.8,    -1.4)
+  /
+2023-02-20T01:22:13Z: PLAYER CHATTED [ 1386040945] TZ_Godspeed          (  -32.9,    13.1,     4.4)
+  what is this
+2023-02-20T01:22:20Z: PLAYER CHATTED [ 2811784084] overajhe92e          (  -35.6,    13.0,    10.3)
+  idk
+2023-02-20T01:22:42Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -68.9,    13.7,     9.9)
+  BEN.
+2023-02-20T01:22:53Z: PLAYER ADDED   [ 1220731972] utum66               a.k.a. Moonstone           
+2023-02-20T01:22:59Z: PLAYER CHATTED [  201516663] Frimeowa             (  -54.8,    10.8,    22.1)
+  dude, they sent the link in QSP general.
+2023-02-20T01:23:05Z: PLAYER CHATTED [  201516663] Frimeowa             (  -54.8,    10.8,    22.1)
+  whyy.
+2023-02-20T01:23:08Z: PLAYER CHATTED [ 1220731972] utum66               (  -29.3,    13.2,    17.9)
+  BOO
+2023-02-20T01:23:12Z: PLAYER CHATTED [ 1386040945] TZ_Godspeed          ( -102.0,    -2.3,   123.7)
+  LOL
+2023-02-20T01:23:14Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -62.4,    13.2,     1.5)
+  ##################################
+2023-02-20T01:23:17Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -62.4,    13.2,     1.5)
+  Of course.
+2023-02-20T01:23:19Z: PLAYER CHATTED [ 2811784084] overajhe92e          (  -53.4,    12.6,    -3.3)
+  oh mah gawd
+2023-02-20T01:23:27Z: PLAYER CHATTED [ 1386040945] TZ_Godspeed          (  -97.2,    -1.7,   126.6)
+  knocked over the cat
+2023-02-20T01:23:38Z: PLAYER CHATTED [   69838217] Nousernamebottomtext ( -103.1,    -2.7,   112.2)
+  oh god your game is getting raided by me
+2023-02-20T01:23:41Z: PLAYER CHATTED [ 2811784084] overajhe92e          (  -52.1,    13.0,     7.9)
+  my laptop is currently trying to die
+2023-02-20T01:23:47Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -49.6,    13.0,    -5.3)
+  Utum, do you like flying?
+2023-02-20T01:23:54Z: PLAYER CHATTED [ 1220731972] utum66               (  -55.1,    12.7,    -5.4)
+  maybe
+2023-02-20T01:23:55Z: PLAYER CHATTED [ 1386040945] TZ_Godspeed          (  -41.8,    13.0,    24.1)
+  UTUM??
+2023-02-20T01:23:58Z: PLAYER CHATTED [  644402035] AlaskaAirPassenger   (  -57.4,    13.9,     2.4)
+  I am getting like 21 fps here
+2023-02-20T01:24:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -80.7,     1.4,    85.5)
+  I like to fly!
+2023-02-20T01:24:09Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -49.4,    12.8,    10.4)
+  we will optimise this as soon as possible
+2023-02-20T01:24:11Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -49.8,    13.1,    -3.3)
+  Play around with the kite. Something interesting might happen.
+2023-02-20T01:24:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -73.3,     9.6,    64.3)
+  Does this game has weird kicky mechanisms?
+2023-02-20T01:24:13Z: PLAYER CHATTED [   69838217] Nousernamebottomtext (  -45.9,    13.0,     8.9)
+  49 fps
+2023-02-20T01:24:20Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -40.7,    12.8,    16.6)
+  please note the game is being worked on
+2023-02-20T01:24:22Z: PLAYER CHATTED [ 1386040945] TZ_Godspeed         
+  A
+2023-02-20T01:24:22Z: PLAYER CHATTED [  120076607] bigbenster702        (  -67.0,    13.6,    -0.7)
+  LOL
+2023-02-20T01:24:23Z: PLAYER CHATTED [   69838217] Nousernamebottomtext (  -59.4,    13.0,   -14.9)
+  LOL
+2023-02-20T01:24:23Z: CHRCTER ADDED  [ 1386040945] TZ_Godspeed         
+2023-02-20T01:24:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -63.1,    12.5,    43.1)
+  Does it kick you for having RocketPropulsion?
+2023-02-20T01:24:35Z: PLAYER CHATTED [ 1386040945] TZ_Godspeed          (  -34.1,    13.0,    14.9)
+  is that the interesting thing zoom
+2023-02-20T01:24:44Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -44.7,    12.8,     9.6)
+  :bring ae
+2023-02-20T01:24:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -51.9,    13.8,     7.5)
+  I'll see if I can fly around the map.
+2023-02-20T01:24:52Z: CHRCTER ADDED  [   69838217] Nousernamebottomtext a.k.a. Raven               
+2023-02-20T01:24:54Z: PLAYER CHATTED [   69838217] Nousernamebottomtext (  -23.5,    13.1,    19.1)
+  OH MY GOD
+2023-02-20T01:24:55Z: PLAYER REMOVED [ 1220731972] utum66               a.k.a. Moonstone           
+2023-02-20T01:25:00Z: PLAYER CHATTED [   69838217] Nousernamebottomtext (  -47.7,    13.0,    12.0)
+  I GOT 
+2023-02-20T01:25:03Z: PLAYER CHATTED [   69838217] Nousernamebottomtext (  -42.3,    13.0,    14.5)
+  FLINF
+2023-02-20T01:25:06Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (-74337184.0, 165923152.0, -74518816.0)
+  :to vis
+2023-02-20T01:25:13Z: CHRCTER ADDED  [  271976081] DiscombobulatedJack 
+2023-02-20T01:25:17Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -641.5,   -34.0,   118.3)
+  I was being glung.
+2023-02-20T01:25:20Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -641.5,   -34.0,   118.3)
+  *Flung.
+2023-02-20T01:25:21Z: CHRCTER ADDED  [  104994615] Aerophagia          
+2023-02-20T01:25:27Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -60.3,    11.9,    19.7)
+  I got that menu with the hug button to come up, but I don't know how.
+2023-02-20T01:25:47Z: PLAYER CHATTED [ 1386040945] TZ_Godspeed         
+  AE
+2023-02-20T01:25:48Z: CHRCTER ADDED  [ 1386040945] TZ_Godspeed         
+2023-02-20T01:26:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -34.7,    13.8,    14.3)
+  Hiya.
+2023-02-20T01:26:04Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -42.2,    12.8,     9.8)
+  hugs coming soon™ 	
+2023-02-20T01:26:17Z: PLAYER CHATTED [  201516663] Frimeowa             (  -54.8,    10.8,    22.1)
+  :}
+2023-02-20T01:26:23Z: CHRCTER ADDED  [ 2811784084] overajhe92e         
+2023-02-20T01:26:32Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -51.0,    12.8,    20.4)
+  Lovely.
+2023-02-20T01:26:34Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -37.4,    13.8,    12.9)
+  Aero and I have met before.
+2023-02-20T01:26:37Z: PLAYER CHATTED [ 2811784084] overajhe92e          (  -24.5,    11.2,    29.2)
+  OW
+2023-02-20T01:26:41Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -37.2,    13.8,    12.9)
+  Not in person though.
+2023-02-20T01:26:44Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -51.0,    12.8,    20.4)
+  Imagine if they did a gamenight on this game.
+2023-02-20T01:26:48Z: PLAYER CHATTED [ 1386040945] TZ_Godspeed          (  -54.4,    11.7,    23.3)
+  whar
+2023-02-20T01:26:56Z: PLAYER CHATTED [ 2811784084] overajhe92e          (  -49.8,    12.7,    17.7)
+  ...
+2023-02-20T01:26:57Z: PLAYER CHATTED [ 2811784084] overajhe92e          (  -49.8,    12.7,    17.7)
+  no.
+2023-02-20T01:26:58Z: PLAYER CHATTED [ 1386040945] TZ_Godspeed          (  -46.1,    12.9,    19.6)
+  WHERED THE KITE GO
+2023-02-20T01:27:06Z: PLAYER CHATTED [  644402035] AlaskaAirPassenger   (  -41.0,    14.1,    15.2)
+  gone
+2023-02-20T01:27:12Z: PLAYER CHATTED [ 1386040945] TZ_Godspeed          (  -45.7,    13.0,     8.9)
+  i want my kite back :(
+2023-02-20T01:27:23Z: CHRCTER ADDED  [ 2811784084] overajhe92e         
+2023-02-20T01:27:38Z: PLAYER CHATTED [   69838217] Nousernamebottomtext (  -18.2,    13.8,     8.4)
+  proto
+2023-02-20T01:27:50Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -50.0,    12.9,    18.2)
+  NPC behavior but the being in question is actually an NPC.
+2023-02-20T01:27:54Z: PLAYER CHATTED [  369951478] NemPaws              (  -52.5,    11.6,    16.0)
+  my kite D:
+2023-02-20T01:27:54Z: PLAYER CHATTED [ 2811784084] overajhe92e          (  -16.7,    13.8,     9.5)
+  i have the urge to claw everything
+2023-02-20T01:27:56Z: PLAYER CHATTED [ 2811784084] overajhe92e          (  -16.7,    13.8,     9.5)
+  (aka kill)
+2023-02-20T01:28:01Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -49.3,    13.0,    17.0)
+  Oh, it's gone. Sad.
+2023-02-20T01:28:12Z: PLAYER CHATTED [   69838217] Nousernamebottomtext (  -18.0,    13.8,    10.6)
+  i can't hug you
+2023-02-20T01:28:18Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -39.1,    12.8,    15.8)
+  we are identifying issues with performance, thanks for testing!
+2023-02-20T01:28:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -41.2,    13.8,    13.9)
+  No problem.
+2023-02-20T01:28:28Z: PLAYER CHATTED [ 1205060848] ZoomDoomBoom_YT      (  -46.8,    13.0,    21.8)
+  I think so.
+2023-02-20T01:28:32Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -38.0,    12.8,    15.5)
+  :m we will be restarting the server, please stay in the game 
+2023-02-20T01:28:34Z: PLAYER CHATTED [  104994615] Aerophagia           (  -35.5,    12.7,    19.7)
+  dont leave youll join back automatically
+2023-02-20T01:28:46Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
