@@ -1,0 +1,8 @@
+[    1630228] : [ 8943846005] PLS DONATE 💸 [Legacy Map] - b1aa38ae-474e-447c-a980-34f15002af17
+2023-02-27T06:29:15Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-02-27T06:29:15Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-02-27T06:29:15Z: PLAYER ADDED   [ 2614870428] joel2goated          a.k.a. jhoops_223          
+2023-02-27T06:29:15Z: PLAYER ADDED   [ 2210141957] Waterbottleguy_79    a.k.a. Waterbottleguy      
+2023-02-27T06:29:25Z: PLAYER ADDED   [ 1753034984] toda_xc             
+2023-02-27T06:29:32Z: PLAYER REMOVED [ 1753034984] toda_xc             
+2023-02-27T06:30:03Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

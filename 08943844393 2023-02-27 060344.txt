@@ -1,0 +1,659 @@
+[    1630228] : [ 8943844393] PLS DONATE 💸 [Voice Chat] - b5af3d39-b2c6-48f4-abf4-b8ed5289b69a
+2023-02-27T06:03:44Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-02-27T06:03:44Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-02-27T06:03:44Z: PLAYER ADDED   [  409057194] CheozNyx             a.k.a. naruto              
+2023-02-27T06:03:44Z: PLAYER ADDED   [  504373417] CartiHotti           a.k.a. bekwit              
+2023-02-27T06:03:44Z: PLAYER ADDED   [ 3180940234] Taimichan            a.k.a. Lagysan             
+2023-02-27T06:03:44Z: PLAYER ADDED   [ 2571842568] Saztyx               a.k.a. melissa             
+2023-02-27T06:03:44Z: PLAYER ADDED   [  475777901] akajordaan           a.k.a. Jordan              
+2023-02-27T06:03:44Z: PLAYER ADDED   [  102732378] ahandsomedeviI       a.k.a. Ioverbcy            
+2023-02-27T06:03:44Z: PLAYER ADDED   [ 1804307703] Britejuice862ALT     a.k.a. AndrewTate          
+2023-02-27T06:03:44Z: PLAYER ADDED   [ 1587395883] P3ytato              a.k.a. SUB2P3YTATO         
+2023-02-27T06:03:44Z: PLAYER ADDED   [  864162776] xbvnas              
+2023-02-27T06:03:44Z: PLAYER ADDED   [   68471378] ob2n                 a.k.a. Mark                
+2023-02-27T06:03:44Z: PLAYER ADDED   [  479168580] Rosiiexcloudz        a.k.a. Ari                 
+2023-02-27T06:03:44Z: PLAYER ADDED   [  997288024] Tawnybroom0047       a.k.a. servent             
+2023-02-27T06:03:44Z: PLAYER ADDED   [  197294683] sagelizard8246       a.k.a. LUCAS               
+2023-02-27T06:03:44Z: PLAYER ADDED   [  362138611] matthewsomg          a.k.a. LAG                 
+2023-02-27T06:03:44Z: PLAYER ADDED   [   41000232] xTaylorCx            a.k.a. R2R_Taylor          
+2023-02-27T06:03:44Z: PLAYER ADDED   [  188168057] swittuhh             a.k.a. Swittuhh            
+2023-02-27T06:03:44Z: PLAYER ADDED   [   80743850] SouI_Developer       a.k.a. Soul_Developer      
+2023-02-27T06:03:44Z: PLAYER ADDED   [  472748126] Kryptking24          a.k.a. CatPee              
+2023-02-27T06:03:44Z: PLAYER ADDED   [  543842940] kingmidnight4        a.k.a. Snoozy              
+2023-02-27T06:03:44Z: PLAYER ADDED   [ 4149862598] NotClutchRBLX       
+2023-02-27T06:03:44Z: PLAYER ADDED   [ 2796822568] scarIvr              a.k.a. KiaraW              
+2023-02-27T06:03:44Z: PLAYER ADDED   [ 1434455620] Shadowghost1516      a.k.a. Masker              
+2023-02-27T06:03:44Z: PLAYER ADDED   [ 4351723555] DamienAkongo60      
+2023-02-27T06:03:44Z: PLAYER ADDED   [  126776990] LiableMite_19        a.k.a. R2R_LiableMite19    
+2023-02-27T06:03:44Z: PLAYER ADDED   [  158037094] gxffyz               a.k.a. R2R_Guffy           
+2023-02-27T06:03:44Z: PLAYER ADDED   [ 1005480611] StarStar_1234        a.k.a. StarBaby            
+2023-02-27T06:03:44Z: PLAYER ADDED   [   66390211] herheartisnowmine    a.k.a. flacko              
+2023-02-27T06:03:58Z: CHRCTER ADDED  [  126776990] LiableMite_19        a.k.a. R2R_LiableMite19    
+2023-02-27T06:04:00Z: PLAYER CHATTED [ 4351723555] DamienAkongo60       (   58.4,     3.5,   163.1)
+  💸 Want to see me reach new heights? Donate now and let's take off! Your support will help us unlock even more incredible features and explore new possibilities. Let's make it happen! 🚁
+2023-02-27T06:04:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (   35.6,     4.1,    35.1)
+  My volume is muted.
+2023-02-27T06:04:10Z: PLAYER CHATTED [   68471378] ob2n                 (   33.5,     3.4,    31.5)
+  unmute it
+2023-02-27T06:04:15Z: PLAYER CHATTED [ 4351723555] DamienAkongo60       (   58.4,     3.5,   163.1)
+  🙏 Help me take our helicopter to new heights by donating today! Your generosity will fuel our journey and help us reach even greater heights. Let's soar to new heights together! 🌄
+2023-02-27T06:04:19Z: PLAYER CHATTED [    1630228] VisualPlugin         (   34.8,     4.1,    34.5)
+  Done.
+2023-02-27T06:04:38Z: PLAYER CHATTED [  188168057] swittuhh             ( -295.2,     2.5,   182.6)
+  Welp tomorrow a sleeping day at school 
+2023-02-27T06:04:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (   35.3,     4.1,    34.6)
+  Yes.
+2023-02-27T06:04:47Z: PLAYER CHATTED [  188168057] swittuhh             ( -295.2,     2.5,   182.6)
+  Nooo
+2023-02-27T06:04:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (   35.2,     4.1,    34.6)
+  I didn't get into the event space.
+2023-02-27T06:04:59Z: PLAYER REMOVED [  543842940] kingmidnight4        a.k.a. Snoozy              
+2023-02-27T06:05:04Z: PLAYER CHATTED [    1630228] VisualPlugin         (   35.2,     4.1,    34.6)
+  But I got pins and a shirt.
+2023-02-27T06:05:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (   35.0,     4.1,    34.6)
+  And knowledge for next year.
+2023-02-27T06:05:19Z: PLAYER CHATTED [    1630228] VisualPlugin         (   35.0,     4.1,    34.6)
+  Come to San Francisco.
+2023-02-27T06:05:25Z: PLAYER REMOVED [  475777901] akajordaan           a.k.a. Jordan              
+2023-02-27T06:05:31Z: CHRCTER ADDED  [  126776990] LiableMite_19        a.k.a. R2R_LiableMite19    
+2023-02-27T06:05:33Z: PLAYER CHATTED [ 4351723555] DamienAkongo60       (   58.4,     3.6,   163.1)
+  💸 Want to see me reach new heights? Donate now and let's take off! Your support will help us unlock even more incredible features and explore new possibilities. Let's make it happen! 🚁
+2023-02-27T06:05:38Z: PLAYER CHATTED [  188168057] swittuhh             ( -295.6,     2.5,   183.3)
+  Thankfully I don’t have to do nothing cuz I sleep
+2023-02-27T06:05:44Z: PLAYER ADDED   [ 1019773254] YungYoshiii          a.k.a. YungYoshi           
+2023-02-27T06:05:50Z: PLAYER CHATTED [  188168057] swittuhh             ( -295.6,     2.5,   183.2)
+  Yea
+2023-02-27T06:06:03Z: PLAYER CHATTED [ 4351723555] DamienAkongo60       (   58.4,     3.5,   163.1)
+  💸 Want to see me reach new heights? Donate now and let's take off! Your support will help us unlock even more incredible features and explore new possibilities. Let's make it happen! 🚁
+2023-02-27T06:06:13Z: PLAYER REMOVED [  864162776] xbvnas              
+2023-02-27T06:06:17Z: PLAYER CHATTED [    1630228] VisualPlugin         (   51.3,     4.0,    28.7)
+  231 is a factor of 3.
+2023-02-27T06:06:19Z: PLAYER CHATTED [ 4351723555] DamienAkongo60       (   58.4,     3.5,   163.1)
+  🚁 Donate now and watch me soar high into the sky! Your contribution will help keep our helicopter flying and take us to new heights. Let's fly together! ✨
+2023-02-27T06:06:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (   51.3,     4.0,    28.7)
+  *Multiple.
+2023-02-27T06:06:33Z: PLAYER CHATTED [   68471378] ob2n                 (   46.5,     3.6,    29.7)
+  until i found you
+2023-02-27T06:06:35Z: PLAYER CHATTED [   68471378] ob2n                 (   46.5,     3.6,    29.7)
+  by stephen
+2023-02-27T06:06:36Z: PLAYER CHATTED [   68471378] ob2n                 (   46.5,     3.6,    29.7)
+  #######
+2023-02-27T06:06:37Z: PLAYER CHATTED [   68471378] ob2n                 (   46.5,     3.6,    29.7)
+  ####
+2023-02-27T06:06:38Z: PLAYER CHATTED [   68471378] ob2n                 (   46.5,     3.6,    29.7)
+  che
+2023-02-27T06:06:42Z: PLAYER REMOVED [ 1019773254] YungYoshiii          a.k.a. YungYoshi           
+2023-02-27T06:06:49Z: PLAYER ADDED   [  201831141] 1kimmyy             
+2023-02-27T06:06:50Z: PLAYER ADDED   [ 1555611466] 1killstxr            a.k.a. Junql               
+2023-02-27T06:06:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (   45.1,     4.1,    33.9)
+  Not bad.
+2023-02-27T06:07:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (   44.3,     4.1,    33.6)
+  Yes.
+2023-02-27T06:07:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (   44.3,     4.1,    33.6)
+  Five years.
+2023-02-27T06:07:09Z: PLAYER CHATTED [  201831141] 1kimmyy              (   41.8,     3.0,    43.4)
+  cute fit
+2023-02-27T06:07:19Z: PLAYER CHATTED [ 4351723555] DamienAkongo60       (   58.4,     3.6,   163.1)
+  🚁 Donate now and watch me soar high into the sky! Your contribution will help keep our helicopter flying and take us to new heights. Let's fly together! ✨
+2023-02-27T06:07:20Z: PLAYER ADDED   [ 3874168649] DSTR_Mrcute3girl     a.k.a. 175kthanks          
+2023-02-27T06:07:26Z: PLAYER REMOVED [ 3874168649] DSTR_Mrcute3girl     a.k.a. 175kthanks          
+2023-02-27T06:07:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (   44.9,     4.1,    32.6)
+  I'll give you the source code.
+2023-02-27T06:07:43Z: PLAYER CHATTED [  188168057] swittuhh             ( -298.3,     2.5,   180.9)
+  Me rejoin 
+2023-02-27T06:07:44Z: PLAYER CHATTED [    1630228] VisualPlugin         (   45.9,     4.1,    32.2)
+  Then I will require something in compensation.
+2023-02-27T06:07:45Z: PLAYER REMOVED [  188168057] swittuhh             a.k.a. Swittuhh            
+2023-02-27T06:07:51Z: PLAYER CHATTED [    1630228] VisualPlugin         (   45.6,     4.1,    32.1)
+  Like a voiceover in a future video.
+2023-02-27T06:07:59Z: PLAYER ADDED   [ 1019773254] YungYoshiii          a.k.a. YungYoshi           
+2023-02-27T06:07:59Z: PLAYER ADDED   [  188168057] swittuhh             a.k.a. Swittuhh            
+2023-02-27T06:08:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (   45.5,     4.1,    32.3)
+  I don't deal with online payment systems.
+2023-02-27T06:08:20Z: PLAYER CHATTED [ 4351723555] DamienAkongo60       (   58.4,     3.6,   163.1)
+  🙏 Help me take our helicopter to new heights by donating today! Your generosity will fuel our journey and help us reach even greater heights. Let's soar to new heights together! 🌄
+2023-02-27T06:08:44Z: PLAYER REMOVED [ 1019773254] YungYoshiii          a.k.a. YungYoshi           
+2023-02-27T06:08:50Z: PLAYER CHATTED [ 4351723555] DamienAkongo60       (   58.4,     3.6,   163.1)
+  🌟 Your donation can help me reach for the stars! With your support, we can unlock new and exciting possibilities and soar higher than ever before. Let's take off together! 🚁
+2023-02-27T06:08:53Z: PLAYER ADDED   [ 4379236686] IdrisAlderson93     
+2023-02-27T06:09:16Z: PLAYER CHATTED [  362138611] matthewsomg          (   95.1,     2.7,    50.9)
+  tryna one up my top donor ik you want too
+2023-02-27T06:09:34Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  ILL GET THEM FOSHO
+2023-02-27T06:09:43Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  THEY WONT GET AWAY! I PROMISE
+2023-02-27T06:09:51Z: PLAYER CHATTED [ 4351723555] DamienAkongo60       (   58.4,     3.5,   163.1)
+  🌟 Your donation can help me reach for the stars! With your support, we can unlock new and exciting possibilities and soar higher than ever before. Let's take off together! 🚁
+2023-02-27T06:09:52Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  1 bobux = 1 kid bombed!
+2023-02-27T06:10:00Z: PLAYER CHATTED [  188168057] swittuhh             ( -306.3,     2.5,   179.5)
+  Get a booth
+2023-02-27T06:10:01Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  rlly we just r here for u
+2023-02-27T06:10:07Z: PLAYER CHATTED [  201831141] 1kimmyy              (   11.2,     6.2,    33.1)
+  hi flacko
+2023-02-27T06:10:10Z: PLAYER CHATTED [ 1555611466] 1killstxr            (   22.9,     6.5,    29.5)
+  wsp
+2023-02-27T06:10:10Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  We get them so u dont worry!
+2023-02-27T06:10:15Z: PLAYER CHATTED [ 1555611466] 1killstxr            (   22.9,     6.5,    29.5)
+  good u?
+2023-02-27T06:10:20Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  ILL GET THEM FOSHO
+2023-02-27T06:10:29Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  We get them so u dont worry!
+2023-02-27T06:10:33Z: PLAYER CHATTED [  201831141] 1kimmyy              (   11.2,     6.2,    33.1)
+  did you make some today?
+2023-02-27T06:10:36Z: PLAYER CHATTED [ 4351723555] DamienAkongo60       (   58.4,     3.5,   163.1)
+  🚀 Ready to take off into new adventures? Donate now and let's fly higher than ever before! With your help, we can unlock even more amazing experiences and reach for the stars. Let's fly together! 🚁
+2023-02-27T06:10:38Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  ILL GET THEM FOSHO
+2023-02-27T06:10:47Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  rlly we just r here for u
+2023-02-27T06:10:49Z: PLAYER CHATTED [  201831141] 1kimmyy              (   11.2,     6.2,    33.1)
+  better then nothing
+2023-02-27T06:10:51Z: PLAYER CHATTED [ 4351723555] DamienAkongo60       (   58.4,     3.5,   163.1)
+  🙏 Help me take our helicopter to new heights by donating today! Your generosity will fuel our journey and help us reach even greater heights. Let's soar to new heights together! 🌄
+2023-02-27T06:10:53Z: PLAYER CHATTED [ 1555611466] 1killstxr            (   22.9,     6.5,    29.5)
+  atleast u made some LOL
+2023-02-27T06:10:56Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  THEY WONT GET AWAY! I PROMISE
+2023-02-27T06:11:00Z: PLAYER CHATTED [ 1555611466] 1killstxr            (   22.9,     6.5,    29.5)
+  i aint make sh
+2023-02-27T06:11:04Z: CHRCTER ADDED  [   80743850] SouI_Developer       a.k.a. Soul_Developer      
+2023-02-27T06:11:05Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  We do this for YOU!
+2023-02-27T06:11:06Z: PLAYER CHATTED [ 4351723555] DamienAkongo60       (   58.4,     3.5,   163.1)
+  🌟 Your donation can help me reach for the stars! With your support, we can unlock new and exciting possibilities and soar higher than ever before. Let's take off together! 🚁
+2023-02-27T06:11:12Z: PLAYER CHATTED [  188168057] swittuhh             ( -308.8,     2.5,   180.5)
+  I had that limited 
+2023-02-27T06:11:14Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  CANT STAND THEM? WELL we cant either!
+2023-02-27T06:11:19Z: PLAYER CHATTED [   80743850] SouI_Developer       (   44.1,     2.4,    43.2)
+  /mute idrisalderson93
+2023-02-27T06:11:19Z: PLAYER CHATTED [ 1555611466] 1killstxr            (   22.9,     6.5,    29.5)
+  sunday aswell
+2023-02-27T06:11:20Z: PLAYER CHATTED [  188168057] swittuhh             ( -308.6,     2.5,   178.9)
+  His
+2023-02-27T06:11:23Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  rlly we just r here for u
+2023-02-27T06:11:26Z: PLAYER CHATTED [ 1555611466] 1killstxr            (   22.9,     6.5,    29.5)
+  so everyone sleeping early
+2023-02-27T06:11:28Z: PLAYER CHATTED [  188168057] swittuhh             ( -309.2,     2.5,   177.7)
+  Yea
+2023-02-27T06:11:33Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  We get them so u dont worry!
+2023-02-27T06:11:41Z: PLAYER CHATTED [  188168057] swittuhh             ( -309.1,     2.5,   177.7)
+  I traded up to it
+2023-02-27T06:11:42Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  ILL GET THEM FOSHO
+2023-02-27T06:11:44Z: PLAYER CHATTED [  201831141] 1kimmyy              (   11.2,     6.2,    33.1)
+  thank you lucas
+2023-02-27T06:11:44Z: PLAYER CHATTED [ 1555611466] 1killstxr            (   22.9,     6.5,    29.5)
+  ai
+2023-02-27T06:11:46Z: PLAYER CHATTED [  201831141] 1kimmyy              (   11.2,     6.2,    33.1)
+  alr
+2023-02-27T06:11:46Z: PLAYER CHATTED [  188168057] swittuhh             ( -309.1,     2.5,   177.7)
+  From like 800
+2023-02-27T06:11:51Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  THEY WONT GET AWAY! I PROMISE
+2023-02-27T06:11:55Z: PLAYER CHATTED [  197294683] sagelizard8246       (   25.2,     4.4,    36.2)
+  :)
+2023-02-27T06:11:59Z: PLAYER CHATTED [  188168057] swittuhh             ( -308.9,     2.5,   177.7)
+  Then I sold it
+2023-02-27T06:12:00Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  1 bobux = 1 kid bombed!
+2023-02-27T06:12:05Z: PLAYER CHATTED [  197294683] sagelizard8246       (   28.5,     4.4,    34.5)
+  yo soul
+2023-02-27T06:12:06Z: PLAYER CHATTED [ 4351723555] DamienAkongo60       (   58.4,     3.6,   163.1)
+  🌟 Your donation can help me reach for the stars! With your support, we can unlock new and exciting possibilities and soar higher than ever before. Let's take off together! 🚁
+2023-02-27T06:12:09Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  WE DONT MISS BRA
+2023-02-27T06:12:19Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  CANT STAND THEM? WELL we cant either!
+2023-02-27T06:12:22Z: PLAYER CHATTED [ 4351723555] DamienAkongo60       (   58.4,     3.6,   163.1)
+  🚁 Donate now and watch me soar high into the sky! Your contribution will help keep our helicopter flying and take us to new heights. Let's fly together! ✨
+2023-02-27T06:12:24Z: PLAYER CHATTED [  197294683] sagelizard8246       (   36.3,     4.4,    34.4)
+  my robux came in i have 900
+2023-02-27T06:12:28Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  1 bobux = 1 kid bombed!
+2023-02-27T06:12:37Z: PLAYER CHATTED [ 4351723555] DamienAkongo60       (   58.4,     3.6,   163.1)
+  🚀 Ready to take off into new adventures? Donate now and let's fly higher than ever before! With your help, we can unlock even more amazing experiences and reach for the stars. Let's fly together! 🚁
+2023-02-27T06:12:37Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  1 bobux = 1 kid bombed!
+2023-02-27T06:12:38Z: PLAYER CHATTED [  197294683] sagelizard8246       (   36.3,     4.4,    34.4)
+  frrr
+2023-02-27T06:12:39Z: PLAYER CHATTED [  188168057] swittuhh             ( -305.6,     2.5,   179.7)
+  Ima buy limited and do rblx flip
+2023-02-27T06:12:42Z: PLAYER CHATTED [  197294683] sagelizard8246       (   36.3,     4.4,    34.4)
+  idk what to buy tho
+2023-02-27T06:12:46Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  We get them so u dont worry!
+2023-02-27T06:12:56Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  THEY WONT GET AWAY! I PROMISE
+2023-02-27T06:13:03Z: PLAYER CHATTED [  188168057] swittuhh             ( -305.6,     2.5,   179.1)
+  Should I do rblx flip
+2023-02-27T06:13:05Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  WE DONT MISS BRA
+2023-02-27T06:13:07Z: PLAYER CHATTED [ 4351723555] DamienAkongo60       (   58.4,     3.6,   163.1)
+  🌟 Your donation can help me reach for the stars! With your support, we can unlock new and exciting possibilities and soar higher than ever before. Let's take off together! 🚁
+2023-02-27T06:13:14Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  rlly we just r here for u
+2023-02-27T06:13:23Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  We do this for YOU!
+2023-02-27T06:13:28Z: PLAYER CHATTED [  188168057] swittuhh             ( -305.3,     2.5,   178.2)
+  Wth
+2023-02-27T06:13:32Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  1 bobux = 1 kid bombed!
+2023-02-27T06:13:41Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  1 bobux = 1 kid bombed!
+2023-02-27T06:13:50Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  THEY WONT GET AWAY! I PROMISE
+2023-02-27T06:13:52Z: PLAYER CHATTED [ 4351723555] DamienAkongo60       (   58.4,     3.5,   163.1)
+  💸 Want to see me reach new heights? Donate now and let's take off! Your support will help us unlock even more incredible features and explore new possibilities. Let's make it happen! 🚁
+2023-02-27T06:13:59Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  WE DONT MISS BRA
+2023-02-27T06:14:09Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  ILL GET THEM FOSHO
+2023-02-27T06:14:10Z: PLAYER CHATTED [  188168057] swittuhh             ( -304.5,     2.5,   177.8)
+  Gaming better 
+2023-02-27T06:14:18Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  We get them so u dont worry!
+2023-02-27T06:14:23Z: PLAYER CHATTED [ 4351723555] DamienAkongo60       (   58.4,     3.5,   163.1)
+  🙏 Help me take our helicopter to new heights by donating today! Your generosity will fuel our journey and help us reach even greater heights. Let's soar to new heights together! 🌄
+2023-02-27T06:14:27Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  1 bobux = 1 kid bombed!
+2023-02-27T06:14:36Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  CANT STAND THEM? WELL we cant either!
+2023-02-27T06:14:45Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  CANT STAND THEM? WELL we cant either!
+2023-02-27T06:14:53Z: PLAYER CHATTED [ 4351723555] DamienAkongo60       (   58.4,     3.5,   163.1)
+  🚁 Donate now and watch me soar high into the sky! Your contribution will help keep our helicopter flying and take us to new heights. Let's fly together! ✨
+2023-02-27T06:14:54Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  We get them so u dont worry!
+2023-02-27T06:15:02Z: PLAYER CHATTED [   80743850] SouI_Developer       (   41.4,     2.4,    36.8)
+  /mute damienakongo60
+2023-02-27T06:15:03Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  We do this for YOU!
+2023-02-27T06:15:10Z: PLAYER CHATTED [  188168057] swittuhh             ( -303.8,     2.5,   175.7)
+  Scripting so hard though 
+2023-02-27T06:15:13Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  We get them so u dont worry!
+2023-02-27T06:15:22Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  1 bobux = 1 kid bombed!
+2023-02-27T06:15:31Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  WE DONT MISS BRA
+2023-02-27T06:15:38Z: PLAYER CHATTED [ 4351723555] DamienAkongo60       (   58.4,     3.5,   163.1)
+  🚁 Donate now and watch me soar high into the sky! Your contribution will help keep our helicopter flying and take us to new heights. Let's fly together! ✨
+2023-02-27T06:15:40Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  WE DONT MISS BRA
+2023-02-27T06:15:42Z: PLAYER CHATTED [  188168057] swittuhh             ( -303.8,     2.5,   175.7)
+  I like styling 
+2023-02-27T06:15:46Z: PLAYER CHATTED [   80743850] SouI_Developer       (   41.7,     3.0,    28.4)
+  /e wave
+2023-02-27T06:15:49Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  WE DONT MISS BRA
+2023-02-27T06:15:53Z: PLAYER CHATTED [ 4351723555] DamienAkongo60       (   58.4,     3.5,   163.1)
+  💸 Want to see me reach new heights? Donate now and let's take off! Your support will help us unlock even more incredible features and explore new possibilities. Let's make it happen! 🚁
+2023-02-27T06:15:58Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  WE DONT MISS BRA
+2023-02-27T06:16:01Z: PLAYER CHATTED [   80743850] SouI_Developer       (   42.4,     2.5,    30.0)
+  /e wave
+2023-02-27T06:16:06Z: PLAYER CHATTED [   80743850] SouI_Developer       (   20.3,     2.4,    39.1)
+  /e wave
+2023-02-27T06:16:08Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  WE DONT MISS BRA
+2023-02-27T06:16:13Z: PLAYER CHATTED [  188168057] swittuhh             ( -303.8,     2.5,   175.7)
+  I use free models 
+2023-02-27T06:16:17Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  rlly we just r here for u
+2023-02-27T06:16:17Z: PLAYER CHATTED [  197294683] sagelizard8246       (   32.3,     4.4,    34.3)
+  wffle fries mad good fr
+2023-02-27T06:16:23Z: PLAYER REMOVED [ 4351723555] DamienAkongo60      
+2023-02-27T06:16:26Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  We do this for YOU!
+2023-02-27T06:16:28Z: PLAYER ADDED   [  120217812] ghouliest           
+2023-02-27T06:16:29Z: PLAYER CHATTED [  188168057] swittuhh             ( -303.8,     2.5,   175.7)
+  Yea ipad off
+2023-02-27T06:16:32Z: PLAYER CHATTED [   68471378] ob2n                 (   20.6,     3.0,    38.7)
+  hi
+2023-02-27T06:16:34Z: PLAYER CHATTED [  188168057] swittuhh             ( -303.8,     2.5,   175.7)
+  30k
+2023-02-27T06:16:34Z: PLAYER CHATTED [   80743850] SouI_Developer       (   20.6,     2.4,    45.7)
+  /e wave
+2023-02-27T06:16:35Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  We get them so u dont worry!
+2023-02-27T06:16:37Z: PLAYER CHATTED [  188168057] swittuhh             ( -303.8,     2.5,   175.7)
+  Robux
+2023-02-27T06:16:39Z: PLAYER CHATTED [   68471378] ob2n                 (   20.6,     3.0,    38.7)
+  /e wave
+2023-02-27T06:16:44Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  We do this for YOU!
+2023-02-27T06:16:46Z: PLAYER CHATTED [  188168057] swittuhh             ( -303.8,     2.5,   175.7)
+  #### #### models
+2023-02-27T06:16:51Z: PLAYER CHATTED [  197294683] sagelizard8246       (   25.8,     4.4,    50.0)
+  soul
+2023-02-27T06:16:51Z: PLAYER CHATTED [  188168057] swittuhh             ( -303.8,     2.5,   175.7)
+  #### models
+2023-02-27T06:16:53Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  1 bobux = 1 kid bombed!
+2023-02-27T06:16:58Z: PLAYER CHATTED [  188168057] swittuhh             ( -303.8,     2.5,   175.7)
+  I made vibe game
+2023-02-27T06:17:01Z: PLAYER CHATTED [  197294683] sagelizard8246       (   25.0,     4.4,    40.8)
+  lemme stare into ur eyes
+2023-02-27T06:17:02Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  We get them so u dont worry!
+2023-02-27T06:17:11Z: PLAYER CHATTED [  188168057] swittuhh             ( -303.8,     2.5,   175.7)
+  Made 30k robux
+2023-02-27T06:17:11Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  rlly we just r here for u
+2023-02-27T06:17:21Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  1 bobux = 1 kid bombed!
+2023-02-27T06:17:31Z: PLAYER CHATTED [  197294683] sagelizard8246       (   25.0,     4.4,    40.8)
+  hold up i gotchu
+2023-02-27T06:17:31Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  WE DONT MISS BRA
+2023-02-27T06:17:37Z: PLAYER CHATTED [  197294683] sagelizard8246       (   25.0,     4.4,    40.8)
+  one sec
+2023-02-27T06:17:39Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  1 bobux = 1 kid bombed!
+2023-02-27T06:17:48Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  ILL GET THEM FOSHO
+2023-02-27T06:17:57Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  WE DONT MISS BRA
+2023-02-27T06:17:58Z: CHRCTER ADDED  [  197294683] sagelizard8246       a.k.a. LUCAS               
+2023-02-27T06:18:07Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  WE DONT MISS BRA
+2023-02-27T06:18:16Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  ILL GET THEM FOSHO
+2023-02-27T06:18:25Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  rlly we just r here for u
+2023-02-27T06:18:28Z: PLAYER CHATTED [  197294683] sagelizard8246       (   29.8,     3.1,    42.3)
+  how much your fit cost?
+2023-02-27T06:18:34Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  1 bobux = 1 kid bombed!
+2023-02-27T06:18:43Z: PLAYER CHATTED [  188168057] swittuhh             ( -308.2,     2.5,   166.3)
+  Best games to make are horror games
+2023-02-27T06:18:43Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  ILL GET THEM FOSHO
+2023-02-27T06:18:52Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  We get them so u dont worry!
+2023-02-27T06:19:01Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  WE DONT MISS BRA
+2023-02-27T06:19:10Z: PLAYER CHATTED [ 1555611466] 1killstxr            (  -23.4,    15.5,     3.8)
+  .
+2023-02-27T06:19:10Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  WE DONT MISS BRA
+2023-02-27T06:19:20Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  rlly we just r here for u
+2023-02-27T06:19:22Z: PLAYER CHATTED [   68471378] ob2n                 (   21.8,     3.0,    37.5)
+  pianowithmark
+2023-02-27T06:19:29Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  rlly we just r here for u
+2023-02-27T06:19:29Z: PLAYER CHATTED [  201831141] 1kimmyy              (   38.8,     3.6,   173.2)
+  TOOTHPIOCIK
+2023-02-27T06:19:31Z: PLAYER CHATTED [  201831141] 1kimmyy              (   38.8,     3.6,   173.2)
+  #################
+2023-02-27T06:19:38Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  rlly we just r here for u
+2023-02-27T06:19:40Z: PLAYER CHATTED [  188168057] swittuhh             ( -294.8,     2.5,   171.7)
+  I have a scarier game
+2023-02-27T06:19:44Z: PLAYER CHATTED [   68471378] ob2n                 (   23.8,     3.0,    39.7)
+  pianowithmark
+2023-02-27T06:19:45Z: PLAYER CHATTED [ 1555611466] 1killstxr            (   41.4,     3.3,   165.1)
+  ###########
+2023-02-27T06:19:47Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  WE DONT MISS BRA
+2023-02-27T06:19:49Z: PLAYER CHATTED [ 1555611466] 1killstxr            (   41.4,     3.3,   165.1)
+  ###########
+2023-02-27T06:19:49Z: PLAYER CHATTED [  197294683] sagelizard8246       (   27.4,     3.0,    42.5)
+  i added u
+2023-02-27T06:19:51Z: PLAYER CHATTED [ 1555611466] 1killstxr            (   41.4,     3.3,   165.1)
+  ok.
+2023-02-27T06:19:56Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  THEY WONT GET AWAY! I PROMISE
+2023-02-27T06:20:05Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  We get them so u dont worry!
+2023-02-27T06:20:07Z: PLAYER CHATTED [  197294683] sagelizard8246       (   27.4,     3.0,    42.5)
+  yo mark u wanna hear my song?
+2023-02-27T06:20:14Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  THEY WONT GET AWAY! I PROMISE
+2023-02-27T06:20:15Z: PLAYER CHATTED [  197294683] sagelizard8246       (   30.0,     3.0,    39.4)
+  i can send it to u
+2023-02-27T06:20:23Z: PLAYER CHATTED [  188168057] swittuhh             ( -297.0,     2.5,   168.5)
+  A scary game is FNAF coop
+2023-02-27T06:20:24Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  We do this for YOU!
+2023-02-27T06:20:33Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  rlly we just r here for u
+2023-02-27T06:20:42Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  CANT STAND THEM? WELL we cant either!
+2023-02-27T06:20:46Z: PLAYER REMOVED [  409057194] CheozNyx             a.k.a. naruto              
+2023-02-27T06:20:48Z: CHRCTER ADDED  [  472748126] Kryptking24          a.k.a. CatPee              
+2023-02-27T06:20:51Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  1 bobux = 1 kid bombed!
+2023-02-27T06:20:56Z: PLAYER ADDED   [  543725189] god456158            a.k.a. CEO_EnDergod        
+2023-02-27T06:21:00Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  We do this for YOU!
+2023-02-27T06:21:09Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  We do this for YOU!
+2023-02-27T06:21:15Z: PLAYER CHATTED [  472748126] Kryptking24          (   36.2,     2.4,    45.9)
+  I’m going join shiro I’m lagging bad
+2023-02-27T06:21:18Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  ILL GET THEM FOSHO
+2023-02-27T06:21:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.1,     4.1,    34.4)
+  I'm back.
+2023-02-27T06:21:23Z: PLAYER CHATTED [  472748126] Kryptking24          (   36.2,     2.4,    45.9)
+  Bye
+2023-02-27T06:21:26Z: PLAYER REMOVED [  472748126] Kryptking24          a.k.a. CatPee              
+2023-02-27T06:21:28Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  ILL GET THEM FOSHO
+2023-02-27T06:21:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (   36.6,     4.1,    34.5)
+  Don't play this game in Spanish.
+2023-02-27T06:21:35Z: PLAYER ADDED   [ 3932445839] ihyvybz              a.k.a. vybz                
+2023-02-27T06:21:37Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  THEY WONT GET AWAY! I PROMISE
+2023-02-27T06:21:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (   33.8,     4.1,    35.4)
+  'Fans' will turn into 'ventillators'.
+2023-02-27T06:21:46Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  We get them so u dont worry!
+2023-02-27T06:21:50Z: PLAYER CHATTED [  197294683] sagelizard8246       (   30.0,     3.0,    39.4)
+  hes listening to my songgggg
+2023-02-27T06:21:55Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  We do this for YOU!
+2023-02-27T06:22:04Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  We do this for YOU!
+2023-02-27T06:22:13Z: PLAYER CHATTED [ 1005480611] StarStar_1234        (   -8.9,     3.0,   137.0)
+  Starl3e_
+2023-02-27T06:22:13Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  rlly we just r here for u
+2023-02-27T06:22:16Z: PLAYER CHATTED [  197294683] sagelizard8246       (   37.3,     3.0,    45.8)
+  lmk if u like it mark
+2023-02-27T06:22:17Z: PLAYER REMOVED [ 3932445839] ihyvybz              a.k.a. vybz                
+2023-02-27T06:22:17Z: PLAYER CHATTED [ 1005480611] StarStar_1234        (   -8.9,     3.0,   137.0)
+  4598
+2023-02-27T06:22:23Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  rlly we just r here for u
+2023-02-27T06:22:32Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  THEY WONT GET AWAY! I PROMISE
+2023-02-27T06:22:41Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  We get them so u dont worry!
+2023-02-27T06:22:50Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  We do this for YOU!
+2023-02-27T06:22:59Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  ILL GET THEM FOSHO
+2023-02-27T06:23:00Z: PLAYER ADDED   [ 4359382200] UhuruSikinyi81      
+2023-02-27T06:23:03Z: CHRCTER ADDED  [ 4359382200] UhuruSikinyi81      
+2023-02-27T06:23:08Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  1 bobux = 1 kid bombed!
+2023-02-27T06:23:11Z: PLAYER CHATTED [ 1555611466] 1killstxr            (   45.8,     3.8,   172.0)
+  did t he already 
+2023-02-27T06:23:14Z: PLAYER REMOVED [   68471378] ob2n                 a.k.a. Mark                
+2023-02-27T06:23:15Z: PLAYER CHATTED [ 1555611466] 1killstxr            (   45.8,     3.8,   172.0)
+  didnt*
+2023-02-27T06:23:17Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  1 bobux = 1 kid bombed!
+2023-02-27T06:23:23Z: PLAYER CHATTED [  201831141] 1kimmyy              (   41.2,     3.0,   170.3)
+  no..
+2023-02-27T06:23:27Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  1 bobux = 1 kid bombed!
+2023-02-27T06:23:31Z: PLAYER CHATTED [ 1555611466] 1killstxr            (   45.8,     3.8,   172.0)
+  i swear he did.
+2023-02-27T06:23:32Z: PLAYER CHATTED [  197294683] sagelizard8246       (   36.1,     3.0,    40.0)
+  i sent him my song and he was listening to it
+2023-02-27T06:23:36Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  1 bobux = 1 kid bombed!
+2023-02-27T06:23:39Z: PLAYER CHATTED [  201831141] 1kimmyy              (   42.5,     3.0,   170.8)
+  LOL
+2023-02-27T06:23:42Z: PLAYER ADDED   [  475777901] akajordaan           a.k.a. Jordan              
+2023-02-27T06:23:43Z: PLAYER CHATTED [ 1555611466] 1killstxr            (   45.8,     3.8,   172.0)
+  NAHH
+2023-02-27T06:23:46Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  We get them so u dont worry!
+2023-02-27T06:23:51Z: PLAYER CHATTED [ 1555611466] 1killstxr            (   45.8,     3.8,   172.0)
+  am i still first
+2023-02-27T06:23:53Z: PLAYER CHATTED [  197294683] sagelizard8246       (   37.7,     3.0,    41.3)
+  hold up yall wanna try listening to my song?
+2023-02-27T06:23:54Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  We get them so u dont worry!
+2023-02-27T06:23:58Z: PLAYER CHATTED [  201831141] 1kimmyy              (   43.9,     3.0,   169.2)
+  def are
+2023-02-27T06:24:02Z: PLAYER CHATTED [ 1555611466] 1killstxr            (   45.8,     3.7,   172.0)
+  bett
+2023-02-27T06:24:03Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  We get them so u dont worry!
+2023-02-27T06:24:07Z: PLAYER CHATTED [ 1555611466] 1killstxr            (   46.0,     3.4,   171.1)
+  with how much
+2023-02-27T06:24:10Z: PLAYER CHATTED [  201831141] 1kimmyy              (   44.5,     3.0,   169.2)
+  thank you
+2023-02-27T06:24:12Z: PLAYER CHATTED [ 4379236686] IdrisAlderson93      (   92.5,     3.4,   152.0)
+  WE DONT MISS BRA
+2023-02-27T06:24:12Z: PLAYER CHATTED [  201831141] 1kimmyy              (   43.8,     3.0,   167.8)
+  54k..
+2023-02-27T06:24:17Z: PLAYER CHATTED [  197294683] sagelizard8246       (   37.3,     3.0,    43.4)
+  i make shiloh type music
+2023-02-27T06:24:19Z: PLAYER CHATTED [  201831141] 1kimmyy              (   40.3,     3.0,   165.8)
+  that money is gone..
+2023-02-27T06:24:20Z: PLAYER REMOVED [ 4379236686] IdrisAlderson93     
+2023-02-27T06:24:23Z: PLAYER ADDED   [ 3932340004] Raczwrld            
+2023-02-27T06:24:27Z: PLAYER CHATTED [  201831141] 1kimmyy              (   40.3,     3.0,   165.8)
+  going die
+2023-02-27T06:24:27Z: PLAYER CHATTED [ 1555611466] 1killstxr            (   46.0,     3.4,   171.1)
+  46k more then 
+2023-02-27T06:24:40Z: PLAYER CHATTED [  201831141] 1kimmyy              (   40.7,     3.0,   169.4)
+  ### wont
+2023-02-27T06:24:40Z: PLAYER CHATTED [  197294683] sagelizard8246       (   37.3,     3.0,    43.4)
+  soul do u got snap?
+2023-02-27T06:24:41Z: PLAYER CHATTED [ 3932340004] Raczwrld             ( -301.5,     2.1,   169.3)
+  ?
+2023-02-27T06:24:45Z: PLAYER CHATTED [  201831141] 1kimmyy              (   40.7,     3.0,   169.4)
+  UH
+2023-02-27T06:24:51Z: PLAYER CHATTED [ 1555611466] 1killstxr            (   46.0,     3.4,   171.1)
+  what
+2023-02-27T06:25:00Z: PLAYER CHATTED [ 3932340004] Raczwrld             ( -301.2,     2.1,   169.7)
+  rizzwrld
+2023-02-27T06:25:12Z: PLAYER CHATTED [  197294683] sagelizard8246       (   37.3,     3.0,    43.4)
+  oh ok i was gonna send u my song
+2023-02-27T06:25:14Z: PLAYER CHATTED [ 1555611466] 1killstxr            (   40.5,     3.6,   172.3)
+  you got that
+2023-02-27T06:25:16Z: PLAYER CHATTED [ 1555611466] 1killstxr            (   40.5,     3.6,   172.3)
+  go
+2023-02-27T06:25:17Z: PLAYER REMOVED [ 1587395883] P3ytato              a.k.a. SUB2P3YTATO         
+2023-02-27T06:25:29Z: PLAYER ADDED   [ 1606097318] ZajFaxx              a.k.a. Drago               
+2023-02-27T06:25:34Z: PLAYER CHATTED [ 1555611466] 1killstxr            (   45.3,     3.3,   169.5)
+  wb
+2023-02-27T06:25:38Z: PLAYER CHATTED [  197294683] sagelizard8246       (   37.3,     3.0,    43.4)
+  i cant send my song ## ##### or anything else but snap bc its to long
+2023-02-27T06:25:43Z: PLAYER REMOVED [  362138611] matthewsomg          a.k.a. LAG                 
+2023-02-27T06:25:44Z: PLAYER CHATTED [  158037094] gxffyz               (   42.3,     3.5,   172.0)
+  im broke bruh
+2023-02-27T06:25:48Z: PLAYER CHATTED [ 1555611466] 1killstxr            (   45.7,     3.3,   167.9)
+  same
+2023-02-27T06:25:50Z: PLAYER CHATTED [  158037094] gxffyz               (   42.3,     3.5,   172.0)
+  /e laugh
+2023-02-27T06:25:51Z: PLAYER CHATTED [  197294683] sagelizard8246       (   37.1,     3.0,    43.4)
+  ik that song
+2023-02-27T06:25:54Z: PLAYER REMOVED [ 4359382200] UhuruSikinyi81      
+2023-02-27T06:25:57Z: PLAYER CHATTED [  158037094] gxffyz               (   42.3,     3.5,   172.0)
+  laughing the pain away
+2023-02-27T06:26:06Z: PLAYER CHATTED [ 3932340004] Raczwrld             (   36.6,     3.8,   173.1)
+  bro just like me
+2023-02-27T06:26:10Z: PLAYER CHATTED [  158037094] gxffyz               (   42.3,     3.4,   172.0)
+  fr bruh
+2023-02-27T06:26:18Z: CHRCTER ADDED  [  475777901] akajordaan           a.k.a. Jordan              
+2023-02-27T06:26:31Z: PLAYER CHATTED [  158037094] gxffyz               (   43.2,     3.5,   171.4)
+  anyways what are yall up to
+2023-02-27T06:26:43Z: PLAYER CHATTED [  201831141] 1kimmyy              (   39.4,     3.6,   163.5)
+  idk
+2023-02-27T06:26:58Z: PLAYER REMOVED [ 1606097318] ZajFaxx              a.k.a. Drago               
+2023-02-27T06:27:05Z: PLAYER ADDED   [ 1286182980] jaystwunnah          a.k.a. GH_Jay              
+2023-02-27T06:27:15Z: PLAYER CHATTED [ 1555611466] 1killstxr            (   45.2,     3.3,   163.4)
+  my god.
+2023-02-27T06:27:18Z: PLAYER CHATTED [  158037094] gxffyz               (   42.7,     3.4,   169.4)
+  hi jay
+2023-02-27T06:27:29Z: PLAYER CHATTED [ 1286182980] jaystwunnah          (   37.9,     3.0,   168.1)
+  hola
+2023-02-27T06:27:34Z: PLAYER CHATTED [  158037094] gxffyz               (   42.6,     3.4,   169.4)
+  hola
+2023-02-27T06:27:43Z: PLAYER CHATTED [  158037094] gxffyz               (   42.6,     3.4,   169.4)
+  what are u up to
+2023-02-27T06:27:57Z: PLAYER CHATTED [ 1286182980] jaystwunnah          (   37.9,     3.0,   168.1)
+  ntm wbu
+2023-02-27T06:28:06Z: PLAYER CHATTED [  158037094] gxffyz               (   42.6,     3.4,   169.4)
+  tryna get sum robuc
+2023-02-27T06:28:09Z: PLAYER CHATTED [  158037094] gxffyz               (   42.6,     3.4,   169.4)
+  /e laugh
+2023-02-27T06:28:15Z: PLAYER ADDED   [ 3306420996] danadebill22899      a.k.a. daniil22199         
+2023-02-27T06:28:16Z: PLAYER CHATTED [  158037094] gxffyz               (   42.6,     3.4,   169.4)
+  i wasted 6k
+2023-02-27T06:28:20Z: PLAYER REMOVED [ 3306420996] danadebill22899      a.k.a. daniil22199         
+2023-02-27T06:28:22Z: PLAYER ADDED   [ 3932445839] ihyvybz              a.k.a. vybz                
+2023-02-27T06:28:22Z: PLAYER CHATTED [ 1286182980] jaystwunnah          (   37.9,     3.0,   168.1)
+  same im close to ma goal
+2023-02-27T06:28:25Z: PLAYER ADDED   [  304105404] Fuightt              a.k.a. ImmGoofy            
+2023-02-27T06:28:26Z: PLAYER CHATTED [ 1286182980] jaystwunnah          (   37.9,     3.0,   168.1)
+  ima hit it tmrw if not tn
+2023-02-27T06:28:29Z: PLAYER CHATTED [ 1286182980] jaystwunnah          (   37.9,     3.0,   168.1)
+  onw hat?
+2023-02-27T06:28:31Z: PLAYER CHATTED [  158037094] gxffyz               (   42.6,     3.4,   169.4)
+  oh nice congrats
+2023-02-27T06:28:33Z: PLAYER CHATTED [ 1286182980] jaystwunnah          (   37.9,     3.0,   168.1)
+  oh u donated
+2023-02-27T06:28:37Z: PLAYER CHATTED [  158037094] gxffyz               (   42.6,     3.4,   169.4)
+  yea 6k
+2023-02-27T06:28:43Z: PLAYER CHATTED [  158037094] gxffyz               (   42.6,     3.4,   169.4)
+  i shoulda saved tbh
+2023-02-27T06:28:46Z: PLAYER CHATTED [  158037094] gxffyz               (   42.6,     3.4,   169.4)
+  for a blimp
+2023-02-27T06:28:49Z: PLAYER CHATTED [ 1286182980] jaystwunnah          (   37.9,     3.0,   168.1)
+  yeah i remem u , u cant sing
+2023-02-27T06:28:49Z: PLAYER CHATTED [ 1555611466] 1killstxr            (   45.2,     3.3,   163.4)
+  oh nah
+2023-02-27T06:28:50Z: PLAYER CHATTED [ 1286182980] jaystwunnah          (   37.9,     3.0,   168.1)
+  wsp
+2023-02-27T06:28:53Z: PLAYER CHATTED [  158037094] gxffyz               (   44.3,     3.4,   170.0)
+  damn
+2023-02-27T06:28:55Z: PLAYER CHATTED [ 1555611466] 1killstxr            (   45.2,     3.3,   163.4)
+  LOL
+2023-02-27T06:28:57Z: PLAYER CHATTED [  158037094] gxffyz               (   44.3,     3.4,   170.0)
+  .
+2023-02-27T06:29:06Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-02-27T06:29:06Z: PLAYER REMOVED [  504373417] CartiHotti           a.k.a. bekwit              
+2023-02-27T06:29:06Z: PLAYER REMOVED [ 3180940234] Taimichan            a.k.a. Lagysan             
+2023-02-27T06:29:06Z: PLAYER REMOVED [ 2571842568] Saztyx               a.k.a. melissa             
+2023-02-27T06:29:06Z: PLAYER REMOVED [  102732378] ahandsomedeviI       a.k.a. Ioverbcy            
+2023-02-27T06:29:06Z: PLAYER REMOVED [ 1804307703] Britejuice862ALT     a.k.a. AndrewTate          
+2023-02-27T06:29:06Z: PLAYER REMOVED [  479168580] Rosiiexcloudz        a.k.a. Ari                 
+2023-02-27T06:29:06Z: PLAYER REMOVED [  997288024] Tawnybroom0047       a.k.a. servent             
+2023-02-27T06:29:06Z: PLAYER REMOVED [  197294683] sagelizard8246       a.k.a. LUCAS               
+2023-02-27T06:29:06Z: PLAYER REMOVED [   41000232] xTaylorCx            a.k.a. R2R_Taylor          
+2023-02-27T06:29:06Z: PLAYER REMOVED [   80743850] SouI_Developer       a.k.a. Soul_Developer      
+2023-02-27T06:29:06Z: PLAYER REMOVED [ 4149862598] NotClutchRBLX       
+2023-02-27T06:29:06Z: PLAYER REMOVED [ 2796822568] scarIvr              a.k.a. KiaraW              
+2023-02-27T06:29:06Z: PLAYER REMOVED [ 1434455620] Shadowghost1516      a.k.a. Masker              
+2023-02-27T06:29:06Z: PLAYER REMOVED [  126776990] LiableMite_19        a.k.a. R2R_LiableMite19    
+2023-02-27T06:29:06Z: PLAYER REMOVED [  158037094] gxffyz               a.k.a. R2R_Guffy           
+2023-02-27T06:29:06Z: PLAYER REMOVED [ 1005480611] StarStar_1234        a.k.a. StarBaby            
+2023-02-27T06:29:06Z: PLAYER REMOVED [   66390211] herheartisnowmine    a.k.a. flacko              
+2023-02-27T06:29:06Z: PLAYER REMOVED [  201831141] 1kimmyy             
+2023-02-27T06:29:06Z: PLAYER REMOVED [ 1555611466] 1killstxr            a.k.a. Junql               

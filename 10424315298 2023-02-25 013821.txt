@@ -1,0 +1,127 @@
+[    1630228] : [10424315298] [NEW!✨] Country Collectors 🌐 - 924b22f3-c111-4a56-8b8f-cdd408995299
+2023-02-25T01:38:21Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-02-25T01:38:21Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-02-25T01:38:21Z: PLAYER ADDED   [  420824146] nguyenngochalg2      a.k.a. Minh                
+2023-02-25T01:38:21Z: PLAYER ADDED   [ 2506864766] NormalPlayerXD4      a.k.a. Woodlands           
+2023-02-25T01:38:21Z: PLAYER ADDED   [ 1220786453] saolqui             
+2023-02-25T01:38:21Z: PLAYER ADDED   [ 2012936801] warlordboi55         a.k.a. Lemonadedude542_YT  
+2023-02-25T01:38:21Z: PLAYER ADDED   [ 1745924318] eiufvh               a.k.a. Palau               
+2023-02-25T01:38:21Z: PLAYER ADDED   [ 1559891030] Varrisom            
+2023-02-25T01:38:21Z: PLAYER ADDED   [ 4199171599] Monke5678910        
+2023-02-25T01:38:21Z: PLAYER ADDED   [  170801884] ComfortableSoap      a.k.a. Soap                
+2023-02-25T01:38:21Z: PLAYER ADDED   [ 1442789418] Prorainbowgamer55   
+2023-02-25T01:38:21Z: PLAYER ADDED   [ 1629234694] Spacecatsmeowing     a.k.a. Kenny               
+2023-02-25T01:38:21Z: PLAYER ADDED   [ 1103851450] Koltyn7868           a.k.a. may                 
+2023-02-25T01:38:21Z: PLAYER ADDED   [ 1355896632] BadEeveesOnIt        a.k.a. LuckyConekat        
+2023-02-25T01:38:21Z: PLAYER ADDED   [  886171284] Billyj021            a.k.a. Billy               
+2023-02-25T01:38:21Z: PLAYER ADDED   [  566201676] Bugbugpug           
+2023-02-25T01:38:21Z: PLAYER ADDED   [ 1377328099] Dappertron1         
+2023-02-25T01:38:21Z: PLAYER ADDED   [ 2055831369] Dancalamar           a.k.a. MrQuesoXD           
+2023-02-25T01:38:21Z: PLAYER ADDED   [ 3033521701] Jeremythecoolman2    a.k.a. Jeremydemongod      
+2023-02-25T01:38:21Z: PLAYER ADDED   [ 1700574244] supermelvingamerpro0
+2023-02-25T01:38:21Z: PLAYER ADDED   [ 3309276823] ChrAskHia            a.k.a. Maphilind           
+2023-02-25T01:38:21Z: PLAYER ADDED   [ 1514720218] kntrgl               a.k.a. zpu                 
+2023-02-25T01:38:21Z: PLAYER ADDED   [  875313067] AustinElaphantHH     a.k.a. AustinUrinal        
+2023-02-25T01:38:21Z: PLAYER ADDED   [ 1834658401] Sakhadezon           a.k.a. SAKHA               
+2023-02-25T01:38:21Z: PLAYER ADDED   [ 3288303261] criyngs             
+2023-02-25T01:38:21Z: PLAYER ADDED   [ 1692016967] DogePlayMM2          a.k.a. GateLock            
+2023-02-25T01:38:21Z: PLAYER ADDED   [  384461096] FHOzD               
+2023-02-25T01:38:21Z: PLAYER ADDED   [ 2311087350] palsfan7777          a.k.a. NotRealDoge         
+2023-02-25T01:38:22Z: PLAYER CHATTED [ 1692016967] DogePlayMM2          (   86.6,     5.5,   -89.9)
+  fr
+2023-02-25T01:38:24Z: PLAYER CHATTED [  170801884] ComfortableSoap      (   83.7,     5.7,   -92.6)
+  I live in the US state of Wyoming
+2023-02-25T01:38:32Z: PLAYER CHATTED [  875313067] AustinElaphantHH     (   87.4,     5.8,   -95.5)
+  WA
+2023-02-25T01:38:32Z: PLAYER CHATTED [  170801884] ComfortableSoap      (   83.7,     5.7,   -92.6)
+  (nobody lives here)
+2023-02-25T01:38:34Z: PLAYER CHATTED [  875313067] AustinElaphantHH     (   87.4,     5.8,   -95.5)
+  WA
+2023-02-25T01:38:34Z: PLAYER CHATTED [  170801884] ComfortableSoap      (   83.7,     5.7,   -92.6)
+  (nobody lives here)
+2023-02-25T01:38:34Z: PLAYER CHATTED [  886171284] Billyj021            (   84.7,     5.7,   -95.4)
+  ain't no way
+2023-02-25T01:38:36Z: PLAYER CHATTED [  875313067] AustinElaphantHH     (   87.4,     5.8,   -95.5)
+  Impossible
+2023-02-25T01:38:39Z: PLAYER CHATTED [  170801884] ComfortableSoap      (   83.7,     5.7,   -92.6)
+  im the only person there
+2023-02-25T01:38:41Z: PLAYER CHATTED [ 1442789418] Prorainbowgamer55    (   88.2,     5.9,   -92.3)
+  wait
+2023-02-25T01:38:41Z: PLAYER CHATTED [ 1514720218] kntrgl               (   66.9,     4.7,   -50.3)
+  Europie
+2023-02-25T01:38:44Z: PLAYER CHATTED [  875313067] AustinElaphantHH     (   87.4,     5.8,   -95.5)
+  Lol
+2023-02-25T01:38:49Z: PLAYER CHATTED [ 2311087350] palsfan7777          (   74.5,     5.7,   -93.2)
+  does anyone got quebec?
+2023-02-25T01:38:50Z: PLAYER CHATTED [ 1745924318] eiufvh               (   80.2,     6.0,   -92.8)
+  sweet home alabama
+2023-02-25T01:38:50Z: PLAYER CHATTED [  886171284] Billyj021            (   84.1,     5.7,   -95.9)
+  500k people live there
+2023-02-25T01:38:50Z: PLAYER CHATTED [  875313067] AustinElaphantHH     (   87.4,     5.8,   -95.5)
+  WAT
+2023-02-25T01:38:50Z: PLAYER CHATTED [ 2311087350] palsfan7777          (   75.7,     5.2,   -83.3)
+  does anyone got quebec?
+2023-02-25T01:38:52Z: PLAYER CHATTED [ 3033521701] Jeremythecoolman2    (  153.1,     5.4,   -51.0)
+  ######
+2023-02-25T01:38:55Z: PLAYER CHATTED [ 1442789418] Prorainbowgamer55    (   88.2,     5.9,   -92.3)
+  WHO HAS KOSOVO EX?!
+2023-02-25T01:38:55Z: PLAYER CHATTED [ 1629234694] Spacecatsmeowing     (   89.5,     4.0,   -65.3)
+  wanna play la kantina or 3008
+2023-02-25T01:38:58Z: PLAYER CHATTED [ 3033521701] Jeremythecoolman2    (  132.2,     5.4,   -51.5)
+  ######
+2023-02-25T01:39:01Z: PLAYER CHATTED [  886171284] Billyj021            (   85.5,     5.7,   -94.9)
+  i do
+2023-02-25T01:39:01Z: PLAYER CHATTED [  875313067] AustinElaphantHH     (   87.4,     5.8,   -95.5)
+  Man
+2023-02-25T01:39:01Z: PLAYER CHATTED [ 1103851450] Koltyn7868           (   86.6,     5.6,   -86.3)
+  me
+2023-02-25T01:39:04Z: PLAYER CHATTED [  875313067] AustinElaphantHH     (   87.4,     5.8,   -95.5)
+  MN
+2023-02-25T01:39:04Z: PLAYER CHATTED [  170801884] ComfortableSoap      (   83.7,     5.7,   -92.6)
+  thats nothing compared to every other state that isnt a tundra
+2023-02-25T01:39:04Z: PLAYER CHATTED [  886171284] Billyj021            (   85.5,     5.7,   -94.9)
+  i have it out
+2023-02-25T01:39:06Z: PLAYER CHATTED [  886171284] Billyj021            (   85.5,     5.7,   -94.9)
+  :skull:
+2023-02-25T01:39:08Z: PLAYER CHATTED [  886171284] Billyj021            (   85.5,     5.7,   -94.9)
+  :skull:
+2023-02-25T01:39:08Z: PLAYER REMOVED [ 1700574244] supermelvingamerpro0
+2023-02-25T01:39:09Z: PLAYER CHATTED [ 2012936801] warlordboi55         (   77.1,     5.4,   -93.9)
+  in alabama you get married to ur second cousin
+2023-02-25T01:39:09Z: PLAYER CHATTED [ 1355896632] BadEeveesOnIt        (   67.2,     5.7,   -84.8)
+  3008
+2023-02-25T01:39:12Z: PLAYER CHATTED [  170801884] ComfortableSoap      (   84.0,     5.7,   -92.2)
+  like Alaska
+2023-02-25T01:39:12Z: PLAYER CHATTED [ 1442789418] Prorainbowgamer55    (   89.8,     4.9,   -91.4)
+  I need it
+2023-02-25T01:39:12Z: CHRCTER ADDED  [ 1692016967] DogePlayMM2          a.k.a. GateLock            
+2023-02-25T01:39:13Z: PLAYER CHATTED [ 3033521701] Jeremythecoolman2    (   57.8,     6.4,  -105.6)
+  TAIWANNN
+2023-02-25T01:39:14Z: PLAYER CHATTED [ 2311087350] palsfan7777          (  109.8,     4.7,   -70.1)
+  does anyone got quebec?
+2023-02-25T01:39:15Z: PLAYER ADDED   [  921335109] bossbattle1456       a.k.a. ImBadAtGeography_Skn
+2023-02-25T01:39:17Z: PLAYER CHATTED [ 1745924318] eiufvh               (   80.2,     6.0,   -92.8)
+  damn
+2023-02-25T01:39:18Z: PLAYER CHATTED [ 1629234694] Spacecatsmeowing     (   89.5,     4.0,   -65.3)
+  mk join me
+2023-02-25T01:39:27Z: PLAYER CHATTED [ 1355896632] BadEeveesOnIt        (   67.2,     5.7,   -84.8)
+  k
+2023-02-25T01:39:27Z: PLAYER CHATTED [  886171284] Billyj021            (   85.6,     5.7,   -95.1)
+  eh
+2023-02-25T01:39:27Z: PLAYER REMOVED [ 1629234694] Spacecatsmeowing     a.k.a. Kenny               
+2023-02-25T01:39:27Z: PLAYER REMOVED [ 1355896632] BadEeveesOnIt        a.k.a. LuckyConekat        
+2023-02-25T01:39:27Z: PLAYER CHATTED [ 2311087350] palsfan7777          (  102.0,     4.7,   -42.4)
+  does anyone got quebec?
+2023-02-25T01:39:32Z: PLAYER CHATTED [ 2012936801] warlordboi55         (   80.5,     5.4,   -90.0)
+  alaska has more people at least\
+2023-02-25T01:39:33Z: PLAYER ADDED   [ 3488380985] yououttaurmind122   
+2023-02-25T01:39:34Z: PLAYER CHATTED [  170801884] ComfortableSoap      (   84.0,     5.7,   -92.2)
+  why isnt Kosovo in the unrecognized states pack
+2023-02-25T01:39:37Z: PLAYER CHATTED [ 2012936801] warlordboi55         (   72.5,     5.4,   -97.4)
+  i do
+2023-02-25T01:39:37Z: PLAYER CHATTED [  170801884] ComfortableSoap      (   84.0,     5.7,   -92.2)
+  never heard of that place
+2023-02-25T01:39:43Z: PLAYER CHATTED [ 3033521701] Jeremythecoolman2    (  152.1,     5.4,   -57.4)
+  Nooo
+2023-02-25T01:39:43Z: PLAYER CHATTED [ 1745924318] eiufvh               (   80.2,     6.0,   -92.8)
+  ###############################################
