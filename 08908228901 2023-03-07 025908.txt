@@ -1,0 +1,224 @@
+[    1630228] : [ 8908228901] [🚢CRUISE!] SharkBite 2 🦈 - 736afcb7-9e21-43ef-84cf-af6e862c6c4d
+2023-03-07T02:59:08Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-03-07T02:59:08Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-07T02:59:08Z: PLAYER ADDED   [  330418009] angellexluvs         a.k.a. angelle             
+2023-03-07T02:59:08Z: PLAYER ADDED   [  121536326] Coolbag12            a.k.a. justRyan            
+2023-03-07T02:59:08Z: PLAYER ADDED   [ 3254378931] JeralCrazy456        a.k.a. Pooh                
+2023-03-07T02:59:08Z: PLAYER ADDED   [  906388618] theboombox128        a.k.a. St4r                
+2023-03-07T02:59:08Z: PLAYER ADDED   [  189432128] shankhunt            a.k.a. Shin                
+2023-03-07T02:59:08Z: PLAYER ADDED   [   68471378] ob2n                 a.k.a. Mark                
+2023-03-07T02:59:08Z: PLAYER ADDED   [  661677797] jacobyolo6789       
+2023-03-07T02:59:08Z: PLAYER ADDED   [ 2200099608] HunterSmith828       a.k.a. hunter              
+2023-03-07T02:59:08Z: PLAYER ADDED   [ 2017662926] bigboy2234q2        
+2023-03-07T02:59:08Z: PLAYER ADDED   [ 2400889809] Nayeli1233457799     a.k.a. Godisgood           
+2023-03-07T02:59:08Z: PLAYER ADDED   [ 2053754356] Azakidsoooo         
+2023-03-07T02:59:08Z: PLAYER ADDED   [ 3239496583] TH3YLUVMELO          a.k.a. miraW               
+2023-03-07T02:59:08Z: PLAYER ADDED   [ 1704394242] revolver_agz         a.k.a. nonofyourbussiness  
+2023-03-07T02:59:08Z: PLAYER ADDED   [ 1861341437] lilAmeer1092013      a.k.a. LVlilradier83       
+2023-03-07T02:59:08Z: PLAYER ADDED   [ 1466030816] Ella71114           
+2023-03-07T02:59:21Z: PLAYER REMOVED [  189432128] shankhunt            a.k.a. Shin                
+2023-03-07T03:01:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1257.1,   325.7,  -808.4)
+  Mark:
+2023-03-07T03:01:18Z: PLAYER CHATTED [   68471378] ob2n                 ( -224.6,     3.6,  -403.5)
+  ?
+2023-03-07T03:01:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1256.2,   111.8,  -801.6)
+  I will invite you to my next boat.
+2023-03-07T03:01:31Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1256.2,   111.8,  -801.6)
+  Then I will know where the shark is.
+2023-03-07T03:01:39Z: PLAYER CHATTED [   68471378] ob2n                 (  374.7,     3.6,   237.9)
+  You downloaded an esp?
+2023-03-07T03:01:41Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1256.2,   111.8,  -801.6)
+  Provided I am not the shark.
+2023-03-07T03:01:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1311.9,   112.2,  -767.2)
+  I don't really download ESPs.
+2023-03-07T03:02:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1345.8,    68.1,  -668.1)
+  I'm still not sure if I should do this.
+2023-03-07T03:02:09Z: PLAYER CHATTED [   68471378] ob2n                 (    4.7,     3.5,  -618.1)
+  Got it
+2023-03-07T03:02:12Z: PLAYER CHATTED [   68471378] ob2n                 (  317.3,     3.5,  -658.4)
+  Invite Angelle & I
+2023-03-07T03:02:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1285.6,   115.0,  -786.3)
+  Provided I or neither of you are the shark, sure.
+2023-03-07T03:02:52Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1285.6,   115.0,  -786.3)
+  How about this:
+2023-03-07T03:02:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1285.6,   115.0,  -786.3)
+  If either of us become shark,
+2023-03-07T03:03:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1285.6,   115.0,  -786.3)
+  We could both use our tools.
+2023-03-07T03:03:22Z: PLAYER REMOVED [  906388618] theboombox128        a.k.a. St4r                
+2023-03-07T03:03:24Z: PLAYER ADDED   [  281426475] CrazyElijahZarlingo  a.k.a. EliZar              
+2023-03-07T03:03:27Z: PLAYER CHATTED [   68471378] ob2n                 (  -39.5,    98.9,    -6.5)
+  I'm a macbook user
+2023-03-07T03:03:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1256.9,   133.4,  -815.6)
+  Oh.
+2023-03-07T03:03:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1256.9,   133.5,  -815.6)
+  I always forget!
+2023-03-07T03:03:55Z: PLAYER CHATTED [   68471378] ob2n                 ( -150.3,    98.9,   -24.2)
+  please dont kill me visual
+2023-03-07T03:03:56Z: PLAYER CHATTED [   68471378] ob2n                 ( -154.1,    98.9,   -24.8)
+  :(
+2023-03-07T03:04:03Z: PLAYER CHATTED [   68471378] ob2n                 ( -184.4,    98.9,   -30.5)
+  i want teeth
+2023-03-07T03:04:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1244.5,   111.6,  -803.1)
+  Can I locate you?
+2023-03-07T03:04:11Z: PLAYER CHATTED [   68471378] ob2n                 ( -120.4,    98.9,    14.2)
+  please dont
+2023-03-07T03:04:29Z: PLAYER REMOVED [ 2053754356] Azakidsoooo         
+2023-03-07T03:04:31Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1821.0,     5.3,  -413.2)
+  I know where you are right now!
+2023-03-07T03:04:35Z: PLAYER REMOVED [ 3239496583] TH3YLUVMELO          a.k.a. miraW               
+2023-03-07T03:04:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1823.5,     5.3,  -411.1)
+  You came out of the vent!
+2023-03-07T03:04:48Z: PLAYER ADDED   [ 1538040998] Lil_Neo23           
+2023-03-07T03:04:50Z: PLAYER ADDED   [  120844542] Firefoxgirl3214      a.k.a. GalaxyHuskyPlays    
+2023-03-07T03:04:54Z: PLAYER REMOVED [  281426475] CrazyElijahZarlingo  a.k.a. EliZar              
+2023-03-07T03:04:57Z: PLAYER REMOVED [ 1538040998] Lil_Neo23           
+2023-03-07T03:04:58Z: PLAYER ADDED   [ 1793998389] Iamacoolguys_o       a.k.a. Smallman            
+2023-03-07T03:05:01Z: PLAYER REMOVED [  121536326] Coolbag12            a.k.a. justRyan            
+2023-03-07T03:05:03Z: PLAYER ADDED   [  667134906] sstacey15            a.k.a. Ann                 
+2023-03-07T03:05:10Z: PLAYER ADDED   [ 1886958373] TheWolfsInGucci      a.k.a. WolfsInGucci        
+2023-03-07T03:05:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1401.8,     6.1,   -45.8)
+  Apparently, I CAN fly boats.
+2023-03-07T03:05:19Z: CHRCTER ADDED  [ 2400889809] Nayeli1233457799     a.k.a. Godisgood           
+2023-03-07T03:05:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1401.9,     6.1,   -45.8)
+  Just as long as no one is in the driver's seat.
+2023-03-07T03:05:39Z: CHRCTER ADDED  [  330418009] angellexluvs         a.k.a. angelle             
+2023-03-07T03:06:15Z: PLAYER REMOVED [  330418009] angellexluvs         a.k.a. angelle             
+2023-03-07T03:06:23Z: PLAYER ADDED   [  297384045] 401355513           
+2023-03-07T03:06:51Z: CHRCTER ADDED  [ 3254378931] JeralCrazy456        a.k.a. Pooh                
+2023-03-07T03:07:08Z: CHRCTER ADDED  [ 2017662926] bigboy2234q2        
+2023-03-07T03:07:09Z: PLAYER ADDED   [  330418009] angellexluvs         a.k.a. angelle             
+2023-03-07T03:07:12Z: CHRCTER ADDED  [ 2200099608] HunterSmith828       a.k.a. hunter              
+2023-03-07T03:07:52Z: PLAYER REMOVED [ 1886958373] TheWolfsInGucci      a.k.a. WolfsInGucci        
+2023-03-07T03:08:01Z: PLAYER REMOVED [ 1793998389] Iamacoolguys_o       a.k.a. Smallman            
+2023-03-07T03:08:05Z: PLAYER ADDED   [ 3792864888] Notsimone_abcwww123  a.k.a. Simone              
+2023-03-07T03:08:36Z: CHRCTER ADDED  [ 1861341437] lilAmeer1092013      a.k.a. LVlilradier83       
+2023-03-07T03:09:00Z: PLAYER CHATTED [   68471378] ob2n                 ( -179.7,    98.9,   -36.3)
+  invite angelle and i
+2023-03-07T03:09:02Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -156.4,   100.0,    20.0)
+  When I become shark,
+2023-03-07T03:09:13Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -173.4,   100.0,    23.7)
+  I will broadcast my location,
+2023-03-07T03:09:18Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -173.4,   100.0,    23.7)
+  BUT I will be fast.
+2023-03-07T03:09:26Z: PLAYER CHATTED [   68471378] ob2n                 ( -178.3,    98.9,     8.9)
+  invite us
+2023-03-07T03:09:38Z: PLAYER CHATTED [   68471378] ob2n                 ( -178.3,    98.9,     8.9)
+  and angelle
+2023-03-07T03:09:38Z: PLAYER CHATTED [  330418009] angellexluvs         ( -161.9,    99.8,   -26.8)
+  …
+2023-03-07T03:09:39Z: PLAYER CHATTED [   68471378] ob2n                 ( -178.3,    98.9,     8.9)
+  agh
+2023-03-07T03:09:45Z: PLAYER CHATTED [  330418009] angellexluvs         ( -547.4,     6.0,  1291.4)
+  !!
+2023-03-07T03:09:57Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -540.7,     5.7,  1303.7)
+  I have to be the first one seated.
+2023-03-07T03:10:01Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -540.6,     5.7,  1305.8)
+  Get off and back on.
+2023-03-07T03:10:10Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -540.1,     5.7,  1305.7)
+  Again.
+2023-03-07T03:10:14Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -539.5,     5.7,  1305.9)
+  No one in the driver's
+2023-03-07T03:10:19Z: PLAYER CHATTED [   68471378] ob2n                 ( -541.4,     5.0,  1301.8)
+  ok
+2023-03-07T03:10:21Z: PLAYER CHATTED [  330418009] angellexluvs         ( -547.8,     6.9,  1309.8)
+  Yeah mark 
+2023-03-07T03:10:36Z: PLAYER CHATTED [   68471378] ob2n                 ( -541.0,     4.9,  1301.3)
+  does it work?
+2023-03-07T03:10:36Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -540.2,     5.7,  1308.6)
+  Again?
+2023-03-07T03:10:39Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -540.3,     6.3,  1308.5)
+  Not yet.
+2023-03-07T03:10:45Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -536.5,     5.7,  1305.2)
+  Weird.
+2023-03-07T03:11:07Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -125.1,   100.0,    39.0)
+  Yes!
+2023-03-07T03:11:16Z: PLAYER CHATTED [   68471378] ob2n                 ( -194.2,    98.9,     7.7)
+  that didnt wokr
+2023-03-07T03:11:18Z: PLAYER CHATTED [   68471378] ob2n                 ( -193.0,    98.9,     7.4)
+  work
+2023-03-07T03:11:18Z: PLAYER CHATTED [   68471378] ob2n                 ( -186.7,    98.9,     6.4)
+  *
+2023-03-07T03:11:21Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -125.1,   100.0,    39.0)
+  We won anyways.
+2023-03-07T03:11:24Z: PLAYER CHATTED [ 3254378931] JeralCrazy456        ( -141.8,    99.1,    32.9)
+  lol
+2023-03-07T03:11:38Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -157.3,   100.0,    37.7)
+  I tried to save you, but you saved yourselves.
+2023-03-07T03:11:53Z: PLAYER CHATTED [   68471378] ob2n                 (  -69.2,    98.9,    -5.0)
+  this time we'll jump in the water
+2023-03-07T03:11:55Z: PLAYER CHATTED [   68471378] ob2n                 (  -69.2,    98.9,    -5.0)
+  and then get on
+2023-03-07T03:12:13Z: PLAYER ADDED   [ 4142320656] ColtDabolt20        
+2023-03-07T03:12:17Z: PLAYER CHATTED [   68471378] ob2n                 ( 1141.4,    -0.5,  1606.5)
+  lmk when ur ready
+2023-03-07T03:12:19Z: PLAYER CHATTED [ 3254378931] JeralCrazy456        (  -70.5,    19.2, -1463.0)
+  let me in
+2023-03-07T03:12:24Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1071.5,     6.0,  1588.6)
+  I made it.
+2023-03-07T03:12:32Z: PLAYER CHATTED [   68471378] ob2n                 (  317.6,   369.3,   533.2)
+  hell yeah
+2023-03-07T03:12:34Z: PLAYER CHATTED [   68471378] ob2n                 (  338.9,   439.0,   788.7)
+  wheres the shark
+2023-03-07T03:12:40Z: PLAYER REMOVED [  661677797] jacobyolo6789       
+2023-03-07T03:12:42Z: PLAYER CHATTED [  330418009] angellexluvs         (  325.6,   -42.1,  -217.1)
+  Woohoo!
+2023-03-07T03:12:44Z: CHRCTER ADDED  [ 3254378931] JeralCrazy456        a.k.a. Pooh                
+2023-03-07T03:13:01Z: CHRCTER ADDED  [  120844542] Firefoxgirl3214      a.k.a. GalaxyHuskyPlays    
+2023-03-07T03:13:05Z: CHRCTER ADDED  [ 1861341437] lilAmeer1092013      a.k.a. LVlilradier83       
+2023-03-07T03:13:25Z: CHRCTER ADDED  [  297384045] 401355513           
+2023-03-07T03:13:26Z: CHRCTER ADDED  [ 1704394242] revolver_agz         a.k.a. nonofyourbussiness  
+2023-03-07T03:13:46Z: CHRCTER ADDED  [ 2400889809] Nayeli1233457799     a.k.a. Godisgood           
+2023-03-07T03:14:01Z: PLAYER CHATTED [ 3254378931] JeralCrazy456        ( -161.8,    99.1,    -0.4)
+  ill invite u colt
+2023-03-07T03:14:20Z: CHRCTER ADDED  [ 2017662926] bigboy2234q2        
+2023-03-07T03:14:26Z: PLAYER CHATTED [ 4142320656] ColtDabolt20         ( -162.4,    99.2,     7.8)
+  yay
+2023-03-07T03:14:50Z: CHRCTER ADDED  [   68471378] ob2n                 a.k.a. Mark                
+2023-03-07T03:14:52Z: PLAYER CHATTED [  330418009] angellexluvs         ( 1734.2,  -154.8,  1140.7)
+  Dang
+2023-03-07T03:14:53Z: CHRCTER ADDED  [  330418009] angellexluvs         a.k.a. angelle             
+2023-03-07T03:15:08Z: PLAYER CHATTED [   68471378] ob2n                 ( -179.6,    98.9,     1.7)
+  Now you need a bigger boat
+2023-03-07T03:16:15Z: CHRCTER ADDED  [ 2200099608] HunterSmith828       a.k.a. hunter              
+2023-03-07T03:16:38Z: PLAYER CHATTED [   68471378] ob2n                 ( -148.3,    99.4,    15.6)
+  Visual, join my boat
+2023-03-07T03:16:41Z: PLAYER CHATTED [   68471378] ob2n                 ( -148.3,    99.4,    15.6)
+  I'll spawn you a bigger one
+2023-03-07T03:16:48Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -196.3,   100.0,     6.8)
+  I beat him!
+2023-03-07T03:16:50Z: PLAYER REMOVED [ 1466030816] Ella71114           
+2023-03-07T03:16:52Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -196.3,   100.0,     6.8)
+  I BEAT THE SHARK!!
+2023-03-07T03:16:54Z: PLAYER ADDED   [  940557770] jonathanisveryfunny  a.k.a. jonathan            
+2023-03-07T03:16:59Z: PLAYER CHATTED [   68471378] ob2n                 ( -168.6,    98.9,    16.5)
+  That's a lie all my boats are small
+2023-03-07T03:17:51Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -160.7,   100.0,     7.2)
+  I was the final defeater of the last shark.
+2023-03-07T03:18:27Z: PLAYER CHATTED [ 3254378931] JeralCrazy456        (-1461.0,     6.6,   611.6)
+  uhhm
+2023-03-07T03:18:28Z: CHRCTER ADDED  [ 1704394242] revolver_agz         a.k.a. nonofyourbussiness  
+2023-03-07T03:18:31Z: PLAYER REMOVED [ 2400889809] Nayeli1233457799     a.k.a. Godisgood           
+2023-03-07T03:18:34Z: CHRCTER ADDED  [ 3792864888] Notsimone_abcwww123  a.k.a. Simone              
+2023-03-07T03:18:49Z: PLAYER CHATTED [  330418009] angellexluvs         ( -245.2,   106.9,  -872.4)
+  You didn’t know ducks can fly?
+2023-03-07T03:18:54Z: PLAYER CHATTED [   68471378] ob2n                 ( -250.7,   106.0,  -877.2)
+  move
+2023-03-07T03:18:58Z: PLAYER CHATTED [   68471378] ob2n                 ( -250.7,   106.0,  -877.2)
+  get the duck boat
+2023-03-07T03:18:59Z: PLAYER CHATTED [   68471378] ob2n                 ( -247.0,    94.6,  -914.4)
+  its op
+2023-03-07T03:18:59Z: PLAYER ADDED   [ 1389009966] BonApplePp           a.k.a. nikko               
+2023-03-07T03:19:14Z: PLAYER CHATTED [ 1704394242] revolver_agz         ( -146.2,    99.1,    11.0)
+  what
+2023-03-07T03:19:21Z: CHRCTER ADDED  [ 2200099608] HunterSmith828       a.k.a. hunter              
+2023-03-07T03:19:22Z: PLAYER CHATTED [ 3792864888] Notsimone_abcwww123  ( -148.0,    99.3,    11.3)
+  Hehe 😉 
+2023-03-07T03:19:33Z: PLAYER CHATTED [ 1704394242] revolver_agz         ( -146.2,    99.1,    11.0)
+  hehehehhehehehehe
+2023-03-07T03:19:45Z: CHRCTER ADDED  [  120844542] Firefoxgirl3214      a.k.a. GalaxyHuskyPlays    
+2023-03-07T03:20:03Z: PLAYER CHATTED [ 1704394242] revolver_agz         ( -151.0,    99.1,    11.7)
+  ####################################################################
+2023-03-07T03:20:09Z: CHRCTER ADDED  [  667134906] sstacey15            a.k.a. Ann                 
+2023-03-07T03:20:22Z: PLAYER CHATTED [   68471378] ob2n                 ( -375.3,   107.5,  -514.2)
+  ugh we not close enough

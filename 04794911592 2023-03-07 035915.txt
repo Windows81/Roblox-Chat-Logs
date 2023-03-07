@@ -1,0 +1,9 @@
+[    1630228] : [ 4794911592] The Kubla Khan Las Vegas • Hotel Showcase, W.I.P. - b36c398f-f735-4214-a5e3-ffb599a0550a
+2023-03-07T03:59:15Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-03-07T03:59:15Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-07T04:03:03Z: PLAYER ADDED   [ 1581340012] basenjilover5       
+2023-03-07T04:03:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (   35.0,    93.8,    -2.7)
+  I was supposed to be waiting for someone.
+2023-03-07T04:03:52Z: PLAYER CHATTED [ 1581340012] basenjilover5        (   39.5,    94.3,   -15.3)
+  oops
+2023-03-07T04:04:27Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

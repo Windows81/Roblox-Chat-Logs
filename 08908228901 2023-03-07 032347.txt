@@ -1,0 +1,429 @@
+[    1630228] : [ 8908228901] [🚢CRUISE!] SharkBite 2 🦈 - 736afcb7-9e21-43ef-84cf-af6e862c6c4d
+2023-03-07T03:23:47Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-03-07T03:23:47Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-07T03:23:47Z: PLAYER ADDED   [ 4330385837] hygg07              
+2023-03-07T03:23:47Z: PLAYER ADDED   [ 3862111975] Huggywuggyfoxx      
+2023-03-07T03:23:47Z: PLAYER ADDED   [   68471378] ob2n                 a.k.a. Mark                
+2023-03-07T03:23:47Z: PLAYER ADDED   [ 2017662926] bigboy2234q2        
+2023-03-07T03:23:47Z: PLAYER ADDED   [ 1861341437] lilAmeer1092013      a.k.a. LVlilradier83       
+2023-03-07T03:23:47Z: PLAYER ADDED   [ 1704394242] revolver_agz         a.k.a. nonofyourbussiness  
+2023-03-07T03:23:47Z: PLAYER ADDED   [ 3254378931] JeralCrazy456        a.k.a. Pooh                
+2023-03-07T03:23:47Z: PLAYER ADDED   [  330418009] angellexluvs         a.k.a. angelle             
+2023-03-07T03:23:47Z: PLAYER ADDED   [ 3792864888] Notsimone_abcwww123  a.k.a. Simone              
+2023-03-07T03:23:47Z: PLAYER ADDED   [ 2687481030] Wolfsonic34         
+2023-03-07T03:23:47Z: PLAYER ADDED   [ 2200099608] HunterSmith828       a.k.a. hunter              
+2023-03-07T03:23:47Z: PLAYER ADDED   [  667134906] sstacey15            a.k.a. Ann                 
+2023-03-07T03:23:47Z: PLAYER ADDED   [  120844542] Firefoxgirl3214      a.k.a. GalaxyHuskyPlays    
+2023-03-07T03:23:47Z: PLAYER ADDED   [  297384045] 401355513           
+2023-03-07T03:23:47Z: PLAYER ADDED   [ 4142320656] ColtDabolt20        
+2023-03-07T03:23:47Z: PLAYER ADDED   [  940557770] jonathanisveryfunny  a.k.a. jonathan            
+2023-03-07T03:23:47Z: PLAYER ADDED   [ 2817500272] Ibunnyxbunny         a.k.a. Sideye              
+2023-03-07T03:23:56Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -160.5,   100.0,   -32.7)
+  My computer crashed just as we crashed into the ocean.
+2023-03-07T03:24:06Z: PLAYER CHATTED [   68471378] ob2n                 (-1142.7,     3.6,  1496.5)
+  agh
+2023-03-07T03:24:28Z: CHRCTER ADDED  [ 1704394242] revolver_agz         a.k.a. nonofyourbussiness  
+2023-03-07T03:24:40Z: CHRCTER ADDED  [ 2817500272] Ibunnyxbunny         a.k.a. Sideye              
+2023-03-07T03:24:42Z: PLAYER REMOVED [ 4330385837] hygg07              
+2023-03-07T03:24:57Z: CHRCTER ADDED  [ 4142320656] ColtDabolt20        
+2023-03-07T03:25:12Z: CHRCTER ADDED  [ 2017662926] bigboy2234q2        
+2023-03-07T03:25:20Z: CHRCTER ADDED  [ 2200099608] HunterSmith828       a.k.a. hunter              
+2023-03-07T03:25:37Z: CHRCTER ADDED  [ 3254378931] JeralCrazy456        a.k.a. Pooh                
+2023-03-07T03:25:52Z: PLAYER REMOVED [ 2017662926] bigboy2234q2        
+2023-03-07T03:25:56Z: PLAYER REMOVED [ 2687481030] Wolfsonic34         
+2023-03-07T03:25:56Z: CHRCTER ADDED  [   68471378] ob2n                 a.k.a. Mark                
+2023-03-07T03:26:00Z: PLAYER REMOVED [ 2200099608] HunterSmith828       a.k.a. hunter              
+2023-03-07T03:26:03Z: PLAYER CHATTED [    1630228] VisualPlugin         (  417.4,    25.4,   286.8)
+  This is ahhhh!
+2023-03-07T03:26:04Z: PLAYER ADDED   [ 3118645395] SERRGIOYSOFIA       
+2023-03-07T03:26:11Z: CHRCTER ADDED  [  940557770] jonathanisveryfunny  a.k.a. jonathan            
+2023-03-07T03:26:15Z: PLAYER REMOVED [  940557770] jonathanisveryfunny  a.k.a. jonathan            
+2023-03-07T03:26:16Z: PLAYER ADDED   [ 1236176595] jasonjeffr           a.k.a. Ghost               
+2023-03-07T03:26:18Z: PLAYER REMOVED [ 4142320656] ColtDabolt20        
+2023-03-07T03:26:20Z: CHRCTER ADDED  [ 3792864888] Notsimone_abcwww123  a.k.a. Simone              
+2023-03-07T03:26:21Z: PLAYER ADDED   [ 1307938182] toot2332             a.k.a. Mads                
+2023-03-07T03:26:43Z: CHRCTER ADDED  [ 1861341437] lilAmeer1092013      a.k.a. LVlilradier83       
+2023-03-07T03:26:50Z: CHRCTER ADDED  [  330418009] angellexluvs         a.k.a. angelle             
+2023-03-07T03:26:57Z: PLAYER ADDED   [ 4142320656] ColtDabolt20        
+2023-03-07T03:27:04Z: PLAYER REMOVED [ 3862111975] Huggywuggyfoxx      
+2023-03-07T03:27:35Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1084.1,     4.7,  1660.1)
+  Get in my boat if you want to defeat tiburón.
+2023-03-07T03:27:41Z: CHRCTER ADDED  [  667134906] sstacey15            a.k.a. Ann                 
+2023-03-07T03:27:46Z: PLAYER CHATTED [  120844542] Firefoxgirl3214      ( 1124.7,    19.4,  1640.5)
+  what-
+2023-03-07T03:27:55Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1084.1,     4.7,  1660.0)
+  Tiburón is the shark's name.
+2023-03-07T03:28:12Z: PLAYER CHATTED [  120844542] Firefoxgirl3214      ( 1124.6,    19.4,  1640.5)
+  ehh i dont really mind if i die or not
+2023-03-07T03:28:19Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1084.1,     4.7,  1660.0)
+  I can fly you around the one seas!
+2023-03-07T03:29:24Z: PLAYER REMOVED [ 1861341437] lilAmeer1092013      a.k.a. LVlilradier83       
+2023-03-07T03:29:27Z: PLAYER ADDED   [   67830195] gael2777             a.k.a. Gael                
+2023-03-07T03:29:38Z: PLAYER REMOVED [  330418009] angellexluvs         a.k.a. angelle             
+2023-03-07T03:29:42Z: PLAYER ADDED   [ 4074530097] Minemoonwhyme        a.k.a. Mia                 
+2023-03-07T03:29:43Z: PLAYER ADDED   [ 1445482191] allisoniscool520     a.k.a. Alli                
+2023-03-07T03:29:56Z: PLAYER ADDED   [ 3750322047] VT_Kuro              a.k.a. Kuro                
+2023-03-07T03:30:12Z: CHRCTER ADDED  [  297384045] 401355513           
+2023-03-07T03:30:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (   17.4,    95.9,    26.3)
+  Pooh is shark.
+2023-03-07T03:30:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (   17.4,    95.9,    26.3)
+  Your team changes before the scramber shows the result.
+2023-03-07T03:30:44Z: PLAYER CHATTED [   68471378] ob2n                 ( -185.7,    98.9,   -11.6)
+  invite me visual
+2023-03-07T03:31:02Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1326.1,    -0.9,  -681.3)
+  Get off the boat.
+2023-03-07T03:31:06Z: PLAYER CHATTED [   68471378] ob2n                 ( 1344.0,    -0.5,  -676.4)
+  galaxy get off for a second
+2023-03-07T03:31:16Z: PLAYER CHATTED [   67830195] gael2777             (-1705.5,     5.4,  -876.8)
+  ok guys we go
+2023-03-07T03:31:20Z: PLAYER CHATTED [   68471378] ob2n                 ( 1344.0,     6.0,  -692.1)
+  go
+2023-03-07T03:31:24Z: PLAYER CHATTED [   67830195] gael2777             (-1331.1,     5.5, -1268.6)
+  hello Mads
+2023-03-07T03:31:29Z: PLAYER CHATTED [ 1307938182] toot2332             (-1228.3,     5.1, -1571.0)
+  hi
+2023-03-07T03:31:36Z: PLAYER ADDED   [ 1447113097] Muf056              
+2023-03-07T03:31:51Z: PLAYER REMOVED [ 3254378931] JeralCrazy456        a.k.a. Pooh                
+2023-03-07T03:31:59Z: PLAYER CHATTED [   67830195] gael2777             ( -172.7,    99.2,    -5.2)
+  we alomost died
+2023-03-07T03:32:05Z: PLAYER CHATTED [   67830195] gael2777             ( -172.7,    99.2,    -5.2)
+  but Pooh left
+2023-03-07T03:32:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.8,    95.9,   -60.4)
+  I should've made a tracker!
+2023-03-07T03:32:33Z: PLAYER REMOVED [ 4074530097] Minemoonwhyme        a.k.a. Mia                 
+2023-03-07T03:32:38Z: PLAYER REMOVED [ 1445482191] allisoniscool520     a.k.a. Alli                
+2023-03-07T03:32:54Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1330.6,     5.1,  -679.3)
+  Allison is not inviteabl
+2023-03-07T03:33:03Z: PLAYER CHATTED [   67830195] gael2777             ( 1442.9,     5.2, -1276.8)
+  i forgor to kick one of you off
+2023-03-07T03:33:06Z: PLAYER REMOVED [ 2817500272] Ibunnyxbunny         a.k.a. Sideye              
+2023-03-07T03:33:07Z: PLAYER CHATTED [   67830195] gael2777             ( -192.3,    99.2,    -1.2)
+  well nm
+2023-03-07T03:33:14Z: PLAYER CHATTED [   68471378] ob2n                 ( -162.3,    98.9,    -5.2)
+  why do they keep leaving?
+2023-03-07T03:33:17Z: PLAYER ADDED   [ 4263446797] joiieeee1            a.k.a. MrWhlte             
+2023-03-07T03:33:22Z: PLAYER CHATTED [   67830195] gael2777             ( -189.8,    99.2,    14.9)
+  idk
+2023-03-07T03:33:24Z: PLAYER REMOVED [ 3118645395] SERRGIOYSOFIA       
+2023-03-07T03:33:29Z: PLAYER ADDED   [ 2501223480] bobatea126543        a.k.a. maria               
+2023-03-07T03:33:30Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -125.3,   100.4,    -3.2)
+  We're just so good.
+2023-03-07T03:33:30Z: PLAYER CHATTED [   67830195] gael2777             ( -189.8,    99.2,    14.9)
+  maybe bed time? or bored
+2023-03-07T03:33:37Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -125.3,   100.4,    -3.2)
+  Every one of us.
+2023-03-07T03:34:06Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -676.5,     5.1,   683.1)
+  Once we enter the boat, we must a;; jump off.
+2023-03-07T03:34:19Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -678.9,    -0.9,   676.4)
+  ksgmjosgmjongjiseg
+2023-03-07T03:34:42Z: PLAYER CHATTED [   67830195] gael2777             ( -766.7,     5.8,   467.2)
+  oh wooow
+2023-03-07T03:34:47Z: PLAYER CHATTED [   67830195] gael2777             ( -765.6,     5.8,   460.2)
+  so many people
+2023-03-07T03:34:49Z: PLAYER CHATTED [   68471378] ob2n                 ( -708.9,     6.4,   578.9)
+  Visual, where are you?
+2023-03-07T03:34:56Z: PLAYER ADDED   [ 3254378931] JeralCrazy456        a.k.a. Pooh                
+2023-03-07T03:34:57Z: PLAYER CHATTED [ 1447113097] Muf056               ( -732.7,    36.8,   446.4)
+  быстрей
+2023-03-07T03:35:01Z: PLAYER CHATTED [   67830195] gael2777             ( -786.3,     5.8,   531.0)
+  ill be a side driver
+2023-03-07T03:35:09Z: PLAYER REMOVED [   68471378] ob2n                 a.k.a. Mark                
+2023-03-07T03:35:34Z: PLAYER CHATTED [   67830195] gael2777             (  299.7,     5.8,  -230.9)
+  i got you bro
+2023-03-07T03:35:39Z: PLAYER CHATTED [   67830195] gael2777             (  271.6,     5.8,  -245.9)
+  Ann
+2023-03-07T03:35:41Z: PLAYER CHATTED [   67830195] gael2777             (  268.5,     5.8,  -247.1)
+  get on
+2023-03-07T03:35:46Z: PLAYER REMOVED [ 3254378931] JeralCrazy456        a.k.a. Pooh                
+2023-03-07T03:35:47Z: CHRCTER ADDED  [ 1307938182] toot2332             a.k.a. Mads                
+2023-03-07T03:35:56Z: PLAYER ADDED   [ 3311817912] BeeSivvy            
+2023-03-07T03:35:58Z: PLAYER REMOVED [ 4263446797] joiieeee1            a.k.a. MrWhlte             
+2023-03-07T03:36:04Z: PLAYER ADDED   [ 3577692909] ThatSuperGalaxyKid   a.k.a. TheRIZZLER          
+2023-03-07T03:36:15Z: PLAYER CHATTED [   67830195] gael2777             ( -125.8,    99.5,    -3.1)
+  there's a exploter
+2023-03-07T03:36:19Z: PLAYER CHATTED [   67830195] gael2777             ( -152.4,    99.2,   -10.9)
+  said that wrong
+2023-03-07T03:36:32Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -200.3,   100.0,     6.8)
+  I apologise.
+2023-03-07T03:36:36Z: PLAYER CHATTED [   67830195] gael2777             ( -202.6,    99.2,   -10.1)
+  no more
+2023-03-07T03:36:42Z: PLAYER CHATTED [   67830195] gael2777             ( -202.6,    99.2,   -10.1)
+  just play fair and good
+2023-03-07T03:36:46Z: PLAYER CHATTED [   67830195] gael2777             ( -202.6,    99.2,   -10.1)
+  so everyone can have fun
+2023-03-07T03:36:46Z: PLAYER REMOVED [ 3792864888] Notsimone_abcwww123  a.k.a. Simone              
+2023-03-07T03:36:53Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -199.7,   100.0,   -16.9)
+  You're right.
+2023-03-07T03:37:01Z: PLAYER ADDED   [ 3254378931] JeralCrazy456        a.k.a. Pooh                
+2023-03-07T03:37:03Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1134.4,    54.4, -1121.2)
+  I will do that.
+2023-03-07T03:37:09Z: PLAYER CHATTED [   67830195] gael2777             ( 1112.1,    51.4, -1175.6)
+  thanks Visual
+2023-03-07T03:37:13Z: PLAYER CHATTED [ 3577692909] ThatSuperGalaxyKid   ( 1110.8,    80.3, -1165.9)
+  oil ring sucks
+2023-03-07T03:37:14Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1103.6,    52.2, -1161.7)
+  No problem.
+2023-03-07T03:37:22Z: PLAYER CHATTED [ 3750322047] VT_Kuro              ( 1060.6,    51.7, -1221.4)
+  cry about it ig?
+2023-03-07T03:37:24Z: PLAYER CHATTED [   67830195] gael2777             ( 1136.8,    51.4, -1157.4)
+  yeah it kinda does
+2023-03-07T03:37:26Z: PLAYER REMOVED [ 1307938182] toot2332             a.k.a. Mads                
+2023-03-07T03:37:30Z: PLAYER ADDED   [ 1553541225] Neaven_g11          
+2023-03-07T03:37:40Z: PLAYER CHATTED [   67830195] gael2777             ( 1136.8,    51.4, -1157.4)
+  the only way to survive is to kill the shark or a bad shark
+2023-03-07T03:38:03Z: PLAYER CHATTED [   67830195] gael2777             ( 1178.2,    51.3, -1050.3)
+  come on robloxians
+2023-03-07T03:38:07Z: PLAYER CHATTED [   67830195] gael2777             ( 1178.2,    51.3, -1050.3)
+  get into your positions
+2023-03-07T03:38:10Z: PLAYER CHATTED [   67830195] gael2777             ( 1178.2,    51.3, -1050.3)
+  and all weapons out
+2023-03-07T03:38:12Z: PLAYER CHATTED [  667134906] sstacey15            ( -212.8,    98.9,     3.4)
+  Yeah no I don’t know how to be a shark ☠️
+2023-03-07T03:38:21Z: PLAYER CHATTED [   67830195] gael2777             ( 1177.1,    51.3, -1049.4)
+  damn, i think we good
+2023-03-07T03:38:27Z: PLAYER REMOVED [ 3254378931] JeralCrazy456        a.k.a. Pooh                
+2023-03-07T03:38:27Z: PLAYER CHATTED [ 3750322047] VT_Kuro              ( 1117.6,   108.6, -1160.5)
+  gonna learn today lol
+2023-03-07T03:38:32Z: PLAYER CHATTED [ 3577692909] ThatSuperGalaxyKid   ( 1172.9,    56.9, -1057.2)
+  WHERE IS HE
+2023-03-07T03:38:33Z: PLAYER CHATTED [   67830195] gael2777             ( 1177.1,    51.3, -1049.4)
+  mobile has terrible controls
+2023-03-07T03:38:41Z: PLAYER CHATTED [   67830195] gael2777             ( 1177.3,    51.3, -1048.0)
+  so i think we are safe?
+2023-03-07T03:38:47Z: PLAYER CHATTED [ 3577692909] ThatSuperGalaxyKid   ( 1172.9,    56.9, -1057.3)
+  fr
+2023-03-07T03:38:49Z: PLAYER CHATTED [ 3577692909] ThatSuperGalaxyKid   ( 1172.9,    56.9, -1057.3)
+  am on pc
+2023-03-07T03:38:51Z: PLAYER CHATTED [   67830195] gael2777             ( 1180.9,    51.3, -1045.4)
+  oh shes here
+2023-03-07T03:38:54Z: PLAYER ADDED   [ 2930956136] toastyissocool       a.k.a. dingus              
+2023-03-07T03:39:00Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1172.3,    81.2, -1168.9)
+  Sure.
+2023-03-07T03:39:04Z: PLAYER CHATTED [  667134906] sstacey15            ( -212.8,    98.9,     3.4)
+  I’m on Mobile so the controls are as 
+2023-03-07T03:39:11Z: PLAYER CHATTED [   67830195] gael2777             ( 1187.9,    51.3, -1036.0)
+  yeah, i seen it before
+2023-03-07T03:39:12Z: PLAYER CHATTED [ 3577692909] ThatSuperGalaxyKid   ( 1174.4,    56.6, -1055.3)
+  WHERE
+2023-03-07T03:39:13Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1168.2,    81.2, -1160.9)
+  No problem.
+2023-03-07T03:40:06Z: PLAYER CHATTED [ 3577692909] ThatSuperGalaxyKid   ( -188.6,    99.1,    -4.4)
+  esz
+2023-03-07T03:40:08Z: PLAYER CHATTED [   67830195] gael2777             ( -173.2,    99.2,     0.1)
+  ok we got it
+2023-03-07T03:40:10Z: PLAYER REMOVED [ 1236176595] jasonjeffr           a.k.a. Ghost               
+2023-03-07T03:40:20Z: PLAYER REMOVED [ 1553541225] Neaven_g11          
+2023-03-07T03:40:20Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -145.0,   100.0,     2.4)
+  Gael:
+2023-03-07T03:40:23Z: PLAYER CHATTED [   67830195] gael2777             ( -208.5,    99.2,    -6.5)
+  but was quite a boring round
+2023-03-07T03:40:38Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -145.0,   100.0,     1.4)
+  The concept of 'playing fair' kinda breaks down when gamepasses are invovled.
+2023-03-07T03:40:46Z: PLAYER CHATTED [ 3577692909] ThatSuperGalaxyKid   ( -209.2,    99.1,    -2.2)
+  HAHAHAHHAHHAH
+2023-03-07T03:41:02Z: PLAYER REMOVED [ 3750322047] VT_Kuro              a.k.a. Kuro                
+2023-03-07T03:41:05Z: PLAYER CHATTED [   67830195] gael2777             ( 1448.4,     3.7, -1260.9)
+  true, but the game passes dont really do much
+2023-03-07T03:41:22Z: PLAYER CHATTED [    1630228] VisualPlugin         (  492.9,     5.2,   627.7)
+  True.
+2023-03-07T03:41:23Z: PLAYER ADDED   [  524127307] Ignited_Plasma       a.k.a. Ignite              
+2023-03-07T03:41:24Z: PLAYER ADDED   [ 1814117595] 123noob123651        a.k.a. JAY                 
+2023-03-07T03:41:56Z: PLAYER ADDED   [ 3078171641] L0VINGC4MI           a.k.a. morsalthinksimcool  
+2023-03-07T03:41:57Z: CHRCTER ADDED  [  297384045] 401355513           
+2023-03-07T03:42:14Z: PLAYER CHATTED [ 3577692909] ThatSuperGalaxyKid   ( -398.9,   -45.8,     5.3)
+  damn
+2023-03-07T03:42:14Z: PLAYER CHATTED [   67830195] gael2777             ( -285.0,     4.3, -1017.2)
+  ok dingus, we got this
+2023-03-07T03:42:14Z: CHRCTER ADDED  [ 3577692909] ThatSuperGalaxyKid   a.k.a. TheRIZZLER          
+2023-03-07T03:42:16Z: CHRCTER ADDED  [ 4142320656] ColtDabolt20        
+2023-03-07T03:42:23Z: CHRCTER ADDED  [ 3311817912] BeeSivvy            
+2023-03-07T03:42:28Z: PLAYER REMOVED [ 3311817912] BeeSivvy            
+2023-03-07T03:42:35Z: PLAYER ADDED   [ 2920165422] Megalodon_Son       
+2023-03-07T03:42:36Z: PLAYER CHATTED [ 2930956136] toastyissocool       (  258.6,     1.9,   194.3)
+  Yes
+2023-03-07T03:42:37Z: CHRCTER ADDED  [ 1447113097] Muf056              
+2023-03-07T03:42:44Z: PLAYER REMOVED [ 1447113097] Muf056              
+2023-03-07T03:42:54Z: PLAYER ADDED   [ 4095797027] Razaj4              
+2023-03-07T03:42:59Z: PLAYER CHATTED [   67830195] gael2777             (  924.6,     4.2,   108.0)
+  im assuming #### ## is muted?
+2023-03-07T03:43:03Z: CHRCTER ADDED  [  667134906] sstacey15            a.k.a. Ann                 
+2023-03-07T03:43:09Z: PLAYER CHATTED [ 2930956136] toastyissocool       ( 1042.7,     1.9,   951.1)
+  what
+2023-03-07T03:43:11Z: PLAYER REMOVED [ 4142320656] ColtDabolt20        
+2023-03-07T03:43:12Z: PLAYER CHATTED [   67830195] gael2777             ( 1093.5,     4.3,  1328.6)
+  VC
+2023-03-07T03:43:15Z: PLAYER ADDED   [  338300909] Nova_AlecPlayForReal a.k.a. KanatoKaito         
+2023-03-07T03:43:19Z: PLAYER CHATTED [ 2930956136] toastyissocool       (  782.7,     1.9,  1703.1)
+  What about it
+2023-03-07T03:43:24Z: PLAYER CHATTED [   67830195] gael2777             (  264.8,     4.2,  1582.7)
+  but its fine, chat is fine
+2023-03-07T03:43:27Z: PLAYER CHATTED [ 2930956136] toastyissocool       (   19.5,     1.9,  1502.9)
+  Kk
+2023-03-07T03:43:34Z: CHRCTER ADDED  [  120844542] Firefoxgirl3214      a.k.a. GalaxyHuskyPlays    
+2023-03-07T03:43:42Z: PLAYER REMOVED [ 2501223480] bobatea126543        a.k.a. maria               
+2023-03-07T03:43:50Z: PLAYER ADDED   [  167283671] TearfulWerty123abc   a.k.a. Cow                 
+2023-03-07T03:43:58Z: PLAYER ADDED   [ 1802889288] br1zthedestoyer      a.k.a. r1cesti1ncy         
+2023-03-07T03:44:01Z: PLAYER REMOVED [  167283671] TearfulWerty123abc   a.k.a. Cow                 
+2023-03-07T03:44:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (  365.4,   229.4,   325.6)
+  Teeth can be bought for robux.
+2023-03-07T03:44:03Z: PLAYER REMOVED [  297384045] 401355513           
+2023-03-07T03:44:09Z: CHRCTER ADDED  [ 2930956136] toastyissocool       a.k.a. dingus              
+2023-03-07T03:44:10Z: CHRCTER ADDED  [   67830195] gael2777             a.k.a. Gael                
+2023-03-07T03:44:12Z: PLAYER CHATTED [ 2930956136] toastyissocool       ( -156.1,   102.0,    28.3)
+  ….
+2023-03-07T03:44:12Z: PLAYER CHATTED [   67830195] gael2777             ( -166.3,    99.2,    28.9)
+  yeah, but who would do that?
+2023-03-07T03:44:17Z: PLAYER ADDED   [ 3818961455] Littlea0423         
+2023-03-07T03:44:17Z: PLAYER CHATTED [   67830195] gael2777             ( -166.3,    99.2,    28.9)
+  its not worth it
+2023-03-07T03:44:18Z: PLAYER CHATTED [ 1704394242] revolver_agz         ( -150.2,    99.1,   -34.9)
+  cmon 
+2023-03-07T03:44:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (  365.4,   229.4,   325.6)
+  Lazerbeam.
+2023-03-07T03:44:23Z: PLAYER CHATTED [ 1704394242] revolver_agz         ( -150.2,    99.1,   -34.9)
+  srsly'
+2023-03-07T03:44:31Z: PLAYER CHATTED [ 1704394242] revolver_agz         ( -150.2,    99.1,   -34.9)
+  i got everyone ele
+2023-03-07T03:44:34Z: PLAYER CHATTED [ 3078171641] L0VINGC4MI           ( -167.3,    98.7,    15.7)
+  uh.
+2023-03-07T03:44:39Z: PLAYER CHATTED [ 2930956136] toastyissocool       ( -162.0,   102.0,    14.6)
+  Yummy
+2023-03-07T03:44:45Z: PLAYER CHATTED [   67830195] gael2777             ( -171.1,    99.2,     8.5)
+  RUN
+2023-03-07T03:44:47Z: PLAYER CHATTED [   67830195] gael2777             ( -171.1,    99.2,     8.5)
+  now
+2023-03-07T03:44:52Z: PLAYER CHATTED [  524127307] Ignited_Plasma       ( -162.9,    99.2,     8.2)
+  duck vs dino
+2023-03-07T03:44:56Z: PLAYER CHATTED [ 2930956136] toastyissocool       ( -163.4,   102.0,    15.1)
+  😋😋😋
+2023-03-07T03:45:03Z: PLAYER CHATTED [  524127307] Ignited_Plasma       ( -115.3,    99.2,    16.1)
+  goose*
+2023-03-07T03:45:06Z: PLAYER CHATTED [ 3078171641] L0VINGC4MI           (  -36.9,    98.7,     1.7)
+  she a runner she a trackstar
+2023-03-07T03:45:12Z: PLAYER CHATTED [   67830195] gael2777             (  -95.0,    99.2,    27.4)
+  well ggs
+2023-03-07T03:45:14Z: PLAYER REMOVED [  338300909] Nova_AlecPlayForReal a.k.a. KanatoKaito         
+2023-03-07T03:45:16Z: PLAYER REMOVED [ 1704394242] revolver_agz         a.k.a. nonofyourbussiness  
+2023-03-07T03:45:16Z: PLAYER CHATTED [   67830195] gael2777             ( -101.3,    99.7,    31.9)
+  it was kinda fun
+2023-03-07T03:45:17Z: PLAYER ADDED   [  517183183] brit_gg              a.k.a. Winkelbinkelfairy   
+2023-03-07T03:45:23Z: PLAYER REMOVED [  517183183] brit_gg              a.k.a. Winkelbinkelfairy   
+2023-03-07T03:45:24Z: PLAYER CHATTED [ 1802889288] br1zthedestoyer      ( -182.3,    98.9,    34.5)
+  pooop
+2023-03-07T03:45:26Z: PLAYER ADDED   [ 1458353232] sageroze             a.k.a. Abigail             
+2023-03-07T03:45:26Z: PLAYER ADDED   [  301297355] awhjadee             a.k.a. jade                
+2023-03-07T03:45:31Z: PLAYER REMOVED [ 3818961455] Littlea0423         
+2023-03-07T03:45:37Z: PLAYER REMOVED [  301297355] awhjadee             a.k.a. jade                
+2023-03-07T03:45:45Z: PLAYER ADDED   [ 2726141474] ooOXxBaddieXxOoo     a.k.a. berry               
+2023-03-07T03:46:12Z: PLAYER CHATTED [ 3577692909] ThatSuperGalaxyKid   (  114.8,    98.7,   112.2)
+  I KNEW IT
+2023-03-07T03:46:18Z: PLAYER CHATTED [   67830195] gael2777             ( 1790.7,     9.0,  -761.8)
+  knew what?
+2023-03-07T03:46:19Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -113.3,   100.0,   -45.3)
+  It's actually really easy to get explot software.
+2023-03-07T03:46:28Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -115.1,   100.0,   -41.7)
+  Arguably easier than buying robux for some people.
+2023-03-07T03:46:37Z: PLAYER CHATTED [   67830195] gael2777             ( 1785.8,     9.2,  -701.1)
+  why is that in terms of coding
+2023-03-07T03:46:37Z: CHRCTER ADDED  [ 4095797027] Razaj4              
+2023-03-07T03:46:43Z: PLAYER CHATTED [   67830195] gael2777             ( 1751.8,     9.2,  -631.2)
+  or too complex?
+2023-03-07T03:46:53Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -165.4,   101.8,    53.2)
+  Depends on what you're doing.
+2023-03-07T03:47:02Z: PLAYER CHATTED [   67830195] gael2777             ( 1217.3,     9.2,   -81.1)
+  HURRY
+2023-03-07T03:47:08Z: PLAYER ADDED   [ 1622415747] lolalover1994        a.k.a. marlowe             
+2023-03-07T03:47:12Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -164.1,   100.8,    52.6)
+   I make my own scripts.
+2023-03-07T03:47:15Z: PLAYER REMOVED [ 1622415747] lolalover1994        a.k.a. marlowe             
+2023-03-07T03:47:19Z: PLAYER ADDED   [ 1161104975] turd_sniffer556      a.k.a. Grady               
+2023-03-07T03:47:21Z: PLAYER REMOVED [ 4095797027] Razaj4              
+2023-03-07T03:47:21Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -164.1,   100.8,    52.6)
+  If you know Lua, you have most of it down already.
+2023-03-07T03:47:29Z: CHRCTER ADDED  [ 1814117595] 123noob123651        a.k.a. JAY                 
+2023-03-07T03:47:29Z: PLAYER REMOVED [ 2930956136] toastyissocool       a.k.a. dingus              
+2023-03-07T03:47:32Z: PLAYER ADDED   [  407738654] masterxiong2005      a.k.a. Kazumi              
+2023-03-07T03:47:33Z: CHRCTER ADDED  [   67830195] gael2777             a.k.a. Gael                
+2023-03-07T03:47:34Z: PLAYER ADDED   [ 2204472273] saylorroseee         a.k.a. say                 
+2023-03-07T03:47:36Z: PLAYER CHATTED [   67830195] gael2777             ( -163.8,    99.2,    -1.5)
+  well that sounds cool
+2023-03-07T03:47:37Z: PLAYER ADDED   [ 1625352850] Simply_Jaidaa        a.k.a. Loser               
+2023-03-07T03:47:38Z: PLAYER REMOVED [  407738654] masterxiong2005      a.k.a. Kazumi              
+2023-03-07T03:47:43Z: CHRCTER ADDED  [ 2920165422] Megalodon_Son       
+2023-03-07T03:47:46Z: PLAYER REMOVED [ 1625352850] Simply_Jaidaa        a.k.a. Loser               
+2023-03-07T03:47:52Z: PLAYER CHATTED [ 3577692909] ThatSuperGalaxyKid   (  114.8,    98.7,   112.2)
+  what IS THAT THING
+2023-03-07T03:47:56Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -181.4,   100.0,    11.7)
+  Windows is the most popular platform for those stuff.
+2023-03-07T03:48:00Z: PLAYER REMOVED [ 2204472273] saylorroseee         a.k.a. say                 
+2023-03-07T03:48:05Z: PLAYER REMOVED [ 3577692909] ThatSuperGalaxyKid   a.k.a. TheRIZZLER          
+2023-03-07T03:48:07Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -181.4,   100.0,    11.7)
+  I will have to warn you about something:
+2023-03-07T03:48:11Z: PLAYER ADDED   [ 3103289655] Bossonian760        
+2023-03-07T03:48:18Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -184.9,   100.0,     7.2)
+  Running scripts isn't against the rules,
+2023-03-07T03:48:19Z: PLAYER CHATTED [   67830195] gael2777             ( -188.1,    99.2,    -1.5)
+  when you have a coconut launcher, you could tell the shark "Eat my hairy coconuts and die
+2023-03-07T03:48:21Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -184.9,   100.0,     7.2)
+  But cheating is.
+2023-03-07T03:48:31Z: PLAYER REMOVED [ 1802889288] br1zthedestoyer      a.k.a. r1cesti1ncy         
+2023-03-07T03:48:35Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -187.3,   100.0,    15.2)
+  I tend to do the latter against my better judgement.
+2023-03-07T03:48:38Z: PLAYER ADDED   [   89321447] Lovters             
+2023-03-07T03:48:41Z: PLAYER ADDED   [ 2857460020] loyalvib3s           a.k.a. Tampa               
+2023-03-07T03:48:45Z: PLAYER ADDED   [ 2232249151] Blackbyrd233        
+2023-03-07T03:48:49Z: PLAYER ADDED   [ 1802889288] br1zthedestoyer      a.k.a. r1cesti1ncy         
+2023-03-07T03:48:51Z: PLAYER ADDED   [ 1447553998] XxxGalaxyWolfPlayz   a.k.a. BLJadexX            
+2023-03-07T03:48:56Z: PLAYER CHATTED [   67830195] gael2777             (-1665.2,     5.6,    46.2)
+  thanks for following a good concoius
+2023-03-07T03:49:02Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -194.4,   100.0,    15.5)
+  No problem!
+2023-03-07T03:49:02Z: PLAYER CHATTED [   67830195] gael2777             ( -146.3,    99.2,    -0.3)
+  its very appreciative
+2023-03-07T03:49:10Z: PLAYER REMOVED [ 2920165422] Megalodon_Son       
+2023-03-07T03:49:14Z: PLAYER CHATTED [ 1802889288] br1zthedestoyer      ( -155.5,    98.9,   -15.4)
+  ################
+2023-03-07T03:49:23Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -199.8,   100.0,    42.3)
+  Look for JJSploit.
+2023-03-07T03:49:44Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -206.6,   100.0,    42.5)
+  That's the one I started with.
+2023-03-07T03:49:51Z: PLAYER CHATTED [   67830195] gael2777             ( -207.4,    99.2,   -16.9)
+  ok
+2023-03-07T03:50:05Z: CHRCTER ADDED  [ 1161104975] turd_sniffer556      a.k.a. Grady               
+2023-03-07T03:50:15Z: PLAYER ADDED   [ 2563244193] NegodoidodoPai       a.k.a. CAPIBARA            
+2023-03-07T03:50:38Z: PLAYER CHATTED [ 1814117595] 123noob123651        (-1706.9,     5.8,   -30.3)
+  just go
+2023-03-07T03:50:41Z: PLAYER CHATTED [ 2563244193] NegodoidodoPai       ( -164.7,    99.4,    23.3)
+  321
+2023-03-07T03:50:46Z: PLAYER REMOVED [ 2857460020] loyalvib3s           a.k.a. Tampa               
+2023-03-07T03:50:46Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -171.9,   100.0,    34.1)
+  The best place to find scripts is on GitHub.
+2023-03-07T03:50:47Z: PLAYER CHATTED [   67830195] gael2777             (-1195.4,     5.6,   463.9)
+  yeah, we are going
+2023-03-07T03:50:58Z: PLAYER CHATTED [ 2563244193] NegodoidodoPai       ( -164.7,    99.4,    23.3)
+  rai
+2023-03-07T03:50:58Z: PLAYER CHATTED [ 1814117595] 123noob123651        ( -534.9,     5.4,  1158.2)
+  :l
+2023-03-07T03:51:02Z: PLAYER ADDED   [ 1015328152] Dom_35C             
+2023-03-07T03:51:04Z: PLAYER ADDED   [ 1129951905] Evildoggy323         a.k.a. ShoopBimble         
+2023-03-07T03:51:10Z: PLAYER CHATTED [   67830195] gael2777             ( -122.4,    99.9,    -1.8)
+  or you refering to something else?
+2023-03-07T03:51:39Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -209.4,   100.0,   -12.5)
+  Scripts for this sploitiness.
+2023-03-07T03:52:15Z: CHRCTER ADDED  [ 1161104975] turd_sniffer556      a.k.a. Grady               
+2023-03-07T03:52:31Z: PLAYER CHATTED [   67830195] gael2777             (  187.0,     3.7, -1910.5)
+  so JAY, enjoy my randomized boats and weapons
+2023-03-07T03:52:36Z: PLAYER CHATTED [   67830195] gael2777             ( -139.0,     3.7, -2186.3)
+  ?
+2023-03-07T03:52:39Z: PLAYER CHATTED [ 1814117595] 123noob123651        ( -480.1,     3.9, -2107.9)
+  lol
+2023-03-07T03:52:47Z: PLAYER REMOVED [ 2563244193] NegodoidodoPai       a.k.a. CAPIBARA            
+2023-03-07T03:52:49Z: PLAYER CHATTED [ 1814117595] 123noob123651        (-1314.2,     3.9, -1598.4)
+  very wierd
+2023-03-07T03:52:50Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -116.6,   198.5,    -3.7)
+  I'll be off.
+2023-03-07T03:52:53Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -113.8,   274.4,    -1.2)
+  Take care!
+2023-03-07T03:53:08Z: PLAYER CHATTED [   67830195] gael2777             (-2271.7,     3.8,   -58.5)
+  yeah it is, but chosing a boat that wins every time can be broing
+2023-03-07T03:53:10Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

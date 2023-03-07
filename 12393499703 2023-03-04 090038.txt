@@ -1,0 +1,194 @@
+[    1630228] : [12393499703] wuff (alpha) - af0e9c45-5317-46e2-b335-59559f8e57d2
+2023-03-04T09:00:38Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-03-04T09:00:38Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-04T09:00:38Z: PLAYER ADDED   [  271976081] DiscombobulatedJack 
+2023-03-04T09:00:38Z: PLAYER ADDED   [  104994615] Aerophagia          
+2023-03-04T09:00:56Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -54.4,    11.6,    23.3)
+  yes have you ridden it yet
+2023-03-04T09:01:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -52.5,    11.7,    16.0)
+  I haven't.
+2023-03-04T09:01:04Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -54.4,    11.6,    23.3)
+  follow
+2023-03-04T09:01:06Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -69.6,    10.4,    35.3)
+  👍 	
+2023-03-04T09:01:19Z: PLAYER CHATTED [  104994615] Aerophagia           (  -76.6,   -25.5,    67.8)
+  :bring others
+2023-03-04T09:01:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -48.7,   -24.4,    21.0)
+  I like what you've done with the pit!
+2023-03-04T09:01:45Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -41.0,   -27.4,    23.2)
+  😄 	
+2023-03-04T09:01:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -42.9,   -27.4,    26.6)
+  Was that the intention the whole time?
+2023-03-04T09:02:04Z: PLAYER CHATTED [  104994615] Aerophagia           (  -38.6,   -27.4,    24.5)
+  either that or a large fantasy crystal nature area
+2023-03-04T09:02:08Z: PLAYER CHATTED [  104994615] Aerophagia           (  -38.6,   -27.4,    24.5)
+  if ur talking about the lava
+2023-03-04T09:02:21Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -42.9,   -27.4,    26.6)
+  I'm talking about what was here.
+2023-03-04T09:02:31Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -24.7,   -27.4,    -8.5)
+  Used to be a safety violation.
+2023-03-04T09:02:33Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -20.4,   -27.3,   -21.9)
+  yes this was gonna be a cafe but i changed it a rollercoaster station
+2023-03-04T09:02:33Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -19.5,   -27.1,   -24.9)
+  haha
+2023-03-04T09:02:55Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -122.7,   -96.0,   305.5)
+  There was already a café near the beach.
+2023-03-04T09:03:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -49.8,   -24.4,    19.0)
+  I'm a plugin, not a Mario.
+2023-03-04T09:03:49Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -64.0,   -25.4,    38.7)
+  ?
+2023-03-04T09:03:52Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -63.9,   -25.4,    33.8)
+  oh lol
+2023-03-04T09:04:18Z: PLAYER CHATTED [  104994615] Aerophagia           ( -102.1,   -16.5,   106.0)
+  :ref di
+2023-03-04T09:04:18Z: CHRCTER ADDED  [  271976081] DiscombobulatedJack 
+2023-03-04T09:04:35Z: PLAYER CHATTED [  104994615] Aerophagia           (  -69.8,    -1.8,    99.6)
+  /e :ref 
+2023-03-04T09:04:36Z: CHRCTER ADDED  [  104994615] Aerophagia          
+2023-03-04T09:04:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -73.9,    -1.0,   102.9)
+  Try this game out with ReShade.
+2023-03-04T09:04:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -73.5,    -1.4,   105.0)
+  ReShade makes almost everything work better.
+2023-03-04T09:05:30Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -48.6,    12.9,    36.6)
+  !!
+2023-03-04T09:06:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -74.9,    35.4,   -38.7)
+  I walk fast in real life but slowly in Roblox.
+2023-03-04T09:06:12Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -82.6,    29.4,   -33.8)
+  on phone or pc?
+2023-03-04T09:06:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -79.1,    33.2,   -37.5)
+  On PC.
+2023-03-04T09:06:19Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -83.8,    31.4,   -36.8)
+  mm
+2023-03-04T09:06:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -79.1,    33.2,   -37.5)
+  I changed an FFlag.
+2023-03-04T09:06:30Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -82.3,    32.8,   -41.4)
+  wah
+2023-03-04T09:06:31Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -79.4,    33.2,   -37.8)
+  And physics renders at 1/2 * the FPS.
+2023-03-04T09:06:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -79.8,    32.9,   -37.3)
+  Normally, it renders at 60 fixed.
+2023-03-04T09:06:39Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -80.5,    28.5,   -32.4)
+  ooh
+2023-03-04T09:06:52Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -79.0,    34.0,   -39.0)
+  My FPS cap is 69 nice.
+2023-03-04T09:06:58Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -60.0,    58.5,   -56.0)
+  lol
+2023-03-04T09:07:10Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -59.3,    13.8,   -16.4)
+  Discord.
+2023-03-04T09:07:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -71.3,    10.3,    59.7)
+  How actively do you work on this game?
+2023-03-04T09:07:50Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -87.4,    10.3,    57.5)
+  very often
+2023-03-04T09:08:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -84.3,    12.0,    50.6)
+  My Kubla Khan is jealous.
+2023-03-04T09:08:25Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -94.9,    10.9,    46.3)
+  mm
+2023-03-04T09:09:18Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -134.1,   -39.0,   339.5)
+  Care to check it out in its current state?
+2023-03-04T09:09:27Z: PLAYER CHATTED [  104994615] Aerophagia           ( -133.7,   -31.7,   302.1)
+  hes afk
+2023-03-04T09:09:35Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -131.6,   -32.2,   312.6)
+  Got it!
+2023-03-04T09:10:50Z: PLAYER CHATTED [  104994615] Aerophagia           ( -133.7,   -31.7,   302.1)
+  do u think it rains too much
+2023-03-04T09:11:00Z: PLAYER CHATTED [  104994615] Aerophagia           ( -133.7,   -31.7,   302.1)
+  i think it does even tho its supposed to rain for only 42 seconds
+2023-03-04T09:11:21Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -130.7,   -32.1,   309.1)
+  42 seconds is a very short time.
+2023-03-04T09:11:30Z: PLAYER CHATTED [  104994615] Aerophagia           ( -133.7,   -31.7,   302.1)
+  yet it rained the entire day night cycle
+2023-03-04T09:11:37Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -130.7,   -32.1,   309.1)
+  I bet the cycle is only 5 minutes.
+2023-03-04T09:11:40Z: PLAYER CHATTED [  104994615] Aerophagia           ( -133.7,   -31.7,   302.1)
+  which is about 20 minutes
+2023-03-04T09:11:43Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -130.7,   -32.1,   309.1)
+  Oh.
+2023-03-04T09:11:58Z: PLAYER CHATTED [  104994615] Aerophagia           ( -133.7,   -31.7,   302.1)
+  even if it were 5 minutes it still shouldve stopped raining at one point
+2023-03-04T09:12:09Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -130.7,   -32.1,   309.1)
+  Might be a ~~bug~~ feature.
+2023-03-04T09:12:10Z: PLAYER CHATTED [  104994615] Aerophagia           ( -133.7,   -31.7,   302.1)
+  so im just gonna make the rain last like 20 seconds and see if that works
+2023-03-04T09:12:21Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -130.7,   -32.1,   309.1)
+  ESIGJIOSDJGODSJOIDSJ
+2023-03-04T09:12:27Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -130.7,   -32.1,   309.1)
+  **Markdown works!**
+2023-03-04T09:12:33Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -130.7,   -32.1,   309.1)
+  *Italix*
+2023-03-04T09:12:47Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -130.7,   -32.1,   309.1)
+  *That was oblique, not italics.*
+2023-03-04T09:13:02Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -130.7,   -32.1,   309.1)
+  <b>rr</b>
+2023-03-04T09:13:14Z: PLAYER CHATTED [  104994615] Aerophagia           ( -133.7,   -31.7,   302.1)
+  🚗
+2023-03-04T09:13:27Z: PLAYER CHATTED [  104994615] Aerophagia           ( -133.7,   -31.7,   302.1)
+  yes u can make the chat different colours but idk how
+2023-03-04T09:13:32Z: PLAYER CHATTED [  104994615] Aerophagia           ( -134.3,   -31.7,   302.4)
+  someone else was doing it
+2023-03-04T09:13:36Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -130.7,   -32.1,   309.1)
+  <p>6</p>
+2023-03-04T09:13:49Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -130.7,   -32.1,   309.1)
+  ANSI codes might not work.
+2023-03-04T09:14:37Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -130.7,   -32.1,   309.1)
+  [32m TEST [00m
+2023-03-04T09:14:59Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -131.0,   -32.0,   308.4)
+  [32m TEST [00m
+2023-03-04T09:16:26Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -130.4,   -32.0,   308.3)
+  Is this a custom chat implementation?
+2023-03-04T09:16:33Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -130.4,   -32.0,   308.3)
+  Or did TextService get a new upgrade?
+2023-03-04T09:17:08Z: PLAYER CHATTED [  104994615] Aerophagia           ( -134.3,   -31.7,   302.4)
+  yes its a custom chat
+2023-03-04T09:18:27Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -133.7,   -31.5,   308.3)
+  I've been meaning to discuss some personal business with RAR.
+2023-03-04T09:19:09Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -133.7,   -31.5,   308.3)
+  I got myself in trouble with Aerials for intending to steal his and others' work.
+2023-03-04T09:20:50Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -120.3,   -30.9,   302.7)
+  I've reached out to him a few times to try to regain some of that trust.
+2023-03-04T09:22:23Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -121.0,   -30.9,   302.9)
+  The incident took place about six months ago and I've been looking for the possibility to re-apply.
+2023-03-04T09:28:21Z: PLAYER REMOVED [  104994615] Aerophagia          
+2023-03-04T09:29:21Z: PLAYER REMOVED [  271976081] DiscombobulatedJack 
+2023-03-04T09:29:37Z: PLAYER ADDED   [  271976081] DiscombobulatedJack 
+2023-03-04T09:32:45Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -61.0,    10.8,    27.6)
+  helo!
+2023-03-04T09:32:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -60.0,    11.8,    31.6)
+  Hello.
+2023-03-04T09:33:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -60.0,    11.8,    31.6)
+  I meant to direct a big multi-line message to Aero.
+2023-03-04T09:33:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -60.0,    11.8,    31.6)
+  He left before he could respond.
+2023-03-04T09:33:26Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -61.0,    10.8,    27.6)
+  ah
+2023-03-04T09:33:30Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -61.0,    10.8,    27.6)
+  rip
+2023-03-04T09:33:33Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -61.0,    10.8,    27.6)
+  ill pass it over
+2023-03-04T09:33:55Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -60.0,    11.8,    31.6)
+  I could send over the message in plain text.
+2023-03-04T09:34:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -60.0,    11.8,    31.6)
+  If you want.
+2023-03-04T09:34:32Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -61.0,    10.8,    27.6)
+  yes sure
+2023-03-04T09:35:24Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -61.0,    10.8,    27.6)
+  sent]
+2023-03-04T09:35:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -60.0,    11.8,    31.7)
+  Nice!
+2023-03-04T09:35:38Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -61.0,    10.8,    27.6)
+  i gtg now
+2023-03-04T09:35:42Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -61.0,    10.8,    27.6)
+  ty for playing!
+2023-03-04T09:35:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -60.0,    11.8,    31.7)
+  Take care!
+2023-03-04T09:35:46Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -61.0,    10.8,    27.6)
+  u too
+2023-03-04T09:35:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -60.0,    11.8,    31.7)
+  Play mine as well.
+2023-03-04T09:35:48Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -61.0,    10.8,    27.6)
+  👍 	
+2023-03-04T09:36:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -60.0,    11.8,    31.7)
+  Do take care!
+2023-03-04T09:36:15Z: PLAYER CHATTED [  271976081] DiscombobulatedJack  (  -61.0,    10.8,    27.6)
+  /ty!
+2023-03-04T09:36:17Z: PLAYER REMOVED [  271976081] DiscombobulatedJack 
+2023-03-04T09:36:37Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

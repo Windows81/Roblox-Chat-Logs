@@ -1,0 +1,227 @@
+[    1630228] : [12075303147] [NEW] Four Seasons Hotels and Resorts V3! - 5800b43d-71eb-4b8b-accf-97e12a070025
+2023-03-07T02:02:34Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-03-07T02:02:34Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-07T02:02:34Z: PLAYER ADDED   [ 1380014195] BlueKnightLight5     a.k.a. BlueKnightLightDev  
+2023-03-07T02:02:36Z: PLAYER CHATTED [ 1380014195] BlueKnightLight5     (  161.5,     4.0,   103.7)
+  Hello.
+2023-03-07T02:02:56Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -15.6,     4.1,   -69.0)
+  Do I wait for the blur to go away?
+2023-03-07T02:03:05Z: PLAYER CHATTED [ 1380014195] BlueKnightLight5     (   99.1,     3.4,    12.8)
+  Just click play.
+2023-03-07T02:03:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (    5.1,     4.1,   -25.1)
+  I think I pressed it too early.
+2023-03-07T02:03:25Z: PLAYER CHATTED [ 1380014195] BlueKnightLight5     (   -3.2,     3.2,   -61.1)
+  It’s fine.
+2023-03-07T02:04:05Z: PLAYER REMOVED [ 1380014195] BlueKnightLight5     a.k.a. BlueKnightLightDev  
+2023-03-07T02:10:13Z: PLAYER ADDED   [  708698996] iiSxmplyPlxyerii     a.k.a. itsplxyerrhxhaa     
+2023-03-07T02:10:28Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (   -3.3,     3.0,  -100.6)
+  hi
+2023-03-07T02:10:36Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (   -3.3,     3.0,  -100.6)
+  im the foujder
+2023-03-07T02:10:50Z: PLAYER REMOVED [  708698996] iiSxmplyPlxyerii     a.k.a. itsplxyerrhxhaa     
+2023-03-07T02:10:51Z: PLAYER ADDED   [  708698996] iiSxmplyPlxyerii     a.k.a. itsplxyerrhxhaa     
+2023-03-07T02:10:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (   41.5,     4.3,   -57.4)
+  Welcome!
+2023-03-07T02:11:00Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  -72.8,     3.0,  -115.6)
+  im the founderi
+2023-03-07T02:11:03Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  -72.8,     3.0,  -115.6)
+  Founder*
+2023-03-07T02:11:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (   46.3,     4.2,   -46.4)
+  The 
+2023-03-07T02:11:08Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (   50.9,     4.2,   -43.9)
+  to visual
+2023-03-07T02:11:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (   46.3,     4.2,   -46.4)
+  The DepthOfFieldEffect effect is distracing.
+2023-03-07T02:11:15Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (   52.9,     3.0,   -42.7)
+  Hi!
+2023-03-07T02:11:16Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (   52.9,     3.0,   -42.7)
+  Oh yes
+2023-03-07T02:11:24Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (   52.9,     3.0,   -42.7)
+  I cant control that 😅
+2023-03-07T02:11:35Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (   52.9,     3.0,   -42.7)
+  Its all our dev Blue!
+2023-03-07T02:11:43Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (   52.9,     3.0,   -42.7)
+  Would you like a room?
+2023-03-07T02:11:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (   47.2,     4.2,   -46.0)
+  I had to turn it off through a script executor.
+2023-03-07T02:11:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (   47.2,     4.2,   -46.0)
+  Sure.
+2023-03-07T02:11:58Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (   70.6,     3.0,   -60.8)
+  Ohh ok!
+2023-03-07T02:12:06Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (   70.6,     3.0,   -60.8)
+  You can just go to settings and turn it off!
+2023-03-07T02:12:13Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (   86.1,     3.0,   -88.0)
+  Just a FYI!
+2023-03-07T02:12:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (   86.2,     4.1,   -81.8)
+  I didn't look there!
+2023-03-07T02:12:29Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (   86.1,     3.0,   -88.0)
+  Alr, enjoy!
+2023-03-07T02:12:31Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (   86.1,     3.0,   -88.0)
+  Yes!
+2023-03-07T02:12:38Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (   86.1,     3.0,   -88.0)
+  Make sure to click it!
+2023-03-07T02:12:53Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (   94.5,     3.0,   -66.9)
+  Oh uhm do you have admin?
+2023-03-07T02:12:55Z: PLAYER CHATTED [    1630228] VisualPlugin         (   10.6,     3.8,     4.2)
+  CheckMeIn.
+2023-03-07T02:13:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (   12.3,     4.1,    -1.0)
+  I actually don't.
+2023-03-07T02:13:05Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  100.8,     7.8,   -47.6)
+  Or is it an exploit?
+2023-03-07T02:13:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (   23.3,     4.7,   -20.5)
+  It's the latter.
+2023-03-07T02:13:15Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (   44.7,     3.0,   -29.1)
+  ?
+2023-03-07T02:13:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (   23.3,     4.7,   -20.5)
+  I'm careful not to use it against other people.
+2023-03-07T02:13:30Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  107.1,     3.0,   -77.4)
+  Oh alright.
+2023-03-07T02:13:34Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  107.1,     3.0,   -77.4)
+  But we cant allow that!
+2023-03-07T02:13:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (   56.2,     4.1,   -41.2)
+  Latter = 'last of the options'.
+2023-03-07T02:13:41Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  129.8,     3.0,   -82.6)
+  Yes.
+2023-03-07T02:13:46Z: PLAYER CHATTED [    1630228] VisualPlugin         (   72.7,     4.1,   -53.1)
+  Got it.
+2023-03-07T02:13:51Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  132.2,     3.0,   -68.0)
+  Any bug fixes requested though?
+2023-03-07T02:13:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (   79.9,     4.1,   -63.1)
+  Where's room 318?
+2023-03-07T02:14:04Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  132.2,     3.0,   -68.0)
+  Id be more than happy to let our devs know!
+2023-03-07T02:14:07Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  132.2,     3.0,   -68.0)
+  Oh follow me!
+2023-03-07T02:14:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (  130.9,     4.1,   -80.8)
+  Room placement is confusing.
+2023-03-07T02:14:21Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  174.6,     3.2,  -132.9)
+  Yes, we need signs.
+2023-03-07T02:14:27Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  173.7,     3.2,  -157.9)
+  We will add some soon!
+2023-03-07T02:14:47Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  238.6,    22.1,  -240.0)
+  Alright, enjoy!
+2023-03-07T02:14:51Z: PLAYER CHATTED [    1630228] VisualPlugin         (  253.4,    23.2,  -261.2)
+  Thanks!
+2023-03-07T02:14:55Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  237.9,    22.1,  -240.8)
+  Your welcome!
+2023-03-07T02:15:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (  253.2,    23.2,  -256.4)
+  It's alro helpful to let us know where the rooms are once we have them booked.
+2023-03-07T02:15:17Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  237.6,     3.7,  -238.9)
+  Yes, we will add signs soon!
+2023-03-07T02:15:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (  249.9,    23.2,  -224.8)
+  I mean verbally.
+2023-03-07T02:15:31Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  176.1,     3.2,  -191.9)
+  Oh yes!
+2023-03-07T02:15:38Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  176.1,     3.2,  -191.9)
+  We have a plan in place
+2023-03-07T02:15:40Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  176.1,     3.2,  -191.9)
+  ,
+2023-03-07T02:15:44Z: PLAYER CHATTED [    1630228] VisualPlugin         (  257.8,    23.2,  -219.6)
+  This looks like a liminal space.
+2023-03-07T02:15:49Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  176.1,     3.2,  -191.9)
+  Just ask our customer service!
+2023-03-07T02:15:55Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  179.8,     3.2,  -180.3)
+  Oh uhm sorry.
+2023-03-07T02:15:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (  257.8,    23.2,  -219.6)
+  No problem!
+2023-03-07T02:16:01Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  179.8,     3.2,  -180.3)
+  Our old rooms were bigger,
+2023-03-07T02:16:11Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  179.8,     3.2,  -180.3)
+  But we had to replace them due to free models!
+2023-03-07T02:16:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (  257.9,    23.1,  -218.8)
+  The view is what makes it liminal.
+2023-03-07T02:16:20Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  179.8,     3.2,  -170.6)
+  Im not a fan of free models haha.
+2023-03-07T02:16:24Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  179.8,     3.2,  -170.6)
+  Oh im sorry!
+2023-03-07T02:16:34Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  178.7,     3.2,  -164.3)
+  We will add more and a pool soon.
+2023-03-07T02:16:42Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  178.7,     3.2,  -164.3)
+  We do have a pool right now though!
+2023-03-07T02:16:47Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  171.9,     3.2,  -157.1)
+  It is small though.
+2023-03-07T02:16:52Z: PLAYER CHATTED [    1630228] VisualPlugin         (  258.7,    23.2,  -220.4)
+  Where is that?
+2023-03-07T02:17:00Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  123.7,     3.0,  -100.2)
+  Oh let me bring you!
+2023-03-07T02:17:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (  254.8,     4.9,  -259.8)
+  Thanks!
+2023-03-07T02:17:12Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  136.5,     2.7,  -141.1)
+  Bring v
+2023-03-07T02:17:16Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  136.5,     2.7,  -141.1)
+  Your welcome!
+2023-03-07T02:17:18Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  134.3,     2.7,  -139.8)
+  Enjoy!
+2023-03-07T02:17:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (  102.8,     4.5,  -131.0)
+  It's 'you're' by the way.
+2023-03-07T02:17:32Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  172.5,     3.2,   -98.5)
+  Oh i know!
+2023-03-07T02:17:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (   90.0,     4.5,  -133.4)
+  English grammar is confusing.
+2023-03-07T02:17:42Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  172.5,     3.2,   -98.5)
+  Im just tryna be fun and let loose hah.
+2023-03-07T02:17:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (   90.3,     1.1,  -142.9)
+  A lot of people will mistake that for ignorance.
+2023-03-07T02:17:58Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  119.0,     3.0,   -89.0)
+  Not tryna be serious and stuff like that!
+2023-03-07T02:18:05Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  112.4,     3.0,   -73.5)
+  Oh ok!
+2023-03-07T02:18:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (   79.5,     0.8,  -155.1)
+  I completely understand though!
+2023-03-07T02:18:23Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (   94.5,     3.0,   -79.3)
+  I would use your welcome tho, due to popularity!
+2023-03-07T02:18:31Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (   52.6,     3.0,   -83.6)
+  Yes!
+2023-03-07T02:19:01Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  -75.0,     3.0,  -116.1)
+  I will rejoin!
+2023-03-07T02:19:17Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  -73.3,     3.0,  -120.9)
+  Just let me know if you would like to go to the beach, or maybe camping!
+2023-03-07T02:19:28Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  -73.3,     3.0,  -120.9)
+  we have separate areas for that!
+2023-03-07T02:19:39Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  -73.3,     3.0,  -120.9)
+  As well as our gym located in spawn!
+2023-03-07T02:20:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (  254.6,    23.2,  -217.6)
+  Care to check my hotel out?
+2023-03-07T02:20:05Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     ( -352.6,   -12.5,  -282.5)
+  Oh sure!
+2023-03-07T02:20:10Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     ( -352.6,   -12.5,  -282.5)
+  Just give me a sec!
+2023-03-07T02:20:14Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     ( -349.0,   -12.5,  -284.1)
+  Sec to rejoin!
+2023-03-07T02:20:19Z: PLAYER CHATTED [    1630228] VisualPlugin         (  249.7,    23.2,  -255.7)
+  I'll check the beach out.
+2023-03-07T02:20:23Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     ( -349.0,   -12.5,  -284.1)
+  I still need to check ####
+2023-03-07T02:20:25Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     ( -338.7,   -12.5,  -282.1)
+  UI
+2023-03-07T02:20:29Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     ( -306.9,   -12.5,  -273.0)
+  !
+2023-03-07T02:21:01Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     ( -173.7,     2.7,  -246.1)
+  Speed ii 100
+2023-03-07T02:21:36Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii    
+  To v
+2023-03-07T02:21:39Z: CHRCTER ADDED  [  708698996] iiSxmplyPlxyerii     a.k.a. itsplxyerrhxhaa     
+2023-03-07T02:21:44Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  -77.8,     2.7,  -157.2)
+  Speed me 100
+2023-03-07T02:23:50Z: PLAYER REMOVED [  708698996] iiSxmplyPlxyerii     a.k.a. itsplxyerrhxhaa     
+2023-03-07T02:23:54Z: PLAYER ADDED   [  708698996] iiSxmplyPlxyerii     a.k.a. itsplxyerrhxhaa     
+2023-03-07T02:24:01Z: PLAYER ADDED   [ 4195000624] Hadleythe11th        a.k.a. TikoH               
+2023-03-07T02:24:06Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  -79.8,     3.0,   -83.4)
+  hi
+2023-03-07T02:24:09Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  -79.8,     3.0,   -83.4)
+  ..
+2023-03-07T02:24:16Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  -79.8,     3.0,   -83.4)
+  Visual re you using exploits?
+2023-03-07T02:24:27Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  -79.8,     3.0,   -83.4)
+  That is strictly prohibited here unfortunately.
+2023-03-07T02:24:28Z: PLAYER CHATTED [ 4195000624] Hadleythe11th        (  -81.6,     4.5,  -134.2)
+  oga boga
+2023-03-07T02:24:32Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -176.2,     3.9,  -160.5)
+  Not at the moment.
+2023-03-07T02:24:59Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  -79.8,     3.0,   -83.4)
+  I will have to unfortunatelyban your acc. Please join back on a different ACC WITH no exploits!
+2023-03-07T02:25:03Z: PLAYER CHATTED [  708698996] iiSxmplyPlxyerii     (  -79.8,     3.0,   -83.4)
+  acc wirth*
+2023-03-07T02:25:11Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -116.1,     3.8,  -155.4)
+  Wait.
+2023-03-07T02:25:25Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

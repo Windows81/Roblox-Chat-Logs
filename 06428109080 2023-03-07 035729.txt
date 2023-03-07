@@ -1,0 +1,30 @@
+[    1630228] : [ 6428109080] Roblox Developer Hangout - ccd1d443-9271-4afb-8bf3-49d41f8b4f16
+2023-03-07T03:57:29Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-03-07T03:57:29Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-07T03:57:29Z: PLAYER ADDED   [  446749706] maxwelllitman        a.k.a. max                 
+2023-03-07T03:57:29Z: PLAYER ADDED   [ 1261186839] Deatggg              a.k.a. Deat                
+2023-03-07T03:57:29Z: PLAYER ADDED   [ 1257549789] blaise_lasagna       a.k.a. Blaise              
+2023-03-07T03:57:29Z: PLAYER ADDED   [  829598951] Pokemonmew57         a.k.a. D_poke              
+2023-03-07T03:57:34Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -55.4,    67.5,     2.2)
+  Care to join?
+2023-03-07T03:57:44Z: PLAYER CHATTED [ 1261186839] Deatggg              (  -58.1,    66.6,    -1.9)
+  if youll show me around
+2023-03-07T03:57:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -55.4,    67.5,     2.2)
+  https://www.roblox.com/games/4794911592/The-Kubla-Khan-Las-Vegas-Hotel-Showcase-W-I-P
+2023-03-07T03:57:53Z: PLAYER ADDED   [ 1762928550] 19x1456              a.k.a. Phantom             
+2023-03-07T03:57:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -55.4,    67.5,     2.2)
+  Here's the link.
+2023-03-07T03:58:06Z: PLAYER CHATTED [ 1261186839] Deatggg              (  -57.7,    66.6,    -0.9)
+  alr 
+2023-03-07T03:58:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -55.4,    67.5,     2.2)
+  I'm open to follow.
+2023-03-07T03:58:12Z: PLAYER CHATTED [ 1261186839] Deatggg              (  -57.7,    66.6,    -0.9)
+  ill join on you
+2023-03-07T03:58:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -55.4,    67.5,     2.2)
+  *Join you.
+2023-03-07T03:58:18Z: PLAYER CHATTED [ 1261186839] Deatggg              (  -57.7,    66.6,    -0.9)
+  great
+2023-03-07T03:58:26Z: PLAYER REMOVED [  829598951] Pokemonmew57         a.k.a. D_poke              
+2023-03-07T03:58:30Z: PLAYER REMOVED [ 1762928550] 19x1456              a.k.a. Phantom             
+2023-03-07T03:58:32Z: PLAYER REMOVED [ 1261186839] Deatggg              a.k.a. Deat                
+2023-03-07T03:58:58Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
