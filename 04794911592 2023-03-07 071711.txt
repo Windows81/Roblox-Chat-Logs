@@ -1,0 +1,213 @@
+[    1630228] : [ 4794911592] The Kubla Khan Las Vegas • Hotel Showcase, W.I.P. - 1969fb57-44bd-4885-b021-400a8e198e6c
+2023-03-07T07:17:11Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-03-07T07:17:11Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-07T07:18:26Z: PLAYER ADDED   [ 1581340012] basenjilover5       
+2023-03-07T07:25:38Z: CHRCTER ADDED  [ 1581340012] basenjilover5       
+2023-03-07T07:27:19Z: CHRCTER ADDED  [ 1581340012] basenjilover5       
+2023-03-07T07:29:40Z: PLAYER ADDED   [ 1190241299] batmandevon2014      a.k.a. Devon               
+2023-03-07T07:29:52Z: PLAYER CHATTED [    1630228] VisualPlugin         (   34.9,    93.8,    -2.6)
+  Welcome in.
+2023-03-07T07:30:52Z: PLAYER REMOVED [ 1581340012] basenjilover5       
+2023-03-07T07:31:51Z: PLAYER REMOVED [ 1190241299] batmandevon2014      a.k.a. Devon               
+2023-03-07T07:38:25Z: PLAYER ADDED   [ 1581340012] basenjilover5       
+2023-03-07T07:41:43Z: CHRCTER ADDED  [ 1581340012] basenjilover5       
+2023-03-07T07:41:59Z: CHRCTER ADDED  [ 1581340012] basenjilover5       
+2023-03-07T07:42:09Z: CHRCTER ADDED  [ 1581340012] basenjilover5       
+2023-03-07T07:42:13Z: PLAYER ADDED   [ 1190241299] batmandevon2014      a.k.a. Devon               
+2023-03-07T07:42:32Z: CHRCTER ADDED  [ 1581340012] basenjilover5       
+2023-03-07T07:42:52Z: CHRCTER ADDED  [ 1581340012] basenjilover5       
+2023-03-07T07:43:34Z: CHRCTER ADDED  [ 1581340012] basenjilover5       
+2023-03-07T07:44:20Z: CHRCTER ADDED  [ 1581340012] basenjilover5       
+2023-03-07T07:44:26Z: PLAYER REMOVED [ 1190241299] batmandevon2014      a.k.a. Devon               
+2023-03-07T07:44:26Z: PLAYER REMOVED [ 1581340012] basenjilover5       
+2023-03-07T08:01:23Z: PLAYER ADDED   [ 1581340012] basenjilover5       
+2023-03-07T08:03:39Z: PLAYER REMOVED [ 1581340012] basenjilover5       
+2023-03-07T08:14:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (   38.8,    93.8,    -4.4)
+  {"previousPageCursor":null,"nextPageCursor":null,"data":[{"id":1727112707,"name":"cart ride into james charles lol ","description":"Tip: if your cart is stuck, just jump out of the cart so it can despawn, then reset.\r\n\r\nVIP server owners have admin in their VIP servers. ","creator":{"id":4871219,"type":"Group"},"rootPlace":{"id":5008344562,"type":"Place"},"created":"2020-05-09T19:00:39.437Z","updated":"2021-10-26T02:21:58.543Z","placeVisits":15754808}]}
+2023-03-07T08:14:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (   30.7,    94.0,    -6.8)
+  {"previousPag
+2023-03-07T08:16:34Z: PLAYER ADDED   [ 1581340012] basenjilover5       
+2023-03-07T08:17:43Z: CHRCTER ADDED  [ 1581340012] basenjilover5       
+2023-03-07T08:17:57Z: CHRCTER ADDED  [ 1581340012] basenjilover5       
+2023-03-07T08:18:48Z: CHRCTER ADDED  [ 1581340012] basenjilover5       
+2023-03-07T08:18:52Z: PLAYER REMOVED [ 1581340012] basenjilover5       
+2023-03-07T08:21:06Z: PLAYER ADDED   [ 4144797016] griemore27          
+2023-03-07T08:22:03Z: PLAYER CHATTED [    1630228] VisualPlugin         (   34.6,    92.8,     3.9)
+  Welcome in.
+2023-03-07T08:22:16Z: PLAYER ADDED   [ 1581340012] basenjilover5       
+2023-03-07T08:23:42Z: CHRCTER ADDED  [ 1581340012] basenjilover5       
+2023-03-07T08:24:02Z: PLAYER REMOVED [ 1581340012] basenjilover5       
+2023-03-07T08:24:09Z: PLAYER REMOVED [ 4144797016] griemore27          
+2023-03-07T08:24:22Z: PLAYER ADDED   [ 1581340012] basenjilover5       
+2023-03-07T08:25:46Z: PLAYER ADDED   [ 4144797016] griemore27          
+2023-03-07T08:26:17Z: PLAYER REMOVED [ 4144797016] griemore27          
+2023-03-07T08:28:43Z: CHRCTER ADDED  [ 1581340012] basenjilover5       
+2023-03-07T08:30:05Z: CHRCTER ADDED  [ 1581340012] basenjilover5       
+2023-03-07T08:30:20Z: CHRCTER ADDED  [ 1581340012] basenjilover5       
+2023-03-07T08:30:22Z: PLAYER CHATTED [    1630228] VisualPlugin         (   31.6,    93.9,   -11.6)
+  I added a new feature to my script executor.
+2023-03-07T08:30:37Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.2,    93.8,   -14.8)
+  It can not directly work with stdout.
+2023-03-07T08:30:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (   38.6,    93.8,   -18.5)
+  *Now.
+2023-03-07T08:30:46Z: PLAYER CHATTED [    1630228] VisualPlugin         (   38.6,    93.8,   -18.5)
+  It could NOT before today.
+2023-03-07T08:30:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (   39.1,    93.8,   -19.4)
+  NOW it can.
+2023-03-07T08:30:52Z: PLAYER CHATTED [ 1581340012] basenjilover5        (   57.6,    93.4,   -40.5)
+  oo
+2023-03-07T08:31:01Z: CHRCTER ADDED  [ 1581340012] basenjilover5       
+2023-03-07T08:31:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (   49.5,    93.8,   -45.4)
+  No new abilities for now,
+2023-03-07T08:31:16Z: CHRCTER ADDED  [ 1581340012] basenjilover5       
+2023-03-07T08:31:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (   49.5,    93.8,   -38.5)
+  But I could use APIs now without needing to use Lua.
+2023-03-07T08:31:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (   49.5,    93.8,   -38.5)
+  Python 3.11.0
+2023-03-07T08:31:52Z: PLAYER CHATTED [    1630228] VisualPlugin         (   50.8,    93.8,   -37.7)
+  Did you see my message saying "Python 3.11 ..."?
+2023-03-07T08:32:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (   53.8,    93.8,   -47.9)
+  Was it visible to in-game chat?
+2023-03-07T08:33:11Z: PLAYER CHATTED [ 1581340012] basenjilover5        (   58.2,    93.4,   -47.8)
+  screen probably glitched atthat point
+2023-03-07T08:34:05Z: PLAYER CHATTED [ 1581340012] basenjilover5        (   58.2,    93.4,   -47.8)
+  ohhh that's who I was looking for
+2023-03-07T08:34:20Z: PLAYER ADDED   [ 1190241299] batmandevon2014      a.k.a. Devon               
+2023-03-07T08:34:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (   53.5,    93.8,   -49.7)
+  Usage: curl [options...] <url>
+ -d, --data <data>          HTTP POST data
+ -f, --fail                 Fail fast with no output on HTTP errors
+ -h, --help <category>      Get help for commands
+ -i, --include              Include protocol response headers in the output
+ -o, --output <file>        Write to file instead of stdout
+ -O, --remote-name          Write output to a file named as the remote file
+ -s, --silent               Silent mode
+ -T, --upload-file <file>   Transfer local FILE to destination
+ -u, --user <user:password> Server user and password
+ -A, --user-agent <name>    Send User-Agent <name> to server
+ -v, --verbose              Make the operation more talkative
+ -V, --version              Show version number and quit
+
+This is not the full help, this menu is stripped into categories.
+Use "--help category" to get an overview of all categories.
+For all options use the manual or "--help all".
+2023-03-07T08:34:36Z: PLAYER CHATTED [ 1581340012] basenjilover5        (   63.2,    93.4,   -41.8)
+  was looking for python
+2023-03-07T08:34:55Z: PLAYER CHATTED [    1630228] VisualPlugin         (   55.5,    93.8,   -42.9)
+  I also printed the curl help page.
+2023-03-07T08:35:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (   61.6,    93.8,   -38.5)
+  
+2023-03-07T08:35:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (   61.6,    93.8,   -38.5)
+  
+2023-03-07T08:35:57Z: PLAYER CHATTED [ 1581340012] basenjilover5        (   70.4,    93.4,   -42.9)
+  so that'll be two plugins id follow
+2023-03-07T08:35:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (   61.6,    93.8,   -38.5)
+  /c/Users/USERNAME/Documents/Projects/rsexec
+2023-03-07T08:36:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (   65.6,    93.8,   -40.1)
+  Did I really say the notty S word?
+2023-03-07T08:36:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (   65.6,    93.8,   -40.1)
+  I hope not for a ban.
+2023-03-07T08:36:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (   65.6,    93.8,   -40.1)
+  ECAPSKROW
+lld.IPA_sveDerAeW
+lld.23KDStcetorPMV
+crs
+txt.stnemeriuqer
+dm.EMDAER
+sehctap
+lld.IPA_UnegyxO
+SGOL
+dm.ESNECIL
+lld.lnrkcbil
+lld.IPAlnrK
+lld.lnrk
+lld.sys.46lenrek
+1sp.detadpu-jj
+lld.rotcejni
+hs.tig
+exe.jnif
+lld.niam-tiolpxe
+lld.LLDstiolpxEysaE
+lld.stiolpxEysaE
+lld.74_relipmocd3d
+exe.lnrkc
+lnrkc
+cexeotua
+txt.tuptuo_
+knl.sgol!
+2023-03-07T08:36:56Z: PLAYER REMOVED [ 1190241299] batmandevon2014      a.k.a. Devon               
+2023-03-07T08:37:24Z: PLAYER CHATTED [ 1581340012] basenjilover5        (   70.4,    93.4,   -42.9)
+  you'd probably be more likely to get banned because of the exploit
+2023-03-07T08:38:10Z: PLAYER CHATTED [    1630228] VisualPlugin         (   64.6,    93.8,   -42.0)
+  It's benign for most use cases.
+2023-03-07T08:38:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (   64.5,    93.8,   -42.4)
+  But not all.
+2023-03-07T08:38:45Z: PLAYER CHATTED [ 1581340012] basenjilover5        (   70.4,    93.4,   -42.9)
+  the bypassed animation one
+2023-03-07T08:38:53Z: PLAYER CHATTED [    1630228] VisualPlugin         (   64.7,    93.8,   -41.5)
+  I don't use that.
+2023-03-07T08:39:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (   64.7,    93.8,   -41.5)
+  I can't make my Vecistani videos as well without my toolkit.
+2023-03-07T08:39:30Z: PLAYER CHATTED [ 1581340012] basenjilover5        (   70.4,    93.4,   -42.9)
+  someone tried to in here
+2023-03-07T08:39:44Z: PLAYER CHATTED [    1630228] VisualPlugin         (   64.4,    93.8,   -41.4)
+  Which animation would it have been?
+2023-03-07T08:40:17Z: PLAYER CHATTED [    1630228] VisualPlugin         (   64.4,    93.8,   -41.4)
+  Let me chat the "wc" values for each of my scripts.
+2023-03-07T08:40:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (   64.4,    93.8,   -41.4)
+  It'll take a few minutes.
+2023-03-07T08:40:37Z: PLAYER CHATTED [ 1581340012] basenjilover5        (   74.0,    93.4,   -46.4)
+  #### ##### emotes
+2023-03-07T08:40:37Z: PLAYER CHATTED [ 1581340012] basenjilover5        (   74.0,    93.4,   -46.4)
+  nsfw condo emotes
+2023-03-07T08:40:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (   64.4,    93.8,   -41.4)
+       22      29    3839 ./workspace/545.mid
+2023-03-07T08:40:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (   64.4,    93.8,   -41.4)
+      675    5681   35451 ./workspace/LICENSE.md
+2023-03-07T08:40:41Z: PLAYER CHATTED [    1630228] VisualPlugin         (   64.4,    93.8,   -41.4)
+        3      53     390 ./workspace/README.md
+2023-03-07T08:40:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (   64.4,    93.8,   -41.4)
+      589    2878   27352 ./workspace/_output.dat
+2023-03-07T08:40:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (   64.4,    93.8,   -41.4)
+        0       0       0 ./workspace/_rspy.dat
+2023-03-07T08:40:44Z: PLAYER CHATTED [    1630228] VisualPlugin         (   64.4,    93.8,   -41.4)
+      401    1416   12059 ./workspace/_rspy.lua
+2023-03-07T08:40:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (   64.4,    93.8,   -41.4)
+       53     212    1506 ./workspace/anim.lua
+2023-03-07T08:40:46Z: PLAYER CHATTED [    1630228] VisualPlugin         (   64.4,    93.8,   -41.4)
+        6      10     163 ./workspace/anti-afk.lua
+2023-03-07T08:40:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (   64.4,    93.8,   -41.4)
+       25      87     758 ./workspace/anti-kick.lua
+2023-03-07T08:40:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (   64.4,    93.8,   -41.4)
+      351    1131    8939 ./workspace/assets.lua
+2023-03-07T08:40:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (   64.4,    93.8,   -41.4)
+        0       0       0 ./workspace/audio
+2023-03-07T08:40:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (   64.4,    93.8,   -41.4)
+       35      94    1522 ./workspace/auto-rejoin.lua
+2023-03-07T08:40:51Z: PLAYER CHATTED [    1630228] VisualPlugin         (   64.4,    93.8,   -41.4)
+       76     325    2182 ./workspace/bez-cam.lua
+2023-03-07T08:40:52Z: PLAYER CHATTED [    1630228] VisualPlugin         (   64.4,    93.8,   -41.4)
+       28      54    3438 ./workspace/boo.mid
+2023-03-07T08:40:53Z: PLAYER CHATTED [    1630228] VisualPlugin         (   64.4,    93.8,   -41.4)
+       38     123    1015 ./workspace/bypass-hook.lua
+2023-03-07T08:40:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (   64.4,    93.8,   -41.4)
+       55     153    1272 ./workspace/cf-extract.lua
+2023-03-07T08:40:55Z: PLAYER CHATTED [    1630228] VisualPlugin         (   64.4,    93.8,   -41.4)
+       12      40     365 ./workspace/chat.lua
+2023-03-07T08:40:56Z: PLAYER CHATTED [    1630228] VisualPlugin         (   64.4,    93.8,   -41.4)
+       18      70     525 ./workspace/click-cam.lua
+2023-03-07T08:40:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (   64.4,    93.8,   -41.4)
+       10      35     310 ./workspace/click-del.lua
+2023-03-07T08:40:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (   64.4,    93.8,   -41.4)
+       18      71     503 ./workspace/click-hit.lua
+2023-03-07T08:40:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (   64.4,    93.8,   -41.4)
+       19      76     611 ./workspace/click-hrp.lua
+2023-03-07T08:41:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (   64.4,    93.8,   -41.4)
+       35     137     981 ./workspace/click-spam.lua
+2023-03-07T08:41:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (   64.4,    93.8,   -41.4)
+       16      67     480 ./workspace/click-target.lua
+2023-03-07T08:41:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (   64.4,    93.8,   -41.4)
+       31     101     747 ./workspace/country.lua
+2023-03-07T08:41:04Z: PLAYER CHATTED [    1630228] VisualPlugin         (   64.4,    93.8,   -41.4)
+        3      32     169 ./workspace/del.lua
+2023-03-07T08:41:04Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
