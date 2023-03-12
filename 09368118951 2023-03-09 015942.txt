@@ -1,0 +1,18 @@
+[    1630228] : [ 9368118951] Las Flores Hotel - 5d871ed7-b047-4d9b-a7fa-65b65b2e6f70
+2023-03-09T01:59:42Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-03-09T01:59:42Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-09T01:59:42Z: PLAYER ADDED   [ 1828155758] Jaktomito            a.k.a. jakitomito          
+2023-03-09T02:00:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (  272.3,    41.3,   -11.1)
+  What's happened to my hotel?
+2023-03-09T02:00:10Z: PLAYER CHATTED [ 1828155758] Jaktomito            (  165.9,   278.7,   112.0)
+  not much
+2023-03-09T02:00:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (  218.9,    61.0,     2.7)
+  It was right above me.
+2023-03-09T02:00:44Z: PLAYER CHATTED [ 1828155758] Jaktomito            (   19.4,    87.4,   144.0)
+  Oh that is something we added it glitched srry about that
+2023-03-09T02:01:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (   85.9,    93.8,   -43.2)
+  No problem.
+2023-03-09T02:01:34Z: PLAYER REMOVED [ 1828155758] Jaktomito            a.k.a. jakitomito          
+2023-03-09T02:03:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (  277.8,    74.1,    17.7)
+  Discord
+2023-03-09T02:06:25Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

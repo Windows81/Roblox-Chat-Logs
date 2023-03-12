@@ -1,0 +1,617 @@
+[    1630228] : [ 8551316918] [V2] Clayton Juvenile Detention Center - 2862eb76-0dff-4d8c-ab41-58e868a151a7
+2023-03-12T08:14:04Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-03-12T08:14:04Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-12T08:14:04Z: PLAYER ADDED   [ 4001430848] sourcandy3207        a.k.a. Pandagirl           
+2023-03-12T08:14:04Z: PLAYER ADDED   [ 2798793763] siouxxxe             a.k.a. Siouxxe             
+2023-03-12T08:14:04Z: PLAYER ADDED   [ 1491727104] rytyfrs123           a.k.a. System              
+2023-03-12T08:14:04Z: PLAYER ADDED   [ 1120094637] Rollyflexier         a.k.a. Natalie             
+2023-03-12T08:14:04Z: PLAYER ADDED   [ 1227520525] GalaxyNinjaJ2       
+2023-03-12T08:14:04Z: PLAYER ADDED   [ 1358828274] benji_3511           a.k.a. OSAMA               
+2023-03-12T08:14:04Z: PLAYER ADDED   [ 1673906573] Jefferey011209       a.k.a. Jeffrey             
+2023-03-12T08:14:04Z: PLAYER ADDED   [ 2295252761] Lollypop154f         a.k.a. Zodiac              
+2023-03-12T08:14:04Z: PLAYER ADDED   [ 4114976130] caixunkunda          a.k.a. Caesar              
+2023-03-12T08:14:04Z: PLAYER ADDED   [  100963441] fettywaptrap1738     a.k.a. jay2valid           
+2023-03-12T08:14:04Z: PLAYER ADDED   [  291182854] tuddy7               a.k.a. TudTud              
+2023-03-12T08:14:04Z: PLAYER ADDED   [ 2686848267] Leenalovetwins       a.k.a. iiiHeartHer         
+2023-03-12T08:14:04Z: PLAYER ADDED   [ 1623074926] missingdogth        
+2023-03-12T08:14:04Z: PLAYER ADDED   [  594298503] FearOfShad0ws        a.k.a. joe                 
+2023-03-12T08:14:04Z: PLAYER ADDED   [ 1350323974] wjd2015              a.k.a. Will                
+2023-03-12T08:14:04Z: PLAYER ADDED   [ 1081175316] Magic_Snow10         a.k.a. ESR_Magic           
+2023-03-12T08:14:04Z: PLAYER ADDED   [ 2788431989] Wwehwkowk            a.k.a. Repeat              
+2023-03-12T08:14:04Z: PLAYER CHATTED [ 1491727104] rytyfrs123           ( -129.1,     1.1,    73.6)
+  Go in.
+2023-03-12T08:14:09Z: PLAYER CHATTED [ 1358828274] benji_3511           ( -163.5,    10.2,    53.9)
+  🤦🏽
+2023-03-12T08:14:10Z: PLAYER CHATTED [  594298503] FearOfShad0ws        (  -57.1,     1.9,   133.7)
+  /w Wwehwkowk  that was fast 💀 
+2023-03-12T08:14:10Z: PLAYER CHATTED [ 1227520525] GalaxyNinjaJ2        ( -128.8,     1.1,   193.5)
+  Alright 
+2023-03-12T08:14:17Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -127.7,     1.1,   191.2)
+  have a good ### #####
+2023-03-12T08:14:17Z: PLAYER CHATTED [ 1227520525] GalaxyNinjaJ2        ( -128.8,     1.1,   193.5)
+  that make snese now 
+2023-03-12T08:14:17Z: CHRCTER ADDED  [ 4114976130] caixunkunda          a.k.a. Caesar              
+2023-03-12T08:14:18Z: PLAYER CHATTED [ 1623074926] missingdogth         ( -163.1,     1.7,   107.3)
+  I W
+2023-03-12T08:14:20Z: PLAYER CHATTED [ 2788431989] Wwehwkowk            (  267.3,     1.1,   917.5)
+  yes
+2023-03-12T08:14:21Z: PLAYER CHATTED [ 1227520525] GalaxyNinjaJ2        ( -128.8,     1.1,   193.5)
+  tags
+2023-03-12T08:14:22Z: CHRCTER ADDED  [  100963441] fettywaptrap1738     a.k.a. jay2valid           
+2023-03-12T08:14:22Z: PLAYER REMOVED [ 2798793763] siouxxxe             a.k.a. Siouxxe             
+2023-03-12T08:14:23Z: CHRCTER ADDED  [ 1081175316] Magic_Snow10         a.k.a. ESR_Magic           
+2023-03-12T08:14:25Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -135.7,     1.1,   191.3)
+  yes?
+2023-03-12T08:14:32Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -111.2,     1.1,   189.9)
+  .w
+2023-03-12T08:14:32Z: PLAYER CHATTED [ 4001430848] sourcandy3207        ( -147.3,     0.2,    79.6)
+  I'm boarded
+2023-03-12T08:14:36Z: PLAYER CHATTED [  594298503] FearOfShad0ws        ( -132.6,     1.1,   147.0)
+  magic game is good
+2023-03-12T08:14:36Z: PLAYER CHATTED [ 4001430848] sourcandy3207        ( -149.0,     1.1,    85.3)
+  board
+2023-03-12T08:14:40Z: CHRCTER ADDED  [ 1081175316] Magic_Snow10         a.k.a. ESR_Magic           
+2023-03-12T08:14:40Z: PLAYER CHATTED [ 1227520525] GalaxyNinjaJ2        ( -131.0,     1.1,   193.4)
+  how u got up there-
+2023-03-12T08:14:44Z: PLAYER CHATTED [ 2788431989] Wwehwkowk            (  348.0,     1.0,   931.2)
+  ok
+2023-03-12T08:14:49Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.2,     1.1,   193.4)
+  the electric fence
+2023-03-12T08:14:50Z: PLAYER CHATTED [ 1227520525] GalaxyNinjaJ2        ( -110.1,     1.1,   191.0)
+  this is sus
+2023-03-12T08:14:51Z: PLAYER CHATTED [ 4001430848] sourcandy3207        ( -151.7,     1.1,    83.8)
+  I have mittens on aswell
+2023-03-12T08:14:52Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.2,     1.1,   193.4)
+  probbaly.
+2023-03-12T08:14:53Z: PLAYER CHATTED [ 1358828274] benji_3511           ( -169.0,    10.0,    69.6)
+  wth
+2023-03-12T08:14:56Z: PLAYER CHATTED [  594298503] FearOfShad0ws        ( -129.3,     1.1,    72.0)
+  ok
+2023-03-12T08:14:58Z: PLAYER CHATTED [  291182854] tuddy7               ( -165.2,    10.0,    68.4)
+  lol;
+2023-03-12T08:15:07Z: PLAYER CHATTED [ 4001430848] sourcandy3207        ( -151.7,     1.1,    83.8)
+  screams warden
+2023-03-12T08:15:07Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -114.2,     1.1,   189.7)
+  tthough it should've electrucuted him.
+2023-03-12T08:15:08Z: PLAYER CHATTED [ 1227520525] GalaxyNinjaJ2        ( -110.1,     1.1,   191.0)
+  By kelsey thanks for help-
+2023-03-12T08:15:11Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -111.8,     1.1,   189.4)
+  bye!
+2023-03-12T08:15:12Z: PLAYER CHATTED [ 1623074926] missingdogth         ( -163.2,     2.2,   106.8)
+  HELOO
+2023-03-12T08:15:13Z: PLAYER ADDED   [ 3344185709] Kingnoah970         
+2023-03-12T08:15:14Z: PLAYER CHATTED [ 1227520525] GalaxyNinjaJ2        ( -110.1,     1.1,   191.0)
+  and ye-
+2023-03-12T08:15:17Z: PLAYER CHATTED [ 2788431989] Wwehwkowk            (  232.3,     1.8,   826.4)
+  cellbreak
+2023-03-12T08:15:21Z: PLAYER CHATTED [ 2788431989] Wwehwkowk            (  232.3,     1.8,   826.4)
+  LOLOLOLOLOLO
+2023-03-12T08:15:22Z: CHRCTER ADDED  [ 4114976130] caixunkunda          a.k.a. Caesar              
+2023-03-12T08:15:24Z: PLAYER REMOVED [ 4114976130] caixunkunda          a.k.a. Caesar              
+2023-03-12T08:15:29Z: PLAYER CHATTED [  594298503] FearOfShad0ws        ( -139.0,     1.1,   187.8)
+  lol
+2023-03-12T08:15:30Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -119.4,     1.1,   190.4)
+  hes leaving the game
+2023-03-12T08:15:30Z: PLAYER CHATTED [  291182854] tuddy7               ( -164.3,    10.0,    69.1)
+  LET ME OUT
+2023-03-12T08:15:36Z: PLAYER CHATTED [  291182854] tuddy7               ( -164.3,    10.0,    69.1)
+  AAAAAAAAAAAAAHHHHHHH
+2023-03-12T08:15:37Z: PLAYER CHATTED [ 1227520525] GalaxyNinjaJ2        ( -110.1,     1.1,   191.0)
+  see u next time-
+2023-03-12T08:15:38Z: PLAYER CHATTED [ 1491727104] rytyfrs123           ( -114.4,     1.1,   188.4)
+  Who is?
+2023-03-12T08:15:38Z: PLAYER CHATTED [ 1673906573] Jefferey011209       ( -159.2,    10.0,    64.2)
+  2 person in a same cell.
+2023-03-12T08:15:40Z: PLAYER CHATTED [ 1358828274] benji_3511           ( -168.7,    10.0,    70.7)
+  we r bunkies now
+2023-03-12T08:15:44Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -119.4,     1.1,   190.4)
+  magic is a cop again
+2023-03-12T08:15:44Z: PLAYER CHATTED [ 1623074926] missingdogth         ( -163.2,     2.2,   106.8)
+  LET ME OUT AAHAHAHAAHAHHAHA
+2023-03-12T08:15:44Z: PLAYER CHATTED [ 1227520525] GalaxyNinjaJ2        ( -110.1,     1.1,   191.0)
+  I am - lol
+2023-03-12T08:15:45Z: PLAYER CHATTED [  291182854] tuddy7               ( -164.6,    10.0,    69.1)
+  ig
+2023-03-12T08:15:45Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -119.4,     1.1,   190.4)
+  he got fired.
+2023-03-12T08:15:49Z: PLAYER REMOVED [  100963441] fettywaptrap1738     a.k.a. jay2valid           
+2023-03-12T08:15:50Z: PLAYER CHATTED [  291182854] tuddy7               ( -164.6,    10.0,    68.0)
+  ye
+2023-03-12T08:15:51Z: PLAYER REMOVED [ 2686848267] Leenalovetwins       a.k.a. iiiHeartHer         
+2023-03-12T08:15:52Z: PLAYER CHATTED [ 1491727104] rytyfrs123           ( -114.4,     1.1,   188.4)
+  Him?
+2023-03-12T08:15:53Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -118.1,     1.1,   191.0)
+  earlier.
+2023-03-12T08:15:54Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -118.1,     1.1,   191.0)
+  mhm.
+2023-03-12T08:15:56Z: PLAYER CHATTED [ 1358828274] benji_3511           ( -168.7,    10.0,    70.7)
+  I got glitched into here tho
+2023-03-12T08:15:56Z: PLAYER CHATTED [ 1491727104] rytyfrs123           ( -114.1,     1.1,   188.8)
+  Oh
+2023-03-12T08:15:56Z: PLAYER CHATTED [ 1081175316] Magic_Snow10         ( -114.5,     1.1,   191.9)
+  They rehired me 
+2023-03-12T08:15:58Z: PLAYER ADDED   [ 2917723419] cicibalerinahmb      a.k.a. antonia             
+2023-03-12T08:15:59Z: PLAYER CHATTED [ 2788431989] Wwehwkowk            (  324.9,     1.0,   855.3)
+  imagine rp a prison thing
+2023-03-12T08:16:00Z: PLAYER CHATTED [ 1491727104] rytyfrs123           ( -114.1,     1.1,   188.8)
+  Hold on.
+2023-03-12T08:16:01Z: PLAYER CHATTED [ 1227520525] GalaxyNinjaJ2        ( -110.1,     1.1,   191.0)
+  now I can't leave thanks to magic..
+2023-03-12T08:16:03Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -118.1,     1.1,   191.0)
+  the warden never di
+2023-03-12T08:16:06Z: PLAYER CHATTED [ 2788431989] Wwehwkowk            (  324.9,     1.0,   855.3)
+  if you lov it so much
+2023-03-12T08:16:06Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -118.1,     1.1,   191.0)
+  let me ask him
+2023-03-12T08:16:11Z: PLAYER CHATTED [ 2788431989] Wwehwkowk            (  324.9,     1.0,   855.3)
+  then become one
+2023-03-12T08:16:12Z: PLAYER REMOVED [ 2917723419] cicibalerinahmb      a.k.a. antonia             
+2023-03-12T08:16:12Z: PLAYER CHATTED [ 1491727104] rytyfrs123           ( -114.1,     1.1,   188.8)
+  I have to rejoin,
+2023-03-12T08:16:14Z: PLAYER CHATTED [ 1227520525] GalaxyNinjaJ2        ( -117.2,     1.1,   188.0)
+  That mess up of rp
+2023-03-12T08:16:17Z: PLAYER REMOVED [ 1491727104] rytyfrs123           a.k.a. System              
+2023-03-12T08:16:19Z: PLAYER CHATTED [ 4001430848] sourcandy3207        ( -151.7,     1.1,    83.8)
+  HI
+2023-03-12T08:16:21Z: PLAYER CHATTED [  594298503] FearOfShad0ws        ( -136.9,     1.1,   149.4)
+  Other game
+2023-03-12T08:16:23Z: PLAYER CHATTED [ 1623074926] missingdogth         ( -163.1,     2.1,   107.7)
+  HELP
+2023-03-12T08:16:25Z: CHRCTER ADDED  [ 3344185709] Kingnoah970         
+2023-03-12T08:16:28Z: PLAYER CHATTED [ 2788431989] Wwehwkowk            (  336.2,     1.0,   831.2)
+  fnaf
+2023-03-12T08:16:35Z: PLAYER ADDED   [ 1491727104] rytyfrs123           a.k.a. System              
+2023-03-12T08:16:37Z: PLAYER CHATTED [ 4001430848] sourcandy3207        ( -151.7,     1.1,    83.8)
+  I hate these cops
+2023-03-12T08:16:37Z: PLAYER CHATTED [  594298503] FearOfShad0ws        (  -62.6,     1.9,   188.4)
+  magic
+2023-03-12T08:16:40Z: CHRCTER ADDED  [ 3344185709] Kingnoah970         
+2023-03-12T08:16:43Z: PLAYER CHATTED [ 2788431989] Wwehwkowk            (  419.4,     1.0,   915.5)
+  fnaf
+2023-03-12T08:16:46Z: PLAYER CHATTED [  594298503] FearOfShad0ws        (  -12.1,     1.9,   236.4)
+  magic
+2023-03-12T08:16:48Z: CHRCTER ADDED  [ 1491727104] rytyfrs123           a.k.a. System              
+2023-03-12T08:16:51Z: PLAYER CHATTED [ 1358828274] benji_3511           ( -163.9,    10.0,    64.2)
+  we really stuck in da cell
+2023-03-12T08:16:56Z: PLAYER CHATTED [  594298503] FearOfShad0ws        (   -4.0,     1.0,   274.7)
+  make private server in fnaf then
+2023-03-12T08:16:58Z: PLAYER CHATTED [ 2788431989] Wwehwkowk            (  363.4,     1.0,   891.9)
+  fnaf magic
+2023-03-12T08:17:00Z: PLAYER CHATTED [  291182854] tuddy7               ( -163.4,    10.5,    69.4)
+  ## so
+2023-03-12T08:17:02Z: PLAYER CHATTED [ 1227520525] GalaxyNinjaJ2        ( -114.9,     1.1,   186.5)
+  Kelsey wait-
+2023-03-12T08:17:03Z: PLAYER CHATTED [ 1358828274] benji_3511           ( -163.9,    10.0,    64.2)
+  n I'm hungry aswell
+2023-03-12T08:17:06Z: PLAYER REMOVED [ 1350323974] wjd2015              a.k.a. Will                
+2023-03-12T08:17:07Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -118.1,     1.1,   191.0)
+  yes?
+2023-03-12T08:17:08Z: PLAYER CHATTED [ 1623074926] missingdogth         ( -163.1,     2.7,   107.7)
+  I AM STUCK
+2023-03-12T08:17:09Z: PLAYER CHATTED [  594298503] FearOfShad0ws        (   27.1,     1.0,   304.8)
+  Private server 
+2023-03-12T08:17:10Z: PLAYER CHATTED [  291182854] tuddy7               ( -163.1,    11.4,    69.5)
+  ye me to
+2023-03-12T08:17:11Z: PLAYER CHATTED [  594298503] FearOfShad0ws        (   53.5,     1.0,   264.0)
+  Fnaf game 
+2023-03-12T08:17:15Z: PLAYER CHATTED [ 1081175316] Magic_Snow10         ( -113.1,     1.1,   190.8)
+  Why you so such a 
+2023-03-12T08:17:16Z: PLAYER CHATTED [ 2788431989] Wwehwkowk            (  419.6,     1.0,   890.0)
+  does it cost robux
+2023-03-12T08:17:19Z: PLAYER CHATTED [ 1227520525] GalaxyNinjaJ2        ( -114.9,     1.1,   186.5)
+  when Magic leave an game and rejoin..
+2023-03-12T08:17:22Z: PLAYER CHATTED [  594298503] FearOfShad0ws        (   54.2,     1.0,   314.6)
+  50 or 6-
+2023-03-12T08:17:24Z: PLAYER CHATTED [  594298503] FearOfShad0ws        (   54.2,     1.0,   314.6)
+  60*
+2023-03-12T08:17:26Z: PLAYER CHATTED [ 1358828274] benji_3511           ( -163.9,    10.0,    64.2)
+  can someone come to the cells and open our doors?
+2023-03-12T08:17:27Z: PLAYER CHATTED [ 2788431989] Wwehwkowk            (  367.7,     1.8,   816.3)
+  ne
+2023-03-12T08:17:27Z: PLAYER CHATTED [  291182854] tuddy7               ( -163.1,    11.4,    69.5)
+  LET MEEEEE EAT
+2023-03-12T08:17:28Z: PLAYER CHATTED [ 4001430848] sourcandy3207        ( -150.3,     1.1,    82.2)
+  are you in handcuffs
+2023-03-12T08:17:29Z: PLAYER CHATTED [ 1227520525] GalaxyNinjaJ2        ( -114.9,     1.1,   186.5)
+  NAH THIS FAIL RP
+2023-03-12T08:17:32Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  bc i abide by the rules.
+2023-03-12T08:17:33Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  Dude.
+2023-03-12T08:17:35Z: PLAYER CHATTED [ 1623074926] missingdogth         ( -163.1,     2.7,   107.7)
+  EA
+2023-03-12T08:17:35Z: PLAYER CHATTED [  594298503] FearOfShad0ws        (   59.4,     1.0,   325.9)
+  magic gam then
+2023-03-12T08:17:37Z: PLAYER CHATTED [ 1623074926] missingdogth         ( -163.1,     2.7,   107.7)
+  T
+2023-03-12T08:17:40Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  And, you don't.
+2023-03-12T08:17:41Z: PLAYER CHATTED [ 2788431989] Wwehwkowk            (  384.6,     1.8,   890.5)
+  😭😭😭
+2023-03-12T08:17:42Z: PLAYER CHATTED [ 1623074926] missingdogth         ( -163.1,     2.7,   107.7)
+  ####
+2023-03-12T08:17:45Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  theres where the differences meet .
+2023-03-12T08:17:51Z: PLAYER CHATTED [ 1081175316] Magic_Snow10         ( -114.5,     1.1,   190.8)
+  You know what’s frp 
+2023-03-12T08:17:52Z: CHRCTER ADDED  [ 2788431989] Wwehwkowk            a.k.a. Repeat              
+2023-03-12T08:17:52Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  /because now you can srsly get demoted.
+2023-03-12T08:17:53Z: PLAYER CHATTED [ 1623074926] missingdogth         ( -163.1,     2.7,   107.7)
+  ####
+2023-03-12T08:17:54Z: CHRCTER ADDED  [ 2788431989] Wwehwkowk            a.k.a. Repeat              
+2023-03-12T08:17:55Z: CHRCTER ADDED  [ 2788431989] Wwehwkowk            a.k.a. Repeat              
+2023-03-12T08:17:59Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  FRP IS what your doing now.
+2023-03-12T08:17:59Z: CHRCTER ADDED  [ 2788431989] Wwehwkowk            a.k.a. Repeat              
+2023-03-12T08:18:00Z: PLAYER CHATTED [ 1623074926] missingdogth         ( -163.1,     2.7,   107.7)
+  # # ##
+2023-03-12T08:18:02Z: PLAYER ADDED   [ 3587935056] XYZOPOLI             a.k.a. RBTYBEROTsky        
+2023-03-12T08:18:04Z: CHRCTER ADDED  [ 3344185709] Kingnoah970         
+2023-03-12T08:18:05Z: PLAYER CHATTED [  291182854] tuddy7               ( -163.1,    11.4,    69.5)
+  AAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+2023-03-12T08:18:06Z: PLAYER CHATTED [ 1623074926] missingdogth         ( -163.1,     2.7,   107.7)
+  Food
+2023-03-12T08:18:07Z: PLAYER CHATTED [  594298503] FearOfShad0ws        (  -59.2,     1.0,   317.1)
+  Magic or fnaf fam
+2023-03-12T08:18:09Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  not once in reality have i saw a   officer who got fired for
+2023-03-12T08:18:09Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  not once in reality have i saw a officer who got fired for
+2023-03-12T08:18:09Z: PLAYER CHATTED [  594298503] FearOfShad0ws        (   -4.2,     1.0,   295.2)
+  Gam
+2023-03-12T08:18:10Z: PLAYER CHATTED [ 1081175316] Magic_Snow10         ( -114.5,     1.1,   190.8)
+  Saying I got fired when I left the game and joined back later
+2023-03-12T08:18:10Z: PLAYER CHATTED [ 1623074926] missingdogth         ( -163.1,     2.7,   107.7)
+  Food
+2023-03-12T08:18:11Z: PLAYER CHATTED [ 1491727104] rytyfrs123           ( -115.8,     1.1,   194.2)
+  I can’t..
+2023-03-12T08:18:12Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  doing stuff to inmates
+2023-03-12T08:18:13Z: PLAYER CHATTED [ 1491727104] rytyfrs123           ( -115.8,     1.1,   194.2)
+  Wait
+2023-03-12T08:18:13Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  and me
+2023-03-12T08:18:15Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  come back
+2023-03-12T08:18:15Z: PLAYER CHATTED [  291182854] tuddy7               ( -163.1,    11.4,    69.5)
+  III NEEEEEEEEED FOOD
+2023-03-12T08:18:16Z: PLAYER CHATTED [ 1081175316] Magic_Snow10         ( -114.5,     1.1,   190.8)
+  That’s frp 
+2023-03-12T08:18:16Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  this fast
+2023-03-12T08:18:17Z: PLAYER REMOVED [ 1491727104] rytyfrs123           a.k.a. System              
+2023-03-12T08:18:18Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  without the wardens
+2023-03-12T08:18:22Z: PLAYER CHATTED [ 1623074926] missingdogth         ( -163.1,     2.7,   107.7)
+  FOOD
+2023-03-12T08:18:25Z: PLAYER CHATTED [  291182854] tuddy7               ( -163.1,    11.4,    69.5)
+  LET ME OUT
+2023-03-12T08:18:29Z: PLAYER CHATTED [ 2788431989] Wwehwkowk            (  326.4,     1.7,   910.2)
+  sh
+2023-03-12T08:18:30Z: PLAYER CHATTED [ 1623074926] missingdogth         ( -163.1,     2.7,   107.7)
+  We Need Food
+2023-03-12T08:18:31Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  your frp dude.
+2023-03-12T08:18:32Z: CHRCTER ADDED  [ 3344185709] Kingnoah970         
+2023-03-12T08:18:32Z: PLAYER CHATTED [ 2788431989] Wwehwkowk            (  326.4,     1.7,   910.2)
+  me in war
+2023-03-12T08:18:33Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  its all over you.
+2023-03-12T08:18:33Z: CHRCTER ADDED  [ 3587935056] XYZOPOLI             a.k.a. RBTYBEROTsky        
+2023-03-12T08:18:34Z: PLAYER REMOVED [ 2788431989] Wwehwkowk            a.k.a. Repeat              
+2023-03-12T08:18:36Z: PLAYER CHATTED [ 1227520525] GalaxyNinjaJ2        ( -114.9,     1.1,   186.5)
+  .... Magic why u rejoin then
+2023-03-12T08:18:37Z: PLAYER CHATTED [  291182854] tuddy7               ( -163.1,    11.4,    69.5)
+  PLEASSSEE HELPPPP
+2023-03-12T08:18:43Z: PLAYER CHATTED [  594298503] FearOfShad0ws        (  -44.6,     1.9,   195.6)
+  Fr?
+2023-03-12T08:18:43Z: PLAYER CHATTED [ 1358828274] benji_3511           ( -163.6,    10.1,    64.4)
+  *bangs on the window*
+2023-03-12T08:18:44Z: PLAYER REMOVED [ 3344185709] Kingnoah970         
+2023-03-12T08:18:46Z: PLAYER CHATTED [ 1623074926] missingdogth         ( -163.7,     1.1,   107.0)
+  HELLPP
+2023-03-12T08:18:48Z: PLAYER CHATTED [ 1081175316] Magic_Snow10         ( -113.3,     1.1,   191.4)
+  Cause it put me in this server 
+2023-03-12T08:18:49Z: PLAYER CHATTED [  594298503] FearOfShad0ws        (  -39.7,     1.9,   201.0)
+  yo
+2023-03-12T08:18:52Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  You had alot to say before you left
+2023-03-12T08:18:52Z: PLAYER CHATTED [ 1081175316] Magic_Snow10         ( -113.3,     1.1,   191.4)
+  What else 
+2023-03-12T08:18:53Z: PLAYER REMOVED [  594298503] FearOfShad0ws        a.k.a. joe                 
+2023-03-12T08:18:53Z: PLAYER CHATTED [ 1358828274] benji_3511           ( -163.5,    10.2,    64.9)
+  OPEN THE DAMN CELL DOOR
+2023-03-12T08:18:57Z: PLAYER CHATTED [ 1227520525] GalaxyNinjaJ2        ( -114.9,     1.1,   186.5)
+  Other rule is not fail rp
+2023-03-12T08:19:00Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  Wish you stayed gone but i knew you woulda miss us!
+2023-03-12T08:19:00Z: PLAYER CHATTED [  291182854] tuddy7               ( -163.1,    11.4,    69.5)
+  NOWWWWWWWWWWWW
+2023-03-12T08:19:02Z: PLAYER CHATTED [ 1227520525] GalaxyNinjaJ2        ( -114.9,     1.1,   186.5)
+  don't matter
+2023-03-12T08:19:09Z: PLAYER CHATTED [  291182854] tuddy7               ( -163.1,    11.4,    69.5)
+  OPEN THE DOR
+2023-03-12T08:19:12Z: PLAYER CHATTED [  291182854] tuddy7               ( -163.1,    11.4,    69.5)
+  DOOR
+2023-03-12T08:19:14Z: PLAYER CHATTED [ 1623074926] missingdogth         ( -163.7,     1.1,   107.0)
+  I AM GOTTA EAAT ALL OF YOU IF YOU DON'T OPEN THE DOR
+2023-03-12T08:19:26Z: PLAYER CHATTED [ 1227520525] GalaxyNinjaJ2        ( -114.9,     1.1,   186.5)
+  Kelsey brb Let me check the rules
+2023-03-12T08:19:28Z: PLAYER CHATTED [ 1081175316] Magic_Snow10         ( -113.0,     1.1,   190.8)
+  Nah you annoying and make me wanna end the connection between the 
+2023-03-12T08:19:38Z: PLAYER CHATTED [ 1227520525] GalaxyNinjaJ2        ( -114.9,     1.1,   186.5)
+  well good then leave
+2023-03-12T08:19:40Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  ima check them too.
+2023-03-12T08:19:42Z: PLAYER CHATTED [ 1623074926] missingdogth         ( -163.4,     1.5,   107.2)
+  WE 
+2023-03-12T08:19:44Z: PLAYER CHATTED [  291182854] tuddy7               ( -163.1,    11.4,    69.5)
+  DONT MAKE ME EAT MY FRIEND
+2023-03-12T08:19:45Z: PLAYER CHATTED [ 1081175316] Magic_Snow10         ( -113.2,     1.1,   191.3)
+  Fr 
+2023-03-12T08:19:48Z: CHRCTER ADDED  [ 1358828274] benji_3511           a.k.a. OSAMA               
+2023-03-12T08:19:54Z: PLAYER CHATTED [ 1623074926] missingdogth         ( -163.4,     1.5,   107.2)
+  Didn't Eat ANYTHING 
+2023-03-12T08:19:56Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  Number 4.
+2023-03-12T08:20:03Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  any innapropiate role-play is not allowed.
+2023-03-12T08:20:08Z: PLAYER CHATTED [ 1358828274] benji_3511           ( -163.4,    10.2,    42.6)
+  smh
+2023-03-12T08:20:17Z: PLAYER CHATTED [ 1623074926] missingdogth         ( -163.4,     1.5,   107.2)
+  Hellp
+2023-03-12T08:20:20Z: PLAYER CHATTED [ 1358828274] benji_3511           ( -163.4,    10.2,    42.6)
+  rlly looking at us like we sum animals at a zoo
+2023-03-12T08:20:23Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  4. leaving the game to avoid punishment is not allowed.
+2023-03-12T08:20:27Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  2 rules you've broken.
+2023-03-12T08:20:29Z: PLAYER CHATTED [  291182854] tuddy7               ( -163.1,    11.4,    69.5)
+  let meh out
+2023-03-12T08:20:34Z: PLAYER CHATTED [ 1081175316] Magic_Snow10         ( -112.3,     1.1,   193.0)
+  Not an punishment lol
+2023-03-12T08:20:37Z: PLAYER CHATTED [  291182854] tuddy7               ( -163.1,    11.4,    69.5)
+  AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHH
+2023-03-12T08:20:40Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  iit was lol
+2023-03-12T08:20:41Z: PLAYER CHATTED [ 1358828274] benji_3511           ( -163.4,    10.2,    42.6)
+  Jeffery 
+2023-03-12T08:20:45Z: PLAYER CHATTED [ 1358828274] benji_3511           ( -163.4,    10.2,    42.6)
+  open the dooor
+2023-03-12T08:20:47Z: PLAYER CHATTED [ 1081175316] Magic_Snow10         ( -114.1,     1.1,   193.0)
+  No lol 
+2023-03-12T08:20:52Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  Your friend got you in trouble
+2023-03-12T08:20:53Z: PLAYER CHATTED [ 1623074926] missingdogth         ( -163.2,     1.6,   107.0)
+  Can I Pretty Pls get Out
+2023-03-12T08:20:59Z: PLAYER ADDED   [ 3308787540] Sanssansazk          a.k.a. Officer             
+2023-03-12T08:21:01Z: PLAYER CHATTED [  291182854] tuddy7               ( -163.1,    11.4,    69.5)
+  LET ME OUT LET ME OUT LET ME OUT
+2023-03-12T08:21:01Z: PLAYER CHATTED [ 1081175316] Magic_Snow10         ( -114.1,     1.1,   193.0)
+  He was t my friend lol
+2023-03-12T08:21:07Z: PLAYER REMOVED [ 1673906573] Jefferey011209       a.k.a. Jeffrey             
+2023-03-12T08:21:07Z: PLAYER CHATTED [ 1081175316] Magic_Snow10         ( -114.1,     1.1,   193.0)
+  Just met him 
+2023-03-12T08:21:09Z: PLAYER REMOVED [ 3308787540] Sanssansazk          a.k.a. Officer             
+2023-03-12T08:21:11Z: PLAYER CHATTED [  291182854] tuddy7               ( -163.1,    11.4,    69.5)
+  NNNNNNNOOOOOOOOOOOOOOOOOOOOOOOOOOOOOWWWWWWWWWWWWWWWWWWW
+2023-03-12T08:21:18Z: PLAYER CHATTED [ 1081175316] Magic_Snow10         ( -114.1,     1.1,   193.0)
+  Seems like many people don’t like you 
+2023-03-12T08:21:18Z: PLAYER CHATTED [ 1358828274] benji_3511           ( -164.3,    10.0,    46.0)
+  smh
+2023-03-12T08:21:22Z: PLAYER CHATTED [ 1358828274] benji_3511           ( -164.5,    10.0,    45.8)
+  these dudes
+2023-03-12T08:21:23Z: PLAYER CHATTED [  291182854] tuddy7               ( -163.1,    11.4,    69.5)
+  NOW NOW NOW NOW NOW NOW
+2023-03-12T08:21:24Z: PLAYER CHATTED [ 1227520525] GalaxyNinjaJ2        ( -114.9,     1.1,   186.5)
+  Number 8 > lying to staff is not allowed
+2023-03-12T08:21:30Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  RIght.
+2023-03-12T08:21:32Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  I ahd proof.
+2023-03-12T08:21:34Z: PLAYER CHATTED [ 1081175316] Magic_Snow10         ( -114.1,     1.1,   193.0)
+  Seems like you got an terrible personality problem the. 
+2023-03-12T08:21:35Z: CHRCTER ADDED  [ 1358828274] benji_3511           a.k.a. OSAMA               
+2023-03-12T08:21:37Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  I also don't care to be liked.
+2023-03-12T08:21:45Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  to be liked is nothing i wanna ever think is important
+2023-03-12T08:21:45Z: PLAYER CHATTED [ 1358828274] benji_3511           ( -122.8,     1.1,    83.1)
+  open the door
+2023-03-12T08:21:46Z: PLAYER CHATTED [ 1081175316] Magic_Snow10         ( -114.1,     1.1,   193.0)
+  No wonder 
+2023-03-12T08:21:50Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -126.1,     1.1,    82.2)
+  I AM SAIKKO!
+2023-03-12T08:21:52Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  Thats something you would do.
+2023-03-12T08:21:53Z: PLAYER CHATTED [ 1623074926] missingdogth         ( -163.1,     1.8,   107.1)
+  HELP ME pretty pls
+2023-03-12T08:21:56Z: PLAYER CHATTED [  291182854] tuddy7               ( -163.1,    11.4,    69.5)
+  open the door goober
+2023-03-12T08:22:06Z: PLAYER CHATTED [ 1358828274] benji_3511           ( -123.0,     1.1,    83.5)
+  smh
+2023-03-12T08:22:06Z: PLAYER CHATTED [ 1623074926] missingdogth         ( -163.1,     1.8,   107.1)
+  to Eat in the cafe
+2023-03-12T08:22:10Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -129.1,     1.1,    81.2)
+  ¿HAHAHAHHEHEHEHEHE?
+2023-03-12T08:22:16Z: CHRCTER ADDED  [ 3587935056] XYZOPOLI             a.k.a. RBTYBEROTsky        
+2023-03-12T08:22:20Z: PLAYER CHATTED [ 1623074926] missingdogth         ( -163.1,     1.8,   107.1)
+  pretty pls
+2023-03-12T08:22:26Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -108.5,     4.7,    79.4)
+  I will frèé you.
+2023-03-12T08:22:29Z: PLAYER CHATTED [ 1081175316] Magic_Snow10         ( -114.1,     1.1,   193.0)
+  #problem 
+2023-03-12T08:22:30Z: PLAYER REMOVED [ 4001430848] sourcandy3207        a.k.a. Pandagirl           
+2023-03-12T08:22:32Z: PLAYER CHATTED [ 1358828274] benji_3511           ( -100.8,    10.0,    80.6)
+  don't care
+2023-03-12T08:22:34Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  You have a big problem.
+2023-03-12T08:22:37Z: CHRCTER ADDED  [ 3587935056] XYZOPOLI             a.k.a. RBTYBEROTsky        
+2023-03-12T08:22:38Z: PLAYER CHATTED [ 1358828274] benji_3511           ( -100.8,    10.0,    80.6)
+  cuz i know u wont
+2023-03-12T08:22:39Z: PLAYER CHATTED [ 1081175316] Magic_Snow10         ( -114.1,     1.1,   193.0)
+  Yeah you 
+2023-03-12T08:22:39Z: PLAYER CHATTED [ 1227520525] GalaxyNinjaJ2        ( -114.9,     1.1,   186.5)
+  what about number 3
+2023-03-12T08:22:48Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -104.8,     9.4,    79.4)
+  See you then.
+2023-03-12T08:22:51Z: PLAYER CHATTED [ 1227520525] GalaxyNinjaJ2        ( -114.9,     1.1,   186.5)
+  #### or spam?
+2023-03-12T08:22:54Z: PLAYER CHATTED [ 1227520525] GalaxyNinjaJ2        ( -114.9,     1.1,   186.5)
+  #####
+2023-03-12T08:22:55Z: CHRCTER ADDED  [  291182854] tuddy7               a.k.a. TudTud              
+2023-03-12T08:22:55Z: CHRCTER ADDED  [ 1358828274] benji_3511           a.k.a. OSAMA               
+2023-03-12T08:22:58Z: PLAYER CHATTED [ 1081175316] Magic_Snow10         ( -114.1,     1.1,   193.0)
+  Wait 
+2023-03-12T08:23:00Z: PLAYER CHATTED [ 1081175316] Magic_Snow10         ( -114.1,     1.1,   193.0)
+  Wait 
+2023-03-12T08:23:03Z: PLAYER CHATTED [ 1081175316] Magic_Snow10         ( -114.1,     1.1,   193.0)
+  Wait 
+2023-03-12T08:23:04Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  /Our problem is you won't follow rules and you and your friend were doing disgusting things and you sat there while he was doing those things.
+2023-03-12T08:23:09Z: CHRCTER ADDED  [ 1358828274] benji_3511           a.k.a. OSAMA               
+2023-03-12T08:23:16Z: PLAYER CHATTED [ 1081175316] Magic_Snow10         ( -114.1,     1.1,   193.0)
+  Not my friend 
+2023-03-12T08:23:19Z: CHRCTER ADDED  [ 3587935056] XYZOPOLI             a.k.a. RBTYBEROTsky        
+2023-03-12T08:23:19Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  So remember that i had this talk with you before i filed an ban report for you.
+2023-03-12T08:23:24Z: PLAYER CHATTED [ 1081175316] Magic_Snow10         ( -114.1,     1.1,   193.0)
+  Stop saying that 
+2023-03-12T08:23:24Z: PLAYER CHATTED [ 1623074926] missingdogth         ( -165.3,     1.1,   107.5)
+  I am in IU-13 I Wanna get out when we go to cafe
+2023-03-12T08:23:37Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  Your friend  left he  also broke a rule.
+2023-03-12T08:23:38Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  Your friend left he also broke a rule.
+2023-03-12T08:23:38Z: CHRCTER ADDED  [ 1358828274] benji_3511           a.k.a. OSAMA               
+2023-03-12T08:23:41Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  he left to avoid punihsment.
+2023-03-12T08:23:42Z: PLAYER ADDED   [ 4269857480] MightyNathanfelloff  a.k.a. NathanDeTwak        
+2023-03-12T08:23:44Z: PLAYER ADDED   [  552319138] Lacrevette03        
+2023-03-12T08:23:47Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  karma will get him tho.
+2023-03-12T08:23:53Z: CHRCTER ADDED  [ 1358828274] benji_3511           a.k.a. OSAMA               
+2023-03-12T08:23:54Z: PLAYER REMOVED [  291182854] tuddy7               a.k.a. TudTud              
+2023-03-12T08:23:56Z: CHRCTER ADDED  [  552319138] Lacrevette03        
+2023-03-12T08:24:02Z: PLAYER ADDED   [ 2333096172] nlenickyluna         a.k.a. Walter              
+2023-03-12T08:24:07Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-12T08:24:16Z: PLAYER CHATTED [ 1358828274] benji_3511           ( -164.6,    10.0,    44.8)
+  why are these officers dumb asl
+2023-03-12T08:24:25Z: PLAYER CHATTED [ 1081175316] Magic_Snow10         ( -114.1,     1.1,   193.0)
+  I think they would rather ban you then me lol, you make players leave the game cause your so dam annoying I would #### ## #### my ears drums to not listen to you in rl
+2023-03-12T08:24:33Z: PLAYER REMOVED [ 3587935056] XYZOPOLI             a.k.a. RBTYBEROTsky        
+2023-03-12T08:24:36Z: PLAYER CHATTED [ 1623074926] missingdogth         ( -165.3,     1.1,   107.5)
+  help
+2023-03-12T08:24:39Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -160.0,    10.0,    46.8)
+  Free.
+2023-03-12T08:24:39Z: PLAYER CHATTED [ 1623074926] missingdogth         ( -165.3,     1.1,   107.5)
+  HELP
+2023-03-12T08:24:40Z: CHRCTER ADDED  [ 4269857480] MightyNathanfelloff  a.k.a. NathanDeTwak        
+2023-03-12T08:24:44Z: PLAYER CHATTED [ 1081175316] Magic_Snow10         ( -114.1,     1.1,   193.0)
+  Goodbye Karen
+2023-03-12T08:24:45Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  funny thing is.
+2023-03-12T08:24:46Z: PLAYER CHATTED [ 1623074926] missingdogth         ( -165.3,     1.1,   107.5)
+  I am in IU 13
+2023-03-12T08:24:47Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  me and drew.
+2023-03-12T08:24:48Z: PLAYER REMOVED [ 1081175316] Magic_Snow10         a.k.a. ESR_Magic           
+2023-03-12T08:24:51Z: PLAYER CHATTED [ 1227520525] GalaxyNinjaJ2        ( -114.9,     1.1,   186.5)
+  secton 2 :c. staff should nota buse privi;eges
+2023-03-12T08:24:55Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  talked during the whole time
+2023-03-12T08:24:55Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  talked during the  whole time
+2023-03-12T08:24:59Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  while  we were in the meeting.
+2023-03-12T08:24:59Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  while we were in the meeting.
+2023-03-12T08:25:00Z: PLAYER CHATTED [ 1227520525] GalaxyNinjaJ2        ( -114.9,     1.1,   186.5)
+  lol
+2023-03-12T08:25:00Z: PLAYER CHATTED [ 1623074926] missingdogth         ( -165.3,     1.1,   107.5)
+  help
+2023-03-12T08:25:01Z: PLAYER CHATTED [ 4269857480] MightyNathanfelloff  (  -89.0,     5.3,   237.3)
+  OI MATE
+2023-03-12T08:25:02Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  so jokes on him.
+2023-03-12T08:25:05Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.5,     1.1,   191.2)
+  and he did it again.
+2023-03-12T08:25:05Z: PLAYER CHATTED [ 1623074926] missingdogth         ( -165.3,     1.1,   107.5)
+  HELP
+2023-03-12T08:25:09Z: PLAYER REMOVED [ 1358828274] benji_3511           a.k.a. OSAMA               
+2023-03-12T08:25:09Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.9,     1.1,   189.8)
+  left to avoid punishments
+2023-03-12T08:25:14Z: PLAYER CHATTED [ 1227520525] GalaxyNinjaJ2        ( -114.9,     1.1,   186.5)
+  Kelsey I just read more rules
+2023-03-12T08:25:19Z: CHRCTER ADDED  [ 4269857480] MightyNathanfelloff  a.k.a. NathanDeTwak        
+2023-03-12T08:25:23Z: PLAYER CHATTED [ 1227520525] GalaxyNinjaJ2        ( -114.9,     1.1,   186.5)
+  look at section 2 
+2023-03-12T08:25:26Z: PLAYER CHATTED [ 1623074926] missingdogth         ( -164.1,     1.1,   107.4)
+  COME ON
+2023-03-12T08:25:28Z: PLAYER CHATTED [ 2295252761] Lollypop154f         ( -161.1,     1.1,   107.5)
+  mmmm nah
+2023-03-12T08:25:30Z: PLAYER CHATTED [ 1623074926] missingdogth         ( -164.1,     1.1,   107.4)
+  HELP
+2023-03-12T08:25:30Z: PLAYER CHATTED [ 1227520525] GalaxyNinjaJ2        ( -114.9,     1.1,   186.5)
+  at C
+2023-03-12T08:25:38Z: PLAYER CHATTED [ 1623074926] missingdogth         ( -164.1,     1.1,   107.4)
+  I NEED TO EAT
+2023-03-12T08:25:41Z: PLAYER CHATTED [ 1227520525] GalaxyNinjaJ2        ( -116.6,     1.0,   185.5)
+  and 3
+2023-03-12T08:25:45Z: PLAYER ADDED   [ 1558983087] brokendreams23456    a.k.a. travis_phelp        
+2023-03-12T08:25:46Z: PLAYER CHATTED [ 4269857480] MightyNathanfelloff  ( -163.3,    10.3,    58.7)
+  OI
+2023-03-12T08:25:49Z: PLAYER REMOVED [ 2295252761] Lollypop154f         a.k.a. Zodiac              
+2023-03-12T08:25:58Z: CHRCTER ADDED  [ 4269857480] MightyNathanfelloff  a.k.a. NathanDeTwak        
+2023-03-12T08:26:08Z: CHRCTER ADDED  [ 2333096172] nlenickyluna         a.k.a. Walter              
+2023-03-12T08:26:09Z: PLAYER CHATTED [  552319138] Lacrevette03         ( -156.6,     1.1,   105.7)
+  It's break sir
+2023-03-12T08:26:11Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.9,     1.1,   189.8)
+  man
+2023-03-12T08:26:13Z: CHRCTER ADDED  [ 4269857480] MightyNathanfelloff  a.k.a. NathanDeTwak        
+2023-03-12T08:26:15Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.9,     1.1,   189.8)
+  tonight was stressful.
+2023-03-12T08:26:15Z: PLAYER CHATTED [ 1623074926] missingdogth         ( -164.1,     1.1,   107.4)
+  Yes
+2023-03-12T08:26:18Z: PLAYER CHATTED [ 1227520525] GalaxyNinjaJ2        ( -115.0,     1.1,   186.1)
+  yea..
+2023-03-12T08:26:22Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.9,     1.1,   189.8)
+  ima go to stateview to work there bc im a  inspector there.
+2023-03-12T08:26:22Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.9,     1.1,   189.8)
+  ima go to stateview to work there bc im a inspector there.
+2023-03-12T08:26:25Z: PLAYER CHATTED [ 1120094637] Rollyflexier         ( -117.9,     1.1,   189.8)
+  wanna join?
+2023-03-12T08:26:27Z: PLAYER REMOVED [ 4269857480] MightyNathanfelloff  a.k.a. NathanDeTwak        
+2023-03-12T08:26:29Z: PLAYER CHATTED [ 1227520525] GalaxyNinjaJ2        ( -115.0,     1.1,   186.1)
+  I have work hard become mod :)
+2023-03-12T08:26:38Z: PLAYER CHATTED [ 1227520525] GalaxyNinjaJ2        ( -115.0,     1.1,   186.1)
+  sure
+2023-03-12T08:26:38Z: CHRCTER ADDED  [ 2333096172] nlenickyluna         a.k.a. Walter              
+2023-03-12T08:26:52Z: CHRCTER ADDED  [ 1558983087] brokendreams23456    a.k.a. travis_phelp        
+2023-03-12T08:26:52Z: PLAYER ADDED   [ 2696868628] JJRedihigh          
+2023-03-12T08:26:54Z: PLAYER REMOVED [ 1120094637] Rollyflexier         a.k.a. Natalie             
+2023-03-12T08:26:59Z: PLAYER REMOVED [ 1227520525] GalaxyNinjaJ2       
+2023-03-12T08:27:00Z: PLAYER CHATTED [ 1623074926] missingdogth         ( -133.3,     1.1,    59.9)
+  Can I get  out of handcuff
+2023-03-12T08:27:01Z: PLAYER CHATTED [ 1623074926] missingdogth         ( -133.3,     1.1,    59.9)
+  Can I get out of handcuff
+2023-03-12T08:27:11Z: PLAYER CHATTED [  552319138] Lacrevette03         ( -134.1,     1.1,    52.6)
+  no sir, sorry
+2023-03-12T08:27:11Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -129.7,     1.1,    54.4)
+  I don't know how to myself.
+2023-03-12T08:27:27Z: PLAYER ADDED   [ 2769626963] Trevor15001          a.k.a. army15001           
+2023-03-12T08:27:33Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-12T08:27:40Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-12T08:27:55Z: CHRCTER ADDED  [ 2769626963] Trevor15001          a.k.a. army15001           
+2023-03-12T08:28:05Z: PLAYER ADDED   [ 1081175316] Magic_Snow10         a.k.a. ESR_Magic           
+2023-03-12T08:28:16Z: PLAYER REMOVED [ 1081175316] Magic_Snow10         a.k.a. ESR_Magic           
+2023-03-12T08:28:17Z: PLAYER CHATTED [ 2333096172] nlenickyluna         ( -274.8,     1.1,   214.2)
+  yo
+2023-03-12T08:28:19Z: CHRCTER ADDED  [ 1558983087] brokendreams23456    a.k.a. travis_phelp        
+2023-03-12T08:28:23Z: PLAYER CHATTED [  552319138] Lacrevette03         ( -130.4,     1.1,   -90.2)
+  Where do you want go sir ?
+2023-03-12T08:28:28Z: PLAYER CHATTED [ 1623074926] missingdogth         ( -133.9,     1.1,   -97.5)
+  What do I do now
+2023-03-12T08:28:29Z: PLAYER ADDED   [ 1813416532] chelsea565446        a.k.a. PRIMERONALDOJRGOAT  
+2023-03-12T08:28:32Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

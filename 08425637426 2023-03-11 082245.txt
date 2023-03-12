@@ -1,0 +1,227 @@
+[    1630228] : [ 8425637426] Write a Letter 🎙️ VC - 86a25e98-cc36-43f1-ae4c-74a54d379b83
+2023-03-11T08:22:45Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-03-11T08:22:45Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-11T08:22:45Z: PLAYER ADDED   [ 1583014075] sascuach13721kitten  a.k.a. Cinnaroll           
+2023-03-11T08:22:45Z: PLAYER ADDED   [  879107065] gothicvampyre        a.k.a. angler              
+2023-03-11T08:22:45Z: PLAYER ADDED   [ 1291514207] GL0ZM0              
+2023-03-11T08:22:45Z: PLAYER ADDED   [ 2642407520] grac3_thefae         a.k.a. grace               
+2023-03-11T08:22:45Z: PLAYER ADDED   [ 1647022383] tatertots847         a.k.a. Gudetama            
+2023-03-11T08:22:45Z: PLAYER ADDED   [ 4269617300] Triversioum         
+2023-03-11T08:22:45Z: PLAYER ADDED   [  180546148] XxFriskyGamerxX      a.k.a. fern                
+2023-03-11T08:22:45Z: PLAYER ADDED   [  487684184] HeyitzAngela_21      a.k.a. radiohead           
+2023-03-11T08:22:45Z: PLAYER ADDED   [ 1448526943] nobleqween           a.k.a. MrRizzington        
+2023-03-11T08:22:45Z: PLAYER ADDED   [  633468910] L_isndy              a.k.a. Achilles            
+2023-03-11T08:22:45Z: PLAYER ADDED   [   34846663] SupermanF25          a.k.a. SupesSonoha         
+2023-03-11T08:22:45Z: PLAYER ADDED   [ 3554549969] Windy_farts56        a.k.a. VoiceActor_Intrainin
+2023-03-11T08:22:45Z: PLAYER ADDED   [ 1923200590] Tay_B13             
+2023-03-11T08:22:45Z: PLAYER ADDED   [   87898205] Caren210             a.k.a. Melon               
+2023-03-11T08:22:45Z: PLAYER ADDED   [  755423139] PixelPupper          a.k.a. pixel               
+2023-03-11T08:22:45Z: PLAYER ADDED   [ 1263467166] 2amtoken             a.k.a. lucas               
+2023-03-11T08:22:45Z: PLAYER ADDED   [ 2846633664] ChordRiver           a.k.a. Arrow               
+2023-03-11T08:22:45Z: PLAYER ADDED   [ 3902747749] 61495qa             
+2023-03-11T08:22:45Z: PLAYER ADDED   [ 1001655098] Lexi135890           a.k.a. IHATEJAMES          
+2023-03-11T08:22:59Z: PLAYER CHATTED [  487684184] HeyitzAngela_21      (  -70.6,     4.0,   110.0)
+  i will redacted myself
+2023-03-11T08:23:05Z: PLAYER CHATTED [ 1923200590] Tay_B13              (  -76.0,     4.0,   102.2)
+  dude💀 
+2023-03-11T08:23:06Z: PLAYER REMOVED [ 1263467166] 2amtoken             a.k.a. lucas               
+2023-03-11T08:23:07Z: CHRCTER ADDED  [ 1291514207] GL0ZM0              
+2023-03-11T08:23:27Z: PLAYER ADDED   [ 4086876963] ThePhsikes          
+2023-03-11T08:23:30Z: CHRCTER ADDED  [ 1291514207] GL0ZM0              
+2023-03-11T08:23:36Z: PLAYER CHATTED [  487684184] HeyitzAngela_21      (  -74.5,     4.1,    96.9)
+  ha
+2023-03-11T08:23:56Z: PLAYER CHATTED [   87898205] Caren210             ( -623.3,    22.5,  1023.3)
+  oh.
+2023-03-11T08:24:04Z: PLAYER REMOVED [ 1001655098] Lexi135890           a.k.a. IHATEJAMES          
+2023-03-11T08:24:05Z: PLAYER REMOVED [ 3902747749] 61495qa             
+2023-03-11T08:24:14Z: CHRCTER ADDED  [   87898205] Caren210             a.k.a. Melon               
+2023-03-11T08:24:32Z: PLAYER ADDED   [ 4365681438] TinTin10203232       a.k.a. TinTin              
+2023-03-11T08:24:33Z: PLAYER REMOVED [ 2642407520] grac3_thefae         a.k.a. grace               
+2023-03-11T08:24:46Z: PLAYER REMOVED [ 4086876963] ThePhsikes          
+2023-03-11T08:24:48Z: PLAYER REMOVED [ 1583014075] sascuach13721kitten  a.k.a. Cinnaroll           
+2023-03-11T08:25:16Z: PLAYER ADDED   [ 2725931917] StaringProblemSorryy a.k.a. pathetic            
+2023-03-11T08:25:27Z: PLAYER CHATTED [ 1923200590] Tay_B13              (  -67.4,     4.0,   108.1)
+  nice👍
+2023-03-11T08:25:40Z: PLAYER ADDED   [ 1209503002] SammyRC1234          a.k.a. Sammy               
+2023-03-11T08:25:47Z: PLAYER REMOVED [ 1647022383] tatertots847         a.k.a. Gudetama            
+2023-03-11T08:26:23Z: PLAYER CHATTED [ 1923200590] Tay_B13              (  -78.0,    15.7,   147.5)
+  I must be in the wrong house sorry y'all
+2023-03-11T08:26:49Z: PLAYER ADDED   [ 1263467166] 2amtoken             a.k.a. lucas               
+2023-03-11T08:27:03Z: PLAYER REMOVED [ 4269617300] Triversioum         
+2023-03-11T08:27:13Z: PLAYER ADDED   [ 3807751642] loip8000k            a.k.a. Carlthenpc          
+2023-03-11T08:27:17Z: PLAYER REMOVED [ 1923200590] Tay_B13             
+2023-03-11T08:29:35Z: PLAYER ADDED   [  500985702] kitaggg             
+2023-03-11T08:29:43Z: PLAYER REMOVED [ 1263467166] 2amtoken             a.k.a. lucas               
+2023-03-11T08:29:45Z: PLAYER ADDED   [ 1263467166] 2amtoken             a.k.a. lucas               
+2023-03-11T08:30:12Z: PLAYER REMOVED [ 1263467166] 2amtoken             a.k.a. lucas               
+2023-03-11T08:31:00Z: PLAYER ADDED   [  880899161] amexell              a.k.a. kvas                
+2023-03-11T08:31:08Z: PLAYER REMOVED [  880899161] amexell              a.k.a. kvas                
+2023-03-11T08:31:28Z: CHRCTER ADDED  [  633468910] L_isndy              a.k.a. Achilles            
+2023-03-11T08:31:29Z: PLAYER CHATTED [ 3807751642] loip8000k            ( -556.9,    21.6,   228.9)
+  I know the winter location 
+2023-03-11T08:31:35Z: CHRCTER ADDED  [  879107065] gothicvampyre        a.k.a. angler              
+2023-03-11T08:33:11Z: PLAYER CHATTED [ 4365681438] TinTin10203232       ( -617.0,    20.5,  1477.9)
+  aaa
+2023-03-11T08:33:26Z: PLAYER REMOVED [  500985702] kitaggg             
+2023-03-11T08:34:07Z: PLAYER ADDED   [  364327828] HazelTheRainbowBagel a.k.a. Phoenix             
+2023-03-11T08:34:19Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-11T08:34:43Z: PLAYER ADDED   [ 4088751024] icyblox927           a.k.a. Error               
+2023-03-11T08:34:44Z: PLAYER CHATTED [   87898205] Caren210             (  -83.0,     5.0,   130.3)
+  i can stay with you
+2023-03-11T08:34:53Z: PLAYER ADDED   [ 1263467166] 2amtoken             a.k.a. lucas               
+2023-03-11T08:35:30Z: PLAYER CHATTED [ 4088751024] icyblox927           ( -634.5,    10.0,  1763.1)
+  eggs?
+2023-03-11T08:35:42Z: PLAYER ADDED   [  839472987] Jacomanz             a.k.a. Lancer              
+2023-03-11T08:35:43Z: PLAYER CHATTED [ 4088751024] icyblox927           ( -629.3,    10.0,  1774.7)
+  oh yeah:(
+2023-03-11T08:36:14Z: PLAYER REMOVED [ 3807751642] loip8000k            a.k.a. Carlthenpc          
+2023-03-11T08:36:22Z: PLAYER REMOVED [ 1263467166] 2amtoken             a.k.a. lucas               
+2023-03-11T08:36:51Z: PLAYER ADDED   [ 1006247688] gglolkekchebureck    a.k.a. Sunset              
+2023-03-11T08:37:14Z: PLAYER REMOVED [  879107065] gothicvampyre        a.k.a. angler              
+2023-03-11T08:37:18Z: PLAYER ADDED   [ 1104678609] Roan582             
+2023-03-11T08:37:20Z: PLAYER REMOVED [  633468910] L_isndy              a.k.a. Achilles            
+2023-03-11T08:37:22Z: PLAYER CHATTED [ 4365681438] TinTin10203232       (  -82.1,     4.0,   103.2)
+  that wall  taste good?
+2023-03-11T08:37:22Z: PLAYER CHATTED [ 4365681438] TinTin10203232       (  -82.1,     4.0,   103.2)
+  that wall taste good?
+2023-03-11T08:37:48Z: PLAYER CHATTED [ 4088751024] icyblox927           ( -641.7,    21.0,  1106.0)
+  NO
+2023-03-11T08:38:02Z: PLAYER CHATTED [ 4088751024] icyblox927           ( -631.3,    21.8,   937.0)
+  eggs is a kind person 
+2023-03-11T08:38:08Z: PLAYER CHATTED [  180546148] XxFriskyGamerxX      (  -72.2,     4.0,   127.5)
+  ooh hi
+2023-03-11T08:38:23Z: PLAYER ADDED   [ 2563969129] nochiink            
+2023-03-11T08:38:23Z: PLAYER ADDED   [ 1827680601] Rghgfredb            a.k.a. Cutekitten          
+2023-03-11T08:38:31Z: CHRCTER ADDED  [ 1291514207] GL0ZM0              
+2023-03-11T08:38:40Z: PLAYER REMOVED [ 1827680601] Rghgfredb            a.k.a. Cutekitten          
+2023-03-11T08:38:57Z: PLAYER REMOVED [ 1104678609] Roan582             
+2023-03-11T08:39:03Z: PLAYER REMOVED [ 1006247688] gglolkekchebureck    a.k.a. Sunset              
+2023-03-11T08:39:19Z: PLAYER ADDED   [ 3594731286] idkwhattodo1285      a.k.a. Baller              
+2023-03-11T08:39:21Z: PLAYER CHATTED [ 4088751024] icyblox927           (  -65.4,    15.3,   122.0)
+  sad moment 
+2023-03-11T08:39:23Z: PLAYER ADDED   [ 2911156822] Oxxy_xxyyy           a.k.a. RedCashier          
+2023-03-11T08:39:33Z: PLAYER CHATTED [ 4088751024] icyblox927           (  -65.4,    15.3,   122.0)
+  eggs.
+2023-03-11T08:39:37Z: PLAYER REMOVED [  755423139] PixelPupper          a.k.a. pixel               
+2023-03-11T08:39:38Z: PLAYER ADDED   [ 2586825628] 34cdfv               a.k.a. Tho                 
+2023-03-11T08:39:44Z: PLAYER CHATTED [ 4088751024] icyblox927           (  -65.4,    15.3,   122.0)
+  kind man 
+2023-03-11T08:39:53Z: PLAYER REMOVED [ 2911156822] Oxxy_xxyyy           a.k.a. RedCashier          
+2023-03-11T08:40:02Z: PLAYER ADDED   [ 4306971987] TRayne1025          
+2023-03-11T08:40:25Z: PLAYER REMOVED [ 3594731286] idkwhattodo1285      a.k.a. Baller              
+2023-03-11T08:40:40Z: PLAYER REMOVED [ 4365681438] TinTin10203232       a.k.a. TinTin              
+2023-03-11T08:40:46Z: PLAYER CHATTED [ 4088751024] icyblox927           ( -161.2,     3.0,   319.1)
+  the voices 
+2023-03-11T08:40:46Z: PLAYER ADDED   [ 1706392517] WHITEH4NKK           a.k.a. Victoria            
+2023-03-11T08:40:49Z: PLAYER CHATTED [ 4088751024] icyblox927           ( -161.2,     3.0,   319.1)
+  the voices 
+2023-03-11T08:40:53Z: PLAYER CHATTED [ 4088751024] icyblox927           ( -161.2,     3.0,   319.1)
+  the voices the voices the voices the voices the voices the voices the voices the voices the voices the voices 
+2023-03-11T08:40:55Z: PLAYER ADDED   [ 1827680601] Rghgfredb            a.k.a. Cutekitten          
+2023-03-11T08:41:06Z: PLAYER CHATTED [ 4088751024] icyblox927           ( -161.2,     3.0,   319.1)
+  keep getting louder and louder 
+2023-03-11T08:41:07Z: PLAYER ADDED   [ 2509070941] lotofo23             a.k.a. Jojoandlolo         
+2023-03-11T08:41:08Z: PLAYER REMOVED [ 1706392517] WHITEH4NKK           a.k.a. Victoria            
+2023-03-11T08:41:11Z: PLAYER REMOVED [ 1827680601] Rghgfredb            a.k.a. Cutekitten          
+2023-03-11T08:41:15Z: PLAYER CHATTED [  180546148] XxFriskyGamerxX      (  -72.2,     4.0,   127.5)
+  sorry what
+2023-03-11T08:41:22Z: PLAYER ADDED   [ 1242097324] marshmellow_0907    
+2023-03-11T08:41:25Z: PLAYER CHATTED [ 4088751024] icyblox927           ( -161.2,     3.0,   319.1)
+  STOP. THE VOICES 
+2023-03-11T08:41:27Z: PLAYER CHATTED [  180546148] XxFriskyGamerxX      (  -72.2,     4.0,   127.5)
+  join us in wha
+2023-03-11T08:41:28Z: PLAYER CHATTED [ 1291514207] GL0ZM0               ( -545.8,    11.9,  1696.7)
+  яблоко
+2023-03-11T08:41:30Z: PLAYER CHATTED [ 1291514207] GL0ZM0               ( -545.8,    11.9,  1696.7)
+  яблоко
+2023-03-11T08:41:32Z: PLAYER CHATTED [ 1291514207] GL0ZM0               ( -545.8,    11.9,  1696.7)
+  яблоко
+2023-03-11T08:41:35Z: PLAYER CHATTED [ 1291514207] GL0ZM0               ( -545.8,    11.9,  1696.7)
+  яблоко
+2023-03-11T08:41:35Z: PLAYER CHATTED [  180546148] XxFriskyGamerxX      (  -72.2,     4.0,   127.5)
+  ookay
+2023-03-11T08:41:37Z: PLAYER CHATTED [ 1291514207] GL0ZM0               ( -545.8,    11.9,  1696.7)
+  яблоко
+2023-03-11T08:41:41Z: PLAYER CHATTED [ 1291514207] GL0ZM0               ( -541.8,    11.9,  1693.4)
+  яблоко
+2023-03-11T08:41:41Z: PLAYER REMOVED [ 2586825628] 34cdfv               a.k.a. Tho                 
+2023-03-11T08:41:42Z: PLAYER CHATTED [ 1291514207] GL0ZM0               ( -541.8,    11.9,  1693.4)
+  яблоко
+2023-03-11T08:41:44Z: PLAYER CHATTED [ 1291514207] GL0ZM0               ( -541.8,    11.9,  1693.4)
+  яблоко
+2023-03-11T08:41:44Z: PLAYER CHATTED [  180546148] XxFriskyGamerxX      (  -72.2,     4.0,   127.5)
+  /w Caren210  
+2023-03-11T08:41:45Z: PLAYER CHATTED [ 1291514207] GL0ZM0               ( -541.8,    11.9,  1693.4)
+  яблоко
+2023-03-11T08:41:47Z: PLAYER CHATTED [ 1291514207] GL0ZM0               ( -541.8,    11.9,  1693.4)
+  яблоко
+2023-03-11T08:41:49Z: PLAYER CHATTED [ 1291514207] GL0ZM0               ( -541.8,    11.9,  1693.4)
+  яблоко
+2023-03-11T08:41:50Z: PLAYER CHATTED [ 1291514207] GL0ZM0               ( -541.8,    11.9,  1693.4)
+  яблоко
+2023-03-11T08:41:51Z: PLAYER CHATTED [ 1291514207] GL0ZM0               ( -541.8,    11.9,  1693.4)
+  яблоко
+2023-03-11T08:41:54Z: PLAYER CHATTED [ 4088751024] icyblox927           (  -64.1,     4.0,   135.3)
+  eggs
+2023-03-11T08:42:01Z: PLAYER REMOVED [ 2509070941] lotofo23             a.k.a. Jojoandlolo         
+2023-03-11T08:42:01Z: PLAYER CHATTED [  180546148] XxFriskyGamerxX      (  -60.6,     4.0,   129.7)
+  jjust mbe wary im having another crisis :sob:
+2023-03-11T08:42:02Z: PLAYER CHATTED [ 1291514207] GL0ZM0               ( -541.8,    11.9,  1693.4)
+  яблоко
+2023-03-11T08:42:15Z: PLAYER ADDED   [ 1263467166] 2amtoken             a.k.a. lucas               
+2023-03-11T08:42:17Z: PLAYER CHATTED [ 3554549969] Windy_farts56        ( -532.8,    11.9,  1699.5)
+  I will eat your friend eggs along with his entire bloodline.
+2023-03-11T08:42:26Z: PLAYER REMOVED [ 1263467166] 2amtoken             a.k.a. lucas               
+2023-03-11T08:42:37Z: PLAYER CHATTED [ 4088751024] icyblox927           (  -72.2,     4.0,   127.5)
+  goodluck 
+2023-03-11T08:42:46Z: PLAYER CHATTED [ 4088751024] icyblox927           (  -72.2,     4.0,   127.5)
+  :̝̹̓͡)̢̩̗̥̓͐
+2023-03-11T08:42:46Z: PLAYER CHATTED [ 3554549969] Windy_farts56        ( -532.8,    11.9,  1699.5)
+  Thank you
+2023-03-11T08:42:52Z: PLAYER CHATTED [ 4088751024] icyblox927           (  -72.2,     4.0,   127.5)
+  that's all
+2023-03-11T08:43:03Z: PLAYER CHATTED [ 1291514207] GL0ZM0               ( -541.8,    11.9,  1693.4)
+  яблоки хороши
+2023-03-11T08:43:06Z: PLAYER CHATTED [ 4088751024] icyblox927           (  -72.2,     4.0,   127.5)
+  he's a very kind man
+2023-03-11T08:43:10Z: PLAYER CHATTED [ 3554549969] Windy_farts56        ( -532.8,    11.9,  1699.5)
+  I hope you break all of your limbs with your ribs being crushed under a bus
+2023-03-11T08:43:36Z: PLAYER CHATTED [  180546148] XxFriskyGamerxX      (  -72.5,     4.6,   123.3)
+  wuh
+2023-03-11T08:43:40Z: PLAYER ADDED   [ 4172706815] rainbowdash12123145 
+2023-03-11T08:43:41Z: PLAYER CHATTED [  180546148] XxFriskyGamerxX      (  -72.5,     4.6,   123.3)
+  what sthat
+2023-03-11T08:43:47Z: PLAYER ADDED   [ 3354222068] moonlilie64          a.k.a. Lily                
+2023-03-11T08:43:49Z: PLAYER CHATTED [   87898205] Caren210             (  -81.1,     3.9,   122.8)
+  you can leave first.
+2023-03-11T08:43:58Z: PLAYER REMOVED [ 2725931917] StaringProblemSorryy a.k.a. pathetic            
+2023-03-11T08:43:58Z: PLAYER CHATTED [  180546148] XxFriskyGamerxX      (  -72.5,     4.6,   123.3)
+  oksay
+2023-03-11T08:44:04Z: PLAYER CHATTED [ 2846633664] ChordRiver           ( -591.0,    19.3,   239.6)
+  ok
+2023-03-11T08:44:07Z: PLAYER REMOVED [  180546148] XxFriskyGamerxX      a.k.a. fern                
+2023-03-11T08:44:11Z: PLAYER REMOVED [   87898205] Caren210             a.k.a. Melon               
+2023-03-11T08:44:15Z: PLAYER REMOVED [ 1209503002] SammyRC1234          a.k.a. Sammy               
+2023-03-11T08:44:49Z: PLAYER REMOVED [ 2563969129] nochiink            
+2023-03-11T08:45:06Z: PLAYER CHATTED [ 4088751024] icyblox927           (  -72.2,     4.0,   127.5)
+  roblox annoying 
+2023-03-11T08:45:23Z: PLAYER REMOVED [  487684184] HeyitzAngela_21      a.k.a. radiohead           
+2023-03-11T08:45:44Z: PLAYER REMOVED [ 4088751024] icyblox927           a.k.a. Error               
+2023-03-11T08:45:48Z: PLAYER REMOVED [ 4172706815] rainbowdash12123145 
+2023-03-11T08:46:26Z: PLAYER ADDED   [ 3694131942] fivenightsatchilles  a.k.a. snow                
+2023-03-11T08:46:41Z: PLAYER REMOVED [ 4306971987] TRayne1025          
+2023-03-11T08:46:56Z: PLAYER REMOVED [ 3354222068] moonlilie64          a.k.a. Lily                
+2023-03-11T08:47:00Z: PLAYER CHATTED [ 1242097324] marshmellow_0907     (  -57.2,     4.0,   137.7)
+  Here take this
+2023-03-11T08:47:02Z: PLAYER CHATTED [ 1291514207] GL0ZM0               ( -539.6,    11.9,  1693.5)
+  Dying is always the answer
+2023-03-11T08:47:12Z: CHRCTER ADDED  [  839472987] Jacomanz             a.k.a. Lancer              
+2023-03-11T08:47:22Z: PLAYER CHATTED [ 1242097324] marshmellow_0907     (  -63.0,     4.0,   138.7)
+  Lol
+2023-03-11T08:47:53Z: PLAYER CHATTED [ 1242097324] marshmellow_0907     (  -63.7,    15.3,   134.7)
+  Take this
+2023-03-11T08:48:17Z: PLAYER ADDED   [  880899161] amexell              a.k.a. kvas                
+2023-03-11T08:48:25Z: PLAYER REMOVED [  880899161] amexell              a.k.a. kvas                
+2023-03-11T08:49:05Z: CHRCTER ADDED  [  839472987] Jacomanz             a.k.a. Lancer              
+2023-03-11T08:49:12Z: PLAYER REMOVED [ 3694131942] fivenightsatchilles  a.k.a. snow                
+2023-03-11T08:49:14Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
