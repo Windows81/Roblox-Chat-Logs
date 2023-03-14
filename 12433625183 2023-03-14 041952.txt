@@ -1,0 +1,402 @@
+[    1630228] : [12433625183] Doodle Transform! - 97e11abe-873b-4cb9-81f0-492c2d93a253
+2023-03-14T04:19:52Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-03-14T04:19:52Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-14T04:19:52Z: PLAYER ADDED   [  941578946] ChickenisMyLife76   
+2023-03-14T04:19:52Z: PLAYER ADDED   [   30419471] dorran              
+2023-03-14T04:19:52Z: PLAYER ADDED   [ 3839784332] Winter_Fall432       a.k.a. Uhmmm               
+2023-03-14T04:19:52Z: PLAYER ADDED   [  462806887] Puppy_Pickles        a.k.a. AdamSandlersBigToe  
+2023-03-14T04:19:52Z: PLAYER ADDED   [    2236329] JDMPLUSHTOY         
+2023-03-14T04:19:52Z: PLAYER ADDED   [ 3563946416] Thialex391          
+2023-03-14T04:19:52Z: PLAYER ADDED   [ 4348983305] fray21234345        
+2023-03-14T04:19:52Z: PLAYER ADDED   [ 1942391087] Sanchezzz22          a.k.a. elGanbaru           
+2023-03-14T04:19:52Z: PLAYER ADDED   [  130225748] Marcceelin          
+2023-03-14T04:19:52Z: PLAYER ADDED   [  108529493] 1_MK2                a.k.a. AdrianMD            
+2023-03-14T04:19:52Z: PLAYER ADDED   [ 2314787743] antonio_honker       a.k.a. ciel                
+2023-03-14T04:19:52Z: PLAYER ADDED   [ 1381206581] SilasEPIC            a.k.a. StylusMosquito      
+2023-03-14T04:19:52Z: PLAYER ADDED   [ 1191100624] giselllequee         a.k.a. ItsGiselleee        
+2023-03-14T04:19:52Z: PLAYER ADDED   [  773809837] NikoJames01          a.k.a. yfgjf               
+2023-03-14T04:20:14Z: PLAYER ADDED   [  407989775] Q1Con                a.k.a. Kipa                
+2023-03-14T04:20:31Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -15.7,     3.5,    22.4)
+  Nice 09er.
+2023-03-14T04:20:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -16.5,     3.5,    22.3)
+  I'm an 08er.
+2023-03-14T04:21:01Z: PLAYER CHATTED [  130225748] Marcceelin           (  -32.0,     3.0,     3.2)
+  ganba nya
+2023-03-14T04:21:08Z: PLAYER CHATTED [  130225748] Marcceelin           (  -29.6,     3.0,     0.8)
+  es su colita
+2023-03-14T04:21:17Z: PLAYER REMOVED [  773809837] NikoJames01          a.k.a. yfgjf               
+2023-03-14T04:21:17Z: PLAYER CHATTED [  130225748] Marcceelin           (  -28.0,     3.0,     1.3)
+  me salio mejor que el tuyo
+2023-03-14T04:21:25Z: PLAYER CHATTED [  130225748] Marcceelin           (  -28.0,     3.0,     1.3)
+  el ganba shyyy
+2023-03-14T04:21:26Z: PLAYER CHATTED [  108529493] 1_MK2                (  -46.8,     3.0,   -16.8)
+  it was the i hate sign for me
+2023-03-14T04:21:31Z: PLAYER CHATTED [  130225748] Marcceelin           (  -28.0,     3.0,     1.3)
+  tomenle screen
+2023-03-14T04:21:39Z: PLAYER CHATTED [  130225748] Marcceelin           (  -29.2,     3.0,     0.1)
+  a ver hay que tomarnos foto
+2023-03-14T04:21:41Z: PLAYER REMOVED [  462806887] Puppy_Pickles        a.k.a. AdamSandlersBigToe  
+2023-03-14T04:21:56Z: PLAYER CHATTED [  130225748] Marcceelin           (  -16.1,     3.0,   -44.1)
+  vengan
+2023-03-14T04:22:10Z: PLAYER REMOVED [   30419471] dorran              
+2023-03-14T04:22:28Z: PLAYER ADDED   [   30419471] dorran              
+2023-03-14T04:22:36Z: PLAYER REMOVED [   30419471] dorran              
+2023-03-14T04:23:23Z: PLAYER ADDED   [   30419471] dorran              
+2023-03-14T04:23:30Z: PLAYER REMOVED [   30419471] dorran              
+2023-03-14T04:23:33Z: PLAYER REMOVED [    2236329] JDMPLUSHTOY         
+2023-03-14T04:23:47Z: PLAYER CHATTED [ 1381206581] SilasEPIC            (   -0.0,     3.0,   -55.2)
+  I smell some suspicious up in here
+2023-03-14T04:23:54Z: PLAYER CHATTED [  130225748] Marcceelin           (  -13.1,     4.0,   -19.7)
+  te quedo muy lindo thialex
+2023-03-14T04:24:29Z: PLAYER CHATTED [ 3563946416] Thialex391           (  -11.1,     4.1,   -12.5)
+  chale a ########### de ustedes el mio me quedo bien ######
+2023-03-14T04:24:40Z: PLAYER CHATTED [  130225748] Marcceelin           (  -13.7,     4.0,    -7.5)
+  quedo muy bien
+2023-03-14T04:25:00Z: PLAYER ADDED   [   30419471] dorran              
+2023-03-14T04:25:02Z: PLAYER ADDED   [ 3930379452] M0CHII_ST4RS         a.k.a. 23kstarzz           
+2023-03-14T04:25:05Z: PLAYER REMOVED [   30419471] dorran              
+2023-03-14T04:25:08Z: PLAYER ADDED   [   30419471] dorran              
+2023-03-14T04:25:11Z: PLAYER REMOVED [  941578946] ChickenisMyLife76   
+2023-03-14T04:25:16Z: PLAYER ADDED   [ 3001995871] Dawsgamer12          a.k.a. ForgotMyUsername    
+2023-03-14T04:25:32Z: PLAYER ADDED   [  941578946] ChickenisMyLife76   
+2023-03-14T04:25:48Z: PLAYER REMOVED [  407989775] Q1Con                a.k.a. Kipa                
+2023-03-14T04:26:07Z: PLAYER REMOVED [  108529493] 1_MK2                a.k.a. AdrianMD            
+2023-03-14T04:26:16Z: PLAYER REMOVED [ 3930379452] M0CHII_ST4RS         a.k.a. 23kstarzz           
+2023-03-14T04:27:29Z: PLAYER REMOVED [  130225748] Marcceelin          
+2023-03-14T04:27:31Z: PLAYER ADDED   [ 3867004522] D3misetheOg          a.k.a. Demi                
+2023-03-14T04:27:37Z: PLAYER ADDED   [ 1618448201] XxSinaiprettybosssxX a.k.a. Uhh                 
+2023-03-14T04:27:56Z: PLAYER ADDED   [ 1319679674] Sonicmorales2305     a.k.a. Axolotl             
+2023-03-14T04:28:03Z: PLAYER ADDED   [ 4423567355] awfeasgtestgswetg   
+2023-03-14T04:28:13Z: PLAYER REMOVED [ 4423567355] awfeasgtestgswetg   
+2023-03-14T04:28:29Z: PLAYER ADDED   [  153933407] C4L0N                a.k.a. fishsticks          
+2023-03-14T04:28:57Z: PLAYER CHATTED [ 3563946416] Thialex391           (   98.7,     4.1,   -11.5)
+  ni ## #### de ######### le gana a la historia de los sus
+2023-03-14T04:29:07Z: PLAYER CHATTED [ 3563946416] Thialex391           (   98.7,     4.1,   -11.5)
+  ## rosa de guada
+2023-03-14T04:29:09Z: PLAYER CHATTED [ 3563946416] Thialex391           (   98.7,     4.1,   -11.5)
+  la
+2023-03-14T04:29:16Z: PLAYER REMOVED [ 3001995871] Dawsgamer12          a.k.a. ForgotMyUsername    
+2023-03-14T04:29:29Z: PLAYER CHATTED [ 3563946416] Thialex391           (  119.7,     4.1,   -15.5)
+  ala
+2023-03-14T04:29:47Z: PLAYER ADDED   [ 1264966586] galofstars           a.k.a. Iya                 
+2023-03-14T04:30:14Z: PLAYER CHATTED [ 4348983305] fray21234345         (    9.3,     3.0,   -40.7)
+  valio vencha banda
+2023-03-14T04:30:25Z: PLAYER REMOVED [ 2314787743] antonio_honker       a.k.a. ciel                
+2023-03-14T04:30:27Z: PLAYER REMOVED [ 1381206581] SilasEPIC            a.k.a. StylusMosquito      
+2023-03-14T04:30:27Z: PLAYER ADDED   [ 3603519342] ily_luvsu            a.k.a. llyn                
+2023-03-14T04:30:32Z: PLAYER ADDED   [ 3798647549] Fatboy42414         
+2023-03-14T04:30:41Z: PLAYER ADDED   [ 1083935506] qtygyt               a.k.a. LulLordt            
+2023-03-14T04:30:45Z: PLAYER CHATTED [ 3603519342] ily_luvsu            (    2.2,     3.0,    50.6)
+  Oh nah…
+2023-03-14T04:31:15Z: PLAYER CHATTED [ 3603519342] ily_luvsu            (    3.4,     4.0,     3.6)
+  ##### ##
+2023-03-14T04:31:19Z: PLAYER CHATTED [ 3603519342] ily_luvsu            (    3.4,     4.0,     3.6)
+  Check 
+2023-03-14T04:31:21Z: PLAYER CHATTED [ 3603519342] ily_luvsu            (    3.4,     4.0,     3.6)
+  D
+2023-03-14T04:31:22Z: PLAYER CHATTED [ 3603519342] ily_luvsu            (    3.4,     4.0,     3.6)
+  #
+2023-03-14T04:31:23Z: PLAYER CHATTED [ 1083935506] qtygyt               (   -0.7,     4.0,     2.0)
+  Woah
+2023-03-14T04:31:26Z: PLAYER CHATTED [ 3603519342] ily_luvsu            (    3.4,     4.0,     3.6)
+  Cccc
+2023-03-14T04:31:31Z: PLAYER REMOVED [ 1319679674] Sonicmorales2305     a.k.a. Axolotl             
+2023-03-14T04:31:33Z: PLAYER CHATTED [ 1083935506] qtygyt               (   -0.9,     4.0,     3.2)
+  Omg
+2023-03-14T04:31:42Z: PLAYER CHATTED [ 3603519342] ily_luvsu            (   11.2,     4.0,    -5.3)
+  Calling u
+2023-03-14T04:31:49Z: PLAYER CHATTED [ 1083935506] qtygyt               (   31.4,     3.0,   -11.6)
+  Ok
+2023-03-14T04:33:14Z: PLAYER REMOVED [ 1191100624] giselllequee         a.k.a. ItsGiselleee        
+2023-03-14T04:33:16Z: PLAYER REMOVED [ 4348983305] fray21234345        
+2023-03-14T04:33:18Z: PLAYER ADDED   [ 1183766311] Abby12759            a.k.a. Butters             
+2023-03-14T04:33:19Z: PLAYER ADDED   [ 2355782120] Nico_7021           
+2023-03-14T04:33:22Z: PLAYER REMOVED [ 1942391087] Sanchezzz22          a.k.a. elGanbaru           
+2023-03-14T04:33:42Z: PLAYER ADDED   [ 4244959320] GreenBeaarAALT      
+2023-03-14T04:33:56Z: PLAYER REMOVED [ 1183766311] Abby12759            a.k.a. Butters             
+2023-03-14T04:34:01Z: PLAYER ADDED   [  486531421] zzhombies            a.k.a. dokja               
+2023-03-14T04:34:21Z: PLAYER CHATTED [ 1618448201] XxSinaiprettybosssxX (   -5.6,     3.0,    21.1)
+  DAYUMM
+2023-03-14T04:34:33Z: PLAYER REMOVED [ 3563946416] Thialex391          
+2023-03-14T04:34:39Z: PLAYER ADDED   [ 3199717092] PrettyAri1027       
+2023-03-14T04:34:45Z: PLAYER REMOVED [ 1618448201] XxSinaiprettybosssxX a.k.a. Uhh                 
+2023-03-14T04:34:49Z: PLAYER ADDED   [  845067025] laurenjones133       a.k.a. Cookie780           
+2023-03-14T04:34:52Z: PLAYER CHATTED [ 1264966586] galofstars           (   80.4,     3.2,   -39.1)
+  /e dance
+2023-03-14T04:35:02Z: PLAYER REMOVED [ 3199717092] PrettyAri1027       
+2023-03-14T04:35:05Z: PLAYER ADDED   [  785329455] xhloe7               a.k.a. Miku                
+2023-03-14T04:35:08Z: PLAYER CHATTED [ 1264966586] galofstars           (   80.4,     3.2,   -39.1)
+  /e cheer
+2023-03-14T04:35:16Z: PLAYER CHATTED [ 2355782120] Nico_7021            (   -6.0,     4.2,     5.7)
+  Yooo!!
+2023-03-14T04:35:47Z: PLAYER REMOVED [ 2355782120] Nico_7021           
+2023-03-14T04:36:02Z: PLAYER ADDED   [  550504905] cosmoem2008          a.k.a. Sasha               
+2023-03-14T04:36:26Z: PLAYER CHATTED [  550504905] cosmoem2008          (   -5.9,     4.0,     3.2)
+  nice
+2023-03-14T04:37:14Z: PLAYER CHATTED [ 1264966586] galofstars           (   74.9,     4.3,    48.1)
+  Overthrow the government.
+2023-03-14T04:37:18Z: PLAYER REMOVED [  486531421] zzhombies            a.k.a. dokja               
+2023-03-14T04:37:23Z: PLAYER ADDED   [ 2500898801] OkyasuNijimurah     
+2023-03-14T04:37:25Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-14T04:38:17Z: PLAYER REMOVED [ 4244959320] GreenBeaarAALT      
+2023-03-14T04:38:19Z: PLAYER CHATTED [ 3603519342] ily_luvsu            (   38.5,     3.0,    64.1)
+  My mic is being dumb
+2023-03-14T04:38:28Z: PLAYER ADDED   [ 1742097968] Chxn_lee             a.k.a. Nani                
+2023-03-14T04:38:35Z: PLAYER REMOVED [  845067025] laurenjones133       a.k.a. Cookie780           
+2023-03-14T04:38:36Z: PLAYER ADDED   [ 4399988448] Olledoz             
+2023-03-14T04:38:49Z: PLAYER REMOVED [ 1742097968] Chxn_lee             a.k.a. Nani                
+2023-03-14T04:38:58Z: PLAYER ADDED   [ 2036869647] bellpizza12         
+2023-03-14T04:39:01Z: CHRCTER ADDED  [ 2036869647] bellpizza12         
+2023-03-14T04:39:02Z: PLAYER REMOVED [ 1264966586] galofstars           a.k.a. Iya                 
+2023-03-14T04:39:04Z: PLAYER ADDED   [ 1263936269] DeltaPeanoots       
+2023-03-14T04:39:20Z: PLAYER ADDED   [  974668850] Limphus             
+2023-03-14T04:39:36Z: PLAYER REMOVED [  153933407] C4L0N                a.k.a. fishsticks          
+2023-03-14T04:39:49Z: PLAYER CHATTED [ 1263936269] DeltaPeanoots        (   -0.0,     4.2,    13.8)
+  nice
+2023-03-14T04:39:58Z: PLAYER REMOVED [  974668850] Limphus             
+2023-03-14T04:40:08Z: PLAYER ADDED   [ 2347084690] D0NYELLE             a.k.a. autumn              
+2023-03-14T04:40:16Z: PLAYER REMOVED [ 2500898801] OkyasuNijimurah     
+2023-03-14T04:40:20Z: PLAYER ADDED   [ 3615200822] AresWarG0d          
+2023-03-14T04:40:25Z: PLAYER REMOVED [ 4399988448] Olledoz             
+2023-03-14T04:40:30Z: PLAYER ADDED   [  591677858] toylookathewall      a.k.a. girlu               
+2023-03-14T04:40:42Z: PLAYER ADDED   [  338408251] Sinbudd              a.k.a. ratatuwie           
+2023-03-14T04:41:28Z: PLAYER REMOVED [ 3867004522] D3misetheOg          a.k.a. Demi                
+2023-03-14T04:41:31Z: PLAYER REMOVED [ 2347084690] D0NYELLE             a.k.a. autumn              
+2023-03-14T04:42:00Z: PLAYER ADDED   [ 4035916058] CookieGael146       
+2023-03-14T04:42:06Z: PLAYER REMOVED [ 2036869647] bellpizza12         
+2023-03-14T04:42:08Z: PLAYER ADDED   [ 1597140518] Tvauv               
+2023-03-14T04:42:11Z: PLAYER REMOVED [ 1263936269] DeltaPeanoots       
+2023-03-14T04:42:19Z: PLAYER ADDED   [ 4081972460] Favorite_Felidae    
+2023-03-14T04:43:19Z: PLAYER REMOVED [ 1083935506] qtygyt               a.k.a. LulLordt            
+2023-03-14T04:43:49Z: PLAYER ADDED   [ 2560246578] gueen_ofthesun       a.k.a. Light               
+2023-03-14T04:44:32Z: PLAYER REMOVED [ 3603519342] ily_luvsu            a.k.a. llyn                
+2023-03-14T04:45:57Z: PLAYER ADDED   [   70632827] applelorf           
+2023-03-14T04:46:21Z: PLAYER REMOVED [ 1597140518] Tvauv               
+2023-03-14T04:46:25Z: PLAYER ADDED   [ 4286702770] NIKE_COKE1029       
+2023-03-14T04:46:29Z: PLAYER CHATTED [   70632827] applelorf            (   -5.7,     4.2,     6.2)
+  homarh 
+2023-03-14T04:46:42Z: PLAYER CHATTED [  550504905] cosmoem2008          (   -7.5,     4.0,     2.8)
+  oh 
+2023-03-14T04:47:04Z: PLAYER REMOVED [ 4081972460] Favorite_Felidae    
+2023-03-14T04:47:32Z: PLAYER ADDED   [ 2287747151] kemmkemm122          a.k.a. Kemm                
+2023-03-14T04:47:40Z: PLAYER REMOVED [   70632827] applelorf           
+2023-03-14T04:47:55Z: PLAYER ADDED   [ 4326714724] iATE_CHESS          
+2023-03-14T04:48:45Z: PLAYER ADDED   [ 2333232827] princessrinny344     a.k.a. S3RI                
+2023-03-14T04:49:24Z: PLAYER CHATTED [ 2333232827] princessrinny344     (   -4.6,     4.2,     1.0)
+  HI KEM IM SO SORRY
+2023-03-14T04:49:37Z: PLAYER CHATTED [ 2333232827] princessrinny344     (   -8.9,     4.2,    11.0)
+  PLEASE FORGIVE ME
+2023-03-14T04:49:56Z: PLAYER CHATTED [ 2333232827] princessrinny344     (  -10.3,     4.2,    10.3)
+  IM SO SORR
+2023-03-14T04:50:45Z: PLAYER ADDED   [ 2655734118] Weird_person434      a.k.a. Monkey              
+2023-03-14T04:50:47Z: PLAYER REMOVED [  785329455] xhloe7               a.k.a. Miku                
+2023-03-14T04:51:19Z: PLAYER REMOVED [ 2333232827] princessrinny344     a.k.a. S3RI                
+2023-03-14T04:52:02Z: PLAYER REMOVED [ 2655734118] Weird_person434      a.k.a. Monkey              
+2023-03-14T04:52:11Z: PLAYER CHATTED [  338408251] Sinbudd              (  -26.7,     3.0,    24.6)
+  oh
+2023-03-14T04:52:23Z: PLAYER ADDED   [ 3659420489] Anacaprilolll        a.k.a. LalaLala            
+2023-03-14T04:54:16Z: PLAYER REMOVED [ 3839784332] Winter_Fall432       a.k.a. Uhmmm               
+2023-03-14T04:54:28Z: PLAYER REMOVED [ 4326714724] iATE_CHESS          
+2023-03-14T04:55:10Z: PLAYER REMOVED [ 3615200822] AresWarG0d          
+2023-03-14T04:55:28Z: PLAYER ADDED   [ 2245791824] hewocookiescutie     a.k.a. A_s0uthParkfan      
+2023-03-14T04:55:29Z: PLAYER REMOVED [ 3659420489] Anacaprilolll        a.k.a. LalaLala            
+2023-03-14T04:55:30Z: PLAYER ADDED   [ 3679864979] Kookie802832         a.k.a. D1G1T4L             
+2023-03-14T04:55:32Z: PLAYER CHATTED [  550504905] cosmoem2008          (   -9.1,     4.0,   -18.6)
+  oh my ######
+2023-03-14T04:55:34Z: PLAYER CHATTED [  550504905] cosmoem2008          (   -3.6,     3.0,   -26.4)
+  oh my ######
+2023-03-14T04:55:38Z: PLAYER ADDED   [ 2737660752] Khalifa_albloushi   
+2023-03-14T04:55:43Z: PLAYER ADDED   [ 2710287005] Archersaurus666     
+2023-03-14T04:55:45Z: PLAYER CHATTED [  550504905] cosmoem2008          (  -19.0,     4.0,   -10.4)
+  IT TAGS CHEBUS
+2023-03-14T04:55:56Z: PLAYER REMOVED [ 2245791824] hewocookiescutie     a.k.a. A_s0uthParkfan      
+2023-03-14T04:55:57Z: PLAYER ADDED   [ 4188633962] ChaelAdamShayLav    
+2023-03-14T04:56:05Z: PLAYER REMOVED [ 4188633962] ChaelAdamShayLav    
+2023-03-14T04:56:11Z: PLAYER ADDED   [ 4115589266] mariyam_202216      
+2023-03-14T04:56:14Z: PLAYER CHATTED [  550504905] cosmoem2008          (  -43.2,     3.0,    26.9)
+  omg
+2023-03-14T04:56:25Z: PLAYER CHATTED [ 3679864979] Kookie802832         (  -21.3,     3.2,    23.1)
+  Emm
+2023-03-14T04:56:28Z: PLAYER REMOVED [ 4115589266] mariyam_202216      
+2023-03-14T04:56:31Z: PLAYER CHATTED [  550504905] cosmoem2008          (  -43.2,     3.0,    26.9)
+  boom
+2023-03-14T04:56:44Z: PLAYER ADDED   [ 3372074215] Noobpoop346287       a.k.a. Witheredbonnie      
+2023-03-14T04:56:55Z: PLAYER REMOVED [ 2710287005] Archersaurus666     
+2023-03-14T04:57:08Z: PLAYER REMOVED [  591677858] toylookathewall      a.k.a. girlu               
+2023-03-14T04:57:12Z: PLAYER CHATTED [  550504905] cosmoem2008          (  -31.8,     3.0,    27.8)
+  i took a screenshot and it's beautiful 
+2023-03-14T04:57:24Z: PLAYER CHATTED [ 3372074215] Noobpoop346287       (  -41.2,     3.0,    14.2)
+  …
+2023-03-14T04:57:39Z: PLAYER CHATTED [ 3372074215] Noobpoop346287       (   10.2,     3.0,    21.7)
+  K!ll me
+2023-03-14T04:57:45Z: PLAYER REMOVED [  338408251] Sinbudd              a.k.a. ratatuwie           
+2023-03-14T04:57:48Z: PLAYER CHATTED [  550504905] cosmoem2008          (  -32.5,     3.0,    30.9)
+  why does it have ###
+2023-03-14T04:57:50Z: PLAYER CHATTED [  550504905] cosmoem2008          (  -32.5,     3.0,    30.9)
+  pu
+2023-03-14T04:57:52Z: PLAYER CHATTED [  550504905] cosmoem2008          (  -32.5,     3.0,    30.9)
+  hair
+2023-03-14T04:57:57Z: PLAYER ADDED   [ 2520821327] Werewolf_879         a.k.a. stars               
+2023-03-14T04:58:00Z: PLAYER ADDED   [ 2915854749] Lydiasmurman_plays  
+2023-03-14T04:58:00Z: PLAYER ADDED   [ 3493423949] CHASEIZCOO          
+2023-03-14T04:58:05Z: PLAYER ADDED   [ 3390812625] Boba_987X            a.k.a. no1                 
+2023-03-14T04:58:07Z: CHRCTER ADDED  [ 3390812625] Boba_987X            a.k.a. no1                 
+2023-03-14T04:58:34Z: PLAYER CHATTED [  550504905] cosmoem2008          (  -38.7,     3.0,    29.4)
+  oml
+2023-03-14T04:58:53Z: PLAYER REMOVED [ 4035916058] CookieGael146       
+2023-03-14T04:58:55Z: PLAYER CHATTED [ 2520821327] Werewolf_879         (  -24.1,     3.3,    21.2)
+  BRO
+2023-03-14T04:59:03Z: PLAYER CHATTED [ 2520821327] Werewolf_879         (  -25.4,     3.3,    23.0)
+  WHAT THE HECK
+2023-03-14T04:59:06Z: CHRCTER ADDED  [ 3798647549] Fatboy42414         
+2023-03-14T04:59:08Z: PLAYER CHATTED [  550504905] cosmoem2008          (  -27.8,     3.0,    25.8)
+  😭😭
+2023-03-14T04:59:23Z: PLAYER CHATTED [ 2287747151] kemmkemm122          (  -35.2,     3.2,    18.7)
+  SHE DRAW TT
+2023-03-14T04:59:34Z: PLAYER CHATTED [  550504905] cosmoem2008          (  -28.6,     3.0,    23.7)
+  yummy
+2023-03-14T04:59:39Z: PLAYER CHATTED [ 3679864979] Kookie802832         (  -27.8,     7.8,    27.7)
+  Sus
+2023-03-14T04:59:40Z: PLAYER CHATTED [ 3372074215] Noobpoop346287       (    1.4,     3.0,    21.8)
+  What
+2023-03-14T04:59:44Z: PLAYER CHATTED [ 2287747151] kemmkemm122          (  -40.4,     3.2,    15.3)
+  AYOOOOOOOOI
+2023-03-14T04:59:49Z: PLAYER CHATTED [ 3372074215] Noobpoop346287       (    0.5,     3.0,    21.7)
+  Did he say
+2023-03-14T05:00:00Z: PLAYER CHATTED [ 2915854749] Lydiasmurman_plays   (  -17.1,     3.0,    26.1)
+  /w Kookie802832  Bro no
+2023-03-14T05:00:01Z: PLAYER CHATTED [ 2287747151] kemmkemm122          (  -39.0,     3.2,    16.6)
+  OH-
+2023-03-14T05:00:09Z: PLAYER CHATTED [ 3372074215] Noobpoop346287       (   -4.2,     3.0,    20.9)
+  #### ###
+2023-03-14T05:00:17Z: PLAYER CHATTED [ 3372074215] Noobpoop346287       (   -4.2,     3.0,    20.9)
+  #### ###
+2023-03-14T05:00:18Z: PLAYER CHATTED [  550504905] cosmoem2008          (  -30.6,     3.0,    33.5)
+  OH  
+2023-03-14T05:00:18Z: PLAYER CHATTED [  550504905] cosmoem2008          (  -30.6,     3.0,    33.5)
+  OH 
+2023-03-14T05:00:29Z: PLAYER CHATTED [ 3372074215] Noobpoop346287       (   -4.2,     3.0,    20.9)
+  K!ll h!m
+2023-03-14T05:01:33Z: PLAYER REMOVED [ 3493423949] CHASEIZCOO          
+2023-03-14T05:01:56Z: PLAYER ADDED   [ 1742031586] PrincessZoeyD0916    a.k.a. Jordan              
+2023-03-14T05:02:50Z: PLAYER CHATTED [ 3372074215] Noobpoop346287       (   14.3,     4.0,    15.1)
+  # ### #
+2023-03-14T05:03:00Z: PLAYER CHATTED [ 3372074215] Noobpoop346287       (   14.3,     4.0,    15.1)
+  # ### ####
+2023-03-14T05:03:17Z: PLAYER CHATTED [ 3372074215] Noobpoop346287       (   14.3,     4.0,    15.1)
+  # ### ######
+2023-03-14T05:03:26Z: PLAYER CHATTED [ 3372074215] Noobpoop346287       (   14.3,     4.0,    15.1)
+  ### #
+2023-03-14T05:03:29Z: PLAYER CHATTED [ 3372074215] Noobpoop346287       (   14.3,     4.0,    15.1)
+  Eat
+2023-03-14T05:03:33Z: PLAYER CHATTED [ 3372074215] Noobpoop346287       (   14.3,     4.0,    15.1)
+  ###
+2023-03-14T05:03:36Z: PLAYER CHATTED [ 3372074215] Noobpoop346287       (   14.3,     4.0,    15.1)
+  #
+2023-03-14T05:03:42Z: PLAYER CHATTED [ 3372074215] Noobpoop346287       (   14.3,     4.0,    15.1)
+  Eat
+2023-03-14T05:03:49Z: PLAYER CHATTED [ 3372074215] Noobpoop346287       (   14.3,     4.0,    15.1)
+  ###
+2023-03-14T05:03:56Z: PLAYER CHATTED [ 3372074215] Noobpoop346287       (   14.3,     4.0,    15.1)
+  # # #
+2023-03-14T05:04:03Z: PLAYER CHATTED [ 3372074215] Noobpoop346287       (   14.3,     4.0,    15.1)
+  I see you to
+2023-03-14T05:04:12Z: PLAYER REMOVED [ 3798647549] Fatboy42414         
+2023-03-14T05:04:22Z: PLAYER CHATTED [ 3679864979] Kookie802832         (   13.2,     3.2,    17.8)
+  I see you more
+2023-03-14T05:04:28Z: PLAYER CHATTED [ 3372074215] Noobpoop346287       (   14.4,     4.0,    15.7)
+  Wat
+2023-03-14T05:04:59Z: PLAYER CHATTED [ 3679864979] Kookie802832         (   13.2,     3.2,    17.8)
+  ##uybygbugbyuygubygubgbuygybugygybubgyu
+2023-03-14T05:05:29Z: PLAYER CHATTED [ 3372074215] Noobpoop346287       (   14.4,     4.0,    15.7)
+  What the dolphin sound
+2023-03-14T05:05:49Z: PLAYER ADDED   [ 3040028526] Wertygurluwu         a.k.a. Werty               
+2023-03-14T05:06:49Z: PLAYER REMOVED [ 3390812625] Boba_987X            a.k.a. no1                 
+2023-03-14T05:07:07Z: PLAYER CHATTED [ 3372074215] Noobpoop346287       (   14.4,     4.0,    15.7)
+  What about legs
+2023-03-14T05:07:10Z: PLAYER ADDED   [  316281406] irving9998          
+2023-03-14T05:07:59Z: PLAYER CHATTED [ 3372074215] Noobpoop346287       (   14.4,     4.0,    15.7)
+  You ain’t getting my legs
+2023-03-14T05:08:12Z: PLAYER REMOVED [  316281406] irving9998          
+2023-03-14T05:08:22Z: PLAYER ADDED   [ 4038203821] Madmanmoni          
+2023-03-14T05:08:31Z: PLAYER CHATTED [ 2915854749] Lydiasmurman_plays   (   12.0,     4.0,    -4.2)
+  I am a finger
+2023-03-14T05:08:38Z: PLAYER REMOVED [   30419471] dorran              
+2023-03-14T05:08:42Z: PLAYER CHATTED [ 3372074215] Noobpoop346287       (   14.4,     4.0,    15.7)
+  No
+2023-03-14T05:08:42Z: PLAYER ADDED   [ 2428774385] Basic996            
+2023-03-14T05:08:44Z: PLAYER REMOVED [  941578946] ChickenisMyLife76   
+2023-03-14T05:09:01Z: PLAYER REMOVED [ 4038203821] Madmanmoni          
+2023-03-14T05:09:23Z: PLAYER CHATTED [ 3372074215] Noobpoop346287       (   14.3,     4.0,    15.6)
+  Mmmm
+2023-03-14T05:09:28Z: PLAYER CHATTED [ 3372074215] Noobpoop346287       (   14.3,     4.0,    15.6)
+  No
+2023-03-14T05:09:29Z: PLAYER REMOVED [ 3040028526] Wertygurluwu         a.k.a. Werty               
+2023-03-14T05:10:14Z: PLAYER REMOVED [ 2915854749] Lydiasmurman_plays  
+2023-03-14T05:11:17Z: PLAYER CHATTED [ 3372074215] Noobpoop346287       (   14.1,     4.0,    14.6)
+  No
+2023-03-14T05:11:20Z: PLAYER REMOVED [ 1742031586] PrincessZoeyD0916    a.k.a. Jordan              
+2023-03-14T05:11:27Z: PLAYER REMOVED [ 2737660752] Khalifa_albloushi   
+2023-03-14T05:12:13Z: PLAYER CHATTED [ 3372074215] Noobpoop346287       (   13.4,     4.0,    15.2)
+  No
+2023-03-14T05:12:21Z: PLAYER ADDED   [ 2579113913] Ayoyagurl            a.k.a. KAY                 
+2023-03-14T05:12:23Z: PLAYER ADDED   [  267447223] AnAttractiveClown    a.k.a. YourDoctor          
+2023-03-14T05:12:39Z: PLAYER CHATTED [ 3372074215] Noobpoop346287       (   13.4,     4.0,    15.2)
+  Gtg
+2023-03-14T05:12:45Z: PLAYER ADDED   [ 2349636160] mtro5               
+2023-03-14T05:12:46Z: PLAYER ADDED   [ 3390812625] Boba_987X            a.k.a. no1                 
+2023-03-14T05:12:50Z: PLAYER REMOVED [ 3372074215] Noobpoop346287       a.k.a. Witheredbonnie      
+2023-03-14T05:12:50Z: PLAYER ADDED   [ 1363445554] SwoozeDude          
+2023-03-14T05:12:50Z: PLAYER ADDED   [ 3163696088] 1nvalidP0tatoWh1sp  
+2023-03-14T05:12:51Z: PLAYER ADDED   [  409180803] Akacoolgirlli        a.k.a. Popsicle            
+2023-03-14T05:13:07Z: PLAYER CHATTED [ 1363445554] SwoozeDude           (  -12.2,     4.2,     2.0)
+  omg thats really good
+2023-03-14T05:13:13Z: PLAYER CHATTED [ 1363445554] SwoozeDude           (  -13.7,     4.2,     2.0)
+  ur talented
+2023-03-14T05:13:16Z: PLAYER CHATTED [ 1363445554] SwoozeDude           (  -13.6,     4.2,     1.8)
+  ur talented
+2023-03-14T05:13:22Z: PLAYER REMOVED [ 1363445554] SwoozeDude          
+2023-03-14T05:13:23Z: PLAYER ADDED   [ 2655629593] DOGGOISCOOLMYBOIS_6 
+2023-03-14T05:13:24Z: PLAYER REMOVED [ 3390812625] Boba_987X            a.k.a. no1                 
+2023-03-14T05:13:26Z: PLAYER REMOVED [ 2520821327] Werewolf_879         a.k.a. stars               
+2023-03-14T05:13:28Z: PLAYER ADDED   [ 3171751809] LeslieAri28          a.k.a. Latinos_only        
+2023-03-14T05:13:31Z: PLAYER ADDED   [ 4110964520] Dylan468101         
+2023-03-14T05:13:42Z: PLAYER REMOVED [ 3171751809] LeslieAri28          a.k.a. Latinos_only        
+2023-03-14T05:13:43Z: PLAYER ADDED   [ 2265445565] lup1ta1714           a.k.a. Ariana              
+2023-03-14T05:13:46Z: PLAYER REMOVED [ 2349636160] mtro5               
+2023-03-14T05:13:49Z: PLAYER ADDED   [ 2763339188] May_girl661         
+2023-03-14T05:14:03Z: PLAYER ADDED   [  984145295] 21kariannak         
+2023-03-14T05:14:36Z: PLAYER REMOVED [  267447223] AnAttractiveClown    a.k.a. YourDoctor          
+2023-03-14T05:15:28Z: PLAYER REMOVED [ 2265445565] lup1ta1714           a.k.a. Ariana              
+2023-03-14T05:15:32Z: PLAYER ADDED   [ 2617134003] PinkPvnk             a.k.a. SPIKEY              
+2023-03-14T05:15:43Z: PLAYER REMOVED [ 2579113913] Ayoyagurl            a.k.a. KAY                 
+2023-03-14T05:16:23Z: PLAYER ADDED   [ 1810389795] BabyFernie17        
+2023-03-14T05:17:05Z: PLAYER ADDED   [ 3961056063] 21kjahazarak1       
+2023-03-14T05:17:50Z: PLAYER REMOVED [ 2428774385] Basic996            
+2023-03-14T05:17:53Z: PLAYER REMOVED [ 3679864979] Kookie802832         a.k.a. D1G1T4L             
+2023-03-14T05:17:59Z: PLAYER ADDED   [ 3118629386] Victoriaisthebest06  a.k.a. Ellie27             
+2023-03-14T05:18:27Z: PLAYER REMOVED [ 1810389795] BabyFernie17        
+2023-03-14T05:18:42Z: PLAYER ADDED   [ 4012417281] Behehehehernrn       a.k.a. Justin              
+2023-03-14T05:19:59Z: PLAYER REMOVED [ 2617134003] PinkPvnk             a.k.a. SPIKEY              
+2023-03-14T05:20:25Z: PLAYER REMOVED [ 4012417281] Behehehehernrn       a.k.a. Justin              
+2023-03-14T05:20:38Z: PLAYER ADDED   [ 4297455217] SapperInSentryGun   
+2023-03-14T05:20:38Z: PLAYER ADDED   [ 1947876909] badbleep582         
+2023-03-14T05:22:24Z: PLAYER REMOVED [ 2763339188] May_girl661         
+2023-03-14T05:22:26Z: PLAYER ADDED   [ 2763339188] May_girl661         
+2023-03-14T05:22:38Z: PLAYER REMOVED [ 2763339188] May_girl661         
+2023-03-14T05:22:38Z: PLAYER ADDED   [ 4177742287] ANGELtheSTSR        
+2023-03-14T05:23:12Z: PLAYER REMOVED [ 4177742287] ANGELtheSTSR        
+2023-03-14T05:23:16Z: PLAYER REMOVED [ 3118629386] Victoriaisthebest06  a.k.a. Ellie27             
+2023-03-14T05:23:37Z: PLAYER CHATTED [  550504905] cosmoem2008          (   20.5,     4.1,    -9.0)
+  omg
+2023-03-14T05:24:40Z: PLAYER REMOVED [ 1947876909] badbleep582         
+2023-03-14T05:24:45Z: PLAYER REMOVED [ 3961056063] 21kjahazarak1       
+2023-03-14T05:25:19Z: PLAYER REMOVED [  984145295] 21kariannak         
+2023-03-14T05:25:20Z: PLAYER REMOVED [ 2655629593] DOGGOISCOOLMYBOIS_6 
+2023-03-14T05:26:01Z: PLAYER REMOVED [ 4297455217] SapperInSentryGun   
+2023-03-14T05:26:06Z: PLAYER REMOVED [  550504905] cosmoem2008          a.k.a. Sasha               
+2023-03-14T05:26:14Z: PLAYER REMOVED [ 2287747151] kemmkemm122          a.k.a. Kemm                
+2023-03-14T05:28:14Z: PLAYER REMOVED [  409180803] Akacoolgirlli        a.k.a. Popsicle            
+2023-03-14T05:28:56Z: PLAYER REMOVED [ 4286702770] NIKE_COKE1029       
+2023-03-14T05:35:31Z: CHRCTER ADDED  [ 2560246578] gueen_ofthesun       a.k.a. Light               
+2023-03-14T05:37:51Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

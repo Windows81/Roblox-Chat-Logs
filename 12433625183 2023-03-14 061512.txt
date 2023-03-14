@@ -1,0 +1,589 @@
+[    1630228] : [12433625183] Doodle Transform! - 77de4dee-feb4-4777-8367-b57b6495923b
+2023-03-14T06:15:12Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-03-14T06:15:12Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-14T06:15:12Z: PLAYER ADDED   [ 1156685350] janyll_best         
+2023-03-14T06:15:12Z: PLAYER ADDED   [ 1398893162] PrincessSep2015     
+2023-03-14T06:15:12Z: PLAYER ADDED   [ 2045888195] R3IGN17             
+2023-03-14T06:15:12Z: PLAYER ADDED   [ 3545477066] Ihasloops_124        a.k.a. BEAN                
+2023-03-14T06:15:12Z: PLAYER ADDED   [  446870468] PrettyKami_Kam      
+2023-03-14T06:15:12Z: PLAYER ADDED   [ 4128487737] Ilovejayleen760     
+2023-03-14T06:15:12Z: PLAYER ADDED   [ 4392860847] CrazyCat_Uh         
+2023-03-14T06:15:12Z: PLAYER ADDED   [ 3112736842] Jett3blizer          a.k.a. Jett3DarkFlame      
+2023-03-14T06:15:12Z: PLAYER ADDED   [  653903293] FluffyGreyTotoro     a.k.a. River               
+2023-03-14T06:15:12Z: PLAYER ADDED   [ 3275665879] Jayleenaaaaaaaaaa    a.k.a. Jayleena            
+2023-03-14T06:15:12Z: PLAYER ADDED   [ 2796231169] JKXSLBn              a.k.a. 7qp34               
+2023-03-14T06:15:12Z: PLAYER ADDED   [ 3776376210] MEPEY_100            a.k.a. OTCOCN              
+2023-03-14T06:15:12Z: PLAYER ADDED   [ 4309805705] AMMYMAMMA           
+2023-03-14T06:15:12Z: PLAYER ADDED   [ 3437330827] Ryunaop              a.k.a. MozzaCheeze         
+2023-03-14T06:15:12Z: PLAYER ADDED   [ 3999026030] shawnmhjr2016       
+2023-03-14T06:15:12Z: PLAYER ADDED   [ 3183426776] olivia063016        
+2023-03-14T06:15:12Z: PLAYER REMOVED [ 3437330827] Ryunaop              a.k.a. MozzaCheeze         
+2023-03-14T06:15:28Z: PLAYER REMOVED [ 3545477066] Ihasloops_124        a.k.a. BEAN                
+2023-03-14T06:15:37Z: CHRCTER ADDED  [ 4309805705] AMMYMAMMA           
+2023-03-14T06:17:00Z: PLAYER REMOVED [ 1398893162] PrincessSep2015     
+2023-03-14T06:17:02Z: PLAYER ADDED   [ 4415648422] angelzz7288         
+2023-03-14T06:17:55Z: PLAYER REMOVED [ 3112736842] Jett3blizer          a.k.a. Jett3DarkFlame      
+2023-03-14T06:18:00Z: PLAYER ADDED   [ 1111690131] kkensie1             a.k.a. kelsie              
+2023-03-14T06:18:04Z: PLAYER CHATTED [    1630228] VisualPlugin         (   22.7,     4.6,   -10.1)
+  The time is 06:18 UTC.
+2023-03-14T06:18:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (   22.7,     4.6,   -10.1)
+  What time is it for you?
+2023-03-14T06:18:19Z: PLAYER REMOVED [ 1156685350] janyll_best         
+2023-03-14T06:18:21Z: PLAYER ADDED   [ 4199181282] Lovechickineingsan  
+2023-03-14T06:18:38Z: PLAYER CHATTED [ 4309805705] AMMYMAMMA            (   88.1,    26.1,  -111.8)
+  /:19
+2023-03-14T06:18:46Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.3,     4.6,    -0.4)
+  Not yet.
+2023-03-14T06:19:02Z: PLAYER REMOVED [ 4392860847] CrazyCat_Uh         
+2023-03-14T06:19:05Z: PLAYER ADDED   [ 3679629414] Ksonicdakoolkid     
+2023-03-14T06:19:06Z: PLAYER CHATTED [ 4309805705] AMMYMAMMA            (   73.1,    33.0,  -116.3)
+  4:18
+2023-03-14T06:20:34Z: PLAYER REMOVED [ 1111690131] kkensie1             a.k.a. kelsie              
+2023-03-14T06:20:40Z: PLAYER ADDED   [ 1312359165] byc1212             
+2023-03-14T06:21:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -30.0,     4.6,    35.1)
+  I begin to update 5 seconds early.
+2023-03-14T06:21:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -30.0,     4.6,    35.1)
+  And finish at the tick of the minute.
+2023-03-14T06:21:41Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -30.4,     4.6,    10.4)
+  Happy doing everything one hour early by the way!
+2023-03-14T06:22:06Z: PLAYER REMOVED [  446870468] PrettyKami_Kam      
+2023-03-14T06:22:11Z: PLAYER ADDED   [  852924673] JujuCarson15         a.k.a. Noob                
+2023-03-14T06:22:15Z: PLAYER REMOVED [ 4309805705] AMMYMAMMA           
+2023-03-14T06:22:16Z: PLAYER REMOVED [ 3183426776] olivia063016        
+2023-03-14T06:22:54Z: PLAYER ADDED   [ 2942088204] Aaronpoopy5         
+2023-03-14T06:23:01Z: PLAYER ADDED   [ 4063351116] NotElitelupusAlit    a.k.a. Bacon               
+2023-03-14T06:23:04Z: CHRCTER ADDED  [ 4063351116] NotElitelupusAlit    a.k.a. Bacon               
+2023-03-14T06:23:17Z: PLAYER REMOVED [ 2045888195] R3IGN17             
+2023-03-14T06:23:31Z: PLAYER ADDED   [ 3520529494] Hdififdivvv          a.k.a. Girl                
+2023-03-14T06:23:40Z: PLAYER REMOVED [ 2796231169] JKXSLBn              a.k.a. 7qp34               
+2023-03-14T06:23:41Z: PLAYER ADDED   [ 3001209058] iamGoat2013          a.k.a. Wednesday           
+2023-03-14T06:24:11Z: PLAYER REMOVED [ 3275665879] Jayleenaaaaaaaaaa    a.k.a. Jayleena            
+2023-03-14T06:24:24Z: PLAYER ADDED   [ 2854984460] queentala112         a.k.a. XxMIAxX             
+2023-03-14T06:24:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -27.4,     3.8,    13.8)
+  Do NUT avoid looking at the time in UTC.
+2023-03-14T06:24:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -22.3,     3.8,    13.6)
+  SUS.
+2023-03-14T06:25:18Z: PLAYER ADDED   [ 4246810499] ja918ser            
+2023-03-14T06:25:29Z: PLAYER REMOVED [  653903293] FluffyGreyTotoro     a.k.a. River               
+2023-03-14T06:25:39Z: PLAYER REMOVED [ 3001209058] iamGoat2013          a.k.a. Wednesday           
+2023-03-14T06:25:39Z: PLAYER ADDED   [ 2630611193] Elliebeanbeans      
+2023-03-14T06:26:14Z: PLAYER REMOVED [ 4128487737] Ilovejayleen760     
+2023-03-14T06:26:41Z: PLAYER ADDED   [ 3173419131] ivettebuttergly     
+2023-03-14T06:27:22Z: PLAYER REMOVED [ 2854984460] queentala112         a.k.a. XxMIAxX             
+2023-03-14T06:27:54Z: PLAYER ADDED   [ 3131943583] Fluffythealpacaa    
+2023-03-14T06:28:08Z: CHRCTER ADDED  [ 2942088204] Aaronpoopy5         
+2023-03-14T06:28:09Z: PLAYER REMOVED [ 2630611193] Elliebeanbeans      
+2023-03-14T06:28:13Z: PLAYER ADDED   [ 3601032498] Mehm892             
+2023-03-14T06:28:16Z: PLAYER REMOVED [ 3601032498] Mehm892             
+2023-03-14T06:28:23Z: PLAYER ADDED   [ 1806608224] hehezara10           a.k.a. RedFries            
+2023-03-14T06:28:29Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (    4.6,     3.0,    44.5)
+  friends!
+2023-03-14T06:28:32Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (    4.6,     3.0,    44.5)
+  fries
+2023-03-14T06:28:34Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (    4.6,     3.0,    44.5)
+  oop
+2023-03-14T06:28:35Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (    4.6,     3.0,    44.5)
+  lol
+2023-03-14T06:28:36Z: PLAYER CHATTED [ 1806608224] hehezara10           (   11.4,     4.0,    15.0)
+  sup
+2023-03-14T06:28:39Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (    4.6,     3.0,    44.5)
+  hi
+2023-03-14T06:29:02Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (    4.6,     3.0,    44.5)
+  :)
+2023-03-14T06:29:18Z: PLAYER REMOVED [ 4199181282] Lovechickineingsan  
+2023-03-14T06:29:30Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (    4.6,     3.0,    44.5)
+  #####
+2023-03-14T06:29:31Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (    4.6,     3.0,    44.5)
+  WAIT
+2023-03-14T06:29:36Z: PLAYER CHATTED [ 1806608224] hehezara10           (  -75.3,     3.0,  -156.1)
+  ?
+2023-03-14T06:29:41Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (    4.6,     3.0,    44.5)
+  IF I 
+2023-03-14T06:29:44Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (    4.6,     3.0,    44.5)
+  DRAW NOTHING
+2023-03-14T06:29:46Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (    4.6,     3.0,    44.5)
+  AND MAKE IT ME
+2023-03-14T06:29:47Z: PLAYER ADDED   [ 2630611193] Elliebeanbeans      
+2023-03-14T06:29:52Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (    4.6,     3.0,    44.5)
+  DO I BECOME INVISBLE?
+2023-03-14T06:29:55Z: PLAYER REMOVED [ 3776376210] MEPEY_100            a.k.a. OTCOCN              
+2023-03-14T06:29:56Z: PLAYER ADDED   [ 2388095511] Superhero021721     
+2023-03-14T06:29:57Z: PLAYER CHATTED [ 1806608224] hehezara10           (  -75.3,     3.0,  -156.1)
+  idk
+2023-03-14T06:29:59Z: PLAYER REMOVED [ 2942088204] Aaronpoopy5         
+2023-03-14T06:30:08Z: PLAYER ADDED   [ 3337095474] redwoji             
+2023-03-14T06:30:18Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (    4.6,     3.0,    44.5)
+  IMA TRY IT
+2023-03-14T06:30:22Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (    4.6,     3.0,    44.5)
+  iio caos
+2023-03-14T06:30:22Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (    4.6,     3.0,    44.5)
+  iio caos
+2023-03-14T06:30:25Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (    4.6,     3.0,    44.5)
+  oops caps*
+2023-03-14T06:31:30Z: PLAYER REMOVED [ 2388095511] Superhero021721     
+2023-03-14T06:31:32Z: PLAYER ADDED   [ 2388095511] Superhero021721     
+2023-03-14T06:31:53Z: PLAYER REMOVED [ 2630611193] Elliebeanbeans      
+2023-03-14T06:32:02Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (    4.6,     3.0,    44.5)
+  dang
+2023-03-14T06:32:07Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (    4.6,     3.0,    44.5)
+  you have to draw somethig
+2023-03-14T06:32:10Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (    4.6,     3.0,    44.5)
+  wai a dat?
+2023-03-14T06:32:11Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (    4.6,     3.0,    44.5)
+  wait
+2023-03-14T06:32:13Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (    4.6,     3.0,    44.5)
+  a dot
+2023-03-14T06:32:32Z: PLAYER CHATTED [ 1806608224] hehezara10           (  -75.3,     3.0,  -156.2)
+  what?
+2023-03-14T06:32:34Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (    4.6,     3.0,    44.3)
+  a dot 
+2023-03-14T06:32:37Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (    4.6,     3.0,    44.3)
+  /and its somethig
+2023-03-14T06:32:43Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (    4.6,     3.0,    44.3)
+  so   i wil still be ivisble!
+2023-03-14T06:32:43Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (    4.6,     3.0,    44.3)
+  so i wil still be ivisble!
+2023-03-14T06:32:44Z: PLAYER ADDED   [ 2745347990] 808Grace808         
+2023-03-14T06:32:47Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (    4.6,     3.0,    44.3)
+  invisble
+2023-03-14T06:33:29Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (    4.6,     3.0,    44.2)
+  BRO
+2023-03-14T06:33:31Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (    4.6,     3.0,    44.2)
+  IT WORKS
+2023-03-14T06:33:33Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (    4.6,     3.0,    44.2)
+  IM INVISBLE
+2023-03-14T06:33:34Z: PLAYER REMOVED [ 2388095511] Superhero021721     
+2023-03-14T06:33:50Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (   35.2,     3.0,    -6.4)
+  you cant see me
+2023-03-14T06:34:01Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -21.5,     3.0,   -85.7)
+  fries look
+2023-03-14T06:34:06Z: PLAYER ADDED   [ 3977292614] daniel5n5n           a.k.a. ANDREI              
+2023-03-14T06:34:10Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -82.6,     3.0,  -158.7)
+  XD
+2023-03-14T06:34:12Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -82.6,     3.0,  -158.7)
+  im visble
+2023-03-14T06:34:14Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -82.4,     3.0,  -158.9)
+  invisble
+2023-03-14T06:34:20Z: PLAYER CHATTED [ 1806608224] hehezara10           (  -84.0,     3.0,  -155.7)
+  I see
+2023-03-14T06:34:20Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -82.3,     3.0,  -161.4)
+  i can spy 
+2023-03-14T06:34:32Z: PLAYER CHATTED [ 1806608224] hehezara10           (  -86.1,     3.0,  -158.2)
+  ##################################
+2023-03-14T06:34:33Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -85.2,     3.0,  -150.4)
+  im a ghost
+2023-03-14T06:34:39Z: PLAYER CHATTED [ 1806608224] hehezara10           (  -81.7,     3.0,  -152.6)
+  bruh
+2023-03-14T06:34:43Z: PLAYER CHATTED [ 1806608224] hehezara10           (  -81.7,     3.0,  -152.6)
+  I hate tags
+2023-03-14T06:34:47Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -75.0,     3.0,  -152.2)
+  i agree
+2023-03-14T06:34:54Z: PLAYER REMOVED [ 3131943583] Fluffythealpacaa    
+2023-03-14T06:34:59Z: PLAYER CHATTED [ 1806608224] hehezara10           (  -81.7,     3.0,  -152.8)
+  I can see you still
+2023-03-14T06:34:59Z: PLAYER ADDED   [ 3252870912] chito_437           
+2023-03-14T06:35:03Z: PLAYER CHATTED [ 1806608224] hehezara10           (  -81.7,     3.0,  -152.8)
+  just not your body
+2023-03-14T06:35:03Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -81.0,     3.0,  -157.5)
+  e
+2023-03-14T06:35:08Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -81.0,     3.0,  -157.5)
+  its my name 
+2023-03-14T06:35:15Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -81.0,     3.0,  -157.5)
+  i wish i can make that invisble too
+2023-03-14T06:35:19Z: PLAYER REMOVED [  852924673] JujuCarson15         a.k.a. Noob                
+2023-03-14T06:35:19Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -81.0,     3.0,  -157.5)
+  i wanna be invisble
+2023-03-14T06:35:20Z: PLAYER CHATTED [ 1806608224] hehezara10           (  -81.7,     3.0,  -152.8)
+  lol
+2023-03-14T06:35:26Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -81.0,     3.0,  -157.5)
+  i mean i kina am0
+2023-03-14T06:35:28Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -81.0,     3.0,  -157.5)
+  m-*
+2023-03-14T06:35:30Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -81.0,     3.0,  -157.5)
+  am-*
+2023-03-14T06:35:31Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -81.0,     3.0,  -157.5)
+  e
+2023-03-14T06:35:32Z: PLAYER REMOVED [ 4415648422] angelzz7288         
+2023-03-14T06:35:44Z: PLAYER REMOVED [ 3252870912] chito_437           
+2023-03-14T06:35:47Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -81.0,     3.0,  -157.5)
+  this girl is cusfrused XD
+2023-03-14T06:35:48Z: PLAYER ADDED   [ 2388095511] Superhero021721     
+2023-03-14T06:35:51Z: PLAYER ADDED   [ 1254477727] IL0Ve_Coffee         a.k.a. evelyn              
+2023-03-14T06:36:01Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -81.0,     3.0,  -157.5)
+  ima draw smethi'g
+2023-03-14T06:36:03Z: PLAYER ADDED   [  877149575] GamingYosef_ATCC     a.k.a. thunderbeam_rsh10   
+2023-03-14T06:36:04Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -80.2,     3.0,  -160.0)
+  something
+2023-03-14T06:36:11Z: PLAYER REMOVED [ 1254477727] IL0Ve_Coffee         a.k.a. evelyn              
+2023-03-14T06:36:15Z: PLAYER ADDED   [ 3970182170] Suzielove24         
+2023-03-14T06:37:07Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -79.8,     3.0,  -157.6)
+  read this fries
+2023-03-14T06:37:37Z: PLAYER REMOVED [ 2388095511] Superhero021721     
+2023-03-14T06:37:39Z: PLAYER CHATTED [ 1806608224] hehezara10           (  -81.4,     3.0,  -155.5)
+  how do you do that?
+2023-03-14T06:37:41Z: PLAYER ADDED   [ 2388095511] Superhero021721     
+2023-03-14T06:37:43Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -76.6,     3.0,  -158.1)
+  oh
+2023-03-14T06:37:45Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -76.6,     3.0,  -158.1)
+  hit draw
+2023-03-14T06:37:48Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -76.6,     3.0,  -158.1)
+  and draw something
+2023-03-14T06:37:51Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -76.6,     3.0,  -158.1)
+  and hit apply
+2023-03-14T06:37:58Z: PLAYER CHATTED [ 1806608224] hehezara10           (  -81.4,     3.0,  -155.5)
+  oh
+2023-03-14T06:38:00Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -76.6,     3.0,  -158.1)
+  but read it
+2023-03-14T06:38:08Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -75.6,     3.0,  -154.4)
+  its true :)
+2023-03-14T06:38:15Z: PLAYER CHATTED [ 1806608224] hehezara10           (  -81.4,     3.0,  -155.5)
+  aw thank you 
+2023-03-14T06:38:19Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -75.6,     3.0,  -154.4)
+  yww
+2023-03-14T06:38:34Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -74.7,     3.0,  -163.7)
+  you are slay
+2023-03-14T06:39:06Z: PLAYER REMOVED [ 2388095511] Superhero021721     
+2023-03-14T06:39:28Z: PLAYER ADDED   [ 4219778566] DKk_BAjoN           
+2023-03-14T06:40:16Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -78.4,     3.0,  -160.9)
+  hug!
+2023-03-14T06:40:20Z: PLAYER REMOVED [ 3970182170] Suzielove24         
+2023-03-14T06:40:25Z: PLAYER REMOVED [ 1312359165] byc1212             
+2023-03-14T06:40:29Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -78.6,     3.0,  -160.8)
+  i am a pet
+2023-03-14T06:40:35Z: PLAYER ADDED   [ 4233918298] threeEyedChicken    
+2023-03-14T06:40:36Z: PLAYER CHATTED [ 1806608224] hehezara10           (  -81.0,     3.0,  -160.1)
+  o
+2023-03-14T06:40:36Z: PLAYER CHATTED [ 3173419131] ivettebuttergly      (   17.0,     4.2,     9.4)
+  EVERY ONE LEAVE IM ALONE💢💢💢💢
+2023-03-14T06:40:42Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -78.1,     3.0,  -165.6)
+  :)
+2023-03-14T06:40:43Z: PLAYER ADDED   [ 2597087905] bpr_boyplayzrobloxx  a.k.a. BPR                 
+2023-03-14T06:40:48Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -78.1,     3.0,  -165.8)
+  hug*
+2023-03-14T06:40:51Z: PLAYER CHATTED [ 3173419131] ivettebuttergly      (   10.0,     3.2,   -90.5)
+  *ME*
+2023-03-14T06:41:03Z: PLAYER REMOVED [ 4219778566] DKk_BAjoN           
+2023-03-14T06:41:06Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -78.9,     3.0,  -165.7)
+  where fries go
+2023-03-14T06:41:11Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -78.9,     3.0,  -165.5)
+  oh lol
+2023-03-14T06:41:15Z: PLAYER CHATTED [ 1806608224] hehezara10           (  -80.1,     3.0,  -163.2)
+  invisible
+2023-03-14T06:41:15Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -78.9,     3.0,  -165.5)
+  i didnt ee your user
+2023-03-14T06:41:17Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -78.9,     3.0,  -165.5)
+  see
+2023-03-14T06:41:19Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -78.9,     3.0,  -165.5)
+  the backround
+2023-03-14T06:41:20Z: PLAYER ADDED   [  939988398] Nicolenicole1030     a.k.a. Alice               
+2023-03-14T06:41:25Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -78.6,     3.0,  -166.6)
+  my owner is gone :(
+2023-03-14T06:41:28Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -78.6,     3.0,  -166.6)
+  im a alone pet
+2023-03-14T06:41:30Z: PLAYER CHATTED [ 1806608224] hehezara10           (  -80.8,     3.0,  -167.9)
+  oof
+2023-03-14T06:41:54Z: PLAYER CHATTED [ 4233918298] threeEyedChicken     (    2.0,     4.0,   -10.9)
+  hi everyone 
+2023-03-14T06:42:02Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -74.6,     3.0,  -174.0)
+  im alone
+2023-03-14T06:42:17Z: PLAYER CHATTED [ 4233918298] threeEyedChicken     (    1.6,     4.0,   -11.9)
+  i 👋👋👋👋👋👋👋👋👋
+2023-03-14T06:42:18Z: PLAYER REMOVED [ 4246810499] ja918ser            
+2023-03-14T06:42:25Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -79.0,     3.0,  -168.4)
+  whats this
+2023-03-14T06:42:26Z: PLAYER REMOVED [ 3679629414] Ksonicdakoolkid     
+2023-03-14T06:42:30Z: PLAYER CHATTED [ 1806608224] hehezara10           (  -80.8,     3.0,  -167.9)
+  Joe
+2023-03-14T06:42:39Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -79.0,     3.0,  -168.4)
+  joe!
+2023-03-14T06:42:40Z: PLAYER ADDED   [ 4212309556] Mikingsa            
+2023-03-14T06:42:43Z: PLAYER ADDED   [ 1730792707] Nate_dog240          a.k.a. poptart             
+2023-03-14T06:42:43Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -79.0,     3.0,  -168.4)
+  can yu be my new owner
+2023-03-14T06:42:45Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -79.0,     3.0,  -168.4)
+  you*
+2023-03-14T06:42:48Z: PLAYER REMOVED [  939988398] Nicolenicole1030     a.k.a. Alice               
+2023-03-14T06:42:48Z: PLAYER ADDED   [ 2677956009] Beebee0224          
+2023-03-14T06:43:01Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -79.0,     3.0,  -168.4)
+  .
+2023-03-14T06:43:08Z: PLAYER CHATTED [ 1806608224] hehezara10           (  -80.0,     3.0,  -170.8)
+  sure
+2023-03-14T06:43:21Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -78.7,     3.0,  -165.0)
+  im mad
+2023-03-14T06:43:22Z: PLAYER CHATTED [ 1806608224] hehezara10           (  -78.9,     3.0,  -168.9)
+  lol
+2023-03-14T06:43:27Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -78.7,     3.0,  -165.0)
+  i gtg
+2023-03-14T06:43:28Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -78.7,     3.0,  -165.0)
+  sorry
+2023-03-14T06:43:30Z: PLAYER CHATTED [ 4063351116] NotElitelupusAlit    (  -78.7,     3.0,  -165.0)
+  bye
+2023-03-14T06:43:30Z: PLAYER CHATTED [ 1806608224] hehezara10           (  -78.3,     7.0,  -164.2)
+  oh
+2023-03-14T06:43:33Z: PLAYER CHATTED [ 1806608224] hehezara10           (  -78.3,     6.9,  -164.2)
+  byee
+2023-03-14T06:43:34Z: PLAYER REMOVED [ 4063351116] NotElitelupusAlit    a.k.a. Bacon               
+2023-03-14T06:43:39Z: PLAYER ADDED   [ 3826209144] Angel_God09x         a.k.a. Ducky123            
+2023-03-14T06:43:44Z: PLAYER CHATTED [ 4233918298] threeEyedChicken     (  -75.1,     3.0,  -160.7)
+  yoeeee yohiiiiiiiiiiii yoeeeeeEEEEE
+2023-03-14T06:43:51Z: PLAYER CHATTED [ 1806608224] hehezara10           (  -68.4,     3.0,  -175.9)
+  .
+2023-03-14T06:44:06Z: PLAYER CHATTED [ 1806608224] hehezara10           (  -68.4,     3.0,  -175.9)
+  do I need to put you in an asylum?
+2023-03-14T06:44:11Z: PLAYER CHATTED [ 1806608224] hehezara10           (  -68.6,     3.0,  -176.0)
+  you seem crazy
+2023-03-14T06:44:29Z: PLAYER REMOVED [ 4212309556] Mikingsa            
+2023-03-14T06:44:54Z: PLAYER CHATTED [ 4233918298] threeEyedChicken     (  -74.1,     3.0,  -174.5)
+  /w hehezara10  no I am not crazy
+2023-03-14T06:45:02Z: PLAYER CHATTED [ 1806608224] hehezara10           (  -58.7,     3.0,  -176.2)
+  /w threeEyedChicken  mhm
+2023-03-14T06:45:27Z: PLAYER CHATTED [ 4233918298] threeEyedChicken     (  -56.6,     3.0,  -172.2)
+  I am just wired and I love that 
+2023-03-14T06:45:34Z: PLAYER ADDED   [ 1504146461] brokensoul67         a.k.a. Pie                 
+2023-03-14T06:45:47Z: PLAYER CHATTED [ 1806608224] hehezara10           (  -58.7,     3.0,  -176.2)
+  good for you
+2023-03-14T06:45:58Z: PLAYER CHATTED [ 4233918298] threeEyedChicken     (  -56.6,     3.0,  -172.2)
+  ty
+2023-03-14T06:46:09Z: PLAYER CHATTED [ 1806608224] hehezara10           (  -58.7,     3.0,  -176.2)
+  ye
+2023-03-14T06:46:13Z: PLAYER REMOVED [ 3977292614] daniel5n5n           a.k.a. ANDREI              
+2023-03-14T06:46:14Z: PLAYER ADDED   [ 2019459502] cat71513            
+2023-03-14T06:46:26Z: CHRCTER ADDED  [ 2677956009] Beebee0224          
+2023-03-14T06:46:31Z: PLAYER REMOVED [ 2677956009] Beebee0224          
+2023-03-14T06:46:40Z: PLAYER ADDED   [ 4212413988] darkblu39658        
+2023-03-14T06:46:51Z: PLAYER CHATTED [ 1806608224] hehezara10           (  -61.0,     3.0,  -175.5)
+  I am a stick man 
+2023-03-14T06:47:07Z: PLAYER CHATTED [ 4233918298] threeEyedChicken     (  -56.3,     3.0,  -175.3)
+  this my chicken 
+2023-03-14T06:47:22Z: PLAYER CHATTED [ 1806608224] hehezara10           (  -55.9,     3.0,  -182.1)
+  /w threeEyedChicken  I see it now
+2023-03-14T06:47:31Z: PLAYER CHATTED [ 1806608224] hehezara10           (  -55.9,     3.0,  -182.1)
+  I thought it was some Pringle’s dude at first
+2023-03-14T06:47:36Z: PLAYER CHATTED [ 1806608224] hehezara10           (  -54.2,     3.0,  -181.8)
+  oo
+2023-03-14T06:47:51Z: PLAYER CHATTED [ 4233918298] threeEyedChicken     (  -56.3,     3.0,  -175.3)
+  /w hehezara10  lol
+2023-03-14T06:47:58Z: PLAYER CHATTED [ 1806608224] hehezara10           (  -54.1,     3.0,  -181.5)
+  I gotta go
+2023-03-14T06:48:00Z: PLAYER REMOVED [ 3173419131] ivettebuttergly     
+2023-03-14T06:48:00Z: PLAYER CHATTED [ 1806608224] hehezara10           (  -54.1,     3.0,  -181.5)
+  cya
+2023-03-14T06:48:07Z: PLAYER ADDED   [ 4175841146] AddieTheBaddie907   
+2023-03-14T06:48:13Z: PLAYER REMOVED [ 1806608224] hehezara10           a.k.a. RedFries            
+2023-03-14T06:48:20Z: PLAYER REMOVED [ 1730792707] Nate_dog240          a.k.a. poptart             
+2023-03-14T06:48:24Z: PLAYER ADDED   [  932410002] Penolope321          a.k.a. Ginger              
+2023-03-14T06:48:33Z: PLAYER ADDED   [ 3716622356] Itsme_jays0          a.k.a. Naruto              
+2023-03-14T06:48:42Z: PLAYER REMOVED [ 3716622356] Itsme_jays0          a.k.a. Naruto              
+2023-03-14T06:48:42Z: PLAYER ADDED   [ 4420846554] Khaela3214           a.k.a. Khaela              
+2023-03-14T06:49:08Z: PLAYER CHATTED [ 4233918298] threeEyedChicken     (   -1.0,     4.0,   -18.2)
+  ######## ################### ###################
+2023-03-14T06:49:15Z: PLAYER CHATTED [ 4233918298] threeEyedChicken     (   -1.0,     4.0,   -18.2)
+  😶
+2023-03-14T06:49:39Z: PLAYER REMOVED [ 4420846554] Khaela3214           a.k.a. Khaela              
+2023-03-14T06:49:46Z: PLAYER CHATTED [ 4233918298] threeEyedChicken     (   -1.0,     4.0,   -18.2)
+  yoeeeeeEEEEE yohiiiiiiiii yo yeeeaaaa EEE
+2023-03-14T06:49:47Z: PLAYER ADDED   [ 1300716763] tinyla30             a.k.a. Noob                
+2023-03-14T06:50:28Z: PLAYER CHATTED [ 1504146461] brokensoul67         (  131.4,     8.9,   -14.9)
+  /e dance
+2023-03-14T06:50:34Z: PLAYER CHATTED [ 1504146461] brokensoul67         (  110.9,     3.2,   -39.3)
+  /e dance
+2023-03-14T06:50:42Z: PLAYER REMOVED [ 1504146461] brokensoul67         a.k.a. Pie                 
+2023-03-14T06:50:45Z: PLAYER ADDED   [ 3796198525] 3LLASS               a.k.a. moon                
+2023-03-14T06:50:45Z: PLAYER ADDED   [ 2220962173] aisyhazimzhafran     a.k.a. KuihKeria           
+2023-03-14T06:51:27Z: PLAYER REMOVED [ 2220962173] aisyhazimzhafran     a.k.a. KuihKeria           
+2023-03-14T06:52:02Z: PLAYER REMOVED [ 2745347990] 808Grace808         
+2023-03-14T06:52:06Z: PLAYER ADDED   [ 2647119710] your_coolgirll       a.k.a. pr3tty              
+2023-03-14T06:52:30Z: PLAYER ADDED   [ 2766599030] hxwaiishxloh         a.k.a. heyyyy              
+2023-03-14T06:53:11Z: PLAYER CHATTED [ 4233918298] threeEyedChicken     (  -10.2,     4.0,   -18.6)
+  who loves my bird
+2023-03-14T06:53:24Z: PLAYER CHATTED [  877149575] GamingYosef_ATCC     (  -12.1,     4.0,   -11.0)
+  me
+2023-03-14T06:53:27Z: PLAYER CHATTED [ 2019459502] cat71513             (   -5.9,     3.2,   -24.0)
+  me
+2023-03-14T06:53:30Z: CHRCTER ADDED  [ 4175841146] AddieTheBaddie907   
+2023-03-14T06:53:33Z: PLAYER CHATTED [ 4233918298] threeEyedChicken     (  -10.2,     4.0,   -18.6)
+  ty 
+2023-03-14T06:53:52Z: PLAYER CHATTED [  877149575] GamingYosef_ATCC     (  -11.9,     4.0,   -13.0)
+  who likes the hour limit of it?
+2023-03-14T06:53:55Z: PLAYER CHATTED [ 2019459502] cat71513             (  -12.6,     3.6,   -23.7)
+  do you like my drolwing
+2023-03-14T06:54:02Z: PLAYER CHATTED [ 4233918298] threeEyedChicken     (   -7.7,     4.0,   -18.5)
+  me
+2023-03-14T06:54:08Z: PLAYER CHATTED [ 2019459502] cat71513             (  -14.5,     4.2,   -21.6)
+  yes
+2023-03-14T06:54:24Z: PLAYER CHATTED [  877149575] GamingYosef_ATCC     (  -11.9,     4.0,   -13.0)
+  ty
+2023-03-14T06:54:38Z: PLAYER CHATTED [ 4233918298] threeEyedChicken     (   -7.7,     4.0,   -18.5)
+  not really it looks kinda bad
+2023-03-14T06:54:46Z: PLAYER CHATTED [ 4233918298] threeEyedChicken     (  -14.1,     4.0,   -22.3)
+  /w GamingYosef_ATCC  ngl
+2023-03-14T06:54:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -3.7,     4.5,    -5.4)
+  I'm back.
+2023-03-14T06:55:01Z: PLAYER REMOVED [ 3520529494] Hdififdivvv          a.k.a. Girl                
+2023-03-14T06:55:09Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -6.9,     4.5,   -16.4)
+  Midnight in the US west coast isn't for another 5 minutes.
+2023-03-14T06:55:20Z: PLAYER CHATTED [ 2019459502] cat71513             (  -17.3,     4.2,   -21.7)
+  well sorry for being 9!
+2023-03-14T06:55:32Z: PLAYER CHATTED [ 4233918298] threeEyedChicken     (  -13.8,     4.0,    -2.1)
+  what?
+2023-03-14T06:55:53Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -8.3,     4.5,   -15.4)
+  You're late.
+2023-03-14T06:55:59Z: PLAYER CHATTED [ 4233918298] threeEyedChicken     (  -20.9,     3.0,   -11.4)
+  being 9 what?
+2023-03-14T06:56:08Z: PLAYER REMOVED [ 4175841146] AddieTheBaddie907   
+2023-03-14T06:56:09Z: PLAYER ADDED   [ 2899586090] Leah_Dino13          a.k.a. k1tty               
+2023-03-14T06:56:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -8.3,     4.5,   -15.4)
+  24:52:03 Mountain Time was 4 minutes ago.
+2023-03-14T06:56:18Z: PLAYER CHATTED [ 2019459502] cat71513             (  -12.7,     4.2,    10.5)
+  I'm 9 years old 
+2023-03-14T06:56:28Z: PLAYER CHATTED [ 4233918298] threeEyedChicken     (  -11.0,     4.0,     1.3)
+  I am 11
+2023-03-14T06:56:49Z: PLAYER CHATTED [ 4233918298] threeEyedChicken     (  -11.3,     4.0,     2.4)
+  6th grade 
+2023-03-14T06:57:05Z: PLAYER REMOVED [ 4212413988] darkblu39658        
+2023-03-14T06:57:07Z: PLAYER ADDED   [ 4390645440] Realpogcat          
+2023-03-14T06:57:08Z: PLAYER CHATTED [  877149575] GamingYosef_ATCC     (  -12.7,     4.0,    -7.9)
+  I'm on 2nd grade
+2023-03-14T06:57:19Z: PLAYER CHATTED [  877149575] GamingYosef_ATCC     (  -12.7,     4.0,    -7.9)
+  same as my bestie named anika
+2023-03-14T06:57:26Z: PLAYER CHATTED [ 4233918298] threeEyedChicken     (  -11.3,     4.0,     2.4)
+  oh good for u
+2023-03-14T06:57:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -15.9,     4.5,   -14.4)
+  Hear that.
+2023-03-14T06:58:00Z: PLAYER CHATTED [ 4233918298] threeEyedChicken     (  -11.3,     4.0,     2.4)
+  you should be glad you're in your 2hd
+2023-03-14T06:58:23Z: PLAYER CHATTED [ 4233918298] threeEyedChicken     (  -12.3,     4.0,    -1.1)
+  because #### is ####
+2023-03-14T06:58:32Z: PLAYER REMOVED [ 3796198525] 3LLASS               a.k.a. moon                
+2023-03-14T06:58:45Z: PLAYER ADDED   [ 4275904841] Bellaaa_123D        
+2023-03-14T06:58:53Z: PLAYER REMOVED [ 4275904841] Bellaaa_123D        
+2023-03-14T06:58:55Z: PLAYER ADDED   [ 1898426350] VeylLollipops        a.k.a. Veyl                
+2023-03-14T06:59:14Z: PLAYER CHATTED [ 4233918298] threeEyedChicken     (  -12.8,     4.0,    -1.2)
+  like really hard 
+2023-03-14T06:59:26Z: PLAYER CHATTED [  877149575] GamingYosef_ATCC     (  -12.6,     4.0,   -13.4)
+  I'm the costom time
+2023-03-14T06:59:29Z: PLAYER CHATTED [ 4233918298] threeEyedChicken     (  -12.6,     4.0,    -3.4)
+  6th
+2023-03-14T06:59:34Z: PLAYER CHATTED [  877149575] GamingYosef_ATCC     (  -11.2,     4.0,   -20.0)
+  you can make any time you want
+2023-03-14T06:59:38Z: CHRCTER ADDED  [ 3826209144] Angel_God09x         a.k.a. Ducky123            
+2023-03-14T06:59:44Z: PLAYER CHATTED [  877149575] GamingYosef_ATCC     (  -11.2,     4.0,   -20.0)
+  like 10:34:37
+2023-03-14T06:59:52Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -13.2,     3.8,   -25.9)
+  I can make it 07:00 UTC.
+2023-03-14T07:00:04Z: PLAYER CHATTED [  877149575] GamingYosef_ATCC     (  -11.2,     4.0,   -20.0)
+  ok
+2023-03-14T07:00:10Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -13.2,     3.8,   -25.9)
+  You have a few seconds.
+2023-03-14T07:00:10Z: PLAYER CHATTED [ 2019459502] cat71513             (  -19.0,     4.2,    -7.7)
+  ########################
+2023-03-14T07:00:11Z: PLAYER CHATTED [  877149575] GamingYosef_ATCC     (  -11.2,     4.0,   -20.0)
+  I'm random
+2023-03-14T07:00:20Z: PLAYER CHATTED [ 2019459502] cat71513             (  -19.6,     4.2,    -8.3)
+  how do yo
+2023-03-14T07:00:25Z: PLAYER REMOVED [ 3826209144] Angel_God09x         a.k.a. Ducky123            
+2023-03-14T07:00:26Z: PLAYER CHATTED [ 4233918298] threeEyedChicken     (  -18.6,     4.0,   -16.0)
+  what did I do
+2023-03-14T07:00:32Z: PLAYER CHATTED [ 2019459502] cat71513             (  -19.6,     4.2,    -8.3)
+  like me now!
+2023-03-14T07:00:33Z: PLAYER ADDED   [ 1524507386] LexxG10              a.k.a. neon                
+2023-03-14T07:00:41Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -15.1,     4.4,   -23.1)
+  Not bad.
+2023-03-14T07:00:49Z: PLAYER CHATTED [ 4233918298] threeEyedChicken     (  -18.6,     4.0,   -14.9)
+  to treated like that 
+2023-03-14T07:00:55Z: PLAYER CHATTED [ 2019459502] cat71513             (  -19.4,     4.0,    -8.1)
+  who me?
+2023-03-14T07:00:57Z: PLAYER REMOVED [ 2899586090] Leah_Dino13          a.k.a. k1tty               
+2023-03-14T07:01:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -19.3,     4.5,   -19.1)
+  Yes.
+2023-03-14T07:01:00Z: PLAYER CHATTED [ 4233918298] threeEyedChicken     (  -18.6,     4.0,   -14.9)
+  u yes
+2023-03-14T07:01:04Z: PLAYER ADDED   [ 1691276622] eizablanca26         a.k.a. Chefsito            
+2023-03-14T07:01:07Z: PLAYER CHATTED [ 2019459502] cat71513             (  -17.2,     4.2,    -4.5)
+  thanks
+2023-03-14T07:01:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -19.3,     4.5,   -19.1)
+  You are the çhickin with thrèé e-yes.
+2023-03-14T07:01:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -18.5,     8.5,   -10.1)
+  Both of you!
+2023-03-14T07:01:30Z: PLAYER CHATTED [ 4233918298] threeEyedChicken     (  -18.1,     4.0,   -10.5)
+  yes 
+2023-03-14T07:01:39Z: PLAYER CHATTED [ 2597087905] bpr_boyplayzrobloxx  (  -18.5,     3.3,   -29.6)
+  shoots gun
+2023-03-14T07:01:52Z: PLAYER CHATTED [ 2019459502] cat71513             (  -19.1,     4.2,     4.3)
+  bits
+2023-03-14T07:01:58Z: PLAYER CHATTED [ 2019459502] cat71513             (  -19.4,     4.0,     3.9)
+  bites
+2023-03-14T07:02:04Z: PLAYER CHATTED [ 2597087905] bpr_boyplayzrobloxx  (  -21.7,     3.3,    -1.3)
+  GOES CWAZY
+2023-03-14T07:02:07Z: PLAYER CHATTED [ 4233918298] threeEyedChicken     (   -7.1,     4.0,   -23.2)
+  what are u going to say
+2023-03-14T07:02:28Z: PLAYER CHATTED [ 2019459502] cat71513             (    3.2,     4.2,     9.2)
+  I don't bite!!!
+2023-03-14T07:02:29Z: PLAYER REMOVED [ 4390645440] Realpogcat          
+2023-03-14T07:02:49Z: PLAYER ADDED   [  627788172] foxtail2013          a.k.a. Boozoo_fanboy       
+2023-03-14T07:03:11Z: PLAYER CHATTED [ 4233918298] threeEyedChicken     (   -7.1,     4.0,   -23.2)
+  yes
+2023-03-14T07:03:22Z: PLAYER CHATTED [ 4233918298] threeEyedChicken     (   -7.1,     4.0,   -23.2)
+  hello?
+2023-03-14T07:03:35Z: PLAYER CHATTED [ 2597087905] bpr_boyplayzrobloxx  (   11.4,     3.3,   -51.4)
+  phase 2 activate
+2023-03-14T07:04:18Z: PLAYER REMOVED [ 3999026030] shawnmhjr2016       
+2023-03-14T07:04:36Z: PLAYER ADDED   [ 1579353596] babythree_411        a.k.a. Blipblop            
+2023-03-14T07:05:11Z: PLAYER CHATTED [ 2766599030] hxwaiishxloh         (   39.9,     3.0,   -54.2)
+  LOLOLOL
+2023-03-14T07:05:15Z: PLAYER CHATTED [ 1579353596] babythree_411        (   32.0,     2.3,   -60.8)
+  ##
+2023-03-14T07:05:33Z: PLAYER CHATTED [ 3337095474] redwoji              (   35.0,     3.2,   -61.6)
+  #########
+2023-03-14T07:05:36Z: PLAYER CHATTED [ 3337095474] redwoji              (   35.0,     3.2,   -61.6)
+  M
+2023-03-14T07:05:39Z: PLAYER CHATTED [ 2019459502] cat71513             (   -2.3,     4.2,    -4.5)
+  I'm a fox!!!
+2023-03-14T07:05:43Z: PLAYER CHATTED [ 1579353596] babythree_411        (   32.0,     2.3,   -61.1)
+  S wa?
+2023-03-14T07:05:51Z: PLAYER CHATTED [ 1579353596] babythree_411        (   29.5,     2.3,   -60.8)
+  ???
+2023-03-14T07:05:57Z: PLAYER CHATTED [ 2766599030] hxwaiishxloh         (   24.5,     3.0,   -62.3)
+  Swa?
+2023-03-14T07:06:02Z: PLAYER CHATTED [ 2766599030] hxwaiishxloh         (   24.5,     3.0,   -62.3)
+  Idk what that is
+2023-03-14T07:06:03Z: PLAYER REMOVED [ 2647119710] your_coolgirll       a.k.a. pr3tty              
+2023-03-14T07:06:06Z: PLAYER ADDED   [ 1049018969] tacosinere           a.k.a. SubscribeTo_ratdog  
+2023-03-14T07:06:09Z: PLAYER CHATTED [ 4233918298] threeEyedChicken     (  -17.0,     4.0,     4.0)
+  l am chicken 
+2023-03-14T07:06:23Z: PLAYER REMOVED [ 1524507386] LexxG10              a.k.a. neon                
+2023-03-14T07:06:30Z: PLAYER CHATTED [ 2019459502] cat71513             (  -11.9,     8.2,    -5.9)
+  chicken!!!!!
+2023-03-14T07:06:37Z: PLAYER CHATTED [ 3337095474] redwoji              (   35.0,     3.2,   -61.6)
+  A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+2023-03-14T07:06:39Z: PLAYER CHATTED [ 4233918298] threeEyedChicken     (  -11.9,     4.0,    -6.7)
+  yes
+2023-03-14T07:06:41Z: PLAYER ADDED   [ 4266295554] GrayAdam73          
+2023-03-14T07:07:19Z: PLAYER CHATTED [ 2019459502] cat71513             (  -12.0,     8.2,    -7.1)
+  cickin!!!!!!!
+2023-03-14T07:07:28Z: PLAYER CHATTED [ 4233918298] threeEyedChicken     (  -11.5,     4.0,    -6.5)
+  what 
+2023-03-14T07:08:08Z: PLAYER REMOVED [ 1049018969] tacosinere           a.k.a. SubscribeTo_ratdog  
+2023-03-14T07:08:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (    3.9,     3.8,   -56.0)
+  Ohio?
+2023-03-14T07:08:09Z: PLAYER REMOVED [ 2766599030] hxwaiishxloh         a.k.a. heyyyy              
+2023-03-14T07:08:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (    3.9,     3.8,   -56.0)
+  More like monsterland!
+2023-03-14T07:08:32Z: PLAYER CHATTED [ 2597087905] bpr_boyplayzrobloxx  (    6.7,     3.3,   -60.3)
+  # # # # # # # # # #
+2023-03-14T07:08:40Z: PLAYER ADDED   [ 2496218763] Ivylove59            a.k.a. Lol                 
+2023-03-14T07:08:43Z: PLAYER CHATTED [ 2597087905] bpr_boyplayzrobloxx  (    6.7,     3.3,   -60.3)
+  D O W N IN O H I O
+2023-03-14T07:08:51Z: PLAYER REMOVED [ 4266295554] GrayAdam73          
+2023-03-14T07:08:56Z: PLAYER CHATTED [    1630228] VisualPlugin         (    3.9,     3.8,   -56.0)
+  I saw the biggest monster in Ohio this Sunday.
+2023-03-14T07:09:06Z: PLAYER CHATTED [ 2019459502] cat71513             (  -11.8,     4.2,   -16.0)
+  do you ou see me
+2023-03-14T07:09:36Z: PLAYER ADDED   [ 2521317444] Cake255523           a.k.a. Lil_Plays           
+2023-03-14T07:09:58Z: PLAYER ADDED   [ 3051644951] Morgan34785         
+2023-03-14T07:10:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (    3.9,     3.8,   -56.0)
+  The monster was daylight saving time.
+2023-03-14T07:11:10Z: PLAYER REMOVED [ 2496218763] Ivylove59            a.k.a. Lol                 
+2023-03-14T07:11:22Z: PLAYER ADDED   [ 1785916685] jlgede               a.k.a. Simon               
+2023-03-14T07:11:30Z: PLAYER REMOVED [ 4233918298] threeEyedChicken    
+2023-03-14T07:11:34Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

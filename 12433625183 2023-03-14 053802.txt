@@ -1,0 +1,134 @@
+[    1630228] : [12433625183] Doodle Transform! - 29f3e6d2-3061-4447-ad1a-36f0783e76ee
+2023-03-14T05:38:02Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-03-14T05:38:02Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-14T05:38:02Z: PLAYER ADDED   [ 4124343507] KYAisnice21          a.k.a. Kya                 
+2023-03-14T05:38:02Z: PLAYER ADDED   [ 4389321932] DanteNavi_3842      
+2023-03-14T05:38:02Z: PLAYER ADDED   [ 2791759762] Pinita110316        
+2023-03-14T05:38:02Z: PLAYER ADDED   [ 3186862203] ZoeRod16             a.k.a. Kimberly            
+2023-03-14T05:38:02Z: PLAYER ADDED   [ 3581582612] ZaidenGames1         a.k.a. Zaidengames1        
+2023-03-14T05:38:02Z: PLAYER ADDED   [ 1151403660] AXEL215178           a.k.a. Billon              
+2023-03-14T05:38:02Z: PLAYER ADDED   [ 3405884604] AngelaRdz1503       
+2023-03-14T05:38:02Z: PLAYER ADDED   [  298735623] pusheenlove17        a.k.a. Lee_Ney             
+2023-03-14T05:38:02Z: PLAYER ADDED   [ 3053708886] BillonOficial        a.k.a. Marco               
+2023-03-14T05:38:02Z: PLAYER ADDED   [ 4305555848] dedydid             
+2023-03-14T05:38:02Z: PLAYER ADDED   [ 2412026794] NM6R41               a.k.a. Santy               
+2023-03-14T05:38:02Z: PLAYER ADDED   [ 4132834208] Mia_Arely16         
+2023-03-14T05:38:02Z: PLAYER ADDED   [ 3044299794] MiaR271              a.k.a. Mia                 
+2023-03-14T05:38:02Z: PLAYER ADDED   [ 4369558329] HuggyWuggy_1280     
+2023-03-14T05:38:02Z: PLAYER ADDED   [ 3530625548] DELV_rblx            a.k.a. argo                
+2023-03-14T05:38:02Z: PLAYER ADDED   [ 1545170149] melanie0912131      
+2023-03-14T05:38:04Z: PLAYER REMOVED [ 3405884604] AngelaRdz1503       
+2023-03-14T05:38:13Z: PLAYER CHATTED [ 3581582612] ZaidenGames1         (  -11.7,     4.0,    -2.8)
+  Rush
+2023-03-14T05:38:17Z: PLAYER REMOVED [ 1151403660] AXEL215178           a.k.a. Billon              
+2023-03-14T05:38:19Z: PLAYER ADDED   [ 1151403660] AXEL215178           a.k.a. Billon              
+2023-03-14T05:38:24Z: PLAYER CHATTED [ 3530625548] DELV_rblx            (   -6.2,     4.0,    -4.6)
+  halt
+2023-03-14T05:38:47Z: PLAYER REMOVED [  298735623] pusheenlove17        a.k.a. Lee_Ney             
+2023-03-14T05:38:52Z: CHRCTER ADDED  [ 4369558329] HuggyWuggy_1280     
+2023-03-14T05:39:13Z: PLAYER REMOVED [ 3053708886] BillonOficial        a.k.a. Marco               
+2023-03-14T05:39:15Z: PLAYER ADDED   [ 4259780211] JRWH314             
+2023-03-14T05:39:23Z: PLAYER ADDED   [ 3053708886] BillonOficial        a.k.a. Marco               
+2023-03-14T05:39:38Z: PLAYER REMOVED [ 1545170149] melanie0912131      
+2023-03-14T05:39:40Z: CHRCTER ADDED  [ 4369558329] HuggyWuggy_1280     
+2023-03-14T05:40:23Z: PLAYER REMOVED [ 3044299794] MiaR271              a.k.a. Mia                 
+2023-03-14T05:40:24Z: PLAYER REMOVED [ 4124343507] KYAisnice21          a.k.a. Kya                 
+2023-03-14T05:40:31Z: PLAYER ADDED   [ 3017795985] Anthony_roblox2058  
+2023-03-14T05:40:32Z: PLAYER ADDED   [ 4281298105] pouwazaxd           
+2023-03-14T05:40:34Z: PLAYER REMOVED [ 3186862203] ZoeRod16             a.k.a. Kimberly            
+2023-03-14T05:40:37Z: PLAYER REMOVED [ 4132834208] Mia_Arely16         
+2023-03-14T05:40:45Z: PLAYER REMOVED [ 4281298105] pouwazaxd           
+2023-03-14T05:40:55Z: PLAYER ADDED   [ 3624629498] da_pandao           
+2023-03-14T05:41:13Z: PLAYER REMOVED [ 4369558329] HuggyWuggy_1280     
+2023-03-14T05:41:32Z: PLAYER REMOVED [ 3581582612] ZaidenGames1         a.k.a. Zaidengames1        
+2023-03-14T05:41:52Z: PLAYER CHATTED [ 2412026794] NM6R41               (  -19.6,     3.0,   -24.8)
+  que mira stikman
+2023-03-14T05:42:37Z: PLAYER CHATTED [ 2412026794] NM6R41               (   -5.4,     4.0,   -21.7)
+  la E significa la inicial de mi nov de secu :3
+2023-03-14T05:42:41Z: PLAYER ADDED   [   95215585] MoonSethFox300       a.k.a. mrpacbomb           
+2023-03-14T05:42:50Z: PLAYER ADDED   [ 4215207706] samituprortx        
+2023-03-14T05:43:02Z: PLAYER ADDED   [ 4188035073] Lunnafresita28      
+2023-03-14T05:43:06Z: PLAYER ADDED   [ 4315758684] Joel_exe30           a.k.a. Joel_EXE            
+2023-03-14T05:43:20Z: PLAYER REMOVED [ 3017795985] Anthony_roblox2058  
+2023-03-14T05:43:23Z: PLAYER ADDED   [ 3017795985] Anthony_roblox2058  
+2023-03-14T05:43:25Z: PLAYER CHATTED [ 4215207706] samituprortx         (  -11.3,     4.0,   -21.3)
+  ._.
+2023-03-14T05:43:28Z: PLAYER REMOVED [ 4389321932] DanteNavi_3842      
+2023-03-14T05:43:36Z: PLAYER ADDED   [ 4235964520] camila2965mr        
+2023-03-14T05:43:37Z: PLAYER CHATTED [ 2412026794] NM6R41               (    4.5,     4.0,   -14.0)
+  que
+2023-03-14T05:44:12Z: PLAYER CHATTED [ 4215207706] samituprortx         (   -2.7,     3.4,   -23.7)
+  dibujo a quien sea xD
+2023-03-14T05:44:36Z: PLAYER CHATTED [ 4215207706] samituprortx         (   17.5,     3.0,   -28.5)
+  :V
+2023-03-14T05:45:01Z: PLAYER CHATTED [ 4215207706] samituprortx         (   17.5,     3.0,   -28.5)
+  :/
+2023-03-14T05:45:43Z: PLAYER CHATTED [ 4259780211] JRWH314              (  -18.9,     4.0,   -15.3)
+  Bhudaaaaaaa
+2023-03-14T05:46:40Z: PLAYER REMOVED [ 4305555848] dedydid             
+2023-03-14T05:47:04Z: PLAYER ADDED   [ 2574165708] jAaeL27             
+2023-03-14T05:47:29Z: PLAYER REMOVED [ 2574165708] jAaeL27             
+2023-03-14T05:48:20Z: PLAYER REMOVED [   95215585] MoonSethFox300       a.k.a. mrpacbomb           
+2023-03-14T05:49:26Z: PLAYER ADDED   [ 2053749033] Juanitopro6767       a.k.a. Julian              
+2023-03-14T05:49:42Z: PLAYER ADDED   [ 1320595453] brenda221412        
+2023-03-14T05:49:56Z: PLAYER REMOVED [ 1320595453] brenda221412        
+2023-03-14T05:50:09Z: PLAYER ADDED   [ 1416675767] gael365x             a.k.a. Ivan                
+2023-03-14T05:50:35Z: PLAYER REMOVED [ 1416675767] gael365x             a.k.a. Ivan                
+2023-03-14T05:51:05Z: PLAYER REMOVED [ 3624629498] da_pandao           
+2023-03-14T05:52:14Z: PLAYER REMOVED [ 4259780211] JRWH314             
+2023-03-14T05:52:14Z: PLAYER ADDED   [ 1748082708] Laloelchido23        a.k.a. Chiquitobufin       
+2023-03-14T05:52:17Z: CHRCTER ADDED  [ 1748082708] Laloelchido23        a.k.a. Chiquitobufin       
+2023-03-14T05:52:19Z: PLAYER ADDED   [ 1545170149] melanie0912131      
+2023-03-14T05:52:25Z: PLAYER ADDED   [ 3944591670] Hermosa_1248         a.k.a. Victi_1248          
+2023-03-14T05:52:45Z: PLAYER REMOVED [ 3053708886] BillonOficial        a.k.a. Marco               
+2023-03-14T05:52:50Z: PLAYER ADDED   [ 3499709428] L_Z63                a.k.a. Ryo                 
+2023-03-14T05:52:55Z: PLAYER REMOVED [ 3944591670] Hermosa_1248         a.k.a. Victi_1248          
+2023-03-14T05:52:58Z: PLAYER ADDED   [ 3944591670] Hermosa_1248         a.k.a. Victi_1248          
+2023-03-14T05:53:03Z: PLAYER REMOVED [ 4235964520] camila2965mr        
+2023-03-14T05:53:15Z: PLAYER ADDED   [ 3486194505] rubenlink4          
+2023-03-14T05:53:39Z: PLAYER REMOVED [ 1748082708] Laloelchido23        a.k.a. Chiquitobufin       
+2023-03-14T05:53:40Z: PLAYER ADDED   [ 3790791904] Reneberdzjr         
+2023-03-14T05:53:48Z: PLAYER REMOVED [ 3944591670] Hermosa_1248         a.k.a. Victi_1248          
+2023-03-14T05:53:50Z: PLAYER ADDED   [ 3944591670] Hermosa_1248         a.k.a. Victi_1248          
+2023-03-14T05:54:27Z: PLAYER REMOVED [ 3944591670] Hermosa_1248         a.k.a. Victi_1248          
+2023-03-14T05:54:31Z: PLAYER ADDED   [ 3405011547] Brandonelfeo2015    
+2023-03-14T05:54:48Z: PLAYER CHATTED [ 1151403660] AXEL215178           (    7.1,     4.0,    15.8)
+  Quien ## ###### ##### Equisde equisde
+2023-03-14T05:55:00Z: PLAYER REMOVED [ 1151403660] AXEL215178           a.k.a. Billon              
+2023-03-14T05:55:06Z: PLAYER ADDED   [ 3944591670] Hermosa_1248         a.k.a. Victi_1248          
+2023-03-14T05:58:57Z: PLAYER REMOVED [ 3944591670] Hermosa_1248         a.k.a. Victi_1248          
+2023-03-14T05:58:59Z: PLAYER ADDED   [ 3944591670] Hermosa_1248         a.k.a. Victi_1248          
+2023-03-14T05:59:23Z: PLAYER REMOVED [ 2053749033] Juanitopro6767       a.k.a. Julian              
+2023-03-14T05:59:25Z: PLAYER CHATTED [ 1545170149] melanie0912131       (   22.6,     3.5,    -0.7)
+  uhhhh
+2023-03-14T06:00:19Z: PLAYER ADDED   [ 4290392456] Merlinaaaaa_18      
+2023-03-14T06:00:28Z: PLAYER REMOVED [ 4188035073] Lunnafresita28      
+2023-03-14T06:00:29Z: PLAYER ADDED   [ 2567562082] Ben_drowned0971      a.k.a. Son_Goku            
+2023-03-14T06:00:38Z: PLAYER REMOVED [ 3944591670] Hermosa_1248         a.k.a. Victi_1248          
+2023-03-14T06:00:50Z: PLAYER ADDED   [ 4421050819] Dddfkfrjfcf         
+2023-03-14T06:00:56Z: PLAYER CHATTED [ 4215207706] samituprortx         (   55.5,     3.0,    -5.3)
+  emmmm
+2023-03-14T06:01:11Z: PLAYER CHATTED [ 4215207706] samituprortx         (   55.3,     3.0,    -5.4)
+  que._.
+2023-03-14T06:01:16Z: PLAYER CHATTED [ 3405011547] Brandonelfeo2015     (   46.7,     3.0,     1.3)
+  Dirigir ricin.  U n n I.    If.  I.   
+2023-03-14T06:01:16Z: PLAYER CHATTED [ 3405011547] Brandonelfeo2015     (   46.7,     3.0,     1.3)
+  Dirigir ricin. U n n I. If. I. 
+2023-03-14T06:01:39Z: PLAYER CHATTED [ 4290392456] Merlinaaaaa_18       (   63.3,     3.0,    -7.6)
+  soy tu fan
+2023-03-14T06:01:42Z: PLAYER CHATTED [ 1545170149] melanie0912131       (   53.4,     3.5,    20.4)
+  👌
+2023-03-14T06:01:45Z: PLAYER CHATTED [ 4215207706] samituprortx         (   52.4,     3.0,   -15.9)
+  a bueno
+2023-03-14T06:01:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (   46.3,     3.5,    20.4)
+  ¡Gracias!
+2023-03-14T06:02:00Z: PLAYER CHATTED [ 1545170149] melanie0912131       (   53.4,     3.5,    20.4)
+  ####
+2023-03-14T06:02:06Z: PLAYER CHATTED [ 1545170149] melanie0912131       (   42.8,     3.5,    14.3)
+  :)
+2023-03-14T06:02:11Z: PLAYER CHATTED [ 4215207706] samituprortx         (   52.4,     3.0,   -15.9)
+  y que quieres que aga ._.
+2023-03-14T06:02:17Z: PLAYER CHATTED [ 4215207706] samituprortx         (   52.4,     3.0,   -15.9)
+  uuu
+2023-03-14T06:02:26Z: PLAYER REMOVED [ 3790791904] Reneberdzjr         
+2023-03-14T06:02:40Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

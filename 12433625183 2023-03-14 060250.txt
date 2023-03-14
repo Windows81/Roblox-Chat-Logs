@@ -1,0 +1,103 @@
+[    1630228] : [12433625183] Doodle Transform! - fcc14292-6123-472f-bb2e-f430cb013f7d
+2023-03-14T06:02:50Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-03-14T06:02:50Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-14T06:02:50Z: PLAYER ADDED   [ 4018888271] kikimaus191         
+2023-03-14T06:02:50Z: PLAYER ADDED   [ 4398342750] cuegiwbisgy         
+2023-03-14T06:02:50Z: PLAYER ADDED   [ 3613257954] puf291              
+2023-03-14T06:02:50Z: PLAYER ADDED   [ 2502686588] omenlera             a.k.a. OGYR4UK_RHDOORSRUSS 
+2023-03-14T06:02:50Z: PLAYER ADDED   [ 3172221303] Krasna83            
+2023-03-14T06:02:50Z: PLAYER ADDED   [ 4218165211] alia_088            
+2023-03-14T06:02:50Z: PLAYER ADDED   [ 3071878572] RobinSandber08       a.k.a. Baller              
+2023-03-14T06:02:50Z: PLAYER ADDED   [ 2560467265] UUUMmaickiy          a.k.a. ashswag             
+2023-03-14T06:02:50Z: PLAYER ADDED   [ 4421185895] 1232welddd666       
+2023-03-14T06:02:50Z: PLAYER ADDED   [ 2738799015] 12_Turtless          a.k.a. ola                 
+2023-03-14T06:02:50Z: PLAYER ADDED   [ 2284626572] pinnasofia           a.k.a. Fairy               
+2023-03-14T06:02:50Z: PLAYER ADDED   [ 1599688355] Pekkeremenka        
+2023-03-14T06:02:50Z: PLAYER ADDED   [ 2833307380] Mcbemmmmmmm         
+2023-03-14T06:02:50Z: PLAYER ADDED   [ 4098645576] mutulica102         
+2023-03-14T06:02:50Z: PLAYER ADDED   [ 4310091548] gsfxgvc             
+2023-03-14T06:02:50Z: PLAYER ADDED   [ 3578233892] puppypegasus12       a.k.a. Dolores             
+2023-03-14T06:02:59Z: PLAYER REMOVED [ 2284626572] pinnasofia           a.k.a. Fairy               
+2023-03-14T06:03:35Z: PLAYER REMOVED [ 4398342750] cuegiwbisgy         
+2023-03-14T06:04:00Z: CHRCTER ADDED  [ 2738799015] 12_Turtless          a.k.a. ola                 
+2023-03-14T06:04:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -9.8,     3.5,   -26.0)
+  The time is 06:04 UTC.
+2023-03-14T06:04:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -9.8,     3.5,   -26.0)
+  What time is it for you?
+2023-03-14T06:04:45Z: PLAYER CHATTED [ 4421185895] 1232welddd666        (   -9.8,     4.0,   -22.8)
+  yes yes 
+2023-03-14T06:05:06Z: PLAYER REMOVED [ 3578233892] puppypegasus12       a.k.a. Dolores             
+2023-03-14T06:05:10Z: PLAYER ADDED   [ 2402215906] Galacsianjhjlk       a.k.a. Ezorzerd            
+2023-03-14T06:05:18Z: CHRCTER ADDED  [ 4421185895] 1232welddd666       
+2023-03-14T06:05:20Z: PLAYER CHATTED [ 3172221303] Krasna83             (   38.8,     3.0,   -34.4)
+  Tomato
+2023-03-14T06:05:22Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -15.5,     3.5,   -31.0)
+  What other plugin updates the time every minute?
+2023-03-14T06:05:34Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -5.1,     3.5,   -32.7)
+  Not a non-visual one apparently.
+2023-03-14T06:05:53Z: CHRCTER ADDED  [ 1599688355] Pekkeremenka        
+2023-03-14T06:05:53Z: PLAYER CHATTED [ 3172221303] Krasna83             (   13.1,     3.0,   -32.1)
+  Hy
+2023-03-14T06:05:57Z: PLAYER CHATTED [ 3172221303] Krasna83             (    9.1,     3.0,   -32.6)
+  H
+2023-03-14T06:06:02Z: PLAYER CHATTED [ 3172221303] Krasna83             (    9.1,     3.0,   -32.6)
+  How Did You Get Faster
+2023-03-14T06:06:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.2,     3.5,   -36.1)
+  Script xecution.
+2023-03-14T06:06:18Z: PLAYER CHATTED [ 1599688355] Pekkeremenka         (   11.9,     4.1,   -15.0)
+  '_'
+2023-03-14T06:06:21Z: PLAYER CHATTED [ 3172221303] Krasna83             (   -3.9,     3.0,   -44.5)
+  Oh
+2023-03-14T06:06:37Z: PLAYER CHATTED [    1630228] VisualPlugin         (   23.6,     3.5,   -26.6)
+  ÒÓ
+2023-03-14T06:06:52Z: PLAYER CHATTED [ 4421185895] 1232welddd666        (   48.4,     5.7,   -37.0)
+  MR TOMATOS
+2023-03-14T06:06:57Z: PLAYER REMOVED [ 2833307380] Mcbemmmmmmm         
+2023-03-14T06:06:58Z: PLAYER CHATTED [ 3172221303] Krasna83             (   52.9,     3.0,   -44.6)
+  Nah
+2023-03-14T06:06:59Z: PLAYER CHATTED [ 3172221303] Krasna83             (   52.9,     3.0,   -44.6)
+  Im Not
+2023-03-14T06:07:04Z: PLAYER ADDED   [ 1916179572] nagibatorvduvalcenko
+2023-03-14T06:07:08Z: PLAYER CHATTED [ 4421185895] 1232welddd666        (   48.4,     5.7,   -37.0)
+  n
+2023-03-14T06:07:08Z: PLAYER CHATTED [ 3172221303] Krasna83             (   52.9,     3.0,   -44.6)
+  I Just Original Tomato-
+2023-03-14T06:07:51Z: CHRCTER ADDED  [ 2560467265] UUUMmaickiy          a.k.a. ashswag             
+2023-03-14T06:09:08Z: PLAYER CHATTED [ 3172221303] Krasna83             (   65.7,     3.0,   -26.6)
+  Lol
+2023-03-14T06:09:11Z: PLAYER CHATTED [ 2502686588] omenlera             (    2.7,     3.0,   -62.5)
+  Грр
+2023-03-14T06:09:12Z: PLAYER CHATTED [ 3172221303] Krasna83             (   66.6,     3.0,   -14.9)
+  Garlic
+2023-03-14T06:09:39Z: PLAYER REMOVED [ 1599688355] Pekkeremenka        
+2023-03-14T06:09:40Z: PLAYER ADDED   [ 4060374142] Itswaille           
+2023-03-14T06:10:06Z: PLAYER CHATTED [ 2502686588] omenlera             (   35.8,     3.0,   -56.4)
+  Гррр
+2023-03-14T06:10:22Z: PLAYER REMOVED [ 2738799015] 12_Turtless          a.k.a. ola                 
+2023-03-14T06:10:26Z: PLAYER ADDED   [ 1645016604] makky2201           
+2023-03-14T06:10:28Z: PLAYER REMOVED [ 3172221303] Krasna83            
+2023-03-14T06:10:28Z: PLAYER ADDED   [ 3143395365] Grumffalo123015     
+2023-03-14T06:10:29Z: PLAYER REMOVED [ 2560467265] UUUMmaickiy          a.k.a. ashswag             
+2023-03-14T06:10:35Z: PLAYER ADDED   [ 3841230131] waelwani            
+2023-03-14T06:10:35Z: PLAYER CHATTED [ 2502686588] omenlera             (   73.5,     3.0,   -82.9)
+  Гр
+2023-03-14T06:10:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -24.2,     3.5,   -87.6)
+  TRıll
+2023-03-14T06:11:07Z: PLAYER REMOVED [ 3071878572] RobinSandber08       a.k.a. Baller              
+2023-03-14T06:11:09Z: PLAYER ADDED   [ 4284528530] Ankktynnn           
+2023-03-14T06:11:15Z: PLAYER REMOVED [ 3143395365] Grumffalo123015     
+2023-03-14T06:11:40Z: PLAYER ADDED   [ 4296908194] fghghjkhjkg         
+2023-03-14T06:11:40Z: PLAYER ADDED   [ 3202817839] qwertyRB_1           a.k.a. qwertyRB_5          
+2023-03-14T06:12:28Z: PLAYER CHATTED [ 4421185895] 1232welddd666        (   -7.4,     4.0,   -14.9)
+  A_60
+2023-03-14T06:12:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.8,     4.5,   -16.9)
+  The time is 06:12 UTC.
+2023-03-14T06:12:53Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.1,     4.5,   -16.1)
+  What time is it for you?
+2023-03-14T06:12:54Z: PLAYER REMOVED [ 4284528530] Ankktynnn           
+2023-03-14T06:13:35Z: PLAYER REMOVED [ 4018888271] kikimaus191         
+2023-03-14T06:13:36Z: PLAYER ADDED   [ 3633872449] kakishonish         
+2023-03-14T06:13:38Z: PLAYER CHATTED [ 2502686588] omenlera             (   74.3,     3.0,   -29.1)
+  Грр
+2023-03-14T06:13:59Z: PLAYER REMOVED [ 1645016604] makky2201           
+2023-03-14T06:14:02Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

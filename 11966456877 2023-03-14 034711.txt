@@ -1,0 +1,42 @@
+[    1630228] : [11966456877] Answer or Die - 47f4a0e1-38ec-475b-b93f-14a865511b38
+2023-03-14T03:47:11Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-03-14T03:47:11Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-14T03:47:11Z: PLAYER ADDED   [ 3911008672] Flower_BeBe15       
+2023-03-14T03:47:11Z: PLAYER ADDED   [ 3798008694] Tempw_8             
+2023-03-14T03:47:11Z: PLAYER ADDED   [ 4074644442] Karkar992           
+2023-03-14T03:47:11Z: PLAYER ADDED   [ 3967966341] Cool_lala2020       
+2023-03-14T03:47:11Z: PLAYER ADDED   [ 3961068251] Mizz_Miyah19         a.k.a. Monkey              
+2023-03-14T03:47:11Z: PLAYER ADDED   [ 3612018293] Prxncess_Memma       a.k.a. Emma_Blink          
+2023-03-14T03:47:11Z: PLAYER ADDED   [ 2647376761] redding9081          a.k.a. Jessy               
+2023-03-14T03:47:23Z: PLAYER REMOVED [ 4074644442] Karkar992           
+2023-03-14T03:49:20Z: PLAYER REMOVED [ 2647376761] redding9081          a.k.a. Jessy               
+2023-03-14T03:49:41Z: PLAYER ADDED   [ 1706370140] gucci_carrotcookie   a.k.a. PANDA_LOVE          
+2023-03-14T03:50:09Z: CHRCTER ADDED  [ 3967966341] Cool_lala2020       
+2023-03-14T03:50:13Z: PLAYER REMOVED [ 3967966341] Cool_lala2020       
+2023-03-14T03:51:09Z: CHRCTER ADDED  [ 3911008672] Flower_BeBe15       
+2023-03-14T03:52:20Z: PLAYER REMOVED [ 1706370140] gucci_carrotcookie   a.k.a. PANDA_LOVE          
+2023-03-14T03:52:40Z: CHRCTER ADDED  [ 3798008694] Tempw_8             
+2023-03-14T03:53:11Z: CHRCTER ADDED  [ 3961068251] Mizz_Miyah19         a.k.a. Monkey              
+2023-03-14T03:53:12Z: PLAYER REMOVED [ 3798008694] Tempw_8             
+2023-03-14T03:53:37Z: PLAYER REMOVED [ 3961068251] Mizz_Miyah19         a.k.a. Monkey              
+2023-03-14T03:53:44Z: PLAYER REMOVED [ 3612018293] Prxncess_Memma       a.k.a. Emma_Blink          
+2023-03-14T03:59:10Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.7,    39.5,    15.4)
+  I know that Antarctica isn't a country though.
+2023-03-14T04:04:37Z: CHRCTER ADDED  [ 3911008672] Flower_BeBe15       
+2023-03-14T04:07:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -16.6,    17.5,    -0.0)
+  Sweatshirt.
+2023-03-14T04:07:51Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -16.6,    17.5,    -0.0)
+  Touché.
+2023-03-14T04:10:53Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -16.6,    39.5,    -0.0)
+  Contrabassoon is an answer?
+2023-03-14T04:10:56Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -16.6,    39.5,    -0.0)
+  Nice!
+2023-03-14T04:15:03Z: CHRCTER ADDED  [ 3911008672] Flower_BeBe15       
+2023-03-14T04:15:03Z: PLAYER REMOVED [ 3911008672] Flower_BeBe15       
+2023-03-14T04:16:07Z: PLAYER ADDED   [ 1653920411] Brayden095143       
+2023-03-14T04:16:10Z: PLAYER ADDED   [ 3685787219] Minnneymity         
+2023-03-14T04:16:24Z: PLAYER ADDED   [ 3039193160] Scarletstribrid      a.k.a. Sio                 
+2023-03-14T04:16:27Z: PLAYER ADDED   [ 2315017933] Smurfblue09         
+2023-03-14T04:16:29Z: PLAYER REMOVED [ 3685787219] Minnneymity         
+2023-03-14T04:16:41Z: PLAYER REMOVED [ 2315017933] Smurfblue09         
+2023-03-14T04:16:43Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
