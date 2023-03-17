@@ -1,0 +1,171 @@
+[    1630228] : [12202678406] TWICE Square - a267e84d-f39d-47e9-bba8-9240c71b616a
+2023-03-14T22:31:43Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-03-14T22:31:43Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-14T22:31:43Z: PLAYER ADDED   [ 3838497741] YaviTheJokester      a.k.a. IzzyluvsMinho       
+2023-03-14T22:31:43Z: PLAYER ADDED   [ 1044593324] luv4hoseok           a.k.a. bri                 
+2023-03-14T22:31:43Z: PLAYER ADDED   [ 4376136342] cwpiidd             
+2023-03-14T22:31:43Z: PLAYER ADDED   [ 1053029240] iiGxmerzii           a.k.a. Billybob            
+2023-03-14T22:31:43Z: PLAYER ADDED   [   34734573] PurpleLink24        
+2023-03-14T22:31:43Z: PLAYER ADDED   [ 2222682671] jwazzypooh           a.k.a. babymonkeyjazzy     
+2023-03-14T22:31:43Z: PLAYER ADDED   [   93861185] SxnshineFlower       a.k.a. laiahh              
+2023-03-14T22:31:43Z: PLAYER ADDED   [ 1235922714] Delise3510           a.k.a. Chenl3              
+2023-03-14T22:31:43Z: PLAYER ADDED   [ 3856942243] heartsfor_rejulmady  a.k.a. X3R0z               
+2023-03-14T22:31:43Z: PLAYER ADDED   [ 3724908077] realjungkookitsme    a.k.a. hoshi               
+2023-03-14T22:31:43Z: PLAYER ADDED   [  157984434] omxkun               a.k.a. soobin              
+2023-03-14T22:31:43Z: PLAYER ADDED   [ 4311252517] starix_cami2         a.k.a. marmota             
+2023-03-14T22:31:43Z: PLAYER ADDED   [ 4425604138] pngun11             
+2023-03-14T22:31:43Z: PLAYER ADDED   [  186008396] beststar0000        
+2023-03-14T22:31:43Z: PLAYER ADDED   [ 2439227204] BeyondxFloral        a.k.a. Scream6             
+2023-03-14T22:31:43Z: PLAYER ADDED   [  131250486] CupCakeGaming9       a.k.a. Anya                
+2023-03-14T22:31:43Z: PLAYER ADDED   [  176639767] RaiseSky             a.k.a. Sky                 
+2023-03-14T22:31:43Z: PLAYER ADDED   [ 3041014529] 1tzy_loc0            a.k.a. alexa               
+2023-03-14T22:31:43Z: PLAYER ADDED   [ 2286380264] z3n1t3u              a.k.a. moonlightsunrise    
+2023-03-14T22:31:43Z: PLAYER ADDED   [  262400715] bigkeeho             a.k.a. sussytoeles         
+2023-03-14T22:31:43Z: PLAYER ADDED   [ 1511696875] enchansty1           a.k.a. del                 
+2023-03-14T22:31:43Z: PLAYER ADDED   [ 3491905383] milkibbybani         a.k.a. Hearts4Portals      
+2023-03-14T22:31:43Z: PLAYER ADDED   [ 2674529740] MelodyStrawb3rry     a.k.a. chaey               
+2023-03-14T22:31:43Z: PLAYER ADDED   [  859553628] Enya2o10             a.k.a. Enay                
+2023-03-14T22:31:43Z: PLAYER ADDED   [ 1583038241] asonj_jia2           a.k.a. sOuL                
+2023-03-14T22:31:43Z: PLAYER ADDED   [ 1999025447] djdjducgrrng         a.k.a. Sunlight_sunnystar  
+2023-03-14T22:31:43Z: PLAYER ADDED   [ 1129744374] leesfavs             a.k.a. Taehyun             
+2023-03-14T22:31:43Z: PLAYER ADDED   [  168056320] SavageBabyOmq        a.k.a. jenni               
+2023-03-14T22:31:43Z: PLAYER ADDED   [ 2587850193] SC3N3RYY             a.k.a. kloklo              
+2023-03-14T22:31:43Z: PLAYER ADDED   [ 1336375879] cyberjimi            a.k.a. minnie              
+2023-03-14T22:31:43Z: PLAYER ADDED   [ 1657412882] lil_cookiesxxd       a.k.a. HII                 
+2023-03-14T22:31:43Z: PLAYER ADDED   [ 1024013671] ChuuAttackedMyHeartt a.k.a. Day                 
+2023-03-14T22:31:43Z: PLAYER ADDED   [ 1182344443] Mihochan_E          
+2023-03-14T22:31:43Z: PLAYER ADDED   [  569594815] Windiisprite         a.k.a. Windisprite         
+2023-03-14T22:31:43Z: PLAYER ADDED   [ 2639752631] wenningsturnips      a.k.a. mika                
+2023-03-14T22:31:43Z: PLAYER ADDED   [  954135285] royaldubu            a.k.a. dahyun              
+2023-03-14T22:31:43Z: PLAYER ADDED   [  750582148] beachgirl00678       a.k.a. iluvella            
+2023-03-14T22:31:45Z: PLAYER REMOVED [ 1129744374] leesfavs             a.k.a. Taehyun             
+2023-03-14T22:31:45Z: PLAYER CHATTED [  131250486] CupCakeGaming9       ( -538.4,    -9.9,   -47.8)
+  Well ima go and eat and follow u im starving I haven’t ate 
+2023-03-14T22:31:46Z: PLAYER REMOVED [  168056320] SavageBabyOmq        a.k.a. jenni               
+2023-03-14T22:31:46Z: PLAYER ADDED   [ 4379098740] Notshaleyplayz      
+2023-03-14T22:31:50Z: PLAYER REMOVED [ 1657412882] lil_cookiesxxd       a.k.a. HII                 
+2023-03-14T22:31:52Z: PLAYER ADDED   [ 1750391122] Maxx052113S          a.k.a. Elgato              
+2023-03-14T22:31:53Z: PLAYER ADDED   [  718269992] moruthh              a.k.a. tabithaisbest       
+2023-03-14T22:31:53Z: PLAYER ADDED   [ 1450069774] SaL_fIshEer          a.k.a. Leeknow             
+2023-03-14T22:31:54Z: PLAYER ADDED   [ 3685351002] Pastellllllbaribe   
+2023-03-14T22:31:54Z: PLAYER CHATTED [  176639767] RaiseSky             ( -521.1,   -10.2,   -20.5)
+  Thats all :)
+2023-03-14T22:31:55Z: PLAYER REMOVED [ 1999025447] djdjducgrrng         a.k.a. Sunlight_sunnystar  
+2023-03-14T22:31:58Z: PLAYER CHATTED [  131250486] CupCakeGaming9       ( -538.4,    -9.9,   -47.8)
+  T~T 
+2023-03-14T22:31:58Z: PLAYER REMOVED [  750582148] beachgirl00678       a.k.a. iluvella            
+2023-03-14T22:31:58Z: PLAYER REMOVED [  859553628] Enya2o10             a.k.a. Enay                
+2023-03-14T22:32:03Z: PLAYER CHATTED [ 3724908077] realjungkookitsme    ( -565.1,    -9.2,     2.4)
+  oh okay i will just take jeongyeon. i'll give you both the plush and chaeyoung if you want
+2023-03-14T22:32:03Z: PLAYER ADDED   [ 1549101993] Julianna05978        a.k.a. julz                
+2023-03-14T22:32:04Z: PLAYER ADDED   [ 1655426202] 123cuteinallthetowns a.k.a. Godzillaxkingkong   
+2023-03-14T22:32:10Z: PLAYER ADDED   [ 1597565302] ANGVULS              a.k.a. Lex                 
+2023-03-14T22:32:11Z: PLAYER ADDED   [ 4404894514] ksxoni              
+2023-03-14T22:32:11Z: PLAYER REMOVED [ 1750391122] Maxx052113S          a.k.a. Elgato              
+2023-03-14T22:32:12Z: PLAYER REMOVED [ 2222682671] jwazzypooh           a.k.a. babymonkeyjazzy     
+2023-03-14T22:32:12Z: PLAYER CHATTED [ 1235922714] Delise3510           ( -540.9,    -8.8,   -51.5)
+  okay byee :(
+2023-03-14T22:32:14Z: PLAYER ADDED   [  320743830] 333puppydog333       a.k.a. Parker              
+2023-03-14T22:32:16Z: PLAYER CHATTED [  176639767] RaiseSky             ( -521.1,   -10.2,   -20.5)
+  Okayy! 
+2023-03-14T22:32:16Z: PLAYER REMOVED [ 3041014529] 1tzy_loc0            a.k.a. alexa               
+2023-03-14T22:32:17Z: PLAYER REMOVED [ 2674529740] MelodyStrawb3rry     a.k.a. chaey               
+2023-03-14T22:32:20Z: PLAYER ADDED   [ 4337689115] J_J33coco            a.k.a. Coldtee             
+2023-03-14T22:32:20Z: CHRCTER ADDED  [ 4379098740] Notshaleyplayz      
+2023-03-14T22:32:21Z: PLAYER ADDED   [ 1474025770] danielafunnyroblox   a.k.a. cup1d               
+2023-03-14T22:32:24Z: PLAYER CHATTED [ 3724908077] realjungkookitsme    ( -565.1,    -9.2,     2.4)
+  thank you! :)
+2023-03-14T22:32:25Z: PLAYER CHATTED [  131250486] CupCakeGaming9       ( -538.4,    -9.9,   -47.8)
+  😭 nauuur why the sad face
+2023-03-14T22:32:27Z: PLAYER CHATTED [  176639767] RaiseSky             ( -521.1,   -10.2,   -20.5)
+  Tysm!
+2023-03-14T22:32:27Z: PLAYER REMOVED [ 2587850193] SC3N3RYY             a.k.a. kloklo              
+2023-03-14T22:32:29Z: PLAYER REMOVED [  320743830] 333puppydog333       a.k.a. Parker              
+2023-03-14T22:32:31Z: PLAYER REMOVED [  718269992] moruthh              a.k.a. tabithaisbest       
+2023-03-14T22:32:32Z: PLAYER REMOVED [ 3685351002] Pastellllllbaribe   
+2023-03-14T22:32:33Z: PLAYER CHATTED [ 1235922714] Delise3510           ( -540.9,    -8.8,   -51.5)
+  idk lol
+2023-03-14T22:32:34Z: PLAYER ADDED   [  241829755] spritefullofsyrup   
+2023-03-14T22:32:35Z: PLAYER ADDED   [ 4301426010] glazeddiq           
+2023-03-14T22:32:36Z: PLAYER ADDED   [   74254981] fraudmaterial        a.k.a. vlly                
+2023-03-14T22:32:38Z: PLAYER ADDED   [ 1693295885] vwomit               a.k.a. irene               
+2023-03-14T22:32:38Z: PLAYER REMOVED [  176639767] RaiseSky             a.k.a. Sky                 
+2023-03-14T22:32:43Z: PLAYER CHATTED [  131250486] CupCakeGaming9       ( -538.4,    -9.9,   -47.8)
+  😭 ima go before I might pass out from not eating
+2023-03-14T22:32:45Z: PLAYER ADDED   [ 3568557278] ThegirlNiang         a.k.a. Niang               
+2023-03-14T22:32:47Z: PLAYER REMOVED [  186008396] beststar0000        
+2023-03-14T22:32:48Z: PLAYER ADDED   [ 3053233275] Bangchanskz5         a.k.a. Oppar               
+2023-03-14T22:32:49Z: PLAYER REMOVED [ 1597565302] ANGVULS              a.k.a. Lex                 
+2023-03-14T22:32:52Z: PLAYER ADDED   [ 3609736182] parkjiminvampire    
+2023-03-14T22:32:54Z: PLAYER REMOVED [ 3838497741] YaviTheJokester      a.k.a. IzzyluvsMinho       
+2023-03-14T22:32:55Z: PLAYER CHATTED [ 1235922714] Delise3510           ( -540.8,    -8.8,   -51.2)
+  okay
+2023-03-14T22:32:56Z: PLAYER CHATTED [  131250486] CupCakeGaming9       ( -538.4,    -9.9,   -47.8)
+  BYEEEE 💅🏼 
+2023-03-14T22:32:57Z: CHRCTER ADDED  [  157984434] omxkun               a.k.a. soobin              
+2023-03-14T22:32:58Z: PLAYER CHATTED [ 3724908077] realjungkookitsme    ( -530.7,    -9.2,    21.2)
+  trading squirrel, dog, or reindeer for bunny. i can give an extra for free
+2023-03-14T22:32:59Z: PLAYER ADDED   [  531790832] nazarainbow          a.k.a. Aletophobia         
+2023-03-14T22:33:01Z: PLAYER REMOVED [ 4301426010] glazeddiq           
+2023-03-14T22:33:01Z: PLAYER REMOVED [ 4379098740] Notshaleyplayz      
+2023-03-14T22:33:01Z: PLAYER REMOVED [ 1182344443] Mihochan_E          
+2023-03-14T22:33:02Z: PLAYER CHATTED [ 1235922714] Delise3510           ( -540.8,    -8.8,   -51.2)
+  bye bestie 💅🏽💅🏽
+2023-03-14T22:33:03Z: PLAYER ADDED   [ 1716898652] sanaheartzz          a.k.a. misty               
+2023-03-14T22:33:05Z: PLAYER REMOVED [ 1024013671] ChuuAttackedMyHeartt a.k.a. Day                 
+2023-03-14T22:33:05Z: PLAYER CHATTED [ 3724908077] realjungkookitsme    ( -530.2,    -9.2,    19.7)
+  i mean for penguin lol
+2023-03-14T22:33:06Z: PLAYER ADDED   [  353741703] prettyraveboyy       a.k.a. kayla               
+2023-03-14T22:33:07Z: PLAYER ADDED   [ 3431776736] JosheuaXD            a.k.a. Josh                
+2023-03-14T22:33:08Z: PLAYER REMOVED [  131250486] CupCakeGaming9       a.k.a. Anya                
+2023-03-14T22:33:09Z: PLAYER ADDED   [ 2800907595] CapricornSeven7      a.k.a. SpillTheTeaSis      
+2023-03-14T22:33:09Z: CHRCTER ADDED  [ 2800907595] CapricornSeven7      a.k.a. SpillTheTeaSis      
+2023-03-14T22:33:10Z: PLAYER REMOVED [ 1511696875] enchansty1           a.k.a. del                 
+2023-03-14T22:33:11Z: PLAYER ADDED   [  252851896] june4cupcake         a.k.a. Estella             
+2023-03-14T22:33:12Z: PLAYER REMOVED [ 1474025770] danielafunnyroblox   a.k.a. cup1d               
+2023-03-14T22:33:13Z: PLAYER ADDED   [ 3650726575] victoriasecret20201 
+2023-03-14T22:33:14Z: PLAYER ADDED   [  186008396] beststar0000        
+2023-03-14T22:33:26Z: PLAYER REMOVED [ 1235922714] Delise3510           a.k.a. Chenl3              
+2023-03-14T22:33:29Z: PLAYER ADDED   [ 4410378561] Cutedog688          
+2023-03-14T22:33:30Z: PLAYER CHATTED [  241829755] spritefullofsyrup    ( -525.5,    -9.9,   -41.3)
+  I got a momo card
+2023-03-14T22:33:30Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-14T22:33:30Z: PLAYER REMOVED [ 1044593324] luv4hoseok           a.k.a. bri                 
+2023-03-14T22:33:30Z: PLAYER REMOVED [ 4376136342] cwpiidd             
+2023-03-14T22:33:30Z: PLAYER REMOVED [ 1053029240] iiGxmerzii           a.k.a. Billybob            
+2023-03-14T22:33:30Z: PLAYER REMOVED [   34734573] PurpleLink24        
+2023-03-14T22:33:30Z: PLAYER REMOVED [   93861185] SxnshineFlower       a.k.a. laiahh              
+2023-03-14T22:33:30Z: PLAYER REMOVED [ 3856942243] heartsfor_rejulmady  a.k.a. X3R0z               
+2023-03-14T22:33:30Z: PLAYER REMOVED [ 3724908077] realjungkookitsme    a.k.a. hoshi               
+2023-03-14T22:33:30Z: PLAYER REMOVED [  157984434] omxkun               a.k.a. soobin              
+2023-03-14T22:33:30Z: PLAYER REMOVED [ 4311252517] starix_cami2         a.k.a. marmota             
+2023-03-14T22:33:30Z: PLAYER REMOVED [ 4425604138] pngun11             
+2023-03-14T22:33:30Z: PLAYER REMOVED [ 2439227204] BeyondxFloral        a.k.a. Scream6             
+2023-03-14T22:33:30Z: PLAYER REMOVED [ 2286380264] z3n1t3u              a.k.a. moonlightsunrise    
+2023-03-14T22:33:30Z: PLAYER REMOVED [  262400715] bigkeeho             a.k.a. sussytoeles         
+2023-03-14T22:33:30Z: PLAYER REMOVED [ 3491905383] milkibbybani         a.k.a. Hearts4Portals      
+2023-03-14T22:33:30Z: PLAYER REMOVED [ 1583038241] asonj_jia2           a.k.a. sOuL                
+2023-03-14T22:33:30Z: PLAYER REMOVED [ 1336375879] cyberjimi            a.k.a. minnie              
+2023-03-14T22:33:30Z: PLAYER REMOVED [  569594815] Windiisprite         a.k.a. Windisprite         
+2023-03-14T22:33:30Z: PLAYER REMOVED [ 2639752631] wenningsturnips      a.k.a. mika                
+2023-03-14T22:33:30Z: PLAYER REMOVED [  954135285] royaldubu            a.k.a. dahyun              
+2023-03-14T22:33:30Z: PLAYER REMOVED [ 1450069774] SaL_fIshEer          a.k.a. Leeknow             
+2023-03-14T22:33:30Z: PLAYER REMOVED [ 1549101993] Julianna05978        a.k.a. julz                
+2023-03-14T22:33:30Z: PLAYER REMOVED [ 1655426202] 123cuteinallthetowns a.k.a. Godzillaxkingkong   
+2023-03-14T22:33:30Z: PLAYER REMOVED [ 4404894514] ksxoni              
+2023-03-14T22:33:30Z: PLAYER REMOVED [ 4337689115] J_J33coco            a.k.a. Coldtee             
+2023-03-14T22:33:30Z: PLAYER REMOVED [  241829755] spritefullofsyrup   
+2023-03-14T22:33:30Z: PLAYER REMOVED [   74254981] fraudmaterial        a.k.a. vlly                
+2023-03-14T22:33:30Z: PLAYER REMOVED [ 1693295885] vwomit               a.k.a. irene               
+2023-03-14T22:33:30Z: PLAYER REMOVED [ 3568557278] ThegirlNiang         a.k.a. Niang               
+2023-03-14T22:33:30Z: PLAYER REMOVED [ 3053233275] Bangchanskz5         a.k.a. Oppar               
+2023-03-14T22:33:30Z: PLAYER REMOVED [ 3609736182] parkjiminvampire    
+2023-03-14T22:33:30Z: PLAYER REMOVED [  531790832] nazarainbow          a.k.a. Aletophobia         
+2023-03-14T22:33:30Z: PLAYER REMOVED [ 1716898652] sanaheartzz          a.k.a. misty               
+2023-03-14T22:33:30Z: PLAYER REMOVED [  353741703] prettyraveboyy       a.k.a. kayla               
+2023-03-14T22:33:30Z: PLAYER REMOVED [ 3431776736] JosheuaXD            a.k.a. Josh                
+2023-03-14T22:33:30Z: PLAYER REMOVED [ 2800907595] CapricornSeven7      a.k.a. SpillTheTeaSis      
+2023-03-14T22:33:30Z: PLAYER REMOVED [  252851896] june4cupcake         a.k.a. Estella             
+2023-03-14T22:33:30Z: PLAYER REMOVED [ 3650726575] victoriasecret20201 
+2023-03-14T22:33:30Z: PLAYER REMOVED [  186008396] beststar0000        
+2023-03-14T22:33:30Z: PLAYER REMOVED [ 4410378561] Cutedog688          

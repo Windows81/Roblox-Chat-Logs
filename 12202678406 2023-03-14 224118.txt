@@ -1,0 +1,114 @@
+[    1630228] : [12202678406] TWICE Square - 10b6c812-d78e-4d44-acf3-3ed19a85fb1a
+2023-03-14T22:41:18Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-03-14T22:41:18Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-14T22:41:18Z: PLAYER ADDED   [ 3120435805] jisoo_9623           a.k.a. Alee                
+2023-03-14T22:41:18Z: PLAYER ADDED   [ 1612096145] Queengenial3         a.k.a. Faby                
+2023-03-14T22:41:18Z: PLAYER ADDED   [ 3765979673] K1ki1143             a.k.a. ExGirl              
+2023-03-14T22:41:18Z: PLAYER ADDED   [ 1916225768] PMLT45T              a.k.a. Chaeyoung           
+2023-03-14T22:41:18Z: PLAYER ADDED   [  187433960] haitanis            
+2023-03-14T22:41:18Z: PLAYER ADDED   [ 3848882794] KGJHGKHGKJGKJ        a.k.a. zyo_zyo             
+2023-03-14T22:41:18Z: PLAYER ADDED   [ 1821879039] chanita17098         a.k.a. Livbemyhouse        
+2023-03-14T22:41:18Z: PLAYER ADDED   [ 4216127601] bequikat            
+2023-03-14T22:41:18Z: PLAYER ADDED   [ 2900251523] alguien_raro45       a.k.a. Akiko               
+2023-03-14T22:41:18Z: PLAYER ADDED   [ 4425628884] Jihyoloverr_Dubutamo
+2023-03-14T22:41:18Z: PLAYER ADDED   [ 4379098740] Notshaleyplayz      
+2023-03-14T22:41:18Z: PLAYER ADDED   [ 4240983068] KemaNoTachi47       
+2023-03-14T22:41:18Z: PLAYER ADDED   [ 1464576541] Mariana_sofia2011    a.k.a. Eli                 
+2023-03-14T22:41:18Z: PLAYER ADDED   [  789165419] IM_ALEJANDRAA       
+2023-03-14T22:41:18Z: PLAYER ADDED   [  192947868] Evelinmercado        a.k.a. Akiko               
+2023-03-14T22:41:18Z: PLAYER ADDED   [  917745575] Nono71310            a.k.a. noelle              
+2023-03-14T22:41:18Z: PLAYER ADDED   [ 4190403927] Notsailormichi       a.k.a. NotSailor           
+2023-03-14T22:41:18Z: PLAYER ADDED   [ 3715692154] 0lijt                a.k.a. Rival               
+2023-03-14T22:41:18Z: PLAYER ADDED   [ 1279854301] valeria64321         a.k.a. val                 
+2023-03-14T22:41:18Z: PLAYER ADDED   [ 1356153455] xNatsukix09          a.k.a. Kt20                
+2023-03-14T22:41:18Z: PLAYER ADDED   [  652786177] AshMexican10         a.k.a. AshleyMyoui         
+2023-03-14T22:41:18Z: PLAYER ADDED   [ 2854985465] char_vanesa          a.k.a. Chaeyoung           
+2023-03-14T22:41:18Z: PLAYER ADDED   [ 1401007967] adrv_2010            a.k.a. Tzuyu               
+2023-03-14T22:41:18Z: PLAYER ADDED   [ 2772531410] IreneRam12          
+2023-03-14T22:41:18Z: PLAYER ADDED   [ 1617883302] 2020vtg              a.k.a. Luv                 
+2023-03-14T22:41:18Z: PLAYER ADDED   [  308999191] lovelyflower104      a.k.a. Kookie              
+2023-03-14T22:41:18Z: PLAYER ADDED   [ 3133169671] rfrancoc            
+2023-03-14T22:41:18Z: PLAYER ADDED   [ 2373405204] Maruchacon_chile     a.k.a. Namjoonista         
+2023-03-14T22:41:18Z: PLAYER ADDED   [ 4378055774] saorykiro3          
+2023-03-14T22:41:18Z: PLAYER ADDED   [ 3882295957] Sanriogirl_25       
+2023-03-14T22:41:18Z: PLAYER ADDED   [ 2207760877] ponsaldos           
+2023-03-14T22:41:18Z: PLAYER ADDED   [ 1882746934] Poncho4549           a.k.a. Jennie              
+2023-03-14T22:41:18Z: PLAYER ADDED   [ 1829939734] cocoucha             a.k.a. Kitty               
+2023-03-14T22:41:18Z: PLAYER ADDED   [ 2267816389] Danya_2w2            a.k.a. Gum_Danya           
+2023-03-14T22:41:18Z: PLAYER ADDED   [ 1872400850] nomasaqui_678        a.k.a. MILTX               
+2023-03-14T22:41:18Z: PLAYER ADDED   [  252851896] june4cupcake         a.k.a. Estella             
+2023-03-14T22:41:18Z: PLAYER ADDED   [ 1570056940] emilioco2107         a.k.a. Jisoomipatrona      
+2023-03-14T22:41:18Z: PLAYER ADDED   [ 1142979419] xMiSukyx             a.k.a. MajeJlgp            
+2023-03-14T22:41:20Z: PLAYER REMOVED [ 3765979673] K1ki1143             a.k.a. ExGirl              
+2023-03-14T22:41:22Z: PLAYER ADDED   [ 2060338596] Frutsidekiwi         a.k.a. Frijol              
+2023-03-14T22:41:23Z: PLAYER REMOVED [ 4379098740] Notshaleyplayz      
+2023-03-14T22:41:29Z: PLAYER ADDED   [ 1904925909] ireneredvex          a.k.a. ChuChu              
+2023-03-14T22:41:29Z: PLAYER REMOVED [ 1916225768] PMLT45T              a.k.a. Chaeyoung           
+2023-03-14T22:41:33Z: PLAYER ADDED   [ 2488165349] kajacherry          
+2023-03-14T22:41:34Z: PLAYER REMOVED [ 1617883302] 2020vtg              a.k.a. Luv                 
+2023-03-14T22:41:37Z: PLAYER ADDED   [  492428642] Lecalo27gamer        a.k.a. Lecalo27            
+2023-03-14T22:41:37Z: PLAYER REMOVED [  308999191] lovelyflower104      a.k.a. Kookie              
+2023-03-14T22:41:38Z: PLAYER REMOVED [ 1464576541] Mariana_sofia2011    a.k.a. Eli                 
+2023-03-14T22:41:42Z: PLAYER CHATTED [ 4190403927] Notsailormichi       ( -528.4,   -10.2,   -14.6)
+  hola tienes a chaeyoung?
+2023-03-14T22:41:43Z: PLAYER ADDED   [ 4198146982] Ilovesoobin_24       a.k.a. Ilovemiya_24        
+2023-03-14T22:41:44Z: PLAYER ADDED   [ 1186498645] Luneta007            a.k.a. Luna                
+2023-03-14T22:41:49Z: PLAYER CHATTED [ 2060338596] Frutsidekiwi         ( -522.3,   -10.2,     8.7)
+  MOMO COME HIELOW
+2023-03-14T22:41:50Z: PLAYER REMOVED [ 1612096145] Queengenial3         a.k.a. Faby                
+2023-03-14T22:41:53Z: PLAYER ADDED   [ 3094849051] Amazingfartjuice     a.k.a. Skito               
+2023-03-14T22:41:55Z: PLAYER REMOVED [ 1142979419] xMiSukyx             a.k.a. MajeJlgp            
+2023-03-14T22:41:55Z: PLAYER REMOVED [ 2854985465] char_vanesa          a.k.a. Chaeyoung           
+2023-03-14T22:42:01Z: PLAYER ADDED   [  881496297] kaylaa2709           a.k.a. Walmarttoes         
+2023-03-14T22:42:02Z: PLAYER ADDED   [ 1512241175] mcnugget171          a.k.a. grey                
+2023-03-14T22:42:02Z: PLAYER REMOVED [ 3715692154] 0lijt                a.k.a. Rival               
+2023-03-14T22:42:06Z: PLAYER ADDED   [ 2461897146] invictor4400         a.k.a. Jennye4400          
+2023-03-14T22:42:08Z: PLAYER REMOVED [ 4425628884] Jihyoloverr_Dubutamo
+2023-03-14T22:42:09Z: PLAYER REMOVED [ 4216127601] bequikat            
+2023-03-14T22:42:09Z: PLAYER REMOVED [ 1356153455] xNatsukix09          a.k.a. Kt20                
+2023-03-14T22:42:10Z: PLAYER ADDED   [ 1324270625] Rodaimee             a.k.a. Valentina           
+2023-03-14T22:42:13Z: PLAYER REMOVED [ 2060338596] Frutsidekiwi         a.k.a. Frijol              
+2023-03-14T22:42:14Z: PLAYER REMOVED [ 4378055774] saorykiro3          
+2023-03-14T22:42:18Z: PLAYER ADDED   [ 1382280476] UN61100563           a.k.a. luvbunni            
+2023-03-14T22:42:22Z: PLAYER ADDED   [   36606999] icecreamcake01       a.k.a. DramaLlama          
+2023-03-14T22:42:24Z: PLAYER ADDED   [ 2258054503] regina_garzaa        a.k.a. REGIIIIWIIIWIISSSSSS
+2023-03-14T22:42:25Z: PLAYER REMOVED [ 3120435805] jisoo_9623           a.k.a. Alee                
+2023-03-14T22:42:26Z: PLAYER ADDED   [ 2469547801] cybersfn             a.k.a. skz                 
+2023-03-14T22:42:26Z: PLAYER ADDED   [  663534155] XxRosy42xX           a.k.a. H3LLOK1TTY          
+2023-03-14T22:42:29Z: PLAYER CHATTED [  652786177] AshMexican10         ( -518.6,    -9.6,    -6.1)
+  Q me dan por pc de sana
+2023-03-14T22:42:30Z: PLAYER REMOVED [ 1882746934] Poncho4549           a.k.a. Jennie              
+2023-03-14T22:42:31Z: PLAYER REMOVED [ 2772531410] IreneRam12          
+2023-03-14T22:42:33Z: PLAYER ADDED   [ 3493480464] alexitars23          a.k.a. Jihyo               
+2023-03-14T22:42:36Z: PLAYER ADDED   [ 1142979419] xMiSukyx             a.k.a. MajeJlgp            
+2023-03-14T22:42:39Z: PLAYER ADDED   [ 1523541341] Ayazhansuly         
+2023-03-14T22:42:41Z: PLAYER REMOVED [ 1512241175] mcnugget171          a.k.a. grey                
+2023-03-14T22:42:41Z: PLAYER REMOVED [  663534155] XxRosy42xX           a.k.a. H3LLOK1TTY          
+2023-03-14T22:42:41Z: PLAYER REMOVED [ 1829939734] cocoucha             a.k.a. Kitty               
+2023-03-14T22:42:42Z: CHRCTER ADDED  [ 1523541341] Ayazhansuly         
+2023-03-14T22:42:43Z: PLAYER REMOVED [ 1570056940] emilioco2107         a.k.a. Jisoomipatrona      
+2023-03-14T22:42:44Z: PLAYER ADDED   [ 2504043358] IsabellaHernnandez14 a.k.a. meow                
+2023-03-14T22:42:46Z: PLAYER REMOVED [ 1382280476] UN61100563           a.k.a. luvbunni            
+2023-03-14T22:42:46Z: PLAYER REMOVED [ 2461897146] invictor4400         a.k.a. Jennye4400          
+2023-03-14T22:42:47Z: PLAYER REMOVED [ 1401007967] adrv_2010            a.k.a. Tzuyu               
+2023-03-14T22:42:48Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-14T22:42:48Z: PLAYER REMOVED [  187433960] haitanis            
+2023-03-14T22:42:48Z: PLAYER REMOVED [ 3848882794] KGJHGKHGKJGKJ        a.k.a. zyo_zyo             
+2023-03-14T22:42:48Z: PLAYER REMOVED [ 1821879039] chanita17098         a.k.a. Livbemyhouse        
+2023-03-14T22:42:48Z: PLAYER REMOVED [ 2900251523] alguien_raro45       a.k.a. Akiko               
+2023-03-14T22:42:48Z: PLAYER REMOVED [ 4240983068] KemaNoTachi47       
+2023-03-14T22:42:48Z: PLAYER REMOVED [  789165419] IM_ALEJANDRAA       
+2023-03-14T22:42:48Z: PLAYER REMOVED [  192947868] Evelinmercado        a.k.a. Akiko               
+2023-03-14T22:42:48Z: PLAYER REMOVED [  917745575] Nono71310            a.k.a. noelle              
+2023-03-14T22:42:48Z: PLAYER REMOVED [ 4190403927] Notsailormichi       a.k.a. NotSailor           
+2023-03-14T22:42:48Z: PLAYER REMOVED [ 1279854301] valeria64321         a.k.a. val                 
+2023-03-14T22:42:48Z: PLAYER REMOVED [  652786177] AshMexican10         a.k.a. AshleyMyoui         
+2023-03-14T22:42:48Z: PLAYER REMOVED [ 3133169671] rfrancoc            
+2023-03-14T22:42:48Z: PLAYER REMOVED [ 2373405204] Maruchacon_chile     a.k.a. Namjoonista         
+2023-03-14T22:42:48Z: PLAYER REMOVED [ 3882295957] Sanriogirl_25       
+2023-03-14T22:42:48Z: PLAYER REMOVED [ 2207760877] ponsaldos           
+2023-03-14T22:42:48Z: PLAYER REMOVED [ 2267816389] Danya_2w2            a.k.a. Gum_Danya           
+2023-03-14T22:42:48Z: PLAYER REMOVED [ 1872400850] nomasaqui_678        a.k.a. MILTX               
+2023-03-14T22:42:48Z: PLAYER REMOVED [  252851896] june4cupcake         a.k.a. Estella             
+2023-03-14T22:42:48Z: PLAYER REMOVED [ 1904925909] ireneredvex          a.k.a. ChuChu              
+2023-03-14T22:42:48Z: PLAYER REMOVED [ 2488165349] kajacherry          
