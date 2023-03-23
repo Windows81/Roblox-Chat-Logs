@@ -1,0 +1,50 @@
+[    1630228] : [ 7978512334] Shovelware's Brain Game - dc9b6ea1-5c1b-41d0-a8ec-0983648acb43
+2023-03-18T00:00:20Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-03-18T00:00:20Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-18T00:00:20Z: PLAYER ADDED   [  271976081] DiscombobulatedJack 
+2023-03-18T00:00:20Z: PLAYER ADDED   [ 1352404388] Issabella102748      a.k.a. Keleb               
+2023-03-18T00:00:20Z: PLAYER ADDED   [  104994615] Aerophagia          
+2023-03-18T00:00:20Z: PLAYER ADDED   [   62035316] Kar_Vex              a.k.a. Eiden               
+2023-03-18T00:00:20Z: PLAYER ADDED   [ 3313340806] frijxjfi            
+2023-03-18T00:03:01Z: PLAYER REMOVED [ 3313340806] frijxjfi            
+2023-03-18T00:03:01Z: PLAYER CHATTED [   62035316] Kar_Vex              ( -144.2,     9.7,   -85.6)
+  I'm pretty sure it's the bible
+2023-03-18T00:05:17Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -149.4,    10.3,   -88.9)
+  I guess so.
+2023-03-18T00:05:38Z: PLAYER ADDED   [ 1581340012] basenjilover5       
+2023-03-18T00:06:55Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -152.3,    10.3,   -89.5)
+  Is anyone else seeing the back of my shirt?
+2023-03-18T00:07:18Z: PLAYER CHATTED [ 1581340012] basenjilover5        ( -131.7,    10.9,   -92.5)
+  ye
+2023-03-18T00:07:26Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -152.3,    10.3,   -89.5)
+  Good.
+2023-03-18T00:09:04Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -149.4,    10.3,   -91.9)
+  That's something I'm horrible at!
+2023-03-18T00:09:44Z: PLAYER CHATTED [ 1581340012] basenjilover5        ( -131.7,    10.9,   -92.5)
+  its the secret
+2023-03-18T00:10:29Z: PLAYER CHATTED [   62035316] Kar_Vex              ( -144.2,     9.7,   -85.6)
+  I know it as "le scream" for some reason
+2023-03-18T00:10:32Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -192.0,    10.3,   -91.3)
+  Why did Boardy clip through me?
+2023-03-18T00:10:46Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -192.0,    10.3,   -91.3)
+  He's done it again.
+2023-03-18T00:11:31Z: PLAYER CHATTED [   62035316] Kar_Vex              ( -165.0,     9.6,   -88.0)
+  neato
+2023-03-18T00:11:34Z: PLAYER CHATTED [   62035316] Kar_Vex              ( -165.0,     9.6,   -88.0)
+  I get pancake mix
+2023-03-18T00:11:40Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -160.1,    10.3,   -99.2)
+  Congrats!
+2023-03-18T00:11:56Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -168.1,    10.3,   -91.4)
+  I'm not gonna be con-trolled like that!
+2023-03-18T00:12:15Z: PLAYER CHATTED [ 1581340012] basenjilover5        ( -144.8,     5.1,  -131.6)
+  now to find the obby
+2023-03-18T00:12:17Z: PLAYER REMOVED [   62035316] Kar_Vex              a.k.a. Eiden               
+2023-03-18T00:12:24Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -147.5,     4.6,  -127.3)
+  I already have a way in.
+2023-03-18T00:12:37Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -171.7,     4.6,  -126.0)
+  For me, it's a simple ;rejoin routine.
+2023-03-18T00:12:48Z: PLAYER REMOVED [ 1581340012] basenjilover5       
+2023-03-18T00:13:08Z: PLAYER REMOVED [ 1352404388] Issabella102748      a.k.a. Keleb               
+2023-03-18T00:13:12Z: PLAYER ADDED   [ 3206838710] Not_RimadKDI        
+2023-03-18T00:13:12Z: PLAYER ADDED   [ 1403119133] Desired_Ducky        a.k.a. Ducky               
+2023-03-18T00:13:54Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

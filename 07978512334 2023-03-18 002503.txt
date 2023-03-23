@@ -1,0 +1,432 @@
+[    1630228] : [ 7978512334] Shovelware's Brain Game - 5010a7e2-4802-4f40-8486-48f1118dd103
+2023-03-18T00:25:03Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-03-18T00:25:03Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-18T00:25:03Z: PLAYER ADDED   [ 1226782878] i_d3c                a.k.a. aeros               
+2023-03-18T00:25:03Z: PLAYER ADDED   [ 4147153090] Jkukui_123          
+2023-03-18T00:25:03Z: PLAYER ADDED   [ 4415478774] milaa_088           
+2023-03-18T00:25:42Z: PLAYER REMOVED [ 1226782878] i_d3c                a.k.a. aeros               
+2023-03-18T00:25:44Z: PLAYER ADDED   [  635501480] MissShroomie         a.k.a. Shroomie            
+2023-03-18T00:26:23Z: PLAYER REMOVED [ 4147153090] Jkukui_123          
+2023-03-18T00:26:31Z: PLAYER ADDED   [ 2939774488] Iamnothack1334       a.k.a. James               
+2023-03-18T00:27:15Z: PLAYER REMOVED [ 4415478774] milaa_088           
+2023-03-18T00:27:17Z: PLAYER ADDED   [ 1656929511] Alex_Master23121     a.k.a. Karma               
+2023-03-18T00:30:38Z: PLAYER REMOVED [  635501480] MissShroomie         a.k.a. Shroomie            
+2023-03-18T00:30:40Z: PLAYER ADDED   [ 2349459752] Itz_Bxrryy           a.k.a. Christy             
+2023-03-18T00:32:04Z: PLAYER REMOVED [ 2349459752] Itz_Bxrryy           a.k.a. Christy             
+2023-03-18T00:32:06Z: PLAYER ADDED   [ 1670689463] hazeleyes0612        a.k.a. Subwayducks         
+2023-03-18T00:32:26Z: PLAYER REMOVED [ 1670689463] hazeleyes0612        a.k.a. Subwayducks         
+2023-03-18T00:32:27Z: PLAYER ADDED   [ 3595185719] Valerie_cat2         a.k.a. val                 
+2023-03-18T00:32:27Z: PLAYER ADDED   [  151009430] L0RDof_ALLDUCKS      a.k.a. LORDOFALLDUX        
+2023-03-18T00:32:31Z: PLAYER ADDED   [ 3323992272] JEREMY_JAMESBROTHERS a.k.a. RED_JEREMY          
+2023-03-18T00:36:04Z: PLAYER REMOVED [  151009430] L0RDof_ALLDUCKS      a.k.a. LORDOFALLDUX        
+2023-03-18T00:40:11Z: PLAYER REMOVED [ 3323992272] JEREMY_JAMESBROTHERS a.k.a. RED_JEREMY          
+2023-03-18T00:40:13Z: PLAYER ADDED   [ 3323992272] JEREMY_JAMESBROTHERS a.k.a. RED_JEREMY          
+2023-03-18T00:40:22Z: CHRCTER ADDED  [ 3323992272] JEREMY_JAMESBROTHERS a.k.a. RED_JEREMY          
+2023-03-18T00:43:05Z: PLAYER REMOVED [ 3323992272] JEREMY_JAMESBROTHERS a.k.a. RED_JEREMY          
+2023-03-18T00:47:18Z: PLAYER REMOVED [ 2939774488] Iamnothack1334       a.k.a. James               
+2023-03-18T00:47:20Z: PLAYER ADDED   [ 4400817084] sm_0125             
+2023-03-18T00:47:20Z: PLAYER ADDED   [ 3623025826] xpro_player1         a.k.a. Cup                 
+2023-03-18T00:47:22Z: PLAYER REMOVED [ 3595185719] Valerie_cat2         a.k.a. val                 
+2023-03-18T00:48:25Z: PLAYER REMOVED [ 1656929511] Alex_Master23121     a.k.a. Karma               
+2023-03-18T00:48:28Z: PLAYER ADDED   [  980172294] its_rainingcandiez   a.k.a. Constellation       
+2023-03-18T00:51:12Z: PLAYER REMOVED [ 3623025826] xpro_player1         a.k.a. Cup                 
+2023-03-18T00:51:15Z: PLAYER ADDED   [ 3371203689] hisumaki23           a.k.a. Harumi_light        
+2023-03-18T00:53:19Z: PLAYER REMOVED [ 4400817084] sm_0125             
+2023-03-18T00:53:22Z: PLAYER ADDED   [  160764258] makeitflame123      
+2023-03-18T00:55:52Z: PLAYER REMOVED [  160764258] makeitflame123      
+2023-03-18T00:55:53Z: PLAYER ADDED   [ 1816617235] Im_KittyGirlYT       a.k.a. Mika                
+2023-03-18T01:05:04Z: PLAYER CHATTED [  980172294] its_rainingcandiez   ( -128.0,     9.8,   -95.5)
+  expired milk
+2023-03-18T01:07:50Z: PLAYER CHATTED [  980172294] its_rainingcandiez   ( -128.0,     9.8,   -95.5)
+  Phineas and Ferb
+2023-03-18T01:12:55Z: PLAYER ADDED   [ 1581340012] basenjilover5       
+2023-03-18T01:14:04Z: PLAYER REMOVED [ 3371203689] hisumaki23           a.k.a. Harumi_light        
+2023-03-18T01:14:39Z: PLAYER CHATTED [ 1581340012] basenjilover5        ( -172.7,     5.1,  -134.9)
+  oh ok
+2023-03-18T01:15:27Z: PLAYER CHATTED [ 1581340012] basenjilover5        ( -174.1,     5.1,  -131.8)
+  time for the big battle
+2023-03-18T01:21:08Z: PLAYER ADDED   [ 1105850333] PrincessAshP         a.k.a. Anya                
+2023-03-18T01:21:13Z: PLAYER REMOVED [ 1105850333] PrincessAshP         a.k.a. Anya                
+2023-03-18T01:24:14Z: PLAYER REMOVED [  980172294] its_rainingcandiez   a.k.a. Constellation       
+2023-03-18T01:24:15Z: PLAYER ADDED   [   85629202] kyler3152008         a.k.a. Jess                
+2023-03-18T01:24:46Z: PLAYER ADDED   [  544287672] mwilloughby1         a.k.a. Luffy               
+2023-03-18T01:25:59Z: PLAYER REMOVED [  544287672] mwilloughby1         a.k.a. Luffy               
+2023-03-18T01:26:46Z: PLAYER CHATTED [ 1581340012] basenjilover5        ( -172.8,     5.7,  -135.2)
+  ....
+2023-03-18T01:26:58Z: PLAYER CHATTED [ 1581340012] basenjilover5        ( -172.8,     5.7,  -135.2)
+  hi
+2023-03-18T01:27:28Z: PLAYER CHATTED [ 1581340012] basenjilover5        ( -172.9,     5.7,  -135.3)
+  ....
+2023-03-18T01:27:28Z: PLAYER CHATTED [ 1581340012] basenjilover5        ( -172.9,     5.7,  -135.3)
+  hi
+2023-03-18T01:29:19Z: PLAYER REMOVED [ 1581340012] basenjilover5       
+2023-03-18T01:29:20Z: PLAYER ADDED   [ 1381056113] sampiey27            a.k.a. rizzler             
+2023-03-18T01:29:25Z: PLAYER REMOVED [ 1381056113] sampiey27            a.k.a. rizzler             
+2023-03-18T01:29:26Z: PLAYER ADDED   [ 4358746407] yaxyo_sh            
+2023-03-18T01:41:10Z: PLAYER ADDED   [ 1581340012] basenjilover5       
+2023-03-18T01:42:59Z: PLAYER REMOVED [ 4358746407] yaxyo_sh            
+2023-03-18T01:44:23Z: PLAYER REMOVED [ 1581340012] basenjilover5       
+2023-03-18T01:44:25Z: PLAYER ADDED   [ 2681080852] PerfectNoob1224      a.k.a. TheOriginalHotPotato
+2023-03-18T02:00:11Z: PLAYER ADDED   [ 1581340012] basenjilover5       
+2023-03-18T02:04:20Z: PLAYER REMOVED [ 1816617235] Im_KittyGirlYT       a.k.a. Mika                
+2023-03-18T02:04:36Z: PLAYER REMOVED [ 2681080852] PerfectNoob1224      a.k.a. TheOriginalHotPotato
+2023-03-18T02:04:37Z: PLAYER ADDED   [ 1193126030] maddoglopez          a.k.a. Cristina            
+2023-03-18T02:04:54Z: PLAYER REMOVED [ 1581340012] basenjilover5       
+2023-03-18T02:04:56Z: PLAYER ADDED   [  590824405] Liongo40             a.k.a. Overnastics         
+2023-03-18T02:14:25Z: PLAYER CHATTED [  590824405] Liongo40             ( -131.7,     9.7,   -92.5)
+  i did it
+2023-03-18T02:16:22Z: PLAYER REMOVED [  590824405] Liongo40             a.k.a. Overnastics         
+2023-03-18T02:16:25Z: PLAYER ADDED   [ 4416741368] onepunchman_667     
+2023-03-18T02:16:50Z: PLAYER REMOVED [   85629202] kyler3152008         a.k.a. Jess                
+2023-03-18T02:16:57Z: PLAYER ADDED   [ 4387896062] mosyiiiii90          a.k.a. Sha_shasapi         
+2023-03-18T02:17:10Z: PLAYER ADDED   [ 4387884901] bekssss90            a.k.a. ga_gagajah          
+2023-03-18T02:19:45Z: PLAYER ADDED   [ 1581340012] basenjilover5       
+2023-03-18T02:19:46Z: PLAYER REMOVED [ 1193126030] maddoglopez          a.k.a. Cristina            
+2023-03-18T02:24:52Z: PLAYER REMOVED [ 4416741368] onepunchman_667     
+2023-03-18T02:28:16Z: PLAYER REMOVED [ 4387896062] mosyiiiii90          a.k.a. Sha_shasapi         
+2023-03-18T02:28:30Z: PLAYER ADDED   [ 1494645150] Truly_Toast          a.k.a. jorge               
+2023-03-18T02:30:38Z: PLAYER REMOVED [ 4387884901] bekssss90            a.k.a. ga_gagajah          
+2023-03-18T02:30:54Z: PLAYER ADDED   [ 2373995199] 20madirose1          a.k.a. bean5_madi          
+2023-03-18T02:34:28Z: PLAYER REMOVED [ 1581340012] basenjilover5       
+2023-03-18T02:34:34Z: PLAYER ADDED   [ 1928232648] galaxianaranjo      
+2023-03-18T02:36:09Z: PLAYER REMOVED [ 1928232648] galaxianaranjo      
+2023-03-18T02:37:51Z: PLAYER ADDED   [ 2376087791] ALDOOjime            a.k.a. Aldo                
+2023-03-18T02:38:37Z: PLAYER REMOVED [ 2376087791] ALDOOjime            a.k.a. Aldo                
+2023-03-18T02:38:42Z: PLAYER ADDED   [ 2054846062] sonictgebest         a.k.a. Denji               
+2023-03-18T02:39:28Z: PLAYER REMOVED [ 2054846062] sonictgebest         a.k.a. Denji               
+2023-03-18T02:39:29Z: PLAYER ADDED   [  639918236] wsierra22            a.k.a. You                 
+2023-03-18T02:40:32Z: PLAYER REMOVED [ 2373995199] 20madirose1          a.k.a. bean5_madi          
+2023-03-18T02:40:36Z: PLAYER ADDED   [ 1603652713] DisnpeyWoerker11    
+2023-03-18T02:41:24Z: PLAYER CHATTED [ 1603652713] DisnpeyWoerker11     ( -142.4,     4.5,  -121.8)
+  i caht ###### sc
+2023-03-18T02:41:38Z: PLAYER CHATTED [ 1603652713] DisnpeyWoerker11     ( -142.4,     4.5,  -121.8)
+  or lttr aftr d and aftr p and v
+2023-03-18T02:41:42Z: PLAYER CHATTED [ 1603652713] DisnpeyWoerker11     ( -126.4,     4.5,  -121.7)
+  / danc
+2023-03-18T02:42:34Z: PLAYER CHATTED [ 1603652713] DisnpeyWoerker11     ( -121.8,     4.5,  -110.5)
+  /e dance
+2023-03-18T02:42:55Z: PLAYER CHATTED [ 1603652713] DisnpeyWoerker11     ( -121.8,     4.5,  -110.5)
+  on screen keyboard helped
+2023-03-18T02:43:01Z: PLAYER REMOVED [  639918236] wsierra22            a.k.a. You                 
+2023-03-18T02:43:24Z: PLAYER CHATTED [ 1603652713] DisnpeyWoerker11     ( -128.7,     4.5,  -119.9)
+  / danc
+2023-03-18T02:43:45Z: PLAYER CHATTED [ 1603652713] DisnpeyWoerker11     ( -128.0,    10.3,   -95.5)
+  hr othrs
+2023-03-18T02:44:15Z: PLAYER ADDED   [   62444315] iitzGodzilla         a.k.a. Hurricanezer        
+2023-03-18T02:45:12Z: PLAYER CHATTED [ 1603652713] DisnpeyWoerker11     ( -128.0,    10.3,   -95.5)
+   obard
+2023-03-18T02:45:13Z: PLAYER CHATTED [ 1603652713] DisnpeyWoerker11     ( -128.0,    10.3,   -95.5)
+  boardy
+2023-03-18T02:45:21Z: PLAYER CHATTED [   62444315] iitzGodzilla         ( -135.7,     9.7,   -89.9)
+  what is this game
+2023-03-18T02:45:52Z: PLAYER CHATTED [ 1603652713] DisnpeyWoerker11     ( -128.0,    10.3,   -95.5)
+  ###################
+2023-03-18T02:47:43Z: PLAYER CHATTED [ 1603652713] DisnpeyWoerker11     ( -128.0,    10.3,   -95.5)
+  i igussd
+2023-03-18T02:48:18Z: PLAYER CHATTED [ 1603652713] DisnpeyWoerker11     ( -128.0,    10.3,   -95.5)
+  z
+2023-03-18T02:48:20Z: PLAYER CHATTED [ 1603652713] DisnpeyWoerker11     ( -128.0,    10.3,   -95.5)
+  asy
+2023-03-18T02:48:23Z: PLAYER CHATTED [ 1603652713] DisnpeyWoerker11     ( -128.0,    10.3,   -95.5)
+  lttr aftr d
+2023-03-18T02:48:56Z: PLAYER CHATTED [ 1603652713] DisnpeyWoerker11     ( -128.0,    10.3,   -95.5)
+  idk
+2023-03-18T02:49:00Z: PLAYER CHATTED [ 1603652713] DisnpeyWoerker11     ( -128.0,    10.3,   -95.5)
+  lol
+2023-03-18T02:49:38Z: PLAYER CHATTED [ 1603652713] DisnpeyWoerker11     ( -128.0,    10.3,   -95.5)
+  ;cklihlgbvjlhkjhgf
+2023-03-18T02:50:06Z: PLAYER CHATTED [ 1603652713] DisnpeyWoerker11     ( -128.0,    10.3,   -95.5)
+  o
+2023-03-18T02:50:09Z: PLAYER CHATTED [ 1603652713] DisnpeyWoerker11     ( -128.0,    10.3,   -95.5)
+  ooooooooooooooooooooooooooooooo
+2023-03-18T02:50:25Z: PLAYER CHATTED [ 1603652713] DisnpeyWoerker11     ( -128.0,    10.3,   -95.5)
+  o';
+2023-03-18T02:50:35Z: PLAYER REMOVED [ 1603652713] DisnpeyWoerker11    
+2023-03-18T02:52:51Z: PLAYER ADDED   [ 1652227386] TwinDadx             a.k.a. Idk                 
+2023-03-18T02:53:26Z: PLAYER ADDED   [ 3948346585] TwinGirlxA          
+2023-03-18T03:01:09Z: PLAYER REMOVED [ 1494645150] Truly_Toast          a.k.a. jorge               
+2023-03-18T03:02:57Z: PLAYER REMOVED [ 1652227386] TwinDadx             a.k.a. Idk                 
+2023-03-18T03:03:02Z: PLAYER REMOVED [ 3948346585] TwinGirlxA          
+2023-03-18T03:03:03Z: PLAYER ADDED   [   75991633] TOKKIDOKl            a.k.a. megs                
+2023-03-18T03:03:05Z: PLAYER ADDED   [ 3819888839] chito437            
+2023-03-18T03:05:38Z: PLAYER REMOVED [   75991633] TOKKIDOKl            a.k.a. megs                
+2023-03-18T03:05:43Z: PLAYER REMOVED [   62444315] iitzGodzilla         a.k.a. Hurricanezer        
+2023-03-18T03:06:00Z: PLAYER ADDED   [ 1373240410] Zoey_Zee12           a.k.a. Zebra               
+2023-03-18T03:06:16Z: PLAYER ADDED   [ 2772684299] Godzillasfossil      a.k.a. AsianRiceFarmer     
+2023-03-18T03:07:53Z: PLAYER REMOVED [ 1373240410] Zoey_Zee12           a.k.a. Zebra               
+2023-03-18T03:07:54Z: PLAYER ADDED   [ 2645435170] Usirhx14            
+2023-03-18T03:09:03Z: PLAYER REMOVED [ 3819888839] chito437            
+2023-03-18T03:09:04Z: PLAYER ADDED   [ 2522489055] SirFreshington      
+2023-03-18T03:09:08Z: PLAYER REMOVED [ 2522489055] SirFreshington      
+2023-03-18T03:09:15Z: PLAYER ADDED   [  650573166] 12gumb               a.k.a. tobey_maguire       
+2023-03-18T03:10:56Z: PLAYER REMOVED [ 2772684299] Godzillasfossil      a.k.a. AsianRiceFarmer     
+2023-03-18T03:11:07Z: PLAYER ADDED   [ 4046176435] POP_POPBOAT         
+2023-03-18T03:14:09Z: PLAYER REMOVED [  650573166] 12gumb               a.k.a. tobey_maguire       
+2023-03-18T03:14:55Z: PLAYER REMOVED [ 2645435170] Usirhx14            
+2023-03-18T03:18:16Z: PLAYER ADDED   [ 2590929501] AngryYeetyFruity     a.k.a. Angry               
+2023-03-18T03:18:50Z: PLAYER ADDED   [ 1732256304] Ridows_kloppy        a.k.a. KingMarvin          
+2023-03-18T03:19:59Z: PLAYER REMOVED [ 2590929501] AngryYeetyFruity     a.k.a. Angry               
+2023-03-18T03:20:07Z: PLAYER ADDED   [  335363020] IAmAMemerWasTaken    a.k.a. Jacket              
+2023-03-18T03:23:36Z: PLAYER REMOVED [  335363020] IAmAMemerWasTaken    a.k.a. Jacket              
+2023-03-18T03:23:49Z: PLAYER REMOVED [ 1732256304] Ridows_kloppy        a.k.a. KingMarvin          
+2023-03-18T03:26:39Z: PLAYER ADDED   [ 2322199126] G86tfg              
+2023-03-18T03:26:39Z: PLAYER ADDED   [ 3205430683] Wh0Flat              a.k.a. IPlayGamesWDumPeeeps
+2023-03-18T03:26:50Z: PLAYER ADDED   [ 1863102060] neon6893             a.k.a. hotdogsgoods        
+2023-03-18T03:27:07Z: PLAYER ADDED   [ 1581340012] basenjilover5       
+2023-03-18T03:27:16Z: PLAYER CHATTED [ 1863102060] neon6893             ( -191.6,     4.3,  -121.3)
+  a
+2023-03-18T03:28:07Z: PLAYER CHATTED [ 1863102060] neon6893             (  -83.9,     2.0,  -133.6)
+  ow
+2023-03-18T03:28:08Z: PLAYER CHATTED [ 1863102060] neon6893             (  -84.0,     4.6,  -133.3)
+  a
+2023-03-18T03:28:32Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  i suck at this
+2023-03-18T03:28:32Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  a
+2023-03-18T03:28:33Z: PLAYER CHATTED [ 3205430683] Wh0Flat              ( -139.9,    10.0,   -87.7)
+  /w neon6893  yippie
+2023-03-18T03:28:45Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  ############
+2023-03-18T03:28:45Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  a
+2023-03-18T03:28:47Z: PLAYER CHATTED [ 3205430683] Wh0Flat              ( -139.9,    10.0,   -87.7)
+  a
+2023-03-18T03:29:02Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  do
+2023-03-18T03:29:05Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  eyes on the prizes
+2023-03-18T03:29:07Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  a
+2023-03-18T03:29:23Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  CAN THE GUY SHUT UP
+2023-03-18T03:29:24Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  a
+2023-03-18T03:29:29Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  idk
+2023-03-18T03:29:30Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  a
+2023-03-18T03:29:37Z: PLAYER CHATTED [ 3205430683] Wh0Flat              ( -139.9,    10.0,   -87.7)
+  idk where to look
+2023-03-18T03:29:45Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  spades
+2023-03-18T03:29:45Z: PLAYER CHATTED [ 3205430683] Wh0Flat              ( -139.9,    10.0,   -87.7)
+  car batery 
+2023-03-18T03:29:45Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  a
+2023-03-18T03:29:50Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  guessed
+2023-03-18T03:29:55Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  a
+2023-03-18T03:30:36Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  a
+2023-03-18T03:30:38Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  a
+2023-03-18T03:30:44Z: PLAYER CHATTED [ 3205430683] Wh0Flat              ( -139.9,    10.0,   -87.7)
+  I DONT UNDERSTAND
+2023-03-18T03:30:48Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  same
+2023-03-18T03:30:49Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  a
+2023-03-18T03:31:25Z: PLAYER CHATTED [ 3205430683] Wh0Flat              ( -139.9,    10.0,   -87.7)
+  yay
+2023-03-18T03:31:26Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  easiest one
+2023-03-18T03:31:27Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  a
+2023-03-18T03:32:25Z: PLAYER CHATTED [ 3205430683] Wh0Flat              ( -139.9,    10.0,   -87.7)
+  DANGT
+2023-03-18T03:32:43Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  i am just guessing
+2023-03-18T03:32:44Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  a
+2023-03-18T03:32:51Z: PLAYER CHATTED [ 3205430683] Wh0Flat              ( -139.9,    10.0,   -87.7)
+  ##################
+2023-03-18T03:32:53Z: PLAYER CHATTED [ 3205430683] Wh0Flat              ( -139.9,    10.0,   -87.7)
+  LOOL
+2023-03-18T03:33:32Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  idk
+2023-03-18T03:33:33Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  a
+2023-03-18T03:33:35Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  i forgor
+2023-03-18T03:33:37Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  aaaa
+2023-03-18T03:33:37Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  a
+2023-03-18T03:33:43Z: PLAYER CHATTED [ 3205430683] Wh0Flat              ( -139.9,    10.0,   -87.7)
+  im it was prob 10K? 
+2023-03-18T03:33:48Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  i guessed it right
+2023-03-18T03:33:51Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  a
+2023-03-18T03:33:52Z: PLAYER CHATTED [ 3205430683] Wh0Flat              ( -139.9,    10.0,   -87.7)
+  WHAT WAS IT
+2023-03-18T03:34:00Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  13k miles
+2023-03-18T03:34:14Z: PLAYER CHATTED [ 3205430683] Wh0Flat              ( -139.9,    10.0,   -87.7)
+  oh ok
+2023-03-18T03:34:20Z: PLAYER CHATTED [ 3205430683] Wh0Flat              ( -139.9,    10.0,   -87.7)
+  i cannot 
+2023-03-18T03:34:25Z: PLAYER CHATTED [ 3205430683] Wh0Flat              ( -139.9,    10.0,   -87.7)
+  brain isnt braining
+2023-03-18T03:34:29Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  skin duh
+2023-03-18T03:34:31Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  a
+2023-03-18T03:34:50Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  you can see the right answer in the buttom middle of your sreen
+2023-03-18T03:34:51Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  a
+2023-03-18T03:34:52Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  a
+2023-03-18T03:34:54Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  a
+2023-03-18T03:35:24Z: PLAYER CHATTED [ 3205430683] Wh0Flat              ( -139.9,    10.0,   -87.7)
+  what.. 
+2023-03-18T03:35:24Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  a
+2023-03-18T03:35:38Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  ##
+2023-03-18T03:35:38Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  a
+2023-03-18T03:35:39Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  why
+2023-03-18T03:35:40Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  a
+2023-03-18T03:35:40Z: PLAYER CHATTED [ 3205430683] Wh0Flat              ( -139.9,    10.0,   -87.7)
+  i aint see nno answer
+2023-03-18T03:35:53Z: PLAYER CHATTED [ 3205430683] Wh0Flat              ( -139.9,    10.0,   -87.7)
+  I PICKED WRONG
+2023-03-18T03:35:59Z: PLAYER CHATTED [ 3205430683] Wh0Flat              ( -139.9,    10.0,   -87.7)
+  NO????? 
+2023-03-18T03:36:44Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  what the heck is that
+2023-03-18T03:36:44Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  a
+2023-03-18T03:36:47Z: PLAYER CHATTED [ 3205430683] Wh0Flat              ( -139.9,    10.0,   -87.7)
+  LOL
+2023-03-18T03:37:24Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  what
+2023-03-18T03:37:25Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  a
+2023-03-18T03:37:27Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  ;G
+2023-03-18T03:37:29Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  UH NO
+2023-03-18T03:37:31Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  UH OH
+2023-03-18T03:37:33Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  a
+2023-03-18T03:37:33Z: PLAYER CHATTED [ 3205430683] Wh0Flat              ( -139.9,    10.0,   -87.7)
+  petter griffin chin 
+2023-03-18T03:37:38Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  a
+2023-03-18T03:37:40Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  a
+2023-03-18T03:37:44Z: PLAYER CHATTED [ 3205430683] Wh0Flat              ( -139.9,    10.0,   -87.7)
+  deead
+2023-03-18T03:37:44Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  i knew it
+2023-03-18T03:37:45Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  a
+2023-03-18T03:37:59Z: PLAYER CHATTED [ 3205430683] Wh0Flat              ( -139.9,    10.0,   -87.7)
+  im def gonna loose
+2023-03-18T03:38:19Z: PLAYER CHATTED [ 3205430683] Wh0Flat              ( -139.9,    10.0,   -87.7)
+  ill #### ### boardy
+2023-03-18T03:38:32Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  who the heck is boardy
+2023-03-18T03:38:38Z: PLAYER CHATTED [ 3205430683] Wh0Flat              ( -139.9,    10.0,   -87.7)
+  that guy 
+2023-03-18T03:38:41Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  UHHHHHHHHHHHHHHHHHHHHHHH
+2023-03-18T03:38:48Z: PLAYER CHATTED [ 3205430683] Wh0Flat              ( -139.9,    10.0,   -87.7)
+  nt 
+2023-03-18T03:38:53Z: PLAYER CHATTED [ 3205430683] Wh0Flat              ( -139.9,    10.0,   -87.7)
+  W
+2023-03-18T03:39:05Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  a
+2023-03-18T03:39:05Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  #
+2023-03-18T03:39:10Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  i dont want a autograph
+2023-03-18T03:39:11Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  a
+2023-03-18T03:39:12Z: PLAYER CHATTED [ 3205430683] Wh0Flat              ( -139.9,    10.0,   -87.7)
+  aint no one want an autograpgh
+2023-03-18T03:39:24Z: PLAYER CHATTED [ 3205430683] Wh0Flat              ( -139.9,    10.0,   -87.7)
+  i wonder how many people can fit in here on stage
+2023-03-18T03:39:44Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  a
+2023-03-18T03:40:11Z: PLAYER CHATTED [ 3205430683] Wh0Flat              ( -139.9,    10.0,   -87.7)
+  bruh 
+2023-03-18T03:42:12Z: PLAYER CHATTED [ 3205430683] Wh0Flat              ( -139.9,    10.0,   -87.7)
+  F UESDHFCVB
+2023-03-18T03:42:18Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  HOW IS POP SO GOOD
+2023-03-18T03:42:19Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  a
+2023-03-18T03:42:28Z: PLAYER CHATTED [ 3205430683] Wh0Flat              ( -139.9,    10.0,   -87.7)
+  i like when the banana walks it pops
+2023-03-18T03:42:45Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  ?
+2023-03-18T03:42:53Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  i did not focus on it
+2023-03-18T03:42:53Z: PLAYER CHATTED [ 1863102060] neon6893             ( -135.7,    10.1,   -89.9)
+  a
+2023-03-18T03:43:03Z: PLAYER CHATTED [ 3205430683] Wh0Flat              ( -139.9,    10.0,   -87.7)
+  /w neon6893  ok
+2023-03-18T03:43:18Z: PLAYER CHATTED [ 1863102060] neon6893             ( -132.8,    10.0,   -91.1)
+  abyss world
+2023-03-18T03:43:18Z: PLAYER CHATTED [ 1863102060] neon6893             ( -132.8,    10.0,   -91.1)
+  ?
+2023-03-18T03:43:20Z: PLAYER CHATTED [ 3205430683] Wh0Flat              ( -127.1,     4.2,  -117.2)
+  bro house is a car
+2023-03-18T03:43:31Z: PLAYER CHATTED [ 1863102060] neon6893             ( -128.5,     4.3,  -130.3)
+  a
+2023-03-18T03:43:48Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -173.8,     4.6,  -139.0)
+  Hi.
+2023-03-18T03:43:50Z: PLAYER CHATTED [ 3205430683] Wh0Flat              ( -121.1,     4.2,  -135.2)
+  sure 
+2023-03-18T03:43:52Z: PLAYER CHATTED [ 1863102060] neon6893             ( -112.0,     4.3,  -135.0)
+  ok
+2023-03-18T03:43:52Z: PLAYER CHATTED [ 1863102060] neon6893             ( -112.0,     4.3,  -135.0)
+  a
+2023-03-18T03:43:55Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -173.8,     4.6,  -139.0)
+  Can khan?
+2023-03-18T03:43:58Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -173.8,     4.6,  -139.0)
+  Khan can?
+2023-03-18T03:44:04Z: PLAYER REMOVED [ 3205430683] Wh0Flat              a.k.a. IPlayGamesWDumPeeeps
+2023-03-18T03:44:07Z: PLAYER REMOVED [ 1863102060] neon6893             a.k.a. hotdogsgoods        
+2023-03-18T03:44:12Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -173.8,     4.6,  -139.0)
+  Do your puns got hashtaggy?
+2023-03-18T03:44:26Z: PLAYER CHATTED [ 4046176435] POP_POPBOAT          (  -72.7,     4.0,   -85.1)
+  They sure did
+2023-03-18T03:44:26Z: PLAYER CHATTED [ 1581340012] basenjilover5        ( -173.4,     5.1,  -131.9)
+  ye
+2023-03-18T03:44:44Z: PLAYER REMOVED [ 1581340012] basenjilover5       
+2023-03-18T03:45:01Z: PLAYER REMOVED [ 4046176435] POP_POPBOAT         
+2023-03-18T03:45:49Z: PLAYER ADDED   [ 4100599639] mkshrj4             
+2023-03-18T03:46:44Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -137.2,    10.3,   -98.1)
+  Hi!
+2023-03-18T03:46:51Z: PLAYER CHATTED [ 4100599639] mkshrj4              ( -131.7,     9.9,   -92.5)
+  hi
+2023-03-18T03:46:58Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -129.9,    10.3,   -94.2)
+  Miseryopolis?
+2023-03-18T03:47:37Z: PLAYER ADDED   [ 2833232853] 108cookiesandcrean   a.k.a. Morz                
+2023-03-18T03:52:15Z: PLAYER CHATTED [ 4100599639] mkshrj4              ( -131.7,     9.9,   -92.5)
+  waw
+2023-03-18T03:52:38Z: PLAYER CHATTED [ 2833232853] 108cookiesandcrean   ( -139.9,     9.9,   -87.7)
+  LXMAOOO
+2023-03-18T03:56:50Z: PLAYER REMOVED [ 2833232853] 108cookiesandcrean   a.k.a. Morz                
+2023-03-18T03:56:55Z: PLAYER ADDED   [ 4196495723] Hakiuyruiyou6557    
+2023-03-18T03:56:55Z: PLAYER ADDED   [ 1581340012] basenjilover5       
+2023-03-18T03:56:55Z: PLAYER REMOVED [ 4100599639] mkshrj4             
+2023-03-18T03:57:00Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -152.3,     6.0,  -140.5)
+  Yes.
+2023-03-18T03:57:32Z: PLAYER REMOVED [ 4196495723] Hakiuyruiyou6557    
+2023-03-18T03:58:21Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -106.5,     4.6,  -116.8)
+  My time is done.
+2023-03-18T03:58:25Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -106.5,     4.6,  -116.8)
+  And so is my mission.
+2023-03-18T03:58:33Z: PLAYER ADDED   [ 3752086938] 11EZolea            
+2023-03-18T03:58:38Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

@@ -1,0 +1,883 @@
+[    1630228] : [12507168697] The Announcer's Obby - 91c92500-7c02-4c97-b6fe-f9a4f9639999
+2023-03-18T00:14:15Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-03-18T00:14:15Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-18T00:14:15Z: PLAYER ADDED   [ 1386345330] Mr_Magoo58           a.k.a. Sonic               
+2023-03-18T00:14:15Z: PLAYER ADDED   [ 2967337817] Pax_Guestt           a.k.a. xxSportyBuffKidxx   
+2023-03-18T00:14:15Z: PLAYER ADDED   [   71473871] SffEEP               a.k.a. Sheep               
+2023-03-18T00:14:15Z: PLAYER ADDED   [ 3631351457] uhhhhhhhhhhhhhhhh58  a.k.a. uhhhhhhhhhhhhhhhh56 
+2023-03-18T00:14:15Z: PLAYER ADDED   [  311185695] ANT1CH34T            a.k.a. Rei                 
+2023-03-18T00:14:15Z: PLAYER ADDED   [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:14:15Z: PLAYER ADDED   [   25769996] rat9426              a.k.a. Corr                
+2023-03-18T00:14:15Z: PLAYER ADDED   [ 1192955440] cristoferleader13    a.k.a. kyle_higgns         
+2023-03-18T00:14:15Z: PLAYER ADDED   [  447142958] Earthquakeblue       a.k.a. Choco               
+2023-03-18T00:14:15Z: PLAYER ADDED   [   87761202] Digitomic            a.k.a. Digit               
+2023-03-18T00:14:15Z: PLAYER ADDED   [  538966029] StealerOfBreads      a.k.a. Kydra               
+2023-03-18T00:14:15Z: PLAYER ADDED   [  941955824] jaffasganteng        a.k.a. halo                
+2023-03-18T00:14:15Z: PLAYER ADDED   [  360822798] Sonicexe72209        a.k.a. TheWhispersOfTheVoid
+2023-03-18T00:14:15Z: PLAYER ADDED   [   86048458] borderlineInsanity00
+2023-03-18T00:14:15Z: PLAYER ADDED   [  471549046] edwinxbc             a.k.a. Noob                
+2023-03-18T00:14:15Z: PLAYER ADDED   [  124416015] nicekid1805          a.k.a. IAmNotAVeryProGamer 
+2023-03-18T00:14:15Z: PLAYER ADDED   [   23647958] GE5AFF               a.k.a. gesaff              
+2023-03-18T00:14:15Z: PLAYER ADDED   [ 2475896794] gonisthemvp1         a.k.a. Messi               
+2023-03-18T00:14:15Z: PLAYER ADDED   [  987611264] roblox_mjr           a.k.a. Cinnimon            
+2023-03-18T00:14:15Z: PLAYER ADDED   [  161736274] LevelErickmoreno08   a.k.a. guiding_light       
+2023-03-18T00:14:15Z: PLAYER ADDED   [ 2618726488] bobismadwhatdidudo   a.k.a. boss_beep           
+2023-03-18T00:14:15Z: PLAYER ADDED   [  729574473] zionsmithroar        a.k.a. real_nart           
+2023-03-18T00:14:15Z: PLAYER ADDED   [  561947466] jaydenshishi         a.k.a. ToAST               
+2023-03-18T00:14:15Z: PLAYER ADDED   [ 1404520455] CRTbest123bob        a.k.a. Wicky               
+2023-03-18T00:14:18Z: CHRCTER ADDED  [  124416015] nicekid1805          a.k.a. IAmNotAVeryProGamer 
+2023-03-18T00:14:19Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-18T00:14:19Z: PLAYER CHATTED [ 2618726488] bobismadwhatdidudo   ( -445.4,    70.6,    18.3)
+  since collision is on
+2023-03-18T00:14:19Z: CHRCTER ADDED  [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:14:20Z: CHRCTER ADDED  [  124416015] nicekid1805          a.k.a. IAmNotAVeryProGamer 
+2023-03-18T00:14:21Z: CHRCTER ADDED  [  561947466] jaydenshishi         a.k.a. ToAST               
+2023-03-18T00:14:21Z: CHRCTER ADDED  [  124416015] nicekid1805          a.k.a. IAmNotAVeryProGamer 
+2023-03-18T00:14:22Z: CHRCTER ADDED  [ 1404520455] CRTbest123bob        a.k.a. Wicky               
+2023-03-18T00:14:22Z: PLAYER CHATTED [  447142958] Earthquakeblue       (  -41.8,    31.0,   -26.3)
+  mhm?
+2023-03-18T00:14:25Z: CHRCTER ADDED  [  161736274] LevelErickmoreno08   a.k.a. guiding_light       
+2023-03-18T00:14:27Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-18T00:14:28Z: CHRCTER ADDED  [ 1192955440] cristoferleader13    a.k.a. kyle_higgns         
+2023-03-18T00:14:28Z: PLAYER CHATTED [ 2618726488] bobismadwhatdidudo   ( -445.4,    70.6,    18.3)
+  can’t we stack at the front of the maze
+2023-03-18T00:14:29Z: CHRCTER ADDED  [  561947466] jaydenshishi         a.k.a. ToAST               
+2023-03-18T00:14:30Z: CHRCTER ADDED  [  124416015] nicekid1805          a.k.a. IAmNotAVeryProGamer 
+2023-03-18T00:14:30Z: CHRCTER ADDED  [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:14:31Z: PLAYER CHATTED [  447142958] Earthquakeblue       (   -9.5,    48.8,   -73.0)
+  uhhh
+2023-03-18T00:14:32Z: PLAYER CHATTED [ 2618726488] bobismadwhatdidudo   ( -445.5,    70.6,    18.3)
+  and get to the top
+2023-03-18T00:14:32Z: CHRCTER ADDED  [  360822798] Sonicexe72209        a.k.a. TheWhispersOfTheVoid
+2023-03-18T00:14:34Z: CHRCTER ADDED  [   86048458] borderlineInsanity00
+2023-03-18T00:14:34Z: PLAYER CHATTED [  447142958] Earthquakeblue       (   -9.5,    48.8,   -73.0)
+  probably?
+2023-03-18T00:14:34Z: PLAYER CHATTED [ 1386345330] Mr_Magoo58           ( -446.0,    70.6,    13.7)
+  look at the back wall of 5he room
+2023-03-18T00:14:34Z: CHRCTER ADDED  [  538966029] StealerOfBreads      a.k.a. Kydra               
+2023-03-18T00:14:35Z: CHRCTER ADDED  [ 1404520455] CRTbest123bob        a.k.a. Wicky               
+2023-03-18T00:14:36Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-18T00:14:38Z: PLAYER CHATTED [ 2618726488] bobismadwhatdidudo   ( -445.5,    70.6,    18.3)
+  and enter the room then?
+2023-03-18T00:14:38Z: PLAYER CHATTED [ 1386345330] Mr_Magoo58           ( -446.2,    70.6,    13.6)
+  the*
+2023-03-18T00:14:43Z: CHRCTER ADDED  [ 1404520455] CRTbest123bob        a.k.a. Wicky               
+2023-03-18T00:14:45Z: PLAYER CHATTED [ 1386345330] Mr_Magoo58           ( -445.8,    70.6,    13.3)
+  path
+2023-03-18T00:14:45Z: PLAYER REMOVED [   86048458] borderlineInsanity00
+2023-03-18T00:14:46Z: CHRCTER ADDED  [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:14:48Z: CHRCTER ADDED  [   23647958] GE5AFF               a.k.a. gesaff              
+2023-03-18T00:14:49Z: CHRCTER ADDED  [  729574473] zionsmithroar        a.k.a. real_nart           
+2023-03-18T00:14:49Z: CHRCTER ADDED  [  538966029] StealerOfBreads      a.k.a. Kydra               
+2023-03-18T00:14:52Z: CHRCTER ADDED  [  161736274] LevelErickmoreno08   a.k.a. guiding_light       
+2023-03-18T00:14:52Z: CHRCTER ADDED  [ 2618726488] bobismadwhatdidudo   a.k.a. boss_beep           
+2023-03-18T00:14:55Z: CHRCTER ADDED  [  729574473] zionsmithroar        a.k.a. real_nart           
+2023-03-18T00:14:57Z: CHRCTER ADDED  [   87761202] Digitomic            a.k.a. Digit               
+2023-03-18T00:14:57Z: PLAYER CHATTED [  941955824] jaffasganteng        (   11.1,     3.4,     7.6)
+  bak
+2023-03-18T00:14:57Z: CHRCTER ADDED  [  124416015] nicekid1805          a.k.a. IAmNotAVeryProGamer 
+2023-03-18T00:14:58Z: CHRCTER ADDED  [ 1192955440] cristoferleader13    a.k.a. kyle_higgns         
+2023-03-18T00:15:00Z: CHRCTER ADDED  [ 2475896794] gonisthemvp1         a.k.a. Messi               
+2023-03-18T00:15:00Z: CHRCTER ADDED  [   87761202] Digitomic            a.k.a. Digit               
+2023-03-18T00:15:01Z: PLAYER CHATTED [  561947466] jaydenshishi         ( -337.0,     7.9,    10.1)
+  e
+2023-03-18T00:15:02Z: CHRCTER ADDED  [  729574473] zionsmithroar        a.k.a. real_nart           
+2023-03-18T00:15:03Z: CHRCTER ADDED  [   23647958] GE5AFF               a.k.a. gesaff              
+2023-03-18T00:15:03Z: PLAYER REMOVED [   71473871] SffEEP               a.k.a. Sheep               
+2023-03-18T00:15:03Z: CHRCTER ADDED  [   25769996] rat9426              a.k.a. Corr                
+2023-03-18T00:15:04Z: CHRCTER ADDED  [ 2475896794] gonisthemvp1         a.k.a. Messi               
+2023-03-18T00:15:06Z: PLAYER CHATTED [ 1386345330] Mr_Magoo58           ( -465.5,    68.2,    27.7)
+  nvm
+2023-03-18T00:15:07Z: CHRCTER ADDED  [ 2475896794] gonisthemvp1         a.k.a. Messi               
+2023-03-18T00:15:10Z: CHRCTER ADDED  [   87761202] Digitomic            a.k.a. Digit               
+2023-03-18T00:15:10Z: CHRCTER ADDED  [   23647958] GE5AFF               a.k.a. gesaff              
+2023-03-18T00:15:10Z: CHRCTER ADDED  [  729574473] zionsmithroar        a.k.a. real_nart           
+2023-03-18T00:15:11Z: CHRCTER ADDED  [  561947466] jaydenshishi         a.k.a. ToAST               
+2023-03-18T00:15:11Z: CHRCTER ADDED  [   87761202] Digitomic            a.k.a. Digit               
+2023-03-18T00:15:13Z: CHRCTER ADDED  [   23647958] GE5AFF               a.k.a. gesaff              
+2023-03-18T00:15:13Z: PLAYER REMOVED [  987611264] roblox_mjr           a.k.a. Cinnimon            
+2023-03-18T00:15:13Z: PLAYER ADDED   [ 2742689623] Tankman6362          a.k.a. Reddex              
+2023-03-18T00:15:14Z: CHRCTER ADDED  [   25769996] rat9426              a.k.a. Corr                
+2023-03-18T00:15:15Z: PLAYER REMOVED [   87761202] Digitomic            a.k.a. Digit               
+2023-03-18T00:15:15Z: CHRCTER ADDED  [  729574473] zionsmithroar        a.k.a. real_nart           
+2023-03-18T00:15:16Z: CHRCTER ADDED  [  161736274] LevelErickmoreno08   a.k.a. guiding_light       
+2023-03-18T00:15:18Z: CHRCTER ADDED  [   23647958] GE5AFF               a.k.a. gesaff              
+2023-03-18T00:15:19Z: CHRCTER ADDED  [  161736274] LevelErickmoreno08   a.k.a. guiding_light       
+2023-03-18T00:15:21Z: CHRCTER ADDED  [  360822798] Sonicexe72209        a.k.a. TheWhispersOfTheVoid
+2023-03-18T00:15:21Z: CHRCTER ADDED  [  161736274] LevelErickmoreno08   a.k.a. guiding_light       
+2023-03-18T00:15:22Z: PLAYER ADDED   [   30637725] jackamac852          a.k.a. snail               
+2023-03-18T00:15:24Z: CHRCTER ADDED  [ 2742689623] Tankman6362          a.k.a. Reddex              
+2023-03-18T00:15:26Z: CHRCTER ADDED  [   25769996] rat9426              a.k.a. Corr                
+2023-03-18T00:15:26Z: CHRCTER ADDED  [   23647958] GE5AFF               a.k.a. gesaff              
+2023-03-18T00:15:26Z: CHRCTER ADDED  [  161736274] LevelErickmoreno08   a.k.a. guiding_light       
+2023-03-18T00:15:27Z: CHRCTER ADDED  [ 2475896794] gonisthemvp1         a.k.a. Messi               
+2023-03-18T00:15:29Z: PLAYER ADDED   [ 1493572964] Mero16123            a.k.a. Benja               
+2023-03-18T00:15:30Z: CHRCTER ADDED  [  161736274] LevelErickmoreno08   a.k.a. guiding_light       
+2023-03-18T00:15:34Z: CHRCTER ADDED  [ 2475896794] gonisthemvp1         a.k.a. Messi               
+2023-03-18T00:15:35Z: PLAYER CHATTED [  447142958] Earthquakeblue       ( -412.7,  -166.8,   133.3)
+  a
+2023-03-18T00:15:37Z: CHRCTER ADDED  [  447142958] Earthquakeblue       a.k.a. Choco               
+2023-03-18T00:15:38Z: PLAYER CHATTED [  538966029] StealerOfBreads      ( -394.9,     6.6,   134.1)
+  krill issue
+2023-03-18T00:15:38Z: CHRCTER ADDED  [ 1493572964] Mero16123            a.k.a. Benja               
+2023-03-18T00:15:39Z: CHRCTER ADDED  [ 2742689623] Tankman6362          a.k.a. Reddex              
+2023-03-18T00:15:40Z: CHRCTER ADDED  [   25769996] rat9426              a.k.a. Corr                
+2023-03-18T00:15:40Z: CHRCTER ADDED  [ 3631351457] uhhhhhhhhhhhhhhhh58  a.k.a. uhhhhhhhhhhhhhhhh56 
+2023-03-18T00:15:44Z: CHRCTER ADDED  [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:15:44Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -290.0,     7.6,   -55.5)
+  They're called 'lava jumps'.
+2023-03-18T00:15:45Z: PLAYER CHATTED [  311185695] ANT1CH34T            ( -465.4,    82.6,    41.5)
+  /e dance
+2023-03-18T00:15:45Z: CHRCTER ADDED  [  124416015] nicekid1805          a.k.a. IAmNotAVeryProGamer 
+2023-03-18T00:15:47Z: CHRCTER ADDED  [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:15:47Z: CHRCTER ADDED  [  124416015] nicekid1805          a.k.a. IAmNotAVeryProGamer 
+2023-03-18T00:15:47Z: CHRCTER ADDED  [  729574473] zionsmithroar        a.k.a. real_nart           
+2023-03-18T00:15:47Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -290.0,     7.6,   -55.5)
+  Not ;ava bars'.
+2023-03-18T00:15:47Z: CHRCTER ADDED  [ 3631351457] uhhhhhhhhhhhhhhhh58  a.k.a. uhhhhhhhhhhhhhhhh56 
+2023-03-18T00:15:48Z: CHRCTER ADDED  [  471549046] edwinxbc             a.k.a. Noob                
+2023-03-18T00:15:50Z: PLAYER CHATTED [  447142958] Earthquakeblue       ( -373.2,  -401.9,    68.4)
+  lol
+2023-03-18T00:15:50Z: PLAYER CHATTED [  311185695] ANT1CH34T            ( -465.5,    82.6,    41.5)
+  ez
+2023-03-18T00:15:51Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -290.0,     7.6,   -55.5)
+  *Lava.
+2023-03-18T00:15:51Z: CHRCTER ADDED  [  447142958] Earthquakeblue       a.k.a. Choco               
+2023-03-18T00:15:51Z: PLAYER ADDED   [  116629440] alegamer666          a.k.a. PainPeko            
+2023-03-18T00:15:52Z: PLAYER REMOVED [  311185695] ANT1CH34T            a.k.a. Rei                 
+2023-03-18T00:15:53Z: CHRCTER ADDED  [  124416015] nicekid1805          a.k.a. IAmNotAVeryProGamer 
+2023-03-18T00:15:53Z: CHRCTER ADDED  [ 2742689623] Tankman6362          a.k.a. Reddex              
+2023-03-18T00:15:53Z: CHRCTER ADDED  [ 1404520455] CRTbest123bob        a.k.a. Wicky               
+2023-03-18T00:15:54Z: PLAYER REMOVED [  161736274] LevelErickmoreno08   a.k.a. guiding_light       
+2023-03-18T00:15:55Z: CHRCTER ADDED  [  729574473] zionsmithroar        a.k.a. real_nart           
+2023-03-18T00:15:56Z: CHRCTER ADDED  [ 1493572964] Mero16123            a.k.a. Benja               
+2023-03-18T00:15:56Z: CHRCTER ADDED  [ 1192955440] cristoferleader13    a.k.a. kyle_higgns         
+2023-03-18T00:15:57Z: PLAYER CHATTED [ 1493572964] Mero16123            (   10.0,    10.6,   -15.5)
+  q wea
+2023-03-18T00:15:59Z: CHRCTER ADDED  [ 1404520455] CRTbest123bob        a.k.a. Wicky               
+2023-03-18T00:15:59Z: CHRCTER ADDED  [  471549046] edwinxbc             a.k.a. Noob                
+2023-03-18T00:16:00Z: PLAYER ADDED   [ 1839820555] cowcenalion          a.k.a. Man                 
+2023-03-18T00:16:01Z: CHRCTER ADDED  [ 2742689623] Tankman6362          a.k.a. Reddex              
+2023-03-18T00:16:03Z: CHRCTER ADDED  [ 1493572964] Mero16123            a.k.a. Benja               
+2023-03-18T00:16:04Z: CHRCTER ADDED  [  447142958] Earthquakeblue       a.k.a. Choco               
+2023-03-18T00:16:04Z: PLAYER CHATTED [  116629440] alegamer666          (    1.5,    28.9,   -18.7)
+  su obby
+2023-03-18T00:16:06Z: CHRCTER ADDED  [   30637725] jackamac852          a.k.a. snail               
+2023-03-18T00:16:07Z: CHRCTER ADDED  [ 1192955440] cristoferleader13    a.k.a. kyle_higgns         
+2023-03-18T00:16:07Z: CHRCTER ADDED  [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:16:08Z: CHRCTER ADDED  [  116629440] alegamer666          a.k.a. PainPeko            
+2023-03-18T00:16:08Z: CHRCTER ADDED  [  124416015] nicekid1805          a.k.a. IAmNotAVeryProGamer 
+2023-03-18T00:16:09Z: CHRCTER ADDED  [ 1386345330] Mr_Magoo58           a.k.a. Sonic               
+2023-03-18T00:16:10Z: CHRCTER ADDED  [ 3631351457] uhhhhhhhhhhhhhhhh58  a.k.a. uhhhhhhhhhhhhhhhh56 
+2023-03-18T00:16:10Z: CHRCTER ADDED  [  729574473] zionsmithroar        a.k.a. real_nart           
+2023-03-18T00:16:11Z: CHRCTER ADDED  [  124416015] nicekid1805          a.k.a. IAmNotAVeryProGamer 
+2023-03-18T00:16:12Z: CHRCTER ADDED  [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:16:14Z: CHRCTER ADDED  [  124416015] nicekid1805          a.k.a. IAmNotAVeryProGamer 
+2023-03-18T00:16:14Z: CHRCTER ADDED  [  538966029] StealerOfBreads      a.k.a. Kydra               
+2023-03-18T00:16:16Z: PLAYER REMOVED [  729574473] zionsmithroar        a.k.a. real_nart           
+2023-03-18T00:16:16Z: CHRCTER ADDED  [ 1404520455] CRTbest123bob        a.k.a. Wicky               
+2023-03-18T00:16:17Z: CHRCTER ADDED  [   30637725] jackamac852          a.k.a. snail               
+2023-03-18T00:16:18Z: CHRCTER ADDED  [  941955824] jaffasganteng        a.k.a. halo                
+2023-03-18T00:16:19Z: CHRCTER ADDED  [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:16:19Z: CHRCTER ADDED  [ 1839820555] cowcenalion          a.k.a. Man                 
+2023-03-18T00:16:20Z: CHRCTER ADDED  [  124416015] nicekid1805          a.k.a. IAmNotAVeryProGamer 
+2023-03-18T00:16:20Z: CHRCTER ADDED  [ 1386345330] Mr_Magoo58           a.k.a. Sonic               
+2023-03-18T00:16:21Z: CHRCTER ADDED  [  561947466] jaydenshishi         a.k.a. ToAST               
+2023-03-18T00:16:23Z: CHRCTER ADDED  [  124416015] nicekid1805          a.k.a. IAmNotAVeryProGamer 
+2023-03-18T00:16:24Z: CHRCTER ADDED  [ 3631351457] uhhhhhhhhhhhhhhhh58  a.k.a. uhhhhhhhhhhhhhhhh56 
+2023-03-18T00:16:25Z: CHRCTER ADDED  [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:16:26Z: CHRCTER ADDED  [ 2475896794] gonisthemvp1         a.k.a. Messi               
+2023-03-18T00:16:31Z: CHRCTER ADDED  [  124416015] nicekid1805          a.k.a. IAmNotAVeryProGamer 
+2023-03-18T00:16:32Z: CHRCTER ADDED  [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:16:32Z: CHRCTER ADDED  [ 1386345330] Mr_Magoo58           a.k.a. Sonic               
+2023-03-18T00:16:32Z: CHRCTER ADDED  [ 2618726488] bobismadwhatdidudo   a.k.a. boss_beep           
+2023-03-18T00:16:34Z: PLAYER CHATTED [ 2618726488] bobismadwhatdidudo   ( -438.5,    74.5,    53.1)
+  GUYS
+2023-03-18T00:16:35Z: CHRCTER ADDED  [  124416015] nicekid1805          a.k.a. IAmNotAVeryProGamer 
+2023-03-18T00:16:37Z: CHRCTER ADDED  [  941955824] jaffasganteng        a.k.a. halo                
+2023-03-18T00:16:37Z: CHRCTER ADDED  [ 3631351457] uhhhhhhhhhhhhhhhh58  a.k.a. uhhhhhhhhhhhhhhhh56 
+2023-03-18T00:16:38Z: PLAYER CHATTED [ 2618726488] bobismadwhatdidudo   ( -455.6,    69.8,    12.7)
+  WE MUST STACK
+2023-03-18T00:16:39Z: CHRCTER ADDED  [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:16:39Z: CHRCTER ADDED  [  471549046] edwinxbc             a.k.a. Noob                
+2023-03-18T00:16:40Z: PLAYER ADDED   [  905369630] spongebobrulzwsomush a.k.a. SpongeBobMYT42      
+2023-03-18T00:16:41Z: PLAYER CHATTED [  447142958] Earthquakeblue       ( -402.5,    31.9,   173.7)
+  aight
+2023-03-18T00:16:41Z: CHRCTER ADDED  [  124416015] nicekid1805          a.k.a. IAmNotAVeryProGamer 
+2023-03-18T00:16:41Z: CHRCTER ADDED  [   25769996] rat9426              a.k.a. Corr                
+2023-03-18T00:16:42Z: PLAYER ADDED   [ 3904503487] Starzinyyyyyyyy      a.k.a. Starzy              
+2023-03-18T00:16:43Z: CHRCTER ADDED  [  124416015] nicekid1805          a.k.a. IAmNotAVeryProGamer 
+2023-03-18T00:16:44Z: CHRCTER ADDED  [  471549046] edwinxbc             a.k.a. Noob                
+2023-03-18T00:16:45Z: CHRCTER ADDED  [ 2475896794] gonisthemvp1         a.k.a. Messi               
+2023-03-18T00:16:45Z: CHRCTER ADDED  [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:16:45Z: PLAYER CHATTED [  538966029] StealerOfBreads      ( -439.2,    70.6,    52.2)
+  easy
+2023-03-18T00:16:45Z: CHRCTER ADDED  [ 1386345330] Mr_Magoo58           a.k.a. Sonic               
+2023-03-18T00:16:46Z: CHRCTER ADDED  [  561947466] jaydenshishi         a.k.a. ToAST               
+2023-03-18T00:16:46Z: PLAYER ADDED   [ 1909325750] BaconTheDemon_alt    a.k.a. BaconPost           
+2023-03-18T00:16:47Z: CHRCTER ADDED  [ 1909325750] BaconTheDemon_alt    a.k.a. BaconPost           
+2023-03-18T00:16:47Z: CHRCTER ADDED  [ 1909325750] BaconTheDemon_alt    a.k.a. BaconPost           
+2023-03-18T00:16:48Z: PLAYER CHATTED [ 2618726488] bobismadwhatdidudo   ( -455.6,    70.8,    12.7)
+  everybody go to the front of the maze
+2023-03-18T00:16:49Z: PLAYER CHATTED [  447142958] Earthquakeblue       ( -321.4,  -420.2,    37.5)
+  a
+2023-03-18T00:16:50Z: PLAYER CHATTED [ 2618726488] bobismadwhatdidudo   ( -455.6,    70.8,    12.7)
+  NOW!!!
+2023-03-18T00:16:50Z: CHRCTER ADDED  [  471549046] edwinxbc             a.k.a. Noob                
+2023-03-18T00:16:51Z: CHRCTER ADDED  [  447142958] Earthquakeblue       a.k.a. Choco               
+2023-03-18T00:16:51Z: CHRCTER ADDED  [  561947466] jaydenshishi         a.k.a. ToAST               
+2023-03-18T00:16:51Z: PLAYER CHATTED [  561947466] jaydenshishi         ( -421.0,    66.7,    31.5)
+  ok
+2023-03-18T00:16:52Z: CHRCTER ADDED  [ 1404520455] CRTbest123bob        a.k.a. Wicky               
+2023-03-18T00:16:52Z: CHRCTER ADDED  [  905369630] spongebobrulzwsomush a.k.a. SpongeBobMYT42      
+2023-03-18T00:16:54Z: CHRCTER ADDED  [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:16:54Z: CHRCTER ADDED  [  471549046] edwinxbc             a.k.a. Noob                
+2023-03-18T00:16:55Z: CHRCTER ADDED  [ 1404520455] CRTbest123bob        a.k.a. Wicky               
+2023-03-18T00:16:56Z: CHRCTER ADDED  [   30637725] jackamac852          a.k.a. snail               
+2023-03-18T00:16:57Z: CHRCTER ADDED  [ 1192955440] cristoferleader13    a.k.a. kyle_higgns         
+2023-03-18T00:16:58Z: PLAYER REMOVED [ 2475896794] gonisthemvp1         a.k.a. Messi               
+2023-03-18T00:16:58Z: CHRCTER ADDED  [  124416015] nicekid1805          a.k.a. IAmNotAVeryProGamer 
+2023-03-18T00:16:58Z: CHRCTER ADDED  [ 2618726488] bobismadwhatdidudo   a.k.a. boss_beep           
+2023-03-18T00:16:59Z: CHRCTER ADDED  [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:17:01Z: PLAYER CHATTED [  561947466] jaydenshishi         ( -419.3,    66.7,    30.9)
+  which front
+2023-03-18T00:17:02Z: CHRCTER ADDED  [   25769996] rat9426              a.k.a. Corr                
+2023-03-18T00:17:02Z: CHRCTER ADDED  [  471549046] edwinxbc             a.k.a. Noob                
+2023-03-18T00:17:03Z: CHRCTER ADDED  [ 1386345330] Mr_Magoo58           a.k.a. Sonic               
+2023-03-18T00:17:06Z: CHRCTER ADDED  [   25769996] rat9426              a.k.a. Corr                
+2023-03-18T00:17:07Z: CHRCTER ADDED  [ 1192955440] cristoferleader13    a.k.a. kyle_higgns         
+2023-03-18T00:17:07Z: CHRCTER ADDED  [ 1909325750] BaconTheDemon_alt    a.k.a. BaconPost           
+2023-03-18T00:17:08Z: PLAYER CHATTED [ 2618726488] bobismadwhatdidudo   ( -436.0,    69.4,    41.7)
+  the one with captain
+2023-03-18T00:17:09Z: CHRCTER ADDED  [ 1192955440] cristoferleader13    a.k.a. kyle_higgns         
+2023-03-18T00:17:11Z: PLAYER CHATTED [  561947466] jaydenshishi         ( -418.2,    66.2,    30.4)
+  oh
+2023-03-18T00:17:12Z: CHRCTER ADDED  [  360822798] Sonicexe72209        a.k.a. TheWhispersOfTheVoid
+2023-03-18T00:17:13Z: PLAYER CHATTED [ 1493572964] Mero16123            ( -440.5,     5.7,   128.3)
+  a
+2023-03-18T00:17:13Z: CHRCTER ADDED  [  116629440] alegamer666          a.k.a. PainPeko            
+2023-03-18T00:17:13Z: CHRCTER ADDED  [ 1386345330] Mr_Magoo58           a.k.a. Sonic               
+2023-03-18T00:17:13Z: PLAYER CHATTED [  561947466] jaydenshishi         ( -418.2,    66.2,    30.4)
+  e
+2023-03-18T00:17:16Z: PLAYER CHATTED [  621555049] nicebendy9393        ( -416.6,    65.8,    33.3)
+  k already here
+2023-03-18T00:17:16Z: CHRCTER ADDED  [ 2618726488] bobismadwhatdidudo   a.k.a. boss_beep           
+2023-03-18T00:17:18Z: CHRCTER ADDED  [   25769996] rat9426              a.k.a. Corr                
+2023-03-18T00:17:19Z: PLAYER REMOVED [ 3631351457] uhhhhhhhhhhhhhhhh58  a.k.a. uhhhhhhhhhhhhhhhh56 
+2023-03-18T00:17:21Z: CHRCTER ADDED  [ 1192955440] cristoferleader13    a.k.a. kyle_higgns         
+2023-03-18T00:17:21Z: CHRCTER ADDED  [  941955824] jaffasganteng        a.k.a. halo                
+2023-03-18T00:17:22Z: PLAYER CHATTED [ 2618726488] bobismadwhatdidudo   ( -438.0,    70.6,    53.0)
+  Alright we MUST GO NOW
+2023-03-18T00:17:23Z: CHRCTER ADDED  [   25769996] rat9426              a.k.a. Corr                
+2023-03-18T00:17:23Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-18T00:17:26Z: CHRCTER ADDED  [  941955824] jaffasganteng        a.k.a. halo                
+2023-03-18T00:17:29Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-18T00:17:29Z: CHRCTER ADDED  [   25769996] rat9426              a.k.a. Corr                
+2023-03-18T00:17:29Z: CHRCTER ADDED  [ 2618726488] bobismadwhatdidudo   a.k.a. boss_beep           
+2023-03-18T00:17:29Z: PLAYER CHATTED [  538966029] StealerOfBreads      ( -442.5,    69.4,    39.3)
+  /w Earthquakeblue  imma take a break now. cya.
+2023-03-18T00:17:30Z: CHRCTER ADDED  [  941955824] jaffasganteng        a.k.a. halo                
+2023-03-18T00:17:31Z: PLAYER CHATTED [ 2618726488] bobismadwhatdidudo   ( -438.0,    70.6,    52.7)
+  ow
+2023-03-18T00:17:32Z: PLAYER ADDED   [ 1889904784] sirZambrud           a.k.a. Chara               
+2023-03-18T00:17:33Z: CHRCTER ADDED  [   25769996] rat9426              a.k.a. Corr                
+2023-03-18T00:17:34Z: CHRCTER ADDED  [  941955824] jaffasganteng        a.k.a. halo                
+2023-03-18T00:17:34Z: CHRCTER ADDED  [ 1192955440] cristoferleader13    a.k.a. kyle_higgns         
+2023-03-18T00:17:35Z: CHRCTER ADDED  [  360822798] Sonicexe72209        a.k.a. TheWhispersOfTheVoid
+2023-03-18T00:17:35Z: CHRCTER ADDED  [ 2618726488] bobismadwhatdidudo   a.k.a. boss_beep           
+2023-03-18T00:17:36Z: PLAYER REMOVED [  124416015] nicekid1805          a.k.a. IAmNotAVeryProGamer 
+2023-03-18T00:17:36Z: PLAYER CHATTED [  447142958] Earthquakeblue       ( -352.3,    67.2,    26.3)
+  /w StealerOfBreads  cya!!
+2023-03-18T00:17:36Z: CHRCTER ADDED  [  561947466] jaydenshishi         a.k.a. ToAST               
+2023-03-18T00:17:37Z: CHRCTER ADDED  [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:17:37Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-18T00:17:38Z: CHRCTER ADDED  [   25769996] rat9426              a.k.a. Corr                
+2023-03-18T00:17:38Z: PLAYER CHATTED [ 1493572964] Mero16123            ( -368.1,    36.7,   206.6)
+  ez
+2023-03-18T00:17:39Z: PLAYER CHATTED [  447142958] Earthquakeblue       ( -352.3,    67.2,    26.3)
+  #######
+2023-03-18T00:17:40Z: PLAYER CHATTED [ 1386345330] Mr_Magoo58           ( -417.9,    66.3,    33.3)
+  I'm here
+2023-03-18T00:17:40Z: PLAYER CHATTED [  447142958] Earthquakeblue       ( -352.3,    67.2,    26.3)
+  a
+2023-03-18T00:17:40Z: PLAYER REMOVED [  538966029] StealerOfBreads      a.k.a. Kydra               
+2023-03-18T00:17:40Z: CHRCTER ADDED  [  905369630] spongebobrulzwsomush a.k.a. SpongeBobMYT42      
+2023-03-18T00:17:40Z: CHRCTER ADDED  [  941955824] jaffasganteng        a.k.a. halo                
+2023-03-18T00:17:41Z: PLAYER ADDED   [  294968421] Smagality            a.k.a. Smag                
+2023-03-18T00:17:41Z: CHRCTER ADDED  [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:17:42Z: CHRCTER ADDED  [ 2618726488] bobismadwhatdidudo   a.k.a. boss_beep           
+2023-03-18T00:17:43Z: CHRCTER ADDED  [   25769996] rat9426              a.k.a. Corr                
+2023-03-18T00:17:44Z: PLAYER CHATTED [ 1889904784] sirZambrud           (    6.6,     3.4,    -1.3)
+  same
+2023-03-18T00:17:46Z: CHRCTER ADDED  [   25769996] rat9426              a.k.a. Corr                
+2023-03-18T00:17:47Z: CHRCTER ADDED  [  905369630] spongebobrulzwsomush a.k.a. SpongeBobMYT42      
+2023-03-18T00:17:47Z: PLAYER CHATTED [ 1493572964] Mero16123            ( -328.7,    65.8,    23.9)
+  a
+2023-03-18T00:17:48Z: CHRCTER ADDED  [ 2618726488] bobismadwhatdidudo   a.k.a. boss_beep           
+2023-03-18T00:17:48Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-18T00:17:49Z: PLAYER ADDED   [ 1058555961] Zayn_TheRobloxian    a.k.a. Cardboard_Man       
+2023-03-18T00:17:49Z: CHRCTER ADDED  [  941955824] jaffasganteng        a.k.a. halo                
+2023-03-18T00:17:50Z: CHRCTER ADDED  [  905369630] spongebobrulzwsomush a.k.a. SpongeBobMYT42      
+2023-03-18T00:17:51Z: CHRCTER ADDED  [  905369630] spongebobrulzwsomush a.k.a. SpongeBobMYT42      
+2023-03-18T00:17:51Z: CHRCTER ADDED  [   25769996] rat9426              a.k.a. Corr                
+2023-03-18T00:17:51Z: CHRCTER ADDED  [  116629440] alegamer666          a.k.a. PainPeko            
+2023-03-18T00:17:52Z: PLAYER CHATTED [ 2618726488] bobismadwhatdidudo   ( -438.5,    70.6,    52.4)
+  wait there for a sec
+2023-03-18T00:17:52Z: CHRCTER ADDED  [  360822798] Sonicexe72209        a.k.a. TheWhispersOfTheVoid
+2023-03-18T00:17:52Z: CHRCTER ADDED  [ 1404520455] CRTbest123bob        a.k.a. Wicky               
+2023-03-18T00:17:52Z: CHRCTER ADDED  [  905369630] spongebobrulzwsomush a.k.a. SpongeBobMYT42      
+2023-03-18T00:17:53Z: CHRCTER ADDED  [  905369630] spongebobrulzwsomush a.k.a. SpongeBobMYT42      
+2023-03-18T00:17:54Z: PLAYER REMOVED [   25769996] rat9426              a.k.a. Corr                
+2023-03-18T00:17:54Z: CHRCTER ADDED  [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:17:54Z: CHRCTER ADDED  [  294968421] Smagality            a.k.a. Smag                
+2023-03-18T00:17:55Z: PLAYER REMOVED [  471549046] edwinxbc             a.k.a. Noob                
+2023-03-18T00:17:55Z: CHRCTER ADDED  [ 1889904784] sirZambrud           a.k.a. Chara               
+2023-03-18T00:17:55Z: CHRCTER ADDED  [  905369630] spongebobrulzwsomush a.k.a. SpongeBobMYT42      
+2023-03-18T00:17:55Z: CHRCTER ADDED  [ 1058555961] Zayn_TheRobloxian    a.k.a. Cardboard_Man       
+2023-03-18T00:17:56Z: CHRCTER ADDED  [ 1404520455] CRTbest123bob        a.k.a. Wicky               
+2023-03-18T00:17:56Z: CHRCTER ADDED  [  905369630] spongebobrulzwsomush a.k.a. SpongeBobMYT42      
+2023-03-18T00:17:58Z: PLAYER ADDED   [ 1659672171] MrCreeperCrumbs      a.k.a. noodle              
+2023-03-18T00:18:00Z: PLAYER CHATTED [  447142958] Earthquakeblue       ( -414.4,    65.8,    31.8)
+  alright im here
+2023-03-18T00:18:00Z: CHRCTER ADDED  [ 1889904784] sirZambrud           a.k.a. Chara               
+2023-03-18T00:18:01Z: CHRCTER ADDED  [  294968421] Smagality            a.k.a. Smag                
+2023-03-18T00:18:02Z: PLAYER ADDED   [ 2535741484] Crashy_GamesRetro985 a.k.a. Player1             
+2023-03-18T00:18:03Z: CHRCTER ADDED  [ 1889904784] sirZambrud           a.k.a. Chara               
+2023-03-18T00:18:04Z: CHRCTER ADDED  [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:18:06Z: PLAYER CHATTED [ 2618726488] bobismadwhatdidudo   ( -418.1,    66.5,    32.0)
+  STACK
+2023-03-18T00:18:07Z: PLAYER REMOVED [  294968421] Smagality            a.k.a. Smag                
+2023-03-18T00:18:07Z: CHRCTER ADDED  [ 1493572964] Mero16123            a.k.a. Benja               
+2023-03-18T00:18:08Z: PLAYER CHATTED [  447142958] Earthquakeblue       ( -413.5,    65.8,    31.5)
+  whats the plan?
+2023-03-18T00:18:08Z: CHRCTER ADDED  [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:18:12Z: CHRCTER ADDED  [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:18:12Z: CHRCTER ADDED  [ 1192955440] cristoferleader13    a.k.a. kyle_higgns         
+2023-03-18T00:18:13Z: CHRCTER ADDED  [ 1659672171] MrCreeperCrumbs      a.k.a. noodle              
+2023-03-18T00:18:14Z: CHRCTER ADDED  [ 1493572964] Mero16123            a.k.a. Benja               
+2023-03-18T00:18:18Z: PLAYER CHATTED [ 2618726488] bobismadwhatdidudo   ( -418.9,    79.2,    38.8)
+  get on the sign
+2023-03-18T00:18:19Z: CHRCTER ADDED  [ 1493572964] Mero16123            a.k.a. Benja               
+2023-03-18T00:18:21Z: CHRCTER ADDED  [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:18:22Z: PLAYER REMOVED [ 1404520455] CRTbest123bob        a.k.a. Wicky               
+2023-03-18T00:18:23Z: PLAYER CHATTED [  447142958] Earthquakeblue       ( -416.8,    79.2,    43.4)
+  aight
+2023-03-18T00:18:23Z: PLAYER ADDED   [  193988607] boyo3221             a.k.a. ASHDASH             
+2023-03-18T00:18:25Z: CHRCTER ADDED  [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:18:26Z: CHRCTER ADDED  [   30637725] jackamac852          a.k.a. snail               
+2023-03-18T00:18:26Z: CHRCTER ADDED  [ 1493572964] Mero16123            a.k.a. Benja               
+2023-03-18T00:18:28Z: CHRCTER ADDED  [ 2535741484] Crashy_GamesRetro985 a.k.a. Player1             
+2023-03-18T00:18:30Z: CHRCTER ADDED  [   30637725] jackamac852          a.k.a. snail               
+2023-03-18T00:18:31Z: CHRCTER ADDED  [ 1386345330] Mr_Magoo58           a.k.a. Sonic               
+2023-03-18T00:18:32Z: CHRCTER ADDED  [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:18:34Z: CHRCTER ADDED  [ 2618726488] bobismadwhatdidudo   a.k.a. boss_beep           
+2023-03-18T00:18:36Z: PLAYER REMOVED [  360822798] Sonicexe72209        a.k.a. TheWhispersOfTheVoid
+2023-03-18T00:18:36Z: CHRCTER ADDED  [ 3904503487] Starzinyyyyyyyy      a.k.a. Starzy              
+2023-03-18T00:18:36Z: CHRCTER ADDED  [  116629440] alegamer666          a.k.a. PainPeko            
+2023-03-18T00:18:38Z: CHRCTER ADDED  [ 1192955440] cristoferleader13    a.k.a. kyle_higgns         
+2023-03-18T00:18:38Z: CHRCTER ADDED  [ 2535741484] Crashy_GamesRetro985 a.k.a. Player1             
+2023-03-18T00:18:38Z: PLAYER CHATTED [ 1493572964] Mero16123            ( -443.1,    69.4,    22.8)
+  ez
+2023-03-18T00:18:38Z: PLAYER ADDED   [  143537586] Ty609609             a.k.a. G0Z                 
+2023-03-18T00:18:40Z: PLAYER CHATTED [ 2618726488] bobismadwhatdidudo   ( -421.1,    67.0,    31.1)
+  STACKING IS OUR ONKY OPTION
+2023-03-18T00:18:40Z: CHRCTER ADDED  [  447142958] Earthquakeblue       a.k.a. Choco               
+2023-03-18T00:18:42Z: CHRCTER ADDED  [  116629440] alegamer666          a.k.a. PainPeko            
+2023-03-18T00:18:42Z: CHRCTER ADDED  [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:18:44Z: CHRCTER ADDED  [ 1192955440] cristoferleader13    a.k.a. kyle_higgns         
+2023-03-18T00:18:44Z: CHRCTER ADDED  [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:18:49Z: CHRCTER ADDED  [ 1192955440] cristoferleader13    a.k.a. kyle_higgns         
+2023-03-18T00:18:50Z: CHRCTER ADDED  [  905369630] spongebobrulzwsomush a.k.a. SpongeBobMYT42      
+2023-03-18T00:18:50Z: PLAYER REMOVED [ 1839820555] cowcenalion          a.k.a. Man                 
+2023-03-18T00:18:51Z: CHRCTER ADDED  [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:18:51Z: CHRCTER ADDED  [ 1192955440] cristoferleader13    a.k.a. kyle_higgns         
+2023-03-18T00:18:52Z: CHRCTER ADDED  [  905369630] spongebobrulzwsomush a.k.a. SpongeBobMYT42      
+2023-03-18T00:18:54Z: CHRCTER ADDED  [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:18:54Z: CHRCTER ADDED  [  905369630] spongebobrulzwsomush a.k.a. SpongeBobMYT42      
+2023-03-18T00:18:56Z: CHRCTER ADDED  [  905369630] spongebobrulzwsomush a.k.a. SpongeBobMYT42      
+2023-03-18T00:18:58Z: CHRCTER ADDED  [ 1192955440] cristoferleader13    a.k.a. kyle_higgns         
+2023-03-18T00:18:58Z: PLAYER ADDED   [   24534510] IISavageJessi       
+2023-03-18T00:18:59Z: PLAYER ADDED   [   25228709] Chromxte             a.k.a. Chrome              
+2023-03-18T00:19:00Z: CHRCTER ADDED  [ 1192955440] cristoferleader13    a.k.a. kyle_higgns         
+2023-03-18T00:19:00Z: CHRCTER ADDED  [  143537586] Ty609609             a.k.a. G0Z                 
+2023-03-18T00:19:01Z: CHRCTER ADDED  [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:19:01Z: CHRCTER ADDED  [ 1192955440] cristoferleader13    a.k.a. kyle_higgns         
+2023-03-18T00:19:01Z: PLAYER CHATTED [  116629440] alegamer666          ( -467.7,    82.9,    37.8)
+  ya vamo a la wea
+2023-03-18T00:19:02Z: CHRCTER ADDED  [  905369630] spongebobrulzwsomush a.k.a. SpongeBobMYT42      
+2023-03-18T00:19:03Z: CHRCTER ADDED  [ 1192955440] cristoferleader13    a.k.a. kyle_higgns         
+2023-03-18T00:19:04Z: CHRCTER ADDED  [  941955824] jaffasganteng        a.k.a. halo                
+2023-03-18T00:19:06Z: CHRCTER ADDED  [ 1192955440] cristoferleader13    a.k.a. kyle_higgns         
+2023-03-18T00:19:06Z: CHRCTER ADDED  [  143537586] Ty609609             a.k.a. G0Z                 
+2023-03-18T00:19:06Z: PLAYER ADDED   [  187379994] IBE_DABIN            a.k.a. RecluseMarceline    
+2023-03-18T00:19:07Z: PLAYER CHATTED [ 1493572964] Mero16123            ( -475.4,    74.4,    18.3)
+  ya
+2023-03-18T00:19:07Z: CHRCTER ADDED  [ 1192955440] cristoferleader13    a.k.a. kyle_higgns         
+2023-03-18T00:19:07Z: CHRCTER ADDED  [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:19:07Z: PLAYER ADDED   [  113140041] Kirbykid_Gaming      a.k.a. KirbyKMS            
+2023-03-18T00:19:08Z: PLAYER CHATTED [  116629440] alegamer666          ( -467.7,    82.9,    37.8)
+  metamono en server privao porsiaca
+2023-03-18T00:19:08Z: PLAYER ADDED   [ 2655148539] justafellowgirlgamer
+2023-03-18T00:19:09Z: CHRCTER ADDED  [  143537586] Ty609609             a.k.a. G0Z                 
+2023-03-18T00:19:10Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-18T00:19:11Z: CHRCTER ADDED  [ 1192955440] cristoferleader13    a.k.a. kyle_higgns         
+2023-03-18T00:19:13Z: CHRCTER ADDED  [ 2618726488] bobismadwhatdidudo   a.k.a. boss_beep           
+2023-03-18T00:19:13Z: CHRCTER ADDED  [ 1192955440] cristoferleader13    a.k.a. kyle_higgns         
+2023-03-18T00:19:13Z: CHRCTER ADDED  [   25228709] Chromxte             a.k.a. Chrome              
+2023-03-18T00:19:14Z: CHRCTER ADDED  [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:19:16Z: PLAYER ADDED   [ 1498010730] laky330             
+2023-03-18T00:19:18Z: PLAYER CHATTED [ 1493572964] Mero16123            ( -468.5,    82.6,    34.2)
+  bueno
+2023-03-18T00:19:18Z: PLAYER ADDED   [ 2335002921] theppllaayyeeerr234  a.k.a. SpeederGriffin      
+2023-03-18T00:19:18Z: CHRCTER ADDED  [ 1192955440] cristoferleader13    a.k.a. kyle_higgns         
+2023-03-18T00:19:18Z: PLAYER ADDED   [   49117832] GrufaloMan          
+2023-03-18T00:19:19Z: CHRCTER ADDED  [ 1889904784] sirZambrud           a.k.a. Chara               
+2023-03-18T00:19:20Z: CHRCTER ADDED  [ 1192955440] cristoferleader13    a.k.a. kyle_higgns         
+2023-03-18T00:19:22Z: CHRCTER ADDED  [  187379994] IBE_DABIN            a.k.a. RecluseMarceline    
+2023-03-18T00:19:23Z: CHRCTER ADDED  [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:19:23Z: PLAYER CHATTED [  941955824] jaffasganteng       
+  ouch
+2023-03-18T00:19:23Z: CHRCTER ADDED  [  941955824] jaffasganteng        a.k.a. halo                
+2023-03-18T00:19:23Z: CHRCTER ADDED  [  447142958] Earthquakeblue       a.k.a. Choco               
+2023-03-18T00:19:24Z: CHRCTER ADDED  [  905369630] spongebobrulzwsomush a.k.a. SpongeBobMYT42      
+2023-03-18T00:19:25Z: CHRCTER ADDED  [   30637725] jackamac852          a.k.a. snail               
+2023-03-18T00:19:28Z: CHRCTER ADDED  [ 1386345330] Mr_Magoo58           a.k.a. Sonic               
+2023-03-18T00:19:28Z: CHRCTER ADDED  [ 2335002921] theppllaayyeeerr234  a.k.a. SpeederGriffin      
+2023-03-18T00:19:28Z: CHRCTER ADDED  [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:19:29Z: CHRCTER ADDED  [ 1192955440] cristoferleader13    a.k.a. kyle_higgns         
+2023-03-18T00:19:29Z: PLAYER REMOVED [  116629440] alegamer666          a.k.a. PainPeko            
+2023-03-18T00:19:30Z: PLAYER REMOVED [ 2618726488] bobismadwhatdidudo   a.k.a. boss_beep           
+2023-03-18T00:19:30Z: CHRCTER ADDED  [  941955824] jaffasganteng        a.k.a. halo                
+2023-03-18T00:19:31Z: CHRCTER ADDED  [  905369630] spongebobrulzwsomush a.k.a. SpongeBobMYT42      
+2023-03-18T00:19:32Z: CHRCTER ADDED  [   49117832] GrufaloMan          
+2023-03-18T00:19:32Z: CHRCTER ADDED  [ 2335002921] theppllaayyeeerr234  a.k.a. SpeederGriffin      
+2023-03-18T00:19:33Z: PLAYER REMOVED [ 2742689623] Tankman6362          a.k.a. Reddex              
+2023-03-18T00:19:36Z: CHRCTER ADDED  [ 2655148539] justafellowgirlgamer
+2023-03-18T00:19:37Z: PLAYER CHATTED [  447142958] Earthquakeblue       ( -445.5,    70.6,    17.6)
+  oh
+2023-03-18T00:19:37Z: CHRCTER ADDED  [  905369630] spongebobrulzwsomush a.k.a. SpongeBobMYT42      
+2023-03-18T00:19:37Z: CHRCTER ADDED  [ 1493572964] Mero16123            a.k.a. Benja               
+2023-03-18T00:19:37Z: CHRCTER ADDED  [ 2335002921] theppllaayyeeerr234  a.k.a. SpeederGriffin      
+2023-03-18T00:19:38Z: CHRCTER ADDED  [   49117832] GrufaloMan          
+2023-03-18T00:19:38Z: CHRCTER ADDED  [ 1498010730] laky330             
+2023-03-18T00:19:38Z: CHRCTER ADDED  [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:19:40Z: CHRCTER ADDED  [ 1192955440] cristoferleader13    a.k.a. kyle_higgns         
+2023-03-18T00:19:43Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-18T00:19:43Z: CHRCTER ADDED  [ 1192955440] cristoferleader13    a.k.a. kyle_higgns         
+2023-03-18T00:19:43Z: CHRCTER ADDED  [  905369630] spongebobrulzwsomush a.k.a. SpongeBobMYT42      
+2023-03-18T00:19:44Z: CHRCTER ADDED  [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:19:45Z: CHRCTER ADDED  [   49117832] GrufaloMan          
+2023-03-18T00:19:45Z: CHRCTER ADDED  [ 1192955440] cristoferleader13    a.k.a. kyle_higgns         
+2023-03-18T00:19:48Z: CHRCTER ADDED  [  905369630] spongebobrulzwsomush a.k.a. SpongeBobMYT42      
+2023-03-18T00:19:48Z: CHRCTER ADDED  [ 3904503487] Starzinyyyyyyyy      a.k.a. Starzy              
+2023-03-18T00:19:50Z: CHRCTER ADDED  [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:19:50Z: CHRCTER ADDED  [ 1909325750] BaconTheDemon_alt    a.k.a. BaconPost           
+2023-03-18T00:19:51Z: CHRCTER ADDED  [ 1498010730] laky330             
+2023-03-18T00:19:52Z: PLAYER ADDED   [  293481740] NebulousSpectre      a.k.a. Spooks              
+2023-03-18T00:19:55Z: PLAYER REMOVED [ 1493572964] Mero16123            a.k.a. Benja               
+2023-03-18T00:19:55Z: CHRCTER ADDED  [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:19:55Z: CHRCTER ADDED  [  905369630] spongebobrulzwsomush a.k.a. SpongeBobMYT42      
+2023-03-18T00:19:55Z: CHRCTER ADDED  [ 1909325750] BaconTheDemon_alt    a.k.a. BaconPost           
+2023-03-18T00:19:56Z: PLAYER CHATTED [  941955824] jaffasganteng        ( -464.8,    82.6,    41.4)
+  ya
+2023-03-18T00:19:57Z: CHRCTER ADDED  [ 1058555961] Zayn_TheRobloxian    a.k.a. Cardboard_Man       
+2023-03-18T00:19:58Z: PLAYER ADDED   [ 1194770405] darkshadowenx        a.k.a. REDACTED            
+2023-03-18T00:19:58Z: PLAYER CHATTED [  941955824] jaffasganteng        ( -464.8,    82.6,    41.4)
+  yay
+2023-03-18T00:19:58Z: PLAYER CHATTED [   30637725] jackamac852          ( -464.1,    82.6,    34.6)
+  /e dance
+2023-03-18T00:19:58Z: CHRCTER ADDED  [ 1192955440] cristoferleader13    a.k.a. kyle_higgns         
+2023-03-18T00:19:58Z: CHRCTER ADDED  [ 3904503487] Starzinyyyyyyyy      a.k.a. Starzy              
+2023-03-18T00:19:59Z: CHRCTER ADDED  [  193988607] boyo3221             a.k.a. ASHDASH             
+2023-03-18T00:19:59Z: PLAYER CHATTED [  447142958] Earthquakeblue       ( -439.4,    69.4,    30.0)
+  yall
+2023-03-18T00:20:00Z: CHRCTER ADDED  [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:20:01Z: CHRCTER ADDED  [  905369630] spongebobrulzwsomush a.k.a. SpongeBobMYT42      
+2023-03-18T00:20:04Z: CHRCTER ADDED  [  905369630] spongebobrulzwsomush a.k.a. SpongeBobMYT42      
+2023-03-18T00:20:04Z: CHRCTER ADDED  [ 1192955440] cristoferleader13    a.k.a. kyle_higgns         
+2023-03-18T00:20:04Z: CHRCTER ADDED  [ 1909325750] BaconTheDemon_alt    a.k.a. BaconPost           
+2023-03-18T00:20:05Z: CHRCTER ADDED  [   30637725] jackamac852          a.k.a. snail               
+2023-03-18T00:20:05Z: PLAYER REMOVED [   30637725] jackamac852          a.k.a. snail               
+2023-03-18T00:20:06Z: PLAYER CHATTED [  447142958] Earthquakeblue       ( -435.9,    69.4,    43.0)
+  the maze isn't a maze
+2023-03-18T00:20:06Z: CHRCTER ADDED  [ 1659672171] MrCreeperCrumbs      a.k.a. noodle              
+2023-03-18T00:20:06Z: CHRCTER ADDED  [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:20:07Z: CHRCTER ADDED  [  905369630] spongebobrulzwsomush a.k.a. SpongeBobMYT42      
+2023-03-18T00:20:09Z: PLAYER REMOVED [   23647958] GE5AFF               a.k.a. gesaff              
+2023-03-18T00:20:09Z: PLAYER ADDED   [  140807648] QuickestHar          a.k.a. harrylikesnasa      
+2023-03-18T00:20:10Z: CHRCTER ADDED  [ 1192955440] cristoferleader13    a.k.a. kyle_higgns         
+2023-03-18T00:20:12Z: CHRCTER ADDED  [ 1058555961] Zayn_TheRobloxian    a.k.a. Cardboard_Man       
+2023-03-18T00:20:12Z: CHRCTER ADDED  [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:20:14Z: CHRCTER ADDED  [  941955824] jaffasganteng        a.k.a. halo                
+2023-03-18T00:20:15Z: CHRCTER ADDED  [ 1659672171] MrCreeperCrumbs      a.k.a. noodle              
+2023-03-18T00:20:15Z: CHRCTER ADDED  [ 1194770405] darkshadowenx        a.k.a. REDACTED            
+2023-03-18T00:20:15Z: CHRCTER ADDED  [  193988607] boyo3221             a.k.a. ASHDASH             
+2023-03-18T00:20:16Z: CHRCTER ADDED  [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:20:17Z: CHRCTER ADDED  [  905369630] spongebobrulzwsomush a.k.a. SpongeBobMYT42      
+2023-03-18T00:20:18Z: PLAYER REMOVED [ 1386345330] Mr_Magoo58           a.k.a. Sonic               
+2023-03-18T00:20:19Z: CHRCTER ADDED  [  447142958] Earthquakeblue       a.k.a. Choco               
+2023-03-18T00:20:19Z: CHRCTER ADDED  [  905369630] spongebobrulzwsomush a.k.a. SpongeBobMYT42      
+2023-03-18T00:20:21Z: CHRCTER ADDED  [  187379994] IBE_DABIN            a.k.a. RecluseMarceline    
+2023-03-18T00:20:21Z: CHRCTER ADDED  [ 1659672171] MrCreeperCrumbs      a.k.a. noodle              
+2023-03-18T00:20:22Z: PLAYER CHATTED [ 1889904784] sirZambrud           ( -376.0,    36.7,   214.9)
+  where is
+2023-03-18T00:20:23Z: CHRCTER ADDED  [  293481740] NebulousSpectre      a.k.a. Spooks              
+2023-03-18T00:20:25Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-18T00:20:25Z: CHRCTER ADDED  [ 1058555961] Zayn_TheRobloxian    a.k.a. Cardboard_Man       
+2023-03-18T00:20:25Z: CHRCTER ADDED  [ 1659672171] MrCreeperCrumbs      a.k.a. noodle              
+2023-03-18T00:20:27Z: CHRCTER ADDED  [  140807648] QuickestHar          a.k.a. harrylikesnasa      
+2023-03-18T00:20:28Z: CHRCTER ADDED  [  187379994] IBE_DABIN            a.k.a. RecluseMarceline    
+2023-03-18T00:20:29Z: CHRCTER ADDED  [   24534510] IISavageJessi       
+2023-03-18T00:20:31Z: CHRCTER ADDED  [ 1659672171] MrCreeperCrumbs      a.k.a. noodle              
+2023-03-18T00:20:33Z: PLAYER ADDED   [ 1246966581] realbaconboylime     a.k.a. Baconz12            
+2023-03-18T00:20:33Z: CHRCTER ADDED  [ 2335002921] theppllaayyeeerr234  a.k.a. SpeederGriffin      
+2023-03-18T00:20:34Z: CHRCTER ADDED  [  140807648] QuickestHar          a.k.a. harrylikesnasa      
+2023-03-18T00:20:39Z: PLAYER CHATTED [  941955824] jaffasganteng        ( -441.7,    69.4,    22.7)
+  #### to get in vip
+2023-03-18T00:20:39Z: CHRCTER ADDED  [   49117832] GrufaloMan          
+2023-03-18T00:20:41Z: CHRCTER ADDED  [ 2535741484] Crashy_GamesRetro985 a.k.a. Player1             
+2023-03-18T00:20:41Z: PLAYER CHATTED [  447142958] Earthquakeblue       ( -439.4,    70.6,    51.8)
+  it's literally just a bunch of killbrick spheres inside of a small hallway
+2023-03-18T00:20:42Z: CHRCTER ADDED  [   24534510] IISavageJessi       
+2023-03-18T00:20:42Z: CHRCTER ADDED  [ 1058555961] Zayn_TheRobloxian    a.k.a. Cardboard_Man       
+2023-03-18T00:20:43Z: CHRCTER ADDED  [   49117832] GrufaloMan          
+2023-03-18T00:20:44Z: PLAYER ADDED   [ 2475563856] CENCEREMEN22        
+2023-03-18T00:20:47Z: CHRCTER ADDED  [ 1192955440] cristoferleader13    a.k.a. kyle_higgns         
+2023-03-18T00:20:48Z: CHRCTER ADDED  [   24534510] IISavageJessi       
+2023-03-18T00:20:49Z: CHRCTER ADDED  [ 1889904784] sirZambrud           a.k.a. Chara               
+2023-03-18T00:20:53Z: CHRCTER ADDED  [  140807648] QuickestHar          a.k.a. harrylikesnasa      
+2023-03-18T00:20:53Z: PLAYER ADDED   [  177296453] RandomGuy8734        a.k.a. Nado                
+2023-03-18T00:20:54Z: CHRCTER ADDED  [  447142958] Earthquakeblue       a.k.a. Choco               
+2023-03-18T00:20:54Z: CHRCTER ADDED  [  905369630] spongebobrulzwsomush a.k.a. SpongeBobMYT42      
+2023-03-18T00:20:54Z: CHRCTER ADDED  [ 2655148539] justafellowgirlgamer
+2023-03-18T00:20:54Z: CHRCTER ADDED  [   24534510] IISavageJessi       
+2023-03-18T00:20:55Z: CHRCTER ADDED  [ 1058555961] Zayn_TheRobloxian    a.k.a. Cardboard_Man       
+2023-03-18T00:20:55Z: CHRCTER ADDED  [  193988607] boyo3221             a.k.a. ASHDASH             
+2023-03-18T00:20:56Z: CHRCTER ADDED  [ 2335002921] theppllaayyeeerr234  a.k.a. SpeederGriffin      
+2023-03-18T00:20:57Z: PLAYER CHATTED [  941955824] jaffasganteng        ( -455.8,    70.6,    11.1)
+  how to get in vip
+2023-03-18T00:20:57Z: CHRCTER ADDED  [ 1192955440] cristoferleader13    a.k.a. kyle_higgns         
+2023-03-18T00:20:58Z: PLAYER REMOVED [ 1659672171] MrCreeperCrumbs      a.k.a. noodle              
+2023-03-18T00:20:59Z: CHRCTER ADDED  [  293481740] NebulousSpectre      a.k.a. Spooks              
+2023-03-18T00:20:59Z: PLAYER CHATTED [  447142958] Earthquakeblue       ( -431.6,    69.4,    48.6)
+  anywho
+2023-03-18T00:20:59Z: CHRCTER ADDED  [  905369630] spongebobrulzwsomush a.k.a. SpongeBobMYT42      
+2023-03-18T00:21:00Z: CHRCTER ADDED  [ 2475563856] CENCEREMEN22        
+2023-03-18T00:21:00Z: CHRCTER ADDED  [ 1194770405] darkshadowenx        a.k.a. REDACTED            
+2023-03-18T00:21:01Z: CHRCTER ADDED  [ 1498010730] laky330             
+2023-03-18T00:21:02Z: CHRCTER ADDED  [  140807648] QuickestHar          a.k.a. harrylikesnasa      
+2023-03-18T00:21:02Z: CHRCTER ADDED  [  143537586] Ty609609             a.k.a. G0Z                 
+2023-03-18T00:21:02Z: PLAYER REMOVED [  447142958] Earthquakeblue       a.k.a. Choco               
+2023-03-18T00:21:02Z: CHRCTER ADDED  [ 1192955440] cristoferleader13    a.k.a. kyle_higgns         
+2023-03-18T00:21:02Z: CHRCTER ADDED  [  113140041] Kirbykid_Gaming      a.k.a. KirbyKMS            
+2023-03-18T00:21:02Z: CHRCTER ADDED  [ 1246966581] realbaconboylime     a.k.a. Baconz12            
+2023-03-18T00:21:03Z: CHRCTER ADDED  [  905369630] spongebobrulzwsomush a.k.a. SpongeBobMYT42      
+2023-03-18T00:21:03Z: CHRCTER ADDED  [ 1192955440] cristoferleader13    a.k.a. kyle_higgns         
+2023-03-18T00:21:03Z: PLAYER ADDED   [  196497826] sownluigi           
+2023-03-18T00:21:05Z: PLAYER REMOVED [  196497826] sownluigi           
+2023-03-18T00:21:05Z: CHRCTER ADDED  [  143537586] Ty609609             a.k.a. G0Z                 
+2023-03-18T00:21:05Z: CHRCTER ADDED  [ 1194770405] darkshadowenx        a.k.a. REDACTED            
+2023-03-18T00:21:06Z: CHRCTER ADDED  [ 2475563856] CENCEREMEN22        
+2023-03-18T00:21:07Z: PLAYER REMOVED [  143537586] Ty609609             a.k.a. G0Z                 
+2023-03-18T00:21:09Z: PLAYER ADDED   [  853372361] nate121333          
+2023-03-18T00:21:09Z: CHRCTER ADDED  [ 1889904784] sirZambrud           a.k.a. Chara               
+2023-03-18T00:21:10Z: CHRCTER ADDED  [  193988607] boyo3221             a.k.a. ASHDASH             
+2023-03-18T00:21:10Z: CHRCTER ADDED  [ 3904503487] Starzinyyyyyyyy      a.k.a. Starzy              
+2023-03-18T00:21:10Z: CHRCTER ADDED  [  905369630] spongebobrulzwsomush a.k.a. SpongeBobMYT42      
+2023-03-18T00:21:12Z: CHRCTER ADDED  [ 1192955440] cristoferleader13    a.k.a. kyle_higgns         
+2023-03-18T00:21:12Z: CHRCTER ADDED  [ 2475563856] CENCEREMEN22        
+2023-03-18T00:21:15Z: CHRCTER ADDED  [  905369630] spongebobrulzwsomush a.k.a. SpongeBobMYT42      
+2023-03-18T00:21:15Z: CHRCTER ADDED  [ 1889904784] sirZambrud           a.k.a. Chara               
+2023-03-18T00:21:16Z: PLAYER CHATTED [ 1058555961] Zayn_TheRobloxian    ( -455.0,    70.8,    10.8)
+  /e dance2
+2023-03-18T00:21:17Z: CHRCTER ADDED  [  177296453] RandomGuy8734        a.k.a. Nado                
+2023-03-18T00:21:18Z: PLAYER CHATTED [  941955824] jaffasganteng        ( -477.8,    68.2,    10.9)
+  /e tilt
+2023-03-18T00:21:18Z: CHRCTER ADDED  [  140807648] QuickestHar          a.k.a. harrylikesnasa      
+2023-03-18T00:21:18Z: CHRCTER ADDED  [  905369630] spongebobrulzwsomush a.k.a. SpongeBobMYT42      
+2023-03-18T00:21:21Z: CHRCTER ADDED  [ 1498010730] laky330             
+2023-03-18T00:21:22Z: CHRCTER ADDED  [  193988607] boyo3221             a.k.a. ASHDASH             
+2023-03-18T00:21:24Z: CHRCTER ADDED  [ 1889904784] sirZambrud           a.k.a. Chara               
+2023-03-18T00:21:26Z: CHRCTER ADDED  [  853372361] nate121333          
+2023-03-18T00:21:26Z: CHRCTER ADDED  [ 1498010730] laky330             
+2023-03-18T00:21:26Z: CHRCTER ADDED  [  177296453] RandomGuy8734        a.k.a. Nado                
+2023-03-18T00:21:26Z: CHRCTER ADDED  [ 2475563856] CENCEREMEN22        
+2023-03-18T00:21:26Z: PLAYER ADDED   [ 1892350757] GamaGamer006         a.k.a. Gama                
+2023-03-18T00:21:29Z: CHRCTER ADDED  [  905369630] spongebobrulzwsomush a.k.a. SpongeBobMYT42      
+2023-03-18T00:21:30Z: PLAYER ADDED   [  916201513] Hotwheelsfancar99    a.k.a. TheGuyFromPizzaTower
+2023-03-18T00:21:32Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-18T00:21:33Z: PLAYER REMOVED [  905369630] spongebobrulzwsomush a.k.a. SpongeBobMYT42      
+2023-03-18T00:21:34Z: PLAYER REMOVED [ 1909325750] BaconTheDemon_alt    a.k.a. BaconPost           
+2023-03-18T00:21:34Z: CHRCTER ADDED  [  941955824] jaffasganteng        a.k.a. halo                
+2023-03-18T00:21:34Z: CHRCTER ADDED  [ 2475563856] CENCEREMEN22        
+2023-03-18T00:21:35Z: CHRCTER ADDED  [ 1889904784] sirZambrud           a.k.a. Chara               
+2023-03-18T00:21:36Z: CHRCTER ADDED  [ 2535741484] Crashy_GamesRetro985 a.k.a. Player1             
+2023-03-18T00:21:37Z: CHRCTER ADDED  [  853372361] nate121333          
+2023-03-18T00:21:38Z: PLAYER ADDED   [ 1565831868] joeyjedib2           a.k.a. Lily                
+2023-03-18T00:21:40Z: CHRCTER ADDED  [   24534510] IISavageJessi       
+2023-03-18T00:21:40Z: PLAYER REMOVED [ 3904503487] Starzinyyyyyyyy      a.k.a. Starzy              
+2023-03-18T00:21:42Z: CHRCTER ADDED  [  941955824] jaffasganteng        a.k.a. halo                
+2023-03-18T00:21:43Z: CHRCTER ADDED  [ 2655148539] justafellowgirlgamer
+2023-03-18T00:21:44Z: PLAYER REMOVED [  193988607] boyo3221             a.k.a. ASHDASH             
+2023-03-18T00:21:45Z: CHRCTER ADDED  [ 2335002921] theppllaayyeeerr234  a.k.a. SpeederGriffin      
+2023-03-18T00:21:46Z: CHRCTER ADDED  [ 1892350757] GamaGamer006         a.k.a. Gama                
+2023-03-18T00:21:47Z: CHRCTER ADDED  [ 2655148539] justafellowgirlgamer
+2023-03-18T00:21:47Z: CHRCTER ADDED  [   25228709] Chromxte             a.k.a. Chrome              
+2023-03-18T00:21:47Z: CHRCTER ADDED  [ 2475563856] CENCEREMEN22        
+2023-03-18T00:21:49Z: CHRCTER ADDED  [   24534510] IISavageJessi       
+2023-03-18T00:21:50Z: CHRCTER ADDED  [  140807648] QuickestHar          a.k.a. harrylikesnasa      
+2023-03-18T00:21:50Z: CHRCTER ADDED  [ 2655148539] justafellowgirlgamer
+2023-03-18T00:21:51Z: CHRCTER ADDED  [ 2335002921] theppllaayyeeerr234  a.k.a. SpeederGriffin      
+2023-03-18T00:21:53Z: CHRCTER ADDED  [ 1246966581] realbaconboylime     a.k.a. Baconz12            
+2023-03-18T00:21:54Z: PLAYER REMOVED [ 1192955440] cristoferleader13    a.k.a. kyle_higgns         
+2023-03-18T00:21:54Z: CHRCTER ADDED  [  853372361] nate121333          
+2023-03-18T00:21:55Z: CHRCTER ADDED  [  941955824] jaffasganteng        a.k.a. halo                
+2023-03-18T00:21:55Z: CHRCTER ADDED  [  916201513] Hotwheelsfancar99    a.k.a. TheGuyFromPizzaTower
+2023-03-18T00:21:56Z: CHRCTER ADDED  [   25228709] Chromxte             a.k.a. Chrome              
+2023-03-18T00:21:57Z: CHRCTER ADDED  [ 2475563856] CENCEREMEN22        
+2023-03-18T00:21:58Z: CHRCTER ADDED  [  140807648] QuickestHar          a.k.a. harrylikesnasa      
+2023-03-18T00:22:00Z: CHRCTER ADDED  [ 1565831868] joeyjedib2           a.k.a. Lily                
+2023-03-18T00:22:00Z: CHRCTER ADDED  [  187379994] IBE_DABIN            a.k.a. RecluseMarceline    
+2023-03-18T00:22:00Z: CHRCTER ADDED  [ 2535741484] Crashy_GamesRetro985 a.k.a. Player1             
+2023-03-18T00:22:02Z: PLAYER REMOVED [ 2535741484] Crashy_GamesRetro985 a.k.a. Player1             
+2023-03-18T00:22:03Z: CHRCTER ADDED  [ 2475563856] CENCEREMEN22        
+2023-03-18T00:22:03Z: CHRCTER ADDED  [  187379994] IBE_DABIN            a.k.a. RecluseMarceline    
+2023-03-18T00:22:05Z: CHRCTER ADDED  [  113140041] Kirbykid_Gaming      a.k.a. KirbyKMS            
+2023-03-18T00:22:05Z: PLAYER ADDED   [ 2721825028] BroiterKingYT_13579 
+2023-03-18T00:22:06Z: CHRCTER ADDED  [ 2721825028] BroiterKingYT_13579 
+2023-03-18T00:22:06Z: CHRCTER ADDED  [ 2721825028] BroiterKingYT_13579 
+2023-03-18T00:22:08Z: CHRCTER ADDED  [   25228709] Chromxte             a.k.a. Chrome              
+2023-03-18T00:22:08Z: CHRCTER ADDED  [   24534510] IISavageJessi       
+2023-03-18T00:22:09Z: PLAYER ADDED   [  293020924] Boomdriver12        
+2023-03-18T00:22:10Z: PLAYER ADDED   [ 1825967144] EpicWarrior_Z       
+2023-03-18T00:22:10Z: CHRCTER ADDED  [ 1565831868] joeyjedib2           a.k.a. Lily                
+2023-03-18T00:22:11Z: CHRCTER ADDED  [ 2655148539] justafellowgirlgamer
+2023-03-18T00:22:12Z: CHRCTER ADDED  [   24534510] IISavageJessi       
+2023-03-18T00:22:13Z: CHRCTER ADDED  [  293481740] NebulousSpectre      a.k.a. Spooks              
+2023-03-18T00:22:14Z: CHRCTER ADDED  [  916201513] Hotwheelsfancar99    a.k.a. TheGuyFromPizzaTower
+2023-03-18T00:22:14Z: CHRCTER ADDED  [ 1058555961] Zayn_TheRobloxian    a.k.a. Cardboard_Man       
+2023-03-18T00:22:15Z: CHRCTER ADDED  [ 1889904784] sirZambrud           a.k.a. Chara               
+2023-03-18T00:22:16Z: CHRCTER ADDED  [   25228709] Chromxte             a.k.a. Chrome              
+2023-03-18T00:22:16Z: CHRCTER ADDED  [  140807648] QuickestHar          a.k.a. harrylikesnasa      
+2023-03-18T00:22:16Z: CHRCTER ADDED  [ 2655148539] justafellowgirlgamer
+2023-03-18T00:22:17Z: CHRCTER ADDED  [ 1194770405] darkshadowenx        a.k.a. REDACTED            
+2023-03-18T00:22:18Z: CHRCTER ADDED  [ 1058555961] Zayn_TheRobloxian    a.k.a. Cardboard_Man       
+2023-03-18T00:22:18Z: CHRCTER ADDED  [ 2475563856] CENCEREMEN22        
+2023-03-18T00:22:20Z: CHRCTER ADDED  [ 2335002921] theppllaayyeeerr234  a.k.a. SpeederGriffin      
+2023-03-18T00:22:20Z: CHRCTER ADDED  [   25228709] Chromxte             a.k.a. Chrome              
+2023-03-18T00:22:21Z: CHRCTER ADDED  [ 1058555961] Zayn_TheRobloxian    a.k.a. Cardboard_Man       
+2023-03-18T00:22:21Z: PLAYER ADDED   [ 3435926100] poopyheadfam2113    
+2023-03-18T00:22:23Z: CHRCTER ADDED  [  916201513] Hotwheelsfancar99    a.k.a. TheGuyFromPizzaTower
+2023-03-18T00:22:23Z: CHRCTER ADDED  [ 1058555961] Zayn_TheRobloxian    a.k.a. Cardboard_Man       
+2023-03-18T00:22:25Z: CHRCTER ADDED  [   24534510] IISavageJessi       
+2023-03-18T00:22:25Z: CHRCTER ADDED  [   25228709] Chromxte             a.k.a. Chrome              
+2023-03-18T00:22:25Z: CHRCTER ADDED  [ 1058555961] Zayn_TheRobloxian    a.k.a. Cardboard_Man       
+2023-03-18T00:22:26Z: CHRCTER ADDED  [ 2335002921] theppllaayyeeerr234  a.k.a. SpeederGriffin      
+2023-03-18T00:22:26Z: CHRCTER ADDED  [ 2475563856] CENCEREMEN22        
+2023-03-18T00:22:27Z: CHRCTER ADDED  [ 1058555961] Zayn_TheRobloxian    a.k.a. Cardboard_Man       
+2023-03-18T00:22:27Z: PLAYER ADDED   [ 1375110695] DatAmazingDog        a.k.a. Doggo               
+2023-03-18T00:22:28Z: CHRCTER ADDED  [ 1498010730] laky330             
+2023-03-18T00:22:28Z: CHRCTER ADDED  [   24534510] IISavageJessi       
+2023-03-18T00:22:28Z: PLAYER ADDED   [  161736274] LevelErickmoreno08   a.k.a. guiding_light       
+2023-03-18T00:22:29Z: CHRCTER ADDED  [ 3435926100] poopyheadfam2113    
+2023-03-18T00:22:29Z: CHRCTER ADDED  [ 1058555961] Zayn_TheRobloxian    a.k.a. Cardboard_Man       
+2023-03-18T00:22:29Z: CHRCTER ADDED  [ 2475563856] CENCEREMEN22        
+2023-03-18T00:22:29Z: CHRCTER ADDED  [  561947466] jaydenshishi         a.k.a. ToAST               
+2023-03-18T00:22:30Z: PLAYER ADDED   [  330775077] Moon_LightNn         a.k.a. Mocha               
+2023-03-18T00:22:31Z: PLAYER ADDED   [   57698064] Purpleasure          a.k.a. AmdRadeonRX6800XT   
+2023-03-18T00:22:31Z: CHRCTER ADDED  [   57698064] Purpleasure          a.k.a. AmdRadeonRX6800XT   
+2023-03-18T00:22:31Z: CHRCTER ADDED  [ 1058555961] Zayn_TheRobloxian    a.k.a. Cardboard_Man       
+2023-03-18T00:22:31Z: CHRCTER ADDED  [   25228709] Chromxte             a.k.a. Chrome              
+2023-03-18T00:22:31Z: CHRCTER ADDED  [  140807648] QuickestHar          a.k.a. harrylikesnasa      
+2023-03-18T00:22:32Z: CHRCTER ADDED  [   57698064] Purpleasure          a.k.a. AmdRadeonRX6800XT   
+2023-03-18T00:22:33Z: CHRCTER ADDED  [ 1498010730] laky330             
+2023-03-18T00:22:33Z: CHRCTER ADDED  [ 3435926100] poopyheadfam2113    
+2023-03-18T00:22:33Z: CHRCTER ADDED  [ 1825967144] EpicWarrior_Z       
+2023-03-18T00:22:33Z: PLAYER REMOVED [ 2967337817] Pax_Guestt           a.k.a. xxSportyBuffKidxx   
+2023-03-18T00:22:33Z: PLAYER REMOVED [   25228709] Chromxte             a.k.a. Chrome              
+2023-03-18T00:22:34Z: CHRCTER ADDED  [ 1058555961] Zayn_TheRobloxian    a.k.a. Cardboard_Man       
+2023-03-18T00:22:35Z: CHRCTER ADDED  [ 3435926100] poopyheadfam2113    
+2023-03-18T00:22:35Z: CHRCTER ADDED  [ 2475563856] CENCEREMEN22        
+2023-03-18T00:22:37Z: CHRCTER ADDED  [ 1498010730] laky330             
+2023-03-18T00:22:37Z: CHRCTER ADDED  [ 1058555961] Zayn_TheRobloxian    a.k.a. Cardboard_Man       
+2023-03-18T00:22:38Z: PLAYER REMOVED [   49117832] GrufaloMan          
+2023-03-18T00:22:38Z: PLAYER REMOVED [  187379994] IBE_DABIN            a.k.a. RecluseMarceline    
+2023-03-18T00:22:39Z: PLAYER REMOVED [ 1889904784] sirZambrud           a.k.a. Chara               
+2023-03-18T00:22:39Z: CHRCTER ADDED  [ 2655148539] justafellowgirlgamer
+2023-03-18T00:22:39Z: CHRCTER ADDED  [ 1058555961] Zayn_TheRobloxian    a.k.a. Cardboard_Man       
+2023-03-18T00:22:39Z: CHRCTER ADDED  [ 3435926100] poopyheadfam2113    
+2023-03-18T00:22:39Z: PLAYER REMOVED [  113140041] Kirbykid_Gaming      a.k.a. KirbyKMS            
+2023-03-18T00:22:39Z: PLAYER REMOVED [ 2655148539] justafellowgirlgamer
+2023-03-18T00:22:41Z: CHRCTER ADDED  [ 1058555961] Zayn_TheRobloxian    a.k.a. Cardboard_Man       
+2023-03-18T00:22:41Z: CHRCTER ADDED  [  293481740] NebulousSpectre      a.k.a. Spooks              
+2023-03-18T00:22:42Z: CHRCTER ADDED  [ 1058555961] Zayn_TheRobloxian    a.k.a. Cardboard_Man       
+2023-03-18T00:22:43Z: CHRCTER ADDED  [ 1246966581] realbaconboylime     a.k.a. Baconz12            
+2023-03-18T00:22:43Z: PLAYER ADDED   [ 1024222162] seankeane03          a.k.a. Noob                
+2023-03-18T00:22:43Z: CHRCTER ADDED  [ 2475563856] CENCEREMEN22        
+2023-03-18T00:22:44Z: CHRCTER ADDED  [ 1825967144] EpicWarrior_Z       
+2023-03-18T00:22:44Z: CHRCTER ADDED  [ 1058555961] Zayn_TheRobloxian    a.k.a. Cardboard_Man       
+2023-03-18T00:22:45Z: PLAYER CHATTED [  941955824] jaffasganteng        ( -445.1,    70.6,    14.3)
+  get back in my private jay
+2023-03-18T00:22:45Z: CHRCTER ADDED  [   57698064] Purpleasure          a.k.a. AmdRadeonRX6800XT   
+2023-03-18T00:22:45Z: CHRCTER ADDED  [  140807648] QuickestHar          a.k.a. harrylikesnasa      
+2023-03-18T00:22:45Z: CHRCTER ADDED  [ 3435926100] poopyheadfam2113    
+2023-03-18T00:22:45Z: CHRCTER ADDED  [ 1058555961] Zayn_TheRobloxian    a.k.a. Cardboard_Man       
+2023-03-18T00:22:47Z: CHRCTER ADDED  [ 1246966581] realbaconboylime     a.k.a. Baconz12            
+2023-03-18T00:22:47Z: CHRCTER ADDED  [ 1375110695] DatAmazingDog        a.k.a. Doggo               
+2023-03-18T00:22:47Z: CHRCTER ADDED  [ 1058555961] Zayn_TheRobloxian    a.k.a. Cardboard_Man       
+2023-03-18T00:22:47Z: CHRCTER ADDED  [ 1565831868] joeyjedib2           a.k.a. Lily                
+2023-03-18T00:22:48Z: PLAYER REMOVED [ 2335002921] theppllaayyeeerr234  a.k.a. SpeederGriffin      
+2023-03-18T00:22:48Z: CHRCTER ADDED  [ 1194770405] darkshadowenx        a.k.a. REDACTED            
+2023-03-18T00:22:48Z: CHRCTER ADDED  [ 1058555961] Zayn_TheRobloxian    a.k.a. Cardboard_Man       
+2023-03-18T00:22:50Z: CHRCTER ADDED  [ 3435926100] poopyheadfam2113    
+2023-03-18T00:22:50Z: CHRCTER ADDED  [ 1058555961] Zayn_TheRobloxian    a.k.a. Cardboard_Man       
+2023-03-18T00:22:51Z: CHRCTER ADDED  [ 1246966581] realbaconboylime     a.k.a. Baconz12            
+2023-03-18T00:22:52Z: PLAYER ADDED   [ 1682070336] LOOKitsJAMES011      a.k.a. LOOKitsJAMES        
+2023-03-18T00:22:52Z: CHRCTER ADDED  [ 1058555961] Zayn_TheRobloxian    a.k.a. Cardboard_Man       
+2023-03-18T00:22:53Z: CHRCTER ADDED  [ 1498010730] laky330             
+2023-03-18T00:22:53Z: CHRCTER ADDED  [   24534510] IISavageJessi       
+2023-03-18T00:22:54Z: CHRCTER ADDED  [ 3435926100] poopyheadfam2113    
+2023-03-18T00:22:55Z: CHRCTER ADDED  [  161736274] LevelErickmoreno08   a.k.a. guiding_light       
+2023-03-18T00:22:55Z: CHRCTER ADDED  [ 1825967144] EpicWarrior_Z       
+2023-03-18T00:22:55Z: PLAYER REMOVED [   24534510] IISavageJessi       
+2023-03-18T00:22:55Z: CHRCTER ADDED  [ 2475563856] CENCEREMEN22        
+2023-03-18T00:22:55Z: CHRCTER ADDED  [ 1375110695] DatAmazingDog        a.k.a. Doggo               
+2023-03-18T00:22:57Z: CHRCTER ADDED  [ 1498010730] laky330             
+2023-03-18T00:22:58Z: CHRCTER ADDED  [ 1024222162] seankeane03          a.k.a. Noob                
+2023-03-18T00:22:59Z: CHRCTER ADDED  [  561947466] jaydenshishi         a.k.a. ToAST               
+2023-03-18T00:22:59Z: CHRCTER ADDED  [ 2721825028] BroiterKingYT_13579 
+2023-03-18T00:22:59Z: CHRCTER ADDED  [ 3435926100] poopyheadfam2113    
+2023-03-18T00:23:01Z: CHRCTER ADDED  [  140807648] QuickestHar          a.k.a. harrylikesnasa      
+2023-03-18T00:23:02Z: CHRCTER ADDED  [  561947466] jaydenshishi         a.k.a. ToAST               
+2023-03-18T00:23:03Z: PLAYER ADDED   [ 1076608629] mariopppe           
+2023-03-18T00:23:04Z: CHRCTER ADDED  [ 3435926100] poopyheadfam2113    
+2023-03-18T00:23:04Z: CHRCTER ADDED  [ 1682070336] LOOKitsJAMES011      a.k.a. LOOKitsJAMES        
+2023-03-18T00:23:04Z: CHRCTER ADDED  [ 1058555961] Zayn_TheRobloxian    a.k.a. Cardboard_Man       
+2023-03-18T00:23:04Z: CHRCTER ADDED  [  561947466] jaydenshishi         a.k.a. ToAST               
+2023-03-18T00:23:04Z: CHRCTER ADDED  [  853372361] nate121333          
+2023-03-18T00:23:06Z: CHRCTER ADDED  [ 1375110695] DatAmazingDog        a.k.a. Doggo               
+2023-03-18T00:23:06Z: CHRCTER ADDED  [  941955824] jaffasganteng        a.k.a. halo                
+2023-03-18T00:23:06Z: CHRCTER ADDED  [  561947466] jaydenshishi         a.k.a. ToAST               
+2023-03-18T00:23:07Z: CHRCTER ADDED  [ 3435926100] poopyheadfam2113    
+2023-03-18T00:23:09Z: CHRCTER ADDED  [  140807648] QuickestHar          a.k.a. harrylikesnasa      
+2023-03-18T00:23:09Z: CHRCTER ADDED  [  561947466] jaydenshishi         a.k.a. ToAST               
+2023-03-18T00:23:10Z: CHRCTER ADDED  [  161736274] LevelErickmoreno08   a.k.a. guiding_light       
+2023-03-18T00:23:11Z: CHRCTER ADDED  [ 3435926100] poopyheadfam2113    
+2023-03-18T00:23:13Z: PLAYER CHATTED [  561947466] jaydenshishi         ( -438.0,    70.3,    53.0)
+  /w jaffasganteng  ok
+2023-03-18T00:23:15Z: PLAYER REMOVED [  561947466] jaydenshishi         a.k.a. ToAST               
+2023-03-18T00:23:15Z: CHRCTER ADDED  [ 1246966581] realbaconboylime     a.k.a. Baconz12            
+2023-03-18T00:23:16Z: CHRCTER ADDED  [ 1565831868] joeyjedib2           a.k.a. Lily                
+2023-03-18T00:23:17Z: CHRCTER ADDED  [ 1892350757] GamaGamer006         a.k.a. Gama                
+2023-03-18T00:23:20Z: CHRCTER ADDED  [  161736274] LevelErickmoreno08   a.k.a. guiding_light       
+2023-03-18T00:23:21Z: CHRCTER ADDED  [ 1892350757] GamaGamer006         a.k.a. Gama                
+2023-03-18T00:23:24Z: CHRCTER ADDED  [ 1565831868] joeyjedib2           a.k.a. Lily                
+2023-03-18T00:23:25Z: PLAYER REMOVED [ 1024222162] seankeane03          a.k.a. Noob                
+2023-03-18T00:23:25Z: CHRCTER ADDED  [  330775077] Moon_LightNn         a.k.a. Mocha               
+2023-03-18T00:23:26Z: CHRCTER ADDED  [ 1076608629] mariopppe           
+2023-03-18T00:23:27Z: PLAYER REMOVED [  941955824] jaffasganteng        a.k.a. halo                
+2023-03-18T00:23:28Z: CHRCTER ADDED  [  161736274] LevelErickmoreno08   a.k.a. guiding_light       
+2023-03-18T00:23:28Z: CHRCTER ADDED  [ 1246966581] realbaconboylime     a.k.a. Baconz12            
+2023-03-18T00:23:32Z: PLAYER REMOVED [ 1194770405] darkshadowenx        a.k.a. REDACTED            
+2023-03-18T00:23:32Z: PLAYER REMOVED [ 1498010730] laky330             
+2023-03-18T00:23:33Z: PLAYER ADDED   [  133981485] Gurgy216             a.k.a. Gurgy               
+2023-03-18T00:23:35Z: CHRCTER ADDED  [   57698064] Purpleasure          a.k.a. AmdRadeonRX6800XT   
+2023-03-18T00:23:35Z: CHRCTER ADDED  [ 2721825028] BroiterKingYT_13579 
+2023-03-18T00:23:35Z: CHRCTER ADDED  [ 1076608629] mariopppe           
+2023-03-18T00:23:35Z: CHRCTER ADDED  [  140807648] QuickestHar          a.k.a. harrylikesnasa      
+2023-03-18T00:23:36Z: CHRCTER ADDED  [ 1565831868] joeyjedib2           a.k.a. Lily                
+2023-03-18T00:23:39Z: CHRCTER ADDED  [  177296453] RandomGuy8734        a.k.a. Nado                
+2023-03-18T00:23:40Z: CHRCTER ADDED  [  916201513] Hotwheelsfancar99    a.k.a. TheGuyFromPizzaTower
+2023-03-18T00:23:41Z: CHRCTER ADDED  [  293481740] NebulousSpectre      a.k.a. Spooks              
+2023-03-18T00:23:43Z: CHRCTER ADDED  [  140807648] QuickestHar          a.k.a. harrylikesnasa      
+2023-03-18T00:23:44Z: CHRCTER ADDED  [ 1565831868] joeyjedib2           a.k.a. Lily                
+2023-03-18T00:23:44Z: CHRCTER ADDED  [ 1076608629] mariopppe           
+2023-03-18T00:23:44Z: CHRCTER ADDED  [ 2475563856] CENCEREMEN22        
+2023-03-18T00:23:46Z: CHRCTER ADDED  [  161736274] LevelErickmoreno08   a.k.a. guiding_light       
+2023-03-18T00:23:47Z: CHRCTER ADDED  [  177296453] RandomGuy8734        a.k.a. Nado                
+2023-03-18T00:23:47Z: CHRCTER ADDED  [ 2721825028] BroiterKingYT_13579 
+2023-03-18T00:23:48Z: CHRCTER ADDED  [  330775077] Moon_LightNn         a.k.a. Mocha               
+2023-03-18T00:23:50Z: CHRCTER ADDED  [ 1565831868] joeyjedib2           a.k.a. Lily                
+2023-03-18T00:23:50Z: CHRCTER ADDED  [  853372361] nate121333          
+2023-03-18T00:23:52Z: CHRCTER ADDED  [  293020924] Boomdriver12        
+2023-03-18T00:23:52Z: PLAYER ADDED   [  317005280] maximotreecko        a.k.a. red_maximotreecko   
+2023-03-18T00:23:53Z: CHRCTER ADDED  [  177296453] RandomGuy8734        a.k.a. Nado                
+2023-03-18T00:23:54Z: CHRCTER ADDED  [  133981485] Gurgy216             a.k.a. Gurgy               
+2023-03-18T00:23:56Z: CHRCTER ADDED  [ 2475563856] CENCEREMEN22        
+2023-03-18T00:24:00Z: CHRCTER ADDED  [ 1825967144] EpicWarrior_Z       
+2023-03-18T00:24:00Z: PLAYER ADDED   [ 1917557702] sans_chara22         a.k.a. Kennyiscool         
+2023-03-18T00:24:00Z: CHRCTER ADDED  [  140807648] QuickestHar          a.k.a. harrylikesnasa      
+2023-03-18T00:24:00Z: CHRCTER ADDED  [   57698064] Purpleasure          a.k.a. AmdRadeonRX6800XT   
+2023-03-18T00:24:00Z: CHRCTER ADDED  [  177296453] RandomGuy8734        a.k.a. Nado                
+2023-03-18T00:24:00Z: PLAYER ADDED   [ 4423125114] coolreturned        
+2023-03-18T00:24:00Z: CHRCTER ADDED  [  133981485] Gurgy216             a.k.a. Gurgy               
+2023-03-18T00:24:00Z: CHRCTER ADDED  [  330775077] Moon_LightNn         a.k.a. Mocha               
+2023-03-18T00:24:00Z: PLAYER REMOVED [ 1892350757] GamaGamer006         a.k.a. Gama                
+2023-03-18T00:24:01Z: CHRCTER ADDED  [ 1076608629] mariopppe           
+2023-03-18T00:24:01Z: CHRCTER ADDED  [ 1825967144] EpicWarrior_Z       
+2023-03-18T00:24:03Z: CHRCTER ADDED  [ 1917557702] sans_chara22         a.k.a. Kennyiscool         
+2023-03-18T00:24:03Z: CHRCTER ADDED  [  177296453] RandomGuy8734        a.k.a. Nado                
+2023-03-18T00:24:04Z: CHRCTER ADDED  [ 3435926100] poopyheadfam2113    
+2023-03-18T00:24:04Z: CHRCTER ADDED  [ 1682070336] LOOKitsJAMES011      a.k.a. LOOKitsJAMES        
+2023-03-18T00:24:05Z: PLAYER REMOVED [ 3435926100] poopyheadfam2113    
+2023-03-18T00:24:06Z: CHRCTER ADDED  [  133981485] Gurgy216             a.k.a. Gurgy               
+2023-03-18T00:24:06Z: CHRCTER ADDED  [   57698064] Purpleasure          a.k.a. AmdRadeonRX6800XT   
+2023-03-18T00:24:06Z: CHRCTER ADDED  [ 1825967144] EpicWarrior_Z       
+2023-03-18T00:24:10Z: CHRCTER ADDED  [ 1682070336] LOOKitsJAMES011      a.k.a. LOOKitsJAMES        
+2023-03-18T00:24:11Z: CHRCTER ADDED  [  133981485] Gurgy216             a.k.a. Gurgy               
+2023-03-18T00:24:14Z: CHRCTER ADDED  [ 1076608629] mariopppe           
+2023-03-18T00:24:14Z: CHRCTER ADDED  [  177296453] RandomGuy8734        a.k.a. Nado                
+2023-03-18T00:24:15Z: CHRCTER ADDED  [  293020924] Boomdriver12        
+2023-03-18T00:24:16Z: CHRCTER ADDED  [ 1917557702] sans_chara22         a.k.a. Kennyiscool         
+2023-03-18T00:24:18Z: CHRCTER ADDED  [ 1565831868] joeyjedib2           a.k.a. Lily                
+2023-03-18T00:24:21Z: CHRCTER ADDED  [  177296453] RandomGuy8734        a.k.a. Nado                
+2023-03-18T00:24:22Z: PLAYER ADDED   [ 3799117237] Meefreehehe         
+2023-03-18T00:24:23Z: CHRCTER ADDED  [ 1917557702] sans_chara22         a.k.a. Kennyiscool         
+2023-03-18T00:24:26Z: CHRCTER ADDED  [ 1076608629] mariopppe           
+2023-03-18T00:24:26Z: CHRCTER ADDED  [  317005280] maximotreecko        a.k.a. red_maximotreecko   
+2023-03-18T00:24:28Z: CHRCTER ADDED  [ 1825967144] EpicWarrior_Z       
+2023-03-18T00:24:29Z: CHRCTER ADDED  [ 1917557702] sans_chara22         a.k.a. Kennyiscool         
+2023-03-18T00:24:29Z: CHRCTER ADDED  [ 1565831868] joeyjedib2           a.k.a. Lily                
+2023-03-18T00:24:33Z: CHRCTER ADDED  [ 1825967144] EpicWarrior_Z       
+2023-03-18T00:24:34Z: CHRCTER ADDED  [  293020924] Boomdriver12        
+2023-03-18T00:24:34Z: PLAYER ADDED   [ 1034767260] minetopia4           a.k.a. luz                 
+2023-03-18T00:24:35Z: CHRCTER ADDED  [ 1076608629] mariopppe           
+2023-03-18T00:24:36Z: PLAYER REMOVED [  161736274] LevelErickmoreno08   a.k.a. guiding_light       
+2023-03-18T00:24:37Z: CHRCTER ADDED  [  853372361] nate121333          
+2023-03-18T00:24:40Z: CHRCTER ADDED  [ 4423125114] coolreturned        
+2023-03-18T00:24:40Z: CHRCTER ADDED  [ 2475563856] CENCEREMEN22        
+2023-03-18T00:24:41Z: CHRCTER ADDED  [  140807648] QuickestHar          a.k.a. harrylikesnasa      
+2023-03-18T00:24:44Z: CHRCTER ADDED  [  317005280] maximotreecko        a.k.a. red_maximotreecko   
+2023-03-18T00:24:46Z: CHRCTER ADDED  [ 2721825028] BroiterKingYT_13579 
+2023-03-18T00:24:46Z: PLAYER REMOVED [ 1058555961] Zayn_TheRobloxian    a.k.a. Cardboard_Man       
+2023-03-18T00:24:47Z: CHRCTER ADDED  [  853372361] nate121333          
+2023-03-18T00:24:47Z: CHRCTER ADDED  [ 2475563856] CENCEREMEN22        
+2023-03-18T00:24:50Z: CHRCTER ADDED  [ 3799117237] Meefreehehe         
+2023-03-18T00:24:50Z: CHRCTER ADDED  [ 1682070336] LOOKitsJAMES011      a.k.a. LOOKitsJAMES        
+2023-03-18T00:24:51Z: CHRCTER ADDED  [  317005280] maximotreecko        a.k.a. red_maximotreecko   
+2023-03-18T00:24:52Z: CHRCTER ADDED  [ 2721825028] BroiterKingYT_13579 
+2023-03-18T00:24:52Z: CHRCTER ADDED  [  853372361] nate121333          
+2023-03-18T00:24:53Z: CHRCTER ADDED  [ 1246966581] realbaconboylime     a.k.a. Baconz12            
+2023-03-18T00:24:53Z: CHRCTER ADDED  [   57698064] Purpleasure          a.k.a. AmdRadeonRX6800XT   
+2023-03-18T00:24:53Z: CHRCTER ADDED  [  330775077] Moon_LightNn         a.k.a. Mocha               
+2023-03-18T00:24:54Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-18T00:24:54Z: PLAYER REMOVED [  621555049] nicebendy9393        a.k.a. randomobjectshow_fan
+2023-03-18T00:24:54Z: PLAYER REMOVED [  293481740] NebulousSpectre      a.k.a. Spooks              
+2023-03-18T00:24:54Z: PLAYER REMOVED [  140807648] QuickestHar          a.k.a. harrylikesnasa      
+2023-03-18T00:24:54Z: PLAYER REMOVED [ 1246966581] realbaconboylime     a.k.a. Baconz12            
+2023-03-18T00:24:54Z: PLAYER REMOVED [ 2475563856] CENCEREMEN22        
+2023-03-18T00:24:54Z: PLAYER REMOVED [  177296453] RandomGuy8734        a.k.a. Nado                
+2023-03-18T00:24:54Z: PLAYER REMOVED [  853372361] nate121333          
+2023-03-18T00:24:54Z: PLAYER REMOVED [  916201513] Hotwheelsfancar99    a.k.a. TheGuyFromPizzaTower
+2023-03-18T00:24:54Z: PLAYER REMOVED [ 1565831868] joeyjedib2           a.k.a. Lily                
+2023-03-18T00:24:54Z: PLAYER REMOVED [ 2721825028] BroiterKingYT_13579 
+2023-03-18T00:24:54Z: PLAYER REMOVED [  293020924] Boomdriver12        
+2023-03-18T00:24:54Z: PLAYER REMOVED [ 1825967144] EpicWarrior_Z       
+2023-03-18T00:24:54Z: PLAYER REMOVED [ 1375110695] DatAmazingDog        a.k.a. Doggo               
+2023-03-18T00:24:54Z: PLAYER REMOVED [  330775077] Moon_LightNn         a.k.a. Mocha               
+2023-03-18T00:24:54Z: PLAYER REMOVED [   57698064] Purpleasure          a.k.a. AmdRadeonRX6800XT   
+2023-03-18T00:24:54Z: PLAYER REMOVED [ 1682070336] LOOKitsJAMES011      a.k.a. LOOKitsJAMES        
+2023-03-18T00:24:54Z: PLAYER REMOVED [ 1076608629] mariopppe           
+2023-03-18T00:24:54Z: PLAYER REMOVED [  133981485] Gurgy216             a.k.a. Gurgy               
+2023-03-18T00:24:54Z: PLAYER REMOVED [  317005280] maximotreecko        a.k.a. red_maximotreecko   
+2023-03-18T00:24:54Z: PLAYER REMOVED [ 1917557702] sans_chara22         a.k.a. Kennyiscool         

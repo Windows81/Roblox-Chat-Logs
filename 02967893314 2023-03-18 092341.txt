@@ -1,0 +1,5 @@
+[    1630228] : [ 2967893314] CLogger Store - 971d92e7-6949-45a8-9598-3fd85fcbc559
+2023-03-18T09:23:41Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-03-18T09:23:41Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-18T09:25:03Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-18T09:26:04Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
