@@ -1,0 +1,63 @@
+[    1630228] : [ 6248365197] GET EATEN BY JAMES CHARLES 2 OBBY (SCARY)  - c0ca8a45-e0cd-4b63-9e7b-e7e9642e8a1e
+2023-04-01T03:14:52Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-04-01T03:14:52Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-04-01T03:14:52Z: PLAYER ADDED   [ 1203557931] yvmrfhfhg            a.k.a. Moon                
+2023-04-01T03:14:52Z: PLAYER ADDED   [  451802122] JoeyHilfiger         a.k.a. Joey                
+2023-04-01T03:14:52Z: PLAYER ADDED   [ 1817404215] Isabelis850          a.k.a. sun                 
+2023-04-01T03:14:52Z: PLAYER ADDED   [ 2239160993] bombumao             a.k.a. santi               
+2023-04-01T03:15:08Z: CHRCTER ADDED  [  451802122] JoeyHilfiger         a.k.a. Joey                
+2023-04-01T03:15:23Z: CHRCTER ADDED  [ 1203557931] yvmrfhfhg            a.k.a. Moon                
+2023-04-01T03:15:26Z: CHRCTER ADDED  [ 2239160993] bombumao             a.k.a. santi               
+2023-04-01T03:15:27Z: PLAYER CHATTED [  451802122] JoeyHilfiger         (  -61.1,    10.4,   -37.4)
+  JQJJAJAJA
+2023-04-01T03:15:29Z: PLAYER CHATTED [  451802122] JoeyHilfiger         (  -61.2,    10.4,   -37.3)
+  IMBECIL
+2023-04-01T03:15:31Z: PLAYER CHATTED [ 2239160993] bombumao             (  -64.3,     9.3,   -58.5)
+  ermoso
+2023-04-01T03:15:33Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-04-01T03:15:39Z: CHRCTER ADDED  [  451802122] JoeyHilfiger         a.k.a. Joey                
+2023-04-01T03:15:40Z: CHRCTER ADDED  [ 1203557931] yvmrfhfhg            a.k.a. Moon                
+2023-04-01T03:15:41Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-04-01T03:15:42Z: PLAYER CHATTED [ 2239160993] bombumao             (  -64.9,     9.6,  -100.4)
+  JAI ZISTERS
+2023-04-01T03:15:59Z: CHRCTER ADDED  [ 1203557931] yvmrfhfhg            a.k.a. Moon                
+2023-04-01T03:16:03Z: PLAYER CHATTED [  451802122] JoeyHilfiger         (  -62.2,     9.8,  -158.4)
+  EN EL UÑTIMO
+2023-04-01T03:16:04Z: PLAYER ADDED   [ 4477761207] or0ciox11           
+2023-04-01T03:16:05Z: PLAYER CHATTED [ 2239160993] bombumao             (  -69.2,    46.0,  -162.1)
+  JAJAJAJAJAJAJAJA
+2023-04-01T03:16:12Z: CHRCTER ADDED  [ 1203557931] yvmrfhfhg            a.k.a. Moon                
+2023-04-01T03:16:14Z: PLAYER CHATTED [  451802122] JoeyHilfiger         (  -42.5,     9.8,  -107.8)
+  Memuero de la eiA
+2023-04-01T03:16:22Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-04-01T03:16:23Z: CHRCTER ADDED  [ 1203557931] yvmrfhfhg            a.k.a. Moon                
+2023-04-01T03:16:28Z: CHRCTER ADDED  [ 4477761207] or0ciox11           
+2023-04-01T03:16:33Z: PLAYER CHATTED [  451802122] JoeyHilfiger         (  -47.8,     9.8,  -138.0)
+  JAJAJJAJAJANA
+2023-04-01T03:16:34Z: CHRCTER ADDED  [ 1203557931] yvmrfhfhg            a.k.a. Moon                
+2023-04-01T03:16:35Z: PLAYER CHATTED [ 2239160993] bombumao             (  -54.9,    43.5,  -145.7)
+  Ajajajajajaj
+2023-04-01T03:16:37Z: PLAYER CHATTED [ 2239160993] bombumao             (  -54.9,    43.5,  -145.7)
+  JAJAJAJJA
+2023-04-01T03:16:49Z: PLAYER CHATTED [  451802122] JoeyHilfiger         (  -59.9,     9.8,  -153.6)
+  OTRA PT
+2023-04-01T03:16:56Z: PLAYER CHATTED [ 2239160993] bombumao             (  -67.3,    45.6,  -160.4)
+  NOPUEDO
+2023-04-01T03:17:02Z: CHRCTER ADDED  [ 4477761207] or0ciox11           
+2023-04-01T03:17:08Z: PLAYER CHATTED [  451802122] JoeyHilfiger         (  -72.0,    46.7,  -167.3)
+  ALFINN 
+2023-04-01T03:17:10Z: PLAYER CHATTED [ 2239160993] bombumao             (  -70.4,    49.9,  -180.1)
+  ermoso
+2023-04-01T03:17:16Z: CHRCTER ADDED  [  451802122] JoeyHilfiger         a.k.a. Joey                
+2023-04-01T03:17:16Z: CHRCTER ADDED  [ 4477761207] or0ciox11           
+2023-04-01T03:17:19Z: PLAYER REMOVED [ 4477761207] or0ciox11           
+2023-04-01T03:17:30Z: CHRCTER ADDED  [  451802122] JoeyHilfiger         a.k.a. Joey                
+2023-04-01T03:17:33Z: PLAYER CHATTED [ 2239160993] bombumao             ( -156.3,    59.1,  -238.4)
+  KEKEKEKDKDKDKDKD
+2023-04-01T03:17:34Z: PLAYER CHATTED [  451802122] JoeyHilfiger         ( -149.6,    60.1,  -239.9)
+  ÑITOS
+2023-04-01T03:17:35Z: PLAYER CHATTED [  451802122] JoeyHilfiger         ( -149.6,    60.1,  -239.9)
+  KOMP
+2023-04-01T03:17:36Z: PLAYER CHATTED [  451802122] JoeyHilfiger         ( -149.6,    60.1,  -239.9)
+  ÑITOS
+2023-04-01T03:17:45Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

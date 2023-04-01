@@ -1,0 +1,18 @@
+[    1630228] : [ 3203685552] BEAR (Alpha) - 4997ba46-2438-4e6e-84dd-35df16974d5c
+2023-04-01T03:26:34Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-04-01T03:26:34Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-04-01T03:26:34Z: PLAYER ADDED   [   81354413] leofriend001         a.k.a. masticadordeaguas001
+2023-04-01T03:26:34Z: PLAYER ADDED   [ 2940088079] ikervobi30n         
+2023-04-01T03:26:34Z: PLAYER ADDED   [ 2017872397] unicarealo78        
+2023-04-01T03:26:34Z: PLAYER ADDED   [ 2392409358] elizabeth89679       a.k.a. Charlotte           
+2023-04-01T03:26:34Z: PLAYER ADDED   [ 4337097255] jddfjshc            
+2023-04-01T03:26:34Z: PLAYER ADDED   [ 1438090646] AlexDream05         
+2023-04-01T03:26:34Z: PLAYER ADDED   [ 1867284720] TIGRY_06             a.k.a. Nub                 
+2023-04-01T03:27:05Z: CHRCTER ADDED  [ 4337097255] jddfjshc            
+2023-04-01T03:27:31Z: CHRCTER ADDED  [ 1867284720] TIGRY_06             a.k.a. Nub                 
+2023-04-01T03:27:42Z: PLAYER REMOVED [ 4337097255] jddfjshc            
+2023-04-01T03:28:43Z: PLAYER ADDED   [ 2779688176] Rukopotente1999      a.k.a. ItzRyoumen          
+2023-04-01T03:29:41Z: CHRCTER ADDED  [ 2017872397] unicarealo78        
+2023-04-01T03:29:41Z: CHRCTER ADDED  [ 2392409358] elizabeth89679       a.k.a. Charlotte           
+2023-04-01T03:29:41Z: CHRCTER ADDED  [ 1438090646] AlexDream05         
+2023-04-01T03:29:47Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

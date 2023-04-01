@@ -1,0 +1,17 @@
+[    1630228] : [ 4785497374] BEAR* - ae783313-8e7a-4fee-8a8a-3257bff6b0a6
+2023-04-01T03:40:44Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-04-01T03:40:44Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-04-01T03:40:44Z: PLAYER ADDED   [ 1678123374] sachuboss            a.k.a. Sachuboss           
+2023-04-01T03:40:44Z: PLAYER ADDED   [ 1982906140] ortegaromeo         
+2023-04-01T03:40:44Z: PLAYER ADDED   [ 1605519110] MrMeMes_Man          a.k.a. Dexiduous           
+2023-04-01T03:40:44Z: PLAYER ADDED   [ 2960658001] gaelsoto1329        
+2023-04-01T03:40:44Z: PLAYER ADDED   [ 1230868865] dulingo10            a.k.a. Tattletail          
+2023-04-01T03:40:44Z: PLAYER ADDED   [ 1546841613] iluvmommy17          a.k.a. Baller              
+2023-04-01T03:40:44Z: PLAYER ADDED   [ 3137925189] TowerHerosOwer_of    a.k.a. Mmm_monkeh          
+2023-04-01T03:40:59Z: PLAYER REMOVED [ 1230868865] dulingo10            a.k.a. Tattletail          
+2023-04-01T03:41:08Z: CHRCTER ADDED  [ 1678123374] sachuboss            a.k.a. Sachuboss           
+2023-04-01T03:41:08Z: CHRCTER ADDED  [ 1982906140] ortegaromeo         
+2023-04-01T03:41:08Z: CHRCTER ADDED  [ 1605519110] MrMeMes_Man          a.k.a. Dexiduous           
+2023-04-01T03:41:08Z: CHRCTER ADDED  [ 2960658001] gaelsoto1329        
+2023-04-01T03:41:09Z: PLAYER ADDED   [ 3859185550] MRMARSHMELLOW36      a.k.a. CHEDDARCHEZISGOOD   
+2023-04-01T03:41:16Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

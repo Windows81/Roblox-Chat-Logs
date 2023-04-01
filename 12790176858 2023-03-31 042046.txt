@@ -1,0 +1,37 @@
+[    1630228] : [12790176858] RoGPT AI | ChatGPT - d118b8ad-59b1-4bd3-bf10-104d3c956d2d
+2023-03-31T04:20:46Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-03-31T04:20:46Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-31T04:23:47Z: PLAYER ADDED   [ 2862314818] raratheman000        a.k.a. God                 
+2023-03-31T04:24:04Z: PLAYER CHATTED [ 2862314818] raratheman000        (    2.1,     4.0,     0.0)
+  hello
+2023-03-31T04:24:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.1,     4.8,    -2.6)
+  Hiya.
+2023-03-31T04:24:34Z: PLAYER CHATTED [ 2862314818] raratheman000        (    2.1,     4.0,     0.0)
+  what game this is
+2023-03-31T04:24:41Z: PLAYER CHATTED [ 2862314818] raratheman000        (    2.1,     4.0,     0.0)
+  what type of game
+2023-03-31T04:24:52Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.1,     4.8,    -2.6)
+  It's a tech demo.
+2023-03-31T04:25:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.1,     4.8,    -2.6)
+  /.
+2023-03-31T04:25:14Z: PLAYER CHATTED [ 2862314818] raratheman000        (    2.1,     4.0,     0.2)
+  its chat bypassed
+2023-03-31T04:25:26Z: PLAYER CHATTED [ 2862314818] raratheman000        (    2.1,     4.0,     0.2)
+  u made it?
+2023-03-31T04:25:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.1,     4.8,    -2.6)
+  It's not.
+2023-03-31T04:25:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.1,     4.8,    -2.6)
+  I did not make it.
+2023-03-31T04:25:35Z: PLAYER CHATTED [ 2862314818] raratheman000        (    2.1,     4.0,     0.2)
+  o
+2023-03-31T04:25:46Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.1,     4.8,    -2.6)
+  I'll join a different game.
+2023-03-31T04:25:54Z: PLAYER CHATTED [ 2862314818] raratheman000        (    2.1,     4.0,     0.2)
+  I told it to write me a essay
+2023-03-31T04:25:57Z: PLAYER CHATTED [ 2862314818] raratheman000        (    2.1,     4.0,     0.2)
+  abt cheese
+2023-03-31T04:26:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.1,     4.8,    -2.6)
+  Nice!
+2023-03-31T04:26:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.1,     4.8,    -2.6)
+  Take care!
+2023-03-31T04:26:22Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

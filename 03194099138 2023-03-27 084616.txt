@@ -1,0 +1,10 @@
+[    1630228] : [ 3194099138] R'lyeh The Sunken City - f39e157f-3449-4fd7-9d4b-26113e696724
+2023-03-27T08:46:16Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-03-27T08:46:16Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-27T08:46:16Z: PLAYER ADDED   [  895326627] nlrrrr              
+2023-03-27T08:46:16Z: PLAYER ADDED   [  530933328] AnotarrIceBorne     
+2023-03-27T08:46:16Z: PLAYER ADDED   [  198173266] Pitzlk               a.k.a. VonKingFire         
+2023-03-27T08:46:16Z: PLAYER ADDED   [ 2226580476] tdeph                a.k.a. Fizz                
+2023-03-27T08:46:19Z: PLAYER CHATTED [  530933328] AnotarrIceBorne      (-1018.7,    46.4, -2136.6)
+  What about stuff that isn't even fun or stuff
+2023-03-27T08:46:37Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

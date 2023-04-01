@@ -1,0 +1,30 @@
+[    1630228] : [ 8265622251] Croydʚn: The London Transport Game - 748c55fa-50b0-4bae-b971-f897f7d528c8
+2023-03-28T08:26:08Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-03-28T08:26:08Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-28T08:26:08Z: PLAYER ADDED   [ 3033892882] jav532o              a.k.a. CodeDev             
+2023-03-28T08:26:08Z: PLAYER ADDED   [   73211637] NovAlpha007          a.k.a. NovAlpha            
+2023-03-28T08:26:08Z: PLAYER ADDED   [  336007028] august54742          a.k.a. August              
+2023-03-28T08:26:08Z: PLAYER ADDED   [ 2888590228] highyoat45           a.k.a. bye_hi              
+2023-03-28T08:26:08Z: PLAYER ADDED   [ 3438966059] kitty_goer01         a.k.a. Mydogstepped6       
+2023-03-28T08:26:08Z: PLAYER ADDED   [ 1490743603] Codee083             a.k.a. Duck                
+2023-03-28T08:26:08Z: PLAYER ADDED   [ 1089577164] goldfishandangelfish a.k.a. goldfish            
+2023-03-28T08:26:08Z: PLAYER ADDED   [ 4341488425] teyeteerqdtgg       
+2023-03-28T08:26:08Z: PLAYER ADDED   [ 1707109130] Pz21eg               a.k.a. Aloneness           
+2023-03-28T08:26:08Z: PLAYER ADDED   [ 3528882941] ISSAddsx            
+2023-03-28T08:26:08Z: PLAYER ADDED   [ 4176230343] Numan_FB30          
+2023-03-28T08:26:08Z: PLAYER ADDED   [ 2717156321] eeefff1a             a.k.a. cookie              
+2023-03-28T08:26:08Z: PLAYER ADDED   [ 1688536562] pirozhok1231        
+2023-03-28T08:26:08Z: PLAYER ADDED   [ 1457486995] jxwalker9736666      a.k.a. Senster             
+2023-03-28T08:26:08Z: PLAYER ADDED   [ 3547792677] hao_haomeme          a.k.a. hehhehe             
+2023-03-28T08:26:08Z: PLAYER ADDED   [ 1790278434] Nuja222              a.k.a. Nuja                
+2023-03-28T08:26:08Z: PLAYER ADDED   [  717111250] momo863652           a.k.a. handsome            
+2023-03-28T08:26:08Z: PLAYER ADDED   [ 2341981344] Wiw8465              a.k.a. Popcat              
+2023-03-28T08:26:08Z: PLAYER ADDED   [ 3094663908] DinoBabyIgo          a.k.a. ChAinSaww           
+2023-03-28T08:26:26Z: PLAYER REMOVED [ 1790278434] Nuja222              a.k.a. Nuja                
+2023-03-28T08:26:26Z: PLAYER ADDED   [ 1790278434] Nuja222              a.k.a. Nuja                
+2023-03-28T08:26:27Z: PLAYER ADDED   [ 1901615386] notprabhrblx         a.k.a. TrollingDirp        
+2023-03-28T08:26:28Z: PLAYER ADDED   [ 2912321134] AIMPOINT12          
+2023-03-28T08:26:32Z: PLAYER REMOVED [ 4176230343] Numan_FB30          
+2023-03-28T08:26:40Z: PLAYER REMOVED [ 3094663908] DinoBabyIgo          a.k.a. ChAinSaww           
+2023-03-28T08:27:16Z: PLAYER REMOVED [ 1790278434] Nuja222              a.k.a. Nuja                
+2023-03-28T08:27:19Z: PLAYER ADDED   [ 1790278434] Nuja222              a.k.a. Nuja                

@@ -1,0 +1,188 @@
+[    1630228] : [ 8351248417] Booth Game - 4213858d-588a-4050-ab7a-eef7fa942e7a
+2023-03-31T08:23:42Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-03-31T08:23:42Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-31T08:23:42Z: PLAYER ADDED   [  329762233] Ryvn_Dreemurr        a.k.a. PieUndone           
+2023-03-31T08:23:42Z: PLAYER ADDED   [ 3836006558] AllegedShark363v2    a.k.a. ouch                
+2023-03-31T08:23:42Z: PLAYER ADDED   [  485217327] ashtoastar           a.k.a. RESONANCE           
+2023-03-31T08:23:42Z: PLAYER ADDED   [   91633752] ohkrisv              a.k.a. ARandomWitch        
+2023-03-31T08:23:42Z: PLAYER ADDED   [  490415533] epicblox60           a.k.a. epicblox61          
+2023-03-31T08:23:42Z: PLAYER ADDED   [ 3565039935] Ohnoimsoweird        a.k.a. Mrwartenfries       
+2023-03-31T08:23:42Z: PLAYER ADDED   [ 3933510548] Smdjdm273894        
+2023-03-31T08:23:42Z: PLAYER ADDED   [  137187547] iiTaiko_png          a.k.a. DiIfLuver           
+2023-03-31T08:23:42Z: PLAYER ADDED   [   94694948] MooSaysTheCowGod     a.k.a. Maxwell             
+2023-03-31T08:23:42Z: PLAYER ADDED   [ 1663631794] YT2020Coolboy        a.k.a. Benny               
+2023-03-31T08:23:42Z: PLAYER ADDED   [ 2235684860] SmillyFlimsy         a.k.a. PrincessBacon       
+2023-03-31T08:23:42Z: PLAYER ADDED   [  883088219] SnowabiIity          a.k.a. Snowability         
+2023-03-31T08:23:42Z: PLAYER ADDED   [   30349282] TakeoHonorable      
+2023-03-31T08:23:42Z: PLAYER ADDED   [ 1345583754] yanyasizza           a.k.a. Guidinglight        
+2023-03-31T08:23:42Z: PLAYER ADDED   [  404392714] fireaxekid           a.k.a. Nezy                
+2023-03-31T08:23:42Z: PLAYER ADDED   [  342039199] LamingtonLammy      
+2023-03-31T08:23:42Z: PLAYER ADDED   [   33092912] NozAweRe             a.k.a. anonymous           
+2023-03-31T08:23:42Z: PLAYER ADDED   [ 2272158568] ManMan1234u          a.k.a. Unkrautschnuffler   
+2023-03-31T08:23:42Z: PLAYER ADDED   [ 1575857358] remy_ratatouillee    a.k.a. renny               
+2023-03-31T08:23:42Z: PLAYER ADDED   [ 1736069559] img99b               a.k.a. GrilledCheese       
+2023-03-31T08:23:42Z: PLAYER ADDED   [   75664133] fdetonaded          
+2023-03-31T08:23:42Z: PLAYER ADDED   [   45495687] Vunu                
+2023-03-31T08:23:42Z: PLAYER ADDED   [ 1495489450] epicbean6            a.k.a. steez               
+2023-03-31T08:23:42Z: PLAYER ADDED   [ 1233822378] justchillingyt55     a.k.a. Orthadoxual         
+2023-03-31T08:23:42Z: PLAYER ADDED   [ 1865961250] L0STST0NE            a.k.a. powa                
+2023-03-31T08:23:42Z: PLAYER ADDED   [ 1697547194] i10x9_7              a.k.a. persiantroll        
+2023-03-31T08:23:42Z: PLAYER ADDED   [  296154868] korere               a.k.a. Horizon             
+2023-03-31T08:23:42Z: PLAYER ADDED   [   47727782] Dis_InfectedWipes    a.k.a. DisInfectedWipes    
+2023-03-31T08:23:42Z: PLAYER ADDED   [  320501750] Feralmanstan         a.k.a. Joe                 
+2023-03-31T08:23:42Z: PLAYER ADDED   [   37759351] BananaR777          
+2023-03-31T08:23:42Z: PLAYER ADDED   [  240560097] HoboSnail            a.k.a. snail               
+2023-03-31T08:23:42Z: PLAYER ADDED   [ 2451331058] ahmed400k            a.k.a. Bot                 
+2023-03-31T08:23:42Z: PLAYER ADDED   [ 1265298867] Jackisonpoop         a.k.a. LORD_HAROLD         
+2023-03-31T08:23:42Z: PLAYER ADDED   [ 2480831689] Picklememedude       a.k.a. 8B8BBE3EEE3I1I111   
+2023-03-31T08:23:42Z: PLAYER ADDED   [ 1182378326] x_e103               a.k.a. Thanato             
+2023-03-31T08:23:42Z: PLAYER ADDED   [  161652256] omegasansandpapyrus3 a.k.a. jetstar             
+2023-03-31T08:23:42Z: PLAYER ADDED   [  209292805] PlantAbandonJune     a.k.a. Eggrolls            
+2023-03-31T08:23:42Z: PLAYER ADDED   [  503120978] Meliodas585          a.k.a. SerialDesignationN  
+2023-03-31T08:23:43Z: PLAYER CHATTED [  485217327] ashtoastar           (  632.6,     5.4,  -103.8)
+  of
+2023-03-31T08:23:43Z: PLAYER CHATTED [  883088219] SnowabiIity          (  637.4,     5.4,   -89.6)
+  ###############
+2023-03-31T08:23:45Z: PLAYER CHATTED [ 2235684860] SmillyFlimsy         (  560.6,     6.2,   -26.4)
+  benny i want to glomp you
+2023-03-31T08:23:46Z: PLAYER CHATTED [ 1663631794] YT2020Coolboy        (  555.3,     5.6,   -20.5)
+  someone get this hypocrite out of here
+2023-03-31T08:23:47Z: PLAYER CHATTED [  883088219] SnowabiIity          (  637.4,     5.4,   -89.6)
+  mrbeast burger
+2023-03-31T08:23:47Z: PLAYER CHATTED [   91633752] ohkrisv              (  553.6,     5.8,  -111.7)
+  This is why you shouldn’t dip your entire body in acid
+2023-03-31T08:23:48Z: PLAYER CHATTED [   45495687] Vunu                 (  543.0,     5.5,  -113.8)
+  i laugh at myself to ease the pain
+2023-03-31T08:23:50Z: PLAYER CHATTED [  490415533] epicblox60           (  634.5,     5.4,   -98.4)
+  😰
+2023-03-31T08:23:52Z: PLAYER CHATTED [ 1495489450] epicbean6            (  636.1,     5.4,  -194.8)
+  that a hotdogs is a sandwich 
+2023-03-31T08:23:53Z: PLAYER CHATTED [ 2451331058] ahmed400k            (  557.4,     5.6,   -26.3)
+  / e R15
+2023-03-31T08:23:55Z: PLAYER CHATTED [ 1182378326] x_e103               (  454.9,     5.4,   -23.9)
+  Hi
+2023-03-31T08:23:55Z: PLAYER CHATTED [ 3933510548] Smdjdm273894         (  561.8,     5.5,   -18.5)
+  Someone get this
+2023-03-31T08:23:55Z: PLAYER CHATTED [  490415533] epicblox60           (  634.5,     5.4,   -98.4)
+  hmm
+2023-03-31T08:23:55Z: CHRCTER ADDED  [ 1697547194] i10x9_7              a.k.a. persiantroll        
+2023-03-31T08:23:56Z: PLAYER CHATTED [ 1345583754] yanyasizza           (  640.3,     8.5,   -94.6)
+  sir we dont have that
+2023-03-31T08:23:56Z: PLAYER CHATTED [   91633752] ohkrisv              (  551.9,     5.8,  -132.0)
+  Or not
+2023-03-31T08:23:56Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (  455.2,     5.2,   -30.7)
+  Hi
+2023-03-31T08:23:58Z: PLAYER CHATTED [ 3836006558] AllegedShark363v2    (  641.9,     6.0,  -198.3)
+  it isnt
+2023-03-31T08:23:58Z: PLAYER CHATTED [  490415533] epicblox60           (  634.5,     5.4,   -98.4)
+  that haram
+2023-03-31T08:23:59Z: PLAYER CHATTED [  137187547] iiTaiko_png          (  554.2,     5.6,  -125.0)
+  nah you should
+2023-03-31T08:24:00Z: PLAYER CHATTED [ 2272158568] ManMan1234u          (  643.4,     6.0,  -194.7)
+  ## item of food consisting of two pieces of bread with ##### ####### or other filling between them, ##### ## # light meal.
+2023-03-31T08:24:00Z: PLAYER CHATTED [ 3933510548] Smdjdm273894         (  561.8,     5.5,   -18.5)
+  Gock sucker
+2023-03-31T08:24:01Z: PLAYER CHATTED [   45495687] Vunu                 (  546.0,     5.5,  -116.7)
+  :)
+2023-03-31T08:24:01Z: PLAYER CHATTED [ 1495489450] epicbean6            (  636.1,     5.4,  -194.8)
+  it is
+2023-03-31T08:24:04Z: PLAYER CHATTED [ 3933510548] Smdjdm273894         (  561.8,     5.5,   -18.5)
+  Out of here
+2023-03-31T08:24:07Z: PLAYER CHATTED [   47727782] Dis_InfectedWipes    (  547.4,     5.8,   -71.3)
+  or a podcast
+2023-03-31T08:24:07Z: PLAYER CHATTED [ 1345583754] yanyasizza           (  640.3,     8.5,   -94.6)
+  we have slender burgers
+2023-03-31T08:24:09Z: PLAYER CHATTED [ 3933510548] Smdjdm273894         (  561.8,     5.5,   -18.5)
+  You stupid blue thing
+2023-03-31T08:24:09Z: PLAYER CHATTED [   45495687] Vunu                 (  546.0,     5.5,  -116.7)
+  okay im going to heat up some cheese rice and go to bed
+2023-03-31T08:24:09Z: PLAYER CHATTED [ 1233822378] justchillingyt55     (  561.8,     5.5,   -20.9)
+  Orthodoxual is okay
+2023-03-31T08:24:10Z: PLAYER CHATTED [  883088219] SnowabiIity          (  636.5,     5.4,   -90.7)
+   
+2023-03-31T08:24:10Z: PLAYER CHATTED [ 3836006558] AllegedShark363v2    (  641.9,     6.0,  -198.3)
+  look at the sandwich definition
+2023-03-31T08:24:10Z: PLAYER CHATTED [   94694948] MooSaysTheCowGod     (  547.6,     5.8,  -108.8)
+  /w Vunu  What do u do for 24 no sleep fr bro
+2023-03-31T08:24:12Z: PLAYER CHATTED [ 1495489450] epicbean6            (  636.1,     5.4,  -194.8)
+  define 2
+2023-03-31T08:24:12Z: PLAYER CHATTED [   45495687] Vunu                 (  546.3,     5.5,  -115.5)
+  thank you maxwell!!
+2023-03-31T08:24:13Z: PLAYER CHATTED [ 1865961250] L0STST0NE            (  552.3,     5.1,  -243.6)
+  hi
+2023-03-31T08:24:13Z: PLAYER CHATTED [  883088219] SnowabiIity          (  636.5,     5.4,   -90.7)
+  uh
+2023-03-31T08:24:14Z: PLAYER CHATTED [  137187547] iiTaiko_png          (  555.5,     5.6,  -113.9)
+  eww
+2023-03-31T08:24:15Z: PLAYER CHATTED [ 3565039935] Ohnoimsoweird        (  455.2,     5.2,   -30.7)
+  Well
+2023-03-31T08:24:17Z: PLAYER CHATTED [ 1663631794] YT2020Coolboy        (  556.8,     6.2,   -19.6)
+  you srsly dont know me
+2023-03-31T08:24:17Z: PLAYER CHATTED [   94694948] MooSaysTheCowGod     (  547.6,     5.8,  -108.8)
+  Thank you!!
+2023-03-31T08:24:19Z: PLAYER CHATTED [  240560097] HoboSnail            (  551.9,     5.9,  -188.1)
+  /w Dis_InfectedWipes  either works
+2023-03-31T08:24:20Z: PLAYER CHATTED [   45495687] Vunu                 (  547.0,     5.5,  -114.8)
+  /w MooSaysTheCowGod  i am applying to university and working two jobs
+2023-03-31T08:24:20Z: PLAYER CHATTED [ 1865961250] L0STST0NE            (  552.3,     5.1,  -243.6)
+  oh
+2023-03-31T08:24:21Z: PLAYER CHATTED [   47727782] Dis_InfectedWipes    (  527.4,     5.8,  -190.1)
+  hmm
+2023-03-31T08:24:22Z: PLAYER CHATTED [  404392714] fireaxekid           (  561.8,     5.5,   -23.3)
+  What abiut doxy
+2023-03-31T08:24:22Z: PLAYER CHATTED [ 1663631794] YT2020Coolboy        (  556.8,     6.2,   -19.6)
+  i am benny man
+2023-03-31T08:24:23Z: PLAYER CHATTED [ 3836006558] AllegedShark363v2    (  641.9,     6.0,  -198.3)
+  pull of the definition of 2
+2023-03-31T08:24:23Z: PLAYER CHATTED [  137187547] iiTaiko_png          (  555.5,     5.6,  -113.9)
+  rice and just cheese
+2023-03-31T08:24:23Z: PLAYER CHATTED [  240560097] HoboSnail            (  501.9,     5.9,  -180.8)
+  up to you
+2023-03-31T08:24:24Z: PLAYER CHATTED [  883088219] SnowabiIity          (  636.5,     5.4,   -90.7)
+  do you have soft slender tacos
+2023-03-31T08:24:24Z: PLAYER CHATTED [ 3933510548] Smdjdm273894         (  561.8,     5.5,   -18.5)
+  Bro looks like blue bubble gum
+2023-03-31T08:24:24Z: PLAYER CHATTED [   45495687] Vunu                 (  548.0,     5.5,  -113.0)
+  and also helping out booth game :)
+2023-03-31T08:24:25Z: PLAYER CHATTED [   47727782] Dis_InfectedWipes    (  486.7,     5.8,  -166.6)
+  so many choices
+2023-03-31T08:24:26Z: PLAYER ADDED   [ 3793314588] Help_TOWIN           a.k.a. Black_opsZ          
+2023-03-31T08:24:26Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-31T08:24:26Z: PLAYER REMOVED [  329762233] Ryvn_Dreemurr        a.k.a. PieUndone           
+2023-03-31T08:24:26Z: PLAYER REMOVED [ 3836006558] AllegedShark363v2    a.k.a. ouch                
+2023-03-31T08:24:26Z: PLAYER REMOVED [  485217327] ashtoastar           a.k.a. RESONANCE           
+2023-03-31T08:24:26Z: PLAYER REMOVED [   91633752] ohkrisv              a.k.a. ARandomWitch        
+2023-03-31T08:24:26Z: PLAYER REMOVED [  490415533] epicblox60           a.k.a. epicblox61          
+2023-03-31T08:24:26Z: PLAYER REMOVED [ 3565039935] Ohnoimsoweird        a.k.a. Mrwartenfries       
+2023-03-31T08:24:26Z: PLAYER REMOVED [ 3933510548] Smdjdm273894        
+2023-03-31T08:24:26Z: PLAYER REMOVED [  137187547] iiTaiko_png          a.k.a. DiIfLuver           
+2023-03-31T08:24:26Z: PLAYER REMOVED [   94694948] MooSaysTheCowGod     a.k.a. Maxwell             
+2023-03-31T08:24:26Z: PLAYER REMOVED [ 1663631794] YT2020Coolboy        a.k.a. Benny               
+2023-03-31T08:24:26Z: PLAYER REMOVED [ 2235684860] SmillyFlimsy         a.k.a. PrincessBacon       
+2023-03-31T08:24:26Z: PLAYER REMOVED [  883088219] SnowabiIity          a.k.a. Snowability         
+2023-03-31T08:24:26Z: PLAYER REMOVED [   30349282] TakeoHonorable      
+2023-03-31T08:24:26Z: PLAYER REMOVED [ 1345583754] yanyasizza           a.k.a. Guidinglight        
+2023-03-31T08:24:26Z: PLAYER REMOVED [  404392714] fireaxekid           a.k.a. Nezy                
+2023-03-31T08:24:26Z: PLAYER REMOVED [  342039199] LamingtonLammy      
+2023-03-31T08:24:26Z: PLAYER REMOVED [   33092912] NozAweRe             a.k.a. anonymous           
+2023-03-31T08:24:26Z: PLAYER REMOVED [ 2272158568] ManMan1234u          a.k.a. Unkrautschnuffler   
+2023-03-31T08:24:26Z: PLAYER REMOVED [ 1575857358] remy_ratatouillee    a.k.a. renny               
+2023-03-31T08:24:26Z: PLAYER REMOVED [ 1736069559] img99b               a.k.a. GrilledCheese       
+2023-03-31T08:24:26Z: PLAYER REMOVED [   75664133] fdetonaded          
+2023-03-31T08:24:26Z: PLAYER REMOVED [   45495687] Vunu                
+2023-03-31T08:24:26Z: PLAYER REMOVED [ 1495489450] epicbean6            a.k.a. steez               
+2023-03-31T08:24:26Z: PLAYER REMOVED [ 1233822378] justchillingyt55     a.k.a. Orthadoxual         
+2023-03-31T08:24:26Z: PLAYER REMOVED [ 1865961250] L0STST0NE            a.k.a. powa                
+2023-03-31T08:24:26Z: PLAYER REMOVED [ 1697547194] i10x9_7              a.k.a. persiantroll        
+2023-03-31T08:24:26Z: PLAYER REMOVED [  296154868] korere               a.k.a. Horizon             
+2023-03-31T08:24:26Z: PLAYER REMOVED [   47727782] Dis_InfectedWipes    a.k.a. DisInfectedWipes    
+2023-03-31T08:24:26Z: PLAYER REMOVED [  320501750] Feralmanstan         a.k.a. Joe                 
+2023-03-31T08:24:26Z: PLAYER REMOVED [   37759351] BananaR777          
+2023-03-31T08:24:26Z: PLAYER REMOVED [  240560097] HoboSnail            a.k.a. snail               
+2023-03-31T08:24:26Z: PLAYER REMOVED [ 2451331058] ahmed400k            a.k.a. Bot                 
+2023-03-31T08:24:26Z: PLAYER REMOVED [ 1265298867] Jackisonpoop         a.k.a. LORD_HAROLD         
+2023-03-31T08:24:26Z: PLAYER REMOVED [ 2480831689] Picklememedude       a.k.a. 8B8BBE3EEE3I1I111   
+2023-03-31T08:24:26Z: PLAYER REMOVED [ 1182378326] x_e103               a.k.a. Thanato             
+2023-03-31T08:24:26Z: PLAYER REMOVED [  161652256] omegasansandpapyrus3 a.k.a. jetstar             
+2023-03-31T08:24:26Z: PLAYER REMOVED [  209292805] PlantAbandonJune     a.k.a. Eggrolls            
+2023-03-31T08:24:26Z: PLAYER REMOVED [  503120978] Meliodas585          a.k.a. SerialDesignationN  

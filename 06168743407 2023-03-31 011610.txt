@@ -1,0 +1,6 @@
+[    1630228] : [ 6168743407] Meet Kuki: A.I. Chatbot - 2ac34056-e618-4244-8887-5b05147d16e6
+2023-03-31T01:16:10Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-03-31T01:16:10Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-31T01:16:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -36.3,    56.9,    14.2)
+  ÒÓ
+2023-03-31T01:16:54Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

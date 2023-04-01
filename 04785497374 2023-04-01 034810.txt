@@ -1,0 +1,11 @@
+[    1630228] : [ 4785497374] BEAR* - 1470b6a7-1902-4b25-ab1c-91982209fa5d
+2023-04-01T03:48:10Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-04-01T03:48:10Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-04-01T03:48:10Z: PLAYER ADDED   [ 2400869890] ShadowTon_aCaNdy20   a.k.a. Shadow_man          
+2023-04-01T03:48:10Z: PLAYER ADDED   [ 4447393274] 123BETO755          
+2023-04-01T03:48:10Z: PLAYER ADDED   [ 1313985136] Cristiano138273      a.k.a. Cristianoa60        
+2023-04-01T03:48:10Z: PLAYER ADDED   [ 1657827531] sagacieda            a.k.a. sagax               
+2023-04-01T03:48:10Z: PLAYER ADDED   [ 3997481373] Gruin366            
+2023-04-01T03:48:10Z: PLAYER ADDED   [ 1738913065] crustybutterflies    a.k.a. crust               
+2023-04-01T03:48:10Z: PLAYER ADDED   [  662646743] reset6845377         a.k.a. Rango               
+2023-04-01T03:48:18Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

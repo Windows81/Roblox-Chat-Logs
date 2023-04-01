@@ -1,0 +1,39 @@
+[    1630228] : [12052139370] Booth Game [VC] - 8eb8dcae-b89e-4b17-b5d0-46c8b3ff063d
+2023-03-31T08:24:35Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-03-31T08:24:35Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-31T08:24:35Z: PLAYER ADDED   [   97626597] amilia1255           a.k.a. ItsZo               
+2023-03-31T08:24:35Z: PLAYER ADDED   [  311471197] WashingtonCentraI    a.k.a. Echo                
+2023-03-31T08:24:35Z: PLAYER ADDED   [  333476213] kiarudie             a.k.a. juvedermdoll        
+2023-03-31T08:24:35Z: PLAYER ADDED   [   19239479] RoseDarkfyre         a.k.a. N3V3RM0R            
+2023-03-31T08:24:35Z: PLAYER ADDED   [  419366340] Lizard_boss141       a.k.a. Lizard              
+2023-03-31T08:24:44Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-31T08:24:55Z: PLAYER ADDED   [  320501750] Feralmanstan         a.k.a. Joe                 
+2023-03-31T08:25:05Z: CHRCTER ADDED  [  320501750] Feralmanstan         a.k.a. Joe                 
+2023-03-31T08:25:31Z: PLAYER CHATTED [   97626597] amilia1255           (  637.9,     6.0,   -88.2)
+  mr pres?
+2023-03-31T08:25:44Z: PLAYER CHATTED [  320501750] Feralmanstan         (  636.5,     5.4,   -82.5)
+  yea
+2023-03-31T08:25:48Z: PLAYER CHATTED [  320501750] Feralmanstan         (  636.5,     5.4,   -82.5)
+  ###############
+2023-03-31T08:25:51Z: PLAYER CHATTED [  320501750] Feralmanstan         (  636.5,     5.4,   -82.5)
+  im obama
+2023-03-31T08:25:57Z: PLAYER CHATTED [   97626597] amilia1255           (  637.9,     6.0,   -88.2)
+  wowww
+2023-03-31T08:26:01Z: PLAYER CHATTED [   97626597] amilia1255           (  637.9,     6.0,   -88.2)
+  #####
+2023-03-31T08:26:02Z: PLAYER REMOVED [  320501750] Feralmanstan         a.k.a. Joe                 
+2023-03-31T08:26:05Z: PLAYER ADDED   [  581222778] PennsyIvaniaCentraI  a.k.a. Keystone            
+2023-03-31T08:26:21Z: CHRCTER ADDED  [  581222778] PennsyIvaniaCentraI  a.k.a. Keystone            
+2023-03-31T08:26:59Z: PLAYER ADDED   [  320501750] Feralmanstan         a.k.a. Joe                 
+2023-03-31T08:27:04Z: PLAYER REMOVED [  320501750] Feralmanstan         a.k.a. Joe                 
+2023-03-31T08:28:16Z: PLAYER CHATTED [   97626597] amilia1255           (  637.9,     6.0,   -88.2)
+  imma head off i need rest
+2023-03-31T08:28:31Z: PLAYER CHATTED [   97626597] amilia1255           (  637.9,     6.0,   -88.2)
+  tahtah 
+2023-03-31T08:28:35Z: PLAYER REMOVED [   97626597] amilia1255           a.k.a. ItsZo               
+2023-03-31T08:28:38Z: PLAYER REMOVED [  419366340] Lizard_boss141       a.k.a. Lizard              
+2023-03-31T08:28:40Z: PLAYER REMOVED [   19239479] RoseDarkfyre         a.k.a. N3V3RM0R            
+2023-03-31T08:28:44Z: PLAYER REMOVED [  333476213] kiarudie             a.k.a. juvedermdoll        
+2023-03-31T08:28:47Z: PLAYER REMOVED [  311471197] WashingtonCentraI    a.k.a. Echo                
+2023-03-31T08:28:53Z: PLAYER REMOVED [  581222778] PennsyIvaniaCentraI  a.k.a. Keystone            
+2023-03-31T08:31:09Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

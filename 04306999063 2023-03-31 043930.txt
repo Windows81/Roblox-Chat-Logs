@@ -1,0 +1,142 @@
+[    1630228] : [ 4306999063] Hajimalago's Place - 57b11ed4-a4ac-40a9-9540-fc2227d8c159
+2023-03-31T04:39:30Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-03-31T04:39:30Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-31T04:42:31Z: PLAYER ADDED   [ 2862314818] raratheman000        a.k.a. God                 
+2023-03-31T04:42:50Z: PLAYER CHATTED [ 2862314818] raratheman000        (  -16.3,     4.0,    64.9)
+  are u joining random games?
+2023-03-31T04:42:55Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.8,     3.8,    31.4)
+  Not very random.
+2023-03-31T04:43:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.8,     3.8,    31.4)
+  But this one was supposed to make me slow.
+2023-03-31T04:43:12Z: PLAYER CHATTED [ 2862314818] raratheman000        (    4.8,     3.0,    48.0)
+  how u h fast
+2023-03-31T04:43:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -1.6,     3.8,    50.1)
+  Instead, I can fly cars.
+2023-03-31T04:43:19Z: PLAYER CHATTED [ 2862314818] raratheman000        (   -5.5,     3.0,    46.0)
+  go*
+2023-03-31T04:43:31Z: PLAYER CHATTED [ 2862314818] raratheman000        (  -19.6,     3.0,    41.6)
+  how u go fast?
+2023-03-31T04:43:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -36.4,     5.0,   -37.5)
+  Get in!
+2023-03-31T04:43:47Z: PLAYER CHATTED [ 2862314818] raratheman000        (  -37.9,     3.0,   -22.8)
+  exploits?
+2023-03-31T04:43:59Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -191.3,   257.8,   124.0)
+  flying car
+2023-03-31T04:44:02Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -195.4,   257.6,   127.2)
+  It's not admin.
+2023-03-31T04:44:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -36.8,     5.4,    49.4)
+  You can fly too?
+2023-03-31T04:44:53Z: PLAYER CHATTED [ 2862314818] raratheman000        (  -54.5,     3.0,    58.0)
+  mhm
+2023-03-31T04:45:05Z: PLAYER CHATTED [ 2862314818] raratheman000        (  -55.1,     3.0,    55.2)
+  but its not admin
+2023-03-31T04:45:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (   61.6,     5.5,    11.2)
+  That make two avians.
+2023-03-31T04:46:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (   22.0,     5.5,    39.3)
+  Who can fly faster?
+2023-03-31T04:46:16Z: PLAYER CHATTED [ 2862314818] raratheman000        (   37.9,     3.0,    50.1)
+  u
+2023-03-31T04:46:19Z: PLAYER CHATTED [ 2862314818] raratheman000        (   37.9,     3.0,    50.1)
+  sadly
+2023-03-31T04:46:29Z: PLAYER CHATTED [    1630228] VisualPlugin         (    3.9,     5.0,   -14.1)
+  It doesn't hurt to try!
+2023-03-31T04:47:01Z: PLAYER CHATTED [ 2862314818] raratheman000        (   15.2,     3.9,    66.6)
+  u use exploits?
+2023-03-31T04:47:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (    7.1,     5.5,    42.7)
+  I use a scritpt executor.
+2023-03-31T04:47:17Z: PLAYER CHATTED [    1630228] VisualPlugin         (    7.1,     5.5,    42.7)
+  *Script.
+2023-03-31T04:47:25Z: PLAYER CHATTED [ 2862314818] raratheman000        (   15.2,     3.9,    66.6)
+  that explains
+2023-03-31T04:47:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (    7.1,     5.5,    42.7)
+  So I can't say no.
+2023-03-31T04:47:31Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -19.6,     5.5,    43.5)
+  I assume you do too.
+2023-03-31T04:47:40Z: PLAYER CHATTED [ 2862314818] raratheman000        (   15.2,     3.9,    66.6)
+  what script u using rn
+2023-03-31T04:47:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -36.7,     5.5,    51.7)
+  I made my own fly script months ago.
+2023-03-31T04:47:50Z: PLAYER CHATTED [ 2862314818] raratheman000        (  -41.6,     6.0,    53.1)
+  I'm using iy
+2023-03-31T04:47:55Z: PLAYER CHATTED [ 2862314818] raratheman000        (  -41.6,     6.0,    53.1)
+  ooook
+2023-03-31T04:47:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -36.7,     5.5,    51.7)
+  I contributed to IY.
+2023-03-31T04:47:59Z: PLAYER CHATTED [ 2862314818] raratheman000        ( -183.9,    24.6,    59.5)
+  ooooooooo
+2023-03-31T04:48:08Z: PLAYER CHATTED [ 2862314818] raratheman000        (  339.9,   -12.9,    85.1)
+  may I test it
+2023-03-31T04:48:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (  343.7,   -13.2,    88.6)
+  I fixed the cfly command.
+2023-03-31T04:48:56Z: PLAYER CHATTED [ 2862314818] raratheman000        (   35.3,     3.0,   254.6)
+  are u going to heaven
+2023-03-31T04:48:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.2,     5.1,   233.9)
+  Hop on!
+2023-03-31T04:49:04Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.2,     5.1,   233.9)
+  Get to the driver's seat!
+2023-03-31T04:49:04Z: PLAYER CHATTED [ 2862314818] raratheman000       
+  I died
+2023-03-31T04:49:05Z: CHRCTER ADDED  [ 2862314818] raratheman000        a.k.a. God                 
+2023-03-31T04:49:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.2,     5.1,   233.9)
+  I guess you're going to heaven!
+2023-03-31T04:49:37Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -8.9,     5.1,   231.3)
+  Fly us!
+2023-03-31T04:50:03Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -8.3,     5.1,   234.5)
+  I can fly cars.
+2023-03-31T04:50:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.5,     5.0,   233.3)
+  I didn't know that Infinite Yield doesn't.
+2023-03-31T04:50:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.5,     5.0,   233.3)
+  Try the ;fly command.
+2023-03-31T04:50:25Z: PLAYER CHATTED [ 2862314818] raratheman000        (  -28.2,    10.2,   236.7)
+  yeah
+2023-03-31T04:50:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.5,     5.0,   233.3)
+  Instead of ;cfly.
+2023-03-31T04:50:30Z: PLAYER CHATTED [ 2862314818] raratheman000        (  -28.2,    10.2,   236.7)
+  ;unfly
+2023-03-31T04:50:37Z: PLAYER CHATTED [ 2862314818] raratheman000        (  -28.5,     3.0,   236.7)
+  ;fly
+2023-03-31T04:50:47Z: PLAYER CHATTED [ 2862314818] raratheman000        (  -31.2,     3.0,   230.6)
+  ;untpwalk
+2023-03-31T04:50:54Z: PLAYER CHATTED [ 2862314818] raratheman000        (  -14.1,     3.0,   215.1)
+  I'm on mobile btw
+2023-03-31T04:51:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -11.3,     5.1,   233.2)
+  I se.
+2023-03-31T04:51:03Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -11.3,     5.1,   233.2)
+  *See.
+2023-03-31T04:51:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -11.3,     5.1,   233.2)
+  I'm on PC.
+2023-03-31T04:51:10Z: PLAYER CHATTED [ 2862314818] raratheman000        (   -9.6,     3.0,   215.2)
+  ;cfly
+2023-03-31T04:51:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -8.8,     3.8,   224.8)
+  Windows 11.
+2023-03-31T04:51:19Z: PLAYER CHATTED [ 2862314818] raratheman000        (  -15.4,     3.0,   220.0)
+  oooooo
+2023-03-31T04:51:30Z: PLAYER CHATTED [ 2862314818] raratheman000        (  267.0,   714.9, -1628.7)
+  lets meet #####
+2023-03-31T04:51:32Z: PLAYER CHATTED [ 2862314818] raratheman000        (  218.1,   164.6,  -244.6)
+  god
+2023-03-31T04:51:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (-1155.9,   661.1,   375.5)
+  We're already together!
+2023-03-31T04:52:05Z: PLAYER CHATTED [ 2862314818] raratheman000        (  211.4,  1284.8,  -405.8)
+  like my tuxedo?
+2023-03-31T04:52:21Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -217.2,     5.5,    21.1)
+  Not bad.
+2023-03-31T04:53:01Z: CHRCTER ADDED  [ 2862314818] raratheman000        a.k.a. God                 
+2023-03-31T04:53:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (    8.4,     3.8,   -15.5)
+  Do you have ESP?
+2023-03-31T04:53:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (    2.9,     3.8,    50.3)
+  I do.
+2023-03-31T04:53:09Z: PLAYER CHATTED [ 2862314818] raratheman000        (    0.5,     3.0,    74.0)
+  mhm
+2023-03-31T04:53:17Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -46.1,     3.8,    79.4)
+  Let's race somewhere.
+2023-03-31T04:53:31Z: PLAYER CHATTED [ 2862314818] raratheman000       
+  where
+2023-03-31T04:53:32Z: CHRCTER ADDED  [ 2862314818] raratheman000        a.k.a. God                 
+2023-03-31T04:53:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -89.2,     3.8,    45.5)
+  Let me find the place.
+2023-03-31T04:54:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -89.3,     3.8,    45.2)
+  Follow me.
+2023-03-31T04:54:09Z: PLAYER CHATTED [ 2862314818] raratheman000        (  -90.8,     3.0,    45.4)
+  u are taller then me
+2023-03-31T04:54:14Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

@@ -1,0 +1,9 @@
+[    1630228] : [11955907947] Cruise Line Simulator: A New Era [BETA] - 4997b896-4945-43e9-8dee-dfbd919493b8
+2023-03-31T04:57:14Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-03-31T04:57:14Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-31T04:57:14Z: PLAYER ADDED   [   28307325] bigbig202           
+2023-03-31T04:57:14Z: PLAYER ADDED   [ 2862314818] raratheman000        a.k.a. God                 
+2023-03-31T04:57:26Z: PLAYER REMOVED [ 2862314818] raratheman000        a.k.a. God                 
+2023-03-31T05:53:31Z: PLAYER ADDED   [   74014069] Grim_Dev200          a.k.a. Grim                
+2023-03-31T05:54:53Z: PLAYER REMOVED [   74014069] Grim_Dev200          a.k.a. Grim                
+2023-03-31T06:52:22Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

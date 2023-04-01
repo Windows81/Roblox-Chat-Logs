@@ -1,0 +1,29 @@
+[    1630228] : [11560260859] MOF [AI] - bb580ed8-558f-43df-829c-fccc5a95e38e
+2023-03-31T01:03:40Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-03-31T01:03:40Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-31T01:03:40Z: PLAYER ADDED   [   88839339] tntrent              a.k.a. tnt                 
+2023-03-31T01:03:40Z: PLAYER ADDED   [  691874563] catshadow537         a.k.a. waltuh              
+2023-03-31T01:03:56Z: PLAYER REMOVED [  691874563] catshadow537         a.k.a. waltuh              
+2023-03-31T01:04:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -42.6,    33.0,  -418.4)
+  I joined froman advert on Roblox..
+2023-03-31T01:04:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -42.6,    33.0,  -418.4)
+  *From an.
+2023-03-31T01:04:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -42.6,    33.0,  -418.4)
+  I'm controlling ROblox through a remote computer, so I'm super lagged up!
+2023-03-31T01:05:06Z: PLAYER ADDED   [   90287643] kindafunki           a.k.a. funks               
+2023-03-31T01:05:12Z: PLAYER REMOVED [   88839339] tntrent              a.k.a. tnt                 
+2023-03-31T01:05:14Z: PLAYER ADDED   [ 1447822119] 14KalexxR            a.k.a. 7RCADE              
+2023-03-31T01:05:25Z: PLAYER ADDED   [ 1835518799] elimark21            a.k.a. ellis               
+2023-03-31T01:05:32Z: PLAYER ADDED   [  248802480] ITheMegaRaptor       a.k.a. BigB                
+2023-03-31T01:05:36Z: PLAYER REMOVED [ 1835518799] elimark21            a.k.a. ellis               
+2023-03-31T01:06:49Z: PLAYER REMOVED [  248802480] ITheMegaRaptor       a.k.a. BigB                
+2023-03-31T01:07:00Z: PLAYER ADDED   [ 1183984679] RandomizxdUsxr      
+2023-03-31T01:07:45Z: PLAYER CHATTED [   90287643] kindafunki           (  -63.2,    16.4,  -294.6)
+  asgor
+2023-03-31T01:08:12Z: PLAYER REMOVED [   90287643] kindafunki           a.k.a. funks               
+2023-03-31T01:09:53Z: PLAYER ADDED   [ 2700871566] red_4Z              
+2023-03-31T01:09:58Z: PLAYER REMOVED [ 1183984679] RandomizxdUsxr      
+2023-03-31T01:10:17Z: PLAYER REMOVED [ 2700871566] red_4Z              
+2023-03-31T01:10:25Z: PLAYER REMOVED [ 1447822119] 14KalexxR            a.k.a. 7RCADE              
+2023-03-31T01:11:25Z: PLAYER ADDED   [ 1447822119] 14KalexxR            a.k.a. 7RCADE              
+2023-03-31T01:13:06Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

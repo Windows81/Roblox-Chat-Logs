@@ -1,0 +1,15 @@
+[    1630228] : [ 8044000698] Open Mic Night [VOICE CHAT 🔊] - af94f827-b5c1-47cc-9417-ea56ad0547fc
+2023-03-27T09:00:25Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-03-27T09:00:25Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-27T09:00:25Z: PLAYER ADDED   [ 1156106317] zoe21052012          a.k.a. Cinderella          
+2023-03-27T09:00:25Z: PLAYER ADDED   [ 4464760154] iamdcblox1234       
+2023-03-27T09:00:25Z: PLAYER ADDED   [ 1856793942] RyliePrincess23      a.k.a. Olivia              
+2023-03-27T09:00:25Z: PLAYER ADDED   [ 4465063059] Codificuhhg         
+2023-03-27T09:00:25Z: PLAYER ADDED   [ 3954237013] Jo_thunder13        
+2023-03-27T09:00:25Z: PLAYER ADDED   [ 4343535348] wrykzxtt2346        
+2023-03-27T09:00:25Z: PLAYER ADDED   [ 4446274615] taranjothfg         
+2023-03-27T09:00:25Z: PLAYER ADDED   [ 1081630774] arenhydradrip        a.k.a. ArenGoji            
+2023-03-27T09:00:25Z: PLAYER ADDED   [ 4326677286] Jjnjumn             
+2023-03-27T09:00:25Z: PLAYER ADDED   [ 2795579175] kandace2416          a.k.a. Silver              
+2023-03-27T09:00:31Z: PLAYER REMOVED [ 2795579175] kandace2416          a.k.a. Silver              
+2023-03-27T09:00:33Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

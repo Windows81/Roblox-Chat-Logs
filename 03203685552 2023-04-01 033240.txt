@@ -1,0 +1,67 @@
+[    1630228] : [ 3203685552] BEAR (Alpha) - 3d3a98c8-efc3-4946-a65c-a0c979d54558
+2023-04-01T03:32:40Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-04-01T03:32:40Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-04-01T03:32:40Z: PLAYER ADDED   [ 2560957306] ColorRose00          a.k.a. Ellie               
+2023-04-01T03:32:40Z: PLAYER ADDED   [ 2281446208] reydiablo_34         a.k.a. PATR1C10_45         
+2023-04-01T03:32:40Z: PLAYER ADDED   [ 1337348841] GOKU_CR4CK           a.k.a. HeresNegan          
+2023-04-01T03:32:40Z: PLAYER ADDED   [ 1317700150] XxAxelelrealxX       a.k.a. Axel                
+2023-04-01T03:32:40Z: PLAYER ADDED   [ 2409355724] luisgaton8          
+2023-04-01T03:32:40Z: PLAYER ADDED   [ 4405375966] angel221338         
+2023-04-01T03:32:40Z: PLAYER ADDED   [ 3091325037] CocoAxel26          
+2023-04-01T03:33:53Z: PLAYER CHATTED [ 1337348841] GOKU_CR4CK           ( -392.5,    30.5,    76.6)
+  Xd
+2023-04-01T03:33:54Z: CHRCTER ADDED  [ 1337348841] GOKU_CR4CK           a.k.a. HeresNegan          
+2023-04-01T03:33:54Z: PLAYER CHATTED [ 2560957306] ColorRose00          (   84.4,     4.9,   -38.8)
+  no que muy pro?
+2023-04-01T03:33:54Z: CHRCTER ADDED  [ 1317700150] XxAxelelrealxX       a.k.a. Axel                
+2023-04-01T03:33:54Z: CHRCTER ADDED  [ 4405375966] angel221338         
+2023-04-01T03:33:58Z: PLAYER CHATTED [ 1337348841] GOKU_CR4CK           (   37.6,     4.6,   -90.5)
+  me especteaste we?
+2023-04-01T03:34:02Z: PLAYER CHATTED [ 2560957306] ColorRose00          (   68.1,     4.5,   -49.5)
+  si
+2023-04-01T03:34:02Z: PLAYER CHATTED [ 1317700150] XxAxelelrealxX       (   72.8,     4.9,   -25.6)
+  a tu que
+2023-04-01T03:34:08Z: PLAYER CHATTED [ 1337348841] GOKU_CR4CK           (  115.3,     4.6,   -70.3)
+  lit paso alado de mi
+2023-04-01T03:34:12Z: PLAYER CHATTED [ 2560957306] ColorRose00          (  128.4,     4.5,   -56.5)
+  JAJAJAS
+2023-04-01T03:34:13Z: PLAYER CHATTED [ 1317700150] XxAxelelrealxX       (   96.7,     4.3,    34.0)
+  xd
+2023-04-01T03:34:21Z: PLAYER CHATTED [ 2560957306] ColorRose00          (  127.7,     4.5,   -16.9)
+  en q se parece pues
+2023-04-01T03:34:23Z: PLAYER CHATTED [ 1317700150] XxAxelelrealxX       (  101.9,     4.3,    33.3)
+  se camuclafio
+2023-04-01T03:34:44Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-04-01T03:34:56Z: PLAYER CHATTED [ 1317700150] XxAxelelrealxX       (   62.6,  -150.6,  1152.5)
+  oh sobreviviente
+2023-04-01T03:35:46Z: PLAYER CHATTED [ 1337348841] GOKU_CR4CK           ( -172.7,  -153.3,  1023.3)
+  quiero un teclado personalizado
+2023-04-01T03:36:07Z: PLAYER CHATTED [ 2560957306] ColorRose00          ( -195.0,  -135.5,   961.6)
+  ayuda..
+2023-04-01T03:36:22Z: CHRCTER ADDED  [ 3091325037] CocoAxel26          
+2023-04-01T03:36:38Z: PLAYER CHATTED [ 2560957306] ColorRose00          ( -163.0,  -129.1,  1009.6)
+  dude
+2023-04-01T03:37:27Z: PLAYER CHATTED [ 1317700150] XxAxelelrealxX       ( -144.3,  -132.4,   977.4)
+  ja facil
+2023-04-01T03:37:36Z: CHRCTER ADDED  [ 4405375966] angel221338         
+2023-04-01T03:38:22Z: PLAYER CHATTED [ 1317700150] XxAxelelrealxX       ( -150.4,  -141.3,  1015.9)
+  ja ganamos
+2023-04-01T03:38:27Z: PLAYER CHATTED [ 2560957306] ColorRose00          ( -163.8,  -129.1,  1010.3)
+  re ez
+2023-04-01T03:38:27Z: CHRCTER ADDED  [ 1337348841] GOKU_CR4CK           a.k.a. HeresNegan          
+2023-04-01T03:38:27Z: CHRCTER ADDED  [ 1317700150] XxAxelelrealxX       a.k.a. Axel                
+2023-04-01T03:38:27Z: CHRCTER ADDED  [ 2281446208] reydiablo_34         a.k.a. PATR1C10_45         
+2023-04-01T03:38:27Z: CHRCTER ADDED  [ 2560957306] ColorRose00          a.k.a. Ellie               
+2023-04-01T03:38:28Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-04-01T03:38:29Z: CHRCTER ADDED  [ 2409355724] luisgaton8          
+2023-04-01T03:38:51Z: PLAYER CHATTED [ 1337348841] GOKU_CR4CK           (  118.3,     5.1,   -22.3)
+  conoces a el estilo gangster?
+2023-04-01T03:38:55Z: PLAYER CHATTED [ 2560957306] ColorRose00          (  110.7,     5.0,   -11.6)
+  aja
+2023-04-01T03:39:00Z: PLAYER CHATTED [ 2560957306] ColorRose00          (   95.9,     4.9,    -8.2)
+  q con eso
+2023-04-01T03:39:03Z: PLAYER CHATTED [ 1337348841] GOKU_CR4CK           (  110.1,     5.0,    -9.5)
+  muchisimo peor que el slender
+2023-04-01T03:39:07Z: PLAYER CHATTED [ 1337348841] GOKU_CR4CK           (  109.6,     5.0,    -9.7)
+  pero menos conocido
+2023-04-01T03:39:10Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

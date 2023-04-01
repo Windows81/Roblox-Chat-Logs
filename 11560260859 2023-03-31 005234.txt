@@ -1,0 +1,7 @@
+[    1630228] : [11560260859] MOF [AI] - bb580ed8-558f-43df-829c-fccc5a95e38e
+2023-03-31T00:52:34Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-03-31T00:52:34Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-03-31T00:52:34Z: PLAYER ADDED   [   88839339] tntrent              a.k.a. tnt                 
+2023-03-31T00:52:40Z: PLAYER CHATTED [   88839339] tntrent              (  -65.2,    16.4,   -94.9)
+  /e wave
+2023-03-31T00:54:29Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
