@@ -1,0 +1,9 @@
+[    1630228] : [ 4522347649] [FREE ADMIN] - c234e034-7db5-4bb1-9c6f-e830bcb71f1f
+2023-04-03T01:55:14Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-04-03T01:55:14Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-04-03T01:55:14Z: PLAYER ADDED   [ 1237134895] orant8              
+2023-04-03T01:55:14Z: PLAYER ADDED   [ 4335118000] Isrataloco          
+2023-04-03T01:55:22Z: PLAYER ADDED   [ 2268245785] lizy_537991         
+2023-04-03T01:55:38Z: PLAYER CHATTED [ 1237134895] orant8               (  -28.6,     4.8,   149.5)
+  :fly all now beucse si it
+2023-04-03T01:55:46Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

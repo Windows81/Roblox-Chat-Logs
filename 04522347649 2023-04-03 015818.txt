@@ -1,0 +1,890 @@
+[    1630228] : [ 4522347649] [FREE ADMIN] - 32947d32-6908-4b69-906b-20b654395b50
+2023-04-03T01:58:18Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-04-03T01:58:18Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-04-03T01:58:18Z: PLAYER ADDED   [  413850195] yefersiton           a.k.a. yefer_mistic        
+2023-04-03T01:58:18Z: PLAYER ADDED   [ 2749714267] Teddy90114           a.k.a. RIP_WAZA            
+2023-04-03T01:58:18Z: PLAYER ADDED   [ 4137588031] SOYMESSINLLER        a.k.a. Joseph_12345        
+2023-04-03T01:58:18Z: PLAYER ADDED   [ 3333017334] cris_rodri12         a.k.a. cros                
+2023-04-03T01:58:18Z: PLAYER ADDED   [ 4035625647] saed_3006            a.k.a. Katakuri            
+2023-04-03T01:58:18Z: PLAYER ADDED   [ 1388126737] espural2            
+2023-04-03T01:58:21Z: CHRCTER ADDED  [ 1388126737] espural2            
+2023-04-03T01:58:24Z: PLAYER CHATTED [  413850195] yefersiton           (  -28.6,    -1.0,     7.3)
+  q?
+2023-04-03T01:58:29Z: CHRCTER ADDED  [ 2749714267] Teddy90114           a.k.a. RIP_WAZA            
+2023-04-03T01:58:30Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-04-03T01:58:31Z: CHRCTER ADDED  [ 4035625647] saed_3006            a.k.a. Katakuri            
+2023-04-03T01:58:36Z: CHRCTER ADDED  [ 3333017334] cris_rodri12         a.k.a. cros                
+2023-04-03T01:58:41Z: PLAYER CHATTED [ 3333017334] cris_rodri12         (  -23.9,    -1.0,   149.5)
+  :invisible
+2023-04-03T01:58:55Z: CHRCTER ADDED  [ 1388126737] espural2            
+2023-04-03T01:58:55Z: CHRCTER ADDED  [ 4035625647] saed_3006            a.k.a. Katakuri            
+2023-04-03T01:59:02Z: CHRCTER ADDED  [ 2749714267] Teddy90114           a.k.a. RIP_WAZA            
+2023-04-03T01:59:02Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-04-03T01:59:02Z: CHRCTER ADDED  [ 3333017334] cris_rodri12         a.k.a. cros                
+2023-04-03T01:59:03Z: CHRCTER ADDED  [ 4137588031] SOYMESSINLLER        a.k.a. Joseph_12345        
+2023-04-03T01:59:08Z: CHRCTER ADDED  [  413850195] yefersiton           a.k.a. yefer_mistic        
+2023-04-03T01:59:11Z: PLAYER CHATTED [ 3333017334] cris_rodri12         (  -33.1,    -1.0,   147.3)
+  :invisible
+2023-04-03T01:59:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -9.2,    -3.0,   129.8)
+  Ya matabas a 64 personas.
+2023-04-03T01:59:20Z: PLAYER CHATTED [  413850195] yefersiton           (  -19.8,    -1.0,    -6.9)
+  :ff
+2023-04-03T01:59:24Z: CHRCTER ADDED  [ 1388126737] espural2            
+2023-04-03T01:59:25Z: CHRCTER ADDED  [ 3333017334] cris_rodri12         a.k.a. cros                
+2023-04-03T01:59:26Z: PLAYER CHATTED [ 4035625647] saed_3006            (  -42.4,    -1.0,  -135.9)
+  :invisible
+2023-04-03T01:59:27Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-04-03T01:59:33Z: PLAYER CHATTED [  413850195] yefersiton           (  -61.2,    -1.0,   -45.3)
+  pero como
+2023-04-03T01:59:46Z: PLAYER CHATTED [ 3333017334] cris_rodri12         ( -182.5,    -1.0,   143.7)
+  :invisible
+2023-04-03T01:59:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -23.9,    -1.0,   149.5)
+  ¡Te voy a tomar la venganza!
+2023-04-03T01:59:53Z: CHRCTER ADDED  [ 3333017334] cris_rodri12         a.k.a. cros                
+2023-04-03T01:59:53Z: CHRCTER ADDED  [ 1388126737] espural2            
+2023-04-03T01:59:54Z: CHRCTER ADDED  [ 4137588031] SOYMESSINLLER        a.k.a. Joseph_12345        
+2023-04-03T01:59:59Z: PLAYER CHATTED [ 3333017334] cris_rodri12         (  -29.3,    -1.0,   149.9)
+  :ice ted
+2023-04-03T02:00:08Z: PLAYER CHATTED [ 2749714267] Teddy90114           (  -73.4,    21.5,    79.7)
+  :ice cris
+2023-04-03T02:00:09Z: PLAYER CHATTED [ 4137588031] SOYMESSINLLER        ( -141.4,    -1.0,   133.5)
+  :ice ted
+2023-04-03T02:00:13Z: CHRCTER ADDED  [ 2749714267] Teddy90114           a.k.a. RIP_WAZA            
+2023-04-03T02:00:14Z: PLAYER CHATTED [  413850195] yefersiton           (  -65.0,    -1.0,    26.5)
+  acábe elde entrar xddd
+2023-04-03T02:00:15Z: PLAYER CHATTED [ 3333017334] cris_rodri12         ( -172.0,    -1.0,   150.2)
+  :unice
+2023-04-03T02:00:23Z: CHRCTER ADDED  [ 1388126737] espural2            
+2023-04-03T02:00:24Z: CHRCTER ADDED  [ 3333017334] cris_rodri12         a.k.a. cros                
+2023-04-03T02:00:24Z: CHRCTER ADDED  [ 4035625647] saed_3006            a.k.a. Katakuri            
+2023-04-03T02:00:24Z: CHRCTER ADDED  [ 4137588031] SOYMESSINLLER        a.k.a. Joseph_12345        
+2023-04-03T02:00:35Z: PLAYER CHATTED [ 3333017334] cris_rodri12         (   -7.9,    -1.0,    99.0)
+  :invicible
+2023-04-03T02:00:36Z: CHRCTER ADDED  [ 2749714267] Teddy90114           a.k.a. RIP_WAZA            
+2023-04-03T02:00:45Z: PLAYER CHATTED [ 3333017334] cris_rodri12         (  -12.3,    -1.0,    92.6)
+  :invisible
+2023-04-03T02:00:47Z: PLAYER REMOVED [ 1388126737] espural2            
+2023-04-03T02:00:48Z: PLAYER CHATTED [ 4035625647] saed_3006            (  -23.8,    -1.0,    38.6)
+  :explote cris
+2023-04-03T02:00:57Z: CHRCTER ADDED  [  413850195] yefersiton           a.k.a. yefer_mistic        
+2023-04-03T02:00:59Z: CHRCTER ADDED  [ 4137588031] SOYMESSINLLER        a.k.a. Joseph_12345        
+2023-04-03T02:00:59Z: PLAYER CHATTED [  413850195] yefersiton           (   -8.8,    -1.0,   149.5)
+  :ff
+2023-04-03T02:01:00Z: CHRCTER ADDED  [ 4035625647] saed_3006            a.k.a. Katakuri            
+2023-04-03T02:01:04Z: CHRCTER ADDED  [ 3333017334] cris_rodri12         a.k.a. cros                
+2023-04-03T02:01:09Z: PLAYER CHATTED [ 3333017334] cris_rodri12         (   -8.9,    -1.0,   149.5)
+  :control ted
+2023-04-03T02:01:18Z: PLAYER CHATTED [ 2749714267] Teddy90114           ( -267.1,   122.4,     7.0)
+  :control cris
+2023-04-03T02:01:22Z: PLAYER CHATTED [ 4035625647] saed_3006            (  -23.9,    -1.0,   149.5)
+  :explote Teddy
+2023-04-03T02:01:29Z: PLAYER CHATTED [  413850195] yefersiton          
+  manicomio me matan si tengo el ff
+2023-04-03T02:01:30Z: PLAYER CHATTED [ 3333017334] cris_rodri12         ( -317.2,    41.3,   -76.7)
+  :poop ted
+2023-04-03T02:01:31Z: CHRCTER ADDED  [  413850195] yefersiton           a.k.a. yefer_mistic        
+2023-04-03T02:01:35Z: PLAYER CHATTED [  413850195] yefersiton           (  -11.9,    -1.0,   119.7)
+  :ff
+2023-04-03T02:01:40Z: PLAYER CHATTED [ 3333017334] cris_rodri12         ( -317.2,    41.3,   -76.7)
+  :uncontrol
+2023-04-03T02:01:41Z: PLAYER CHATTED [ 2749714267] Teddy90114           ( -267.1,   122.4,     7.0)
+  :uncontrol
+2023-04-03T02:01:47Z: CHRCTER ADDED  [ 4035625647] saed_3006            a.k.a. Katakuri            
+2023-04-03T02:01:52Z: PLAYER CHATTED [  413850195] yefersiton           (  -14.8,    -1.0,   -61.2)
+  a ok
+2023-04-03T02:01:53Z: PLAYER CHATTED [ 3333017334] cris_rodri12         (  -16.6,    -1.0,   117.4)
+  :invisible
+2023-04-03T02:01:57Z: CHRCTER ADDED  [  413850195] yefersiton           a.k.a. yefer_mistic        
+2023-04-03T02:01:59Z: CHRCTER ADDED  [ 4137588031] SOYMESSINLLER        a.k.a. Joseph_12345        
+2023-04-03T02:02:00Z: PLAYER CHATTED [ 4035625647] saed_3006            (  -23.9,    -1.0,   149.5)
+  :exploto cris
+2023-04-03T02:02:02Z: PLAYER CHATTED [  413850195] yefersiton           (  -34.0,    -1.0,   130.4)
+  :ff
+2023-04-03T02:02:19Z: CHRCTER ADDED  [ 4035625647] saed_3006            a.k.a. Katakuri            
+2023-04-03T02:02:19Z: CHRCTER ADDED  [ 3333017334] cris_rodri12         a.k.a. cros                
+2023-04-03T02:02:20Z: CHRCTER ADDED  [ 2749714267] Teddy90114           a.k.a. RIP_WAZA            
+2023-04-03T02:02:27Z: CHRCTER ADDED  [  413850195] yefersiton           a.k.a. yefer_mistic        
+2023-04-03T02:02:29Z: PLAYER CHATTED [ 4035625647] saed_3006            (  -18.9,    -1.0,   149.4)
+  :explote Teddy
+2023-04-03T02:02:31Z: PLAYER CHATTED [ 3333017334] cris_rodri12         (  -18.9,    -1.0,   149.4)
+  :control ####
+2023-04-03T02:02:32Z: PLAYER CHATTED [  413850195] yefersiton           (  -33.9,    -1.0,   149.5)
+  :explode visual
+2023-04-03T02:02:35Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-04-03T02:02:43Z: CHRCTER ADDED  [ 3333017334] cris_rodri12         a.k.a. cros                
+2023-04-03T02:02:51Z: PLAYER CHATTED [ 4035625647] saed_3006            (  -18.9,    -1.0,   149.4)
+  :control cris
+2023-04-03T02:02:51Z: CHRCTER ADDED  [  413850195] yefersiton           a.k.a. yefer_mistic        
+2023-04-03T02:02:57Z: PLAYER CHATTED [  413850195] yefersiton           (  -38.9,    -1.0,    91.7)
+  :ff
+2023-04-03T02:03:03Z: PLAYER CHATTED [ 3333017334] cris_rodri12         (   -0.1,    -1.0,    16.6)
+  :uncontrol
+2023-04-03T02:03:10Z: CHRCTER ADDED  [ 3333017334] cris_rodri12         a.k.a. cros                
+2023-04-03T02:03:12Z: PLAYER CHATTED [ 3333017334] cris_rodri12         (  -18.9,    -1.2,   149.4)
+  :jail
+2023-04-03T02:03:17Z: CHRCTER ADDED  [ 4137588031] SOYMESSINLLER        a.k.a. Joseph_12345        
+2023-04-03T02:03:18Z: PLAYER CHATTED [ 3333017334] cris_rodri12         (  -17.6,    -2.2,   149.2)
+  :ice
+2023-04-03T02:03:30Z: PLAYER CHATTED [ 4137588031] SOYMESSINLLER        (  -28.0,    -1.2,   141.2)
+  :jail
+2023-04-03T02:03:34Z: CHRCTER ADDED  [ 2749714267] Teddy90114           a.k.a. RIP_WAZA            
+2023-04-03T02:03:35Z: PLAYER CHATTED [ 3333017334] cris_rodri12         (  -17.6,    -2.2,   149.2)
+  :control ted
+2023-04-03T02:03:41Z: PLAYER CHATTED [ 2749714267] Teddy90114           (  -18.9,     0.7,   149.5)
+  :control cris
+2023-04-03T02:03:41Z: PLAYER CHATTED [ 4137588031] SOYMESSINLLER        (  -27.2,     0.2,   139.4)
+  :ice
+2023-04-03T02:03:42Z: CHRCTER ADDED  [  413850195] yefersiton           a.k.a. yefer_mistic        
+2023-04-03T02:03:47Z: PLAYER CHATTED [  413850195] yefersiton           (  -42.6,    -1.0,   106.1)
+  :ff
+2023-04-03T02:03:48Z: CHRCTER ADDED  [ 4137588031] SOYMESSINLLER        a.k.a. Joseph_12345        
+2023-04-03T02:03:50Z: PLAYER CHATTED [ 2749714267] Teddy90114           (  -18.9,     0.7,   149.5)
+  :ice cris
+2023-04-03T02:03:52Z: PLAYER CHATTED [ 3333017334] cris_rodri12         (  -17.6,    -2.2,   149.2)
+  :ice ted
+2023-04-03T02:03:58Z: CHRCTER ADDED  [ 4137588031] SOYMESSINLLER        a.k.a. Joseph_12345        
+2023-04-03T02:04:03Z: PLAYER CHATTED [  413850195] yefersiton           (   -4.0,    -1.0,    11.7)
+  na ######
+2023-04-03T02:04:04Z: PLAYER CHATTED [ 4137588031] SOYMESSINLLER        (  -26.5,    -0.2,   139.8)
+  :ice ted
+2023-04-03T02:04:05Z: PLAYER CHATTED [ 2749714267] Teddy90114           (  -18.9,     0.7,   149.5)
+  :uncontrol
+2023-04-03T02:04:10Z: PLAYER CHATTED [ 3333017334] cris_rodri12         (  -17.6,    -2.2,   149.2)
+  :control Cris.
+2023-04-03T02:04:10Z: CHRCTER ADDED  [  413850195] yefersiton           a.k.a. yefer_mistic        
+2023-04-03T02:04:15Z: PLAYER REMOVED [ 3333017334] cris_rodri12         a.k.a. cros                
+2023-04-03T02:04:16Z: PLAYER CHATTED [ 4137588031] SOYMESSINLLER        (  -26.0,     0.2,   141.0)
+  :ice cris
+2023-04-03T02:04:18Z: PLAYER CHATTED [  413850195] yefersiton           (  -15.4,    -1.0,    73.7)
+  pa son haci?
+2023-04-03T02:04:28Z: PLAYER CHATTED [ 2749714267] Teddy90114           (  -18.9,     0.7,   149.5)
+  :ice saed
+2023-04-03T02:04:35Z: PLAYER ADDED   [ 3333017334] cris_rodri12         a.k.a. cros                
+2023-04-03T02:04:41Z: CHRCTER ADDED  [ 4035625647] saed_3006            a.k.a. Katakuri            
+2023-04-03T02:04:41Z: PLAYER CHATTED [ 4035625647] saed_3006            (  -18.9,     3.7,   149.5)
+  :ice Teddy
+2023-04-03T02:04:41Z: CHRCTER ADDED  [ 2749714267] Teddy90114           a.k.a. RIP_WAZA            
+2023-04-03T02:04:42Z: PLAYER CHATTED [ 2749714267] Teddy90114           (  -18.9,    -1.0,   149.5)
+  :unice
+2023-04-03T02:04:42Z: CHRCTER ADDED  [ 4137588031] SOYMESSINLLER        a.k.a. Joseph_12345        
+2023-04-03T02:04:52Z: PLAYER CHATTED [  413850195] yefersiton           (    1.8,     1.0,    28.2)
+  na maldito ######
+2023-04-03T02:04:56Z: PLAYER CHATTED [  413850195] yefersiton           (    1.8,     1.0,    28.2)
+  #####
+2023-04-03T02:05:05Z: CHRCTER ADDED  [  413850195] yefersiton           a.k.a. yefer_mistic        
+2023-04-03T02:05:08Z: PLAYER CHATTED [ 4035625647] saed_3006            (  -17.9,    -1.0,   132.3)
+  :ice Teddy90114
+2023-04-03T02:05:11Z: PLAYER CHATTED [ 3333017334] cris_rodri12         (  -22.4,    -1.0,    76.8)
+  :princess ####
+2023-04-03T02:05:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -60.7,    84.4,   280.2)
+  Sòý yo.
+2023-04-03T02:05:18Z: PLAYER CHATTED [ 3333017334] cris_rodri12         (  -22.4,    -1.0,    76.8)
+  :invisible
+2023-04-03T02:05:34Z: PLAYER CHATTED [ 2749714267] Teddy90114           ( -239.6,    91.7,  -127.7)
+  :poop cris
+2023-04-03T02:05:35Z: PLAYER CHATTED [ 4035625647] saed_3006            (  -24.7,    -1.0,   129.5)
+  :ice cris
+2023-04-03T02:05:46Z: PLAYER CHATTED [ 4137588031] SOYMESSINLLER        (  -28.0,    -0.2,   141.2)
+  :invisible
+2023-04-03T02:05:48Z: PLAYER CHATTED [  413850195] yefersiton           (  -18.9,    -1.0,   149.5)
+  se ganó su reportada
+2023-04-03T02:05:52Z: PLAYER REMOVED [  413850195] yefersiton           a.k.a. yefer_mistic        
+2023-04-03T02:05:55Z: PLAYER REMOVED [ 4137588031] SOYMESSINLLER        a.k.a. Joseph_12345        
+2023-04-03T02:05:58Z: PLAYER ADDED   [ 2486729498] sarahbloxx_3         a.k.a. Sarah               
+2023-04-03T02:05:59Z: PLAYER ADDED   [ 2264857479] isidora_dg          
+2023-04-03T02:06:09Z: PLAYER CHATTED [ 2264857479] isidora_dg           (  -29.1,    -1.0,   142.5)
+  :ff
+2023-04-03T02:06:18Z: PLAYER CHATTED [ 3333017334] cris_rodri12         ( -207.2,    -1.0,  -117.3)
+  :unice
+2023-04-03T02:06:19Z: PLAYER CHATTED [ 2486729498] sarahbloxx_3         (  -22.3,    -1.0,   136.0)
+  :de
+2023-04-03T02:06:25Z: PLAYER CHATTED [ 2264857479] isidora_dg           (  -17.2,    -3.0,    62.4)
+  :speed me 100
+2023-04-03T02:06:27Z: CHRCTER ADDED  [ 4035625647] saed_3006            a.k.a. Katakuri            
+2023-04-03T02:06:27Z: CHRCTER ADDED  [ 2486729498] sarahbloxx_3         a.k.a. Sarah               
+2023-04-03T02:06:27Z: PLAYER CHATTED [ 2486729498] sarahbloxx_3         (   -8.9,    -1.0,   149.5)
+  :de
+2023-04-03T02:06:37Z: PLAYER CHATTED [ 2486729498] sarahbloxx_3         (   -8.9,    -1.0,   149.5)
+  :ff 
+2023-04-03T02:06:39Z: PLAYER CHATTED [ 3333017334] cris_rodri12         ( -132.8,    -1.0,    65.0)
+  :princess ted
+2023-04-03T02:06:42Z: PLAYER CHATTED [ 4035625647] saed_3006            (  -12.3,    -1.0,   147.7)
+  :ice sara
+2023-04-03T02:06:48Z: CHRCTER ADDED  [ 3333017334] cris_rodri12         a.k.a. cros                
+2023-04-03T02:06:54Z: CHRCTER ADDED  [ 4035625647] saed_3006            a.k.a. Katakuri            
+2023-04-03T02:06:54Z: PLAYER CHATTED [ 2749714267] Teddy90114           (  -48.5,    -1.0,   -49.2)
+  :princess cris
+2023-04-03T02:07:06Z: PLAYER CHATTED [ 3333017334] cris_rodri12         (  -37.8,    -1.0,   132.3)
+  :unprincess
+2023-04-03T02:07:07Z: CHRCTER ADDED  [ 2749714267] Teddy90114           a.k.a. RIP_WAZA            
+2023-04-03T02:07:14Z: CHRCTER ADDED  [ 3333017334] cris_rodri12         a.k.a. cros                
+2023-04-03T02:07:17Z: PLAYER CHATTED [ 2749714267] Teddy90114           (  -18.9,    -1.0,   149.5)
+  :speed me 100
+2023-04-03T02:07:18Z: PLAYER CHATTED [ 3333017334] cris_rodri12         (  -13.9,    -1.0,   149.5)
+  ######
+2023-04-03T02:07:21Z: PLAYER CHATTED [ 2486729498] sarahbloxx_3         (  -29.4,    -1.0,   148.0)
+  :poop ####
+2023-04-03T02:07:21Z: PLAYER CHATTED [ 2264857479] isidora_dg           (  -81.0,    -1.0,   -32.9)
+  :princess
+2023-04-03T02:07:27Z: PLAYER CHATTED [ 3333017334] cris_rodri12         (  -13.9,    -1.0,   149.5)
+  :ice
+2023-04-03T02:07:31Z: CHRCTER ADDED  [ 2749714267] Teddy90114           a.k.a. RIP_WAZA            
+2023-04-03T02:07:35Z: CHRCTER ADDED  [ 4035625647] saed_3006            a.k.a. Katakuri            
+2023-04-03T02:07:35Z: CHRCTER ADDED  [ 3333017334] cris_rodri12         a.k.a. cros                
+2023-04-03T02:07:35Z: PLAYER CHATTED [ 2486729498] sarahbloxx_3         (  -29.4,    -1.0,   148.0)
+  :índice
+2023-04-03T02:07:45Z: PLAYER CHATTED [ 2486729498] sarahbloxx_3         (  -29.4,    -1.0,   148.0)
+  :inice 
+2023-04-03T02:07:52Z: PLAYER CHATTED [ 3333017334] cris_rodri12         (  -16.3,    -1.0,   143.9)
+  /w sarahbloxx_3  :ice
+2023-04-03T02:07:54Z: PLAYER CHATTED [ 4035625647] saed_3006            (  -13.8,    -1.0,   149.6)
+  :ice cris
+2023-04-03T02:07:54Z: CHRCTER ADDED  [ 2749714267] Teddy90114           a.k.a. RIP_WAZA            
+2023-04-03T02:08:03Z: PLAYER CHATTED [ 3333017334] cris_rodri12         (  -16.3,    -1.0,   143.9)
+  :unice
+2023-04-03T02:08:09Z: CHRCTER ADDED  [ 4035625647] saed_3006            a.k.a. Katakuri            
+2023-04-03T02:08:12Z: PLAYER CHATTED [ 2749714267] Teddy90114           (  -13.9,    -1.0,   149.5)
+  :ice isidora
+2023-04-03T02:08:19Z: PLAYER CHATTED [ 2264857479] isidora_dg           (  -16.5,    -1.0,   146.6)
+  :unice
+2023-04-03T02:08:19Z: CHRCTER ADDED  [ 2486729498] sarahbloxx_3         a.k.a. Sarah               
+2023-04-03T02:08:26Z: PLAYER CHATTED [ 2749714267] Teddy90114           (   -6.5,    -1.0,   132.8)
+  :poop isidora
+2023-04-03T02:08:26Z: CHRCTER ADDED  [ 3333017334] cris_rodri12         a.k.a. cros                
+2023-04-03T02:08:34Z: PLAYER CHATTED [ 3333017334] cris_rodri12         (  -33.9,    -1.0,   149.5)
+  :poop ####
+2023-04-03T02:08:38Z: PLAYER CHATTED [ 2264857479] isidora_dg           (  -39.3,    -1.2,    46.1)
+  :jail
+2023-04-03T02:08:40Z: PLAYER CHATTED [ 4035625647] saed_3006            (  -34.7,    -1.0,   124.0)
+  :ice isdora
+2023-04-03T02:08:47Z: PLAYER CHATTED [ 2264857479] isidora_dg           (  -39.7,    -0.2,    47.7)
+  :ice
+2023-04-03T02:08:47Z: PLAYER CHATTED [ 4035625647] saed_3006            (  -34.7,    -1.0,   124.0)
+  :ice cris
+2023-04-03T02:08:51Z: PLAYER CHATTED [ 2749714267] Teddy90114           (  -58.5,    -1.0,   103.5)
+  :jail isidora
+2023-04-03T02:08:58Z: PLAYER CHATTED [ 3333017334] cris_rodri12         (  -52.4,    -1.0,    32.3)
+  :jail ####
+2023-04-03T02:09:00Z: PLAYER CHATTED [ 2264857479] isidora_dg           (  -39.7,    -0.2,    47.7)
+  ########
+2023-04-03T02:09:01Z: PLAYER CHATTED [ 2749714267] Teddy90114           (  -56.2,    -1.0,    91.4)
+  :ice isidora
+2023-04-03T02:09:08Z: PLAYER CHATTED [ 2264857479] isidora_dg           (  -39.7,    -0.2,    47.7)
+  #######
+2023-04-03T02:09:08Z: PLAYER CHATTED [ 2749714267] Teddy90114           (  -40.9,    -1.0,    60.5)
+  jajjaja
+2023-04-03T02:09:13Z: PLAYER CHATTED [ 2264857479] isidora_dg           (  -39.7,    -0.2,    47.7)
+  jajajaja
+2023-04-03T02:09:18Z: PLAYER CHATTED [ 3333017334] cris_rodri12         (  -52.4,    -1.0,    32.3)
+  :unice
+2023-04-03T02:09:18Z: PLAYER REMOVED [ 2486729498] sarahbloxx_3         a.k.a. Sarah               
+2023-04-03T02:09:20Z: PLAYER ADDED   [ 2588276563] takiis01             a.k.a. takos               
+2023-04-03T02:09:21Z: PLAYER CHATTED [ 2749714267] Teddy90114           (  -48.7,    -1.0,    71.5)
+  ajajajajj😹😹😹😹
+2023-04-03T02:09:25Z: PLAYER CHATTED [ 4035625647] saed_3006            (  -55.0,    -0.2,    31.4)
+  :control cris
+2023-04-03T02:09:28Z: PLAYER CHATTED [ 2264857479] isidora_dg           (  -39.7,    -0.2,    47.7)
+  ############
+2023-04-03T02:09:35Z: PLAYER CHATTED [ 2749714267] Teddy90114           (  -45.3,    -1.0,    58.6)
+  :poop isidora
+2023-04-03T02:09:36Z: PLAYER CHATTED [ 3333017334] cris_rodri12         (  -30.2,    -1.0,   -16.5)
+  :uncontrol
+2023-04-03T02:09:38Z: PLAYER CHATTED [ 2749714267] Teddy90114           (  -48.4,    -1.0,    54.8)
+  jajajaj
+2023-04-03T02:09:39Z: PLAYER CHATTED [ 2264857479] isidora_dg           (  -39.7,    -0.2,    47.7)
+  🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣
+2023-04-03T02:09:49Z: PLAYER CHATTED [ 4035625647] saed_3006            (  -56.3,    -0.2,    29.7)
+  :control cris
+2023-04-03T02:09:49Z: PLAYER CHATTED [ 2749714267] Teddy90114           ( -128.6,    -1.0,    47.0)
+  😹😹😹😹
+2023-04-03T02:09:56Z: PLAYER CHATTED [ 3333017334] cris_rodri12         (  -64.5,    -1.0,    29.0)
+  :pi
+2023-04-03T02:09:58Z: PLAYER CHATTED [ 3333017334] cris_rodri12         (  -64.5,    -1.0,    29.0)
+  p
+2023-04-03T02:10:00Z: PLAYER CHATTED [ 2749714267] Teddy90114           (  -88.0,    -1.0,    32.3)
+  :control isidora
+2023-04-03T02:10:02Z: PLAYER CHATTED [ 2588276563] takiis01             (  -28.9,    -1.0,   149.5)
+  :GCT
+2023-04-03T02:10:05Z: PLAYER CHATTED [ 2749714267] Teddy90114           (  -40.2,    -0.2,    44.6)
+  jajajajajaj
+2023-04-03T02:10:06Z: PLAYER REMOVED [ 2588276563] takiis01             a.k.a. takos               
+2023-04-03T02:10:07Z: PLAYER CHATTED [ 3333017334] cris_rodri12         (  -64.5,    -1.0,    29.0)
+  :princess ####
+2023-04-03T02:10:14Z: PLAYER ADDED   [ 3942206429] tochiro1583         
+2023-04-03T02:10:19Z: PLAYER CHATTED [ 3333017334] cris_rodri12         (  -64.5,    -1.0,    29.0)
+  :uncontrol
+2023-04-03T02:10:23Z: PLAYER CHATTED [ 2264857479] isidora_dg           (  -39.7,    -0.2,    47.7)
+  jjaaj
+2023-04-03T02:10:27Z: PLAYER ADDED   [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:10:33Z: PLAYER CHATTED [ 2749714267] Teddy90114           (  -38.5,    -0.2,    48.0)
+  :princess isidora
+2023-04-03T02:10:36Z: PLAYER CHATTED [ 4035625647] saed_3006            (  -55.5,     0.1,    29.5)
+  :control cris
+2023-04-03T02:10:45Z: PLAYER CHATTED [ 2264857479] isidora_dg           (  -39.7,    -0.2,    47.7)
+  #####
+2023-04-03T02:10:46Z: PLAYER CHATTED [ 3333017334] cris_rodri12         (  -89.2,     5.3,    31.2)
+  ;
+2023-04-03T02:10:54Z: PLAYER CHATTED [ 3333017334] cris_rodri12         (  -89.2,     5.3,    31.2)
+  :uncontrol
+2023-04-03T02:11:02Z: PLAYER CHATTED [ 2264857479] isidora_dg           (  -39.7,    -0.2,    47.7)
+  ## ########## ajajajajaja amigo
+2023-04-03T02:11:03Z: PLAYER CHATTED [ 2749714267] Teddy90114           (  -37.8,     0.2,    47.4)
+  :jail isidora
+2023-04-03T02:11:14Z: PLAYER CHATTED [ 2264857479] isidora_dg           (  -39.7,    -0.2,    47.7)
+  :jail
+2023-04-03T02:11:17Z: PLAYER CHATTED [ 4035625647] saed_3006            (  -55.5,     0.1,    29.5)
+  :doop cri
+2023-04-03T02:11:17Z: PLAYER CHATTED [ 2749714267] Teddy90114           (  -37.8,    -0.2,    44.9)
+  :exploit isidora
+2023-04-03T02:11:23Z: PLAYER CHATTED [ 3333017334] cris_rodri12         (  -82.6,    -1.0,    25.7)
+  :unjail ####
+2023-04-03T02:11:29Z: PLAYER CHATTED [ 2264857479] isidora_dg           (  -39.7,    -0.2,    47.7)
+  :explode
+2023-04-03T02:11:33Z: CHRCTER ADDED  [ 2749714267] Teddy90114           a.k.a. RIP_WAZA            
+2023-04-03T02:11:34Z: PLAYER CHATTED [ 3333017334] cris_rodri12         (  -82.6,    -1.0,    25.7)
+  :princess #####
+2023-04-03T02:11:38Z: PLAYER CHATTED [ 2264857479] isidora_dg           (  -39.7,    -0.2,    47.7)
+  ######
+2023-04-03T02:11:42Z: PLAYER CHATTED [ 3333017334] cris_rodri12         (  -82.6,    -1.0,    25.7)
+  :princess ####
+2023-04-03T02:11:44Z: PLAYER CHATTED [ 2264857479] isidora_dg           (  -39.7,    -0.2,    47.7)
+  🤣🤣🤣
+2023-04-03T02:11:45Z: PLAYER CHATTED [ 4035625647] saed_3006            (  -55.5,    -1.0,    29.5)
+  :doop cris
+2023-04-03T02:12:06Z: CHRCTER ADDED  [ 4035625647] saed_3006            a.k.a. Katakuri            
+2023-04-03T02:12:06Z: CHRCTER ADDED  [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:12:06Z: CHRCTER ADDED  [ 3333017334] cris_rodri12         a.k.a. cros                
+2023-04-03T02:12:07Z: PLAYER CHATTED [ 2264857479] isidora_dg           (  -39.7,    -0.2,    47.7)
+  :uncontrol
+2023-04-03T02:12:07Z: CHRCTER ADDED  [ 3942206429] tochiro1583         
+2023-04-03T02:12:14Z: PLAYER CHATTED [ 2749714267] Teddy90114           (  -59.6,    -1.0,    32.0)
+  jjjajaj
+2023-04-03T02:12:16Z: PLAYER CHATTED [ 2264857479] isidora_dg           (  -39.7,    -0.2,    47.7)
+  :unice
+2023-04-03T02:12:21Z: PLAYER CHATTED [ 4035625647] saed_3006            (  -13.9,    -1.0,   149.5)
+  :dood cris
+2023-04-03T02:12:24Z: PLAYER CHATTED [ 2264857479] isidora_dg           (  -38.3,    -0.2,    45.4)
+  :ice
+2023-04-03T02:12:26Z: PLAYER CHATTED [ 3333017334] cris_rodri12         (  -32.4,    -1.0,    43.9)
+  jaja
+2023-04-03T02:12:27Z: PLAYER CHATTED [ 2749714267] Teddy90114           (  -51.3,    -1.0,    50.4)
+  :ice isidora
+2023-04-03T02:12:29Z: PLAYER CHATTED [ 2264857479] isidora_dg           (  -38.3,    -0.2,    45.4)
+  jaajaj
+2023-04-03T02:12:32Z: PLAYER CHATTED [ 2749714267] Teddy90114           (  -38.5,    -1.0,    39.1)
+  ajjajajaj
+2023-04-03T02:12:36Z: PLAYER CHATTED [ 2264857479] isidora_dg           (  -38.3,    -0.2,    45.4)
+  ##########
+2023-04-03T02:12:46Z: CHRCTER ADDED  [ 4035625647] saed_3006            a.k.a. Katakuri            
+2023-04-03T02:12:46Z: CHRCTER ADDED  [ 3333017334] cris_rodri12         a.k.a. cros                
+2023-04-03T02:12:48Z: PLAYER CHATTED [ 4035625647] saed_3006            (  -18.3,    -1.0,   149.4)
+  :ice isidora
+2023-04-03T02:12:49Z: CHRCTER ADDED  [ 2749714267] Teddy90114           a.k.a. RIP_WAZA            
+2023-04-03T02:12:49Z: PLAYER CHATTED [ 3333017334] cris_rodri12         (  -18.9,    -1.0,   149.3)
+  :dino  Isidora
+2023-04-03T02:12:50Z: PLAYER CHATTED [ 3333017334] cris_rodri12         (  -18.9,    -1.0,   149.3)
+  :dino Isidora
+2023-04-03T02:12:52Z: CHRCTER ADDED  [ 3942206429] tochiro1583         
+2023-04-03T02:13:00Z: PLAYER CHATTED [ 2749714267] Teddy90114           (  -38.0,    -1.0,    36.7)
+  ajjajaja
+2023-04-03T02:13:08Z: CHRCTER ADDED  [ 3333017334] cris_rodri12         a.k.a. cros                
+2023-04-03T02:13:11Z: CHRCTER ADDED  [ 4035625647] saed_3006            a.k.a. Katakuri            
+2023-04-03T02:13:13Z: PLAYER CHATTED [ 2749714267] Teddy90114           (  -38.3,    -0.2,    45.4)
+  :control isidora
+2023-04-03T02:13:15Z: PLAYER CHATTED [ 2264857479] isidora_dg           (  -38.3,    -0.2,    45.4)
+  ##########
+2023-04-03T02:13:28Z: PLAYER CHATTED [ 3333017334] cris_rodri12         (  -34.5,    -1.0,    45.5)
+  :poop isidora
+2023-04-03T02:13:32Z: CHRCTER ADDED  [ 2749714267] Teddy90114           a.k.a. RIP_WAZA            
+2023-04-03T02:13:32Z: CHRCTER ADDED  [ 3333017334] cris_rodri12         a.k.a. cros                
+2023-04-03T02:13:33Z: CHRCTER ADDED  [ 4035625647] saed_3006            a.k.a. Katakuri            
+2023-04-03T02:13:37Z: PLAYER CHATTED [ 4035625647] saed_3006            (  -14.1,    -1.0,   149.5)
+  :control isedora
+2023-04-03T02:13:54Z: CHRCTER ADDED  [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:13:54Z: CHRCTER ADDED  [ 3333017334] cris_rodri12         a.k.a. cros                
+2023-04-03T02:13:54Z: CHRCTER ADDED  [ 4035625647] saed_3006            a.k.a. Katakuri            
+2023-04-03T02:13:55Z: CHRCTER ADDED  [ 2749714267] Teddy90114           a.k.a. RIP_WAZA            
+2023-04-03T02:14:17Z: PLAYER CHATTED [ 4035625647] saed_3006            (   -8.9,    -1.0,   149.5)
+  :control isidora
+2023-04-03T02:14:21Z: CHRCTER ADDED  [ 3942206429] tochiro1583         
+2023-04-03T02:14:21Z: CHRCTER ADDED  [ 2749714267] Teddy90114           a.k.a. RIP_WAZA            
+2023-04-03T02:14:24Z: CHRCTER ADDED  [ 4035625647] saed_3006            a.k.a. Katakuri            
+2023-04-03T02:14:42Z: CHRCTER ADDED  [ 3333017334] cris_rodri12         a.k.a. cros                
+2023-04-03T02:14:42Z: CHRCTER ADDED  [ 2749714267] Teddy90114           a.k.a. RIP_WAZA            
+2023-04-03T02:14:46Z: CHRCTER ADDED  [ 4035625647] saed_3006            a.k.a. Katakuri            
+2023-04-03T02:14:58Z: PLAYER CHATTED [ 2749714267] Teddy90114           (  -58.9,    -1.0,    53.7)
+  :ujcontrol
+2023-04-03T02:15:06Z: PLAYER CHATTED [ 2749714267] Teddy90114          
+  :uncontrol
+2023-04-03T02:15:06Z: CHRCTER ADDED  [ 2749714267] Teddy90114           a.k.a. RIP_WAZA            
+2023-04-03T02:15:06Z: CHRCTER ADDED  [ 3333017334] cris_rodri12         a.k.a. cros                
+2023-04-03T02:15:11Z: PLAYER CHATTED [ 2264857479] isidora_dg           (  -38.3,    -0.2,    45.4)
+  :uncontrol
+2023-04-03T02:15:14Z: PLAYER CHATTED [ 4035625647] saed_3006            (  -31.2,    -1.0,    94.2)
+  :ice isidora
+2023-04-03T02:15:18Z: PLAYER CHATTED [ 2749714267] Teddy90114           (  -44.0,    -1.0,    50.7)
+  jajajajaja
+2023-04-03T02:15:19Z: CHRCTER ADDED  [ 4035625647] saed_3006            a.k.a. Katakuri            
+2023-04-03T02:15:24Z: PLAYER CHATTED [ 2264857479] isidora_dg           (  -38.3,    -0.2,    45.4)
+  jaajaj
+2023-04-03T02:15:44Z: PLAYER CHATTED [ 3333017334] cris_rodri12         (  -20.3,    -1.0,   151.0)
+  :inmortal
+2023-04-03T02:15:54Z: CHRCTER ADDED  [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:16:05Z: CHRCTER ADDED  [ 2749714267] Teddy90114           a.k.a. RIP_WAZA            
+2023-04-03T02:16:07Z: PLAYER CHATTED [ 4035625647] saed_3006            (  -11.4,    -1.0,   150.9)
+  :poop Teddy
+2023-04-03T02:16:18Z: PLAYER CHATTED [ 2749714267] Teddy90114           (  -16.5,    -1.0,   135.4)
+  :poop saed
+2023-04-03T02:16:23Z: PLAYER CHATTED [ 2749714267] Teddy90114           (  -16.5,    -1.0,   130.7)
+  :ice saed
+2023-04-03T02:16:29Z: PLAYER REMOVED [ 2264857479] isidora_dg          
+2023-04-03T02:16:32Z: CHRCTER ADDED  [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:16:34Z: CHRCTER ADDED  [ 2749714267] Teddy90114           a.k.a. RIP_WAZA            
+2023-04-03T02:16:34Z: CHRCTER ADDED  [ 3333017334] cris_rodri12         a.k.a. cros                
+2023-04-03T02:16:36Z: PLAYER CHATTED [ 2749714267] Teddy90114           (  -36.3,    -1.0,   147.4)
+  :jail saed
+2023-04-03T02:16:40Z: PLAYER CHATTED [ 3333017334] cris_rodri12         (  -28.9,    -1.0,   149.5)
+  :clone
+2023-04-03T02:16:50Z: CHRCTER ADDED  [ 3942206429] tochiro1583         
+2023-04-03T02:16:57Z: PLAYER CHATTED [ 4035625647] saed_3006            (  -11.4,    -0.8,   150.9)
+  :poop cris
+2023-04-03T02:17:10Z: PLAYER CHATTED [ 2749714267] Teddy90114           (  -26.7,    -1.0,   111.9)
+  :poop cris
+2023-04-03T02:17:12Z: PLAYER REMOVED [ 3333017334] cris_rodri12         a.k.a. cros                
+2023-04-03T02:17:13Z: PLAYER ADDED   [ 1825439785] mastercruc198       
+2023-04-03T02:17:16Z: PLAYER CHATTED [ 4035625647] saed_3006            (  -11.4,    -0.8,   150.9)
+  :ice cris
+2023-04-03T02:17:17Z: PLAYER REMOVED [ 1825439785] mastercruc198       
+2023-04-03T02:17:18Z: PLAYER CHATTED [ 2749714267] Teddy90114           (  -26.8,    -1.0,   111.6)
+   jail saed 
+2023-04-03T02:17:24Z: PLAYER CHATTED [ 2749714267] Teddy90114           (  -26.8,    -1.0,   111.6)
+  :poop saed
+2023-04-03T02:17:29Z: PLAYER ADDED   [ 1368683281] maxsuper423          a.k.a. TKS_RigbyElMaliante 
+2023-04-03T02:17:31Z: CHRCTER ADDED  [ 1368683281] maxsuper423          a.k.a. TKS_RigbyElMaliante 
+2023-04-03T02:17:36Z: PLAYER REMOVED [ 2749714267] Teddy90114           a.k.a. RIP_WAZA            
+2023-04-03T02:17:39Z: PLAYER REMOVED [ 4035625647] saed_3006            a.k.a. Katakuri            
+2023-04-03T02:17:39Z: PLAYER ADDED   [ 4411814454] proluciana028       
+2023-04-03T02:17:44Z: PLAYER ADDED   [ 4481640247] manuela6840yu       
+2023-04-03T02:17:59Z: PLAYER ADDED   [ 4394976959] quumai              
+2023-04-03T02:18:14Z: CHRCTER ADDED  [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:18:17Z: CHRCTER ADDED  [ 4411814454] proluciana028       
+2023-04-03T02:18:26Z: CHRCTER ADDED  [ 4394976959] quumai              
+2023-04-03T02:18:30Z: CHRCTER ADDED  [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:18:38Z: CHRCTER ADDED  [ 1368683281] maxsuper423          a.k.a. TKS_RigbyElMaliante 
+2023-04-03T02:18:42Z: PLAYER CHATTED [ 4481640247] manuela6840yu        ( -143.5,    -1.0,   136.0)
+  :jail quumai :ice quumai :clone quumai
+2023-04-03T02:18:51Z: CHRCTER ADDED  [ 4481640247] manuela6840yu       
+2023-04-03T02:18:53Z: CHRCTER ADDED  [ 1368683281] maxsuper423          a.k.a. TKS_RigbyElMaliante 
+2023-04-03T02:18:53Z: CHRCTER ADDED  [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:19:00Z: PLAYER CHATTED [ 1368683281] maxsuper423          (  -26.4,    -1.0,    28.9)
+  :speed me 100
+2023-04-03T02:19:04Z: PLAYER CHATTED [ 4481640247] manuela6840yu        ( -132.4,    -1.0,   128.9)
+  :clone
+2023-04-03T02:19:10Z: CHRCTER ADDED  [ 4481640247] manuela6840yu       
+2023-04-03T02:19:14Z: CHRCTER ADDED  [ 3942206429] tochiro1583         
+2023-04-03T02:19:14Z: CHRCTER ADDED  [ 4394976959] quumai              
+2023-04-03T02:19:40Z: CHRCTER ADDED  [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:19:40Z: CHRCTER ADDED  [ 4394976959] quumai              
+2023-04-03T02:19:56Z: CHRCTER ADDED  [ 1368683281] maxsuper423          a.k.a. TKS_RigbyElMaliante 
+2023-04-03T02:19:57Z: PLAYER CHATTED [ 4394976959] quumai               ( -188.4,     0.2,   135.9)
+  sacame
+2023-04-03T02:20:01Z: PLAYER CHATTED [ 1368683281] maxsuper423          ( -139.6,    -1.0,   150.3)
+  :speed me 100
+2023-04-03T02:20:08Z: PLAYER CHATTED [ 4411814454] proluciana028        ( -182.9,    -1.0,   131.1)
+  si
+2023-04-03T02:20:13Z: CHRCTER ADDED  [ 4481640247] manuela6840yu       
+2023-04-03T02:20:13Z: CHRCTER ADDED  [ 4394976959] quumai              
+2023-04-03T02:20:13Z: CHRCTER ADDED  [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:20:17Z: PLAYER REMOVED [ 4394976959] quumai              
+2023-04-03T02:20:25Z: CHRCTER ADDED  [ 4411814454] proluciana028       
+2023-04-03T02:20:27Z: PLAYER ADDED   [ 4394976959] quumai              
+2023-04-03T02:20:38Z: PLAYER CHATTED [ 4481640247] manuela6840yu        (  -39.1,    -1.0,   143.8)
+  :jail quumai:clone 
+2023-04-03T02:20:43Z: CHRCTER ADDED  [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:20:52Z: PLAYER REMOVED [ 4394976959] quumai              
+2023-04-03T02:20:55Z: CHRCTER ADDED  [ 3942206429] tochiro1583         
+2023-04-03T02:21:02Z: PLAYER ADDED   [ 4394976959] quumai              
+2023-04-03T02:21:16Z: CHRCTER ADDED  [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:21:36Z: CHRCTER ADDED  [ 1368683281] maxsuper423          a.k.a. TKS_RigbyElMaliante 
+2023-04-03T02:21:40Z: CHRCTER ADDED  [ 3942206429] tochiro1583         
+2023-04-03T02:21:41Z: CHRCTER ADDED  [ 4411814454] proluciana028       
+2023-04-03T02:21:43Z: PLAYER CHATTED [ 4481640247] manuela6840yu        ( -182.2,     1.7,   133.0)
+  :ice quumai :clone ami
+2023-04-03T02:21:45Z: CHRCTER ADDED  [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:21:47Z: PLAYER CHATTED [ 1368683281] maxsuper423          (  -39.4,    -1.0,   122.2)
+  :speed me 100
+2023-04-03T02:22:04Z: CHRCTER ADDED  [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:22:08Z: CHRCTER ADDED  [ 4481640247] manuela6840yu       
+2023-04-03T02:22:20Z: PLAYER CHATTED [ 4481640247] manuela6840yu        (   -8.9,    -1.0,   149.5)
+  :invisible
+2023-04-03T02:22:49Z: CHRCTER ADDED  [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:22:52Z: CHRCTER ADDED  [ 3942206429] tochiro1583         
+2023-04-03T02:23:06Z: PLAYER CHATTED [ 4481640247] manuela6840yu        ( -248.2,    -1.0,    37.3)
+  :jail quumai 
+2023-04-03T02:23:16Z: CHRCTER ADDED  [ 4411814454] proluciana028       
+2023-04-03T02:23:23Z: CHRCTER ADDED  [ 4481640247] manuela6840yu       
+2023-04-03T02:23:36Z: CHRCTER ADDED  [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:23:41Z: PLAYER CHATTED [ 1368683281] maxsuper423          ( -152.5,    -1.0,  -150.2)
+  :speed me 100
+2023-04-03T02:23:56Z: PLAYER CHATTED [ 1368683281] maxsuper423          ( -193.5,    -1.0,  -116.2)
+  #############
+2023-04-03T02:23:58Z: CHRCTER ADDED  [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:24:00Z: CHRCTER ADDED  [ 4394976959] quumai              
+2023-04-03T02:24:00Z: CHRCTER ADDED  [ 4411814454] proluciana028       
+2023-04-03T02:24:09Z: CHRCTER ADDED  [ 4411814454] proluciana028       
+2023-04-03T02:24:20Z: CHRCTER ADDED  [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:24:24Z: CHRCTER ADDED  [ 3942206429] tochiro1583         
+2023-04-03T02:24:39Z: PLAYER REMOVED [ 4394976959] quumai              
+2023-04-03T02:24:46Z: CHRCTER ADDED  [ 4411814454] proluciana028       
+2023-04-03T02:24:47Z: CHRCTER ADDED  [ 3942206429] tochiro1583         
+2023-04-03T02:24:47Z: CHRCTER ADDED  [ 4481640247] manuela6840yu       
+2023-04-03T02:24:49Z: PLAYER ADDED   [ 4394976959] quumai              
+2023-04-03T02:24:56Z: CHRCTER ADDED  [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:25:11Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-04-03T02:25:11Z: CHRCTER ADDED  [ 1368683281] maxsuper423          a.k.a. TKS_RigbyElMaliante 
+2023-04-03T02:25:11Z: CHRCTER ADDED  [ 4481640247] manuela6840yu       
+2023-04-03T02:25:15Z: PLAYER CHATTED [ 1368683281] maxsuper423          (  -70.1,    -1.0,   116.5)
+  :speed me
+2023-04-03T02:25:16Z: CHRCTER ADDED  [ 4394976959] quumai              
+2023-04-03T02:25:17Z: CHRCTER ADDED  [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:25:20Z: PLAYER CHATTED [ 1368683281] maxsuper423          (  -70.0,    -1.0,   116.5)
+  :speed me 100
+2023-04-03T02:25:21Z: CHRCTER ADDED  [ 4411814454] proluciana028       
+2023-04-03T02:25:32Z: CHRCTER ADDED  [ 4481640247] manuela6840yu       
+2023-04-03T02:25:40Z: CHRCTER ADDED  [ 4394976959] quumai              
+2023-04-03T02:25:43Z: CHRCTER ADDED  [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:25:50Z: CHRCTER ADDED  [ 4481640247] manuela6840yu       
+2023-04-03T02:25:56Z: CHRCTER ADDED  [ 3942206429] tochiro1583         
+2023-04-03T02:26:03Z: PLAYER CHATTED [ 4481640247] manuela6840yu        (  -34.0,    -1.2,    35.9)
+  :jail :ice me
+2023-04-03T02:26:05Z: CHRCTER ADDED  [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:26:09Z: CHRCTER ADDED  [ 4481640247] manuela6840yu       
+2023-04-03T02:26:12Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-04-03T02:26:18Z: PLAYER CHATTED [ 1368683281] maxsuper423          (  -32.4,    -0.2,    36.4)
+  :fly me
+2023-04-03T02:26:25Z: PLAYER CHATTED [ 4481640247] manuela6840yu        (  -34.2,    -0.2,    37.4)
+  :jail quumai 
+2023-04-03T02:26:26Z: CHRCTER ADDED  [ 4411814454] proluciana028       
+2023-04-03T02:26:26Z: PLAYER CHATTED [ 1368683281] maxsuper423          ( -101.2,    -2.8,   -99.7)
+  :unfly me
+2023-04-03T02:26:32Z: CHRCTER ADDED  [ 4481640247] manuela6840yu       
+2023-04-03T02:26:32Z: CHRCTER ADDED  [ 3942206429] tochiro1583         
+2023-04-03T02:26:33Z: CHRCTER ADDED  [ 4394976959] quumai              
+2023-04-03T02:26:35Z: PLAYER CHATTED [ 4481640247] manuela6840yu        (  -34.0,    -0.2,    35.9)
+  :jail haken
+2023-04-03T02:26:36Z: PLAYER CHATTED [ 1368683281] maxsuper423          ( -155.2,    -1.0,  -129.3)
+  :speed me 100
+2023-04-03T02:26:39Z: PLAYER CHATTED [ 1368683281] maxsuper423          ( -199.6,    -1.0,   -47.7)
+  ###
+2023-04-03T02:26:59Z: PLAYER CHATTED [ 4481640247] manuela6840yu        (  -34.0,    -0.2,    35.9)
+   :speed me 100
+2023-04-03T02:27:08Z: CHRCTER ADDED  [ 4481640247] manuela6840yu       
+2023-04-03T02:27:11Z: CHRCTER ADDED  [ 3942206429] tochiro1583         
+2023-04-03T02:27:11Z: CHRCTER ADDED  [ 4411814454] proluciana028       
+2023-04-03T02:27:13Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-04-03T02:27:16Z: PLAYER CHATTED [ 4481640247] manuela6840yu        (  -34.0,    -0.2,    35.9)
+  :poop
+2023-04-03T02:27:27Z: CHRCTER ADDED  [ 4481640247] manuela6840yu       
+2023-04-03T02:27:27Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-04-03T02:27:27Z: CHRCTER ADDED  [ 3942206429] tochiro1583         
+2023-04-03T02:27:27Z: CHRCTER ADDED  [ 4411814454] proluciana028       
+2023-04-03T02:27:30Z: PLAYER REMOVED [ 4394976959] quumai              
+2023-04-03T02:27:30Z: PLAYER REMOVED [ 4481640247] manuela6840yu       
+2023-04-03T02:27:32Z: PLAYER CHATTED [ 1368683281] maxsuper423          (  -33.9,     1.0,   147.7)
+  :fly me
+2023-04-03T02:27:37Z: CHRCTER ADDED  [ 1368683281] maxsuper423          a.k.a. TKS_RigbyElMaliante 
+2023-04-03T02:27:37Z: PLAYER CHATTED [ 1368683281] maxsuper423          (   80.1,    49.8,   206.8)
+  :re
+2023-04-03T02:27:41Z: PLAYER ADDED   [ 3558500537] angie_tuvida        
+2023-04-03T02:27:50Z: PLAYER CHATTED [ 1368683281] maxsuper423          ( -231.6,    -1.0,   144.4)
+  :speed me 100
+2023-04-03T02:27:55Z: PLAYER CHATTED [ 1368683281] maxsuper423          ( -222.0,    -1.0,    95.8)
+  :unfly me
+2023-04-03T02:27:59Z: PLAYER CHATTED [ 1368683281] maxsuper423          ( -180.4,    -1.0,   126.0)
+  ###
+2023-04-03T02:28:00Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-04-03T02:28:05Z: CHRCTER ADDED  [ 3942206429] tochiro1583         
+2023-04-03T02:28:05Z: CHRCTER ADDED  [ 3558500537] angie_tuvida        
+2023-04-03T02:28:07Z: PLAYER CHATTED [ 3558500537] angie_tuvida         (  -13.9,    -1.0,   149.5)
+  hair:
+2023-04-03T02:28:07Z: CHRCTER ADDED  [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:28:23Z: PLAYER CHATTED [ 3558500537] angie_tuvida         (  -53.5,    -1.0,    85.8)
+  :poop
+2023-04-03T02:28:29Z: PLAYER CHATTED [ 1368683281] maxsuper423          ( -155.0,    -1.0,   129.1)
+  :speed me
+2023-04-03T02:28:32Z: PLAYER CHATTED [ 1368683281] maxsuper423          ( -153.7,    -1.0,   126.1)
+  :speed me 100
+2023-04-03T02:28:42Z: PLAYER CHATTED [ 3558500537] angie_tuvida        
+  :-speed me 100
+2023-04-03T02:28:42Z: CHRCTER ADDED  [ 3558500537] angie_tuvida        
+2023-04-03T02:28:57Z: CHRCTER ADDED  [ 3942206429] tochiro1583         
+2023-04-03T02:28:57Z: CHRCTER ADDED  [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:28:58Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-04-03T02:28:58Z: CHRCTER ADDED  [ 4411814454] proluciana028       
+2023-04-03T02:29:02Z: PLAYER CHATTED [ 1368683281] maxsuper423          ( -137.0,    -1.0,   -64.4)
+  :speed me 100
+2023-04-03T02:29:09Z: CHRCTER ADDED  [ 3558500537] angie_tuvida        
+2023-04-03T02:29:15Z: PLAYER CHATTED [ 1368683281] maxsuper423          ( -186.2,    -1.0,    85.7)
+  :speed me
+2023-04-03T02:29:21Z: PLAYER CHATTED [ 1368683281] maxsuper423          ( -186.2,    -1.0,    85.8)
+  :speed me 100
+2023-04-03T02:29:42Z: CHRCTER ADDED  [ 4411814454] proluciana028       
+2023-04-03T02:29:42Z: CHRCTER ADDED  [ 3942206429] tochiro1583         
+2023-04-03T02:29:55Z: CHRCTER ADDED  [ 3558500537] angie_tuvida        
+2023-04-03T02:30:16Z: CHRCTER ADDED  [ 4411814454] proluciana028       
+2023-04-03T02:30:16Z: CHRCTER ADDED  [ 3942206429] tochiro1583         
+2023-04-03T02:30:22Z: CHRCTER ADDED  [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:30:54Z: CHRCTER ADDED  [ 3558500537] angie_tuvida        
+2023-04-03T02:30:55Z: CHRCTER ADDED  [ 4411814454] proluciana028       
+2023-04-03T02:30:58Z: PLAYER CHATTED [ 3558500537] angie_tuvida         (  -28.4,    -1.0,   149.0)
+  jail:
+2023-04-03T02:31:02Z: CHRCTER ADDED  [ 3942206429] tochiro1583         
+2023-04-03T02:31:05Z: PLAYER CHATTED [ 3558500537] angie_tuvida         (  -25.8,    -1.2,   153.3)
+  :jail
+2023-04-03T02:31:13Z: PLAYER CHATTED [ 3558500537] angie_tuvida         (  -25.2,    -0.2,   151.6)
+  :unjail
+2023-04-03T02:31:19Z: PLAYER CHATTED [ 3558500537] angie_tuvida         (  -26.4,    -1.0,   149.2)
+  :jailA
+2023-04-03T02:31:23Z: PLAYER REMOVED [ 4411814454] proluciana028       
+2023-04-03T02:31:25Z: PLAYER CHATTED [ 3558500537] angie_tuvida         (  -25.8,    -1.2,   146.3)
+  :jail
+2023-04-03T02:31:27Z: PLAYER ADDED   [ 4089298691] Crisrnsm            
+2023-04-03T02:31:36Z: PLAYER CHATTED [ 1368683281] maxsuper423          (  -40.7,    -1.0,   -32.0)
+  :speed me
+2023-04-03T02:31:38Z: PLAYER CHATTED [ 1368683281] maxsuper423          (  -40.7,    -1.0,   -32.0)
+  :speed me
+2023-04-03T02:31:39Z: PLAYER CHATTED [ 1368683281] maxsuper423          (  -40.7,    -1.0,   -32.0)
+  :speed me 100
+2023-04-03T02:31:40Z: CHRCTER ADDED  [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:31:44Z: PLAYER ADDED   [ 4368224115] jjdodnkd            
+2023-04-03T02:31:45Z: PLAYER CHATTED [ 3558500537] angie_tuvida         (  -24.2,    -0.2,   146.1)
+  :unjail
+2023-04-03T02:31:51Z: PLAYER REMOVED [ 3558500537] angie_tuvida        
+2023-04-03T02:31:56Z: CHRCTER ADDED  [ 3942206429] tochiro1583         
+2023-04-03T02:31:57Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-04-03T02:31:57Z: CHRCTER ADDED  [ 4089298691] Crisrnsm            
+2023-04-03T02:31:58Z: PLAYER CHATTED [ 1368683281] maxsuper423          ( -213.3,    -1.0,    26.5)
+  ##############
+2023-04-03T02:32:05Z: CHRCTER ADDED  [ 1368683281] maxsuper423          a.k.a. TKS_RigbyElMaliante 
+2023-04-03T02:32:14Z: CHRCTER ADDED  [ 4089298691] Crisrnsm            
+2023-04-03T02:32:52Z: CHRCTER ADDED  [ 3942206429] tochiro1583         
+2023-04-03T02:32:55Z: PLAYER REMOVED [ 1368683281] maxsuper423          a.k.a. TKS_RigbyElMaliante 
+2023-04-03T02:33:10Z: PLAYER REMOVED [ 4089298691] Crisrnsm            
+2023-04-03T02:33:14Z: PLAYER ADDED   [ 4442605145] vairon2023XD        
+2023-04-03T02:33:28Z: PLAYER CHATTED [ 4442605145] vairon2023XD         (  -23.9,    -1.0,   149.5)
+  :GHOST
+2023-04-03T02:33:34Z: CHRCTER ADDED  [ 3942206429] tochiro1583         
+2023-04-03T02:33:54Z: PLAYER REMOVED [ 4368224115] jjdodnkd            
+2023-04-03T02:33:55Z: PLAYER ADDED   [ 1179065645] pabloestebitan1     
+2023-04-03T02:34:04Z: PLAYER CHATTED [ 4442605145] vairon2023XD         (  -23.7,    -1.0,   142.6)
+  :invisible
+2023-04-03T02:34:11Z: CHRCTER ADDED  [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:34:14Z: PLAYER CHATTED [ 4442605145] vairon2023XD         (  -32.9,    -1.0,    99.6)
+  :ff
+2023-04-03T02:34:25Z: PLAYER CHATTED [ 4442605145] vairon2023XD         (  -12.2,    -1.0,    25.9)
+  :fly
+2023-04-03T02:34:25Z: PLAYER ADDED   [ 4249883528] NeftissYT            a.k.a. Kem                 
+2023-04-03T02:34:41Z: PLAYER CHATTED [ 1179065645] pabloestebitan1      (  -23.0,    -1.0,   121.6)
+  :GHOST
+2023-04-03T02:34:43Z: CHRCTER ADDED  [ 3942206429] tochiro1583         
+2023-04-03T02:34:47Z: CHRCTER ADDED  [ 1179065645] pabloestebitan1     
+2023-04-03T02:34:47Z: PLAYER CHATTED [ 4249883528] NeftissYT           
+  :ff :fly
+2023-04-03T02:34:47Z: CHRCTER ADDED  [ 4249883528] NeftissYT            a.k.a. Kem                 
+2023-04-03T02:34:48Z: CHRCTER ADDED  [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:34:49Z: PLAYER CHATTED [ 4249883528] NeftissYT            (  -33.9,     1.2,   149.5)
+  ## ############
+2023-04-03T02:34:56Z: PLAYER CHATTED [ 4249883528] NeftissYT            (  -33.9,     2.8,   149.5)
+  :control pablo
+2023-04-03T02:35:12Z: PLAYER CHATTED [ 4442605145] vairon2023XD         (  -82.1,    -1.0,   126.9)
+  :explote pablo
+2023-04-03T02:35:30Z: CHRCTER ADDED  [ 4249883528] NeftissYT            a.k.a. Kem                 
+2023-04-03T02:35:31Z: CHRCTER ADDED  [ 3942206429] tochiro1583         
+2023-04-03T02:35:32Z: CHRCTER ADDED  [ 1179065645] pabloestebitan1     
+2023-04-03T02:35:42Z: CHRCTER ADDED  [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:36:02Z: PLAYER CHATTED [ 4442605145] vairon2023XD         ( -161.9,    -1.0,   120.4)
+  : control n
+2023-04-03T02:36:02Z: PLAYER CHATTED [ 1179065645] pabloestebitan1      (  -33.9,    -1.0,   149.5)
+  :explote va
+2023-04-03T02:36:24Z: PLAYER CHATTED [ 1179065645] pabloestebitan1      (  -33.4,    -1.0,   118.6)
+  :fly
+2023-04-03T02:36:27Z: PLAYER CHATTED [ 4442605145] vairon2023XD         (  -36.8,    -1.0,   106.8)
+  :control n
+2023-04-03T02:36:36Z: PLAYER CHATTED [ 4442605145] vairon2023XD         ( -157.3,    -1.0,    71.5)
+  :invisible
+2023-04-03T02:36:44Z: CHRCTER ADDED  [ 3942206429] tochiro1583         
+2023-04-03T02:36:44Z: CHRCTER ADDED  [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:36:45Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-04-03T02:36:45Z: CHRCTER ADDED  [ 1179065645] pabloestebitan1     
+2023-04-03T02:36:52Z: PLAYER CHATTED [ 4442605145] vairon2023XD         (  -23.9,    -1.0,   148.9)
+  :GHOST
+2023-04-03T02:36:53Z: PLAYER CHATTED [ 1179065645] pabloestebitan1      (  -65.8,   166.6,   -35.2)
+  :ff
+2023-04-03T02:37:01Z: PLAYER CHATTED [ 4442605145] vairon2023XD         (  -27.4,    -1.0,   107.0)
+  :invible
+2023-04-03T02:37:18Z: CHRCTER ADDED  [ 3942206429] tochiro1583         
+2023-04-03T02:37:22Z: PLAYER CHATTED [ 4442605145] vairon2023XD         (  -71.9,    -1.0,    87.7)
+  :invisible
+2023-04-03T02:37:30Z: CHRCTER ADDED  [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:37:30Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-04-03T02:37:52Z: CHRCTER ADDED  [ 4442605145] vairon2023XD        
+2023-04-03T02:38:02Z: CHRCTER ADDED  [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:38:03Z: PLAYER CHATTED [ 4442605145] vairon2023XD         (  -70.2,    48.2,   135.4)
+  :GHOST
+2023-04-03T02:38:14Z: PLAYER CHATTED [ 4442605145] vairon2023XD         ( -336.4,     2.3,    25.7)
+  :invisible
+2023-04-03T02:38:20Z: CHRCTER ADDED  [ 4442605145] vairon2023XD        
+2023-04-03T02:38:26Z: PLAYER CHATTED [ 4249883528] NeftissYT            ( -336.2,     2.4,    23.5)
+  Hola
+2023-04-03T02:38:29Z: PLAYER CHATTED [ 4442605145] vairon2023XD         ( -333.5,     2.4,    26.6)
+  :ff
+2023-04-03T02:38:38Z: PLAYER CHATTED [ 4442605145] vairon2023XD         ( -333.5,     2.4,    26.6)
+  :invisible
+2023-04-03T02:38:48Z: CHRCTER ADDED  [ 4442605145] vairon2023XD        
+2023-04-03T02:38:58Z: PLAYER CHATTED [ 4249883528] NeftissYT            ( -334.2,     2.4,    24.3)
+  Hola
+2023-04-03T02:38:59Z: PLAYER CHATTED [ 4442605145] vairon2023XD         ( -333.2,     2.4,    28.3)
+  :GOST
+2023-04-03T02:39:04Z: CHRCTER ADDED  [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:39:47Z: CHRCTER ADDED  [ 3942206429] tochiro1583         
+2023-04-03T02:39:50Z: PLAYER CHATTED [ 4442605145] vairon2023XD         ( -333.2,     2.4,    28.3)
+  :control NEFTIS_YT
+2023-04-03T02:40:14Z: PLAYER CHATTED [ 1179065645] pabloestebitan1      (  -39.8,    -1.0,    23.8)
+  :UnJail
+2023-04-03T02:40:23Z: PLAYER CHATTED [ 4442605145] vairon2023XD         ( -333.2,     2.4,    28.3)
+  :control v
+2023-04-03T02:40:32Z: PLAYER REMOVED [ 1179065645] pabloestebitan1     
+2023-04-03T02:40:32Z: CHRCTER ADDED  [ 3942206429] tochiro1583         
+2023-04-03T02:40:33Z: PLAYER REMOVED [ 4442605145] vairon2023XD        
+2023-04-03T02:40:35Z: PLAYER ADDED   [ 4103080884] SofiaGamerYT20260   
+2023-04-03T02:40:39Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-04-03T02:40:40Z: PLAYER ADDED   [ 4442605145] vairon2023XD        
+2023-04-03T02:40:59Z: CHRCTER ADDED  [ 4442605145] vairon2023XD        
+2023-04-03T02:41:01Z: PLAYER CHATTED [ 4442605145] vairon2023XD         (  -28.9,    -1.0,   149.5)
+  :ff
+2023-04-03T02:41:04Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-04-03T02:41:08Z: PLAYER CHATTED [ 4442605145] vairon2023XD         (  -29.5,    -1.0,   143.3)
+  :fly
+2023-04-03T02:41:19Z: CHRCTER ADDED  [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:41:24Z: PLAYER CHATTED [ 4442605145] vairon2023XD         ( -136.1,   130.5,   -62.0)
+  :GOST
+2023-04-03T02:41:27Z: PLAYER CHATTED [ 4103080884] SofiaGamerYT20260    (   -8.3,    -1.0,   149.0)
+  :fly
+2023-04-03T02:41:36Z: PLAYER REMOVED [ 4442605145] vairon2023XD        
+2023-04-03T02:41:43Z: PLAYER ADDED   [ 4463153360] tomas_2424124       
+2023-04-03T02:42:00Z: PLAYER CHATTED [ 4463153360] tomas_2424124        (  -13.9,    -1.0,   149.5)
+  :ff
+2023-04-03T02:42:18Z: PLAYER CHATTED [ 4463153360] tomas_2424124        (  -13.9,    -1.0,   149.5)
+  :GHOST
+2023-04-03T02:42:28Z: PLAYER ADDED   [ 2997852359] ENZOCHULO27         
+2023-04-03T02:42:37Z: CHRCTER ADDED  [ 3942206429] tochiro1583         
+2023-04-03T02:42:38Z: CHRCTER ADDED  [ 4103080884] SofiaGamerYT20260   
+2023-04-03T02:42:41Z: CHRCTER ADDED  [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:43:02Z: CHRCTER ADDED  [ 2997852359] ENZOCHULO27         
+2023-04-03T02:43:08Z: PLAYER CHATTED [ 4463153360] tomas_2424124        (  -44.8,    -3.0,   113.6)
+  :control enzo
+2023-04-03T02:43:13Z: PLAYER CHATTED [ 2997852359] ENZOCHULO27          (  -28.9,    -1.0,   149.5)
+  :dog tomas
+2023-04-03T02:43:25Z: PLAYER CHATTED [ 2997852359] ENZOCHULO27          (  -28.9,    -1.0,   149.5)
+  :un control
+2023-04-03T02:43:31Z: PLAYER CHATTED [ 2997852359] ENZOCHULO27          (  -28.9,    -1.0,   149.5)
+  :uncontrol
+2023-04-03T02:43:43Z: PLAYER CHATTED [ 2997852359] ENZOCHULO27          (  -17.9,    -1.0,    55.2)
+  :ff
+2023-04-03T02:43:46Z: PLAYER CHATTED [ 2997852359] ENZOCHULO27          (  -17.9,    -1.0,    55.2)
+  z
+2023-04-03T02:43:57Z: PLAYER CHATTED [ 2997852359] ENZOCHULO27          (  -17.9,    -1.0,    55.2)
+  :dog tomas
+2023-04-03T02:43:59Z: PLAYER CHATTED [ 2997852359] ENZOCHULO27          (  -17.9,    -1.0,    55.2)
+  :dog tomas
+2023-04-03T02:44:06Z: PLAYER CHATTED [ 2997852359] ENZOCHULO27          (  -32.8,    -1.0,    24.7)
+  :dog me
+2023-04-03T02:44:16Z: PLAYER CHATTED [ 2997852359] ENZOCHULO27          (  -28.9,    -1.0,    22.1)
+  :ghost
+2023-04-03T02:44:18Z: CHRCTER ADDED  [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:44:18Z: PLAYER REMOVED [ 4249883528] NeftissYT            a.k.a. Kem                 
+2023-04-03T02:44:22Z: CHRCTER ADDED  [ 4463153360] tomas_2424124       
+2023-04-03T02:44:26Z: PLAYER CHATTED [ 4463153360] tomas_2424124        (   -8.9,    -1.0,   149.5)
+  :ff
+2023-04-03T02:44:26Z: CHRCTER ADDED  [ 2997852359] ENZOCHULO27         
+2023-04-03T02:44:27Z: CHRCTER ADDED  [ 3942206429] tochiro1583         
+2023-04-03T02:44:31Z: PLAYER CHATTED [ 2997852359] ENZOCHULO27          (  -18.9,    -1.0,   149.5)
+  :ff
+2023-04-03T02:44:35Z: PLAYER CHATTED [ 4463153360] tomas_2424124        (   -8.9,    -1.0,   149.5)
+  :dog me 
+2023-04-03T02:44:36Z: PLAYER CHATTED [ 2997852359] ENZOCHULO27          (  -18.9,    -1.0,   149.5)
+  :orb
+2023-04-03T02:44:50Z: PLAYER CHATTED [ 4463153360] tomas_2424124        (  -26.6,    -1.0,   111.5)
+  :orb
+2023-04-03T02:45:00Z: CHRCTER ADDED  [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:45:11Z: CHRCTER ADDED  [ 3942206429] tochiro1583         
+2023-04-03T02:46:13Z: CHRCTER ADDED  [ 3942206429] tochiro1583         
+2023-04-03T02:46:36Z: CHRCTER ADDED  [ 3942206429] tochiro1583         
+2023-04-03T02:46:36Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-04-03T02:46:57Z: CHRCTER ADDED  [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:47:08Z: PLAYER REMOVED [ 4463153360] tomas_2424124       
+2023-04-03T02:47:08Z: PLAYER ADDED   [ 3857074053] lamommyprouwu        a.k.a. bunny               
+2023-04-03T02:47:20Z: CHRCTER ADDED  [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:47:22Z: PLAYER CHATTED [ 3857074053] lamommyprouwu        (  -12.3,    -1.0,   145.7)
+  ;gg
+2023-04-03T02:47:25Z: PLAYER REMOVED [ 4103080884] SofiaGamerYT20260   
+2023-04-03T02:47:30Z: PLAYER CHATTED [ 3857074053] lamommyprouwu        (   -3.9,    -1.0,   133.1)
+  ;gg
+2023-04-03T02:47:38Z: PLAYER CHATTED [ 3857074053] lamommyprouwu        (  -11.5,    -1.0,   139.0)
+  :gg
+2023-04-03T02:47:57Z: PLAYER CHATTED [ 3857074053] lamommyprouwu        (  -24.7,    -1.0,   148.6)
+  :FF
+2023-04-03T02:48:05Z: PLAYER CHATTED [ 3857074053] lamommyprouwu        (  -26.8,    -1.0,   120.8)
+  :Fire
+2023-04-03T02:48:12Z: CHRCTER ADDED  [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:48:31Z: PLAYER REMOVED [ 3942206429] tochiro1583         
+2023-04-03T02:48:32Z: PLAYER REMOVED [ 4075789375] xxxtentasion8493     a.k.a. lamuerte1234        
+2023-04-03T02:48:42Z: PLAYER CHATTED [ 2997852359] ENZOCHULO27          (  -21.4,    -1.0,    68.9)
+  :fire
+2023-04-03T02:48:55Z: PLAYER CHATTED [ 2997852359] ENZOCHULO27          (  -71.5,    -1.0,    78.0)
+  :goku
+2023-04-03T02:49:47Z: PLAYER REMOVED [ 2997852359] ENZOCHULO27         
+2023-04-03T02:51:17Z: PLAYER REMOVED [ 3857074053] lamommyprouwu        a.k.a. bunny               
+2023-04-03T03:00:14Z: PLAYER ADDED   [ 1330865713] babysadielady        a.k.a. Gold                
+2023-04-03T03:00:27Z: PLAYER CHATTED [ 1330865713] babysadielady        ( -159.7,    -1.0,    70.9)
+  :ff
+2023-04-03T03:00:28Z: PLAYER ADDED   [ 1608040716] drixthegamer         a.k.a. manimded            
+2023-04-03T03:00:36Z: PLAYER CHATTED [ 1330865713] babysadielady        (  -25.5,    -1.0,   129.1)
+  :invisible 
+2023-04-03T03:00:42Z: PLAYER CHATTED [ 1608040716] drixthegamer         (  -42.2,    -1.0,   136.8)
+  :kick babysadielady
+2023-04-03T03:00:43Z: PLAYER REMOVED [ 1330865713] babysadielady        a.k.a. Gold                
+2023-04-03T03:01:06Z: PLAYER CHATTED [ 1608040716] drixthegamer         (  -64.9,    -1.0,   120.2)
+  :join babysadielady
+2023-04-03T03:01:16Z: PLAYER REMOVED [ 1608040716] drixthegamer         a.k.a. manimded            
+2023-04-03T03:11:14Z: PLAYER ADDED   [ 4442250512] GUEST6666suuhs       a.k.a. GUEST6666s          
+2023-04-03T03:11:28Z: PLAYER CHATTED [ 4442250512] GUEST6666suuhs       (  -24.1,    -1.0,   143.7)
+  :ff
+2023-04-03T03:11:36Z: PLAYER CHATTED [ 4442250512] GUEST6666suuhs       (  -24.1,    -1.0,   143.7)
+  :fly
+2023-04-03T03:12:02Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-04-03T03:12:24Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-04-03T03:12:49Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-04-03T03:12:56Z: PLAYER REMOVED [ 4442250512] GUEST6666suuhs       a.k.a. GUEST6666s          
+2023-04-03T03:18:45Z: PLAYER ADDED   [ 2692665647] Ashgreninja_c        a.k.a. Sonic               
+2023-04-03T03:20:20Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-04-03T03:22:17Z: PLAYER CHATTED [ 2692665647] Ashgreninja_c        ( -255.9,    36.9,  -135.5)
+  :fly
+2023-04-03T03:22:49Z: PLAYER REMOVED [ 2692665647] Ashgreninja_c        a.k.a. Sonic               
+2023-04-03T03:43:25Z: PLAYER ADDED   [ 4149678039] Damien125371        
+2023-04-03T03:43:37Z: CHRCTER ADDED  [ 4149678039] Damien125371        
+2023-04-03T03:43:59Z: PLAYER ADDED   [ 4456854170] fydnehrvfvfbdbdh    
+2023-04-03T03:44:00Z: PLAYER ADDED   [ 4296269644] snowday22023        
+2023-04-03T03:44:43Z: CHRCTER ADDED  [ 4296269644] snowday22023        
+2023-04-03T03:44:45Z: CHRCTER ADDED  [ 4456854170] fydnehrvfvfbdbdh    
+2023-04-03T03:44:49Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-04-03T03:44:49Z: CHRCTER ADDED  [ 4149678039] Damien125371        
+2023-04-03T03:44:51Z: PLAYER REMOVED [ 4456854170] fydnehrvfvfbdbdh    
+2023-04-03T03:44:52Z: PLAYER REMOVED [ 4149678039] Damien125371        
+2023-04-03T03:45:09Z: PLAYER REMOVED [ 4296269644] snowday22023        
+2023-04-03T03:46:17Z: PLAYER ADDED   [ 4256561281] Roblox671928         a.k.a. Jim                 
+2023-04-03T03:46:24Z: PLAYER CHATTED [ 4256561281] Roblox671928         (  -13.9,    -1.0,   149.5)
+  :ff
+2023-04-03T03:46:37Z: PLAYER CHATTED [ 4256561281] Roblox671928         (  -13.9,    -1.0,   149.5)
+  ################
+2023-04-03T03:47:52Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

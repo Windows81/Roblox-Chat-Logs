@@ -1,0 +1,479 @@
+[    1630228] : [ 1990228024] ❄️ Bloxton Hotel - ce26cfbb-834c-4276-8a24-55935a8e9bb9
+2023-04-03T06:38:09Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-04-03T06:38:09Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-04-03T06:38:09Z: PLAYER ADDED   [ 4421909784] Shekinah_1098       
+2023-04-03T06:38:09Z: PLAYER ADDED   [ 1678149524] KERRIELORFORD        a.k.a. MUMMY               
+2023-04-03T06:38:09Z: PLAYER ADDED   [ 3138249457] Unoevangelio50       a.k.a. Dounts              
+2023-04-03T06:38:09Z: PLAYER ADDED   [ 3443935892] Darrenpangg          a.k.a. Sigma_man           
+2023-04-03T06:38:09Z: PLAYER ADDED   [ 3811739776] klara21290           a.k.a. Moon                
+2023-04-03T06:38:09Z: PLAYER ADDED   [ 4470637605] ZahraDangerous_slay  a.k.a. Zahraaa_hello       
+2023-04-03T06:38:09Z: PLAYER ADDED   [ 2833716127] Mich5919             a.k.a. mi1ch               
+2023-04-03T06:38:09Z: PLAYER ADDED   [ 4226264912] why_cutebacon        a.k.a. HK_Aiden            
+2023-04-03T06:38:09Z: PLAYER ADDED   [ 4268392991] Fjhkjhghgf           a.k.a. Musa_yayyy          
+2023-04-03T06:38:09Z: PLAYER ADDED   [ 4427626557] oons48              
+2023-04-03T06:38:09Z: PLAYER ADDED   [ 1338047057] GamerStackDev        a.k.a. Ben                 
+2023-04-03T06:38:09Z: PLAYER ADDED   [ 2761278940] elijah_3833          a.k.a. White_Villager      
+2023-04-03T06:38:09Z: PLAYER ADDED   [ 3897036679] Hdhdhkgaob          
+2023-04-03T06:38:09Z: PLAYER ADDED   [ 1329369677] gxthxnx              a.k.a. Ghtn                
+2023-04-03T06:38:09Z: PLAYER ADDED   [ 3519068130] UniKittenPlex       
+2023-04-03T06:38:09Z: PLAYER ADDED   [   72198969] drb0512              a.k.a. green_villager      
+2023-04-03T06:38:09Z: PLAYER ADDED   [ 3754299962] supersoline20        a.k.a. Enid                
+2023-04-03T06:38:09Z: PLAYER ADDED   [ 4220670358] Girlofthelov        
+2023-04-03T06:38:09Z: PLAYER ADDED   [ 3338021328] sophiasophia214     
+2023-04-03T06:38:09Z: PLAYER ADDED   [ 1617372066] Orichalcos27         a.k.a. HauptmannPeter      
+2023-04-03T06:38:09Z: PLAYER ADDED   [ 4056210691] miiiiiiiiini12345   
+2023-04-03T06:38:09Z: PLAYER ADDED   [  606357054] weiijfv             
+2023-04-03T06:38:09Z: PLAYER ADDED   [ 3749827232] Sessy_number1        a.k.a. Beanz               
+2023-04-03T06:38:09Z: PLAYER ADDED   [ 2490339450] DefenceDummy105     
+2023-04-03T06:38:10Z: PLAYER REMOVED [ 3897036679] Hdhdhkgaob          
+2023-04-03T06:38:10Z: PLAYER CHATTED [ 1678149524] KERRIELORFORD        (  145.3,    44.0,    70.6)
+  yes 
+2023-04-03T06:38:11Z: PLAYER CHATTED [ 3443935892] Darrenpangg          (   58.6,   115.1,    16.7)
+  你上次用電腦玩那個網絡很差他
+2023-04-03T06:38:13Z: PLAYER CHATTED [   72198969] drb0512              (  112.0,    42.1,    71.7)
+  why
+2023-04-03T06:38:14Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (  105.2,    43.8,    75.6)
+  ez
+2023-04-03T06:38:17Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (  100.4,    43.8,    74.5)
+  ez
+2023-04-03T06:38:19Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (  106.2,    43.8,    65.5)
+  ez
+2023-04-03T06:38:21Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (   97.8,    43.8,    68.5)
+  ez
+2023-04-03T06:38:24Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (  101.5,    43.8,    83.1)
+  ez
+2023-04-03T06:38:26Z: PLAYER CHATTED [ 4226264912] why_cutebacon        (   62.6,   115.1,    16.7)
+  对对对
+2023-04-03T06:38:27Z: PLAYER CHATTED [ 2833716127] Mich5919             (  151.6,    43.7,    71.0)
+  Alright! Enjy the rest or you day/night!
+2023-04-03T06:38:30Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (  109.5,    43.8,    92.4)
+  bozo
+2023-04-03T06:38:32Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (  109.5,    43.8,    92.4)
+  nub
+2023-04-03T06:38:32Z: PLAYER CHATTED [ 2833716127] Mich5919             (  151.6,    43.7,    71.0)
+  Enjoy*
+2023-04-03T06:38:33Z: PLAYER CHATTED [ 1678149524] KERRIELORFORD        (  145.3,    44.0,    70.6)
+  bye
+2023-04-03T06:38:34Z: PLAYER CHATTED [ 1617372066] Orichalcos27         (  108.5,    43.7,    90.3)
+  Where’s Mr
+2023-04-03T06:38:35Z: PLAYER CHATTED [ 1329369677] gxthxnx              (   97.1,    43.8,    73.6)
+  Warn them.
+2023-04-03T06:38:35Z: PLAYER CHATTED [ 3749827232] Sessy_number1        (  115.3,    43.7,    87.4)
+  Stop spamming.
+2023-04-03T06:38:41Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (  114.7,    43.8,   106.8)
+  nah
+2023-04-03T06:38:48Z: PLAYER CHATTED [   72198969] drb0512              (  111.2,    42.6,    56.8)
+  can you let go
+2023-04-03T06:38:49Z: PLAYER CHATTED [ 3443935892] Darrenpangg          (   58.6,   115.1,    16.7)
+  我給你的那些錢利買了什麼
+2023-04-03T06:38:49Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (  118.4,    43.8,    93.8)
+  you're just a ######### shut up
+2023-04-03T06:38:54Z: PLAYER CHATTED [ 4226264912] why_cutebacon        (   62.6,   115.1,    16.7)
+  我重新加入，行吗？
+2023-04-03T06:38:55Z: PLAYER CHATTED [ 2833716127] Mich5919             (  152.7,    43.7,    83.2)
+  One second ma'am.
+2023-04-03T06:39:01Z: PLAYER CHATTED [ 3443935892] Darrenpangg          (   58.6,   115.1,    16.7)
+  K
+2023-04-03T06:39:01Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (  121.3,    43.9,    91.6)
+  balls
+2023-04-03T06:39:04Z: PLAYER CHATTED [ 3749827232] Sessy_number1        (  107.9,    43.7,    97.8)
+  WI | spamming | DefenceDummy
+2023-04-03T06:39:09Z: PLAYER CHATTED [ 3749827232] Sessy_number1        (  107.9,    43.7,    97.8)
+  Stop!
+2023-04-03T06:39:09Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (  110.1,    43.8,   100.1)
+  cry
+2023-04-03T06:39:13Z: PLAYER CHATTED [ 1329369677] gxthxnx              (  111.7,    43.8,    95.1)
+  They get 2.
+2023-04-03T06:39:19Z: PLAYER ADDED   [   50877787] cIappedchicken       a.k.a. rose                
+2023-04-03T06:39:19Z: PLAYER CHATTED [ 2833716127] Mich5919             (  161.3,    43.7,    93.6)
+  Sessy leave the job to thee secuirty t handle go back to your station.
+2023-04-03T06:39:21Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (  103.6,    43.8,    94.2)
+  give me another
+2023-04-03T06:39:28Z: PLAYER CHATTED [ 3749827232] Sessy_number1        (  107.9,    43.7,    97.8)
+  WII | continuously spamming | DefenceDummy105
+2023-04-03T06:39:30Z: PLAYER CHATTED [ 2833716127] Mich5919             (  161.3,    43.7,    93.6)
+  to*
+2023-04-03T06:39:33Z: PLAYER CHATTED [ 4226264912] why_cutebacon        (   62.6,   115.1,    16.7)
+  还没到帐！
+2023-04-03T06:39:37Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (  116.8,    43.8,   106.9)
+  and?
+2023-04-03T06:39:44Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (   97.9,    43.8,    99.8)
+  ez
+2023-04-03T06:39:45Z: PLAYER CHATTED [   72198969] drb0512              (   96.5,    42.2,   111.6)
+  what i do
+2023-04-03T06:39:52Z: PLAYER CHATTED [ 2833716127] Mich5919             (  161.3,    43.7,    93.6)
+  Orich please use grammar.
+2023-04-03T06:39:53Z: PLAYER CHATTED [ 4470637605] ZahraDangerous_slay  (  178.7,    49.6,    24.8)
+  Haram
+2023-04-03T06:39:54Z: PLAYER CHATTED [   50877787] cIappedchicken       (  106.4,    45.1,    96.4)
+  SHUT UP
+2023-04-03T06:39:58Z: PLAYER CHATTED [ 4226264912] why_cutebacon        (   63.0,   115.1,    22.1)
+  我重新加入
+2023-04-03T06:40:01Z: PLAYER CHATTED [ 3443935892] Darrenpangg          (   60.7,   115.1,    28.2)
+  ##
+2023-04-03T06:40:07Z: PLAYER CHATTED [   50877787] cIappedchicken       (  104.1,    45.1,    95.8)
+  YOU BIG FAT FLOP
+2023-04-03T06:40:07Z: PLAYER ADDED   [  356716648] limebeesx            a.k.a. katsbiggestfan      
+2023-04-03T06:40:10Z: PLAYER CHATTED [ 4470637605] ZahraDangerous_slay  (  192.9,    43.8,    24.2)
+  Haram
+2023-04-03T06:40:11Z: PLAYER CHATTED [ 3443935892] Darrenpangg          (   56.6,   115.1,    26.5)
+  ##
+2023-04-03T06:40:13Z: PLAYER REMOVED [  356716648] limebeesx            a.k.a. katsbiggestfan      
+2023-04-03T06:40:14Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (  105.0,    43.9,   121.3)
+  ez
+2023-04-03T06:40:15Z: PLAYER CHATTED [   72198969] drb0512              (   80.9,    42.6,   163.3)
+  it becuse im black
+2023-04-03T06:40:17Z: PLAYER CHATTED [ 3443935892] Darrenpangg          (   56.6,   115.1,    26.5)
+  O
+2023-04-03T06:40:20Z: PLAYER CHATTED [ 1329369677] gxthxnx              (   80.8,    43.8,   160.7)
+  No?
+2023-04-03T06:40:21Z: PLAYER CHATTED [ 1617372066] Orichalcos27         (  110.9,    43.7,    97.0)
+  Call mr
+2023-04-03T06:40:21Z: PLAYER CHATTED [ 3443935892] Darrenpangg          (   56.6,   115.1,    26.5)
+  #
+2023-04-03T06:40:27Z: PLAYER CHATTED [ 1329369677] gxthxnx              (   80.8,    43.8,   160.7)
+  It’s because you have warnings.
+2023-04-03T06:40:27Z: PLAYER CHATTED [ 3443935892] Darrenpangg          (   56.6,   115.1,    26.5)
+  #
+2023-04-03T06:40:29Z: PLAYER CHATTED [ 2833716127] Mich5919             (  106.9,    43.7,    97.6)
+  Go back to your station.
+2023-04-03T06:40:31Z: PLAYER CHATTED [ 4226264912] why_cutebacon        (   63.0,   115.1,    22.1)
+  你去门口等我
+2023-04-03T06:40:36Z: PLAYER CHATTED [   72198969] drb0512              (  113.1,    42.6,    72.7)
+  for what?
+2023-04-03T06:40:42Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (  110.6,    43.9,    72.7)
+  ez
+2023-04-03T06:40:42Z: PLAYER CHATTED [ 3749827232] Sessy_number1        (  106.1,    43.7,    94.5)
+  Oh, hello!
+2023-04-03T06:40:46Z: PLAYER REMOVED [ 3811739776] klara21290           a.k.a. Moon                
+2023-04-03T06:40:49Z: PLAYER CHATTED [ 2833716127] Mich5919             (  157.4,    43.7,   123.3)
+  Hi!
+2023-04-03T06:40:53Z: PLAYER REMOVED [ 4226264912] why_cutebacon        a.k.a. HK_Aiden            
+2023-04-03T06:40:56Z: PLAYER CHATTED [ 3338021328] sophiasophia214      ( -125.2,    27.5,   -22.0)
+  so sunny day to day isn't it 
+2023-04-03T06:40:58Z: PLAYER ADDED   [ 4284625612] reasbean            
+2023-04-03T06:41:00Z: PLAYER REMOVED [ 3754299962] supersoline20        a.k.a. Enid                
+2023-04-03T06:41:05Z: PLAYER CHATTED [   72198969] drb0512              (  102.7,    41.2,   128.8)
+  what did i do?
+2023-04-03T06:41:11Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (  107.2,    43.9,   130.9)
+  ez
+2023-04-03T06:41:11Z: PLAYER CHATTED [ 2833716127] Mich5919             (  152.2,    43.7,    85.2)
+  Do you need MR?
+2023-04-03T06:41:12Z: PLAYER ADDED   [ 4226264912] why_cutebacon        a.k.a. HK_Aiden            
+2023-04-03T06:41:17Z: PLAYER CHATTED [ 3749827232] Sessy_number1        (   57.8,    45.2,    23.8)
+  Hello!
+2023-04-03T06:41:24Z: PLAYER CHATTED [ 3749827232] Sessy_number1        (   57.8,    45.2,    23.8)
+  I don’t have my greeting copied.
+2023-04-03T06:41:27Z: PLAYER CHATTED [   50877787] cIappedchicken       (   63.2,    44.5,    22.7)
+  serve me
+2023-04-03T06:41:31Z: PLAYER CHATTED [ 3749827232] Sessy_number1        (   57.1,    43.7,    23.8)
+  For sure!
+2023-04-03T06:41:32Z: PLAYER CHATTED [   50877787] cIappedchicken       (   63.2,    44.5,    22.7)
+  NOW
+2023-04-03T06:41:35Z: PLAYER CHATTED [ 3749827232] Sessy_number1        (   57.1,    43.7,    23.8)
+  Menus to your right.
+2023-04-03T06:41:36Z: PLAYER REMOVED [ 1678149524] KERRIELORFORD        a.k.a. MUMMY               
+2023-04-03T06:41:39Z: PLAYER CHATTED [   50877787] cIappedchicken       (   63.2,    44.5,    22.7)
+  greet me
+2023-04-03T06:41:39Z: PLAYER CHATTED [ 4220670358] Girlofthelov         ( -125.2,    27.5,   -13.1)
+  Hey Sophia, do you wanna be friends?
+2023-04-03T06:41:43Z: PLAYER CHATTED [ 3749827232] Sessy_number1        (   58.1,    43.7,    20.0)
+  Hello!
+2023-04-03T06:41:46Z: PLAYER CHATTED [   50877787] cIappedchicken       (   63.2,    44.5,    22.7)
+  i want to be greeted
+2023-04-03T06:41:46Z: PLAYER CHATTED [ 3749827232] Sessy_number1        (   58.1,    43.7,    20.0)
+  👋 
+2023-04-03T06:41:47Z: PLAYER CHATTED [ 3338021328] sophiasophia214      ( -125.2,    27.5,   -22.0)
+  sure 
+2023-04-03T06:41:52Z: PLAYER CHATTED [ 1617372066] Orichalcos27         (  111.2,    43.7,    84.4)
+  I Need an mr
+2023-04-03T06:41:56Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (   97.2,    42.4,    79.3)
+  ez
+2023-04-03T06:42:00Z: PLAYER CHATTED [   50877787] cIappedchicken       (   63.2,    44.5,    22.7)
+  copy your greeting
+2023-04-03T06:42:03Z: PLAYER CHATTED [ 3338021328] sophiasophia214      (   63.2,    44.2,    16.3)
+  hi 
+2023-04-03T06:42:04Z: PLAYER CHATTED [   50877787] cIappedchicken       (   63.2,    44.5,    22.7)
+  i #### # ####
+2023-04-03T06:42:05Z: PLAYER CHATTED [ 3749827232] Sessy_number1        (   57.6,    43.7,    22.3)
+  One sec.
+2023-04-03T06:42:10Z: PLAYER CHATTED [   50877787] cIappedchicken       (   63.2,    44.5,    22.7)
+  want a coca cola
+2023-04-03T06:42:14Z: PLAYER CHATTED [ 2833716127] Mich5919             (  152.6,    43.7,    85.3)
+  Why, I need to know what he diid before calling one.
+2023-04-03T06:42:14Z: PLAYER CHATTED [ 4226264912] why_cutebacon        (  117.0,    43.8,    36.8)
+  你在哪里
+2023-04-03T06:42:26Z: PLAYER CHATTED [ 2833716127] Mich5919             (  152.6,    43.7,    85.3)
+  Why?*
+2023-04-03T06:42:31Z: PLAYER CHATTED [   72198969] drb0512              (  113.3,    42.0,   122.6)
+  why me i did nothing
+2023-04-03T06:42:32Z: PLAYER REMOVED [ 1338047057] GamerStackDev        a.k.a. Ben                 
+2023-04-03T06:42:36Z: PLAYER CHATTED [ 1329369677] gxthxnx              (  114.5,    43.8,   123.6)
+  Cuff him.
+2023-04-03T06:42:43Z: PLAYER CHATTED [   72198969] drb0512              (  115.0,    42.8,    88.8)
+  its becuse im black
+2023-04-03T06:42:48Z: PLAYER CHATTED [ 3749827232] Sessy_number1        (   55.4,    43.7,    25.3)
+  👋 | Greetings, my name’s Bella. Welcome to the Blox-ton Hotel snack bar! What could I get for you? Limit’s III {3}
+2023-04-03T06:42:53Z: PLAYER CHATTED [ 1617372066] Orichalcos27         (  109.2,    43.7,    89.1)
+  No
+2023-04-03T06:42:54Z: PLAYER CHATTED [   50877787] cIappedchicken       (   63.2,    44.5,    22.7)
+  coca cola
+2023-04-03T06:43:00Z: PLAYER CHATTED [ 1617372066] Orichalcos27         (  111.0,    43.7,    88.6)
+  You hide someone 
+2023-04-03T06:43:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (  115.3,    44.5,    86.5)
+  How tall are you!?
+2023-04-03T06:43:01Z: PLAYER ADDED   [ 1153252271] andreitatati         a.k.a. andreitahoran       
+2023-04-03T06:43:02Z: PLAYER ADDED   [ 3512218304] coquito76641        
+2023-04-03T06:43:03Z: PLAYER CHATTED [ 3749827232] Sessy_number1        (   56.6,    43.7,    23.2)
+  We don’t serve Coca Cola.
+2023-04-03T06:43:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (  115.3,    44.5,    86.5)
+  2.50 m!?
+2023-04-03T06:43:08Z: PLAYER REMOVED [  606357054] weiijfv             
+2023-04-03T06:43:09Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (  116.8,    42.4,    91.1)
+  there aint no warning for that
+2023-04-03T06:43:11Z: PLAYER CHATTED [   50877787] cIappedchicken       (   63.2,    44.5,    22.7)
+  thats not my problem
+2023-04-03T06:43:12Z: PLAYER CHATTED [   72198969] drb0512              (  116.6,    45.7,    90.7)
+  im just stand still
+2023-04-03T06:43:14Z: PLAYER CHATTED [ 1329369677] gxthxnx              (   63.2,    44.2,    31.7)
+  We do.
+2023-04-03T06:43:15Z: PLAYER REMOVED [ 3512218304] coquito76641        
+2023-04-03T06:43:16Z: PLAYER CHATTED [ 3749827232] Sessy_number1        (   56.3,    43.7,    23.2)
+  Sir, please don’t troll.
+2023-04-03T06:43:20Z: PLAYER CHATTED [   50877787] cIappedchicken       (   63.2,    44.5,    22.7)
+  SIR?
+2023-04-03T06:43:21Z: PLAYER CHATTED [ 4220670358] Girlofthelov         (  230.7,    43.8,   -57.5)
+  /w cIappedchicken  I like being friends with you
+2023-04-03T06:43:23Z: PLAYER CHATTED [   50877787] cIappedchicken       (   63.2,    44.5,    22.7)
+  EXCUSE ME SIR??
+2023-04-03T06:43:25Z: PLAYER CHATTED [ 2833716127] Mich5919             (  153.0,    43.7,    85.7)
+  But what did he do?
+2023-04-03T06:43:25Z: PLAYER ADDED   [ 3811739776] klara21290           a.k.a. Moon                
+2023-04-03T06:43:27Z: PLAYER CHATTED [ 3749827232] Sessy_number1        (   57.1,    43.7,    22.9)
+  Ma’am*
+2023-04-03T06:43:27Z: PLAYER CHATTED [   50877787] cIappedchicken       (   63.2,    44.5,    22.7)
+  IM A WOMAN
+2023-04-03T06:43:31Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (   77.9,    42.4,    91.2)
+  nub
+2023-04-03T06:43:33Z: PLAYER CHATTED [ 2833716127] Mich5919             (  153.0,    43.7,    85.7)
+  「♡」Greetings! Welcome to Blox-ton Hotels! My name is Michelle, how may I help you today?「♡」Greetings! Welcome to Blox-ton Hotels! My name is Michelle, how may I help you today?
+2023-04-03T06:43:35Z: PLAYER CHATTED [ 3338021328] sophiasophia214      (  223.1,    43.9,   -23.2)
+  I have my sunglasses on do you?
+2023-04-03T06:43:38Z: PLAYER CHATTED [ 2833716127] Mich5919             (  153.0,    43.7,    85.7)
+  Wow-
+2023-04-03T06:43:41Z: PLAYER CHATTED [ 2833716127] Mich5919             (  153.0,    43.7,    85.7)
+  Sorry.
+2023-04-03T06:43:43Z: PLAYER CHATTED [ 1153252271] andreitatati         (  145.4,    43.7,    86.2)
+  hi is at a room
+2023-04-03T06:43:44Z: PLAYER CHATTED [ 2833716127] Mich5919             (  153.0,    43.7,    85.7)
+  「♡」Greetings! Welcome to Blox-ton Hotels! My name is Michelle, how may I help you today?
+2023-04-03T06:43:45Z: PLAYER CHATTED [ 4220670358] Girlofthelov         (  222.8,    44.0,   -20.1)
+  No
+2023-04-03T06:43:51Z: PLAYER CHATTED [ 1153252271] andreitatati         (  145.4,    43.7,    86.2)
+  i want a room
+2023-04-03T06:43:59Z: PLAYER CHATTED [ 2833716127] Mich5919             (  153.0,    43.7,    85.7)
+  「♡」Do you have any specific room in mind?
+
+2023-04-03T06:43:59Z: PLAYER CHATTED [ 2833716127] Mich5919             (  153.0,    43.7,    85.7)
+  「♡」Do you have any specific room in mind?
+2023-04-03T06:43:59Z: PLAYER CHATTED [ 4220670358] Girlofthelov         (  222.8,    44.0,   -20.1)
+  Come on, let’s go, don’t know what a slide
+2023-04-03T06:44:03Z: PLAYER CHATTED [ 1153252271] andreitatati         (  145.1,    43.7,    84.9)
+  nope 
+2023-04-03T06:44:04Z: PLAYER ADDED   [ 1619203895] BOBBYTORFORD         a.k.a. Bobby               
+2023-04-03T06:44:05Z: PLAYER CHATTED [ 1617372066] Orichalcos27         (   86.3,    43.7,    35.2)
+  Dude
+2023-04-03T06:44:09Z: PLAYER CHATTED [ 1617372066] Orichalcos27         (   74.9,    43.7,    18.3)
+  Stop morphing
+2023-04-03T06:44:12Z: PLAYER CHATTED [ 2833716127] Mich5919             (  153.0,    43.7,    85.7)
+  「♡」Okay, wait one second while I book you in!
+2023-04-03T06:44:15Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (   62.9,    44.6,    32.9)
+  bozo
+2023-04-03T06:44:16Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (   62.9,    44.6,    32.9)
+  E E E E E E EE E E E E E E
+2023-04-03T06:44:19Z: PLAYER CHATTED [ 1153252271] andreitatati         (  145.1,    43.7,    84.9)
+  k
+2023-04-03T06:44:19Z: PLAYER REMOVED [ 4056210691] miiiiiiiiini12345   
+2023-04-03T06:44:21Z: PLAYER CHATTED [   72198969] drb0512              (   63.2,    44.5,    31.7)
+  can i have oil
+2023-04-03T06:44:22Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (   62.9,    44.6,    32.9)
+  you suck
+2023-04-03T06:44:23Z: PLAYER REMOVED [ 4470637605] ZahraDangerous_slay  a.k.a. Zahraaa_hello       
+2023-04-03T06:44:29Z: PLAYER CHATTED [ 4220670358] Girlofthelov         (  297.8,    84.2,   -24.7)
+  Sophia can I quickly friend
+2023-04-03T06:44:31Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (   62.9,    44.6,    32.9)
+  oric sucks
+2023-04-03T06:44:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (   63.2,    44.4,    25.3)
+  I said something backwards!
+2023-04-03T06:44:36Z: PLAYER CHATTED [ 2833716127] Mich5919             (  153.0,    43.7,    85.7)
+  give andre room 503
+2023-04-03T06:44:37Z: PLAYER CHATTED [ 1617372066] Orichalcos27         (  108.1,    43.7,   110.3)
+  :bring Defence
+2023-04-03T06:44:39Z: PLAYER CHATTED [   72198969] drb0512              (   63.2,    44.5,    31.7)
+  i want oil
+2023-04-03T06:44:39Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (  109.2,    42.4,   102.4)
+  noob
+2023-04-03T06:44:40Z: PLAYER CHATTED [ 2833716127] Mich5919             (  153.0,    43.7,    85.7)
+  「♡」Your all booked in. Thank you for choosing Blox-ton Hotels! <3
+2023-04-03T06:44:43Z: PLAYER CHATTED [ 1153252271] andreitatati         (  145.9,    43.7,    85.5)
+  ## DefenceDummy105 thanks
+2023-04-03T06:44:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (   63.2,    44.4,    25.3)
+  I'm a plugin.
+2023-04-03T06:44:44Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (   95.5,    43.9,    96.1)
+  you too ez
+2023-04-03T06:44:45Z: PLAYER ADDED   [ 4470637605] ZahraDangerous_slay  a.k.a. Zahraaa_hello       
+2023-04-03T06:44:45Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (   97.3,    43.6,   102.3)
+  ez
+2023-04-03T06:44:46Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (   97.3,    43.6,   102.3)
+  ez
+2023-04-03T06:44:50Z: PLAYER ADDED   [ 2775124639] Lovely_monica2030    a.k.a. mongai              
+2023-04-03T06:44:56Z: PLAYER REMOVED [ 2775124639] Lovely_monica2030    a.k.a. mongai              
+2023-04-03T06:44:57Z: PLAYER REMOVED [ 4226264912] why_cutebacon        a.k.a. HK_Aiden            
+2023-04-03T06:44:57Z: PLAYER ADDED   [ 2404730322] SolineBj            
+2023-04-03T06:44:58Z: PLAYER REMOVED [ 4268392991] Fjhkjhghgf           a.k.a. Musa_yayyy          
+2023-04-03T06:44:59Z: PLAYER CHATTED [ 2833716127] Mich5919             (  153.0,    43.7,    85.7)
+  Haup stop trying to use MR commands.
+2023-04-03T06:45:06Z: PLAYER ADDED   [ 4268392991] Fjhkjhghgf           a.k.a. Musa_yayyy          
+2023-04-03T06:45:17Z: PLAYER CHATTED [ 3443935892] Darrenpangg          (   94.2,    43.8,     1.0)
+  我俾你啲錢你買咗啲乜
+2023-04-03T06:45:24Z: PLAYER ADDED   [  932582528] pink_jays1           a.k.a. Ash                 
+2023-04-03T06:45:25Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (   90.6,    43.8,    52.1)
+  noob
+2023-04-03T06:45:26Z: PLAYER CHATTED [ 4220670358] Girlofthelov         (   70.0,    43.9,    30.8)
+  Sophia can I friend you
+2023-04-03T06:45:30Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (   90.6,    43.8,    52.1)
+  oric sucks
+2023-04-03T06:45:41Z: PLAYER CHATTED [ 1617372066] Orichalcos27         (  120.6,    43.7,   107.8)
+  Okay I want to catch somebody but I can’t
+2023-04-03T06:45:44Z: PLAYER CHATTED [ 3749827232] Sessy_number1        (   56.5,    43.7,    15.8)
+  👋 | Greetings, my name’s Bella. Welcome to the Blox-ton Hotel snack bar! What could I get for you? Limit’s III {3}
+2023-04-03T06:45:47Z: PLAYER CHATTED [ 3338021328] sophiasophia214      (   63.2,    44.2,    16.3)
+  chips pls 
+2023-04-03T06:45:49Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (   90.6,    43.8,    52.1)
+  ez
+2023-04-03T06:45:51Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (   90.6,    43.8,    52.1)
+  you suck
+2023-04-03T06:45:51Z: PLAYER CHATTED [ 1617372066] Orichalcos27         (  102.6,    43.7,    48.9)
+  Sir
+2023-04-03T06:45:53Z: PLAYER CHATTED [ 3749827232] Sessy_number1        (   58.2,    43.7,    16.5)
+  Sure!
+2023-04-03T06:45:53Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (   90.6,    43.8,    52.1)
+  oric sucks
+2023-04-03T06:45:55Z: PLAYER CHATTED [ 3338021328] sophiasophia214      (   63.2,    44.2,    16.3)
+  chips
+2023-04-03T06:45:57Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (   90.6,    43.8,    52.1)
+  bozo
+2023-04-03T06:45:58Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (   90.6,    43.8,    52.1)
+  bozo
+2023-04-03T06:46:00Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (  104.6,    42.4,    41.2)
+  ez
+2023-04-03T06:46:01Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (  104.6,    42.4,    41.2)
+  ez
+2023-04-03T06:46:02Z: PLAYER CHATTED [ 1617372066] Orichalcos27         (  108.3,    43.7,    35.9)
+  Stop
+2023-04-03T06:46:03Z: PLAYER CHATTED [ 3811739776] klara21290           (  144.5,    43.8,    87.9)
+  602 please
+2023-04-03T06:46:04Z: PLAYER REMOVED [ 1153252271] andreitatati         a.k.a. andreitahoran       
+2023-04-03T06:46:07Z: PLAYER ADDED   [ 4226264912] why_cutebacon        a.k.a. HK_Aiden            
+2023-04-03T06:46:08Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (  114.4,    43.9,    73.1)
+  noob
+2023-04-03T06:46:10Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (   99.1,    43.9,    80.1)
+  ez
+2023-04-03T06:46:12Z: PLAYER CHATTED [ 3338021328] sophiasophia214      (   63.2,    44.2,    16.3)
+  ty
+2023-04-03T06:46:13Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (   98.9,    43.9,    78.4)
+  ez
+2023-04-03T06:46:15Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (   98.9,    43.9,    78.4)
+  ez
+2023-04-03T06:46:24Z: PLAYER CHATTED [ 3443935892] Darrenpangg          (   92.0,   115.1,    25.4)
+  hey
+2023-04-03T06:46:37Z: PLAYER CHATTED [ 4220670358] Girlofthelov         (   63.2,    44.2,    13.7)
+  Sophia forgive me
+2023-04-03T06:46:48Z: PLAYER CHATTED [ 3443935892] Darrenpangg          (   93.1,   115.1,    21.5)
+  #####
+2023-04-03T06:46:50Z: PLAYER CHATTED [ 4220670358] Girlofthelov         (   63.2,    44.2,    13.7)
+  Sophia friend me
+2023-04-03T06:46:58Z: PLAYER CHATTED [ 1619203895] BOBBYTORFORD         (  145.1,    43.8,    84.3)
+  can i get 404 room
+2023-04-03T06:47:01Z: PLAYER CHATTED [   50877787] cIappedchicken       (   63.4,    45.1,    18.6)
+  ######################################################
+2023-04-03T06:47:02Z: PLAYER REMOVED [ 4470637605] ZahraDangerous_slay  a.k.a. Zahraaa_hello       
+2023-04-03T06:47:05Z: PLAYER REMOVED [ 3443935892] Darrenpangg          a.k.a. Sigma_man           
+2023-04-03T06:47:08Z: PLAYER CHATTED [   50877787] cIappedchicken       (   71.3,    45.1,    21.3)
+  youre private messaging me
+2023-04-03T06:47:12Z: PLAYER CHATTED [ 2404730322] SolineBj             (  137.5,    44.2,    56.1)
+  601
+2023-04-03T06:47:13Z: PLAYER CHATTED [   50877787] cIappedchicken       (   70.1,    45.1,    19.5)
+  sophia cant see your message
+2023-04-03T06:47:19Z: PLAYER CHATTED [   50877787] cIappedchicken       (   71.2,    45.1,    18.3)
+  idiot
+2023-04-03T06:47:20Z: PLAYER CHATTED [ 4220670358] Girlofthelov         (   72.2,    43.9,    14.0)
+  Why
+2023-04-03T06:47:21Z: PLAYER REMOVED [ 1329369677] gxthxnx              a.k.a. Ghtn                
+2023-04-03T06:47:22Z: PLAYER CHATTED [ 4226264912] why_cutebacon        (  135.1,    43.8,    52.3)
+  /w Darrenpangg  换房间
+2023-04-03T06:47:26Z: PLAYER ADDED   [ 1329369677] gxthxnx              a.k.a. Ghtn                
+2023-04-03T06:47:28Z: PLAYER CHATTED [   50877787] cIappedchicken       (   71.2,    45.1,    18.3)
+  BECAUSE YOURE PRIVATE MESSAGING ME
+2023-04-03T06:47:30Z: PLAYER REMOVED [ 3811739776] klara21290           a.k.a. Moon                
+2023-04-03T06:47:34Z: PLAYER ADDED   [  720612368] Brezsnyev_elvtars   
+2023-04-03T06:47:37Z: PLAYER CHATTED [ 4220670358] Girlofthelov         (   71.8,    43.9,    14.5)
+  Huh
+2023-04-03T06:47:39Z: PLAYER CHATTED [ 3338021328] sophiasophia214      (   73.5,    43.8,    17.1)
+  no I ain't 
+2023-04-03T06:47:42Z: PLAYER CHATTED [ 1617372066] Orichalcos27         (  105.5,    43.7,    71.6)
+  Guys i need really help
+2023-04-03T06:47:43Z: PLAYER CHATTED [ 3749827232] Sessy_number1        (   57.3,    43.7,    16.6)
+  👋 | Greetings, my name’s Bella. Welcome to the Blox-ton Hotel snack bar! What could I get for you? Limit’s III {3}
+2023-04-03T06:47:44Z: PLAYER CHATTED [ 2833716127] Mich5919             (  150.5,    43.7,    84.4)
+  「♡」Greetings! Welcome to Blox-ton Hotels! My name is Michelle, how may I help you today?
+2023-04-03T06:47:45Z: PLAYER CHATTED [   50877787] cIappedchicken       (   71.2,    45.1,    18.3)
+  YOURE WHISPERING
+2023-04-03T06:47:47Z: PLAYER CHATTED [   50877787] cIappedchicken       (   72.3,    45.1,    18.6)
+  not you
+2023-04-03T06:47:49Z: PLAYER CHATTED [   50877787] cIappedchicken       (   72.3,    45.1,    18.6)
+  this girl
+2023-04-03T06:47:49Z: PLAYER CHATTED [ 1617372066] Orichalcos27         (   93.9,    43.7,    37.6)
+  I can’t catch someone
+2023-04-03T06:47:50Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (  107.7,    42.4,    41.1)
+  ez
+2023-04-03T06:47:50Z: PLAYER CHATTED [ 4421909784] Shekinah_1098        (  143.3,    43.9,    88.8)
+  someone is in my room 
+2023-04-03T06:47:51Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (  103.6,    42.4,    40.0)
+  ez
+2023-04-03T06:47:51Z: PLAYER CHATTED [ 2833716127] Mich5919             (  150.5,    43.7,    84.4)
+  Sir, use grammar.
+2023-04-03T06:47:52Z: PLAYER CHATTED [ 3338021328] sophiasophia214      (   77.8,    43.8,    14.3)
+  how 
+2023-04-03T06:47:52Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (  103.6,    42.4,    40.0)
+  ez
+2023-04-03T06:47:53Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (  103.6,    42.4,    40.0)
+  ez
+2023-04-03T06:47:56Z: PLAYER CHATTED [ 2490339450] DefenceDummy105      (  103.6,    42.4,    40.0)
+  noob
+2023-04-03T06:47:56Z: PLAYER CHATTED [   50877787] cIappedchicken       (   72.3,    45.1,    18.6)
+  girlofthelov wants you to friend her
+2023-04-03T06:47:59Z: PLAYER CHATTED [ 1617372066] Orichalcos27         (   79.1,    43.7,    22.8)
+  Sure.
+2023-04-03T06:48:00Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-04-03T06:48:00Z: PLAYER REMOVED [ 4421909784] Shekinah_1098       
+2023-04-03T06:48:00Z: PLAYER REMOVED [ 3138249457] Unoevangelio50       a.k.a. Dounts              
+2023-04-03T06:48:00Z: PLAYER REMOVED [ 2833716127] Mich5919             a.k.a. mi1ch               
+2023-04-03T06:48:00Z: PLAYER REMOVED [ 4427626557] oons48              
+2023-04-03T06:48:00Z: PLAYER REMOVED [ 2761278940] elijah_3833          a.k.a. White_Villager      
+2023-04-03T06:48:00Z: PLAYER REMOVED [ 3519068130] UniKittenPlex       
+2023-04-03T06:48:00Z: PLAYER REMOVED [   72198969] drb0512              a.k.a. green_villager      
+2023-04-03T06:48:00Z: PLAYER REMOVED [ 4220670358] Girlofthelov        
+2023-04-03T06:48:00Z: PLAYER REMOVED [ 3338021328] sophiasophia214     
+2023-04-03T06:48:00Z: PLAYER REMOVED [ 1617372066] Orichalcos27         a.k.a. HauptmannPeter      
+2023-04-03T06:48:00Z: PLAYER REMOVED [ 3749827232] Sessy_number1        a.k.a. Beanz               
+2023-04-03T06:48:00Z: PLAYER REMOVED [ 2490339450] DefenceDummy105     
+2023-04-03T06:48:00Z: PLAYER REMOVED [   50877787] cIappedchicken       a.k.a. rose                
+2023-04-03T06:48:00Z: PLAYER REMOVED [ 4284625612] reasbean            
+2023-04-03T06:48:00Z: PLAYER REMOVED [ 1619203895] BOBBYTORFORD         a.k.a. Bobby               
+2023-04-03T06:48:00Z: PLAYER REMOVED [ 2404730322] SolineBj            
+2023-04-03T06:48:00Z: PLAYER REMOVED [ 4268392991] Fjhkjhghgf           a.k.a. Musa_yayyy          
+2023-04-03T06:48:00Z: PLAYER REMOVED [  932582528] pink_jays1           a.k.a. Ash                 
+2023-04-03T06:48:00Z: PLAYER REMOVED [ 4226264912] why_cutebacon        a.k.a. HK_Aiden            
+2023-04-03T06:48:00Z: PLAYER REMOVED [ 1329369677] gxthxnx              a.k.a. Ghtn                
+2023-04-03T06:48:00Z: PLAYER REMOVED [  720612368] Brezsnyev_elvtars   

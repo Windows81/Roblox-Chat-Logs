@@ -1,0 +1,16 @@
+[    1630228] : [ 4794911592] The Kubla Khan Las Vegas • Hotel Showcase, W.I.P. - 5c221b05-e0e3-4ab9-9373-fbebcbc3b8ed
+2023-04-14T22:02:18Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-04-14T22:02:18Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-04-14T22:02:42Z: PLAYER ADDED   [ 1581340012] basenjilover5       
+2023-04-14T22:03:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (  112.1,    91.8,    93.8)
+  Hi!
+2023-04-14T22:03:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (  114.8,    91.8,    95.4)
+  Did you know that rooms are now only openable by the person who owns them?
+2023-04-14T22:04:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (  114.8,    91.8,    95.4)
+  I'm not certain.
+2023-04-14T22:04:51Z: PLAYER CHATTED [ 1581340012] basenjilover5        (  115.6,    93.4,    62.4)
+  ooo
+2023-04-14T22:05:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (  114.2,    91.8,    84.8)
+  How was yesterday's stream?
+2023-04-14T22:05:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (  137.8,    91.8,   149.4)
+  The computer was so fast!
