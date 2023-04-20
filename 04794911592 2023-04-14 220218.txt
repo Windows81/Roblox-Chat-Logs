@@ -14,3 +14,6 @@
   How was yesterday's stream?
 2023-04-14T22:05:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (  137.8,    91.8,   149.4)
   The computer was so fast!
+2023-04-14T22:05:50Z: CHRCTER ADDED  [ 1581340012] basenjilover5       
+2023-04-14T22:06:28Z: PLAYER REMOVED [ 1581340012] basenjilover5       
+2023-04-14T22:06:38Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        

@@ -1,0 +1,21 @@
+[    1630228] : [   24965761] Perfectly Legitimate Happy Home in Robloxia - bd381c1d-a2c6-4b3a-84cd-c88d4d2e4bf8
+2023-04-15T02:04:49Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-04-15T02:04:49Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-04-15T02:05:08Z: CHRCTER ADDED  [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-04-15T02:08:55Z: PLAYER ADDED   [  143632931] DuskTheSnep          a.k.a. Dusk                
+2023-04-15T02:09:22Z: PLAYER CHATTED [  143632931] DuskTheSnep          (   11.9,   203.2,    83.0)
+  ah yes
+2023-04-15T02:09:26Z: PLAYER CHATTED [  143632931] DuskTheSnep          (   11.9,   203.2,    83.0)
+  i havent been here in forever
+2023-04-15T02:09:32Z: PLAYER ADDED   [ 2281784035] apple_3838          
+2023-04-15T02:09:39Z: PLAYER ADDED   [  675796106] clustergrowling     
+2023-04-15T02:09:47Z: PLAYER CHATTED [  143632931] DuskTheSnep          (    0.3,   203.4,    85.6)
+  sunburn
+2023-04-15T02:09:48Z: PLAYER CHATTED [  143632931] DuskTheSnep          (    0.3,   203.4,    85.6)
+  disaster
+2023-04-15T02:09:56Z: PLAYER CHATTED [  675796106] clustergrowling      (   -6.4,   203.2,    82.6)
+  too much sun
+2023-04-15T02:10:09Z: PLAYER CHATTED [  675796106] clustergrowling      (    4.2,   208.4,   -42.0)
+  funky cat
+2023-04-15T02:10:22Z: PLAYER CHATTED [  143632931] DuskTheSnep          (   -4.4,   159.8,   -37.8)
+  weee
