@@ -1,3 +1,4 @@
 [    1630228] : [ 4794911592] The Kubla Khan Las Vegas • Hotel Showcase, W.I.P. - 9d21d1d2-d942-4ca4-9663-cae919b132ea
 2023-04-20T21:02:04Z: CHAT STREAM SUCCESSFULLY STARTED
 2023-04-20T21:02:04Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-04-20T21:03:54Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
