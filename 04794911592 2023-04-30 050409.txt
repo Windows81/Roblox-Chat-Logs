@@ -1,0 +1,840 @@
+[    1630228] : [ 4794911592] The Kubla Khan Las Vegas • Hotel Showcase, W.I.P. - 2dd865b7-dbc3-495f-b2c3-293fd190d2ce
+2023-04-30T05:04:09Z: CHAT STREAM SUCCESSFULLY STARTED
+2023-04-30T05:04:09Z: PLAYER ADDED   [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
+2023-04-30T05:04:09Z: PLAYER ADDED   [ 1553183757] NoMoreLimbs          a.k.a. Untitled            
+2023-04-30T05:04:09Z: PLAYER ADDED   [ 1540690404] Consumerofwheatx1    a.k.a. Centralized         
+2023-04-30T05:04:09Z: PLAYER ADDED   [  253434009] filipe_nune          a.k.a. Nux                 
+2023-04-30T05:04:31Z: PLAYER CHATTED [    1630228] VisualPlugin         (   10.6,    91.8,    61.3)
+  I've been on a while.
+2023-04-30T05:04:32Z: PLAYER CHATTED [  253434009] filipe_nune          (   13.1,    91.7,    62.9)
+  15 years?
+2023-04-30T05:04:37Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (    3.6,   103.3,    81.0)
+  Looks like a giant mall
+2023-04-30T05:04:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (    9.5,    92.0,    65.3)
+  14.4 years.
+2023-04-30T05:05:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (   11.4,    91.4,    69.6)
+  Wanna see a plugin fly?
+2023-04-30T05:05:22Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  -16.3,    89.8,    86.6)
+  Sure
+2023-04-30T05:05:24Z: PLAYER CHATTED [ 1540690404] Consumerofwheatx1    (   17.6,    90.9,    69.8)
+  Yes
+2023-04-30T05:05:30Z: PLAYER CHATTED [  253434009] filipe_nune          (   13.1,    91.7,    62.9)
+  my pc is dying to run this game
+2023-04-30T05:05:32Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  -18.3,    90.3,    81.3)
+  Iloll
+2023-04-30T05:05:45Z: PLAYER CHATTED [ 1540690404] Consumerofwheatx1    (   -9.7,    90.4,    77.9)
+  Same but it'ss still dope
+2023-04-30T05:05:50Z: PLAYER CHATTED [  253434009] filipe_nune          (   -3.7,    90.7,    73.1)
+  fr
+2023-04-30T05:05:51Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  -21.0,    90.3,    83.3)
+  Yeah i am on max graph i should probably lower it
+2023-04-30T05:05:56Z: PLAYER CHATTED [ 1540690404] Consumerofwheatx1    (  -11.7,    90.3,    81.3)
+  Look at this plaace
+2023-04-30T05:05:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -19.8,    90.8,    79.6)
+  I'm on a laptop right now.
+2023-04-30T05:06:10Z: PLAYER CHATTED [  253434009] filipe_nune          (  -15.2,    90.5,    82.4)
+  i'm on the lowest graphic
+2023-04-30T05:06:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -17.5,    90.7,    83.1)
+  But I have access to a gaming rig with a 1060.
+2023-04-30T05:06:16Z: PLAYER ADDED   [ 1581340012] basenjilover5       
+2023-04-30T05:06:24Z: PLAYER CHATTED [ 1540690404] Consumerofwheatx1    (  -15.1,    90.0,    85.7)
+  Wow 
+2023-04-30T05:06:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -18.3,    90.5,    84.6)
+  That's only when I go to uni!
+2023-04-30T05:06:50Z: PLAYER CHATTED [  253434009] filipe_nune          (  -36.9,    92.2,   105.5)
+  are u rich too or what?
+2023-04-30T05:06:51Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  -37.7,    92.1,   109.0)
+  Ou
+2023-04-30T05:06:55Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  -35.6,    91.5,   102.9)
+  Oh*
+2023-04-30T05:07:01Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  -33.9,    91.0,    90.9)
+  But why not use it now
+2023-04-30T05:07:04Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -29.9,    91.4,    90.3)
+  I'm not.
+2023-04-30T05:07:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -26.7,    91.5,    92.1)
+  I'm not at university.
+2023-04-30T05:07:15Z: PLAYER CHATTED [ 1581340012] basenjilover5        (   35.0,    95.3,    -2.8)
+  my avatar isn't working here lol
+2023-04-30T05:07:24Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  -33.0,    91.1,    91.3)
+  it’s there?
+2023-04-30T05:07:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -28.8,    92.0,    92.6)
+  I would connect my SSD to a workstation then do my business there.
+2023-04-30T05:07:44Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  -56.3,    89.9,    99.4)
+  Oh, yeah makes sense.
+2023-04-30T05:08:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (   16.3,    91.8,    56.0)
+  I'd literally bòót into it.
+2023-04-30T05:08:04Z: PLAYER CHATTED [    1630228] VisualPlugin         (   16.3,    91.8,    56.0)
+  Same one I'm using now.
+2023-04-30T05:08:12Z: PLAYER CHATTED [  253434009] filipe_nune          (  -28.4,    91.0,    89.4)
+  i think ima quit before my pc die
+2023-04-30T05:08:17Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  -61.0,    90.9,   123.0)
+  interesting 
+2023-04-30T05:08:23Z: PLAYER CHATTED [ 1540690404] Consumerofwheatx1    (  -15.1,    90.0,    85.7)
+  Rip
+2023-04-30T05:08:25Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  -26.2,    90.3,    87.9)
+  Rip
+2023-04-30T05:08:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.1,    91.7,    68.5)
+  Best thing about it is that you can bypass basically all user-level obstructions.
+2023-04-30T05:08:34Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  -23.1,    90.1,    87.4)
+  oh wow
+2023-04-30T05:08:37Z: PLAYER ADDED   [ 2049401790] gearasteck2          a.k.a. 0_iiOm4rii24        
+2023-04-30T05:08:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -14.2,    90.8,    78.0)
+  Let's go to a room!
+2023-04-30T05:08:46Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  -23.4,    89.9,    76.0)
+  Wth
+2023-04-30T05:08:48Z: PLAYER CHATTED [ 1540690404] Consumerofwheatx1    (  -15.1,    90.0,    85.7)
+  Sure
+2023-04-30T05:08:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -18.8,    91.9,    69.2)
+  It's lift tour time!
+2023-04-30T05:09:01Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   36.3,    91.3,    56.6)
+  Wait someone joined
+2023-04-30T05:09:05Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   68.6,    91.3,    55.3)
+  Geara
+2023-04-30T05:09:09Z: PLAYER CHATTED [    1630228] VisualPlugin         (  119.1,    91.8,    74.1)
+  Come to the lifts mate!
+2023-04-30T05:09:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (  127.8,    91.8,   117.7)
+  We're the six sucksatèérs.
+2023-04-30T05:09:24Z: PLAYER REMOVED [ 1581340012] basenjilover5       
+2023-04-30T05:09:29Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  139.2,    91.3,   115.1)
+  Loll
+2023-04-30T05:09:30Z: PLAYER REMOVED [ 2049401790] gearasteck2          a.k.a. 0_iiOm4rii24        
+2023-04-30T05:09:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (  140.8,    91.8,   116.6)
+  *Five forgivears.
+2023-04-30T05:09:40Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  139.3,    91.3,   109.4)
+  Which floor
+2023-04-30T05:09:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (  140.8,    91.8,   116.6)
+  *Four whatevers.
+2023-04-30T05:09:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (  142.5,    91.8,   116.0)
+  Where's your room?
+2023-04-30T05:09:49Z: PLAYER CHATTED [  253434009] filipe_nune          (  137.4,    91.6,   109.3)
+  20
+2023-04-30T05:09:55Z: PLAYER CHATTED [    1630228] VisualPlugin         (  140.8,    91.8,   110.2)
+  Never mind.
+2023-04-30T05:10:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (  140.8,    91.8,   110.2)
+  It got lost to all the chatter.
+2023-04-30T05:10:11Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  139.3,   179.2,   109.4)
+  Uh
+2023-04-30T05:10:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (  141.3,   244.9,   110.8)
+  Let's go to 20.
+2023-04-30T05:10:27Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  112.5,   244.3,   116.3)
+  Wow
+2023-04-30T05:10:28Z: PLAYER CHATTED [  253434009] filipe_nune          (  140.5,   244.6,   119.8)
+  good, now i cant look down
+2023-04-30T05:10:44Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  119.4,   244.3,   102.5)
+  20 what?
+2023-04-30T05:11:21Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  108.5,   244.3,   114.4)
+  Is there anyway to check the number
+2023-04-30T05:11:24Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  108.5,   244.3,   114.4)
+  /console
+2023-04-30T05:11:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (  105.6,   244.8,   114.1)
+  I don't think it's floor 20.
+2023-04-30T05:11:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (  112.5,   244.8,   114.7)
+  Unfortunately, that's when I learn that you can't.
+2023-04-30T05:11:41Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  114.7,   244.3,   107.0)
+  I will rejoin
+2023-04-30T05:11:44Z: PLAYER REMOVED [ 1553183757] NoMoreLimbs          a.k.a. Untitled            
+2023-04-30T05:11:54Z: PLAYER ADDED   [ 1553183757] NoMoreLimbs          a.k.a. Untitled            
+2023-04-30T05:12:18Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   72.9,    91.3,    59.0)
+  07-11
+2023-04-30T05:12:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (  140.1,   244.8,   109.2)
+  Let's go!
+2023-04-30T05:12:43Z: PLAYER CHATTED [ 1540690404] Consumerofwheatx1    (  142.5,   244.4,   108.5)
+  EEpic
+2023-04-30T05:12:44Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  262.8,    91.3,   145.0)
+  Im lost
+2023-04-30T05:13:00Z: PLAYER ADDED   [ 1581340012] basenjilover5       
+2023-04-30T05:13:08Z: PLAYER CHATTED [  253434009] filipe_nune          (  140.0,    91.6,   108.7)
+  bruh 11? i cant '-
+2023-04-30T05:13:21Z: PLAYER CHATTED [    1630228] VisualPlugin         (  146.2,    91.8,   149.4)
+  Floor 7.
+2023-04-30T05:13:32Z: PLAYER CHATTED [  253434009] filipe_nune          (  150.4,    91.6,   149.4)
+  still too much
+2023-04-30T05:13:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (  146.1,    91.8,   149.4)
+  Only the owner can open their door.
+2023-04-30T05:13:44Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  148.4,    91.3,   148.7)
+  Yep
+2023-04-30T05:13:47Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  148.4,    98.7,   148.7)
+  I saw my room
+2023-04-30T05:13:56Z: PLAYER CHATTED [    1630228] VisualPlugin         (  146.1,   136.8,   149.4)
+  There is a thing called twelve working lists.
+2023-04-30T05:14:00Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  148.5,   136.3,   148.1)
+  Then fell out of the floor when i tried entering
+2023-04-30T05:14:10Z: PLAYER CHATTED [ 1581340012] basenjilover5        (   35.0,    92.2,    -3.6)
+  it's always been that way here?
+2023-04-30T05:14:22Z: PLAYER CHATTED [    1630228] VisualPlugin         (  139.7,   136.8,    65.9)
+  No idea.
+2023-04-30T05:14:37Z: PLAYER CHATTED [    1630228] VisualPlugin         (  136.4,   136.8,    54.0)
+  7 10 alsow orks.
+2023-04-30T05:14:38Z: PLAYER REMOVED [ 1540690404] Consumerofwheatx1    a.k.a. Centralized         
+2023-04-30T05:14:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (  136.4,   136.8,    54.0)
+  I think.
+2023-04-30T05:14:44Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  133.8,   136.3,    36.1)
+  Centralized broke
+2023-04-30T05:14:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (  140.5,   136.8,    61.7)
+  Try it.
+2023-04-30T05:14:51Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  138.9,   136.3,    56.6)
+  His game crashed
+2023-04-30T05:14:58Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  146.4,   136.3,    24.0)
+  Wow
+2023-04-30T05:15:03Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  146.4,   136.3,    24.0)
+  This hallway is scary
+2023-04-30T05:15:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (  146.4,   136.8,    37.3)
+  Crangrats to him!
+2023-04-30T05:15:09Z: PLAYER CHATTED [  253434009] filipe_nune          (  132.8,   135.7,    30.8)
+  if i didnt have ssd, my game would crash too
+2023-04-30T05:15:28Z: PLAYER CHATTED [  253434009] filipe_nune          (  138.8,   136.6,    65.6)
+  damn ima quit
+2023-04-30T05:15:29Z: PLAYER CHATTED [    1630228] VisualPlugin         (  146.4,   136.8,    35.6)
+  I'm getting 0.1 MB/s disk.
+2023-04-30T05:15:35Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  130.0,   136.3,    22.1)
+  Why auit
+2023-04-30T05:15:36Z: PLAYER CHATTED [  253434009] filipe_nune          (  138.8,   136.6,    65.6)
+  nice to meet you Visual
+2023-04-30T05:15:38Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  130.0,   136.3,    22.1)
+  Quit
+2023-04-30T05:15:41Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  130.0,   136.3,    22.1)
+  This game is dope
+2023-04-30T05:15:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (  140.3,   136.8,    59.3)
+  You as well.
+2023-04-30T05:15:47Z: PLAYER CHATTED [  253434009] filipe_nune          (  138.8,   136.6,    65.6)
+  my pc isnt that good bro
+2023-04-30T05:15:51Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  134.2,   136.3,    23.9)
+  Rip
+2023-04-30T05:15:51Z: PLAYER CHATTED [  253434009] filipe_nune          (  138.3,   136.5,    65.9)
+  2 fps
+2023-04-30T05:15:58Z: PLAYER CHATTED [  253434009] filipe_nune          (  138.3,   136.6,    66.1)
+  cya
+2023-04-30T05:16:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (  134.4,   136.8,    66.6)
+  Is your name pronounced as 'nix'?
+2023-04-30T05:16:07Z: PLAYER REMOVED [  253434009] filipe_nune          a.k.a. Nux                 
+2023-04-30T05:16:09Z: PLAYER CHATTED [    1630228] VisualPlugin         (  134.4,   136.8,    66.6)
+  Oh.
+2023-04-30T05:16:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (  139.1,   136.8,    60.7)
+  He got nixxed.
+2023-04-30T05:16:24Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  137.8,   136.3,    51.4)
+  I always pronounced it as nux
+2023-04-30T05:16:27Z: PLAYER ADDED   [ 1540690404] Consumerofwheatx1    a.k.a. Centralized         
+2023-04-30T05:16:27Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  137.8,   136.3,    51.4)
+  Never asked him
+2023-04-30T05:16:33Z: PLAYER REMOVED [ 1581340012] basenjilover5       
+2023-04-30T05:16:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (  138.9,   136.8,    57.5)
+  So GNU/Linn-ucks?
+2023-04-30T05:16:40Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  134.8,   136.3,    41.6)
+  Yes
+2023-04-30T05:16:44Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  134.8,   136.3,    41.6)
+  Exactly 
+2023-04-30T05:16:55Z: PLAYER CHATTED [    1630228] VisualPlugin         (  136.5,   136.8,    46.1)
+  Most people say as 'Linnix'.
+2023-04-30T05:17:13Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  132.2,   137.1,    39.0)
+  I am one of those
+2023-04-30T05:17:15Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  132.2,   137.1,    39.0)
+  People
+2023-04-30T05:17:35Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  131.0,   137.7,    37.9)
+  Heard it on youtube too many times like that
+2023-04-30T05:17:38Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  131.0,   137.7,    37.9)
+  Linux
+2023-04-30T05:17:39Z: PLAYER ADDED   [ 1581340012] basenjilover5       
+2023-04-30T05:17:47Z: PLAYER CHATTED [ 1540690404] Consumerofwheatx1    (   35.0,    93.4,    -2.8)
+  Greetings
+2023-04-30T05:17:52Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  189.0,   136.3,    68.6)
+  Welcome back
+2023-04-30T05:17:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (  182.6,   136.8,    66.6)
+  Grèétings.
+2023-04-30T05:18:35Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  197.5,   136.3,    68.7)
+  Did you make this alone
+2023-04-30T05:18:38Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  197.9,   136.3,    68.3)
+  Sup
+2023-04-30T05:18:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (  184.0,   136.8,    66.1)
+  Yes.
+2023-04-30T05:18:43Z: PLAYER CHATTED [ 1540690404] Consumerofwheatx1    (  200.5,   136.5,    68.7)
+  Yoo
+2023-04-30T05:18:43Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  196.2,   136.5,    69.0)
+  damn
+2023-04-30T05:18:46Z: PLAYER CHATTED [    1630228] VisualPlugin         (  184.0,   136.8,    66.1)
+  And it took me 3 years and counting.
+2023-04-30T05:18:46Z: PLAYER CHATTED [ 1540690404] Consumerofwheatx1    (  200.5,   136.5,    68.7)
+  Damn
+2023-04-30T05:18:48Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  196.2,   136.5,    69.0)
+  How long did it take
+2023-04-30T05:18:51Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  196.2,   136.5,    69.0)
+  Holy
+2023-04-30T05:19:03Z: PLAYER CHATTED [    1630228] VisualPlugin         (  221.0,   136.8,    66.4)
+  On and off.
+2023-04-30T05:19:10Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  190.3,   136.3,    68.8)
+  I could never
+2023-04-30T05:19:10Z: PLAYER CHATTED [ 1581340012] basenjilover5        (   32.8,    90.2,    55.2)
+  the show has arrived
+2023-04-30T05:19:33Z: PLAYER CHATTED [ 1540690404] Consumerofwheatx1    (  200.5,   136.5,    68.7)
+  Yo btw how many languages do you speak Vis
+2023-04-30T05:19:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (  134.8,   136.8,    68.5)
+  Have you seen my channel?
+2023-04-30T05:19:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (  134.8,   136.8,    68.5)
+  About 15.
+2023-04-30T05:19:53Z: PLAYER CHATTED [ 1540690404] Consumerofwheatx1    (  200.5,   136.5,    68.7)
+  I haven't
+2023-04-30T05:19:56Z: PLAYER CHATTED [ 1540690404] Consumerofwheatx1    (  200.5,   136.5,    68.7)
+  Whaaa
+2023-04-30T05:19:57Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  115.9,   136.3,    96.7)
+  Yup
+2023-04-30T05:20:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (  130.3,   136.8,    68.4)
+  I'm a programmer.
+2023-04-30T05:20:11Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  112.1,   136.3,   103.2)
+  He has a multi lingual channel
+2023-04-30T05:20:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (  166.2,   136.8,    65.8)
+  The typical web dev speaks at least 5.
+2023-04-30T05:20:15Z: PLAYER CHATTED [ 1540690404] Consumerofwheatx1    (  200.5,   136.5,    68.7)
+  Niceeee
+2023-04-30T05:20:18Z: PLAYER CHATTED [ 1540690404] Consumerofwheatx1    (  200.5,   136.5,    68.7)
+  #####
+2023-04-30T05:20:18Z: PLAYER CHATTED [ 1540690404] Consumerofwheatx1    (  200.5,   136.5,    68.7)
+  Name?
+2023-04-30T05:20:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (  188.8,   136.8,    67.4)
+  I know Spanish, a bit or Arabic, and Hsilgne.
+2023-04-30T05:20:42Z: PLAYER CHATTED [ 1540690404] Consumerofwheatx1    (  200.5,   136.5,    68.7)
+  Channel name?
+2023-04-30T05:20:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (  188.8,   136.8,    67.4)
+  VisualPlugin the Multilingual Programmer.
+2023-04-30T05:21:06Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  270.8,   136.3,    87.5)
+  He made a video about byfron its funny
+2023-04-30T05:21:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (  195.0,   136.8,    68.5)
+  It's still in its draft stage.
+2023-04-30T05:21:21Z: PLAYER CHATTED [ 1540690404] Consumerofwheatx1    (  200.5,   136.5,    68.7)
+  Found it
+2023-04-30T05:21:32Z: PLAYER CHATTED [ 1581340012] basenjilover5        (  142.6,   108.2,   147.3)
+  molte bene
+2023-04-30T05:21:37Z: PLAYER CHATTED [    1630228] VisualPlugin         (  187.9,   136.8,    65.1)
+  I'd like to see your opinions on my Bye-byefron video.
+2023-04-30T05:22:08Z: PLAYER CHATTED [ 1540690404] Consumerofwheatx1    (  200.8,   136.6,    68.8)
+  Still need to watch it
+2023-04-30T05:22:33Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  177.7,    93.3,   151.9)
+  This game gives me dreamcore vibe
+2023-04-30T05:22:36Z: CHRCTER ADDED  [ 1581340012] basenjilover5       
+2023-04-30T05:23:34Z: PLAYER CHATTED [    1630228] VisualPlugin         (  206.6,   136.8,    68.5)
+  I'm not a speedrunner or SMP'ist unfortunately.
+2023-04-30T05:23:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (  206.6,   136.8,    68.5)
+  Nor do I have a bright green aura.
+2023-04-30T05:23:53Z: PLAYER CHATTED [    1630228] VisualPlugin         (  206.6,   136.8,    68.5)
+  I'm a visual plugin and a blue one at that.
+2023-04-30T05:23:59Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          ( -153.8,    98.4,    63.1)
+  ?
+2023-04-30T05:24:08Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          ( -153.8,    91.3,    59.5)
+  Not talking about the youtuber dream
+2023-04-30T05:24:10Z: PLAYER CHATTED [    1630228] VisualPlugin         (  206.6,   136.8,    68.5)
+  Have you heard of Dream™?
+2023-04-30T05:24:26Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          ( -121.2,    91.3,    57.1)
+  This is a place you would see in your dreams
+2023-04-30T05:24:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (  206.6,   136.8,    68.5)
+  I think you should meet me team of teeming pun-dits.
+2023-04-30T05:25:16Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   36.0,    92.0,    25.2)
+  I just realized somethint
+2023-04-30T05:25:23Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   36.0,    92.0,    25.2)
+  This is your phone
+2023-04-30T05:25:25Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   36.0,    92.0,    25.2)
+  ###
+2023-04-30T05:25:25Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   36.0,    92.0,    25.2)
+  Nmb
+2023-04-30T05:25:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (  206.6,   136.8,    68.5)
+  ¿?
+2023-04-30T05:25:42Z: CHRCTER ADDED  [ 1581340012] basenjilover5       
+2023-04-30T05:25:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (  198.3,   136.8,    65.6)
+  My Galaxy S8?
+2023-04-30T05:25:56Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   35.7,    91.3,    39.8)
+  The adverise with us
+2023-04-30T05:26:01Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   35.7,    91.3,    39.8)
+  Advertise*
+2023-04-30T05:26:03Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   35.7,    91.3,    39.8)
+  Sign
+2023-04-30T05:26:04Z: PLAYER CHATTED [    1630228] VisualPlugin         (  198.3,   136.8,    65.6)
+  Yes it is.
+2023-04-30T05:26:09Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   35.7,    91.3,    39.8)
+  It has a phone nmbr
+2023-04-30T05:26:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (  186.1,   136.8,    65.8)
+  Fortunately, I live in the US.
+2023-04-30T05:26:12Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   35.7,    91.3,    39.8)
+  It’s yours?
+2023-04-30T05:26:16Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   35.7,    91.3,    39.8)
+  True
+2023-04-30T05:26:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (  186.1,   136.8,    65.8)
+  Give him a call!
+2023-04-30T05:26:33Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   35.7,    91.3,    39.8)
+  You mean “me?”
+2023-04-30T05:26:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (  150.1,   136.8,    66.0)
+  Ye.
+2023-04-30T05:26:49Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   38.7,    92.3,    17.7)
+  I sadly dont live in the us
+2023-04-30T05:27:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (  144.3,   136.8,    66.2)
+  Ah.
+2023-04-30T05:27:10Z: PLAYER CHATTED [ 1581340012] basenjilover5        (   33.5,    91.2,    13.4)
+  i watched someone try to call his yesterday
+2023-04-30T05:27:18Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.7,    91.3,    62.7)
+  Damn
+2023-04-30T05:27:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (  126.9,   136.8,    66.7)
+  At what time>
+2023-04-30T05:27:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (  122.2,   136.8,    66.7)
+  I might've missed it.
+2023-04-30T05:28:38Z: PLAYER CHATTED [ 1581340012] basenjilover5        (   82.6,    90.2,    56.7)
+   think around 15:00 my time
+2023-04-30T05:28:46Z: PLAYER CHATTED [    1630228] VisualPlugin         (  111.6,   136.8,    92.1)
+  12:00 my time?
+2023-04-30T05:29:00Z: PLAYER CHATTED [ 1581340012] basenjilover5        (   82.6,    90.2,    56.7)
+  yeah
+2023-04-30T05:29:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (  111.6,   136.8,    92.1)
+  I received no such call.
+2023-04-30T05:29:16Z: PLAYER CHATTED [ 1581340012] basenjilover5        (   82.6,    90.2,    56.7)
+  hmm
+2023-04-30T05:29:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (  109.4,   136.8,   118.7)
+  I had one at 02:18 and 12:58.
+2023-04-30T05:29:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (  109.4,   136.8,   118.7)
+  Both were from family.
+2023-04-30T05:29:57Z: PLAYER CHATTED [ 1540690404] Consumerofwheatx1    (  200.8,   136.6,    68.8)
+  Watched the vi
+2023-04-30T05:30:34Z: PLAYER CHATTED [    1630228] VisualPlugin         (  111.5,   136.8,    89.0)
+  My name is based off of Vi!
+2023-04-30T05:30:39Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          ( -121.7,    80.0,    90.7)
+  Visual
+2023-04-30T05:30:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (  143.3,   136.8,    67.9)
+  Vi is a text editor.
+2023-04-30T05:30:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (  110.8,   136.8,   108.0)
+  My name is a plugin's name.
+2023-04-30T05:31:23Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          ( -120.1,    79.4,    91.4)
+  Yup
+2023-04-30T05:31:32Z: PLAYER CHATTED [    1630228] VisualPlugin         (  112.3,   136.8,   104.8)
+  How did Cent think of it?
+2023-04-30T05:31:41Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          ( -124.1,    79.5,    89.1)
+  He is good with nicknames
+2023-04-30T05:31:45Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          ( -123.9,    79.6,    89.2)
+  Oh wait cent
+2023-04-30T05:31:49Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          ( -123.9,    79.6,    89.3)
+  Like the coin
+2023-04-30T05:32:04Z: PLAYER CHATTED [    1630228] VisualPlugin         (  113.8,   136.8,   141.3)
+  Like CentOS.
+2023-04-30T05:32:09Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  -31.3,    85.5,   162.0)
+  Or that
+2023-04-30T05:32:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (  115.5,   136.8,   150.0)
+  Or like the penny as well.
+2023-04-30T05:32:22Z: CHRCTER ADDED  [ 1581340012] basenjilover5       
+2023-04-30T05:32:46Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (    6.7,    91.3,   209.3)
+  Does the room generate when you join?
+2023-04-30T05:32:53Z: PLAYER CHATTED [    1630228] VisualPlugin         (  112.6,   136.8,   131.5)
+  Yes.
+2023-04-30T05:33:05Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   35.0,    91.0,   189.2)
+  So they aren’t in already?
+2023-04-30T05:33:13Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   85.6,    95.3,   159.4)
+  Wow
+2023-04-30T05:33:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (  113.1,   136.8,   139.0)
+  They're instanced then modified slightly.
+2023-04-30T05:33:42Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  271.0,    91.3,   191.0)
+  I see
+2023-04-30T05:34:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (  109.5,   136.8,   148.7)
+  I've never played my own game in VR,
+2023-04-30T05:34:22Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  131.9,    91.3,   109.7)
+  Does it support vr?
+2023-04-30T05:34:29Z: PLAYER CHATTED [    1630228] VisualPlugin         (  109.5,   136.8,   148.7)
+  But I've had a few chances to go ahead and do so.
+2023-04-30T05:34:38Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  182.0,    92.7,   144.5)
+  I got an oculis
+2023-04-30T05:34:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (  109.5,   136.8,   148.7)
+  I've had it tested once in 2022.
+2023-04-30T05:34:43Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  182.0,    92.7,   144.5)
+  Oculus
+2023-04-30T05:34:52Z: PLAYER CHATTED [    1630228] VisualPlugin         (  112.6,   136.8,   166.5)
+  The lifts were adjusted there and then.
+2023-04-30T05:34:53Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  184.2,    93.1,   151.2)
+  But they haven’t released roblox on it
+2023-04-30T05:34:58Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  185.6,    93.3,   161.6)
+  Oh alright 
+2023-04-30T05:35:04Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  185.6,    93.3,   161.6)
+  You have a game dedicated to lifts
+2023-04-30T05:35:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (  111.6,   136.8,   120.1)
+  I used to make lifts in the first 30% of my existence.
+2023-04-30T05:35:32Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  147.8,   145.2,   132.3)
+  what was the interest in them
+2023-04-30T05:35:37Z: PLAYER CHATTED [    1630228] VisualPlugin         (  111.4,   136.8,   142.5)
+  Now I pretend to be a plugin.
+2023-04-30T05:35:40Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  138.3,   145.3,   138.5)
+  Or the motive on making it
+2023-04-30T05:35:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (  107.7,   136.8,   129.6)
+  In the early days,
+2023-04-30T05:35:55Z: PLAYER CHATTED [    1630228] VisualPlugin         (  107.7,   136.8,   129.6)
+  I think it was the fact that I was 9.
+2023-04-30T05:36:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (  107.7,   136.8,   129.6)
+  In 2014, the motivation was making my own lift logics.
+2023-04-30T05:36:23Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  241.9,   145.3,   186.3)
+  oh wow
+2023-04-30T05:36:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (  110.9,   136.8,   121.9)
+  What we've ridden on today is a modified version of what I made in 2018.
+2023-04-30T05:36:44Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  115.7,   145.3,   187.1)
+  They are nice
+2023-04-30T05:36:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (  110.8,   136.8,   134.3)
+  Thanks!
+2023-04-30T05:36:50Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  115.7,   145.3,   187.1)
+  Why dont you make models
+2023-04-30T05:36:53Z: PLAYER CHATTED [    1630228] VisualPlugin         (  111.5,   136.8,   134.9)
+  I did.
+2023-04-30T05:37:02Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  110.1,   136.3,   176.3)
+  I can get them)
+2023-04-30T05:37:03Z: PLAYER CHATTED [ 1581340012] basenjilover5        (  178.2,    78.6,   106.4)
+  and ifell through the floor lololol
+2023-04-30T05:37:05Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  110.1,   136.3,   176.3)
+  ?*
+2023-04-30T05:37:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (  109.6,   136.8,   166.7)
+  Models aren't what they used to be.
+2023-04-30T05:37:24Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  113.7,   136.3,   174.0)
+  what was it?
+2023-04-30T05:37:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (  113.8,   136.8,   147.9)
+  Let me know which ones you want and I could send them your way.
+2023-04-30T05:37:38Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  105.5,   140.5,   167.8)
+  Alright, thanks.
+2023-04-30T05:37:41Z: PLAYER CHATTED [    1630228] VisualPlugin         (  110.4,   136.8,   155.4)
+  They're in my inventory.
+2023-04-30T05:37:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (  116.5,   136.8,   153.8)
+  All my models were public.
+2023-04-30T05:37:51Z: PLAYER CHATTED [ 1581340012] basenjilover5        (  178.2,    78.6,   106.4)
+  i bought vis s model
+2023-04-30T05:37:57Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  111.4,   136.3,   165.1)
+  Roblox hid them all right?
+2023-04-30T05:38:03Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  111.4,   136.3,   165.1)
+  Made them off sale
+2023-04-30T05:38:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (  116.5,   136.8,   153.8)
+  They might've become timid last year.
+2023-04-30T05:38:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (  116.7,   136.8,   159.8)
+  Yes.
+2023-04-30T05:38:15Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  115.3,   136.3,   166.9)
+  sucks
+2023-04-30T05:38:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (  107.7,   136.8,   148.5)
+  I've evolved past models.
+2023-04-30T05:38:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (  107.7,   136.8,   148.5)
+  Now I just GPL everything.
+2023-04-30T05:38:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (  107.7,   136.8,   148.5)
+  And I invite you to share.
+2023-04-30T05:39:07Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  105.8,   140.5,   167.9)
+  I don’t know the definition of gpl
+2023-04-30T05:39:12Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  105.8,   140.5,   167.9)
+  Oh wo
+2023-04-30T05:39:15Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  105.8,   140.5,   167.9)
+  Wow
+2023-04-30T05:39:25Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  152.9,   136.3,   139.4)
+  Look at this
+2023-04-30T05:39:29Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  152.9,   136.3,   139.4)
+  Even the roof
+2023-04-30T05:39:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (  153.6,   136.8,   138.9)
+  For the next floor?
+2023-04-30T05:39:45Z: PLAYER CHATTED [ 1581340012] basenjilover5        (  178.2,    78.6,   106.4)
+  yep
+2023-04-30T05:39:56Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  151.5,   136.3,   142.9)
+  Why does that floor look different
+2023-04-30T05:40:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (  152.0,   136.8,   141.5)
+  The unique ones are 13, 17, 18, 19, and 20.
+2023-04-30T05:40:35Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  144.2,   136.3,   136.5)
+  Gpl is open sourcing your stuff?
+2023-04-30T05:40:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (  130.6,   136.8,   137.9)
+  12 has an interchange for both sets.
+2023-04-30T05:41:09Z: PLAYER CHATTED [    1630228] VisualPlugin         (  148.6,   182.4,   150.1)
+  Open-source is designed to be a practical solution.
+2023-04-30T05:41:22Z: PLAYER CHATTED [    1630228] VisualPlugin         (  148.9,   181.8,   140.7)
+  Saying 'free software' also appeals to ethics.
+2023-04-30T05:41:24Z: PLAYER CHATTED [ 1581340012] basenjilover5        (  178.2,    78.6,   106.4)
+  just don't do what i did lol
+2023-04-30T05:41:32Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  259.0,   181.3,    79.6)
+  Which is?
+2023-04-30T05:42:01Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  272.4,   181.3,   171.3)
+  Visual, you remind me of ## ###
+2023-04-30T05:42:01Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  272.4,   181.3,   171.3)
+  Visual, you remind me of an ai.
+2023-04-30T05:42:14Z: PLAYER CHATTED [ 1581340012] basenjilover5        (  178.2,    78.6,   106.4)
+  the one elevator is glitching again
+2023-04-30T05:42:21Z: PLAYER CHATTED [    1630228] VisualPlugin         (  214.7,   190.8,    85.7)
+  I know!
+2023-04-30T05:42:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (  189.3,   190.8,    85.0)
+  I kinda like the unsettling vibe I give off.
+2023-04-30T05:42:44Z: PLAYER CHATTED [    1630228] VisualPlugin         (  183.8,   190.8,    86.1)
+  Especially seeing as I've grown up here.
+2023-04-30T05:42:56Z: PLAYER CHATTED [    1630228] VisualPlugin         (  160.3,   190.8,    85.5)
+  And that we're in a place like this.
+2023-04-30T05:43:00Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  118.0,   190.3,    84.5)
+  You should play the game ai or human
+2023-04-30T05:43:14Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (  115.3,   190.3,    81.9)
+  You chat with humans and try to convince them that you are an ai
+2023-04-30T05:43:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (  109.6,   190.8,   119.2)
+  Come to Paradise Café.
+2023-04-30T05:43:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (   93.5,   191.0,   120.5)
+  I'll check it out.
+2023-04-30T05:43:27Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   96.9,   190.4,   116.8)
+  Ohh wow
+2023-04-30T05:43:34Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   89.8,   190.5,   116.9)
+  Its a website
+2023-04-30T05:43:49Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   89.6,   190.5,   134.1)
+  I think its called ai or not
+2023-04-30T05:44:17Z: PLAYER CHATTED [ 1581340012] basenjilover5        (  178.2,    78.6,   106.4)
+  i think im unable to that one
+2023-04-30T05:44:22Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   89.6,   190.5,   134.1)
+  You really do nail the ai act.
+2023-04-30T05:44:34Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  I expect the prompts to be outlandish,
+2023-04-30T05:44:36Z: PLAYER CHATTED [ 1581340012] basenjilover5        (  178.2,    78.6,   106.4)
+  heart
+2023-04-30T05:44:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  But I can't keep perfect orthography at all times!
+2023-04-30T05:45:05Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   89.6,   190.5,   134.1)
+  Yeah true
+2023-04-30T05:45:19Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  I also have a good trick for discriminating the two:
+2023-04-30T05:45:27Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   89.6,   190.5,   134.1)
+  But what do you mean with prompt
+2023-04-30T05:45:29Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  Rōblox.
+2023-04-30T05:45:37Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   89.6,   190.5,   134.1)
+  Roblox and?
+2023-04-30T05:45:41Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  Say anything with that word, with the macron included'.
+2023-04-30T05:45:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  LLMs will keep the spelling as I did it.
+2023-04-30T05:46:04Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  Most humans would spell it normally.
+2023-04-30T05:46:28Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   89.6,   190.5,   134.1)
+  Most humans? Are you indicating that you are not one?
+2023-04-30T05:46:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  Because they don't have elaborate keyboard layouts like myself.
+2023-04-30T05:46:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  I am not most humans.
+2023-04-30T05:46:48Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   89.6,   190.5,   134.1)
+  You are a human tho right
+2023-04-30T05:46:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  I spell Rōblox the way I did it here.
+2023-04-30T05:46:54Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   89.6,   190.5,   134.1)
+  Yel
+2023-04-30T05:46:57Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   89.6,   190.5,   134.1)
+  Yep
+2023-04-30T05:47:00Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   89.6,   190.5,   134.1)
+  Or greetings
+2023-04-30T05:47:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  I attend University of California, Irvine.
+2023-04-30T05:47:08Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   89.6,   190.5,   134.1)
+  With éè
+2023-04-30T05:47:19Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   89.6,   190.5,   134.1)
+  Shouldn’t that be private
+2023-04-30T05:47:22Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  Not 'òó' though.
+2023-04-30T05:47:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  Not for me it's not.
+2023-04-30T05:47:51Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  Centralized
+2023-04-30T05:47:55Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  U wanna join us
+2023-04-30T05:48:05Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  Also visual, how good are you in lua.
+2023-04-30T05:48:08Z: CHRCTER ADDED  [ 1581340012] basenjilover5       
+2023-04-30T05:48:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  Not as good as I am in Python.
+2023-04-30T05:48:29Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  But I've known Lua for far longer.
+2023-04-30T05:48:30Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  How good are you in python
+2023-04-30T05:48:56Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  Good enoguh to have made the script executer that I'm using right now.
+2023-04-30T05:49:08Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  Wait what
+2023-04-30T05:49:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  *Enough.
+2023-04-30T05:49:15Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  You made your own executor
+2023-04-30T05:49:19Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  Not the API.
+2023-04-30T05:49:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  Just the command-line interface.
+2023-04-30T05:49:28Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  Just the dll?
+2023-04-30T05:49:31Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  Oh alr
+2023-04-30T05:49:32Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  Not a DLL.
+2023-04-30T05:49:34Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  Just a CLI.
+2023-04-30T05:49:35Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  Impressive 
+2023-04-30T05:50:05Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  Roblox lua is supposed to be easy, but i find it so confusing.
+2023-04-30T05:50:14Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  Like a puzzle
+2023-04-30T05:50:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  It's a continuing project which focuses on usability and intuitiveness.
+2023-04-30T05:50:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  Roblox's API could do more with consitent naming of methods.
+2023-04-30T05:51:00Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  Yeah
+2023-04-30T05:51:16Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  What are your thoughts on the new generative script prompt
+2023-04-30T05:51:23Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  Roblox is working on
+2023-04-30T05:51:31Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  Haven't tried it yet.
+2023-04-30T05:51:37Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  I don't need to generate code.
+2023-04-30T05:51:41Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  I need to debug it.
+2023-04-30T05:51:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  Code generators don't debug really well.
+2023-04-30T05:51:56Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  Yeah 
+2023-04-30T05:52:15Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  Tried using chatgpt to help
+2023-04-30T05:52:18Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  It sucked
+2023-04-30T05:52:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  I asked Bing chat to describe me.
+2023-04-30T05:52:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  It claimed that I'm impossible to get a hold of.
+2023-04-30T05:52:46Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  Oh lol
+2023-04-30T05:53:03Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  And that my GitHub and YouTube accounts is not associated with me.
+2023-04-30T05:53:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  *Are.
+2023-04-30T05:53:26Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  Hm
+2023-04-30T05:53:31Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  Bing chat?
+2023-04-30T05:53:38Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  Ive never used it
+2023-04-30T05:54:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  Different sessions yield different results.
+2023-04-30T05:54:14Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  I might need some lua lessons from you
+2023-04-30T05:54:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  Do you live in Southern California?
+2023-04-30T05:54:39Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  I don’t live in the US
+2023-04-30T05:54:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  Or do you plan to visit soon?
+2023-04-30T05:55:03Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  nope, went to miami like 2 weeks ago.
+2023-04-30T05:55:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  I see.
+2023-04-30T05:55:12Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  Dont think ill be going any time soon
+2023-04-30T05:55:37Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  Im trying to make a cafe 
+2023-04-30T05:55:43Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  Almost everything is done
+2023-04-30T05:55:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  I'm not open to teaching Lua like I used to.
+2023-04-30T05:55:48Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  Except the tipping
+2023-04-30T05:55:54Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  and its so confusing
+2023-04-30T05:55:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  My advice is to perform trial and error.
+2023-04-30T05:55:59Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  Oh how so
+2023-04-30T05:56:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  Work on the basic currency mechanism.
+2023-04-30T05:56:27Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  But it requires checking the players inventory for their gamepasses and then Displaying it
+2023-04-30T05:56:36Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  Like pls donate
+2023-04-30T05:56:40Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  How they can claim
+2023-04-30T05:56:45Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  The booth
+2023-04-30T05:56:52Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  In cafe they can claim their register
+2023-04-30T05:56:55Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  To get tips
+2023-04-30T05:57:03Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  You see where im going right
+2023-04-30T05:57:03Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  developer.roblox.com is a good resource for finding out which APIs to use.
+2023-04-30T05:57:15Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  Ill check it out
+2023-04-30T05:57:24Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  They have more information.
+2023-04-30T05:57:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  Is Cent still on?
+2023-04-30T05:57:40Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  Yeah he is afk
+2023-04-30T05:57:43Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  I think
+2023-04-30T05:58:06Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  His screen keeps breaking
+2023-04-30T05:58:10Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  Like roblox
+2023-04-30T05:58:22Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  When it lags
+2023-04-30T05:58:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  He could turn down his graphics, if he hasn't already.
+2023-04-30T05:58:28Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  The screen becomes unresponsive 
+2023-04-30T05:58:44Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  His laptop isn’t the hest
+2023-04-30T05:58:50Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  best*
+2023-04-30T05:58:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  Neither is mine.
+2023-04-30T05:59:11Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  it’s those school ones
+2023-04-30T05:59:17Z: PLAYER ADDED   [  132660996] rileykamead          a.k.a. Riley               
+2023-04-30T05:59:35Z: PLAYER CHATTED [  132660996] rileykamead          (   34.9,    91.4,    42.5)
+  Hello!
+2023-04-30T05:59:40Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  Hello
+2023-04-30T05:59:49Z: PLAYER CHATTED [  132660996] rileykamead          (   52.0,    91.4,    54.5)
+  Wheres 02 053 at?
+2023-04-30T05:59:55Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  Second floor
+2023-04-30T06:00:19Z: PLAYER CHATTED [  132660996] rileykamead          (  130.3,    91.4,   137.2)
+  Do IU take the elevators
+2023-04-30T06:01:22Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  Yo visual ima be going to play som else, im sort of laggy. Ill also be checking the apis
+2023-04-30T06:01:22Z: PLAYER CHATTED [ 1581340012] basenjilover5        (   75.3,   190.4,   140.0)
+  yes
+2023-04-30T06:01:30Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  By any chance do u know the name
+2023-04-30T06:01:30Z: PLAYER REMOVED [ 1540690404] Consumerofwheatx1    a.k.a. Centralized         
+2023-04-30T06:01:34Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  That could help me
+2023-04-30T06:01:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  Take care!
+2023-04-30T06:01:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  I was AFK.
+2023-04-30T06:01:46Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  Oh alr
+2023-04-30T06:02:10Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  I think you just have to look for 'gamepass check roblox'.
+2023-04-30T06:02:13Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  Ill see if i can find it, if not ill ask you ## #### for help.
+2023-04-30T06:02:13Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  Ill see if i can find it, if not ill ask you on disc for help.
+2023-04-30T06:02:16Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  Alright 
+2023-04-30T06:02:20Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  Thanks
+2023-04-30T06:02:24Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   88.4,   190.5,   126.6)
+  Cya
+2023-04-30T06:02:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.5,   190.6,   130.4)
+  Take care, again!
+2023-04-30T06:02:34Z: PLAYER CHATTED [ 1553183757] NoMoreLimbs          (   84.1,   192.9,   125.5)
+  /e wave
+2023-04-30T06:02:37Z: PLAYER REMOVED [ 1553183757] NoMoreLimbs          a.k.a. Untitled            
+2023-04-30T06:02:39Z: PLAYER CHATTED [  132660996] rileykamead          ( -226.2,   100.4,   122.3)
+  OMG AHHHHHHH
+2023-04-30T06:02:51Z: PLAYER CHATTED [    1630228] VisualPlugin         (  110.8,   190.8,   124.7)
+  ¿?
+2023-04-30T06:03:07Z: PLAYER CHATTED [  132660996] rileykamead          ( -246.4,   100.4,   121.5)
+  Theres arat
+2023-04-30T06:03:07Z: PLAYER CHATTED [  132660996] rileykamead          ( -246.4,   100.4,   121.5)
+  Theres  arat
+2023-04-30T06:03:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (  115.6,   190.8,   120.3)
+  Khan it send a RAT?
+2023-04-30T06:03:45Z: PLAYER CHATTED [  132660996] rileykamead          ( -193.3,   100.4,   201.4)
+  Jk
+2023-04-30T06:04:31Z: PLAYER CHATTED [ 1581340012] basenjilover5        (  110.4,   189.2,   114.1)
+  i.ean there is a tank
+2023-04-30T06:04:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (  116.8,   190.8,   116.4)
+  I should be AFK now.
+2023-04-30T06:04:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (  116.8,   190.8,   116.4)
+  Homework.
+2023-04-30T06:06:21Z: PLAYER REMOVED [  132660996] rileykamead          a.k.a. Riley               
+2023-04-30T06:12:17Z: PLAYER CHATTED [ 1581340012] basenjilover5        (  111.5,   189.2,   142.8)
+  /booth
+2023-04-30T06:14:36Z: PLAYER REMOVED [ 1581340012] basenjilover5       
+2023-04-30T06:14:46Z: PLAYER REMOVED [    1630228] VisualPlugin         a.k.a. VisuaIPlugin        
